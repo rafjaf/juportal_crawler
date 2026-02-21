@@ -16,12 +16,20 @@ import {
 const LEGAL_BASES_LABELS = ['Bases légales:', 'Wettelijke bepalingen:'];
 
 /**
- * Fetch and parse a judgement page to determine which abstract goes with which legal basis.
- * Returns an array of { abstract, legalBases: [{article, eli}] }
+ * Download the raw HTML for a judgement page.
+ * Separated from parsing so callers can pre-fetch concurrently while other
+ * work is still in progress.
  */
-export async function parseJudgementPage(judgementUrl) {
+export async function fetchJudgementHtml(judgementUrl) {
   logInfo(`${timestamp()} Downloading judgement page: ${judgementUrl}`);
-  const html = await fetchWithRetry(judgementUrl);
+  return await fetchWithRetry(judgementUrl);
+}
+
+/**
+ * Parse a previously downloaded judgement HTML string and return an array of
+ * fiches: { abstract, legalBases: [{article, eli}], missingEliBases }.
+ */
+export function parseJudgementHtml(html) {
   const $ = cheerio.load(html);
 
   const fiches = [];
@@ -76,8 +84,8 @@ export async function parseJudgementPage(judgementUrl) {
         // only capture the article that follows the date separator.
         // Also handle the unusual case where the trailing "- NN" counter is absent.
         const artGroupMatch =
-          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\w*\s*$/) ||
-          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*$/);
+          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Aa*rtt?\.\s*(.+?)\s*-\s*\d+\w*\s*$/) ||
+          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Aa*rtt?\.\s*(.+?)\s*$/);
         if (artGroupMatch) {
           const articles = parseArticleNumbers(artGroupMatch[1].trim());
           const lawKey = extractLegalBasisKey(text);
@@ -116,4 +124,12 @@ export async function parseJudgementPage(judgementUrl) {
   });
 
   return fiches;
+}
+/**
+ * Convenience wrapper: fetch + parse in one call.
+ * Used by targeted (single-URL) runs that don't need pre-fetching.
+ */
+export async function parseJudgementPage(judgementUrl) {
+  const html = await fetchJudgementHtml(judgementUrl);
+  return parseJudgementHtml(html);
 }

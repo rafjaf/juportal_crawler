@@ -15,6 +15,13 @@ export const PROGRESS_INTERVAL_MS = 5000;
 export const FETCH_TIMEOUT_MS = 30000;
 
 /**
+ * Maximum number of sitemap URLs whose judgement pages can be fetched
+ * concurrently within a single sitemap index. File writes (commits) are
+ * always serialised so there is no risk of data-file corruption.
+ */
+export const SITEMAP_CONCURRENCY = 5;
+
+/**
  * Map Dutch document type names in Belgian ELI paths to their French equivalents.
  * Used to canonicalize all ELI references to the French form.
  */

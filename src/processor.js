@@ -3,31 +3,37 @@ import { logInfo, logWarn, logError, logSuccess, timestamp } from './logger.js';
 import { saveSettings } from './storage.js';
 import { textSimilarity } from './utils.js';
 import { parseSitemapXml } from './sitemap.js';
-import { parseJudgementPage } from './judgement.js';
+import { fetchJudgementHtml, parseJudgementHtml } from './judgement.js';
 import { storeJudgementData, recordMissingEliData } from './data.js';
 
-// ─── Single Sitemap Processing ───────────────────────────────────────────────
+// ─── Phase 1 – Network fetch ─────────────────────────────────────────────────
 
 /**
- * Process one individual sitemap URL.
- * Updates counters in-place. Returns true if the sitemap was fully processed
- * without errors, false if an error occurred (so callers can track partial runs).
- * When markProcessed is true the URL is added to settings.processedSitemaps.
+ * Fetch and parse everything needed for one sitemap URL.
+ * Performs all network I/O but writes nothing to disk.
+ *
+ * Returns a discriminated result object:
+ *   { type: 'error',    message }
+ *   { type: 'empty'  }
+ *   { type: 'skip',    judgement }
+ *   { type: 'no-bases', judgement }
+ *   { type: 'save',    judgement, abstractToBasesMap }
+ *
+ * Multiple calls can run concurrently — there is no shared mutable state here.
  */
-export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+export async function fetchSitemapResult(sitemapUrl) {
+  // ── 1. Parse the sitemap XML (one network round-trip) ─────────────────────
   let judgement;
   try {
     judgement = await parseSitemapXml(sitemapUrl);
   } catch (err) {
     logError(`✖ Failed to parse sitemap ${sitemapUrl}: ${err.message}`);
-    counters.errorCount++;
-    return false;
+    return { type: 'error', message: err.message };
   }
 
   if (!judgement) {
     logWarn(`⚠ Empty sitemap: ${sitemapUrl}`);
-    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
-    return true;
+    return { type: 'empty' };
   }
 
   if (judgement.skipped) {
@@ -35,26 +41,23 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
       ? `court: ${judgement.court}, not CASS`
       : `ECLI: ${judgement.ecli}, not ARR`;
     logInfo(chalk.gray(`${timestamp()}     Skipped (${reason})`));
-    counters.skippedCourt++;
-    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
-    return true;
+    return { type: 'skip', judgement };
   }
 
-  // We have a CASS judgement
+  // ── 2. CASS judgement ─────────────────────────────────────────────────────
   logInfo(`${timestamp()}     ${chalk.bold('CASS')} | ${judgement.ecli} | ${judgement.judgementDate} | ${judgement.roleNumber || 'N/A'}`);
   logInfo(`${timestamp()}     Abstracts: FR=${judgement.abstractsFR.length}, NL=${judgement.abstractsNL.length} | Legal bases: ${judgement.legalBases.length}`);
 
   const xmlMissingEli = judgement.legalBasesWithoutEli || [];
   if (judgement.legalBases.length === 0 && xmlMissingEli.length === 0) {
     logWarn(`⚠ No legal bases found for ${judgement.ecli} — skipping data export`);
-    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
-    return true;
+    return { type: 'no-bases', judgement };
   }
   if (judgement.legalBases.length === 0) {
     logWarn(`⚠ No legal bases with ELI for ${judgement.ecli} — will record ${xmlMissingEli.length} missing ELI entry(s)`);
   }
 
-  // Determine abstract-to-legal-basis mapping
+  // ── 3. Build abstract-to-legal-basis mapping (may need a second HTTP fetch) ─
   let abstractToBasesMap;
   const totalAbstracts = Math.max(judgement.abstractsFR.length, judgement.abstractsNL.length);
 
@@ -62,21 +65,18 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
     let resolvedBases = [...judgement.legalBases];
     let stillMissingEliBases = [...xmlMissingEli];
 
-    // Even for single-abstract judgements, download the HTML page when the XML
-    // is missing ELI links — the HTML often carries them as proper hyperlinks.
+    // Download the HTML page when the XML is missing ELI links — the HTML
+    // often carries them as proper hyperlinks.
     if (xmlMissingEli.length > 0) {
       logInfo(`${timestamp()}     ${chalk.yellow('Missing ELI(s) in XML')} → downloading judgement page to resolve...`);
       try {
-        const fiches = await parseJudgementPage(judgement.judgementUrl);
-        // Flat list of all ELI-resolved bases found on the HTML page
+        const html = await fetchJudgementHtml(judgement.judgementUrl);
+        const fiches = parseJudgementHtml(html);
         const htmlBases = fiches.flatMap(f => f.legalBases);
         const resolvedFromHtml = [];
         const stillMissing = [];
 
         for (const missing of xmlMissingEli) {
-          // Match by article number against HTML-resolved bases.
-          // This works well when each article number in the judgment is unique
-          // across laws; ambiguous cases remain in stillMissing.
           const htmlMatch = htmlBases.find(hb =>
             hb.eli && hb.article === missing.article
           );
@@ -109,7 +109,8 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
   } else {
     logInfo(`${timestamp()}     ${chalk.yellow('Multiple abstracts detected')} → downloading judgement page for precise mapping...`);
     try {
-      const fiches = await parseJudgementPage(judgement.judgementUrl);
+      const html = await fetchJudgementHtml(judgement.judgementUrl);
+      const fiches = parseJudgementHtml(html);
       const fichesWithData = fiches.filter(f => (f.legalBases.length > 0) || (f.missingEliBases && f.missingEliBases.length > 0));
 
       if (fichesWithData.length === 0) {
@@ -172,6 +173,45 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
     }
   }
 
+  return { type: 'save', judgement, abstractToBasesMap };
+}
+
+// ─── Phase 2 – Serialised commit (disk writes) ───────────────────────────────
+
+/**
+ * Write the result from fetchSitemapResult to disk and update counters.
+ * MUST be called from a SerialQueue to prevent concurrent read-modify-write
+ * races on the same ELI data files.
+ *
+ * Updates counters in-place. Returns true on success, false on error.
+ * When markProcessed is true the URL is pushed to settings.processedSitemaps.
+ */
+export function commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+  const markDone = () => {
+    if (markProcessed) {
+      settings.processedSitemaps.push(sitemapUrl);
+      saveSettings(settings);
+    }
+  };
+
+  if (result.type === 'error') {
+    counters.errorCount++;
+    return false;
+  }
+
+  if (result.type === 'empty' || result.type === 'no-bases') {
+    markDone();
+    return true;
+  }
+
+  if (result.type === 'skip') {
+    counters.skippedCourt++;
+    markDone();
+    return true;
+  }
+
+  // type === 'save'
+  const { judgement, abstractToBasesMap } = result;
   recordMissingEliData(judgement, abstractToBasesMap);
 
   try {
@@ -184,6 +224,20 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
     return false;
   }
 
-  if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
+  markDone();
   return true;
 }
+
+// ─── Convenience wrapper (used by targeted single-URL runs) ─────────────────
+
+/**
+ * Sequential fetch + commit in one call.
+ * Used for targeted runs (node index.js <url>) where concurrency is not needed.
+ * Updates counters in-place. Returns true on success, false on error.
+ * When markProcessed is true the URL is added to settings.processedSitemaps.
+ */
+export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+  const result = await fetchSitemapResult(sitemapUrl);
+  return commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed });
+}
+

@@ -28,6 +28,7 @@ class ProgressTracker {
     this._sitemapTimes = [];      // ms durations for each sitemap
     this._sitemapsPerIndex = [];  // sitemap counts for each completed index
     this._sitemapStart = null;    // Date.now() when the last sitemap started
+    this._concurrency = 1;        // parallel fetch factor (set via configure)
 
     this._crawlStart = Date.now();
     this._rendered = false;       // whether a bar line is currently on stderr
@@ -38,10 +39,12 @@ class ProgressTracker {
   /**
    * @param {number} totalIndexes   - full count including already-processed ones
    * @param {number} pendingIndexes - count of indexes that will actually be worked
+   * @param {number} [concurrency]  - number of sitemaps fetched in parallel (default 1)
    */
-  configure(totalIndexes, pendingIndexes) {
+  configure(totalIndexes, pendingIndexes, concurrency = 1) {
     this.totalIndexes = totalIndexes;
     this._pendingIndexes = pendingIndexes;
+    this._concurrency = Math.max(1, concurrency);
     // Pre-fill doneIndexes with the already-skipped count so the bar starts
     // at the right position rather than at zero.
     this.doneIndexes = totalIndexes - pendingIndexes;
@@ -69,17 +72,28 @@ class ProgressTracker {
 
   // ── Sitemap lifecycle ──────────────────────────────────────────────────────
 
+  /**
+   * Record the wall-clock duration of one sitemap's fetch phase and
+   * trigger a progress re-render.  Call once per sitemap after it completes.
+   * @param {number} ms - elapsed milliseconds for the fetch (not including
+   *   serialisation queue wait time, which is an artefact of concurrency).
+   */
+  recordSitemapTime(ms) {
+    this._sitemapTimes.push(ms);
+    this.render();
+  }
+
+  // Legacy sequential hooks — kept so targeted-run callers don't break.
   beginSitemap() {
     this._sitemapStart = Date.now();
   }
 
   endSitemap() {
     if (this._sitemapStart !== null) {
-      this._sitemapTimes.push(Date.now() - this._sitemapStart);
+      this.recordSitemapTime(Date.now() - this._sitemapStart);
       this._sitemapStart = null;
     }
     this.currentIndexDone++;
-    this.render();
   }
 
   // ── Rendering ──────────────────────────────────────────────────────────────
@@ -132,15 +146,19 @@ class ProgressTracker {
       estimatedSitemaps += remainingIndexes * avgPerIdx;
     }
 
-    return estimatedSitemaps * avgMs;
+    // With concurrency C, C sitemaps are processed simultaneously, so the
+    // effective wall-clock time is divided by C.
+    return (estimatedSitemaps * avgMs) / this._concurrency;
   }
 
   _formatDuration(ms) {
     if (ms === null || ms < 0) return '—';
     const totalSec = Math.round(ms / 1000);
-    const h = Math.floor(totalSec / 3600);
+    const d = Math.floor(totalSec / 86400);
+    const h = Math.floor((totalSec % 86400) / 3600);
     const m = Math.floor((totalSec % 3600) / 60);
     const s = totalSec % 60;
+    if (d > 0) return `${d}d${String(h).padStart(2, '0')}h${String(m).padStart(2, '0')}m${String(s).padStart(2, '0')}s`;
     if (h > 0) return `${h}h${String(m).padStart(2, '0')}m${String(s).padStart(2, '0')}s`;
     if (m > 0) return `${m}m${String(s).padStart(2, '0')}s`;
     return `${s}s`;

@@ -14,9 +14,11 @@ import chalk from 'chalk';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
 import { ensureDataDir, loadSettings, saveSettings } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
-import { processSingleSitemapUrl } from './src/processor.js';
+import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
 import { progress } from './src/progress.js';
+import { SITEMAP_CONCURRENCY } from './src/constants.js';
+import { Semaphore, SerialQueue } from './src/concurrency.js';
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
 
@@ -95,7 +97,7 @@ async function main() {
   const pendingIndexCount = sitemapIndexUrls.filter(
     url => !settings.processedSitemapIndexes.includes(url)
   ).length;
-  progress.configure(totalSitemapIndexes, pendingIndexCount);
+  progress.configure(totalSitemapIndexes, pendingIndexCount, SITEMAP_CONCURRENCY);
 
   let processedCount = 0;
   let skippedCourt = 0;
@@ -132,9 +134,15 @@ async function main() {
 
     let indexFullyProcessed = true;
 
-    // Step 4: Process each individual sitemap
+    // Step 4: Fetch up to SITEMAP_CONCURRENCY sitemaps in parallel while
+    // serialising all disk writes through a queue to prevent file races.
+    const sem = new Semaphore(SITEMAP_CONCURRENCY);
+    const serialQ = new SerialQueue();
+    const sitemapPromises = [];
+
     for (let i = 0; i < sitemapUrls.length; i++) {
       const sitemapUrl = sitemapUrls[i];
+      const sitemapIdx = i;
 
       // Check if already processed
       if (settings.processedSitemaps.includes(sitemapUrl)) {
@@ -142,17 +150,38 @@ async function main() {
         continue;
       }
 
-      logInfo(`${timestamp()}   [${i + 1}/${sitemapUrls.length}] Processing sitemap: ${sitemapUrl}`);
+      const p = (async () => {
+        // Acquire a slot — blocks until fewer than SITEMAP_CONCURRENCY fetches
+        // are in-flight.
+        await sem.acquire();
+        logInfo(`${timestamp()}   [${sitemapIdx + 1}/${sitemapUrls.length}] Fetching: ${sitemapUrl}`);
+        let result;
+        const fetchStart = Date.now();
+        try {
+          result = await fetchSitemapResult(sitemapUrl);
+        } finally {
+          sem.release();
+        }
+        const fetchMs = Date.now() - fetchStart;
 
-      progress.beginSitemap();
-      const counters = { skippedCourt, savedJudgements, errorCount };
-      const ok = await processSingleSitemapUrl(sitemapUrl, settings, counters);
-      progress.endSitemap();
-      skippedCourt = counters.skippedCourt;
-      savedJudgements = counters.savedJudgements;
-      errorCount = counters.errorCount;
-      if (!ok) indexFullyProcessed = false;
+        // Commits are serialised so concurrent fetches never race on disk.
+        await serialQ.enqueue(() => {
+          const count = { skippedCourt, savedJudgements, errorCount };
+          const ok = commitSitemapResult(result, sitemapUrl, settings, count);
+          skippedCourt = count.skippedCourt;
+          savedJudgements = count.savedJudgements;
+          errorCount = count.errorCount;
+          if (!ok) indexFullyProcessed = false;
+          progress.currentIndexDone++;
+          progress.recordSitemapTime(fetchMs);
+        });
+      })();
+
+      sitemapPromises.push(p);
     }
+
+    // Wait for all sitemaps in this index to complete.
+    await Promise.all(sitemapPromises);
 
     // Mark sitemap index as processed (only if all sitemaps succeeded)
     if (indexFullyProcessed) {
