@@ -24,6 +24,7 @@ const __dirname = path.dirname(__filename);
 
 const ROBOTS_TXT_URL = 'https://juportal.be/robots.txt';
 const SETTINGS_FILE = path.join(__dirname, 'settings.json');
+const MISSING_ELI_FILE = path.join(__dirname, 'missing_eli.json');
 const DATA_DIR = path.join(__dirname, 'data');
 const MAX_RETRIES = 10;
 const RETRY_DELAY_MS = 5000;
@@ -139,6 +140,47 @@ function loadDataFile(filename) {
 function saveDataFile(filename, data) {
   const filePath = path.join(DATA_DIR, filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+// ─── Missing ELI File Management ────────────────────────────────────────────
+
+function loadMissingEliFile() {
+  try {
+    if (fs.existsSync(MISSING_ELI_FILE)) {
+      return JSON.parse(fs.readFileSync(MISSING_ELI_FILE, 'utf-8'));
+    }
+  } catch (err) {
+    logWarn(`⚠ Could not read missing_eli.json, starting fresh: ${err.message}`);
+  }
+  return {};
+}
+
+function saveMissingEliFile(data) {
+  fs.writeFileSync(MISSING_ELI_FILE, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+function appendMissingEli(rawLegalBasisText, element) {
+  const data = loadMissingEliFile();
+  const key = rawLegalBasisText;
+  if (!data[key]) {
+    data[key] = {
+      eli: null,
+      elements: [],
+    };
+  }
+
+  const duplicate = data[key].elements.some(existing => (
+    existing.ecli === element.ecli
+    && existing.article === element.article
+    && existing.url === element.url
+    && existing.abstractFR === element.abstractFR
+    && existing.abstractNL === element.abstractNL
+  ));
+
+  if (!duplicate) {
+    data[key].elements.push(element);
+  }
+  saveMissingEliFile(data);
 }
 
 // ─── HTTP Fetch with Retry ───────────────────────────────────────────────────
@@ -294,6 +336,11 @@ async function parseSitemapXml(sitemapUrl) {
   // ─── ECLI ───
   const ecli = isVersionOf?.$?.value || isVersionOf?.value;
 
+  // Skip conclusions (CONC); only process judgements (ARR)
+  if (!ecli || !ecli.includes('ARR')) {
+    return { skipped: true, court, ecli };
+  }
+
   // ─── Date ───
   const judgementDate = meta.date;
 
@@ -334,7 +381,8 @@ async function parseSitemapXml(sitemapUrl) {
 
   // ─── References: role number, legal bases with ELI ───
   let roleNumber = null;
-  const legalBases = []; // { article, eli }
+  const legalBases = []; // { article, eli } — resolved
+  const legalBasesWithoutEli = []; // { article, rawText } — ELI absent in XML
   
   const rawRefs = meta.reference;
   if (rawRefs) {
@@ -344,6 +392,7 @@ async function parseSitemapXml(sitemapUrl) {
     // We need to track the current "law" group to associate articles with their ELI
     let currentArticles = []; // articles pending an ELI assignment
     let currentLawKey = null; // the law descriptor to group articles
+    const lawKeyEliCache = {}; // lawKey → last ELI seen for that law (handles repeated articles without repeated ELI)
     
     for (const ref of refs) {
       const type = ref?.$?.type;
@@ -363,6 +412,7 @@ async function parseSitemapXml(sitemapUrl) {
           // This is a non-ELI law URL (e.g. ejustice.just.fgov.be/cgi_loi/...)
           // Treat it similarly to an ELI for the pending articles
           if (currentArticles.length > 0) {
+            if (currentLawKey) lawKeyEliCache[currentLawKey] = text;
             for (const art of currentArticles) {
               art.eli = text;
             }
@@ -370,6 +420,20 @@ async function parseSitemapXml(sitemapUrl) {
             currentArticles = [];
             currentLawKey = null;
           }
+          continue;
+        }
+
+        // Detect general legal principles: no ELI, no article number, no law date.
+        // e.g. "Principe général du droit van ...", "Algemeen rechtsbeginsel van ..."
+        if (/^(Principe général du droit|Algemeen rechtsbeginsel)\b/i.test(text)) {
+          // Flush any pending articles for the previous law group first
+          if (currentArticles.length > 0) {
+            legalBasesWithoutEli.push(...currentArticles.map(a => ({ article: a.article, rawLegalBasisText: extractLegalBasisKey(a.rawText) })));
+            currentArticles = [];
+            currentLawKey = null;
+          }
+          logInfo(chalk.gray(`${timestamp()}       Legal principle (XML) | raw="${text}" | no ELI`));
+          legalBasesWithoutEli.push({ article: null, rawLegalBasisText: text });
           continue;
         }
 
@@ -384,17 +448,26 @@ async function parseSitemapXml(sitemapUrl) {
           // Build a law identifier key
           const newLawKey = lawName;
           
+          logInfo(chalk.gray(`${timestamp()}       Legal basis (XML) | raw="${text}" | articles=[${articles.join(', ')}] | awaiting ELI`));
+
           if (newLawKey !== currentLawKey) {
-            // New law group - if we had pending articles without ELI, save them
+            // New law group — flush previous articles that never received an ELI.
+            // If the same law key appeared earlier and its ELI is cached, reuse it.
             if (currentArticles.length > 0) {
-              legalBases.push(...currentArticles);
+              const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
+              if (cachedEli) {
+                for (const a of currentArticles) { a.eli = cachedEli; }
+                legalBases.push(...currentArticles);
+              } else {
+                legalBasesWithoutEli.push(...currentArticles.map(a => ({ article: a.article, rawLegalBasisText: extractLegalBasisKey(a.rawText) })));
+              }
             }
             currentArticles = [];
             currentLawKey = newLawKey;
           }
           
           for (const art of articles) {
-            currentArticles.push({ article: art, eli: null, lang: lang || 'fr' });
+            currentArticles.push({ article: art, eli: null, lang: lang || 'fr', rawText: text });
           }
           continue;
         }
@@ -403,6 +476,7 @@ async function parseSitemapXml(sitemapUrl) {
       if (type === 'ELI') {
         // This ELI applies to all currentArticles
         if (currentArticles.length > 0) {
+          if (currentLawKey) lawKeyEliCache[currentLawKey] = text;
           for (const art of currentArticles) {
             art.eli = text;
           }
@@ -414,9 +488,16 @@ async function parseSitemapXml(sitemapUrl) {
       }
     }
 
-    // Flush remaining articles (those without an ELI)
+    // Flush remaining articles (those without an ELI).
+    // Reuse the cached ELI for the law key if available.
     if (currentArticles.length > 0) {
-      legalBases.push(...currentArticles);
+      const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
+      if (cachedEli) {
+        for (const a of currentArticles) { a.eli = cachedEli; }
+        legalBases.push(...currentArticles);
+      } else {
+        legalBasesWithoutEli.push(...currentArticles.map(a => ({ article: a.article, rawLegalBasisText: extractLegalBasisKey(a.rawText) })));
+      }
     }
   }
 
@@ -456,6 +537,7 @@ async function parseSitemapXml(sitemapUrl) {
     abstractsFR,
     abstractsNL,
     legalBases: uniqueBases,
+    legalBasesWithoutEli,
   };
 }
 
@@ -464,23 +546,50 @@ async function parseSitemapXml(sitemapUrl) {
  * Returns an array of article strings.
  */
 function parseArticleNumbers(raw) {
-  // The raw string is everything between "Art." and the trailing "- NN" number
-  // Examples: "23", "23/1", "2, § 1er", "149, alinéa 1er", "1382"
-  // We treat it as a single article reference (commas are part of the article ref)
-  // unless there are clear separators like " et " or " en "
-  return [normalizeArticleNumber(raw.trim())];
+  const text = normalizeWhitespace(raw || '');
+  if (!text) return [];
+
+  // Split multi-article references like "26 et 31" / "26 en 31".
+  // The lookahead (?=[0-9]) ensures we only split when the second part
+  // actually starts with a digit — prevents splitting sub-paragraph
+  // descriptions like "eerste en zesde lid" or "tot en met 216septies".
+  const chunks = text
+    .split(/\s+(?:et|en)\s+(?=[0-9])/i)
+    .map(chunk => normalizeArticleNumber(chunk))
+    .filter(Boolean);
+
+  // Keep unique values in original order
+  return [...new Set(chunks)];
 }
 
 /**
  * Normalize an article reference to its base number only.
  * Strips sub-paragraph qualifiers (§ N, alinéa, lid, .digit, etc.).
+ * Returns an empty string if the input does not start with a digit
+ * (so callers can filter out non-article fragments like "zesde lid").
  * Examples: "14, § 7" → "14", "14.7" → "14", "235bis" → "235bis", "23/1" → "23/1"
  */
 function normalizeArticleNumber(art) {
-  return art
+  const normalized = art
     .replace(/,.*$/, '')       // "14, § 7" → "14"
     .replace(/\.([0-9]).*$/, '') // "14.7" → "14"
     .trim();
+
+  const match = normalized.match(/^([0-9]+(?:\/[0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  return match ? match[1] : ''; // return '' for non-numeric fragments so they get filtered out
+}
+
+/**
+ * Extract a "Law Name - DD-MM-YYYY" key from a full reference text.
+ * Used as the grouping key in missing_eli.json so that all articles of
+ * the same law are collected under one entry.
+ * e.g. "Gerechtelijk Wetboek - 10-10-1967 - Art. 1068, tweede lid - 30"
+ *   → "Gerechtelijk Wetboek - 10-10-1967"
+ */
+function extractLegalBasisKey(text) {
+  if (!text) return text;
+  const match = text.match(/^(.*?-\s*\d{2}-\d{2}-\d{4})/);
+  return match ? match[1].trim() : text;
 }
 
 /**
@@ -532,147 +641,6 @@ function normalizeCgiUrl(url) {
   }
 }
 
-/**
- * Migrate any NL-language ELI data files into their French equivalents.
- * Called once at startup to consolidate data from previous runs.
- */
-function migrateNlEliFiles() {
-  if (!fs.existsSync(DATA_DIR)) return;
-
-  const files = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-  let migrated = 0;
-
-  for (const filename of files) {
-    // Filenames: eli_<doctype>_YYYY_MM_DD_<id>_justel.json
-    const withoutExt = filename.slice(0, -5);
-    const parts = withoutExt.split('_');
-
-    if (parts[0] !== 'eli' || parts.length < 3) continue;
-
-    const docType = parts[1];
-    const normalizedType = ELI_TYPE_NL_TO_FR[docType];
-    if (!normalizedType) continue; // already French or unknown type
-
-    const normalizedFilename = `eli_${normalizedType}_${parts.slice(2).join('_')}.json`;
-    if (normalizedFilename === filename) continue; // no change needed
-
-    // Merge NL file into FR file, combining abstract arrays from both
-    const nlData = loadDataFile(filename);
-    const frData = loadDataFile(normalizedFilename);
-
-    for (const [article, ecliMap] of Object.entries(nlData)) {
-      if (!frData[article]) frData[article] = {};
-      for (const [ecli, nlJudgement] of Object.entries(ecliMap)) {
-        if (!frData[article][ecli]) {
-          frData[article][ecli] = nlJudgement;
-        } else {
-          // Both sides may have abstracts — keep all unique values
-          const fr = frData[article][ecli];
-          const nlFR = Array.isArray(nlJudgement.abstractFR) ? nlJudgement.abstractFR : (nlJudgement.abstractFR ? [nlJudgement.abstractFR] : []);
-          const nlNL = Array.isArray(nlJudgement.abstractNL) ? nlJudgement.abstractNL : (nlJudgement.abstractNL ? [nlJudgement.abstractNL] : []);
-          for (const abs of nlFR) fr.abstractFR = mergeAbstractArrays(fr.abstractFR, abs);
-          for (const abs of nlNL) fr.abstractNL = mergeAbstractArrays(fr.abstractNL, abs);
-        }
-      }
-    }
-
-    saveDataFile(normalizedFilename, frData);
-    fs.unlinkSync(path.join(DATA_DIR, filename));
-    migrated++;
-    logSuccess(`✔ Migrated ${filename} → ${normalizedFilename}`);
-  }
-
-  if (migrated > 0) {
-    logSuccess(`✔ Migrated ${migrated} NL ELI data file(s) to FR equivalents`);
-  }
-}
-
-/**
- * Convert legacy scalar abstract values (string | null) to arrays in all data files.
- * Safe to run repeatedly — already-array values are left untouched.
- */
-function migrateAbstractsToArrays() {
-  if (!fs.existsSync(DATA_DIR)) return;
-
-  const files = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-  let migrated = 0;
-
-  for (const filename of files) {
-    const data = loadDataFile(filename);
-    let changed = false;
-
-    for (const ecliMap of Object.values(data)) {
-      for (const judgement of Object.values(ecliMap)) {
-        if (typeof judgement.abstractFR === 'string') {
-          judgement.abstractFR = [judgement.abstractFR];
-          changed = true;
-        }
-        if (typeof judgement.abstractNL === 'string') {
-          judgement.abstractNL = [judgement.abstractNL];
-          changed = true;
-        }
-      }
-    }
-
-    if (changed) {
-      saveDataFile(filename, data);
-      migrated++;
-    }
-  }
-
-  if (migrated > 0) {
-    logSuccess(`✔ Migrated ${migrated} data file(s): converted scalar abstracts to arrays`);
-  }
-}
-
-/**
- * Normalize article keys in existing data files (apply normalizeArticleNumber).
- * Merges entries with equivalent article keys (e.g. "14, § 7" and "14.7" → "14").
- * Safe to run repeatedly.
- */
-function migrateArticleKeys() {
-  if (!fs.existsSync(DATA_DIR)) return;
-
-  const files = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-  let migrated = 0;
-
-  for (const filename of files) {
-    const data = loadDataFile(filename);
-    const normalized = {};
-    let changed = false;
-
-    for (const [article, ecliMap] of Object.entries(data)) {
-      const normArticle = normalizeArticleNumber(article);
-      if (normArticle !== article) changed = true;
-
-      if (!normalized[normArticle]) {
-        normalized[normArticle] = {};
-      }
-      // Merge ecliMap into normalized[normArticle], combining abstract arrays
-      for (const [ecli, judgement] of Object.entries(ecliMap)) {
-        if (!normalized[normArticle][ecli]) {
-          normalized[normArticle][ecli] = judgement;
-        } else {
-          const existing = normalized[normArticle][ecli];
-          const nlFR = Array.isArray(judgement.abstractFR) ? judgement.abstractFR : (judgement.abstractFR ? [judgement.abstractFR] : []);
-          const nlNL = Array.isArray(judgement.abstractNL) ? judgement.abstractNL : (judgement.abstractNL ? [judgement.abstractNL] : []);
-          for (const abs of nlFR) existing.abstractFR = mergeAbstractArrays(existing.abstractFR, abs);
-          for (const abs of nlNL) existing.abstractNL = mergeAbstractArrays(existing.abstractNL, abs);
-        }
-      }
-    }
-
-    if (changed) {
-      saveDataFile(filename, normalized);
-      migrated++;
-    }
-  }
-
-  if (migrated > 0) {
-    logSuccess(`✔ Migrated ${migrated} data file(s): normalized article keys`);
-  }
-}
-
 // ─── Judgement Page Parsing ──────────────────────────────────────────────────
 
 /**
@@ -706,6 +674,7 @@ async function parseJudgementPage(judgementUrl) {
 
     // Extract legal bases from "Bases légales:" / "Wettelijke bepalingen:" rows
     const basesLegales = [];
+    const missingEliBases = [];
     $fieldset.find('tr').each((_, tr) => {
       const $tr = $(tr);
       const $labelTd = $tr.find('td').first();
@@ -734,15 +703,39 @@ async function parseJudgementPage(judgementUrl) {
           if (cgiHref) eliLink = normalizeCgiUrl(cgiHref);
         }
 
-        if (!text || !eliLink) continue;
+        // Extract article number from the text.
+        // Use a date-anchored pattern to skip any "Art." that appears inside
+        // the law title (e.g. "Boek II (Art. 137 tot en met 216septies)") and
+        // only capture the article that follows the date separator.
+        // Also handle the unusual case where the trailing "- NN" counter is absent.
+        const artGroupMatch =
+          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\s*$/) ||
+          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*$/);
+        if (artGroupMatch) {
+          const articles = parseArticleNumbers(artGroupMatch[1].trim());
+          const lawKey = extractLegalBasisKey(text);
+          logInfo(chalk.gray(`${timestamp()}       Legal basis parsed | raw="${text}" | articles=[${articles.join(', ')}] | eli=${eliLink || 'MISSING'}`));
 
-        // Extract article number from the text
-        // Matches patterns like: "Art. 23/1 - 35" or "Art. 40, tweede en vierde lid - 01"
-        const artMatch = text.match(/Art\.\s*(.+?)\s*-\s*\d+/);
-        if (artMatch) {
-          const articles = parseArticleNumbers(artMatch[1].trim());
+          if (!eliLink) {
+            for (const art of articles) {
+              missingEliBases.push({
+                article: art,
+                rawLegalBasisText: lawKey,
+              });
+            }
+            continue;
+          }
+
           for (const art of articles) {
             basesLegales.push({ article: art, eli: eliLink });
+          }
+        } else if (text) {
+          // Detect general legal principles: no date, no Art., no ELI
+          if (/^(Principe général du droit|Algemeen rechtsbeginsel)\b/i.test(text)) {
+            logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
+            missingEliBases.push({ article: null, rawLegalBasisText: text });
+          } else {
+            logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
           }
         }
       }
@@ -751,6 +744,7 @@ async function parseJudgementPage(judgementUrl) {
     fiches.push({
       abstract: abstractText,
       legalBases: basesLegales,
+      missingEliBases,
     });
   });
 
@@ -812,9 +806,234 @@ function storeJudgementData(judgement, abstractToBasesMap) {
         abstractNL: mergeAbstractArrays(existing.abstractNL, entry.abstractNL),
       };
 
+      logInfo(chalk.gray(`${timestamp()}       Saved | article="${base.article}" | ${filename} | ecli=${judgement.ecli}`));
       saveDataFile(filename, data);
     }
   }
+}
+
+function recordMissingEliData(judgement, abstractToBasesMap) {
+  let recorded = 0;
+
+  for (const entry of abstractToBasesMap) {
+    if (!entry.missingEliBases || entry.missingEliBases.length === 0) continue;
+
+    for (const missing of entry.missingEliBases) {
+      appendMissingEli(missing.rawLegalBasisText, {
+        ecli: judgement.ecli,
+        court: judgement.court,
+        date: judgement.judgementDate,
+        roleNumber: judgement.roleNumber,
+        url: judgement.judgementUrl,
+        article: missing.article,
+        abstractFR: entry.abstractFR || null,
+        abstractNL: entry.abstractNL || null,
+      });
+      recorded++;
+    }
+  }
+
+  if (recorded > 0) {
+    logWarn(`⚠ Recorded ${recorded} legal basis element(s) without ELI into missing_eli.json`);
+  }
+}
+
+function normalizeLegalBasisEli(eli) {
+  if (!eli) return null;
+  if (eli.includes('/eli/')) return normalizeEliToFrench(eli);
+  if (eli.startsWith('http://') || eli.startsWith('https://')) return normalizeCgiUrl(eli);
+  return null;
+}
+
+function processMissingEliFile() {
+  const missing = loadMissingEliFile();
+  const keys = Object.keys(missing);
+
+  if (keys.length === 0) {
+    logInfo(`${timestamp()} No missing ELI entries found in missing_eli.json`);
+    return;
+  }
+
+  let processedKeys = 0;
+  let reintegratedElements = 0;
+
+  for (const key of keys) {
+    const item = missing[key];
+    if (!item || !Array.isArray(item.elements) || item.elements.length === 0) continue;
+    if (!item.eli) continue;
+
+    const normalizedEli = normalizeLegalBasisEli(item.eli);
+    if (!normalizedEli) {
+      logWarn(`⚠ Invalid ELI/URL for missing key "${key}": ${item.eli}`);
+      continue;
+    }
+
+    for (const element of item.elements) {
+      const judgement = {
+        ecli: element.ecli,
+        court: element.court,
+        judgementDate: element.date,
+        roleNumber: element.roleNumber,
+        judgementUrl: element.url,
+      };
+
+      storeJudgementData(judgement, [{
+        abstractFR: element.abstractFR || null,
+        abstractNL: element.abstractNL || null,
+        legalBases: [{ article: normalizeArticleNumber(element.article || ''), eli: normalizedEli }],
+      }]);
+
+      reintegratedElements++;
+    }
+
+    item.elements = [];
+    processedKeys++;
+  }
+
+  saveMissingEliFile(missing);
+  logSuccess(`✔ Processed missing_eli.json: ${processedKeys} key(s), ${reintegratedElements} element(s) reintegrated`);
+}
+
+// ─── Single Sitemap Processing ───────────────────────────────────────────────
+
+/**
+ * Process one individual sitemap URL.
+ * Updates counters in-place. Returns true if the sitemap was fully processed
+ * without errors, false if an error occurred (so callers can track partial runs).
+ * When markProcessed is true the URL is added to settings.processedSitemaps.
+ */
+async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+  let judgement;
+  try {
+    judgement = await parseSitemapXml(sitemapUrl);
+  } catch (err) {
+    logError(`✖ Failed to parse sitemap ${sitemapUrl}: ${err.message}`);
+    counters.errorCount++;
+    return false;
+  }
+
+  if (!judgement) {
+    logWarn(`⚠ Empty sitemap: ${sitemapUrl}`);
+    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
+    return true;
+  }
+
+  if (judgement.skipped) {
+    const reason = judgement.court !== 'CASS'
+      ? `court: ${judgement.court}, not CASS`
+      : `ECLI: ${judgement.ecli}, not ARR`;
+    logInfo(chalk.gray(`${timestamp()}     Skipped (${reason})`));
+    counters.skippedCourt++;
+    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
+    return true;
+  }
+
+  // We have a CASS judgement
+  logInfo(`${timestamp()}     ${chalk.bold('CASS')} | ${judgement.ecli} | ${judgement.judgementDate} | ${judgement.roleNumber || 'N/A'}`);
+  logInfo(`${timestamp()}     Abstracts: FR=${judgement.abstractsFR.length}, NL=${judgement.abstractsNL.length} | Legal bases: ${judgement.legalBases.length}`);
+
+  const xmlMissingEli = judgement.legalBasesWithoutEli || [];
+  if (judgement.legalBases.length === 0 && xmlMissingEli.length === 0) {
+    logWarn(`⚠ No legal bases found for ${judgement.ecli} — skipping data export`);
+    if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
+    return true;
+  }
+  if (judgement.legalBases.length === 0) {
+    logWarn(`⚠ No legal bases with ELI for ${judgement.ecli} — will record ${xmlMissingEli.length} missing ELI entry(s)`);
+  }
+
+  // Determine abstract-to-legal-basis mapping
+  let abstractToBasesMap;
+  const totalAbstracts = Math.max(judgement.abstractsFR.length, judgement.abstractsNL.length);
+
+  if (totalAbstracts <= 1) {
+    abstractToBasesMap = [{
+      abstractFR: judgement.abstractsFR[0] || null,
+      abstractNL: judgement.abstractsNL[0] || null,
+      legalBases: judgement.legalBases,
+      missingEliBases: xmlMissingEli,
+    }];
+    logInfo(chalk.gray(`${timestamp()}     Single abstract → all legal bases share it`));
+  } else {
+    logInfo(`${timestamp()}     ${chalk.yellow('Multiple abstracts detected')} → downloading judgement page for precise mapping...`);
+    try {
+      const fiches = await parseJudgementPage(judgement.judgementUrl);
+      const fichesWithData = fiches.filter(f => (f.legalBases.length > 0) || (f.missingEliBases && f.missingEliBases.length > 0));
+
+      if (fichesWithData.length === 0) {
+        logWarn(`⚠ No fiches with legal bases found on judgement page for ${judgement.ecli}`);
+        logWarn(`  Falling back: assigning all abstracts to all legal bases`);
+        abstractToBasesMap = [{
+          abstractFR: judgement.abstractsFR.join(' | '),
+          abstractNL: judgement.abstractsNL.join(' | '),
+          legalBases: judgement.legalBases,
+          missingEliBases: [],
+        }];
+      } else {
+        abstractToBasesMap = [];
+        const usedFR = new Set();
+        const usedNL = new Set();
+
+        for (const fiche of fichesWithData) {
+          const ficheAbstract = fiche.abstract;
+          let bestIdx = null;
+          let bestScore = 0;
+
+          for (let fi = 0; fi < judgement.abstractsFR.length; fi++) {
+            if (usedFR.has(fi)) continue;
+            const score = textSimilarity(ficheAbstract, judgement.abstractsFR[fi]);
+            if (score > bestScore) { bestScore = score; bestIdx = fi; }
+          }
+          for (let ni = 0; ni < judgement.abstractsNL.length; ni++) {
+            if (usedNL.has(ni)) continue;
+            const score = textSimilarity(ficheAbstract, judgement.abstractsNL[ni]);
+            if (score > bestScore) { bestScore = score; bestIdx = ni; }
+          }
+
+          let abstractFR = null;
+          let abstractNL = null;
+          if (bestIdx !== null && bestScore > 0.2) {
+            if (bestIdx < judgement.abstractsFR.length) { abstractFR = judgement.abstractsFR[bestIdx]; usedFR.add(bestIdx); }
+            if (bestIdx < judgement.abstractsNL.length) { abstractNL = judgement.abstractsNL[bestIdx]; usedNL.add(bestIdx); }
+          } else {
+            logWarn(`⚠ Low confidence abstract match (score=${bestScore.toFixed(2)}) for fiche in ${judgement.ecli}`);
+          }
+
+          abstractToBasesMap.push({
+            abstractFR,
+            abstractNL,
+            legalBases: fiche.legalBases,
+            missingEliBases: fiche.missingEliBases || [],
+          });
+        }
+        logSuccess(`✔ Parsed ${fiches.length} fiches (${fichesWithData.length} with legal bases data) from judgement page`);
+      }
+    } catch (err) {
+      logError(`✖ Failed to download judgement page for ${judgement.ecli}: ${err.message}`);
+      logWarn(`  Falling back: assigning all abstracts to all legal bases`);
+      abstractToBasesMap = [{
+        abstractFR: judgement.abstractsFR.join(' | '),
+        abstractNL: judgement.abstractsNL.join(' | '),
+        legalBases: judgement.legalBases,
+        missingEliBases: [],
+      }];
+    }
+  }
+
+  recordMissingEliData(judgement, abstractToBasesMap);
+
+  try {
+    storeJudgementData(judgement, abstractToBasesMap);
+    counters.savedJudgements++;
+    logSuccess(`✔ Saved data for ${judgement.ecli}`);
+  } catch (err) {
+    logError(`✖ Failed to save data for ${judgement.ecli}: ${err.message}`);
+    counters.errorCount++;
+    return false;
+  }
+
+  if (markProcessed) { settings.processedSitemaps.push(sitemapUrl); saveSettings(settings); }
+  return true;
 }
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
@@ -825,14 +1044,45 @@ async function main() {
   console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝\n'));
 
   ensureDataDir();
-  const settings = loadSettings();
 
-  // Migrate any NL ELI data files created by previous runs to their FR equivalents
-  migrateNlEliFiles();
-  // Migrate any legacy scalar abstract values to arrays
-  migrateAbstractsToArrays();
-  // Normalize article keys (strip sub-paragraph qualifiers, deduplicate)
-  migrateArticleKeys();
+  if (process.argv.includes('--process-missing-eli')) {
+    processMissingEliFile();
+    return;
+  }
+
+  // If a URL is passed as an argument, process only that sitemap or sitemap index.
+  // The already-processed check is bypassed; settings are NOT updated.
+  const targetUrl = process.argv.slice(2).find(a => a.startsWith('http'));
+  if (targetUrl) {
+    logInfo(`${timestamp()} ${chalk.bold('Targeted run:')} ${chalk.cyan(targetUrl)}`);
+    const counters = { skippedCourt: 0, savedJudgements: 0, errorCount: 0 };
+    const settings = loadSettings(); // read-only for targeted runs
+
+    let sitemapUrls;
+    if (targetUrl.includes('sitemap_index')) {
+      logInfo(`${timestamp()} Detected sitemap index — fetching child sitemaps...`);
+      try {
+        sitemapUrls = await fetchSitemapUrls(targetUrl);
+        logInfo(`${timestamp()} Found ${sitemapUrls.length} sitemaps`);
+      } catch (err) {
+        logFatal(`Cannot fetch sitemap index: ${err.message}`);
+        process.exit(1);
+      }
+    } else {
+      sitemapUrls = [targetUrl];
+    }
+
+    for (let i = 0; i < sitemapUrls.length; i++) {
+      const sitemapUrl = sitemapUrls[i];
+      logInfo(chalk.gray(`${timestamp()} [${i + 1}/${sitemapUrls.length}] ${sitemapUrl}`));
+      await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false });
+    }
+
+    logSuccess(`✔ Done — saved: ${counters.savedJudgements}, skipped: ${counters.skippedCourt}, errors: ${counters.errorCount}`);
+    return;
+  }
+
+  const settings = loadSettings();
 
   // Step 1: Fetch all sitemap index URLs from robots.txt
   let sitemapIndexUrls;
@@ -888,164 +1138,12 @@ async function main() {
 
       logInfo(chalk.gray(`${timestamp()}   [${i + 1}/${sitemapUrls.length}] Processing sitemap: ${sitemapUrl}`));
 
-      let judgement;
-      try {
-        judgement = await parseSitemapXml(sitemapUrl);
-      } catch (err) {
-        logError(`✖ Failed to parse sitemap ${sitemapUrl}: ${err.message}`);
-        errorCount++;
-        indexFullyProcessed = false;
-        continue;
-      }
-
-      if (!judgement) {
-        logWarn(`⚠ Empty sitemap: ${sitemapUrl}`);
-        settings.processedSitemaps.push(sitemapUrl);
-        saveSettings(settings);
-        continue;
-      }
-
-      if (judgement.skipped) {
-        logInfo(chalk.gray(`${timestamp()}     Skipped (court: ${judgement.court}, not CASS)`));
-        skippedCourt++;
-        settings.processedSitemaps.push(sitemapUrl);
-        saveSettings(settings);
-        continue;
-      }
-
-      // We have a CASS judgement
-      logInfo(`${timestamp()}     ${chalk.bold('CASS')} | ${judgement.ecli} | ${judgement.judgementDate} | ${judgement.roleNumber || 'N/A'}`);
-      logInfo(`${timestamp()}     Abstracts: FR=${judgement.abstractsFR.length}, NL=${judgement.abstractsNL.length} | Legal bases: ${judgement.legalBases.length}`);
-
-      if (judgement.legalBases.length === 0) {
-        logWarn(`⚠ No legal bases with ELI found for ${judgement.ecli} — skipping data export`);
-        settings.processedSitemaps.push(sitemapUrl);
-        saveSettings(settings);
-        continue;
-      }
-
-      // Determine abstract-to-legal-basis mapping
-      let abstractToBasesMap;
-      const totalAbstractsFR = judgement.abstractsFR.length;
-      const totalAbstractsNL = judgement.abstractsNL.length;
-      const totalAbstracts = Math.max(totalAbstractsFR, totalAbstractsNL);
-
-      if (totalAbstracts <= 1) {
-        // Simple case: one abstract (or none) — all legal bases share it
-        abstractToBasesMap = [{
-          abstractFR: judgement.abstractsFR[0] || null,
-          abstractNL: judgement.abstractsNL[0] || null,
-          legalBases: judgement.legalBases,
-        }];
-        logInfo(chalk.gray(`${timestamp()}     Single abstract → all legal bases share it`));
-      } else {
-        // Multiple abstracts: need to download judgement page to determine mapping
-        logInfo(`${timestamp()}     ${chalk.yellow('Multiple abstracts detected')} → downloading judgement page for precise mapping...`);
-        
-        try {
-          const fiches = await parseJudgementPage(judgement.judgementUrl);
-          const fichesWithBases = fiches.filter(f => f.legalBases.length > 0);
-          
-          if (fichesWithBases.length === 0) {
-            logWarn(`⚠ No fiches with legal bases found on judgement page for ${judgement.ecli}`);
-            logWarn(`  Falling back: assigning all abstracts to all legal bases`);
-            abstractToBasesMap = [{
-              abstractFR: judgement.abstractsFR.join(' | '),
-              abstractNL: judgement.abstractsNL.join(' | '),
-              legalBases: judgement.legalBases,
-            }];
-          } else {
-            // Build mapping from fiches
-            // The judgement page gives us abstract text + legal bases for each fiche.
-            // We match the page abstract back to sitemap FR/NL abstracts using text similarity.
-            // FR and NL abstracts in the sitemap appear in the same positional order.
-            abstractToBasesMap = [];
-            
-            const usedFR = new Set();
-            const usedNL = new Set();
-            
-            for (const fiche of fichesWithBases) {
-              const ficheAbstract = fiche.abstract;
-              
-              // Try matching against FR abstracts
-              let bestIdx = null;
-              let bestScore = 0;
-              let bestLang = null;
-
-              for (let fi = 0; fi < judgement.abstractsFR.length; fi++) {
-                if (usedFR.has(fi)) continue;
-                const score = textSimilarity(ficheAbstract, judgement.abstractsFR[fi]);
-                if (score > bestScore) {
-                  bestScore = score;
-                  bestIdx = fi;
-                  bestLang = 'fr';
-                }
-              }
-
-              // Try matching against NL abstracts
-              for (let ni = 0; ni < judgement.abstractsNL.length; ni++) {
-                if (usedNL.has(ni)) continue;
-                const score = textSimilarity(ficheAbstract, judgement.abstractsNL[ni]);
-                if (score > bestScore) {
-                  bestScore = score;
-                  bestIdx = ni;
-                  bestLang = 'nl';
-                }
-              }
-
-              let abstractFR = null;
-              let abstractNL = null;
-
-              if (bestIdx !== null && bestScore > 0.2) {
-                // FR and NL abstracts are positionally paired
-                if (bestIdx < judgement.abstractsFR.length) {
-                  abstractFR = judgement.abstractsFR[bestIdx];
-                  usedFR.add(bestIdx);
-                }
-                if (bestIdx < judgement.abstractsNL.length) {
-                  abstractNL = judgement.abstractsNL[bestIdx];
-                  usedNL.add(bestIdx);
-                }
-              } else {
-                // Low confidence match — use the fiche abstract as-is
-                logWarn(`⚠ Low confidence abstract match (score=${bestScore.toFixed(2)}) for fiche in ${judgement.ecli}`);
-              }
-              
-              abstractToBasesMap.push({
-                abstractFR,
-                abstractNL,
-                legalBases: fiche.legalBases,
-              });
-            }
-            
-            logSuccess(`✔ Parsed ${fiches.length} fiches (${fichesWithBases.length} with legal bases) from judgement page`);
-          }
-        } catch (err) {
-          logError(`✖ Failed to download judgement page for ${judgement.ecli}: ${err.message}`);
-          logWarn(`  Falling back: assigning all abstracts to all legal bases`);
-          abstractToBasesMap = [{
-            abstractFR: judgement.abstractsFR.join(' | '),
-            abstractNL: judgement.abstractsNL.join(' | '),
-            legalBases: judgement.legalBases,
-          }];
-        }
-      }
-
-      // Store the data
-      try {
-        storeJudgementData(judgement, abstractToBasesMap);
-        savedJudgements++;
-        logSuccess(`✔ Saved data for ${judgement.ecli}`);
-      } catch (err) {
-        logError(`✖ Failed to save data for ${judgement.ecli}: ${err.message}`);
-        errorCount++;
-        indexFullyProcessed = false;
-        continue;
-      }
-
-      // Mark sitemap as processed
-      settings.processedSitemaps.push(sitemapUrl);
-      saveSettings(settings);
+      const counters = { skippedCourt, savedJudgements, errorCount };
+      const ok = await processSingleSitemapUrl(sitemapUrl, settings, counters);
+      skippedCourt = counters.skippedCourt;
+      savedJudgements = counters.savedJudgements;
+      errorCount = counters.errorCount;
+      if (!ok) indexFullyProcessed = false;
     }
 
     // Mark sitemap index as processed (only if all sitemaps succeeded)
