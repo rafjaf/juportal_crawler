@@ -1,5 +1,6 @@
 data/
 node_modules/
 .DS_Store
+errrors.json
 missing_eli.json
 settings.json

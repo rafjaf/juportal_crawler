@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE } from './constants.js';
+import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE } from './constants.js';
 import { logInfo, logWarn, timestamp } from './logger.js';
 
 // ─── Settings Management ─────────────────────────────────────────────────────
@@ -62,6 +62,27 @@ export function loadMissingEliFile() {
 
 export function saveMissingEliFile(data) {
   fs.writeFileSync(MISSING_ELI_FILE, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+// ─── Parse Error File Management ────────────────────────────────────────────
+
+/**
+ * Append an unextractable legal-basis text to errors.json.
+ * Keyed by sitemapUrl so the source is always traceable.
+ * Duplicate entries for the same URL+text are silently ignored.
+ */
+export function appendParseError(sitemapUrl, rawText) {
+  let data = {};
+  try {
+    if (fs.existsSync(ERRORS_FILE)) {
+      data = JSON.parse(fs.readFileSync(ERRORS_FILE, 'utf-8'));
+    }
+  } catch { /* start fresh */ }
+  if (!data[sitemapUrl]) data[sitemapUrl] = [];
+  if (!data[sitemapUrl].includes(rawText)) {
+    data[sitemapUrl].push(rawText);
+    fs.writeFileSync(ERRORS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  }
 }
 
 export function appendMissingEli(rawLegalBasisText, element) {

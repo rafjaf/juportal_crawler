@@ -2,6 +2,7 @@ import chalk from 'chalk';
 import * as cheerio from 'cheerio';
 import { logInfo, logWarn, timestamp } from './logger.js';
 import { fetchWithRetry } from './fetch.js';
+import { RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_LEGAL_PRINCIPLE } from './constants.js';
 import {
   normalizeWhitespace,
   normalizeEliToFrench,
@@ -33,6 +34,7 @@ export function parseJudgementHtml(html) {
   const $ = cheerio.load(html);
 
   const fiches = [];
+  const unextractable = [];
 
   // Each fieldset with "Fiche(s) N" legend groups an abstract with its legal bases
   $('fieldset').each((_, fieldset) => {
@@ -84,8 +86,8 @@ export function parseJudgementHtml(html) {
         // only capture the article that follows the date separator.
         // Also handle the unusual case where the trailing "- NN" counter is absent.
         const artGroupMatch =
-          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Aa*rtt?\.\s*(.+?)\s*-\s*\d+\w*\s*$/) ||
-          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Aa*rtt?\.\s*(.+?)\s*$/);
+          text.match(RE_ART_REF_WITH_COUNTER) ||
+          text.match(RE_ART_REF_NO_COUNTER);
         if (artGroupMatch) {
           const articles = parseArticleNumbers(artGroupMatch[1].trim());
           const lawKey = extractLegalBasisKey(text);
@@ -106,11 +108,12 @@ export function parseJudgementHtml(html) {
           }
         } else if (text) {
           // Detect general legal principles: no date, no Art., no ELI
-          if (/^(Principe général du droit|Algemeen rechtsbeginsel)\b/i.test(text)) {
+          if (RE_LEGAL_PRINCIPLE.test(text)) {
             logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
             missingEliBases.push({ article: null, rawLegalBasisText: text });
           } else {
             logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
+            unextractable.push(text);
           }
         }
       }
@@ -123,7 +126,7 @@ export function parseJudgementHtml(html) {
     });
   });
 
-  return fiches;
+  return { fiches, unextractable };
 }
 /**
  * Convenience wrapper: fetch + parse in one call.
@@ -131,5 +134,5 @@ export function parseJudgementHtml(html) {
  */
 export async function parseJudgementPage(judgementUrl) {
   const html = await fetchJudgementHtml(judgementUrl);
-  return parseJudgementHtml(html);
+  return parseJudgementHtml(html); // returns { fiches, unextractable }
 }

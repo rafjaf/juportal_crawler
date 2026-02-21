@@ -5,6 +5,7 @@ import { textSimilarity } from './utils.js';
 import { parseSitemapXml } from './sitemap.js';
 import { fetchJudgementHtml, parseJudgementHtml } from './judgement.js';
 import { storeJudgementData, recordMissingEliData } from './data.js';
+import { appendParseError } from './storage.js';
 
 // ─── Phase 1 – Network fetch ─────────────────────────────────────────────────
 
@@ -23,6 +24,7 @@ import { storeJudgementData, recordMissingEliData } from './data.js';
  */
 export async function fetchSitemapResult(sitemapUrl) {
   // ── 1. Parse the sitemap XML (one network round-trip) ─────────────────────
+  const allUnextractable = [];
   let judgement;
   try {
     judgement = await parseSitemapXml(sitemapUrl);
@@ -71,7 +73,8 @@ export async function fetchSitemapResult(sitemapUrl) {
       logInfo(`${timestamp()}     ${chalk.yellow('Missing ELI(s) in XML')} → downloading judgement page to resolve...`);
       try {
         const html = await fetchJudgementHtml(judgement.judgementUrl);
-        const fiches = parseJudgementHtml(html);
+        const { fiches, unextractable: ux1 } = parseJudgementHtml(html);
+        allUnextractable.push(...ux1);
         const htmlBases = fiches.flatMap(f => f.legalBases);
         const resolvedFromHtml = [];
         const stillMissing = [];
@@ -110,7 +113,8 @@ export async function fetchSitemapResult(sitemapUrl) {
     logInfo(`${timestamp()}     ${chalk.yellow('Multiple abstracts detected')} → downloading judgement page for precise mapping...`);
     try {
       const html = await fetchJudgementHtml(judgement.judgementUrl);
-      const fiches = parseJudgementHtml(html);
+      const { fiches, unextractable: ux2 } = parseJudgementHtml(html);
+      allUnextractable.push(...ux2);
       const fichesWithData = fiches.filter(f => (f.legalBases.length > 0) || (f.missingEliBases && f.missingEliBases.length > 0));
 
       if (fichesWithData.length === 0) {
@@ -173,7 +177,7 @@ export async function fetchSitemapResult(sitemapUrl) {
     }
   }
 
-  return { type: 'save', judgement, abstractToBasesMap };
+  return { type: 'save', judgement, abstractToBasesMap, unextractable: allUnextractable };
 }
 
 // ─── Phase 2 – Serialised commit (disk writes) ───────────────────────────────
@@ -211,7 +215,10 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
   }
 
   // type === 'save'
-  const { judgement, abstractToBasesMap } = result;
+  const { judgement, abstractToBasesMap, unextractable = [] } = result;
+  for (const rawText of unextractable) {
+    appendParseError(sitemapUrl, rawText);
+  }
   recordMissingEliData(judgement, abstractToBasesMap);
 
   try {

@@ -57,12 +57,13 @@ export function parseArticleNumbers(raw) {
   const text = normalizeWhitespace(raw || '');
   if (!text) return [];
 
-  // Split multi-article references like "26 et 31" / "26 en 31".
-  // The lookahead (?=[0-9]) ensures we only split when the second part
-  // actually starts with a digit — prevents splitting sub-paragraph
-  // descriptions like "eerste en zesde lid" or "tot en met 216septies".
+  // Split multi-article references like "26 et 31" / "26 en 31" / "17, 27 en 37".
+  // The lookahead (?=[0-9]) on the et/en branch ensures we only split when the
+  // second part starts with a digit, preventing "eerste en zesde lid" splits.
+  // The comma branch only splits before 2+ digits to avoid mistaking sub-item
+  // markers like "42, 3°" for article-number separators.
   const chunks = text
-    .split(/\s+(?:et|en)\s+(?=[0-9])/i)
+    .split(/(?:,\s*(?=[0-9]{2,})|\s+(?:et|en)\s+(?=[0-9]))/i)
     .map(chunk => normalizeArticleNumber(chunk))
     .filter(Boolean);
 

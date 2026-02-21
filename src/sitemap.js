@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import xml2js from 'xml2js';
-import { ROBOTS_TXT_URL } from './constants.js';
+import { ROBOTS_TXT_URL, RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_LEGAL_PRINCIPLE } from './constants.js';
 import { logInfo, logWarn, logSuccess, timestamp } from './logger.js';
 import { fetchWithRetry } from './fetch.js';
 import {
@@ -206,7 +206,7 @@ export async function parseSitemapXml(sitemapUrl) {
 
         // Detect general legal principles: no ELI, no article number, no law date.
         // e.g. "Principe général du droit van ...", "Algemeen rechtsbeginsel van ..."
-        if (/^(Principe général du droit|Algemeen rechtsbeginsel)\b/i.test(text)) {
+        if (RE_LEGAL_PRINCIPLE.test(text)) {
           // Flush any pending articles for the previous law group first
           if (currentArticles.length > 0) {
             legalBasesWithoutEli.push(...currentArticles.map(a => ({ article: a.article, rawLegalBasisText: extractLegalBasisKey(a.rawText) })));
@@ -218,11 +218,16 @@ export async function parseSitemapXml(sitemapUrl) {
           continue;
         }
 
-        // Parse article reference: "Law name - DD-MM-YYYY - Art. X - NN"
-        const artMatch = text.match(/^(.+?)\s*-\s*\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\w*\s*$/);
+        // Parse article reference: "Law name - DD-MM-YYYY - [prefix] Artt?. X [- NN]"
+        // The trailing counter (- NN) is optional; support Artt., thans art., etc.
+        const artMatch =
+          text.match(RE_ART_REF_WITH_COUNTER) ||
+          text.match(RE_ART_REF_NO_COUNTER);
         if (artMatch) {
-          const lawName = artMatch[1].trim();
-          const rawArticles = artMatch[2].trim();
+          // Derive the law name from the full text rather than a regex capture group,
+          // keeping the regex signature consistent with judgement.js (one capture group).
+          const lawName = extractLegalBasisKey(text);
+          const rawArticles = artMatch[1].trim();
           
           const articles = parseArticleNumbers(rawArticles);
           
