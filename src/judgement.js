@@ -76,7 +76,7 @@ export async function parseJudgementPage(judgementUrl) {
         // only capture the article that follows the date separator.
         // Also handle the unusual case where the trailing "- NN" counter is absent.
         const artGroupMatch =
-          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\s*$/) ||
+          text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\w*\s*$/) ||
           text.match(/\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*$/);
         if (artGroupMatch) {
           const articles = parseArticleNumbers(artGroupMatch[1].trim());

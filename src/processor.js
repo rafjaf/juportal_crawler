@@ -59,11 +59,51 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
   const totalAbstracts = Math.max(judgement.abstractsFR.length, judgement.abstractsNL.length);
 
   if (totalAbstracts <= 1) {
+    let resolvedBases = [...judgement.legalBases];
+    let stillMissingEliBases = [...xmlMissingEli];
+
+    // Even for single-abstract judgements, download the HTML page when the XML
+    // is missing ELI links — the HTML often carries them as proper hyperlinks.
+    if (xmlMissingEli.length > 0) {
+      logInfo(`${timestamp()}     ${chalk.yellow('Missing ELI(s) in XML')} → downloading judgement page to resolve...`);
+      try {
+        const fiches = await parseJudgementPage(judgement.judgementUrl);
+        // Flat list of all ELI-resolved bases found on the HTML page
+        const htmlBases = fiches.flatMap(f => f.legalBases);
+        const resolvedFromHtml = [];
+        const stillMissing = [];
+
+        for (const missing of xmlMissingEli) {
+          // Match by article number against HTML-resolved bases.
+          // This works well when each article number in the judgment is unique
+          // across laws; ambiguous cases remain in stillMissing.
+          const htmlMatch = htmlBases.find(hb =>
+            hb.eli && hb.article === missing.article
+          );
+          if (htmlMatch) {
+            resolvedFromHtml.push({ article: missing.article, eli: htmlMatch.eli });
+            logInfo(chalk.gray(`${timestamp()}       Resolved ELI from HTML | article="${missing.article}" | eli=${htmlMatch.eli}`));
+          } else {
+            stillMissing.push(missing);
+          }
+        }
+
+        resolvedBases = [...resolvedBases, ...resolvedFromHtml];
+        stillMissingEliBases = stillMissing;
+
+        if (resolvedFromHtml.length > 0) {
+          logInfo(`${timestamp()}     Resolved ${resolvedFromHtml.length} missing ELI(s) from judgement page`);
+        }
+      } catch (err) {
+        logWarn(`⚠ Failed to download judgement page for ELI resolution (${judgement.ecli}): ${err.message}`);
+      }
+    }
+
     abstractToBasesMap = [{
       abstractFR: judgement.abstractsFR[0] || null,
       abstractNL: judgement.abstractsNL[0] || null,
-      legalBases: judgement.legalBases,
-      missingEliBases: xmlMissingEli,
+      legalBases: resolvedBases,
+      missingEliBases: stillMissingEliBases,
     }];
     logInfo(chalk.gray(`${timestamp()}     Single abstract → all legal bases share it`));
   } else {

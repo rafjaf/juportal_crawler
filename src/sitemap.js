@@ -219,7 +219,7 @@ export async function parseSitemapXml(sitemapUrl) {
         }
 
         // Parse article reference: "Law name - DD-MM-YYYY - Art. X - NN"
-        const artMatch = text.match(/^(.+?)\s*-\s*\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\s*$/);
+        const artMatch = text.match(/^(.+?)\s*-\s*\d{2}-\d{2}-\d{4}\s*-\s*Art\.\s*(.+?)\s*-\s*\d+\w*\s*$/);
         if (artMatch) {
           const lawName = artMatch[1].trim();
           const rawArticles = artMatch[2].trim();

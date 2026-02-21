@@ -72,19 +72,53 @@ export function parseArticleNumbers(raw) {
 
 /**
  * Normalize an article reference to its base number only.
- * Strips sub-paragraph qualifiers (§ N, alinéa, lid, .digit, etc.).
- * Returns an empty string if the input does not start with a digit
- * (so callers can filter out non-article fragments like "zesde lid").
- * Examples: "14, § 7" → "14", "14.7" → "14", "235bis" → "235bis", "23/1" → "23/1"
+ * Strips sub-paragraph qualifiers (§ N, alinéa, lid, etc.) but preserves the
+ * full article identifier, including special forms used in Belgian codes:
+ *
+ *   Pattern A – Letter-prefixed   : "L 1124-17" → "L1124-17"  (Code démocratie locale)
+ *   Pattern B – Roman-numeral.N   : "XX.194"                   (Code de droit économique)
+ *   Pattern C – Colon-separated   : "3:1"                      (Code des sociétés)
+ *   Pattern D – Standard numeric  : "14", "235bis", "23/1"
+ *
+ * Returns an empty string for non-article fragments (e.g. "zesde lid") so
+ * callers can filter them out.
  */
 export function normalizeArticleNumber(art) {
-  const normalized = art
-    .replace(/,.*$/, '')       // "14, § 7" → "14"
+  // Strip sub-paragraph qualifiers after a comma ("14, § 7" → "14")
+  // Also strip French/Dutch ordinal suffixes: "1er" → "1", "2ème" → "2",
+  // "3e" → "3", "1ière" → "1". The suffix must immediately follow digits
+  // and be at a word boundary so that "bis", "ter" etc. are not affected.
+  const text = art
+    .replace(/,.*$/, '')
+    .replace(/^([0-9]+)(?:ère?|ième|ème|ste|de|nd|er)\b/i, '$1')
+    .trim();
+  if (!text) return '';
+
+  // Pattern A: letter-prefix followed (with optional space) by digits
+  // e.g. "L 1124-17", "L1124-17", "R 123-4"
+  // The letter(s) must be directly followed (opt. space) by digits — this
+  // excludes Roman-numeral.decimal forms which have a dot before the digits.
+  const letterPrefixMatch = text.match(/^([A-Z]+\s*[0-9]+(?:[/.-][0-9]+)*(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  if (letterPrefixMatch) {
+    // Collapse internal spaces: "L 1124-17" → "L1124-17"
+    return letterPrefixMatch[1].replace(/\s+/g, '');
+  }
+
+  // Pattern B: Roman-numeral chapter dot article number
+  // e.g. "XX.194", "IV.27bis"  (Code de droit économique)
+  const romanDotMatch = text.match(/^([IVXLCDM]+\.[0-9]+(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  if (romanDotMatch) {
+    return romanDotMatch[1];
+  }
+
+  // Pattern C/D: standard numeric, colon-separated ("3:1"), or slash-separated ("23/1").
+  // Only strip the decimal sub-paragraph dot for pure-numeric articles ("14.7" → "14").
+  const normalized = text
     .replace(/\.([0-9]).*$/, '') // "14.7" → "14"
     .trim();
 
-  const match = normalized.match(/^([0-9]+(?:\/[0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
-  return match ? match[1] : ''; // return '' for non-numeric fragments so they get filtered out
+  const match = normalized.match(/^([0-9]+(?:[:/][0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  return match ? match[1] : '';
 }
 
 /**

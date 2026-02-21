@@ -26,6 +26,22 @@ async function main() {
 
   ensureDataDir();
 
+  if (process.argv.includes('--help') || process.argv.includes('-h')) {
+    console.log(chalk.bold('Usage:') + '  node index.js [option]\n');
+    console.log(chalk.bold('Options:'));
+    console.log(`  ${chalk.cyan('<url>')}                    Process a single sitemap or sitemap index URL,`);
+    console.log(`                            bypassing the already-processed check.`);
+    console.log(`                            Accepts individual sitemap XML URLs or`);
+    console.log(`                            sitemap_index XML URLs (all children are processed).`);
+    console.log(`  ${chalk.cyan('--process-missing-eli')}    Re-process entries in missing_eli.json that now`);
+    console.log(`                            have an ELI assigned, integrating them into the data files.`);
+    console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
+    console.log(chalk.bold('Default (no arguments):'));
+    console.log(`  Fetches all sitemap indexes from robots.txt and crawls them from`);
+    console.log(`  most recent to oldest, skipping already-processed entries.\n`);
+    return;
+  }
+
   if (process.argv.includes('--process-missing-eli')) {
     processMissingEliFile();
     return;
@@ -117,7 +133,7 @@ async function main() {
         continue;
       }
 
-      logInfo(chalk.gray(`${timestamp()}   [${i + 1}/${sitemapUrls.length}] Processing sitemap: ${sitemapUrl}`));
+      logInfo(`${timestamp()}   [${i + 1}/${sitemapUrls.length}] Processing sitemap: ${sitemapUrl}`);
 
       const counters = { skippedCourt, savedJudgements, errorCount };
       const ok = await processSingleSitemapUrl(sitemapUrl, settings, counters);
