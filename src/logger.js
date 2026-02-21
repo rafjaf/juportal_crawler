@@ -1,23 +1,32 @@
 import chalk from 'chalk';
+import { progress } from './progress.js';
+
+function _log(fn, ...args) {
+  progress.clear();
+  fn(...args);
+  progress.render();
+}
 
 export function logInfo(...args) {
-  console.log(...args);
+  _log(console.log, ...args);
 }
 
 export function logSuccess(...args) {
-  console.log(chalk.green(...args));
+  _log(console.log, chalk.green(...args));
 }
 
 export function logWarn(...args) {
-  console.log(chalk.yellow(...args));
+  _log(console.log, chalk.yellow(...args));
 }
 
 export function logError(...args) {
-  console.log(chalk.red(...args));
+  _log(console.log, chalk.red(...args));
 }
 
 export function logFatal(...args) {
+  progress.clear();
   console.error(chalk.bgRed.white.bold(' FATAL '), chalk.red(...args));
+  progress.render();
 }
 
 export function timestamp() {

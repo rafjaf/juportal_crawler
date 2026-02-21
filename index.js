@@ -16,6 +16,7 @@ import { ensureDataDir, loadSettings, saveSettings } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
+import { progress } from './src/progress.js';
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
 
@@ -90,7 +91,12 @@ async function main() {
     process.exit(1);
   }
 
-  let totalSitemapIndexes = sitemapIndexUrls.length;
+  const totalSitemapIndexes = sitemapIndexUrls.length;
+  const pendingIndexCount = sitemapIndexUrls.filter(
+    url => !settings.processedSitemapIndexes.includes(url)
+  ).length;
+  progress.configure(pendingIndexCount);
+
   let processedCount = 0;
   let skippedCourt = 0;
   let savedJudgements = 0;
@@ -117,10 +123,12 @@ async function main() {
     } catch (err) {
       logError(`✖ Failed to fetch sitemap index ${sitemapIndexUrl}: ${err.message}`);
       errorCount++;
+      progress.endIndex();
       continue;
     }
 
     logInfo(`${timestamp()}   Found ${sitemapUrls.length} sitemaps for ${dateStr}`);
+    progress.beginIndex(sitemapUrls.length);
 
     let indexFullyProcessed = true;
 
@@ -130,13 +138,16 @@ async function main() {
 
       // Check if already processed
       if (settings.processedSitemaps.includes(sitemapUrl)) {
+        progress.currentIndexDone++;
         continue;
       }
 
       logInfo(`${timestamp()}   [${i + 1}/${sitemapUrls.length}] Processing sitemap: ${sitemapUrl}`);
 
+      progress.beginSitemap();
       const counters = { skippedCourt, savedJudgements, errorCount };
       const ok = await processSingleSitemapUrl(sitemapUrl, settings, counters);
+      progress.endSitemap();
       skippedCourt = counters.skippedCourt;
       savedJudgements = counters.savedJudgements;
       errorCount = counters.errorCount;
@@ -157,7 +168,9 @@ async function main() {
     } else {
       logWarn(`⚠ Sitemap index ${dateStr} partially processed (some errors occurred)`);
     }
+    progress.endIndex();
   }
+  progress.clear();
 
   // Final summary
   console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
