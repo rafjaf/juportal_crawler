@@ -16,7 +16,9 @@ class ProgressTracker {
 
     // Index-level progress
     this.totalIndexes = 0;
-    this.doneIndexes = 0;         // fully completed indexes
+    this.doneIndexes = 0;          // done including already-skipped (for %)
+    this._pendingIndexes = 0;      // indexes that need actual work (for ETA)
+    this._processedPending = 0;    // pending indexes actually worked through
 
     // Sitemap-level progress (current index)
     this.currentIndexTotal = 0;   // sitemaps in the active index
@@ -33,8 +35,17 @@ class ProgressTracker {
 
   // ── Configuration ──────────────────────────────────────────────────────────
 
-  configure(totalIndexes) {
+  /**
+   * @param {number} totalIndexes   - full count including already-processed ones
+   * @param {number} pendingIndexes - count of indexes that will actually be worked
+   */
+  configure(totalIndexes, pendingIndexes) {
     this.totalIndexes = totalIndexes;
+    this._pendingIndexes = pendingIndexes;
+    // Pre-fill doneIndexes with the already-skipped count so the bar starts
+    // at the right position rather than at zero.
+    this.doneIndexes = totalIndexes - pendingIndexes;
+    this._processedPending = 0;
     this._active = true;
     this._rendered = false;
   }
@@ -48,6 +59,7 @@ class ProgressTracker {
 
   endIndex() {
     this.doneIndexes++;
+    this._processedPending++;
     if (this.currentIndexTotal > 0) {
       this._sitemapsPerIndex.push(this.currentIndexTotal);
     }
@@ -111,7 +123,8 @@ class ProgressTracker {
     if (avgMs === null) return null;
 
     const remainingInCurrentIndex = this.currentIndexTotal - this.currentIndexDone;
-    const remainingIndexes = this.totalIndexes - this.doneIndexes - 1; // -1 for current
+    // Use pending-only counters so already-skipped indexes don't distort ETA
+    const remainingIndexes = this._pendingIndexes - this._processedPending - 1; // -1 for current
 
     let estimatedSitemaps = remainingInCurrentIndex;
     if (remainingIndexes > 0) {

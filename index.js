@@ -95,7 +95,7 @@ async function main() {
   const pendingIndexCount = sitemapIndexUrls.filter(
     url => !settings.processedSitemapIndexes.includes(url)
   ).length;
-  progress.configure(pendingIndexCount);
+  progress.configure(totalSitemapIndexes, pendingIndexCount);
 
   let processedCount = 0;
   let skippedCourt = 0;
