@@ -12,7 +12,7 @@
 
 import chalk from 'chalk';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
@@ -38,6 +38,9 @@ async function main() {
     console.log(`                            sitemap_index XML URLs (all children are processed).`);
     console.log(`  ${chalk.cyan('--process-missing-eli')}    Re-process entries in missing_eli.json that now`);
     console.log(`                            have an ELI assigned, integrating them into the data files.`);
+    console.log(`  ${chalk.cyan('--fix-errors')}             Re-process every sitemap listed in errors.json using`);
+    console.log(`                            the latest algorithm. Entries that are now successfully`);
+    console.log(`                            parsed are removed from errors.json.`);
     console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
     console.log(chalk.bold('Default (no arguments):'));
     console.log(`  Fetches all sitemap indexes from robots.txt and crawls them from`);
@@ -47,6 +50,73 @@ async function main() {
 
   if (process.argv.includes('--process-missing-eli')) {
     processMissingEliFile();
+    return;
+  }
+
+  if (process.argv.includes('--fix-errors')) {
+    const originalErrors = loadErrorsFile();
+    const errorSitemapUrls = Object.keys(originalErrors);
+
+    if (errorSitemapUrls.length === 0) {
+      logInfo('No entries in errors.json — nothing to fix.');
+      return;
+    }
+
+    logInfo(`Found ${errorSitemapUrls.length} sitemap(s) with parse errors to reprocess.`);
+
+    // Clear errors.json so appendParseError re-records only what still fails
+    saveErrorsFile({});
+
+    const settings = loadSettings();
+    let fixedCount = 0;
+    let partialCount = 0;
+    let unchangedCount = 0;
+    let networkErrorCount = 0;
+
+    for (let i = 0; i < errorSitemapUrls.length; i++) {
+      const sitemapUrl = errorSitemapUrls[i];
+      const originalTexts = originalErrors[sitemapUrl];
+      logInfo(`\n${timestamp()} ${chalk.bold(`[${i + 1}/${errorSitemapUrls.length}]`)} Reprocessing: ${chalk.cyan(sitemapUrl)}`);
+      logInfo(chalk.gray(`  Had ${originalTexts.length} error(s): ${originalTexts.slice(0, 2).join(' | ')}${originalTexts.length > 2 ? ` (+${originalTexts.length - 2} more)` : ''}`));
+
+      const counters = { skippedCourt: 0, savedJudgements: 0, errorCount: 0 };
+      const success = await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false });
+
+      if (!success && counters.errorCount > 0) {
+        // Network or fatal error — restore original errors for this URL so they
+        // are not silently lost.
+        logError(`✖ Network/processing error — restoring original errors for ${sitemapUrl}`);
+        const currentErrors = loadErrorsFile();
+        currentErrors[sitemapUrl] = originalTexts;
+        saveErrorsFile(currentErrors);
+        networkErrorCount++;
+        continue;
+      }
+
+      const newErrors = loadErrorsFile();
+      const remainingTexts = newErrors[sitemapUrl] || [];
+      const fixedTexts = originalTexts.filter(t => !remainingTexts.includes(t));
+
+      if (remainingTexts.length === 0) {
+        logSuccess(`✔ All ${originalTexts.length} error(s) resolved.`);
+        fixedCount++;
+      } else if (fixedTexts.length > 0) {
+        logWarn(`⚠ Partially fixed: ${fixedTexts.length}/${originalTexts.length} error(s) resolved, ${remainingTexts.length} remain.`);
+        partialCount++;
+      } else {
+        logInfo(chalk.gray(`  No improvement — ${remainingTexts.length} error(s) remain.`));
+        unchangedCount++;
+      }
+    }
+
+    console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
+    console.log(chalk.bold.cyan('║       FIX-ERRORS COMPLETE            ║'));
+    console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝'));
+    logSuccess(`  Fully fixed:      ${fixedCount}`);
+    if (partialCount > 0) logWarn(`  Partially fixed:  ${partialCount}`);
+    logInfo(`  Unchanged:        ${unchangedCount}`);
+    if (networkErrorCount > 0) logError(`  Network errors:   ${networkErrorCount}`);
+    logInfo('');
     return;
   }
 

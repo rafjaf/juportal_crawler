@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import xml2js from 'xml2js';
-import { ROBOTS_TXT_URL, RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_LEGAL_PRINCIPLE } from './constants.js';
+import { ROBOTS_TXT_URL, RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_ART_REF_NO_DATE, RE_REF_NO_ART, RE_LEGAL_PRINCIPLE } from './constants.js';
 import { logInfo, logWarn, logSuccess, timestamp } from './logger.js';
 import { fetchWithRetry } from './fetch.js';
 import {
@@ -218,11 +218,13 @@ export async function parseSitemapXml(sitemapUrl) {
           continue;
         }
 
-        // Parse article reference: "Law name - DD-MM-YYYY - [prefix] Artt?. X [- NN]"
-        // The trailing counter (- NN) is optional; support Artt., thans art., etc.
+        // Parse article reference: "Law name - DD-MM-YYYY - [prefix] Art. X [- NN]"
+        // Also matches no-date forms (RE_ART_REF_NO_DATE).
+        // The trailing counter (- NN) is optional; support Art., Artt., Ar., At., etc.
         const artMatch =
           text.match(RE_ART_REF_WITH_COUNTER) ||
-          text.match(RE_ART_REF_NO_COUNTER);
+          text.match(RE_ART_REF_NO_COUNTER) ||
+          text.match(RE_ART_REF_NO_DATE);
         if (artMatch) {
           // Derive the law name from the full text rather than a regex capture group,
           // keeping the regex signature consistent with judgement.js (one capture group).
@@ -255,6 +257,30 @@ export async function parseSitemapXml(sitemapUrl) {
           for (const art of articles) {
             currentArticles.push({ article: art, eli: null, lang: lang || 'fr', rawText: text });
           }
+          continue;
+        }
+
+        // Detect a law reference with a date but no specific article → use "general".
+        // e.g. "L. du 15 décembre 1980 ... - 15-12-1980 - 30 Lien ELI No pub 1980121550"
+        //      "Directive 2014/41/UE ... - 03-04-2014"
+        if (RE_REF_NO_ART.test(text)) {
+          const newLawKey = extractLegalBasisKey(text);
+          logInfo(chalk.gray(`${timestamp()}       No-article law ref (XML) | raw="${text}" | article=general | awaiting ELI`));
+          // Flush previous articles for a different law group
+          if (newLawKey !== currentLawKey) {
+            if (currentArticles.length > 0) {
+              const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
+              if (cachedEli) {
+                for (const a of currentArticles) { a.eli = cachedEli; }
+                legalBases.push(...currentArticles);
+              } else {
+                legalBasesWithoutEli.push(...currentArticles.map(a => ({ article: a.article, rawLegalBasisText: extractLegalBasisKey(a.rawText) })));
+              }
+            }
+            currentArticles = [];
+            currentLawKey = newLawKey;
+          }
+          currentArticles.push({ article: 'general', eli: null, lang: lang || 'fr', rawText: text });
           continue;
         }
       }

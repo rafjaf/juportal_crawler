@@ -2,7 +2,7 @@ import chalk from 'chalk';
 import * as cheerio from 'cheerio';
 import { logInfo, logWarn, timestamp } from './logger.js';
 import { fetchWithRetry } from './fetch.js';
-import { RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_LEGAL_PRINCIPLE } from './constants.js';
+import { RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_ART_REF_NO_DATE, RE_REF_NO_ART, RE_LEGAL_PRINCIPLE } from './constants.js';
 import {
   normalizeWhitespace,
   normalizeEliToFrench,
@@ -84,10 +84,12 @@ export function parseJudgementHtml(html) {
         // Use a date-anchored pattern to skip any "Art." that appears inside
         // the law title (e.g. "Boek II (Art. 137 tot en met 216septies)") and
         // only capture the article that follows the date separator.
-        // Also handle the unusual case where the trailing "- NN" counter is absent.
+        // Also handle the unusual case where the trailing "- NN" counter is absent,
+        // and references that have no date at all.
         const artGroupMatch =
           text.match(RE_ART_REF_WITH_COUNTER) ||
-          text.match(RE_ART_REF_NO_COUNTER);
+          text.match(RE_ART_REF_NO_COUNTER) ||
+          text.match(RE_ART_REF_NO_DATE);
         if (artGroupMatch) {
           const articles = parseArticleNumbers(artGroupMatch[1].trim());
           const lawKey = extractLegalBasisKey(text);
@@ -111,6 +113,15 @@ export function parseJudgementHtml(html) {
           if (RE_LEGAL_PRINCIPLE.test(text)) {
             logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
             missingEliBases.push({ article: null, rawLegalBasisText: text });
+          } else if (RE_REF_NO_ART.test(text)) {
+            // Law reference with a date but no specific article → use "general"
+            const lawKey = extractLegalBasisKey(text);
+            logInfo(chalk.gray(`${timestamp()}       No-article law ref | raw="${text}" | article=general | eli=${eliLink || 'MISSING'}`));
+            if (eliLink) {
+              basesLegales.push({ article: 'general', eli: eliLink });
+            } else {
+              missingEliBases.push({ article: 'general', rawLegalBasisText: lawKey });
+            }
           } else {
             logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
             unextractable.push(text);

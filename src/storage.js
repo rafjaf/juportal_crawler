@@ -66,22 +66,30 @@ export function saveMissingEliFile(data) {
 
 // ─── Parse Error File Management ────────────────────────────────────────────
 
+export function loadErrorsFile() {
+  try {
+    if (fs.existsSync(ERRORS_FILE)) {
+      return JSON.parse(fs.readFileSync(ERRORS_FILE, 'utf-8'));
+    }
+  } catch { /* start fresh */ }
+  return {};
+}
+
+export function saveErrorsFile(data) {
+  fs.writeFileSync(ERRORS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+}
+
 /**
  * Append an unextractable legal-basis text to errors.json.
  * Keyed by sitemapUrl so the source is always traceable.
  * Duplicate entries for the same URL+text are silently ignored.
  */
 export function appendParseError(sitemapUrl, rawText) {
-  let data = {};
-  try {
-    if (fs.existsSync(ERRORS_FILE)) {
-      data = JSON.parse(fs.readFileSync(ERRORS_FILE, 'utf-8'));
-    }
-  } catch { /* start fresh */ }
+  const data = loadErrorsFile();
   if (!data[sitemapUrl]) data[sitemapUrl] = [];
   if (!data[sitemapUrl].includes(rawText)) {
     data[sitemapUrl].push(rawText);
-    fs.writeFileSync(ERRORS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+    saveErrorsFile(data);
   }
 }
 

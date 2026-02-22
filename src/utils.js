@@ -58,12 +58,11 @@ export function parseArticleNumbers(raw) {
   if (!text) return [];
 
   // Split multi-article references like "26 et 31" / "26 en 31" / "17, 27 en 37".
-  // The lookahead (?=[0-9]) on the et/en branch ensures we only split when the
-  // second part starts with a digit, preventing "eerste en zesde lid" splits.
-  // The comma branch only splits before 2+ digits to avoid mistaking sub-item
-  // markers like "42, 3°" for article-number separators.
+  // Both branches now require 2+ digits on the right-hand side so that
+  // sub-item qualifiers such as "al. 1er et 2" or "1°, 4°, 5° et 12°" are not
+  // mistaken for separate article numbers.
   const chunks = text
-    .split(/(?:,\s*(?=[0-9]{2,})|\s+(?:et|en)\s+(?=[0-9]))/i)
+    .split(/(?:,\s*(?=[0-9]{2,})|\s+(?:et|en)\s+(?=[0-9]{2,}))/i)
     .map(chunk => normalizeArticleNumber(chunk))
     .filter(Boolean);
 
@@ -95,6 +94,10 @@ export function normalizeArticleNumber(art) {
     .trim();
   if (!text) return '';
 
+  // Reject Belgian sub-item markers: a plain number followed immediately by °
+  // (e.g. "1°", "12°"). These denote sub-items of an article, not article numbers.
+  if (/^[0-9]+°\s*$/.test(text)) return ''
+
   // Pattern A: letter-prefix followed (with optional space) by digits
   // e.g. "L 1124-17", "L1124-17", "R 123-4"
   // The letter(s) must be directly followed (opt. space) by digits — this
@@ -111,6 +114,12 @@ export function normalizeArticleNumber(art) {
   if (romanDotMatch) {
     return romanDotMatch[1];
   }
+
+  // Pattern E: Multi-level hierarchical dotted number (e.g. ADR convention "5.4.3.4").
+  // Requires at least two dot-number groups so that "14.7" (single sub-level, stripped
+  // below) is not affected, while "5.4.3.4" and similar are preserved in full.
+  const hierMatch = text.match(/^(\d+(?:\.\d+){2,})(?:[^0-9]|$)/);
+  if (hierMatch) return hierMatch[1];
 
   // Pattern C/D: standard numeric, colon-separated ("3:1"), or slash-separated ("23/1").
   // Only strip the decimal sub-paragraph dot for pure-numeric articles ("14.7" → "14").
