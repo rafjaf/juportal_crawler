@@ -1,3 +1,4 @@
 node_modules/
 .DS_Store
 scheduled_run.log
+scheduled_run.sh
