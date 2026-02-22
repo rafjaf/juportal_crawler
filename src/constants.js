@@ -35,11 +35,13 @@ export const SITEMAP_CONCURRENCY = 5;
  *    forms such as "l'art." or "d'art.".
  *  - Art. keyword broadened to `A(?:r?t+|r)\.` to also match abbreviated
  *    forms `Ar.`, `At.` found in practice.
- *  - Trailing counter broadened to `\d+\b.*$` so variants like
- *    "30 Lien ELI No pub 1980121550" and "30 Lien DB Justel …" are accepted.
+ *  - Trailing counter broadened to `\d{2,}\b.*$` so variants like
+ *    "30 Lien ELI No pub 1980121550" and "30 Lien DB Justel …" are accepted,
+ *    and single-digit article suffixes like "577-7" are not mistaken for
+ *    the trailing publication counter (all known counters are 2+ digits).
  */
 export const RE_ART_REF_WITH_COUNTER =
-  /\d{2}-\d{2}-\d{4}\s*-\s*(?:.*?\s+)?(?:[ld]')?A(?:r?t+|r)\.\s*(.+?)\s*-\s*\d+\b.*$/i;
+  /\d{2}-\d{2}-\d{4}\s*-\s*(?:.*?\s+)?(?:[ld]')?A(?:r?t+|r)\.\s*(.+?)\s*-\s*\d{2,}\b.*$/i;
 
 /**
  * Fallback for legal-basis references without a trailing counter.
@@ -71,10 +73,11 @@ export const RE_REF_NO_ART =
 /**
  * Detects a general legal principle (no date, no article number, no ELI).
  * e.g. "Principe général du droit ...", "Algemeen rechtsbeginsel ...",
- *      "Legaliteitsbeginsel" (and any other Dutch word ending in -beginsel).
+ *      "Legaliteitsbeginsel" (and any other Dutch word ending in -beginsel,
+ *      optionally preceded by a single qualifier word such as "Algemeen").
  */
 export const RE_LEGAL_PRINCIPLE =
-  /^(Principe général du droit|\w*beginsel)\b/i;
+  /^(Principe général du droit|(?:\w+\s+)?\w*beginsel)\b/i;
 
 /**
  * Map Dutch document type names in Belgian ELI paths to their French equivalents.

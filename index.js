@@ -170,6 +170,7 @@ async function main() {
   progress.configure(totalSitemapIndexes, pendingIndexCount, SITEMAP_CONCURRENCY);
 
   let processedCount = 0;
+  let newSitemapIndexCount = 0;
   let skippedCourt = 0;
   let savedJudgements = 0;
   let errorCount = 0;
@@ -187,6 +188,7 @@ async function main() {
 
     logInfo(`\n${timestamp()} ${chalk.bold(`[${processedCount}/${totalSitemapIndexes}]`)} Processing sitemap index: ${chalk.cyan(dateStr)}`);
     logInfo(chalk.gray(`  URL: ${sitemapIndexUrl}`));
+    newSitemapIndexCount++;
 
     // Step 3: Fetch the list of sitemaps within this index
     let sitemapUrls;
@@ -282,6 +284,12 @@ async function main() {
     logError(`  Errors:                 ${errorCount}`);
   }
   logInfo('');
+
+  // Machine-readable summary line parsed by scheduled_run.sh for ntfy notification
+  const summaryLine = savedJudgements === 0
+    ? 'Nothing new found.'
+    : `${newSitemapIndexCount} index(es) processed, ${savedJudgements} judgement(s) saved${errorCount > 0 ? `, ${errorCount} error(s)` : ''}.`;
+  console.log(`SUMMARY: ${summaryLine}`);
 }
 
 // ─── Entry Point ─────────────────────────────────────────────────────────────

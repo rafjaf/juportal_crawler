@@ -121,13 +121,14 @@ export function normalizeArticleNumber(art) {
   const hierMatch = text.match(/^(\d+(?:\.\d+){2,})(?:[^0-9]|$)/);
   if (hierMatch) return hierMatch[1];
 
-  // Pattern C/D: standard numeric, colon-separated ("3:1"), or slash-separated ("23/1").
+  // Pattern C/D: standard numeric, colon-separated ("3:1"), slash-separated ("23/1"),
+  // or hyphen-separated ("577-2", "577-7") as used in the Belgian Civil Code.
   // Only strip the decimal sub-paragraph dot for pure-numeric articles ("14.7" → "14").
   const normalized = text
     .replace(/\.([0-9]).*$/, '') // "14.7" → "14"
     .trim();
 
-  const match = normalized.match(/^([0-9]+(?:[:/][0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  const match = normalized.match(/^([0-9]+(?:[-:/][0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
   return match ? match[1] : '';
 }
 
