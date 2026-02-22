@@ -1,0 +1,16 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2020:ARR.20200305.1N.5": {
+      "court": "CASS",
+      "date": "2020-03-05",
+      "roleNumber": "C.19.0290.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200305.1N.5&lang=fr",
+      "abstractFR": [
+        "La partie ayant obtenu gain de cause n'a droit qu'à une seule indemnité de procédure par instance."
+      ],
+      "abstractNL": [
+        "De in het gelijk gestelde partij heeft slechts recht op één rechtsplegingsvergoeding per aanleg."
+      ]
+    }
+  }
+}

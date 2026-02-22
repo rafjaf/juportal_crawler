@@ -1,0 +1,30 @@
+{
+  "11": {
+    "ECLI:BE:CASS:2020:ARR.20200107.2N.5": {
+      "court": "CASS",
+      "date": "2020-01-07",
+      "roleNumber": "P.19.1123.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200107.2N.5&lang=fr",
+      "abstractFR": [
+        "L'obligation pour la personne morale ou la personne physique qui représente la personne morale de communiquer l'identité du conducteur ou du responsable du véhicule immatriculé au nom de cette personne morale avec lequel une infraction a été commise, découle de la loi et non d'une mention à cet effet sur le formulaire de réponse envoyé à ladite personne morale, même si la réception de ce formulaire entraîne l'obligation d'y donner suite; en outre, la demande de renseignements au moyen de ce formulaire, visée à l'article 67ter, alinéa 2, de la loi du 16 mars 1968 relative à la police de la circulation routière, n'est soumise à aucune formalité particulière; il s'ensuit que l'acquittement du prévenu du chef de violation de l'article 67ter de la loi du 16 mars 1968 requiert non seulement que la demande de renseignements présente des lacunes, mais aussi que ledit prévenu se trouve dans des circonstances entraînant l'impossibilité pour toute personne normalement prudente et raisonnable de satisfaire aux obligations légales."
+      ],
+      "abstractNL": [
+        "De verplichting voor de rechtspersoon of de natuurlijke persoon die de rechtspersoon vertegenwoordigt om de identiteit mee te delen van de bestuurder van of van de persoon die verantwoordelijk is voor het voertuig ingeschreven op naam van die rechtspersoon waarmee een overtreding is begaan, vloeit voort uit de wet, en dus niet uit een bericht in het antwoordformulier toegezonden aan de rechtspersoon, ook al heeft het ontvangen van dit formulier voor gevolg dat daaraan gevolg moet worden gegeven; de vraag om inlichtingen via dat formulier, als bedoeld in artikel 67ter, tweede lid, Wegverkeerswet, is bovendien niet onderworpen aan bepaalde vormvereisten; hieruit volgt dat voor vrijspraak van de beklaagde aan overtreding van artikel 67ter Wegverkeerswet niet volstaat dat de vraag om inlichtingen onvolkomenheden bevat, maar dat de beklaagde zich moet bevinden in omstandigheden waarin het voor elke normale, voorzichtige en redelijke persoon onmogelijk zou zijn geweest om aan de wettelijke verplichtingen te voldoen."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2019:ARR.20190507.2": {
+      "court": "CASS",
+      "date": "2019-05-07",
+      "roleNumber": "P.18.1256.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2019:ARR.20190507.2&lang=fr",
+      "abstractFR": [
+        "Seul un paiement valable et dans les délais, par virement d'une perception immédiate, peut entraîner l'extinction de l'action publique, de sorte qu'un paiement valable requiert d'être effectué dans le délai de 10 jours fixé par le Roi et de pouvoir être identifié, dans ce même délai, comme étant l'acquittement de la somme due pour une infraction spécifique; un paiement qui ne peut être identifié faute de références correctes et précises propres à une infraction spécifique n'est pas un paiement valable."
+      ],
+      "abstractNL": [
+        "Enkel een tijdige en geldige betaling met overschrijving van een onmiddellijke inning kan de strafvordering doen vervallen en aldus vereist een geldige betaling dat zij binnen de door de Koning bepaalde termijn van 10 dagen wordt voldaan en binnen deze zelfde termijn kan worden herkend als zijnde de voldoening van de som geheven voor een specifieke overtreding; een betaling die niet kan worden herkend bij gebrek aan juiste en nauwkeurige refertes eigen aan een specifieke overtreding is geen geldige betaling."
+      ]
+    }
+  }
+}

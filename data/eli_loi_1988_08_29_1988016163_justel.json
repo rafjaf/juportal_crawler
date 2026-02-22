@@ -1,0 +1,42 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2021:ARR.20210121.1F.4": {
+      "court": "CASS",
+      "date": "2021-01-21",
+      "roleNumber": "C.18.0306.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210121.1F.4",
+      "abstractFR": [
+        "L'article 1er, alinéa 1er, de la loi du 29 août 1988 est également applicable aux successions qui comprennent des biens constituant une exploitation agricole qui n'était plus exploitée par le défunt au jour de son décès mais qui l'était alors par un ou plusieurs de ses héritiers en ligne directe descendante."
+      ],
+      "abstractNL": [
+        "Artikel 1, eerste lid, van de wet van 29 augustus 1988 is ook van toepassing op de nalatenschappen die goederen bevatten die behoren tot een landbouwbedrijf dat niet meer door de overledene werd geëxploiteerd op de dag van zijn overlijden, maar dat op dat ogenblik door een of meerdere van zijn erfgenamen in de rechte nederdalende lijn werd geëxploiteerd."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040206.1": {
+      "court": "CASS",
+      "date": "2004-02-06",
+      "roleNumber": "C010232F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2004:ARR.20040206.1",
+      "abstractFR": [
+        "La loi du 29 août 1988 relative au régime successoral des exploitations agricoles en vue d'en promouvoir la continuité est inapplicable lorsque la succession ne comprend pas, fut-ce pour une quotité, une exploitation agricole au sens de l'article 1er de la loi."
+      ],
+      "abstractNL": [
+        "De wet van 29 augustus 1988 op de erfregeling inzake landbouwbedrijven met het oog op het bevorderen van de continuïteit is niet van toepassing als de nalatenschap, al was het maar voor een gedeelte, geen landbouwbedrijf omvat in de zin van artikel 1 van de wet."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:2001:ARR.20010406.2": {
+      "court": "CASS",
+      "date": "2001-04-06",
+      "roleNumber": "C980316N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2001:ARR.20010406.2&lang=fr",
+      "abstractFR": [
+        "Le partage d'une exploitation agricole par voie de reprise ne porte pas atteinte au régime successoral et n'exclut pas que toutes les particularités du bien à reprendre, telles que les possibilités de lotissement soient prises en compte lors de l'estimation de la valeur du bien."
+      ],
+      "abstractNL": [
+        "De verdeling van een landbouwbedrijf door overname doet niet af aan de erfregeling zelf, en sluit niet uit dat met alle eigenschappen van het over te nemen goed, zoals verkavelingsmogelijkheden, wordt rekening gehouden bij het bepalen van de waarde ervan."
+      ]
+    }
+  }
+}

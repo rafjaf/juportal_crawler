@@ -1,0 +1,44 @@
+{
+  "6": {
+    "ECLI:BE:CASS:2014:ARR.20140911.3": {
+      "court": "CASS",
+      "date": "2014-09-11",
+      "roleNumber": "F.13.0101.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20140911.3",
+      "abstractFR": [
+        "L'accise sur les huiles minérales ne devient pas en toute hypothèse exigible, au taux lié à leur utilisation finale effective, à la date de leur mise à la consommation dans le pays (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De accijns op de minerale oliën wordt niet in alle gevallen verschuldigd tegen het tarief dat van toepassing is op het werkelijk eindgebruik van die oliën, op de datum van hun uitslag tot verbruik in het land (1). (1) Zie concl. OM in Pas. 2014."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:2014:ARR.20140522.6": {
+      "court": "CASS",
+      "date": "2014-05-22",
+      "roleNumber": "F.12.0013.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20140522.6&lang=fr",
+      "abstractFR": [
+        "L'article 25, § 3, de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise qui dispose que dans le cas visé l'infraction ou l'irrégularité est réputée avoir été commise dans l'Etat membre de départ, n'implique pas pour l'administration fiscale l'obligation d'examiner à quel endroit l'infraction ou lirrégularité a été commise."
+      ],
+      "abstractNL": [
+        "Artikel 25, §3, van de wet van 10 juni 1997, dat bepaalt dat in het beoogde geval de overtreding of onregelmatigheid wordt geacht te zijn begaan in de lidstaat van vertrek, houdt voor de belastingadministratie niet de plicht in om na te gaan waar de overtreding of de onregelmatigheid werd begaan."
+      ]
+    }
+  },
+  "39": {
+    "ECLI:BE:CASS:2014:ARR.20140205.1": {
+      "court": "CASS",
+      "date": "2014-02-05",
+      "roleNumber": "P.13.1194.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20140205.1",
+      "abstractFR": [
+        "Lorsque la saisie effective ou l'abandon n'ont pas été dûment constatés, la condamnation du contrevenant au payement des droits éludés ne dispense pas le juge de son obligation de le condamner, en outre, à reproduire, en vue de confiscation, les marchandises passibles de ces droits, et à en payer la contrevaleur à défaut de les représenter."
+      ],
+      "abstractNL": [
+        "Wanneer de daadwerkelijke inbeslagneming of het afstaan van de goederen niet behoorlijk werd vastgesteld, ontslaat de veroordeling van de overtreder tot betaling van de ontdoken rechten de rechter niet van zijn verplichting om hem daarenboven te veroordelen tot het aanbrengen, met het oog op verbeurdverklaring, van de goederen waarvoor die rechten verschuldigd zijn, en tot betaling van de tegenwaarde ervan wanneer hij ze niet aanbrengt."
+      ]
+    }
+  }
+}

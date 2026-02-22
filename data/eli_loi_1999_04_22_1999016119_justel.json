@@ -1,0 +1,30 @@
+{
+  "45": {
+    "ECLI:BE:CASS:2015:ARR.20150108.5": {
+      "court": "CASS",
+      "date": "2015-01-08",
+      "roleNumber": "D.14.0015.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2015:ARR.20150108.5",
+      "abstractFR": [
+        "La notification de la décision adressée au seul intéressé fait également courir le délai d'appel à l'égard de l'assesseur juridique agissant comme représentant de cet institut."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de beslissing aan de betrokkene alleen doet de termijn van beroep ook ingaan t.a.v. de rechtskundige assessor die optreedt als vertegenwoordiger van dat instituut."
+      ]
+    }
+  },
+  "45/1": {
+    "ECLI:BE:CASS:2015:ARR.20150108.5": {
+      "court": "CASS",
+      "date": "2015-01-08",
+      "roleNumber": "D.14.0015.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2015:ARR.20150108.5",
+      "abstractFR": [
+        "Lorsqu'il interjette appel d'une décision d'une chambre exécutive, l'assesseur juridique agit comme représentant de l'Institut professionnel des comptables et fiscalistes agréés."
+      ],
+      "abstractNL": [
+        "Wanneer de rechtskundige assessor beroep instelt tegen een beslissing van een uitvoerende kamer, treedt hij op als vertegenwoordiger van het Beroepsinstituut van erkende boekhouders en fiscalisten."
+      ]
+    }
+  }
+}

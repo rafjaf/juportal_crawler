@@ -1,0 +1,16 @@
+{
+  "21": {
+    "ECLI:BE:CASS:2013:ARR.20131022.4": {
+      "court": "CASS",
+      "date": "2013-10-22",
+      "roleNumber": "P.13.0550.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2013:ARR.20131022.4&lang=fr",
+      "abstractFR": [
+        "L'ordre adressé à un fournisseur d'accès à internet de bloquer par tous les moyens techniques possibles l'accès au contenu hébergé par un serveur associé à un nom de domaine principal déterminé en bloquant à tout le moins tous les noms de domaine qui renvoient à ce serveur associé au nom de domaine principal déterminé, avec de surcroît la spécification du procédé technique devant être employé, n'implique pas l'obligation de surveillance visé par l'article 15.1 de la Directive du 8 juin 2000 sur le commerce électronique et à l'article 21, § 1er, de la loi du 11 mars 2003 sur certains aspects juridiques des services de la société de l'information; il n'est en effet pas demandé au fournisseur d'accès à internet de surveiller les informations qu'il transmet ou stocke ni de rechercher activement les informations révélant des activités illicites."
+      ],
+      "abstractNL": [
+        "Het bevel dat aan een internettoegangleverancier wordt gegeven om met alle mogelijke technische middelen de toegang te blokkeren tot de inhoud die wordt gehost door een server welke is gekoppeld aan een welbepaalde hoofddomeinnaam door minstens alle domeinnamen te blokkeren die doorverwijzen naar die aan de wel bepaalde hoofddomeinnaam gekoppelde server, met bovendien de specificatie welk technisch procedé daartoe moet worden aangewend, houdt geen toezichtsverplichting in als bedoeld door artikel 15.1 Richtlijn Elektronische Handel en artikel 21, §1, Wet Elektronische Handel; van de internettoegangleverancier wordt immers niet gevraagd toe te zien op de informatie die hij doorgeeft of opslaat of om actief te zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden."
+      ]
+    }
+  }
+}

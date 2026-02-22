@@ -1,0 +1,40 @@
+{
+  "38": {
+    "ECLI:BE:CASS:2009:ARR.20090129.5": {
+      "court": "CASS",
+      "date": "2009-01-29",
+      "roleNumber": "C.07.0628.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2009:ARR.20090129.5",
+      "abstractFR": [
+        "Le fait qu'un chèque à barrement général ne puisse être payé par le tiré qu'à un banquier ou au client du tiré ne fait pas obstacle à ce que le chèque barré soit transféré comme un chèque ordinaire et encaissé par l'endossataire."
+      ],
+      "abstractNL": [
+        "Het feit dat een cheque met algemene kruising door de betrokkene slechts kan worden betaald aan een bankier of aan een cliënt van de betrokkene belet niet dat de gekruiste cheque wordt overgedragen en door de geëndosseerde."
+      ]
+    }
+  },
+  "61": {
+    "ECLI:BE:CASS:2024:ARR.20240327.2F.2": {
+      "court": "CASS",
+      "date": "2024-03-27",
+      "roleNumber": "P.23.0688.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240327.2F.2",
+      "abstractFR": [
+        "S'agissant du comportement d'émission de chèque sans provision, l'élément fautif dont les juges d'appel devaient faire abstraction afin de vérifier si, sans l'infraction, le dommage du demandeur se serait produit tel qu'il s'est réalisé, consistait dans l'absence d'une telle provision lors de l'émission du chèque."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2009:ARR.20090602.3": {
+      "court": "CASS",
+      "date": "2009-06-02",
+      "roleNumber": "P.09.0019.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2009:ARR.20090602.3&lang=fr",
+      "abstractFR": [
+        "L'infraction de l'émission de chèque sans provision est consommée au moment où le chèque est remis au bénéficiaire ou mis en circulation, même s'il est non daté et même s'il n'est pas ou n'est qu'ultérieurement présenté en payement (1) (2). (1) Voir Cass., 5 mai 1982, Bull. et Pas., 1981-1982, n° 523. (2) Voir Cass., 15 mars 1988, RG 1678, Pas., 1988, n° 441."
+      ],
+      "abstractNL": [
+        "Het misdrijf van de uitgifte van cheque zonder dekking is voltrokken vanaf het ogenblik dat de cheque aan de rechthebbende is overhandigd of in omloop is gebracht, ook al is hij niet gedateerd en al wordt hij niet of pas later ter betaling aangeboden (1)(2). (1) Zie: Cass., 5 mei 1982, A.C., 1981-1982, nr. 523. (2) Zie: Cass., 15 maart 1988, AR 1678, A.C., 1987-1988, nr 441."
+      ]
+    }
+  }
+}

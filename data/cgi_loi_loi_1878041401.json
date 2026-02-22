@@ -1,0 +1,42 @@
+{
+  "15": {
+    "ECLI:BE:CASS:2015:ARR.20150311.4": {
+      "court": "CASS",
+      "date": "2015-03-11",
+      "roleNumber": "P.14.1709.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2015:ARR.20150311.4",
+      "abstractFR": [
+        "En application de l'article 15 du titre préliminaire du Code de procédure pénale, le juge est compétent pour statuer sur une question de droit administratif soulevée incidemment devant lui, pour autant qu'une telle question ne fait pas partie des exceptions établies par la loi (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Met toepassing van artikel 15 Voorafgaande Titel Wetboek van Strafvordering is de rechter bevoegd om uitspraak te doen over een vraag van administratief recht die incidenteel voor hem wordt opgeworpen, in zoverre een dergelijke vraag geen deel uitmaakt van de bij de wet bepaalde uitzonderingen (1). (1) zie concl. OM in Pas. 2015, nr. 184."
+      ]
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:2015:ARR.20150304.2": {
+      "court": "CASS",
+      "date": "2015-03-04",
+      "roleNumber": "P.14.1796.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2015:ARR.20150304.2",
+      "abstractFR": [
+        "L'écartement d'un élément de preuve obtenu irrégulièrement n'est décidé que si la nullité est stipulée par la loi, si l'omission a fait perdre à la preuve sa fiabilité ou si l'usage de la preuve compromet l'équité du procès; un procès cesse d'être équitable notamment lorsque la preuve reçue malgré son irrégularité entraîne le risque d'une condamnation fondée sur des éléments douteux alors que la partie qui se voit opposer ceux-ci n'est pas en mesure de les contredire utilement et de rétablir la vérité."
+      ],
+      "abstractNL": [
+        "Er wordt enkel tot afwijzing van een onregelmatig verkregen bewijselement besloten indien de nietigheid bij wet is bepaald, indien het verzuim de betrouwbaarheid van het bewijs verloren heeft doen gaan of indien de aanwending van het bewijs de eerlijke behandeling van de zaak in het gedrang brengt; een proces is niet langer eerlijk wanneer het met name ondanks zijn onregelmatigheid ontvankelijk verklaarde bewijs het risico inhoudt van een veroordeling op grond van twijfelachtige gegevens, terwijl de partij tegen wie ze worden aangevoerd ze niet op nuttige wijze kan tegenspreken om de waarheid te herstellen."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140610.4": {
+      "court": "CASS",
+      "date": "2014-06-10",
+      "roleNumber": "P.14.0282.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20140610.4&lang=fr",
+      "abstractFR": [
+        "L'interdiction pour le juge d'instruction d'instruire des faits autres que ceux dont il a été saisi n'est pas prescrite à peine de nullité; dès lors, le juge ne peut déclarer nulle la preuve obtenue à la suite de ce dépassement ou l'exclure d'une autre manière qu' ils précisent comment et pourquoi cette irrégularité a soit entaché la fiabilité de la preuve, soit a eu pour conséquence que l'usage de cette preuve est contraire au droit à un procès équitable (1). (1) Voir Cass. 27 juin 1995, RG P.94.0306.N, Pas. 1995, n° 333 ; Cass. 11 décembre 2002, RG P.02.1587.F, Pas. 2002, n° 668 ; Cass. 3 avril 2012, RG P.11.2095.N, Pas. 2012, n° 214 et les concl. de Monsieur l'avocat général P. Duinslaeger publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Het verbod voor de onderzoeksrechter andere feiten te onderzoeken dan deze die bij hem aanhangig zijn gemaakt, is niet voorgeschreven op straffe van nietigheid; bijgevolg kan de rechter het als gevolg van die overschrijding opgeleverde bewijs enkel nietig verklaren of op een andere wijze uitsluiten wanneer hij preciseert hoe en waarom die onregelmatigheid ofwel de betrouwbaarheid van het bewijs heeft aangetast ofwel tot gevolg heeft dat het gebruik van dat bewijs in strijd is met het recht op een eerlijk proces (1). (1) Zie Cass. 27 juni 1995, AR P.94.0306.N, AC 1995, nr. 333; Cass. 11 december 2002, AR P.02.1587.F, AC 2002, nr. 668; Cass. 3 april 2012, AR P.11.2095.N, AC 2012, nr. 214, met concl. van advocaat-generaal P. Duinslaeger."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "21": {
+    "ECLI:BE:CASS:2023:ARR.20230908.1F.6": {
+      "court": "CASS",
+      "date": "2023-09-08",
+      "roleNumber": "C.22.0372.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230908.1F.6",
+      "abstractFR": [
+        "Le fonds commun de garantie n'est pas tenu d'indemniser de son préjudice personnel, fût-il subi par répercussion, le conducteur d'un véhicule automoteur impliqué dans un accident de la circulation automobile qui pilote ce véhicule en sachant que l'obligation d'assurance n'a pas été respectée (1). (1) Voir Cass. 19 septembre 2008, RG C.07.0357.N, Pas. 2008, n° 487."
+      ],
+      "abstractNL": null
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:2020:ARR.20200618.1N.22": {
+      "court": "CASS",
+      "date": "2020-06-18",
+      "roleNumber": "C.19.0299.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200618.1N.22&lang=fr",
+      "abstractFR": [
+        "Là où la loi ne distingue pas, il ne faut pas distinguer, de sorte qu’il convient d’entendre par « une invalidité temporaire d’un mois ou plus » une invalidité d’un mois ou plus, qu’elle soit complète ou partielle."
+      ],
+      "abstractNL": [
+        "Wanneer de wet geen onderscheid maakt, mag ook geen onderscheid worden gemaakt, zodat onder \"een tijdelijke invaliditeit van een maand of meer\" zowel een algehele als een gedeeltelijke tijdelijke invaliditeit van een maand of meer moet worden verstaan."
+      ]
+    }
+  }
+}

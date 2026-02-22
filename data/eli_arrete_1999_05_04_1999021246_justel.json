@@ -1,0 +1,54 @@
+{
+  "4": {
+    "ECLI:BE:CASS:2017:ARR.20170202.1F.1": {
+      "court": "CASS",
+      "date": "2017-02-02",
+      "roleNumber": "C.14.0421.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20170202.1F.1",
+      "abstractFR": [
+        "Les membres d'un cabinet ministériel, autre que le chef de cabinet et les chefs de cabinets adjoints, sont nommés et démis par le Ministre."
+      ],
+      "abstractNL": [
+        "De leden van een ministerieel kabinet worden, met uitzondering van de kabinetschef en de adjunct-kabinetschefs, door de minister benoemd en ontslagen."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170201.1": {
+      "court": "CASS",
+      "date": "2017-02-01",
+      "roleNumber": "C.14.0421.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20170201.1",
+      "abstractFR": [
+        "Les membres d'un cabinet ministériel, autre que le chef de cabinet et les chefs de cabinets adjoints, sont nommés et démis par le Ministre."
+      ],
+      "abstractNL": [
+        "De leden van een ministerieel kabinet worden, met uitzondering van de kabinetschef en de adjunct-kabinetschefs, door de minister benoemd en ontslagen."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2017:ARR.20170202.1F.1": {
+      "court": "CASS",
+      "date": "2017-02-02",
+      "roleNumber": "C.14.0421.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20170202.1F.1",
+      "abstractFR": [
+        "Le régime juridique des membres du personnel d'un cabinet ministériel est de type statutaire et la loi du 3 juillet 1978 relative aux contrats de travail n'y est pas applicable."
+      ],
+      "abstractNL": [
+        "De rechtspositie van de personeelsleden van een ministerieel kabinet is van statutaire aard en de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten is daarop niet van toepassing."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170201.1": {
+      "court": "CASS",
+      "date": "2017-02-01",
+      "roleNumber": "C.14.0421.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20170201.1",
+      "abstractFR": [
+        "Le régime juridique des membres du personnel d'un cabinet ministériel est de type statutaire et la loi du 3 juillet 1978 relative aux contrats de travail n'y est pas applicable."
+      ],
+      "abstractNL": [
+        "De rechtspositie van de personeelsleden van een ministerieel kabinet is van statutaire aard en de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten is daarop niet van toepassing."
+      ]
+    }
+  }
+}

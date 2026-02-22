@@ -1,0 +1,29 @@
+{
+  "3": {
+    "ECLI:BE:CASS:2025:ARR.20250908.3N.4": {
+      "court": "CASS",
+      "date": "2025-09-08",
+      "roleNumber": "C.24.0162.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250908.3N.4",
+      "abstractFR": null,
+      "abstractNL": [
+        "De Belgische rechter die bevoegd is om kennis te nemen van een vordering aangaande de contractuele verbintenis waaruit de verpande schuldvordering voortvloeit, is ook bevoegd om kennis te nemen van de vordering waarmee de pandhouder de verpande schuldvordering invordert; deze schuldvordering vloeit immers voort uit eenzelfde contractuele verbintenis.",
+        "De schuldenaar van de verpande schuldvordering, gaat na kennisgeving of erkenning van de verpanding, ten aanzien van de pandhouder geen contractuele verbintenis tot betaling van de verpande schuldvordering aan die zich onderscheidt van zijn contractuele verbintenis ten aanzien van de pandgever."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:2018:ARR.20181214.1": {
+      "court": "CASS",
+      "date": "2018-12-14",
+      "roleNumber": "C.14.0175.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2018:ARR.20181214.1&lang=fr",
+      "abstractFR": [
+        "Il résulte des articles 1999 et 2000 C. civ. et 13 de la de la loi du 5 mai 1872 portant révision des dispositions du Code de commerce relatives au gage et à la commission que, qu'il faille qualifier de contrat ou de commission la convention conclue avec son commettant, l'agent en douane peut recouvrer auprès de son commettant les droits d'entrée et les droits antidumping dont il est redevable envers l'administration (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1999 en 2000 B.W. en artikel 13 van de Wet van 5 mei 1872 houdende herziening van het wetboek van koophandel betreffende het pand en de commissie volgt dat de douane-expediteur, ongeacht of de overeenkomst met zijn opdrachtgever als een lastgeving dan wel als een commissieovereenkomst dient te worden gekwalificeerd, de invoerrechten en anti-dumpingrechten tot betaling waarvan hij jegens de administratie gehouden is, kan verhalen op zijn opdrachtgever (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

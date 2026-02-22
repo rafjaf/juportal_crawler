@@ -1,0 +1,41 @@
+{
+  "4": {
+    "ECLI:BE:CASS:2024:ARR.20241018.1N.3": {
+      "court": "CASS",
+      "date": "2024-10-18",
+      "roleNumber": "C.23.0361.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241018.1N.3",
+      "abstractFR": null,
+      "abstractNL": [
+        "Het beheer van het distributienet heeft betrekking op de leidingen en bijbehorende installaties waaruit het elektriciteitsdistributienet is opgemaakt, niet op de omgeving van de leidingen en installaties (1). (1) Zie concl. OM.",
+        "Het optreden van de distributienetbeheerder om boomtakken af te hakken heeft een subsidiair karakter; de netbeheerder kan boomtakken afhakken indien de eigenaar of desgevallend de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed daartoe niet eerst overgaat (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2025:ARR.20250908.3N.1": {
+      "court": "CASS",
+      "date": "2025-09-08",
+      "roleNumber": "C.23.0495.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250908.3N.1",
+      "abstractFR": null,
+      "abstractNL": [
+        "Het recht op minimumsteun voor de productie van elektriciteit uit hernieuwbare energiebronnen ontstaat pas vanaf de ingebruikname van de productie-installatie, wat betekent dat de elektrische installatie wordt aangesloten en stroom begint op te wekken."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:2016:ARR.20160519.5": {
+      "court": "CASS",
+      "date": "2016-05-19",
+      "roleNumber": "D.15.0005.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2016:ARR.20160519.5&lang=fr",
+      "abstractFR": [
+        "En application de l'article 11.1.11, alinéa 4, du Décret du parlement flamand du 8 mai 2009 portant les dispositions générales en matière de la politique de l'énergie un devoir d'information incombe à l'architecte chargé du contrôle de l'exécution des travaux; cette disposition n'implique toutefois pas que l'architecte soit toujours tenu d'exercer un contrôle sur les travaux pertinents en matière d'exigences PEB."
+      ],
+      "abstractNL": [
+        "Ingevolge artikel 11.1.11, vierde lid, van het decreet van het Vlaamse parlement van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid rust een verwittigingsplicht op de architect die met de controle op de uitvoering van de werken belast is; deze bepaling houdt evenwel niet in dat de architect steeds gehouden is toezicht uit te oefenen op de werken die relevant zijn inzake de EPB-eisen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "15": {
+    "ECLI:BE:CASS:2020:ARR.20200116.1N.6": {
+      "court": "CASS",
+      "date": "2020-01-16",
+      "roleNumber": "C.19.0294.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200116.1N.6&lang=fr",
+      "abstractFR": [
+        "Pour la réalisation et le vote du plan de réorganisation, une créance garantie par un gage sur toutes les créances existantes et futures du débiteur est une créance sursitaire extraordinaire jusqu’à concurrence de la valeur de réalisation en going concern de ces créances (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Voor de uitwerking en stemming van het reorganisatieplan geldt een schuldvordering die gewaarborgd wordt door een pand op alle bestaande en toekomstige schuldvorderingen van de schuldenaar als buitengewone schuldvordering in de opschorting ten belope van de realisatiewaarde in going concern van deze schuldvorderingen (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "60": {
+    "ECLI:BE:CASS:2022:ARR.20220303.1N.4": {
+      "court": "CASS",
+      "date": "2022-03-03",
+      "roleNumber": "C.21.0340.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220303.1N.4&lang=fr",
+      "abstractFR": [
+        "La nullité de l'endossement n'exclut pas qu'une cession ou mise en gage d'une créance de droit commun ait été réalisée."
+      ],
+      "abstractNL": [
+        "De nietigheid van het endossement sluit niet uit dat een gemeenrechtelijke overdracht of verpanding van een schuldvordering is tot stand gekomen."
+      ]
+    },
+    "ECLI:BE:CASS:2020:ARR.20200116.1N.6": {
+      "court": "CASS",
+      "date": "2020-01-16",
+      "roleNumber": "C.19.0294.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200116.1N.6&lang=fr",
+      "abstractFR": [
+        "Pour la réalisation et le vote du plan de réorganisation, une créance garantie par un gage sur toutes les créances existantes et futures du débiteur est une créance sursitaire extraordinaire jusqu’à concurrence de la valeur de réalisation en going concern de ces créances (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Voor de uitwerking en stemming van het reorganisatieplan geldt een schuldvordering die gewaarborgd wordt door een pand op alle bestaande en toekomstige schuldvorderingen van de schuldenaar als buitengewone schuldvordering in de opschorting ten belope van de realisatiewaarde in going concern van deze schuldvorderingen (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

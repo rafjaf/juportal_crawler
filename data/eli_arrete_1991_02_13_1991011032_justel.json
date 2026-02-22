@@ -1,0 +1,30 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2020:ARR.20200121.2N.11": {
+      "court": "CASS",
+      "date": "2020-01-21",
+      "roleNumber": "P.19.0528.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200121.2N.11&lang=fr",
+      "abstractFR": [
+        "Il faut entendre par territoire où le véhicule a son stationnement habituel, le territoire de l'État dont le véhicule porte une plaque d'immatriculation, que celle-ci soit permanente ou temporaire."
+      ],
+      "abstractNL": [
+        "Onder grondgebied waar het voertuig gewoonlijk is gestald moet worden verstaan het grondgebied van de staat waarvan het voertuig een kenteken plaat draagt, ongeacht of het een permanente of een tijdelijke kentekenplaat betreft."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2021:ARR.20210218.1F.1": {
+      "court": "CASS",
+      "date": "2021-02-18",
+      "roleNumber": "C.18.0606.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210218.1F.1",
+      "abstractFR": [
+        "Ni l'article 7 ni aucun autre article de la loi du 21 novembre 1989 ne déroge au droit que l'article 14 de la loi du 25 juin 1992 reconnaît à l'assureur de suspendre la garantie et de résilier le contrat pour défaut de paiement de la prime; il s'ensuit que l'article 5, alinéa 3, de l'arrêté royal du 13 février 1991, qui déroge à ce droit sans y être habilité par aucune loi particulière, est illégal (1). (1) A.R. du 13 février 1991, art. 5, al. 3, avant sa modification par l'A.R. du 22 décembre 2017."
+      ],
+      "abstractNL": [
+        "Noch artikel 7 noch enig ander artikel WAM wijkt af van het recht dat artikel 14 Wet Landverzekeringsovereenkomst aan de verzekeraar toekent om de dekking te schorsen en de overeenkomst op te zeggen wegens niet-betaling van de premie; hieruit volgt dat artikel 5, derde lid, van het koninklijk besluit van 13 februari 1991, dat van dat recht afwijkt zonder daartoe door een bijzondere wet gerechtigd te zijn, onwettig is (1). (1) Art. 5, derde lid, KB van 13 februari 1991, vóór de wijziging ervan door het KB van 22 december 2017."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2021:ARR.20210226.1N.7": {
+      "court": "CASS",
+      "date": "2021-02-26",
+      "roleNumber": "C.17.0582.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210226.1N.7&lang=fr",
+      "abstractFR": [
+        "S'agissant de la prescription des demandes dirigées contre la Région de Bruxelles-Capitale, les dispositions des lois coordonnées du 17 juillet 1991 sur la comptabilité de l'État s'appliquent jusqu'au 1er janvier 2006 et ce n'est qu'à partir du 1er janvier 2006 que les délais de droit commun prévus par la nouvelle loi s'appliquent aux délais en cours et futurs."
+      ],
+      "abstractNL": [
+        "Inzake de verjaring van vorderingen tegen het Brussels Hoofdstedelijk Gewest, zijn tot 1 januari 2006 de bepalingen van de Wet Rijkscomptabiliteit van toepassing en zijn pas vanaf 1 januari 2006 de gemeenrechtelijke termijnen van de nieuwe wet van toepassing op toekomstige en lopende termijnen."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140605.2": {
+      "court": "CASS",
+      "date": "2014-06-05",
+      "roleNumber": "C.13.0434.N",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20140605.2&lang=fr",
+      "abstractFR": [
+        "En ce qui concerne la prescription des demandes dirigées contre la région de Bruxelles Capitale, les dispositions des lois coordonnées sur la comptabilité de l'Etat du 17 juillet 1991 étaient applicables jusqu'au 1er janvier 2006 et les délais de droit commun n'ont été appliqués qu'à partir du 1er janvier 2006."
+      ],
+      "abstractNL": [
+        "Inzake de verjaring van de vorderingen tegen het Brussels Hoofdstedelijk Gewest waren tot 1 januari 2006 de bepalingen van de Wet Rijkscomptabiliteit van toepassing en zijn pas vanaf 1 januari 2006 de gemeenrechtelijke termijnen van toepassing."
+      ]
+    }
+  }
+}
