@@ -7244,6 +7244,18 @@
       ]
     }
   },
+  "84": {
+    "ECLI:BE:CASS:2025:ARR.20251008.2F.8": {
+      "court": "CASS",
+      "date": "2025-10-08",
+      "roleNumber": "P.25.0910.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251008.2F.8",
+      "abstractFR": [
+        "L'article 84 du Code pénal prévoit que les coupables dont la peine criminelle aura été commuée en un emprisonnement pourront être condamnés à une amende de vingt-six à mille euros; cette disposition qui établit une peine accessoire d'amende n'est toutefois pas celle qui érige le vol à l'aide de violences ou la tentative d'extorsion en infraction, de sorte que l'omission d'en faire mention ne saurait constituer à elle seule une violation de l'article 195, alinéa 1er, du Code d'instruction criminelle (1). (1) Cass. 24 octobre 1989, RG n° 2431, Pas. 1990, I, n° 113."
+      ],
+      "abstractNL": null
+    }
+  },
   "85": {
     "ECLI:BE:CASS:2023:ARR.20230530.2N.1": {
       "court": "CASS",

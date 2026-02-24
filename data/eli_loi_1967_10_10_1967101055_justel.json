@@ -2382,6 +2382,16 @@
       "abstractNL": [
         "De rechter op verwijzing is enkel gebonden door de interpretatie van een rechtsregel, zoals weergegeven door het Hof in zijn vernietigingsarrest."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260116.1F.2": {
+      "court": "CASS",
+      "date": "2026-01-16",
+      "roleNumber": "C.23.0400.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260116.1F.2",
+      "abstractFR": [
+        "que celle-ci est conforme à l'arrêt de cassation; il s'ensuit que la juridiction de renvoi n'est liée que par l'interprétation que la Cour a, dans l'arrêt de cassation, donnée d'une règle de droit; l'article 1110, alinéa 4, du Code judiciaire ne fait en revanche pas obstacle à ce que la juridiction de renvoi examine la conformité de la règle de droit ainsi interprétée au droit de l'Union (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "1114": {

@@ -199,6 +199,18 @@
       ]
     }
   },
+  "608": {
+    "ECLI:BE:CASS:2025:ARR.20251008.2F.9": {
+      "court": "CASS",
+      "date": "2025-10-08",
+      "roleNumber": "P.25.0645.F",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251008.2F.9",
+      "abstractFR": [
+        "Une circulaire ne fait pas partie des actes dont la Cour contrôle le respect en vertu de l'article 608 du Code judiciaire (1). (1) Cass. 4 mai 2011, RG P.11.0665.F, Pas. 2011, n° 294 ; Cass. 3 avril 2007, RG P.07.0214.N, Pas. 2007, n° 170 ; Cass. 27 octobre 1977, Pas. 1978, I, p. 250."
+      ],
+      "abstractNL": null
+    }
+  },
   "617": {
     "ECLI:BE:CASS:2025:ARR.20251028.2N.28": {
       "court": "CASS",
