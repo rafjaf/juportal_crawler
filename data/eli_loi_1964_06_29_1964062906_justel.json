@@ -554,7 +554,10 @@
       "date": "2025-03-18",
       "roleNumber": "P.25.0102.N",
       "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250318.2N.14",
-      "abstractFR": null,
+      "abstractFR": [
+        "Le seul fait que le juge, lors de l'examen des antécédents pénaux d'un prévenu, fasse mention de la condamnation à une peine d'emprisonnement sans préciser que cette peine est assortie d'un sursis à l'exécution, n'implique pas que la décision n'est pas adéquatement motivée.",
+        "Aucune disposition ni aucun principe général du droit n'oblige le juge à constater dans sa décision qu'un prévenu se trouve encore, ou non, dans les conditions d'un sursis probatoire, même si le juge constate que le prévenu n'est plus éligible à un sursis simple ou que les peines de travail ou sous surveillance électronique, auxquelles il peut prétendre ne sont pas adéquates."
+      ],
       "abstractNL": [
         "Uit het enkele feit dat de rechter bij de bespreking van het strafrechtelijk verleden van een beklaagde melding maakt van de veroordeling tot een gevangenisstraf, zonder daarbij te vermelden dat die straf met uitstel van tenuitvoerlegging werd uitgesproken, volgt niet dat de beslissing daardoor gebrekkig is gemotiveerd.",
         "Geen enkele bepaling of algemeen rechtsbeginsel verplicht de rechter in zijn beslissing vast te stellen dat een beklaagde al dan niet nog in aanmerking komt voor probatieuitstel van tenuitvoerlegging, ook niet indien de rechter wel vaststelt dat de beklaagde niet meer in aanmerking komt voor gewoon uitstel van tenuitvoerlegging en wel in aanmerking komt voor een werkstraf of een straf onder elektronisch toezicht, maar die straffen niet passend zijn.",
