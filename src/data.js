@@ -12,7 +12,7 @@ import { eliToFilename, normalizeEliToFrench, normalizeCgiUrl, normalizeArticleN
  * data/<eli_filename>.json = {
  *   "<article>": {
  *     "<ECLI>": {
- *       court, date, roleNumber, url,
+ *       court, date, roleNumber, sitemap,
  *       abstractFR, abstractNL
  *     }
  *   }
@@ -20,19 +20,25 @@ import { eliToFilename, normalizeEliToFrench, normalizeCgiUrl, normalizeArticleN
  */
 
 /**
- * Merge an incoming abstract string into an existing abstract array.
+ * Merge an incoming value (string or array) into an existing array.
  * - Existing value is normalised to an array (tolerates legacy scalar strings).
- * - The incoming value is appended only if it is not already present.
+ * - The incoming value(s) are appended only if not already present.
  * - Returns null when the result would be an empty array.
  */
-function mergeAbstractArrays(existing, incoming) {
+function mergeArrays(existing, incoming) {
   const arr = Array.isArray(existing) ? [...existing]
     : (existing ? [existing] : []);
-  if (incoming && !arr.includes(incoming)) arr.push(incoming);
+  if (Array.isArray(incoming)) {
+    for (const v of incoming) {
+      if (v && !arr.includes(v)) arr.push(v);
+    }
+  } else if (incoming && !arr.includes(incoming)) {
+    arr.push(incoming);
+  }
   return arr.length > 0 ? arr : null;
 }
 
-export function storeJudgementData(judgement, abstractToBasesMap) {
+export function storeJudgementData(judgement, abstractToBasesMap, sitemapUrl) {
   // abstractToBasesMap: array of { abstractFR?, abstractNL?, legalBases: [{article, eli}] }
 
   for (const entry of abstractToBasesMap) {
@@ -54,9 +60,9 @@ export function storeJudgementData(judgement, abstractToBasesMap) {
         court: judgement.court,
         date: judgement.judgementDate,
         roleNumber: judgement.roleNumber,
-        url: judgement.judgementUrl,
-        abstractFR: mergeAbstractArrays(existing.abstractFR, entry.abstractFR),
-        abstractNL: mergeAbstractArrays(existing.abstractNL, entry.abstractNL),
+        sitemap: mergeArrays(existing.sitemap, sitemapUrl),
+        abstractFR: mergeArrays(existing.abstractFR, entry.abstractFR),
+        abstractNL: mergeArrays(existing.abstractNL, entry.abstractNL),
       };
 
       logInfo(chalk.gray(`${timestamp()}       Saved | article="${base.article}" | ${filename} | ecli=${judgement.ecli}`));
@@ -65,7 +71,7 @@ export function storeJudgementData(judgement, abstractToBasesMap) {
   }
 }
 
-export function recordMissingEliData(judgement, abstractToBasesMap) {
+export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) {
   let recorded = 0;
 
   for (const entry of abstractToBasesMap) {
@@ -77,10 +83,12 @@ export function recordMissingEliData(judgement, abstractToBasesMap) {
         court: judgement.court,
         date: judgement.judgementDate,
         roleNumber: judgement.roleNumber,
-        url: judgement.judgementUrl,
+        sitemap: sitemapUrl,
         article: missing.article,
         abstractFR: entry.abstractFR || null,
         abstractNL: entry.abstractNL || null,
+        legalBasisFR: missing.legalBasisFR || null,
+        legalBasisNL: missing.legalBasisNL || null,
       });
       recorded++;
     }
@@ -127,14 +135,13 @@ export function processMissingEliFile() {
         court: element.court,
         judgementDate: element.date,
         roleNumber: element.roleNumber,
-        judgementUrl: element.url,
       };
 
       storeJudgementData(judgement, [{
         abstractFR: element.abstractFR || null,
         abstractNL: element.abstractNL || null,
         legalBases: [{ article: normalizeArticleNumber(element.article || ''), eli: normalizedEli }],
-      }]);
+      }], element.sitemap);
 
       reintegratedElements++;
     }

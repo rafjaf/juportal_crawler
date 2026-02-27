@@ -9,6 +9,8 @@ import {
   normalizeCgiUrl,
   parseArticleNumbers,
   extractLegalBasisKey,
+  extractDateFromBasisText,
+  buildBasisTextLookup,
 } from './utils.js';
 
 /**
@@ -52,6 +54,7 @@ export function parseJudgementHtml(html) {
     // Extract legal bases from "Bases légales:" / "Wettelijke bepalingen:" rows
     const basesLegales = [];
     const missingEliBases = [];
+    const allBasisTexts = []; // { article, rawText, lang } — for FR/NL correlation
     $fieldset.find('tr').each((_, tr) => {
       const $tr = $(tr);
       const $labelTd = $tr.find('td').first();
@@ -59,6 +62,7 @@ export function parseJudgementHtml(html) {
       
       // Check if this row contains legal bases (FR or NL label)
       if (!LEGAL_BASES_LABELS.includes(label)) return;
+      const basisLang = label === 'Bases légales:' ? 'fr' : 'nl';
 
       const $descTd = $labelTd.next('td');
       if (!$descTd.length) return;
@@ -91,7 +95,7 @@ export function parseJudgementHtml(html) {
           text.match(RE_ART_REF_NO_COUNTER) ||
           text.match(RE_ART_REF_NO_DATE);
         if (artGroupMatch) {
-          const articles = parseArticleNumbers(artGroupMatch[1].trim());
+          const articles = parseArticleNumbers(artGroupMatch[1].trim(), text);
           const lawKey = extractLegalBasisKey(text);
           logInfo(chalk.gray(`${timestamp()}       Legal basis parsed | raw="${text}" | articles=[${articles.join(', ')}] | eli=${eliLink || 'MISSING'}`));
 
@@ -101,12 +105,14 @@ export function parseJudgementHtml(html) {
                 article: art,
                 rawLegalBasisText: lawKey,
               });
+              allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
             }
             continue;
           }
 
           for (const art of articles) {
             basesLegales.push({ article: art, eli: eliLink });
+            allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
           }
         } else if (text) {
           // Detect general legal principles: no date, no Art., no ELI
@@ -122,6 +128,7 @@ export function parseJudgementHtml(html) {
             } else {
               missingEliBases.push({ article: 'general', rawLegalBasisText: lawKey });
             }
+            allBasisTexts.push({ article: 'general', rawText: text, lang: basisLang });
           } else {
             logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
             unextractable.push(text);
@@ -129,6 +136,23 @@ export function parseJudgementHtml(html) {
         }
       }
     });
+
+    // Enrich legal bases with FR/NL raw texts
+    const basisTextLookup = buildBasisTextLookup(allBasisTexts);
+    for (const b of basesLegales) {
+      const date = extractDateFromBasisText(
+        (allBasisTexts.find(t => t.article === b.article) || {}).rawText || ''
+      ) || 'no-date';
+      const texts = basisTextLookup[`${b.article}|${date}`] || {};
+      b.legalBasisFR = texts.fr || null;
+      b.legalBasisNL = texts.nl || null;
+    }
+    for (const m of missingEliBases) {
+      const date = extractDateFromBasisText(m.rawLegalBasisText || '') || 'no-date';
+      const texts = basisTextLookup[`${m.article}|${date}`] || {};
+      m.legalBasisFR = texts.fr || null;
+      m.legalBasisNL = texts.nl || null;
+    }
 
     fiches.push({
       abstract: abstractText,

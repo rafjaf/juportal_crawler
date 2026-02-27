@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE } from './constants.js';
+import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE, LOG_FILE } from './constants.js';
 import { logInfo, logWarn, timestamp } from './logger.js';
 
 // ─── Settings Management ─────────────────────────────────────────────────────
@@ -103,16 +103,48 @@ export function appendMissingEli(rawLegalBasisText, element) {
     };
   }
 
-  const duplicate = data[key].elements.some(existing => (
-    existing.ecli === element.ecli
-    && existing.article === element.article
-    && existing.url === element.url
-    && existing.abstractFR === element.abstractFR
-    && existing.abstractNL === element.abstractNL
-  ));
+  // Look for an existing element with the same ecli + article to merge sitemaps
+  const existing = data[key].elements.find(e =>
+    e.ecli === element.ecli && e.article === element.article
+  );
 
-  if (!duplicate) {
-    data[key].elements.push(element);
+  if (existing) {
+    // Merge sitemap array
+    if (!Array.isArray(existing.sitemap)) existing.sitemap = existing.sitemap ? [existing.sitemap] : [];
+    if (element.sitemap && !existing.sitemap.includes(element.sitemap)) {
+      existing.sitemap.push(element.sitemap);
+    }
+  } else {
+    data[key].elements.push({
+      ...element,
+      sitemap: element.sitemap ? [element.sitemap] : [],
+    });
   }
   saveMissingEliFile(data);
+}
+
+// ─── Log File Management ─────────────────────────────────────────────────────
+
+export function loadLogFile() {
+  try {
+    if (fs.existsSync(LOG_FILE)) {
+      return JSON.parse(fs.readFileSync(LOG_FILE, 'utf-8'));
+    }
+  } catch { /* start fresh */ }
+  return {};
+}
+
+export function saveLogFile(data) {
+  fs.writeFileSync(LOG_FILE, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+/**
+ * Append a timestamped entry to log.json.
+ * @param {Object} entry - All judgement information to log.
+ */
+export function appendLogEntry(entry) {
+  const data = loadLogFile();
+  const key = new Date().toISOString();
+  data[key] = entry;
+  saveLogFile(data);
 }

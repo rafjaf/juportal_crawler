@@ -5,7 +5,7 @@ import { textSimilarity } from './utils.js';
 import { parseSitemapXml } from './sitemap.js';
 import { fetchJudgementHtml, parseJudgementHtml } from './judgement.js';
 import { storeJudgementData, recordMissingEliData } from './data.js';
-import { appendParseError } from './storage.js';
+import { appendParseError, appendLogEntry } from './storage.js';
 
 // ─── Phase 1 – Network fetch ─────────────────────────────────────────────────
 
@@ -190,7 +190,7 @@ export async function fetchSitemapResult(sitemapUrl) {
  * Updates counters in-place. Returns true on success, false on error.
  * When markProcessed is true the URL is pushed to settings.processedSitemaps.
  */
-export function commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+export function commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed = true, log = false } = {}) {
   const markDone = () => {
     if (markProcessed) {
       settings.processedSitemaps.push(sitemapUrl);
@@ -219,12 +219,45 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
   for (const rawText of unextractable) {
     appendParseError(sitemapUrl, rawText);
   }
-  recordMissingEliData(judgement, abstractToBasesMap);
+  recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl);
 
   try {
-    storeJudgementData(judgement, abstractToBasesMap);
+    storeJudgementData(judgement, abstractToBasesMap, sitemapUrl);
     counters.savedJudgements++;
     logSuccess(`✔ Saved data for ${judgement.ecli}`);
+
+    // Append log entry when --log is active
+    if (log) {
+      const allBases = abstractToBasesMap.flatMap(entry =>
+        (entry.legalBases || []).map(b => ({
+          article: b.article,
+          eli: b.eli || null,
+          legalBasisFR: b.legalBasisFR || null,
+          legalBasisNL: b.legalBasisNL || null,
+        }))
+      );
+      const allMissing = abstractToBasesMap.flatMap(entry =>
+        (entry.missingEliBases || []).map(m => ({
+          article: m.article,
+          rawLegalBasisText: m.rawLegalBasisText || null,
+          legalBasisFR: m.legalBasisFR || null,
+          legalBasisNL: m.legalBasisNL || null,
+        }))
+      );
+      appendLogEntry({
+        ecli: judgement.ecli,
+        court: judgement.court,
+        date: judgement.judgementDate,
+        roleNumber: judgement.roleNumber,
+        sitemap: sitemapUrl,
+        abstracts: abstractToBasesMap.map(e => ({
+          abstractFR: e.abstractFR || null,
+          abstractNL: e.abstractNL || null,
+        })),
+        legalBases: allBases,
+        missingEliBases: allMissing,
+      });
+    }
   } catch (err) {
     logError(`✖ Failed to save data for ${judgement.ecli}: ${err.message}`);
     counters.errorCount++;
@@ -243,8 +276,8 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
  * Updates counters in-place. Returns true on success, false on error.
  * When markProcessed is true the URL is added to settings.processedSitemaps.
  */
-export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true } = {}) {
+export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true, log = false } = {}) {
   const result = await fetchSitemapResult(sitemapUrl);
-  return commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed });
+  return commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed, log });
 }
 

@@ -50,12 +50,35 @@ export function normalizeCgiUrl(url) {
 }
 
 /**
+ * Detect whether a raw legal-basis text refers to an international instrument
+ * (convention, protocol, EU directive/regulation, treaty…) rather than a
+ * purely national law.
+ *
+ * In international instruments the article decimal notation "6.3" means
+ * article 6, paragraph 3, whereas in national codes it denotes a genuine
+ * hierarchical article number.
+ *
+ * Exclusions: "Convention collective" and "Convention de travail" are domestic
+ * labour-law instruments, not international treaties.
+ */
+export function isInternationalInstrument(text) {
+  if (!text) return false;
+  // Negative look-ahead prevents matching domestic collective-agreement labels
+  return /\b(?:Convention(?!\s+(?:collectiv|de\s+travail))|Protocole|Protocol(?:\s+(?:bij|nr|to)\b)?|Directive\s+\d{4}[\/\\]|Richtlijn\s+\d{4}[\/\\]|Règlement\s+\((?:CE|UE|CEE|Euratom)\)|Verordening\s+\((?:EG|EU|EEG)\)|Traité\b|Verdrag\b|Charte\s+(?:sociale|des\s+droits|of\s+Fundamental)|Accord\s+(?:international|européen|européenne|de\s+coopération|du\s+Conseil\s+de\s+l'Europe|relatif\s+au\s+transport))/i.test(text);
+}
+
+/**
  * Parse article numbers from a string like "23/1" or "2, § 1er".
+ * @param {string} raw               - The articles portion captured by the regex.
+ * @param {string} rawLegalBasisText - The full raw legal-basis line (used for
+ *                                     international-instrument detection).
  * Returns an array of article strings.
  */
-export function parseArticleNumbers(raw) {
+export function parseArticleNumbers(raw, rawLegalBasisText = '') {
   const text = normalizeWhitespace(raw || '');
   if (!text) return [];
+
+  const intl = isInternationalInstrument(rawLegalBasisText);
 
   // Split multi-article references like "26 et 31" / "26 en 31" / "17, 27 en 37".
   // Both branches now require 2+ digits on the right-hand side so that
@@ -63,11 +86,26 @@ export function parseArticleNumbers(raw) {
   // mistaken for separate article numbers.
   const chunks = text
     .split(/(?:,\s*(?=[0-9]{2,})|\s+(?:et|en)\s+(?=[0-9]{2,}))/i)
-    .map(chunk => normalizeArticleNumber(chunk))
+    .map(chunk => normalizeArticleNumber(chunk, intl))
     .filter(Boolean);
 
   // Keep unique values in original order
-  return [...new Set(chunks)];
+  const unique = [...new Set(chunks)];
+
+  // Articles in a legal basis are typically listed in ascending order.
+  // Filter out any purely-numeric article that is smaller than the last
+  // accepted numeric article — such entries are sub-paragraph qualifiers
+  // (§, al., lid) that were not caught earlier.
+  let lastNumeric = 0;
+  return unique.filter(art => {
+    const n = parseInt(art, 10);
+    if (!isNaN(n) && String(n) === art) {
+      // Purely numeric article
+      if (n < lastNumeric) return false;
+      lastNumeric = n;
+    }
+    return true;
+  });
 }
 
 /**
@@ -79,11 +117,25 @@ export function parseArticleNumbers(raw) {
  *   Pattern B – Roman-numeral.N   : "XX.194"                   (Code de droit économique)
  *   Pattern C – Colon-separated   : "3:1"                      (Code des sociétés)
  *   Pattern D – Standard numeric  : "14", "235bis", "23/1"
+ *   Pattern E – Dotted numeric:
+ *     National (isInternational=false) : N.M and N.M.P… are genuine article
+ *       numbers and kept as-is: "8.4"→"8.4", "6.33"→"6.33", "5.4.3.4"→"5.4.3.4"
+ *     International (isInternational=true) : exactly two segments N.M are
+ *       stripped to N (M is a paragraph/sub-article qualifier, e.g. ECHR
+ *       "6.3" = article 6 § 3). Three or more segments are always kept.
  *
+ * @param {string}  art             - The raw chunk to normalise.
+ * @param {boolean} isInternational - Whether the source law is an international
+ *                                    instrument (affects dotted-form handling).
  * Returns an empty string for non-article fragments (e.g. "zesde lid") so
  * callers can filter them out.
  */
-export function normalizeArticleNumber(art) {
+export function normalizeArticleNumber(art, isInternational = false) {
+  // Reject sub-paragraph qualifiers: § N, al. N, alinéa N, lid N
+  // These denote paragraphs/alineas, not article numbers.
+  const trimmed = (art || '').trim();
+  if (/^(?:§|al\.|alin[ée]a|lid)\s/i.test(trimmed)) return '';
+
   // Strip sub-paragraph qualifiers after a comma ("14, § 7" → "14")
   // Also strip French/Dutch ordinal suffixes: "1er" → "1", "2ème" → "2",
   // "3e" → "3", "1ière" → "1". The suffix must immediately follow digits
@@ -115,20 +167,28 @@ export function normalizeArticleNumber(art) {
     return romanDotMatch[1];
   }
 
-  // Pattern E: Multi-level hierarchical dotted number (e.g. ADR convention "5.4.3.4").
-  // Requires at least two dot-number groups so that "14.7" (single sub-level, stripped
-  // below) is not affected, while "5.4.3.4" and similar are preserved in full.
-  const hierMatch = text.match(/^(\d+(?:\.\d+){2,})(?:[^0-9]|$)/);
-  if (hierMatch) return hierMatch[1];
+  // Pattern E: Dotted numeric article numbers.
+  //
+  // Any sequence of dot-separated digit groups (e.g. "8.4", "6.33", "5.4.3.4")
+  // is matched here.
+  //   3+ segments → always kept regardless of context (e.g. "5.4.3.4" in ADR).
+  //   2 segments  → kept as-is for national law ("8.4"→"8.4", "6.33"→"6.33");
+  //                 stripped to base integer for international instruments
+  //                 ("6.3"→"6" since M is a paragraph qualifier).
+  const dotMatch = text.match(/^(\d+(?:\.\d+)+)(?:[^0-9.]|$)/);
+  if (dotMatch) {
+    const full = dotMatch[1];
+    const segments = full.split('.');
+    if (segments.length >= 3 || !isInternational) {
+      return full;   // always keep 3+; keep N.M for national
+    }
+    // International + exactly 2 segments: strip the paragraph qualifier
+    return segments[0];
+  }
 
   // Pattern C/D: standard numeric, colon-separated ("3:1"), slash-separated ("23/1"),
   // or hyphen-separated ("577-2", "577-7") as used in the Belgian Civil Code.
-  // Only strip the decimal sub-paragraph dot for pure-numeric articles ("14.7" → "14").
-  const normalized = text
-    .replace(/\.([0-9]).*$/, '') // "14.7" → "14"
-    .trim();
-
-  const match = normalized.match(/^([0-9]+(?:[-:/][0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
+  const match = text.match(/^([0-9]+(?:[-:/][0-9]+)?(?:bis|ter|quater|quinquies|sexies|septies|octies|nonies|decies)?)\b/i);
   return match ? match[1] : '';
 }
 
@@ -189,4 +249,31 @@ export function textSimilarity(a, b) {
 
 export function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Extract a DD-MM-YYYY date from a legal-basis reference text.
+ * Returns the first date found, or null if none.
+ */
+export function extractDateFromBasisText(text) {
+  const m = (text || '').match(/(\d{2}-\d{2}-\d{4})/);
+  return m ? m[1] : null;
+}
+
+/**
+ * Build a lookup from `${article}|${date}` to `{ fr: rawText, nl: rawText }`
+ * so that FR and NL raw texts for the same legal basis can be correlated.
+ *
+ * @param {Array<{article: string, rawText: string, lang: string}>} entries
+ * @returns {Object<string, {fr?: string, nl?: string}>}
+ */
+export function buildBasisTextLookup(entries) {
+  const lookup = {};
+  for (const { article, rawText, lang } of entries) {
+    const date = extractDateFromBasisText(rawText) || 'no-date';
+    const key = `${article}|${date}`;
+    if (!lookup[key]) lookup[key] = {};
+    lookup[key][lang || 'fr'] = rawText;
+  }
+  return lookup;
 }

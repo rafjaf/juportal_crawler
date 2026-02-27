@@ -9,6 +9,8 @@ import {
   normalizeCgiUrl,
   parseArticleNumbers,
   extractLegalBasisKey,
+  extractDateFromBasisText,
+  buildBasisTextLookup,
 } from './utils.js';
 
 // ─── robots.txt Parsing ──────────────────────────────────────────────────────
@@ -164,6 +166,7 @@ export async function parseSitemapXml(sitemapUrl) {
   let roleNumber = null;
   const legalBases = []; // { article, eli } — resolved
   const legalBasesWithoutEli = []; // { article, rawText } — ELI absent in XML
+  const allBasisTexts = []; // { article, rawText, lang } — for FR/NL correlation
   
   const rawRefs = meta.reference;
   if (rawRefs) {
@@ -231,7 +234,7 @@ export async function parseSitemapXml(sitemapUrl) {
           const lawName = extractLegalBasisKey(text);
           const rawArticles = artMatch[1].trim();
           
-          const articles = parseArticleNumbers(rawArticles);
+          const articles = parseArticleNumbers(rawArticles, text);
           
           // Build a law identifier key
           const newLawKey = lawName;
@@ -256,6 +259,7 @@ export async function parseSitemapXml(sitemapUrl) {
           
           for (const art of articles) {
             currentArticles.push({ article: art, eli: null, lang: lang || 'fr', rawText: text });
+            allBasisTexts.push({ article: art, rawText: text, lang: lang || 'fr' });
           }
           continue;
         }
@@ -281,6 +285,7 @@ export async function parseSitemapXml(sitemapUrl) {
             currentLawKey = newLawKey;
           }
           currentArticles.push({ article: 'general', eli: null, lang: lang || 'fr', rawText: text });
+          allBasisTexts.push({ article: 'general', rawText: text, lang: lang || 'fr' });
           continue;
         }
       }
@@ -314,6 +319,7 @@ export async function parseSitemapXml(sitemapUrl) {
   }
 
   // Deduplicate legal bases (same article + same ELI), keep only those with a resolvable ELI
+  const basisTextLookup = buildBasisTextLookup(allBasisTexts);
   const seenBases = new Set();
   const uniqueBases = [];
   for (const lb of legalBases) {
@@ -335,8 +341,18 @@ export async function parseSitemapXml(sitemapUrl) {
     const key = `${lb.article}|${eli}`;
     if (!seenBases.has(key)) {
       seenBases.add(key);
-      uniqueBases.push({ ...lb, eli });
+      const date = extractDateFromBasisText(lb.rawText || '') || 'no-date';
+      const texts = basisTextLookup[`${lb.article}|${date}`] || {};
+      uniqueBases.push({ ...lb, eli, legalBasisFR: texts.fr || null, legalBasisNL: texts.nl || null });
     }
+  }
+
+  // Enrich legalBasesWithoutEli with FR/NL raw texts
+  for (const entry of legalBasesWithoutEli) {
+    const date = extractDateFromBasisText(entry.rawLegalBasisText || '') || 'no-date';
+    const texts = basisTextLookup[`${entry.article}|${date}`] || {};
+    entry.legalBasisFR = texts.fr || null;
+    entry.legalBasisNL = texts.nl || null;
   }
 
   return {

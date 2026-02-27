@@ -41,6 +41,8 @@ async function main() {
     console.log(`  ${chalk.cyan('--fix-errors')}             Re-process every sitemap listed in errors.json using`);
     console.log(`                            the latest algorithm. Entries that are now successfully`);
     console.log(`                            parsed are removed from errors.json.`);
+    console.log(`  ${chalk.cyan('--log')}                    Log each saved judgement to log.json with full detail`);
+    console.log(`                            (for debugging / auditing the crawl logic).`);
     console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
     console.log(chalk.bold('Default (no arguments):'));
     console.log(`  Fetches all sitemap indexes from robots.txt and crawls them from`);
@@ -54,6 +56,7 @@ async function main() {
   }
 
   if (process.argv.includes('--fix-errors')) {
+    const logEnabled = process.argv.includes('--log');
     const originalErrors = loadErrorsFile();
     const errorSitemapUrls = Object.keys(originalErrors);
 
@@ -80,7 +83,7 @@ async function main() {
       logInfo(chalk.gray(`  Had ${originalTexts.length} error(s): ${originalTexts.slice(0, 2).join(' | ')}${originalTexts.length > 2 ? ` (+${originalTexts.length - 2} more)` : ''}`));
 
       const counters = { skippedCourt: 0, savedJudgements: 0, errorCount: 0 };
-      const success = await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false });
+      const success = await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false, log: logEnabled });
 
       if (!success && counters.errorCount > 0) {
         // Network or fatal error — restore original errors for this URL so they
@@ -124,6 +127,7 @@ async function main() {
   // The already-processed check is bypassed; settings are NOT updated.
   const targetUrl = process.argv.slice(2).find(a => a.startsWith('http'));
   if (targetUrl) {
+    const logEnabled = process.argv.includes('--log');
     logInfo(`${timestamp()} ${chalk.bold('Targeted run:')} ${chalk.cyan(targetUrl)}`);
     const counters = { skippedCourt: 0, savedJudgements: 0, errorCount: 0 };
     const settings = loadSettings(); // read-only for targeted runs
@@ -145,7 +149,7 @@ async function main() {
     for (let i = 0; i < sitemapUrls.length; i++) {
       const sitemapUrl = sitemapUrls[i];
       logInfo(chalk.gray(`${timestamp()} [${i + 1}/${sitemapUrls.length}] ${sitemapUrl}`));
-      await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false });
+      await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false, log: logEnabled });
     }
 
     logSuccess(`✔ Done — saved: ${counters.savedJudgements}, skipped: ${counters.skippedCourt}, errors: ${counters.errorCount}`);
@@ -153,6 +157,7 @@ async function main() {
   }
 
   const settings = loadSettings();
+  const logEnabled = process.argv.includes('--log');
 
   // Step 1: Fetch all sitemap index URLs from robots.txt
   let sitemapIndexUrls;
@@ -239,7 +244,7 @@ async function main() {
         // Commits are serialised so concurrent fetches never race on disk.
         await serialQ.enqueue(() => {
           const count = { skippedCourt, savedJudgements, errorCount };
-          const ok = commitSitemapResult(result, sitemapUrl, settings, count);
+          const ok = commitSitemapResult(result, sitemapUrl, settings, count, { log: logEnabled });
           skippedCourt = count.skippedCourt;
           savedJudgements = count.savedJudgements;
           errorCount = count.errorCount;

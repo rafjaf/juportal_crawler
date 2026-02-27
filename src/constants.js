@@ -9,6 +9,7 @@ export const ROBOTS_TXT_URL = 'https://juportal.be/robots.txt';
 export const SETTINGS_FILE = path.join(ROOT_DIR, 'settings.json');
 export const MISSING_ELI_FILE = path.join(ROOT_DIR, 'missing_eli.json');
 export const ERRORS_FILE = path.join(ROOT_DIR, 'errors.json');
+export const LOG_FILE = path.join(ROOT_DIR, 'log.json');
 export const DATA_DIR = path.join(ROOT_DIR, 'data');
 export const MAX_RETRIES = 10;
 export const RETRY_DELAY_MS = 5000;
