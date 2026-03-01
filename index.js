@@ -11,20 +11,73 @@
  */
 
 import chalk from 'chalk';
+import readline from 'node:readline';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, flushAll } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
 import { progress } from './src/progress.js';
 import { SITEMAP_CONCURRENCY } from './src/constants.js';
 import { Semaphore, SerialQueue } from './src/concurrency.js';
+import fs from 'fs';
+
+// ─── Graceful shutdown ───────────────────────────────────────────────────────
+
+// Flush deferred in-memory stores on any exit path (normal return, Ctrl+C,
+// process.exit(), or SIGTERM from the scheduler).
+process.on('exit', flushAll);
+process.on('SIGTERM', () => process.exit(0));
+process.on('SIGINT', () => {
+  progress.finish();
+  flushAll();
+  process.exit(0);
+});
+
+// ─── Listen for 'q' keypress to quit gracefully ──────────────────────────────
+
+/**
+ * Listen for the user to press 'q' / 'Q' / Ctrl+C to exit and flushall.
+ * Tries to enter raw mode so individual keypresses are captured without
+ * requiring the user to press Enter.
+ */
+function setupQuitListener() {
+  const stdin = process.stdin;
+
+  if (!stdin || !stdin.isTTY || typeof stdin.setRawMode !== 'function') {
+    return;
+  }
+
+  try {
+    readline.emitKeypressEvents(stdin);
+    stdin.setRawMode(true);
+    stdin.resume();
+    // Prevent the stdin stream from keeping the program alive
+    // when all other tasks are completed.
+    stdin.unref();
+  } catch {
+    return;
+  }
+
+  const onKeypress = (str, key) => {
+    if ((key && key.ctrl && key.name === 'c') || (key && key.name === 'q') || (str && str.toLowerCase() === 'q')) {
+      progress.finish();
+      flushAll();
+      process.exit(0);
+    }
+  };
+
+  stdin.on('keypress', onKeypress);
+}
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
 
 async function main() {
+  const packageJson = JSON.parse(fs.readFileSync('./package.json', 'utf8'));
+  const version = packageJson.version;
+  
   console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
-  console.log(chalk.bold.cyan('║         JUPORTAL CRAWLER v1.0.0          ║'));
+  console.log(chalk.bold.cyan(`║         JUPORTAL CRAWLER v${version.padEnd(14, ' ')} ║`));
   console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝\n'));
 
   ensureDataDir();
@@ -52,6 +105,7 @@ async function main() {
 
   if (process.argv.includes('--process-missing-eli')) {
     processMissingEliFile();
+    flushAll();
     return;
   }
 
@@ -120,6 +174,7 @@ async function main() {
     logInfo(`  Unchanged:        ${unchangedCount}`);
     if (networkErrorCount > 0) logError(`  Network errors:   ${networkErrorCount}`);
     logInfo('');
+    flushAll();
     return;
   }
 
@@ -153,6 +208,7 @@ async function main() {
     }
 
     logSuccess(`✔ Done — saved: ${counters.savedJudgements}, skipped: ${counters.skippedCourt}, errors: ${counters.errorCount}`);
+    flushAll();
     return;
   }
 
@@ -276,7 +332,9 @@ async function main() {
     }
     progress.endIndex();
   }
-  progress.clear();
+  // Permanently deactivate the progress bar so that logInfo() in the summary
+  // block no longer redraws it to stderr (which would mask the quit prompt).
+  progress.finish();
 
   // Final summary
   console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
@@ -295,9 +353,21 @@ async function main() {
     ? 'Nothing new found.'
     : `${newSitemapIndexCount} index(es) processed, ${savedJudgements} judgement(s) saved${errorCount > 0 ? `, ${errorCount} error(s)` : ''}.`;
   console.log(`SUMMARY: ${summaryLine}`);
+
+  // Always show the quit prompt; if we have an interactive terminal,
+  // we wait until 'q' or Ctrl+C is pressed (which is handled by setupQuitListener).
+  progress.showQuitPrompt();
+  if (process.stdin && process.stdin.isTTY) {
+    // Keep the event loop alive until the user presses q.
+    await new Promise(() => {});
+  } else {
+    flushAll();
+  }
 }
 
 // ─── Entry Point ─────────────────────────────────────────────────────────────
+
+setupQuitListener();
 
 main().catch(err => {
   logFatal(`Unexpected error: ${err.message}`);

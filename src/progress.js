@@ -32,6 +32,7 @@ class ProgressTracker {
 
     this._crawlStart = Date.now();
     this._rendered = false;       // whether a bar line is currently on stderr
+    this._done = false;           // set to true when processing is complete
   }
 
   // ── Configuration ──────────────────────────────────────────────────────────
@@ -99,6 +100,21 @@ class ProgressTracker {
   // ── Rendering ──────────────────────────────────────────────────────────────
 
   /**
+   * Print the progress bar (with quit hint appended) as a standalone stdout
+   * line.  Uses console.log so it works regardless of TTY / stderr state.
+   */
+  showQuitPrompt() {
+    this._done = true;
+    const done = this.doneIndexes;
+    const total = this.totalIndexes;
+    const pct = total > 0 ? done / total : 0;
+    const filled = Math.round(pct * BAR_WIDTH);
+    const bar = chalk.green('█'.repeat(filled)) + chalk.gray('░'.repeat(BAR_WIDTH - filled));
+    const pctStr = `${Math.floor(pct * 100)}%`.padStart(4);
+    console.log(`${bar} ${chalk.bold(pctStr)} ${chalk.gray('│')} ${chalk.gray('Press ')}${chalk.bold.cyan('q')}${chalk.gray(' to quit')}`);
+  }
+
+  /**
    * Clear the progress line from stderr (called before any console.log so
    * log output and the bar don't interleave visually).
    */
@@ -106,6 +122,17 @@ class ProgressTracker {
     if (!this._active || !isTTY || !this._rendered) return;
     process.stderr.write('\r\x1b[2K');
     this._rendered = false;
+  }
+
+  /**
+   * Clear the progress bar and permanently deactivate further renders.
+   * Call once the crawl is finished so that logInfo() in the summary block
+   * no longer redraws the bar to stderr (which would visually mask the
+   * quit prompt printed separately to stdout).
+   */
+  finish() {
+    this.clear();
+    this._active = false;
   }
 
   /**
@@ -193,7 +220,8 @@ class ProgressTracker {
     const elapsedStr = `elapsed ${elapsed}`;
 
     const parts = [idxStr, smStr, etaStr, elapsedStr].filter(Boolean);
-    return `${bar} ${chalk.bold(pctStr)} ${chalk.gray('│')} ${parts.join(chalk.gray(' │ '))}`;
+    const quitHint = chalk.gray(' │ Press ') + chalk.bold.cyan('q') + chalk.gray(' to quit');
+    return `${bar} ${chalk.bold(pctStr)} ${chalk.gray('│')} ${parts.join(chalk.gray(' │ '))} ${quitHint}`;
   }
 }
 

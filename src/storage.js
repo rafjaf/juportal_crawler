@@ -3,22 +3,67 @@ import path from 'path';
 import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE, LOG_FILE } from './constants.js';
 import { logInfo, logWarn, timestamp } from './logger.js';
 
+// ─── In-memory caches (deferred writes) ──────────────────────────────────────
+// errors.json, log.json, missing_eli.json and settings.json are held in memory
+// and flushed to disk only on exit (via flushAll).  ELI data files are still
+// written immediately as before.
+
+let _settingsCache = null;
+let _errorsCache = null;
+let _missingEliCache = null;
+let _logCache = null;
+
+/**
+ * Write all deferred in-memory stores to disk.
+ * Safe to call from a process 'exit' handler (synchronous).
+ */
+export function flushAll() {
+  const written = [];
+  if (_settingsCache !== null) {
+    fs.writeFileSync(SETTINGS_FILE, JSON.stringify(_settingsCache, null, 2), 'utf-8');
+    written.push('settings.json');
+    _settingsCache = null;
+  }
+  if (_errorsCache !== null) {
+    fs.writeFileSync(ERRORS_FILE, JSON.stringify(_errorsCache, null, 2), 'utf-8');
+    written.push('errors.json');
+    _errorsCache = null;
+  }
+  if (_missingEliCache !== null) {
+    fs.writeFileSync(MISSING_ELI_FILE, JSON.stringify(_missingEliCache, null, 2), 'utf-8');
+    written.push('missing_eli.json');
+    _missingEliCache = null;
+  }
+  if (_logCache !== null) {
+    fs.writeFileSync(LOG_FILE, JSON.stringify(_logCache, null, 2), 'utf-8');
+    written.push('log.json');
+    _logCache = null;
+  }
+  if (written.length > 0) {
+    console.log(`\u2714 Saved to disk: ${written.join(', ')}`);
+  }
+}
+
 // ─── Settings Management ─────────────────────────────────────────────────────
 
 export function loadSettings() {
+  if (_settingsCache !== null) return _settingsCache;
   try {
     if (fs.existsSync(SETTINGS_FILE)) {
       const raw = fs.readFileSync(SETTINGS_FILE, 'utf-8');
-      return JSON.parse(raw);
+      _settingsCache = JSON.parse(raw);
+      return _settingsCache;
     }
   } catch (err) {
     logWarn(`⚠ Could not read settings.json, starting fresh: ${err.message}`);
   }
-  return { processedSitemapIndexes: [], processedSitemaps: [] };
+  _settingsCache = { processedSitemapIndexes: [], processedSitemaps: [] };
+  return _settingsCache;
 }
 
+/** Updates in-memory cache only — written to disk on exit via flushAll(). */
 export function saveSettings(settings) {
-  fs.writeFileSync(SETTINGS_FILE, JSON.stringify(settings, null, 2), 'utf-8');
+  _settingsCache = settings;
 }
 
 // ─── Data File Management ────────────────────────────────────────────────────
@@ -50,33 +95,41 @@ export function saveDataFile(filename, data) {
 // ─── Missing ELI File Management ────────────────────────────────────────────
 
 export function loadMissingEliFile() {
+  if (_missingEliCache !== null) return _missingEliCache;
   try {
     if (fs.existsSync(MISSING_ELI_FILE)) {
-      return JSON.parse(fs.readFileSync(MISSING_ELI_FILE, 'utf-8'));
+      _missingEliCache = JSON.parse(fs.readFileSync(MISSING_ELI_FILE, 'utf-8'));
+      return _missingEliCache;
     }
   } catch (err) {
     logWarn(`⚠ Could not read missing_eli.json, starting fresh: ${err.message}`);
   }
-  return {};
+  _missingEliCache = {};
+  return _missingEliCache;
 }
 
+/** Updates in-memory cache only — written to disk on exit via flushAll(). */
 export function saveMissingEliFile(data) {
-  fs.writeFileSync(MISSING_ELI_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  _missingEliCache = data;
 }
 
 // ─── Parse Error File Management ────────────────────────────────────────────
 
 export function loadErrorsFile() {
+  if (_errorsCache !== null) return _errorsCache;
   try {
     if (fs.existsSync(ERRORS_FILE)) {
-      return JSON.parse(fs.readFileSync(ERRORS_FILE, 'utf-8'));
+      _errorsCache = JSON.parse(fs.readFileSync(ERRORS_FILE, 'utf-8'));
+      return _errorsCache;
     }
   } catch { /* start fresh */ }
-  return {};
+  _errorsCache = {};
+  return _errorsCache;
 }
 
+/** Updates in-memory cache only — written to disk on exit via flushAll(). */
 export function saveErrorsFile(data) {
-  fs.writeFileSync(ERRORS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  _errorsCache = data;
 }
 
 /**
@@ -126,16 +179,20 @@ export function appendMissingEli(rawLegalBasisText, element) {
 // ─── Log File Management ─────────────────────────────────────────────────────
 
 export function loadLogFile() {
+  if (_logCache !== null) return _logCache;
   try {
     if (fs.existsSync(LOG_FILE)) {
-      return JSON.parse(fs.readFileSync(LOG_FILE, 'utf-8'));
+      _logCache = JSON.parse(fs.readFileSync(LOG_FILE, 'utf-8'));
+      return _logCache;
     }
   } catch { /* start fresh */ }
-  return {};
+  _logCache = {};
+  return _logCache;
 }
 
+/** Updates in-memory cache only — written to disk on exit via flushAll(). */
 export function saveLogFile(data) {
-  fs.writeFileSync(LOG_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  _logCache = data;
 }
 
 /**
