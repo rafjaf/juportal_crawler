@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19751205.3": {
+      "court": "CASS",
+      "date": "1975-12-05",
+      "roleNumber": "75/5807",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La présomption de solidarité existant de droit entre commerçants tenus d'une même obligation conventionnelle est une exception au principe de la divisibilité des dettes et doit être interprétée restrictivement. Cette présomption n'est pas d'application lorsqu'il s'agit de non-commerçants, tel les gérants-associés d'une société commerciale."
+      ],
+      "abstractNL": [
+        "Het vermoeden van solidariteit dat bestaat tussen schuldenaars - handelaars die door eenzelfde contractuele verbintenis gehouden zijn is een uitzondering op de splitsbaarheid der schulden en moet beperkend uitgelegd worden. Het vermoeden van hoofdelijkheid is niet toepasselijk op niet-handelaars, i.c. zaakvoerders-vennoten van een handelsvennootschap."
+      ]
+    }
+  }
+}

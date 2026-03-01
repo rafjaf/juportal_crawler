@@ -1,0 +1,28 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810319.5": {
+      "court": "CASS",
+      "date": "1981-03-19",
+      "roleNumber": "49357",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 68, alinéa 2 de la Constitution, les Traités de commerce et ceux qui peuvent lier individuellement des Belges n'ont d'effet en Belgique qu'après avoir recu l'assentiment des Chambres. Si, en règle, l'assentiment des Chambres intervient après la conclusion du Traité, il peut cependant la précéder; il en est ainsi notamment lorsque le législateur donne au pouvoir exécutif l'autorisation de se conformer aux règles édictées par le Traité, pour autant que les dispositions de celui-ci ne dépassent pas le cadre de la loi nationale. La disposition, dont la demanderesse soutient qu'elle ne peut être appliquée par le juge en raison de sa non-approbation par les Chambres, est l'article 39, al. 2 de la Convention postale universelle, signée à Vienne le 10 juillet 1964 et ratifiée par la Belgique le 4 novembre 1965. En vertu de cet article, l'indemnité due pour la perte d'un envoi recommandé est fixée au maximum et à titre forfaitaire à 25 F or. Or, l'article 19 de la loi du 26 décembre 1956 sur le service des postes dispose que la perte d'un envoi recommandé entraîne pour l'administration l'obligation de payer à l'expéditeur une indemnité dont le maximum est fixé par le Roi pour le service intérieur et par Traité pour le service international. Cette dispositions légale a pour effet de dispenser le pouvoir exécutif de soumettre la règle édictée par l'article 39 de la Convention à l'assentiment ultérieur des Chambres. Pour qu'un Traité, qui est de nature, comme en l'espèce, à lier individuellement les Belges, soit opposable à ceux-ci et les lie individuellement, il faut qu'il ait été publié en Belgique; en application de l'article 8 de la loi du 31 mai 1961, la publication se fait par la voie du Moniteur belge. Dès lors, en décidant, sur la base des considérations énoncées ci-dessus, que l'expéditeur du colis recommandé, aux droits duquel la demanderesse était subrogée, était lié par les dispositions de la Convention précitée, malgré l'absence de publication intégrale du Traité, dès lors qu'il avait connaissance de l'existence de cette Convention et spécialement de la limitation de responsabilité qu'elle prévoit en son article 39, alinéa 2, l'arrêt ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19800509.5": {
+      "court": "CASS",
+      "date": "1980-05-09",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Des lettres-circulaires qui n'ont pas été publiées conformément à l'article 6 de la loi du 31 mai 1961, dans le Moniteur belge et qui ne contiennent aucune règle abstraite présentant le caractère de généralité qui est la caractéristique d'une loi, ne constituent pas une loi au sens de l'article 608 du Code judiciaire. On ne peut dès lors se prévaloir de la violation de telles lettres devant la Cour de cassation."
+      ],
+      "abstractNL": null
+    }
+  }
+}

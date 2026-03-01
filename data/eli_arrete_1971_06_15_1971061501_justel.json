@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810615.6": {
+      "court": "CASS",
+      "date": "1981-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/15/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, qui dispose que le Fonds des maladies professionnelles statue sur \"toutes demandes en réparation, ainsi que sur toutes demandes de revision des indemnités acquises\" et l'arrêté royal du 15 juin 1971 qui détermine la manière dont les demandes sont introduites n'énoncent aucune règle régissant les demandes incidentes prévues par les articles 807 et 808 du Code judiciaire et il n'existe pas, en matière de réparation des dommages résultant des maladies professionnelles, de principe de droit dont l'application serait incompatible avec ces articles. Ledit article 52 et l'arrêté royal précité se bornent, à cet égard, à désigner l'autorité administrative chargée de statuer sur les demandes d'indemnisation introduites par la victime d'une maladie professionnelle ses ayants droit ou leurs mandataires, sans imposer que toute demande nouvelle formée devant la juridiction du travail saisie d'une contestation sur le droit à l'indemnisation soit soumise à une procédure administrative préalable."
+      ],
+      "abstractNL": null
+    }
+  }
+}

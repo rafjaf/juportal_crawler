@@ -1,0 +1,19 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2022:ARR.20220310.1N.1": {
+      "court": "CASS",
+      "date": "2022-03-10",
+      "roleNumber": "D.21.0013.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_872.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/03/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La loi ne prévoit pas que le plaignant, qui souhaite exercer son droit d'être entendu dans la procédure disciplinaire à charge d'un avocat, ne puisse être entendu qu'en personne et n'exclut pas, lorsque le plaignant est assisté d'un avocat, que ce dernier soit entendu en son nom (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De wet bepaalt niet dat de klager, die gebruik wenst te maken van zijn recht om gehoord te worden in de tuchtprocedure ten laste van een advocaat, enkel persoonlijk kan gehoord worden, en sluit niet uit dat de klager, die wordt bijgestaan door een advocaat, via die advocaat namens hem wordt gehoord (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

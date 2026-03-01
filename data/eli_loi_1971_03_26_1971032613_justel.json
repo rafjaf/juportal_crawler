@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19891010.8": {
+      "court": "CASS",
+      "date": "1989-10-10",
+      "roleNumber": "29994",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/10/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Une infraction ne peut être sanctionnée pénalement que lorsque celui qui l'a commise a agi sciemment. La constatation qu'une pollution n'était pas accidentelle, que le chef d'entreprise avait compétence pour demander les dispenses nécessaires et pour mettre fin à la situation illicite, n'impliquent pas que le dirigeant ait eu connaissance de la pollution."
+      ],
+      "abstractNL": [
+        "Strafbaarheid voor een misdrijf vereist de wetenschap dat dit misdrijf wordt gepleegd. De vaststelling dat de waterlozing niet accidenteel was, dat de bedrijfsleider bevoegd was om de nodige vergunningen aan te vragen en dat hij de onwettelijke toestand kon doen ophouden, volstaat niet om te beslissen dat de bedrijfsleider kennis had van het bestaan van de waterlozing."
+      ]
+    }
+  }
+}

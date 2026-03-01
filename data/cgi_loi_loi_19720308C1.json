@@ -1,0 +1,20 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19790430.5": {
+      "court": "CASS",
+      "date": "1979-04-30",
+      "roleNumber": "2179",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/04/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En déclarant \"que le point de vue du comité restreint de la Commission paritaire nationale auxiliaire pour employés constitue l'interprétation logique des articles 7 et 8 des conventions collectives des 11 mai 1970 et 3 mars 1972 et que les tribunaux doivent se rallier à ce point de vue, puisqu'une convention collective est par essence une convention et que dès lors elle doit être interprétée dans son ensemble et selon sa portée\", la Cour du travail ne décide pas que les tribunaux sont liés par l'avis dudit comité.",
+        "Le juge qui décide uniquement que les dispositions relatives à la liaison à l'indice des prix à la consommation s'appliquent à la partie fixe de la rémunération des représentants de commerce, ne décide pas que les barèmes des salaires prévus par les conventions collectives de travail précitées sont applicables aux représentants de commerce dont la rémunération renferme des commissions fixées conformément au montant du chiffre d'affaires ou selon d'autres critères."
+      ],
+      "abstractNL": [
+        "Wanneer het arbeidshof vermeldt \"dat het standpunt van het beperkt comité van het aanvullend nationaal paritair comité voor bedienden de logische interpretatie van de artikelen 7 en 8 van de collectieve arbeidsovereenkomsten van 11 mei 1970 en 3 maart 1972 uitmaakt en dat dit standpunt door de rechtbanken moet bijgetreden worden, vermits een collectieve overeenkomst wezenlijk een overeenkomst is en dienvolgens in haar samenhang en naar haar bedoeling moet geinterpreteerd worden\", beslist het niet dat de rechtbanken door het advies van bedoeld beperkt comité gebonden zijn.",
+        "De rechter die alleen beslist dat de bepalingen betreffende de koppeling aan het indexcijfer van de consumptieprijzen toepassing vinden op het vaste gedeelte van het loon van de handelsvertegenwoordigers, beslist niet dat de loonschalen bepaald in voornoemde collectieve arbeidsovereenkomsten van toepassing zijn op handelsvertegenwoordigers wier loon commissieloon omvat die vastgesteld zijn overeenkomstig het bedrag van de handelsomzet of volgens andere maatstaven."
+      ]
+    }
+  }
+}

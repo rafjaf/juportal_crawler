@@ -1,0 +1,46 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19770930.4": {
+      "court": "CASS",
+      "date": "1977-09-30",
+      "roleNumber": "10081",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'obligation du tiré ayant accepté une lettre de change a en principe un caractère abstrait et est indépendant des relations extra-cambiaires préexistantes. Entre parties cambiaires immédiatement liées, les moyens de défense tirés du contrat sous-jacent subsistent."
+      ],
+      "abstractNL": [
+        "In beginsel heeft de verbintenis van de betrokkene acceptant zoals die van alle ondertekenaars van een wisselbrief een abstract karakter en is zij onafhankelijk van de vooraf bestaande verhoudingen buiten de wisselbrief. Tussen de onmiddellijk verbonden wisselpartijen, zoals de betrokkene acceptant en de trekker, blijven echter alle verweermiddelen uit hun onderliggende verhoudingen tegenstelbaar."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761112.2": {
+      "court": "CASS",
+      "date": "1976-11-12",
+      "roleNumber": "10081",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/11/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'engagement du tireur tout comme celui des souscripteurs d'une lettre de change a, en principe, un caractère abstrait et est indépendant des relations extra-cambiaires préexistantes. Toutefois les moyens de défense tirés de la convention sous-jacente restent opposables entre les parties cambiaires immédiatement liées, notamment entre le premier preneur et le tireur."
+      ],
+      "abstractNL": [
+        "In beginsel heeft de verbintenis van de trekker zoals die van de ondertekenaar van een wisselbrief een abstrakt karakter en is zij onafhankelijk van de vooraf bestaande verhoudingen buiten de wisselbrief. Tussen de onmiddellijk verbonden wisselpartijen blijven echter alle verweermiddelen uit hun onderliggende verhoudingen bestaan."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700122.2": {
+      "court": "CASS",
+      "date": "1970-01-22",
+      "roleNumber": "10081",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/01/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Dès lors qu'il est revêtu des formes légales requises, le billet à ordre constitue un titre autonome de créance conférant par lui-même au porteur le droit inconditionnel au payement, à l'échéance, de la somme promise. Il en résulte nécessairement que l'engagement du souscripteur d'un billet à ordre a un caractère abstrait, indépendant des rapports extra-cambiaires préexistants. Ces rapports sont invoqués à tort pour conclure qu'une action en payement d'un billet à ordre, limitée à une partie de la somme qui y est exprimée, n'est qu'en apparence une action basée sur un billet à ordre."
+      ],
+      "abstractNL": [
+        "Van zodra het orderbriefje aan de wettelijke vormvereisten voldoet, maakt het een onafhankelijke titel tot schuldvordering uit, die een onvoorwaardelijk recht op betaling op de vervaldag van de beloofde som aan de houder verleent. Daaruit volgt noodzakelijkerwijze dat de verplichting van de ondertekenaar van een orderbriefje een abstract karakter heeft, onafhankelijk van de voorafbestaande buiten-cambiale verhoudingen. Deze verhoudingen worden ten onrechte ingeroepen om te besluiten dat een eis tot betaling van een orderbriefje, beperkt tot een deel van het bedrag dat er op vermeld is, slechts een schijnbare eis tot betaling van een orderbriefje zou zijn."
+      ]
+    }
+  }
+}

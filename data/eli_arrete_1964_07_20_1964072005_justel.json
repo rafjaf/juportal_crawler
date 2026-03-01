@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19870612.6": {
+      "court": "CASS",
+      "date": "1987-06-12",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'activité consistant à acheter des poules pondeuses, de les élever avec de la nourriture achetée auprès de tiers pour revendre ensuite le produit de la ponte et les poules elles-mêmes après la période de ponte, est une activité commerciale. L'élevage de petit bétail n'est pas une transformation qui relève normalement des entreprises agricoles, lorsque les poules ne sont pas nourries par les produits d'une exploitation agricole propre à l'éleveur."
+      ],
+      "abstractNL": [
+        "De activiteit die erin bestaat leghennen te kopen, deze op batterijen te fokken met bij derden aangekocht voedsel om de eieren en na de legperiode ook de leghennen voort te verkopen is een handelsactiviteit. Kleinveeteelt is geen verwerking die normaal bij de landbouwbedrijven behoort, indien de kippen niet gevoederd werden met voortbrengselen van een eigen landbouwbedrijf."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730119.4": {
+      "court": "CASS",
+      "date": "1973-01-19",
+      "roleNumber": "77/11.484",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si, aux termes de l'article 2 du Code de commerce, certains actes sont réputés actes de commerces, c'est pour la raison que le législateur présume que ces actes sont accomplis avec esprit de lucre. Cette présomption est susceptible de preuve contraire. Il appartient au juge de vérifier s'il y avait un esprit de lucre. L'aménagement et l'exploitation d'un bassin de natation est selon la Cour d'appel de Gand une entreprise de spectacles publics au sens de l'article 2, al. 5, du Code de commerce. Lorsqu'un curé aménage un bassin de natation dans le cadre des services qu'il rend à sa paroisse et sa population et lorsqu'il l'exploite sans esprit de lucre, le juge peut en déduire que ce curé n'est pas commerçant."
+      ],
+      "abstractNL": [
+        "Het vermoeden voorzien in artikel 2 van het Wetboek van Koophandel, volgens hetwelk bepaalde handelingen daden van koophandel zijn, is het gevolg van het feit dat de wetgever vermoedt dat deze daden gesteld worden uit winstbejag. Dit vermoeden is weerlegbaar. Het behoort de rechter na te gaan of er winstoogmerk aanwezig was. Het inrichten en uitbaten van een zwembad is volgens het Hof van beroep van Gent een onderneming van openbare schouwspelen in de zin van artikel 2, lid 5 van het Wetboek van Koophandel. Indien een pastoor een zwembad inricht in het raam van de diensten die hij aan zijn parochie en haar bevolking verleent en indien hij zulks zonder winstoogmerk doet, kan de rechter hieruit afleiden dat deze pastoor geen handelaar is."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19850117.8": {
+      "court": "CASS",
+      "date": "1985-01-17",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/01/17/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié, l'arrêt qui décide que n'est pas illicite, le démarchage pratiqué par une personne, agissant pour un membre de sa famille, agent d'une institution publique de crédit, sans constater que la personne ou l'institution pour compte de laquelle le démarcheur agissait était autorisée à pratiquer ce démarchage, et que le démarcheur était porteur de la licence prévue par l'A.M. du 15 avril 1953."
+      ],
+      "abstractNL": [
+        "Is niet wettelijk gemotiveerd, het arrest waarin wordt beslist dat niet op ongeoorloofde wijze is gedemarcheerd, nu de demarcheur is opgetreden voor een familielid, agent van een openbare kredietinstelling, zonder vast te stellen enerzijds dat dit familielid of deze instelling het recht hadden te demarcheren, anderzijds dat de demarcheur zelf de vereiste vergunning bezat als bedoeld in het M.B. van 15 april 1953."
+      ]
+    }
+  }
+}

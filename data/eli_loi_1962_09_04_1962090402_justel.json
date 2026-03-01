@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800613.4": {
+      "court": "CASS",
+      "date": "1980-06-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/13/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 13, alinéa 1er de la convention C.M.R. reconnait au destinataire le droit, si la perte de la marchandise est établie ou si la marchandise n'est pas arrivée à l'expiration du délai prévu à l'article 19, de faire valoir en son propre nom vis-à-vis du transporteur les droits qui résultent du contrat de transport, même s'il n'a pu se joindre au contrat par reprise de la lettre de voiture et des marchandises. L'action en indemnisation forfaitaire pour perte de marchandises, prévue par la convention C.M.R., peut être exercée par celui qui, comme le destinataire, a un intérêt au transport de celles-ci sans qu'il doive établir qu'il est propriétaire ou que celles-ci ont été transportées à ses risques."
+      ],
+      "abstractNL": [
+        "De geadresseerde heeft het recht om, in geval van verlies van de goederen, of wanneer de goederen niet zijn aangekomen binnen het einde van de termijn bedoeld in art. 19 C.M.R., in eigen naam gebruik te maken van de rechten die uit de vervoerovereenkomst voortspruiten, hoewel hij zich niet door de overname van de goederen en de vrachtbrief bij de vervoerovereenkomst heeft kunnen voegen. De vordering tot betaling van de door het Verdrag bepaalde forfaitaire schadevergoeding wegens verlies van de goederen kan worden ingesteld door degene die als geadresseerde belang heeft bij het vervoer, zonder dat hij moet bewijzen dat hij eigenaar is van de goederen of dat deze goederen op zijn risico werden vervoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740607.3": {
+      "court": "CASS",
+      "date": "1974-06-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/06/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 30 de la Convention C.M.R., le destinataire de la marchandise est présumé avoir reçu celle-ci dans l'état décrit dans la lettre de voiture. La preuve contraire peut être rapportée. Le juge apprécie, à cet égard, la valeur des éléments de preuve qui lui sont soumis."
+      ],
+      "abstractNL": [
+        "Ingevolge artikel 30 van het C.M.R.-Verdrag wordt de bestemmeling van de waar vermoed deze te hebben ontvangen in de staat zoals beschreven in de vrachtbrief. Het tegenbewijs mag worden geleverd. De rechter beoordeelt, te dien opzichte, de waarde van de bewijselementen die hem worden voorgelegd."
+      ]
+    }
+  }
+}

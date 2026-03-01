@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900426.14": {
+      "court": "CASS",
+      "date": "1990-04-26",
+      "roleNumber": "86/8391",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/04/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'action directe reconnue à la personne lésée contre l'assureur par l'article 6 de la loi du 1er juillet 1956, relative à l'assurance obligatoire de la responsabilité civile en matière de véhicule automoteurs, n'a lieu en règle que dans les cas où l'assureur est tenu d'apporter sa garantie en vertu du contrat ou de la loi."
+      ],
+      "abstractNL": [
+        "De krachtens artikel 6 van de W.A.M.-Wet aan de benadeelde tegen de verzekeraar toegekende rechtstreekse vordering kan in regel enkel worden ingesteld als de verzekeraar ingevolge de overeenkomst of de wet tot dekking is gehouden."
+      ]
+    }
+  }
+}

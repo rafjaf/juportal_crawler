@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840906.2": {
+      "court": "CASS",
+      "date": "1984-09-06",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/06/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Introduction de l'action. - Convention Belgo-néerlandaise de 1925. - Faillite. - Adresse à laquelle il faut signifier."
+      ],
+      "abstractNL": [
+        "Instelling van de vordering. - Belgisch-Nederlands verdrag 1925. - Faillissement. - Adres voor betekening."
+      ]
+    }
+  }
+}

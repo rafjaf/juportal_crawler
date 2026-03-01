@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19730108.18": {
+      "court": "CASS",
+      "date": "1973-01-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les intérêts compensatoires alloués sur des dommages-intérêts dus en raison d'une faute aquilienne se rattachent à l'étendue du préjudice et font partie intégrante de l'indemnité; les dispositions légales relatives au taux de l'intérêt légal ne leur sont pas applicables, et la fixation de leur taux dépend de l'appréciation souveraine du juge du fond."
+      ],
+      "abstractNL": [
+        "De vergoedingsinteresten op de wegens een aquiliaanse fout verschuldigde schadevergoeding houden verband met de omvang van de schade en maken deel uit van de vergoeding; de wettelijke bepalingen betreffende de wettelijke rentevoet zijn hierop niet van toepassing, en de vaststelling van hun rentevoet hangt af van de soevereine beoordeling door de feitenrechter."
+      ]
+    }
+  }
+}

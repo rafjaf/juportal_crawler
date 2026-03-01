@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840413.1": {
+      "court": "CASS",
+      "date": "1984-04-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/04/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute partie de terrain comprise dans un lotissement, qu'elle soit qualifiée lot, parcelle ou autrement, constitue une parcelle de terrain à bâtir au sens des règlements-taxe pris en vertu de l'article 70bis de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, même si elle est jointe à une parcelle principale destinée à l'habitation et forme avec cette dernière un ensemble harmonieux."
+      ],
+      "abstractNL": [
+        "Iedere eenheid grond van een verkaveling, die kavel, perceel of hoe dan ook wordt genoemd, is een perceel bouwgrond, in de zin van de belastingverordening genomen o.g.v. art. 70bis Wet Ruimtelijke Ordening en Stedebouw, ook al wordt het perceel bij een hoofdperceel gevoegd, dat bestemd is om te worden bewoond, en vormen beide percelen een harmonisch geheel."
+      ]
+    }
+  }
+}

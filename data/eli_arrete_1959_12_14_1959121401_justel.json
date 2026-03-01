@@ -1,0 +1,32 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2020:ARR.20201215.2N.14": {
+      "court": "CASS",
+      "date": "2020-12-15",
+      "roleNumber": "P.20.0693.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/12/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les voies de communication touristiques auxquelles l'article 1er de l'arrêté royal du 14 décembre 1959 portant réglementation de l'affichage et de la publicité est applicable ne se limitent pas à celles énoncées à l'annexe de l'arrêté royal du 8 janvier 1958 déterminant les voies de communication touristiques soumises à la réglementation de l'affichage et de la publicité."
+      ],
+      "abstractNL": [
+        "De toeristische verkeerswegen waarop artikel 1 KB 1959 Aanplakking van toepassing is, zijn niet beperkt tot deze die worden vermeld in de bijlage bij het KB 1958 Toeristische Verkeerswegen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810505.6": {
+      "court": "CASS",
+      "date": "1981-05-05",
+      "roleNumber": "20215",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/05/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Hoewel het in de regel aan de ministers staat, onder voorbehoud van hun politieke verantwoordelijkheid, te oordelen over de \"dringende noodzakelijkheid\" waardoor zij ervan ontslagen worden het beredeneerd advies van de afdeling wetgeving van de Raad van State in te winnen over de voorontwerpen van organieke en reglementaire uitvoeringsbesluiten, heeft elk met eigenlijke rechtspraak belast orgaan de macht en de plicht de wettigheid te toetsen van de besluiten die het toepast, en dient derhalve te worden nagegaan of de minister, wanneer hij zich ervan ontslagen acht het advies van de Raad van State in te winnen, zijn macht niet overschrijdt of afwendt door het wettelijk begrip \"dringende noodzakelijkheid\" te miskennen. Uit de enkele omstandigheid dat in het K.B. van 14 december 1959 \"een versoepeling\" wordt nagestreefd, kan niet worden afgeleid dat er geen dringende noodzakelijkheid bestond."
+      ]
+    }
+  }
+}

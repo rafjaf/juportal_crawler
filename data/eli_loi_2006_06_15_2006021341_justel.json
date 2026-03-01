@@ -1,0 +1,35 @@
+{
+  "24": {
+    "ECLI:BE:CASS:2025:ARR.20250623.3F.4": {
+      "court": "CASS",
+      "date": "2025-06-23",
+      "roleNumber": "C.24.0483.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3010.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3010.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/29/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de dix pour cent à laquelle le soumissionnaire régulier le plus bas évincé à tort peut prétendre revêt un caractère forfaitaire (1). (1) Voir les concl. du MP.",
+        "De ce que la procédure d'adjudication poursuivie par le pouvoir adjudicateur était entachée d'une illégalité due à la faute de celui-ci, il ne se déduit pas que le soumissionnaire écarté qui prouve avoir remis l'offre régulière la plus basse ne peut prétendre à l'indemnité forfaitaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2017:ARR.20170929.5": {
+      "court": "CASS",
+      "date": "2017-09-29",
+      "roleNumber": "C.15.0043.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/09/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "De la circonstance que la décision d'un chef de juridiction de retirer un traducteur de la liste des personnes agréées en cette qualité auprès de son tribunal ne constitue pas un acte relatif aux marchés publics, il ne se déduit pas que la loi du 15 juin 2006 ne s'appliquerait pas de la même manière aux organes du pouvoir judiciaire et aux autorités administratives; de même, si l'acte litigieux échappe aux prévisions de cette loi, c'est en raison de sa nature et non de la qualité judiciaire ou administrative de l'auteur de l'acte (1). (1) Voir les concl. contraires du MP."
+      ],
+      "abstractNL": [
+        "Uit de omstandigheid dat de beslissing van een hoofd van een rechtscollege om een vertaler te schrappen van de lijst van de personen die in die hoedanigheid bij zijn rechtbank zijn aanvaard, geen akte met betrekking tot overheidsopdrachten vormt, valt niet af te leiden dat de wet van 15 juli 2006 niet op dezelfde wijze van toepassing zou zijn op de organen van de rechterlijke macht en op de administratieve overheden; indien de litigieuze akte niet onder de bepalingen van die wet valt, dan is dat naar analogie daarvan, wegens de aard van die akte en niet wegens de rechterlijke of administratieve hoedanigheid van de steller van de akte (1). (1) Zie andersluidende concl. OM in Pas. 2017, nr. ***."
+      ]
+    }
+  }
+}

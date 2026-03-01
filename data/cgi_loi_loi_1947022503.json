@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19661209.2": {
+      "court": "CASS",
+      "date": "1966-12-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de l'arrêté-loi du 25 février 1947, relatif à l'octroi de salaires aux travailleurs pendant un certain nombre de jours fériés par an, consacre, par référence à l'article 1er, le droit de toutes personnes engagées dans les liens, notamment, d'un contrat de travail et satisfaisant aux conditions d'assiduité au travail déterminées en vertu de l'article 8, d'obtenir pour chaque jour férié chômé le payement de leur salaire normal à l'échéance habituelle."
+      ],
+      "abstractNL": [
+        "Artikel 5 van de besluitwet van 25 februari 1947 betreffende het toekennen van loon aan de arbeiders voor een bepaald aantal feestdagen per jaar, kent bij verwijzing naar artikel 1 aan alle personen die onder meer door een arbeidscontract zijn verbonden en de voorwaarden van werkgetrouwheid vervullen, bepaald krachtens artikel 8, het recht toe op de uitbetaling van hun normaal loon op de gewone betaaldag voor elke feestdag waarop zij niet gewerkt hebben."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860515.1": {
+      "court": "CASS",
+      "date": "1986-05-15",
+      "roleNumber": "7472",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une obligation est contractée en vertu d'une convention sous condition suspensive, la convention existe tant que la condition est pendante, bien que l'exécution de l'obligation soit suspendue; cette convention fait donc naître des droits et des obligations entre parties et la partie qui ne remplit pas ses obligations peut être redevable de dommages-intérêts."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1977:ARR.19771110.7": {
+      "court": "CASS",
+      "date": "1977-11-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/11/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Ne viole pas la force obligatoire d'une convention prescrivant de clôturer une propriété en élevant une \" haie comportant trois rangs de fil de fer barbelé et en outre, jusqu'à la hauteur d'un mètre, de fil de fer dit Ursus \", le juge qui considère que l'implantation d'une haie vive est conforme au but poursuivi par cette convention et a réalisé celui-ci."
+      ],
+      "abstractNL": [
+        "De bindende kracht van een overeenkomst waarbij wordt bepaald, dat een eigendom moet worden omheind met een \" haag met drie rijen prikkeldraad en bovendien tot op een hoogte van één meter met ijzerdraad Ursus \", wordt niet geschonden door de rechter die van oordeel is dat het plaatsen van een levende haag met het doel van deze overeenkomst strookt en dat zodoende dit doel verwezenlijkt is."
+      ]
+    }
+  }
+}

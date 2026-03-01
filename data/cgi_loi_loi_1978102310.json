@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19801210.7": {
+      "court": "CASS",
+      "date": "1980-12-10",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'effet immédiat de la loi nouvelle relative à la prescription de l'action publique, l'arrêté royal nó 15 du 23 octobre 1978 et l'article 66 de la loi du 4 août 1978 s'appliquent aux actions nées avant la date de leur entrée en vigueur et non encore prescrites à cette date."
+      ],
+      "abstractNL": null
+    }
+  }
+}

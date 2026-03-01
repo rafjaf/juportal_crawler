@@ -1,0 +1,30 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830620.13": {
+      "court": "CASS",
+      "date": "1983-06-20",
+      "roleNumber": "6810",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/20/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat iemand een verwonding heeft opgelopen terwijl hij tijdens vakantiecursussen was tewerkgesteld door een onderwijsonderneming waar buitenlanders de mogelijkheid wordt geboden beter Frans te leren, kan hij uit die vaststellingen niet wettig afleiden dat die onderneming een vakantiekolonie organiseerde. (Art. 1, 2° K.B. van 25 oktober 1971 tot uitbreiding van het toepassingsgebied van de Arbeidsongevallenwet; K.B. van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de Besluitwet van 28 december 1944.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800623.14": {
+      "court": "CASS",
+      "date": "1980-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/23/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Pour les domestiques qui ne sont pas occupés pendant quatre heures par jour chez le même employeur ni vingt-quatre heures par semaine chez un ou plusieurs employeurs, la rémunération de base n'est pas augmentée du pécule de vacances. ( Loi du 10 avril 1971, art. 34 et 35; arrêté royal du 28 novembre 1969, art. 18. )"
+      ],
+      "abstractNL": [
+        "Voor dienstboden die geen vier uren daags bij een zelfde werkgever, noch vierentwintig uren per week bij één of verschillende werkgevers tewerkgesteld zijn, wordt het basisloon niet verhoogd met vakantiegeld. ( Artt. 34 en 35, wet van 10 april 1971; art. 18, K.B. van 28 november 1969. )"
+      ]
+    }
+  }
+}

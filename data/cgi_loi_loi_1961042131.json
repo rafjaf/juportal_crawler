@@ -1,0 +1,20 @@
+{
+  "6": {
+    "ECLI:BE:CASS:2023:ARR.20230407.1N.6": {
+      "court": "CASS",
+      "date": "2023-04-07",
+      "roleNumber": "C.21.0325.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_587.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_587.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/26/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/07/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter die kennis neemt van een exceptie van rechtsmacht, moet de arbitrage uitsluiten wanneer het geschil krachtens alle relevante rechtsregels van de lex fori niet aan de rechtsmacht van de nationale rechter mag worden onttrokken (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

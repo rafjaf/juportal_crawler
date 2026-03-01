@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19790430.5": {
+      "court": "CASS",
+      "date": "1979-04-30",
+      "roleNumber": "2179",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/04/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui décide uniquement que les dispositions relatives à la liaison à l'indice des prix à la consommation s'appliquent à la partie fixe de la rémunération des représentants de commerce, ne décide pas que les barèmes des salaires prévus par les conventions collectives de travail précitées sont applicables aux représentants de commerce dont la rémunération renferme des commissions fixées conformément au montant du chiffre d'affaires ou selon d'autres critères."
+      ],
+      "abstractNL": [
+        "De rechter die alleen beslist dat de bepalingen betreffende de koppeling aan het indexcijfer van de consumptieprijzen toepassing vinden op het vaste gedeelte van het loon van de handelsvertegenwoordigers, beslist niet dat de loonschalen bepaald in voornoemde collectieve arbeidsovereenkomsten van toepassing zijn op handelsvertegenwoordigers wier loon commissieloon omvat die vastgesteld zijn overeenkomstig het bedrag van de handelsomzet of volgens andere maatstaven."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760414.4": {
+      "court": "CASS",
+      "date": "1976-04-14",
+      "roleNumber": "14595",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/04/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 12 avril 1965 entend par \"rémunération\" des salaires en espèces, des pourboires ou services et des avantages évaluables en argent; les articles 20 et 21 des lois relatives au contrat d'emploi accordent, en cas de rupture du contrat d'emploi sans juste motif ni préavis, des indemnités qui ne constituent pas pareille rémunération."
+      ],
+      "abstractNL": [
+        "De wet van 12 april 1965 verstaat onder het begrip \"loon\" de bezoldiging in geldspeciën, het drinkgeld of de diensten en voordelen in geld waardeerbaar; de artikelen 20 en 21 van de wet aangaande het bediendenkontrakt kennen, bij verbreking van de overeenkomst zonder dringende reden noch opzegging, een vergoeding toe die niet zulk loon uitmaken."
+      ]
+    }
+  }
+}

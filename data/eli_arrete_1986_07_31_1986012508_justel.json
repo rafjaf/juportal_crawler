@@ -1,0 +1,52 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880321.11": {
+      "court": "CASS",
+      "date": "1988-03-21",
+      "roleNumber": "40.670",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/21/sitemap_10.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Tegen een beslissing van de arbeidsrechtbank, dat verscheidene vennootschappen één technische bedrijfseenheid vormen waarvoor een ondernemingsraad of een veiligheidscomité moet worden opgericht, staat geen hoger beroep open, ook indien de betrokken werkgevers de aan de verkiezingsprocedure voorafgaande handelingen bepaald in de artt. 6, 7 en 8 K.B. 31 juli 1986 niet hebben verricht (Art. 81, 6°, K.B. 31 juli 1986)."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880104.5": {
+      "court": "CASS",
+      "date": "1988-01-04",
+      "roleNumber": "26158",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Après avoir constaté qu'il existe au sein de l'a.s.b.l. demanderesse une unité technique d'exploitation \"P.S. Decroly\" où les fonctions de chef de sécurité sont exercées par M. Pierre Geeraerts, le jugement attaqué \"dit pour droit que (celui-ci) doit figurer sur les listes électorales du personnel employé\". L'article 13 de l'arrêté royal du 31 juillet 1986 relatif aux conseils d'entreprises et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail dispose que \"participent à l'élection des délégués du personnel au conseil ou au comité, tous les travailleurs de l'entreprise engagés dans les liens d'un contrat de travail ou d'apprentissage, à l'exception des travailleurs à domicile et des travailleurs faisant partie du personnel de direction, qui satisfont à la date des élections aux conditions\" que cette disposition détermine. Sans être à cet égard critiqué, le tribunal du travail a, d'une part, considéré que M. Geeraerts remplissait les conditions prévues à l'article 13 précité, et, d'autre part, décidé que, la fonction de chef de sécurité étant étrangère aux fonctions du personnel de direction, l'intéressé ne pouvait figurer sur la liste de ce personnel. Le jugement attaqué décide, dès lors, légalement que M. Pierre Geeraerts doit figurer sur les listes électorales du personnel employé."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1987:ARR.19871130.17": {
+      "court": "CASS",
+      "date": "1987-11-30",
+      "roleNumber": "40.670",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/30/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Artikel 81 van het koninklijk besluit van 31 juli 1986 bepaalt : \"In het kader van de bij artikel 24 van de wet van 20 september 1948 en artikel 1, alinéa 4, h, van de wet van 10 juni 1952 voorziene beroepen zijn de volgende procedureregels van toepassing : (...) 6° alleen de vonnissen in het kader van de geschillen bedoeld bij de artikelen 9, 30 en 38 zijn niet vatbaar voor hoger beroep of verzet\". Artikel 9 van hetzelfde koninklijk besluit luidt : \"Uiterlijk (...) kunnen de betrokken werknemers alsook de betrokken representatieve werknemersorganisaties tegen de in artikel 8 vermelde beslissingen (...) beroep instellen bij de arbeidsrechtbank\". In artikel 8 wordt onder meer de \"beslissing (van de werkgever) betreffende (...) het aantal technische bedrijfseenheden elf juridische entiteiten waarvoor organen moeten worden opgericht; met hun beschrijving\" vermeld. Het geschil betreffende de indeling van de verschillende arbeidsplaatsen bij de onderscheiden veiligheidscomités, valt niet onder de geschillen bedoeld in artikel 9. De bestreden beslissing is mitsdien niet in laatste aanleg gewezen.De voorziening is derhalve niet ontvankelijk in zoverre zij opkomt tegen de beslissing betreffende de omschrijving van de bedrijfszetels waarvoor de comités moeten worden opgericht."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871012.9": {
+      "court": "CASS",
+      "date": "1987-10-12",
+      "roleNumber": "26158",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/10/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le jugement attaqué énonce que la requête en intervention volontaire \"contient une demande incidente différente de l'action principale\", qui \"constitue une contestation de la décision de l'employeur et (qui) devait comme telle être introduite dans le délai prévu à l'article 9 précité\". Par ces considérations, le jugement décide que l'intervention volontaire est irrecevable en raison de la nature de la demande et de l'échéance du délai. Ainsi il écarte la défense déduite de ce que la demanderesse avait été en la cause avant l'échéance du délai et répond aux conclusions. Le moyen, en cette branche, manque en fait."
+      ],
+      "abstractNL": null
+    }
+  }
+}

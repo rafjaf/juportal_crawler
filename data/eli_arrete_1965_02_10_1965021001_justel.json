@@ -1,0 +1,38 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2007:ARR.20070521.2": {
+      "court": "CASS",
+      "date": "2007-05-21",
+      "roleNumber": "S.06.0015.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La notion de \"secteurs privés\" de l'économie nationale visée à l'article 1er de l'arrêté royal du 10 février 1965 désignant les personnes investies d'un poste de direction ou de confiance, dans les secteurs privés de l'économie nationale, pour l'application de la loi sur la durée du travail, n'est pas limitée aux entreprises du secteur commercial ou industriel."
+      ],
+      "abstractNL": [
+        "Het begrip \"particuliere sector\" van 's lands bedrijfsleven is in artikel 1 van het koninklijk besluit van 10 februari 1965 tot aanwijzing van de personen die met een leidende functie of met een vertrouwenspost zijn bekleed in de particuliere sector van 's lands bedrijfsleven, voor de toepassing van de wet betreffende de arbeidsduur, niet beperkt tot de handels- of nijverheidsondernemingen."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2022:ARR.20220627.3F.9": {
+      "court": "CASS",
+      "date": "2022-06-27",
+      "roleNumber": "S.20.0026.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_977.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/07/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/11/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/06/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le pouvoir d'engager l'entreprise vis-à-vis des tiers n'investit une personne d'un poste de confiance, qualité qui exclut l'application de ces dispositions légales limitant la durée maximale du travail et le travail de nuit et instaurant des périodes de repos journalier et hebdomadaire, que s'il porte sur des engagements d'une certaine importance (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De bevoegdheid om de onderneming te verbinden tegenover derden bekleedt een persoon enkel met een vertrouwenspost, een hoedanigheid die de toepassing uitsluit van die wetsbepalingen die de maximale arbeidsduur en de nachtarbeid beperken en die dagelijkse en wekelijkse rusttijden opleggen, indien ze betrekking heeft op verbintenissen van een bepaalde omvang (1). (1) Zie concl. OM in Pas. 2022, nr. 453."
+      ]
+    }
+  }
+}

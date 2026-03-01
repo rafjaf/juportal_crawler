@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900528.3": {
+      "court": "CASS",
+      "date": "1990-05-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 51 de l'arrêté royal du 28 juin 1971, relatif aux mesures de sécurité à prendre par ceux qui travaillent à proximité des canalisations de gaz, ne vise que les services et les installations de distribution de gaz, tels que définis par l'article 1er de cet arrêté, à l'exclusion des transporteurs de gaz."
+      ],
+      "abstractNL": [
+        "Artikel 51 van het Koninklijk Besluit van 28 juni 1971, over de veiligheidsmaatregelen die moeten genomen worden door degenen die in de nabijheid van gasleidingen werken, doelt slechts op de gasdistributiediensten en gasdistributieïnstallaties zoals bepaald bij artikel 1 van dit Besluit, met uitzondering van de gasvervoerders."
+      ]
+    }
+  }
+}

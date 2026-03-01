@@ -1,0 +1,44 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1993:ARR.19930517.18": {
+      "court": "CASS",
+      "date": "1993-05-17",
+      "roleNumber": "8309",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le droit au minimum des moyens d'existence il est aussi tenu compte des revenus sur lesquels une saisie est opérée en raison d'obligations alimentaires, comme prévu par l'article 1412 du Code judiciaire (L. 7 août 1974, art. 5; A.R. 30 octobre 1974, art. 12 et s.)."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het recht op bestaansminimum wordt ook rekening gehouden met de in aanmerking te nemen inkomsten waarop beslag is gelegd wegens onderhoudsverplichtingen als bedoeld in art. 1412 Ger. W. (Art. 5 Bestaansminimumwet; artt. 12 e.v. K.B. 30 okt. 1974)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930510.7": {
+      "court": "CASS",
+      "date": "1993-05-10",
+      "roleNumber": "9671",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en cas de cohabitation du demandeur du minimum de moyens d'existence avec un ascendant ou un descendant majeur du premier degré, les ressources du cohabitant du demandeur dépassent le seuil prévu, le C.P.A.S. ne peut se borner, pour refuser le minimum de moyens d'existence au demandeur, à vérifier quelles sont les ressources de ce cohabitant et si celles-ci permettent, après immunisation, d'attribuer fictivement à chacune des deux personnes majeures qui composent le foyer l'équivalent de cette prestation au taux cohabitant; il doit apprécier s'il y a lieu, compte tenu des circonstances de fait et du but de la loi, d'user de la faculté qui lui est donnée de prendre en considération les ressources du cohabitant dans les limites fixées. (L. 7 août 1974, art. 5, alinéa 1er, al. 1er; A.R. 30 octobre 1974, art. 13, alinéa 2, mod. par A.R. 21 juin 1990)"
+      ],
+      "abstractNL": [
+        "Wanneer, ingeval de aanvrager van het bestaansminimum samenwoont met een ascendent of een meerderjarige descendent van de eerste graad, de bestaansmiddelen van de met de aanvrager samenwonende persoon het vastgestelde maximumbedrag te boven gaan, kan het O.C.M.W., wil het aan de aanvrager het bestaansminimum ontzeggen, zich niet ertoe beperken na te gaan welke bestaansmiddelen die samenwonende persoon heeft en te zien of hiermee, na vrijstelling, aan elk van die beide meerderjarigen die het gezin samenstellen, fictief het equivalent van die uitkering kan worden toegekend, zoals dit voor een samenwonende wordt berekend; het O.C.M.W. moet beoordelen of, gelet op de feitelijke omstandigheden en het doel van de wet, toepassing moet worden gemaakt van het hem toegekende recht om, binnen de gestelde grenzen, rekening te houden met de bestaansmiddelen van de samenwonende persoon. Art. 5, alinéa 1, eerste lid, Bestaansminimumwet; art. 13, alinéa 2, K.B. van 30 okt. 1974, gew. bij K.B. van 21 juni 1990)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841008.4": {
+      "court": "CASS",
+      "date": "1984-10-08",
+      "roleNumber": "77/312",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/08/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Met deze termen wordt bedoeld : een persoon die met 1 of meer personen onder hetzelfde dak samenleeft en met hen een gemeenschappelijke huishouding heeft."
+      ]
+    }
+  }
+}

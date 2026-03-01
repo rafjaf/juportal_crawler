@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19801020.11": {
+      "court": "CASS",
+      "date": "1980-10-20",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/20/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 9 du contrat conclu entre parties, les frais de voyage devaient être justifiés d'une façon spéciale. La cour du travail estime toutefois que cette clause n'est pas obligatoire, au motif que le défendeur ne réclame que le salaire minimum, de sorte que le non-remboursement de frais de voyage établis de façon quelconque constituerait une atteinte au salaire minimum; en statuant ainsi elle n'enfreint pas la force obligatoire du contrat."
+      ],
+      "abstractNL": [
+        "Luidens artikel 9 van de overeenkomst tussen partijen, moesten de reiskosten op een bijzondere wijze worden gerechtvaardigd. Het arbeidshof acht dit beding evenwel niet verbindend, omdat verweerder enkel aanspraak maakt op het minimumloon, zodat het niet terugbetalen van reiskosten die op enigerlei wijze bewezen zijn, zou neerkomen op een aantasting van het minimumloon; door aldus te beslissen schendt het de bindende kracht van de overeenkomst niet."
+      ]
+    }
+  }
+}

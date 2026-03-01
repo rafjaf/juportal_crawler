@@ -1,0 +1,34 @@
+{
+  "21": {
+    "ECLI:BE:CASS:2013:ARR.20131022.4": {
+      "court": "CASS",
+      "date": "2013-10-22",
+      "roleNumber": "P.13.0550.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'ordre adressé à un fournisseur d'accès à internet de bloquer par tous les moyens techniques possibles l'accès au contenu hébergé par un serveur associé à un nom de domaine principal déterminé en bloquant à tout le moins tous les noms de domaine qui renvoient à ce serveur associé au nom de domaine principal déterminé, avec de surcroît la spécification du procédé technique devant être employé, n'implique pas l'obligation de surveillance visé par l'article 15.1 de la Directive du 8 juin 2000 sur le commerce électronique et à l'article 21, § 1er, de la loi du 11 mars 2003 sur certains aspects juridiques des services de la société de l'information; il n'est en effet pas demandé au fournisseur d'accès à internet de surveiller les informations qu'il transmet ou stocke ni de rechercher activement les informations révélant des activités illicites."
+      ],
+      "abstractNL": [
+        "Het bevel dat aan een internettoegangleverancier wordt gegeven om met alle mogelijke technische middelen de toegang te blokkeren tot de inhoud die wordt gehost door een server welke is gekoppeld aan een welbepaalde hoofddomeinnaam door minstens alle domeinnamen te blokkeren die doorverwijzen naar die aan de wel bepaalde hoofddomeinnaam gekoppelde server, met bovendien de specificatie welk technisch procedé daartoe moet worden aangewend, houdt geen toezichtsverplichting in als bedoeld door artikel 15.1 Richtlijn Elektronische Handel en artikel 21, §1, Wet Elektronische Handel; van de internettoegangleverancier wordt immers niet gevraagd toe te zien op de informatie die hij doorgeeft of opslaat of om actief te zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2004:ARR.20040203.3": {
+      "court": "CASS",
+      "date": "2004-02-03",
+      "roleNumber": "P031427N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/02/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les articles 18 et 20 de la loi du 11 mars 2003 sur certains aspects juridiques des services de la société de l'information prévoient l'exclusion de la responsabilité pour chaque prestataire de services qui agit en tant qu'intermédiaire au sens de cette loi, dans la mesure où son activité a un caractère purement technique, automatique et passif, ce qui implique que l'intermédiaire ne connaît pas et n'exerce pas de contrôle sur l'information qui est transmise ou stockée."
+      ],
+      "abstractNL": [
+        "De artikelen 18 en 20 van de wet van 11 maart 2003 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij voorzien voor iedere dienstverlener die als tussenpersoon in de zin van deze wet fungeert in een uitsluiting van aansprakelijkheid, in zoverre diens activiteit een louter technisch, automatisch en passief karakter heeft, wat inhoudt dat de tussenpersoon noch kennis noch controle heeft over de informatie die wordt doorgegeven of opgeslagen."
+      ]
+    }
+  }
+}

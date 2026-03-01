@@ -1,0 +1,30 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19791107.10": {
+      "court": "CASS",
+      "date": "1979-11-07",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/07/sitemap_11.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Voor het misdrijf bedoeld in art. 27, 1ó, a, van het K.B. nr. 34 van 20 juli 1967 (volgens art. 27, 1ó, aanhef, strafbaar met gevangenisstraf enof geldboete) is slechts één enkele geldboete verantwoord, waarvan, overeenkomstig art. 28, het bedrag bepaald wordt volgens het aantal in het misdrijf betrokken werknemers. Voor die geldboete mag slechts één enkele vervangende gevangenisstraf worden uitgesproken."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19711206.10": {
+      "court": "CASS",
+      "date": "1971-12-06",
+      "roleNumber": "6074",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/12/06/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal n° 34 du 20 juillet 1967, qui détermine les conditions de la mise au travail en Belgique des travailleurs de nationalité étrangère, est, au sens de l'article 578, 7°, du Code judiciaire, une loi un un arrêté relatif à la réglementation du travail. ( Code judic., art. 578, 7°. )"
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit nr. 34 van 20 juli 1967 waarbij de voorwaarden worden vastgesteld van de tewerkstelling in België van werknemers van vreemde nationaliteit valt onder de wetten en besluiten betreffende de arbeidsreglementering, in de zin van artikel 578, 7°, van het Gerechtelijk Wetboek. ( G.W., art. 155 en 578, 7°. )"
+      ]
+    }
+  }
+}

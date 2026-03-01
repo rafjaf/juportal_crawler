@@ -1,0 +1,40 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19871019.17": {
+      "court": "CASS",
+      "date": "1987-10-19",
+      "roleNumber": "102441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/10/19/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het misdrijf dat erin bestaat niet of niet binnen de voorgeschreven termijn of volgens de reglementaire modaliteiten het verschuldigd vakantiegeld waarop de werknemers recht hebben, te betalen is voltrokken door één enkel verzuim, op het ogenblik waarop uiterlijk moet worden betaald (artt. 54-2° en 60 van het koninklijk besluit van 28 juni 1971 houdende aanpassing en coördinatie van de wetsbepalingen betreffende de jaarlijkse vakantie van de werknemers)."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810323.4": {
+      "court": "CASS",
+      "date": "1981-03-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/23/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que l'employé fondait sa demande de pécule de vacances sur un défaut de paiement, punissable de peines correctionnelles en vertu de l'article 54, 2ó, des lois coordonnées du 28 juin 1971 relatives aux vacances annuelles des travailleurs salariés, cette demande ne pouvait être déclarée prescrite par application de l'art. 34 des lois coordonnées relatives au contrat d'emploi. Aux termes de l'article 26 de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale, modifié par la loi du 30 mai 1961, l'action civile résultant d'une infraction est prescrite après cinq années révolues à compter du jour où l'infraction a été commise ; en vertu de l'article 28 de la même loi du 17 avril 1878, l'article 26 précité est applicable dans toutes les matières prévues par les lois particulières."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1975:ARR.19751224.5": {
+      "court": "CASS",
+      "date": "1975-12-24",
+      "roleNumber": "24.235",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/24/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer het Arbeidshof, zonder op dit punt bestreden te worden, heeft vastgesteld dat de verzekeraar-arbeidsongevallen zelf in het voorgestelde basisloon een eindejaarspremie als integrerend deel heeft opgenomen, volgt uit de artikelen 35 van de A.O.W., 9 van K.B. van 28 juni 1971 houdende coordinatie van de wetten betreffende de jaarlijkse vakantie en 14 Wet 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 dat het vakantiegeld ook op die eindejaarspremie moet berekend worden en dat dit vakantiegeld zelf deel uitmaakt van het basisloon."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2020:ARR.20200324.1N.1": {
+      "court": "CASS",
+      "date": "2020-03-24",
+      "roleNumber": "P.19.0571.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/14/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/03/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas de la loi du 22 avril 2003 octroyant la qualité d'officier de police judiciaire à certains agents de l'administration des douanes et accises que, lorsqu'ils prêtent assistance à la police judiciaire, les agents des douanes doivent être revêtus de la qualité d'officier de police judiciaire auxiliaire du procureur du Roi (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit de Wet van 22 april 2003 volgt niet dat douaneambtenaren bij het verlenen van bijstand aan de gerechtelijke politie bekleed dienen te zijn met de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

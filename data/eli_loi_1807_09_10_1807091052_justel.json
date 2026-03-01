@@ -1,0 +1,34 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19871019.7": {
+      "court": "CASS",
+      "date": "1987-10-19",
+      "roleNumber": "40.670",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/10/19/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le débiteur est dessaisi de l'administration de tous ses biens par la déclaration de la faillite, à compter du jour où le jugement déclaratif de la faillite est prononcé, ce jour y compris. Dès lors, le paiement fait le jour de la déclaration de la faillite ne peut être opposé au curateur."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1986:ARR.19860131.3": {
+      "court": "CASS",
+      "date": "1986-01-31",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Une action en déclaration de faillite introduite à la requête d'un ou de plusieurs créanciers doit être introduite par voie de citation (solution implicite). L'article 442 de la loi sur les faillites ne confère pas aux curateurs le droit ni par conséquent une action pour demander la faillite d'un tiers sauf s'ils sont créanciers de ce tiers.",
+        "Le juge saisi d'une requête en extension de faillite déposée par un curateur peut la considérer comme une information qui lui est soumise et déclarer la faillite ouverte d'office.",
+        "De la seule circonstance que le débiteur s'est expliqué devant le tribunal de commerce avant d'être déclaré failli, ne peut être déduit qu'il était partie au jugement. La voie de recours peut donc être l'opposition."
+      ],
+      "abstractNL": [
+        "De vordering tot faillietverklaring op \" verzoek van een of meer schuldeisers \" (art. 442 Faill. W.) wordt ingeleid bij dagvaarding (impliciete oplossing). De bepaling van art. 442 verleent aan de curators van een faillissement geen recht en derhalve ook geen rechtsvordering om de faillietverklaring van een derde te vorderen, tenzij ze schuldeisers zijn van die derde.",
+        "De rechter die een \" verzoekschrift tot uitbreiding \" van het faillissement ontvangt kan dit beschouwen als een inlichting gegeven door de curator, en ambtshalve het faillissement uitspreken.",
+        "De enkele omstandigheid dat de schuldenaar, voordat de rechtbank van koophandel hem ambtshalve failliet verklaart, aan de rechtbank uitleg heeft gegeven, maakt hem niet tot partij. Verzet is in die omstandigheden toelaatbaar."
+      ]
+    }
+  }
+}

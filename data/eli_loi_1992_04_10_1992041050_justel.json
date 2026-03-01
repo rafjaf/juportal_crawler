@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011203.2": {
+      "court": "CASS",
+      "date": "2001-12-03",
+      "roleNumber": "F990081F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le précompte mobilier a été enrôlé à défaut de versement dans le délai prescrit mais que l'administration est tenue de le rembourser à la suite d'une erreur qu'elle a commise, il est un impôt au sens de l'article 308, alinéa 1er, du Code des impôts sur les revenus (1964); la restitution de ce précompte donne lieu à l'allocation d'intérêts moratoires (1)."
+      ],
+      "abstractNL": [
+        "De roerende voorheffing die wegens niet-betaling binnen de gestelde termijn is ingekohierd, maar die het bestuur dient terug te betalen ten gevolge van een fout die het heeft begaan, is een belasting in de zin van artikel 308, eerste lid, W.I.B. (1964); de terugbetaling van die voorheffing leidt tot het toekennen van moratoriuminterest (1)."
+      ]
+    }
+  }
+}

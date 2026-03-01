@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860929.13": {
+      "court": "CASS",
+      "date": "1986-09-29",
+      "roleNumber": "4206",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/09/29/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Le contrat de travail conclu entre une entreprise industrielle, commerciale ou financière privée dont le siège d'exploitation est situé dans la région de langue française, et un travailleur occupé dans la région de langue néerlandaise, ainsi que la lettre de congé envoyée par l'entreprise au travailleur, doivent être rédigés en français. ( Lois coordonnées du 18 juillet 1966, art. 52, § 1er. )"
+      ],
+      "abstractNL": [
+        "De arbeidsovereenkomst aangegaan door een privé nijverheidsbedrijf, handelsbedrijf of financiebedrijf waarvan de exploitatiezetel in het Franse taalgebied is gevestigd, met een in het Nederlandse taalgebied tewerkgestelde werknemer, evenals de door het bedrijf aan de werknemer gezonden ontslagbrief moeten in het Frans gesteld zijn. ( Art. 52, § 1, Taalwet Bestuurszaken. )"
+      ]
+    }
+  }
+}

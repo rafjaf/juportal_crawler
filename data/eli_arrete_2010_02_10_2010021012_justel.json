@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2018:ARR.20180208.4": {
+      "court": "CASS",
+      "date": "2018-02-08",
+      "roleNumber": "C.16.0523.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/02/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la notification de l'approbation de l'offre à l'adjudicataire a lieu par télécopieur ou par d'autres moyens électroniques, la confirmation dans les cinq jours par lettre recommandée constitue une condition de validité de cette notification (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer de betekening van de goedkeuring van de offerte aan de begunstigde per telefax of via andere elektronische middelen gebeurt, maakt de bevestiging binnen de vijf dagen per aangetekende brief een geldigheidsvoorwaarde van de betekening uit (1). (1) Zie concl. OM."
+      ]
+    }
+  }
+}

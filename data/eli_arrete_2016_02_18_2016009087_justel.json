@@ -1,0 +1,61 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2020:ARR.20200609.2N.6": {
+      "court": "CASS",
+      "date": "2020-06-09",
+      "roleNumber": "P.20.0304.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_37.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si une rubrique n’a pas été cochée sur le formulaire de griefs, cela ne signifie pas qu’aucun grief n’est élevé dans la rubrique en question lorsqu’il ressort des autres mentions apportées sur le formulaire de griefs que celui-ci comporte effectivement un grief précis concernant l’élément de la décision entreprise visé dans la rubrique non cochée (1). (1) A.R. du 18 février 2016, modifié par l’A.R. du 23 novembre 2017."
+      ],
+      "abstractNL": [
+        "Het niet-aankruisen van een rubriek in het grievenformulier heeft niet tot gevolg dat er met betrekking tot de desbetreffende rubriek geen grief voorligt, wanneer uit de overige vermeldingen in het grievenformulier blijkt dat dit laatste wel degelijk een nauwkeurig bepaalde grief bevat met betrekking tot het onderdeel van de beroepen beslissing dat in de niet-aangekruiste rubriek wordt bedoeld (1). (1) KB 18 februari 2016, gewijzigd door het KB 23 november 2017."
+      ]
+    },
+    "ECLI:BE:CASS:2018:ARR.20181219.4": {
+      "court": "CASS",
+      "date": "2018-12-19",
+      "roleNumber": "P.18.0824.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/12/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 204 C.I.cr. impose seulement à l'appelant de préciser les points sur lesquels la décision entreprise doit être réformée (1) ; ni cette disposition ni l'arrêté royal du 18 février 2016 n'imposent le recours, par la partie qui interjette appel, au formulaire dont le modèle est annexé à cet arrêté royal; dès lors, la circonstance que l'appelant emploie un autre type de document pour indiquer les décisions du jugement entrepris dont il entend demander la réformation ne saurait entraîner la déchéance de l'appel. (1) Cass. 3 mai 2017, RG P.17.0145.F, Pas. 2017, n° 305, avec concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 204 Wetboek van Strafvordering verplicht de appellant alleen om nauwkeurig te bepalen op welke punten de beroepen beslissing moet worden hervormd (1); noch deze bepaling noch het koninklijk besluit van 18 februari 2016 verplichten de partij die hoger beroep instelt om gebruik te maken van het formulier waarvan het model in bijlage aan dit besluit is gehecht; bijgevolg kan de omstandigheid dat de appellant een ander type document gebruikt om de beslissingen van het beroepen vonnis op te geven die hij hervormd wenst te zien, niet tot verval van het hoger beroep leiden. (1) Cass. 3 mei 2017, AR P.17.0145.F, AC 2017, nr. 305, met concl. OM in Pas. 2017, nr. 305."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170418.5": {
+      "court": "CASS",
+      "date": "2017-04-18",
+      "roleNumber": "P.17.0087.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/04/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il doit être satisfait à l'obligation en matière répressive d'indiquer précisément les griefs au moment où la requête ou le formulaire de griefs doivent être introduits."
+      ],
+      "abstractNL": [
+        "Aan de verplichting in strafzaken de grieven nauwkeurig te bepalen, moet voldaan zijn op het tijdstip waarop het verzoekschrift of het grievenformulier moet worden ingediend."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170418.6": {
+      "court": "CASS",
+      "date": "2017-04-18",
+      "roleNumber": "P.17.0105.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/04/18/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les objectifs poursuivis par le législateur avec l'obligation en matière répressive d'indiquer précisément les griefs en appel, peuvent seulement être atteints si cette obligation est appréciée au moment où la requête ou le formulaire de griefs doivent être introduits au plus tard."
+      ],
+      "abstractNL": [
+        "De doelstellingen die de wetgever beoogt met de verplichting in strafzaken in hoger beroep de grieven nauwkeurig te bepalen kunnen slechts worden bereikt als die verplichting wordt beoordeeld op het tijdstip waarop het verzoekschrift of het grievenformulier uiterlijk moet zijn ingediend."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2023:ARR.20231222.1F.6": {
+      "court": "CASS",
+      "date": "2023-12-22",
+      "roleNumber": "F.22.0035.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1214.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1214.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les significations sont faites à l'État au cabinet du ministre compétent ou au bureau du fonctionnaire désigné par celui-ci, soit, pour le ministre des Finances, conformément à l'arrêté ministériel du 25 octobre 2012 désignant le fonctionnaire du service public fédéral des Finances au bureau duquel l'État peut être cité en justice et les significations et notifications faites (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2019:ARR.20190321.1": {
+      "court": "CASS",
+      "date": "2019-03-21",
+      "roleNumber": "F.18.0115.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2019/03/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En adoptant l'arrêté du 25 octobre 2012 désignant le fonctionnaire du service public fédéral des Finances au bureau duquel l'État peut être cité en justice et les significations et notifications faites, le ministre des Finances a exclu qu'un autre fonctionnaire puisse être tenu pour avoir été implicitement désigné par lui (1). (1) Cass. 29 juin 2018, RG F.17.0144.F, Pas. 2018, n° 429."
+      ],
+      "abstractNL": [
+        "Met het uitvaardigen van het besluit van 25 oktober 2012 houdende aanwijzing van de ambtenaar van de federale overheidsdienst Financiën op wiens kantoor de Staat kan worden gedagvaard en de betekeningen en kennisgevingen kunnen worden gedaan, heeft de minister van Financiën willen uitsluiten dat een andere ambtenaar zich zou moeten verbinden omdat hij impliciet door hem werd aangewezen (1). (1) Cass. 29 juni 2018, AR F.17.0144.F, AC 2018, nr. 429."
+      ]
+    }
+  }
+}

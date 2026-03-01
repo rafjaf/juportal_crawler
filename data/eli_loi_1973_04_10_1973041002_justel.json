@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19761013.2": {
+      "court": "CASS",
+      "date": "1976-10-13",
+      "roleNumber": "5383",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "_ La loi, sans comparer une heure d'absence du travail avec la durée d'une leçon, a entendu donner au travailleur le droit de s'absenter annuellement pendant un nombre d'heures total égal au nombre d'heures de cours que suit ce travailleur, quels que soient, selon la réglementation et les usages en vigueur dans les établissements dispensant l'enseignement de programmation sociale, la structure des programmes de cours et l'horaire de ceux-ci. _ Lorsque les matières enseignées font théoriquement l'objet de 520 heures de cours par an, le travailleur qui a suivi cet enseignement de promotion sociale a droit de s'absenter du travail pendant 520 heures."
+      ],
+      "abstractNL": null
+    }
+  }
+}

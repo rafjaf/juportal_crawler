@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011019.10": {
+      "court": "CASS",
+      "date": "2001-10-19",
+      "roleNumber": "C000031F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 1382 et 1383 du Code civil, le jugement qui considère que le dommage a été causé par les fautes concurrentes des parties et décide néanmoins que chacune d'elles supportera seule les conséquences de son propre dommage (1)."
+      ],
+      "abstractNL": [
+        "Het vonnis, dat oordeelt dat de schade veroorzaakt is door de samenlopende fouten van de partijen en evenwel beslist dat elk van hen de gevolgen van haar eigen schade alleen zal dragen, schendt de artt. 1382 en 1383 BW (1)."
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "37": {
+    "ECLI:BE:CASS:2023:ARR.20230202.1F.1": {
+      "court": "CASS",
+      "date": "2023-02-02",
+      "roleNumber": "C.22.0220.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/14/sitemap_31.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1083.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/28/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les charges de la fabrique d'église sont de veiller à l'entretien des églises, presbytères et cimetières, et, en cas d'insuffisance des revenus de la fabrique, de faire toutes diligences nécessaires pour qu'il soit pourvu aux réparations et reconstructions; l'obligation de la fabrique de réparer le dommage que sa faute a causé à l'entrepreneur chargé de l'exécution des travaux qui lui incombent en vertu de l'article 37, alinéa 1er, 4°, du décret impérial ne constitue pas une telle charge mais résulte des dispositions légales relatives à la responsabilité de l'auteur d'une faute."
+      ],
+      "abstractNL": [
+        "De lasten van het kerkbestuur bestaan in het onderhoud van de kerken, pastorijen en kerkhoven en in geval van onvoldoende inkomsten dient het al het nodige te doen om de herstellingen en de wederopbouw te verrichten; de verplichting voor het kerkbestuur om de schade te vergoeden die het door zijn fout heeft toegebracht aan de aannemer die met de uitvoering werd belast van de werken die door dat bestuur moeten worden verricht krachtens artikel 37, eerste lid, 4°, van het keizerlijk decreet, vormt geen dergelijke last maar vloeit voort uit de wettelijke bepalingen betreffende de aansprakelijkheid van de pleger van een fout."
+      ]
+    }
+  },
+  "92": {
+    "ECLI:BE:CASS:2023:ARR.20230202.1F.1": {
+      "court": "CASS",
+      "date": "2023-02-02",
+      "roleNumber": "C.22.0220.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/14/sitemap_31.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1083.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/28/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 92, alinéa 1er, 1°, du décret impérial du 30 décembre 1809 n'impose aux communes de suppléer, le cas échéant, à l'insuffisance des revenus de la fabrique que pour les charges auxquelles les fabriques ne peuvent se soustraire parce qu'elles constituent l'essence même de leurs fonctions."
+      ],
+      "abstractNL": [
+        "Artikel 92, eerste lid, 1°, van het keizerlijk decreet van 30 december 1809 verplicht de gemeenten enkel om, in voorkomend geval, in geval van onvoldoende inkomsten van het kerkbestuur bij te dragen tot de lasten waaraan de kerkbesturen zich niet kunnen onttrekken omdat ze de essentie zelf van hun opdrachten raken."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810302.2": {
+      "court": "CASS",
+      "date": "1981-03-02",
+      "roleNumber": "85/23387",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 37 du décret impérial du 30 décembre 1809 concernant les fabriques d'églises met notamment le traitement des sacristains et des organistes à la charge de la fabrique d'église. L'article 92, 1° du décret impose aux communes de suppléer à l'insuffisance des revenus de la fabrique, pour ladite charge; l'article 114, enfin, charge les Ministres des affaires intérieures et des cultes de l'exécution du décret; il ne résulte d'aucune de ces dispositions, ni d'autres dispositions légales ou réglementaires, que le Ministre de la Justice ait le pouvoir réglementaire de fixer les traitements du personnel séculier au service de l'église."
+      ],
+      "abstractNL": [
+        "Artikel 37 van het keizerlijk decreet van 30 december 1809 op de kerkfabrieken legt onder meer de wedde van de kosters en organisten ten laste van de kerkbesturen. Artikel 92, 1°, van het decreet legt de gemeenten op bij te dragen in de bedoelde last in zoverre de inkomsten van de kerkbesturen onvoldoende zijn ; artikel 114 belast, ten slotte, de Ministers van Binnenlandse Zaken en van de erediensten met de uitvoering van het decreet ; uit geen dezer noch uit andere wettelijke of reglementaire bepalingen vloeit voort dat de minister van Justitie de reglementaire bevoegdheid bezit de wedden van het wereldlijke kerkpersoneel vast te stellen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830426.10": {
+      "court": "CASS",
+      "date": "1983-04-26",
+      "roleNumber": "7869",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/04/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 128, alinéa 1, 1°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, le chômeur qui cohabite avec un travailleur indépendant et qui est en mesure de lui apporter une aide appréciable mais qui ne déclare pas la profession exacte de cet indépendant et/ou donne une réponse inexacte à la question de savoir s'il a l'intention de lui apporter une aide, n' a pas droit aux allocations de chômage."
+      ],
+      "abstractNL": [
+        "De werkloze die met een zelfstandige samenwoont en in staat is deze aanmerkelijk te helpen, maar die het juiste beroep van die zelfstandige niet aangeeft en/of een vals antwoord verstrekt op de vraag of hij voornemens is deze te helpen, heeft geen aanspraak op werkloosheidsuitkeringen, op grond van artikel 128, alinéa 1, 1°, van het koninklijk besluit van 20 dec. 1963 betreffende arbeidsvoorziening en werkloosheid."
+      ]
+    }
+  }
+}

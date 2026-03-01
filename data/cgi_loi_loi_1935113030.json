@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840119.7": {
+      "court": "CASS",
+      "date": "1984-01-19",
+      "roleNumber": "1724",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En cas de liquidation d'une société commerciale, le principe de l'égalité entre les créanciers, contenu dans l'article 184 des lois coordonnées sur les sociétés commerciales, fait obstacle à ce que les créanciers, bénéficiant d'un privilège général, procèdent individuellement à des actes d'exécution qui auraient pour effet de léser les droits d'autres créanciers."
+      ],
+      "abstractNL": [
+        "Bij de vereffening van een handelsvennootschap, belet het gelijkheidsbeginsel tussen schuldeisers, uitgedrukt door artikel 184 van de gecoordineerde wetten op de handelsvennootschappen, dat schuldeisers, die van een algemeen voorrecht genieten individuele uitvoeringsdaden stellen, die een benadeling van de andere schuldeisers tot gevolg zouden hebben."
+      ]
+    }
+  }
+}

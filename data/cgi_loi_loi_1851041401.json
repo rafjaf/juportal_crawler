@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860307.5": {
+      "court": "CASS",
+      "date": "1986-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui a déclaré ouverte la faillite d'une société peut également examiner si le maître de l'affaire doit être déclaré failli. Le tribunal de commerce ne doit pas convoquer le débiteur avant de le déclarer failli d'office; les droits de la défense du débiteur seront sauvegardés par l'exercice que lui ménage la loi de faire opposition. Le tribunal de commerce ne doit pas motiver le fait qu'il déclare la faillite d'office."
+      ],
+      "abstractNL": [
+        "De rechters die het faillissement van een vennootschap hebben uitgesproken mogen vervolgens onderzoeken of het faillissement niet moet worden uitgesproken van de achterman die deze vennootschap bestuurt. De rechtbank van koophandel is daarbij niet verplicht de schuldenaar te horen alvorens hem ambtshalve failliet te verklaren. Het recht van de verdediging van de niet-gehoorde schuldenaar wordt gevrijwaard door de procedure van verzet tegen het vonnis van faillietverklaring. De wet schrijft niet voor aan de rechtbank van koophandel in haar vonnis de redenen te vermelden die haar genoopt hebben het faillissement ambtshalve uit te spreken."
+      ]
+    }
+  }
+}

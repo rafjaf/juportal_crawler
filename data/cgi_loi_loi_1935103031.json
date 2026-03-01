@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880317.7": {
+      "court": "CASS",
+      "date": "1988-03-17",
+      "roleNumber": "6099",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La raison sociale de la société en nom collectif est la dénomination sous laquelle la société se manifeste à l'égard des tiers. Pour statuer sur la liquidation entre associés de l'avoir d'une société, le juge peut décider qu'ils avaient constitué entre eux une société en nom collectif irrégulière, sans avoir égard à l'absence de raison sociale (Lois coordonnées sur les sociétés commerciales, art. 15)."
+      ],
+      "abstractNL": [
+        "De maatschappelijke naam van de vennootschap onder firma is de naam waaronder de vennootschap zich tegenover derden veruiterlijkt. Om te beslissen over de vereffening tussen vennoten van het vermogen van een vennootschap, mag de rechter derhalve beslissen dat zij onder hen een onregelmatige vennootschap onder firma hadden opgericht, zonder acht te moeten slaan op het gebrek aan maatschappelijke naam (Gecoördineerde Wetten op de Handelsvennootschappen, art. 15)."
+      ]
+    }
+  }
+}

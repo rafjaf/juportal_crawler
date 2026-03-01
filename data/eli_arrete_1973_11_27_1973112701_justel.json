@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860430.7": {
+      "court": "CASS",
+      "date": "1986-04-30",
+      "roleNumber": "26158",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/04/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 25, 2., de l'arrêté royal du 27 novembre 1973 portant réglementation des informations économiques et financières à fournir aux conseils d'entreprise, pris en exécution de la loi du 20 septembre 1948 portant organisation de l'économie, l'employeur doit communiquer au conseil d'entreprise, si possible avant son exécution, toute décision interne susceptible d'avoir des répercussions importantes sur l'entreprise. C'est le cas d'une décision d'aveu de faillite, la loi ne subordonnant pas l'obligation pour l'employeur d'informer d'une telle décision le conseil d'entreprise à la condition que celui-ci puisse la modifier ou en modifier les effets."
+      ],
+      "abstractNL": null
+    }
+  }
+}

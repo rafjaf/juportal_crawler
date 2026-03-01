@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760303.6": {
+      "court": "CASS",
+      "date": "1976-03-03",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui reconnaît une carrière professionnelle de travailleur indépendant à un mari aidant de son épouse pour des années antérieures à 1968 viole les articles 6 et 7 de l'arrêté royal n° 38 du 27 juillet 1967 et les articles 52 et 53 de l'arrêté royal n° 72 du 10 novembre 1967."
+      ],
+      "abstractNL": null
+    }
+  }
+}

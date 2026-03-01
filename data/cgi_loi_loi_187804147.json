@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970423.4": {
+      "court": "CASS",
+      "date": "1997-04-23",
+      "roleNumber": "P970057F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de police doit réserver d'office les intérêts civils, même en l'absence de constitution de partie civile, si la cause n'est pas en état d'être jugée quant à ces intérêts; le tribunal correctionnel statuant en degré d'appel est soumis à la même obligation légale."
+      ],
+      "abstractNL": [
+        "De politierechtbank moet ambtshalve de burgerlijke belangen aanhouden, zelfs bij ontstentenis van burgerlijke-partijstelling, wanneer de zaak wat die belangen betreft niet in staat van wijzen is; dezelfde wettelijke verplichting geldt voor de correctionele rechtbank die in hoger beroep uitspraak doet."
+      ]
+    }
+  }
+}

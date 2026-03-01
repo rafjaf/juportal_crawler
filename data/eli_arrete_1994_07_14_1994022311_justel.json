@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011203.4": {
+      "court": "CASS",
+      "date": "2001-12-03",
+      "roleNumber": "S000033F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Aussi longtemps que le bénéficiaire de l'assurance maladie-invalidité n'a pas obtenu la réparation effective du dommage en vertu d'une autre législation ou du droit commun, l'organisme assureur ne peut se voir reprocher par l'Institut national d'assurance maladie-invalidité de ne pas avoir exercé l'action subrogatoire dont il bénéficie (1)."
+      ],
+      "abstractNL": [
+        "Zolang de schade van degene die ziekte- en invaliditeitsuitkeringen ontvangt niet effectief is vergoed krachtens een andere wet of het gemeen recht, kan het R.I.Z.I.V. de verzekeringsinstelling niet verwijten dat ze haar subrogatoire vordering niet heeft ingesteld (1)."
+      ]
+    }
+  }
+}

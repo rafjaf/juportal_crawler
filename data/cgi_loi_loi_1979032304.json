@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860527.19": {
+      "court": "CASS",
+      "date": "1986-05-27",
+      "roleNumber": "29",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/27/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Il se déduit des dispositions des articles 46 et 57, alinéa 1er, de la loi du 9 août 1963 et des articles 3 et 4 de la convention collective de travail n° 12bis du 26 février 1979, rendue obligatoire par l'arrêté royal du 23 mars 1979, que l'indemnité d'incapacité primaire et le salaire mensuel garanti ne couvrent pas la même perte de salaire."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van de artt. 46 en 57, alinéa 1, Z.I.V.-wet en de artt. 3 en 4 van de collectieve arbeidsovereenkomst nr. 12bis van 26 februari 1979, die algemeen verbindend is verklaard bij het K.B. van 23 maart 1979, volgt dat de vergoeding wegens primaire ongeschiktheid en het gewaarborgd maandloon niet dezelfde inkomensderving dekken."
+      ]
+    }
+  }
+}

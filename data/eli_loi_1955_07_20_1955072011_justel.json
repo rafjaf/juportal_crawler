@@ -1,0 +1,34 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800211.7": {
+      "court": "CASS",
+      "date": "1980-02-11",
+      "roleNumber": "2590",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La partie à un contrat de travail à durée indéterminée qui a reçu un préavis peut exprimer son accord sur la durée du préavis donné en faisant précéder sa signature des mots \" lu et approuvé \". ( Lois relatives au contrat d'emploi, coordonnées le 20 juillet 1955, art. 14, al. 4. )"
+      ],
+      "abstractNL": [
+        "De partij bij een arbeidsovereenkomst voor onbepaalde tijd, aan wie opzegging wordt gegeven, kan haar instemming met de duur van de gegeven opzeggingstermijn betuigen door haar handtekening op het geschrift dat haar wordt overhandigd, te laten voorafgaan door de woorden ë gelezen en goedgekeurd è <1>. (Art. 14, vierde lid, Wet Arbeidsovereenkomst Bedienden.)"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661216.3": {
+      "court": "CASS",
+      "date": "1966-12-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de préavis à observer par l'employeur, pour mettre fin au contrat d'emploi, doit être déterminé en tenant compte de la situation de l'employé au moment du licenciement. (Lois coordonnées relatives au contrat d'emploi, art. 15.)",
+        "Lorsque la rémunération annuelle dépasse 120.000 francs, le délai de préavis à observer par l'employeur pour mettre fin au contrat d'emploi, est fixé par la convention ou par le juge, sans qu'il puisse être inférieur aux délais prévus à l'article 15, 1°, des lois coordonnées relatives au contrat d'emploi, qui prescrit un délai de préavis d'au moins trois mois pour les employés engagés depuis moins de cinq ans et une augmentation de trois mois dès le commencement de chaque nouvelle période de cinq ans de service chez le même employeur. (Lois coordonnées relatives au contrat d'emploi, art. 15, 2°.)"
+      ],
+      "abstractNL": [
+        "De door de werkgever na te leven opzeggingstermijn om een einde aan de bediendenovereenkomst te stellen, moet bepaald worden door rekening te houden met de toestand van de bediende op het ogenblik van de afdanking. (Gecoördineerde wetten betreffende het bediendencontract, art. 15.)",
+        "Wanneer de jaarlijkse bezoldiging hoger is dan 120.000 frank, wordt de door de werknemer na te leven opzeggingstermijn om een einde aan de bediendenovereenkomst te stellen, vastgesteld bij overeenkomst of door de rechter, zonder dat hij lager mag zijn dan de termijnen bepaald bij artikel 15, 1°, van de gecoördineerde wetten betreffende het bediendencontract, dat een opzeggingstermijn voorschrijft van minstens drie maanden voor de bedienden die sinds minder dan vijf jaar in dienst zijn en een verhoging met drie maanden bij de aanvang van elke nieuwe periode van vijf jaar dienst bij dezelfde werkgever. (Gecoördineerde wetten betreffende het bediendencontract, art. 15, 2°.)"
+      ]
+    }
+  }
+}

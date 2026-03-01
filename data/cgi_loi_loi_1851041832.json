@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19850613.5": {
+      "court": "CASS",
+      "date": "1985-06-13",
+      "roleNumber": "7214",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'admission d'une créance au passif d'une faillite, sans réserve ni contredit manifesté dans le délai imparti, après vérification par le juge commissaire, constitue, en principe, un acte juridique irrévocable faisant obstacle à ce que la créance admise puisse encore être contestée; toutefois, la créance admise peut ultérieurement être contestée, soit lorsque son admission résulte du dol ou de la fraude du produisant ou a été faite sur la base d'actes viciés par le dol ou la fraude, soit lorsque des règles d'ordre public ont été méconnues, soit encore lorsque la force majeure a empêché la manifestation de la vérité."
+      ],
+      "abstractNL": [
+        "De opneming van een schuldvordering in het passief van een faillissement, zonder voorbehoud of zonder tegenspraak binnen de voorgeschreven termijn, na verificatie door de rechter-commissaris, is in beginsel een onherroepelijke rechtshandeling die belet dat de aangenomen schuldvordering nog kan worden betwist; de aangenomen schuldvordering kan evenwel achteraf worden betwist, hetzij wanneer die aanneming het gevolg is van bedrog of arglist van de indiener of heeft plaatsgehad op grond van wegens bedrog of arglist nietige handelingen, hetzij wanneer regels van openbare orde zijn miskend, hetzij nog wanneer overmacht heeft belet dat de waarheid aan de dag wordt gebracht."
+      ]
+    }
+  }
+}
