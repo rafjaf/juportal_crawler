@@ -13,7 +13,7 @@
 import chalk from 'chalk';
 import readline from 'node:readline';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, loadMissingEliFile, saveMissingEliFile, flushAll } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, loadMissingEliFile, saveMissingEliFile, appendMissingEli, flushAll } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
@@ -320,6 +320,25 @@ async function main() {
 
     logInfo(`Found ${errorSitemapUrls.length} sitemap(s) with parse errors to reprocess.`);
 
+    // Build a sitemapUrl → log-entry map from log.json so we can resolve errors
+    // offline without re-fetching from juportal.  log.json is only populated
+    // when --log was used on a previous run, so silently fall back to network
+    // for any URL that has no log entry.
+    const sitemapToLogEntry = new Map();
+    try {
+      const logData = JSON.parse(fs.readFileSync(LOG_FILE, 'utf-8'));
+      for (const entry of Object.values(logData)) {
+        if (entry.sitemap && !sitemapToLogEntry.has(entry.sitemap)) {
+          sitemapToLogEntry.set(entry.sitemap, entry);
+        }
+      }
+      if (sitemapToLogEntry.size > 0) {
+        logInfo(chalk.gray(`  Loaded ${sitemapToLogEntry.size} log entries — offline resolution available.`));
+      }
+    } catch {
+      logInfo(chalk.gray(`  No log.json found — will use network for all entries.`));
+    }
+
     // Clear errors.json so appendParseError re-records only what still fails
     saveErrorsFile({});
 
@@ -328,6 +347,7 @@ async function main() {
     let partialCount = 0;
     let unchangedCount = 0;
     let networkErrorCount = 0;
+    let offlineCount = 0;
 
     for (let i = 0; i < errorSitemapUrls.length; i++) {
       const sitemapUrl = errorSitemapUrls[i];
@@ -335,6 +355,67 @@ async function main() {
       logInfo(`\n${timestamp()} ${chalk.bold(`[${i + 1}/${errorSitemapUrls.length}]`)} Reprocessing: ${chalk.cyan(sitemapUrl)}`);
       logInfo(chalk.gray(`  Had ${originalTexts.length} error(s): ${originalTexts.slice(0, 2).join(' | ')}${originalTexts.length > 2 ? ` (+${originalTexts.length - 2} more)` : ''}`));
 
+      // ── Offline resolution via log.json ────────────────────────────────────
+      // When the judgement was previously crawled with --log, we already have
+      // all the context we need.  Re-apply the current article-detection
+      // algorithm to the stored raw texts without touching the network.
+      const logEntry = sitemapToLogEntry.get(sitemapUrl);
+      if (logEntry) {
+        logInfo(chalk.gray(`  Found in log.json (${logEntry.ecli}) — attempting offline resolution…`));
+        const stillUnparseable = [];
+        let offlineFixed = 0;
+
+        for (const rawText of originalTexts) {
+          const oldStyleArticles = extractOldStyleArticle(rawText);
+          if (oldStyleArticles) {
+            const lawKey = extractLegalBasisKey(rawText);
+            // Use the single abstract when unambiguous; null for multi-fiche judgements.
+            const abstracts = logEntry.abstracts || [];
+            const abstractFR = abstracts.length === 1 ? (abstracts[0].abstractFR || null) : null;
+            const abstractNL = abstracts.length === 1 ? (abstracts[0].abstractNL || null) : null;
+            for (const art of oldStyleArticles) {
+              appendMissingEli(lawKey, {
+                ecli: logEntry.ecli,
+                court: logEntry.court,
+                date: logEntry.date,
+                roleNumber: logEntry.roleNumber,
+                sitemap: sitemapUrl,
+                article: art,
+                abstractFR,
+                abstractNL,
+                legalBasisFR: null,
+                legalBasisNL: null,
+              });
+            }
+            offlineFixed++;
+            logSuccess(chalk.gray(`  ✔ Offline: article(s) [${oldStyleArticles.join(', ')}] from "${rawText}"  →  missing_eli.json`));
+          } else {
+            stillUnparseable.push(rawText);
+          }
+        }
+
+        if (stillUnparseable.length > 0) {
+          const currentErrors = loadErrorsFile();
+          currentErrors[sitemapUrl] = stillUnparseable;
+          saveErrorsFile(currentErrors);
+        }
+
+        if (offlineFixed > 0 && stillUnparseable.length === 0) {
+          logSuccess(`✔ All ${originalTexts.length} error(s) resolved offline.`);
+          fixedCount++;
+          offlineCount++;
+        } else if (offlineFixed > 0) {
+          logWarn(`⚠ Partially fixed offline: ${offlineFixed}/${originalTexts.length} resolved, ${stillUnparseable.length} still unparseable.`);
+          partialCount++;
+          offlineCount++;
+        } else {
+          logInfo(chalk.gray(`  No offline improvement — ${stillUnparseable.length} error(s) remain.`));
+          unchangedCount++;
+        }
+        continue; // skip network fetch
+      }
+
+      // ── Network re-fetch (no log entry found) ──────────────────────────────
       const counters = { skippedCourt: 0, savedJudgements: 0, errorCount: 0 };
       const success = await processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed: false, log: logEnabled });
 
@@ -368,7 +449,7 @@ async function main() {
     console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
     console.log(chalk.bold.cyan('║       FIX-ERRORS COMPLETE            ║'));
     console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝'));
-    logSuccess(`  Fully fixed:      ${fixedCount}`);
+    logSuccess(`  Fully fixed:      ${fixedCount}${offlineCount > 0 ? chalk.gray(` (${offlineCount} offline, no network used)`) : ''}`);
     if (partialCount > 0) logWarn(`  Partially fixed:  ${partialCount}`);
     logInfo(`  Unchanged:        ${unchangedCount}`);
     if (networkErrorCount > 0) logError(`  Network errors:   ${networkErrorCount}`);
