@@ -21,6 +21,7 @@ import { progress } from './src/progress.js';
 import { SITEMAP_CONCURRENCY, LOG_FILE } from './src/constants.js';
 import { Semaphore, SerialQueue } from './src/concurrency.js';
 import { extractOldStyleArticle, extractLegalBasisKey } from './src/utils.js';
+import { findMissingEli } from './src/find_missing_eli.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -285,6 +286,9 @@ async function main() {
     console.log(`  ${chalk.cyan('--fix-errors')}             Re-process every sitemap listed in errors.json using`);
     console.log(`                            the latest algorithm. Entries that are now successfully`);
     console.log(`                            parsed are removed from errors.json.`);
+    console.log(`  ${chalk.cyan('--find-missing-eli')}      Search for the correct ELI of each entry in`);
+    console.log(`                            missing_eli.json by consulting log.json and the`);
+    console.log(`                            ejustice.be website. Interactive (yes/no/all/quit).`);
     console.log(`  ${chalk.cyan('--fix-articles-from-log')} Review log.json entries where article="general" was`);
     console.log(`                            detected, and re-analyse them using the improved`);
     console.log(`                            old-style article detection. Corrections are applied`);
@@ -369,6 +373,12 @@ async function main() {
     logInfo(`  Unchanged:        ${unchangedCount}`);
     if (networkErrorCount > 0) logError(`  Network errors:   ${networkErrorCount}`);
     logInfo('');
+    flushAll();
+    return;
+  }
+
+  if (process.argv.includes('--find-missing-eli')) {
+    await findMissingEli();
     flushAll();
     return;
   }

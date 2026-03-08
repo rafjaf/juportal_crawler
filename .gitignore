@@ -1,3 +1,4 @@
+.playwright-mcp/
 data.old/
 node_modules/
 .DS_Store
