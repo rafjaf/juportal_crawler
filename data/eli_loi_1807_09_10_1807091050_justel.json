@@ -15,6 +15,68 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:2018:ARR.20181116.3": {
+      "court": "CASS",
+      "date": "2018-11-16",
+      "roleNumber": "C.18.0106.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/11/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il s'agit d'un contrat d'agence commerciale au sens de l'article 1er de la loi du 13 avril 1995 relative au contrat d'agence commerciale, les engagements de l'agent commercial pour la négociation ou la conclusion d'affaires sont présumés de manière réfragable être des actes de commerce, et avoir ainsi été contractés dans un but de lucre (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer er sprake is van een handelsagentuurovereenkomst in de zin van artikel 1 van de Wet van 13 april 1995 betreffende de handelsagentuurovereenkomst, worden de verbintenissen van de handelsagent voor het bemiddelen of afsluiten van zaken op weerlegbare wijze vermoed daden van koophandel te zijn, en aldus met een winstoogmerk te zijn aangegaan (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870612.10": {
+      "court": "CASS",
+      "date": "1987-06-12",
+      "roleNumber": "5284",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par transformation qui relève normalement des entreprises agricoles et qui n'est pas réputée acte de commerce au sens de l'article 2, alinéa 4, du Code de commerce, la transformation par l'exploitant lui-même des produits de sa propre entreprise agricole."
+      ],
+      "abstractNL": [
+        "Met de normaal bij de landbouwbedrijven behorende verwerking die niet als daad van koophandel kan worden aangemerkt, bedoelt art. 2, vierde lid, Wetboek van Koophandel de verwerking, door de exploitant zelf, van voortbrengsel van zijn eigen landbouwbedrijf."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:2018:ARR.20181005.1": {
+      "court": "CASS",
+      "date": "2018-10-05",
+      "roleNumber": "C.17.0584.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/10/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 25, alinéa 1er, du Code de commerce, le juge peut, en matière d'opérations commerciales, déduire la présomption de l'homme de l'absence de protestation d'une lettre adressée à un commerçant et y puiser la preuve que le commerçant accepte le contenu de ladite lettre, le juge appréciant une telle présomption en fonction des circonstances de fait de l'espèce."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 25, eerste lid, Wetboek van Koophandel, kan de rechter inzake handelsverrichtingen uit het gebrek aan protest van een brief ten aanzien van een handelaar het feitelijke vermoeden putten en het bewijs erin vinden dat de handelaar de inhoud van die brief aanvaardt, waarbij de rechter zulks beoordeelt naargelang van de feitelijke omstandigheden van het geval."
+      ]
+    }
+  },
+  "439": {
+    "ECLI:BE:CASS:1984:ARR.19840309.6": {
+      "court": "CASS",
+      "date": "1984-03-09",
+      "roleNumber": "3935",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/09/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le jugement qui statue sur une demande de mise en liberté introduite auprès du tribunal de commerce, conformément à l'article 481, alinéa 2, de la loi sur les faillites, par le failli dont le dépôt a été ordonné, est susceptible d'appel; en vertu de l'article 2 du Code judiciaire, les règles générales de ce code concernant l'appel sont applicables à un tel jugement."
+      ],
+      "abstractNL": [
+        "Het vonnis waarbij uitspraak wordt gedaan op een aanvraag tot invrijheidstelling die de in bewaring genomen gefailleerde, overeenkomstig art. 481, tweede lid, Faillissementswet, bij de rechtbank van koophandel heeft ingediend, is vatbaar voor hoger beroep; ten aanzien van zulk een vonnis zijn, krachtens art. 2 Ger.W., de algemene regels van dat Wetboek inzake vatbaarheid voor hoger beroep van toepassing."
+      ]
+    }
+  },
   "71bis": {
     "ECLI:BE:CASS:2022:ARR.20220131.3F.8": {
       "court": "CASS",

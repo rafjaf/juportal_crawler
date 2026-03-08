@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:2024:ARR.20240911.2F.8": {
+      "court": "CASS",
+      "date": "2024-09-11",
+      "roleNumber": "P.24.0105.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1949.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1949.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "De l'article 3 de la directive 2014/41/UE du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale, il suit qu'en dehors des deux hypothèses visées par cette disposition, pareille décision est étrangère à la création d'une équipe commune d'enquête et à l'obtention de preuves dans le cadre d'une telle équipe; la directive ne règle ni la création de l'équipe commune d'enquête, ni l'utilisation ultérieure des preuves qu'elle recueille; il n'y a pas lieu de saisir la Cour de justice de l'Union européenne à cet égard."
+      ],
+      "abstractNL": null
+    }
+  },
   "4": {
     "ECLI:BE:CASS:2022:ARR.20220104.2N.15": {
       "court": "CASS",
@@ -81,6 +97,22 @@
       "abstractNL": [
         "De bepaling van artikel 29, 1°, eerste streepje, Wet EOB betreffende het verbod op gebruik in een in België gevoerde strafrechtspleging van bewijsmateriaal dat op onregelmatige wijze is verzameld in de uitvoerende Staat, met name door een overtreding van een volgens het recht van die uitvoerende Staat op straffe van nietigheid voorgeschreven vormvereiste, houdt verband met de bepaling van artikel 32 Voorafgaande Titel Wetboek van Strafvordering betreffende de gevallen van nietigheid van onregelmatig verkregen bewijselementen; hieruit volgt, eensdeels, dat artikel 32 Voorafgaande Titel Wetboek van Strafvordering verplicht tot het weren van bewijsmateriaal om de enkele reden dat dit bewijsmateriaal is verkregen met schending van een vormvoorwaarde die wordt voorgeschreven op straffe van nietigheid en, anderdeels, dat onder het toepassingsgebied van artikel 29, 1°, eerste streepje, Wet Europees Onderzoeksbevel de onregelmatigheden vallen die naar het toepasselijke buitenlandse recht op dezelfde wijze worden gesanctioneerd (1); het arrest dat enkel op grond van de bepaling van artikel 11.1 van de Spaanse Organieke wet 6/1985 van 1 juli 1985 inzake de rechterlijke macht dat stelt dat de regels van goede trouw in alle procedures in acht worden genomen en dat bewijs dat direct of indirect is verkregen in strijd met de grondrechten of fundamentele vrijheden, geen rechtsgevolgen heeft, samengenomen met artikel 29 Wet Europees Onderzoeksbevel, kan niet wettig oordelen dat de resultaten van de infiltraties in België als bewijs kunnen worden gebruikt omdat het vereiste dat een infiltratie moet zijn gemachtigd, in Spanje in het algemeen niet op straffe van nietigheid is voorgeschreven. (1) Cass. 19 oktober 2021, AR P.21.0965.N, AC 2021, nr. 654 met concl. van advocaat-generaal B. DE SMET; Cass. 15 juni 2021, AR P.21.0260.N, AC 2021, nr. 444."
       ]
+    }
+  },
+  "30": {
+    "ECLI:BE:CASS:2024:ARR.20240911.2F.8": {
+      "court": "CASS",
+      "date": "2024-09-11",
+      "roleNumber": "P.24.0105.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1949.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1949.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 30.3 de la directive 2014/41/UE du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale ne prévoit pas, au titre d'une condition au respect de laquelle serait subordonnée la régularité d'une mesure d'interception ordonnée dans le cadre d'une décision d'enquête européenne, que l'utilisateur du service de télécommunication visé, et dont l'identification constituera précisément souvent le but recherché par les autorités, doit déjà être identifié lors de l'émission de la décision d'enquête européenne et qu'il devrait s'agir d'une personne physique ou morale déterminée; cette disposition se borne, ce qui est différent, à énoncer que la décision d'enquête européenne doit contenir « les informations nécessaires à l'identification de la cible de l'interception »; par ailleurs, aucun motif de non-reconnaissance ou de non-exécution de la décision d'enquête européenne n'est prévu par la directive dans le cas où cette décision n'identifierait pas la personne visée par les devoirs sollicités; à cet égard, l'application correcte du droit de l'Union s'impose avec une telle évidence qu'elle ne laisse place à aucun doute raisonnable et qu'il n'y a pas lieu de saisir la Cour de justice de l'Union européenne à cet égard."
+      ],
+      "abstractNL": null
     }
   },
   "general": {

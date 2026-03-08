@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2009:ARR.20091023.7": {
+      "court": "CASS",
+      "date": "2009-10-23",
+      "roleNumber": "C.08.0193.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les baux à vie conclus après l'entrée en vigueur de la loi du 20 février 1991 et avant celle de la loi du 13 avril 1997 qui l'a modifiée ne sont pas soumis aux dispositions de la section 2 du chapitre II du titre VIII du livre III du Code civil."
+      ],
+      "abstractNL": [
+        "De huurovereenkomsten voor het leven die zijn gesloten na de inwerkingtreding van de Wet 20 feb. 1991 maar vóór de inwerkingtreding van Wet 13 april 1997, die de eerstgenoemde wet heeft gewijzigd, vallen niet onder de toepassing van de bepalingen van afdeling 2, hoofdstuk II, titel VIII, boek III, B.W."
+      ]
+    }
+  },
   "2": {
     "ECLI:BE:CASS:2022:ARR.20220121.1F.6": {
       "court": "CASS",
@@ -30,6 +46,20 @@
       "abstractNL": [
         "De bijzondere sanctieregeling bepaald in artikel 2, § 1, 6de lid Woninghuurwet geldt ook wanneer het gehuurde goed bij de aanvang van de huur niet voldoet aan de gewestelijke woonkwaliteitsnormen (1). (1) Cass. 4 juni 2020, AR C.19.0079.N, AC 2020, nr. 365."
       ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060331.10": {
+      "court": "CASS",
+      "date": "2006-03-31",
+      "roleNumber": "C040014F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/03/31/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En cas de manquements aux conditions de sécurité, de salubrité et d'habitabilité auxquelles doit répondre le bien loué conformément aux règles particulières aux baux de la résidence principale du preneur, le choix de la sanction, soit d'exiger l'exécution des travaux nécessaires pour mettre le bien loué en conformité avec ces conditions, soit de demander la résiliation du contrat avec dommages et intérêts, appartient, sous réserve de l'appréciation par le juge de la gravité du manquement, au preneur."
+      ],
+      "abstractNL": [
+        "Indien de vereisten van veiligheid, gezondheid en bewoonbaarheid, waaraan het gehuurde goed moet voldoen overeenkomstig de bijzondere regels van de huurovereenkomsten inzake de hoofdverblijfplaats, niet zijn vervuld, heeft de huurder, onder voorbehoud van de beoordeling van de ernst van de tekortkoming door de rechter, de keuze ofwel de uitvoering te eisen van de werken die noodzakelijk zijn om het gehuurde goed in overeenstemming te brengen met die vereisten, ofwel de ontbinding van de huurovereenkomst te vragen met schadevergoeding."
+      ]
     }
   },
   "3": {
@@ -45,6 +75,296 @@
       ],
       "abstractNL": [
         "De partijen bij een huurovereenkomst van korte duur kunnen in de aanvankelijke overeenkomst de verlenging ervan overeenkomen zodat de huurovereenkomst automatisch wordt verlengd indien vóór de vervaldag geen geldige opzegging wordt betekend (1). (1) Zie concl. OM in Pas. 2017, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170309.8": {
+      "court": "CASS",
+      "date": "2017-03-09",
+      "roleNumber": "C.16.0180.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/03/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, après avoir validé le congé pour occupation personnelle donnée par le bailleur, le juge accorde au preneur un délai de grâce pour la restitution des lieux, ce délai de grâce fût-il accordé en réparation d'un abus de droit commis par le bailleur, le délai d'une année dans lequel les lieux doivent être occupés prend cours à l'expiration du préavis donné par le bailleur et non lors de la restitution des lieux (1). (1) Cass. 2 avril 2009, RG C.08.0157.F, Pas. 2009, n° 231"
+      ],
+      "abstractNL": [
+        "Wanneer de rechter, na de opzegging van de verhuurder voor persoonlijke gebruik te hebben bekrachtigd, de huurder uitstel verleent voor de teruggave van het goed, zelfs als dat uitstel wordt verleend als vergoeding voor een door de verhuurder gepleegd rechtsmisbruik, gaat de termijn van een jaar waarbinnen het goed moet worden betrokken, in bij het verstrijken van de door de verhuurder gedane opzegging en niet bij teruggave van het goed (1). (1) Cass. 2 april 2009, AR C.08.0157.F, AC 2009, nr. 231."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20161222.11": {
+      "court": "CASS",
+      "date": "2016-12-22",
+      "roleNumber": "C.16.0031.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/12/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne s'oppose à ce que les parties résilient de commun accord un bail de courte durée."
+      ],
+      "abstractNL": [
+        "Geen enkele wettelijke bepaling staat eraan in de weg dat de partijen een huurovereenkomst van korte duur in onderling overleg beëindigen."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20151218.3": {
+      "court": "CASS",
+      "date": "2015-12-18",
+      "roleNumber": "C.14.0367.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/12/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte ni du texte de l'article 3, § 6, al. 1er et 2, des règles particulières aux baux relatifs à la résidence principale du preneur contenues dans la loi du 20 février 1991 ni du caractère impératif de cette disposition, qu'est prohibée toute clause autorisant le preneur à résilier anticipativement un bail relatif à sa résidence principale conclu pour une durée inférieure ou égale à trois ans (1). (1) Voir les concl. du MP (en grande partie conf.)"
+      ],
+      "abstractNL": [
+        "Noch uit de tekst van artikel 3, § 6, eerste en tweede lid, van de regels betreffende de huurovereenkomsten met betrekking tot de hoofdverblijfplaats van de huurder in het bijzonder, die vervat zijn in de wet van 20 februari 1991, noch uit het dwingend karakter van die bepaling volgt dat elk beding dat de huurder toestaat een huurovereenkomst m.b.t. zijn hoofdverblijfplaats, die gesloten werd voor een duur die korter is dan of gelijk is aan drie jaar, vervroegd te beëindigen, verboden is (1). (1) Zie grotendeels gelijkluidende concl. OM in Pas. 2015."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150112.1": {
+      "court": "CASS",
+      "date": "2015-01-12",
+      "roleNumber": "C.12.0601.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/01/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte des travaux préparatoires de la loi, de l'objectif du législateur de mieux protéger le droit au logement du preneur et du fait que le contre-préavis donné par le preneur n'est qu'un accessoire du congé principal donné par le bailleur, le preneur étant dans l'impossibilité de notifier le contre-préavis à défaut d'un congé notifié par le bailleur, que le bailleur est également redevable de l'indemnité prévue à l'article 3, § 4, de la loi du 20 février 1991 en cas de congé donné sans motifs lorsque le preneur donne un contre-préavis et que le bail prend fin à la suite de ce contre-préavis (1). (1) Par le présent arrêt, la Cour est revenu sur la position adoptée dans sa précédente jurisprudence (voir notamment Cass. 22 juin 1998, RG C.97.0355.N, Pas. 1998, n° 328). La Cour considérait par le passé qu'en cas de contre-préavis donné par le preneur, ce dernier n'avais plus droit à une indemnité à charge du bailleur. Cette solution se fondait sur la considération que le bail n'avait pas pris fin par l'effet du congé donné par le bailleur, mais par l'effet du contre-préavis donné par le preneur."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis, de doelstelling van de wetgever om het recht op huisvesting van de huurder beter te beschermen en het gegeven dat de tegenopzegging door de huurder slechts een accessorium is van de hoofdopzegging door de verhuurder waarbij de huurder de tegenopzegging niet kan betekenen wanneer de verhuurder geen opzegging heeft betekend, volgt dat de verhuurder de in artikel 3, §4, Woninghuurwet bepaalde vergoeding bij opzegging zonder motivering ook verschuldigd is wanneer de huurder een tegenopzegging geeft en de huur ingevolge deze tegenopzegging eindigt (1). (1) Met huidig arrest komt het Hof terug op het standpunt dat werd ingenomen in de vroegere rechtspraak (zie onder anderen Cass. 22 juni 1998, AR C.97.0355.N, AC 1998, nr. 328). Het Hof oordeelde in het verleden dat bij een tegenopzegging door de huurder deze laatste niet meer gerechtigd was op een vergoeding ten laste van de verhuurder. Dit was gegrond op de overweging dat de huurovereenkomst niet beëindigd werd door de opzegging van de verhuurder maar door de tegenopzegging van de huurder."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130916.3": {
+      "court": "CASS",
+      "date": "2013-09-16",
+      "roleNumber": "C.11.0511.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Sauf restriction de durée prévue dans le cautionnement, les engagements de la caution couvrent, dans le cas prévu à l'article 3, § 6, alinéa 5, des règles particulières aux baux relatifs à la résidence principale contenues dans l'article 2 de la loi du 20 février 1991, les obligations du bail de résidence principale sur l'ensemble des neufs années de la durée; les obligations de la caution restent ainsi limitées à celles résultant du bail pour lequel elles ont été consenties, dans le respect de l'article 2015 du Code civil (1). (1) Voir les concl. contr. du M.P."
+      ],
+      "abstractNL": [
+        "De verbintenissen van de borg, in het geval bepaald bij artikel 3, §6, vijfde lid, van de regels betreffende de huurovereenkomsten met betrekking tot de hoofdverblijfplaats in het bijzonder, vervat in artikel 2 van de wet van 20 februari 1991, dekken, behoudens een beperking van duur bepaald in de borgtocht, de verplichtingen van de huur van de hoofdverblijfplaats voor het geheel van de volle negen jaar; de verplichtingen van de borg blijven aldus beperkt tot diegene die volgen uit de huurovereenkomst waarvoor zij zijn aangegaan, conform artikel 2015 van het Burgerlijk Wetboek (1). (1) Zie concl. O.M. in Pas. 2013, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130524.5": {
+      "court": "CASS",
+      "date": "2013-05-24",
+      "roleNumber": "C.12.0456.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La restitution du bien loué par le preneur qui, en cas de prorogation vaut comme point de départ du délai d'une année, doit être entière, ce qui implique qu'elle doit concerner l'ensemble du bien immeuble qui fait l'objet du bail; il s'ensuit que lorsque certaines parties du bien loué ne sont pas mises à la libre disposition du bailleur, il n'y a, en principe, pas de restitution; lors de son appréciation si la restitution est entière, le juge peut tenir compte de toutes les circonstances de fait pertinentes."
+      ],
+      "abstractNL": [
+        "De teruggave van het goed door de huurder die in geval van verlenging geldt als vertrekpunt voor de termijn van een jaar, moet volledig zijn, dit wil zeggen moet betrekking hebben op het ganse onroerend goed dat het voorwerp uitmaakt van het huurcontract; hieruit volgt dat wanneer bepaalde delen van het gehuurde goed niet ter vrije beschikking worden gesteld van de verhuurder, er in beginsel geen teruggave is; de rechter kan bij zijn beoordeling of de teruggave volledig is, rekening houden met alle relevante feitelijke omstandigheden."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121005.7": {
+      "court": "CASS",
+      "date": "2012-10-05",
+      "roleNumber": "C.11.0535.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'article 3, § 1er, de la loi du 20 février 1991 qu'un contrat de bail de courte durée concernant une habitation servant de domicile principal au preneur doit nécessairement être contracté par écrit; cet article ne dispose pas que le contrat de bail écrit doit nécessairement contenir la durée du contrat (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit artikel 3, § 1, Woninghuurwet blijkt dat een huurovereenkomst van korte duur betreffende een woning die de huurder tot hoofdverblijfplaats dient, noodzakelijk schriftelijk moet worden aangegaan; dit artikel bepaalt niet dat het schriftelijk huurcontract noodzakelijk de duur van de overeenkomst moet bevatten (1). (1) Zie de concl. van het OM."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091012.3": {
+      "court": "CASS",
+      "date": "2009-10-12",
+      "roleNumber": "C.08.0533.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le preneur met fin au bail en signifiant un congé dont le délai expire avant l'expiration du délai du congé donné par le bailleur, le bail prend fin, non ensuite du congé donné par le bailleur, mais ensuite du congé donné par le preneur (1). (1) Voir conclusions écrites du ministère public."
+      ],
+      "abstractNL": [
+        "Wanneer de huurder de huurovereenkomst beëindigt door een opzegging te betekenen met een termijn die verstrijkt vóór het verstrijken van de termijn van de opzegging die door de verhuurder is gedaan, eindigt de huurovereenkomst niet t.g.v. de door de verhuurder gedane opzegging, maar t.g.v. de opzegging door de huurder (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081127.6": {
+      "court": "CASS",
+      "date": "2008-11-27",
+      "roleNumber": "C.07.0377.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni les articles 3, § 2, alinéa 4, et 12, de la section du Code civil, contenant les règles particulières aux baux relatifs à la résidence principale du preneur, ni aucune autre disposition légale ne s'opposent à ce que les parties à un tel bail décident de commun accord, conformément au principe de l'autonomie de la volonté consacré par l'article 1134, de ce code, de tenir pour non avenu le congé donné par le bailleur en vue d'occuper personnellement le bien, de sorte que le contrat peut encore faire l'objet d'un autre mode de rupture (1). (1) Voir Cass., 28 janvier 2002, RG S.00.0014.F, Pas., 2002, n° 58, avec les conclusions de M. J.-F. Leclercq, premier avocat général (contrat de travail)."
+      ],
+      "abstractNL": [
+        "De artt. 3, § 2, vierde lid, en 12, van de afdeling van het Burgerlijk Wetboek houdende de regels betreffende de huurovereenkomsten met betrekking tot de hoofdverblijfplaats van de huurder in het bijzonder evenmin als enige andere wetsbepaling beletten niet dat de partijen bij een dergelijke huurovereenkomst in onderlinge overeenstemming, overeenkomstig het in art. 1134 B.W. vastgelegde beginsel van de wilsautonomie, de door de verhuurder gegeven opzegging met het oog op de persoonlijk ingebruikneming van het goed, als niet-bestaande kunnen beschouwen, zodat de overeenkomst alsnog op een andere wijze kan worden beëindigd (1). (1) Zie Cass., 28 jan. 2002, AR S.00.0014.F, A.C., 2002, nr 58 met concl. eerste adv.-gen. Leclercq (arbeidsovereenkomst)."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071115.2": {
+      "court": "CASS",
+      "date": "2007-11-15",
+      "roleNumber": "C.06.0569.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/15/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le preneur n'a droit à une indemnité de la part du bailleur du chef du défaut de réalisation des conditions de son occupation personnelle du bien ou d'une occupation par ses descendants dans le délai prévu, que si le contrat de bail prend fin à la suite d'un préavis donné par le bailleur."
+      ],
+      "abstractNL": [
+        "De huurder heeft slechts recht op vergoeding vanwege de verhuurder, wegens het niet verwezenlijken van de voorwaarden van diens persoonlijke betrekking van het goed of door zijn afstammelingen binnen de gestelde termijn, als het huurcontract eindigt ingevolge opzegging door de verhuurder."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060915.5": {
+      "court": "CASS",
+      "date": "2006-09-15",
+      "roleNumber": "C050327N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, après le congé donné par le bailleur, en application de l'article 3, ,§ 5, alinéa 3, de la loi sur les baux à loyer, le preneur met fin au bail, celui-ci prend fin non pas ensuite du raccourcissement du congé donné par le bailleur, mais ensuite du congé donné par le preneur (1). (1) Cass., 22 juin 1998, RG C.97.0355.N, n° 328. A l'occasion de la décision annotée, la Cour confirme cette jurisprudence antérieure qui s'aligne ainsi de l'arrêt du 26 novembre 1990 mentionné ci-dessus. En ce sens: B. LOUVEAUX, Le droit du bail de résidence principale, éd. De Boeck, 1995, p. 174, n° 212. Contra: J. VANKERCKHOVE et M. VLIES, \"Commentaires législatifs: loi du 13 avril 1997 modifiant certaines dispositions en matière de baux, J.T., 1997, p. 598, n°12. B. HUBEAU et M. DAMBRE, \"Woninghuur\", A.P.R., 2002, n° 916, p. 345. Voyez quant aux baux commerciaux Cass., 27 janvier 1995, RG C.93.0109.N, n° 50."
+      ],
+      "abstractNL": [
+        "Ingeval de huurder, na de opzegging door de verhuurder, met toepassing van artikel 3, ,§ 5, derde lid, van de Woninghuurwet de huurovereenkomst opzegt, eindigt de huurovereenkomst niet door een verkorting van de opzeggingstermijn in de opzegging door de verhuurder maar door de opzegging door de huurder (1). (1) Cass., 22 juni 1998, AR C.97.0355.N, nr 328. Bij de geannoteerde beslissing bevestigt het Hof aldus deze vroegere rechtspraak, die in de lijn ligt van het hierboven vermeld arrest van 26 november 1990. In die zin: B. LOUVEAUX, Le droit du bail de résidence principale, éd. De Boeck, 1995, p. 174, nr 121. Contra: J. VANKERCKHOVE, en M. VLIES, \"Commentaires législatifs: loi du 13 avril 1997 modifiant certaines dispositions en matière de baux\", J.T., 1997, p. 598, n° 12. B. HUBEAU en M. DAMBRE, \"Woninghuur\", A.P.R., 2002, nr 916, p. 345. Zie i.v.m. handelshuur Cass., 27 jan. 1995, AR C.93.0109.N, nr 50."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050422.7": {
+      "court": "CASS",
+      "date": "2005-04-22",
+      "roleNumber": "C040194N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/04/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le congé qui n'est pas donné en temps utile avant la date de l'échéance du bail n'est pas frappé de nullité, mais ne peut mettre fin au bail à cette date d'échéance."
+      ],
+      "abstractNL": [
+        "Een opzegging die niet tijdig voor de vervaldag van de huurovereenkomst is gegeven is daarom niet nietig maar kan de huurovereenkomst op die vervaldag niet beëindigen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980622.7": {
+      "court": "CASS",
+      "date": "1998-06-22",
+      "roleNumber": "C970355N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le preneur met fin au bail en signifiant un congé dont le délai expire avant l'expiration du délai du congé donné par le bailleur, le bail prend fin non pas ensuite du raccourcissement du congé donné par le bailleur, mais ensuite du congé donné par le preneur, privant ainsi celui-ci du droit à une indemnité."
+      ],
+      "abstractNL": [
+        "Wanneer de huurder een einde maakt aan de huurovereenkomst door een opzegging waarvan de termijn verstrijkt voor het verstrijken van de termijn van de opzegging door de verhuurder, eindigt de huurovereenkomst niet door een verkorting van de termijn van de opzegging van de verhuurder, maar door de opzegging door de huurder, waardoor deze laatste zijn recht op een vergoeding verliest."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941124.10": {
+      "court": "CASS",
+      "date": "1994-11-24",
+      "roleNumber": "C940028F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un bail relatif à la résidence principale du preneur a été conclu pour une durée inférieure ou égale à trois ans et que, un mois au moins avant l'expiration de cette période, un congé est notifié par l'une ou l'autre des parties mais que le bailleur marque son accord pour que le preneur continue à occuper l'immeuble loué, sans toutefois que son occupation excède une durée totale de trois ans, le bail initial est prorogé; il n'est pas réputé avoir été conclu pour une durée de neuf ans."
+      ],
+      "abstractNL": [
+        "Wanneer een huurovereenkomst betreffende de hoofdverblijfplaats van de huurder is aangegaan voor een duur die korter is dan of gelijk aan drie jaar en, ten minste een maand voor het verstrijken van die periode, door een van de beide partijen een opzegging wordt \"betekend\" maar de verhuurder ermee instemt dat de huurder het gehuurde goed blijft bewonen, echter zonder dat zulks langer mag duren dan drie jaar, wordt de oorspronkelijke huurovereenkomst verlengd; zij wordt niet geacht te zijn aangegaan voor een duur van negen jaar. (Art. 3, alinéa 6, inz. derde en vijfde lid, van art. 2 Huurwet 20 feb. 1991)."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2015:ARR.20151218.3": {
+      "court": "CASS",
+      "date": "2015-12-18",
+      "roleNumber": "C.14.0367.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/12/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte ni du texte de l'article 3, § 6, al. 1er et 2, des règles particulières aux baux relatifs à la résidence principale du preneur contenues dans la loi du 20 février 1991 ni du caractère impératif de cette disposition, qu'est prohibée toute clause autorisant le preneur à résilier anticipativement un bail relatif à sa résidence principale conclu pour une durée inférieure ou égale à trois ans (1). (1) Voir les concl. du MP (en grande partie conf.)"
+      ],
+      "abstractNL": [
+        "Noch uit de tekst van artikel 3, § 6, eerste en tweede lid, van de regels betreffende de huurovereenkomsten met betrekking tot de hoofdverblijfplaats van de huurder in het bijzonder, die vervat zijn in de wet van 20 februari 1991, noch uit het dwingend karakter van die bepaling volgt dat elk beding dat de huurder toestaat een huurovereenkomst m.b.t. zijn hoofdverblijfplaats, die gesloten werd voor een duur die korter is dan of gelijk is aan drie jaar, vervroegd te beëindigen, verboden is (1). (1) Zie grotendeels gelijkluidende concl. OM in Pas. 2015."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081127.6": {
+      "court": "CASS",
+      "date": "2008-11-27",
+      "roleNumber": "C.07.0377.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni les articles 3, § 2, alinéa 4, et 12, de la section du Code civil, contenant les règles particulières aux baux relatifs à la résidence principale du preneur, ni aucune autre disposition légale ne s'opposent à ce que les parties à un tel bail décident de commun accord, conformément au principe de l'autonomie de la volonté consacré par l'article 1134, de ce code, de tenir pour non avenu le congé donné par le bailleur en vue d'occuper personnellement le bien, de sorte que le contrat peut encore faire l'objet d'un autre mode de rupture (1). (1) Voir Cass., 28 janvier 2002, RG S.00.0014.F, Pas., 2002, n° 58, avec les conclusions de M. J.-F. Leclercq, premier avocat général (contrat de travail)."
+      ],
+      "abstractNL": [
+        "De artt. 3, § 2, vierde lid, en 12, van de afdeling van het Burgerlijk Wetboek houdende de regels betreffende de huurovereenkomsten met betrekking tot de hoofdverblijfplaats van de huurder in het bijzonder evenmin als enige andere wetsbepaling beletten niet dat de partijen bij een dergelijke huurovereenkomst in onderlinge overeenstemming, overeenkomstig het in art. 1134 B.W. vastgelegde beginsel van de wilsautonomie, de door de verhuurder gegeven opzegging met het oog op de persoonlijk ingebruikneming van het goed, als niet-bestaande kunnen beschouwen, zodat de overeenkomst alsnog op een andere wijze kan worden beëindigd (1). (1) Zie Cass., 28 jan. 2002, AR S.00.0014.F, A.C., 2002, nr 58 met concl. eerste adv.-gen. Leclercq (arbeidsovereenkomst)."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1999:ARR.19991217.8": {
+      "court": "CASS",
+      "date": "1999-12-17",
+      "roleNumber": "C980267F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Un bail concédé \"pour la vie durant des preneurs\" est un bail à durée déterminée."
+      ],
+      "abstractNL": [
+        "Een huurovereenkomst die gesloten is \"voor de duur van het leven van de huurders\", is een huurovereenkomst van bepaalde duur."
+      ]
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1998:ARR.19980330.8": {
+      "court": "CASS",
+      "date": "1998-03-30",
+      "roleNumber": "C960363N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/03/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 16 de la loi du 20 février 1991 modifiant et complétant les dispositions du Code civil relatives aux baux à loyer ne déroge pas à la règle générale que les conventions légalement formées tiennent lieu de loi à ceux qui les ont faites en ce qui concerne la détermination du début de baux écrits relatifs à la résidence principale du preneur conclus à durée indéterminée avant l'entrée en vigueur de cette loi et enregistrés avant cette entrée en vigueur, de sorte qu'il ne résulte pas de cette disposition légale que le début de ces baux est la date de l'enregistrement."
+      ],
+      "abstractNL": [
+        "Art. 16 Huurwet 1991, wijkt niet af van de algemene regel dat de overeenkomsten die wettig zijn aangegaan, partijen die ze hebben aangegaan tot wet strekken wat betreft het vaststellen van de aanvangsdatum van schriftelijke huurovereenkomsten betreffende de hoofdverblijfplaats van de huurder die vóór de inwerkingtreding van die wet voor onbepaalde duur zijn aangegaan en vóór die inwerkingtreding zijn geregistreerd, zodat uit die wetsbepaling niet volgt dat de aanvangsdatum van die huurovereenkomsten de datum van de registratie is."
+      ]
+    }
+  },
+  "1384": {
+    "ECLI:BE:CASS:2005:ARR.20050425.4": {
+      "court": "CASS",
+      "date": "2005-04-25",
+      "roleNumber": "C030400N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/04/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Une chose est affectée d'un vice lorsqu'elle présente une caractéristique anormale qui, en certaines circonstances, la rend susceptible de causer un préjudice (1). (1) Cass., 28 janvier 2005, RG C.02.0272.N, n° ..."
+      ],
+      "abstractNL": [
+        "Een zaak is door een gebrek aangetast wanneer zij een abnormaal kenmerk vertoont waardoor zij in bepaalde omstandigheden schade kan veroorzaken (1). (1) Cass., 28 jan. 2005, AR C.02.0272.N."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19951019.7": {
+      "court": "CASS",
+      "date": "1995-10-19",
+      "roleNumber": "C940470N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen qui se borne à critiquer les juges d'appel parce qu'ils fondent leur décision sur la nouvelle version de l'article 1733 du Code civil, la responsabilité du preneur prévue par l'ancienne version de l'article 1733 du Code civil qui était en vigueur au moment des faits étant en soi identique à celle prévue par la version de cet article modifié par la loi du 20 février 1991."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het onderdeel dat enkel kritiek uitoefent op de appelrechters omdat zij hun oordeel steunen op de nieuwe versie van art. 1733 BW, nu de aansprakelijkheid van de huurder volgens de vorige versie van art. 1733 BW die van kracht was ten tijde van de feiten, inhoudelijk dezelfde is als in de versie van dat artikel bepaald bij de wet van 20 feb. 1991."
       ]
     }
   }

@@ -40,6 +40,50 @@
       "abstractNL": [
         "Uit de bepalingen van de artikelen 2, 3°, 31, 50, § 2, en 53, eerste lid, Wet Strafuitvoering volgt niet dat het noodzakelijk de directeur van de inrichting waar de veroordeelde tot vrijheidsstraf is opgesloten is die door de strafuitvoeringsrechtbank overeenkomstig artikel 53, eerste lid, Wet Strafuitvoering moet worden gehoord; ook de directeur van een andere inrichting kan worden gehoord, zonder dat is vereist dat de strafuitvoeringsrechtbank uitdrukkelijk vaststelt dat deze optreedt namens de directeur van de inrichting waar de veroordeelde is opgesloten."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120502.2": {
+      "court": "CASS",
+      "date": "2012-05-02",
+      "roleNumber": "P.12.0667.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'état de récidive légale est une circonstance personnelle susceptible d'entraîner une majoration de la peine au-delà du maximum légalement prévu et de justifier, dans certains cas, la prononciation d'une mise à la disposition du tribunal de l'application des peines (1); par l'effet même de la loi, il place automatiquement le condamné dans une situation plus défavorable que le délinquant primaire en ce qui concerne l'obtention éventuelle tant des modalités d'exécution de la peine accordées par le tribunal de l'application des peines que de la réhabilitation (2). (1) La loi du 26 avril 2007, entrée en vigueur le 1er janvier 2012, a remplacé la \"mise à la disposition du gouvernement\" par la \"mise à la disposition du tribunal de l'application des peines\". (2) Voir Cass. 25 avril 2001, RG P.01.0111.F, Pas. 2001, n° 231."
+      ],
+      "abstractNL": [
+        "De staat van wettelijke herhaling is een persoonlijke omstandigheid die de straf kan verzwaren tot boven het bij de wet gestelde maximum, en die in bepaalde gevallen de uitspraak van een terbeschikkingstelling van de strafuitvoeringsrechtbank kan rechtvaardigen (1); krachtens de wet verkeert de veroordeelde hierdoor automatisch in een ongunstiger positie dan de persoon die voor de eerste keer in aanraking komt met het gerecht, wat betreft het eventuele verkrijgen zowel van de door de strafuitvoeringsrechtbank toegekende uitvoeringsmodaliteiten van de straf als van het herstel in eer en rechten (2). (1) De wet van 26 april 2007, die in werking is getreden op 1 januari 2012, heeft 'terbeschikkingstelling van de regering' vervangen door 'terbeschikkingstelling van de strafuitvoeringsrechtbank'. (2) Zie Cass. 25 april 2001, AR P.01.0111.F, AC 2008, nr. 231."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080312.3": {
+      "court": "CASS",
+      "date": "2008-03-12",
+      "roleNumber": "P.08.0306.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La libération conditionnelle est octroyée au condamné qui a subi les deux tiers de la peine si le jugement ou l'arrêt de condamnation a constaté, par le renvoi exprès à la condamnation constituant la base de la récidive, qu'il se trouvait en état de récidive; contient le renvoi exprès à la récidive, le jugement ou l'arrêt de condamnation qui mentionne, au rang des dispositions légales qu'il déclare appliquer au condamné, l'article 56 du Code pénal et qui, partant, s'approprie la circonstance de récidive fondée sur l'antécédent judiciaire identifié au bas des préventions mises à charge du condamné et déclarées établies."
+      ],
+      "abstractNL": [
+        "De voorwaardelijke invrijheidstelling wordt toegekend aan de veroordeelde die twee derde van de straf heeft ondergaan indien in het vonnis of in het arrest van veroordeling is vastgesteld dat hij zich in staat van herhaling bevond ; het vonnis of het arrest van veroordeling dat onder de wettelijke bepalingen die het op de veroordeelde verklaart toe te passen, artikel 56 Sw. vermeldt en dat, bijgevolg, de omstandigheid van de herhaling overneemt die gegrond is op het gerechtelijk verleden dat onderaan de tegen de veroordeelde bewezen verklaarde telastleggingen wordt vermeld, verwijst uitdrukkelijk naar de herhaling."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2015:ARR.20150311.1": {
+      "court": "CASS",
+      "date": "2015-03-11",
+      "roleNumber": "P.15.0236.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même quand elle s'est constituée partie civile, la victime n'est légalement concernée ni par la détermination de la nature et du taux de la peine ni par son exécution; bien qu'elle ait le droit d'obtenir certaines informations relatives à la procédure et soit entendue à l'audience du tribunal de l'application des peines, la victime n'est pas partie devant cette juridiction (1). (1) Cass. 28 août 2012, RG P.12.1454.F, Pas. 2012, n° 439"
+      ],
+      "abstractNL": [
+        "Zelfs na burgerlijke partijstelling is het slachtoffer niet wettelijk betrokken bij het bepalen van de aard en de maat van de straf, noch bij de tenuitvoerlegging ervan; hoewel het slachtoffer het recht heeft om bepaalde informatie met betrekking tot de rechtspleging te verkrijgen, en gehoord wordt op de zitting van de strafuitvoeringsrechtbank, is het slachtoffer geen partij voor dat rechtscollege (1). (1) Cass. 28 augustus 2012, AR P.12.1454.F, AC 2012, nr. 439."
+      ]
     }
   },
   "4": {
@@ -71,6 +115,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De rechtstoestand waarin een gedetineerde veroordeelde tot vrijheidsstraf zich bevindt, valt niet te vergelijken met de rechtstoestand waarin een van zijn vrijheid beroofde geïnterneerde zich bevindt; zowel de voorwaarden voor de vrijheidsberoving als de doelstelling ervan zijn fundamenteel verschillend; de omstandigheid dat over een uitgaansvergunning bij een veroordeelde tot vrijheidsstraf wordt beslist door de minister van Justitie of zijn gemachtigde en slechts in uitzonderlijke gevallen door de strafuitvoeringsrechtbank en over een uitgaansvergunning bij een geïnterneerde door de kamer voor de bescherming van de maatschappij, houdt dan ook geen miskenning van het gelijkheidsbeginsel in en er is dan ook geen grond tot het stellen van een prejudiciële vraag aan het Grondwettelijk Hof."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131115.2": {
+      "court": "CASS",
+      "date": "2013-11-15",
+      "roleNumber": "C.12.0291.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/11/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 5 et 7 de la loi du 17 mai 2006 que, lorsque toutes les conditions prévues par la loi sont réunies, le ministre de la Justice ou son délégué sont tenus d'accorder la permission de sortie ou le congé pénitentiaire demandé par le condamné; la circonstance que l'une des conditions charge le ministre ou son délégué d'apprécier s'il n'existe pas dans le chef du condamné de contre-indications précisées par la loi et, dans l'affirmative, si des conditions particulières sont susceptibles d'y répondre ne confère pas au ministre un pouvoir discrétionnaire lui permettant de refuser la demande; partant, la compétence de l'autorité saisie d'une demande de permission de sortie ou de congé pénitentiaire est liée (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 5 en 7 van de wet van 17 mei 2006 volgt dat de minister van Justitie of zijn gemachtigde, wanneer alle bij wet bepaalde voorwaarden vervuld zijn, de uitgaansvergunning of het penitentiair verlof moet toekennen aan de veroordeelde die daarom verzoekt; de omstandigheid dat een van de voorwaarden de minister of zijn gemachtigde verplicht te beoordelen of er in hoofde van de veroordeelde geen bij wet bepaalde tegenaanwijzingen bestaan en, zo ja, of er bijzondere voorwaarden bestaan die daaraan kunnen tegemoetkomen, verleent de minister geen discretionaire bevoegdheid om het verzoek te weigeren; de bevoegdheid van de overheid die kennisneemt van een verzoek om een uitgaansvergunning of een penitentiair verlof, is derhalve gebonden (1). (1) Zie concl. O.M. in Pas. 2013, nr. ... ."
       ]
     }
   },
@@ -203,6 +261,20 @@
         "Het komt aan de strafuitvoeringsrechtbank toe om op individuele wijze en rekening houdend met de concrete administratieve, gezins- en maatschappelijke toestand van de veroordeelde te onderzoeken of hem een strafuitvoeringsmodaliteit kan worden toegekend die hem in staat stelt zich op zijn maatschappelijke re-integratie voor te bereiden of familiale, emotionele en sociale banden in stand te houden (1); de rechtbank moet dit onderzoek zowel verrichten wanneer de veroordeelde een Belg of een vreemdeling is en over een verblijfstitel beschikt als wanneer de veroordeelde vreemdeling niet gemachtigd is om in het land te verblijven; de strafuitvoeringsrechtbank mag echter niet voorbijgaan aan de specifieke verblijfstoestand van de veroordeelde vreemdeling wanneer ze nagaat of er een of meer wettelijke tegenaanwijzingen voor de toekenning van de gevraagde modaliteit bestaan en het is haar niet verboden de invloed te beoordelen die deze toestand heeft op het realistisch en uitvoerbaar karakter van het voorgelegde reclasseringsplan en op de concrete mogelijkheden om aan de algemene en specifieke voorwaarden van de beoogde modaliteit te voldoen. (1) Zie GwH 21 december 2017, nr. 148/2017, § B.90.1 en § B.90.3; Ch. MACQ, “Réinsertion des étrangers condamnés ou internés sans droit de séjour: l'impossible équation ?”, J.T., 2022, p. 497-511.",
         "Vertaling nog niet beschikbaar"
       ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160203.7": {
+      "court": "CASS",
+      "date": "2016-02-03",
+      "roleNumber": "P.15.1367.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/02/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La surveillance électronique est un mode d'exécution de la peine privative de liberté par lequel le condamné subit l'ensemble ou une partie de sa peine privative de liberté en dehors de la prison selon un plan d'exécution déterminé, dont le respect est contrôlé notamment par des moyens électroniques; si l'assignation à résidence sous surveillance électronique est une modalité d'exécution de la peine privative de liberté, l'exécution de cette mesure comporte un suivi du condamné par un assistant de justice combiné à un contrôle de ses allées et venues par le Centre national de surveillance électronique (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Het elektronisch toezicht is een wijze van uitvoering van de vrijheidsstraf waardoor de veroordeelde het geheel of een gedeelte van zijn vrijheidsstraf buiten de gevangenis ondergaat volgens een bepaald uitvoeringsplan waarvan de naleving onder meer door elektronische middelen wordt gecontroleerd; hoewel de thuishechtenis onder elektronisch toezicht een wijze van uitvoering van de vrijheidsstraf is, brengt de uitvoering van die maatregel de opvolging met zich mee van de veroordeelde door een justitieassistent samen met een controle van zijn komen en gaan door het Nationaal centrum voor elektronisch toezicht (1). (1) Zie concl. OM in Pas. 2016, nr. ....."
+      ]
     }
   },
   "23": {
@@ -302,6 +374,48 @@
       ],
       "abstractNL": [
         "Het arrest nr. 15/2018 van het Grondwettelijk Hof van 7 februari 2018 heeft voor recht gezegd dat de staat van wettelijke herhaling die vastgesteld werd ten aanzien van een persoon die door een correctioneel rechtscollege werd veroordeeld tot een gevangenisstraf wegens een wanbedrijf of een gecorrectionaliseerde misdaad die oorspronkelijk, vóór de correctionalisering ervan, strafbaar was met de straf van opsluiting van vijf tot tien jaar, niet in aanmerking mag worden genomen om de in artikel 25, § 2, b, Wet Strafuitvoering bedoelde maat van twee derde van de straf die die persoon moet ondergaan vooraleer hij in aanmerking komt voor de voorwaardelijke invrijheidstelling, toe te passen (1); met toepassing van dat arrest mag de staat van wettelijke herhaling, die werd vastgesteld in het vonnis dat de veroordeling uitspreekt wegens het wanbedrijf van opzettelijke slagen en verwondingen met arbeidsongeschiktheid tot gevolg, niet in aanmerking worden genomen om die maat van twee derde van de straf toe te passen om de toelaatbaarheidsdatum voor het elektronisch toezicht te berekenen (2). (1) Artikel 25, § 2, b, \"zoals het van kracht was vóór de wijziging ervan bij artikel 4 van de wet van 21 december 2017 tot wijziging van diverse bepalingen met het oog op de invoering van een beveiligingsperiode en tot wijziging van de wet van 20 juli 1990 betreffende de voorlopige hechtenis voor wat de onmiddellijke aanhouding betreft\" en \"in samenhang gelezen met de artikelen 25, 56, tweede en derde lid, en 80 van het Strafwetboek en met artikel 2 van de wet van 4 oktober 1867 op de verzachtende omstandigheden\". Artikel 4, 2°, van de wet van 21 december 2017 vult voornoemd artikel 25, § 2, b aan met de woorden \", onder voorbehoud van de toepassing van de artikelen 195, vierde lid, of 344, vierde lid, van het Wetboek van strafvordering\", bepalingen die voortaan de correctionele rechter of het hof van assisen in staat stellen om in bepaalde gevallen een beveiligingsperiode te bepalen. (2) Zie concl. \"in hoofdzaak\" OM in Pas. 2018, nr.209."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160302.4": {
+      "court": "CASS",
+      "date": "2016-03-02",
+      "roleNumber": "P.16.0203.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le tribunal de l'application des peines est saisi d'une demande de modalité d'exécution de peine, il lui appartient, dans le cadre de l'examen de la recevabilité de celle-ci, de vérifier, a fortiori si la demande lui en est faite par le condamné, le respect des conditions de temps légalement prévues pour la dite modalité; l'affirmation par le condamné que le calcul de la date d'admissibilité à la libération conditionnelle, tel qu'il ressort de la fiche d'écrou communiquée par l'administration pénitentiaire, est erronée, ressortit à l'examen de la recevabilité de sa demande."
+      ],
+      "abstractNL": [
+        "Wanneer bij de strafuitvoeringsrechtbank een aanvraag tot toekenning van een strafuitvoeringsmodaliteit aanhangig is gemaakt, dient ze bij het onderzoek van de ontvankelijkheid daarvan na te gaan, zeker wanneer de veroordeelde daarom verzoekt, of de wettelijk bepaalde tijdsvoorwaarden voor die modaliteit werden nageleefd; de bewering van de veroordeelde dat de datum waarop hij voor voorwaardelijke invrijheidstelling in aanmerking komt foutief is berekend zoals hij uit de door de gevangenisadministratie meegedeelde opsluitingsfiche blijkt, maakt deel uit van het onderzoek van de ontvankelijkheid van zijn aanvraag."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150624.7": {
+      "court": "CASS",
+      "date": "2015-06-24",
+      "roleNumber": "P.15.0777.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/06/24/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines qui n'accorde pas la modalité d'exécution de la peine sollicitée doit indiquer dans sa décision la date à laquelle le condamné peut introduire une nouvelle demande; le tribunal n'est toutefois pas tenu de respecter cette obligation lorsqu'il n'octroie pas ladite modalité d'exécution de la peine parce que le demandeur ne se trouve pas dans les conditions de temps légalement requises; en ce cas, le délai est fixé par la loi elle-même (1). (1) Voir Cass. 30 avril 2013, RG P.13.0634.N, Pas. 2013, n° 272."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die de verzochte strafuitvoeringsmodaliteit niet toekent, moet in haar beslissing de datum vermelden waarop de veroordeelde een nieuw verzoek kan indienen; de rechtbank hoeft die verplichting evenwel niet na te leven wanneer zij de voormelde strafuitvoeringsmodaliteit niet toekent omdat de eiser zich niet in de wettelijk vereiste tijdsvoorwaarden bevindt; in dat geval wordt de termijn immers door de wet zelf bepaald (1). (1) Zie Cass. 30 april 2013, AR P.13.0634.N, AC 2013, nr. 272."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130430.5": {
+      "court": "CASS",
+      "date": "2013-04-30",
+      "roleNumber": "P.13.0634.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/04/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l''application des peines qui rejette comme étant irrecevable la demande d'octroi d''une modalité d''exécution de la peine parce que le demandeur ne se trouve pas dans les conditions de temps pour formuler une telle demande, n''est pas tenu de déterminer dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande ni la date à laquelle le directeur doit émettre un nouvel avis, dès lors qu''en pareille occurrence, ce délai est effectivement fixé par la loi elle-même."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die het verzoek tot toekenning van een strafuitvoeringsmodaliteit als onontvankelijk afwijst omdat de verzoeker niet in de tijdsvoorwaarden verkeert om een dergelijk verzoek te formuleren, is niet verplicht in haar vonnis de datum te bepalen waarop de veroordeelde een nieuw verzoek kan indienen of de datum te bepalen waarop de directeur een nieuw advies moet uitbrengen omdat in dat geval deze termijn immers door de wet zelf wordt bepaald."
       ]
     }
   },
@@ -449,6 +563,76 @@
         "De ministeriële omzendbrief over de berekening van de datum waarop de betrokkene in de wettelijke tijdsvoorwaarden komt voor voorwaardelijke invrijheidstelling, is op zich geen wet in de zin van artikel 608 van het Gerechtelijk Wetboek, zodat de miskenning ervan geen aanleiding kan geven tot vernietiging (1). (1) Cass. 3 april 2007, AR P.07.0214.N, AC, 2007, nr. 170; zie Cass. 22 dec. 2000, AR C.99.0164.N, AC, 2000, nr. 720.",
         "Aangezien de strafuitvoeringsrechtbank vaststelt dat het arrest op grond waarvan de eiser is aangehouden, zowel met eigen redenen als met bevestiging van het beroepen vonnis erop wijst dat de misdrijven gepleegd waren sedert de betrokkene werd veroordeeld door een vroeger vonnis dat kracht van gewijsde heeft, leidt zij met die uitdrukkelijke verwijzing naar het gerechtelijk verleden dat de toepassing van artikel 56 van het Strafwetboek verantwoordt en de parafering van dat artikel door de rechter bij wie de strafvordering aanhangig is gemaakt, naar recht af dat de eiser zich in staat van herhaling bevindt, wat de vrijlating na een derde van de straf belet."
       ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20161019.7": {
+      "court": "CASS",
+      "date": "2016-10-19",
+      "roleNumber": "P.16.0837.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En application de l'arrêt 185/2014 rendu le 18 décembre 2014 par la Cour constitutionnelle, l'état de récidive légale constaté dans le chef d'une personne condamnée à une peine de dix-sept ans d'emprisonnement du chef de vol avec violences ou menace avec la circonstance aggravante que les violences ou les menaces ont entraîné le mort sans intention de la donner, ne peut pas être pris en considération pour déterminer la durée de la détention à subir avant d'être accessible à la libération conditionnelle, comme le prévoit actuellement l'article 25, § 2, b), de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Met toepassing van arrest nr. 185/2014 van 18 december 2014 van het Grondwettelijk Hof, kan geen rekening worden gehouden met de staat van wettelijke herhaling die is vastgesteld ten aanzien van een persoon die tot zeventien jaar gevangenisstraf is veroordeeld wegens diefstal door middel van geweld of bedreiging, met de verzwarende omstandigheid dat het geweld of de bedreiging de dood hebben veroorzaakt zonder het oogmerk te doden, om de duur van de te ondergane opsluiting te bepalen alvorens voor voorwaardelijke invrijheidstelling in aanmerking te komen, zoals bepaald in huidig artikel 25, § 2, b), Wet Strafuitvoering (1). (1) Zie concl. OM in Pas. 2016, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160824.2": {
+      "court": "CASS",
+      "date": "2016-08-24",
+      "roleNumber": "P.16.0903.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/08/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 25, §2 de la loi du 17 mai 2006, dans sa version applicable, s'agissant des condamnations à une peine privative de liberté autres qu'à perpétuité, la date à laquelle un condamné qui exécute à la fois des peines sans récidive et des peines en état de récidive est admissible à une mesure de libération conditionnelle ou de surveillance électronique doit être déterminée par l'addition du tiers des peines sans récidive et des deux tiers des peines en état de récidive sans que le total ainsi obtenu puisse excéder quatorze ans (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 25, § 2, Wet Strafuitvoering, in de versie die hier van toepassing is, moet, in geval van veroordelingen tot een vrijheidsstraf met uitzondering van levenslange opsluiting, de datum waarop een veroordeelde die tegelijk straffen uitzit waarvoor de staat van herhaling nu eens wel en dan weer niet in aanmerking werd genomen tot een maatregel van voorwaardelijke invrijheidstelling of elektronisch toezicht toelaatbaar is, worden berekend door een derde van de straffen zonder herhaling op te tellen bij twee derde van de straffen in staat van herhaling, zonder dat het aldus verkregen totaal meer dan veertien jaar mag bedragen (1). (1) Zie concl. OM in Pas. 2016, nr. ...."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160302.4": {
+      "court": "CASS",
+      "date": "2016-03-02",
+      "roleNumber": "P.16.0203.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le tribunal de l'application des peines est saisi d'une demande de modalité d'exécution de peine, il lui appartient, dans le cadre de l'examen de la recevabilité de celle-ci, de vérifier, a fortiori si la demande lui en est faite par le condamné, le respect des conditions de temps légalement prévues pour la dite modalité; l'affirmation par le condamné que le calcul de la date d'admissibilité à la libération conditionnelle, tel qu'il ressort de la fiche d'écrou communiquée par l'administration pénitentiaire, est erronée, ressortit à l'examen de la recevabilité de sa demande."
+      ],
+      "abstractNL": [
+        "Wanneer bij de strafuitvoeringsrechtbank een aanvraag tot toekenning van een strafuitvoeringsmodaliteit aanhangig is gemaakt, dient ze bij het onderzoek van de ontvankelijkheid daarvan na te gaan, zeker wanneer de veroordeelde daarom verzoekt, of de wettelijk bepaalde tijdsvoorwaarden voor die modaliteit werden nageleefd; de bewering van de veroordeelde dat de datum waarop hij voor voorwaardelijke invrijheidstelling in aanmerking komt foutief is berekend zoals hij uit de door de gevangenisadministratie meegedeelde opsluitingsfiche blijkt, maakt deel uit van het onderzoek van de ontvankelijkheid van zijn aanvraag."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120502.2": {
+      "court": "CASS",
+      "date": "2012-05-02",
+      "roleNumber": "P.12.0667.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'état de récidive légale est une circonstance personnelle susceptible d'entraîner une majoration de la peine au-delà du maximum légalement prévu et de justifier, dans certains cas, la prononciation d'une mise à la disposition du tribunal de l'application des peines (1); par l'effet même de la loi, il place automatiquement le condamné dans une situation plus défavorable que le délinquant primaire en ce qui concerne l'obtention éventuelle tant des modalités d'exécution de la peine accordées par le tribunal de l'application des peines que de la réhabilitation (2). (1) La loi du 26 avril 2007, entrée en vigueur le 1er janvier 2012, a remplacé la \"mise à la disposition du gouvernement\" par la \"mise à la disposition du tribunal de l'application des peines\". (2) Voir Cass. 25 avril 2001, RG P.01.0111.F, Pas. 2001, n° 231."
+      ],
+      "abstractNL": [
+        "De staat van wettelijke herhaling is een persoonlijke omstandigheid die de straf kan verzwaren tot boven het bij de wet gestelde maximum, en die in bepaalde gevallen de uitspraak van een terbeschikkingstelling van de strafuitvoeringsrechtbank kan rechtvaardigen (1); krachtens de wet verkeert de veroordeelde hierdoor automatisch in een ongunstiger positie dan de persoon die voor de eerste keer in aanraking komt met het gerecht, wat betreft het eventuele verkrijgen zowel van de door de strafuitvoeringsrechtbank toegekende uitvoeringsmodaliteiten van de straf als van het herstel in eer en rechten (2). (1) De wet van 26 april 2007, die in werking is getreden op 1 januari 2012, heeft 'terbeschikkingstelling van de regering' vervangen door 'terbeschikkingstelling van de strafuitvoeringsrechtbank'. (2) Zie Cass. 25 april 2001, AR P.01.0111.F, AC 2008, nr. 231."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080312.3": {
+      "court": "CASS",
+      "date": "2008-03-12",
+      "roleNumber": "P.08.0306.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La libération conditionnelle est octroyée au condamné qui a subi les deux tiers de la peine si le jugement ou l'arrêt de condamnation a constaté, par le renvoi exprès à la condamnation constituant la base de la récidive, qu'il se trouvait en état de récidive; contient le renvoi exprès à la récidive, le jugement ou l'arrêt de condamnation qui mentionne, au rang des dispositions légales qu'il déclare appliquer au condamné, l'article 56 du Code pénal et qui, partant, s'approprie la circonstance de récidive fondée sur l'antécédent judiciaire identifié au bas des préventions mises à charge du condamné et déclarées établies."
+      ],
+      "abstractNL": [
+        "De voorwaardelijke invrijheidstelling wordt toegekend aan de veroordeelde die twee derde van de straf heeft ondergaan indien in het vonnis of in het arrest van veroordeling is vastgesteld dat hij zich in staat van herhaling bevond ; het vonnis of het arrest van veroordeling dat onder de wettelijke bepalingen die het op de veroordeelde verklaart toe te passen, artikel 56 Sw. vermeldt en dat, bijgevolg, de omstandigheid van de herhaling overneemt die gegrond is op het gerechtelijk verleden dat onderaan de tegen de veroordeelde bewezen verklaarde telastleggingen wordt vermeld, verwijst uitdrukkelijk naar de herhaling."
+      ]
     }
   },
   "26": {
@@ -501,6 +685,34 @@
         "De beslissing van de strafuitvoeringsrechtbank die de strafuitvoeringsmodaliteit van de voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied toekent, is vatbaar voor cassatieberoep (1). (Impliciete oplossing). (1) Zie concl. “in hoofdzaak” OM in Pas. 2022, nr. 275.",
         "De artikelen 25/3 en 26 Wet Strafuitvoering maken geen onderscheid tussen de uitvoering van de hoofdstraf en de uitvoering van de bijkomende straf, waaruit volgt dat de modaliteit van de voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied van toepassing is op beide toestanden (1). (1) Zie concl. “in hoofdzaak” OM in Pas. 2022, nr. 275.",
         "Vertaling nog niet beschikbaar"
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait de son séjour régulier dans le pays où il résidera après avoir quitté le territoire national, le condamné mis en liberté provisoire est réputé purger en dehors de la prison la partie de la peine qu'il lui reste à ce moment à subir."
+      ],
+      "abstractNL": [
+        "Reeds door regelmatig te verblijven in het land waar hij zal verblijven nadat hij het nationaal grondgebied heeft verlaten, wordt de in voorlopige vrijheid gestelde veroordeelde geacht het gedeelte van de straf dat hij op dat ogenblik nog moet ondergaan, buiten de gevangenis uit te zitten."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080826.1": {
+      "court": "CASS",
+      "date": "2008-08-26",
+      "roleNumber": "P.08.1251.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/08/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 26, littera a) juncto article 47, § 2, de la loi du 17 mai 2006, relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, exclut le refus de mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise sur la base de contre-indications autres que celles énoncées audit dernier article."
+      ],
+      "abstractNL": [
+        "Artikel 26, littera a) juncto artikel 47, § 2, van de Wet Strafuitvoering sluit uit dat de voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied of overlevering geweigerd wordt op grond van andere tegenaanwijzingen dan die welke in dit laatste artikel zijn vermeld."
       ]
     }
   },
@@ -803,6 +1015,20 @@
       "abstractNL": [
         "Uit de samenlezing van de artikelen 23, § 1, 28, § 1, en 38, Wet Strafuitvoering volgt dat de strafuitvoeringsrechter, zo een veroordeelde aan de tijdsvoorwaarde voldoet, de door de veroordeelde gevraagde strafuitvoeringsmodaliteit slechts kan afwijzen indien hij vaststelt dat één of meerdere van de wettelijk bepaalde tegenaanwijzingen, waaraan niet kan worden verholpen door het opleggen van bijzondere voorwaarden, aanwezig is."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait de son séjour régulier dans le pays où il résidera après avoir quitté le territoire national, le condamné mis en liberté provisoire est réputé purger en dehors de la prison la partie de la peine qu'il lui reste à ce moment à subir."
+      ],
+      "abstractNL": [
+        "Reeds door regelmatig te verblijven in het land waar hij zal verblijven nadat hij het nationaal grondgebied heeft verlaten, wordt de in voorlopige vrijheid gestelde veroordeelde geacht het gedeelte van de straf dat hij op dat ogenblik nog moet ondergaan, buiten de gevangenis uit te zitten."
+      ]
     }
   },
   "29": {
@@ -894,6 +1120,34 @@
       "abstractNL": [
         "Geen enkele verdrags- of wettelijke bepaling verplicht de strafuitvoeringsrechter die een bij wet bepaalde tegenaanwijzing aanneemt ter verantwoording van de afwijzing van een gevraagde strafuitvoeringsmodaliteit, opgave te doen van één of meer bijzondere voorwaarden waarmee aan die tegenaanwijzing zou kunnen worden tegemoet gekomen, behoudens bij daartoe strekkende conclusie (1); de strafuitvoeringsrechter die op grond van de artikelen 24, 28, 30, 31, 33, 34 en 36 Wet Strafuitvoering uitspraak doet over het verzoek tot toekenning van de strafuitvoeringsmodaliteit van de voorwaardelijke invrijheidstelling dient niet te antwoorden op stukken die een veroordeelde voegt bij het verzoek tot toekenning van die modaliteit, zoals een memorie; dat stuk, dat wordt gevoegd bij het door de gevangenisdirecteur overeenkomstig artikel 31 Wet Strafuitvoering samen te stellen dossier op grond waarvan hij zijn advies verleent, is geen conclusie waarop de strafuitvoeringsrechter op grond van artikel 149 Grondwet moet antwoorden. (1) Zie Cass. 19 maart 2024, AR P.24.0262.N, AC 2024, nr. 238; Cass. 17 januari 2023, AR P.22.1741.N, AC 2023, nr. 46; Cass. 30 november 2021, AR P.21.1398.N, AC 2021, nr. 760; Cass. 27 oktober 2020, P.20.0996.N, AC 2020, nr. 665 (over art. 47 Wet Strafuitvoering)."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.2": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1282.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle et les demandes de surveillance électronique et de détention limitée irrecevables, pour le seul motif que certaines pièces manquent au dossier joint à cet avis et à ces demandes, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier betreffende het advies van de directeur over de voorwaardelijke invrijheidstelling en de verzoeken tot elektronisch toezicht en beperkte hechtenis, bepaalde stukken ontbreken, oordeelt dat dit advies en die verzoeken onontvankelijk is, verantwoordt zijn beslissing niet naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.1": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1219.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle irrecevable, pour le seul motif que certaines pièces manquent au dossier joint à cet avis, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier, gevoegd bij het advies van de directeur over de voorwaardelijke invrijheidstelling, bepaalde stukken ontbreken, oordeelt dat dit advies onontvankelijk is, verantwoordt zijn beslissing niet naar recht (1). (1) Zie Cass., 28 aug. 2007, AR P.07.1282.N, nr. ..."
+      ]
     }
   },
   "31": {
@@ -969,6 +1223,34 @@
       ],
       "abstractNL": [
         "Uit de bepalingen van de artikelen 2, 3°, 31, 50, § 2, en 53, eerste lid, Wet Strafuitvoering volgt niet dat het noodzakelijk de directeur van de inrichting waar de veroordeelde tot vrijheidsstraf is opgesloten is die door de strafuitvoeringsrechtbank overeenkomstig artikel 53, eerste lid, Wet Strafuitvoering moet worden gehoord; ook de directeur van een andere inrichting kan worden gehoord, zonder dat is vereist dat de strafuitvoeringsrechtbank uitdrukkelijk vaststelt dat deze optreedt namens de directeur van de inrichting waar de veroordeelde is opgesloten."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.2": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1282.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle et les demandes de surveillance électronique et de détention limitée irrecevables, pour le seul motif que certaines pièces manquent au dossier joint à cet avis et à ces demandes, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier betreffende het advies van de directeur over de voorwaardelijke invrijheidstelling en de verzoeken tot elektronisch toezicht en beperkte hechtenis, bepaalde stukken ontbreken, oordeelt dat dit advies en die verzoeken onontvankelijk is, verantwoordt zijn beslissing niet naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.1": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1219.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle irrecevable, pour le seul motif que certaines pièces manquent au dossier joint à cet avis, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier, gevoegd bij het advies van de directeur over de voorwaardelijke invrijheidstelling, bepaalde stukken ontbreken, oordeelt dat dit advies onontvankelijk is, verantwoordt zijn beslissing niet naar recht (1). (1) Zie Cass., 28 aug. 2007, AR P.07.1282.N, nr. ..."
       ]
     }
   },
@@ -1378,6 +1660,34 @@
       ],
       "abstractNL": [
         "De strafuitvoeringsrechter bepaalt binnen de door artikel 45 Wet Strafuitvoering vastgelegde grens discretionair de datum vanaf wanneer de veroordeelde een nieuw verzoek om de strafuitvoeringsmodaliteit kan indienen en hij dient die beslissing niet nader met redenen te omkleden (1). (1) Cass. 16 oktober 2007, AR P.07.1370.N, AC 2007, nr. 487."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150805.1": {
+      "court": "CASS",
+      "date": "2015-08-05",
+      "roleNumber": "P.15.1056.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/08/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L''article 45 de la loi du 17 mai 2006 est étranger à la décision de refus d''une permission de sortie périodique introduite par un condamné mis à la disposition du tribunal de l''application des peines selon le titre XIbis."
+      ],
+      "abstractNL": [
+        "Artikel 45 Wet Strafuitvoering houdt geen verband met de beslissing tot weigering van een periodieke uitgaansvergunning, aangevraagd door een veroordeelde die overeenkomstig titel XIbis ter beschikking is gesteld van de strafuitvoeringsrechtbank."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070925.6": {
+      "court": "CASS",
+      "date": "2007-09-25",
+      "roleNumber": "P.07.1333.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/25/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 45 de la loi du 17 mai 2006 relative aux modalités d'exécution de la peine s'applique aux peines privatives de liberté de trois ans ou moins, et non aux peines correctionnelles dont le total est supérieur à cinq ans; dans ce cas, conformément à l'article 57 de ladite loi, l'avis du directeur peut être émis dans un délai d'un an."
+      ],
+      "abstractNL": [
+        "Artikel 45 Wet Strafuitvoering is van toepassing voor vrijheidstraffen van drie jaar of minder en niet voor correctionele straffen waarvan het geheel meer dan vijf jaar bedraagt; in dat geval kan overeenkomstig artikel 57 van dezelfde wet het advies van de directeur uitgebracht worden binnen de termijn van een jaar."
       ]
     }
   },
@@ -2119,6 +2429,146 @@
       "abstractNL": [
         "Het algemeen rechtsbeginsel inzake het vermoeden van onschuld wordt niet miskend, uitsluitend door het feit dat de strafuitvoeringsrechtbank die uitspraak doet over de tenuitvoerlegging van de straffen, een risico van herhaling vaststelt, waarvan zij het bestaan bij wet moet nagaan."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140205.3": {
+      "court": "CASS",
+      "date": "2014-02-05",
+      "roleNumber": "P.14.0058.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/02/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La mise en liberté provisoire en vue de l'éloignement du territoire est une modalité d'exécution de la peine privative de liberté que le tribunal de l'application des peines doit accorder lorsque sont satisfaites les conditions prévues aux articles 26, § 2, et 47, § 2, de la loi du 17 mai 2006; ces dispositions interdisent au tribunal de refuser la demande en raison d'une contre-indication autre que celles qu'elles prévoient."
+      ],
+      "abstractNL": [
+        "De voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied is een uitvoeringsmodaliteit van de vrijheidsstraf die de strafuitvoeringsrechtbank moet toekennen wanneer de voorwaarden zijn vervuld bepaald in de artikelen 26, § 2, en 47, § 2, van de wet van 17 mei 2006; die bepalingen verbieden de rechtbank om de aanvraag te weigeren op grond van een tegenaanwijzing die daarin niet is bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait de son séjour régulier dans le pays où il résidera après avoir quitté le territoire national, le condamné mis en liberté provisoire est réputé purger en dehors de la prison la partie de la peine qu'il lui reste à ce moment à subir."
+      ],
+      "abstractNL": [
+        "Reeds door regelmatig te verblijven in het land waar hij zal verblijven nadat hij het nationaal grondgebied heeft verlaten, wordt de in voorlopige vrijheid gestelde veroordeelde geacht het gedeelte van de straf dat hij op dat ogenblik nog moet ondergaan, buiten de gevangenis uit te zitten."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131015.8": {
+      "court": "CASS",
+      "date": "2013-10-15",
+      "roleNumber": "P.13.1575.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines détermine souverainement dans les limites imparties par la loi quelles sont les contre-indications sur la base desquelles il rejette une demande d'octroi d'une modalité d'exécution de la peine, parmi lesquelles le risque de perpétration de nouvelles infractions graves; le juge peut faire entrer dans cette appréciation l'ensemble des faits établis qui ont été soumis à la contradiction des parties (1). (1) Voir Cass., 13 septembre 2011, RG P.11.1510.N, Pas., 2011, n° 466."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank bepaalt onaantastbaar binnen de grenzen van de wet, welke de tegenaanwijzingen zijn op grond waarvan zij een gevraagde strafuitvoeringsmodaliteit afwijst, waaronder het risico van het plegen van nieuwe ernstige strafbare feiten; bij die beoordeling mag de rechter alle vaststaande feiten betrekken die aan de tegenspraak van de partijen zijn onderworpen (1). (1) Zie Cass. 13 sept. 2011, AR P.11.1510.N, AC 2011, nr. 466."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110913.6": {
+      "court": "CASS",
+      "date": "2011-09-13",
+      "roleNumber": "P.11.1510.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'énumération des contre-indications à l'octroi de modalités d'exécution de la peine est limitative et le tribunal de l'application des peines ne peut refuser les modalités d'exécution de la peine prévues au Titre V de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, sur la base de motifs étrangers aux contre-indications légalement prévues; cela n'exclut toutefois pas que, lors de l'appréciation de ces contre-indications, il soit tenu compte d'autres circonstances, telles que l'état de santé du condamné, pour apprécier les perspectives de reclassement social (1). (1) Voir Cass. 22 juillet 2008, RG P.08.1040.F, Pas., 2008, n° 426; Cass. 26 août 2008, RG P.08.1251.N, Pas., 2008, n° 435."
+      ],
+      "abstractNL": [
+        "De opsomming van de tegenaanwijzingen voor de toekenning van strafuitvoeringsmodaliteiten is limitatief en de strafuitvoeringsrechtbank kan de in Titel V, Wet Strafuitvoering bepaalde strafuitvoeringsmodaliteiten niet weigeren op grond van redenen die geen verband houden met deze wettelijk bepaalde tegenaanwijzingen; dit sluit evenwel niet uit dat bij de beoordeling van die tegenaanwijzingen andere omstandigheden mede in rekening worden genomen, zoals de medische toestand van de veroordeelde bij de beoordeling van de vooruitzichten op sociale reclassering (1). (1) Zie Cass. 22 juli 2008, AR P.08.1040.F, AC, 2008, nr. 426; Zie Cass. 26 aug. 2008, AR P.08.1251.N, AC, 2008, nr. 435."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110125.6": {
+      "court": "CASS",
+      "date": "2011-01-25",
+      "roleNumber": "P.10.2053.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Même si la libération conditionnelle est applicable à toutes les personnes condamnées, quelle que soit leur nationalité, il ressort des articles 47, §1er, 1°, et 48 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées que cette modalité d'exécution de la peine ne peut être appliquée dès lors qu'il est impossible d'élaborer une réinsertion utile parce que la personne condamnée n'a pas le droit de séjourner dans le Royaume (1). (1) Voir Cass., 21 mai 2002, RG P.02.0393.N - P.02.0477.N, Pas., 2002, n° 306."
+      ],
+      "abstractNL": [
+        "Ofschoon de voorwaardelijke invrijheidstelling van toepassing is op alle veroordeelden, ongeacht hun nationaliteit, blijkt uit de artikelen 47, § 1, 1° en 48 Wet Strafuitvoering dat deze strafuitvoeringsmodaliteit niet kan worden toegepast wanneer het niet mogelijk is om een nuttige reclassering uit te werken omdat de veroordeelde niet gerechtigd is in het Rijk te verblijven (1). (1) Zie: Cass., 21 mei 2002, AR P.02.0393.N - P.02.0477.N, A.C., 2002, nr. 306."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080826.1": {
+      "court": "CASS",
+      "date": "2008-08-26",
+      "roleNumber": "P.08.1251.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/08/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 26, littera a) juncto article 47, § 2, de la loi du 17 mai 2006, relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, exclut le refus de mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise sur la base de contre-indications autres que celles énoncées audit dernier article."
+      ],
+      "abstractNL": [
+        "Artikel 26, littera a) juncto artikel 47, § 2, van de Wet Strafuitvoering sluit uit dat de voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied of overlevering geweigerd wordt op grond van andere tegenaanwijzingen dan die welke in dit laatste artikel zijn vermeld."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080722.5": {
+      "court": "CASS",
+      "date": "2008-07-22",
+      "roleNumber": "P.08.1040.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/07/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La constatation d'une seule des contre-indications prévues par l'article 47, § 1er, de la loi du 17 mai 2006, relative au statut juridique externe des personnes condamnées suffit à justifier le refus d'octroi d'une modalité d'exécution de la peine."
+      ],
+      "abstractNL": [
+        "De vaststellingen van slechts één van de tegenaanwijzingen die bij art. 47, § 1, Wet Strafuitvoering, zijn bepaald, is voldoende om de weigering tot het toekennen van een strafuitvoeringsmodaliteit te verantwoorden."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080109.1": {
+      "court": "CASS",
+      "date": "2008-01-09",
+      "roleNumber": "P.07.1842.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la libération conditionnelle a été révoquée et que le tribunal de l'application des peines a ordonné la mise à exécution de la peine privative de liberté que doit encore subir le condamné, la procédure ultérieure d'octroi d'une nouvelle libération conditionnelle est régie par les articles 47 à 58 de la loi du 17 mai 2006 (1). (1) Cass., 21 novembre 2007, RG P.07.1529.F, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "Wanneer de voorwaardelijke invrijheidstelling werd herroepen en de strafuitvoeringsrechtbank de tenuitvoerlegging heeft bevolen van de vrijheidsstraf die de veroordeelde nog moet ondergaan, wordt de latere toekenningsprocedure van een nieuwe voorwaardelijke invrijheidstelling geregeld door de artikelen 47 tot 58 van de Wet van 17 mei 2006 (1). (1) Cass., 21 nov. 2007, AR P.07.1529.N, Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071121.1": {
+      "court": "CASS",
+      "date": "2007-11-21",
+      "roleNumber": "P.07.1529.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la libération conditionnelle a été révoquée et que le tribunal de l'application des peines a ordonné la mise à exécution de la peine privative de liberté que doit encore subir le condamné, la procédure ultérieure d'octroi d'une nouvelle libération conditionnelle est régie par les articles 47 à 58 de la loi du 17 mai 2006."
+      ],
+      "abstractNL": [
+        "Wanneer de voorwaardelijke invrijheidstelling werd herroepen en de strafuitvoeringsrechtbank de tenuitvoerlegging heeft bevolen van de straf van vrijheidsberoving die de veroordeelde nog moet ondergaan, wordt de latere toekenningsprocedure van een nieuwe voorwaardelijke invrijheidstelling geregeld door de artikelen 47 tot 58 van de Wet van 17 mei 2006."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070613.3": {
+      "court": "CASS",
+      "date": "2007-06-13",
+      "roleNumber": "P.07.0704.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour être régulièrement motivé, le jugement qui rejette la proposition de libération conditionnelle d'un condamné à des peines privatives de liberté de plus de trois ans en raison de l'existence de contre-indications dans le chef de celui-ci portant sur le risque de perpétration de nouvelles infractions, doit constater expressément qu'il s'agit d'un risque que se commettent des infractions graves (1). (1) Le ministère public a conclu au rejet du pourvoi. Il a considéré qu'en énonçant, par ailleurs, que le tribunal \"ne dispose d'aucun élément sur les conditions d'accueil chez les parents, ni sur le sérieux des projets de mariage ni même sur la façon dont les congés pénitentiaires se déroulent et qu'elle en est la perception par tous les acteurs impliqués dans la réinsertion sociale\" du demandeur, et que le tribunal \"ne peut avaliser un projet qui se limite à une promesse occupationnelle compte tenu de la personnalité du (demandeur) et de la problématique relative aux stupéfiants ...\", le jugement attaqué constatait aussi l'existence d'une contre-indication portant sur l'absence de perspectives de réinsertion sociale du demandeur, prévue par l'article 47, § 1er, 1°, de la loi du 17 mai 2006."
+      ],
+      "abstractNL": [
+        "Om regelmatig met redenen te zijn omkleed moet het vonnis dat het voorstel tot voorlopige invrijheidstelling van iemand die tot vrijheidsstraffen van meer dan drie jaar is veroordeeld verwerpt wegens het bestaan van tegenaanwijzingen in hoofde van de veroordeelde met betrekking tot het risico van het plegen van nieuwe strafbare feiten, uitdrukkelijk vaststellen dat het om een risico van het plegen van ernstige strafbare feiten gaat (1). (1) Het openbaar ministerie heeft tot de verwerping van het cassatieberoep geconcludeerd. Het heeft geoordeeld dat het bestreden vonnis, door bovendien te vermelden dat de rechtbank \"over geen enkel gegeven beschikt betreffende de opvangmogelijkheden bij de ouders, noch over de ernst van de trouwplannen en zelfs niet over de wijze waarop de gerechtelijke verloven verlopen en welk beeld de verschillende actoren daarvan hebben die bij de sociale reclassering betrokken zijn\", van de eiser en dat de rechtbank \"geen plan kan goedkeuren dat zich beperkt tot een belofte om werk te zoeken, rekening houdende met de persoonlijkheid van de (eiser) en de drugsproblematiek ...\", eveneens het bestaan van een tegenaanwijzing vaststelde met betrekking tot de afwezigheid van vooruitzichten op sociale reclassering van de eiser, zoals bepaald bij artikel 47, § 1, 1°, van de Wet van 17 mei 2006."
+      ]
     }
   },
   "48": {
@@ -2134,6 +2584,20 @@
       ],
       "abstractNL": [
         "De loutere omstandigheid dat er een reclasseringsplan voorligt zoals bedoeld in artikel 48 Wet Strafuitvoering, impliceert niet dat er geen tegenaanwijzingen voor het toekennen van een strafuitvoeringsmodaliteit voorhanden kunnen zijn zoals bedoeld in artikel 47, § 1, Wet Strafuitvoering."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110125.6": {
+      "court": "CASS",
+      "date": "2011-01-25",
+      "roleNumber": "P.10.2053.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Même si la libération conditionnelle est applicable à toutes les personnes condamnées, quelle que soit leur nationalité, il ressort des articles 47, §1er, 1°, et 48 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées que cette modalité d'exécution de la peine ne peut être appliquée dès lors qu'il est impossible d'élaborer une réinsertion utile parce que la personne condamnée n'a pas le droit de séjourner dans le Royaume (1). (1) Voir Cass., 21 mai 2002, RG P.02.0393.N - P.02.0477.N, Pas., 2002, n° 306."
+      ],
+      "abstractNL": [
+        "Ofschoon de voorwaardelijke invrijheidstelling van toepassing is op alle veroordeelden, ongeacht hun nationaliteit, blijkt uit de artikelen 47, § 1, 1° en 48 Wet Strafuitvoering dat deze strafuitvoeringsmodaliteit niet kan worden toegepast wanneer het niet mogelijk is om een nuttige reclassering uit te werken omdat de veroordeelde niet gerechtigd is in het Rijk te verblijven (1). (1) Zie: Cass., 21 mei 2002, AR P.02.0393.N - P.02.0477.N, A.C., 2002, nr. 306."
       ]
     }
   },
@@ -2260,6 +2724,48 @@
       "abstractNL": [
         "Uit de bepalingen van de artikelen 2, 3°, 31, 50, § 2, en 53, eerste lid, Wet Strafuitvoering volgt niet dat het noodzakelijk de directeur van de inrichting waar de veroordeelde tot vrijheidsstraf is opgesloten is die door de strafuitvoeringsrechtbank overeenkomstig artikel 53, eerste lid, Wet Strafuitvoering moet worden gehoord; ook de directeur van een andere inrichting kan worden gehoord, zonder dat is vereist dat de strafuitvoeringsrechtbank uitdrukkelijk vaststelt dat deze optreedt namens de directeur van de inrichting waar de veroordeelde is opgesloten."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le jugement de non-octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire doit indiquer la date à laquelle le condamné peut introduire une nouvelle demande; le tribunal de l'application des peines jouit du pouvoir discrétionnaire de fixer cette date dans les limites légales."
+      ],
+      "abstractNL": [
+        "Het vonnis van niet-toekenning van een voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied moet de datum vermelden waarop de veroordeelde een nieuw verzoek kan indienen; de strafuitvoeringsrechtbank is discretionair bevoegd om die datum binnen de wettelijke grenzen vast te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.2": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1282.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle et les demandes de surveillance électronique et de détention limitée irrecevables, pour le seul motif que certaines pièces manquent au dossier joint à cet avis et à ces demandes, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier betreffende het advies van de directeur over de voorwaardelijke invrijheidstelling en de verzoeken tot elektronisch toezicht en beperkte hechtenis, bepaalde stukken ontbreken, oordeelt dat dit advies en die verzoeken onontvankelijk is, verantwoordt zijn beslissing niet naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.1": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1219.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En déclarant l'avis du directeur concernant la libération conditionnelle irrecevable, pour le seul motif que certaines pièces manquent au dossier joint à cet avis, le tribunal de l'application des peines ne justifie pas légalement sa décision."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die om de enkele reden dat in het dossier, gevoegd bij het advies van de directeur over de voorwaardelijke invrijheidstelling, bepaalde stukken ontbreken, oordeelt dat dit advies onontvankelijk is, verantwoordt zijn beslissing niet naar recht (1). (1) Zie Cass., 28 aug. 2007, AR P.07.1282.N, nr. ..."
+      ]
     }
   },
   "51": {
@@ -2321,6 +2827,48 @@
       ],
       "abstractNL": [
         "De in de artikelen 37 en 52, § 1, eerste lid, Wet Strafuitvoering bedoelde termijnen zijn ordetermijnen die niet zijn voorgeschreven op straffe van nietigheid (1). (1) Cass. 31 januari 2012, AR P.12.0069.N, AC 2012, nr. 77; Cass. 22 juli 2008, AR P.08.1040.F, AC 2008, nr. 426."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080722.5": {
+      "court": "CASS",
+      "date": "2008-07-22",
+      "roleNumber": "P.08.1040.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/07/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les délais prévus par l'article 52, § 1er, alinéa 1er, de la loi du 17 mai 2006, relative au statut juridique externe des personnes condamnées sont des délais d'ordre, qui ne sont pas prescrits à peine de nullité (1). (1) Voir Cass., 31 juillet 2007, RG P.07.1027.F, Pas., 2007, I, n° ..., Rev.dr.pén., 2008, p. 146, et 10 octobre 2007, RG P.07.1362.F, Pas., 2007, I, n° ..., Rev.dr.pén., 2008, p. 150. 1"
+      ],
+      "abstractNL": [
+        "De termijnen die bij art. 52, § 1, eerste lid, Wet Strafuitvoering, zijn bepaald, zijn termijnen van orde die niet op straffe van nietigheid zijn voorgeschreven (1). (1) Zie Cass., 31 juli 2007, AR P.07.1027.F., A.C., 2007, nr ..., Rev.dr.pén., 2008, p. 146, en 10 okt. 2007, AR P.07.1362.F, A.C., 2007, nr ..., Rev.dr.pén., 2008, p. 150."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.3": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1166.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le respect du délai de deux mois endéans duquel l'audience du tribunal de l'application des peines doit avoir lieu après le dépôt de la demande écrite d'une modalité d'exécution de la peine ou après la réception de l'avis du directeur, ne constitue pas une formalité substantielle et le dépassement de ce délai n'entraîne pas l'annulation de la décision rejetant une modalité d'exécution de la peine (1). (1) Voir Cass., 27 février 2007, RG P.07.0108.N, n°..."
+      ],
+      "abstractNL": [
+        "De naleving van de termijn van twee maanden binnen dewelke de zitting van de strafuitvoeringsrechtbank moet plaatsvinden na de indiening van het schriftelijk verzoek tot een strafuitvoeringsmodaliteit of na ontvangst van het advies van de directeur is geen substantiële formaliteit en de overschrijding van deze termijn leidt niet tot vernietiging van de beslissing die een strafuitvoeringsmodaliteit verwerpt (1). (1) Zie cass., 27 feb. 2007, AR P.07.0108.N, nr."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070731.1": {
+      "court": "CASS",
+      "date": "2007-07-31",
+      "roleNumber": "P.07.1027.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/07/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les délais imposés par la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées aux tribunaux de l'application des peines, sont des délais d'ordre, qui ne sont pas prescrits à peine de nullité."
+      ],
+      "abstractNL": [
+        "De termijnen die bij Wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden voor de strafuitvoeringsrechtbanken zijn opgelegd, zijn termijnen van orde welke niet op straffe van nietigheid zijn voorgeschreven."
       ]
     }
   },
@@ -2440,6 +2988,76 @@
       "abstractNL": [
         "De strafuitvoeringsrechtbank kan beslissen naast de veroordeelde en zijn raadsman, het openbaar ministerie, de directeur en het slachtoffer andere personen te horen, zoals een medewerker van de psycho-sociale dienst van de gevangenis of de gevangenisgeneesheer; deze personen zijn geen eigenlijke getuigen in die zin dat zij in het belang van de waarheidsvinding betreffende vervolgende feiten verklaringen afleggen over wat ze hebben gezien of gehoord; het gaat om personen die omwille van hun professionele of persoonlijke relatie met de veroordeelde aan de strafuitvoeringsrechtbank informatie kunnen verschaffen die bij de beslissing over een gevraagde strafuitvoeringsmodaliteit relevant kan zijn, deze personen zijn geen getuigen en moeten dan ook niet onder eed worden verhoord."
       ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150311.1": {
+      "court": "CASS",
+      "date": "2015-03-11",
+      "roleNumber": "P.15.0236.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même quand elle s'est constituée partie civile, la victime n'est légalement concernée ni par la détermination de la nature et du taux de la peine ni par son exécution; bien qu'elle ait le droit d'obtenir certaines informations relatives à la procédure et soit entendue à l'audience du tribunal de l'application des peines, la victime n'est pas partie devant cette juridiction (1). (1) Cass. 28 août 2012, RG P.12.1454.F, Pas. 2012, n° 439"
+      ],
+      "abstractNL": [
+        "Zelfs na burgerlijke partijstelling is het slachtoffer niet wettelijk betrokken bij het bepalen van de aard en de maat van de straf, noch bij de tenuitvoerlegging ervan; hoewel het slachtoffer het recht heeft om bepaalde informatie met betrekking tot de rechtspleging te verkrijgen, en gehoord wordt op de zitting van de strafuitvoeringsrechtbank, is het slachtoffer geen partij voor dat rechtscollege (1). (1) Cass. 28 augustus 2012, AR P.12.1454.F, AC 2012, nr. 439."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120828.1": {
+      "court": "CASS",
+      "date": "2012-08-28",
+      "roleNumber": "P.12.1454.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/08/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les droits d'information et d'audition reconnus aux victimes ne leur confèrent pas la qualité de partie à la procédure relative à l'exécution de la peine (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het recht van de slachtoffers op informatie en het recht om te worden gehoord, verlenen hen niet de hoedanigheid van procespartij bij de strafuitvoering (1). (1) Zie de concl. in Pas. 2012, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091201.1": {
+      "court": "CASS",
+      "date": "2009-12-01",
+      "roleNumber": "P.09.1616.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au tribunal de l'application des peines de statuer, par un seul jugement et sans représentation du condamné non comparu par son conseil, sur sa compétence de décider sur l'octroi d'une modalité d'exécution de la peine et de cette modalité d'exécution de la peine même."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank vermag bij eenzelfde vonnis en zonder dat de raadsman van de veroordeelde die niet verscheen, hem kon vertegenwoordigen, uitspraak doen over haar bevoegdheid te beslissen over de toekenning van een strafuitvoeringsmodaliteit en over die strafuitvoeringsmodaliteit zelf."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090401.1": {
+      "court": "CASS",
+      "date": "2009-04-01",
+      "roleNumber": "P.09.0393.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/01/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En ce qui concerne les modalités d'exécution de la peine, le tribunal de l'application des peines doit entendre le ministère public et le directeur (1). (1) Voir Cass., 7 novembre 2007, RG P.07.1440.F, Pas., 2007, n° 533; Cass., 28 novembre 2007, RG P.07.1558.F, Pas., 2007, n° 590."
+      ],
+      "abstractNL": [
+        "Wat de strafuitvoeringsmodaliteiten betreft moet de strafuitvoeringsrechtbank het openbaar ministerie en de directeur horen (1). (1) Zie Cass. 7 nov. 2007, AR P.07.1440.F, A.C., 2007, nr. 533; Cass., 28 nov. 2007, AR P.07.1558.F, A.C., 2007, nr. 590."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071107.5": {
+      "court": "CASS",
+      "date": "2007-11-07",
+      "roleNumber": "P.07.1440.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En ce qui concerne les modalités d'exécution de la peine, le condamné doit comparaître personnellement, sans pouvoir se faire représenter par son avocat."
+      ],
+      "abstractNL": [
+        "Wat de strafuitvoeringsmodaliteiten betreft moet de veroordeelde persoonlijk verschijnen, zonder dat hij zich door zijn raadsman kan laten vertegenwoordigen."
+      ]
     }
   },
   "54": {
@@ -2495,6 +3113,50 @@
       ],
       "abstractNL": [
         "De strafuitvoeringsrechtbank, die onaantastbaar oordeelt over het bestaan van de in artikel 47, § 1, Wet Strafuitvoering bepaalde tegenaanwijzingen om strafuitvoeringsmodaliteiten toe te staan, kan zich uitspreken over het toekennen van de gevraagde strafuitvoeringsmodaliteit op basis van de gegevens die beschikbaar zijn op het ogenblik van de behandeling van de zaak; het gegeven dat een bepaalde informatie niet aan de strafuitvoeringsrechtbank is bezorgd, verplicht de rechtbank niet de behandeling van de zaak uit te stellen tot die informatie haar wordt overgemaakt."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160824.2": {
+      "court": "CASS",
+      "date": "2016-08-24",
+      "roleNumber": "P.16.0903.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/08/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au tribunal de l'application des peines de vérifier notamment si la condition de temps à laquelle la modalité d'exécution de la peine est subordonnée est remplie; à cet égard, il n'est pas lié par les calculs effectués par l'administration pénitentiaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Het staat aan de strafuitvoeringsrechtbank om met name na te gaan of de tijdsvoorwaarde is vervuld waarvan de strafuitvoeringsmodaliteit afhangt; daarbij is de strafuitvoeringsrechtbank niet gebonden door de berekeningen van de gevangenisadministratie (1). (1) Zie concl. OM in Pas. 2016, nr. ...."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071204.8": {
+      "court": "CASS",
+      "date": "2007-12-04",
+      "roleNumber": "P.07.1591.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/12/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne prévoit de sanction si le tribunal de l'application des peines ne rend pas sa décision dans les quatorze jours de la mise en délibéré de la cause (1). (1) CLOSE, F., \"Les premières surprises du tribunal de l'application des peines\", note sous Cass., 10 avril 2007, R.D.P., 2007, p. 774"
+      ],
+      "abstractNL": [
+        "Er is geen enkele wettelijke bepaling die in een sanctie voorziet indien de strafuitvoeringsrechtbank niet beslist binnen 14 dagen nadat de zaak in beraad is genomen (1). (1) Close, F., \"Les premières surprises du tribunal de l'appplication des peines\", noot onder Cass., 10 april 2007, R.D.P., 2007, p. 774."
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait de son séjour régulier dans le pays où il résidera après avoir quitté le territoire national, le condamné mis en liberté provisoire est réputé purger en dehors de la prison la partie de la peine qu'il lui reste à ce moment à subir."
+      ],
+      "abstractNL": [
+        "Reeds door regelmatig te verblijven in het land waar hij zal verblijven nadat hij het nationaal grondgebied heeft verlaten, wordt de in voorlopige vrijheid gestelde veroordeelde geacht het gedeelte van de straf dat hij op dat ogenblik nog moet ondergaan, buiten de gevangenis uit te zitten."
       ]
     }
   },
@@ -2620,6 +3282,20 @@
       "abstractNL": [
         "De beslissing van de strafuitvoeringsrechtbank tot weigering van de toekenning van de strafuitvoeringsmodaliteit die niet de bijzondere redenen kenbaar maakt die de rechters ertoe hebben gebracht van het gunstige advies van de gevangenisdirecteur af te wijken, is niet regelmatig met redenen omkleed."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120828.1": {
+      "court": "CASS",
+      "date": "2012-08-28",
+      "roleNumber": "P.12.1454.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/08/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En l'absence de toute contestation du ministère public ou du condamné, le tribunal de l'application des peines n'a pas l'obligation de motiver spécialement les conditions particulières individualisées qu'il met à l'octroi d'une libération conditionnelle (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van enige betwisting vanwege het openbaar ministerie of van de veroordeelde, is de strafuitvoeringsrechtbank niet verplicht de geïndividualseerde bijzondere voorwaarden die zij aan de toekenning van een voorwaardelijke invrijheidstelling stelt, bijzonder met redenen te omkleden (1). (1) Zie concl. O.M. in Pas. 2012, nr. ..."
+      ]
     }
   },
   "57": {
@@ -2725,6 +3401,176 @@
         "Geen enkele wets- of verdragsbepaling verplicht de strafuitvoeringsrechtbank om de datum te bepalen waarop de veroordeelde een nieuw verzoek tot toekenning van een strafuitvoeringsmodaliteit kan indienen in functie van de voorspelbare duur van de behandeling van die aanvraag of de datum waarop de straf verstrijkt.",
         "De vermelding van de datum waarop de veroordeelde een nieuw verzoek tot toekenning van een strafuitvoeringsmodaliteit kan indienen, is onlosmakelijk verbonden met de beslissing tot niet-toekenning van een strafuitvoeringsmodaliteit en met de motivering van die beslissing; de wet verplicht de rechtbank niet om, bij ontstentenis van een specifieke conclusie dienaangaande, de termijn te motiveren die ze binnen de grenzen van artikel 57, eerste lid, Wet Strafuitvoering bepaalt (1). (1) Cass. 23 mei 2012, AR P.12.0793.F, AC 2012, nr. 330."
       ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150624.7": {
+      "court": "CASS",
+      "date": "2015-06-24",
+      "roleNumber": "P.15.0777.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/06/24/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines qui n'accorde pas la modalité d'exécution de la peine sollicitée doit indiquer dans sa décision la date à laquelle le condamné peut introduire une nouvelle demande; le tribunal n'est toutefois pas tenu de respecter cette obligation lorsqu'il n'octroie pas ladite modalité d'exécution de la peine parce que le demandeur ne se trouve pas dans les conditions de temps légalement requises; en ce cas, le délai est fixé par la loi elle-même (1). (1) Voir Cass. 30 avril 2013, RG P.13.0634.N, Pas. 2013, n° 272."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die de verzochte strafuitvoeringsmodaliteit niet toekent, moet in haar beslissing de datum vermelden waarop de veroordeelde een nieuw verzoek kan indienen; de rechtbank hoeft die verplichting evenwel niet na te leven wanneer zij de voormelde strafuitvoeringsmodaliteit niet toekent omdat de eiser zich niet in de wettelijk vereiste tijdsvoorwaarden bevindt; in dat geval wordt de termijn immers door de wet zelf bepaald (1). (1) Zie Cass. 30 april 2013, AR P.13.0634.N, AC 2013, nr. 272."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140923.7": {
+      "court": "CASS",
+      "date": "2014-09-23",
+      "roleNumber": "P.14.1407.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 57, alinéa 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées, sur la base duquel le tribunal de l'application des peines, s'il n'accorde pas une modalité d'exécution de la peine, indique dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande, qu'une nouvelle demande introduite avant cette date est irrecevable; la circonstance que la personne condamnée puisse déjà, conformément à l'article 23, § 2, de cette même loi, introduire une demande d'octroi de détention limitée ou de surveillance électronique préalablement au moment où il se trouve dans les conditions de temps visées au § 1er, 1°, de ce même article, n'y fait pas obstacle."
+      ],
+      "abstractNL": [
+        "Uit artikel 57, eerste lid, van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden, op grond waarvan de strafuitvoeringsrechtbank, indien zij een strafuitvoeringsmodaliteit niet toekent, in haar vonnis de datum bepaalt waarop de veroordeelde een nieuw verzoek kan indienen, volgt dat een nieuw verzoek, ingediend vóór deze datum niet ontvankelijk is; de omstandigheid dat de veroordeelde overeenkomstig artikel 23,§2, van dezelfde wet reeds voorafgaandelijk aan het moment dat hij zich in de bij §1, 1° van hetzelfde artikel bepaalde tijdsvoorwaarde bevindt, een verzoek kan indienen tot beperkte detentie of elektronisch toezicht, doet hieraan geen afbreuk."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le jugement de non-octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire doit indiquer la date à laquelle le condamné peut introduire une nouvelle demande; le tribunal de l'application des peines jouit du pouvoir discrétionnaire de fixer cette date dans les limites légales."
+      ],
+      "abstractNL": [
+        "Het vonnis van niet-toekenning van een voorlopige invrijheidstelling met het oog op verwijdering van het grondgebied moet de datum vermelden waarop de veroordeelde een nieuw verzoek kan indienen; de strafuitvoeringsrechtbank is discretionair bevoegd om die datum binnen de wettelijke grenzen vast te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130430.5": {
+      "court": "CASS",
+      "date": "2013-04-30",
+      "roleNumber": "P.13.0634.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/04/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l''application des peines qui rejette comme étant irrecevable la demande d'octroi d''une modalité d''exécution de la peine parce que le demandeur ne se trouve pas dans les conditions de temps pour formuler une telle demande, n''est pas tenu de déterminer dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande ni la date à laquelle le directeur doit émettre un nouvel avis, dès lors qu''en pareille occurrence, ce délai est effectivement fixé par la loi elle-même."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die het verzoek tot toekenning van een strafuitvoeringsmodaliteit als onontvankelijk afwijst omdat de verzoeker niet in de tijdsvoorwaarden verkeert om een dergelijk verzoek te formuleren, is niet verplicht in haar vonnis de datum te bepalen waarop de veroordeelde een nieuw verzoek kan indienen of de datum te bepalen waarop de directeur een nieuw advies moet uitbrengen omdat in dat geval deze termijn immers door de wet zelf wordt bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120523.2": {
+      "court": "CASS",
+      "date": "2012-05-23",
+      "roleNumber": "P.12.0793.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'impose qu'en l'absence de conclusions, le tribunal de l'application des peines motive le délai dans lequel le condamné peut introduire une nouvelle demande d'une modalité d'exécution de la peine."
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling legt de strafuitvoeringsrechtbank de verplichting op om bij gebrek aan een conclusie de termijn te motiveren waarin de veroordeelde een nieuw verzoek tot het verkrijgen van een strafuitvoeringsmodaliteit kan indienen."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080429.1": {
+      "court": "CASS",
+      "date": "2008-04-29",
+      "roleNumber": "P.08.0560.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/29/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 57, alinéa 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine n'implique pas que, lorsqu'une date a été fixée pour le nouvel avis du directeur, l'avis émis avant cette date et la procédure subséquente sont irrecevables (1). (1) Voir concl. du M.P."
+      ],
+      "abstractNL": [
+        "Artikel 57, eerste lid, Wet Strafuitvoering, houdt niet in dat, wanneer een datum is bepaald voor het nieuwe advies van de directeur, het advies dat wordt uitgebracht voor die datum, en de daaropvolgende procedure niet ontvankelijk zijn (1). (1) Zie conclusie O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080109.1": {
+      "court": "CASS",
+      "date": "2008-01-09",
+      "roleNumber": "P.07.1842.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines qui révoque la libération conditionnelle doit indiquer dans son jugement la date à laquelle le directeur doit émettre un nouvel avis (1). (1) Voir Cass., 21 novembre 2007, RG P.07.1529.F, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die de voorwaardelijke invrijheidstelling herroept, moet in haar vonnis de datum bepalen waarop de directeur een nieuw advies moet uitbrengen (1). (1) Cass., 21 nov. 2007, AR P.07.1529.N, Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071121.1": {
+      "court": "CASS",
+      "date": "2007-11-21",
+      "roleNumber": "P.07.1529.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines qui révoque la libération conditionnelle doit indiquer dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande ou celle à laquelle le directeur doit émettre un nouvel avis."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die de voorwaardelijke invrijheidstelling herroept, moet in zijn vonnis de datum bepalen waarop de veroordeelde een nieuw verzoek kan indienen of deze waarop de directeur een nieuw advies moet uitbrengen."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070925.6": {
+      "court": "CASS",
+      "date": "2007-09-25",
+      "roleNumber": "P.07.1333.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/25/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 45 de la loi du 17 mai 2006 relative aux modalités d'exécution de la peine s'applique aux peines privatives de liberté de trois ans ou moins, et non aux peines correctionnelles dont le total est supérieur à cinq ans; dans ce cas, conformément à l'article 57 de ladite loi, l'avis du directeur peut être émis dans un délai d'un an."
+      ],
+      "abstractNL": [
+        "Artikel 45 Wet Strafuitvoering is van toepassing voor vrijheidstraffen van drie jaar of minder en niet voor correctionele straffen waarvan het geheel meer dan vijf jaar bedraagt; in dat geval kan overeenkomstig artikel 57 van dezelfde wet het advies van de directeur uitgebracht worden binnen de termijn van een jaar."
+      ]
+    }
+  },
+  "58": {
+    "ECLI:BE:CASS:2015:ARR.20150311.1": {
+      "court": "CASS",
+      "date": "2015-03-11",
+      "roleNumber": "P.15.0236.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même quand elle s'est constituée partie civile, la victime n'est légalement concernée ni par la détermination de la nature et du taux de la peine ni par son exécution; bien qu'elle ait le droit d'obtenir certaines informations relatives à la procédure et soit entendue à l'audience du tribunal de l'application des peines, la victime n'est pas partie devant cette juridiction (1). (1) Cass. 28 août 2012, RG P.12.1454.F, Pas. 2012, n° 439"
+      ],
+      "abstractNL": [
+        "Zelfs na burgerlijke partijstelling is het slachtoffer niet wettelijk betrokken bij het bepalen van de aard en de maat van de straf, noch bij de tenuitvoerlegging ervan; hoewel het slachtoffer het recht heeft om bepaalde informatie met betrekking tot de rechtspleging te verkrijgen, en gehoord wordt op de zitting van de strafuitvoeringsrechtbank, is het slachtoffer geen partij voor dat rechtscollege (1). (1) Cass. 28 augustus 2012, AR P.12.1454.F, AC 2012, nr. 439."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120828.1": {
+      "court": "CASS",
+      "date": "2012-08-28",
+      "roleNumber": "P.12.1454.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/08/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les droits d'information et d'audition reconnus aux victimes ne leur confèrent pas la qualité de partie à la procédure relative à l'exécution de la peine (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het recht van de slachtoffers op informatie en het recht om te worden gehoord, verlenen hen niet de hoedanigheid van procespartij bij de strafuitvoering (1). (1) Zie de concl. in Pas. 2012, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081118.4": {
+      "court": "CASS",
+      "date": "2008-11-18",
+      "roleNumber": "P.08.1555.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/18/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "N'est ni substantiel, ni prescrit à peine de nullité le délai fixé à l'article 58, § 1er, alinéa 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine; la circonstance que le jugement n'a pas été notifié dans les vingt-quatre heures n'entache pas la légalité de ce jugement (1). (1) Voir: Cass., 10 octobre 2007, RG P.07.1362.F, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "De termijn die bij artikel 58, § 1, eerste lid, Wet Strafuitvoering is bepaald, is noch substantieel, noch op straffe van nietigheid voorgeschreven; de omstandigheid dat de kennisgevingen van het vonnis niet binnen vierentwintig uur werden verricht tast de wettigheid van dit vonnis niet aan (1). (1) Zie: Cass., 10 okt. 2007, AR P.07.1362.F, A.C., 2007, nr ..."
+      ]
     }
   },
   "59": {
@@ -2827,6 +3673,34 @@
       "abstractNL": [
         "De beslissing betreffende de bijzondere uitvoeringsmodaliteit, die bestaat in een uitgaansvergunning of een penitentiair verlof die door de strafuitvoeringsrechtbank kan worden toegekend overeenkomstig artikel 59 Wet Strafuitvoering, houdt geen verband met de gevallen bedoeld in Titel V van de wet en is geen beslissing genomen met toepassing van Titel XI van die wet; tegen de beslissing betreffende een dergelijke modaliteit kan geen cassatieberoep worden ingesteld (1). (1) Cass. 28 juni 2016, AR P.16.0705.N, AC 2016, nr. 428 ; Cass. 25 februari 2014, AR P.14.0232.N, AC 2014, nr. 151; Cass. 18 januari 2012, AR P.11.2136.F, AC 2012, nr. 51; Cass. 26 december 2007, AR P.07.1762.N, AC 2007, nr. 662."
       ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160323.4": {
+      "court": "CASS",
+      "date": "2016-03-23",
+      "roleNumber": "P.16.0311.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les permissions de sortie et les congés pénitentiaires ne constituent pas des modalités d'exécution de la peine que, sauf contre-indication, le tribunal de l'application des peines doit octroyer au condamné qui a purgé la partie de la peine privative de liberté légalement prévue; il s'agit de mesures particulières que ce tribunal peut accorder, à titre exceptionnel, lorsqu'il les considère absolument nécessaires pour permettre l'octroi, à court terme, de la modalité d'exécution de la peine sollicitée devant lui (1). (1) Voir Cass. 26 octobre 2011, RG P.11.1639.F, Pas. 2011, n° 577."
+      ],
+      "abstractNL": [
+        "Uitgaansvergunningen en penitentiaire verloven zijn geen strafuitvoeringsmodaliteiten die de strafuitvoeringsrechtbank, behoudens tegenaanwijzing, moet toekennen aan de veroordeelde die het wettelijk bepaald gedeelte van de vrijheidsstraf heeft uitgezeten; het zijn bijzondere maatregelen die de rechtbank bij wijze van uitzondering kan toekennen wanneer ze die absoluut noodzakelijk beschouwt om op korte termijn de voor haar verzochte strafuitvoeringsmodaliteit toe te kennen (1). (1) Zie Cass. 26 oktober 2011, AR P.11.1639.F, AC 2011, nr. 577."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140225.9": {
+      "court": "CASS",
+      "date": "2014-02-25",
+      "roleNumber": "P.14.0232.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/02/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La permission de sortie en tant que modalité particulière d'exécution de la peine, que le juge de l'application des peines ou le tribunal de l'application des peines peuvent accorder conformément à l'article 59 de la loi du 17 mai 2006, ne constitue pas une modalité d'exécution prévue au Titre V de la loi, ni une condition particulière visée au Titre XI de cette même loi; la décision rendue sur une telle modalité particulière d'exécution de la peine n'est pas susceptible d'un pourvoi en cassation du condamné (1). (1) Voir Cass., 26 décembre 2007, RG P.07.1762.N, Pas., 2007, n° 662."
+      ],
+      "abstractNL": [
+        "De bijzondere strafuitvoeringsmodaliteit van uitgangsvergunning die de strafuitvoeringsrechter of de strafuitvoeringsrechtbank overeenkomstig artikel 59 Wet Strafuitvoering kan toestaan, is geen uitvoeringsmodaliteit bepaald in Titel V van de wet, noch een bijzondere voorwaarde als bedoeld in Titel XI van dezelfde wet; tegen de beslissing over dergelijke bijzondere strafuitvoeringsmodaliteit staat voor de veroordeelde geen cassatieberoep open (1). (1) Zie Cass. 26 dec. 2007, AR P.07.1762.N, AC 2007, nr. 662."
+      ]
     }
   },
   "60": {
@@ -2857,6 +3731,20 @@
       ],
       "abstractNL": [
         "De bepalingen van artikel 60, vierde lid, Wet Strafuitvoering, en van de artikelen 7, vijfde lid, en 74/8, § 1, derde lid, Vreemdelingenwet, maken een procedureregeling uit die eigen is aan de Wet Strafuitvoering en de Vreemdelingenwet, waarop de Voorlopige Hechteniswet niet van toepassing is en de bepalingen van de artikelen 5.1.a en 5.1.f EVRM waarbij onder meer de vrijheidsbeneming is toegelaten van de persoon die op rechtmatige wijze is gedetineerd na veroordeling door een daartoe bevoegde rechter en waartegen een uitwijzings- of uitleveringsprocedure hangende is, houden geen beletsel in voor de voormelde procedureregeling; uit de onderlinge samenhang van de bepalingen van artikel 60, vierde lid, Wet Strafuitvoering, en de artikelen 7, vijfde lid, en 74/8, § 1, derde lid, Vreemdelingenwet vloeit voort dat, wanneer de beslissing tot administratieve vrijheidsbeneming volgt op een vonnis waarbij de strafuitvoeringsrechtbank de voorlopige invrijheidstelling toestaat aan de veroordeelde met het oog op zijn verwijdering van het grondgebied, die beslissing wel degelijk kan ingaan op een latere datum dan de datum van de beslissing zelf, namelijk op de datum waarop de beslissing uitvoerbaar wordt, dit is op het ogenblik en binnen de periode bepaald in artikel 60, vierde lid, Wet Strafuitvoering; in dat geval gaat de termijn van twee maanden voor de verlenging van de opsluiting, bepaald in artikel 7, vijfde lid, Vreemdelingenwet, eveneens in op het tijdstip waarop de administratieve beslissing tot vrijheidsbeneming uitvoerbaar wordt."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090408.2": {
+      "court": "CASS",
+      "date": "2009-04-08",
+      "roleNumber": "P.09.0400.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le pourvoi introduit dans le délai légal par le ministère public à l'encontre de la décision du tribunal de l'application des peines octroyant une surveillance électronique a un effet suspensif jusqu'au moment où la Cour a statué sur ledit pourvoi alors même que le jugement d'octroi a déclaré que le jugement sera exécutoire à une date antérieure (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het cassatieberoep dat het openbaar ministerie binnen de wettelijke termijn tegen de beslissing van de strafuitvoeringsrechtbank heeft ingesteld waarbij electronisch toezicht wordt toegekend, heeft opschortende werking tot het ogenblik waarop het Hof op het voormelde cassatieberoep uitspraak heeft gedaan, hoewel het vonnis waarbij de maatregel is toegekend beslist dat het vonnis op een eerdere datum uitvoerbaar wordt (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
       ]
     }
   },
@@ -2920,6 +3808,34 @@
       "abstractNL": [
         "Artikel 61, § 1, Wet Strafuitvoering verbiedt niet om de intrekking van de toegekende strafuitvoeringsmaatregel te gronden op een onverenigbaarheid die voortvloeit uit de miskenning van de in de toekenningsbeslissing vastgestelde voorwaarden (1). (1) Cass. 14 januari 2009, AR P.08.1860.F, AC 2009, nr. 32 (antwoord op het eerste middel).",
         "Artikel 61, § 1, Wet Strafuitvoering bepaalt dat indien zich, nadat de beslissing tot toekenning van een in Titel V van de wet bedoelde strafuitvoeringsmodaliteit is genomen maar vóór de uitvoering ervan een situatie voordoet die onverenigbaar is met de voorwaarden die in deze beslissing zijn bepaald, de strafuitvoeringsrechter of de strafuitvoeringsrechtbank, op vordering van het openbaar ministerie, een nieuwe beslissing kan nemen, met inbegrip van de intrekking van de strafuitvoeringsmodaliteit die werd toegekend; een dergelijke situatie kan ontstaan uit de ontdekking, na dat vonnis, van een gegeven dat dagtekent van vóór die beslissing en dat daarop een invloed zou kunnen hebben gehad (1). (1) Zie de commentaar van B. REYNARTS op die bepaling: \"als er tussen het ogenblik van de beslissing en de uitvoering ervan nieuwe, relevante elementen aan het licht komen, kan de strafuitvoeringsrechtbank een nieuwe beslissing nemen met betrekking tot de toekenning van de strafuitvoeringsmodaliteit\" (in T. DECAIGNY e.a., Duiding Strafuitvoering, Larcier, 2014, p. 146). Het Hof had reeds gezegd dat \"de intrekking van een strafuitvoeringsmodaliteit nog vóór de uitvoering ervan niet onderworpen is aan de voorwaarde dat het zich voordoen van een toestand die onverenigbaar is met de voorwaarden voor die maatregel, aan de veroordeelde te wijten moet zijn.\" (Cass. 26 oktober 2011, AR P.11.1639.F, AC 2011, nr. 577)."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111026.2": {
+      "court": "CASS",
+      "date": "2011-10-26",
+      "roleNumber": "P.11.1639.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/26/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le retrait d'une modalité d'exécution de la peine avant son exécution n'est pas subordonné à la condition que la survenance d'une situation incompatible avec les conditions de cette mesure soit imputable au condamné."
+      ],
+      "abstractNL": [
+        "De intrekking van een strafuitvoeringsmodaliteit nog vóór de uitvoering ervan, is niet onderworpen aan de voorwaarde dat het zich voordoen van een toestand die onverenigbaar is met de voorwaarden voor die maatregel, aan de veroordeelde moet te wijten zijn."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090114.2": {
+      "court": "CASS",
+      "date": "2009-01-14",
+      "roleNumber": "P.08.1860.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il se produit, après le jugement d'octroi d'une détention limitée, mais avant son exécution, une situation incompatible avec les conditions fixées dans cette décision, le tribunal de l'application des peines peut, sur réquisitoire du ministère public, prendre une nouvelle décision, en ce compris le retrait de la mesure octroyée; ce retrait peut être fondé sur une incompatibilité déduite de la méconnaissance des conditions fixées."
+      ],
+      "abstractNL": [
+        "Indien nà het vonnis waarbij een beperkte detentie wordt toegekend, maar vóór de uitvoering ervan, zich een situatie voordoet die onverenigbaar is met de voorwaarden die in deze beslissing zijn bepaald, kan de strafuitvoeringsrechtbank op vordering van het openbaar ministerie een nieuwe beslissing nemen, inclusief de intrekking van de toegekende maatregel; die intrekking kan gegrond zijn op een onverenigbaarheid die afgeleid wordt uit de miskenning van de vastgestelde voorwaarden."
       ]
     }
   },
@@ -3276,6 +4192,48 @@
       "abstractNL": [
         "Wanneer de strafuitvoeringsrechtbank, die kennisneemt van een vordering tot herroeping wegens niet-naleving van de bijzondere voorwaarde die bestaat in het verbod om het drugsmilieu te frequenteren, het bezit van verdovende middelen bewezen verklaart ten aanzien van de veroordeelde die zich hiervoor in voorlopige hechtenis bevindt, miskent ze het vermoeden van onschuld dat de veroordeelde geniet ten aanzien van de feiten waarvoor hij wordt vervolgd en waarvoor hij niet definitief is veroordeeld (1). (1) Cass. 17 september 2003, AR P.03.1018.F, AC 2003, nr. 438."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131022.5": {
+      "court": "CASS",
+      "date": "2013-10-22",
+      "roleNumber": "P.13.1574.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines peut, sur les réquisitions du ministère public, prendre une décision qui diverge d'une précédente lorsque de nouveaux faits se sont produits, tels que ceux énoncés à l'article 64 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées; le fait que le tribunal de l'application des peines n'ait pas révoqué la libération conditionnelle par une décision antérieure en raison du non-respect d'une condition imposée, ne l'empêche par conséquent pas de prononcer néanmoins cette révocation ultérieurement lorsque le non-respect de cette condition perdure."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank kan, op vordering van het openbaar ministerie, een beslissing nemen die afwijkt van een vorige wanneer zich nieuwe feiten hebben voorgedaan zoals vermeld in artikel 64 Wet Strafuitvoering; het feit dat de strafuitvoeringsrechtbank de voorwaardelijke invrijheidstelling bij een vorige beslissing niet heeft herroepen wegens de niet-naleving van een opgelegde voorwaarde, belet haar bijgevolg niet om die herroeping later toch uit te spreken wanneer de niet-naleving van die voorwaarde voortduurt."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110921.1": {
+      "court": "CASS",
+      "date": "2011-09-21",
+      "roleNumber": "P.11.1557.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, dans un cas pouvant donner lieu à révocation de la modalité d'exécution de la peine accordée au condamné, le procureur du Roi a ordonné l'arrestation provisoire du bénéficiaire de la mesure et en a donné immédiatement avis au tribunal de l'application des peines compétent, celui-ci dispose d'un délai de sept jours ouvrables, après l'incarcération du condamné, pour se prononcer sur une éventuelle suspension de la mesure accordée; si la modalité d'exécution de la peine est suspendue, le tribunal doit, dans un délai d'un mois maximum à compter du jugement de suspension, lever celle-ci ou révoquer la mesure."
+      ],
+      "abstractNL": [
+        "Wanneer de procureur des Konings, in een geval waarin de aan de veroordeelde toegekende strafuitvoeringsmodaliteit kon worden herroepen, de voorlopige aanhouding heeft bevolen van de persoon die voor de maatregel in aanmerking komt, en hij de bevoegde strafuitvoeringsrechtbank daarvan onmiddellijk in kennis heeft gesteld, beschikt die rechtbank over zeven werkdagen na de opsluiting van de veroordeelde om uitspraak te doen over een eventuele schorsing van de toegekende maatregel; indien de strafuitvoeringsmodaliteit wordt geschorst, moet de rechtbank binnen een termijn van ten hoogste één maand, te rekenen van het vonnis tot schorsing, die schorsing opheffen of de maatregel herroepen."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080102.3": {
+      "court": "CASS",
+      "date": "2008-01-02",
+      "roleNumber": "P.07.1812.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort tant de la définition légale de la libération conditionnelle que des causes de révocation énumérées limitativement par la loi que seul un comportement fautif adopté par le condamné durant le délai d'épreuve peut constituer un motif de révocation(1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Zowel uit de wettelijke definitie van de voorwaardelijke invrijheidstelling als uit de beperkend in de wet opgesomde redenen tot herroeping, volgt dat alleen een foutieve gedraging van de veroordeelde tijdens de proeftermijn een herroepingsgrond kan opleveren (1). (1) Zie concl. O.M."
+      ]
     }
   },
   "65": {
@@ -3332,6 +4290,50 @@
       ],
       "abstractNL": [
         "Artikel 71 Wet Strafuitvoering, krachtens hetwelk de veroordeelde definitief in vrijheid wordt gesteld indien tijdens de proeftijd geen enkele herroeping heeft plaatsgehad, betreft niet de herroeping die ingevolge een eindbeslissing voor een misdaad of wanbedrijf wordt uitgesproken, aangezien die herroeping wordt geacht te zijn ingegaan op de dag waarop het misdrijf werd gepleegd."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121219.2": {
+      "court": "CASS",
+      "date": "2012-12-19",
+      "roleNumber": "P.12.1931.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de condamnation pour des faits commis pendant le délai d'épreuve, la révocation de la libération conditionnelle est censée avoir débuté le jour où l'infraction a été commise; cela signifie que la date à prendre en considération est celle du crime ou du délit, de sorte que la révocation est encourue même si la condamnation pour des faits commis pendant le délai d'épreuve n'intervient qu'après l'expiration de celui-ci."
+      ],
+      "abstractNL": [
+        "In geval van veroordeling wegens tijdens de proeftijd gepleegde feiten, wordt de herroeping geacht te zijn ingegaan op de dag waarop die misdaad of dat wanbedrijf is gepleegd; dat houdt in dat de dag die in aanmerking moet worden genomen, de dag is waarop die misdaad of dat wanbedrijf is gepleegd, zodat de herroeping ook wordt uitgesproken indien de veroordeling voor feiten die tijdens de proeftijd zijn gepleegd, pas na het verstrijken van die proeftijd wordt uitgesproken."
+      ]
+    }
+  },
+  "66": {
+    "ECLI:BE:CASS:2011:ARR.20111207.2": {
+      "court": "CASS",
+      "date": "2011-12-07",
+      "roleNumber": "P.11.1863.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est saisi par application des articles 66, §3, et 70 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, le tribunal de l'application des peines ne statue pas dans le cadre d'une procédure introduite par une demande de révocation formée par le ministère public et la procédure urgente instituée par ces dispositions n'est, dès lors, pas assujettie aux délais prévus par l'article 68, §§1er et 2, de la même loi."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die met toepassing van de artikelen 66, §3, en 70 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf, kennisneemt van de zaak, doet geen uitspraak in het kader van een rechtspleging die is ingeleid met een vordering tot herroeping van het openbaar ministerie en de bij die bepalingen ingestelde spoedeisende rechtspleging valt bijgevolg niet onder toepassing van de termijnen die bij artikel 68, §1 en 2, van diezelfde wet zijn bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110921.1": {
+      "court": "CASS",
+      "date": "2011-09-21",
+      "roleNumber": "P.11.1557.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, dans un cas pouvant donner lieu à révocation de la modalité d'exécution de la peine accordée au condamné, le procureur du Roi a ordonné l'arrestation provisoire du bénéficiaire de la mesure et en a donné immédiatement avis au tribunal de l'application des peines compétent, celui-ci dispose d'un délai de sept jours ouvrables, après l'incarcération du condamné, pour se prononcer sur une éventuelle suspension de la mesure accordée; si la modalité d'exécution de la peine est suspendue, le tribunal doit, dans un délai d'un mois maximum à compter du jugement de suspension, lever celle-ci ou révoquer la mesure."
+      ],
+      "abstractNL": [
+        "Wanneer de procureur des Konings, in een geval waarin de aan de veroordeelde toegekende strafuitvoeringsmodaliteit kon worden herroepen, de voorlopige aanhouding heeft bevolen van de persoon die voor de maatregel in aanmerking komt, en hij de bevoegde strafuitvoeringsrechtbank daarvan onmiddellijk in kennis heeft gesteld, beschikt die rechtbank over zeven werkdagen na de opsluiting van de veroordeelde om uitspraak te doen over een eventuele schorsing van de toegekende maatregel; indien de strafuitvoeringsmodaliteit wordt geschorst, moet de rechtbank binnen een termijn van ten hoogste één maand, te rekenen van het vonnis tot schorsing, die schorsing opheffen of de maatregel herroepen."
       ]
     }
   },
@@ -3712,6 +4714,176 @@
       "abstractNL": [
         "Aangezien artikel 47, § 1, van de Wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden, de toekenning van het elektronisch toezicht en de voorwaardelijke invrijheidstelling doet afhangen van het ontbreken van dezefde tegenaanwijzingen in hoofde van de veroordeelde, kunnen de elementen waardoor het elektronisch toezicht niet aangewezen is, geen andere uitwerking hebben op de voorwaardelijke invrijheidstelling, vermits deze de vrijheid nog in mindere mate beperkt; door de redenen uiteen te zetten waarom zij de eerste maatregel niet toekent, geeft de strafuitvoeringsrechtbank de redenen op waarom de tweede maatregel niet werd toegekend."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121219.2": {
+      "court": "CASS",
+      "date": "2012-12-19",
+      "roleNumber": "P.12.1931.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il révoque une libération conditionnelle, le tribunal de l'application des peines doit déterminer la partie de la peine privative de liberté restant à exécuter par le condamné; à cette fin, il doit tenir compte de la période du délai d'épreuve qui s'est bien déroulée et des efforts fournis par le condamné pour respecter les conditions qui lui étaient imposées, mais il ne doit pas énoncer expressément le nombre de jours de privation de liberté que le condamné devait encore subir au moment de l'octroi de la mesure, ni le nombre de jours qu'il y a lieu d'en déduire sur la base des critères prévus par la loi (1). (1) Voir Cass., 30 mars 2010, RG P.10.0431.N, Pas., 2010, n° 232."
+      ],
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechtbank een voorwaardelijke invrijheidsstelling herroept, moet zij het gedeelte bepalen van de vrijheidsstraf die de veroordeelde nog moet uitzitten; daartoe moet zij rekening houden met de periode van de proeftijd die goed is verlopen en met de inspanning die de veroordeelde heeft geleverd om de voorwaarden te respecteren die hem waren opgelegd; zij dient evenwel niet uitdrukkelijk melding te maken van het aantal dagen van de vrijheidsstraf die de veroordeelde op het ogenblik van toekenning van de maatregel nog moet ondergaan en evenmin van het aantal dagen dat daarvan moet worden afgetrokken op grond van de bij wet bepaalde criteria (1). (1) Zie Cass. 30 maart 2010, AR P.10.0431.N, AC 2010, nr. 232."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121030.13": {
+      "court": "CASS",
+      "date": "2012-10-30",
+      "roleNumber": "P.12.1602.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines apprécie en fait, et dès lors souverainement, la partie de la peine privative de liberté que le condamné doit encore subir, compte tenu de la période de mise à l'épreuve qui s'est bien déroulée et des efforts consentis par le condamné afin de respecter les conditions qui lui ont été imposées (1). (1) Voir Cass., 13 mai 2008, RG P.08.0608.N, Pas., 2008, n° 290."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank beoordeelt in feite, mitsdien onaantastbaar, het gedeelte van de vrijheidsstraf dat de veroordeelde nog moet ondergaan rekening houdend met de periode van de proeftijd die goed is verlopen en met de inspanning die de veroordeelde heeft geleverd om de voorwaarden te respecteren die hem waren opgelegd (1). (1) Zie Cass. 13 mei 2008, AR P.08.0608.N, AC 2008, nr. 290."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110921.1": {
+      "court": "CASS",
+      "date": "2011-09-21",
+      "roleNumber": "P.11.1557.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Outrepasse les limites de sa saisine, le tribunal de l'application des peines qui, saisi par un avis d'arrestation provisoire donné par le procureur du Roi en vue d'une éventuelle suspension de la mesure de surveillance électronique, révoque néanmoins d'emblée la surveillance électronique."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank, die met een door de procureur des Konings gegeven bericht van voorlopige aanhouding, met het oog op een eventuele schorsing van de maatregel van elektronisch toezicht, kennisneemt van een zaak, en die niettemin het elekronisch toezicht meteen herroept, gaat de perken van de bij haar aanhangig gemaakte zaak te buiten."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100317.10": {
+      "court": "CASS",
+      "date": "2010-03-17",
+      "roleNumber": "P.10.0339.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 68, § 5, alinéa 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, le jugement du tribunal de l'application des peines qui révoque une surveillance électronique en omettant de préciser que la période au cours de laquelle le condamné était en détention limitée sous surveillance électronique doit être déduite de la partie restante de la peine privative de liberté au moment de l'octroi (1). (1) Voir Cass., 10 juin 2008, RG P.08.0795.N, Pas., 2008, n° 361."
+      ],
+      "abstractNL": [
+        "Het vonnis van de strafuitvoeringsrechtbank dat een maatregel van elektronisch toezicht herroept en niet preciseert dat de periode tijdens welke de veroordeelde tijdens de hem toegekende beperkte detentie onder elektronisch toezicht stond, moet worden afgetrokken van het op het ogenblik van de toekenning nog resterende gedeelte van de vrijheidsstraf, schendt artikel 68, § 5, eerste lid, Wet Strafuitvoering (1). (1) Zie Cass., 10 juni 2008, AR P.08.0795.N, A.C., 2008, nr 361."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081008.1": {
+      "court": "CASS",
+      "date": "2008-10-08",
+      "roleNumber": "P.08.1388.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Aucune méconnaissance du principe général du droit relatif au respect dû aux droits de la défense ne saurait se déduire de ce que le conseil du condamné ne doit pas être convoqué à l'audience du tribunal de l'application des peines lorsque celui-ci est saisi en vue d'une révocation d'une modalité d'exécution de la peine."
+      ],
+      "abstractNL": [
+        "Miskenning van het algemeen beginsel van de eerbiediging van het recht van verdediging kan niet worden afgeleid uit het feit dat de raadsman van de veroordeelde niet dient te worden opgeroepen voor de zitting van de strafuitvoeringsrechtbank, die met het oog op de herroeping van een strafuitvoeringsmodaliteit werd aangezocht."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080610.4": {
+      "court": "CASS",
+      "date": "2008-06-10",
+      "roleNumber": "P.08.0795.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En cas d'une révocation d'une détention limitée ou d'une surveillance électronique, le tribunal de l'application des peines précise que la période au cours de laquelle le demandeur était en détention limitée ou sous surveillance électronique est déduite de la partie restante des peines privatives de liberté au moment de l'octroi (1). (1) Voir Cass., 10 octobre 2007, RG P.07.1357.F, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "Ingeval van herroeping van een beperkte detentie of een elektronisch toezicht, bepaalt de strafuitvoeringsrechtbank dat de periode die de eiser in beperkte detentie was of onder elektronisch toezicht stond, wordt afgetrokken van het op het ogenblik van de toekenning nog resterende gedeelte van de vrijheidstraffen (1). (1) Zie Cass., 10 okt. 2007, AR P.07.1357.F, A.C., 2007, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080513.7": {
+      "court": "CASS",
+      "date": "2008-05-13",
+      "roleNumber": "P.08.0608.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/05/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une libération conditionnelle a été révoquée, il appartient au juge de l'application des peines ou au tribunal de l'application des peines de déterminer la partie de la peine privative de liberté qui doit encore être subie, sans devoir diminuer, systématiquement, la partie qui n'a pas encore été subie (1). (1) Voir Cass., 21 novembre 2007, RG P.07.1529.F, Pas., 2007, n°..."
+      ],
+      "abstractNL": [
+        "Ingeval een voorwaardelijke invrijheidstelling wordt herroepen moet de strafuitvoeringsrechter of de strafuitvoeringsrechtbank uitspraak doen over de vrijheidsstraf die nog moet worden ondergaan zonder verplichting het nog niet ondergane gedeelte in elk geval in te korten (1). (1) Zie Cass., 21 nov. 2007, AR P.07.1529.F, A.C., 2007, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080109.1": {
+      "court": "CASS",
+      "date": "2008-01-09",
+      "roleNumber": "P.07.1842.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la libération conditionnelle a été révoquée et que le tribunal de l'application des peines a ordonné la mise à exécution de la peine privative de liberté que doit encore subir le condamné, la procédure ultérieure d'octroi d'une nouvelle libération conditionnelle est régie par les articles 47 à 58 de la loi du 17 mai 2006 (1). (1) Cass., 21 novembre 2007, RG P.07.1529.F, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "Wanneer de voorwaardelijke invrijheidstelling werd herroepen en de strafuitvoeringsrechtbank de tenuitvoerlegging heeft bevolen van de vrijheidsstraf die de veroordeelde nog moet ondergaan, wordt de latere toekenningsprocedure van een nieuwe voorwaardelijke invrijheidstelling geregeld door de artikelen 47 tot 58 van de Wet van 17 mei 2006 (1). (1) Cass., 21 nov. 2007, AR P.07.1529.N, Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071121.1": {
+      "court": "CASS",
+      "date": "2007-11-21",
+      "roleNumber": "P.07.1529.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision de remettre à exécution la totalité de la peine qui restait à purger au moment de l'octroi de la libération conditionnelle, le tribunal de l'application des peines qui, en révoquant la libération conditionnelle du condamné, prend en compte l'ensemble de la période écoulée du délai d'épreuve."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank verantwoordt wettig haar beslissing om de totaliteit van de straf die op het ogenblik van de toekenning van de voorwaardelijke invrijheidstelling nog moest worden ondergaan, andermaal ten uitvoer te leggen, wanneer zij bij de herroeping van de voorwaardelijke invrijheidstelling van de veroordeelde, rekening houdt met het geheel van de periode van de proeftijd die is verstreken."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071010.4": {
+      "court": "CASS",
+      "date": "2007-10-10",
+      "roleNumber": "P.07.1357.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/10/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de révocation d'une libération conditionnelle, le tribunal de l'application des peines détermine la partie de la peine privative de liberté que doit encore subir le condamné en tenant compte de la période du délai d'épreuve qui s'est bien déroulée et des efforts fournis par le condamné pour respecter les conditions qui lui étaient imposées."
+      ],
+      "abstractNL": [
+        "Ingeval van herroeping van een voorwaardelijke invrijheidstelling, bepaalt de strafuitvoeringsrechtbank het gedeelte van de vrijheidsstraf dat de veroordeelde nog moet ondergaan, rekening houdend met de periode van de proeftijd die goed is verlopen en met de inspanning die de veroordeelde heeft geleverd om de voorwaarden te respecteren die hem waren opgelegd."
+      ]
+    }
+  },
+  "70": {
+    "ECLI:BE:CASS:2011:ARR.20111207.2": {
+      "court": "CASS",
+      "date": "2011-12-07",
+      "roleNumber": "P.11.1863.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est saisi par application des articles 66, §3, et 70 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, le tribunal de l'application des peines ne statue pas dans le cadre d'une procédure introduite par une demande de révocation formée par le ministère public et la procédure urgente instituée par ces dispositions n'est, dès lors, pas assujettie aux délais prévus par l'article 68, §§1er et 2, de la même loi."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank die met toepassing van de artikelen 66, §3, en 70 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf, kennisneemt van de zaak, doet geen uitspraak in het kader van een rechtspleging die is ingeleid met een vordering tot herroeping van het openbaar ministerie en de bij die bepalingen ingestelde spoedeisende rechtspleging valt bijgevolg niet onder toepassing van de termijnen die bij artikel 68, §1 en 2, van diezelfde wet zijn bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110921.1": {
+      "court": "CASS",
+      "date": "2011-09-21",
+      "roleNumber": "P.11.1557.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, dans un cas pouvant donner lieu à révocation de la modalité d'exécution de la peine accordée au condamné, le procureur du Roi a ordonné l'arrestation provisoire du bénéficiaire de la mesure et en a donné immédiatement avis au tribunal de l'application des peines compétent, celui-ci dispose d'un délai de sept jours ouvrables, après l'incarcération du condamné, pour se prononcer sur une éventuelle suspension de la mesure accordée; si la modalité d'exécution de la peine est suspendue, le tribunal doit, dans un délai d'un mois maximum à compter du jugement de suspension, lever celle-ci ou révoquer la mesure."
+      ],
+      "abstractNL": [
+        "Wanneer de procureur des Konings, in een geval waarin de aan de veroordeelde toegekende strafuitvoeringsmodaliteit kon worden herroepen, de voorlopige aanhouding heeft bevolen van de persoon die voor de maatregel in aanmerking komt, en hij de bevoegde strafuitvoeringsrechtbank daarvan onmiddellijk in kennis heeft gesteld, beschikt die rechtbank over zeven werkdagen na de opsluiting van de veroordeelde om uitspraak te doen over een eventuele schorsing van de toegekende maatregel; indien de strafuitvoeringsmodaliteit wordt geschorst, moet de rechtbank binnen een termijn van ten hoogste één maand, te rekenen van het vonnis tot schorsing, die schorsing opheffen of de maatregel herroepen."
+      ]
     }
   },
   "71": {
@@ -3728,6 +4900,48 @@
       ],
       "abstractNL": [
         "Artikel 71 Wet Strafuitvoering, krachtens hetwelk de veroordeelde definitief in vrijheid wordt gesteld indien tijdens de proeftijd geen enkele herroeping heeft plaatsgehad, betreft niet de herroeping die ingevolge een eindbeslissing voor een misdaad of wanbedrijf wordt uitgesproken, aangezien die herroeping wordt geacht te zijn ingegaan op de dag waarop het misdrijf werd gepleegd."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140129.1": {
+      "court": "CASS",
+      "date": "2014-01-29",
+      "roleNumber": "P.14.0041.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de l'application des peines apprécie en fait et, partant, de manière souveraine, l'existence de toute contre-indication légale à l'octroi d'une modalité d'exécution de la peine; s'agissant de la contre-indication portant sur les possibilités pour le condamné d'avoir un logement, la Cour de cassation se borne à vérifier si, de ses constatations, le tribunal de l'application des peines a pu déduire l'impossibilité de disposer d'un logement apte à garantir suffisamment l'efficacité de sa décision jusqu'à l'expiration du délai d'épreuve."
+      ],
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank oordeelt in feite en dus onaantastbaar over het bestaan van elke wettelijke tegenaanwijzing voor de toekenning van een strafuitvoeringsmodaliteit; wanneer het de tegenaanwijzing betreft inzake de mogelijkheden voor de veroordeelde om een onderdak te hebben, gaat het Hof van Cassatie alleen na of de strafuitvoeringsrechtbank uit haar vaststellingen de onmogelijkheid heeft kunnen afleiden om een onderdak te hebben dat voldoende waarborg biedt om op doeltreffende wijze haar beslissing uit te voeren tot de proeftijd is verstreken."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20101103.1": {
+      "court": "CASS",
+      "date": "2010-11-03",
+      "roleNumber": "P.10.1573.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si la libération conditionnelle n'a pas été révoquée avant l'expiration du délai d'épreuve, la libération, définitivement acquise au condamné, ôte au réquisitoire de révocation son objet (1). (1) Voir concl. contr. du ministère public."
+      ],
+      "abstractNL": [
+        "Indien de voorwaardelijke invrijheidstelling niet werd herroepen vóór het verstrijken van de proeftermijn, ontneemt de definitieve invrijheidstelling van de veroordeelde de bestaansreden aan de vordering tot herroeping (1). (1) Zie andersluidende concl. O.M. in Pas., nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080729.4": {
+      "court": "CASS",
+      "date": "2008-07-29",
+      "roleNumber": "P.08.1070.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/07/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le condamné exécute une ou plusieurs peines correctionnelles dont le total excède cinq ans d'emprisonnement et que la durée de sa détention restant à subir dépasse cinq ans, le délai d'épreuve de sa libération conditionnelle ne peut être étendu au-delà du terme prévu pour sa libération définitive."
+      ],
+      "abstractNL": [
+        "Wanneer de veroordeelde één of meer correctionele straffen uitzit die samen vijf jaar gevangenisstraf te boven gaan en de duur van de hechtenis die hij nog moet ondergaan vijf jaar overschrijdt, mag de proeftijd van zijn voorwaardelijke invrijheidstelling zich niet uitstrekken tot nà de termijn die voor zijn definitieve invrijheidstelling is bepaald (1). (1) Met concl. adv.-gen. Loop in Pas., 2008, nr ..."
       ]
     }
   },
@@ -3882,6 +5096,34 @@
       "abstractNL": [
         "De veroordeelde die door de strafuitvoeringsrechter voorlopig in vrijheid kan worden gesteld om medische redenen, is de opgesloten veroordeelde bij wie is vastgesteld, op grond van met name de adviezen van de directeur van de gevangenis waar hij verblijft, van de aan de gevangenis verbonden behandelende geneesheer, van de leidende ambtenaar-geneesheer van de Penitentiaire Gezondheidsdienst en, in voorkomend geval, van de door de veroordeelde gekozen geneesheer, dat hij zich in de terminale fase van een ongeneeslijke ziekte bevindt of bij wie is vastgesteld dat zijn opsluiting onverenigbaar is met zijn gezondheidstoestand (1). (1) Het OM heeft tot staving van deze oplossing gewezen op de volgende punten: - zoals gepreciseerd in de memorie van toelichting van het ontwerp van de Wet Strafuitvoering, en in tegenstelling tot wat het middel aanvoert, is de voorlopige invrijheidstelling om medische redenen een \"strafuitvoeringsmodaliteit\" (Parl. St. Kamer, zitting 2004-2005, nr. 3-1128, nr. 1, pp. 6-8; zie concl. advocaat-generaal D. VANDERMEERSCH in Pas., Cass. 25 april 2018, AR P.18.0333.F, AC 2018, nr. 268); - de woorden \"invrijheidstelling\" en (art. 77, eerste lid, Wet Strafuitvoering) \"opnieuw opgesloten\" (in geval van herroeping van die maatregel) bevestigen dat die modaliteit van toepassing is op een gedetineerde; - hieruit blijkt dat de wetgever de strafuitvoeringsrechter niet de bevoegdheid heeft verleend om een veroordeelde, wiens straf nog niet ten uitvoer is gebracht, voorlopig \"in vrijheid te stellen\" om medische redenen, terwijl de Wet Voorlopige Hechtenis, van haar kant, in de artt. 16, §1, vierde lid, en 28, §1, eerste lid, een onderscheid maakt tussen de beslissingen om de persoon \"in vrijheid te laten\" en \"in vrijheid stellen\"; - de bevoegdheid van de strafuitvoeringsrechter om een samenloop van misdrijven vast te stellen of een vrijheidsstraf door een werkstraf te vervangen, lijkt de stelling van de eiser te ontkrachten. (M.N.B.)",
         "Het verzoek dat niet rechtstreeks voor het hof van beroep of voor het Hof van Cassatie komt en die door de wet niet specifiek aan een ander gerecht wordt toegekend, valt onder de algemene bevoegdheid van de rechtbank van eerste aanleg; in voorkomend geval doet de voorzitter van die rechtbank, in gevallen die hij spoedeisend acht, uitspraak bij voorraad; geen enkele schending van artikel 3 EVRM kan worden afgeleid uit de vaststelling dat de wet de strafuitvoeringsrechter niet de bevoegdheid heeft verleend om uitspraak te doen over het verzoek tot voorlopige invrijheidstelling om medische redenen van een veroordeelde die niet is opgesloten, terwijl de voorzitter van de rechtbank van eerste aanleg, in spoedeisende gevallen, bevoegd is om de voorlopige maatregelen te bevelen teneinde de schending van de voormelde verdragsbepaling te voorkomen."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160607.6": {
+      "court": "CASS",
+      "date": "2016-06-07",
+      "roleNumber": "P.16.0599.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/06/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les avis des médecins, visés à l'article 74, § 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, sont indispensables pour apprécier une demande de libération provisoire pour raisons médicales, dès lors qu'ils émanent de personnes jouissant de l'expertise nécessaire pour se prononcer sur l'état de santé du condamné et qu'ils ont pour but de permettre au juge de se prononcer en connaissance de cause sur le fait de savoir si ce condamné se trouve ou non en phase terminale d'une maladie incurable ou si sa détention est incompatible avec son état de santé."
+      ],
+      "abstractNL": [
+        "De adviezen van de geneesheren als bedoeld in artikel 74, §1, Wet Strafuitvoering zijn onontbeerlijk bij de beoordeling van een verzoek tot voorlopige invrijheidstelling om medische redenen vermits zij uitgaan van personen die beschikken over de nodige deskundigheid om zich uit te spreken over de gezondheidstoestand van de veroordeelde en tot doel hebben de strafuitvoeringsrechtbank toe te laten met kennis van zaken te oordelen over het feit of die veroordeelde zich al dan niet in de terminale fase van een ongeneeslijke ziekte bevindt of dat zijn detentie onverenigbaar is met zijn gezondheidstoestand."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20151021.3": {
+      "court": "CASS",
+      "date": "2015-10-21",
+      "roleNumber": "P.15.1261.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/10/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La libération provisoire pour raisons médicales peut être accordée, à la demande écrite du condamné ou de son représentant, par le juge de l'application des peines, qui statue hors de toute audience et sans débats, après avis motivé du directeur accompagné d'avis médicaux et de l'avis écrit motivé subséquent du ministère public."
+      ],
+      "abstractNL": [
+        "De voorlopige invrijheidstelling om medische redenen kan, op schriftelijk verzoek van de veroordeelde of van diens vertegenwoordiger, worden toegekend door de strafuitvoeringsrechter, die zijn beslissing neemt buiten enige zitting om en zonder tegenspraak, na een met redenen omkleed advies van de directeur, vergezeld van medische adviezen en van het navolgend met redenen omkleed schriftelijk advies van het openbaar ministerie."
       ]
     }
   },
@@ -4111,6 +5353,132 @@
       "abstractNL": [
         "De beslissing betreffende de bijzondere uitvoeringsmodaliteit, die bestaat in een uitgaansvergunning of een penitentiair verlof die door de strafuitvoeringsrechtbank kan worden toegekend overeenkomstig artikel 59 Wet Strafuitvoering, houdt geen verband met de gevallen bedoeld in Titel V van de wet en is geen beslissing genomen met toepassing van Titel XI van die wet; tegen de beslissing betreffende een dergelijke modaliteit kan geen cassatieberoep worden ingesteld (1). (1) Cass. 28 juni 2016, AR P.16.0705.N, AC 2016, nr. 428 ; Cass. 25 februari 2014, AR P.14.0232.N, AC 2014, nr. 151; Cass. 18 januari 2012, AR P.11.2136.F, AC 2012, nr. 51; Cass. 26 december 2007, AR P.07.1762.N, AC 2007, nr. 662."
       ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160302.4": {
+      "court": "CASS",
+      "date": "2016-03-02",
+      "roleNumber": "P.16.0203.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible de pourvoi en cassation, le jugement avant dire droit par lequel, sans préjuger de sa recevabilité, le tribunal de l'application des peines sursoit à statuer sur la demande de surveillance électronique, sollicite des informations complémentaires auprès de l'administration pénitentiaire, invite celle-ci notamment à rencontrer les arguments que le condamné oppose à ses calculs quant à la date d'admissibilité à la libération conditionnelle et à d'autres modalités d'exécution de la peine et ordonne la réouverture des débats."
+      ],
+      "abstractNL": [
+        "Het vonnis alvorens recht te doen waarbij de strafuitvoeringsrechtbank, zonder vooruit te lopen op de ontvankelijkheid van de aanvraag tot toekenning van elektronisch toezicht, beslist de uitspraak daarover aan te houden, de gevangenisadministratie om bijkomende inlichtingen vraagt, laatstgenoemde met name verzoekt te antwoorden op de argumenten die de veroordeelde aanvoert tegen haar berekeningen betreffende de datum waarop iemand voor voorwaardelijke invrijheidstelling en andere strafuitvoeringsmodaliteiten in aanmerking komt en de heropening van het debat beveelt, is niet vatbaar voor cassatieberoep."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20151021.3": {
+      "court": "CASS",
+      "date": "2015-10-21",
+      "roleNumber": "P.15.1261.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/10/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Sont susceptibles de pourvoi en cassation, les décisions du juge de l'application des peines qui refusent, octroient avec ou sans condition particulière ou révoquent la libération provisoire pour raisons médicales, ainsi que celles qui statuent sur la poursuite de cette libération après l'incarcération du condamné dont le procureur du Roi a ordonné l'arrestation provisoire; dès lors qu'il ne statue pas définitivement sur la demande d'octroi de la libération provisoire pour raisons médicales, le jugement avant dire droit qui se borne à reporter la décision du juge de l'application des peines, dans l'attente d'avis médicaux complémentaires, n'est susceptible d'aucun pourvoi, qu'il soit immédiat ou différé."
+      ],
+      "abstractNL": [
+        "De beslissingen van de strafuitvoeringsrechter die de voorlopige invrijheidstelling om medische redenen weigeren, deze al dan niet toekennen met of zonder een bijzondere voorwaarde dan wel de voorlopige invrijheidstelling herroepen, alsook de beslissingen die uitspraak doen over de verdere invrijheidstelling na opsluiting van de veroordeelde van wie de procureur des Konings de voorlopige aanhouding heeft bevolen, zijn vatbaar voor cassatieberoep; aangezien de beslissing alvorens recht te doen die de beslissing van de strafuitvoeringsrechter slechts uitstelt, in afwachting van aanvullende medische onderzoeken en niet definitief uitspraak doet over het verzoek tot toekenning van de voorlopige invrijheidstelling, kan er daartegen noch onmiddellijk noch uitgesteld cassatieberoep worden ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150311.1": {
+      "court": "CASS",
+      "date": "2015-03-11",
+      "roleNumber": "P.15.0236.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 96 de la loi du 17 mai 2006 relative au statut juridique des personnes condamnées n'autorise pas la victime à se pourvoir contre les jugements du tribunal de l'application des peines (1). (1) Cass. 28 août 2012, RG P.12.1454.F, Pas. 2012, n° 439."
+      ],
+      "abstractNL": [
+        "Artikel 96 Wet Strafuitvoering staat het slachtoffer niet toe om cassatieberoep in te stellen tegen de vonnissen van de strafuitvoeringsrechtbank (1). (1) Cass. 28 augustus 2012, AR P.12.1454.F, AC 2012, nr. 439."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140225.9": {
+      "court": "CASS",
+      "date": "2014-02-25",
+      "roleNumber": "P.14.0232.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/02/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La permission de sortie en tant que modalité particulière d'exécution de la peine, que le juge de l'application des peines ou le tribunal de l'application des peines peuvent accorder conformément à l'article 59 de la loi du 17 mai 2006, ne constitue pas une modalité d'exécution prévue au Titre V de la loi, ni une condition particulière visée au Titre XI de cette même loi; la décision rendue sur une telle modalité particulière d'exécution de la peine n'est pas susceptible d'un pourvoi en cassation du condamné (1). (1) Voir Cass., 26 décembre 2007, RG P.07.1762.N, Pas., 2007, n° 662."
+      ],
+      "abstractNL": [
+        "De bijzondere strafuitvoeringsmodaliteit van uitgangsvergunning die de strafuitvoeringsrechter of de strafuitvoeringsrechtbank overeenkomstig artikel 59 Wet Strafuitvoering kan toestaan, is geen uitvoeringsmodaliteit bepaald in Titel V van de wet, noch een bijzondere voorwaarde als bedoeld in Titel XI van dezelfde wet; tegen de beslissing over dergelijke bijzondere strafuitvoeringsmodaliteit staat voor de veroordeelde geen cassatieberoep open (1). (1) Zie Cass. 26 dec. 2007, AR P.07.1762.N, AC 2007, nr. 662."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120828.1": {
+      "court": "CASS",
+      "date": "2012-08-28",
+      "roleNumber": "P.12.1454.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/08/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les décisions du tribunal de l'application des peines relatives à l'octroi d'une libération conditionnelle sont susceptibles de pourvoi en cassation par le ministère public et le condamné; les victimes n'ont pas la qualité pour se pourvoir (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Tegen de beslissingen van de strafuitvoeringsrechtbank over de toekenning van een voorwaardelijke invrijheidstelling, staat cassatieberoep open voor het openbaar ministerie en de veroordeelde; de slachtoffers hebben niet de hoedanigheid om cassatieberoep in te stellen (1). (1) Zie concl. in Pas. 2012, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120118.9": {
+      "court": "CASS",
+      "date": "2012-01-18",
+      "roleNumber": "P.11.2136.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/01/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible de pourvoi en cassation le jugement qui dit la proposition de libération conditionnelle recevable et, réservant à statuer sur le fond, octroie au condamné deux permissions de sortie et un congé pénitentiaire dès lors qu'il statue avant dire droit et octroie des modalités d'exécution de la peine prévues au titre IV et non au titre V de la loi."
+      ],
+      "abstractNL": [
+        "Het vonnis dat het voorstel tot voorwaardelijke invrijheidstelling ontvankelijk verklaart en dat, terwijl het de uitspraak over de grond van de zaak aanhoudt, de veroordeelde twee uitgaansvergunningen en een penitentiair verlof toekent, doet uitspraak alvorens recht te doen en kent de strafuitvoeringsmodaliteiten toe bedoeld in titel IV en niet in titel V van de wet, zodat het niet vatbaar is voor cassatieberoep."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080122.7": {
+      "court": "CASS",
+      "date": "2008-01-22",
+      "roleNumber": "P.07.1897.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le jugement du tribunal de l'application des peines ordonnant la réouverture des débats en vue d'une enquête sociale ne constitue pas une décision relative à l'octroi, au refus ou à la révocation des modalités d'exécution de la peine visée au Titre V de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, et à la révision des conditions particulières, ni une décision prise en vertu du Titre XI de cette même loi, cette décision n'étant, partant, pas susceptible de pourvoi en cassation."
+      ],
+      "abstractNL": [
+        "Een vonnis van de strafuitvoeringsrechtbank dat de heropening van het debat beveelt met het oog op een maatschappelijke enquête is geen beslissing met betrekking tot de toekenning, de afwijzing of met betrekking tot de herroeping van de in titel V van de Wet Strafuitvoering bedoelde strafuitvoeringsmodaliteiten of tot herziening van de bijzondere voorwaarden, of een overeenkomstig titel XI van dezelfde wet genomen beslissing, zodat tegen dergelijke beslissing geen cassatieberoep open staat."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071226.2": {
+      "court": "CASS",
+      "date": "2007-12-26",
+      "roleNumber": "P.07.1762.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/12/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une ordonnance rendue par le tribunal de l'application des peines ordonnant la suspension de la surveillance électronique accordée au condamné par une décision antérieure n'est pas susceptible de pourvoi en cassation."
+      ],
+      "abstractNL": [
+        "Tegen een beschikking van de strafuitvoeringsrechtbank die de schorsing beveelt van het aan de veroordeelde bij een vroegere beslissing verleende elektronisch toezicht staat geen cassatieberoep open."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070918.8": {
+      "court": "CASS",
+      "date": "2007-09-18",
+      "roleNumber": "P.07.1306.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La décision du tribunal de l'application des peines ordonnant la suspension de la libération conditionnelle, n'est pas susceptible de faire l'objet d'un pourvoi en cassation."
+      ],
+      "abstractNL": [
+        "Geen cassatieberoep staat open tegen de beslissing van de strafuitvoeringsrechtbank die de schorsing van de voorwaardelijke invrijheidstelling beveelt."
+      ]
     }
   },
   "97": {
@@ -4211,6 +5579,288 @@
       ],
       "abstractNL": [
         "Het Hof vermag geen acht te slaan op de memorie die op de griffie van het Hof is toegekomen na de vijfde dag volgend op de datum van het cassatieberoep (1). (1) Zie Cass. 10 april 2007, AR P.07.0370.N, AC 2007, nr. 176."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160817.1": {
+      "court": "CASS",
+      "date": "2016-08-17",
+      "roleNumber": "P.16.0891.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/08/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 425, §1er, alinéa 2, du Code d'instruction criminelle, qui dispose que l'avocat qui fait et signe la déclaration de pourvoi en matière répressive doit être titulaire d'une attestation de formation en procédure de cassation visée par le livre II, titre III, a une portée générale et est d'application dans toutes les procédures, à moins qu'il n'y soit dérogé par une loi spéciale, ce qui n'est pas le cas du pourvoi dirigé contre une décision du tribunal de l'application des peines; il doit apparaître des pièces auxquelles la Cour peut avoir égard que la déclaration de pourvoi a été faite par un avocat titulaire de cette attestation (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 425, § 1, tweede lid, Wetboek van Strafvordering, dat bepaalt dat de advocaat die de verklaring van cassatieberoep doet en tekent, houder moet zijn van een getuigschrift van een opleiding in cassatieprocedures als bedoeld in boek II, titel III, heeft een algemene draagwijdte en is op alle procedures van toepassing, tenzij daarvan bij een bijzondere wet wordt afgeweken, wat niet het geval is voor het cassatieberoep gericht tegen een beslissing van de strafuitvoeringsrechtbank; uit de stukken waarop het Hof vermag acht te slaan, moet blijken dat de verklaring van cassatieberoep werd gedaan door een advocaat die houder is van dat getuigschrift (1). (1) Zie concl. OM in Pas. 2016, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100615.1": {
+      "court": "CASS",
+      "date": "2010-06-15",
+      "roleNumber": "P.10.0878.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/15/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Seul un avocat peut introduire valablement un pourvoi en cassation au nom du condamné contre les décisions du tribunal de l'application des peines, et ce exclusivement au greffe du tribunal de l'application des peines; ni le condamné détenu ni son conseil ne peuvent introduire un pourvoi en cassation en prison sur la base de la loi du 25 juillet 1893 (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Tegen beslissingen van de strafuitvoeringsrechtbank kan namens de veroordeelde enkel een advocaat rechtsgeldig cassatieberoep aantekenen en dit kan uitsluitend op de griffie van de strafuitvoeringsrechtbank; de gedetineerde veroordeelde noch zijn raadsman heeft de mogelijkheid cassatieberoep in te stellen in de gevangenis overeenkomstig de wet van 25 juli 1893 (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100420.4": {
+      "court": "CASS",
+      "date": "2010-04-20",
+      "roleNumber": "P.10.0539.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La signification faite en prison par le condamné en personne d'un pourvoi en cassation contre un jugement du tribunal de l'application des peines, est seulement régulière si, au même moment, son avocat comparaît à ses côtés en prison et signe l'acte (1). (1) Cass., 23 février 2010, RG P.10.0188.N, Pas., 2010, n° ...; Voir Cass., 5 mai 2009, RG P.09.0583.N, Pas., 2009, n° 294."
+      ],
+      "abstractNL": [
+        "Wanneer de veroordeelde zelf in de gevangenis cassatieberoep wenst aan te tekenen tegen een vonnis van de strafuitvoeringsrechtbank, kan hij dit slechts regelmatig doen indien op datzelfde ogenblik ook zijn advocaat samen met hem in de gevangenis verschijnt en de akte ondertekent (1). (1) Cass., 23 feb. 2010, AR P.10.0188.N, A.C., 2010, nr. ...; Zie Cass., 5 mei 2009, AR P.09.0583.N, A.C., 2009, nr. 294."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100223.1": {
+      "court": "CASS",
+      "date": "2010-02-23",
+      "roleNumber": "P.10.0188.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/02/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La déclaration de pourvoi en cassation formé par le condamné contre une décision rendue par le tribunal de l'application des peines, doit être signée par un avocat au moment de l'introduction du pourvoi (1). (1) Cass., 5 mai 2009, RG P.09.0583.N, Pas., 2009, n° 294."
+      ],
+      "abstractNL": [
+        "De verklaring van cassatieberoep door de veroordeelde tegen een beslissing van de strafuitvoeringsrechtbank moet door een advocaat worden ondertekend op het ogenblik van het instellen van het cassatieberoep (1). (1) Cass., 5 mei 2009, AR P.09.0583.N, A.C., 2009, nr. 294."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100112.6": {
+      "court": "CASS",
+      "date": "2010-01-12",
+      "roleNumber": "P.09.1811.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi formé contre le jugement du tribunal de l'application des peines lorsqu'il ne ressort pas des pièces que la déclaration de pourvoi en cassation a été signée par un avocat au moment de son introduction (1). (1) Cass., 5 mai 2009, RG P.09.0583.N., Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen het vonnis van de strafuitvoeringsrechtbank, wanneer uit de stukken niet blijkt dat de verklaring van cassatieberoep op het ogenblik van het instellen ervan door een advocaat werd ondertekend (1). (1) Cass., 5 mei 2009, AR P.09.0583.N, A.C., 2009, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091202.1": {
+      "court": "CASS",
+      "date": "2009-12-02",
+      "roleNumber": "P.09.1615.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de quinze jours dans lequel le condamné doit se pouvoir contre une décision du tribunal de l'application des peines n'étant pas un délai franc, il se calcule depuis le lendemain du jour de l'acte qui y donne cours, et le jour de l'échéance s'y trouve compris."
+      ],
+      "abstractNL": [
+        "De termijn van vijftien dagen waarin de veroordeelde cassatieberoep moet instellen tegen een beslissing van de strafuitvoeringsrechtbank, is geen vrije termijn, hij wordt gerekend vanaf de dag na die van de akte die hem doet ingaan en de vervaldag is daarin begrepen."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090505.15": {
+      "court": "CASS",
+      "date": "2009-05-05",
+      "roleNumber": "P.09.0583.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/05/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La déclaration de recours en cassation formé par le condamné contre une décision rendue par le tribunal de l'application des peines, doit être signée par un avocat."
+      ],
+      "abstractNL": [
+        "De verklaring van cassatieberoep van de veroordeelde tegen een beslissing van de strafuitvoeringsrechtbank moet door een advocaat worden ondertekend."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090408.2": {
+      "court": "CASS",
+      "date": "2009-04-08",
+      "roleNumber": "P.09.0400.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le pourvoi introduit dans le délai légal par le ministère public à l'encontre de la décision du tribunal de l'application des peines octroyant une surveillance électronique a un effet suspensif jusqu'au moment où la Cour a statué sur ledit pourvoi alors même que le jugement d'octroi a déclaré que le jugement sera exécutoire à une date antérieure (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het cassatieberoep dat het openbaar ministerie binnen de wettelijke termijn tegen de beslissing van de strafuitvoeringsrechtbank heeft ingesteld waarbij electronisch toezicht wordt toegekend, heeft opschortende werking tot het ogenblik waarop het Hof op het voormelde cassatieberoep uitspraak heeft gedaan, hoewel het vonnis waarbij de maatregel is toegekend beslist dat het vonnis op een eerdere datum uitvoerbaar wordt (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080227.2": {
+      "court": "CASS",
+      "date": "2008-02-27",
+      "roleNumber": "P.08.0262.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/27/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le condamné n'est pas détenu, le délai de 24 heures à compter de la notification du jugement par pli judiciaire, dont il dispose pour se pourvoir en cassation contre le jugement du tribunal de l'application des peines, est calculé, conformément aux articles 52 et 53bis, 1° du Code judiciaire, depuis le premier jour qui suit celui où le pli a été présenté au domicile du destinataire ou à sa résidence; la présentation du pli constitue l'évènement dont il est question à l'article 52 précité et le délai du pourvoi court, dès lors, à zéro heure le jour qui suit celui de cette présentation (1). (1) Cass., 8 janvier 2008, RG P.07.1860.N, Pas., 2008, n°..."
+      ],
+      "abstractNL": [
+        "Wanneer de veroordeelde niet is aangehouden, wordt de termijn van vierentwintig uur, te rekenen van de kennisgeving van het vonnis bij gerechtsbrief, waarbinnen de veroordeelde cassatieberoep kan instellen tegen het vonnis van de strafuitvoeringsrechtbank, berekend overeenkomstig de artikelen 52 en 53bis, 1°, Ger.W., vanaf de eerste dag die volgt op deze waarop de brief werd aangeboden op de woonplaats van de geadresseerde of op zijn verblijfplaats; de aanbieding van de brief is de gebeurtenis waarvan sprake in het voormelde artikel 52 en de termijn om cassatieberoep in te stellen gaat dus in om middernacht, de dag die volgt op deze van de aanbieding (1). (1) Cass., 8 jan. 2008, AR P.07.1860.N, A.C. 2008, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080123.6": {
+      "court": "CASS",
+      "date": "2008-01-23",
+      "roleNumber": "P.07.1908.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour se pourvoir en cassation contre une décision du tribunal de l'application des peines relative à l'octroi, au refus ou à la révocation des modalités d'exécution de la peine, le condamné dispose d'un délai de vingt-quatre heures à compter du jour de la notification du jugement par pli judiciaire; à l'égard des détenus, la notification est réputée accomplie par la remise du pli à l'intéressé, avec accusé de réception, attestée par le directeur de l'établissement pénitentiaire ou son délégué; le jour de cette remise n'est pas compris dans le délai de pourvoi (1). (1) Voir Cass., 27 juin 2007, RG P.07.0773.F, Pas., 2007, n°...; Cass., 8 janvier 2008, RG P.07.1860.N, Pas., 2008, n°..."
+      ],
+      "abstractNL": [
+        "De veroordeelde die cassatieberoep wil instellen tegen een beslissing van de strafuitvoeringsrechtbank inzake de toekenning, de weigering of de herroeping van de strafuitvoeringsmodaliteiten, beschikt over een termijn van vierentwintig uur, te rekenen van de dag van de kennisgeving van het vonnis bij gerechtsbrief; ten aanzien van gedetineerden wordt de kennisgeving geacht te zijn verricht, door de overhandiging van het stuk aan de betrokkene tegen bericht van ontvangst, bevestigd door de directeur van de strafinrichting of zijn gemachtigde; de dag van overhandiging is niet begrepen in de termijn om cassatieberoep in te stellen (1). (1) Zie Cass., 27 juni 2007, AR P.07.0773.F, A.C., 2007, nr. ...; Cass., 8 jan. 2008, AR P.07.1860.N, A.C., 2008, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080108.2": {
+      "court": "CASS",
+      "date": "2008-01-08",
+      "roleNumber": "P.07.1860.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le délai de vingt-quatre heures dans lequel le condamné peut se pourvoir en cassation contre la décision rendue par le tribunal de l'application des peines est calculé depuis l'heure zéro du premier jour suivant le jour de la présentation du pli judiciaire et expire à vingt-quatre heures de ce même jour (1). (1) Contra: Cass., 27 juin 2007, RG P.07.0773.F, Pas., 2007, n° ...; J. LAENENS, \"Over termijnen en verzoekschriften in het civiele geding\", R.W., 2005-2006, 1401, nos 9 s."
+      ],
+      "abstractNL": [
+        "De termijn van vierentwintig uur waarbinnen de veroordeelde cassatieberoep kan instellen tegen de beslissing van de Strafuitvoeringsrechtbank wordt berekend vanaf het uur nul van de eerste dag na de dag van de aanbieding van de gerechtsbrief en eindigt om 24 uur van dezelfde dag (1). (1) Contra: Cass., 27 juni 2007, AR P.07.0773.F, A.C., 2007, nr ...; zie J. LAENENS, Over termijnen en verzoekschriften in het civiele geding, R.W., 2005-2006, 1401, nrs 9 e.v."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071128.5": {
+      "court": "CASS",
+      "date": "2007-11-28",
+      "roleNumber": "P.07.1618.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La brièveté du délai de trente jours imposé à la Cour pour statuer sur le pourvoi formé contre le jugement du tribunal de l'application des peines statuant sur l'octroi d'une modalité d'exécution de la peine et la circonstance que le condamné est pendant ce temps maintenu en détention ne permettent pas qu'une question préjudicielle soit posée à la Cour constitutionnelle (1) (2). (1) Voir Cass., 15 juillet 1997, RG P.97.939.N, n° 315. (2) Le ministère public avait conclu à l'irrecevabilité du moyen pour motif de défaut d'intérêt."
+      ],
+      "abstractNL": [
+        "De korte duur van de termijn van dertig dagen binnen welke het Hof uitspraak moet doen over het cassatieberoep tegen het vonnis van de strafuitvoeringsrechtbank die uitspraak doet over de toekenning van een strafuitvoeringsmodaliteit, en de omstandigheid dat de veroordeelde inmiddels opgesloten blijft, staan niet toe dat een prejudiciële vraag aan het Grondwettelijk Hof wordt gesteld (1) (2). (1) Zie Cass., 15 juli 1997, AR P.97.0939.N., nr. 315. (2) Het openbaar ministerie had tot de niet-ontvankelijkheid van het middel besloten wegens gebrek aan belang."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070904.6": {
+      "court": "CASS",
+      "date": "2007-09-04",
+      "roleNumber": "P.07.1276.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La législation prévue dans la loi relative aux modalités d'exécution de la peine en matière de dépôt d'un mémoire est claire; des circonstances non imprévisibles qui ne pouvaient empêcher le demandeur ou son conseil d'introduire, à condition de prendre les précautions nécessaires, un mémoire en temps utile, ne sauraient constituer un cas de force majeure."
+      ],
+      "abstractNL": [
+        "De wettelijke regeling in de Strafuitvoeringswet voor het neerleggen van een memorie is duidelijk; niet onvoorzienbare omstandigheden die eiser of zijn raadsman niet konden verhinderen om, mits het nemen van de nodige voorzorgen, tijdig een memorie in te dienen, kunnen geen grond van overmacht opleveren."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070828.3": {
+      "court": "CASS",
+      "date": "2007-08-28",
+      "roleNumber": "P.07.1166.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/08/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le mémoire en cassation, déposé après l'expiration du délai de cinq jours qui suit la date du pourvoi, est irrecevable car tardif."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk want laattijdig is de memorie in cassatie neergelegd na het verstrijken van de termijn van vijf dagen na de datum van het cassatieberoep."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070724.1": {
+      "court": "CASS",
+      "date": "2007-07-24",
+      "roleNumber": "P.07.0959.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/07/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le ministère public qui exerce un recours en cassation contre un jugement rendu par le tribunal de l'application des peines doit déposer au greffe de la Cour de cassation l'acte de notification du pourvoi en cassation à la partie contre laquelle il est dirigé dans le délai prévu à l'article 42Obis, alinéa 1er, C.I.cr. (1). (1) Voir les conclusions du ministère public."
+      ],
+      "abstractNL": [
+        "Het openbaar ministerie dat cassatieberoep aantekent tegen een vonnis van de strafuitvoeringsrechtbank moet de akte van betekening van het cassatieberoep aan de partij tegen wie het gericht is, neerleggen ter griffie van het Hof van Cassatie binnen de termijn gesteld in artikel 420bis, eerste lid, Sv."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070627.6": {
+      "court": "CASS",
+      "date": "2007-06-27",
+      "roleNumber": "P.07.0773.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour se pouvoir en cassation contre les décisions du juge de l'application des peines et du tribunal de l'application des peines, le condamné dispose d'un délai de vingt-quatre heures à compter du jour de la notification du jugement par pli judiciaire; ce délai est calculé depuis le premier jour suivant celui où le pli a été présenté au domicile du destinataire ou à sa résidence."
+      ],
+      "abstractNL": [
+        "Om cassatieberoep in te stellen tegen de beslissingen van de strafuitvoeringsrechter en van de strafuitvoeringsrechtbank, beschikt de veroordeelde over een termijn van vierentwintig uur, te rekenen vanaf de dag van de kennisgeving van het vonnis bij gerechtsbrief; die termijn wordt berekend vanaf de eerste dag die volgt op deze waarop de brief aangeboden werd op de woonplaats van de geadresseerde of op zijn verblijfplaats."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070606.2": {
+      "court": "CASS",
+      "date": "2007-06-06",
+      "roleNumber": "P.07.0689.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi du ministère public contre un jugement du tribunal de l'application des peines dont il n'apparaît pas des pièces auxquelles la Cour peut avoir égard qu'il a été signifié au défendeur, la Cour ne pouvant prendre en considération les pièces déposées au greffe en dehors du délai de cinq jours qui suivent la date du pourvoi."
+      ],
+      "abstractNL": [
+        "Het cassatieberoep van het openbaar ministerie tegen een vonnis van de strafuitvoeringsrechtbank, waarbij uit de stukken waarop het Hof vermag acht te slaan niet blijkt dat het aan de verweerder werd betekend, is niet ontvankelijk aangezien het Hof de stukken niet in aanmerking kan nemen die buiten de termijn van vijf dagen na de datum van het cassatieberoep ter griffie zijn neergelegd."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070410.4": {
+      "court": "CASS",
+      "date": "2007-04-10",
+      "roleNumber": "P.07.0370.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Sont irrecevables le mémoire déposé au greffe de la Cour et les \"notes de plaidoirie\" déposées à l'audience au-delà du cinquième jour qui suit la date du pourvoi."
+      ],
+      "abstractNL": [
+        "Zijn niet ontvankelijk de door de eiser buiten de vijf dagen na de datum van het cassatieberoep ter griffie van het Hof neergelegde memorie en de ter rechtszitting neergelegde \"pleitnota\"."
+      ]
+    }
+  },
+  "98": {
+    "ECLI:BE:CASS:2013:ARR.20130709.13": {
+      "court": "CASS",
+      "date": "2013-07-09",
+      "roleNumber": "P.13.1070.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/07/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La seule circonstance que la décision du juge de l''application des peines statuant sur un renvoi après un arrêt de cassation a été rendue en dehors du délai de quatorze jours prescrit par l''article 98 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées, n''affecte toutefois pas sa légalité, cette disposition ne prévoyant aucune sanction."
+      ],
+      "abstractNL": [
+        "Alleen het feit dat de beslissing van de strafuitvoeringsrechter die uitspraak doet op verwijzing na een cassatiearrest, buiten de termijn van veertien dagen is gewezen bepaald bij artikel 98 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden, tast de wettigheid van die beslissing niet aan, aangezien die bepaling in geen enkele sanctie voorziet."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081118.4": {
+      "court": "CASS",
+      "date": "2008-11-18",
+      "roleNumber": "P.08.1555.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/18/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que, après un arrêt de cassation avec renvoi, le jugement n'a pas été rendu dans les quatorze jours à compter du prononcé, n'entache pas la légalité de ce jugement."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat, na een cassatiearrest met verwijzing, het vonnis niet uitgesproken werd binnen veertien dagen te rekenen van de uitspraak, tast de wettigheid van dit vonnis niet aan."
       ]
     }
   },
@@ -4991,6 +6641,34 @@
       "abstractNL": [
         "Uit artikel 95/3, § 1, Wet Strafuitvoering volgt dat de strafuitvoeringsrechtbank die oordeelt in de uitvoeringsprocedure van de terbeschikkingstelling, kennis moet kunnen nemen van een advies van de directeur dat uiterlijk vier maanden vóór het verstrijken van de hoofdstraf moet zijn uitgebracht, maar dit geldt enkel wanneer de veroordeelde gedetineerd is (1). (1) Cass. 24 juli 2012, AR P.12.1185.N, AC 2012, nr. 433."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130917.5": {
+      "court": "CASS",
+      "date": "2013-09-17",
+      "roleNumber": "P.13.1504.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 95/3, § 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, prévoit que si le condamné est en détention, le directeur rend un avis au plus tard quatre mois avant l'expiration de la peine principale effective; ce délai n'est pas prescrit à peine de nullité (1). (1) Voir les concl. du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Artikel 95/3, §1, Wet Strafuitvoering bepaalt dat, indien de veroordeelde gedetineerd is, de directeur uiterlijk vier maanden vóór het verstrijken van de effectieve hoofdstraf een advies uitbrengt; deze termijn is niet op straffe van nietigheid voorgeschreven (1). (1) Zie concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120724.1": {
+      "court": "CASS",
+      "date": "2012-07-24",
+      "roleNumber": "P.12.1185.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/07/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de quatre mois au plus avant l'expiration de la peine principale effective dans lequel le directeur doit rendre un avis sur les modalités d'exécution de la peine complémentaire de mise à la disposition du tribunal de l'application des peines prononcée à l'égard du condamné, n'est pas prescrit à peine de nullité."
+      ],
+      "abstractNL": [
+        "De termijn van uiterlijk vier maanden voor het verstrijken van de effectieve hoofdstraf, tegen dewelke de directeur advies dient uit te brengen over de uitvoeringsmodaliteiten van de ten aanzien van de veroordeelde uitgesproken bijkomende straf van de terbeschikkingstelling van de strafuitvoeringsrechtbank, is niet op straffe van nietigheid voorgeschreven."
+      ]
     }
   },
   "general": {
@@ -5077,6 +6755,20 @@
       "abstractNL": [
         "De artikelen 68, § 3, eerste lid, en 95/27, § 3, Wet Strafuitvoering verbieden de strafuitvoeringsrechtbank niet om de raadsman van de ter beschikking gestelde veroordeelde toe te staan om hem te vertegenwoordigen in een procedure tot herroeping, schorsing of herziening van de invrijheidstelling onder toezicht (1). (1) Zie concl. OM in Pas. 2022, nr. 517."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140304.5": {
+      "court": "CASS",
+      "date": "2014-03-04",
+      "roleNumber": "P.14.0256.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/04/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut se déduire de l'article 95/6, alinéa 1er, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées que le condamné doit comparaître personnellement à l'audience à laquelle le tribunal de l'application des peines statue sur une demande de remise ou de représentation pour raisons médicales (1). (1) Voir: Cass., 19 mars 2008, RG P.08.0363.F, Pas., 2008, n° 193."
+      ],
+      "abstractNL": [
+        "Uit artikel 95/6, eerste lid, Wet Strafuitvoering kan niet worden afgeleid dat de veroordeelde persoonlijk moet verschijnen op de rechtszitting waarop de strafuitvoeringsrechtbank over een verzoek tot uitstel of vertegenwoordiging om medische redenen uitspraak doet (1). (1) Zie: Cass. 19 maart 2008, AR P.08.0363.F, AC 2008, nr. 193."
+      ]
     }
   },
   "95/24": {
@@ -5126,6 +6818,204 @@
       ],
       "abstractNL": [
         "De termijnen bepaald in de artikelen 95/4 en 95/5, § 1, Wet Strafuitvoering, zijn niet voorgeschreven op straffe van nietigheid en zijn evenmin vervaltermijnen.; de niet-naleving van die termijnen belet de strafuitvoeringsrechtbank niet zich uit te spreken over de terbeschikkingstelling van de veroordeelde (1). (1) Cass 31 mei 2016, AR P.16.0578.N, AC 2016, nr. 362."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130102.2": {
+      "court": "CASS",
+      "date": "2013-01-02",
+      "roleNumber": "P.12.2003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/01/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'audience à laquelle la cause est examinée doit, en vertu de l'article 95/5, § 1er, de la loi du 17 mai 2006, avoir lieu au plus tard deux mois avant l'expiration de la peine principale effective; ce délai n'est pas prescrit à peine de nullité et ne constitue pas davantage un délai de déchéance; le non-respect de ce délai n'empêche pas le tribunal de l'application des peines de se prononcer sur la privation de liberté ou sur la libération sous surveillance du condamné mis à disposition."
+      ],
+      "abstractNL": [
+        "De zitting waarop de zaak wordt behandeld moet, op grond van artikel 95/5, § 1 Wet Strafuitvoering, uiterlijk twee maanden vóór het verstrijken van de effectieve hoofdstraf plaatsvinden; deze termijn is niet voorgeschreven op straffe van nietigheid en is evenmin een vervaltermijn; het niet naleven van die termijn belet de strafuitvoeringsrechtbank niet zich uit te spreken over de vrijheidsbeneming of de invrijheidstelling onder toezicht van de terbeschikkinggestelde veroordeelde."
+      ]
+    }
+  },
+  "95/11": {
+    "ECLI:BE:CASS:2016:ARR.20160412.4": {
+      "court": "CASS",
+      "date": "2016-04-12",
+      "roleNumber": "P.16.0411.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/04/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le condamné mis à disposition auquel un congé pénitentiaire est accordé sous des conditions particulières doit non seulement les respecter lorsqu'il profite effectivement du congé pénitentiaire, mais également lorsqu'il est détenu en prison."
+      ],
+      "abstractNL": [
+        "De ter beschikking gestelde veroordeelde aan wie penitentiair verlof onder bijzondere voorwaarden werd toegekend, moet die voorwaarden niet alleen naleven wanneer hij daadwerkelijk geniet van het penitentiair verlof, maar ook indien hij opgesloten is in de gevangenis."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120321.2": {
+      "court": "CASS",
+      "date": "2012-03-21",
+      "roleNumber": "P.12.0365.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A compter du 1er janvier 2012, les personnes faisant l'objet d'une mesure d'internement décidée par le ministre de la Justice sont mises à la disposition du tribunal de l'application des peines, lequel est compétent pour statuer sur la demande de permission de sortie ou de congé en vertu de l'article 95/11 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées."
+      ],
+      "abstractNL": [
+        "Vanaf 1 januari 2012 worden de personen die het voorwerp uitmaken van een interneringsmaatregel die door de minister van Justitie is beslist, ter beschikking gesteld van de strafuitvoeringsrechtbank, die bevoegd is om uitspraak te doen over het verzoek tot het verkrijgen van een uitgaans- of verlofvergunning, krachtens artikel 95/11 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden."
+      ]
+    }
+  },
+  "95/16": {
+    "ECLI:BE:CASS:2016:ARR.20160412.4": {
+      "court": "CASS",
+      "date": "2016-04-12",
+      "roleNumber": "P.16.0411.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/04/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le condamné mis à disposition auquel un congé pénitentiaire est accordé sous des conditions particulières doit non seulement les respecter lorsqu'il profite effectivement du congé pénitentiaire, mais également lorsqu'il est détenu en prison."
+      ],
+      "abstractNL": [
+        "De ter beschikking gestelde veroordeelde aan wie penitentiair verlof onder bijzondere voorwaarden werd toegekend, moet die voorwaarden niet alleen naleven wanneer hij daadwerkelijk geniet van het penitentiair verlof, maar ook indien hij opgesloten is in de gevangenis."
+      ]
+    }
+  },
+  "95/6": {
+    "ECLI:BE:CASS:2014:ARR.20140304.5": {
+      "court": "CASS",
+      "date": "2014-03-04",
+      "roleNumber": "P.14.0256.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/04/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "En vue de l'octroi éventuel d'une libération sous surveillance, le condamné mis à la disposition doit comparaître personnellement, sans pouvoir se faire représenter par son avocat (1). (1) Voir: Cass., 7 novembre 2007, RG P.07.1440.F, Pas., 2007, n° 533."
+      ],
+      "abstractNL": [
+        "Wat de eventuele toekenning van een invrijheidstelling onder toezicht betreft, moet de terbeschikkinggestelde veroordeelde persoonlijk verschijnen, zonder dat hij zich door zijn advocaat kan laten vertegenwoordigen (1). (1) Zie: Cass. 7 nov. 2007, AR P.07.1440.F, AC 2007, nr. 533."
+      ]
+    }
+  },
+  "95/2": {
+    "ECLI:BE:CASS:2013:ARR.20130917.5": {
+      "court": "CASS",
+      "date": "2013-09-17",
+      "roleNumber": "P.13.1504.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il résulte du texte de l'article 95/2, § 1er et 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées, de l'économie générale et de la genèse de cette loi que le tribunal de l'application des peines est tenu de se prononcer sur la mise à la disposition préalablement à l'expiration de la peine principale effective; passé ce délai, le tribunal de l'application des peines ne peut plus prendre de décision (1). (1) Voir les concl. du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit de tekst van het artikel 95/2, §§1 en 2, Wet Strafuitvoering, de algemene economie van deze wet en de wetsgeschiedenis volgt dat de strafuitvoeringsrechtbank over de terbeschikkingstelling dient te beslissen vóór het verstrijken van de effectieve hoofdstraf; eens dat tijdstip is bereikt, kan de strafuitvoeringsrechtbank geen beslissing meer nemen (1). (1) Zie concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120724.1": {
+      "court": "CASS",
+      "date": "2012-07-24",
+      "roleNumber": "P.12.1185.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/07/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de quatre mois au plus avant l'expiration de la peine principale effective dans lequel le directeur doit rendre un avis sur les modalités d'exécution de la peine complémentaire de mise à la disposition du tribunal de l'application des peines prononcée à l'égard du condamné, n'est pas prescrit à peine de nullité."
+      ],
+      "abstractNL": [
+        "De termijn van uiterlijk vier maanden voor het verstrijken van de effectieve hoofdstraf, tegen dewelke de directeur advies dient uit te brengen over de uitvoeringsmodaliteiten van de ten aanzien van de veroordeelde uitgesproken bijkomende straf van de terbeschikkingstelling van de strafuitvoeringsrechtbank, is niet op straffe van nietigheid voorgeschreven."
+      ]
+    }
+  },
+  "95/13": {
+    "ECLI:BE:CASS:2013:ARR.20130709.13": {
+      "court": "CASS",
+      "date": "2013-07-09",
+      "roleNumber": "P.13.1070.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/07/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 95/13, § 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées, en vertu duquel le tribunal de l''application des peines peut organiser une audience s'il estime utile de pouvoir se prononcer sur la demande de congé pénitentiaire, ou sur la demande du condamné mis à disposition, que le tribunal de l''application des peines apprécie souverainement la nécessité d''organiser une audience en vue d''entendre le condamné mis à disposition."
+      ],
+      "abstractNL": [
+        "Uit artikel 95/13, §2, van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden, op grond waarvan de strafuitvoeringsrechtbank een zitting kan organiseren indien zij het nuttig acht om te kunnen oordelen over het verzoek om penitentiair verlof of over het verzoek van de ter beschikking gestelde veroordeelde, volgt dat de strafuitvoeringsrechtbank op onaantastbare wijze de noodzaak beoordeelt om een zitting te organiseren om de ter beschikking gestelde veroordeelde te horen."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130424.5": {
+      "court": "CASS",
+      "date": "2013-04-24",
+      "roleNumber": "P.13.0636.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/04/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est saisi d'une demande de congé pénitentiaire et que le condamné sollicite d'être entendu, le tribunal de l'application des peines, s'il n'estime pas utile d'organiser une audience, doit statuer à cet égard."
+      ],
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechtbank kennisneemt van een verzoek om penitentiair verlof en de veroordeelde vraagt om te worden gehoord, dient de strafuitvoeringsrechtbank, wanneer zij het niet nuttig acht een zitting te organiseren, dienaangaande uitspraak te doen."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130313.5": {
+      "court": "CASS",
+      "date": "2013-03-13",
+      "roleNumber": "P.13.0320.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/03/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Saisi d'une demande de congé pénitentiaire déposée par le condamné mis à la disposition du tribunal de l'application des peines, ce tribunal peut mais ne doit pas organiser l'audience que ce condamné sollicite; hors le cas où une telle audience est organisée et à laquelle, à titre exceptionnel, la personne condamnée mise à disposition, son conseil, le directeur et le ministère public sont notamment entendus, le tribunal statue directement sur la demande de congé pénitentiaire, dans les quatorze jours de la réception de l'avis du directeur, le condamné ayant préalablement reçu copie de cet avis et de l'avis subséquent du ministère public; la circonstance que la décision ainsi rendue doit être portée par écrit à la connaissance du ministère public n'empêche pas qu'elle constitue un jugement, et non une ordonnance, devant être rendu en audience publique (1). (1) Voir Frédéric CLOSE et Gian-Franco RANERI, 'Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines', L'exécution des condamnations pénales, C.U.P., vol. 101 (2008), p. 127, n° 39."
+      ],
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechtbank kennisneemt van een verzoek om penitentiair verlof, ingediend door de ter beschikking van de strafuitvoeringsrechtbank gestelde veroordeelde, kan die rechtbank de door de veroordeelde gevraagde zitting organiseren, maar is zij daartoe niet verplicht; buiten het geval waarin dergelijke zitting wordt georganiseerd waarop, uitzonderlijk, de ter beschikking gestelde veroordeelde, zijn raadsman, de directeur en het openbaar ministerie met name worden gehoord, doet de rechtbank rechtstreeks uitspraak over het verzoek om penitentiair verlof, binnen veertien dagen na de ontvangst van het advies van de directeur, nadat de veroordeelde eerst een afschrift van dat advies en van het daaropvolgende advies van het openbaar ministerie heeft ontvangen; het feit dat de aldus gewezen beslissing schriftelijk ter kennis moet worden gebracht van het openbaar ministerie, belet niet dat zij een vonnis en geen beschikking is, dat in openbare rechtszitting moet worden uitgesproken (1). (1) Zie Frédéric CLOSE en Gian-Franco RANERI, \"Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines\", L'exécution des condamnations pénales, C.U.P., dl. 101 (2008), p. 127, nr. 39."
+      ]
+    }
+  },
+  "95/12": {
+    "ECLI:BE:CASS:2013:ARR.20130313.5": {
+      "court": "CASS",
+      "date": "2013-03-13",
+      "roleNumber": "P.13.0320.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/03/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Saisi d'une demande de congé pénitentiaire déposée par le condamné mis à la disposition du tribunal de l'application des peines, ce tribunal peut mais ne doit pas organiser l'audience que ce condamné sollicite; hors le cas où une telle audience est organisée et à laquelle, à titre exceptionnel, la personne condamnée mise à disposition, son conseil, le directeur et le ministère public sont notamment entendus, le tribunal statue directement sur la demande de congé pénitentiaire, dans les quatorze jours de la réception de l'avis du directeur, le condamné ayant préalablement reçu copie de cet avis et de l'avis subséquent du ministère public; la circonstance que la décision ainsi rendue doit être portée par écrit à la connaissance du ministère public n'empêche pas qu'elle constitue un jugement, et non une ordonnance, devant être rendu en audience publique (1). (1) Voir Frédéric CLOSE et Gian-Franco RANERI, 'Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines', L'exécution des condamnations pénales, C.U.P., vol. 101 (2008), p. 127, n° 39."
+      ],
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechtbank kennisneemt van een verzoek om penitentiair verlof, ingediend door de ter beschikking van de strafuitvoeringsrechtbank gestelde veroordeelde, kan die rechtbank de door de veroordeelde gevraagde zitting organiseren, maar is zij daartoe niet verplicht; buiten het geval waarin dergelijke zitting wordt georganiseerd waarop, uitzonderlijk, de ter beschikking gestelde veroordeelde, zijn raadsman, de directeur en het openbaar ministerie met name worden gehoord, doet de rechtbank rechtstreeks uitspraak over het verzoek om penitentiair verlof, binnen veertien dagen na de ontvangst van het advies van de directeur, nadat de veroordeelde eerst een afschrift van dat advies en van het daaropvolgende advies van het openbaar ministerie heeft ontvangen; het feit dat de aldus gewezen beslissing schriftelijk ter kennis moet worden gebracht van het openbaar ministerie, belet niet dat zij een vonnis en geen beschikking is, dat in openbare rechtszitting moet worden uitgesproken (1). (1) Zie Frédéric CLOSE en Gian-Franco RANERI, \"Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines\", L'exécution des condamnations pénales, C.U.P., dl. 101 (2008), p. 127, nr. 39."
+      ]
+    }
+  },
+  "95/14": {
+    "ECLI:BE:CASS:2013:ARR.20130313.5": {
+      "court": "CASS",
+      "date": "2013-03-13",
+      "roleNumber": "P.13.0320.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/03/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Saisi d'une demande de congé pénitentiaire déposée par le condamné mis à la disposition du tribunal de l'application des peines, ce tribunal peut mais ne doit pas organiser l'audience que ce condamné sollicite; hors le cas où une telle audience est organisée et à laquelle, à titre exceptionnel, la personne condamnée mise à disposition, son conseil, le directeur et le ministère public sont notamment entendus, le tribunal statue directement sur la demande de congé pénitentiaire, dans les quatorze jours de la réception de l'avis du directeur, le condamné ayant préalablement reçu copie de cet avis et de l'avis subséquent du ministère public; la circonstance que la décision ainsi rendue doit être portée par écrit à la connaissance du ministère public n'empêche pas qu'elle constitue un jugement, et non une ordonnance, devant être rendu en audience publique (1). (1) Voir Frédéric CLOSE et Gian-Franco RANERI, 'Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines', L'exécution des condamnations pénales, C.U.P., vol. 101 (2008), p. 127, n° 39."
+      ],
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechtbank kennisneemt van een verzoek om penitentiair verlof, ingediend door de ter beschikking van de strafuitvoeringsrechtbank gestelde veroordeelde, kan die rechtbank de door de veroordeelde gevraagde zitting organiseren, maar is zij daartoe niet verplicht; buiten het geval waarin dergelijke zitting wordt georganiseerd waarop, uitzonderlijk, de ter beschikking gestelde veroordeelde, zijn raadsman, de directeur en het openbaar ministerie met name worden gehoord, doet de rechtbank rechtstreeks uitspraak over het verzoek om penitentiair verlof, binnen veertien dagen na de ontvangst van het advies van de directeur, nadat de veroordeelde eerst een afschrift van dat advies en van het daaropvolgende advies van het openbaar ministerie heeft ontvangen; het feit dat de aldus gewezen beslissing schriftelijk ter kennis moet worden gebracht van het openbaar ministerie, belet niet dat zij een vonnis en geen beschikking is, dat in openbare rechtszitting moet worden uitgesproken (1). (1) Zie Frédéric CLOSE en Gian-Franco RANERI, \"Un an de jurisprudence de la Cour de cassation relative au tribunal de l'application des peines\", L'exécution des condamnations pénales, C.U.P., dl. 101 (2008), p. 127, nr. 39."
+      ]
+    }
+  },
+  "95/29": {
+    "ECLI:BE:CASS:2013:ARR.20130102.2": {
+      "court": "CASS",
+      "date": "2013-01-02",
+      "roleNumber": "P.12.2003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/01/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Hormis la levée visée à l'article 95/29 de la loi du 17 mai 2006, le tribunal de l'application des peines n'a pas davantage le pouvoir de réduire le délai de mise à la disposition."
+      ],
+      "abstractNL": [
+        "Buiten de ontheffing bedoeld in artikel 95/29 Wet Strafuitvoering heeft de strafuitvoeringsrechtbank evenmin rechtsmacht om de termijn van de terbeschikkingstelling te verminderen."
       ]
     }
   }

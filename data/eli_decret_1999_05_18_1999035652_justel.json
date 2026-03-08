@@ -1,4 +1,46 @@
 {
+  "4": {
+    "ECLI:BE:CASS:2009:ARR.20090210.14": {
+      "court": "CASS",
+      "date": "2009-02-10",
+      "roleNumber": "P.08.1163.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/10/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de Monsieur l'avocat général De Swaef publiées à leur date dans A.C.; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313; Cass., 18 mars 2008, RG P.07.1509.N, Pas., 2008, n° 187."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2009:ARR.20090210.20": {
+      "court": "CASS",
+      "date": "2009-02-10",
+      "roleNumber": "P.08.1163.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de Monsieur l'avocat général De Swaef publiées à leur date dans A.C.; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313; Cass., 18 mars 2008, RG P.07.1509.N, Pas., 2008, n° 187."
+      ],
+      "abstractNL": [
+        "De rechter gaat na of de beslissing van de stedenbouwkundige inspecteur om een bepaalde herstelmaatregel te vorderen, uitsluitend met het oog op de goede ruimtelijke ordening is genomen; hij moet de vordering die steunt op motieven die vreemd zijn aan de ruimtelijke ordening of op een opvatting van een goede ruimtelijke ordening die kennelijk onredelijk is, zonder gevolg laten (1). (1) Zie Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323 met conclusie advocaat-generaal De Swaef; Cass., 12 okt. 2004, AR P.04.0476.N, A.C., 2004, nr. 473; Cass., 3 nov. 2004, AR P.04.0730.F, A.C., 2004, nr. 526; Cass., 3 juni 2005, AR C.04.0029.N, A.C., 2005, nr. 313; Cass., 18 maart 2008, AR P.07.1509.N, A.C., 2008, nr. 187."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080318.3": {
+      "court": "CASS",
+      "date": "2008-03-18",
+      "roleNumber": "P.07.1509.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/18/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande qui est fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire qui est manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de M. l'avocat général DE SWAEF; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313."
+      ],
+      "abstractNL": [
+        "De rechter gaat na of de beslissing van de stedenbouwkundig inspecteur om een bepaalde herstelmaatregel te vorderen uitsluitend met het oog op de goede ruimtelijke ordening is genomen; hij moet de vordering die steunt op motieven die vreemd zijn aan de ruimtelijke ordening of op een opvatting van een goede ruimtelijke ordening die kennelijk onredelijk is, zonder gevolg laten (1). (1) Zie Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323 met conclusie adv.-gen. DE SWAEF; Cass., 12 okt. 2004, AR P.04.0476.N, A.C., 2004, nr. 473; Cass., 3 nov. 2004, AR P.04.0730.F, A.C., 2004, nr. 526; Cass., 3 juni 2005, AR C.04.0029.N, A.C., 2005, nr. 313."
+      ]
+    }
+  },
   "38": {
     "ECLI:BE:CASS:2025:ARR.20250407.3N.5": {
       "court": "CASS",
@@ -19,6 +61,170 @@
       ]
     }
   },
+  "49": {
+    "ECLI:BE:CASS:2008:ARR.20080506.1": {
+      "court": "CASS",
+      "date": "2008-05-06",
+      "roleNumber": "P.08.0151.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/05/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La demande de remise en état des lieux émanant de l'inspecteur urbaniste est une action civile résultant d'une infraction qui, conformément à l'article 26 du Titre préliminaire au Code de procédure pénale, ne se prescrit pas avant l'action publique (1). (1) Cass., 13 mai 2003, RG P.02.1621.N, Pas., 2003, n° 291; Cass., 13 novembre 2007, RG P.07.0961.N, Pas., 2007, n° ..."
+      ],
+      "abstractNL": [
+        "De vordering van de stedenbouwkundige inspecteur tot herstel in de vorige staat is een burgerlijke rechtsvordering volgend uit een misdrijf, zodat deze vordering, overeenkomstig artikel 26 Voorafgaande Titel van het Wetboek van Strafvordering, niet verjaart vóór de strafvordering (1). (1) Cass., 13 mei 2003, AR P.02.1621.N, A.C., 2003, nr. 291; 13 nov. 2007, AR P.07.0961.N, A.C., 2007, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071113.1": {
+      "court": "CASS",
+      "date": "2007-11-13",
+      "roleNumber": "P.07.0961.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La demande de remise en état des lieux émanant de l'inspecteur urbaniste est une action civile résultant d'une infraction, qui, conformément à l'article 26 du Titre préliminaire au Code de procédure pénale, ne se prescrit pas avant l'action publique (1). (1) Cass., 13 mai 2003, RG P.02.1621.N, n° 291."
+      ],
+      "abstractNL": [
+        "De vordering van de stedenbouwkundige inspecteur tot herstel in de vorige staat is een burgerlijke rechtsvordering volgend uit een misdrijf, zodat deze vordering, overeenkomstig artikel 26 Voorafgaande Titel van het Wetboek van Strafvordering, niet verjaart vóór de strafvordering (1). (1) Cass., 13 mei 2003, AR P.02.1621.N, nr 291."
+      ]
+    }
+  },
+  "54": {
+    "ECLI:BE:CASS:2008:ARR.20081028.5": {
+      "court": "CASS",
+      "date": "2008-10-28",
+      "roleNumber": "P.08.0858.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Un permis d'urbanisme pouvant être refusé ou accordé sous conditions au seul motif déjà des conditions impératives de sécurité incendie, il n'est pas exclu que l'action en réparation soit aussi fondée sur le seul motif de la sécurité incendie (1). (1) Voir Cass., 17 octobre 2006, RG P.06.0710.N, Pas., 2006, n° 490."
+      ],
+      "abstractNL": [
+        "Daar een stedenbouwvergunning kan worden geweigerd of voorwaardelijk verleend, alleen reeds op grond van dwingende vereisten van brandveiligheid, is het niet uit te sluiten dat ook de herstelvordering alleen op grond van brandveiligheid wordt gemotiveerd (1). (1) Zie Cass., 17 okt. 2006, AR P.06.0710.N, A.C., 2006, nr. 490."
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:2008:ARR.20081028.5": {
+      "court": "CASS",
+      "date": "2008-10-28",
+      "roleNumber": "P.08.0858.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Un permis d'urbanisme pouvant être refusé ou accordé sous conditions au seul motif déjà des conditions impératives de sécurité incendie, il n'est pas exclu que l'action en réparation soit aussi fondée sur le seul motif de la sécurité incendie (1). (1) Voir Cass., 17 octobre 2006, RG P.06.0710.N, Pas., 2006, n° 490."
+      ],
+      "abstractNL": [
+        "Daar een stedenbouwvergunning kan worden geweigerd of voorwaardelijk verleend, alleen reeds op grond van dwingende vereisten van brandveiligheid, is het niet uit te sluiten dat ook de herstelvordering alleen op grond van brandveiligheid wordt gemotiveerd (1). (1) Zie Cass., 17 okt. 2006, AR P.06.0710.N, A.C., 2006, nr. 490."
+      ]
+    }
+  },
+  "70": {
+    "ECLI:BE:CASS:2012:ARR.20120322.5": {
+      "court": "CASS",
+      "date": "2012-03-22",
+      "roleNumber": "C.10.0155.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 70, § 2, alinéa 1er, du décret du 18 mai 1999 portant organisation de l'aménagement du territoire prévoit une procédure spéciale en ce sens que, lorsque le plan d'expropriation est dressé simultanément avec le plan d'exécution spatial, ce n'est pas le ministre flamand des affaires intérieures, mais le ministre flamand des finances et du budget et de l'aménagement du territoire, compétent pour l'approbation du plan d'aménagement, qui a la compétence d'approuver le plan d'expropriation et la compétence associée d'accorder le permis d'expropriation (1). (1) Voir les concl. du M.P. à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Artikel 70, § 2, eerste lid, Stedenbouwdecreet 1999, voorziet in een bijzondere procedureregeling waardoor, ingeval het onteigeningsbesluit tegelijk met het uitvoeringsplan wordt opgemaakt, niet de Vlaamse Minister van Binnenlandse Aangelegenheden, maar de Vlaamse Minister van Financiën en Begroting en Ruimtelijke Ordening, bevoegd voor het goedkeuren van het plan van aanleg, de bevoegdheid heeft het onteigeningsplan goed te keuren en de daarmee verbonden bevoegdheid tot het verlenen van de onteigeningsmachtiging (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100621.7": {
+      "court": "CASS",
+      "date": "2010-06-21",
+      "roleNumber": "C.09.0113.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 3, §6, 5°, 11, alinéa 1er, de l'arrêté du Gouvernement flamand du 27 juillet 2004 fixant les attributions des membres du Gouvernement flamand, 70, §2, alinéa 1er, et 196bis du décret du Parlement flamand du 18 mai 1999 portant organisation de l'aménagement du territoire que l'article 70, §2, alinéa 1er, du décret précité, lu conjointement avec l'article 196bis, alinéa 1er, du même décret, instaure une exception à la compétence du ministre flamand des Affaires intérieures au sens de l'article 11 de l'arrêté précité et que, lorsque le plan d'expropriation est établi simultanément avec le plan d'aménagement, il appartient également au ministre flamand des Finances et du Budget et de l'Aménagement du territoire, qui est compétent en matière d'approbation du plan d'aménagement, d'approuver le plan d'expropriation et d'accorder le permis d'expropriation en découlant (1). (1) Voir les conclusions du M.P. publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 3, §6, 5° en 11, eerste lid van het Delegatiebesluit en de artikelen 70, §2, eerste lid en 196bis van het Stedenbouwdecreet 1999 volgt dat het artikel 70, §2, eerste lid van het Stedenbouwdecreet 1999 juncto het artikel 196bis, eerste lid van dit decreet, voorzien in een uitzondering in de zin van artikel 11 van het Delegatiebesluit op de bevoegdheid van de Vlaamse minister van Binnenlandse aangelegenheden en dat, ingeval het onteigeningsplan tegelijk met het plan van aanleg wordt opgemaakt, de Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening, bevoegd voor het goedkeuren van het plan van aanleg, ook de bevoegdheid heeft het onteigeningsplan goed te keuren en de daarmee verbonden bevoegdheid tot het verlenen van de onteigeningsmachtiging (1). (1) Zie de conclusies van het openbaar ministerie."
+      ]
+    }
+  },
+  "72": {
+    "ECLI:BE:CASS:2013:ARR.20131107.11": {
+      "court": "CASS",
+      "date": "2013-11-07",
+      "roleNumber": "C.12.0053.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/11/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 72, § 1er, alinéa 1er, du Décret du 18 mai 1999 portant organisation de l'aménagement du territoire qui implique que, lorsque l'expropriation est requise pour la réalisation d'un plan d'exécution spatial, il n'est pas tenu compte lors de la détermination de la valeur de la parcelle expropriée, de la plus-value ou de la moins-value qui résulte des prescriptions de ce plan d'exécution spatiale, exprime un principe général applicable quel que soit le fondement juridique de l'expropriation (1). (1) Cass., 31 mai 2013, RG C.11.0749.N, Pas., 2013, n° 332."
+      ],
+      "abstractNL": [
+        "De wettelijke bepaling van artikel 72, §1, eerste lid, Stedenbouwdecreet 1999, die inhoudt dat, wanneer de onteigening wordt gevorderd voor de verwezenlijking van een ruimtelijk uitvoeringsplan, bij het bepalen van de waarde van het onteigende perceel geen rekening wordt gehouden met de waardevermeerdering of -vermindering die voortvloeit uit de voorschriften van dat ruimtelijk uitvoeringsplan, vertolkt een algemeen beginsel dat van toepassing is ongeacht de rechtsgrond van de onteigening (1). (1) Cass. 31 mei 2013, AR C.11.0749.N, AC 2013, nr. 332."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130531.3": {
+      "court": "CASS",
+      "date": "2013-05-31",
+      "roleNumber": "C.11.0749.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/05/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 72, § 1er, alinéa 1er, du Décret du 18 mai 1999 portant organisation de l'aménagement du territoire qui implique que, lorsque l'expropriation est requise pour la réalisation d'un plan d'exécution spatial, il n'est pas tenu compte lors de la détermination de la valeur de la parcelle expropriée, de la plus-value ou de la moins-value qui résulte des prescriptions de ce plan d'exécution spatial, traduit un principe général applicable quel que soit le fondement juridique de l'expropriation (1). (1) Le M.P. a aussi conclu au rejet du pourvoi mais a estimé que le premier moyen était irrecevable à défaut d'intérêt dès lors que les demandeurs avaient décidé eux-mêmes dans leurs conclusions d'appel que le principe de neutralité planologique était applicable."
+      ],
+      "abstractNL": [
+        "De wettelijke bepaling van artikel 72, §1, eerste lid, Stedenbouwdecreet 1999, die inhoudt dat, wanneer de onteigening wordt gevorderd voor de verwezenlijking van een ruimtelijk uitvoeringsplan, bij het bepalen van de waarde van het onteigende perceel geen rekening wordt gehouden met de waardevermeerdering of -vermindering die voortvloeit uit de voorschriften van dat ruimtelijk uitvoeringsplan, vertolkt een algemeen beginsel dat van toepassing is ongeacht de rechtsgrond van de onteigening (1). (1) Het O.M. concludeerde eveneens tot verwerping van het cassatieberoep maar was van oordeel dat het eerste middel niet ontvankelijk was bij gebrek aan belang nu eisers in hun appelconclusie zelf hadden besloten tot de toepasselijkheid van het principe van de planologische neutraliteit."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120322.5": {
+      "court": "CASS",
+      "date": "2012-03-22",
+      "roleNumber": "C.10.0155.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La règle que lors de la détermination de la valeur de la parcelle expropriée, il n'est pas tenu compte de la plus-value ou la moins-value qui résulte des prescriptions d'un plan d'exécution spatial, ne vaut que pour autant que l'expropriation soit requise pour la réalisation de ce plan d'exécution spatial; cette règle n'empêche pas que lors de l'évaluation de la parcelle expropriée il soit tenu compte de l'affectation planologique de la parcelle expropriée avant la modification d'affectation par le plan d'exécution spatial dont la réalisation implique la modification d'affectation (1). (1) Voir les concl. du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De regel dat bij het bepalen van de waarde van het onteigende perceel geen rekening wordt gehouden met de waardevermeerdering of -vermindering die voortvloeit uit de voorschriften van een ruimtelijk uitvoeringsplan, geldt slechts voor zover de onteigening wordt gevorderd met het oog op de verwezenlijking van dat ruimtelijk uitvoeringsplan; deze regel belet niet dat bij de waardering van het onteigende perceel rekening wordt gehouden met de planologische bestemming van het onteigende perceel vóór de bestemmingwijziging door het ruimtelijk uitvoeringsplan ter verwezenlijking waarvan de onteigening wordt doorgevoerd (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120322.4": {
+      "court": "CASS",
+      "date": "2012-03-22",
+      "roleNumber": "C.10.0152.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La règle que lors de la détermination de la valeur de la parcelle expropriée il n'est pas tenu compte de la plus-value ou la moins-value qui résulte des prescriptions d'un plan d'exécution spatial, ne vaut que pour autant que l'expropriation soit requise en vue de la réalisation de ce plan d'exécution spatial; cette règle n'empêche pas que lors de l'évaluation de la parcelle expropriée il soit tenu compte de l'affectation planologique de la parcelle expropriée avant la modification d'affectation par le plan d'exécution spatial dont la réalisation implique la modification d'affectation, mais elle empêche, par contre, qu'il soit tenu compte de la plus-value ou la moins-value qui résulte de la modification par ce plan d'exécution spatial de l'affectation planologique antérieurement en vigueur (1). (1) Voir les concl. du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De regel dat bij het bepalen van de waarde van het onteigende perceel geen rekening wordt gehouden met de waardevermeerdering of -vermindering die voortvloeit uit de voorschriften van een ruimtelijk uitvoeringsplan, geldt slechts voor zover de onteigening wordt gevorderd met het oog op de verwezenlijking van dat ruimtelijk uitvoeringsplan; deze regel belet niet dat bij de waardering van het onteigende perceel rekening wordt gehouden met de planologische bestemming van het onteigende perceel vóór de bestemmingwijziging door het ruimtelijk uitvoeringsplan ter verwezenlijking waarvan de onteigening wordt doorgevoerd, maar verhindert daarentegen wel dat rekening wordt gehouden met de waardevermeerdering of -vermindering volgend uit de wijziging door dit ruimtelijk uitvoeringsplan van de voorheen geldende planologische bestemming (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100401.5": {
+      "court": "CASS",
+      "date": "2010-04-01",
+      "roleNumber": "C.09.0123.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'obligation, en cas d'expropriations décrétées successivement, de se placer pour déterminer la valeur de l'ensemble des biens expropriés, à la date du premier arrêté d'expropriation, vaut dès que les expropriations successives visent la réalisation d'un même but (1). (1) Voir Cass., 6 janvier 1995, RG C.93.0075.N, Pas., 1995, n° 12."
+      ],
+      "abstractNL": [
+        "De verplichting om zich in geval van achtereenvolgende onteigeningen voor de waardebepaling van het geheel van de te onteigen goederen te plaatsen op de datum van het eerste onteigeningsbesluit, geldt van zodra de opeenvolgende onteigeningen de verwezenlijking van een zelfde doel beogen (1). (1) Zie Cass., 6 jan. 1995, AR C.93.0075.N, A.C., 1995, nr. 12."
+      ]
+    }
+  },
   "96": {
     "ECLI:BE:CASS:2018:ARR.20181002.11": {
       "court": "CASS",
@@ -35,6 +241,20 @@
         "Uit artikel 96, § 4, tweede lid, Stedenbouwdecreet 1999 volgt dat indien een beklaagde aantoont door enig bewijsmateriaal dat een constructie dateert van na de inwerkingtreding van de Stedenbouwwet 1962, maar van vóór de eerste vaststelling van het gewestplan er een vermoeden bestaat dat die constructie is vergund, behoudens een door de overheid te leveren tegenbewijs dat de constructie in overtreding werd opgericht; die op de beklaagde rustende voorwaarde om van het vermoeden van vergunning te kunnen genieten houdt als dusdanig geen schending in van artikel 6.2 EVRM en artikel 14.2 IVBPR of een miskenning van de regels betreffende de bewijslast in strafzaken (1). (1) Zie: Cass. 13 december 2005, AR P.05.0891.N, AC 2005, nr. 667 met concl. van procureur-generaal De Swaef.",
         "Uit artikel 96, § 4, tweede lid, Stedenbouwdecreet 1999 volgt niet dat de rechter geen enkele appreciatiebevoegdheid heeft betreffende de gegevens die door een beklaagde worden aangevoerd als enig bewijsmateriaal dat een constructie is gebouwd na de inwerkintreding van de Stedenbouwwet 1962, maar vóór de eerste vaststelling van het gewestplan; de rechter kan wel degelijk beoordelen of met het aangevoerde bewijsmateriaal wordt aangetoond dat de constructie dateert uit de voormelde periode en dit ongeacht het door de vervolgende partijen te leveren tegenbewijs."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071108.5": {
+      "court": "CASS",
+      "date": "2007-11-08",
+      "roleNumber": "C.06.0624.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La présomption qui doit être mentionnée dans le registre des permis suivant laquelle les constructions dont il a été démontré par quelconque preuve qu'elles ont été bâties après l'entrée en vigueur de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme mais qui datent d'avant le tout premier établissement définitif du plan régional dans lequel elles sont situées, doivent être considérées comme faisant l'objet d'un permis si les autorités ne peuvent démontrer par quelconque preuve, sauf témoignages, par exemple au moyen d'un plan de construction approuvé, un procès-verbal ou un recours, que la construction a été érigée en infraction, constitue une présomption réfragable de permis avec la possibilité pour les autorités d'apporter la preuve contraire par toutes voies de droit, sauf les témoignages."
+      ],
+      "abstractNL": [
+        "Het in het vergunningenregister te vermelden vermoeden dat constructies, waarvan door enig bewijsmateriaal wordt aangetoond dat ze gebouwd zijn na de inwerkingtreding van de Stedenbouwwet maar die dateren van voor de allereerste, definitieve vaststelling van het gewestplan waarbinnen zij gelegen zijn, als vergund moeten worden beschouwd, indien de overheid niet kan aantonen door enig bewijsmateriaal, behoudens getuigenverklaringen, zoals door middel van een goedgekeurd bouwplan, een proces-verbaal of een bezwaarschrift, dat de constructie in overtreding werd opgericht, is een weerlegbaar vermoeden van vergunning, met mogelijkheid van tegenbewijs door de overheid, die hiertoe alle middelen, behoudens getuigenbewijs, kan aanwenden."
+      ]
     }
   },
   "99": {
@@ -50,6 +270,110 @@
       ],
       "abstractNL": [
         "Elke ontbossing, ook wanneer zij vergunbaar is overeenkomstig artikel 90bis, § 1, Bosdecreet, vereist steeds een vooraf af te leveren stedenbouwkundige vergunning en elke niet-vergunbare dan wel vergunbare maar niet vooraf vergunde ontbossing in strijd met de bepalingen van artikel 90bis, § 1, Bosdecreet, geschiedt hoe dan ook zonder stedenbouwkundige vergunning en houdt bijgevolg een overtreding in van artikel 99, § 1, 2°, Stedenbouwdecreet 1999."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150910.5": {
+      "court": "CASS",
+      "date": "2015-09-10",
+      "roleNumber": "C.13.0529.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/09/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le titre par lequel une mesure de réparation est ordonnée sous peine d'astreinte en raison de l'exécution illégale de travaux reste actuel tant que les conditions d'un permis de régularisation délivré ultérieurement n'ont pas été respectées et que les travaux exécutés ne correspondent pas complètement aux travaux pour lesquels ce permis de régularisation a été délivré (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De titel waarbij een herstelmaatregel werd bevolen onder verbeurte van een dwangsom wegens de wederrechtelijke uitvoering van werken blijft actueel zolang de voorwaarden van een later afgeleverde regularisatievergunning niet zijn nagekomen en de uitgevoerde werken niet volledig overeenkomen met de werken waarvoor deze regularisatievergunning werd afgeleverd (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130208.1": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.10.0585.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La simple exécution de travaux de transformations apportés à un immeuble terminé n'est pas soumise a permis dès lors que l'article 99 du décret du 18 mai 1999 ne subordonne pas cette opération à un permis urbanistique; la circonstance que l'immeuble dans lequel les travaux sont exécutés a lui-même été érigé en l'absence de permis urbanistique, n'y déroge pas; la simple exécution de travaux de transformation non soumis a permis dans un immeuble terminé, fût-il construit sans permis urbanistique, ne constitue dès lors pas une infraction urbanistique au sens de l'article 146, alinéa 1er du décret du 18 mai 1999."
+      ],
+      "abstractNL": [
+        "De loutere uitvoering van inrichtingswerkzaamheden aan een afgewerkt gebouw is niet vergunningsplichtig, aangezien artikel 99 Stedenbouwdecreet 1999 voor deze handeling geen stedenbouwkundige vergunning vereist; de omstandigheid dat het gebouw waarin de inrichtingswerken worden uitgevoerd, zelf werd opgetrokken zonder stedenbouwkundige vergunning, doet hieraan niets af; de loutere uitvoering van niet-vergunningsplichtige inrichtingswerkzaamheden aan een afgewerkt gebouw, zelfs al werd het gebouwd zonder stedenbouwkundige vergunning, is derhalve geen stedenbouwkundige inbreuk in de zin van artikel 146, eerste lid, Stedenbouwdecreet 1999."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090908.3": {
+      "court": "CASS",
+      "date": "2009-09-08",
+      "roleNumber": "P.09.0402.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 87, alinéa 5, du décret sur les bois du 13 juin 1990, n'imposant, comme exception à l'obligation de permis prévue à l'article 99 du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qu'une simple obligation de notification pour le défrichement dans un délai de 12 ans de la plantation ou de la dernière exploitation des essences ligneuses ou le boisement spontané, n'est pas applicable en cas de déboisement."
+      ],
+      "abstractNL": [
+        "Artikel 87, vijfde lid, Bosdecreet dat als uitzondering op de vergunningsplicht van artikel 99 Stedenbouwdecreet 1999, een enkele meldingsplicht oplegt voor de rooiing binnen een termijn van 12 jaar na de aanplanting of de laatste exploitatie van houtachtige gewassen of van spontane bebossing, is niet toepasselijk in geval van ontbossing."
+      ]
+    }
+  },
+  "133": {
+    "ECLI:BE:CASS:2013:ARR.20130308.11": {
+      "court": "CASS",
+      "date": "2013-03-08",
+      "roleNumber": "C.12.0333.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/03/08/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le conseil communal n'a pas dû prendre de décision sur la voirie ou s'est abstenu de prendre une décision en cette matière et qu'un recours est formé contre le permis de lotir l'autorité devant laquelle le recours est formé, peut mais ne doit pas demander au conseil communal de se réunir et de prendre une décision sur la demande."
+      ],
+      "abstractNL": [
+        "Wanneer de gemeenteraad over de wegen geen beslissing heeft moeten nemen of zich van beslissing over de zaak van de wegen heeft onthouden, en beroep is ingesteld tegen de verkavelingsvergunning, kan de overheid waarbij het beroep werd ingesteld, de gemeenteraad verzoeken te vergaderen en over de aanvraag een besluit te nemen, doch is hiertoe niet verplicht."
+      ]
+    }
+  },
+  "141": {
+    "ECLI:BE:CASS:2011:ARR.20111103.4": {
+      "court": "CASS",
+      "date": "2011-11-03",
+      "roleNumber": "C.11.0060.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/11/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le non-respect de l'obligation d'information visée à l'article 141 du Décret du 18 mai 1999 portant organisation de l'aménagement du territoire en vertu duquel toute personne qui établit un acte sous seing privé de vente ou de location pour une durée supérieure à neuf ans d'un bien immeuble, ainsi que d'établissement d'une emphytéose ou d'un droit de superficie, doit indiquer si une autorisation urbanistique a été délivrée pour le bien immeuble et doit préciser dans le registre des plans l'affectation urbanistique la plus récente du bien en question, entraîne la nullité relative de la convention en vue de protéger l'acheteur ou le preneur (1). (1) Voir F. HAENTJENS, \"Aan (-en ver)koopbeloften vallen onder toepassing van de informatieverplichtingen opgelegd in de Vlaamse Codex Ruimtelijke Ordening\", note sous Gand, 25 février 2009, R.W. 2010-2011, (746), 750-754; I. Claeys, \"Geen bouwvergunning, verlies van elke bescherming?\", T.B.H., 1999, 840-848."
+      ],
+      "abstractNL": [
+        "De niet-naleving van de informatieplicht bepaald in het artikel 141 Stedenbouwwet 1999, volgens hetwelk iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een stedenbouwkundige vergunning is uitgereikt en de meest recente stedenbouwkundige bestemming van dit goed met benamingen gebruikt in het plannenregister moet overnemen, heeft de relatieve nietigheid van de overeenkomst tot gevolg ter bescherming van de koper of de huurder (1). (1) Zie F. Haentjens, Aan (-en ver)koopbeloften vallen niet onder toepassing van de informatieverplichtingen opgelegd in de Vlaamse Codex Ruimtelijke Ordening, noot onder Hof van beroep Gent van 25 feb. 2009, R.W., 2010-2011, (746), 750-754; I. Claeys, Geen bouwvergunning, verlies van elke bescherming ?, T.B.H., 1999, 840 - 848."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100603.1": {
+      "court": "CASS",
+      "date": "2010-06-03",
+      "roleNumber": "C.08.0552.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'obligation prévue pour les conventions conclues avant l'écoulement des 31 jours après qu'il a été publié au Moniteur belge que la commune où est situé le bien immobilier dispose d'un registre des plans et d'un registre des permis, d'utiliser dans les actes, conventions et publicité, les dénominations utilisées dans les plans d'aménagement ou dans les plans d'exécution spatiaux, lorsque celles-ci sont mentionnées, ne comprend pas l'obligation de mentionner dans ces actes, conventions ou publicité si une autorisation urbanistique a été délivrée pour le bien immobilier, ni de reprendre l'affectation urbanistique la plus récente du bien avec les dénominations utilisées dans le registre des plans; les dénominations utilisées dans lesdits plans ne doivent, dès lors, pas être mentionnées obligatoirement dans ces conventions."
+      ],
+      "abstractNL": [
+        "Voor de overeenkomsten gesloten voordat 31 dagen zijn verlopen na de publicatie in het Belgisch Staatsblad dat de gemeente, waar het onroerend goed gelegen is, beschikt over een goedgekeurd plannenregister en vergunningenregister, houdt de verplichting om in de akten, overeenkomsten en publiciteit, in geval van vermelding van benamingen, deze vermeld in de plannen van aanleg of ruimtelijke uitvoeringsplannen te gebruiken, de verplichting niet in om in die akten, overeenkomsten of publiciteit te vermelden of er voor het onroerend goed een stedenbouwkundige vergunning is uitgereikt en de meest recente stedenbouwkundige bestemming van het goed met de benamingen gebruikt in het plannenregister over te nemen; wat deze overeenkomsten betreft dienen aldus de benamingen gebruikt in de genoemde plannen niet verplicht te worden vermeld."
+      ]
+    }
+  },
+  "143": {
+    "ECLI:BE:CASS:2007:ARR.20070119.4": {
+      "court": "CASS",
+      "date": "2007-01-19",
+      "roleNumber": "F050008N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la disposition du règlement-taxe communal sur les terrains non bâtis pris sur la base de l'article 143, § 1er, 2°, du Décret du Parlement flamand du 18 mai 1999, suivant laquelle la détermination du nombre de terrains non bâtis a lieu suivant les critères appliqués par les services du cadastre, qu'une parcelle qui est considérée comme bâtie suivant ces critères ne peut être considérée comme non-bâtie pour l'application du règlement-taxe au prétexte que les constructions qui y sont érigées ne répondraient pas aux critères contenus dans une autre disposition de ce règlement."
+      ],
+      "abstractNL": [
+        "Uit de bepaling in een op grond van artikel 143, § 1, 2°, van het Decr. Vl. Parl. van 18 mei 1999 getroffen gemeentelijk belastingreglement op niet-bebouwde gronden, dat de vaststelling van het aantal niet-bebouwde gronden gebeurt volgens de criteria gehanteerd door de diensten van het kadaster volgt dat een perceel dat volgens die criteria als bebouwd wordt gerekend, voor de toepassing van het belastingreglement niet als niet-bebouwd kan aangezien worden onder voorwendsel dat de opgerichte bouwwerken niet zouden beantwoorden aan de criteria vervat in een andere bepaling van dat reglement."
       ]
     }
   },
@@ -124,6 +448,162 @@
       "abstractNL": [
         "Het gebruik dat strijdig is met de bestemmingsvoorschriften van de plannen van aanleg kan vanaf 1 mei 2000 een strafbare handeling uitmaken, op grond van artikel 6.1.1, eerste lid, 6°, Vlaamse Codex Ruimtelijke Ordening, voor zover dit strijdig gebruik op zich een ruimtelijke implicatie heeft, hetgeen de rechter in concreto dient na te gaan (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130208.1": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.10.0585.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La simple exécution de travaux de transformations apportés à un immeuble terminé n'est pas soumise a permis dès lors que l'article 99 du décret du 18 mai 1999 ne subordonne pas cette opération à un permis urbanistique; la circonstance que l'immeuble dans lequel les travaux sont exécutés a lui-même été érigé en l'absence de permis urbanistique, n'y déroge pas; la simple exécution de travaux de transformation non soumis a permis dans un immeuble terminé, fût-il construit sans permis urbanistique, ne constitue dès lors pas une infraction urbanistique au sens de l'article 146, alinéa 1er du décret du 18 mai 1999."
+      ],
+      "abstractNL": [
+        "De loutere uitvoering van inrichtingswerkzaamheden aan een afgewerkt gebouw is niet vergunningsplichtig, aangezien artikel 99 Stedenbouwdecreet 1999 voor deze handeling geen stedenbouwkundige vergunning vereist; de omstandigheid dat het gebouw waarin de inrichtingswerken worden uitgevoerd, zelf werd opgetrokken zonder stedenbouwkundige vergunning, doet hieraan niets af; de loutere uitvoering van niet-vergunningsplichtige inrichtingswerkzaamheden aan een afgewerkt gebouw, zelfs al werd het gebouwd zonder stedenbouwkundige vergunning, is derhalve geen stedenbouwkundige inbreuk in de zin van artikel 146, eerste lid, Stedenbouwdecreet 1999."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120110.3": {
+      "court": "CASS",
+      "date": "2012-01-10",
+      "roleNumber": "P.11.0843.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/01/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "A la différence de la \"commission\" ou de la \"continuation\" de l'infraction à une prescription d'affectation par une utilisation contraire, qui suppose le fait de poser un ou plusieurs actes d'utilisation autant positifs qu'instantanés, le \"maintien\" constitue une infraction continue de maintien de la situation délictuelle d'utilisation qui est née à la suite d'un des actes positifs précités et à laquelle l'auteur ne met pas fin; l'achèvement de la commission ou de la continuation de l'utilisation contraire par la cessation des actes positifs précités n'exclut pas la pérennité d'une situation contraire à la prescription d'affectation, née de cette utilisation."
+      ],
+      "abstractNL": [
+        "Anders dan het \"plegen\" of het \"voortzetten\" van de inbreuk op een bestemmingsvoorschrift door een daarmee strijdig gebruik, die het stellen van één of meerdere zowel positieve als aflopende handelingen van gebruik veronderstelt, vormt de \"instandhouding\" één voortdurend misdrijf van behoud van de delictuele toestand van gebruik die ten gevolge van voormelde positieve handeling(en) is ontstaan en waaraan de dader geen einde stelt; de voltooiing van het plegen of het voortzetten van het strijdige gebruik door het beëindigen van voormelde positieve handelingen sluit het voortbestaan van een met het bestemmingsvoorschrift strijdige toestand die door dit gebruik is ontstaan, niet uit."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110321.2": {
+      "court": "CASS",
+      "date": "2011-03-21",
+      "roleNumber": "C.10.0244.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de perpétuation par l'article 146, alinéa 3, du décret de la Région flamande du 18 mai 1999 portant organisation de l'aménagement du territoire entraîne l'extinction de l'action publique fondée sur cette infraction, mais cette modification n'a pas pour conséquence que la perpétuation, qui était punissable à l'époque où elle a eu lieu, ne peut plus constituer le fondement d'une action en réparation devant le juge civil."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding door artikel 146, derde lid, Stedenbouwdecreet 1999, heeft het verval van de op het misdrijf gesteunde strafvordering tot gevolg, maar deze wijziging brengt evenwel niet met zich mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering voor de burgerlijke rechter."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090915.3": {
+      "court": "CASS",
+      "date": "2009-09-15",
+      "roleNumber": "P.09.0182.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/15/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que les opérations, travaux ou modifications en zone vulnérable du point vue spatial au sens de l'article 146, alinéa 4, du décret du Conseil flamand du 18 mai 1999 portant organisation de l'aménagement du territoire sont susceptibles d'être autorisés en vertu de l'article 145bis n'ôte pas le caractère punissable du maintien de ces opérations, travaux ou modifications tant que l'autorisation n'est pas délivrée; par conséquent, les intentions des autorités quant à la délivrance d'une autorisation sont sans pertinence et ne changent rien à la prévisibilité du caractère punissable d'opérations, travaux ou modifications non autorisés."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat handelingen, werken of wijzigingen in ruimtelijk kwetsbaar gebied in de zin van artikel 146, vierde lid, Stedenbouwdecreet 1999 overeenkomstig artikel 145bis vergunbaar zijn, belet niet dat zolang er geen vergunning is, de instandhouding van deze handelingen, werken of wijzigingen strafbaar is; de inzichten van de overheid over het verlenen van een vergunning zijn derhalve irrelevant en wijzigen niets aan de voorspelbaarheid van het strafbare karakter van niet-vergunde handelingen, werken of wijzigingen."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090903.2": {
+      "court": "CASS",
+      "date": "2009-09-03",
+      "roleNumber": "C.08.0151.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/03/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La poursuite des travaux ou des modifications ultérieures apportées aux travaux contraires à un permis de bâtir, fût-ce par le rejet de la mesure de réparation réclamée, ressortit aux sanctions pénales prévues dans le chef ou à l'encontre de la personne qui poursuit des opérations, travaux ou modifications contraires à l'ordre de cessation, à la décision de confirmation ou, le cas échéant, à l'ordonnance de référé; le rejet de la mesure de réparation demandée, qui ne met pas fin à la contradiction constatée ou à l'absence de permis de bâtir, implique que la situation existante est tolérée mais cela ne s'étend pas aux travaux d'adaptation complémentaires."
+      ],
+      "abstractNL": [
+        "Het voortzetten van werken of verdere aanpassingen aan werken waarvan de strijdigheid met een bouwvergunning werd vastgesteld, weze dit met afwijzing van de gevorderde herstelmaatregel, ressorteert onder de strafsancties voorzien voor de persoon die handelingen, werken of wijzigingen voortzet in strijd met het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding; de afwijzing van de gevorderde herstelmaatregel, die de vastgestelde strijdigheid of afwezigheid van bouwvergunning niet opheft, impliceert een gedogen van de alsdan bestaande toestand, maar dit gedogen strekt zich niet uit tot bijkomende aanpassingswerken."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090609.7": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.09.0201.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La non mention de la désignation cadastrale de l'immeuble faisant l'objet de l'infraction en matière d'urbanisme, ou de l'identité de son propriétaire ne pouvant être sanctionné par le conservateur des hypothèques que par le refus de la transcription, il n'y a aucune raison de déclarer l'action publique irrecevable si la transcription a bien été opérée; il en va de même en cas d'indication erronée dans la citation de la désignation cadastrale ou du propriétaire (1). (1) Voir Cass., 13 mai 1986, RG 18, Pas., 1986, n° 560 et R.W., 1987-88, p. 673, avec la note VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 octobre 1999, RG P.97.0897.N, Pas., 1999, n° 503."
+      ],
+      "abstractNL": [
+        "Daar de sanctie voor de niet-vermelding van de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het stedenbouwmisdrijf of van de identificatie van de eigenaar ervan, alleen de mogelijkheid is voor de hypotheekbewaarder om de overschrijving te weigeren, zijn er geen redenen de strafvordering niet ontvankelijk te verklaren, als de overschrijving eenmaal heeft plaatsgehad; hetzelfde geldt wanneer de vermelding in de dagvaarding van de kadastrale omschrijving of van de eigenaar verkeerd zou zijn (1). (1) Zie Cass., 13 mei 1986, AR 18, A.C., 1985-86, 1236 en R.W., 1987-88, p. 673, met noot VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 okt. 1999, AR P.97.0897.N, A.C., 1999, nr. 503."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080923.3": {
+      "court": "CASS",
+      "date": "2008-09-23",
+      "roleNumber": "P.08.0468.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/09/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de maintien en matière d'urbanisme entraîne seulement l'extinction de l'action publique fondée sur ladite infraction; à défaut de disposition contraire, cette modification n'a pas pour conséquence que le maintien, qui était punissable dans la période où il a eu lieu, ne peut plus constituer le fondement d'une demande de remise en état, ni que le juge pénal devant lequel la demande de remise en état a été intentée au moment où le maintien était encore punissable, perd ainsi sa compétence de juger la demande de remise en état (1). (1) Cass., 13 décembre 2005, RG P.05.0693.N, Pas., 2005, n° 666, avec concl. M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding inzake stedenbouw heeft alleen het verval van de op dat misdrijf gesteunde strafvordering tot gevolg; bij ontstentenis van andersluidende bepaling brengt deze wijziging niet mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering, noch dat de strafrechter voor wie de herstelvordering werd ingesteld op het ogenblik dat de instandhouding nog strafbaar was, zijn bevoegdheid verliest nog verder de herstelvordering te beoordelen (1). (1) Cass., 13 dec. 2005, AR P.05.0693.N, A.C., 2005, nr. 666, met concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080408.4": {
+      "court": "CASS",
+      "date": "2008-04-08",
+      "roleNumber": "P.08.0041.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/08/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'acte punissable de maintien de travaux non conformes aux prescriptions légales en matière d'urbanisme consiste dans l'abstention coupable de mettre fin à l'existence des travaux exécutés illégalement et seul celui qui a des droits sur le bien immeuble peut être déclaré coupable de cette abstention (1); la circonstance que le propriétaire du terrain n'est pas le propriétaire de la construction érigée illégalement sur son bien n'empêche pas qu'il a, en vertu de son droit, autorité sur la chose et doit faire le nécessaire pour mettre fin à la situation illégale (2). (1) Cass., 4 février 2003, RG P.01.1462.N, Pas., 2003, n° 80. (2) Voir Cass., 21 février 2006, RG P.05.1388.N, Pas., 2006, n° 101."
+      ],
+      "abstractNL": [
+        "Het misdrijf van instandhouding inzake stedenbouw bestaat in het schuldig verzuim om aan het bestaan van de wederrechtelijk uitgevoerde werken een einde te maken en alleen diegene die over het onroerend goed zeggenschap heeft, kan schuld aan dit verzuim hebben (1); de omstandigheid dat de eigenaar van de grond niet de eigenaar is van de constructie die wederrechtelijk op zijn grond is opgericht, neemt niet weg dat hij krachtens zijn recht zeggenschap heeft over de zaak en het nodige moet doen om aan de illegale toestand een einde te stellen (2). (1) Cass., 4 feb. 2003, AR P.O1.1462.N, A.C., 2003, nr. 80. (2) Zie Cass., 21 feb. 2006, AR P.O5.1388.N, A.C., 2006, nr. 101."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080226.2": {
+      "court": "CASS",
+      "date": "2008-02-26",
+      "roleNumber": "P.07.1552.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'y a perpétuation punissable, au sens de l'article 146, alinéa 3, du décret de la Région flamande du 18 mai 1999 portant organisation de l'aménagement du territoire, que si, au moment de la perpétuation, les travaux illégaux soient situés dans des zones vulnérables du point de vue spatial ; cette disposition pénale n'enlève pas le caractère punissable à l'infraction continue de perpétuation commise avant ou après la modification légale du 4 juin 2003, tant que cette perpétuation concerne des biens situés dans une zone vulnérable du point de vue spatial (1). (1) Voir: Cass., 13 décembre 2005, RG P.05.0693.N, Pas., 2005, n° 666, et Cass., 13 décembre 2005; RG P.05.0891.N, n° 667, tous deux avec les conclusions de M. De Swaef, procureur général, publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Voor de strafbare instandhouding vereist art. 146, derde lid, Stedenbouwdecreet 1999 uitsluitend dat op het ogenblik van de instandhouding, de wederrechtelijke werken gelegen zijn in ruimtelijk kwetsbaar gebied; deze strafbepaling ontneemt aan het vóór of na de wetswijziging van 4 juni 2003 voortdurend gepleegde misdrijf van instandhouding, niet zijn strafbaar karakter, zolang deze instandhouding betrekking heeft op goederen gelegen in een ruimtelijk kwetsbaar gebied. (1) Zie: Cass., 13 dec. 2005, AR P.05.0693.N, A.C., 2005, nr. 666, en Cass., 13 dec. 2005, AR P.05.0891.N, nr. 667, telkens met concl. van procureur-generaal De Swaef."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070913.2": {
+      "court": "CASS",
+      "date": "2007-09-13",
+      "roleNumber": "C.06.0436.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de maintien en matière d'urbanisme entraîne seulement l'extinction de l'action publique fondée sur ladite infraction; cette modification n'a toutefois par pour conséquence que le maintien, qui était punissable à l'époque où il a eu lieu, ne peut plus constituer le fondement d'une demande de remise en état devant le juge civil (1). (1) Voir Cass., 10 octobre 2006, RG P.06.0640.N, N°... à propos d'une problématique identique concernant toutefois la demande de remise en état introduite devant le juge pénal."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding inzake stedenbouw heeft alleen het verval van de op het misdrijf gesteunde strafvordering tot gevolg; deze wijziging brengt evenwel niet met zich mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering voor de burgerlijke rechter (1). (1) Zie Cass. 10 okt. 2006, AR P.06.0640.N, nr ..., over dezelfde problematiek, evenwel met betrekking tot de herstelvordering ingesteld voor de strafrechter."
+      ]
+    }
+  },
+  "148": {
+    "ECLI:BE:CASS:2010:ARR.20100527.19": {
+      "court": "CASS",
+      "date": "2010-05-27",
+      "roleNumber": "C.09.0293.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les inspecteurs urbanistes ont la compétence d'ordonner sur place la cessation immédiate des travaux lorsqu'ils constatent que le travail constitue une infraction au sens de l'article 146 du décret du 18 mai 1999 ou lorsqu'il n'est pas répondu à l'obligation de l'article 114, § 2 de ce décret."
+      ],
+      "abstractNL": [
+        "De stedenbouwkundige inspecteurs hebben de bevoegdheid om ter plaatse de onmiddellijke staking van het werk te bevelen indien zij vaststellen dat het werk een inbreuk vormt zoals bedoeld in artikel 146 van het Stedenbouwdecreet 1999 of wanneer niet voldaan is aan de verplichting van artikel 114, § 2, van dit decreet."
+      ]
     }
   },
   "149": {
@@ -155,6 +635,768 @@
       "abstractNL": [
         "De rechter oordeelt in beginsel onaantastbaar of de last die een herstelmaatregel inzake stedenbouw voor de herstelplichtige met zich meebrengt wel in een redelijk verband staat tot het voordeel dat die maatregel oplevert voor de goede ruimtelijke ordening; bij die beoordeling mag de rechter wel degelijk rekening houden met het voordeel dat de herstelplichtige heeft genoten door de onwettige toestand en de duur ervan."
       ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150910.5": {
+      "court": "CASS",
+      "date": "2015-09-10",
+      "roleNumber": "C.13.0529.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/09/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le titre par lequel une mesure de réparation est ordonnée sous peine d'astreinte en raison de l'exécution illégale de travaux reste actuel tant que les conditions d'un permis de régularisation délivré ultérieurement n'ont pas été respectées et que les travaux exécutés ne correspondent pas complètement aux travaux pour lesquels ce permis de régularisation a été délivré (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De titel waarbij een herstelmaatregel werd bevolen onder verbeurte van een dwangsom wegens de wederrechtelijke uitvoering van werken blijft actueel zolang de voorwaarden van een later afgeleverde regularisatievergunning niet zijn nagekomen en de uitgevoerde werken niet volledig overeenkomen met de werken waarvoor deze regularisatievergunning werd afgeleverd (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150403.1": {
+      "court": "CASS",
+      "date": "2015-04-03",
+      "roleNumber": "C.13.0035.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/04/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les règles du Code judiciaire s'appliquent à la demande de réparation devant le juge civil de sorte qu'elle est, en principe, portée devant le juge civil au moyen d ‘une citation en vertu de l'article 700 du Code judiciaire par citation devant le juge civil (1). (1) L'article 149, §1er, al. 1er et 2 et §4 du décret du 18 mai 1999, tel qu'il était applicable avant sa modification par l'article 53, 1°, 2° et 7° du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien; l'article 151 du décret du 18 mai 1999 tel qu'il était applicable avant sa modification par l'article 54 du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien."
+      ],
+      "abstractNL": [
+        "Op de herstelvordering voor de burgerlijke rechter zijn de regels van het Gerechtelijk Wetboek van toepassing, zodat de herstelvordering in de regel op grond van artikel 700 Gerechtelijk Wetboek bij de dagvaarding voor de burgerlijke rechter wordt ingeleid (1). (1) Artikel 149, §1, eerste en tweede lid, en §4, Stedenbouwdecreet 1999, zoals van toepassing voor de wijziging ervan bij artikel 53, 1°, 2° en 7°, van het Aanpassingsdecreet 2009; Artikel 151 Stedenbouwdecreet, zoals van toepassing voor de wijziging ervan bij artikel 54 van het Aanpassingsdecreet 2009."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20141014.9": {
+      "court": "CASS",
+      "date": "2014-10-14",
+      "roleNumber": "P.12.1198.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/10/14/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La mention dans la demande de réparation d'une description de la situation antérieure à l'infraction n'est pas prescrite à peine de nullité, ni substantielle (1). (1) Voir: Cass. 3 avril 2007, RG P.06.1586.N., Pas. 2007, n° 165."
+      ],
+      "abstractNL": [
+        "Het vermelden in de herstelvordering van een omschrijving van de toestand voorafgaand aan het misdrijf is niet voorgeschreven op straffe van nietigheid noch substantieel (1). (1) Zie: Cass. 3 april 2007, AR P.06.1586.N, AC 2007, nr. 165."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140902.1": {
+      "court": "CASS",
+      "date": "2014-09-02",
+      "roleNumber": "P.13.1391.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La mesure de réparation de la plus-value vise à annuler les conséquences de l'infraction en matière d'urbanisme en infligeant le paiement d'une somme d'argent équivalant à l'enrichissement illégal; en tant que forme particulière de restitution indue réglée par le pouvoir décrétal, elle se borne à neutraliser, pour des motifs d'équité, l'enrichissement illégitime tiré de l'infraction en matière d'urbanisme, mais laisse subsister les actes illégaux (1). (1) Voir Cass. 15 septembre 2009, RG P.09.0182.N, Pas. 2009, n° 501."
+      ],
+      "abstractNL": [
+        "De herstelmaatregel van de meerwaarde strekt ertoe de gevolgen van het stedenbouwmisdrijf teniet te doen door het opleggen van de betaling van een geldsom, gelijk aan de onwettige verrijking; als een door de decreetgever bijzonder geregelde vorm van oneigenlijke teruggave neutraliseert zij om billijkheidsredenen enkel de door het stedenbouwmisdrijf veroorzaakte onrechtmatige verrijking, maar laat zij de onwettige handelingen bestaan (1). (1) Zie Cass. 15 september 2009, AR P.09.0182.N, AC 2009, nr. 501."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140327.6": {
+      "court": "CASS",
+      "date": "2014-03-27",
+      "roleNumber": "C.12.0518.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'avis du Conseil supérieur de la Politique de réparation n'est requis que si l'inspecteur urbaniste procède à une exécution d'office de la condamnation à la remise en état et non pour le recouvrement de l'astreinte encourue."
+      ],
+      "abstractNL": [
+        "Het advies van de Hoge Raad voor het Herstelbeleid is enkel vereist wanneer de stedenbouwkundige inspecteur overgaat tot ambtshalve uitvoering van de veroordeling tot herstel en niet bij de invordering van de verbeurde dwangsom."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130903.8": {
+      "court": "CASS",
+      "date": "2013-09-03",
+      "roleNumber": "P.12.1253.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas de l'article 211bis, première et deuxième phrases, du Code d'instruction criminelle que les juges d'appel qui, contrairement au premier juge, ordonnent une mesure de remise en état, le cas échéant sous la menace d'une astreinte, sont tenus de prendre cette décision à l'unanimité; la circonstance que la demande de l'autorité requérant la remise en état doit être assimilée sans plus à une action civile relevant néanmoins de l'action publique en tant que mesure de nature civile, n'y déroge pas (1). (1) Voir: Cass., 2 mars 2004, RG P.03.1187.N, Pas., 2004, n° 112; Cass., 12 mai 2009, RG P.08.1888.N (non publié)."
+      ],
+      "abstractNL": [
+        "Uit artikel 211bis, eerste en tweede zin, Wetboek van Strafvordering volgt niet dat de appelrechters die anders dan de eerste rechter een herstelmaatregel bevelen, desgevallend onder de dreiging van een dwangsom, dit met eenparigheid moeten beslissen; de omstandigheid dat de vordering van de herstelvorderende overheid niet zonder meer gelijk te stellen is met een burgerlijke rechtsvordering en als maatregel van burgerrechtelijke aard toch onder de strafvordering valt, doet daaraan geen afbreuk (1). (1) Zie: Cass. 2 maart 2004, AR P.03.1187.N, AC 2004, nr. 112; Cass. 12 mei 2009, AR P.08.1888.N (onuitgegeven)."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110531.17": {
+      "court": "CASS",
+      "date": "2011-05-31",
+      "roleNumber": "P.11.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'administration compétente peut adapter et expliciter davantage en cours d'instance la demande de remise en état et ses motifs à la suite des objections formulées contre cette demande; rien ne s'oppose à ce que cette modification se fasse par la voie de conclusions au nom de l'administration compétente (1). (1) Voir Cass. 29 septembre 2008, RG P.08.0468.N, Pas., 2008, n° 496."
+      ],
+      "abstractNL": [
+        "Het bevoegde bestuur kan de herstelvordering en de motieven ervan tijdens het geding aanpassen en nader toelichten tengevolge van de tegen deze vordering aangevoerde bezwaren; niets staat eraan in de weg dat deze aanpassing bij wijze van conclusie namens het bevoegde bestuur zou geschieden (1). (1) Zie Cass. 29 sept. 2008, AR P.08.0468.N, AC, 2008, nr. 496."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110325.4": {
+      "court": "CASS",
+      "date": "2011-03-25",
+      "roleNumber": "C.10.0016.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il relève de la compétence du juge de contrôler la légalité externe et interne de la requête de l'inspecteur urbaniste ou du Collège des bourgmestre et échevins de la commune et d'examiner si elle est conforme à la loi ou si elle est entachée d'excès ou de détournement de pouvoir, sans qu'il appartienne au juge d'apprécier l'opportunité de pareille demande (1). (1) Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323, avec les conclusions de l'avocat général De Swaef publiées dans A.C., 2004."
+      ],
+      "abstractNL": [
+        "Het behoort de rechter de vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen op haar externe en interne wettigheid te toetsen en te onderzoeken of ze strookt met de wet dan wel op machtsoverschrijding of machtsafwending berust, zonder dat hij hierbij vermag de opportuniteit van de vordering te beoordelen (1). (1) Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323, met concl. van advocaat-generaal DE SWAEF."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110321.2": {
+      "court": "CASS",
+      "date": "2011-03-21",
+      "roleNumber": "C.10.0244.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les mesures prévues à l'article 149, §1er, du décret de la Région flamande du 18 mai 1999 portant organisation de l'aménagement du territoire présentent un caractère civil et, à titre de modalités particulières de réparation ou restitution, elles tendent à mettre fin à une situation contraire à la loi, qui résulte de l'infraction et qui porte atteinte à l'intérêt public."
+      ],
+      "abstractNL": [
+        "De maatregelen bepaald in artikel 149, §1, Stedenbouwdecreet 1999, hebben een civielrechtelijk karakter en strekken er als bijzondere vorm van vergoeding of teruggave toe een einde te maken aan de met de wet strijdige toestand die uit het misdrijf is ontstaan en waardoor het algemeen belang wordt geschaad."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110125.4": {
+      "court": "CASS",
+      "date": "2011-01-25",
+      "roleNumber": "P.10.0369.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La constatation que la remise des lieux en leur état initial constitue une peine au sens de l'article 6, §1er de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, a pour seul effet que les garanties de cette disposition doivent être observées, dont l'examen de la demande dans un délai raisonnable; cette constatation n'implique pas la nature pénale de cette mesure dans la législation belge, entraînant l'application des dispositions générales du droit pénal et du droit de procédure pénale belges, particulièrement en ce qui concerne la diminution de la peine et même la simple déclaration de culpabilité (1). (1) Voir Cass., 4 novembre 2008, RG P.08.0081.N, Pas., 2008, n° 608, avec les conclusions de M. le premier avocat général Marc De Swaef, publiées à leur date dans A.C.; Cass., 6 janvier 2009, RG P.08.0674.N, Pas., 2009, n° 7; Cass., 23 juin 2009, RG P.09.0276.N, Pas., 2009, n° 432."
+      ],
+      "abstractNL": [
+        "De vaststelling dat het herstel in de oorspronkelijke staat een straf is in de zin van artikel 6.1 E.V.R.M., brengt enkel mee dat de waarborgen van die bepaling moeten worden in acht genomen, waaronder de behandeling van de vordering binnen een redelijke termijn; voormelde vaststelling heeft niet tot gevolg dat die maatregel in de Belgische wetgeving van strafrechtelijke aard is zodat de algemene bepalingen van het Belgisch strafrecht en strafprocesrecht, inzonderheid wat betreft het milderen van de straf of zelfs de eenvoudige schuldigverklaring, erop toepassing moeten vinden (1). (1) Zie: Cass., 4 nov. 2008, AR P.08.0081.N, A.C., 2008, nr. 608 met conclusie eerste advocaat-generaal M. De Swaef; Cass., 6 jan. 2009, AR P.08.0674.N, A.C., 2009, nr. 7; Cass., 23 juni 2009, AR P.09.0276.N, A.C., 2009, nr. 432."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100511.1": {
+      "court": "CASS",
+      "date": "2010-05-11",
+      "roleNumber": "P.09.1671.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales concernant les mesures de remise en état des lieux ordonnées par le juge en matière d'urbanisme ne dérogent pas aux dispositions de droit commun en matière d'astreinte (1). (1) Cass., 24 décembre 2009, RG C.06.0639.N, Pas., 2009, n° 785 avec les conclusions de M. l'avocat général Vandewal."
+      ],
+      "abstractNL": [
+        "De wettelijke bepalingen betreffende de door de rechter bevolen herstelmaatregelen inzake stedenbouw wijken niet af van de gemeenrechtelijke bepalingen inzake de dwangsom (1). (1) Cass., 24 dec. 2009, AR C.06.0639.N, A.C., 2009, nr. 785 met conclusie advocaat-generaal Vandewal."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100114.2": {
+      "court": "CASS",
+      "date": "2010-01-14",
+      "roleNumber": "C.09.0029.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le délai qui est fixé par le juge pénal en matière d'urbanisme afin de permettre au contrevenant de remettre les lieux en état, ne constitue pas une exécution forcée au sens de l'article 1495 du Code judiciaire, pour laquelle une signification préalable est en principe requise (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De termijn die door de strafrechter in stedenbouwzaken wordt bepaald om de overtreder toe te laten de plaats in de vorige staat te herstellen, maakt geen gedwongen tenuitvoerlegging uit in de zin van artikel 1495 Ger.W., waarvoor een voorafgaande betekening in de regel vereist is (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100105.1": {
+      "court": "CASS",
+      "date": "2010-01-05",
+      "roleNumber": "P.09.0486.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, lors de l'introduction d'une demande de remise en état, l'administration est légalement tenue de requérir la remise état des lieux en leur état initial et ne dispose pas d'une autre option, il n'appartient pas au juge pénal de statuer sur l'opportunité de la mesure de réparation requise."
+      ],
+      "abstractNL": [
+        "Wanneer het bestuur bij het instellen van de herstelvordering wettelijk gebonden is het herstel in de oorspronkelijke toestand te vorderen en over geen verdere keuze beschikt, mag de strafrechter niet oordelen over de opportuniteit van de gevorderde herstelmaatregel."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091224.5": {
+      "court": "CASS",
+      "date": "2009-12-24",
+      "roleNumber": "C.06.0279.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'inspecteur urbaniste agit au nom de la Région flamande tant lors de la demande d'une mesure de réparation que lorsque la mesure de réparation demandée et l'astreinte due sont exécutées de sorte que le pourvoi en cassation qui est dirigé contre lui en tant que personne agissant et intervenant au nom de la Région flamande, est recevable (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De stedenbouwkundig inspecteur treedt op in naam van het Vlaamse Gewest zowel bij het vorderen van een herstelmaatregel als bij het ten uitvoer leggen van de bevolen herstelmaatregel en van de verschuldigde dwangsommen, zodat het cassatieberoep dat gericht wordt tegen hem als handelend of optredend in naam van het Vlaamse Gewest, ontvankelijk is (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091224.6": {
+      "court": "CASS",
+      "date": "2009-12-24",
+      "roleNumber": "C.06.0639.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales concernant les mesures de remise en état des lieux ordonnées par le juge en matière d'urbanisme ne dérogent pas aux dispositions de droit commun en matière d'astreinte."
+      ],
+      "abstractNL": [
+        "De wettelijke bepalingen betreffende de door de rechter bevolen herstelmaatregelen inzake stedenbouw wijken niet af van de gemeenrechtelijke bepalingen inzake de dwangsom."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091224.7": {
+      "court": "CASS",
+      "date": "2009-12-24",
+      "roleNumber": "C.08.0073.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales concernant les mesures de remise en état des lieux ordonnées par le juge en matière d'urbanisme ne dérogent pas aux dispositions de droit commun en matière d'astreinte."
+      ],
+      "abstractNL": [
+        "De wettelijke bepalingen betreffende de door de rechter bevolen herstelmaatregelen inzake stedenbouw wijken niet af van de gemeenrechtelijke bepalingen inzake de dwangsom."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090915.3": {
+      "court": "CASS",
+      "date": "2009-09-15",
+      "roleNumber": "P.09.0182.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/15/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les mesures de réparation visées à l'article 149, § 1er, du décret du Conseil flamand du 18 mai 1999 portant organisation de l'aménagement du territoire, ayant un caractère civil, visent à mettre fin, comme modalité particulière de réparation ou de restitution, à la situation contraire à la loi née de l'infraction et portant préjudice à l'intérêt général (1). (1) Voir Cass., 3 avril 2007, RG P.06.1610.N, Pas., 2007, n° 166; Cass., 22 mai 2007, RG P.06.1692.N, Pas., 2007, n° 265."
+      ],
+      "abstractNL": [
+        "De in artikel 149, § 1, Stedenbouwdecreet 1999 bedoelde herstelmaatregelen, die een civielrechtelijk karakter hebben, strekken ertoe, als bijzondere vorm van vergoeding of teruggave, een einde te maken aan de met de wet strijdige toestand die uit het misdrijf is ontstaan en waardoor het algemeen belang wordt geschaad (1). (1) Zie: Cass., 3 april 2007, AR P.06.1610.N, A.C., 2007, nr 166; Cass., 22 mei 2007, AR P.06.1692.N, A.C., 2007, nr 265."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090623.3": {
+      "court": "CASS",
+      "date": "2009-06-23",
+      "roleNumber": "P.09.0276.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/23/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La constatation que la remise des lieux en leur état initial constitue une \"peine\" au sens de l'article 6.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales a pour seule conséquence qu'il y a lieu d'observer les garanties prévues par cette disposition, dont l'examen de la cause dans un délai raisonnable, et non que cette mesure est de nature pénale dans la législation belge entraînant l'application des dispositions générales du droit pénal et du droit de procédure pénale belges, particulièrement en ce qui concerne la personnalité de la peine (1). (1) Voir Cass., 4 novembre 2008, RG P.08.0081.N, Pas., 2008, n° 608 avec les conclusions de M. le premier avocat général De Swaef, publiées à leur date dans A.C.; Cass., 6 janvier 2009, RG P.08.0674.N, Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "De vaststelling dat het herstel in de oorspronkelijke toestand een straf is in de zin van artikel 6.1 E.V.R.M., brengt enkel mee dat de waarborgen van die bepaling moeten worden in acht genomen, waaronder de behandeling van de vordering binnen een redelijke termijn; voormelde vaststelling heeft niet tot gevolg dat die maatregel in de Belgische wetgeving van strafrechtelijke aard is zodat de algemene bepalingen van het Belgisch strafrecht en strafprocesrecht, inzonderheid wat betreft het persoonlijk karakter van de straf erop toepassing moeten vinden (1). (1) Zie Cass., 4 nov. 2008, AR P.08.0081.N, A.C., 2008, nr. 608 met conclusie van eerste advocaat-generaal De Swaef; Cass., 6 jan. 2009, AR P.08.0674.N, A.C., 2009, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090609.7": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.09.0201.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La non mention de la désignation cadastrale de l'immeuble faisant l'objet de l'infraction en matière d'urbanisme, ou de l'identité de son propriétaire ne pouvant être sanctionné par le conservateur des hypothèques que par le refus de la transcription, il n'y a aucune raison de déclarer l'action publique irrecevable si la transcription a bien été opérée; il en va de même en cas d'indication erronée dans la citation de la désignation cadastrale ou du propriétaire (1). (1) Voir Cass., 13 mai 1986, RG 18, Pas., 1986, n° 560 et R.W., 1987-88, p. 673, avec la note VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 octobre 1999, RG P.97.0897.N, Pas., 1999, n° 503."
+      ],
+      "abstractNL": [
+        "Daar de sanctie voor de niet-vermelding van de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het stedenbouwmisdrijf of van de identificatie van de eigenaar ervan, alleen de mogelijkheid is voor de hypotheekbewaarder om de overschrijving te weigeren, zijn er geen redenen de strafvordering niet ontvankelijk te verklaren, als de overschrijving eenmaal heeft plaatsgehad; hetzelfde geldt wanneer de vermelding in de dagvaarding van de kadastrale omschrijving of van de eigenaar verkeerd zou zijn (1). (1) Zie Cass., 13 mei 1986, AR 18, A.C., 1985-86, 1236 en R.W., 1987-88, p. 673, met noot VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 okt. 1999, AR P.97.0897.N, A.C., 1999, nr. 503."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090421.3": {
+      "court": "CASS",
+      "date": "2009-04-21",
+      "roleNumber": "P.08.1817.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La remise en état des lieux en leur état antérieur n'implique pas que les lieux doivent nécessairement être remis dans un état matériel identique à la situation existant avant l'infraction en matière d'urbanisme; cette remise en état peut également impliquer que la construction illégale soit complètement ou partiellement démolie, même si une autre construction se trouvait à cet endroit avant l'infraction (1). (1) Cass., 5 juin 2001, RG P.99.1455.N, Pas., 2001, n° 331; voir: Cass., 18 décembre 2001, RG P.99.1548.N, Pas., 2001, n° 709."
+      ],
+      "abstractNL": [
+        "Het herstel in de oorspronkelijke toestand houdt niet in dat de plaats noodzakelijk moet worden hersteld in de materiële toestand die identiek is aan de toestand die vóór de bouwovertreding bestond; dit herstel kan ook inhouden dat de illegale constructie volledig of gedeeltelijk wordt afgebroken ook al stond er voor de bouwovertreding op die plaats een andere constructie (1). (1) Cass., 5 juni 2001, AR P.99.1455.N, A.C., 2001, nr 331; Zie: Cass., 18 dec. 2001, AR P.99.1548.N, A.C., 2001, nr 709."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090310.7": {
+      "court": "CASS",
+      "date": "2009-03-10",
+      "roleNumber": "P.08.1604.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'action en réparation dont l'initiative appartient à l'administration compétente et sans laquelle les instances judiciaires ne peuvent requérir ou prononcer d'office la condamnation à la réparation, ne fait pas virtuellement partie de l'action publique et ne peut être introduite pour la première fois en degré d'appel : le principe dévolutif caractérisant pour l'instance en appel, exclut que le juge d'appel ait plus de pouvoir que le premier juge."
+      ],
+      "abstractNL": [
+        "De herstelvordering, die toekomt aan het bevoegde bestuur en zonder wiens initiatief de gerechtelijke overheid noch ambtshalve het herstel kan vorderen noch ambtshalve tot herstel kan veroordelen, ligt niet virtueel besloten in de strafvordering en kan niet voor het eerst in hoger beroep worden gesteld: het devolutief principe dat bepalend is voor de aanleg in hoger beroep, sluit uit dat de rechter in hoger beroep meer zou kunnen dan de eerste rechter."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090217.10": {
+      "court": "CASS",
+      "date": "2009-02-17",
+      "roleNumber": "P.08.1587.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/17/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Qualifier de \"peine\" au sens de l'article 6.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales la remise des lieux en leur état initial implique seulement le respect des garanties de cette disposition, notamment le traitement de la cause dans un délai raisonnable; ni les articles 6 ou 13 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni l'article 14 du Pacte international relatif aux droits civils et politiques, ni aucune autre disposition de ces conventions n'indiquent les suites que le juge doit donner au dépassement du délai raisonnable qu'il constate, de sorte qu'il appartient au juge qui accorde une diminution de peine au vu du dépassement du délai raisonnable de décider en fait et sur la base des éléments concrets de la cause dans quelle mesure et sous quelles conditions cette diminution peut être accordée, pour autant que cette diminution soit réelle et quantifiable (1). (1) Voir Cass., 14 juin 2006, RG P.05.1632.F, Pas., 2006, n° 329; 28 octobre 2008, RG P.08.0880.N, Pas., 2008, n° ...; 4 novembre 2008, RG P.08.0081.N, Pas., 2008, n° ... . Voir également C.A., 2 mars 1995, n° 18/95, considération B.3."
+      ],
+      "abstractNL": [
+        "De vaststelling dat het herstel in de oorspronkelijke toestand een \"straf\" is in de zin van artikel 6.1 EVRM, brengt enkel mee dat de waarborgen van die bepaling moeten worden in acht genomen, waaronder de behandeling van de vordering binnen een redelijke termijn; noch de artikelen 6 of 13 EVRM, noch artikel 14 IVBPR, noch enige andere bepaling van die verdragen duiden de gevolgen aan die de rechter aan een door hem vastgestelde overschrijding van de redelijke termijn moet verbinden, zodat het aan de rechter staat om, wanneer hij beslist een strafvermindering toe te kennen omdat de redelijke termijn is overschreden, in feite en op grond van de concrete gegevens van de zaak te oordelen in welke mate en onder welke voorwaarden die vermindering kan worden toegekend, op voorwaarde dat die vermindering reëel en meetbaar is (1). (1) Zie Cass., 14 juni 2006, AR P.05.1632.F, A.C., 2006, nr 329; 28 okt. 2008, AR P.08.0880.N, A.C., 2008, nr ...; 4 nov. 2008, AR P.08.0081.N, A.C., 2008, nr ... Zie ook Arbitragehof, 2 maart 1995, nr 18/95, overweging B.3."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090210.14": {
+      "court": "CASS",
+      "date": "2009-02-10",
+      "roleNumber": "P.08.1163.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/10/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de Monsieur l'avocat général De Swaef publiées à leur date dans A.C.; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313; Cass., 18 mars 2008, RG P.07.1509.N, Pas., 2008, n° 187."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2009:ARR.20090210.20": {
+      "court": "CASS",
+      "date": "2009-02-10",
+      "roleNumber": "P.08.1163.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de Monsieur l'avocat général De Swaef publiées à leur date dans A.C.; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313; Cass., 18 mars 2008, RG P.07.1509.N, Pas., 2008, n° 187."
+      ],
+      "abstractNL": [
+        "De rechter gaat na of de beslissing van de stedenbouwkundige inspecteur om een bepaalde herstelmaatregel te vorderen, uitsluitend met het oog op de goede ruimtelijke ordening is genomen; hij moet de vordering die steunt op motieven die vreemd zijn aan de ruimtelijke ordening of op een opvatting van een goede ruimtelijke ordening die kennelijk onredelijk is, zonder gevolg laten (1). (1) Zie Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323 met conclusie advocaat-generaal De Swaef; Cass., 12 okt. 2004, AR P.04.0476.N, A.C., 2004, nr. 473; Cass., 3 nov. 2004, AR P.04.0730.F, A.C., 2004, nr. 526; Cass., 3 juni 2005, AR C.04.0029.N, A.C., 2005, nr. 313; Cass., 18 maart 2008, AR P.07.1509.N, A.C., 2008, nr. 187."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090106.5": {
+      "court": "CASS",
+      "date": "2009-01-06",
+      "roleNumber": "P.08.0674.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/06/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La constatation qu'en matière d'urbanisme, une remise en état des lieux constitue une peine au sens des articles 6.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, a seulement pour effet que les garanties offertes par cette disposition doivent être observées; même s'il constate le dépassement du délai raisonnable, le juge pénal peut ordonner cette remise en état dans le but de mettre fin aux conséquences de l'infraction en matière d'urbanisme et d'éviter que le prévenu continue à bénéficier de l'avantage de l'infraction commise par lui (1). (1) Voir: Cass., 28 octobre 2008, RG P.08.0880.N, Pas., 2008, n° 590, et Cass., 4 novembre 2008, RG P.08.0081.N, Pas., 2008, n° 608 avec conclusions du premier avocat général DE SWAEF publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De vaststelling dat inzake stedenbouw een herstel in de oorspronkelijke staat een straf is in de zin van artikel 6.1 E.V.R.M, brengt enkel met zich mee dat de waarborgen van die bepaling moeten worden in acht genomen; het blijft voor de strafrechter mogelijk, ook wanneer hij vaststelt dat de redelijke termijn is overschreden, dit herstel te bevelen teneinde de gevolgen van het stedenbouwmisdrijf te doen ophouden en te voorkomen dat de beklaagde het voordeel uit het door hem gepleegde misdrijf behoudt (1). (1) Zie Cass., 28 okt. 2008, AR P.08.0880.N, A.C., 2008, nr 590; Cass., 4 nov. 2008, AR P.08.0081.N, A.C., 2008, nr 608 met conclusie eerste advocaat-generaal DE SWAEF."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081125.3": {
+      "court": "CASS",
+      "date": "2008-11-25",
+      "roleNumber": "P.08.0883.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/25/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que la remise des lieux en leur état initial puisse être considérée comme une peine au sens de l'article 6.1, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, n'empêche pas qu'en droit interne, cette remise en état tende à annuler les conséquences de l'infraction commise en matière d'urbanisme à laquelle s'applique l'article 13, § 5, de la Loi spéciale du 6 janvier 1989 sur la Cour Constitutionnelle."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat het herstel in de oorspronkelijke staat kan worden beschouwd als een straf in de zin van artikel 6.1 E.V.R.M., belet niet dat dit herstel in het interne recht strekt tot het ongedaan maken van de gevolgen van het stedenbouwmisdrijf, waarop artikel 13, § 5, Bijzondere Wet Grondwettelijk Hof toepasselijk is."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081028.6": {
+      "court": "CASS",
+      "date": "2008-10-28",
+      "roleNumber": "P.08.0880.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/28/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Considérer la remise des lieux en leur état initial comme une peine, au sens de l'article 6, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, a pour seule conséquence que les garanties prévues à ladite disposition doivent être respectées, mais n'implique pas que cette mesure est de nature pénale de sorte que les dispositions générales du droit pénal et du droit de la procédure pénale belges doivent être appliquées in casu (1). (1) Voir Cass., 14 juin 2006, RG P.05.1632.F, Pas., 2006, n° 329; voir également C. Const., n° 18/95, 2 mars 1995, B.3."
+      ],
+      "abstractNL": [
+        "Het beschouwen van het herstel in de oorspronkelijke staat als een straf in de zin van artikel 6 EVRM brengt enkel met zich mee dat de in die bepaling vervatte waarborgen moeten worden in acht genomen; het brengt niet met zich mee dat die maatregel van strafrechtelijke aard is zodat de algemene bepalingen van het Belgisch strafrecht en strafprocesrecht terzake toepassing moeten vinden (1). (1) Zie Cass., 14 juni 2006, AR P.05.1632.F, A.C., 2006, nr. 329; zie ook Grondw. Hof, nr. 18/95, 2 maart 1995, overweging B.3."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081028.5": {
+      "court": "CASS",
+      "date": "2008-10-28",
+      "roleNumber": "P.08.0858.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Un permis d'urbanisme pouvant être refusé ou accordé sous conditions au seul motif déjà des conditions impératives de sécurité incendie, il n'est pas exclu que l'action en réparation soit aussi fondée sur le seul motif de la sécurité incendie (1). (1) Voir Cass., 17 octobre 2006, RG P.06.0710.N, Pas., 2006, n° 490."
+      ],
+      "abstractNL": [
+        "Daar een stedenbouwvergunning kan worden geweigerd of voorwaardelijk verleend, alleen reeds op grond van dwingende vereisten van brandveiligheid, is het niet uit te sluiten dat ook de herstelvordering alleen op grond van brandveiligheid wordt gemotiveerd (1). (1) Zie Cass., 17 okt. 2006, AR P.06.0710.N, A.C., 2006, nr. 490."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080923.3": {
+      "court": "CASS",
+      "date": "2008-09-23",
+      "roleNumber": "P.08.0468.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/09/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de maintien en matière d'urbanisme entraîne seulement l'extinction de l'action publique fondée sur ladite infraction; à défaut de disposition contraire, cette modification n'a pas pour conséquence que le maintien, qui était punissable dans la période où il a eu lieu, ne peut plus constituer le fondement d'une demande de remise en état, ni que le juge pénal devant lequel la demande de remise en état a été intentée au moment où le maintien était encore punissable, perd ainsi sa compétence de juger la demande de remise en état (1). (1) Cass., 13 décembre 2005, RG P.05.0693.N, Pas., 2005, n° 666, avec concl. M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding inzake stedenbouw heeft alleen het verval van de op dat misdrijf gesteunde strafvordering tot gevolg; bij ontstentenis van andersluidende bepaling brengt deze wijziging niet mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering, noch dat de strafrechter voor wie de herstelvordering werd ingesteld op het ogenblik dat de instandhouding nog strafbaar was, zijn bevoegdheid verliest nog verder de herstelvordering te beoordelen (1). (1) Cass., 13 dec. 2005, AR P.05.0693.N, A.C., 2005, nr. 666, met concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080624.1": {
+      "court": "CASS",
+      "date": "2008-06-24",
+      "roleNumber": "P.08.0179.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/24/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'article 149, § 1er, du Décret du 18 mai 1999 portant organisation de l'aménagement du territoire, n'implique pas que la partie civile qui obtient la remise en son état initial à charge du prévenu, ne peut bénéficier d'une astreinte."
+      ],
+      "abstractNL": [
+        "Artikel 149, § 1, Stedenbouwdecreet 1999, houdt niet in dat aan de burgerlijke partij die het herstel in de oorspronkelijke staat ten laste van de beklaagde bekomt, geen dwangsom kan worden toegekend."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080318.3": {
+      "court": "CASS",
+      "date": "2008-03-18",
+      "roleNumber": "P.07.1509.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/18/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge examine si la décision de l'inspecteur urbaniste de demander une mesure de remise en état déterminée a été prise dans le but exclusif d'un bon aménagement du territoire; il doit laisser sans suite la demande qui est fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception d'un bon aménagement du territoire qui est manifestement déraisonnable (1). (1) Voir Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323 avec les conclusions de M. l'avocat général DE SWAEF; Cass., 12 octobre 2004, RG P.04.0476.N, Pas., 2004, n° 473; Cass., 3 novembre 2004, RG P.04.0730.F, Pas., 2004, n° 526; Cass., 3 juin 2005, RG C.04.0029.N, Pas., 2005, n° 313."
+      ],
+      "abstractNL": [
+        "De rechter gaat na of de beslissing van de stedenbouwkundig inspecteur om een bepaalde herstelmaatregel te vorderen uitsluitend met het oog op de goede ruimtelijke ordening is genomen; hij moet de vordering die steunt op motieven die vreemd zijn aan de ruimtelijke ordening of op een opvatting van een goede ruimtelijke ordening die kennelijk onredelijk is, zonder gevolg laten (1). (1) Zie Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323 met conclusie adv.-gen. DE SWAEF; Cass., 12 okt. 2004, AR P.04.0476.N, A.C., 2004, nr. 473; Cass., 3 nov. 2004, AR P.04.0730.F, A.C., 2004, nr. 526; Cass., 3 juni 2005, AR C.04.0029.N, A.C., 2005, nr. 313."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070913.2": {
+      "court": "CASS",
+      "date": "2007-09-13",
+      "roleNumber": "C.06.0436.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de maintien en matière d'urbanisme entraîne seulement l'extinction de l'action publique fondée sur ladite infraction; cette modification n'a toutefois par pour conséquence que le maintien, qui était punissable à l'époque où il a eu lieu, ne peut plus constituer le fondement d'une demande de remise en état devant le juge civil (1). (1) Voir Cass., 10 octobre 2006, RG P.06.0640.N, N°... à propos d'une problématique identique concernant toutefois la demande de remise en état introduite devant le juge pénal."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding inzake stedenbouw heeft alleen het verval van de op het misdrijf gesteunde strafvordering tot gevolg; deze wijziging brengt evenwel niet met zich mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering voor de burgerlijke rechter (1). (1) Zie Cass. 10 okt. 2006, AR P.06.0640.N, nr ..., over dezelfde problematiek, evenwel met betrekking tot de herstelvordering ingesteld voor de strafrechter."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070605.10": {
+      "court": "CASS",
+      "date": "2007-06-05",
+      "roleNumber": "P.06.1545.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'inspecteur urbaniste peut interjeter appel de la décision rendue sur la demande de remise en état rendue dans une instance introduite à la suite d'une demande de retrait visée aux articles 10 et suivants de la Loi spéciale du 6 janvier 1989 sur la Cour constitutionnelle."
+      ],
+      "abstractNL": [
+        "De stedenbouwkundige inspecteur kan hoger beroep instellen tegen de beslissing over de herstelvordering genomen in een geding ingeleid ingevolge een verzoek tot intrekking bedoeld in de artikelen 10 en volgende, Bijzondere Wet Grondwettelijk Hof."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070522.1": {
+      "court": "CASS",
+      "date": "2007-05-22",
+      "roleNumber": "P.06.1692.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le caractère civil des mesures de réparation en matière d'urbanisme permet qu'ensuite de la décision rendue sur la peine, l'action en réparation, même exercée par le ministère public, soit tranchée de manière distincte (1). (1) Cass., 3 avril 2007, RG P.06.1610.N, n° ..."
+      ],
+      "abstractNL": [
+        "Omwille van het civielrechtelijk karakter van de herstelmaatregelen inzake stedenbouw mag, na de uitspraak over de straf, over de herstelvordering, zelfs benaarstigd door het openbaar ministerie, afzonderlijk worden beslist (1). (1) Cass., 3 april 2007, AR P.06.1610.N, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070403.1": {
+      "court": "CASS",
+      "date": "2007-04-03",
+      "roleNumber": "P.06.1610.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les mesures de réparation visées à l'article 149, § 1, alinéa 1er, du décret portant organisation de l'aménagement du territoire, ayant un caractère civil, visent à mettre fin, comme modalité particulière de réparation ou de restitution, à la situation contraire à la loi née de l'infraction et portant préjudice à l'intérêt général; tel est aussi le cas lorsque l'action en réparation est exercée par le ministère public (1). (1) Voir: Cass., 24 février 2004, RG P.03.1143.N, n° 96 avec conclusions de M. l'avocat général DE SWAEF; Cass., 9 septembre 2004, RG C.03.0393.N, n° 400; Cass., 15 novembre 2005, RG P.05.0830.N, n° 595 et les conclusions de M. l'avocat général BRESSELEERS, publiées à leur date dans A.C.; Cass., 10 juin 2005, RG C.04.0348.N, n° 333."
+      ],
+      "abstractNL": [
+        "De in artikel 149, § 1, eerste lid, Stedenbouwdecreet bedoelde herstelmaatregelen, die een civielrechtelijk karakter hebben, strekken ertoe, als bijzondere vorm van vergoeding of teruggave, een einde te maken aan de met de wet strijdige toestand die uit het misdrijf is ontstaan en waardoor het algemeen belang wordt geschaad; dit geldt evenzeer wanneer de herstelvordering door het openbaar ministerie wordt benaarstigd (1). (1) Zie Cass., 24 feb. 2004, AR P.03.1143.N, nr 96 met conclusie adv.-gen. DE SWAEF; Cass., 9 sept. 2004, AR C.03.0393.N, nr 400; Cass., 15 nov. 2005, AR P.05.0830.N, nr 595 en de conclusie van adv.-gen. BRESSELEERS, Cass., 10 juni 2005, AR C.04.0348.N, nr 333."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070403.8": {
+      "court": "CASS",
+      "date": "2007-04-03",
+      "roleNumber": "P.06.1586.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/03/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La formalité de l'article 149, § 4, alinéa 1er, du décret portant organisation de l'aménagement du territoire, disposant notamment que l'action en réparation mentionne à tout le moins une description de la situation préalable à l'infraction, et qu'un extrait récent du registre des plans soit joint à la requête, n'est pas prescrite à peine de nullité ni substantielle (1). (1) In casu, un extrait du registre des plans était effectivement joint, mais ce dernier contenait une mention erronée des données cadastrales du bien immobilier concerné."
+      ],
+      "abstractNL": [
+        "De pleegvorm van artikel 149, § 4, eerste lid, Stedenbouwdecreet, dat onder meer bepaalt dat de herstelvordering minstens een omschrijving van de toestand voorafgaand aan het misdrijf vermeldt, en dat een recent uittreksel uit het plannenregister wordt bijgevoegd, is niet voorgeschreven op straffe van nietigheid noch substantieel (1). (1) In casu was weliswaar een uittreksel uit het plannenregister gevoegd, doch dit bevatte een verkeerde vermelding van de kadastrale gegevens van het betrokken onroerend goed."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070206.1": {
+      "court": "CASS",
+      "date": "2007-02-06",
+      "roleNumber": "P061286N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le caractère réel de la demande de remise en état en matière d'urbanisme a pour conséquence que, nonobstant l'application de l'article 160 du décret de la Région flamande du 18 mai 1999 portant organisation de l'aménagement du territoire, même le copropriétaire qui n'a pas été impliqué dans le litige concernant la demande de remise en état et auquel cette demande n'a pas été préalablement communiquée, doit subir les conséquences découlant du jugement et doit, dès lors, en supporter l'exécution (1). (1) Voir Cass., 22 février 2005, RG P.04.0998.N, n° 107."
+      ],
+      "abstractNL": [
+        "Het zakelijk karakter van de vordering tot herstel inzake stedenbouw heeft tot gevolg dat, onverminderd de toepassing van artikel 160 Stedenbouwdecreet 1999, ook de mede-eigenaar die bij het geding over de vordering tot herstel niet werd betrokken en aan wie de herstelvordering voorafgaandelijk niet werd medegedeeld, de gevolgen dient te ondergaan die uit het vonnis voortvloeien en bijgevolg de uitvoering ervan dient te gedogen (1). (1) Zie: Cass., 22 feb. 2005, AR P.04.0998.N, nr 107."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060905.4": {
+      "court": "CASS",
+      "date": "2006-09-05",
+      "roleNumber": "P060543N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 198bis du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui s'applique en tant que disposition transitoire dans le cas d'une demande de remise en état introduite par l'administration compétente avant que le Conseil supérieur de la politique de réparation, à défaut de création et d'approbation de son règlement d'ordre intérieur, puisse émettre un avis, vise une autre situation juridique que l'article 149, § 1er, alinéa 1er du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui, tant dans sa version antérieure que dans sa version postérieure à l'arrêt d'annulation n°14/2005 de la Cour d'arbitrage, vise la demande de remise en état introduite par l'administration après la création du Conseil supérieur de la politique de réparation et l'approbation de son règlement d'ordre intérieur."
+      ],
+      "abstractNL": [
+        "Artikel 198bis, Stedenbouwdecreet 1999 dat als overgangsbepaling geldt voor de herstelvordering die door het bevoegde bestuur wordt ingediend nog vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting en goedkeuring van zijn huishoudelijk reglement, advies kan verlenen, beoogt een andere rechtstoestand dan artikel 149, § 1, eerste lid, Stedenbouwdecreet 1999, dat zowel in zijn versie voor als in zijn versie na het vernietigingsarrest nr 14/2005 van het Arbitragehof, de herstelvordering beoogt die na de oprichting van de Hoge Raad voor het Herstelbeleid en de goedkeuring van zijn huishoudelijk reglement door het bestuur wordt ingediend."
+      ]
+    }
+  },
+  "150": {
+    "ECLI:BE:CASS:2009:ARR.20090609.7": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.09.0201.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La non mention de la désignation cadastrale de l'immeuble faisant l'objet de l'infraction en matière d'urbanisme, ou de l'identité de son propriétaire ne pouvant être sanctionné par le conservateur des hypothèques que par le refus de la transcription, il n'y a aucune raison de déclarer l'action publique irrecevable si la transcription a bien été opérée; il en va de même en cas d'indication erronée dans la citation de la désignation cadastrale ou du propriétaire (1). (1) Voir Cass., 13 mai 1986, RG 18, Pas., 1986, n° 560 et R.W., 1987-88, p. 673, avec la note VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 octobre 1999, RG P.97.0897.N, Pas., 1999, n° 503."
+      ],
+      "abstractNL": [
+        "Daar de sanctie voor de niet-vermelding van de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het stedenbouwmisdrijf of van de identificatie van de eigenaar ervan, alleen de mogelijkheid is voor de hypotheekbewaarder om de overschrijving te weigeren, zijn er geen redenen de strafvordering niet ontvankelijk te verklaren, als de overschrijving eenmaal heeft plaatsgehad; hetzelfde geldt wanneer de vermelding in de dagvaarding van de kadastrale omschrijving of van de eigenaar verkeerd zou zijn (1). (1) Zie Cass., 13 mei 1986, AR 18, A.C., 1985-86, 1236 en R.W., 1987-88, p. 673, met noot VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 okt. 1999, AR P.97.0897.N, A.C., 1999, nr. 503."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090217.5": {
+      "court": "CASS",
+      "date": "2009-02-17",
+      "roleNumber": "P.08.1585.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui, pour des motifs fondés d'un bon aménagement du territoire local qu'il énonce, privilégie la mesure de remise des lieux en leur état initial telle qu'elle est demandée par la partie civile, plutôt que la mesure plus radicale d'exécution de travaux d'adaptation requise par l'administration compétente, ne méconnaît pas la décision d'opportunité de cette autorité, mais allie sa volonté de faire disparaître les conséquences de l'infraction en matière d'urbanisme avec l'intérêt légitime de la partie civile à voir réparé en nature un dommage qu'elle subit."
+      ],
+      "abstractNL": [
+        "De rechter, die, op de gegronde redenen van goede plaatselijke ruimtelijke ordening die hij vermeldt, de voorkeur geeft aan de maatregel van herstel in de oorspronkelijke staat zoals gevorderd door de burgerlijke partij, eerder dan aan de meer indringende maatregel van aanpassingswerken zoals gevorderd door het bevoegde bestuur, miskent niet het opportuniteitsoordeel van deze overheid, maar verzoent haar wil tot het doen verdwijnen van de gevolgen van het stedenbouwmisdrijf met het rechtmatig belang van de burgerlijke partij tot een herstel in natura van een door haar geleden schade."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090106.5": {
+      "court": "CASS",
+      "date": "2009-01-06",
+      "roleNumber": "P.08.0674.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/06/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La constatation qu'en matière d'urbanisme, une remise en état des lieux constitue une peine au sens des articles 6.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, a seulement pour effet que les garanties offertes par cette disposition doivent être observées; même s'il constate le dépassement du délai raisonnable, le juge pénal peut ordonner cette remise en état dans le but de mettre fin aux conséquences de l'infraction en matière d'urbanisme et d'éviter que le prévenu continue à bénéficier de l'avantage de l'infraction commise par lui (1). (1) Voir: Cass., 28 octobre 2008, RG P.08.0880.N, Pas., 2008, n° 590, et Cass., 4 novembre 2008, RG P.08.0081.N, Pas., 2008, n° 608 avec conclusions du premier avocat général DE SWAEF publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De vaststelling dat inzake stedenbouw een herstel in de oorspronkelijke staat een straf is in de zin van artikel 6.1 E.V.R.M, brengt enkel met zich mee dat de waarborgen van die bepaling moeten worden in acht genomen; het blijft voor de strafrechter mogelijk, ook wanneer hij vaststelt dat de redelijke termijn is overschreden, dit herstel te bevelen teneinde de gevolgen van het stedenbouwmisdrijf te doen ophouden en te voorkomen dat de beklaagde het voordeel uit het door hem gepleegde misdrijf behoudt (1). (1) Zie Cass., 28 okt. 2008, AR P.08.0880.N, A.C., 2008, nr 590; Cass., 4 nov. 2008, AR P.08.0081.N, A.C., 2008, nr 608 met conclusie eerste advocaat-generaal DE SWAEF."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080624.1": {
+      "court": "CASS",
+      "date": "2008-06-24",
+      "roleNumber": "P.08.0179.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/24/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'article 149, § 1er, du Décret du 18 mai 1999 portant organisation de l'aménagement du territoire, n'implique pas que la partie civile qui obtient la remise en son état initial à charge du prévenu, ne peut bénéficier d'une astreinte."
+      ],
+      "abstractNL": [
+        "Artikel 149, § 1, Stedenbouwdecreet 1999, houdt niet in dat aan de burgerlijke partij die het herstel in de oorspronkelijke staat ten laste van de beklaagde bekomt, geen dwangsom kan worden toegekend."
+      ]
+    }
+  },
+  "151": {
+    "ECLI:BE:CASS:2015:ARR.20150403.1": {
+      "court": "CASS",
+      "date": "2015-04-03",
+      "roleNumber": "C.13.0035.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/04/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les règles du Code judiciaire s'appliquent à la demande de réparation devant le juge civil de sorte qu'elle est, en principe, portée devant le juge civil au moyen d ‘une citation en vertu de l'article 700 du Code judiciaire par citation devant le juge civil (1). (1) L'article 149, §1er, al. 1er et 2 et §4 du décret du 18 mai 1999, tel qu'il était applicable avant sa modification par l'article 53, 1°, 2° et 7° du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien; l'article 151 du décret du 18 mai 1999 tel qu'il était applicable avant sa modification par l'article 54 du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien."
+      ],
+      "abstractNL": [
+        "Op de herstelvordering voor de burgerlijke rechter zijn de regels van het Gerechtelijk Wetboek van toepassing, zodat de herstelvordering in de regel op grond van artikel 700 Gerechtelijk Wetboek bij de dagvaarding voor de burgerlijke rechter wordt ingeleid (1). (1) Artikel 149, §1, eerste en tweede lid, en §4, Stedenbouwdecreet 1999, zoals van toepassing voor de wijziging ervan bij artikel 53, 1°, 2° en 7°, van het Aanpassingsdecreet 2009; Artikel 151 Stedenbouwdecreet, zoals van toepassing voor de wijziging ervan bij artikel 54 van het Aanpassingsdecreet 2009."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110325.4": {
+      "court": "CASS",
+      "date": "2011-03-25",
+      "roleNumber": "C.10.0016.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il relève de la compétence du juge de contrôler la légalité externe et interne de la requête de l'inspecteur urbaniste ou du Collège des bourgmestre et échevins de la commune et d'examiner si elle est conforme à la loi ou si elle est entachée d'excès ou de détournement de pouvoir, sans qu'il appartienne au juge d'apprécier l'opportunité de pareille demande (1). (1) Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323, avec les conclusions de l'avocat général De Swaef publiées dans A.C., 2004."
+      ],
+      "abstractNL": [
+        "Het behoort de rechter de vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen op haar externe en interne wettigheid te toetsen en te onderzoeken of ze strookt met de wet dan wel op machtsoverschrijding of machtsafwending berust, zonder dat hij hierbij vermag de opportuniteit van de vordering te beoordelen (1). (1) Cass., 15 juni 2004, AR P.04.0237.N, A.C., 2004, nr. 323, met concl. van advocaat-generaal DE SWAEF."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090609.7": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.09.0201.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La non mention de la désignation cadastrale de l'immeuble faisant l'objet de l'infraction en matière d'urbanisme, ou de l'identité de son propriétaire ne pouvant être sanctionné par le conservateur des hypothèques que par le refus de la transcription, il n'y a aucune raison de déclarer l'action publique irrecevable si la transcription a bien été opérée; il en va de même en cas d'indication erronée dans la citation de la désignation cadastrale ou du propriétaire (1). (1) Voir Cass., 13 mai 1986, RG 18, Pas., 1986, n° 560 et R.W., 1987-88, p. 673, avec la note VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 octobre 1999, RG P.97.0897.N, Pas., 1999, n° 503."
+      ],
+      "abstractNL": [
+        "Daar de sanctie voor de niet-vermelding van de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het stedenbouwmisdrijf of van de identificatie van de eigenaar ervan, alleen de mogelijkheid is voor de hypotheekbewaarder om de overschrijving te weigeren, zijn er geen redenen de strafvordering niet ontvankelijk te verklaren, als de overschrijving eenmaal heeft plaatsgehad; hetzelfde geldt wanneer de vermelding in de dagvaarding van de kadastrale omschrijving of van de eigenaar verkeerd zou zijn (1). (1) Zie Cass., 13 mei 1986, AR 18, A.C., 1985-86, 1236 en R.W., 1987-88, p. 673, met noot VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 okt. 1999, AR P.97.0897.N, A.C., 1999, nr. 503."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070913.2": {
+      "court": "CASS",
+      "date": "2007-09-13",
+      "roleNumber": "C.06.0436.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'abrogation du caractère punissable de l'infraction de maintien en matière d'urbanisme entraîne seulement l'extinction de l'action publique fondée sur ladite infraction; cette modification n'a toutefois par pour conséquence que le maintien, qui était punissable à l'époque où il a eu lieu, ne peut plus constituer le fondement d'une demande de remise en état devant le juge civil (1). (1) Voir Cass., 10 octobre 2006, RG P.06.0640.N, N°... à propos d'une problématique identique concernant toutefois la demande de remise en état introduite devant le juge pénal."
+      ],
+      "abstractNL": [
+        "De opheffing van het strafbare karakter van het misdrijf van instandhouding inzake stedenbouw heeft alleen het verval van de op het misdrijf gesteunde strafvordering tot gevolg; deze wijziging brengt evenwel niet met zich mee dat de instandhouding, die strafbaar was in de periode waarin zij plaatsvond, niet langer de grondslag kan uitmaken van een herstelvordering voor de burgerlijke rechter (1). (1) Zie Cass. 10 okt. 2006, AR P.06.0640.N, nr ..., over dezelfde problematiek, evenwel met betrekking tot de herstelvordering ingesteld voor de strafrechter."
+      ]
+    }
+  },
+  "152": {
+    "ECLI:BE:CASS:2010:ARR.20100128.1": {
+      "court": "CASS",
+      "date": "2010-01-28",
+      "roleNumber": "C.08.0271.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions de l'article 152, alinéas 1er et 3, du décret du Conseil flamand du 18 mai 1999 portant organisation de l'aménagement du territoire n'imposent pas de procès-verbal de constatation, dressé après contrôle, en cas de non-exécution ou d'exécution incomplète."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van artikel 152, eerste en derde lid, van het decreet van het Vlaams Parlement van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening volgt niet dat het proces-verbaal van vaststelling, opgesteld na controle, ook verplicht is ingeval van niet-uitvoering of onvolledige uitvoering."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100114.2": {
+      "court": "CASS",
+      "date": "2010-01-14",
+      "roleNumber": "C.09.0029.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le délai qui est fixé par le juge pénal en matière d'urbanisme afin de permettre au contrevenant de remettre les lieux en état, ne constitue pas une exécution forcée au sens de l'article 1495 du Code judiciaire, pour laquelle une signification préalable est en principe requise (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De termijn die door de strafrechter in stedenbouwzaken wordt bepaald om de overtreder toe te laten de plaats in de vorige staat te herstellen, maakt geen gedwongen tenuitvoerlegging uit in de zin van artikel 1495 Ger.W., waarvoor een voorafgaande betekening in de regel vereist is (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "153": {
+    "ECLI:BE:CASS:2014:ARR.20140327.6": {
+      "court": "CASS",
+      "date": "2014-03-27",
+      "roleNumber": "C.12.0518.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'avis du Conseil supérieur de la Politique de réparation n'est requis que si l'inspecteur urbaniste procède à une exécution d'office de la condamnation à la remise en état et non pour le recouvrement de l'astreinte encourue."
+      ],
+      "abstractNL": [
+        "Het advies van de Hoge Raad voor het Herstelbeleid is enkel vereist wanneer de stedenbouwkundige inspecteur overgaat tot ambtshalve uitvoering van de veroordeling tot herstel en niet bij de invordering van de verbeurde dwangsom."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100114.2": {
+      "court": "CASS",
+      "date": "2010-01-14",
+      "roleNumber": "C.09.0029.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le délai qui est fixé par le juge pénal en matière d'urbanisme afin de permettre au contrevenant de remettre les lieux en état, ne constitue pas une exécution forcée au sens de l'article 1495 du Code judiciaire, pour laquelle une signification préalable est en principe requise (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De termijn die door de strafrechter in stedenbouwzaken wordt bepaald om de overtreder toe te laten de plaats in de vorige staat te herstellen, maakt geen gedwongen tenuitvoerlegging uit in de zin van artikel 1495 Ger.W., waarvoor een voorafgaande betekening in de regel vereist is (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091224.5": {
+      "court": "CASS",
+      "date": "2009-12-24",
+      "roleNumber": "C.06.0279.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'inspecteur urbaniste agit au nom de la Région flamande tant lors de la demande d'une mesure de réparation que lorsque la mesure de réparation demandée et l'astreinte due sont exécutées de sorte que le pourvoi en cassation qui est dirigé contre lui en tant que personne agissant et intervenant au nom de la Région flamande, est recevable (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De stedenbouwkundig inspecteur treedt op in naam van het Vlaamse Gewest zowel bij het vorderen van een herstelmaatregel als bij het ten uitvoer leggen van de bevolen herstelmaatregel en van de verschuldigde dwangsommen, zodat het cassatieberoep dat gericht wordt tegen hem als handelend of optredend in naam van het Vlaamse Gewest, ontvankelijk is (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090421.3": {
+      "court": "CASS",
+      "date": "2009-04-21",
+      "roleNumber": "P.08.1817.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'action en réparation a été intentée par l'administration compétente avant que le Conseil supérieur de la politique de réparation n'ait pu rendre un avis, celui-ci n'ayant pas été créé et son règlement d'ordre intérieur n'ayant pas été approuvé, l'avis rendu à la libre demande du juge par le Conseil supérieur de la politique de réparation n'est contraignant ni pour l'administration, ni pour le juge, de sorte qu'il ne doit pas être conforme si l'administration veut persister dans son action et que le juge veut accueillir cette action (1). (1) Cass., 17 juin 2008, RG P.08.0256.N, Pas., 2008, n° 376."
+      ],
+      "abstractNL": [
+        "Wanneer de herstelvordering door het bevoegde bestuur werd ingediend vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting ervan en goedkeuring van zijn huishoudelijk reglement, advies kon verlenen, is het op vrijwillig verzoek van de rechter door de Hoge Raad voor het Herstelbeleid verleende advies niet bindend, noch voor het bestuur, noch voor de rechter, zodat het niet eensluidend dient te zijn zo het bestuur in zijn vordering wil volharden en de rechter deze vordering wil toekennen (1). (1) Cass., 17 juni 2008, AR P.08.0256.N, A.C., 2008, nr 376."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060905.4": {
+      "court": "CASS",
+      "date": "2006-09-05",
+      "roleNumber": "P060543N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 198bis du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui s'applique en tant que disposition transitoire dans le cas d'une demande de remise en état introduite par l'administration compétente avant que le Conseil supérieur de la politique de réparation, à défaut de création et d'approbation de son règlement d'ordre intérieur, puisse émettre un avis, vise une autre situation juridique que l'article 149, § 1er, alinéa 1er du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui, tant dans sa version antérieure que dans sa version postérieure à l'arrêt d'annulation n°14/2005 de la Cour d'arbitrage, vise la demande de remise en état introduite par l'administration après la création du Conseil supérieur de la politique de réparation et l'approbation de son règlement d'ordre intérieur."
+      ],
+      "abstractNL": [
+        "Artikel 198bis, Stedenbouwdecreet 1999 dat als overgangsbepaling geldt voor de herstelvordering die door het bevoegde bestuur wordt ingediend nog vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting en goedkeuring van zijn huishoudelijk reglement, advies kan verlenen, beoogt een andere rechtstoestand dan artikel 149, § 1, eerste lid, Stedenbouwdecreet 1999, dat zowel in zijn versie voor als in zijn versie na het vernietigingsarrest nr 14/2005 van het Arbitragehof, de herstelvordering beoogt die na de oprichting van de Hoge Raad voor het Herstelbeleid en de goedkeuring van zijn huishoudelijk reglement door het bestuur wordt ingediend."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010220.7": {
+      "court": "CASS",
+      "date": "2001-02-20",
+      "roleNumber": "P001489NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En matière d'urbanisme, aucune disposition légale ne subordonne l'exécution par la partie civile de la remise en état des lieux dans leur pristin état à l'inaction de l'administration à mettre en vigueur cette même mesure de remise en état des lieux (1)."
+      ],
+      "abstractNL": [
+        "Geen wetsbepaling stelt in zake stedenbouw het uitvoeren door de burgerlijke partij van het herstel van de plaats in de vorige toestand afhankelijk van het stilzitten van het bestuur om diezelfde herstelmaatregel in werking te stellen (1)."
+      ]
     }
   },
   "154": {
@@ -170,6 +1412,176 @@
       ],
       "abstractNL": [
         "Voor dergelijke strafbare handeling kan een stakingsbevel worden afgeleverd, zoals bedoeld in artikel 154 van het Stedenbouwdecreet 1999 en artikel 6.1.47 van de Vlaamse Codex Ruimtelijke Ordening voor zover vaststaat dat daardoor een inbreuk op de wettelijke regels inzake ruimtelijke ordening kan worden voorkomen (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130208.2": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.10.0669.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le président du tribunal de première instance statue quant au fond sur la demande de levée de l'ordre de cessation; il contrôle à cet égard sa légalité externe et interne et peut examiner si l'ordre est de nature préventive ou est fondé sur un abus de pouvoir (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De voorzitter van de rechtbank van eerste aanleg beslist ten gronde over de vordering tot opheffing van het stakingsbevel; hij toetst hierbij het stakingsbevel op zijn externe en interne wettigheid, en mag hierbij nagaan of het bevel een preventieve aard heeft, dan wel berust op machtsoverschrijding (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130208.1": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.10.0585.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge statue quant au fond sur la demande de levée de l'ordre de cessation et contrôle à cet égard sa légalité externe et interne et peut examiner si l'ordre est de nature préventive ou est fondé sur un abus ou un détournement de pouvoir."
+      ],
+      "abstractNL": [
+        "De rechter beslist ten gronde over de vordering tot opheffing van het stakingsbevel en toetst hierbij het bevel op zijn interne en externe wettigheid, en mag hierbij nagaan of het bevel een preventieve aard heeft, dan wel berust op machtsoverschrijding of machtsafwending."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130208.4": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.11.0617.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de cessation constitue une mesure préventive qui tend, non seulement, à garantir le pouvoir du juge d'ordonner la réparation mais qui vise aussi à prévenir des infractions aux règles légales en matière d'aménagement du territoire au sens des articles 146 du décret du 18 mai 1999 et 6.1.1. du Code flamand de l'aménagement du territoire (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het bevel tot staking is een preventieve maatregel die er niet alleen toe strekt de macht van de rechter om het herstel te bevelen veilig te stellen, maar ook bedoeld is om inbreuken op de wettelijke regels inzake ruimtelijke ordening zoals bedoeld in artikel 146 Stedenbouwdecreet 1999 en 6.1.1 Vlaamse Codex Ruimtelijke Ordening te voorkomen (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120223.3": {
+      "court": "CASS",
+      "date": "2012-02-23",
+      "roleNumber": "C.10.0333.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les mesures, en ce compris l'apposition des scellés, la saisie de matériaux et de matériel, en vue d'une application immédiate de l'ordre de cessation, de la décision de confirmation ou, le cas échéant, du jugement en référé, sont fondées sur l'ordre de cessation visé à l'article 154, de sorte que la mainlevée de l'ordre de cessation implique que les mesures accessoires prennent aussi fin de plein droit (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding onmiddellijk te kunnen toepassen, ontlenen hun rechtsgrond aan het stakingsbevel, zodat door de opheffing van het stakingsbevel ook de bijkomende maatregelen van rechtswege een einde nemen (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120223.2": {
+      "court": "CASS",
+      "date": "2012-02-23",
+      "roleNumber": "C.10.0237.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au président du tribunal de première instance, siégeant en référé, de contrôler la légalité interne et externe de l'ordre de cessation des travaux, des opérations ou de l'utilisation, ainsi que d'examiner s'il est conforme à la loi ou s'il repose sur un abus ou détournement de pouvoir (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Het komt aan de voorzitter van de rechtbank van eerste aanleg, zetelend in kort geding, toe het bevel tot staking van het werk, van de handelingen of van het gebruik op zijn externe en interne wettigheid te toetsen, alsmede te onderzoeken of het strookt met de wet dan wel op machtsoverschrijding of machtsafwending berust (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100527.19": {
+      "court": "CASS",
+      "date": "2010-05-27",
+      "roleNumber": "C.09.0293.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les inspecteurs urbanistes ont la compétence d'ordonner sur place la cessation immédiate des travaux lorsqu'ils constatent que le travail constitue une infraction au sens de l'article 146 du décret du 18 mai 1999 ou lorsqu'il n'est pas répondu à l'obligation de l'article 114, § 2 de ce décret."
+      ],
+      "abstractNL": [
+        "De stedenbouwkundige inspecteurs hebben de bevoegdheid om ter plaatse de onmiddellijke staking van het werk te bevelen indien zij vaststellen dat het werk een inbreuk vormt zoals bedoeld in artikel 146 van het Stedenbouwdecreet 1999 of wanneer niet voldaan is aan de verplichting van artikel 114, § 2, van dit decreet."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100301.3": {
+      "court": "CASS",
+      "date": "2010-03-01",
+      "roleNumber": "C.09.0392.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/01/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de cessation est une mesure préventive qui tend non seulement à sauvegarder le pouvoir du juge d'ordonner la réparation mais aussi à prévenir toutes infractions aux dispositions légales relatives à l'aménagement du territoire visées à l'article 146 du décret du parlement flamand du 18 mai 1999 portant organisation de l'aménagement du territoire. Il appartient au juge de contrôler la légalité externe et interne de l'ordre de cessation et d'examiner si cet ordre de cessation est conforme à la loi ou relève d'un abus ou d'un détournement de pouvoir (1). (1) Voir les conclusions du ministère public publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "Het bevel tot staking is een preventieve maatregel die niet alleen ertoe strekt de macht van de rechter om het herstel te bevelen veilig te stellen, maar ook bedoeld is om inbreuken op de wettelijke regels inzake ruimtelijke ordening zoals bedoeld in artikel 146 van het decreet te voorkomen. Het komt aan de rechter toe het bevel tot staking op zijn externe en interne wettigheid te toetsen, alsmede te onderzoeken of het strookt met de wet dan wel op machtsoverschrijding of machtsafwending berust (1). (1) Zie de conclusies van het openbaar ministerie."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090903.2": {
+      "court": "CASS",
+      "date": "2009-09-03",
+      "roleNumber": "C.08.0151.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/03/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La poursuite des travaux ou des modifications ultérieures apportées aux travaux contraires à un permis de bâtir, fût-ce par le rejet de la mesure de réparation réclamée, ressortit aux sanctions pénales prévues dans le chef ou à l'encontre de la personne qui poursuit des opérations, travaux ou modifications contraires à l'ordre de cessation, à la décision de confirmation ou, le cas échéant, à l'ordonnance de référé; le rejet de la mesure de réparation demandée, qui ne met pas fin à la contradiction constatée ou à l'absence de permis de bâtir, implique que la situation existante est tolérée mais cela ne s'étend pas aux travaux d'adaptation complémentaires."
+      ],
+      "abstractNL": [
+        "Het voortzetten van werken of verdere aanpassingen aan werken waarvan de strijdigheid met een bouwvergunning werd vastgesteld, weze dit met afwijzing van de gevorderde herstelmaatregel, ressorteert onder de strafsancties voorzien voor de persoon die handelingen, werken of wijzigingen voortzet in strijd met het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding; de afwijzing van de gevorderde herstelmaatregel, die de vastgestelde strijdigheid of afwezigheid van bouwvergunning niet opheft, impliceert een gedogen van de alsdan bestaande toestand, maar dit gedogen strekt zich niet uit tot bijkomende aanpassingswerken."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090116.3": {
+      "court": "CASS",
+      "date": "2009-01-16",
+      "roleNumber": "C.06.0480.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La cessation immédiate des travaux, des opérations ou de l'utilisation qui peut être ordonnée par voie orale et sur place par les fonctionnaires, agents ou officiers de police judiciaire lorsqu'ils constatent que le travail, les opérations ou les modifications constituent une infraction visée à l'article 146 du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, constitue une mesure préventive (1). (1) Cass., 18 mai 2007, RG C.06.0567.N, Bull., 2007, n° 260."
+      ],
+      "abstractNL": [
+        "Het bevel tot onmiddellijke staking van het werk, van de handelingen of van het gebruik dat door de bevoegde ambtenaren, agenten of officieren van gerechtelijke politie mondeling ter plaatse kan worden gegeven wanneer zij vaststellen dat dit werk, deze handelingen of de wijzigingen een inbreuk vormen zoals bedoeld in artikel 146 Stedenbouwdecreet 1999, is een preventieve maatregel (1). (1) Cass., 18 mei 2007, AR C.06.0567.N, A.C., 2007, nr. 260."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071108.5": {
+      "court": "CASS",
+      "date": "2007-11-08",
+      "roleNumber": "C.06.0624.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le président du tribunal de première instance statuant en référé sur une demande d'abrogation d'un ordre de cessation, statue au fond."
+      ],
+      "abstractNL": [
+        "De voorzitter van de rechtbank van eerste aanleg, die in kort geding uitspraak doet over een vordering tot opheffing van een stakingsbevel, beslist ten gronde."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070518.2": {
+      "court": "CASS",
+      "date": "2007-05-18",
+      "roleNumber": "C.06.0567.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La cessation immédiate des travaux, des opérations ou de l'utilisation qui peut être ordonnée par voie orale et sur place par les fonctionnaires, agents ou officiers de police judiciaire lorsqu'ils constatent que le travail, les opérations ou les modifications constituent une infraction au sens de l'article 146 du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, constitue une mesure préventive; le simple motif que la remise en état a été ordonné auparavant par jugement en vue d'un bon aménagement du territoire ne peut justifier l'ordre de cessation en exécution de ce jugement."
+      ],
+      "abstractNL": [
+        "Het bevel tot onmiddellijke staking van het werk, van de handelingen of van het gebruik dat door de bevoegde ambtenaren, agenten of officieren van gerechtelijke politie mondeling ter plaatse kan worden gegeven wanneer zij vaststellen dat dit werk, deze handelingen of de wijzigingen een inbreuk vormen zoals bedoeld in artikel 146, Stedenbouwdecreet 1999, is een preventieve maatregel; de enkele reden dat een herstel voordien met het oog op de goede ruimtelijke ordening bij vonnis werd bevolen, kan het bevelen van de staking ter uitvoering van dit vonnis niet verantwoorden."
+      ]
+    }
+  },
+  "155": {
+    "ECLI:BE:CASS:2012:ARR.20120223.3": {
+      "court": "CASS",
+      "date": "2012-02-23",
+      "roleNumber": "C.10.0333.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les mesures, en ce compris l'apposition des scellés, la saisie de matériaux et de matériel, en vue d'une application immédiate de l'ordre de cessation, de la décision de confirmation ou, le cas échéant, du jugement en référé, sont fondées sur l'ordre de cessation visé à l'article 154, de sorte que la mainlevée de l'ordre de cessation implique que les mesures accessoires prennent aussi fin de plein droit (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding onmiddellijk te kunnen toepassen, ontlenen hun rechtsgrond aan het stakingsbevel, zodat door de opheffing van het stakingsbevel ook de bijkomende maatregelen van rechtswege een einde nemen (1). (1) Zie de concl. van het O.M."
       ]
     }
   },
@@ -187,6 +1599,128 @@
       "abstractNL": [
         "De overheid die optreedt in het algemeen belang ter vrijwaring van de goede ruimtelijke ordening, meer bepaald als verweerder in een verzetsprocedure voor de burgerlijke rechter tegen een administratieve geldboete of een dwangbevel opgelegd op grond van artikel 156 Stedenbouwdecreet of artikel 6.1.49 Vlaamse Codex Ruimtelijke Ordening, kan tot betaling van een rechtsplegingsvergoeding worden veroordeeld (1). (1) Zie (op dit punt) andersluidende concl. 'in hoofdzaak' OM; zie tevens, wat de veroordeling tot betaling van een rechtsplegingsvergoeding door de Belgische Staat betreft wanneer het OM in het ongelijk wordt gesteld in een vordering die het op grond van artikel 138bis, §1, Gerechtelijk Wetboek instelde Cass. 13 januari 2017, AR C.15.0222.N, AC 2017, nr. 28, met concl. van Advocaat-generaal A. VAN INGELGEM."
       ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100318.4": {
+      "court": "CASS",
+      "date": "2010-03-18",
+      "roleNumber": "C.09.0149.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/18/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Il n'appartient pas au juge des saisies saisi de l'opposition formée contre la contrainte visée à l'article 157, § 1er du décret du 18 mai 1999 de se prononcer sur la validité de l'acte administratif qui sert de fondement à la contrainte, ni sur la validité de l'amende administrative (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het staat niet aan de beslagrechter, die kennis neemt van het verzet gedaan tegen het in artikel 157, § 1 Stedenbouwdecreet bedoeld dwangbevel uitspraak te doen over de geldigheid van de bestuurshandeling die aan het dwangbevel ten grondslag ligt, noch over de geldigheid van de administratieve geldboete (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070913.1": {
+      "court": "CASS",
+      "date": "2007-09-13",
+      "roleNumber": "C.06.0311.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les constats qui, en vertu de l'article 2, § 2, 3° et 4°, de l'arrêté du Gouvernement flamand du 28 avril 2000 relatif à l'amende administrative pour la violation d'un ordre de cessation confirmé, doivent être repris dans un procès-verbal constatant une violation à un ordre de cessation confirmé ne sont pas prescrits à peine de nullité; leur défaut ne peut entraîner la nullité de ce procès-verbal ou de la décision subséquente du comptable d'infliger une amende administrative si le juge constate que les intérêts du contrevenant, dans l'intérêt duquel ces formalités sont prescrites, sont lésés."
+      ],
+      "abstractNL": [
+        "De vermeldingen die op grond van artikel 2, §2, 3° en 4°, B. Vl. Reg. van 28 april 2000 moeten worden opgenomen in het proces-verbaal dat een inbreuk op een bekrachtigd stakingsbevel vaststelt, zijn niet voorgeschreven op straffe van nietigheid; hun afwezigheid kan slechts tot nietigheid van dit proces-verbaal of van de daaropvolgende beslissing van de rekenplichtige tot het opleggen van een administratieve geldboete leiden indien de rechter vaststelt dat de overtreder, in wiens belang deze vormvereisten zijn voorgeschreven, in zijn belangen is geschaad."
+      ]
+    }
+  },
+  "157": {
+    "ECLI:BE:CASS:2010:ARR.20100318.4": {
+      "court": "CASS",
+      "date": "2010-03-18",
+      "roleNumber": "C.09.0149.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/18/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Il n'appartient pas au juge des saisies saisi de l'opposition formée contre la contrainte visée à l'article 157, § 1er du décret du 18 mai 1999 de se prononcer sur la validité de l'acte administratif qui sert de fondement à la contrainte, ni sur la validité de l'amende administrative (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het staat niet aan de beslagrechter, die kennis neemt van het verzet gedaan tegen het in artikel 157, § 1 Stedenbouwdecreet bedoeld dwangbevel uitspraak te doen over de geldigheid van de bestuurshandeling die aan het dwangbevel ten grondslag ligt, noch over de geldigheid van de administratieve geldboete (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "158": {
+    "ECLI:BE:CASS:2015:ARR.20150910.5": {
+      "court": "CASS",
+      "date": "2015-09-10",
+      "roleNumber": "C.13.0529.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/09/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le titre par lequel une mesure de réparation est ordonnée sous peine d'astreinte en raison de l'exécution illégale de travaux reste actuel tant que les conditions d'un permis de régularisation délivré ultérieurement n'ont pas été respectées et que les travaux exécutés ne correspondent pas complètement aux travaux pour lesquels ce permis de régularisation a été délivré (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De titel waarbij een herstelmaatregel werd bevolen onder verbeurte van een dwangsom wegens de wederrechtelijke uitvoering van werken blijft actueel zolang de voorwaarden van een later afgeleverde regularisatievergunning niet zijn nagekomen en de uitgevoerde werken niet volledig overeenkomen met de werken waarvoor deze regularisatievergunning werd afgeleverd (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "160": {
+    "ECLI:BE:CASS:2009:ARR.20090609.7": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.09.0201.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La non mention de la désignation cadastrale de l'immeuble faisant l'objet de l'infraction en matière d'urbanisme, ou de l'identité de son propriétaire ne pouvant être sanctionné par le conservateur des hypothèques que par le refus de la transcription, il n'y a aucune raison de déclarer l'action publique irrecevable si la transcription a bien été opérée; il en va de même en cas d'indication erronée dans la citation de la désignation cadastrale ou du propriétaire (1). (1) Voir Cass., 13 mai 1986, RG 18, Pas., 1986, n° 560 et R.W., 1987-88, p. 673, avec la note VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 octobre 1999, RG P.97.0897.N, Pas., 1999, n° 503."
+      ],
+      "abstractNL": [
+        "Daar de sanctie voor de niet-vermelding van de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het stedenbouwmisdrijf of van de identificatie van de eigenaar ervan, alleen de mogelijkheid is voor de hypotheekbewaarder om de overschrijving te weigeren, zijn er geen redenen de strafvordering niet ontvankelijk te verklaren, als de overschrijving eenmaal heeft plaatsgehad; hetzelfde geldt wanneer de vermelding in de dagvaarding van de kadastrale omschrijving of van de eigenaar verkeerd zou zijn (1). (1) Zie Cass., 13 mei 1986, AR 18, A.C., 1985-86, 1236 en R.W., 1987-88, p. 673, met noot VANDEPLAS A., \"Bouwovertredingen en overschrijving van de dagvaarding\"; Cass., 5 okt. 1999, AR P.97.0897.N, A.C., 1999, nr. 503."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070206.1": {
+      "court": "CASS",
+      "date": "2007-02-06",
+      "roleNumber": "P061286N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le caractère réel de la demande de remise en état en matière d'urbanisme a pour conséquence que, nonobstant l'application de l'article 160 du décret de la Région flamande du 18 mai 1999 portant organisation de l'aménagement du territoire, même le copropriétaire qui n'a pas été impliqué dans le litige concernant la demande de remise en état et auquel cette demande n'a pas été préalablement communiquée, doit subir les conséquences découlant du jugement et doit, dès lors, en supporter l'exécution (1). (1) Voir Cass., 22 février 2005, RG P.04.0998.N, n° 107."
+      ],
+      "abstractNL": [
+        "Het zakelijk karakter van de vordering tot herstel inzake stedenbouw heeft tot gevolg dat, onverminderd de toepassing van artikel 160 Stedenbouwdecreet 1999, ook de mede-eigenaar die bij het geding over de vordering tot herstel niet werd betrokken en aan wie de herstelvordering voorafgaandelijk niet werd medegedeeld, de gevolgen dient te ondergaan die uit het vonnis voortvloeien en bijgevolg de uitvoering ervan dient te gedogen (1). (1) Zie: Cass., 22 feb. 2005, AR P.04.0998.N, nr 107."
+      ]
+    }
+  },
+  "171": {
+    "ECLI:BE:CASS:2001:ARR.20011106.11": {
+      "court": "CASS",
+      "date": "2001-11-06",
+      "roleNumber": "P000475N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 42, § 1er, 7°, du décret du Conseil flamand du 22 octobre 1996 relatif à l'aménagement du territoire vise à subordonner les modifications d'utilisation ayant un impact important sur l'affectation et l'aménagement du territoire à un permis et le deuxième alinéa dudit article précise à cet égard les critères sur la base desquels le Gouvernement flamand établit la liste des modifications d'utilisation devant être autorisées, mais le renvoi fait dans cette disposition à \" l'affectation de projets de plans de secteur dressés provisoirement, de plans de secteur dressés définitivement et de plans généraux d'aménagement élaborés conformément à l'article 12, troisième alinéa de ce décret \" n'implique pas que les modifications d'utilisation visées soient toujours interdites ou, au contraire, soient toujours autorisées tant qu'elles ne sont pas expressément interdites en vertu des dispositions de ces plans ou de l'arrêté royal du 28 décembre 1972 relatif à la présentation et la mise en oeuvre des projets de plans et des plans de secteur ; il appartient aux autorités, dans les cas prévus par l'arrêté d'exécution du 17 juillet 1984, subordonnant certaines modifications d'utilisation à un permis, d'apprécier conformément à ces dispositions si la modification projetée peut être autorisée et l'article 5 dudit arrêté prévoit que l'usage nouveau d'un bâtiment situé dans une zone de loisirs pour lequel est délivré un permis, et dont la fonction principale est la résidence permanente, est censé avoir un impact important sur l'espace environnant et qu'une telle modification nécessite l'obtention préalable d'un permis (1) (2) (3)."
+      ],
+      "abstractNL": [
+        "Artikel 42, § 1, 7°, Stedenbouwdecreet, beoogt de wijzigingen van gebruik, die een belangrijke weerslag hebben op de bestemming en de ordening van het grondgebied, te onderwerpen aan een vergunning en het tweede lid van dit artikel bepaalt daartoe de criteria op grond waarvan de Vlaamse Regering de lijst opstelt van de gebruikswijzigingen die moeten worden vergund, doch de verwijzing, in deze bepaling, naar \"de bestemmingen van voorlopig vastgestelde gewestplannen, van vastgestelde gewestplannen en van algemene plannen van aanleg tot stand gebracht overeenkomstig artikel 12, derde lid, van dit decreet\" houdt niet in dat de bedoelde gebruikswijzigingen steeds verboden zijn of, omgekeerd, steeds toelaatbaar zijn zolang zij niet uitdrukkelijk verboden zijn krachtens de bepalingen van deze plannen of van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen;het komt aan de overheid toe, in de gevallen bepaald in het uitvoeringsbesluit van 17 juli 1984, houdende het vergunningsplichting maken van sommige gebruikswijzigingen, overeenkomstig deze bepalingen te oordelen of de voorgenomen wijzigingkan worden vergund en artikel 5 van dit besluit bepaalt dat het nieuwe gebruik van een in een recreatiegebied gelegen vergund gebouw, met als hoofdfunctie dienspermanente bewoning, geacht wordt een belangrijke ruimtelijkeweerslag te hebben op de onmiddellijke omgeving en dat een dergelijke wijziging een voorafgaande vergunning behoeft (1) (2) (3)."
+      ]
+    }
+  },
+  "199": {
+    "ECLI:BE:CASS:2010:ARR.20100603.1": {
+      "court": "CASS",
+      "date": "2010-06-03",
+      "roleNumber": "C.08.0552.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'obligation prévue pour les conventions conclues avant l'écoulement des 31 jours après qu'il a été publié au Moniteur belge que la commune où est situé le bien immobilier dispose d'un registre des plans et d'un registre des permis, d'utiliser dans les actes, conventions et publicité, les dénominations utilisées dans les plans d'aménagement ou dans les plans d'exécution spatiaux, lorsque celles-ci sont mentionnées, ne comprend pas l'obligation de mentionner dans ces actes, conventions ou publicité si une autorisation urbanistique a été délivrée pour le bien immobilier, ni de reprendre l'affectation urbanistique la plus récente du bien avec les dénominations utilisées dans le registre des plans; les dénominations utilisées dans lesdits plans ne doivent, dès lors, pas être mentionnées obligatoirement dans ces conventions."
+      ],
+      "abstractNL": [
+        "Voor de overeenkomsten gesloten voordat 31 dagen zijn verlopen na de publicatie in het Belgisch Staatsblad dat de gemeente, waar het onroerend goed gelegen is, beschikt over een goedgekeurd plannenregister en vergunningenregister, houdt de verplichting om in de akten, overeenkomsten en publiciteit, in geval van vermelding van benamingen, deze vermeld in de plannen van aanleg of ruimtelijke uitvoeringsplannen te gebruiken, de verplichting niet in om in die akten, overeenkomsten of publiciteit te vermelden of er voor het onroerend goed een stedenbouwkundige vergunning is uitgereikt en de meest recente stedenbouwkundige bestemming van het goed met de benamingen gebruikt in het plannenregister over te nemen; wat deze overeenkomsten betreft dienen aldus de benamingen gebruikt in de genoemde plannen niet verplicht te worden vermeld."
+      ]
     }
   },
   "198bis": {
@@ -202,6 +1736,124 @@
       ],
       "abstractNL": [
         "Aan de vereiste van een voorafgaand eensluidend advies van de Hoge Raad voor het Herstelbeleid op straffe van niet-ontvankelijkheid van de herstelvordering die vanaf 16 december 2005 wordt ingeleid bij hetzij de burgerlijke rechter, hetzij de strafrechter, mag slechts worden voorbijgegaan wanneer de Hoge Raad voor het Herstelbeleid geen advies heeft verleend binnen de 60 dagen na de aangetekende adviesaanvraag; een dreigende verjaring van de herstelvordering doet hieraan niet af (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150403.1": {
+      "court": "CASS",
+      "date": "2015-04-03",
+      "roleNumber": "C.13.0035.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/04/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'avis conforme préalable du Conseil supérieur de la politique de réparation vaut à compter du 16 décembre 2005 comme une condition de recevabilité pour les demandes de réparation qui sont introduites soit devant le juge civil soit devant le juge pénal (1). (1) L'article 149, §1er, al. 1er, du décret du 18 mai 1999, tel qu'il était applicable avant sa modification par l'article 53, 1° du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien; l'article 198bis, du décret du 18 mai 1999 tel qu'il était applicable avant son abrogation par l'article 62 du décret du 27 mars 2009 adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien."
+      ],
+      "abstractNL": [
+        "Het voorafgaand eensluidend advies van de Hoge Raad voor het Herstelbeleid geldt van af 16 december 2005 als een ontvankelijkheidsvereiste voor de herstelvorderingen die worden ingeleid hetzij bij de burgerlijke rechter hetzij bij de strafrechter (1). (1) Artikel 149, §1, eerste lid, Stedenbouwdecreet 1999, zoals van toepassing voor de wijziging ervan bij artikel 53, 1°, van het Aanpassingsdecreet 2009; Artkel 198bis Stedenbouwdecreet, zoals van toepassing voor de opheffing ervan bij artikel 62 van het Aanpassingsdecreet 2009."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090421.3": {
+      "court": "CASS",
+      "date": "2009-04-21",
+      "roleNumber": "P.08.1817.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'action en réparation a été intentée par l'administration compétente avant que le Conseil supérieur de la politique de réparation n'ait pu rendre un avis, celui-ci n'ayant pas été créé et son règlement d'ordre intérieur n'ayant pas été approuvé, l'avis rendu à la libre demande du juge par le Conseil supérieur de la politique de réparation n'est contraignant ni pour l'administration, ni pour le juge, de sorte qu'il ne doit pas être conforme si l'administration veut persister dans son action et que le juge veut accueillir cette action (1). (1) Cass., 17 juin 2008, RG P.08.0256.N, Pas., 2008, n° 376."
+      ],
+      "abstractNL": [
+        "Wanneer de herstelvordering door het bevoegde bestuur werd ingediend vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting ervan en goedkeuring van zijn huishoudelijk reglement, advies kon verlenen, is het op vrijwillig verzoek van de rechter door de Hoge Raad voor het Herstelbeleid verleende advies niet bindend, noch voor het bestuur, noch voor de rechter, zodat het niet eensluidend dient te zijn zo het bestuur in zijn vordering wil volharden en de rechter deze vordering wil toekennen (1). (1) Cass., 17 juni 2008, AR P.08.0256.N, A.C., 2008, nr 376."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080624.1": {
+      "court": "CASS",
+      "date": "2008-06-24",
+      "roleNumber": "P.08.0179.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/24/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "Le juge n'est pas tenu de prendre l'avis préalable au Conseil supérieur de la Politique de Réparation pour des demandes de remise en état introduites par l'inspecteur urbaniste avant d'avoir permis au Conseil supérieur de la Politique de Réparation d'exercer effectivement ses compétences (1). (1) Voir: Cass., 5 septembre 2006, RG P.06.0475.N, Pas., 2006, n°...; Cass., 5 septembre 2006, RG P.06.0543.N, Pas., 2006, n° ...; Cass., 5 juin 2007, RG P.06.0543.N, Pas., 2007, n°...; C.const., n° 71/2007, 26 avril 2007, M.B., 13 juin 2006, 32.006."
+      ],
+      "abstractNL": [
+        "Er bestaat geen verplichting voor de rechter om het voorafgaand advies van de Hoge Raad voor het Herstelbeleid in te winnen voor herstelvorderingen die door de Stedenbouwkundig Inspecteur werden ingesteld vooraleer de Hoge Raad voor het Herstelbeleid effectief haar bevoegdheden kon uitoefenen (1). (1) Zie: Cass., 5 sept. 2006, AR P.06.0475.N, A.C., 2006, nr 387; Cass., 5 sept. 2006, AR P.06.0543.N, A.C., 2006, nr 388; Cass., 5 juni 2007, AR P.06.0543.N, A.C., 2007, nr ...; Gw. H., nr 71/2007, 26 april 2007, B.S., 13 juni 2006, 32.006."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080617.2": {
+      "court": "CASS",
+      "date": "2008-06-17",
+      "roleNumber": "P.08.0256.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/17/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'action en réparation a été intentée par l'administration compétente avant que le Conseil supérieur de la politique de réparation n'ait pu rendre un avis, celui-ci n'ayant été crée et son règlement d'ordre intérieur n'ayant été approuvé, l'avis rendu à la libre demande du juge par le Conseil supérieur de la politique de réparation n'est contraignant ni pour l'administration, ni pour le juge, de sorte qu'il ne doit pas être conforme si l'administration veut persister dans son action et le juge veut accueillir cette action (1). (1) C. Const. n° 31/2008, 28 février 2008, M.B. 18 avril 2008 (Ed. 2), considération B.8, colonne 21.038."
+      ],
+      "abstractNL": [
+        "Wanneer de herstelvordering door het bevoegde bestuur werd ingediend vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting en goedkeuring van zijn huishoudelijk reglement, advies kon verlenen, is het op vrijwillig verzoek van de rechter door de Hoge Raad voor het Herstelbeleid verleende advies niet bindend, noch voor het bestuur, noch voor de rechter, zodat het niet eensluidend dient te zijn zo het bestuur in zijn vordering wil volharden en de rechter deze vordering wil toekennen. (1). (1) Gw. H., nr 31/2008, 28 feb. 2008, B.S. 18 april 2008 (Ed. 2), overweging B.8, colom 21.038."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060905.4": {
+      "court": "CASS",
+      "date": "2006-09-05",
+      "roleNumber": "P060543N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 198bis du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui s'applique en tant que disposition transitoire dans le cas d'une demande de remise en état introduite par l'administration compétente avant que le Conseil supérieur de la politique de réparation, à défaut de création et d'approbation de son règlement d'ordre intérieur, puisse émettre un avis, vise une autre situation juridique que l'article 149, § 1er, alinéa 1er du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, qui, tant dans sa version antérieure que dans sa version postérieure à l'arrêt d'annulation n°14/2005 de la Cour d'arbitrage, vise la demande de remise en état introduite par l'administration après la création du Conseil supérieur de la politique de réparation et l'approbation de son règlement d'ordre intérieur."
+      ],
+      "abstractNL": [
+        "Artikel 198bis, Stedenbouwdecreet 1999 dat als overgangsbepaling geldt voor de herstelvordering die door het bevoegde bestuur wordt ingediend nog vooraleer de Hoge Raad voor het Herstelbeleid, bij gebrek aan oprichting en goedkeuring van zijn huishoudelijk reglement, advies kan verlenen, beoogt een andere rechtstoestand dan artikel 149, § 1, eerste lid, Stedenbouwdecreet 1999, dat zowel in zijn versie voor als in zijn versie na het vernietigingsarrest nr 14/2005 van het Arbitragehof, de herstelvordering beoogt die na de oprichting van de Hoge Raad voor het Herstelbeleid en de goedkeuring van zijn huishoudelijk reglement door het bestuur wordt ingediend."
+      ]
+    }
+  },
+  "196bis": {
+    "ECLI:BE:CASS:2010:ARR.20100621.7": {
+      "court": "CASS",
+      "date": "2010-06-21",
+      "roleNumber": "C.09.0113.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 3, §6, 5°, 11, alinéa 1er, de l'arrêté du Gouvernement flamand du 27 juillet 2004 fixant les attributions des membres du Gouvernement flamand, 70, §2, alinéa 1er, et 196bis du décret du Parlement flamand du 18 mai 1999 portant organisation de l'aménagement du territoire que l'article 70, §2, alinéa 1er, du décret précité, lu conjointement avec l'article 196bis, alinéa 1er, du même décret, instaure une exception à la compétence du ministre flamand des Affaires intérieures au sens de l'article 11 de l'arrêté précité et que, lorsque le plan d'expropriation est établi simultanément avec le plan d'aménagement, il appartient également au ministre flamand des Finances et du Budget et de l'Aménagement du territoire, qui est compétent en matière d'approbation du plan d'aménagement, d'approuver le plan d'expropriation et d'accorder le permis d'expropriation en découlant (1). (1) Voir les conclusions du M.P. publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 3, §6, 5° en 11, eerste lid van het Delegatiebesluit en de artikelen 70, §2, eerste lid en 196bis van het Stedenbouwdecreet 1999 volgt dat het artikel 70, §2, eerste lid van het Stedenbouwdecreet 1999 juncto het artikel 196bis, eerste lid van dit decreet, voorzien in een uitzondering in de zin van artikel 11 van het Delegatiebesluit op de bevoegdheid van de Vlaamse minister van Binnenlandse aangelegenheden en dat, ingeval het onteigeningsplan tegelijk met het plan van aanleg wordt opgemaakt, de Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening, bevoegd voor het goedkeuren van het plan van aanleg, ook de bevoegdheid heeft het onteigeningsplan goed te keuren en de daarmee verbonden bevoegdheid tot het verlenen van de onteigeningsmachtiging (1). (1) Zie de conclusies van het openbaar ministerie."
+      ]
+    }
+  },
+  "145bis": {
+    "ECLI:BE:CASS:2009:ARR.20090915.3": {
+      "court": "CASS",
+      "date": "2009-09-15",
+      "roleNumber": "P.09.0182.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/15/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que les opérations, travaux ou modifications en zone vulnérable du point vue spatial au sens de l'article 146, alinéa 4, du décret du Conseil flamand du 18 mai 1999 portant organisation de l'aménagement du territoire sont susceptibles d'être autorisés en vertu de l'article 145bis n'ôte pas le caractère punissable du maintien de ces opérations, travaux ou modifications tant que l'autorisation n'est pas délivrée; par conséquent, les intentions des autorités quant à la délivrance d'une autorisation sont sans pertinence et ne changent rien à la prévisibilité du caractère punissable d'opérations, travaux ou modifications non autorisés."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat handelingen, werken of wijzigingen in ruimtelijk kwetsbaar gebied in de zin van artikel 146, vierde lid, Stedenbouwdecreet 1999 overeenkomstig artikel 145bis vergunbaar zijn, belet niet dat zolang er geen vergunning is, de instandhouding van deze handelingen, werken of wijzigingen strafbaar is; de inzichten van de overheid over het verlenen van een vergunning zijn derhalve irrelevant en wijzigen niets aan de voorspelbaarheid van het strafbare karakter van niet-vergunde handelingen, werken of wijzigingen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2008:ARR.20080331.5": {
+      "court": "CASS",
+      "date": "2008-03-31",
+      "roleNumber": "C.07.0157.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le décret du 18 mai 1999 portant organisation de l'aménagement du territoire doit être considéré comme une \"loi relative à la protection de l'environnement\" au sens de l'article 1er de la loi du 12 janvier 1993 dès lors qu'il résulte de l'objectif poursuivi par cette loi qui est non seulement d'éviter de porter atteinte à la nature, mais également d'assurer un environnement viable à la population, qu'un bon aménagement du territoire fait partie de l'environnement à protéger au sens de cette loi (1). (1) Voir les conclusions du ministère public publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening dient beschouwd te worden als een 'wet betreffende de bescherming van het leefmilieu' in de zin van artikel 1 van de wet van 12 januari 1993 nu uit het doel van die wet om niet alleen de aantasting van de natuur te voorkomen, maar ook een leefbare omgeving te verzekeren aan de bevolking, volgt dat een goede ordening van de ruimte deel uitmaakt van het te beschermen leefmilieu in de zin van die wet (1). (1) Zie conclusie O.M."
       ]
     }
   }

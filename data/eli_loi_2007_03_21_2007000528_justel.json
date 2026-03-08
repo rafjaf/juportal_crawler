@@ -15,6 +15,20 @@
         "Artikel 2, 4°, Camerawet bepaalt dat voor de toepassing van die wet onder bewakingscamera wordt verstaan, elk vast of mobiel observatiesysteem dat tot doel heeft misdrijven tegen personen of goederen of overlast in de zin van artikel 135 Nieuwe Gemeentewet te voorkomen, vast te stellen of op te sporen, of de openbare orde te handhaven, en dat hiervoor beelden verzamelt, verwerkt of bewaart.",
         "Krachtens artikel 3 Camerawet is die wet van toepassing op de plaatsing en het gebruik van bewakingscamera's met het oog op de bewaking en het toezicht in de plaatsen bedoeld in artikel 2; uit de artikelen 2, 4°, 3, 8 en 10 Camerawet volgt dat enkel de camera's waarvan de plaatsing beantwoordt aan de doelstellingen van bewaking en toezicht bepaald in artikel 2, 4°, binnen het toepassingsgebied van die wet vallen en aan de plaatsings- en gebruiksvoorwaarden moeten voldoen, bepaald in de artikelen 8 en 10 Camerawet (1). (1) Het openbaar ministerie heeft andersluidend geconcludeerd door te oordelen dat de beperking met betrekking tot de doelstellingen vermeld in de in artikel 2, 4° Camerawet opgenomen definitie van een bewakingscamera, in de eerste plaats gold voor de machtiging tot het gebruik van dergelijke camera's maar niet voor het algemener verbod op elk heimelijk gebruik van bewakingscamera's, ongeacht het beoogde doel. Het was van mening dat het gebruik van een bewakingscamera, zonder één van de in artikel 2, 4° Camerawet beoogde doelstellingen, a fortiori onder het in artikel 8 bedoelde verbod op heimelijk gebruik van bewakingscamera's leek te moeten vallen, aangezien het incoherent zou zijn te oordelen dat het heimelijk gebruik van een camera met het oog op één van de in artikel 3 vermelde prijzenswaardige doeleinden (voorkomen en vaststellen van misdrijven, handhaven van de openbare orde ...) verboden was, terwijl, als de plaatsing geen dergelijk doel nastreefde, dit niet verboden zou zijn."
       ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20101005.2": {
+      "court": "CASS",
+      "date": "2010-10-05",
+      "roleNumber": "P.10.0703.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/10/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le responsable du traitement visé à l'article 2, 5°, de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance peut être le successeur de celui qui a pris la décision d'installer une ou plusieurs caméras de surveillance dans un lieu fermé accessible au public."
+      ],
+      "abstractNL": [
+        "De in artikel 2, 5°, Camerawet bedoelde verantwoordelijke voor de verwerking, kan de opvolger zijn van degene die de beslissing tot het plaatsen van een of meer bewakingscamera's in een voor het publiek toegankelijke besloten plaats heeft genomen."
+      ]
     }
   },
   "10": {
@@ -30,6 +44,22 @@
       ],
       "abstractNL": [
         "Krachtens artikel 3 Camerawet is die wet van toepassing op de plaatsing en het gebruik van bewakingscamera's met het oog op de bewaking en het toezicht in de plaatsen bedoeld in artikel 2; uit de artikelen 2, 4°, 3, 8 en 10 Camerawet volgt dat enkel de camera's waarvan de plaatsing beantwoordt aan de doelstellingen van bewaking en toezicht bepaald in artikel 2, 4°, binnen het toepassingsgebied van die wet vallen en aan de plaatsings- en gebruiksvoorwaarden moeten voldoen, bepaald in de artikelen 8 en 10 Camerawet (1). (1) Het openbaar ministerie heeft andersluidend geconcludeerd door te oordelen dat de beperking met betrekking tot de doelstellingen vermeld in de in artikel 2, 4° Camerawet opgenomen definitie van een bewakingscamera, in de eerste plaats gold voor de machtiging tot het gebruik van dergelijke camera's maar niet voor het algemener verbod op elk heimelijk gebruik van bewakingscamera's, ongeacht het beoogde doel. Het was van mening dat het gebruik van een bewakingscamera, zonder één van de in artikel 2, 4° Camerawet beoogde doelstellingen, a fortiori onder het in artikel 8 bedoelde verbod op heimelijk gebruik van bewakingscamera's leek te moeten vallen, aangezien het incoherent zou zijn te oordelen dat het heimelijk gebruik van een camera met het oog op één van de in artikel 3 vermelde prijzenswaardige doeleinden (voorkomen en vaststellen van misdrijven, handhaven van de openbare orde ...) verboden was, terwijl, als de plaatsing geen dergelijk doel nastreefde, dit niet verboden zou zijn."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2016:ARR.20160316.2": {
+      "court": "CASS",
+      "date": "2016-03-16",
+      "roleNumber": "P.15.1602.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 47sexies, § 1er, du Code d'instruction criminelle vise l'observation systématique par un fonctionnaire de police et règle l'utilisation du moyen technique par celui-ci; au sens de cette disposition, l'autorité administrative qui peut être autorisée à placer un dispositif de surveillance en application de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance, est un tiers par rapport aux services de police."
+      ],
+      "abstractNL": [
+        "Artikel 47sexies, §1, Wetboek van Strafvordering heeft betrekking op de stelselmatige observatie door een politieambtenaar en regelt de wijze waarop het technisch hulpmiddel door hem wordt aangewend; in de zin van die bepaling wordt de bestuurlijke overheid die kan worden gemachtigd om met toepassing van de Camerawet een bewakingssysteem te plaatsen, ten opzichte van de politiediensten als een derde beschouwd."
       ]
     }
   }

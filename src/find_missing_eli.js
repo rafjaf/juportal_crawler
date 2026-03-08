@@ -534,14 +534,18 @@ async function resolveFromEjustice(key, article) {
 // ─── Data integration ────────────────────────────────────────────────────────
 
 /**
- * Store an element from missing_eli.json into the appropriate data file.
+ * Merge an array of elements (all destined for the same ELI) into the
+ * appropriate data file.  Loads the file once, applies all changes, writes once.
  */
-function storeElementToDataFile(element, eli) {
+function storeElementsToDataFile(elements, eli) {
   const filename = eliToFilename(eli);
-  const data = loadDataFile(filename);
-  const article = normalizeArticleNumber(element.article || '') || 'general';
-
-  if (!data[article]) data[article] = {};
+  let data;
+  try {
+    data = loadDataFile(filename);
+  } catch (err) {
+    logError(`  ✗ Could not load data file ${filename}: ${err.message}`);
+    data = {};
+  }
 
   function mergeArr(existing, incoming) {
     const arr = Array.isArray(existing) ? [...existing] : (existing ? [existing] : []);
@@ -553,17 +557,27 @@ function storeElementToDataFile(element, eli) {
     return arr.length > 0 ? arr : null;
   }
 
-  const existing = data[article][element.ecli] || {};
-  data[article][element.ecli] = {
-    court: element.court,
-    date: element.date,
-    roleNumber: element.roleNumber,
-    sitemap: mergeArr(existing.sitemap, element.sitemap),
-    abstractFR: mergeArr(existing.abstractFR, element.abstractFR),
-    abstractNL: mergeArr(existing.abstractNL, element.abstractNL),
-  };
+  for (const element of elements) {
+    const article = normalizeArticleNumber(element.article || '') || 'general';
+    if (!data[article]) data[article] = {};
+    const existing = data[article][element.ecli] || {};
+    data[article][element.ecli] = {
+      court: element.court,
+      date: element.date,
+      roleNumber: element.roleNumber,
+      sitemap: mergeArr(existing.sitemap, element.sitemap),
+      abstractFR: mergeArr(existing.abstractFR, element.abstractFR),
+      abstractNL: mergeArr(existing.abstractNL, element.abstractNL),
+    };
+  }
 
-  saveDataFile(filename, data);
+  try {
+    saveDataFile(filename, data);
+    logSuccess(`  ✔ Wrote ${elements.length} element(s) to ${filename}`);
+  } catch (err) {
+    logError(`  ✗ Could not write data file ${filename}: ${err.message}`);
+    throw err;
+  }
 }
 
 // ─── Main entry point ────────────────────────────────────────────────────────
@@ -735,32 +749,40 @@ export async function findMissingEli() {
 
     if (answer === 'yes' || answer === 'y') {
       // Apply immediately so the change is persisted even if interrupted later
-      if (perArticleElis) {
-        const remainingElements = [];
-        for (const elem of entry.elements) {
-          const artEli = perArticleElis.get(elem.article);
-          if (artEli) {
-            storeElementToDataFile(elem, artEli);
-          } else {
-            remainingElements.push(elem);
+      try {
+        if (perArticleElis) {
+          // Group elements by their resolved ELI, then write each file once
+          const byEli = new Map();
+          const remainingElements = [];
+          for (const elem of entry.elements) {
+            const artEli = perArticleElis.get(elem.article);
+            if (artEli) {
+              if (!byEli.has(artEli)) byEli.set(artEli, []);
+              byEli.get(artEli).push(elem);
+            } else {
+              remainingElements.push(elem);
+            }
           }
+          for (const [artEli, elems] of byEli) {
+            storeElementsToDataFile(elems, artEli);
+          }
+          const eliCounts = new Map();
+          for (const [, e] of perArticleElis) {
+            eliCounts.set(e, (eliCounts.get(e) || 0) + 1);
+          }
+          const primaryEli = [...eliCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+          if (primaryEli) entry.eli = primaryEli;
+          entry.elements = remainingElements;
+        } else {
+          storeElementsToDataFile(entry.elements, eli);
+          entry.eli = eli;
+          entry.elements = [];
         }
-        const eliCounts = new Map();
-        for (const [, e] of perArticleElis) {
-          eliCounts.set(e, (eliCounts.get(e) || 0) + 1);
-        }
-        const primaryEli = [...eliCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
-        if (primaryEli) entry.eli = primaryEli;
-        entry.elements = remainingElements;
-      } else {
-        for (const elem of entry.elements) {
-          storeElementToDataFile(elem, eli);
-        }
-        entry.eli = eli;
-        entry.elements = [];
+        saveMissingEliFile(missingEli);
+        resolvedCount++;
+      } catch (err) {
+        logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);
       }
-      saveMissingEliFile(missingEli);
-      resolvedCount++;
     } else {
       skippedCount++;
     }

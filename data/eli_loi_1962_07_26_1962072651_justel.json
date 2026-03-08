@@ -1,4 +1,590 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2000:ARR.20001201.6": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C980102N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, dès lors, irrecevable le moyen invoquant l'illégalité de l'expropriation par le motif que l'autorisation d'exproprier a été délivrée par un ministre non compétent."
+      ],
+      "abstractNL": [
+        "Nieuw, mitsdien niet ontvankelijk is het middel dat aanvoert dat de onteigening onwettig is daar de machtiging tot onteigening verleend werd door een daartoe niet bevoegde minister."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000608.14": {
+      "court": "CASS",
+      "date": "2000-06-08",
+      "roleNumber": "C980345N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est procédé à l'expropriation d'un bien immobilier en application de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, il appartient aux gouvernements respectifs des Communautés et des Régions de déterminer, dans les matières qui leur ont été transférées, si la prise de possession immédiate du bien est indispensable à l'utilité publique; ils peuvent autoriser d'autres personnes qui ont la compétence de poursuivre des expropriations d'immeubles pour cause d'utilité publique, de procéder à l'expropriation d'immeubles dans les cas où ils jugent leur acquisition nécessaire pour la politique relative à l'urbanisme et à l'aménagement du territoire (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de onteigening van een onroerend goed geschiedt overeenkomstig de Onteigeningswet behoort het, in de aangelegenheden die zijn overgedragen aan de Gemeenschappen of de Gewesten, aan hun respectieve regeringen om vast te stellen dat de onmiddellijke inbezitneming van dat goed ten algemenen nutte onontbeerlijk is; zij kunnen andere personen die bevoegd zijn om onroerende goederen ten algemenen nutte te onteigenen, machtigen tot onteigening in de gevallen waarin zij oordelen dat de verkrijging ervan noodzakelijk is voor het beleid inzake de stedenbouw en de ruimtelijke ordening (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2010:ARR.20100401.5": {
+      "court": "CASS",
+      "date": "2010-04-01",
+      "roleNumber": "C.09.0123.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'obligation, en cas d'expropriations décrétées successivement, de se placer pour déterminer la valeur de l'ensemble des biens expropriés, à la date du premier arrêté d'expropriation, vaut dès que les expropriations successives visent la réalisation d'un même but (1). (1) Voir Cass., 6 janvier 1995, RG C.93.0075.N, Pas., 1995, n° 12."
+      ],
+      "abstractNL": [
+        "De verplichting om zich in geval van achtereenvolgende onteigeningen voor de waardebepaling van het geheel van de te onteigen goederen te plaatsen op de datum van het eerste onteigeningsbesluit, geldt van zodra de opeenvolgende onteigeningen de verwezenlijking van een zelfde doel beogen (1). (1) Zie Cass., 6 jan. 1995, AR C.93.0075.N, A.C., 1995, nr. 12."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950106.7": {
+      "court": "CASS",
+      "date": "1995-01-06",
+      "roleNumber": "C930075N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 2 de la loi du 26 juillet 1962, en vertu duquel les expropriations décrétées successivement en vue d'un même objet sont, pour l'appréciation de la valeur des biens expropriés, considérées comme formant un tout, il n'est pas requis, que ces expropriations soient poursuivies en exécution d'un même plan d'aménagement."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 2 Onteigeningswet, krachtens hetwelk opeenvolgende onteigeningen voor eenzelfde doel als één geheel worden beschouwd bij de schatting van de waarde van de onteigende goederen, is niet vereist dat die onteigeningen worden verordend tot uitvoering van eenzelfde plan van aanleg."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:1990:ARR.19901019.7": {
+      "court": "CASS",
+      "date": "1990-10-19",
+      "roleNumber": "7001",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 1026, 5°, du Code judiciaire ne s'applique pas à la requête visée à l'article 3 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique; celle-ci ne doit dès lors pas être signée par un avocat. ( Loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes. )"
+      ],
+      "abstractNL": [
+        "De bepaling van art. 1026, 5°, Gerechtelijk Wetboek is niet van toepassing op het in art. 3, eerste lid, Onteigeningswet van 26 juli 1962 bedoelde verzoekschrift dat derhalve niet door een advocaat moet worden ondertekend. ( Onteigeningswet 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1983:ARR.19831124.2": {
+      "court": "CASS",
+      "date": "1983-11-24",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 4, par. 4, de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, modifié par la loi du 7 juillet 1978, qui énonce que pour le calcul de la valeur des biens immeubles expropriés, il n'est pas tenu compte de la plus-value ou moins-value qui résulte soit de la création de l'autoroute, soit de travaux effectués par la personne expropriée après l'expiration du délai d'un mois prévu à l'article 8 de la loi du 15 juillet 1956, est applicable, suivant la volonté exprimée par le législateur, aux procédures en cours au moment de l'entrée en vigueur de ladite loi du 7 juillet 1978."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 4, alinéa 4, Onteigeningswet Autosnelwegen, gew. bij wet van 7 juli 1978, volgens hetwelk de waarde der onteigende onroerende goederen wordt berekend zonder inachtneming van de waardevermeerdering of -vermindering die het gevolg is, hetzij van het aanleggen van de autosnelweg, hetzij van de werken die de onteigende heeft uitgevoerd na het verstrijken van de termijn van één maand, bepaald in art. 8 wet van 12 juli 1956, is toepasselijk op de procedures die nog hangende zijn ten tijde van de inwerkingtreding van de wet van 7 juli 1978."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830120.5": {
+      "court": "CASS",
+      "date": "1983-01-20",
+      "roleNumber": "6714",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions de l'article 4, par. 4, de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, modifié par la loi du 7 juillet 1978, aux termes desquelles, \"pour le calcul de la valeur des immeubles expropriés, il n'est pas tenu compte de la plus-value ou moins-value qui résulte soit de la création de l'autoroute, soit de travaux effectués par la personne expropriée après l'expiration du délai d'un mois prévu à l'article 8 de la loi du 12 juillet 1956\", sont applicables, suivant la volonté exprimée par le législateur, dans les travaux préparatoires de ladite loi du 7 juillet 1978, aux procédures en cours au moment de l'entrée en vigueur de cette loi, sauf si à ce moment l'indemnité a déjà été définitivement fixée."
+      ],
+      "abstractNL": [
+        "De bepalingen van art. 4, alinéa 4, wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte en de concessies voor de bouw van autosnelwegen, gew. bij de wet van 7 juli 1978, luidens hetwelk \"de waarde van de onteigende onroerende goederen wordt berekend zonder inachtneming van de waardevermeerdering of -vermindering die het gevolg is, hetzij van het aanleggen van de autoweg, hetzij van werken die de onteigende heeft uitgevoerd na het verstrijken van de termijn van één maand, bepaald in art. 8 wet van 12 juli 1956\", zijn, volgens de wil van de wetgever uitgedacht in de parlementaire voorbereiding van de wet van 7 juli 1978, toepasselijk op de procedures die hangende zijn bij de inwerkingtreding van de genoemde wet van 7 juli 1978, tenzij de vergoeding op dat ogenblik reeds definitief is vastgesteld <2>."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830113.8": {
+      "court": "CASS",
+      "date": "1983-01-13",
+      "roleNumber": "6639",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/13/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 4, par. 4, de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, modifié par la loi du 7 juillet 1978, qui énonce que, \"pour le calcul de la valeur des biens immeubles expropriés, il n'est pas tenu de la plus-value ou moins-value qui résulte, soit de la création de l'autoroute, soit de travaux effectués par la personne expropriée après l'expiration du délai d'un mois prévu à l'article 8 de la loi du 15 juillet 1956\", est, suivant la volonté exprimée par le législateur dans les travaux préparatoires de ladite loi du 7 juillet 1978, applicable aux procédures en cours au moment de l'entrée en vigueur de cette dernière loi."
+      ],
+      "abstractNL": [
+        "Art. 4, alinéa 4 wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte en de concessies voor de bouw van autosnelwegen, gewijzigd bij de wet van 7 juli 1978, dat luidt als volgt: \"de waarde der onteigenende goederen wordt berekend zonder inachtneming van de waardevermeerdering of -vermindering die het gevolg is, hetzij van het aanleggen van de autosnelweg, hetzij van de werken die de onteigende heeft uitgevoerd na het verstrijken van de termijn van een maand, bepaald in art. 8 wet van 15 juli 1956\" is volgens de wil van de wetgever, zoals dit blijkt uit de wetsgeschiedenis van de wet van 7 juli 1978, toepasselijk op de ten tijde van de inwerkingtreding van laatstgenoemde wet hangende procedures (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810515.8": {
+      "court": "CASS",
+      "date": "1981-05-15",
+      "roleNumber": "3024",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/15/sitemap_5.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19801204.3": {
+      "court": "CASS",
+      "date": "1980-12-04",
+      "roleNumber": "6198",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 4, par. 1er, alinéa 1er, de la loi du 26 juillet 1962, relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, ne subordonne l'autorisation d'expropriation qu'à la condition que les immeubles soient nécessaires à la construction des autoroutes; cette disposition n'exige pas que ces immeubles soient compris dans le domaine de l'autoroute."
+      ],
+      "abstractNL": [
+        "Art. 4, alinéa 1, eerste lid, wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte en de concessies voor de bouw van de autosnelwegen onderwerpt de onteigeningsvergunning aan de enkele voorwaarde dat die onteigening nodig is voor de aanleg van een autosnelweg."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1990:ARR.19900614.11": {
+      "court": "CASS",
+      "date": "1990-06-14",
+      "roleNumber": "8556",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'expropriant ne doit pas supporter la charge des honoraires d'un conseiller technique à qui l'exproprié a jugé utile de recourir au cours d'une procédure d'extrême urgence."
+      ],
+      "abstractNL": [
+        "De onteigenaar is niet gehouden tot betaling van het honorarium van een technisch adviseur waarop de onteigende het nuttig geacht heeft een beroep te doen in een spoedprocedure."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900129.10": {
+      "court": "CASS",
+      "date": "1990-01-29",
+      "roleNumber": "8582",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/29/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lors de l'exercice de l'action en revision fondée sur l'irrégularité de l'expropriation, en application de l'article 16 contenu dans l'article 5 de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, l'exproprié ne peut opposer des exceptions qu'il n'aurait pas déjà proposées en une fois avant le jugement prévu à l'article 7, alinéa 2, contenu dans ledit article 5."
+      ],
+      "abstractNL": [
+        "Wanneer een vordering tot herziening op grond van de onregelmatigheid van de onteigening wordt ingesteld, overeenkomstig art. 16, vervat in art. 5 Onteigeningswet Autosnelwegen, kan de onteigende geen excepties opwerpen die hij nog niet ineens had voorgedragen vóór het vonnis bedoeld in art. 7, tweede lid, dat in voormeld art. 5 is vervat."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890203.7": {
+      "court": "CASS",
+      "date": "1989-02-03",
+      "roleNumber": "5966",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/02/03/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le jugement du tribunal de première instance qui statue, en application de l'article 16 de la loi du 26 juillet 1962, relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, sur une demande en révision des indemnités déterminées à titre provisoire par le juge de paix, conformément à l'article 14 de cette loi, est susceptible d'appel et n'est, partant, pas susceptible de pourvoi en cassation. ( Code judiciaire, art. 602, 1°, 608 et 616; loi du 26 juillet 1962, art. 14 et 16, contenus dans l'article 5. )"
+      ],
+      "abstractNL": [
+        "Het vonnis van de rechtbank van eerste aanleg dat, met toepassing van art. 16 Onteigeningswet 26 juli 1962, uitspraak doet over een vordering tot herziening van de vergoedingen die de vrederechter overeenkomstig art. 14 van die wet voorlopig heeft bepaald, is vatbaar voor hoger beroep en bijgevolg niet voor cassatieberoep. ( Artt. 602, 1°, 608 en 616 Gerechtelijk Wetboek; artt. 14 en 16 Onteigeningswet 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880909.10": {
+      "court": "CASS",
+      "date": "1988-09-09",
+      "roleNumber": "5687",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le dépôt de l'indemnité provisoire qu'en vertu de l'article 15, contenu dans l'article 5 de la loi du 26 juillet 1962, l'expropriant doit effectuer non pas entre les mains de l'exproprié mais à la Caisse des dépôts et de consignation ne peut être considéré comme un payement d'une somme d'argent, au sens de l'article 1385bis, al. 1er, seconde phrase, du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De storting van de voorlopige vergoeding die een onteigenaar volgens art. 15, vervat in art. 5 Onteigeningswet 26 juli 1962, niet aan de onteigende, maar in de Deposito- en Consignatiekas moet verrichten, kan niet worden aangemerkt als een betaling van een geldsom in de zin van art. 1385bis, eerste lid, tweede zin, Gerechtelijk Wetboek."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880226.10": {
+      "court": "CASS",
+      "date": "1988-02-26",
+      "roleNumber": "5220",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/26/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui, pour fixer l'indemnité d'expropriation, assimile à tort un arrêté par lequel le Roi, en vertu de l'article 43, alinéa 1er, de la loi du 29 mars 1962, décide qu'un plan d'aménagement doit être révisé, et un arrêté par lequel le Roi, en vertu des articles 23 et 43, alinéa 4, de cette même loi approuve un plan révisant un plan antérieur, viole les dispositions légales précitées."
+      ],
+      "abstractNL": [
+        "Een arrest dat bij de bepaling van een onteigeningsvergoeding een besluit waarbij de Koning krachtens art. 43, eerste lid, Wet Ruimtelijke Ordening en Stedebouw beslist dat een plan van aanleg wordt herzien, verkeerdelijk gelijkstelt met een besluit waarbij de Koning, krachtens de artt. 23 en 43, vierde lid, van dezelfde wet, een plan goedkeurt waardoor een vroeger plan wordt herzien, schendt voormelde wetsbepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860623.12": {
+      "court": "CASS",
+      "date": "1986-06-23",
+      "roleNumber": "7491",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/23/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le jugement du tribunal de première instance, qui statue, en application de l'article 16 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, sur une demande en revision des indemnités déterminées à titre provisoire par le juge de paix conformément à l'article 14 de cette loi, est susceptible d'appel devant la cour d'appel. ( Code judiciaire, art. 602, 1°, et 616; loi du 26 juillet 1962, art. 14 et 16 contenus dans l'article 5. )"
+      ],
+      "abstractNL": [
+        "Tegen het vonnis waarbij de rechtbank van eerste aanleg, met toepassing van art. 16 Wet betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening, uitspraak doet over een vordering tot herziening van de door de vrederechter overeenkomstig art. 14 van die wet vastgestelde voorlopige vergoedingen, kan hoger beroep worden ingesteld voor het hof van beroep. ( Artt. 602, 1° en 616 Gerechtelijk Wetboek; artt. 14 en 16 Wet 26 juli 1962, vervat in art. 5. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850103.2": {
+      "court": "CASS",
+      "date": "1985-01-03",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/01/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 8, alinéa 2, contenu dans l'article 5 de la loi du 26 juillet 1962, dispose que n'est susceptible d'aucun recours la décision par laquelle le juge de paix, saisi d'une demande relative à une expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, fixe le montant des indemnités provisionnelles dues par l'expropriant; il ressort de cette disposition légale que, lorsque l'exproprié, en violation de celle-ci, a interjeté appel de pareille décision du juge de paix et que le tribunal de première instance a déclaré l'appel irrecevable, le pourvoi en cassation formé par l'exproprié contre la décision des juges d'appel est aussi irrecevable."
+      ],
+      "abstractNL": [
+        "Art. 8, tweede lid, vervat in art. 5 wet 26 juli 1962, bepaalt dat de beslissing, waarbij de vrederechter op de volgens de spoedprocedure bij hem aanhangig gemaakte vordering in zake een onteigening ten algemenen nutte, het bedrag van de door de onteigenaar verschuldigde provisionele vergoedingen vaststelt, niet vatbaar is voor beroep; uit die wetsbepaling volgt dat, wanneer de onteigende, met schending van die bepaling, tegen een dergelijke beslissing van de vrederechter hoger beroep heeft ingesteld en de rechtbank van eerste aanleg dat hoger beroep niet ontvankelijk heeft verklaard, ook het cassatieberoep van de onteigende tegen de beslissing van de appelrechters niet ontvankelijk is."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840308.9": {
+      "court": "CASS",
+      "date": "1984-03-08",
+      "roleNumber": "6937",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 7 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, le jugement qui, pour vérifier la recevabilité de l'appel, ordonne la réouverture des débats en dehors du délai de huitaine prévu par cet article."
+      ],
+      "abstractNL": [
+        "Art. 7 Onteigeningswet wordt geschonden doordat het vonnis, om na te gaan of het hoger beroep ontvankelijk is, beslist dat de debatten worden heropend buiten de bij dat artikel voorgeschreven termijn van acht dagen."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840112.9": {
+      "court": "CASS",
+      "date": "1984-01-12",
+      "roleNumber": "6986",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer l'indemnité due du chef d'une expropriation pour cause d'utilité publique, il ne peut être tenu compte de la plus-value du bien exproprié qui résulte de l'expropriation elle-même ou de l'exécution des travaux pour lesquels l'expropriation est autorisée; ne méconnaît ni ne contredit cette règle le juge qui considère qu'il n'y a pas lieu de tenir compte de la moins-value résultant d'un projet de plan de secteur au motif que l'arrêté royal autorisant l'expropriation a, en ce qui concerne le bien exproprié, eu pour conséquence d'arrêter les effets du plan de secteur établi provisoirement, lequel ne sera jamais réalisé et ne sera pas confirmé dans les trois ans."
+      ],
+      "abstractNL": [
+        "Bij de vaststelling van de vergoeding voor een onteigening ten algemenen nutte mag geen rekening worden gehouden met de meerwaarde van het onteigende goed die voortvloeit uit de onteigening zelf of uit de uitvoering van werken waarvoor de onteigening is toegestaan; die regel wordt door de rechter niet miskend en evenmin betwist wanneer hij oordeelt dat geen rekening behoeft te worden gehouden met de minderwaarde ten gevolge van een ontwerp van gewestplan, op grond dat het koninklijk besluit waarbij de onteigening is toegestaan, de gevolgen heeft doen ophouden van het voorlopig vastgesteld gewestplan dat nooit zal worden verwezenlijkt en niet binnen drie jaar zal worden bevestigd."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831202.1": {
+      "court": "CASS",
+      "date": "1983-12-02",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 8, alinéa 2, contenu dans l'article 5 de la loi du 26 juillet 1962, qui dispose que n'est susceptible d'aucun recours la décision par laquelle le juge de paix, saisi d'une demande relative à une expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, fixe le montant des indemnités provisionnelles dues par l'expropriant, est applicable aux dispositions de la susdite décision qui statuent sur la régularité et la légalité de l'expropriation."
+      ],
+      "abstractNL": [
+        "Art. 8, tweede lid, vervat in art. 5 Onteigeningswet Autosnelwegen, krachtens hetwelk de beslissing waarbij de vrederechter, die kennis heeft genomen van een vordering inzake onteigening ten algemenen nutte volgens de spoedprocedure, het bedrag van de door de onteigenaar verschuldigde provisionele vergoedingen vaststelt, niet vatbaar is voor beroep, is toepasselijk op de beschikkingen van die beslissing betreffende de regelmatigheid en de wettigheid van de onteigening."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830916.3": {
+      "court": "CASS",
+      "date": "1983-09-16",
+      "roleNumber": "8032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sans préjudice de la réparation du dommage causé par une prise de possession prématurée et illégale, il est satisfait aux articles 4, 10 et 11, de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, contenue dans l'article 5 de la loi du 26 juillet 1962, lorsque, après une prise de possession illégale, les lieux sont décrits dans l'état où l'expert qui a été désigné les a trouvés."
+      ],
+      "abstractNL": [
+        "Onverminderd vergoeding van de schade veroorzaakt door een onwettige, voortijdige inbezitneming is voldaan aan de artt. 4, 10 en 11 van de Onteigeningswet van 26 juli 1962 wanneer, na een onwettige inbezitneming, de plaatsen worden beschreven in de staat waarin de aangewezen deskundige ze aantreft."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820122.3": {
+      "court": "CASS",
+      "date": "1982-01-22",
+      "roleNumber": "3265",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/01/22/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1981:ARR.19810423.3": {
+      "court": "CASS",
+      "date": "1981-04-23",
+      "roleNumber": "2953",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui confirme une ordonnance du président d'un tribunal de première instance, statuant en référé, ayant rejeté une demande tendant à ordonner l'arrêt de travaux sur une propriété expropriée pour cause d'utilité publique, ne méconnaît pas l'autorité de la chose jugée d'un jugement du juge de paix rendu par application des dispositions légales relatives à la procédure d'extrême urgence incluses dans l'article 5 de la loi du 26 juillet 1962, en considérant, d'une part, sans violer la foi due audit jugement ni à l'acte relatif à ladite demande, que celle-ci tend en réalité à faire déclarer nulle la procédure d'expropriation et en décidant, d'autre part, que le juge de paix s'était déjà prononcé sur la légalité contestée de la procédure."
+      ],
+      "abstractNL": [
+        "Het arrest dat een beschikking in kort geding bevestigt, waarbij een vordering tot stopzetting van de werken op de ten algemenen nutte onteigende gronden wordt verworpen, miskent het gezag van gewijsde niet van een vonnis van de vrederechter, uitspraak doende met toepassing van de wettelijke bepalingen inzake de rechtspleging bij hoogdringende omstandigheden, vervat in art. 5 wet 26 juli 1962, nu het beslist, enerzijds, zonder miskenning van de bewijskracht van dat vonnis of van de akte betreffende de genoemde vordering, dat die vordering in feite ertoe strekt te horen zeggen dat de onteigeningsprocedure nietig is, en, anderzijds, dat de vrederechter reeds uitspraak had gedaan over de betwiste wettigheid van de rechtspleging."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800424.6": {
+      "court": "CASS",
+      "date": "1980-04-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le montant de la juste indemnité à laquelle a droit celui dont l'immeuble a été exproprié pour cause d'utilité publique, le juge doit, d'une part, apprécier le préjudice subi par l'exproprié, selon le cas, soit au jour du jugement déclaratif visé à l'article 7 de la loi du 17 avril 1835, soit au jour du jugement fixant l'indemnité provisionnelle due par l'expropriant, par application de l'article 8 de la loi relative à la procédure d'extrême urgence contenue dans l'article 5 de la loi du 26 juillet 1962, et, d'autre part, pour évaluer le montant de l'indemnité destinée à réparer ce préjudice, se placer au moment où il statue."
+      ],
+      "abstractNL": [
+        "Om het bedrag te bepalen van de ë billijke è vergoeding waarop degene recht heeft wiens onroerend goed ten algemenen nutte onteigend is, moet de rechter de door de onteigende geleden schade schatten naar gelang van het geval op de dag van het declaratief vonnis, bedoeld in art. 7 Onteigeningswet 17 april 1835, of op de dag van het vonnis tot vaststelling van de provisionele vergoeding die door de onteigenaar is verschuldigd ingevolge art. 8 Onteigeningswet 26 juli 1962, en zich de dag van de uitspraak stellen om het bedrag van de schadeloosstelling te begroten <3>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790920.5": {
+      "court": "CASS",
+      "date": "1979-09-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le montant de la juste indemnité à laquelle a droit celui dont l'immeuble a été exproprié pour cause d'utilité publique, le juge doit, d'une part, apprécier le préjudice subi par l'exproprié, selon le cas, soit au jour du jugement déclaratif visé à l'article 7 de la loi du 17 avril 1835, soit au jour du jugement fixant l'indemnité provisionnelle due par l'expropriant, par application de l'article 8 de la loi relative à la procédure d'extrême urgence contenue dans l'article 5 de la loi du 26 juillet 1962, et, d'autre part, pour évaluer le montant de l'indemnité destinée à réparer ce préjudice, se placer au moment où il statue."
+      ],
+      "abstractNL": [
+        "Om het bedrag te bepalen van de \" billijke \" <1> vergoeding waarop degene recht heeft wiens onroerend goed ten algemenen nutte onteigend is, moet de rechter de door de onteigende geleden schade schatten naar gelang van het geval op de dag van het declaratief vonnis, bedoeld in art. 7 Onteigeningswet 17 april 1835, of op de dag van het vonnis tot vaststelling van de provisionele vergoeding die door de onteigenaar is verschuldigd ingevolge art. 8 Onteigeningswet 26 juli 1962, en zich de dag van de uitspraak stellen om het bedrag van de schadeloosstelling te schatten <5>."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780623.6": {
+      "court": "CASS",
+      "date": "1978-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge, saisi d'une requête déposée par l'autorité expropriante aux fins d'entamer la phase judiciaire de la procédure d'extrême urgence en matière d'expropriation, excède ses pouvoirs, lorsqu'il substitue son appréciation des circonstances requérant l'expropriation et la prise de possession immédiate des biens immobiliers à celle du Pouvoir exécutif. (Constit., art. 29 et 67; principe général de droit de la séparation des pouvoirs; loi relative aux expropriations pour cause d'utilité publique suivant la procédure d'extrême urgence contenue dans l'article 5 de la loi du 26 juillet 1962, art. 1er à 8.)"
+      ],
+      "abstractNL": [
+        "De rechter, bij wie door de onteigenende overheid een verzoekschrijft tot inleiding van de rechterlijke fase van de onteigeningsprocedure bij hoogdringende omstandigheden is ingediend, gaat zijn macht te buiten wanneer hij zijn beoordeling nopens de omstandigheden die de onteigening en de onmiddellijke inbezitneming van de onroerende goederen vereisten en die werden vastgesteld door de Koning, in de plaats stelt van die van de uitvoerende macht. (Grondwet, artt. 29 en 67; Algemeen rechtsprincipe van de scheiding van de machten; Wet betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte, vervat in artikel 5 van de wet van 26 juli 1962 artt. 1 tot 8.)"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760917.2": {
+      "court": "CASS",
+      "date": "1976-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les articles 19 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique et 6 et 19, par. 1er, de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique contenue dans l'article 5 de la loi du 26 juillet 1962, relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, aux termes desquels le propriétaire cité est tenu d'appeler à l'instance en expropriation les tiers intéressés à titre de bail, d'antichrèse, d'usage ou d'habitation, ou de les informer de l'expropriation poursuivie, ne sont pas applicables en cas de vente volontaire à l'autorité expropriante d'un immeuble commercial dont l'expropriation pour cause d'utilité publique a été décrétée (4)."
+      ],
+      "abstractNL": [
+        "De artikelen 19 van de wet van 17 april 1835 op de onteigening ten algemenen nutte en 6 en 19, par. 1, van de wet betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte, vervat in artikel 5 van de wet van 26 juli 1962 betreffende de onteigening ten algemenen nutte en de concessies voor de bouw van de autosnelwegen, naar luid waarvan de gedaagde eigenaar gehouden is de derden die bij de onteigening belang hebben op grond van huur, gebruikspand, gebruik of bewoning, in het geding te betrekken of ze op de hoogte te brengen van de voorgenomen onteigening, zijn niet van toepassing in geval van vrijwillige verkoop aan de onteigenende overheid van een handelshuis waarvan de onteigening ten algemenen nutte is gedecreteerd (4)."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760220.2": {
+      "court": "CASS",
+      "date": "1976-02-20",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/02/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le jugement par lequel le juge déclare que les formalités prescrites par la loi sur l'expropriation pour cause d'utilité publique ont été rempliés a pour effet de transférer le droit de propriété du bien exproprié et, partant, de rompre tout bail y relatif conclu par l'exproprié (3). (Loi du 17 avril 1835, art. 7, 8 et 19 ; loi du 26 juillet 1962, art. 7 et 11 contenus dans l'article 5.)"
+      ],
+      "abstractNL": [
+        "Het vonnis waarbij de vrederechter beslist dat de formaliteiten voorgeschreven bij de wet op de onteigening ten algemenen nutte vervuld zijn, heeft tot gevolg het eigendomsrecht over te dragen en derhalve een einde te maken aan elke huurovereenkomst van de onteigende (1). ( Artt. 7 en 8 wet van 17 april 1835. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751030.5": {
+      "court": "CASS",
+      "date": "1975-10-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La décision par laquelle le juge de paix, saisi d'une action en expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, fixe les indemnités provisionnelles dues par l'expropriant n'est susceptible d'aucun recours même en cassation (1). (Article 8, alinéa 2, contenu dans l'article 5 de la loi du 26 juillet 1962.)"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de vrederechter, voor wie een vordering tot onteigening ten algemenen nutte volgens de spoedprocedure aanhangig is, de provisionele vergoedingen vaststelt die de onteigenaar verschuldigd is, is voor generlei beroep vatbaar (1). ( Art. 8, lid 2, vervat in artikel 5 van de wet van 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740606.2": {
+      "court": "CASS",
+      "date": "1974-06-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/06/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité due pour l'expropriation d'un l'immeuble pour cause d'utilité publique, suivant la procédure d'extrême urgence, est la valeur qu'avait l'immeuble au jour du jugement fixant l'indemnité provisionnelle due par l'expropriant. (Art. 8 contenu dans l'article 5 de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De vergoedingen welke voor de onteigening ten algemenen nutte van een onroerend goed volgens de rechtspleging van hoogdringende omstandigheden is verschuldigd, bestaat in de waarde van het onroerend goed op de dag van het vonnis dat de door de onteigenaar verschuldigde voorlopige vergoeding vaststelt. (Art. 8 vervat in artikel 5 van de wet van 26 juli 1962 betreffende de onteigeningen ten algemene nutte en de concessies voor de bouw van autosnelwegen.) (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730615.11": {
+      "court": "CASS",
+      "date": "1973-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision par laquelle le juge de paix, saisi d'une action en expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, fixe les indemnités provisionnelles dues par l'expropriant n'est susceptible d'aucun recours, même d'un recours en cassation. ( Article 8, alinéa 2, contenu dans l'article 5 de la loi du 26 juillet 1962. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de vrederechter, voor wie een vordering tot onteigening ten algemenen nutte volgens de spoedprocedure aanhangig is, de provisionele vergoedingen vaststelt die de onteigenaar verschuldigd is, is voor generlei beroep vatbaar, zelfs niet voor cassatieberoep. ( Artikel 8, lid 2, vervat in artikel 5 van de wet van 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730615.1": {
+      "court": "CASS",
+      "date": "1973-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/15/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La décision par laquelle le juge de paix, saisi d'une action en expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, se déclare incompétent pour en connaître est susceptible d'appel. ( Loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, contenue dans l'article 5 de la loi du 26 juillet 1962, art. 7. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de vrederechter, voor wie een vordering tot onteigening ten algemenen nutte volgens de spoedprocedure aanhangig is, zich onbevoegd verklaart, is voor hoger beroep vatbaar. ( Wet betreffende de rechtspleging in geval van uiterst dringende noodzakelijkheid inzake onteigening ten algemenen nutte, art. 7, vervat in artikel 5 van de wet van 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710603.1": {
+      "court": "CASS",
+      "date": "1971-06-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/06/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les articles 19 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique et 6 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique contenu dans l'article 5 de la loi du 26 juillet 1962, aux termes desquels le propriétaire cité est tenu d'appeler à l'instance en expropriation ou d'en informer les tiers intéressés à titre de bail, ne sont pas applicables en cas de vente volontaire à l'autorité expropriante d'un bien rural dont l'expropriation pour cause d'utilité publique a été décrétée."
+      ],
+      "abstractNL": [
+        "De artikelen 19 van de wet van 17 april 1835 op de onteigening ten algemenen nutte en 6 van de wet betreffende de rechtspleging bij dringende omstandigheden inzake onteigening ten algemenen nutte (vervat in artikel 5 van de wet van 26 juli 1962) naar luid waarvan de gedagvaarde eigenaar ertoe gehouden is de derden, die bij de onteigening belang hebben op grond van huur, in het geding tot onteigening te roepen of ze op de hoogte ervan te brengen, zijn niet van toepassing in geval van vrijwillige verkoop aan de onteigenende overheid van een landeigendom waarvan de onteigening ten algemenen nutte is gedecreteerd."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710129.2": {
+      "court": "CASS",
+      "date": "1971-01-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable devant la cour de cassation, saisie d'un pourvoi en application de l'article 20 de la loi du 23 décembre 1946, le moyen, non soulevé devant le Conseil d'Etat, déduit de la violation des articles 7 et 16 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, contenus dans l'article 5 de la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk voor het Hof van cassatie, waarbij een voorziening aanhangig is met toepassing van artikel 20 van de wet van 23 december 1946, is het middel dat niet is opgeworpen voor de Raad van State en wordt afgeleid uit de schending van de artikelen 7 en 16 van de wet betreffende de procedure bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte, vervat in artikel 5 van de wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte en de concessies voor de bouw van autosnelwegen."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660429.2": {
+      "court": "CASS",
+      "date": "1966-04-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas d'expropriation d'un immeuble, poursuivie conformément à la procédure d'extrême urgence, prévue par l'article 5 de la loi du 26 juillet 1962, le défaut par l'expropriant de déposer à la Caisse des dépôts et consignations, dans le délai d'un mois établi par l'article 15 contenu dans l'article 5 de la loi susdite, le montant de l'indemnité provisoire, fixée par le juge de paix, qui excède celui de l'indemnité provisionnelle, autorise l'exproprié à exiger que l'expropriant suspende l'occupation de l'immeuble; la tardiveté de ce dépôt ne donne ouverture ni à l'action en revision de l'expropriation, prévue à l'article 16, contenu dans l'article 5 de la loi du 26 juillet 1962, ni à une action en résolution de l'expropriation, fondée sur l'article 1184 du Code civil. (Article 15, al. 3, contenu dans l'article 5 de la loi du 26 juillet 1962.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1981:ARR.19810430.6": {
+      "court": "CASS",
+      "date": "1981-04-30",
+      "roleNumber": "2978",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/30/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
   "7": {
     "ECLI:BE:CASS:2025:ARR.20250904.1N.4": {
       "court": "CASS",
@@ -41,6 +627,90 @@
       "abstractNL": [
         "Indien de vrederechter nalaat de provisionele vergoeding die aan de pachter toekomt, vast te stellen, verhindert dit dat de onteigenaar de pachter uit zijn bezit kan ontzetten; hieraan wordt geen afbreuk gedaan door het feit dat de onteigenaar hem sommige stukken bedoeld in artikel 11 van de Onteigeningswet 1962 heeft betekend; de onteigenaar kan dan immers geen bewijs voorleggen van de storting van de provisionele vergoeding in de Deposito- en Consignatiekas die toekomt aan de pachter omdat hierover geen uitspraak werd gedaan (1). (1) Zie Cass., 10 juni 1977, A.C., 1977, 1047."
       ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050929.3": {
+      "court": "CASS",
+      "date": "2005-09-29",
+      "roleNumber": "C030500N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai dans lequel le juge doit se prononcer sur l'appel contre le jugement qui déboute l'expropriant de sa requête et qui décide qu'il n'y a, dès lors, pas lieu de poursuivre la procédure, n'est pas prescrit à peine de nullité (1). (1) Voir Cass., 8 mars 1984, RG 6937, n° 391; contrairement à la cause présente, il s'agissait d'un pourvoi en cassation recevable et les décisions successives du juge d'appel de rouvrir les débats étaient apparemment dues à l'inertie constante des pouvoirs publics expropriants. Voir aussi Cass., 14 novembre 1983, RG 6979, n° 143."
+      ],
+      "abstractNL": [
+        "De termijn waarbinnen de rechter uitspraak moet doen over het hoger beroep tegen het vonnis dat de vordering van de onteigenaar afwijst en beslist dat er derhalve geen aanleiding bestaat om de procedure voort te zetten, is niet op straffe van nietigheid voorgeschreven (1). (1) Zie Cass., 8 maart 1984, AR 6937, nr 391; anders dan in de voorliggende zaak ging het destijds om een ontvankelijk cassatieberoep, en de herhaalde beslissingen van de appèlrechter om het debat te heropenen werden blijkbaar veroorzaakt door de voortdurende inertie van de onteigenende overheid. Zie ook Cass., 14 nov. 1983, AR 6979, nr 143."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000203.5": {
+      "court": "CASS",
+      "date": "2000-02-03",
+      "roleNumber": "C960380N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La motivation d'un arrêté d'expropriation doit énoncer les motifs pour lesquels l'expropriation s'avère nécessaire, ce qui implique qu'elle doit être fondée sur des faits réels, qu'un rapport raisonnable entre l'expropriation envisagée et le but visé doit pouvoir s'en déduire et que, suivant le cas, il doit en apparaître que les options politiques prises ont été évaluées."
+      ],
+      "abstractNL": [
+        "De motivering van een onteigeningsbesluit moet vermelden waarom de onteigening noodzakelijk is, hetgeen impliceert dat de motivering moet berusten op werkelijke feiten, dat daaruit een redelijk verband tussen de voorgenomen onteigening en het vooropgestelde doel kan afgeleid worden en dat, naargelang het geval, daaruit blijkt dat de genomen beleidsopties afgewogen werden."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980122.7": {
+      "court": "CASS",
+      "date": "1998-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/01/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'examen par lequel le juge de paix contrôle si l'action de l'expropriant a été régulièrement intentée, implique aussi l'obligation d'examiner si l'expropriant n'a pas commis de détournement de pouvoir, en méconnaissant la notion juridique de \"l'extrême urgence\"."
+      ],
+      "abstractNL": [
+        "De beoordeling door de vrederechter of de vordering van de onteigenaar regelmatig is ingesteld houdt ook de verplichting in te onderzoeken of de onteigenaar geen machtsafwending heeft begaan door het juridisch begrip hoogdringendheid te miskennen."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900223.10": {
+      "court": "CASS",
+      "date": "1990-02-23",
+      "roleNumber": "6731",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/02/23/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'ajournement de huit jours, visé à l'article 7, alinéa 3, de la loi du 26 juillet 1962, n'est pas prescrit à peine de nullité."
+      ],
+      "abstractNL": [
+        "De termijn van verdaging van acht dagen bedoeld bij art. 7, derde lid, Onteigeningswet Autosnelwegen is niet gesteld op straffe van nietigheid."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770610.2": {
+      "court": "CASS",
+      "date": "1977-06-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/06/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La personne qui s'est portée partie intervenante devant le juge de paix lors de la comparution visée par l'article 7, alinéa 1er, de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique ne fait valoir ainsi que son droit d'intervenir dans la procédure et n'oppose pas une exception visée par l'article 7, alinéa 2, de ladite loi."
+      ],
+      "abstractNL": [
+        "De persoon die zich tijdens de bij artikel 7, lid 1, van de wet van 26 juli 1962 betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte bepaalde verschijning voor de vrederechter als tussenkomende partij doet kennen, maakt aldus enkel aanspraak op zijn recht om in de procedure tussen te komen en werpt geen exceptie op als bedoeld in artikel 7, lid 2, van die wet."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
     }
   },
   "8": {
@@ -70,6 +740,148 @@
       "abstractFR": null,
       "abstractNL": [
         "Het recht op een onteigeningsvergoeding ontstaat definitief op de dag van het vonnis waarbij de door de onteigenaar verschuldigde provisionele vergoeding wordt vastgesteld en op dat ogenblik gaat het eigendomsrecht van de eigenaar naar de onteigenaar over (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050929.3": {
+      "court": "CASS",
+      "date": "2005-09-29",
+      "roleNumber": "C030500N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le jugement qui fait droit à la requête de l'expropriant n'est pas susceptible d'un pourvoi en cassation (1). (1) Cass., 20 juin 1985, RG 7260, n° 637; 2 décembre 1993, RG 9235 et 9316, n° 498."
+      ],
+      "abstractNL": [
+        "Het vonnis dat de vordering van de onteigenaar inwilligt is niet vatbaar voor cassatieberoep (1). (1)Cass., 20 juni 1985, AR 7260, nr 637; 2 dec. 1993, AR 9235 en 9316, nr 498."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990415.10": {
+      "court": "CASS",
+      "date": "1999-04-15",
+      "roleNumber": "C970400F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les projets de plan de secteur arrêtés provisoirement par le ministre compétent ont, en règle, même force obligatoire et même valeur réglementaire qu'un plan de secteur dûment approuvé; le juge appelé à fixer l'indemnité due en cas d'expropriation d'un bien visé dans ce projet ne peut refuser d'en tenir compte en invoquant l'équité ou la véritable nature du terrain."
+      ],
+      "abstractNL": [
+        "In de regel hebben de door de bevoegde minister voorlopig vastgestelde ontwerpen van gewestplan dezelfde bindende kracht en dezelfde verordenende kracht als een naar behoren goedgekeurd gewestplan; de rechter die de vergoeding bij de onteigening van een in dat ontwerp bedoeld goed moet vaststellen, kan niet weigeren daarmee rekening te houden door de billijkheid of de werkelijke aard van het terrein aan te voeren."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961219.15": {
+      "court": "CASS",
+      "date": "1996-12-19",
+      "roleNumber": "C960030F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/12/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge appelé à évaluer la juste indemnité due à l'exproprié ne doit tenir compte de la diminution du pouvoir d'achat de la monnaie ou de la hausse des prix dans le marché immobilier, pour fixer au moment de sa décision le montant supplémentaire éventuellement dû, que s'il constate que la somme mise antérieurement par l'expropriant à la disposition de l'exproprié n'était pas suffisante."
+      ],
+      "abstractNL": [
+        "Om het bedrag te bepalen van de billijke vergoeding waarop de onteigende recht heeft, moet de rechter, om op het ogenblik van zijn beslissing het eventueel verschuldigde aanvullend bedrag te begroten, slechts rekening houden met de vermindering van de koopkracht van de munt of de stijging van de immobiliënmarkt, wanneer hij vaststelt dat het bedrag, dat de onteigenaar voordien ter beschikking van de onteigende had gesteld, niet toereikend was."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941027.6": {
+      "court": "CASS",
+      "date": "1994-10-27",
+      "roleNumber": "C940018F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/10/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas d'expropriation par la procédure d'extrême urgence, le juge doit, pour apprécier le préjudice subi par l'exproprié, tenir compte de la valeur du bien au jour du jugement fixant l'indemnité provisionnelle due par l'expropriant."
+      ],
+      "abstractNL": [
+        "In geval van onteigening via de spoedprocedure, moet de rechter, bij de beoordeling van het door de onteigende geleden nadeel, rekening houden met de waarde van het goed op de dag van het vonnis houdende vaststelling van de door de onteigenaar verschuldigde provisionele vergoeding. (Art. 16 Gw. 1831; art. 8 Onteigeningswet)."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920618.17": {
+      "court": "CASS",
+      "date": "1992-06-18",
+      "roleNumber": "9235;9316",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 8, alinéa 2, de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique aux termes duquel le jugement faisant droit à la requête de l'expropriant n'est susceptible d'aucun recours, est applicable non seulement à la disposition du jugement fixant le montant des indemnités provisionnelles mais aussi aux dispositions qui statuent sur la régularité et la légalité de l'expropriation. ( Loi du 26 juillet 1962, art. 7 et 8, alinéas 1er et 2. )"
+      ],
+      "abstractNL": [
+        "Art. 8, tweede lid, Onteigeningswet volgens hetwelk een vonnis waarbij het verzoek van de onteigenaar wordt ingewilligd, niet vatbaar is voor beroep, is niet alleen toepasselijk op de beschikking van het vonnis tot vaststelling van de provisionele vergoedingen, maar ook op de beschikkingen inzake de regelmatigheid en de wettigheid van de onteigening. ( Artt. 7 en 8, eerste en tweede lid, Onteigeningswet van 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850620.15": {
+      "court": "CASS",
+      "date": "1985-06-20",
+      "roleNumber": "7260",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le jugement qui, aux termes de l'article 8, alinéa 2, de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, n'est susceptible d'aucun recours, est celui par lequel le juge, qu'il s'agisse du juge de paix ou du tribunal de première instance statuant sur l'appel de l'expropriant débouté de sa demande, fait droit à la requête de l'expropriant; la circonstance que ce juge, en violation de l'article 8, alinéa 1er, de la loi, omette de fixer dans son jugement le montant des indemnités provisionnelles, n'a pas pour effet de rendre ce jugement susceptible de recours. ( Loi du 26 juillet 1962, art. 7 et 8, al. 1er et 2. )"
+      ],
+      "abstractNL": [
+        "Het vonnis dat, luidens art. 8, tweede lid, Onteigeningswet, niet vatbaar is voor beroep is het vonnis waarbij de rechter, ongeacht of het gaat om de vrederechter dan wel om de rechter van de rechtbank van eerste aanleg, rechtdoende op het hoger beroep van de onteigenaar wiens vordering is afgewezen, het verzoek van de onteigenaar inwilligt; de omstandigheid dat die rechter, met miskenning van art. 8, eerste lid, van bedoelde wet, nalaat in zijn vonnis het bedrag van de provisionele vergoedingen te bepalen, heeft niet tot gevolg dat dit vonnis vatbaar is voor beroep. ( Artt. 7 en 8, eerste en tweede lid, Onteigeningswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830303.4": {
+      "court": "CASS",
+      "date": "1983-03-03",
+      "roleNumber": "6725",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/03/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La juste indemnité qui doit être allouée au propriétaire d'un immeuble exproprié doit correspondre à la valeur de cet immeuble au jour du jugement fixant l'indemnité provisionnelle due par l'expropriant. ( Constit., art. 11, et loi du 26 juillet 1962, art. 8. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De billijke vergoeding die moet worden toegekend aan de eigenaar van een onteigend onroerend goed moet overeenstemmen met de waarde van dat goed op de dag van het vonnis dat de door de onteigenaar verschuldigde voorlopige vergoeding vaststelt. ( Impliciete oplossing. ) ( Art. 11 Gw., en art. 8 wet 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19771007.3": {
+      "court": "CASS",
+      "date": "1977-10-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative d'apprécier l'extrême urgence qui lui fait décider que la prise de possession d'un bien immeuble pour cause d'utilité publique est indispensable, les juges saisis d'une requête déposée par l'autorité expropriante aux fins d'entamer la phase judiciaire de la procédure d'extrême urgence en matière d'expropriation ont le devoir de vérifier si l'autorité n'a pas commis d'excès ou de détournement de pouvoir en méconnaissant la notion juridique d'extrême urgence (1). ( Constit., art. 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Zo het principieel aan de administratieve overheid staat de hoogdringendheid te beoordelen die haar doet besluiten dat de onmiddellijke inbezitneming van een onroerend goed ten algemenen nutte onontbeerlijk is, hebben de rechters bij wie door de onteigenende overheid een verzoekschrift tot inleiding van de rechterlijke fase van de onteigeningsprocedure bij hoogdringende omstandigheden aanhangig is gemaakt, de verplichting te onderzoeken of die overheid geen machtsoverschrijding of machtsafwending heeft begaan door het juridisch begrip \" hoogdringendheid \" te miskennen (1). ( Art. 107 Grondwet; art. 1 tot 8 van de wet van 26 juli 1962 betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte )."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790308.4": {
+      "court": "CASS",
+      "date": "1979-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "S'il appartient, en principe, à l'autorité administrative de constater la nécessité et l'extrême urgence d'une expropriation et si, dès lors, il n'incombe pas à l'autorité expropriante de démontrer cette nécessité et cette urgence devant les tribunaux, ceux-ci ont toutefois le devoir d'examiner si le pouvoir exécutif ou l'autorité administrative n'ont pas excédé leurs pouvoirs ou ne les ont pas détournés en les faisant servir à des fins autres que elles en vue desquelles ils leur ont été conférés. ( Constit. article 107; loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, art. 1er à 8. )"
+      ],
+      "abstractNL": [
+        "Hoewel de administratieve overheid in principe de noodzaak en de \" hoogdringendheid \" van een onteigening moet vaststellen en de onteigenende overheid die oorzaak en die urgentie dus niet behoeft aan te tonen voor het gerecht, zal de rechter evenwel moeten oordelen of de uitvoerende macht of de administratieve overheid hun macht zo niet overschreden dan wel afgewend hebben door ze te gebruiken voor andere doeleinden dan die waarvoor zij haar was verleend <2> <3>. (Art. 107 Gw.; artt. 1 en 8 Wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte.)"
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:2009:ARR.20090130.3": {
+      "court": "CASS",
+      "date": "2009-01-30",
+      "roleNumber": "C.07.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En versant l'indemnité d'expropriation provisionnelle et le montant de l'indemnité provisoire qui excède le montant de l'indemnité provisionnelle à la Caisse de dépôt et consignation l'expropriant satisfait, dans cette mesure, à son obligation de payement (1). (1) Le M.P. a conclu au rejet sur la base de la considération que les indemnités allouées par le juge à l'exproprié dans le cadre de la procédure de révision introduite en vertu de l'article 16 de la loi du 26 juillet 1962 sont considérées comme couvrant la totalité du dommage résultant de la perte de possession, et elles doivent, dès lors, comprendre des intérêts compensatoires sur les montants alloués à partir de la cession de propriété jusqu'au jour du prononcé de la décision fixant de manière irrévocable le montant de l'indemnité d'expropriation; lorsque l'évaluation définitive du dommage excède le dommage évalué auparavant l'exproprié a droit à une indemnité complémentaire correspondante comprenant les intérêts compensatoires et judiciaires y afférents."
+      ],
+      "abstractNL": [
+        "Door de storting van de provisionele onteigeningsvergoeding en van het bedrag van de voorlopige vergoeding dat het bedrag van de provisionele vergoeding te boven gaat in de Deposito- en Consignatiekas voldoet de onteigenaar in zoverre aan zijn betalingsverplichting (1). (1) Het O.M. concludeerde tot verwerping op grond van de overweging dat de vergoedingen die de rechter aan de onteigende toekent in het kader van de bij artikel 16 Onteigeningswet ingestelde herzieningsprocedure geacht worden de volledige schade ten gevolge van het bezitsverlies te dekken, en derhalve vergoedende intresten dienen te omvatten op de toegekende bedragen vanaf de eigendomsoverdracht tot de dag van de uitspraak van de beslissing waarop het bedrag van de onteigeningsvergoeding onherroepelijk wordt vastgesteld; wanneer de definitieve begroting van de schade de voorheen begrote schade overtreft is de onteigende gerechtigd op een hiermee overeenstemmende bijkomende schadevergoeding met inbegrip van de hierbij horende vergoedende en gerechtelijke intresten."
       ]
     }
   },
@@ -102,6 +914,64 @@
       ],
       "abstractNL": [
         "Indien de vrederechter nalaat de provisionele vergoeding die aan de pachter toekomt, vast te stellen, verhindert dit dat de onteigenaar de pachter uit zijn bezit kan ontzetten; hieraan wordt geen afbreuk gedaan door het feit dat de onteigenaar hem sommige stukken bedoeld in artikel 11 van de Onteigeningswet 1962 heeft betekend; de onteigenaar kan dan immers geen bewijs voorleggen van de storting van de provisionele vergoeding in de Deposito- en Consignatiekas die toekomt aan de pachter omdat hierover geen uitspraak werd gedaan (1). (1) Zie Cass., 10 juni 1977, A.C., 1977, 1047."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:2009:ARR.20090130.3": {
+      "court": "CASS",
+      "date": "2009-01-30",
+      "roleNumber": "C.07.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En versant l'indemnité d'expropriation provisionnelle et le montant de l'indemnité provisoire qui excède le montant de l'indemnité provisionnelle à la Caisse de dépôt et consignation l'expropriant satisfait, dans cette mesure, à son obligation de payement (1). (1) Le M.P. a conclu au rejet sur la base de la considération que les indemnités allouées par le juge à l'exproprié dans le cadre de la procédure de révision introduite en vertu de l'article 16 de la loi du 26 juillet 1962 sont considérées comme couvrant la totalité du dommage résultant de la perte de possession, et elles doivent, dès lors, comprendre des intérêts compensatoires sur les montants alloués à partir de la cession de propriété jusqu'au jour du prononcé de la décision fixant de manière irrévocable le montant de l'indemnité d'expropriation; lorsque l'évaluation définitive du dommage excède le dommage évalué auparavant l'exproprié a droit à une indemnité complémentaire correspondante comprenant les intérêts compensatoires et judiciaires y afférents."
+      ],
+      "abstractNL": [
+        "Door de storting van de provisionele onteigeningsvergoeding en van het bedrag van de voorlopige vergoeding dat het bedrag van de provisionele vergoeding te boven gaat in de Deposito- en Consignatiekas voldoet de onteigenaar in zoverre aan zijn betalingsverplichting (1). (1) Het O.M. concludeerde tot verwerping op grond van de overweging dat de vergoedingen die de rechter aan de onteigende toekent in het kader van de bij artikel 16 Onteigeningswet ingestelde herzieningsprocedure geacht worden de volledige schade ten gevolge van het bezitsverlies te dekken, en derhalve vergoedende intresten dienen te omvatten op de toegekende bedragen vanaf de eigendomsoverdracht tot de dag van de uitspraak van de beslissing waarop het bedrag van de onteigeningsvergoeding onherroepelijk wordt vastgesteld; wanneer de definitieve begroting van de schade de voorheen begrote schade overtreft is de onteigende gerechtigd op een hiermee overeenstemmende bijkomende schadevergoeding met inbegrip van de hierbij horende vergoedende en gerechtelijke intresten."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941110.17": {
+      "court": "CASS",
+      "date": "1994-11-10",
+      "roleNumber": "C940108F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, au cours d'une expropriation pour cause d'utilité publique par la procédure d'extrême urgence, l'expropriant a payé à la Caisse des dépôts et consignations des indemnités provisoires d'un montant supérieur au montant des indemnités définitives, il ne peut être condamné en outre à verser des intérêts légaux sur ces dernières indemnités pour la période précédant la décision qui les fixe; d'autre part, la seule considération que les expropriés sont dans la situation d'un accipiens de bonne foi ne justifie pas la décision que les intérêts dus à l'expropriant sur le montant payé en trop aux expropriés ne prendront cours qu'à partir de la décision fixant l'indemnité définitive."
+      ],
+      "abstractNL": [
+        "Wanneer de onteigenaar, in de loop van een onteigening ten algemenen nutte via de rechtspleging bij hoogdringende omstandigheden, aan de Deposito- en Consignatiekas voorlopige vergoedingen heeft betaald waarvan het bedrag dat van de definitieve vergoedingen te boven gaat, mag hij niet bovendien worden veroordeeld om op laatstgenoemde vergoedingen wettelijke interest te betalen voor de periode voor de beslissing tot vaststelling ervan; anderzijds, is de enkele overweging dat de onteigenden in de toestand van een accipiens te goeder trouw verkeren, geen verantwoording voor de beslissing dat de interest die aan de onteigenaar op het aan de onteigende te veel betaalde is verschuldigd, pas begint te lopen vanaf de beslissing tot vaststelling van de definitieve vergoeding. (Art. 16 Gw.; artt. 1147, 1153, 1378 B.W.; artt. 9 en 15 Onteigeningswet 16 juli 1962)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940513.11": {
+      "court": "CASS",
+      "date": "1994-05-13",
+      "roleNumber": "C930158N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le délai de deux mois prescrit à l'article 16 de la loi du 26 juillet 1962 fixe une échéance; est dès lors recevable, l'action en révision de l'indemnité provisoire allouée qui a été introduite avant l'envoi des pièces prévues à l'article 15, alinéa 2, de la même loi."
+      ],
+      "abstractNL": [
+        "De bij art. 16 Onteigeningswet vastgestelde termijn van twee maanden is een eindtermijn; ontvankelijk is bijgevolg de vordering tot herziening van de toegekende voorlopige vergoeding, die is ingesteld voor de verzending van de in art. 15, tweede lid, van dezelfde wet bepaalde stukken."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910131.9": {
+      "court": "CASS",
+      "date": "1991-01-31",
+      "roleNumber": "8846",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/31/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision l'arrêt qui, statuant sur la révision des indemnités provisoires allouées par le juge de paix dans une procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, décide d'octroyer à l'exproprié des intérêts sur les sommes consignées par l'expropriant à la Caisse des dépôts et consignations, au seul motif que la consignation ne valait pas paiement. ( Loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique contenue dans l'article 5 de la loi du 26 juillet 1962, art. 9 et 15. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest dat, uitspraak doende op de herziening van de voorlopige vergoedingen, die door de vrederechter zijn toegekend in een rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte, beslist dat aan de onteigende interest moet worden toegekend op de door de onteigenaar in de Depositokas en Consignatiekas in consignatie gegeven bedragen, op grond alleen dat consignatie niet als betaling gold. ( Artt. 9 en 15 Onteigeningswet Autosnelwegen van 26 juli 1962. )"
       ]
     }
   },
@@ -149,6 +1019,294 @@
       ],
       "abstractNL": [
         "Indien de vrederechter nalaat de provisionele vergoeding die aan de pachter toekomt, vast te stellen, verhindert dit dat de onteigenaar de pachter uit zijn bezit kan ontzetten; hieraan wordt geen afbreuk gedaan door het feit dat de onteigenaar hem sommige stukken bedoeld in artikel 11 van de Onteigeningswet 1962 heeft betekend; de onteigenaar kan dan immers geen bewijs voorleggen van de storting van de provisionele vergoeding in de Deposito- en Consignatiekas die toekomt aan de pachter omdat hierover geen uitspraak werd gedaan (1). (1) Zie Cass., 10 juni 1977, A.C., 1977, 1047."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170504.1": {
+      "court": "CASS",
+      "date": "2017-05-04",
+      "roleNumber": "C.16.0004.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/05/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision rendue sur la régularité de l'expropriation au cours de la procédure de fixation de l'indemnité provisoire produit uniquement des effets sur l'indemnisation provisoire et n'empêche pas l'exproprié de faire valoir à nouveau ses moyens relatifs à la régularité de l'expropriation au cours de la procédure en révision (1). (1) Cass. 5 janvier 2006, RG C.04.0435.N, Pas. 2006, n° 9."
+      ],
+      "abstractNL": [
+        "De beslissing over de regelmatigheid van de onteigening die wordt gewezen in de loop van de procedure tot vaststelling van de voorlopige vergoeding, heeft enkel gevolgen voor de voorlopige vergoeding en belet niet dat de onteigende zijn middelen betreffende de regelmatigheid van de onteigening opnieuw kan aanvoeren in de loop van de herzieningsprocedure (1). (1) Cass. 5 januari 2006, AR C.04.0435.N, AC 2006, nr. 9."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131128.4": {
+      "court": "CASS",
+      "date": "2013-11-28",
+      "roleNumber": "C.13.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/11/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'action en révision doit être considérée comme une procédure indépendante (1) qui ressort au régime des frais du Code judiciaire (2). (1) Voir Cass., 14 décembre 1995, Pas., 1995, n° 548. (2) Voir Cass., 22 mars 2012, RG C.10.0155.N, Pas., 2012, n° 191, avec les conclusions du ministère public ; Cass., 4 décembre 1992, Pas., 1992, 1336."
+      ],
+      "abstractNL": [
+        "De vordering tot herziening moet als een zelfstandige procedure worden beschouwd (1) die valt onder de kostenregeling van het Gerechtelijk Wetboek (2). (1) Zie Cass. 14 dec. 1995, AC 1995, nr. 548. (2) Zie Cass. 22 maart 2012, AR C.10.0155.N, AC 2012, nr. 191, met concl. van het OM; Cass. 4 dec. 1992, AC 1991-92, 1385."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120322.5": {
+      "court": "CASS",
+      "date": "2012-03-22",
+      "roleNumber": "C.10.0155.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 16 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique est, en principe, une disposition légale spéciale en vertu de laquelle les frais peuvent être mis à charge de la partie qui les a causés, même si l'autre partie a succombé, si cela est requis pour indemniser l'exproprié de l'abandon forcé de son bien; cela n'implique pas que l'action en révision qui, en application de l'article 16, alinéa 2, de cette loi, est instruite conformément aux règles du Code judiciaire et qui n'est pas une suite nécessaire de la décision d'exproprier, est soustraite au régime des frais et dépens du Code judiciaire (1). (1) Voir les concl. du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De Onteigeningswet 1962 is in beginsel een bijzondere wettelijke bepaling krachtens welke de kosten ten laste kunnen gelegd worden van de partij door wie zij zijn veroorzaakt, zelfs indien de andere partij in het ongelijk is gesteld, als dit nodig is om de onteigende te vergoeden voor de gedwongen afstand van zijn goed; dit houdt niet in dat de vordering in herziening, die volgens artikel 16, tweede lid, van deze wet behandeld wordt overeenkomstig de regels van het Gerechtelijk Wetboek en geen noodzakelijk gevolg is van de beslissing te onteigenen, wordt onttrokken aan de kostenregeling van het Gerechtelijk Wetboek (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060105.5": {
+      "court": "CASS",
+      "date": "2006-01-05",
+      "roleNumber": "C040435N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/01/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La décision rendue sur la régularité de l'expropriation au cours de la procédure de fixation de l'indemnité provisoire produit uniquement des effets sur l'indemnisation provisoire et n'empêche pas l'exproprié de faire valoir à nouveau pleinement ses moyens relatifs à la régularité de l'expropriation au cours de la procédure en révision (1). (1) Voir Cass., 7 décembre 1990, audience plénière, RG 6337, n° 181, et les conclusions de M. l'avocat général du Jardin."
+      ],
+      "abstractNL": [
+        "De beslissing die tijdens de rechtspleging tot vaststelling van de voorlopige vergoeding genomen is over de regelmatigheid van de onteigening, heeft alleen gevolgen in het kader van de voorlopige vergoeding maar belet niet dat de onteigende in het debat in herziening zijn bezwaren tegen de regelmatigheid van de onteigening ten volle opnieuw kan laten gelden (1). (1) Zie Cass., 7 dec. 1990, voltallige zitting, AR 6337, nr 181, met concl. adv.-gen. du JARDIN."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960620.8": {
+      "court": "CASS",
+      "date": "1996-06-20",
+      "roleNumber": "C940188N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'à la suite de la procédure de revision, l'exproprié est condamné à la restitution du trop-perçu, à savoir la différence entre les indemnités provisoire et définitive, l'article 1378 du Code civil n'est pas applicable."
+      ],
+      "abstractNL": [
+        "Wanneer de onteigende na rechtspleging in herziening wordt veroordeeld tot terugbetaling van hetgeen hij te veel heeft ontvangen, te weten het verschil tussen de voorlopige en de definitieve vergoeding, is artikel 1378 BW niet van toepassing."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951012.4": {
+      "court": "CASS",
+      "date": "1995-10-12",
+      "roleNumber": "C940479F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/12/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'à la suite d'un arrêté d'expropriation pour cause d'utilité publique le juge de paix est saisi d'une demande tendant à la prise de possession des biens à exproprier, le Conseil d'Etat est incompétent pour statuer sur les recours en annulation formés contre l'arrêté d'expropriation par le propriétaire des biens."
+      ],
+      "abstractNL": [
+        "Wanneer ten gevolge van een besluit tot onteigening ten algemenen nutte, bij de vrederechter een vordering tot inbezitneming van de onteigenen goederen aanhangig wordt gemaakt, is de Raad van State niet bevoegd om uitspraak te doen over de beroepen tot nietigverklaring die de eigenaar van de goederen tegen het onteigeningsbesluit heeft ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950914.1": {
+      "court": "CASS",
+      "date": "1995-09-14",
+      "roleNumber": "C930307N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'ensuite de la procédure de révision, l'exproprié est condamné à la restitution du trop-perçu, le juge peut décider, sans devoir constater la mauvaise foi de l'exproprié, qu'il y a lieu d'allouer des intérêts sur la différence entre le montant de l'indemnité définitive et celui de l'indemnité provisoire, à partir du jour du paiement."
+      ],
+      "abstractNL": [
+        "Wanneer een onteigende, na de rechtspleging in herziening, wordt veroordeeld tot terugbetaling van hetgeen hij teveel heeft ontvangen, mag de rechter, zonder de kwade trouw van de onteigende te moeten vaststellen, beslissen dat interest verschuldigd is op het verschil tussen het bedrag van de definitieve en de voorlopige vergoeding, vanaf de dag der betaling."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901207.8": {
+      "court": "CASS",
+      "date": "1990-12-07",
+      "roleNumber": "6337",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/12/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas interdit à l'exproprié de fonder son action en révision devant le tribunal de première instance sur des motifs relatifs à l'irrégularité de l'expropriation qu'il n'avait pas invoqués devant le juge de paix. ( Art. 16, alinéa 2, Loi du 26 juillet 1962. )"
+      ],
+      "abstractNL": [
+        "Het is de onteigende niet verboden zijn vordering tot herziening voor de rechtbank van eerste aanleg te laten steunen op gronden met betrekking tot de onregelmatigheid van de onteigening die hij voor de vrederechter niet heeft aangevoerd. ( Art. 16, tweede lid, Onteigeningswet van 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900608.9": {
+      "court": "CASS",
+      "date": "1990-06-08",
+      "roleNumber": "6881",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 1147 et 1153 du Code civil, l'arrêt qui, après avoir condamné l'exproprié à rembourser à l'expropriant la partie de l'indemnité provisoire allouée par le juge de paix excédant le montant de l'indemnité définitive, décide que les intérêts dûs sur le montant à rembourser sont non pas les intérêts légaux mais les intérêts que ce montant, déposé à la Caisse de dépôts et de consignations, aurait pu rapporter. ( Loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes, art. 16. )"
+      ],
+      "abstractNL": [
+        "De artt. 1147 en 1153 Burgerlijk Wetboek worden geschonden door het arrest dat, na de onteigende ertoe te hebben veroordeeld om aan de onteigenaar het gedeelte van de door de vrederechter vastgestelde voorlopige vergoeding terug te betalen dat het bedrag van de definitieve vergoeding te boven gaat, beslist dat op het terug te betalen bedrag niet de wettelijke rente verschuldigd is doch enkel de rente die dat bedrag in de Deposito- en Consignatiekas had kunnen opbrengen. ( Art. 16 Onteigeningswet 26 juli 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900112.10": {
+      "court": "CASS",
+      "date": "1990-01-12",
+      "roleNumber": "6402",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/12/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique ne sont pas applicables lorsque l'arrêté royal ordonnant l'expropriation a expressément soumis celle-ci aux règles particulières contenues dans la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes."
+      ],
+      "abstractNL": [
+        "De bepalingen van de wet van 17 april 1835 op de onteigening ten algemenen nutte zijn niet toepasselijk wanneer het K.B. dat de onteigening heeft uitgevaardigd, deze uitdrukkelijk aan de bijzondere regels uit de Onteigeningswet Autosnelwegen heeft onderworpen."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891214.16": {
+      "court": "CASS",
+      "date": "1989-12-14",
+      "roleNumber": "8488",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les indemnités que le juge accorde à l'exproprié aux termes de la procédure de révision prévue à l'article 16 de la loi relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique sont censées couvrir l'intégralité du dommage qui résulte de la dépossession; elles comprennent, dès lors, les intérêts compensatoires qui ont couru depuis le transfert de propriété de l'exproprié à l'expropriant jusqu'au jour de la prononciation de la décision arrêtant définitivement les montants alloués; il s'ensuit qu'après la date de la prononciation de cette décision, l'exproprié est recevable à demander que lui soient versés les intérêts moratoires échus entre cette date et le paiement de la somme en principal par l'autorité expropriante."
+      ],
+      "abstractNL": [
+        "De vergoedingen die de rechter aan de onteigende toekent in het kader van de herzieningsprocedure van art. 16 Onteigeningswet worden geacht de schade ten gevolge van het bezitsverlies volledig te herstellen; zij omvatten derhalve de compensatoire interest die is opgebracht vanaf de overdracht van de eigendom van de onteigende aan de onteigenaar tot de dag van de uitspraak van de beslissing waarbij de toegekende bedragen onherroepelijk zijn vastgesteld; daaruit volgt dat na de dag van de uitspraak van die beslissing, de onteigende ontvankelijk is om betaling te vorderen van de moratoire interest vanaf die datum tot de betaling van de hoofdsom door de onteigenende overheid."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890303.9": {
+      "court": "CASS",
+      "date": "1989-03-03",
+      "roleNumber": "6001",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible de pourvoi en cassation la décision par laquelle le juge de paix, saisi d'une action en expropriation pour cause d'utilité publique suivant la procédure d'extrême urgence, fixe les indemnités provisionnelles dues par l'expropriant, même si le recours n'est formé contre la décision qu'en tant qu'elle statue sur la régularité de la procédure."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de vrederechter, voor wie een vordering tot onteigening ten algemenen nutte overeenkomstig de spoedprocedure aanhangig is, de provisionele vergoedingen vaststelt die door de onteigenaar zijn verschuldigd, is niet vatbaar voor cassatieberoep, ook al is dat beroep slechts ingesteld tegen de beslissing in zoverre die uitspraak doet over de regelmatigheid van de procedure."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881103.6": {
+      "court": "CASS",
+      "date": "1988-11-03",
+      "roleNumber": "5930",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/11/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il instruit conformément aux règles du Code judiciaire une demande en révision des indemnités allouées provisoirement par le juge de paix, le tribunal de première instance n'est pas tenu de charger un expert de procéder à des constatations ou de donner un avis d'ordre technique. ( Code judiciaire, article 962. )"
+      ],
+      "abstractNL": [
+        "In het kader van de procedure waarbij de door de vrederechter toegekende voorlopige vergoeding wordt herzien en die voor de rechtbank van eerste aanleg wordt gevoerd overeenkomstig de regels van het Gerechtelijk Wetboek, is de rechter niet verplicht een deskundige te gelasten vaststellingen te doen of een technisch advies te geven. ( Art. 962 Gerechtelijk Wetboek. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880219.5": {
+      "court": "CASS",
+      "date": "1988-02-19",
+      "roleNumber": "5618",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, à l'issue de la procédure de révision prévue à l'article 16 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, il apparaît que l'indemnité provisoire excède l'indemnité définitive, le juge condamne l'exproprié à la restitution du trop-perçu et au payement d'intérêts sur ce surplus."
+      ],
+      "abstractNL": [
+        "Wanneer, na afloop van de bij art. 16 Onteigeningswet 26 juli 1962 bepaalde herzieningsprocedure, vaststaat dat de voorlopige vergoeding de definitieve vergoeding te boven gaat, veroordeelt de rechter de onteigende tot teruggave van hetgeen hij te veel heeft ontvangen en tot betaling van de interesten op dat surplus."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840112.8": {
+      "court": "CASS",
+      "date": "1984-01-12",
+      "roleNumber": "6966",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les indemnités que le juge accorde à l'exproprié aux termes de la procédure de révision prévue par l'article 16 de la loi du 26 juillet 1962 sont censées couvrir l'intégralité du dommage qui résulte de la dépossession; elles comprennent, dès lors, les intérêts compensatoires ayant couru depuis le transfert de propriété de l'exproprié à l'expropriant jusqu'au jour de la prononciation de la décision arrêtant définitivement les montants alloués; il s'ensuit qu'après la date de la prononciation du jugement de révision, l'exproprié est recevable à demander que lui soient versés les intérêts moratoires échus entre cette date et le paiement de la somme en principal par l'autorité expropriante."
+      ],
+      "abstractNL": [
+        "De vergoedingen die de rechter aan de onteigende in het kader van de bij art. 16 Onteigeningswet ingestelde herzieningsprocedure toekent, worden beschouwd als een vergoeding voor de volledige schade ten gevolge van het bezitsverlies; zij omvatten derhalve de compensatoire interest vanaf de overdracht van de eigendom van de onteigende aan de onteigenaar tot de dag van de uitspraak van de beslissing, waarbij de toegekende bedragen onherroepelijk worden vastgesteld; daaruit volgt dat na de dag van de uitspraak van het herzieningsvonnis de onteigende ontvankelijk is om betaling te vorderen van de moratoire interest die is vervallen tussen die datum en de betaling van de hoofdsom door de onteigenende overheid."
+      ]
+    }
+  },
+  "19": {
+    "ECLI:BE:CASS:1999:ARR.19990318.4": {
+      "court": "CASS",
+      "date": "1999-03-18",
+      "roleNumber": "C970450F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui, dans le cadre d'une procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, a désigné un expert en vue de fixer à titre provisoire le montant des indemnités dues du chef de l'expropriation, ne peut désigner un nouvel expert que si le premier a été légalement révoqué."
+      ],
+      "abstractNL": [
+        "De rechter die, in het raam van een rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemenen nutte, een deskundige heeft aangesteld om voorlopig het bedrag van de vergoeding te bepalen die voor de onteigening verschuldigd is, mag geen nieuwe deskundige aanstellen tenzij de eerste wettig ontslagen is."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:2009:ARR.20091001.8": {
+      "court": "CASS",
+      "date": "2009-10-01",
+      "roleNumber": "C.08.0252.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La réglementation de l'article 21 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique tend à fixer un taux d'intérêt très bas pour les sommes perçues indûment par l'exproprié et ne lui impose donc pas de prouver que l'intérêt qu'il a gagné sur les sommes retirées était inférieur à l'intérêt légal ou à l'intérêt du marché (1); il s'ensuit que des intérêts sont dus sur l'indemnité d'expropriation à rembourser et que cet intérêt est calculé à partir du retrait des sommes de la Caisse des dépôts et consignations jusqu'au jour du remboursement au taux de refinancement de la Banque Centrale européenne; en dérogation à ce qui précède, un intérêt de 3 pour cent est dû pour la période antérieure au 1er janvier 1999 sur ces indemnités à partir du retrait de la Caisse des Dépôts et Consignations jusqu'à leur remboursement. (1) Cass., 11 février 2005, RG C.04.0161.N, Pas., 2005, n° 87."
+      ],
+      "abstractNL": [
+        "De regeling van artikel 21 Onteigeningswet strekt ertoe een zeer lage rentevoet te bepalen voor de bedragen die de onteigende onverschuldigd heeft ontvangen en legt hem aldus niet de bewijslast op dat de rente die hij heeft gewonnen op de opgenomen bedragen lager lag dan de wettelijke rentevoet of marktrentevoet (1); hieruit volgt dat op de terug te betalen onteigeningsvergoeding interest verschuldigd is en dat die interest voor de periode vanaf de afhaling der gelden bij de Deposito- en Consignatiekas tot de dag van de terugbetaling berekend wordt aan de rentevoet van de basisherfinancieringstransacties van de Europese Centrale Bank; in afwijking hiervan is voor de periode voorafgaand aan 1 januari 1999 op deze vergoedingen voor de periode vanaf de afhaling van de Deposito- en Consignatiekas tot de terugbetaling ervan, een interest verschuldigd van 3 pct. (1) Cass., 11 feb. 2005, AR C.04.0161.N, A.C., 2005, nr. 87."
+      ]
+    }
+  },
+  "1384": {
+    "ECLI:BE:CASS:2003:ARR.20031010.4": {
+      "court": "CASS",
+      "date": "2003-10-10",
+      "roleNumber": "C020628F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/10/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'instituteur est présumé responsable du dommage causé par ses élèves pendant le temps qu'ils sont sous sa surveillance; il peut renverser cette présomption de responsabilité en prouvant qu'il n'a pu empêcher le fait qui donne lieu à sa responsabilité; la présomption de responsabilité repose donc sur une faute personnelle et peut être renversée par la preuve contraire (1). (1) Voir Cass., 25 janvier 1993, RG 9385, n° 47."
+      ],
+      "abstractNL": [
+        "De onderwijzer wordt vermoed aansprakelijk te zijn voor de schade die zijn leerlingen veroorzaken terwijl zij onder zijn toezicht staan; hij kan dat vermoeden van aansprakelijkheid weerleggen als hij aantoont dat hij het feit, waardoor zijn aansprakelijkheid in het geding komt, niet heeft kunnen voorkomen; het vermoeden van aansprakelijkheid berust dus op een persoonlijke fout en kan door het bewijs van het tegendeel weerlegd worden (1). (1) Zie Cass., 25 jan. 1993, AR 9385, nr 47."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1992:ARR.19920921.5": {
+      "court": "CASS",
+      "date": "1992-09-21",
+      "roleNumber": "7677",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/09/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La formalité administrative de l'enquête publique , prescrite par la loi du 27 mai 1870, ne doit pas être remplie lorsque l'expropriation est faite en application de la loi du 26 juillet 1962 relative à la procédure en cas d'extrême urgence."
+      ],
+      "abstractNL": [
+        "De administratieve formaliteit van het openbaar onderzoek, voorgeschreven door de wet van 27 mei 1870, dient niet te worden vervuld wanneer de onteigening gebeurt met toepassing van de Onteigeningswet van 26 juli 1962."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910322.10": {
+      "court": "CASS",
+      "date": "1991-03-22",
+      "roleNumber": "6597",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/03/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La formalité administrative de l'enquête publique, prescrite par la loi du 27 mai 1870, ne doit pas être remplie lorsque l'expropriation est faite en application de la loi du 26 juillet 1962 relative à la procédure en cas d'extrême urgence."
+      ],
+      "abstractNL": [
+        "De administratieve formaliteit van het openbaar onderzoek, voorgeschreven door de wet van 27 mei 1870, dient niet te worden vervuld wanneer de onteigening gebeurt met toepassing van de Onteigeningswet van 26 juli 1962."
       ]
     }
   }

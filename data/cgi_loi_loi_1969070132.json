@@ -47,6 +47,36 @@
       ]
     }
   },
+  "45": {
+    "ECLI:BE:CASS:2015:ARR.20151126.10": {
+      "court": "CASS",
+      "date": "2015-11-26",
+      "roleNumber": "F.14.0175.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/11/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le titulaire d'un droit de superficie construit un nouveau bâtiment à titre d'assujetti occasionnel et cède ensuite le droit de superficie à un tiers, il peut, en principe, déduire la taxe sur la valeur ajoutée qu'il a payée pour la construction du bâtiment; si le prix de vente ne correspond pas au prix de construction des bâtiments du fait que seul le droit de superficie a été vendu, la déduction de la taxe sur la valeur ajoutée payée est limitée dans la proportion qui existe entre le prix du droit de superficie et le prix de la construction des bâtiments en pleine propriété (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer een opstalhouder als toevallige belastingplichtige een nieuw gebouw opricht en nadien het opstalrecht overdraagt aan een derde, kan hij in de regel de belasting over de toegevoegde waarde die hij voor de oprichting van het gebouw betaald heeft, in aftrek brengen; indien de verkoopprijs niet overeenstemt met de oprichtingsprijs van de gebouwen omwille van het feit dat slechts het recht van opstal wordt verkocht, dan is de aftrek van de betaalde belasting over de toegevoegde waarde beperkt volgens de verhouding van de prijs van het opstalrecht tot de oprichtingsprijs van de gebouwen in volle eigendom (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140619.3": {
+      "court": "CASS",
+      "date": "2014-06-19",
+      "roleNumber": "F.12.0082.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/06/19/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Dans le cas d'un assujetti partiel qui exerce tant des activités économiques que des activités non économiques, la taxe sur la valeur ajoutée liée à ses activités ne peut être déduite que dans la mesure où ces frais peuvent être imputés à l'activité économique de l'assujetti (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Bij een gedeeltelijke belastingplichtige, die zowel economische activiteiten als niet-economische activiteiten verricht, is de belasting over de toegevoegde waarde verbonden aan zijn activiteiten slechts aftrekbaar voor zover deze kosten kunnen worden toegerekend aan de economische activiteit van de belastingplichtige (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "70": {
     "ECLI:BE:CASS:2018:ARR.20180112.4": {
       "court": "CASS",
@@ -60,6 +90,54 @@
       ],
       "abstractNL": [
         "De artikelen 8, § 1, en 18bis Probatiewet stellen de voorwaarden vast waaronder uitstel van de tenuitvoerlegging van een strafrechtelijke veroordeling kan worden verleend; wanneer de veroordeelde voldoet aan de wettelijke voorwaarden om uitstel te genieten, dient de vonnisrechter op grond van eigen overwegingen te beoordelen of die maatregel bevolen moet worden (1). (1) Zie concl. OM in Pas. 2018, nr. ... ."
+      ]
+    }
+  },
+  "85": {
+    "ECLI:BE:CASS:2014:ARR.20140522.9": {
+      "court": "CASS",
+      "date": "2014-05-22",
+      "roleNumber": "F.12.0188.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/05/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La loi fiscale étant d'ordre public, le juge est tenu, quelle que soit l'éventuelle nullité dont est entaché l'acte administratif, de décider lui-même en fait et en droit de l'existence de la dette d'impôt lorsqu'il y est invité par les demandes introduites par les parties; il s'ensuit que lorsque le contribuable demande non seulement l'annulation de la contrainte visée à l'article 85 du Code de la taxe sur la valeur ajoutée, mais aussi le remboursement des sommes qu'il a payées, le juge doit se prononcer sur l'existence de la dette de la taxe sur la valeur ajoutée et ne peut ordonner le remboursement sans avoir examiné si la taxe était ou non due (1). (1) Voir les concl. du MP oubliées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Nu de fiscale wet de openbare orde raakt, dient de rechter, ongeacht de eventuele nietigheid waardoor de administratieve akte is aangetast, zelf in feite en in rechte te beslissen over het bestaan van de belastingschuld wanneer hij daartoe wordt uitgenodigd door de vorderingen die door de partijen worden gesteld; hieruit volgt dat wanneer de belastingplichtige niet alleen de nietigverklaring van het dwangbevel zoals bedoeld in artikel 85 Btw-wetboek vordert, maar ook de terugbetaling van de door hem betaalde sommen, de rechter moet oordelen over het bestaan van de btw-schuld en hij de terugbetaling niet kan bevelen zonder te hebben nagegaan of de belasting al dan niet verschuldigd was (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "89": {
+    "ECLI:BE:CASS:2014:ARR.20141121.2": {
+      "court": "CASS",
+      "date": "2014-11-21",
+      "roleNumber": "F.12.0033.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/11/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une partie s'oppose à une contrainte en matière de taxe sur la valeur ajoutée et que ce moyen de défense est introduit par requête contradictoire, le juge est saisi de la cause à la date du dépôt de cette requête et l'interruption de l'exécution de la contrainte au sens de l'article 89, alinéa 2, du Code de la taxe sur la valeur ajoutée, devient effective à cette date, sans que la notification de l'acte interruptif à la partie adverse soit requise (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer een partij zich verzet tegen een dwangbevel inzake btw en dit verweer wordt ingeleid met een verzoekschrift op tegenspraak, is de zaak bij de rechter aanhangig gemaakt op datum van de neerlegging van dit verzoekschrift en wordt de stuiting van de tenuitvoerlegging van het dwangbevel in de zin van artikel 89, tweede lid, Btw-wetboek op die datum effectief, zonder dat hiertoe de kennisgeving aan de tegenpartij van de akte houdende stuiting vereist is (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "81bis": {
+    "ECLI:BE:CASS:2013:ARR.20130118.5": {
+      "court": "CASS",
+      "date": "2013-01-18",
+      "roleNumber": "F.11.0147.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/01/18/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La prescription de l'action en recouvrement de la taxe, des intérêts et des amendes administratives n'est acquise qu'à l'expiration de la septième année civile qui suit celle durant laquelle la cause d'exigibilité est intervenue, lorsque un renseignement, une enquête ou un contrôle, font apparaître que des opérations imposables n'ont pas été déclarées en Belgique, que des opérations ont été exemptées à tort ou que des éléments probants, venus à la connaissance de l'administration, le font apparaître; la simple circonstance qu'un renseignement, une enquête, un contrôle ou une action judiciaire font apparaître que la déclaration d'opérations imposables n'a pas donné lieu à une perception correcte d'une taxe légalement due ou que des opérations imposables ont été exemptées à tort en Belgique ou que des éléments probants, venus à la connaissance de l'administration, le font apparaître, n'implique pas que des opérations imposables n'ont pas été déclarées en Belgique ou que des éléments probants, venus à la connaissance de l'administration, le font apparaître (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De vordering tot voldoening van de belasting, de interesten en de administratieve geldboeten verjaart slechts na het verstrijken van het zevende kalenderjaar volgend op dat waarin de oorzaak van opeisbaarheid zich heeft voorgedaan, wanneer een inlichting, onderzoek, controle of rechtsvordering aantoont dat belastbare handelingen niet werden aangegeven in België of dat er onrechtmatige belastingaftrekken werden toegepast, of wanneer bewijskrachtige gegevens, waarvan de administratie kennis heeft gekregen, zulks aantonen; de loutere omstandigheid dat een inlichting, onderzoek, controle of rechtsvordering aantoont dat de aangifte van belastbare handelingen niet tot een correcte heffing van de wettelijk verschuldigde belasting heeft geleid of dat belastbare handelingen ten onrechte werden vrijgesteld in België, of dat bewijskrachtige gegevens, waarvan de administratie kennis heeft gekregen, zulks aantonen, houdt niet in dat belastbare handelingen niet werden aangegeven in België, of bewijskrachtige gegevens, waarvan de administratie kennis heeft gekregen, zulks aantonen (1). (1) Zie de concl. van het O.M."
       ]
     }
   }

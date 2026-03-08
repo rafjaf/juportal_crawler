@@ -1,0 +1,34 @@
+{
+  "D.163": {
+    "ECLI:BE:CASS:2016:ARR.20160615.1": {
+      "court": "CASS",
+      "date": "2016-06-15",
+      "roleNumber": "P.16.0114.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/06/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision, le jugement rendu par le tribunal correctionnel, qui confirme la décision du fonctionnaire sanctionnateur du Service public Wallonie révoquant une mesure de sursis accordée par un précédent jugement de ce tribunal, qui avait statué en premier et dernier ressort sur une requête introduite par la requérante en contestation d'une autre décision prise par le fonctionnaire sanctionnateur, pareille décision ne trouvant appui ni sur la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, ni sur une autre base légale (1). (1) L'article D.164, alinéa 5, du Code wallon de l'environnement dispose que les fonctionnaires chargés d'infliger une amende administrative peuvent accorder aux auteurs de l'infraction des mesures de sursis à exécution, mais il ne prévoit ni la possibilité de le révoquer ultérieurement ni les conditions dans lesquelles une telle révocation pourrait être décidée."
+      ],
+      "abstractNL": [
+        "Het vonnis van de correctionele rechtbank dat de beslissing van de sanctionerend ambtenaar van de Waalse Overheidsdienst bevestigt waarbij een opschortende maatregel wordt ingetrokken die in eerste en laatste aanleg uitspraak had gedaan over een betwisting van een andere door de sanctionerend ambtenaar genomen beslissing die door een eerder vonnis van die rechtbank was toegestaan, verantwoordt zijn beslissing niet naar recht, aangezien dergelijke beslissing geen steun vindt in de Probatiewet en evenmin een andere wettelijke grondslag heeft (1). (1) Artikel D.164, vijfde lid, Waals Milieuwetboek bepaalt dat de ambtenaren die ermee belast worden een administratieve boete op te leggen, de overtreders maatregelen tot opschorting van de uitvoering kunnen toestaan, maar voorziet niet in de mogelijkheid om die opschorting achteraf in te trekken en bepaalt evenmin de voorwaarden waaronder tot die intrekking kan worden besloten."
+      ]
+    }
+  },
+  "D.164": {
+    "ECLI:BE:CASS:2012:ARR.20120418.2": {
+      "court": "CASS",
+      "date": "2012-04-18",
+      "roleNumber": "P.11.2039.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/04/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Institué dans le cadre de la procédure de sanction administrative, le recours prévu par l'article D. 164 du décret du Conseil régional wallon du 5 juin 2008 devant le tribunal n'a pas pour effet de rendre vie à l'action publique éteinte par la décision du procureur du Roi de ne pas poursuivre ou par son absence de décision dans le délai prescrit."
+      ],
+      "abstractNL": [
+        "Het beroep voor de rechtbank, dat krachtens artikel D.164 van het decreet van het Waals Gewest van 5 juni 2008 is ingesteld in het kader van de administratieve sanctieregeling, heeft niet tot gevolg dat de strafvordering herleeft als die vervallen is door de beslissing van de procureur des Konings om niet te vervolgen of door het feit dat hij geen beslissing heeft genomen binnen de voorgeschreven termijn."
+      ]
+    }
+  }
+}
