@@ -11,6 +11,7 @@ import {
   extractLegalBasisKey,
   extractDateFromBasisText,
   buildBasisTextLookup,
+  extractOldStyleArticle,
 } from './utils.js';
 
 /**
@@ -119,19 +120,38 @@ export function parseJudgementHtml(html) {
           if (RE_LEGAL_PRINCIPLE.test(text)) {
             logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
             missingEliBases.push({ article: null, rawLegalBasisText: text });
-          } else if (RE_REF_NO_ART.test(text)) {
-            // Law reference with a date but no specific article → use "general"
-            const lawKey = extractLegalBasisKey(text);
-            logInfo(chalk.gray(`${timestamp()}       No-article law ref | raw="${text}" | article=general | eli=${eliLink || 'MISSING'}`));
-            if (eliLink) {
-              basesLegales.push({ article: 'general', eli: eliLink });
-            } else {
-              missingEliBases.push({ article: 'general', rawLegalBasisText: lawKey });
-            }
-            allBasisTexts.push({ article: 'general', rawText: text, lang: basisLang });
           } else {
-            logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
-            unextractable.push(text);
+            // Try old-style article extraction (no "Art." prefix) before
+            // falling back to "general".
+            const oldStyleArticles = extractOldStyleArticle(text);
+            if (oldStyleArticles) {
+              const lawKey = extractLegalBasisKey(text);
+              logInfo(chalk.gray(`${timestamp()}       Old-style legal basis | raw="${text}" | articles=[${oldStyleArticles.join(', ')}] | eli=${eliLink || 'MISSING'}`));
+              if (!eliLink) {
+                for (const art of oldStyleArticles) {
+                  missingEliBases.push({ article: art, rawLegalBasisText: lawKey });
+                  allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
+                }
+              } else {
+                for (const art of oldStyleArticles) {
+                  basesLegales.push({ article: art, eli: eliLink });
+                  allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
+                }
+              }
+            } else if (RE_REF_NO_ART.test(text)) {
+              // Law reference with a date but no specific article → use "general"
+              const lawKey = extractLegalBasisKey(text);
+              logInfo(chalk.gray(`${timestamp()}       No-article law ref | raw="${text}" | article=general | eli=${eliLink || 'MISSING'}`));
+              if (eliLink) {
+                basesLegales.push({ article: 'general', eli: eliLink });
+              } else {
+                missingEliBases.push({ article: 'general', rawLegalBasisText: lawKey });
+              }
+              allBasisTexts.push({ article: 'general', rawText: text, lang: basisLang });
+            } else {
+              logWarn(`⚠ Could not extract article from legal basis text: "${text}"`);
+              unextractable.push(text);
+            }
           }
         }
       }

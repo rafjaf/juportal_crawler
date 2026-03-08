@@ -1,4 +1,4 @@
-import { ELI_TYPE_NL_TO_FR } from './constants.js';
+import { ELI_TYPE_NL_TO_FR, MAX_ARTICLE_RANGE } from './constants.js';
 
 /**
  * Normalize whitespace in text: collapse multiple spaces/newlines into single space.
@@ -276,4 +276,82 @@ export function buildBasisTextLookup(entries) {
     lookup[key][lang || 'fr'] = rawText;
   }
   return lookup;
+}
+
+/**
+ * Extract article number(s) from old-style legal basis text that has no
+ * "Art." prefix.  Older Belgian judgements used formats like:
+ *
+ *   "Loi - 30-04-1951 - 6,L1"                → article 6
+ *   "Loi - 08-08-1997 - 17,L2"               → article 17
+ *   "ancien Code Civil - 2279,L1"             → article 2279 (no date)
+ *   "Loi - 12-03-1919 - 1,§XV"               → article 1
+ *   "Constitution 1994 - 17-02-1994 - 10-11"  → articles 10, 11 (small range)
+ *   "Constitution 1994 - 17-02-1994 - 1-99"   → null (range > MAX_ARTICLE_RANGE)
+ *
+ * Returns an array of article strings, or null if no article was detected.
+ */
+export function extractOldStyleArticle(text) {
+  if (!text) return null;
+
+  // ── With date: DD-MM-YYYY - <remainder> ────────────────────────────────
+  const withDateMatch = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*(.+)$/);
+  if (withDateMatch) {
+    return _parseOldStyleRemainder(withDateMatch[1].trim());
+  }
+
+  // ── Without date: ... - <number>,<qualifier> ───────────────────────────
+  // Only when text contains no date at all (avoids false positives).
+  if (!/\d{2}-\d{2}-\d{4}/.test(text)) {
+    const noDateMatch = text.match(/-\s*(\d+)\s*,/);
+    if (noDateMatch) return [noDateMatch[1]];
+  }
+
+  return null;
+}
+
+/**
+ * Parse the remainder after "DD-MM-YYYY - " in an old-style legal basis.
+ * @private
+ */
+function _parseOldStyleRemainder(remainder) {
+  // Must start with a digit to be an article reference
+  if (!/^\d/.test(remainder)) return null;
+
+  // ── Comma-qualified article: "6,L1", "51,§4", "103,disp.transi." ──────
+  // The comma unambiguously indicates an article number before it.
+  const commaMatch = remainder.match(/^(\d+)\s*,/);
+  if (commaMatch) return [commaMatch[1]];
+
+  // ── Range: "10-11", "1-99", "100-einde", "100-fin" ────────────────────
+  // A range is indicated by a number directly followed by a hyphen (no space
+  // before the hyphen) and then another number or end-marker.
+  const rangeMatch = remainder.match(/^(\d+)-(\d+|einde|fin)\b/i);
+  if (rangeMatch) {
+    const start = parseInt(rangeMatch[1], 10);
+    const endStr = rangeMatch[2];
+    const end = parseInt(endStr, 10);
+    if (isNaN(end)) return null; // "einde" / "fin" → unknown extent
+    if (end < start) return null;
+    if ((end - start + 1) > MAX_ARTICLE_RANGE) return null; // range too large
+    const articles = [];
+    for (let i = start; i <= end; i++) articles.push(String(i));
+    return articles;
+  }
+
+  // ── Bare number at end of string: "103", "10" ─────────────────────────
+  const bareEndMatch = remainder.match(/^(\d+)\s*$/);
+  if (bareEndMatch) return [bareEndMatch[1]];
+
+  // ── Bare number followed by trailing counter: "14,b - 01 Lien ..." ────
+  // Already covered by commaMatch above.  For bare number with counter
+  // like "103 - 30", the number before " - NN" is the article, but only
+  // if it is NOT followed by "Lien" (which marks a publication counter).
+  const bareCounterMatch = remainder.match(/^(\d+)\s+-\s+\d{2,}\b/);
+  if (bareCounterMatch) {
+    if (/^\d+\s+Lien\b/i.test(remainder)) return null;
+    return [bareCounterMatch[1]];
+  }
+
+  return null;
 }

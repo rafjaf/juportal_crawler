@@ -23,6 +23,13 @@ export const FETCH_TIMEOUT_MS = 30000;
  */
 export const SITEMAP_CONCURRENCY = 5;
 
+/**
+ * Maximum article range span for old-style article ranges (e.g. "10-19").
+ * Ranges exceeding this threshold are kept as "general" to avoid flooding
+ * the data with dozens of nearly-empty article entries.
+ */
+export const MAX_ARTICLE_RANGE = 10;
+
 // ─── Shared Regexes ──────────────────────────────────────────────────────────
 
 /**
