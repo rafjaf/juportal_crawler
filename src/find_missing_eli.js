@@ -620,14 +620,26 @@ export async function findMissingEli() {
     let resolution = resolveFromLog(key, sampleArticle, logEliMap, logPrefixMap);
     let source = 'log.json';
 
+    if (resolution) {
+      progress.clear();
+      logInfo(`  ✓ [${i + 1}/${total}] Found in log.json: ${chalk.cyan(key.substring(0, 100))}`);
+    }
+
     // 2) Try ejustice website
     if (!resolution) {
       if (isUnfindableOnEjustice(key)) {
         unfindableCount++;
+        progress.clear();
+        logInfo(`  — [${i + 1}/${total}] Skipped (EU/intl instrument): ${chalk.cyan(key.substring(0, 100))}`);
         progress.doneIndexes = i + 1;
         progress.render();
         continue;
       }
+
+      const dt = detectNatureJuridique(key);
+      progress.clear();
+      logInfo(`  ⟳ [${i + 1}/${total}] Searching ejustice${dt ? ` [${dt}]` : ''}: ${chalk.cyan(key.substring(0, 80))}${sampleArticle !== 'general' ? chalk.gray(` art.${sampleArticle}`) : ''}`);
+      progress.render();
 
       resolution = await resolveFromEjustice(key, sampleArticle);
       source = 'ejustice';
@@ -636,16 +648,16 @@ export async function findMissingEli() {
         const reason = resolution?.reason || 'unknown';
         if (reason === 'unfindable' || reason === 'unknown_nature_juridique') {
           unfindableCount++;
+          progress.clear();
+          logWarn(`  ✗ [${i + 1}/${total}] Not findable (${reason}): ${chalk.cyan(key.substring(0, 100))}`);
         } else if (reason.includes('ambiguous') || reason.includes('multiple') || reason === 'code_no_article') {
           ambiguousCount++;
           progress.clear();
           logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous: ${chalk.cyan(key.substring(0, 80))} — ${reason}`);
         } else {
           skippedCount++;
-          if (reason !== 'no_results' && reason !== 'no_date') {
-            progress.clear();
-            logWarn(`  ⚠ [${i + 1}/${total}] Skipped: ${chalk.cyan(key.substring(0, 80))} — ${reason}`);
-          }
+          progress.clear();
+          logWarn(`  ✗ [${i + 1}/${total}] Not found (${reason}): ${chalk.cyan(key.substring(0, 100))}`);
         }
         progress.doneIndexes = i + 1;
         progress.render();
