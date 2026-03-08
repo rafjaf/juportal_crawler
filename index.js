@@ -82,10 +82,12 @@ function promptUser(question) {
   return new Promise((resolve) => {
     const wasRaw = process.stdin.isRaw;
     if (wasRaw) process.stdin.setRawMode(false);
+    process.stdin.ref(); // keep event loop alive while waiting for input
 
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     rl.question(question, (answer) => {
       rl.close();
+      process.stdin.unref(); // restore original behaviour
       if (wasRaw) process.stdin.setRawMode(true);
       resolve(answer.trim().toLowerCase());
     });
