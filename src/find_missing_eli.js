@@ -36,6 +36,10 @@ const EJUSTICE_SEARCH_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/rech_res.
 const EJUSTICE_ARTICLE_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/article.pl';
 const REQUEST_DELAY_MS = 1500;
 
+// Per-run caches – cleared at the start of findMissingEli().
+const _ejusticeSearchCache = new Map();
+const _numacEliCache = new Map();
+
 /**
  * Map common French/Dutch legal basis name patterns to the ejustice
  * "Nature juridique" (dt) option value (French form).
@@ -164,6 +168,25 @@ function parseArticleToNumber(article) {
   return m ? parseInt(m[1], 10) : null;
 }
 
+/**
+ * For log keys: strip the trailing " - DD-MM-YYYY" date suffix to get the
+ * bare law-name prefix (e.g. "ancien Code Civil - 21-03-1804" → "ancien Code Civil").
+ */
+function extractLogKeyPrefix(key) {
+  return key.replace(/ - \d{2}-\d{2}-\d{4}$/, '').trim();
+}
+
+/**
+ * For missing_eli keys that contain an article ref instead of a date
+ * (e.g. "ancien Code Civil - Art. 1354"), strip the article part to get the
+ * bare law-name prefix.  Returns null when the key already ends with a date
+ * (exact key lookup should be tried first).
+ */
+function extractMissingKeyPrefix(key) {
+  const stripped = key.replace(/ - [Aa]rtt?[.:\s].*$/i, '').trim();
+  return stripped !== key ? stripped : null;
+}
+
 function promptUserFn(question) {
   return new Promise((resolve) => {
     const wasRaw = process.stdin.isRaw;
@@ -183,10 +206,24 @@ function promptUserFn(question) {
 // ─── Log-based resolution ────────────────────────────────────────────────────
 
 /**
- * Build a map from legalBasisKey → Map<eli, Set<article>> from log.json.
+ * Build two maps from log.json:
+ *   map       → legalBasisKey (exact)     → Map<eli, Set<article>>
+ *   prefixMap → law-name prefix (no date) → Map<eli, Set<article>>
+ *
+ * The prefix map is used as a fallback for missing_eli keys that were stored
+ * without a promulgation date (e.g. "ancien Code Civil - Art. 1354").
  */
 function buildLogEliMap(logData) {
   const map = new Map();
+  const prefixMap = new Map();
+
+  function addToEliMap(target, key, eli, article) {
+    if (!target.has(key)) target.set(key, new Map());
+    const eliMap = target.get(key);
+    if (!eliMap.has(eli)) eliMap.set(eli, new Set());
+    if (article) eliMap.get(eli).add(article);
+  }
+
   for (const logKey of Object.keys(logData)) {
     const entry = logData[logKey];
     if (!entry.legalBases?.length) continue;
@@ -197,25 +234,37 @@ function buildLogEliMap(logData) {
       const basisKeyNL = lb.legalBasisNL ? extractLegalBasisKey(lb.legalBasisNL) : null;
       for (const bk of [basisKeyFR, basisKeyNL]) {
         if (!bk) continue;
-        if (!map.has(bk)) map.set(bk, new Map());
-        const eliMap = map.get(bk);
-        if (!eliMap.has(eli)) eliMap.set(eli, new Set());
-        if (lb.article) eliMap.get(eli).add(lb.article);
+        addToEliMap(map, bk, eli, lb.article);
+        const prefix = extractLogKeyPrefix(bk);
+        if (prefix && prefix !== bk) {
+          addToEliMap(prefixMap, prefix, eli, lb.article);
+        }
       }
     }
   }
-  return map;
+  return { map, prefixMap };
 }
 
 /**
  * Attempt to resolve the ELI for a missing entry using log.json data.
  *
+ * Tries exact key lookup first.  If that fails and the key looks like an
+ * article-based key without a date (e.g. "ancien Code Civil - Art. 1354"),
+ * falls back to a prefix match ("ancien Code Civil") in prefixMap.
+ *
  * For single-ELI entries: straightforward.
- * For multi-ELI entries (codes): only trusts the match if nearby articles
- * confirm the same ELI covers the target article range.
+ * For multi-ELI entries (codes): trusts the match when one ELI dominates
+ * by article count ("substantial" heuristic), or via range containment.
  */
-function resolveFromLog(basisKey, article, logEliMap) {
-  const eliArticles = logEliMap.get(basisKey);
+function resolveFromLog(basisKey, article, logEliMap, prefixMap) {
+  let eliArticles = logEliMap.get(basisKey);
+
+  // Fallback: prefix-based lookup for keys without a date
+  if (!eliArticles && prefixMap) {
+    const prefix = extractMissingKeyPrefix(basisKey);
+    if (prefix) eliArticles = prefixMap.get(prefix);
+  }
+
   if (!eliArticles) return null;
 
   // Normalize HTTP → HTTPS and deduplicate
@@ -230,6 +279,16 @@ function resolveFromLog(basisKey, article, logEliMap) {
 
   if (uniqueElis.length === 1) {
     return { eli: uniqueElis[0], confidence: 'high' };
+  }
+
+  // Multiple ELIs → code with multiple parts, or one primary + minor ancillary.
+  // Heuristic: if one ELI has many more articles than all others, use it.
+  const artCounts = uniqueElis.map(e => normalized.get(e).size);
+  const maxCount = Math.max(...artCounts);
+  const otherTotal = artCounts.reduce((s, c) => s + c, 0) - maxCount;
+  const dominant = uniqueElis[artCounts.indexOf(maxCount)];
+  if (maxCount >= 5 && maxCount >= 5 * (otherTotal || 1)) {
+    return { eli: dominant, confidence: 'medium' };
   }
 
   // Multiple ELIs → code with multiple parts
@@ -305,7 +364,17 @@ async function searchEjustice(dt, date, titleKeywords) {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
   const html = await response.text();
+  await sleep(REQUEST_DELAY_MS);
   return parseSearchResults(html);
+}
+
+/** Cached wrapper – no extra sleep on a cache hit. */
+async function cachedSearchEjustice(dt, date, titleKeywords) {
+  const k = `${dt}|${date || ''}|${titleKeywords || ''}`;
+  if (!_ejusticeSearchCache.has(k)) {
+    _ejusticeSearchCache.set(k, await searchEjustice(dt, date, titleKeywords));
+  }
+  return _ejusticeSearchCache.get(k);
 }
 
 function parseSearchResults(html) {
@@ -317,10 +386,10 @@ function parseSearchResults(html) {
     const numacMatch = href.match(/numac_search=(\d+)/);
     if (!numacMatch) return;
 
-    // Title is the text content following the link (sibling text / next line)
-    const titleEl = $(el).next();
-    let title = titleEl.length ? titleEl.text().trim() : '';
-    if (!title) title = $(el).text().trim();
+    // The full title (including article ranges like "(art. 664 à 1385octiesdecies)")
+    // is the text content of the link element itself.
+    // $(el).next() is <p class="list-item--date"> which only contains a date string.
+    const title = $(el).text().trim();
 
     const dateEl = $(el).closest('.list-item--content').find('.list-item--date');
     const pubDate = dateEl.text().trim();
@@ -349,7 +418,17 @@ async function fetchEliFromArticlePage(numac) {
   if (!response.ok) return null;
   const html = await response.text();
   const $ = cheerio.load(html);
-  return $('a#link-text').attr('href') || null;
+  const eli = $('a#link-text').attr('href') || null;
+  await sleep(REQUEST_DELAY_MS);
+  return eli;
+}
+
+/** Cached wrapper – no extra sleep on a cache hit. */
+async function cachedFetchEli(numac) {
+  if (!_numacEliCache.has(numac)) {
+    _numacEliCache.set(numac, await fetchEliFromArticlePage(numac));
+  }
+  return _numacEliCache.get(numac);
 }
 
 function findCodePartForArticle(results, article) {
@@ -398,10 +477,9 @@ async function resolveFromEjustice(key, article) {
   let results;
   try {
     results = isNamedCode
-      ? await searchEjustice(dt, null, null)
-      : date ? await searchEjustice(dt, date, null) : null;
+      ? await cachedSearchEjustice(dt, null, null)
+      : date ? await cachedSearchEjustice(dt, date, null) : null;
     if (!results) return { eli: null, reason: 'no_date' };
-    await sleep(REQUEST_DELAY_MS);
   } catch (err) {
     return { eli: null, reason: `search_error: ${err.message}` };
   }
@@ -411,8 +489,7 @@ async function resolveFromEjustice(key, article) {
   // Single result → use it directly
   if (results.length === 1) {
     try {
-      const eli = await fetchEliFromArticlePage(results[0].numac);
-      await sleep(REQUEST_DELAY_MS);
+      const eli = await cachedFetchEli(results[0].numac);
       return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
     } catch {
       return { eli: null, reason: 'eli_fetch_error' };
@@ -427,8 +504,7 @@ async function resolveFromEjustice(key, article) {
     const match = findCodePartForArticle(results, article);
     if (match) {
       try {
-        const eli = await fetchEliFromArticlePage(match.numac);
-        await sleep(REQUEST_DELAY_MS);
+        const eli = await cachedFetchEli(match.numac);
         return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
       } catch {
         return { eli: null, reason: 'eli_fetch_error' };
@@ -441,11 +517,9 @@ async function resolveFromEjustice(key, article) {
   const titleKeywords = extractTitleKeywords(key);
   if (titleKeywords) {
     try {
-      const narrowed = await searchEjustice(dt, date, titleKeywords);
-      await sleep(REQUEST_DELAY_MS);
+      const narrowed = await cachedSearchEjustice(dt, date, titleKeywords);
       if (narrowed.length === 1) {
-        const eli = await fetchEliFromArticlePage(narrowed[0].numac);
-        await sleep(REQUEST_DELAY_MS);
+        const eli = await cachedFetchEli(narrowed[0].numac);
         return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
       }
     } catch { /* fall through */ }
@@ -507,16 +581,19 @@ export async function findMissingEli() {
 
   logInfo(`${timestamp()} Found ${toProcess.length} missing ELI entries to process (${allKeys.length} total keys).`);
 
-  // Phase 1: Build log ELI map
+  // Phase 1: Build log ELI map (and prefix map for date-less keys)
   logInfo(`${timestamp()} Loading log.json for cross-reference...`);
-  let logEliMap;
+  let logEliMap = new Map();
+  let logPrefixMap = new Map();
+  // Clear per-run request caches
+  _ejusticeSearchCache.clear();
+  _numacEliCache.clear();
   try {
     const logData = loadLogFile();
-    logEliMap = buildLogEliMap(logData);
-    logInfo(`${timestamp()} Built ELI map with ${logEliMap.size} basis keys from log.json.`);
+    ({ map: logEliMap, prefixMap: logPrefixMap } = buildLogEliMap(logData));
+    logInfo(`${timestamp()} Built ELI map with ${logEliMap.size} exact keys + ${logPrefixMap.size} prefix keys from log.json.`);
   } catch (err) {
     logWarn(`⚠ Could not load log.json: ${err.message}. Proceeding without log data.`);
-    logEliMap = new Map();
   }
 
   // Phase 2: Process each entry
@@ -538,8 +615,8 @@ export async function findMissingEli() {
     const articles = [...new Set(entry.elements.map(e => e.article).filter(Boolean))];
     const sampleArticle = articles[0] || 'general';
 
-    // 1) Try log-based resolution
-    let resolution = resolveFromLog(key, sampleArticle, logEliMap);
+    // 1) Try log-based resolution (with prefix-map fallback for date-less keys)
+    let resolution = resolveFromLog(key, sampleArticle, logEliMap, logPrefixMap);
     let source = 'log.json';
 
     // 2) Try ejustice website
@@ -575,41 +652,42 @@ export async function findMissingEli() {
       }
     }
 
-    const eli = normalizeEliToFrench(resolution.eli);
-
-    // For multi-ELI codes, check if we need per-article resolution.
-    // If the code has multiple ELIs in the log, and the entry has multiple
-    // articles, each article might need a different ELI. For now, if the
-    // entry has a single ELI from log with high confidence, apply it to all.
-    // Otherwise, resolve each article individually.
     const dt = detectNatureJuridique(key);
     const isNamedCode = dt && (dt.startsWith('CODE ') || dt.startsWith('CONSTITUTION'));
-    const logEliCount = logEliMap.has(key)
-      ? new Set([...logEliMap.get(key).keys()].map(e => e.replace(/^http:\/\//, 'https://'))).size
-      : 0;
 
+    // For named codes with multiple articles (which may span different parts),
+    // resolve each article independently so the right ELI is used per element.
     let perArticleElis = null;
-    if (isNamedCode && logEliCount > 1 && articles.length > 1) {
-      // Need per-article resolution
+    if (isNamedCode && articles.length > 1) {
       perArticleElis = new Map();
       for (const art of articles) {
-        const artRes = resolveFromLog(key, art, logEliMap);
+        const artRes = resolveFromLog(key, art, logEliMap, logPrefixMap);
         if (artRes?.eli) {
           perArticleElis.set(art, normalizeEliToFrench(artRes.eli));
         }
       }
-      // If we couldn't resolve some articles, fall back to ejustice
+      // Fall back to ejustice for articles not resolved from log
       for (const art of articles) {
         if (!perArticleElis.has(art)) {
           const ejRes = await resolveFromEjustice(key, art);
-          if (ejRes?.eli) {
-            perArticleElis.set(art, normalizeEliToFrench(ejRes.eli));
-          }
+          if (ejRes?.eli) perArticleElis.set(art, normalizeEliToFrench(ejRes.eli));
         }
+      }
+      // If nothing resolved, clear so we fall through to the skip path
+      if (perArticleElis.size === 0) {
+        perArticleElis = null;
+      }
+      // If all resolved to the same single ELI, collapse to simple path
+      const uniquePerArt = perArticleElis ? [...new Set(perArticleElis.values())] : [];
+      if (uniquePerArt.length === 1) {
+        resolution = { eli: uniquePerArt[0], confidence: 'high' };
+        source = 'log+ejustice';
+        perArticleElis = null;
       }
     }
 
     // Display proposed change
+    const eli = normalizeEliToFrench(resolution.eli);
     progress.clear();
     console.log('');
     logInfo(chalk.bold(`[${i + 1}/${total}]`) + ` ${key}`);
