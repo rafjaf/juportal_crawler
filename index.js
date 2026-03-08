@@ -13,14 +13,14 @@
 import chalk from 'chalk';
 import readline from 'node:readline';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, loadMissingEliFile, saveMissingEliFile, loadDataFile, saveDataFile, flushAll } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, loadMissingEliFile, saveMissingEliFile, flushAll } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
 import { progress } from './src/progress.js';
 import { SITEMAP_CONCURRENCY, LOG_FILE } from './src/constants.js';
 import { Semaphore, SerialQueue } from './src/concurrency.js';
-import { extractOldStyleArticle, eliToFilename, extractLegalBasisKey } from './src/utils.js';
+import { extractOldStyleArticle, extractLegalBasisKey } from './src/utils.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -112,27 +112,12 @@ async function fixArticlesFromLog() {
   const logKeys = Object.keys(logData);
   logInfo(`${timestamp()} Found ${logKeys.length} total log entries.`);
 
-  // Collect entries that have "general" articles needing review
+  // Collect entries that have "general" articles needing review.
+  // Only missingEliBases are considered: when an ELI is present the bare
+  // number after the date is a publication counter, so "general" is correct.
   const toReview = [];
   for (const logKey of logKeys) {
     const entry = logData[logKey];
-    // Check legalBases for "general" articles
-    for (const base of (entry.legalBases || [])) {
-      if (base.article === 'general') {
-        const rawText = base.legalBasisFR || base.legalBasisNL || '';
-        const articles = extractOldStyleArticle(rawText);
-        if (articles) {
-          toReview.push({
-            logKey,
-            type: 'eli',
-            entry,
-            base,
-            rawText,
-            newArticles: articles,
-          });
-        }
-      }
-    }
     // Check missingEliBases for "general" articles
     for (const missing of (entry.missingEliBases || [])) {
       if (missing.article === 'general') {
@@ -141,7 +126,6 @@ async function fixArticlesFromLog() {
         if (articles) {
           toReview.push({
             logKey,
-            type: 'missing',
             entry,
             base: missing,
             rawText,
@@ -190,18 +174,14 @@ async function fixArticlesFromLog() {
 
   for (let i = startIdx; i < toReview.length; i++) {
     const item = toReview[i];
-    const { logKey, type, entry, base, rawText, newArticles } = item;
+    const { logKey, entry, base, rawText, newArticles } = item;
 
     progress.clear();
     console.log('');
     logInfo(chalk.bold(`[${i + 1}/${total}]`) + ` ${entry.ecli} (${entry.date})`);
     logInfo(`  Raw: ${chalk.cyan(rawText)}`);
     logInfo(`  Current: article=${chalk.red('general')}  →  New: article=${chalk.green(newArticles.join(', '))}`);
-    if (type === 'eli') {
-      logInfo(`  ELI: ${base.eli}`);
-    } else {
-      logInfo(`  Missing ELI | key: ${base.rawLegalBasisText}`);
-    }
+    logInfo(`  Missing ELI | key: ${base.rawLegalBasisText}`);
 
     let answer;
     if (applyAll) {
@@ -229,54 +209,31 @@ async function fixArticlesFromLog() {
     }
 
     if (answer === 'yes' || answer === 'y') {
-      if (type === 'eli') {
-        // Fix in data file: move entry from "general" to new article(s)
-        const filename = eliToFilename(base.eli);
-        const data = loadDataFile(filename);
-        const generalEntries = data['general'] || {};
-        const ecliData = generalEntries[entry.ecli];
-
-        if (ecliData) {
-          for (const art of newArticles) {
-            if (!data[art]) data[art] = {};
-            data[art][entry.ecli] = { ...ecliData };
+      // Fix in missing_eli.json: update article from "general" to specific
+      const missingEli = loadMissingEliFile();
+      const lawKey = extractLegalBasisKey(rawText) || base.rawLegalBasisText;
+      const missingEntry = missingEli[lawKey] || missingEli[base.rawLegalBasisText];
+      if (missingEntry && Array.isArray(missingEntry.elements)) {
+        const elem = missingEntry.elements.find(
+          e => e.ecli === entry.ecli && e.article === 'general'
+        );
+        if (elem) {
+          if (newArticles.length === 1) {
+            elem.article = newArticles[0];
+          } else {
+            // Multiple articles from a range: update the first, add copies for the rest
+            elem.article = newArticles[0];
+            for (let ai = 1; ai < newArticles.length; ai++) {
+              missingEntry.elements.push({ ...elem, article: newArticles[ai] });
+            }
           }
-          delete generalEntries[entry.ecli];
-          if (Object.keys(generalEntries).length === 0) {
-            delete data['general'];
-          }
-          saveDataFile(filename, data);
-          logSuccess(`  ✔ Updated ${filename}: general → [${newArticles.join(', ')}]`);
+          saveMissingEliFile(missingEli);
+          logSuccess(`  ✔ Updated missing_eli.json: general → [${newArticles.join(', ')}]`);
         } else {
-          logWarn(`  ⚠ ECLI ${entry.ecli} not found under "general" in ${filename} — skipping`);
+          logWarn(`  ⚠ Element not found in missing_eli.json for ${entry.ecli} — skipping`);
         }
       } else {
-        // Fix in missing_eli.json: update article from "general" to specific
-        const missingEli = loadMissingEliFile();
-        const lawKey = extractLegalBasisKey(rawText) || base.rawLegalBasisText;
-        const missingEntry = missingEli[lawKey] || missingEli[base.rawLegalBasisText];
-        if (missingEntry && Array.isArray(missingEntry.elements)) {
-          const elem = missingEntry.elements.find(
-            e => e.ecli === entry.ecli && e.article === 'general'
-          );
-          if (elem) {
-            if (newArticles.length === 1) {
-              elem.article = newArticles[0];
-            } else {
-              // Multiple articles from a range: update the first, add copies for the rest
-              elem.article = newArticles[0];
-              for (let ai = 1; ai < newArticles.length; ai++) {
-                missingEntry.elements.push({ ...elem, article: newArticles[ai] });
-              }
-            }
-            saveMissingEliFile(missingEli);
-            logSuccess(`  ✔ Updated missing_eli.json: general → [${newArticles.join(', ')}]`);
-          } else {
-            logWarn(`  ⚠ Element not found in missing_eli.json for ${entry.ecli} — skipping`);
-          }
-        } else {
-          logWarn(`  ⚠ Key "${lawKey}" not found in missing_eli.json — skipping`);
-        }
+        logWarn(`  ⚠ Key "${lawKey}" not found in missing_eli.json — skipping`);
       }
       correctedCount++;
     } else {

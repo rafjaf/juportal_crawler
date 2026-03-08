@@ -121,22 +121,17 @@ export function parseJudgementHtml(html) {
             logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
             missingEliBases.push({ article: null, rawLegalBasisText: text });
           } else {
-            // Try old-style article extraction (no "Art." prefix) before
-            // falling back to "general".
-            const oldStyleArticles = extractOldStyleArticle(text);
+            // Old-style article extraction (no "Art." prefix) is only
+            // applicable when there is NO ELI link.  When an ELI is present
+            // a bare number after the date is a publication counter, not an
+            // article — if a specific article were meant, "Art." would appear.
+            const oldStyleArticles = !eliLink ? extractOldStyleArticle(text) : null;
             if (oldStyleArticles) {
               const lawKey = extractLegalBasisKey(text);
-              logInfo(chalk.gray(`${timestamp()}       Old-style legal basis | raw="${text}" | articles=[${oldStyleArticles.join(', ')}] | eli=${eliLink || 'MISSING'}`));
-              if (!eliLink) {
-                for (const art of oldStyleArticles) {
-                  missingEliBases.push({ article: art, rawLegalBasisText: lawKey });
-                  allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
-                }
-              } else {
-                for (const art of oldStyleArticles) {
-                  basesLegales.push({ article: art, eli: eliLink });
-                  allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
-                }
+              logInfo(chalk.gray(`${timestamp()}       Old-style legal basis | raw="${text}" | articles=[${oldStyleArticles.join(', ')}] | eli=MISSING`));
+              for (const art of oldStyleArticles) {
+                missingEliBases.push({ article: art, rawLegalBasisText: lawKey });
+                allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
               }
             } else if (RE_REF_NO_ART.test(text)) {
               // Law reference with a date but no specific article → use "general"
