@@ -610,8 +610,6 @@ export async function findMissingEli() {
   let ambiguousCount = 0;
   let applyAll = false;
 
-  const pendingChanges = [];
-
   for (let i = 0; i < toProcess.length; i++) {
     const key = toProcess[i];
     const entry = missingEli[key];
@@ -724,20 +722,32 @@ export async function findMissingEli() {
     }
 
     if (answer === 'yes' || answer === 'y') {
+      // Apply immediately so the change is persisted even if interrupted later
       if (perArticleElis) {
-        // Per-article resolution: group elements by article → ELI
-        pendingChanges.push({
-          key,
-          perArticleElis,
-          elements: [...entry.elements],
-        });
+        const remainingElements = [];
+        for (const elem of entry.elements) {
+          const artEli = perArticleElis.get(elem.article);
+          if (artEli) {
+            storeElementToDataFile(elem, artEli);
+          } else {
+            remainingElements.push(elem);
+          }
+        }
+        const eliCounts = new Map();
+        for (const [, e] of perArticleElis) {
+          eliCounts.set(e, (eliCounts.get(e) || 0) + 1);
+        }
+        const primaryEli = [...eliCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+        if (primaryEli) entry.eli = primaryEli;
+        entry.elements = remainingElements;
       } else {
-        pendingChanges.push({
-          key,
-          eli,
-          elements: [...entry.elements],
-        });
+        for (const elem of entry.elements) {
+          storeElementToDataFile(elem, eli);
+        }
+        entry.eli = eli;
+        entry.elements = [];
       }
+      saveMissingEliFile(missingEli);
       resolvedCount++;
     } else {
       skippedCount++;
@@ -748,44 +758,6 @@ export async function findMissingEli() {
   }
 
   progress.finish();
-
-  // Apply pending changes
-  if (pendingChanges.length > 0) {
-    logInfo(`${timestamp()} Applying ${pendingChanges.length} change(s)...`);
-    for (const change of pendingChanges) {
-      const entry = missingEli[change.key];
-
-      if (change.perArticleElis) {
-        // Per-article resolution
-        const remainingElements = [];
-        for (const elem of change.elements) {
-          const artEli = change.perArticleElis.get(elem.article);
-          if (artEli) {
-            storeElementToDataFile(elem, artEli);
-          } else {
-            remainingElements.push(elem);
-          }
-        }
-        // Keep the primary ELI (most frequent) for the key
-        const eliCounts = new Map();
-        for (const [, e] of change.perArticleElis) {
-          eliCounts.set(e, (eliCounts.get(e) || 0) + 1);
-        }
-        const primaryEli = [...eliCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
-        if (primaryEli) entry.eli = primaryEli;
-        entry.elements = remainingElements;
-      } else {
-        // Single ELI for all elements
-        for (const elem of change.elements) {
-          storeElementToDataFile(elem, change.eli);
-        }
-        entry.eli = change.eli;
-        entry.elements = [];
-      }
-    }
-    saveMissingEliFile(missingEli);
-    logSuccess(`✔ Applied ${pendingChanges.length} change(s).`);
-  }
 
   // Summary
   console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
