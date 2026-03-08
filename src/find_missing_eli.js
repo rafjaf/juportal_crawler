@@ -102,11 +102,14 @@ const NATURE_JURIDIQUE_PATTERNS = [
   // Ordonnances
   { pattern: /\bOrdonnance\b|\bOrdonnantie\b/i, dt: 'ORDONNANCE (BRUXELLES)' },
 
-  // Treaties (national form, not EU)
+  // Treaties, international conventions, and protocols (non-EU)
   { pattern: /\bTrait[ée]\b(?!.*(?:CEE|CECA|Euratom|CE\b))|\bVerdrag\b(?!.*(?:EEG|EGKS))/i, dt: 'TRAITE' },
+  { pattern: /\bProtocole\b|\bProtocol\b/i, dt: 'TRAITE' },
 
   // Conventions collectives
   { pattern: /\bConvention\s+collective\s+de\s+travail\b|\bCollectieve\s+arbeidsovereenkomst\b|\bCAO\b/i, dt: 'CONVENTION COLLECTIVE DE TRAVAIL' },
+  // International conventions (matched after collective-agreement, so no ambiguity)
+  { pattern: /\bConvention\b/i, dt: 'TRAITE' },
 
   // Loi communale / provinciale
   { pattern: /\bloi\s+communale\b|\bgemeentewet\b/i, dt: 'LOI COMMUNALE' },
@@ -131,8 +134,6 @@ function isUnfindableOnEjustice(key) {
   if (/\b(?:charte\s+des\s+droits|handvest\s+van\s+de\s+grondrechten)\b/i.test(key)) return true;
   // General legal principles
   if (/\b(?:principe\s+g[ée]n[ée]ral|rechtsbeginsel|beginsel)\b/i.test(key)) return true;
-  // International instruments
-  if (isInternationalInstrument(key)) return true;
   // "Divers" / unspecified
   if (/^divers\b/i.test(key)) return true;
   return false;
@@ -196,6 +197,8 @@ function promptUserFn(question) {
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     rl.question(question, (answer) => {
       rl.close();
+      // readline.close() pauses stdin; re-enable so the keypress quit listener stays active
+      if (wasRaw) process.stdin.resume();
       process.stdin.unref();
       if (wasRaw) process.stdin.setRawMode(true);
       resolve(answer.trim().toLowerCase());

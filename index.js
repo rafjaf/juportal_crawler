@@ -88,6 +88,8 @@ function promptUser(question) {
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     rl.question(question, (answer) => {
       rl.close();
+      // readline.close() pauses stdin; re-enable so the keypress quit listener stays active
+      if (wasRaw) process.stdin.resume();
       process.stdin.unref(); // restore original behaviour
       if (wasRaw) process.stdin.setRawMode(true);
       resolve(answer.trim().toLowerCase());
