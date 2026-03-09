@@ -171,7 +171,8 @@
       "roleNumber": "S.24.0037.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2932.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2932.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2932.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_25.xml"
       ],
       "abstractFR": [
         "Un appel ne peut être interjeté que par une personne qui avait la qualité de demandeur, de défendeur ou de partie intervenante dans la procédure en première instance et qui est lésée dans ses intérêts par la décision entreprise, ce qui est le cas lorsque sa demande n'a pas été accueillie par le premier juge; lorsque le juge décide, à la demande d'une partie intéressée, de remplacer le médiateur de dettes, ce dernier n'agit pas en qualité de partie à l'instance qui statue sur son remplacement, même lorsqu'il est préalablement convoqué en chambre du conseil pour être entendu."
@@ -242,7 +243,8 @@
       "roleNumber": "S.24.0037.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2932.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2932.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2932.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_25.xml"
       ],
       "abstractFR": [
         "Un appel ne peut être interjeté que par une personne qui avait la qualité de demandeur, de défendeur ou de partie intervenante dans la procédure en première instance et qui est lésée dans ses intérêts par la décision entreprise, ce qui est le cas lorsque sa demande n'a pas été accueillie par le premier juge; lorsque le juge décide, à la demande d'une partie intéressée, de remplacer le médiateur de dettes, ce dernier n'agit pas en qualité de partie à l'instance qui statue sur son remplacement, même lorsqu'il est préalablement convoqué en chambre du conseil pour être entendu."
@@ -263,6 +265,21 @@
       "abstractFR": null,
       "abstractNL": [
         "Het invaliditeitspensioen van een mijnwerker is hem eigen. De scheiding van tafel en bed of de feitelijke scheiding van de echtgenoten geeft aan de echtgenote geen ander recht dan rechtstreeks een deel van het achterstallig pensioen te innen. In het stelsel van de wettelijke gemeenschap is het pensioen eigen, echter niet de achterstallen. Hieruit volgt dat de gemeenschap die zolang zo bestaat ervan geniet, verplicht is tot teruggave wanneer ze ze onverschuldigd ontving, welk ook de verdeling was tussen de echtgenoten. Anders gezegd, in geval van onverschuldigde betalingen, is de verbintenis tot teruggave ontstaan in hoofde van de tot inning van een deel of het geheel van de achterstallen wettelijk gemachtigde echtgenote, een schuld die niet strikt persoonlijk is aan de echtgenote maar die de gemeenschap en de echtgenoot persoonlijk overeenkomstig de beschikkingen van het Burgerlijk Wetboek verbindt."
+      ]
+    }
+  },
+  "1675/2": {
+    "ECLI:BE:CASS:2026:ARR.20260202.3N.7": {
+      "court": "CASS",
+      "date": "2026-02-02",
+      "roleNumber": "S.25.0048.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_33.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter mag een vordering tot collectieve schuldenregeling slechts ontoelaatbaar verklaren wegens het bewerkstelligen van het onvermogen wanneer de verzoeker een of meer handelingen heeft verricht met het opzet zich onvermogend te maken (1). (1) Zie andersluidende concl. OM."
       ]
     }
   }

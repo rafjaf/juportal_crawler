@@ -1,4 +1,18 @@
 {
+  "611": {
+    "ECLI:BE:CASS:2026:ARR.20260204.2F.12": {
+      "court": "CASS",
+      "date": "2026-02-04",
+      "roleNumber": "P.26.0135.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/06/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas des articles 19, § 5, de la loi du 20 juillet 1990 relative à la détention préventive et 611 du Code d'instruction criminelle qu'un mandat d'arrêt doive être tenu pour nul du seul fait que l'inculpé, conduit dans la maison d'arrêt indiquée par le mandat, a été transféré ensuite par l'administration pénitentiaire dans un établissement situé dans un autre arrondissement."
+      ],
+      "abstractNL": null
+    }
+  },
   "619": {
     "ECLI:BE:CASS:2022:ARR.20221012.2F.13": {
       "court": "CASS",

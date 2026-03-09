@@ -1,4 +1,18 @@
 {
+  "4": {
+    "ECLI:BE:CASS:2026:ARR.20260129.1N.6": {
+      "court": "CASS",
+      "date": "2026-01-29",
+      "roleNumber": "C.24.0494.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het Belgische recht bepaalt of en in welke mate het Belgisch Bureau tegen de bestuurder van een in België gewoonlijk gestald voertuig, die aansprakelijk is voor een verkeersongeval in Nederland, de rechten kan uitoefenen die de benadeelde overeenkomstig het toepasselijke Nederlandse recht jegens de aansprakelijke bestuurder heeft (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "21": {
     "ECLI:BE:CASS:2023:ARR.20230908.1F.6": {
       "court": "CASS",

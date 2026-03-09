@@ -421,6 +421,30 @@
       "abstractNL": [
         "Het algemeen reglement betreffende de politie over het wegverkeer is toepasselijk op de militaire wegen die deel uitmaken van het privé-domein van de Staat en die voor het openbaar verkeer zijn opengesteld."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260127.2N.11": {
+      "court": "CASS",
+      "date": "2026-01-27",
+      "roleNumber": "P.25.1581.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/06/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Artikel 62, eerste lid, Wegverkeerswet bepaalt dat de overheidspersonen die door de Koning worden aangewezen om toezicht te houden op de naleving van deze wet en haar uitvoeringsbesluiten, de overtredingen vaststellen door processen-verbaal die bewijswaarde hebben zolang het tegendeel niet is bewezen; artikel 3, 1°, Wegverkeersreglement bepaalt dat het personeel van het operationele kader van de federale en lokale politie bevoegd is om toezicht uit te oefenen op de naleving van de Wegverkeerswet en de uitvoeringsbesluiten ervan; het is niet vereist dat de verbalisant ook in actieve dienst is op het ogenblik dat hij vaststellingen doet (1). (1) Cass. 1 februari 2006, AR P.05.1355.F, AC 2006, nr. 63, met concl. van advocaat-generaal D. VANDERMEERSCH, op datum in Pas.."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260127.2N.13": {
+      "court": "CASS",
+      "date": "2026-01-27",
+      "roleNumber": "P.25.1443.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter oordeelt onaantastbaar of douanepersoneel dat een overtreding vaststelt op de Wegverkeerswet en de uitvoeringsbesluiten ervan op dat ogenblik in de uitoefening is van zijn dienst als bedoeld door artikel 3, 7°, Wegverkeersreglement; die beoordeling vereist niet dat de verbalisanten in het proces-verbaal van overtreding uitdrukkelijk vermelden dat hun vaststellingen betreffende de overtredingen van de Wegverkeerswet en de uitvoeringsbesluiten ervan zijn verricht in de uitoefening van hun dienst."
+      ]
     }
   },
   "4": {
@@ -2951,11 +2975,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_16.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_34.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_34.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/02/08/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/02/08/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/02/sitemap_5.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'infraction visée à l'article 4.1 du code de la route consistant à ne pas obtempérer immédiatement aux injonctions des agents qualifiés, à savoir les agents qui, selon l'article 62, alinéa 1er, de la loi sur la circulation routière, surveillent l'application de cette loi et des arrêtés pris en exécution de celle-ci, et qui, selon l'article 11 de cette même loi, portent les insignes de leurs fonctions et peuvent régler la circulation par des injonctions, est réalisée à partir du moment où l'usager de la voie publique omet d'obtempérer immédiatement à l'injonction; les agents qualifiés peuvent non seulement adresser des injonctions aux usagers de la route en mouvement, mais également à d'autres usagers, pour autant que la qualité de ces agents apparaisse clairement; les injonctions d'un agent qualifié énoncées à l'article 4.1 du code de la route ne concernent pas uniquement les injonctions visant simplement le règlement de la circulation, mais également celles ayant pour but de veiller à l'exécution de la loi sur la circulation routière, ainsi que des règlements pris en exécution de celle-ci, comme l'injonction de ranger le véhicule sur le côté ou de couper le moteur du véhicule (1). (1) T. PAPART, « Wegverkeersreglement Artikel 4 - Bindende kracht van de bevelen van de bevoegde personen », dans Postal Wegverkeer, Kluwer, 2001, pp. 2.1.1. et 5.1.1.1."
+      ],
       "abstractNL": [
-        "Het door artikel 4.1 Wegverkeersreglement bedoelde misdrijf van het niet-onmiddellijk gevolg geven aan bevelen van bevoegde personen, namelijk personen die ingevolge artikel 62, eerste lid, Wegverkeerswet toezicht houden op de naleving van deze wet en haar uitvoeringsbesluiten en personen die ingevolge artikel 11 Wegverkeerswet de kentekens van hun ambt dragen en het verkeer kunnen regelen door bindende aanwijzingen te geven, is voltrokken van zodra de gebruiker van de openbare weg nalaat onmiddellijk gevolg te geven aan het bevel; de bevoegde personen kunnen niet enkel bevelen geven aan weggebruikers die in beweging zijn, maar ook aan andere weggebruikers, voor zover hun hoedanigheid duidelijk kenbaar is gemaakt; onder de in artikel 4.1 Wegverkeersreglement vermelde bevelen van een bevoegd persoon worden niet enkel bevelen bedoeld die louter gericht zijn op het regelen van het verkeer, maar ook bevelen die tot doel hebben het toezicht op de naleving van de Wegverkeerswet en de uitvoeringsbesluiten ervan mogelijk te maken, zoals het bevel het voertuig aan de kant te zetten of het bevel de motor van het voertuig af te zetten (1). (1) T. PAPART, ‘Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 2.1.1. en 5.1.1.1"
+        "Het door artikel 4.1 Wegverkeersreglement bedoelde misdrijf van het niet-onmiddellijk gevolg geven aan bevelen van bevoegde personen, namelijk personen die ingevolge artikel 62, eerste lid, Wegverkeerswet toezicht houden op de naleving van deze wet en haar uitvoeringsbesluiten en personen die ingevolge artikel 11 Wegverkeerswet de kentekens van hun ambt dragen en het verkeer kunnen regelen door bindende aanwijzingen te geven, is voltrokken van zodra de gebruiker van de openbare weg nalaat onmiddellijk gevolg te geven aan het bevel; de bevoegde personen kunnen niet enkel bevelen geven aan weggebruikers die in beweging zijn, maar ook aan andere weggebruikers, voor zover hun hoedanigheid duidelijk kenbaar is gemaakt; onder de in artikel 4.1 Wegverkeersreglement vermelde bevelen van een bevoegd persoon worden niet enkel bevelen bedoeld die louter gericht zijn op het regelen van het verkeer, maar ook bevelen die tot doel hebben het toezicht op de naleving van de Wegverkeerswet en de uitvoeringsbesluiten ervan mogelijk te maken, zoals het bevel het voertuig aan de kant te zetten of het bevel de motor van het voertuig af te zetten (1). (1) T. PAPART, ‘Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 2.1.1. en 5.1.1.1",
+        "Het door artikel 4.1 Wegverkeersreglement bedoelde misdrijf van het niet-onmiddellijk gevolg geven aan bevelen van bevoegde personen, namelijk personen die ingevolge artikel 62, eerste lid, Wegverkeerswet toezicht houden op de naleving van deze wet en haar uitvoeringsbesluiten en personen die ingevolge artikel 11 Wegverkeerswet de kentekens van hun ambt dragen en het verkeer kunnen regelen door bindende aanwijzingen te geven, is voltrokken van zodra de gebruiker van de openbare weg nalaat onmiddellijk gevolg te geven aan het bevel; de bevoegde personen kunnen niet enkel bevelen geven aan weggebruikers die in beweging zijn, maar ook aan andere weggebruikers, voor zover hun hoedanigheid duidelijk kenbaar is gemaakt; onder de in artikel 4.1 Wegverkeersreglement vermelde bevelen van een bevoegd persoon worden niet enkel bevelen bedoeld die louter gericht zijn op het regelen van het verkeer, maar ook bevelen die tot doel hebben het toezicht op de naleving van de Wegverkeerswet en de uitvoeringsbesluiten ervan mogelijk te maken, zoals het bevel het voertuig aan de kant te zetten of het bevel de motor van het voertuig af te zetten (1). (1) T. PAPART, “Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 2.1.1. en 5.1.1.1"
       ]
     }
   },
@@ -2968,11 +2996,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_16.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_34.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_34.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/02/08/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/02/08/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/02/sitemap_5.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'énumération des injonctions visées à l'article 4.2 du code de la route n'est pas restrictive (1). (1) T. PAPART, « Wegverkeersreglement Artikel 4 - Bindende kracht van de bevelen van de bevoegde personen », dans Postal Wegverkeer, Kluwer, 2001, p. 3."
+      ],
       "abstractNL": [
-        "De opsomming van de in artikel 4.2 Wegverkeersreglement vermelde bevelen is niet beperkend (1). (1) T. PAPART, ‘Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 3."
+        "De opsomming van de in artikel 4.2 Wegverkeersreglement vermelde bevelen is niet beperkend (1). (1) T. PAPART, ‘Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 3.",
+        "De opsomming van de in artikel 4.2 Wegverkeersreglement vermelde bevelen is niet beperkend (1). (1) T. PAPART, “Wegverkeersreglement Artikel 4- Bindende kracht van de bevelen van de bevoegde personen”, in Postal Wegverkeer, Kluwer, 2001, 3."
       ]
     }
   },

@@ -1067,9 +1067,10 @@
     "ECLI:BE:CASS:2000:ARR.20000216.8": {
       "court": "CASS",
       "date": "2000-02-16",
-      "roleNumber": "P000226F",
+      "roleNumber": "P.00.0226.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/16/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/16/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_8.xml"
       ],
       "abstractFR": [
         "Les articles 6.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14.1 du Pacte international relatif aux droits civils et politiques ne s'appliquent pas aux juridictions de jugement statuant sur une requête de mise en liberté provisoire."
@@ -1510,6 +1511,18 @@
       ],
       "abstractNL": [
         "Wegens het door België gemaakte voorbehoud betreffende art. 14.5 Internationaal Verdrag inzake burgerrechten en politieke rechten, dat het recht toekent om de veroordeling en het vonnis opnieuw te doen beoordelen door een hoger rechtscollege, staan de hogere officieren onmiddellijk voor het Militair Gerechtshof terecht."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260113.2N.32": {
+      "court": "CASS",
+      "date": "2026-01-13",
+      "roleNumber": "P.25.1055.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_15.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De artikelen 6 EVRM en 14.1 IVBPR verzetten zich niet ertegen dat de rechter bij de beoordeling of een voor een misdrijf vereiste moreel bestanddeel aanwezig is dan wel of de beklaagde louter humoristische bedoelingen had, rekening houdt met andere strafbare feiten waarvoor die beklaagde wordt vervolgd of met gelijkaardige gedragingen van andere personen die bij die feiten betrokken waren; dit houdt geen miskenning in van de verplichting om de strafrechtelijke verantwoordelijkheid van de beklaagde individueel te beoordelen."
       ]
     }
   },
