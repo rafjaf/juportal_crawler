@@ -204,6 +204,22 @@
       ]
     }
   },
+  "25": {
+    "ECLI:BE:CASS:1995:ARR.19951211.2": {
+      "court": "CASS",
+      "date": "1995-12-11",
+      "roleNumber": "S950070F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'obligation qui incombe au pensionné d'informer les services de l'Office national des pensions que le montant de ses revenus professionnels dépasse le montant autorisé par l'article 64 de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés, ne découle ni du alinéa 2, alinéa 1er, de cette disposition ni de l'article 25 de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De verplichting voor de gepensioneerde om bij de Rijksdienst voor Pensioenen een verklaring te doen dat het bedrag van zijn beroepsinkomen het bedrag overschrijdt, dat is toegestaan bij art. 64 K.B. van 21 dec. 1967 tot vaststelling van het algemeen reglement betreffende het rust- en overlevingspensioen voor werknemers, vloeit niet voort uit alinéa 2, eerste lid, van die bepaling en evenmin uit art. 25 Pensioenwet Werknemers."
+      ]
+    }
+  },
   "31": {
     "ECLI:BE:CASS:2015:ARR.20150504.4": {
       "court": "CASS",
@@ -727,6 +743,160 @@
         "L'arrêt est cassé pour les motifs suivants: \"Attendu que pour décider que la défenderesse a exercé son professorat sous le régime d'un contrat d'emploi, l'arrêt se fonde sur ce que \"en l'espèce, il est constant et non contesté que l'intimée (ici défenderesse) exécutait pendant les années litigieuses des travaux intellectuels moyennant une rémunération qui lui était acquittée principalement en nature par son entretien complet\"; Attendu que, cependant, le demandeur qui contestait expressément que la défenderesse eût été occupée dans les liens d'un contrat d'emploi, étayait sa défense sur ce que l'entretien de la défenderesse, sa vie durant, par sa congrégation, était la contrepartie de l'engagement qu'elle avait pris de consacrer son activité complète à la réalisation du but de l'ordre, sous l'obédience de son supérieur légitime; Qu'ainsi en déclarant constants et non contestés des faits que le demandeur déniait et qui ne résultaient d'aucun élément contradictoire produit aux débats, l'arrêt a violé les dispositions légales visées en cette branche du moyen; Qu'en cette branche, le moyen est fondé.\""
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2001:ARR.20010115.7": {
+      "court": "CASS",
+      "date": "2001-01-15",
+      "roleNumber": "S990140FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'a pas droit à l'indemnité de licenciement, le membre du personnel de l'Office central d'action sociale et culturelle au profit des membres de la communauté militaire en République fédérale d'Allemagne, qui peut faire valoir ses droits à la retraite ouverts à l'bge de celle-ci, lequel reste, en règle, fixé à 60 ans pour les femmes et 65 ans pour les hommes (1)."
+      ],
+      "abstractNL": [
+        "Het personeelslid van de Centrale Dienst voor sociale en culturele actie ten behoeve van de leden van de militaire gemeenschap in de Bondsrepubliek Duitsland heeft geen recht op een afdankingsvergoeding, wanneer hij aanspraak kan maken op pensioenrechten op de pensioengerechtigde leeftijd, die in de regel 60 jaar voor de vrouwen en 65 jaar voor de mannen blijft (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000306.5": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990056N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'Office national des Pensions est chargé en tant qu'institution de l'application des lois et règlements en matière de pensions de retraite et de survie des travailleurs salariés et doit être condamné aux dépens dans les différentes procédures menées lors de la constatation de l'incapacité de travail et du droit à la pension du conjoint survivant n'ayant pas encore atteint l'âge de 45 ans et qui ne peut bénéficier de cette pension que s'il justifie d'une incapacité de travail de 66 p.c. au moins constatée par le conseil médical de l'invalidité qui est chargé de cet examen en vertu de l'article 46, § 1er de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De Rijksdienst voor Pensioenen is als instelling belast met de toepassing van de wetten en verordeningen inzake rust- en overlevingspensioenen der werknemers en dient verwezen in de kosten van de onderscheiden procedures gevoerd naar aanleiding van het vaststellen van de arbeidsongeschiktheid en het pensioenrecht van de langstlevende echtgenoot die de leeftijd van 45 jaar nog niet heeft bereikt en dit pensioen slechts kan bekomen indien hij een arbeidsongeschiktheid bewijst van minstens 66%, die moet vastgesteld worden door de Geneeskundige Raad van invaliditeit, ingesteld bij de wetgeving inzake ziekte- en invaliditeitsverzekering en die met dit onderzoek is belast krachtens art. 46, § 1 van het KB van 21 december 1967 tot vaststelling van het algemeen reglement."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000306.6": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990079N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les droits résultant du régime des pensions des travailleurs salariés instauré par l'arrêté royal n° 50 du 24 octobre 1967 et qui sont transférés en vertu de la loi du 21 mai 1991 aux institutions de droit international public par un fonctionnaire, ne sont plus pris en compte pour l'octroi ou le calcul d'une autre pension de retraite; ce régime s'applique exclusivement à celui qui opère le transfert et non pas à l'octroi d'une pension de retraite de l'épouse divorcée non remariée de ce fonctionnaire. Le fonctionnaire ne peut que transférer la contrevaleur de ses propres droits à la pension mais pas la contrevaleur de la pension de retraite à laquelle son exconjoint a droit."
+      ],
+      "abstractNL": [
+        "De rechten die voortvloeien uit de pensioenregeling voor werknemers ingesteld bij KB nr. 50 van 24 oktober 1967 en worden overgedragen krachtens de wet van 21 mei 1991 aan instellingen van internationaal publiek recht door een ambtenaar, komen niet meer in aanmerking voor de toekenning of berekening van een ander rustpensioen; deze regeling geldt uitsluitend voor de overdrager en niet voor de toekenning van het rustpensioen van de niet hertrouwde uit de echt gescheiden echtgenote van die ambtenaar. De ambtenaar kan slechts de tegenwaarde van zijn eigen rechten op pensioen overdragen maar niet de tegenwaarde van het rustpensioen waarop zijn gewezen echtgenote persoonlijk gerechtigd is."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000117.5": {
+      "court": "CASS",
+      "date": "2000-01-17",
+      "roleNumber": "S990097F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le membre du personnel délégué par l'administrateur général avec l'accord du comité de gestion de l'Office national des pensions pour représenter cet établissement public devant les juridictions, n'est pas un organe de cette personne morale de droit public; il n'intervient dès lors pas valablement en justice pour l'Office national des pensions, lequel ne peut y comparaître que par son administrateur général ou par avocat."
+      ],
+      "abstractNL": [
+        "Het personeelslid dat door de administrateur-generaal met instemming van het beheerscomité van de RVP is gedelegeerd om die openbare instelling voor het gerecht te vertegenwoordigen, is geen orgaan van die publiekrechterlijke rechtspersoon; dat personeelslid treedt dus niet geldig in rechte op voor de RVP die daar enkel in de persoon van zijn administrateur-generaal of bij advocaat kan verschijnen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950130.8": {
+      "court": "CASS",
+      "date": "1995-01-30",
+      "roleNumber": "S940061N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des dispositions des articles 1er, 1°, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés et 12 et 13 de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, que les cotisations qui sont payées à l'occasion d'une activité professionnelle exercée dans un pays désigné par le Roi dans le cadre du régime facultatif d'assurance vieillesse et survie organisé par la loi du 17 juillet 1963, sont sans effet dans le régime obligatoire de pension des travailleurs salariés, organisé par l'arrêté royal n° 50 du 24 octobre 1967."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van de artt. 1, 1°, Pensioenwet Werknemers en 12 en 13 van de wet van 17 juli 1963 betreffende de Overzeese Sociale Zekerheid volgt dat bijdragen die naar aanleiding van een tewerkstelling in een door de Koning aangeduid land in het stelsel van de facultatieve verzekering van de Overzeese Sociale Zekerheid zijn betaald, niet gelden in het stelsel van de verplichte pensioenregeling voor werknemers, bepaald in de Pensioenwet werknemers."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941128.9": {
+      "court": "CASS",
+      "date": "1994-11-28",
+      "roleNumber": "S940058F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière de pension de survie des travailleurs salariés et des travailleurs indépendants, le jugement de déclaration d'absence vaut décès."
+      ],
+      "abstractNL": [
+        "Inzake overlevingspensioen van werknemers en zelfstandigen staat het vonnis van verklaring van afwezigheid gelijk met overlijden. (Art. 16, 1, eerste lid, Pensioenwet Werknemers; art. 122, alinéa 1 en alinéa 2, wet 15 mei 1984; art. 4, alinéa 2 Pensioenwet Pensioenwet Zelfstandigen; artt. 115 tot 119 B.W.)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940214.12": {
+      "court": "CASS",
+      "date": "1994-02-14",
+      "roleNumber": "S930083F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/02/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La pension de retraite du conjoint divorcé non remarié d'un ouvrier mineur doit être calculée en quarante-cinquièmes ou en quarantièmes et non en trentièmes. (A.R. n° 50 du 24 octobre 1967, art. 3, al. 1er, 2°, art. 4 (Voir L. 20 juillet 1990, art. 16, 1°, a), et art. 10, alinéa 1er, al. 2 et 3, et alinéa 2, 1° (Voir L. 20 juillet 1990, art. 16, 1°, g); A.R. 21 décembre 1967, art. 75 et art. 76, al. 1er et 2)."
+      ],
+      "abstractNL": [
+        "Het rustpensioen van de niet hertrouwde, uit de echt gescheiden echtgenoot van een mijnwerker moet in vijfenveertigsten of veertigsten en niet in dertigsten worden berekend. (Artt. 3, eerste lid, 2°, 4 (zie wet van 20 juli 1990, art. 16, 1°, a) en 10, alinéa 1, tweede en derde lid, en alinéa 2, 1° (zie wet van 20 juli 1990, art. 16, 1°, g), Pensioenwet werknemers; artt. 75 en 76, eerste en tweede lid, K.B. 21 dec. 1967)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930125.8": {
+      "court": "CASS",
+      "date": "1993-01-25",
+      "roleNumber": "9588",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La cessation de toute activité professionnelle autre que celle déterminée par le Roi n'est pas une condition d'octroi de la pension de retraite, de la pension de survie et de la prépension légale de retraite mais une condition de paiement de celles-ci. ( A.R. n° 50 du 24 octobre 1967, art. 5bis, 25 et 39. )"
+      ],
+      "abstractNL": [
+        "De stopzetting van iedere andere dan de bij de Koning bepaalde beroepsarbeid is geen voorwaarde voor de toekenning van het rustpensioen, van het overlevingspensioen en van het wettelijk brugrustpensioen, maar een voorwaarde voor de betaling van die pensioenen. ( Artt. 5bis, 25 en 39, Pensioenwet Werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890116.5": {
+      "court": "CASS",
+      "date": "1989-01-16",
+      "roleNumber": "6408",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du montant limité de la pension de retraite du conjoint du handicapé, à prendre en considération pour déterminer l'allocation complémentaire accordée aux handicapés, il faut entendre par \"pension de retraite d'un conjoint\", octroyée du chef d'une activité exercée en tant que travailleur ou travailleur indépendant, la pension du chef de famille, visée à l'article 10, alinéa 1er, a, de l'arrêté royal n° 50 du 24 octobre 1967 et de l'article 9, alinéa 1er, 1°, de l'arrêté royal n° 72 du 10 novembre 1967. ( Arr. roy. du 17 novembre 1969, art. 39, alinéa alinéa 1er et 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het beperkte bedrag van het rustpensioen van de echtgenoot van de minder-valide dat wordt aangerekend voor de berekening van de aanvullende tegemoetkoming aan minder-validen moet onder \"rustpensioen van gehuwd man\", dat wordt toegekend wegens een als werknemer of als zelfstandige uitgeoefende bezigheid, worden verstaan het gezinspensioen bedoeld in art. 10, alinéa 1, a, K.B. nr. 50, van 24 oktober 1967 en art. 9, alinéa 1, 1°, K.B. nr. 72 van 10 november 1967. ( Art. 39, alinéa alinéa 1 en 2, 1°, K.B. 17 november 1969. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840917.5": {
+      "court": "CASS",
+      "date": "1984-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La pension de retraite et la pension de survie ne sont payables que si le bénéficiaire ne jouit pas, notamment, d'une indemnité pour cause de maladie ou d'invalidité. ( Arr. roy. n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés, art. 25. )"
+      ],
+      "abstractNL": [
+        "Rust- en overlevingspensioenen zijn slechts uitbetaalbaar zo de gerechtigde met name geen vergoeding geniet wegens ziekte of invaliditeit. ( Art. 25 Pensioenwet Werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750122.2": {
+      "court": "CASS",
+      "date": "1975-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que l'activité professionnelle d'une veuve se limite à encaisser des primes d'assurance, à percevoir des commissions et à transmettre des avenants se rapportant aux contrats conclus à l'intervention de son mari, peut légalement décider que le revenu professionnel brut à prendre en considération , pour déterminer si cette activité professionnelle dépasse les limites autorisées, est le revenu qui couvre le seul travail effectivement accompli par ladite veuve à l'occasion de ces opérations . ( Arrêté royal numéro 50 du 24 octobre 1967, article 25, modifié par la loi du 27 juillet 1971, et arrêté royal du 21 décembre 1967, article 64. )"
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat de beroepsbezigheid van een weduwe beperkt is tot het innen van verzekeringspremies, het ontvangen van de commissielonen en het doorzenden van poliswijzigingen m.b.t. de door bemiddeling van haar man gesloten overeenkomsten, kan wettelijk beslissen dat het inkomen van de arbeid alleen, die zij werkelijk verrichtte, als bruto-bedrijfsinkomen in aanmerking moet worden genomen om te bepalen of deze beroepsbezigheid buiten de toegelaten grenzen valt. ( Art. 25 K.B. nr. 50 van 24 oktober 1967, gewijzigd bij de wet van 27 juli 1971, en art. 64 K.B. van 21 december 1967. )"
+      ]
     }
   }
 }

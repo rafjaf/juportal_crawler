@@ -75,6 +75,22 @@
       ]
     }
   },
+  "7": {
+    "ECLI:BE:CASS:1998:ARR.19980120.4": {
+      "court": "CASS",
+      "date": "1998-01-20",
+      "roleNumber": "P961292N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/01/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut légalement décider, par l'appréciation souveraine des éléments de fait que le prévenu a pu contredire, que le comportement du prévenu doit être considéré comme un fait sanctionné par la loi du pays où il a été commis."
+      ],
+      "abstractNL": [
+        "De rechter kan wettig, met onaantastbare beoordeling van aan de tegenspraak van de beklaagde onderworpen feitelijke gegevens, oordelen dat het optreden van de beklaagde aan te merken is als een feit waarop straf is gesteld door de wet van het land waar het is gepleegd."
+      ]
+    }
+  },
   "16": {
     "ECLI:BE:CASS:2014:ARR.20140603.1": {
       "court": "CASS",

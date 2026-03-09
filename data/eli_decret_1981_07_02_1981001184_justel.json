@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:2000:ARR.20001212.8": {
+      "court": "CASS",
+      "date": "2000-12-12",
+      "roleNumber": "P990052N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 3, a, du décret du 2 juillet 1981 de la Communauté flamande relatif à la prévention et à la gestion des déchets, on entend par déchets toute substance ou tout objet dont le détenteur peut se débarrasser, se débarrasse ou est tenu de se débarrasser en vertu de ce décret ou en vertu des dispositions prises en application de ce décret; les substances ou objets visés sont ceux que le détenteur ne peut utiliser légalement comme matière première ou comme produit ou ne veut utiliser légalement comme tel; le caractère légal de leur utilisation doit être contrôlé à la lumière de toute loi, de tout arrêté d'exécution ou de toute autorisation délivrée en vertu de telle loi ou tel arrêté permettant leur utilisation, l'interdisant ou la soumettant à certaines conditions (1)."
+      ],
+      "abstractNL": [
+        "Krachtens art. 3, a, Decreet van 2 juli 1981 betreffende het beheer van afvalstoffen wordt onder afvalstoffen verstaan elke stof of elk voorwerp waarvan de houder zich wil ontdoen, zich ontdoet of zich moet ontdoen krachtens dit decreet of krachtens op grond van dit decreet vastgestelde bepalingen; met stof of voorwerp wordt bedoeld deze die de houder niet wettelijk als grondstof of als product kan aanwenden of niet wettelijk als dusdanig wil aanwenden, waarbij het wettelijk karakter van de aanwending moet worden getoetst aan elke wet, uitvoeringsbesluit of krachtens zulke wet of besluit verleende vergunning die ze toelaat, verbiedt of aan voorwaarden onderwerpt (1)."
+      ]
+    }
+  },
   "5": {
     "ECLI:BE:CASS:2017:ARR.20171221.12": {
       "court": "CASS",
@@ -45,6 +61,38 @@
       ]
     }
   },
+  "14": {
+    "ECLI:BE:CASS:2010:ARR.20101217.4": {
+      "court": "CASS",
+      "date": "2010-12-17",
+      "roleNumber": "C.10.0148.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit des dispositions légales en la matière que la commune est responsable pour la collecte et le ramassage des ordures ménagères et qu'elle peut réguler cette collecte; ces dispositions n'excluent, toutefois, pas que dans la mesure où la commune n'a pas réglementé la collecte des ordures ménagères, d'autres personnes puissent collecter les ordures ménagères en observant les dispositions du décret du 2 juillet 1981."
+      ],
+      "abstractNL": [
+        "Uit de wettelijke bepalingen ter zake volgt dat de gemeente verantwoordelijk is voor het inzamelen en het ophalen van huishoudelijke afvalstoffen en dat zij deze ophaling kan reguleren; deze bepalingen sluiten echter niet uit dat, in zoverre de gemeente het ophalen van huishoudelijke afvalstoffen niet heeft gereglementeerd, andere personen huishoudelijke afvalstoffen mogen ophalen met inachtneming van de bepalingen van het Afvalstoffendecreet."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:2010:ARR.20101217.4": {
+      "court": "CASS",
+      "date": "2010-12-17",
+      "roleNumber": "C.10.0148.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit des dispositions légales en la matière que la commune est responsable pour la collecte et le ramassage des ordures ménagères et qu'elle peut réguler cette collecte; ces dispositions n'excluent, toutefois, pas que dans la mesure où la commune n'a pas réglementé la collecte des ordures ménagères, d'autres personnes puissent collecter les ordures ménagères en observant les dispositions du décret du 2 juillet 1981."
+      ],
+      "abstractNL": [
+        "Uit de wettelijke bepalingen ter zake volgt dat de gemeente verantwoordelijk is voor het inzamelen en het ophalen van huishoudelijke afvalstoffen en dat zij deze ophaling kan reguleren; deze bepalingen sluiten echter niet uit dat, in zoverre de gemeente het ophalen van huishoudelijke afvalstoffen niet heeft gereglementeerd, andere personen huishoudelijke afvalstoffen mogen ophalen met inachtneming van de bepalingen van het Afvalstoffendecreet."
+      ]
+    }
+  },
   "47": {
     "ECLI:BE:CASS:2020:ARR.20200102.1N.1": {
       "court": "CASS",
@@ -58,6 +106,38 @@
       ],
       "abstractNL": [
         "Het tarief vermeld in artikel 47, §2, 7° Afvalstoffendecreet geldt als het gewone heffingstarief voor het storten van afvalstoffen op een stortplaats vergund voor bedrijfsafvalstoffen; de heffingsplichtige die zich op het verlaagde tarief wil beroepen heeft de bewijslast dat hij de bij artikel 47, §2, 38° Afvalstoffendecreet vastgelegde gewichtspercentages heeft nageleefd (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "59": {
+    "ECLI:BE:CASS:1999:ARR.19990504.5": {
+      "court": "CASS",
+      "date": "1999-05-04",
+      "roleNumber": "P980469N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légalment justifié l'arrêt qui décide que l'enfouissement de déchets de construction sur le chantier même constitue une forme évidente de dépôt sauvage, à laquelle s'applique l'obligation d'élimination prévue par le décret du 2 juillet 1981 relatif à la prévention et à la gestion des déchets."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is het arrest dat beslist dat het ingraven van bouwafval op de werf zelf een duidelijke vorm van sluikstorten is, waarop de verwijderingsplicht bepaald in het afvalstoffendecreet van toepassing is."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001212.8": {
+      "court": "CASS",
+      "date": "2000-12-12",
+      "roleNumber": "P990052N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 3, a, du décret du 2 juillet 1981 de la Communauté flamande relatif à la prévention et à la gestion des déchets, on entend par déchets toute substance ou tout objet dont le détenteur peut se débarrasser, se débarrasse ou est tenu de se débarrasser en vertu de ce décret ou en vertu des dispositions prises en application de ce décret; les substances ou objets visés sont ceux que le détenteur ne peut utiliser légalement comme matière première ou comme produit ou ne veut utiliser légalement comme tel; le caractère légal de leur utilisation doit être contrôlé à la lumière de toute loi, de tout arrêté d'exécution ou de toute autorisation délivrée en vertu de telle loi ou tel arrêté permettant leur utilisation, l'interdisant ou la soumettant à certaines conditions (1)."
+      ],
+      "abstractNL": [
+        "Krachtens art. 3, a, Decreet van 2 juli 1981 betreffende het beheer van afvalstoffen wordt onder afvalstoffen verstaan elke stof of elk voorwerp waarvan de houder zich wil ontdoen, zich ontdoet of zich moet ontdoen krachtens dit decreet of krachtens op grond van dit decreet vastgestelde bepalingen; met stof of voorwerp wordt bedoeld deze die de houder niet wettelijk als grondstof of als product kan aanwenden of niet wettelijk als dusdanig wil aanwenden, waarbij het wettelijk karakter van de aanwending moet worden getoetst aan elke wet, uitvoeringsbesluit of krachtens zulke wet of besluit verleende vergunning die ze toelaat, verbiedt of aan voorwaarden onderwerpt (1)."
       ]
     }
   }

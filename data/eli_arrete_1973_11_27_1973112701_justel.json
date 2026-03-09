@@ -1,4 +1,20 @@
 {
+  "25": {
+    "ECLI:BE:CASS:1986:ARR.19860430.12": {
+      "court": "CASS",
+      "date": "1986-04-30",
+      "roleNumber": "4868",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/04/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue par les articles 32, 3°, de la loi du 20 septembre 1948 et 25, 2°, de l'arrêté royal du 27 novembre 1973, qui imposent au chef d'entreprise l'obligation d'informer le conseil d'entreprise des décisions internes susceptibles d'avoir des répercussions importantes sur l'entreprise, par exemple l'aveu de la faillite, ne requiert ni un dol spécial ni la possibilité pour le conseil d'entreprise de modifier la décision prise ou d'en modifier les effets."
+      ],
+      "abstractNL": [
+        "Het misdrijf, omschreven in de artt. 32, 3°, wet van 20 september 1948 en 25, 2°, K.B. 27 november 1973, die het ondernemingshoofd de verplichting opleggen om interne beslissingen die een belangrijke weerslag kunnen hebben op de onderneming, zoals een aangifte van faillissement, mede te delen aan de ondernemingsraad, vereist niet dat er bijzonder opzet aanwezig is en evenmin dat de ondernemingsraad bij aanwezig is en evenmin dat de ondernemingsraad bij machte is de genomen beslissing te wijzigen of iets aan de gevolgen ervan te veranderen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1986:ARR.19860430.7": {
       "court": "CASS",

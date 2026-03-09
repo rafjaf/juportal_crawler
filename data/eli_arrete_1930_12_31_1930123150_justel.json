@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1979:ARR.19790307.7": {
+      "court": "CASS",
+      "date": "1979-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée en droit la décision de condamnation, indiquant, d'une part, l'article 1er, alinéas 1er, 15 et 36, de l'arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, qui mentionne les substances tombant sous l'application de cet arrêté, et, d'autre part, les dispositions de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, qui établissent une peine pour les infractions audit arrêté royal, sans toutefois mentionner les dispositions légales énonçant les éléments constitutifs des infractions déclarées établies."
+      ],
+      "abstractNL": [
+        "Niet naar recht met redenen omkleed is de veroordeling met de opgave, eensdeels, van art. 1, leden 1, 15 en 36, K.B. van 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen waarin een opsomming wordt gegeven van de stoffen die onder toepassing van dat besluit vallen, en, anderdeels, van de bepalingen van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica, waarin straffen worden vastgesteld voor overtredingen van dat koninklijk besluit, zonder dat in die veroordeling evenwel melding wordt gemaakt van de wettelijke bepalingen waarin de bestanddelen worden opgegeven van de bewezen verklaarde misdrijven."
+      ]
+    }
+  },
   "11": {
     "ECLI:BE:CASS:2021:ARR.20210420.2N.1": {
       "court": "CASS",
@@ -26,6 +42,78 @@
       ],
       "abstractNL": [
         "De in artikel 44 Dopingdecreet bepaalde verschoningsgrond kan niet worden toegepast op misdrijven strafbaar gesteld in de Drugwet; hieruit volgt dat het bezit van verboden substanties, als bedoeld in de Drugwet, door een sportbeoefenaar tijdens of bij de voorbereiding van een sportmanifestatie, steeds krachtens die wet strafbaar blijft (1). (1) Zie Cass., 26 juni 2007, AR P.07.0521.N, A.C., 2007, nr. ..., Gw. H., nr. 62/2008 van 10 april 2008, B.S. 18 juni 2008, 31414."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011128.15": {
+      "court": "CASS",
+      "date": "2001-11-28",
+      "roleNumber": "P011526F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/28/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La détention de stupéfiants sans autorisation préalable constitue une infraction qui se perpétue jusqu'à ce qu'un fait contraire ou toute autre circonstance atteste qu'elle a cessé de se commettre; l'interruption de la vente ou de l'offre en vente de substances stupéfiantes ne met pas nécessairement fin à la détention de ces produits, ni à la participation à l'activité principale ou accessoire d'une association que pareille détention peut constituer."
+      ],
+      "abstractNL": [
+        "Het bezit van verdovende middelen zonder voorafgaande machtiging is een misdrijf dat blijft voortduren zolang geen ander feit of omstandigheid bewijst dat het niet langer gepleegd wordt; het stopzetten van de verkoop of het te koop aanbieden van verdovende middelen maakt niet noodzakelijkerwijs een einde aan het bezit van die producten, noch aan de deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging, waartoe een dergelijk bezit aanleiding kan geven."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881005.13": {
+      "court": "CASS",
+      "date": "1988-10-05",
+      "roleNumber": "6976",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/05/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'infraction d'importation de stupéfiants ne requiert aucun dol spécial. Il suffit que l'auteur ait commis, librement et consciemment, le fait prévu et puni par la loi. ( Loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, article 2bis; arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, article 11. )"
+      ],
+      "abstractNL": [
+        "Voor het misdrijf \"invoer van verdovende middelen\" is geen bijzonder opzet vereist; het is voldoende dat de dader het bij de wet bepaalde en strafbaar gestelde feit uit vrije wil en bewust heeft gepleegd. ( Art. 2bis Wet 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica; art. 11 K.B. 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen. )"
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1987:ARR.19870915.25": {
+      "court": "CASS",
+      "date": "1987-09-15",
+      "roleNumber": "1174",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/15/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au juge du fond d'apprécier si un praticien de l'art de guérir a abusivement prescrit, administré ou délivré des médicaments contenant des substances soporifiques, stupéfiantes ou psychotropes de nature à créer, entretenir ou aggraver une dépendance; la loi du 24 février 1921 ne prévoit pas que, antérieurement aux poursuites et au jugement, une question préjudicielle relative à l'existence de l'abus doive être posée au conseil provincial de l'Ordre des médecins; ni les articles 11 et 37, alinéa 1, 2°, c et f, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales, ni l'article 23, alinéa 1er, de l'arrêté royal du 31 décembre 1930 concernant le trafic de substances soporifiques et stupéfiantes, ne font obstacle à des poursuites pénales du chef d'abus et à l'appréciation d'abus par le juge pénal."
+      ],
+      "abstractNL": [
+        "Het staat aan de feitenrechter te oordelen of een beoefenaar van de geneeskunde misbruik heeft gemaakt van het voorschrijven, toedienen of afleveren van geneesmiddelen die slaapmiddelen, verdovende middelen of psychotropische stoffen bevatten welke afhankelijkheid kunnen teweegbrengen, onderhouden of verergeren; de wet van 24 februari 1921 bepaalt niet dat voor de vervolgingen en de beoordeling een prejudiciële vraag omtrent het bestaan van het misbruik moet worden gesteld aan de provinciale raad van de Orde van Geneesheren; noch de artt. 11 en 37, alinéa 1, 2°, c en f, Geneeskundewet ( K.B. 78 van 10 november 1967) noch art. 23, eerste lid, K.B. 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen staan strafrechtelijke vervolgingen wegens misbruik en beoordeling van misbruik door de strafrechter in de weg."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691103.4": {
+      "court": "CASS",
+      "date": "1969-11-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le fait pour un praticien d'avoir, sans nécessité, prescrit, administré ou procuré des stupéfiants ne constitue le délit prévu par l'article 23, alinéa 2, de l'arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, que s'il a eu pour effet de créer, d'entretenir ou d'aggraver une toxicomanie."
+      ],
+      "abstractNL": [
+        "Het feit voor een dokter, zonder noodzaak, verdovende middelen te hebben voorgeschreven, toegediend of verschaft, levert het misdrijf omschreven bij artikel 23, lid 2, van het koninklijk besluit van 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen enkel op indien het tot gevolg heeft gehad toxicomanie te doen ontstaan, aanhouden of te verergeren."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690414.2": {
+      "court": "CASS",
+      "date": "1969-04-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sont des stupéfians au sens des articles 21 et 23 de l'arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, modifié et complété par les arrêtes royaux des 20 octobre 1933, 20 septembre 1951, 31 janvier 1956, 3 février 1958, 6 juillet 1959, 8 octobre 1963 et 10 avril 1964, les substances qui sont énumérées tant par l'article 1bis que par l'article 1er dudit arrêté royal ainsi modifié et complété."
+      ],
+      "abstractNL": [
+        "Verdovingsmiddelen in de zin van artikel 21 en 23 van het koninklijk besluit van 31 december 1930 betreffende de handel in slaap- of verdovingsstoffen, gewijzigd en aangevuld door de koninklijke besluiten van 20 oktober 1933, 20 september 1951, 31 januari 1956, 3 februari 1958, 6 juli 1959, 9 oktober 1963 en 1 april 1964, zijn de verdovingsmiddelen opgesomd zowel in artikel 1bis als in artikel 1 van het aldus gewijzigd en aangevuld koninklijk besluit."
       ]
     }
   },
@@ -57,6 +145,30 @@
       "abstractNL": [
         "De in artikel 44 Dopingdecreet bepaalde verschoningsgrond kan niet worden toegepast op misdrijven strafbaar gesteld in de Drugwet; hieruit volgt dat het bezit van verboden substanties, als bedoeld in de Drugwet, door een sportbeoefenaar tijdens of bij de voorbereiding van een sportmanifestatie, steeds krachtens die wet strafbaar blijft (1). (1) Zie Cass., 26 juni 2007, AR P.07.0521.N, A.C., 2007, nr. ..., Gw. H., nr. 62/2008 van 10 april 2008, B.S. 18 juni 2008, 31414."
       ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851203.3": {
+      "court": "CASS",
+      "date": "1985-12-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la chambre du conseil a renvoyé un inculpé au tribunal correctionnel du chef de faits qualifiés délits et que la juridiction de jugement s'est déclarée incompétente parce que l'un des faits constitue un crime non correctionnalisé et que les autres infractions sont connexes, les deux décisions étant passées en force de chose jugée et la décision d'incompétence paraissant fondée, la Cour, réglant de juges, annule l'ordonnance de la chambre du conseil et renvoie la cause à la chambre des mises en accusation."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer een verdachte wegens als wanbedrijven omschreven feiten naar de correctionele rechtbank heeft verwezen en de correctionele rechtbank zich onbevoegd heeft verklaard omdat een van de misdrijven een niet gecorrectionaliseerde misdaad is en de andere daarmee samenhangen, vernietigt het Hof, het rechtsgebied regelende, de beschikking van de raadkamer en verwijst het de zaak naar de kamer van inbeschuldigingstelling, zo beide beslissingen in kracht van gewijsde zijn gegaan en de beslissing waarbij de rechtbank zich onbevoegd heeft verklaard, gegrond lijkt."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800415.1": {
+      "court": "CASS",
+      "date": "1980-04-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   },
   "general": {
@@ -73,6 +185,114 @@
       "abstractNL": [
         "Het KB Drugs 1930 heeft voor wat betreft het verbod op de niet-vergunde invoer van cocaïne geen andere draagwijdte dan het KB Drugs 2017."
       ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880531.12": {
+      "court": "CASS",
+      "date": "1988-05-31",
+      "roleNumber": "2419",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/31/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision par laquelle le juge du fond condamne le prévenu, renvoyé au tribunal correctionnel du chef d'infraction à l'arrêté royal du 31 décembre 1930 par la chambre du conseil, celle-ci ayant admis des circonstances atténuantes et cité l'article 2bis, alinéa alinéa 1er et 3, b, de la loi du 24 février 1921, mais n'ayant pas mentionné dans la qualification de la prévention la circonstance aggravante prévue par l'article 2bis, alinéa 3, b, de la loi du 24 février 1921, à une peine d'emprisonnement de plus de cinq ans du chef de la prévention qualifiée dans l'ordonnance de renvoi, sans déclarer établie une des circonstances aggravantes énoncées à l'article 2bis, alinéa alinéa 3 et 4, de la loi du 24 février 1921."
+      ],
+      "abstractNL": [
+        "Onwettig is de beslissing waarbij de feitenrechter de beklaagde, die door de raadkamer, met aanneming van verzachtende omstandigheden en onder verwijzing naar art. 2bis, alinéa alinéa 1 en 3, b, wet 24 februari 1921 doch zonder vermelding, in de omschrijving van de telastlegging, van de in art. 2bis, alinéa 3, b, wet 24 februari 1921 bepaalde verzwarende omstandigheid, naar de correctionele rechtbank werd verwezen wegens overtreding van het K.B. 31 december 1930, veroordeelt tot een gevangenisstraf van meer dan vijf jaar wegens de telastlegging omschreven in de beschikking tot verwijzing, zonder een van de in art. 2bis, alinéa alinéa 3 en 4, wet 24 februari 1921 bepaalde verzwarende omstandigheden bewezen te verklaren."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830126.8": {
+      "court": "CASS",
+      "date": "1983-01-26",
+      "roleNumber": "2711",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une violation des droits de la défense ne saurait être déduite de la seule circonstance que le juge a, par une appréciation en fait et pour les raisons qu'il précise, décidé qu'il n'y avait pas lieu de joindre au dossier de la procédure à charge du prévenu des pièces qu'il considérait comme ne concernant qu'une autre procédure."
+      ],
+      "abstractNL": [
+        "Miskenning van het recht van verdediging kan niet worden afgeleid uit de enkele omstandigheid dat de rechter, op grond van een feitelijke beoordeling en om de redenen die hij vermeldt, beslist dat bij het dossier over de procedure ten laste van de beklaagde, geen stukken behoeven te worden gevoegd die, naar zijn oordeel, verband hielden met een andere procedure <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790817.3": {
+      "court": "CASS",
+      "date": "1979-08-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/08/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les infractions aux dispositions des arrêtés royaux pris en exécution de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, commises postérieurement à l'entrée en vigueur de la loi du 9 juillet 1975 modifiant ladite loi du 24 février 1921, sont punies des peines prévues par la loi modificative du 9 juillet 1975 et non par celles que prévoyait la loi modifiée du 24 février 1921, même si les arrêtés royaux enfreints ont été pris avant les modifications introduites dans la loi du 24 février 1921 par celle du 9 juillet 1975."
+      ],
+      "abstractNL": [
+        "De overtredingen van de bepalingen van de koninklijke besluiten ter uitvoering van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica, die zijn gepleegd na de inwerkingtreding van de wet van 9 juli 1975 tot wijziging van de wet van 24 februari 1921, worden gestraft met de straffen gesteld bij de wijzigende wet van 9 juli 1975 en niet bij die van de gewijzigde wet van 24 februari 1921, ook al zijn de overtreden koninklijke besluiten genomen vóór de wijziging van de wet van 24 februari 1921 door de wet van 9 juli 1975."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870915.25": {
+      "court": "CASS",
+      "date": "1987-09-15",
+      "roleNumber": "1174",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/15/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au juge du fond d'apprécier si un praticien de l'art de guérir a abusivement prescrit, administré ou délivré des médicaments contenant des substances soporifiques, stupéfiantes ou psychotropes de nature à créer, entretenir ou aggraver une dépendance; la loi du 24 février 1921 ne prévoit pas que, antérieurement aux poursuites et au jugement, une question préjudicielle relative à l'existence de l'abus doive être posée au conseil provincial de l'Ordre des médecins; ni les articles 11 et 37, alinéa 1, 2°, c et f, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales, ni l'article 23, alinéa 1er, de l'arrêté royal du 31 décembre 1930 concernant le trafic de substances soporifiques et stupéfiantes, ne font obstacle à des poursuites pénales du chef d'abus et à l'appréciation d'abus par le juge pénal."
+      ],
+      "abstractNL": [
+        "Het staat aan de feitenrechter te oordelen of een beoefenaar van de geneeskunde misbruik heeft gemaakt van het voorschrijven, toedienen of afleveren van geneesmiddelen die slaapmiddelen, verdovende middelen of psychotropische stoffen bevatten welke afhankelijkheid kunnen teweegbrengen, onderhouden of verergeren; de wet van 24 februari 1921 bepaalt niet dat voor de vervolgingen en de beoordeling een prejudiciële vraag omtrent het bestaan van het misbruik moet worden gesteld aan de provinciale raad van de Orde van Geneesheren; noch de artt. 11 en 37, alinéa 1, 2°, c en f, Geneeskundewet ( K.B. 78 van 10 november 1967) noch art. 23, eerste lid, K.B. 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen staan strafrechtelijke vervolgingen wegens misbruik en beoordeling van misbruik door de strafrechter in de weg."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851203.3": {
+      "court": "CASS",
+      "date": "1985-12-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la chambre du conseil a renvoyé un inculpé au tribunal correctionnel du chef de faits qualifiés délits et que la juridiction de jugement s'est déclarée incompétente parce que l'un des faits constitue un crime non correctionnalisé et que les autres infractions sont connexes, les deux décisions étant passées en force de chose jugée et la décision d'incompétence paraissant fondée, la Cour, réglant de juges, annule l'ordonnance de la chambre du conseil et renvoie la cause à la chambre des mises en accusation."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer een verdachte wegens als wanbedrijven omschreven feiten naar de correctionele rechtbank heeft verwezen en de correctionele rechtbank zich onbevoegd heeft verklaard omdat een van de misdrijven een niet gecorrectionaliseerde misdaad is en de andere daarmee samenhangen, vernietigt het Hof, het rechtsgebied regelende, de beschikking van de raadkamer en verwijst het de zaak naar de kamer van inbeschuldigingstelling, zo beide beslissingen in kracht van gewijsde zijn gegaan en de beslissing waarbij de rechtbank zich onbevoegd heeft verklaard, gegrond lijkt."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800415.1": {
+      "court": "CASS",
+      "date": "1980-04-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1979:ARR.19790307.7": {
+      "court": "CASS",
+      "date": "1979-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée en droit la décision de condamnation, indiquant, d'une part, l'article 1er, alinéas 1er, 15 et 36, de l'arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, qui mentionne les substances tombant sous l'application de cet arrêté, et, d'autre part, les dispositions de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, qui établissent une peine pour les infractions audit arrêté royal, sans toutefois mentionner les dispositions légales énonçant les éléments constitutifs des infractions déclarées établies."
+      ],
+      "abstractNL": [
+        "Niet naar recht met redenen omkleed is de veroordeling met de opgave, eensdeels, van art. 1, leden 1, 15 en 36, K.B. van 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen waarin een opsomming wordt gegeven van de stoffen die onder toepassing van dat besluit vallen, en, anderdeels, van de bepalingen van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica, waarin straffen worden vastgesteld voor overtredingen van dat koninklijk besluit, zonder dat in die veroordeling evenwel melding wordt gemaakt van de wettelijke bepalingen waarin de bestanddelen worden opgegeven van de bewezen verklaarde misdrijven."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691103.4": {
+      "court": "CASS",
+      "date": "1969-11-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le fait pour un praticien d'avoir, sans nécessité, prescrit, administré ou procuré des stupéfiants ne constitue le délit prévu par l'article 23, alinéa 2, de l'arrêté royal du 31 décembre 1930 concernant le trafic des substances soporifiques et stupéfiantes, que s'il a eu pour effet de créer, d'entretenir ou d'aggraver une toxicomanie."
+      ],
+      "abstractNL": [
+        "Het feit voor een dokter, zonder noodzaak, verdovende middelen te hebben voorgeschreven, toegediend of verschaft, levert het misdrijf omschreven bij artikel 23, lid 2, van het koninklijk besluit van 31 december 1930 omtrent de handel in slaapmiddelen en verdovende middelen enkel op indien het tot gevolg heeft gehad toxicomanie te doen ontstaan, aanhouden of te verergeren."
+      ]
     }
   },
   "26bis": {
@@ -88,6 +308,20 @@
       ],
       "abstractNL": [
         "De artikelen 26bis, 2° en 28 van het koninklijk besluit van 31 december 1930, die een mindere zware straf stellen op de invoer, vervaardiging, vervoer, aanschaf en bezit van slaap- en verdovende middelen die betrekking hebben op cannabis alsmede op de teelt van cannabisplanten voor persoonlijk gebruik, doen geen afbreuk aan de strafbaarheid van andere dan voor persoonlijk gebruik gepleegde misdrijven met betrekking tot cannabis (1). (1) Zie de conclusie van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060110.10": {
+      "court": "CASS",
+      "date": "2006-01-10",
+      "roleNumber": "P050812N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/01/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le taux des peines prévu aux articles 26bis, 2°, 3° et 4° de l'arrêté royal du 31 décembre 1930 ne déroge pas au caractère punissable des infractions concernant le cannabis (1). (1) Voir les concl. du M.P., publiées à leur date dans A.C., 2006, n° ..."
+      ],
+      "abstractNL": [
+        "De bestraffingschaal van de artikelen 26bis, 2°, 3°, en 4° van het koninklijk besluit van 31 december 1930 doet geen afbreuk aan de strafbaarheid van misdrijven met betrekking tot cannabis (1). (1) Zie de concl. van het O.M."
       ]
     }
   }

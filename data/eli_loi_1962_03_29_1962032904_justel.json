@@ -454,7 +454,8 @@
       "date": "1987-06-19",
       "roleNumber": "5102",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/30/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/30/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/19/sitemap_2.xml"
       ],
       "abstractFR": [
         "L'article 37 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme détermine l'indemnité due par l'Etat lorsque l'interdiction de bâtir ou de lotir résultant d'un plan revêtu de la force obligatoire met fin à l'usage auquel un bien est affecté ou normalement destiné; lorsque l'arrêt attaqué décide, sans être critiqué sur ce point, que le plan de secteur et l'arrêté royal approuvant ledit plan, ne peuvent être appliqués en raison de l'acte illicite de l'Etat belge, mais ne sortissent leurs effets qu'en fait, la Cour décide que ladite disposition légale ne fait pas obstacle à ce que l'arrêt fonde le droit à indemnisation du particulier et le montant de celle-ci sur l'article 1382 du Code civil."
@@ -1454,6 +1455,18 @@
       "abstractNL": [
         "Is wettelijk gerechtvaardigd de beslissing, waarbij de beklaagde veroordeeld wordt wegens overtreding van de artikelen 44 en 64 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, die bijgevolg het herstellen in de vroegere toestand bevolen heeft, en die in antwoord op de conclusie van beklaagde die beweerde dat hij de werken mocht uitvoeren overeenkomstig artikel 54 van evenbedoelde wet, omdat er niet binnen de 75 dagen van de tweede aanvraag om bouwvergunning werd geantwoord, erop wijst dat de werken reeds uitgevoerd waren zonder vergunning, niettegenstaande de eerste aanvraag om bouwvergunning werd geweigerd, en dat zij evenmin nadien goedgekeurd werden."
       ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670130.3": {
+      "court": "CASS",
+      "date": "1967-01-30",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/30/sitemap_9.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Is niet regelmatig met redenen omkleed de beslissing van veroordeling die geen passend antwoord verstrekt op de conclusie van de beklaagde, die vervolgd wordt wegens misdrijf tegen de artikelen 44 en 64 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, en op omstandige wijze betoogt dat hij de werken mocht aanvangen bij toepassing van artikel 54 van bedoelde wet (Grondwet, art. 97.)"
+      ]
     }
   },
   "55": {
@@ -2064,6 +2077,18 @@
         "L'article 64 de la loi du 29 mars 1962, organique de l'aménagement du territoire et de l'urbanisme, ne réprime le maintien des bâtiments illégalement construits qu'en tant qu'ils ont été construits après l'entrée en vigueur de ladite loi."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1967:ARR.19670116.4": {
+      "court": "CASS",
+      "date": "1967-01-16",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/16/sitemap_5.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Begaat een overtreding voorzien bij artikel 64 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw hij die zonder voorafgaande, schriftelijke en uitdrukkelijke vergunning van het college van burgemeester en schepenen onder meer een bestaand gebouw afbreekt, herbouwt of er de bij artikel 44 van bedoelde wet vastgestelde verbouwingen aanbrengt, zelfs al bestaat er voor de plaats waar de inbreuk gepleegd werd, geen bijzonder plan van aanleg. (Wet van 29 maart 1962, art. 44 en 64.)"
+      ]
     }
   },
   "65": {
@@ -3248,6 +3273,30 @@
       "abstractNL": [
         "Is niet met redenen omkleed de beslissing die haar beschikkend gedeelte grondt op onnauwkeurige of dubbelzinnige redenen."
       ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981006.4": {
+      "court": "CASS",
+      "date": "1998-10-06",
+      "roleNumber": "P970483N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/06/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De gemachtigde ambtenaar en het college van burgemeester en schepenen in gezamenlijk akkoord oordelen of betaling van een meerwaarde voor de strafrechter moet worden gevorderd; geen enkel wetsbepaling onderwerpt die vordering aan bijzondere vormen; het is voldoende dat de wettelijke bevoegde administratieve overheden hun wil duidelijk te kennen hebben gegeven."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920310.17": {
+      "court": "CASS",
+      "date": "1992-03-10",
+      "roleNumber": "3612",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/10/sitemap_15.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De strafrechter kan een dwangsom opleggen ten einde de tenuitvoerlegging te verzekeren van het bevel tot herstel van de plaats in de vorige staat, welke burgerrechtelijke maatregel krachtens de Wet Ruimtelijke Ordening en Stedebouw door het strafgerecht, op vordering van de gemachtigde ambtenaar of van het college van burgemeester en schepenen, moet worden uitgesproken als verplichte aanvulling van de strafrechtelijke veroordeling. ( Art. 1385bis, Gerechtelijk Wetboek; art. 65 Wet Ruimtelijke Ordening en Stedebouw. )"
+      ]
     }
   },
   "66": {
@@ -3676,6 +3725,1238 @@
         "L'article 64 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme punit les personnes qu'il indique lorsque, par l'exécution ou le maintien des travaux énumérés aux alinéas 1er et 2 de l'article 44 de la même loi ou des lotissements visés à l'article 56, elles contreviennent soit aux stipulations des plans particuliers d'aménagement, soit aux dispositions des titres II et III ou à celles des règlements pris en exécution du chapitre Ier du titre IV de ladite loi."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2002:ARR.20020627.14": {
+      "court": "CASS",
+      "date": "2002-06-27",
+      "roleNumber": "C990478N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'elles agissent conformément aux dispositions de l'article 35 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, les autorités compétentes restent soumises au devoir de diligence général visé aux articles 1382 et 1383 du Code civil."
+      ],
+      "abstractNL": [
+        "Wanneer de bevoegde overheid zich gedraagt naar de voorschriften van artikel 35 van de Stedenbouwwet blijft ze onderworpen aan de algemene zorgvuldigheidsplicht van de artikelen 1382 en 1383 van het Burgerlijk Wetboek."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010105.4": {
+      "court": "CASS",
+      "date": "2001-01-05",
+      "roleNumber": "C980117N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 37, alinéa 7, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, l'obligation d'indemniser le dommage résultant de la planification spatiale prévue au premier alinéa du même article peut être remplie par la voie d'un arrêté royal motivé revisant le plan d'aménagement concerné et prévoyant de rétablir la destination que le bien avait à la veille de l'entrée en vigueur du plan. Les autorités disposent de la possibilité de rétablir la destination initiale ainsi prévue, que le bien faisant l'objet de l'indemnité du chef de dommage résultant de la planification spatiale ait ou non changé de propriétaire entre-temps (1) (2)."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 37, zevende lid, van de Stedenbouwwet kan aan de verplichting tot planschadevergoeding, waarin het eerste lid van dat artikel voorziet, worden voldaan door een met redenen omkleed koninklijk besluit tot herziening van het betrokken aanlegplan met het doel aan het goed opnieuw de bestemming te geven welke het had de dag voor de inwerkingtreding van het plan. De overheid beschikt over de aldus geboden mogelijkheid tot herstel van de oorspronkelijke bestemming, ongeacht of het goed, voorwerp van de planschadevergoeding, inmiddels al of niet van eigenaar is veranderd (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010104.5": {
+      "court": "CASS",
+      "date": "2001-01-04",
+      "roleNumber": "C990027F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Peuvent comprendre l'interdiction de bâtir, les restrictions au droit de propriété que peut contenir le plan de secteur qui comporte tout ou partie des matières visées par un plan communal général."
+      ],
+      "abstractNL": [
+        "Het bouwverbod kan behoren tot de beperkingen op het eigendomsrecht, die vervat kunnen zijn in het gewestplan dat geheel of ten dele de zaken bevat die in een gemeentelijk algemeen plan zijn opgenomen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000511.7": {
+      "court": "CASS",
+      "date": "2000-05-11",
+      "roleNumber": "C970158NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La demande tendant à la remise en état des lieux introduite par la Région flamande est recevable pour autant qu'elle ne vise pas à sauvegarder l'intérêt public de la communauté mais tend à obtenir la réparation du dommage causé aux intérêts privés de cette Région (1)."
+      ],
+      "abstractNL": [
+        "De vordering van het Vlaams Gewest tot herstel van de plaats in de vorige staat is ontvankelijk als ze niet strekt tot vrijwaring van het algemeen belang van de gemeenschap maar tot herstel van de schade aan de private belangen van dat Gewest (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000511.9": {
+      "court": "CASS",
+      "date": "2000-05-11",
+      "roleNumber": "C970276N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par reconstruire, le fait de construire à nouveau un bbtiment d'un volume équivalant à celui du bbtiment qui a été démoli entièrement ou en grande partie."
+      ],
+      "abstractNL": [
+        "Met herbouwen wordt bedoeld het opnieuw bouwen van een gebouw met een gelijkaardig volume als dat van het gebouw dat volledig of voor het grootste gedeelte is afgebroken."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000317.6": {
+      "court": "CASS",
+      "date": "2000-03-17",
+      "roleNumber": "C980406N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les demandes tendant à obtenir des dommages-intérêts du chef d'un dommage résultant d'un plan se prescrivent un an après le jour où le droit d'indemnisation naît conformément à l'article 37, alinéa 3, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme; lorsqu'aucun acte faisant apparaître la diminution de valeur n'est accompli, le droit à l'indemnité s'éteint dix années après l'entrée en vigueur du plan."
+      ],
+      "abstractNL": [
+        "De vorderingen tot betaling van planschadevergoeding vervallen één jaar na de dag waarop het recht op schadevergoeding ontstaat overeenkomstig art. 37, 3de lid, Wet Ruimtelijke Ordening en Stedenbouw; wanneer geen daad wordt gesteld die de minderwaarde tot uiting brengt vervalt het recht op vergoeding tien jaar na de inwerkingtreding van het plan."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991019.9": {
+      "court": "CASS",
+      "date": "1999-10-19",
+      "roleNumber": "P980257N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En condamnant du chef de travaux exécutés illégalement, le juge pénal ordonne légalement la remise en état des lieux, même si le condamné n'est pas propriétaire de l'immeuble qui est en relation avec l'infraction."
+      ],
+      "abstractNL": [
+        "Bij veroordeling wegens wederrechtelijk uitgevoerde werken beveelt de strafrechter wettig het herstel van de plaats in de vorige staat, ook al is de veroordeelde niet de eigenaar van het onroerend goed waarop het misdrijf betrekking heeft."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990928.7": {
+      "court": "CASS",
+      "date": "1999-09-28",
+      "roleNumber": "P970304N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/28/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'annulation d'un permis de bâtir par un arrêt du Conseil d'Etat replace le demandeur dans la situation dans laquelle il se trouvait après l'introduction de sa demande, mais avant son examen par l'autorité."
+      ],
+      "abstractNL": [
+        "De vernietiging van een bouwvergunning bij arrest van de Raad van State plaatst de aanvrager terug in de toestand waarin hij zich bevond na de indiening van zijn aanvraag, maar vóór de behandeling ervan door de overheid."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990622.4": {
+      "court": "CASS",
+      "date": "1999-06-22",
+      "roleNumber": "P970664N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ni les régions ni les communes n'ont qualité pour demander, devant le juge répressif, en qualité de partie civile, les mesures de remise en état des lieux prévues par l'article 65, § 1er, alinéa 1er, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme."
+      ],
+      "abstractNL": [
+        "De gewesten noch de gemeenten hebben hoedanigheid om als burgerlijke partij voor de strafrechter de in art. 65, § 1, eerste lid, Wet Ruimtelijke Ordening en Stedenbouw vermelde herstelmaatregelen te vorderen."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990618.18": {
+      "court": "CASS",
+      "date": "1999-06-18",
+      "roleNumber": "C970457N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut ordonner la levée de l'ordre de cessation des travaux lorsque la décision ministérielle annulant le permis de bâtir octroyé par la députation permanente n'est pas notifiée au demandeur en temps utile, conformément à l'article 55, § 2, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme; à cette occasion, il ne contrôle pas la légalité de la décision de la députation permanente mais constate uniquement que l'arrêté ministériel fondant l'ordre de cessation est sans effet."
+      ],
+      "abstractNL": [
+        "De rechter kan de opheffing van het bevel tot staking van het werk bevelen in het geval dat de ministeriële beslissing die de door de bestendige deputatie verleende bouwvergunning vernietigt, niet tijdig aan de aanvrager ter kennis is gegeven overeenkomstig art. 55, § 2, wet Ruimtelijke Ordening en Stedenbouw; daarbij toetst hij de wettigheid van het besluit van de bestendige deputatie niet maar stelt hij enkel vast dat het ministerieel besluit dat aan het bevel tot staking ten grondslag ligt, geen uitwerking heeft."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990416.7": {
+      "court": "CASS",
+      "date": "1999-04-16",
+      "roleNumber": "C970134N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La diminution de valeur résultant de l'exécution d'un plan d'aménagement donne droit à une indemnisation; ce droit naît soit au moment de la mutation du bien, soit lors du refus d'un permis de bâtir ou de lotir ou bien soit lors de la délivrance d'un certificat d'urbanisme négatif. Lorsque des héritiers ont certains biens indivis faisant l'objet d'un plan d'aménagement, la diminution de valeur naît au moment où le plan d'aménagement produit ses effets, mais le droit à l'indemnité ne naît qu'au moment où un acte est accompli faisant apparaître la diminution de valeur. Le fait qu'un co-propriétaire d'un bien immeuble retrouve ce bien dans son lot ensuite de la liquidation et du partage de la succession, ne constitue pas une mutation du bien."
+      ],
+      "abstractNL": [
+        "De minderwaarde ontstaan door de uitwerking van een plan van aanleg geeft recht op schadevergoeding; dat recht ontstaat ofwel bij overdracht van het goed, ofwel bij de weigering van een bouw- of verkavelingsvergunning of nog bij het afleveren van een negatief stedebouwkundig attest. Wanneer erfgenamen in onverdeeldheid bepaalde goederen hebben die het voorwerp zijn van een plan van aanleg, ontstaat de minderwaarde op het ogenblik dat het plan van aanleg uitwerking heeft, maar het recht op schadevergoeding ontstaat slechts vanaf het ogenblik dat een daad wordt gesteld die de minderwaarde tot uiting brengt. Wanneer een mede-eigenaar van een onroerend goed door de vereffening en verdeling van de nalatenschap die goed in zijn kavel krijgt, maakt dit geen overdracht van het goed uit."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990209.8": {
+      "court": "CASS",
+      "date": "1999-02-09",
+      "roleNumber": "P971539N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge pénal fixe souverainement le montant de la plus-value acquise par le bien à la suite de l'infraction à la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, sans être à cet égard lié par la somme demandée au titre de cette plus-value par le fonctionnaire délégué ou par le collège des bourgmestre et échevins."
+      ],
+      "abstractNL": [
+        "De strafrechter stelt souverein het bedrag vast van de te betalen meerwaarde, die het goed door een misdrijf tegen de stedenbouwwet heeft verkregen, zonder daarin gebonden te zijn door het door de gemachtigde ambtenaar of door het college van burgemeester en schepenen gevorderde bedrag van deze meerwaarde."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980616.11": {
+      "court": "CASS",
+      "date": "1998-06-16",
+      "roleNumber": "P971459N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/16/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il ressort des pièces auxquelles la Cour peut avoir égard que la citation du procureur du Roi transcrite au bureau de conservation des hypothèques contient aussi, outre la désignation cadastrale de l'immeuble, objet de l'infraction à la législation en matière d'urbanisme, et l'identité des propriétaires de celui-ci, la mention de tous les faits mis à charge des prévenus, la publicité visée, faite au profit de tiers, de toutes les poursuites répressives pendantes relatives à l'immeuble visée par la citation est observée."
+      ],
+      "abstractNL": [
+        "Wanneer uit de stukken waarop het Hof vermag acht te slaan blijkt dat de in het hypotheekkantoor overgeschreven dagvaarding van de procureur des Konings, naast de kadastrale omschrijving van het onroerend goed, voorwerp van het bouwmisdrijf, en de identiteit van de eigenaars ervan, tevens de vermelding bevat van alle feiten, ten laste gelegd aan alle beklaagden, is de beoogde openbaarmaking ten behoeve van derden van alle hangende strafvervolgingen met betrekking tot het in dagvaarding bepaalde onroerende goed geschied."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980609.5": {
+      "court": "CASS",
+      "date": "1998-06-09",
+      "roleNumber": "P960655N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La décision des juges d'appel que l'astreinte est due par jour de retard à défaut d'exécution volontaire de la remise en état des lieux dans le délai de huit mois à compter du prononcé n'implique pas que l'astreinte est encourue avant la signification du jugement qui l'a prononcée."
+      ],
+      "abstractNL": [
+        "De beslissing van de appelrechters dat de dwangsom verschuldigd is per dag vertraging bij de niet-vrijwillige uitvoering van het herstel der plaatsen in de vorige staat binnen de termijn van 8 maanden te rekenen vanaf de uitspraak, houdt niet in dat de dwangsom wordt verbeurd vóór de betekening van de uitspraak waarbij zij is vastgesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970911.9": {
+      "court": "CASS",
+      "date": "1997-09-11",
+      "roleNumber": "C940183N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/09/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si, depuis la modification de l'article 37 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme par les articles 177 et 178 de la loi du 22 décembre 1977, une demande d'indemnisation fondée sur l'article précité ne saurait être admise aussi longtemps que l'intéressé ne s'est pas vu refuser un permis de bâtir ou de lotir ou n'a pas obtenu un certificat d'urbanisme négatif, il ne suit pas de cette disposition que des demandes antérieures régulièrement introduites deviennent irrecevables en raison de la modification des conditions d'allocation de l'indemnité."
+      ],
+      "abstractNL": [
+        "Zo een op art. 37 Wet Ruimtelijke Ordening en Stedebouw sinds de wijziging bij artt. 177 en 178 Wet 22 dec. 1977 gegronde vordering tot schadevergoeding niet kan worden toegelaten, zolang de afgifte van een bouw- of verkavelingsvergunning niet is geweigerd aan de belanghebbende of deze geen negatief stedebouwkundig attest heeft verkregen, volgt uit die regeling niet dat vroeger regelmatig ingeleide vorderingen niet ontvankelijk worden doordat de voorwaarden voor het verkrijgen van schadevergoeding werden gewijzigd."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970911.10": {
+      "court": "CASS",
+      "date": "1997-09-11",
+      "roleNumber": "C940182N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/09/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Une demande d'indemnisation fondée sur l'article 37 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, tel qu'il a été modifié par les articles 177 et 178 de la loi du 22 décembre 1977, ne saurait être admise aussi longtemps que l'intéressé ne s'est pas vu refuser un permis de bâtir ou de lotir ou n'a pas obtenu un certificat d'urbanisme négatif."
+      ],
+      "abstractNL": [
+        "Een op art. 37 Wet Ruimtelijke Ordening en Stedebouw, zoals gewijzigd bij artt. 177 en 178 Wet 22 dec. 1977, gegronde vordering tot schadevergoeding kan niet worden toegelaten, zolang de afgifte van een bouw- of verkavelingsvergunning niet is geweigerd aan de belanghebbende of deze geen negatief stedebouwkundig attest heeft verkregen."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961008.5": {
+      "court": "CASS",
+      "date": "1996-10-08",
+      "roleNumber": "P950773N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 44, alinéa 1er, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, qui impose un permis préalable écrit et exprès du collège des bourgmestre et échevins pour toute construction ou installation incorporée au sol, ancrée à celui-ci ou dont l'appui au sol assure la stabilité, s'applique également aux panneaux publicitaires reliés au sol par un mur et par le toit du bâtiment sur lequel ils sont fixés."
+      ],
+      "abstractNL": [
+        "Art. 44, alinéa 1, Wet Ruimtelijke Ordening en Stedebouw, dat een voorafgaande schriftelijke en uitdrukkelijke vergunning van het college van burgemeester en schepenen vereist voor elke constructie of inrichting, die in de grond is ingebouwd, aan de grond is bevestigd of op de grond steun vindt ten behoeve van de stabiliteit, is ook van toepassing op de reclameborden die met de grond verbonden zijn door een muur en het dak van het gebouw waarop zij zijn aangebracht."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960910.8": {
+      "court": "CASS",
+      "date": "1996-09-10",
+      "roleNumber": "P950429N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/09/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La notification de la décision de confirmation au maître de l'ouvrage n'étant pas prescrite à peine de nullité de la décision de confirmation ou de déchéance de l'ordre d'interruption, est légalement justifiée, la condamnation du propriétaire maître de l'ouvrage du chef d'avoir continué les travaux contrairement à un ordre d'interruption régulièrement porté à sa connaissance et confirmé par le bourgmestre en temps utile, même si la décision de confirmation n'a pas été notifiée."
+      ],
+      "abstractNL": [
+        "Nu de kennisgeving van de bekrachtigingsbeslissing aan de opdrachtgever van het werk niet is voorgeschreven op straffe van nietigheid van de bekrachtigingsbeslissing of van het verval van het bevel tot staking, is naar recht verantwoord de veroordeling van de eigenaar-opdrachtgever wegens het voortzetten van het werk in strijd met een bevel tot staking waarvan hij regelmatig kennis kreeg en dat tijdig is bekrachtigd door de burgemeester, ook indien de bekrachtigingsbeslissing hem niet ter kennis is gebracht."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960619.6": {
+      "court": "CASS",
+      "date": "1996-06-19",
+      "roleNumber": "P941395F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le fonctionnaire délégué qui, en vertu de l'article 65, alinéa 1er, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, demande à la juridiction répressive la remise en état des lieux, doit être considéré comme une partie à la demande de laquelle l'autre partie peut être condamnée au paiement d'une astreinte, au sens de l'article 1385bis du Code judiciaire, encore que dans le litige il n'agisse pas en qualité de partie civile."
+      ],
+      "abstractNL": [
+        "De gemachtigde ambtenaar die, krachtens art. 65, § 1, Wet Ruimtelijke Ordening en Stedebouw, voor de strafrechter het herstel van de plaats in de vorige staat vordert, moet worden aangemerkt als een der partijen op wier vordering de wederpartij tot betaling van een dwangsom kan worden veroordeeld, in de zin van art. 1385bis, Ger.W., ook al treedt hij in dit geding niet op in de hoedanigheid van burgerlijke partij."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960213.8": {
+      "court": "CASS",
+      "date": "1996-02-13",
+      "roleNumber": "P950208N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/02/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision, rendue sur la demande conjointe du fonctionnaire délégué et du collège des bourgmestre et échevins, condamnant le prévenu au paiement d'une somme, qui n'ordonne pas que le condamné pourra s'exécuter valablement en remettant les lieux en état dans le délai d'un an."
+      ],
+      "abstractNL": [
+        "Onwettig is de op de gezamenlijke vordering van de gemachtigde ambtenaar en van het college van burgemeester en schepenen uitgesproken veroordeling tot het betalen van een geldsom, wanneer die beslissing niet beveelt dat de veroordeelde zich op geldige wijze zal kunnen kwijten door de plaats binnen een jaar in de vorige staat te herstellen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951219.2": {
+      "court": "CASS",
+      "date": "1995-12-19",
+      "roleNumber": "P940703N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Même à défaut d'une action du ministère public ayant pour objet la remise en état des lieux à la requête des autorités, le juge pénal peut ordonner cette remise en état ensuite de l'action d'une partie civile constituée en temps utile et ayant subi un dommage résultant d'une infraction en matière d'urbanisme déclarée établie; la prescription de l'action publique n'y fait pas obstacle."
+      ],
+      "abstractNL": [
+        "De strafrechter kan, ook bij ontstentenis van daartoe strekkende vordering van het openbaar ministerie op verzoek van de overheid, het herstel van de plaats in de vorige staat bevelen op vordering van een tijdig gestelde burgerlijke partij die door een bewezen verklaard stedebouwmisdrijf schade lijdt; de verjaring van de strafvordering staat daaraan niet in de weg."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951214.8": {
+      "court": "CASS",
+      "date": "1995-12-14",
+      "roleNumber": "C930247N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un certificat d'urbanisme délivré par une commune qui mentionne, en contradiction avec la destination indiquée par le plan d'aménagement, qu'une parcelle est un terrain à bâtir, ne confère pas à son propriétaire le droit à un permis de bâtir; qu'en refusant, dans ces circonstances, de délivrer un permis de bâtir, l'autorité n'agit pas illicitement."
+      ],
+      "abstractNL": [
+        "Een door de gemeente afgegeven stedebouwkundig attest dat, in strijd met de bestemming gegeven door het plan van aanleg, vermeldt dat een perceel bouwgrond is, verleent aan de eigenaar niet het recht op een bouwvergunning; door in die omstandigheden een bouwvergunning te weigeren, handelt de overheid niet onrechtmatig."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951018.3": {
+      "court": "CASS",
+      "date": "1995-10-18",
+      "roleNumber": "P950414F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le pouvoir judiciaire est compétent pour contrôler la légalité de la demande du collège des bourgmestre et échevins tendant à la remise en état des lieux en cas d'infraction en matière d'urbanisme, et pour examiner si elle est entachée d'excès ou de détournement de pouvoir, mais il n'appartient pas au juge d'apprécier l'opportunité de pareille demande."
+      ],
+      "abstractNL": [
+        "Het behoort tot de bevoegdheid van de rechterlijke macht om, bij misdrijven inzake stedebouw, de vordering van het college van burgemeester en schepenen tot herstel van de plaats in de vorige staat op haar wettigheid te toetsen en te onderzoeken of ze op machtsoverschrijding of machtsafwending berust, maar het staat niet aan de rechter de opportuniteit van die vordering te beoordelen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950516.7": {
+      "court": "CASS",
+      "date": "1995-05-16",
+      "roleNumber": "P940822N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'autorité administrative n'est pas tenue de réitérer sa demande tendant à la remise en état des lieux en cas d'opposition ou d'appel."
+      ],
+      "abstractNL": [
+        "De bestuurlijke overheid is er niet toe gehouden, in geval van verzet of van hoger beroep, haar vordering tot herstel van de plaats te herhalen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950407.10": {
+      "court": "CASS",
+      "date": "1995-04-07",
+      "roleNumber": "C928326N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/04/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le plan de lotissement est une partie du permis de lotir; si, lors de l'octroi du permis de lotir, aucun plan n'a été approuvé relativement au lot pour lequel un permis a été obtenu, celui-ci ne peut avoir aucun effet utile et ne peut conférer à ce lot la nature de terrain à bâtir."
+      ],
+      "abstractNL": [
+        "Het verkavelingsplan is een onderdeel van het verkavelingsbesluit; als bij de totstandkoming van het verkavelingsbesluit geen enkel plan is goedgekeurd dat betrekking heeft op de kavel waarvoor een verkavelingsvergunning werd verkregen kan die vergunning geen nuttig effect sorteren en aan die kavel niet de aard van bouwgrond verlenen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940412.6": {
+      "court": "CASS",
+      "date": "1994-04-12",
+      "roleNumber": "P930325N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Rien ne s'oppose à ce que l'ordre de remise en état des lieux soit rendu, non pas dans une seule et même décision conjointement à la décision sur l'action publique, mais dans une décision distincte, postérieure à la décision sur l'action publique. (L. du 29 mars 1962, art. 65, alinéa 1er, a.)."
+      ],
+      "abstractNL": [
+        "Niets belet dat het bevel tot herstel in de vorige staat niet bij éénzelfde uitspraak samen met de strafrechtelijke beslissing op de strafvordering wordt gegeven, maar bij een afzonderlijke beslissing na de uitspraak over de strafvordering (Stedebouwwet, art. 65, alinéa 1, a)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940118.17": {
+      "court": "CASS",
+      "date": "1994-01-18",
+      "roleNumber": "7204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 65, alinéa 1er, dernier alinéa, de la loi du 29 mars 1962 en vertu de laquelle les droits de la partie civile sont limités pour la réparation directe à celle choisie par l'autorité compétente, ne fait pas obstacle à ce que la partie civile, dont la demande de remise en état des lieux, introduite dans les limites de la demande de l'autorité, est accueillie, obtienne le payement d'une astreinte."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 65, alinéa 1, laatste lid, Stedebouwwet dat de rechten van de burgerlijke partij in geval van rechtstreeks herstel beperkt zijn tot de door de bevoegde overheid gekozen wijze van herstel, belet niet dat aan een burgerlijke partij, wier binnen de grenzen van de vordering van de overheid gedane herstelvordering wordt ingewilligd, een dwangsom wordt toegekend."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940112.11": {
+      "court": "CASS",
+      "date": "1994-01-12",
+      "roleNumber": "P931017F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 44, par. 1er, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, qui impose un permis préalable du collège des bourgmestre et échevins pour toute construction ou installation incorporée au sol, ancrée à celui-ci ou dont l'appui au sol assure la stabilité, s'applique aux panneaux publicitaires reliés au sol par un mur sur lequel ils sont fixés."
+      ],
+      "abstractNL": [
+        "Art. 44, par. 1, Wet ruimtelijke ordening en stedebouw dat een voorafgaande vergunning van het college van burgemeester en schepenen vereist voor iedere constructie of inrichting die in de grond is ingebouwd, aan de grond is bevestigd of op de grond steun vindt ten behoeve van de stabiliteit, is van toepassing of de reclameborden die met de grond verbonden zijn door de muur waarop zij zijn aangebracht."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930427.13": {
+      "court": "CASS",
+      "date": "1993-04-27",
+      "roleNumber": "5310",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/04/27/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la demande de remise en état des lieux est introduite en temps utile devant le juge pénal, la prescription de cette action ne court plus jusqu'à ce qu'une décision passée en force de chose jugée mette fin à l'instance. (L. 29 mars 1962, art. 65, alinéa 2)"
+      ],
+      "abstractNL": [
+        "Wanneer de vordering tot herstel van de plaats in de vorige staat te bekwamer tijd voor de strafrechter is ingesteld, loopt de verjaring ervan niet meer totdat een in kracht van gewijsde gegane beslissing het geding beëindigd heeft, (Art. 65, alinéa 2, Stedebouwwet)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921209.10": {
+      "court": "CASS",
+      "date": "1992-12-09",
+      "roleNumber": "186",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 65 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme laisse au fonctionnaire délégué ou au collège des bourgmestre et échevins le soin d'apprécier si la remise en état des lieux doit être demandée devant la juridiction pénale; aucune disposition légale ne subordonne cette demande à des formalités particulières; il suffit que cette volonté ait été clairement manifestée par l'une ou par l'autre des autorités administratives légalement habilitées."
+      ],
+      "abstractNL": [
+        "Ingevolge art. 65 Wet Ruimtelijke Ordening en Stedebouw oordeelt de gemachtigde ambtenaar of het college van burgemeester en schepenen of herstel van de plaats in de vorige staat voor de strafrechter moet worden gevorderd; geen enkele wetsbepaling onderwerpt die vordering aan bijzondere vormen; het is voldoende dat een van de beide wettelijk bevoegde administratieve overheden haar wil duidelijk te kennen heeft gegeven."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920423.8": {
+      "court": "CASS",
+      "date": "1992-04-23",
+      "roleNumber": "9232",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Un plan particulier d'aménagement abrogeant une servitude d'utilité publique ne peut mettre obstacle à une servitude conventionnelle coexistant avec celle-ci que si la servitude conventionnelle est incompatible avec les dispositions du plan. ( Loi du 29 mars 1962, art. 16. )"
+      ],
+      "abstractNL": [
+        "Een bijzonder plan van aanleg dat een erfdienstbaarheid van algemeen nut opheft, kan aan de uitoefening van een daarmee samenbestaande erfdienstbaarheid uit overeenkomst alleen in de weg staan als de erfdienstbaarheid uit overeenkomst niet te verenigen is met de bepalingen van het plan. ( Art. 16 Wet Ruimtelijke Ordening en Stedebouw van 29 maart 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911127.14": {
+      "court": "CASS",
+      "date": "1991-11-27",
+      "roleNumber": "9280",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui prononce une condamnation du chef d'infraction à l'article 64 de la loi du 29 mars 1962, ne peut ordonner la remise des lieux en état que s'il constate sans ambiguïté que cette mesure est encore nécessaire pour faire disparaître les suites de l'infraction, compte tenu des modifications survenues entretemps dans les autorisations administratives. ( Loi 29 mars 1962, art. 65. )"
+      ],
+      "abstractNL": [
+        "Wanneer een rechter een veroordeling uitspreekt wegens overtreding van art. 64 van de Wet Ruimtelijke Ordening en Stedebouw, kan hij het herstel van de plaats in de vorige staat enkel bevelen als hij ondubbelzinnig vaststelt dat die maatregel nog noodzakelijk is om de gevolgen van het misdrijf te doen verdwijnen, mede gelet op de wijzigingen die ondertussen zijn aangebracht in de door het bestuur verleende vergunningen. ( Art. 65 Wet Ruimtelijke Ordening en Stedebouw. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910521.15": {
+      "court": "CASS",
+      "date": "1991-05-21",
+      "roleNumber": "4485",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/05/21/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 44 de la loi organique de l'aménagement du territoire et de l'urbanisme l'arrêt qui constate qu'a été délivré au prévenu un permis susceptible de lui faire croire qu'il pouvait effectivement déboiser, sans relever que ce permis l'obligeait à reboiser et qui, de la circonstance qu'il était depuis une certaine date, au courant de la situation illégale, déduit que le prévenu est coupable d'avoir maintenu illégalement un état de déboisement."
+      ],
+      "abstractNL": [
+        "Schendt artikel 44 Wet Ruimtelijke Ordening en Stedebouw van 29 maart 1962 het arrest dat vaststelt dat aan de beklaagde een vergunning werd afgeleverd op grond waarvan hij in de mening kon verkeren dat hij inderdaad tot ontbossing mocht overgaan, zonder te releveren dat aan die vergunning de verplichting tot wederbebossen was gekoppeld, en dat uit de omstandigheid dat hij op de hoogte was van de onwettige toestand vanaf een zekere datum, afleidt dat de beklaagde schuldig is aan het onwettig in stand houden van een toestand van ontbossing."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910419.13": {
+      "court": "CASS",
+      "date": "1991-04-19",
+      "roleNumber": "7159",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/19/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Un permis tacite de bâtir ou de lotir n'autorise le demandeur à exécuter les travaux prévus dans sa demande que s'il se conforme aux indications du dossier qu'il a déposé, aux lois et aux règlements, notamment aux prescriptions des plans d'aménagement approuvés, ainsi que, le cas échéant, aux dispositions du permis de lotir; les susdits plans d'aménagement sont ceux qui ont valeur réglementaire à l'époque de l'exécution des travaux. ( Loi du 29 mars 1962, art. 55, alinéa 2, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "De stilzwijgende bouwvergunning of verkavelingsvergunning staat de aanvrager alleen toe de in de aanvraag voorgenomen werken uit te voeren, mits hij zich gedraagt naar de in zijn ingediend dossier vermelde aanwijzingen en naar de wetten en verordeningen, met name naar de voorschriften van de goedgekeurde plannen van aanleg, alsmede, in voorkomend geval, naar de bepalingen van de verkavelingsvergunning; de bedoelde plannen van aanleg zijn die welke op het tijdstip van de uitvoering van de werken verordende kracht hebben. ( Art. 55, alinéa 2, vierde lid, Wet Ruimtelijke Ordening en Stedebouw van 29 maart 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901130.5": {
+      "court": "CASS",
+      "date": "1990-11-30",
+      "roleNumber": "7028",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/11/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne viole pas l'article 37 de la loi organique de l'aménagement du territoire et de l'urbanisme le juge qui rejette une demande d'indemnité, fondée sur une interdiction de bâtir ou de lotir mettant fin à l'usage auquel le bien était affecté ou normalement destiné, lorsqu'il a égard à la destination normale des terrains appréciée suivant la situation de fait, compte tenu de la politique d'urbanisme menée précédemment par l'autorité."
+      ],
+      "abstractNL": [
+        "Art. 37 Wet Stedebouw en Ruimtelijke Ordening van 29 maart 1962, wordt niet geschonden door de rechter die afwijzend beschikt op een vordering tot vergoeding, die gegrond is op een bouwverbod of verkavelingsverbod waardoor een einde wordt gemaakt aan het gebruik waarvoor het goed diende of normaal bestemd was, wanneer hij rekening houdt me de normale bestemming van de gronden, gelet op de feitelijke situatie en het voorheen door de overheid gevoerde beleid."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901114.6": {
+      "court": "CASS",
+      "date": "1990-11-14",
+      "roleNumber": "8421",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/11/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'acte punissable de maintien de travaux non conformes aux prescriptions légales en matière d'urbanisme consiste dans l'abstention coupable de mettre fin à l'existence des travaux exécutés illégalement, fût-ce par un tiers. ( Loi du 29 mars 1962, art. 64; Code wallon de l'aménagement du territoire et de l'urbanisme, art. 66. )"
+      ],
+      "abstractNL": [
+        "De strafbare instandhouding van werken, die in strijd met de wettelijke bepalingen inzake stedebouw zijn uitgevoerd, bestaat in het schuldig verzuim een einde te maken aan werken die wederrechtelijk zijn gevoerd, zelfs door een derde. ( Art. 64 Wet Ruimtelijke Ordening en Stedebouw van 29 maart 1962; art. 66 Waals Wetboek Ruimtelijke Ordening en Stedebouw van 14 mei 1984. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900925.7": {
+      "court": "CASS",
+      "date": "1990-09-25",
+      "roleNumber": "4073",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge pénal qui, par application de l'article 65, alinéa 1er, de la loi organique de l'aménagement du territoire et de l'urbanisme, ordonne, à la demande du fonctionnaire délégué, la remise en état des lieux, n'est pas tenu, en déterminant les modalités de celle-ci, par le choix du fonctionnaire délégué; il peut s'en écarter, notamment lorsque, d'après les constatations du juge, les modalités proposées par le fonctionnaire, ne correspondent pas au pristin état."
+      ],
+      "abstractNL": [
+        "De strafrechter die met toepassing van art. 65, alinéa 1, Wet Ruimtelijke Ordening en Stedebouw, op vordering van de gemachtigde ambtenaar beveelt de plaats in de vorige staat te herstellen, is bij de bepaling van de modaliteiten van dat herstel niet gebonden door de desbetreffende keuze van de gemachtigde ambtenaar; hij kan daarvan afwijken met name wanneer de door de ambtenaar voorgestelde modaliteiten, blijkens de vaststellingen van de rechter, niet beantwoorden aan de vorige toestand."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900605.8": {
+      "court": "CASS",
+      "date": "1990-06-05",
+      "roleNumber": "3728",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Constitue une \"installation fixe\" dont le placement requiert un permis de bâtir, le véhicule de marché qui, en raison de sa nature et de son utilisation, est destiné à rester sur place et, même s'il peut être déplacé, trouve par le blocage de ses roues, un appui sur le sol pour en assurer la stabilité. ( Loi du 29 mars 1962 organique de l'aménagement du territoire, art. 44, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Een \"vaste inrichting\" waarvan het plaatsen een bouwvergunning vereist, vormt de marktwagen die wegens de aard en het gebruik ervan bestemd is om ter plaatse te blijven staan en die, ook al kan hij verplaatst worden, door middel van de geblokkeerde wielen op de grond steun vindt ten behoeve van de stabiliteit. ( Art. 44, alinéa 1 Wet Ruimtelijke Ordening en Stedebouw. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900309.9": {
+      "court": "CASS",
+      "date": "1990-03-09",
+      "roleNumber": "6429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une personne de droit public, désignée par le Roi, sollicite un permis relatif à l'exécution de travaux d'intérêt général, le ministre ou, en cas d'avis favorable du collège des bourgmestre et échevins, son délégué peuvent accorder des dérogations au plan de secteur, pour autant que ces travaux soient compatibles avec la destination générale et le caractère architectural de la zone considérée. ( Loi organique de l'aménagement du territoire et de l'urbanisme du 29 mars 1962, art. 48 et arrêté royal du 28 décembre 1972 relatif à la présentation et à la mise en oeuvre des projets de plan et des plans de secteur, pris en exécution de cette loi, art. 20. )"
+      ],
+      "abstractNL": [
+        "Wanneer een door de Koning aangewezen publiekrechtelijke rechtspersoon een vergunning aanvraagt voor het uitvoeren van werken van algemeen belang, kan de minister of, in geval van gunstig advies van het college van burgemeester en schepenen, diens gemachtigde, met betrekking tot het gewestplan afwijkingen toestaan, voor zover die werken verenigbaar zijn met de algemene bestemming en met het architectonisch karakter van het betreffende gebied. ( Artt. 48, derde lid, Wet Ruimtelijke Ordening en Stedebouw en 20 van het ter uitvoering van die wet genomen K.B. van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900308.7": {
+      "court": "CASS",
+      "date": "1990-03-08",
+      "roleNumber": "8523",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La loi n'attribue aucun effet suspensif sur le délai de péremption d'un permis de lotir au recours formé par le demandeur, en vertu de l'article 55, alinéa 1, alinéa 2, de la loi du 29 mars 1962, contre une décision qui subordonne ce permis à certaines conditions."
+      ],
+      "abstractNL": [
+        "De wet bepaalt nergens dat de vervaltermijn van de verkavelingsvergunning wordt geschorst door het beroep dat eiser op grond van art. 55, alinéa 1, tweede lid, Wet Ruimtelijke Ordening en Stedebouw instelt tegen de beslissing waarbij voor die vergunning bepaalde voorwaarden worden gesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891207.12": {
+      "court": "CASS",
+      "date": "1989-12-07",
+      "roleNumber": "6667",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le droit de consultation des tiers intéressés, visé à l'article 2 de l'arrêté royal du 22 octobre 1971, portant exécution de l'article 63 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, ne concerne que le permis de bâtir, les plans afférents précisant l'objet du permis et les avis administratifs requis."
+      ],
+      "abstractNL": [
+        "Het inzagerecht van derden belanghebbenden bepaald in artikel 2 K.B. 22 oktober 1971 tot uitvoering van art. 63, alinéa 1.2 Wet Ruimtelijke Ordening en Stedebouw, heeft enkel betrekking op de bouwvergunning, de bijbehorende plans die het voorwerp van de vergunning omschrijven en de vereiste ambtelijke adviezen."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891115.5": {
+      "court": "CASS",
+      "date": "1989-11-15",
+      "roleNumber": "7597",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/15/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en matière d'urbanisme, le fonctionnaire-délégué a demandé à la juridiction répressive d'ordonner la remise en état des lieux, en application de l'article 67 du Code wallon de l'aménagement du territoire et de l'urbanisme, la décision du juge pénal faisant droit à cette demande ressortit à l'action publique, nonobstant le caractère civil de la mesure. ( Loi du 29 mars 1962, art. 44, alinéa 1er, 64 et 65; Code wallon de l'aménagement du territoire et de l'urbanisme, art. 41, alinéa 1er, 66 et 67. )"
+      ],
+      "abstractNL": [
+        "Wanneer de gemachtigde ambtenaar, inzake ruimtelijke ordening, het strafgerecht heeft gevorderd om het herstel van de plaats in de vorige staat te bevelen overeenkomstig art. 67 Waals Wetboek van Ruimtelijke Ordening en Stedebouw, valt de beslissing van de strafrechter waarbij die vordering wordt toegewezen onder de strafvordering, niettegenstaande het burgerlijk karakter van de maatregel. ( Artt. 44, alinéa 1, 64 en 65 Wet Ruimtelijke Ordening en Stedebouw; artt. 41, alinéa 1, 66 en 67 Waals Wetboek van Ruimtelijke Ordening en Stedebouw )."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891114.13": {
+      "court": "CASS",
+      "date": "1989-11-14",
+      "roleNumber": "2227",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne détermine les modalités d'introduction de la demande du fonctionnaire-délégué ou du collège des bourgmestre et échevins tendant à la remise en état des lieux, lorsque des travaux ont été exécutés sans permis de bâtir; il suffit que cette volonté ait été clairement manifestée par l'une ou l'autre des autorités administratives légalement habilitées. Si elle est valablement formulée, la demande conserve sa valeur pendant toute la procédure sans devoir être renouvelée en cas d'opposition ou d'appel."
+      ],
+      "abstractNL": [
+        "Geen enkele wettelijke bepaling schrijft voor op welke wijze de gemachtigde ambtenaar of het college van burgemeester en schepenen de vordering tot herstel van de plaats in de vorige staat moet instellen, wanneer het werk zonder bouwvergunning is uitgevoerd; het is voldoende dat een daartoe wettelijk bevoegde administratieve overheid haar wil duidelijk te kennen geeft; als ze regelmatig is uitgedrukt, blijft de vordering bestaan gedurende de hele rechtsgang, zonder te hoeven herhaald worden in geval van verzet of hoger beroep."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890426.8": {
+      "court": "CASS",
+      "date": "1989-04-26",
+      "roleNumber": "5930",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en matière d'urbanisme, le fonctionnaire délégué a demandé à la juridiction répressive d'ordonner la remise en état des lieux, en application de l'article 65 de la loi du 29 mars 1962 ou de l'article 67 du Code wallon de l'aménagement du territoire et de l'urbanisme, la décision du juge pénal faisant droit à cette demande ressortit à l'action publique, nonobstant le caractère civil de la mesure, dont la prononciation en pareil cas est prescrite par la loi à titre de complément obligé de la condamnation pénale. ( Loi du 29 mars 1962, art. 44, alinéa 1er, 64 et 65; Code wallon de l'aménagement du territoire et de l'urbanisme, art. 41, alinéa 1er, et 66 et 67. )"
+      ],
+      "abstractNL": [
+        "Wanneer de gemachtigde ambtenaar inzake ruimtelijke ordening, het strafgerecht heeft gevorderd om het herstel van de plaats in de vorige staat te bevelen overeenkomstig art. 65 Wet Ruimtelijke Ordening en Stedebouw of art. 67 Waals Wetboek van Ruimtelijke Ordening en Stedebouw, valt de beslissing van de strafrechter waarbij die vordering wordt toegewezen onder de strafvordering, niettegenstaande het burgerlijk karakter van de maatregel, waarvan de uitspraak in een dergelijk geval door de wet wordt voorgeschreven als verplichte aanvulling van de strafrechtelijke veroordeling. ( Artt. 44, alinéa 1, 64 en 65 Wet Ruimtelijke Ordening en Stedebouw; Artt. 41, alinéa 1, 66, 67 Waals Wetboek van Ruimtelijke Ordening en Stedebouw. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890421.9": {
+      "court": "CASS",
+      "date": "1989-04-21",
+      "roleNumber": "5891",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Il ressort du rapprochement des articles 44, alinéa 2, 60 et 62 de la loi organique de l'aménagement du territoire et de l'urbanisme que, outre les règlements généraux, tant les anciens règlements communaux non abrogés que les règlements nouvellement pris en vertu de l'article 60 la loi précitée constituent les règlements sur les bâtisses visés à l'article 44, alinéa 2 de ladite loi."
+      ],
+      "abstractNL": [
+        "Uit de context van de artt. 44, alinéa 2, 60 en 62 Wet Ruimtelijke Ordening en Stedebouw blijkt dat de in art. 44, alinéa 2, bedoelde bouwverordeningen, naast de algemene bouwverordeningen, zowel de bestaande, niet opgeheven gemeentelijke bouwverordeningen als de nieuwe, met toepassing van art. 60 van die wet vastgestelde gemeentelijke bouwverordeningen betreffen."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890421.8": {
+      "court": "CASS",
+      "date": "1989-04-21",
+      "roleNumber": "5889",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "N'est pas un règlement sur les bâtisses soumis à l'approbation du Roi, au sens des articles 59, 60 et 61 de la Loi organique de l'aménagement du territoire et de l'urbanisme, le règlement communal de police sur l'apposition d'affiches publicitaires, pris en vertu des décrets des 14 décembre 1789 et 16-24 août 1790, qui vise l'exercice d'une bonne police au profit des habitants, spécialement en matière de salubrité publique, de santé, de sécurité et de tranquillité, mais qui ne concerne pas l'exécution de travaux de construction."
+      ],
+      "abstractNL": [
+        "Geen aan de goedkeuring van de Koning onderworpen bouwverordening in de zin van artt. 59, 60 en 61 Wet Ruimtelijke Ordening en Stedebouw is het gemeentelijk politiereglement op de aanplakking van reclameaffiches, dat werd uitgevaardigd op grond van de decreten van 14 december 1789 en 16-24 augustus 1790 en tot doel heeft de inwoners de voordelen te laten genieten van een goede politie en inzonderheid van de openbare reinheid, gezondheid, veiligheid en rust, maar geen verband houdt met de uitvoering van bouwwerken."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881108.18": {
+      "court": "CASS",
+      "date": "1988-11-08",
+      "roleNumber": "1517",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/11/08/sitemap_21.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 44, alinéa 1er, 1, de la loi organique de l'aménagement du territoire et de l'urbanisme l'arrêt qui décide que, même si le relief du sol n'est pas sensiblement modifié, le permis prévu à l'article 44 de la loi organique de l'aménagement du territoire et de l'urbanisme est nécessaire pour l'aménagement d'un court de tennis clôturé au moyen d'un treillis de deux mètres de haut maintenu par des pieux fixés de manière durable dans le sol."
+      ],
+      "abstractNL": [
+        "Art. 44, alinéa 1, 1 Wet Ruimtelijke Ordening en Stedebouw wordt geschonden door het arrest dat beslist dat, hoewel het reliëf van de bodem niet aanmerkelijk gewijzigd wordt, een vergunning, als bepaald in dat art. 44, vereist is voor het aanleggen van een tennisveld dat omheind is met een twee meter hoge omrastering, recht gehouden door middel van palen die op blijvende wijze in de grond zijn vastgehecht."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881006.4": {
+      "court": "CASS",
+      "date": "1988-10-06",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Si, pour déterminer l'indemnité due du chef d'une expropriation pour cause d'utilité publique en vue de réaliser un plan d'aménagement régional, de secteur ou communal, il ne peut être tenu compte de la plus-value ou de la moins-value résultant des dispositions d'un tel plan, le juge est, en revanche, obligé de tenir compte, pour fixer l'indemnité, des plus-values ou moins-values qui sont la conséquence d'un tel plan, lorsque l'expropriation est étrangère à la réalisation de celui-ci. ( Loi du 29 mars 1962, art 31. )"
+      ],
+      "abstractNL": [
+        "Hoewel, bij het bepalen van de vergoeding die verschuldigd is wegens een onteigening ten algemenen nutte met het oog op de verwezenlijking van een streekplan, gewestplan of gemeentelijk plan van aanleg, geen rekening mag worden gehouden met de waardevermeerdering of waardevermindering die voortvloeit uit de voorschriften van een dergelijk plan, is de rechter niettemin bij het bepalen van een onteigeningsvergoeding verplicht rekening te houden met de waardevermeerdering of waardevermindering die uit een dergelijk plan voortvloeit, wanneer de onteigening met de verwezenlijking van dat plan niets uitstaande heeft. ( Art. 31, Wet Ruimtelijk Ordening en Stedebouw. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880226.10": {
+      "court": "CASS",
+      "date": "1988-02-26",
+      "roleNumber": "5220",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/26/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui, pour fixer l'indemnité d'expropriation, assimile à tort un arrêté par lequel le Roi, en vertu de l'article 43, alinéa 1er, de la loi du 29 mars 1962, décide qu'un plan d'aménagement doit être révisé, et un arrêté par lequel le Roi, en vertu des articles 23 et 43, alinéa 4, de cette même loi approuve un plan révisant un plan antérieur, viole les dispositions légales précitées."
+      ],
+      "abstractNL": [
+        "Een arrest dat bij de bepaling van een onteigeningsvergoeding een besluit waarbij de Koning krachtens art. 43, eerste lid, Wet Ruimtelijke Ordening en Stedebouw beslist dat een plan van aanleg wordt herzien, verkeerdelijk gelijkstelt met een besluit waarbij de Koning, krachtens de artt. 23 en 43, vierde lid, van dezelfde wet, een plan goedkeurt waardoor een vroeger plan wordt herzien, schendt voormelde wetsbepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870923.10": {
+      "court": "CASS",
+      "date": "1987-09-23",
+      "roleNumber": "5478",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/23/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne du chef d'infraction à l'article 64 de la loi du 29 mars 1962 ne peut ordonner la remise des lieux en état que s'il constate que cette mesure est encore nécessaire pour faire disparaître les suites de l'infraction, compte tenu des modifications intervenues entre-temps dans les autorisations administratives; lorsque, entre-temps, l'auteur de l'infraction a reçu un permis de bâtir de la députation permanente et qu'un recours suspensif a été formé contre cette décision, le juge ne peut, aussi longtemps que l'autorisation de bâtir subsiste, ordonner, fût-ce sous condition, la remise des lieux en état."
+      ],
+      "abstractNL": [
+        "Herstel van de plaats in de vorige staat, na een veroordeling wegens overtreding van art. 64 Wet Ruimtelijke Ordening en Stedebouw kan door de rechter enkel worden bevolen op voorwaarde dat hij vaststelt dat die maatregel nog noodzakelijk is om de gevolgen van het misdrijf te doen verdwijnen, mede gelet op de wijzigingen die ondertussen zijn aangebracht in de door het bestuur verleende vergunningen; indien de overtreder ondertussen van de bestendige deputatie een bouwvergunning heeft gekregen en tegen die beslissing een beroep met schorsende werking is ingesteld, kan de rechter, zolang de bouwvergunning blijft bestaan, niet, zelfs niet voorwaardelijk, bevelen dat de plaats in de vorige staat wordt hersteld."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870212.3": {
+      "court": "CASS",
+      "date": "1987-02-12",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'agglomération bruxelloise peut établir des taxes sur les dispositifs de publicité, mais non sur la publicité elle-même. ( Lois des 29 mars 1962, art. 59 et 60, 26 juillet 1971, art. 4, 7 juillet 1972, art. 1er. )"
+      ],
+      "abstractNL": [
+        "De Brusselse agglomeratie kan belasting heffen op de reclame-inrichtingen, maar niet op de reclame zelf. ( Artt. 59 en 60 wet 29 maart 1962, art. 4 wet 26 juli 1971, art. 1 wet 7 juli 1972. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860613.6": {
+      "court": "CASS",
+      "date": "1986-06-13",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un certificat d'urbanisme est négatif, au sens de l'article 37, alinéa 3, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, lorsqu'il mentionne, quant à la parcelle pour laquelle il a été demandé, une destination d'où il résulte une interdiction de bâtir ou de lotir et notamment lorsqu'il en résulte une interdiction de bâtir relative à des habitations privées."
+      ],
+      "abstractNL": [
+        "Een stedebouwkundig attest is negatief in de zin van art. 37, derde lid, Wet Ruimtelijke Ordening en Stedebouw, wanneer het voor het perceel waarvoor het attest wordt aangevraagd, een bestemming vermeldt waaruit een bouwverbod of verkavelingsverbod voortvloeit en met name wanneer er een verbod tot het bouwen van particuliere woningen uit volgt."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860527.6": {
+      "court": "CASS",
+      "date": "1986-05-27",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/27/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne du chef d'infraction à l'article 64 de la loi du 29 mars 1962 ne peut ordonner la remise des lieux en état que s'il constate que cette mesure est encore nécessaire pour faire disparaître les suites de l'infraction, compte tenu des modifications intervenues entretemps dans les autorisations administratives."
+      ],
+      "abstractNL": [
+        "Herstel van de plaats in de vorige staat na een veroordeling wegens overtreding van art. 64 Wet Ruimtelijke Ordening en Stedebouw kan door de rechter enkel worden bevolen op voorwaarde, dat hij vaststelt dat die maatregel nog noodzakelijk is om de gevolgen van het misdrijf te doen verdwijnen, rekening ermee houdende dat de vergunningen van de overheid ondertussen zijn gewijzigd."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860513.12": {
+      "court": "CASS",
+      "date": "1986-05-13",
+      "roleNumber": "18",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La juridiction répressive ordonne légalement la remise en état des lieux, bien que le condamné ne soit pas propriétaire de l'immeuble qui constitue l'objet de l'infraction. ( Loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, art. 44, 64 et 65 )."
+      ],
+      "abstractNL": [
+        "Het strafgerecht beveelt wettig het herstel van de plaats in de vorige staat, hoewel de veroordeelde niet de eigenaar is van het onroerend goed waarop het misdrijf betrekking heeft. ( Artt. 44, 64 en 65 Stedebouwwet )."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860417.14": {
+      "court": "CASS",
+      "date": "1986-04-17",
+      "roleNumber": "F708F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/04/17/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Ne viole pas les dispositions d'un règlement communal établissant une taxe sur les secondes résidences et réputant seconde résidence tout logement meublé tombant sous l'application de l'article 44, alinéa 1er, 1°, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, dont la personne pouvant l'occuper n'est pas, pour ce logement, inscrite aux registres de population, l'arrêté de la députation permanente d'un conseil provincial décidant que n'est pas redevable de cette taxe le fonctionnaire de la Communauté économique européenne qui a fixé son principal établissement dans la commune et qui, bénéficiant d'un permis spécial de séjour émis par le Ministère belge des Affaires étrangères, est dispensé de l'inscription aux registres des étrangers."
+      ],
+      "abstractNL": [
+        "De bepalingen van een gemeenteverordening houdende heffing van een belasting op de tweede verblijven en waarbij als tweede verblijf wordt aangemerkt elke gemeubelde woning die valt onder art. 44, alinéa 1, 1°, Wet Ruimtelijke Ordening en Stedebouw en waarvan de eventuele bewoner, voor die woning, niet in de bevolkingsregisters is ingeschreven, worden niet geschonden door het besluit van de bestendige deputatie van een provincieraad waarin wordt beslist dat die belasting niet is verschuldigd door de ambtenaar van de Europese Economische Gemeenschap die zijn hoofdverblijf in de gemeente heeft gevestigd en die, nu hij houder is van een bijzondere verblijfsvergunning die door het Belgisch ministerie van Buitenlandse Zaken is uitgegeven, niet verplicht is zich te laten inschrijven in de vreemdelingenregisters."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851022.11": {
+      "court": "CASS",
+      "date": "1985-10-22",
+      "roleNumber": "9210",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/22/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen qui invoque une violation des articles 677 et 678 du Code civil, alors que le demandeur n'indique pas en quoi cette violation pourrait avoir une influence sur la légalité du dispositif qui déclare l'action publique éteinte par application de l'article 65, paragraphe 3, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel ten betoge dat de artt. 677 en 678 B.W. zijn geschonden, als de eiser daarin niet nader bepaalt in welk opzicht die schending een invloed kon hebben op de wettigheid van het beschikkende gedeelte volgens hetwelk de strafvordering overeenkomstig art. 65, paragraphe 3, Wet Ruimtelijke Ordening en Stedebouw verjaard was."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851015.2": {
+      "court": "CASS",
+      "date": "1985-10-15",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui condamne le prévenu , du chef d'une infraction à la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, au payement d'une somme représentant la totalité ou une partie de la plus-value acquise par le bien ne peut allouer des intérêts de retard sur cette somme."
+      ],
+      "abstractNL": [
+        "Het arrest waarbij de beklaagde wegens overtreding van de Wet Ruimtelijke Ordening en Stedebouw wordt veroordeeld tot betaling van een bedrag dat geheel of een deel van de door het goed verkregen meerwaarde vertegenwoordigt, kan op dat bedrag geen moratoire interest toekennen."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851009.12": {
+      "court": "CASS",
+      "date": "1985-10-09",
+      "roleNumber": "4429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/09/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'impose des conditions quant aux modalités d'introduction de la demande du fonctionnaire délégué ou du collège des bourgmestre et échevins tendant à la remise des lieux en état, lorsque des travaux ont été exécutés sans permis de bâtir; il suffit que cette volonté ait été clairement manifestée par l'une ou l'autre des autorités administratives légalement habilitées."
+      ],
+      "abstractNL": [
+        "Geen enkele wettelijke bepaling schrijft voor op welke wijze de gemachtigde ambtenaar of het college van burgemeester en schepenen de vordering tot herstel van de plaats in de vorige staat moet instellen, wanneer het werk zonder bouwvergunning is uitgevoerd; het is voldoende dat één van de daartoe wettelijk bevoegde administratieve autoriteiten zijn wil duidelijk te kennen geeft."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851008.15": {
+      "court": "CASS",
+      "date": "1985-10-08",
+      "roleNumber": "8768",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne viole point l'article 44, paragraphe 1er, 1, de la loi organique de l'aménagement du territoire et de l'urbanisme l'arrêt qui décide que ne tombent pas sous les notions de construire ou d'utiliser un terrain pour le placement d'une ou plusieurs installations fixes le fait d'appliquer une couche durcie de tarmac noir sur les fondations de ce qui fut un hangar agricole et de placer une clôture en fil plastifié vert et un filet de tennis."
+      ],
+      "abstractNL": [
+        "Art. 44, par. 1, 1 Wet Ruimtelijke Ordening en Stedebouw wordt niet geschonden door het arrest waarin wordt beslist dat het aanbrengen van een zwarte verharding uit tarmac op de fundering van een vroegere landbouwloods, het plaatsen van een afsluiting in geplastificeerde groene draad en van een tennisnet niet kunnen ondergebracht worden onder de begrippen bouwen of een grond gebruiken voor het plaatsen van één of meer vaste inrichtingen."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850913.11": {
+      "court": "CASS",
+      "date": "1985-09-13",
+      "roleNumber": "4235",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/09/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme organisant une hiérarchie des plans d'aménagement, l'approbation d'un plan d'un niveau supérieur abroge de plein droit les prescriptions contraires d'un plan d'un niveau inférieur ( Loi organique de l'aménagement du territoire et de l'urbanisme, articles 2, paragraphe 1er, alinéas 3 et 4, 12, dernier alinéa, 15, dernier alinéa, 16, dernier alinéa, et 43 )."
+      ],
+      "abstractNL": [
+        "Nu de Wet ruimtelijke ordening en stedebouw een rangorde onder de diverse plannen van aanleg instelt, heft de goedkeuring van een plan van een hoger niveau van rechtswege de daarmee strijdige voorschriften van een lager plan op ( Artt. 2, par. 1, derde en vierde lid, 12, laatste lid, 15, laatste lid, 16, laatste lid, en 43 Wet Ruimtelijke Ordening en Stedebouw )."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841128.4": {
+      "court": "CASS",
+      "date": "1984-11-28",
+      "roleNumber": "3793",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/11/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne du chef d'infraction à l'article 64 de la loi du 29 mars 1962 ne peut ordonner la remise des lieux en état que s'il constate que cette mesure est encore justifiée ou nécessaire pour faire disparaître les suites de l'infraction. (Loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, art. 65.)"
+      ],
+      "abstractNL": [
+        "De rechter die een veroordeling uitspreekt op grond van overtreding van artikel 64 van de wet 29 maart 1962, mag slechts bevelen dat de plaats in de vorige staat zal worden hersteld, als hij vaststelt dat de maatregel nog nodig of verantwoord is om de gevolgen van de overtreding te doen verdwijnen. (Art. 65 Wet Ruimtelijke Ordening en Stedebouw.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840911.10": {
+      "court": "CASS",
+      "date": "1984-09-11",
+      "roleNumber": "8750",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/11/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un arrêt condamne le prévenu du chef de deux infractions distinctes définies par les articles 44 et 64 de la loi organique de l'aménagement du territoire et de l'urbanisme à une peine unique d'amende et que cette peine est légalement justifiée par une seule de ces infractions mais contient, d'autre part, une décision non légalement justifiée ordonnant la remise des lieux en état, la cassation et le renvoi sont limités à cette dernière décision."
+      ],
+      "abstractNL": [
+        "Wanneer een arrest de beklaagde wegens twee onderscheiden misdrijven, omschreven bij de artikelen 44 en 64 van de Wet Ruimtelijke Ordening en Stedebouw, tot een enkele geldboete veroordeelt en die straf al door één enkel dezer misdrijven wettelijk verantwoord is, maar daarnaast voor één van die misdrijven een niet naar recht verantwoord bevel tot herstel van de plaats in de vorige staat werd getroffen, blijven cassatie en verwijzing beperkt tot deze laatste beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840112.9": {
+      "court": "CASS",
+      "date": "1984-01-12",
+      "roleNumber": "6986",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer l'indemnité due du chef d'une expropriation pour cause d'utilité publique, il ne peut être tenu compte de la plus-value du bien exproprié qui résulte de l'expropriation elle-même ou de l'exécution des travaux pour lesquels l'expropriation est autorisée; ne méconnaît ni ne contredit cette règle le juge qui considère qu'il n'y a pas lieu de tenir compte de la moins-value résultant d'un projet de plan de secteur au motif que l'arrêté royal autorisant l'expropriation a, en ce qui concerne le bien exproprié, eu pour conséquence d'arrêter les effets du plan de secteur établi provisoirement, lequel ne sera jamais réalisé et ne sera pas confirmé dans les trois ans."
+      ],
+      "abstractNL": [
+        "Bij de vaststelling van de vergoeding voor een onteigening ten algemenen nutte mag geen rekening worden gehouden met de meerwaarde van het onteigende goed die voortvloeit uit de onteigening zelf of uit de uitvoering van werken waarvoor de onteigening is toegestaan; die regel wordt door de rechter niet miskend en evenmin betwist wanneer hij oordeelt dat geen rekening behoeft te worden gehouden met de minderwaarde ten gevolge van een ontwerp van gewestplan, op grond dat het koninklijk besluit waarbij de onteigening is toegestaan, de gevolgen heeft doen ophouden van het voorlopig vastgesteld gewestplan dat nooit zal worden verwezenlijkt en niet binnen drie jaar zal worden bevestigd."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830415.1": {
+      "court": "CASS",
+      "date": "1983-04-15",
+      "roleNumber": "6546",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/04/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition légale suivant laquelle le permis de bâtir est périmé si, dans l'année de sa délivrance, le bénéficiaire n'a pas commencé les travaux, est applicable aux personnes de droit public auxquelles un permis de bâtir a été délivré par le ministre qui a dans ses attributions l'aménagement du territoire et l'urbanisme ou par son délégué. ( Loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, art. 48 et 52, al. 1er. )"
+      ],
+      "abstractNL": [
+        "De wetsbepaling luidens welke de bouwvergunning is vervallen, indien de vergunninghouder binnen een jaar na de aflevering van de vergunning niet met de werken is begonnen, geldt ook voor de publiekrechtelijke rechtspersonen aan wie een bouwvergunning is afgegeven door de minister die stedebouw en ruimtelijke ordening onder zijn bevoegdheid heeft of zijn gemachtigde. ( Artt. 48, 52, eerste lid, Wet Ruimtelijke Ordening en Stedebouw. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801218.13": {
+      "court": "CASS",
+      "date": "1980-12-18",
+      "roleNumber": "6221",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/18/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision disant n'y avoir lieu de lever l'ordre d'interruption des travaux, donné verbalement par le fonctionnaire habilité à ce faire et régulièrement confirmé par le fonctionnaire délégué, le juge qui, après avoir relevé que le maître de l'ouvrage avait obtenu un permis de bâtir pour l'édification d'un immeuble suivant des plans dressés à une date et par un architecte déterminés, ne constate pas que les travaux litigieux n'ont pas été exécutés conformément audit permis de bâtir délivré pour l'édification de l'immeuble suivant les plans précités. ( Loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, modifiée par la loi du 22 décembre 1970, articles 66, al. 1er, et 68. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing van de rechter dat er geen aanleiding was tot intrekking van het bevel de werken te staken, dat de daartoe bevoegde ambtenaar mondeling had gegeven en dat de gemachtigde ambtenaar regelmatig had bevestigd als de rechter, nadat hij erop gewezen heeft dat de opdrachtgever een bouwvergunning had gekregen voor het bouwen van een onroerend goed volgens de op een bepaalde datum opgemaakte plans van een aangewezen architect, niet vaststelt dat de litigieuze werken niet overeenkomstig de bouwvergunning zijn uitgevoerd. (Artt. 66, eerste lid, en 68 Wet Ruimtelijke Ordening en Stedebouw.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800507.1": {
+      "court": "CASS",
+      "date": "1980-05-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'un an, dans lequel le bénéficiaire d'un permis de bâtir doit commencer les travaux, est susceptible d'être prorogé d'un an, notamment lorsque le bénéficiaire a, pour des motifs indépendants de sa volonté, été empêché d'entamer ces travaux dans le délai prévu; il n'est pas susceptible de suspension, même en raison de la force majeure. (Loi du 29 mars 1962, organique de l'aménagement du territoire et de l'urbanisme, article 52, alinéas 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De termijn van één jaar waarbinnen de houder van een bouwvergunning met de werken moet beginnen, kan met één jaar worden verlengd, onder meer in de gevallen waarin hij, wegens omstandigheden onafhankelijk van zijn wil, verhinderd werd binnen de bepaalde termijn met die werken te beginnen; hij is echter niet voor schorsing vatbaar, ook niet wegens overmacht (Art. 52, eerste en tweede lid, Wet Ruimtelijke Ordening en Stedebouw.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800325.2": {
+      "court": "CASS",
+      "date": "1980-03-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision de condamnation du chef d'infraction à l'article 44 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme le juge qui constate que le prévenu a exécuté ou maintenu des travaux sans avoir obtenu le permis de bâtir prévu à cette disposition légale; la circonstance que ledit prévenu aurait été titulaire d'un permis de camping est sans incidence sur la légalité de la condamnation, la délivrance d'un permis en vertu de la loi portant réglementation du camping ou en vertu du règlement général pour la protection du travail ne dispensant pas le titulaire de ce permis d'observer les dispositions légales applicables en matière d'urbanisme. ( Loi du 29 mars 1962, art. 44, 64 et 65. )"
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de veroordeling wegens overtreding van art. 44 Wet Ruimtelijke Ordening en Stedebouw waarin de rechter vaststelt dat de beklaagde werken heeft uitgevoerd of in stand gehouden zonder enige bij die wetsbepaling vereiste bouwvergunning; de omstandigheid dat die beklaagde houder zou geweest zijn van een vergunning tot exploitatie van een kampeerterrein heeft geen invloed op de wettigheid van de veroordeling, nu de afgifte van een vergunning krachtens de wet op het kamperen of krachtens het Algemeen Reglement op de Arbeidsbescherming de vergunninghouder niet vrijstelt van het nakomen van de stedebouwkundige voorschriften. (Artt. 44, 64 en 65 Wet Ruimtelijke Ordening en Stedebouw.)"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791113.2": {
+      "court": "CASS",
+      "date": "1979-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'impose des conditions quant aux modalités d'introduction de la demande du fonctionnaire délégué ou du collège des bourgmestre et échevins tendant à la remise des lieux en état, lorsque des travaux ont été exécutés sans permis de bâtir; rien ne s'oppose, dès lors, à ce que les autorités administratives forment valablement pareille demande en agissant en tant que parties civiles."
+      ],
+      "abstractNL": [
+        "Geen enkele wettelijke bepaling stelt vereisten omtrent de wijze waarop de gemachtigde ambtenaar of het college van burgemeester en schepenen de vordering instelt om de plaats in de vorige staat te herstellen, wanneer het werk is uitgevoerd zonder bouwvergunning; niets belet dus dat de administratieve overheid die vordering op rechtsgeldige wijze als burgerlijke partij kan instellen <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790907.1": {
+      "court": "CASS",
+      "date": "1979-09-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 180 de la loi du 22 décembre 1977 relative aux propositions budgétaires 1977-1978 déclarant la disposition de l'article 177 de cette loi, modifiant l'article 37, alinéa 1er, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme immédiatement applicable même aux demandes d'indemnité déjà introduites mais sur lesquelles il n'a pas encore été statué par une décision ayant force de chose jugée, est illégal l'arrêt qui, en ce qui concerne une demande d'indemnité introduite sur la base dudit article 37, alinéa 1er, décide après l'entrée en vigueur dudit article 177 que l'usage auquel le bien est affecté ou est normalement destiné doit être examiné au jour de la désignation de l'auteur du projet du plan d'où résulte l'interdiction de bâtir ou de lotir, même si la demande a été introduite avant l'entrée en vigueur dudit article 177."
+      ],
+      "abstractNL": [
+        "Nu art. 180 wet 22 dec. 1977 betreffende de budgettaire voorstellen 1977-1978 de bepaling van art. 177 van die wet, waarbij art. 37, eerste lid, Wet Ruimtelijke Ordening en Stedebouw, wordt gewijzigd, van onmiddellijke toepassing verklaart, ook op de reeds aanhangig gemaakte vorderingen tot schadevergoeding waarover nog geen in kracht van gewijsde gegane uitspraak bestaat, is onwettig het arrest dat, met betrekking tot een op grond van genoemd art. 37, eerste lid, ingestelde vordering tot schadevergoeding, na de inwerkingtreding van genoemd art. 177, beslist dat het gebruik waarvoor het goed dient of normaal bestemd is, moet worden beoordeeld op de dag van de aanwijzing van de ontwerper van het plan waaruit het bouw- of verkavelingsverbod volgt, ook al werd de vordering aanhangig gemaakt vóór de inwerkingtreding van genoemd art. 177."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780905.1": {
+      "court": "CASS",
+      "date": "1978-09-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une décision condamne du chef de l'infraction d'avoir illégalement érigé une construction, cette décision peut légalement ordonner d'enlever cette construction, même si l'auteur de l'infraction n'en est pas propriétaire."
+      ],
+      "abstractNL": [
+        "Wanneer een beslissing een veroordeling uitspreekt wegens het misdrijf ë onwettig oprichten van een gebouw è, kan die beslissing wettig bevelen dat gebouw te doen afbreken ook al is de dader van het misdrijf er geen eigenaar van <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780516.5": {
+      "court": "CASS",
+      "date": "1978-05-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Méconnaît les règles légales sur la charge de la preuve l'arrêt qui, après avoir condamné les prévenus du chef d'avoir érigé illégalement une construction, ordonne l'exécution de travaux d'aménagement en décidant qu'aucun document ou preuve ne constate que les travaux d'aménagement ont été exécutés, comme l'alléguaient lesdits prévenus, dans les conditions imposées et que les photographies déposées sur ce point par ces prévenus à l'appui de leurs conclusions sont dénuées de pertinence. L'arrêt impose, en effet, ainsi aux prévenus la charge d'une preuve qui ne leur incombe pas, ceux-ci ne devant pas établir l'existence d'une situation rendant superflue la prononciation de la mesure ordonnant l'exécution de travaux d'aménagement."
+      ],
+      "abstractNL": [
+        "De wettelijke regels inzake de bewijslast worden geschonden door het arrest dat, na de beklaagden te hebben veroordeeld omdat zij onwettig een gebouw hebben opgetrokken, beveelt dat aanpassingswerken moeten worden uitgevoerd, op grond dat geen stuk of bewijs vaststelt dat de aanpassingswerken zijn uitgevoerd overeenkomstig de gestelde voorwaarden, zoals door de beklaagden is gezegd, en dat de door hen hierover en tot staving van hun conclusie neergelegde foto's niet afdoend zijn. Het arrest legt immers aan de beklaagden een bewijslast op die hun niet kan opgelegd worden, nu zij als beklaagden niet het bewijs behoeven te leveren van het bestaan van een toestand die het uitspreken van een bevel tot uitvoering van aanpassingswerken overbodig maakt."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761020.1": {
+      "court": "CASS",
+      "date": "1976-10-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 70bis de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, autorisant les communes à établir une taxe annuelle sur les parcelles non bâties comprises dans un lotissement non périmé, et des règlements communaux établissant pareille taxe, il faut entendre par \"parcelles non bâties\" les parcelles sur lesquelles n'ont pas été érigées des constructions à usage d'habitation; ne peuvent donc être considérées comme bâties des parcelles sur lesquelles sont érigées d'autres constructions (1). (Loi du 29 mars 1962, art. 56 et 70bis.)"
+      ],
+      "abstractNL": [
+        "In artikel 70bis van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, volgens hetwelk de gemeenten een jaarlijkse belasting kunnen heffen op niet-bebouwde percelen van een niet-vervallen verkaveling, moet onder \" niet-bebouwde percelen \" worden verstaan de percelen waarop geen woningen gebouwd werden; percelen waarop andere gebouwen zijn opgericht kunnen dus niet als bebouwde percelen beschouwd worden (1). ( Artt. 56 en 70bis wet van 29 maart 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760910.5": {
+      "court": "CASS",
+      "date": "1976-09-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas conforme à la loi et ne peut, dès lors, être appliqué par les cours et tribunaux l'arrêté royal qui, sur l'initiative du Roi, décrète la revision d'un permis de lotir sans constater que les conditions prévues à l'article 43 de la loi du 29 mars 1962 sont remplies. (Constit., art. 107.)"
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit tot herziening van een verkavelingsvergunning waarin niet wordt vastgesteld dat aan de voorwaarden van artikel 43 van de wet van 29 maart 1962 is voldaan stemt niet met de wet overeen en kan dus door de hoven en rechtbanken niet worden toegepast. ( Art. 107 Grondwet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760615.2": {
+      "court": "CASS",
+      "date": "1976-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne du chef d'infraction à l'article 64 de la loi du 29 mars 1962 ne peut ordonner la remise des lieux en état que s'il constate que cette mesure est encore justifiée ou nécessaire pour faire disparaître les suites de l'infraction. (Loi du 29 mars 1962, organique de l'aménagement du territoire et de l'urbanisme, art. 65.)"
+      ],
+      "abstractNL": [
+        "De rechter die een veroordeling uitspreekt op grond van een overtreding van artikel 64 van de wet van 29 maart 1962 mag slechts bevelen dat de plaats in de vorige staat hersteld wordt als hij vaststelt dat deze maatregel nog nodig of verantwoord is om de gevolgen van de overtreding te doen verdwijnen. ( Art. 65 wet van 29 maart 1962. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740917.1": {
+      "court": "CASS",
+      "date": "1974-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/09/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si, lorsque des travaux ont été exécutés sans permis de batîr ou de lotir, la remise des lieux en état ne peut plus, depuis l'entrée en vigueur de la loi du 22 décembre 1970, être ordonnée qu'à la demande du fonctionnaire délégué ou du collège des bourgmestre et échevins, aucune disposition légale ne soumet cependant cette demande à des formes déterminées. (Loi du 29 mars 1962, modifiée par la loi du 22 décembre 1970, art. 64 et 65.)"
+      ],
+      "abstractNL": [
+        "Indien, wanneer zonder bouw- of verkavelingsvergunning werken zijn uitgevoerd, sinds de inwerkingtreding van de wet van 22 december 1970 het herstel van de plaats in de vorige staat niet meer kan worden bevolen dan op vordering van de gemachtigde ambtenaar of van het college van burgemeester en schepenen, is deze vordering echter door geen enkele wettelijke bepaling aan bepaalde vormen onderworpen. (Artt. 64 en 65 wet van 29 maart 1962, gewijzigd bij de wet van 22 december 1970.)"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730116.2": {
+      "court": "CASS",
+      "date": "1973-01-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si, lorsque des travaux ont été exécutés sans permis de bâtir ou de lotir, la remise des lieux en état ne peut plus, depuis l'entrée en vigueur de la loi du 22 décembre 1970 dont l'article 21 a remplacé l'article 65 de la loi du 29 mars 1962, être ordonné qu'à la demande du fonctionnaire délégué ou du collège des bourgmestre et échevins, aucune disposition légale n'exige, toutefois, que cette demande précède l'exercice de l'action publique."
+      ],
+      "abstractNL": [
+        "Hoewel, wanneer werken zonder bouw- of verkavelingsvergunning werden uitgevoerd, het herstel van de plaats in de vorige staat, sinds de inwerkingtreding van de wet van 27 december 1970 waarvan artikel 21 het artikel 65 van de wet van 29 maart 1962 heeft vervangen, niet meer kan worden bevolen tenzij op vordering van de gemachtigde ambtenaar of van het college van burgemeester en schepenen, vereist echter geen enkele wettelijke bepaling dat deze vordering plaatsheeft voor de strafvordering wordt ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720601.10": {
+      "court": "CASS",
+      "date": "1972-06-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/01/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le propriétaire d'un terrain frappé, antérieurement à l'entrée en vigueur d'un plan d'aménagement, d'une interdiction de bâtir ou de lotir en raison d'une prévision d'expropriation, afin de ne pas compromettre l'aménagement futur, ne peut prétendre à une indemnité dans les limites prévues à l'article 37 de la loi du 29 mars 1962 qu'à la condition que le plan d'aménagement ait été revêtu de la force obligatoire et que l'autorité compétente ait négligé, dans les délais prévus par l'article 35 de ladite loi, d'entamer la procédure en expropriation ou d'aviser le propriétaire de son intention de renoncer à l'expropriation."
+      ],
+      "abstractNL": [
+        "De eigenaar van een grond, waarop van voor de inwerkingtreding van een plan van aanleg een bouw- of verkavelingsverbod is gesteld wegens een in uitzicht gestelde onteigening om de toekomstige aanleg niet in het gedrang te brengen, kan geen aanspraak maken op een vergoeding binnen de perken van artikel 37 van de wet van 29 maart 1962, dan op voorwaarde dat het plan van aanleg bindende kracht heeft verkregen en dat de bevoegde overheid binnen de bij artikel 35 gestelde termijnen heeft nagelaten de onteigeningsprocedure te beginnen of de eigenaar in kennis te stellen van haar bedoeling ervan af te zien."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710119.6": {
+      "court": "CASS",
+      "date": "1971-01-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La prescription de l'action publique exercée du chef de maintien d'un travail, visé à l'article 44 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, et exécuté sans permis préalable, écrit et exprès du collège des bourgmestre et échevins, ne commence à courir qu'au jour où la situation illégale ainsi créée a pris fin."
+      ],
+      "abstractNL": [
+        "De verjaring van de strafvordering wegens het in stand houden van een werk, zoals dit is bepaald bij artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, en dat is uitgevoerd zonder voorafgaande geschreven en uitdrukkelijke vergunning van het college van burgemeester en schepenen, begint pas te lopen van de dag waarop de aldus onwettelijk geschapen toestand een einde heeft genomen."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700608.4": {
+      "court": "CASS",
+      "date": "1970-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque des travaux exécutés sans l'autorisation requise par la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme ont été régulièrement autorisés par la suite, la remise des lieux en état prévue à l'article 65 de cette loi, et partant la démolition des travaux, ne peuvent plus être ordonnées."
+      ],
+      "abstractNL": [
+        "Indien werken worden uitgevoerd zonder de bouwvergunning vereist bij de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, waarvoor later deze bouwvergunning wordt verleend, kan het herstel van de plaats in de vorige staat, zoals dit is bepaald bij artikel 65 van deze wet, en derhalve de afbraak van de werken niet meer worden bevolen."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700423.1": {
+      "court": "CASS",
+      "date": "1970-04-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La délivrance d'un permis de bâtir par le collège des bourgmestre et échevins n'exonère pas le bénéficiaire de l'obligation conventionnellement assumée de se conformer aux prescriptions urbanistiques prévues dans le permis de lotir obtenu par son auteur et aux servitudes dont son fonds est grevé au profit des fonds voisins; le propriétaire de l'un de ceux-ci peut exercer devant les tribunaux une action en réparation du dommage qui résulte de l'inexécution de cette obligation. ( Loi du 29 mars 1962, art. 44, 48, 56, 57 et 62. )"
+      ],
+      "abstractNL": [
+        "De afgifte van een bouwvergunning door het college van burgemeester en schepenen stelt de beneficiant niet vrij van de verbintenis die hij bij overeenkomst heeft aangegaan zich te gedragen naar de stedebouwkundige voorschriften, gesteld bij de door zijn rechtsvoorganger bekomen verkavelingsvergunning en naar de erfdienstbaarheden waarmee zijn erf ten voordele van de aangrenzende erven is bezwaard; de eigenaar van een dezer erven mag voor de rechtbanken een eis instellen tot vergoeding van de schade die uit de niet-uitvoering van deze verbintenis voortvloeit. ( Wet van 29 maart 1962, art. 44, 48, 56, 57 en 62. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700413.2": {
+      "court": "CASS",
+      "date": "1970-04-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 65 de la loi du 29 mars 1962, organique de l'aménagement du territoire et de l'urbanisme, suivant laquelle, en cas d'exécution ou de maintien de certains travaux en contravention aux prescriptions de ladite loi, le tribunal, outre la pénalité, ordonne la remise des lieux en état \" s'il y a lieu \", doit s'entendre comme obligeant le juge à ordonner la réparation dès que celle-ci est nécessaire pour faire disparaître les suites de l'infraction."
+      ],
+      "abstractNL": [
+        "De bepaling van artikel 65 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, volgens welke, in geval van uitvoering of instandhouding van bepaalde werken met overtreding van de voorschriften van deze wet, de rechtbank benevens de straf, beveelt, indien daartoe grond bestaat, de plaats in de vorige staat te herstellen, moet zo worden verstaan dat de rechter verplicht is het herstel te bevelen, zodra dit noodzakelijk is om de gevolgen van de overtreding te doen verdwijnen."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700106.2": {
+      "court": "CASS",
+      "date": "1970-01-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/01/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Peut être considéré comme agissant sous l'empire d'un événement analogue à l'expropriation et bénéficier en conséquence de l'immunisation prévue par l'article 27, alinéa 2ter, des lois coordonnées relatives aux impôts sur les revenus, le locataire d'un immeuble, qui, exposé à subir les effets de l'expropriation de celui-ci dans les conditions prévues par l'article 25 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, consent, moyennant indemnité, à renoncer à son droit d'occupation au profit d'un propriétaire qui, par application de cette disposition, a demandé à être chargé de l'exécution des travaux d'aménagement."
+      ],
+      "abstractNL": [
+        "De huurder van een onroerend goed, die blootgesteld is aan de gevolgen van de onteigening van dit goed, onder de voorwaarden gesteld bij artikel 25 van de wet van 29 maart 1962 op de ruimtelijke ordening en de stedebouw, en tegen een vergoeding ermee instemt afstand te doen van zijn gebruiksrecht ten voordele van een eigenaar die op grond van deze bepaling gevraagd heeft met de uitvoering van de ordeningswerken te worden belast, kan worden beschouwd als handelende onder invloed van een gebeurtenis van gelijke aard als de onteigening en kan bijgevolg in aanmerking komen voor de vrijstelling waarvan sprake in artikel 27, alinéa 2ter, van de gecoördineerde wetten betreffende de inkomstenbelastingen."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690722.3": {
+      "court": "CASS",
+      "date": "1969-07-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/07/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les délais de recours fixés par l'article 55 de la loi du 29 mars 1962, organique de l'aménagement du territoire et de l'urbanisme, sont des délais non francs fixés par jour; comme tels, ils se comptent de jour à jour; le jour de l'acte qui est le point de départ de chacun de ces délais n'y est pas compris, tandis que le jour de l'échéance y est compté. (Code de proc. civ., article 1033.)"
+      ],
+      "abstractNL": [
+        "De termijnen van beroep bepaald bij artikel 55 van de wet van 29 maart 1962 op de ruimtelijke ordening en de stedebouw zijn geen vrije termijnen die in dagen zijn gesteld; als zodanig worden zij van dag tot dag berekend; de dag van de akte die het aanvangspunt van elke termijn is, wordt daarin niet begrepen, terwijl de vervaldag in de termijn wordt gerekend. (Wetb. van burg. rechtsvord., art. 1033.)"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690418.1": {
+      "court": "CASS",
+      "date": "1969-04-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, qui abroge et remplace l'arrêté-loi du 2 décembre 1946, en disposant que restent néanmoins en vigueur les plans d'aménagement approuvés, sous l'empire de cet arrêté-loi, maintient ainsi la validité de l'autorisation, qu'emporte l'arrêté royal approuvant le plan, de procéder aux expropriations qui y sont prévues. (Loi du 29 mars 1962, art. 73, litt. a, et 35, alinéa 4, et arrêté-loi du 2 décembre 1946, art. 19.)"
+      ],
+      "abstractNL": [
+        "De wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, waarbij de besluitwet van 2 december 1946 wordt opgeheven en vervangen, stelt vast dat niettemin van kracht blijven de aanlegplannen die onder de gelding van die besluitwet werden goedgekeurd, zodat zij tevens de geldigheid blijft behouden van de toelating gegeven bij het koninklijk besluit tot goedkeuring van het plan om de erin vastgestelde onteigeningen uit te voeren. (Wet van 29 maart 1962, art. 73, letter a, en 35, lid 4, en besluitwet van 2 december 1946, art. 19.)"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690303.3": {
+      "court": "CASS",
+      "date": "1969-03-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le terme \"construire\", au sens de l article 44 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, désigne l'action d'élever un ouvrage destiné à rester sur place et dont l'appui sur le sol assure la stabilité, abstraction faite de toute permanence et de la possibilité théorique de la déplacer."
+      ],
+      "abstractNL": [
+        "Onder het woord \"bouwen\" in de zin van artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw wordt bedoeld de handeling die erin bestaat een bouwwerk op te zichten bestemd om ter plaatse te blijven en waarvan de steun op de grond zorgt voor de stabiliteit, afgezien van elk permanent karakter en van de theoretische mogelijkheid het te verplaatsen."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670213.9": {
+      "court": "CASS",
+      "date": "1967-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision, condamnant le prévenu du chef d'infraction aux articles 44 et 64 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme et ordonnant en conséquence la remise des lieux en leur pristin état, qui, en réponse aux conclusions du prévenu soutenant qu'il pouvait effectuer les travaux par application de l'article 54 de ladite loi parce qu'il n'avait pas été répondu dans les 75 jours à sa seconde demande de permis de bâtir, relève que ces travaux avaient déjà été exécutés sans permis, malgré le refus opposé à une première demande de permis de bâtir, et qu'ils n'avaient pas, non plus, été approuvés ultérieurement."
+      ],
+      "abstractNL": [
+        "Is wettelijk gerechtvaardigd de beslissing, waarbij de beklaagde veroordeeld wordt wegens overtreding van de artikelen 44 en 64 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, die bijgevolg het herstellen in de vroegere toestand bevolen heeft, en die in antwoord op de conclusie van beklaagde die beweerde dat hij de werken mocht uitvoeren overeenkomstig artikel 54 van evenbedoelde wet, omdat er niet binnen de 75 dagen van de tweede aanvraag om bouwvergunning werd geantwoord, erop wijst dat de werken reeds uitgevoerd waren zonder vergunning, niettegenstaande de eerste aanvraag om bouwvergunning werd geweigerd, en dat zij evenmin nadien goedgekeurd werden."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661031.3": {
+      "court": "CASS",
+      "date": "1966-10-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le droit accordé à l'autorité compétente d'obtenir la remise des lieux en état, lorsqu'une construction a été érigée sans permis de bâtir, est étranger aux dispositions du Code civil qui régissent les rapports entre propriétaires voisins. ( Arrêté-loi du 2 décembre 1946, concernant l'urbanisation, art. 27, al. 3. )"
+      ],
+      "abstractNL": [
+        "Het recht aan de bevoegde overheid toegekend om het herstellen van de plaats in de vorige staat te bekomen, wanneer een gebouw zonder bouwvergunning opgericht werd, is vreemd aan de bepalingen van het Burgerlijk Wetboek die de verhoudingen tussen naburige eigenaars beheersen. ( Besluitwet van 2 december 1946, betreffende de stedebouw, art. 27, lid 3. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660919.3": {
+      "court": "CASS",
+      "date": "1966-09-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée la décision qui fonde son dispositif sur les motifs imprécis ou ambigus."
+      ],
+      "abstractNL": [
+        "Is niet met redenen omkleed de beslissing die haar beschikkend gedeelte grondt op onnauwkeurige of dubbelzinnige redenen."
+      ]
     }
   }
 }

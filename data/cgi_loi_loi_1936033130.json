@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2010:ARR.20101210.1": {
+      "court": "CASS",
+      "date": "2010-12-10",
+      "roleNumber": "F.08.0102.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/10/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Une institution contractuelle au sens de l'article 2 du Code des droits de succession est une institution qui est réalisée au moyen d'une convention; c'est une convention à titre gratuit par laquelle une personne dispose au profit d'une autre des biens qui formeront sa succession; une institution contractuelle concerne uniquement les biens de la succession de celui qui dispose (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Een contractuele erfstelling in de zin van artikel 2 W. Succ. is een erfstelling die bij wijze van een overeenkomst tot stand komt; zij is een overeenkomst om niet, waarbij iemand ten voordele van een ander beschikt over de goederen die zijn nalatenschap zullen samenstellen; een contractuele erfstelling heeft enkel betrekking op de goederen van de nalatenschap van de beschikker (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  },
   "5": {
     "ECLI:BE:CASS:2019:ARR.20191128.1N.3": {
       "court": "CASS",
@@ -281,6 +297,38 @@
       ]
     }
   },
+  "70": {
+    "ECLI:BE:CASS:2010:ARR.20101112.2": {
+      "court": "CASS",
+      "date": "2010-11-12",
+      "roleNumber": "F.09.0101.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 74 du Code des droits de succession, tous ceux qui ont pour mission ou qui ont assumé la charge de déposer la déclaration sont tenus envers l'Etat des droits de succession ou de mutation par décès, des intérêts et des amendes en tant qu'il a dépendu d'eux de se conformer à la loi; cette disposition n'empêche pas que les héritiers, légataires et donataires demeurent responsables des droits de succession et des intérêts dus sur ce que chacun d'eux a obtenu dans la succession."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 74 Wetboek Successierechten zijn allen die tot opdracht hebben of de last op zich genomen hebben de aangifte in te leveren, tegenover de Staat aansprakelijk voor de rechten van successie of van overgang bij overlijden, voor de interest en de boeten, voor zoveel het van hen heeft afgehangen in de nakoming van de wet te voorzien; deze bepaling neemt niet weg dat de erfgenamen, legatarissen en begiftigden tegenover de Staat verder aansprakelijk blijven voor de rechten van successie en voor de interest verschuldigd op hetgeen ieder van hen in de nalatenschap verkreeg."
+      ]
+    }
+  },
+  "74": {
+    "ECLI:BE:CASS:2010:ARR.20101112.2": {
+      "court": "CASS",
+      "date": "2010-11-12",
+      "roleNumber": "F.09.0101.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 74 du Code des droits de succession, tous ceux qui ont pour mission ou qui ont assumé la charge de déposer la déclaration sont tenus envers l'Etat des droits de succession ou de mutation par décès, des intérêts et des amendes en tant qu'il a dépendu d'eux de se conformer à la loi; cette disposition n'empêche pas que les héritiers, légataires et donataires demeurent responsables des droits de succession et des intérêts dus sur ce que chacun d'eux a obtenu dans la succession."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 74 Wetboek Successierechten zijn allen die tot opdracht hebben of de last op zich genomen hebben de aangifte in te leveren, tegenover de Staat aansprakelijk voor de rechten van successie of van overgang bij overlijden, voor de interest en de boeten, voor zoveel het van hen heeft afgehangen in de nakoming van de wet te voorzien; deze bepaling neemt niet weg dat de erfgenamen, legatarissen en begiftigden tegenover de Staat verder aansprakelijk blijven voor de rechten van successie en voor de interest verschuldigd op hetgeen ieder van hen in de nalatenschap verkreeg."
+      ]
+    }
+  },
   "105": {
     "ECLI:BE:CASS:1997:ARR.19970117.7": {
       "court": "CASS",
@@ -517,6 +565,22 @@
       ],
       "abstractNL": [
         "Indien het erfdeel verkregen door de langstlevende echtgenoot of door een erfgenaam in de rechte lijn meer dan 10 miljoen bedraagt en geheel of gedeeltelijk bestaat uit activa die door de erflater of zijn echtgenoot beroepsmatig zijn geïnvesteerd in een nijverheids-, handels-, ambachts- of landbouwbedrijf dat door hen of door hen samen met een of meer van hun afstammelingen wordt geëxploiteerd, worden die activa slechts belast met 22% tussen 10 en 20 miljoen en met 25% boven de 20 miljoen; met nijverheids-, handels-, ambachts- of landbouwbedrijven worden bedoeld, ondernemingen die een economische activiteit uitoefenen, zonder uitsluiting van de ondernemingen die andere ondernemingen controleren, behalve wanneer zij enkel tot doel hebben de eenvoudige verkrijging en het in bezit houden van deelbewijzen."
+      ]
+    }
+  },
+  "142/2": {
+    "ECLI:BE:CASS:2008:ARR.20080522.3": {
+      "court": "CASS",
+      "date": "2008-05-22",
+      "roleNumber": "F.06.0077.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/05/22/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le fait que la motivation de la contrainte en matière de droits de succession doit être 'adéquate' signifie que la décision doit être suffisamment étayée par la motivation et que la motivation doit être proportionnelle à l'importance de la décision prise et à la nature de la compétence des autorités, et doit permettre au destinataire de connaître les motifs de la décision le concernant; pareille adéquation dépendra de l'ensemble des circonstances de la cause, notamment de la connaissance effective préalable que le destinataire a des éléments du dossier (1). (1) Voir les conclusions du ministère public publiées à leur date dans A.C., 2008, n°...."
+      ],
+      "abstractNL": [
+        "Dat de motivering van het dwangbevel inzake successierechten 'afdoende' moet zijn, betekent dat de beslissing voldoende door de motivering moet worden gedragen en dat de motivering evenredig moet zijn met de belangrijkheid van de genomen beslissing en de aard van de bevoegdheid van de overheid, en de bestemmeling moet toelaten de gronden te kennen van de beslissing die hem aanbelangt; zulks zal afhangen van alle omstandigheden van de zaak, inzonderheid van de voorafgaande effectieve kennis die de bestemmeling heeft van de gegevens van het dossier (1). (1) Zie concl. O.M."
       ]
     }
   }

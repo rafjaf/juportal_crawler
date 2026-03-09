@@ -31,6 +31,22 @@
       ]
     }
   },
+  "98": {
+    "ECLI:BE:CASS:2011:ARR.20111219.4": {
+      "court": "CASS",
+      "date": "2011-12-19",
+      "roleNumber": "C.10.0587.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il suit l'article 1108 du Code civil que le consentement, exprès ou tacite, de la partie qui s'oblige requiert la possibilité de prendre connaissance des clauses sur lesquelles il doit porter (1). (1) Le ministère public concluait au rejet du second moyen dans la mesure où il considérait que le jugement attaqué avait, selon lui, suffisamment établi la prise de connaissance par le patient des conditions générales."
+      ],
+      "abstractNL": [
+        "Uit artikel 1108 van het Burgerlijk Wetboek volgt dat de uitdrukkelijke of stilzwijgende toestemming van de partij die zich verbindt, vereist dat zij kan kennisnemen van de bedingen waarvoor die toestemming vereist is (1). (1) Het O.M. concludeerde tot verwerping van het tweede middel, in zoverre het O.M. oordeelde dat het bestreden vonnis zijns inziens afdoend had aangetoond dat de patiënt kennisgenomen had van de algemene voorwaarden."
+      ]
+    }
+  },
   "100": {
     "ECLI:BE:CASS:2025:ARR.20251117.3N.4": {
       "court": "CASS",

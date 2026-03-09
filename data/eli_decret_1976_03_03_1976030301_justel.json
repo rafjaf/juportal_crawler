@@ -185,6 +185,50 @@
       "abstractNL": [
         "De civielrechtelijke bevoegdheid van de strafrechter, die geadieerd wordt op grond van de artikelen 13 en 15 Monumentendecreet, reikt niet verder dan het bevelen van het herstel in de oorspronkelijke toestand, gestoeld op de in artikel 13 vermelde misdrijven en overeenkomstig de modaliteiten van herstel bepaald in artikel 15, met eventuele oplegging van een dwangsom per dag vertraging in de uitvoering van de herstelmaatregel; de vordering die ertoe strekt bijkomende maatregelen op te leggen met betrekking tot het voordien bevolen herstel ten gevolge van gewijzigde omstandigheden, stoelt niet verder op de oorspronkelijke verrichte schuldbeoordeling, grondslag van de tegen de beklaagde bevolen dwangmaatregel en vergt een nieuwe beoordeling, losgekoppeld van het oorspronkelijk bewezen verklaarde misdrijf, waarvoor de strafrechter niet bevoegd is."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120313.3": {
+      "court": "CASS",
+      "date": "2012-03-13",
+      "roleNumber": "P.11.1088.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Contrairement à l'indemnisation, la demande de réparation du fonctionnaire délégué chargé du patrimoine immobilier ne vise pas la réparation du dommage causé à des intérêts particuliers, mais tend à mettre un terme à la situation contraire à la loi née de l'infraction et portant préjudice à l'intérêt général (1). (1) Voir Cass. 24 mai 2011, RG P.10.2052.N, Pas. 2011, n° 343."
+      ],
+      "abstractNL": [
+        "De herstelmaatregel van de gemachtigde ambtenaar van het onroerend erfgoed beoogt niet zoals de schadevergoeding de vergoeding van schade aan particuliere belangen, maar strekt ertoe een einde te maken aan de met de wet strijdige toestand die uit het misdrijf is ontstaan en waardoor het algemeen belang wordt geschaad (1). (1) Zie: Cass. 24 mei 2011, AR P.10.2052.N, AC, 2011, nr. 343."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991123.8": {
+      "court": "CASS",
+      "date": "1999-11-23",
+      "roleNumber": "P970945N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/11/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 13, 1., du décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux, lu en connexité avec les articles 7 et 11, §§ 1er et 2, du même décret, que l'état, tel que constaté par l'arrêté de protection, est déterminant tant pour la nature et l'étendue des travaux d'entretien et de conservation, que pour l'obligation de réparer visée à l'article 15 du décret."
+      ],
+      "abstractNL": [
+        "Uit artikel 13, 1 van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, in samenhang gelezen met de artikelen 7 en 11 ' 1 en 2 van hetzelfde decreet, volgt dat de toestand, zoals door het beschermingsbesluit vastgelegd, bepalend is zowel voor de aard en de omvang van de onderhouds- en instandhoudingswerken als voor de in artikel 15 van het decreet bedoelde herstelplicht."
+      ]
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1989:ARR.19890302.10": {
+      "court": "CASS",
+      "date": "1989-03-02",
+      "roleNumber": "6202",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/03/02/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 7 de la loi du 7 août 1931 sur la conservation des monuments et des sites, applicable aux sites urbains et ruraux situés dans la région de langue néerlandaise en vertu de l'article 16, alinéa 1er, du décret du 3 mars 1976 du Conseil culturel de la Communauté culturelle néerlandaise réglant la protection des monuments et des sites urbains et ruraux, accorde aux propriétaires d'un bien classé par arrêté royal et autres intéressés le droit à une indemnité à charge de la Communauté flamande \"pour le préjudice que leur occasionnent les restrictions apportées à leurs droits\"."
+      ],
+      "abstractNL": [
+        "Art. 7 wet van 7 augustus 1931 op het behoud van monumenten en landschappen, dat krachtens art. 16, alinéa 1, decreet van 3 maart 1976 van de Cultuurraad voor de Nederlandse Cultuurgemeenschap tot bescherming van monumenten en stadsgezichten en dorpsgezichten toepasselijk is op de in het Nederlandse taalgebied gelegen stadsgezichten en dorpsgezichten, kent aan de eigenaars van een bij koninklijk besluit in bescherming genomen goed en aan de overige belanghebbenden een recht op vergoeding ten laste van de Vlaamse Gemeenschap toe \"voor het nadeel dat hun wordt berokkend door de beperkingen van hun recht\"."
+      ]
     }
   }
 }

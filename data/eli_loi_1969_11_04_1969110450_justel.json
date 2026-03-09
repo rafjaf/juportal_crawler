@@ -1,4 +1,18 @@
 {
+  "5": {
+    "ECLI:BE:CASS:1995:ARR.19950929.8": {
+      "court": "CASS",
+      "date": "1995-09-29",
+      "roleNumber": "C940404F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/29/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Bij gerechtelijke beëindiging van een pachtovereenkomst ten laste van de pachter, wordt laatstgenoemde geacht het gepachte goed te verlaten op de in het vonnis bepaalde datum van beëindiging; op die datum gaat de bij art. 5, vierde lid, van art. III Pachtwet bepaalde termijn van verjaring in t.a.v. van de eis van de pachter tot teruggave van de pachtprijs die het wettelijk bedrag overschrijdt."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19881209.1": {
       "court": "CASS",
@@ -10,6 +24,48 @@
       "abstractFR": null,
       "abstractNL": [
         "Overeenkomstig art. 51, vierde lid van de Pachtwet verjaart de vordering tot naasting en indeplaatsstelling en de vordering tot schadevergoeding van de pachter, in geval van verkoop uit de hand, drie maanden na de kennisgeving aan de pachter door de instrumenterende ambtenaar van de prijs en de voorwaarden van de verkoop, ook indien deze kennisgeving niet binnen de maand na de registratie is geschied, zoals voorgeschreven door art. 48, 1, vijfde lid van de Pachtwet."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980511.9": {
+      "court": "CASS",
+      "date": "1998-05-11",
+      "roleNumber": "C950096N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/05/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour que le preneur ait droit, à la fin du bail, à une indemnité pour les constructions qu'il a érigées et pour les travaux qu'il a exécutés, la production d'un consentement écrit du propriétaire constitue une condition essentielle."
+      ],
+      "abstractNL": [
+        "Opdat de pachter bij het beëindigen van de pacht recht zou hebben op vergoeding voor de gebouwen die hij heeft opgericht en voor de werken die hij heeft uitgevoerd, is het voorleggen van een schriftelijke toestemming van de verpachter een essentiële vereiste."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950224.8": {
+      "court": "CASS",
+      "date": "1995-02-24",
+      "roleNumber": "C930078N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le bailleur qui s'oppose à la cession privilégiée du bail prévue par l'article 35 de la loi du 4 novembre 1969, du chef d'irrégularité de la cession ou de sa notification, peut le faire par voie d'opposition."
+      ],
+      "abstractNL": [
+        "De verpachter die tegen de bij art. 35 Pachtwet bepaalde bevoorrechte pachtoverdracht opkomt wegens onregelmatigheid van de overdracht of van de kennisgeving ervan, kan dat doen bij wijze van verzet."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940623.13": {
+      "court": "CASS",
+      "date": "1994-06-23",
+      "roleNumber": "C930266F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les conventions successives, portant sur une même parcelle et dont l'objet n'implique qu'une durée d'occupation inférieure à un an, ne sont exclues du champ d'application de la loi sur les baux à ferme, en vertu de l'article 2, 2°, de ladite loi avant sa modification par la loi du 7 novembre 1988, que pour autant qu'elles ne soient pas conclues entre les mêmes personnes."
+      ],
+      "abstractNL": [
+        "De achtereenvolgende overeenkomsten betreffende eenzelfde perceel en waarvan het voorwerp een duur van minder dan een jaar gebruik in zich sluit, worden krachtens art. 2, 2°, Pachtwet, voor de wijziging ervan bij de wet van 7 nov. 1988, uit het toepassingsgebied van voormelde wet alleen uitgesloten voor zover zij niet tussen dezelfde personen zijn aangegaan."
       ]
     }
   }

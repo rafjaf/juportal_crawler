@@ -14,5 +14,21 @@
         "De van het toepassingsgebied van het KB Vogelbescherming uitgesloten in-, uit- en doorvoer van vogels of krengen die behoren tot uitheemse soorten, strekt zich niet uit tot het in bezit hebben of onder zich houden na invoer van vogels of krengen die behoren tot uitheemse soorten."
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880119.19": {
+      "court": "CASS",
+      "date": "1988-01-19",
+      "roleNumber": "1790",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/19/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'article 28 de la loi sur la chasse du 28 février 1882 ayant été abrogé, pour ce qui concerne la Région flamande, par le décret du 27 juin 1985, le délai de prescription de l'action publique, née d'une contravention à l'arrêté royal du 9 septembre 1981, punie de peines de police par application de l'article 31 de la loi sur la chasse, est, pour ladite Région, de six mois."
+      ],
+      "abstractNL": [
+        "Aangezien art. 28 Jachtwet, wet van 28 februari 1882, wat het Vlaams Gewest betreft, is opgeheven door het decreet van 27 juni 1985, bedraagt de verjaringstermijn wat dat Gewest betreft, zes maanden voor de strafvordering voortvloeiend uit een overtreding van K.B. van 9 september 1981, waarop ingevolge art. 31 Jachtwet politiestraffen zijn gesteld."
+      ]
+    }
   }
 }

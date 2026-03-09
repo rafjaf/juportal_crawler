@@ -1,4 +1,18 @@
 {
+  "18": {
+    "ECLI:BE:CASS:1993:ARR.19931213.5": {
+      "court": "CASS",
+      "date": "1993-12-13",
+      "roleNumber": "S930033F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/13/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers betaalt de vergoedingen wegens ontslag ter uitvoering van een wettelijke verplichting; het betaalt derhalve niet de schuld van de werkgever, maar zijn eigen schuld en zijn betaling is geen betaling met indeplaatsstelling, in de zin van art. 1251, 3°, B.W. (Artt. 4 (Art. 4 wet van 28 juni 1966 zoals het luidde vòòr de wijziging ervan bij art. 90 wet van 22 jan. 1985), 9 en 18 Sluitingswet 1966; art. 1251, 3°, B.W.)."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1987:ARR.19871130.12": {
       "court": "CASS",
@@ -110,6 +124,114 @@
       ],
       "abstractNL": [
         "Tussen het Fonds voor vergoeding en de werknemer kan in verband met de voordelen, waarvan het Fonds de betaling waarborgt, slechts een betwisting ontstaan zo een verzoek tot betaling werd ingeleid volgens de voorwaarden door de wet bepaald of zo de regelmatigheid van het verzoek betwist wordt. De werknemer kan geen vordering inleiden tegen het Fonds alvorens te voldoen aan voormelde bepalingen van de wet of van het koninklijk besluit uitgevaardigd in uitvoering van die wet, tenzij de betwisting de naleving van die bepalingen beoogt."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911118.16": {
+      "court": "CASS",
+      "date": "1991-11-18",
+      "roleNumber": "7572",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/18/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui remplit les conditions pour prétendre à l'indemnité de transition prévue par la loi du 12 avril 1985 chargeant le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises du paiement d'une indemnité de transition, n'a pas droit à l'indemnité de licenciement visée à l'article 4 de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises. ( Loi du 28 juin 1966, art. 4, alinéa 7.)"
+      ],
+      "abstractNL": [
+        "De werknemer die de voorwaarden vervult om aanspraak te maken op een overbruggingsvergoeding krachtens de Sluitingsfondswet 1985, heeft geen recht op de sluitingsvergoeding wegens ontslag bepaald bij art. 4 sluitingswet. ( Art. 4, zevende lid, Sluitingswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861013.9": {
+      "court": "CASS",
+      "date": "1986-10-13",
+      "roleNumber": "5256",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de fermeture prévue par l'article 6 de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise constitue une rémunération au sens de l'article 2 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs."
+      ],
+      "abstractNL": [
+        "De sluitingsvergoeding bedoeld in art. 6 Sluitingswet, is loon in de zin van art. 2 Wet bescherming loon."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851007.6": {
+      "court": "CASS",
+      "date": "1985-10-07",
+      "roleNumber": "7335",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de licenciement prévue par l'article 4 de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, présente un caractère forfaitaire et est due au travailleur qui remplit les conditions déterminées par cette disposition, sans qu'il puisse lui être opposé qu'il n'a subi aucun préjudice ensuite de son licenciement."
+      ],
+      "abstractNL": [
+        "De vergoeding wegens ontslag, bepaald bij art. 4 Sluitingswet, is een forfaitaire vergoeding en is verschuldigd aan de werknemer die de voorwaarden van die bepaling vervult, zonder dat hem kan worden tegengeworpen dat hij door zijn ontslag geen enkele schade heeft geleden."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850401.9": {
+      "court": "CASS",
+      "date": "1985-04-01",
+      "roleNumber": "4585",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'employeur qui n'a pas occupé de travailleurs pendant l'année 1981, n'est pas, en vertu de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, redevable de cotisations pour l'année 1982 même si, en 1982, il a exploité la même entreprise que celle dans laquelle les travailleurs étaient occupés par un autre employeur en 1981. ( Arr. roy. du 22 avril 1982, art. 2. )"
+      ],
+      "abstractNL": [
+        "De werkgever die in 1981 geen werknemers heeft tewerkgesteld, is voor 1982 geen bijdragen krachtens de Sluitingswet verschuldigd, zelfs indien hij in 1982 dezelfde onderneming exploiteerde als die waarin de werknemers in 1981 door een andere werkgever waren tewerkgesteld. ( Art. 2 K.B. 22 april 1982. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821025.3": {
+      "court": "CASS",
+      "date": "1982-10-25",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/10/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les entreprises n'ayant pas une finalité économique ne tombent pas sous l'application de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises."
+      ],
+      "abstractNL": [
+        "Ondernemingen die geen economisch doel nastreven, vallen niet onder de wet van 28 juni 1966 betreffende de schadeloosstelling van de werknemers die ontslagen worden bij sluiting van ondernemingen <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820405.11": {
+      "court": "CASS",
+      "date": "1982-04-05",
+      "roleNumber": "3340",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/04/05/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1977:ARR.19770209.1": {
+      "court": "CASS",
+      "date": "1977-02-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/02/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "De la constatation qu'à la suite d'un incendie ayant détruit les ateliers, magasins et bureaux d'une entreprise, en novembre 1970, une société a licencié la quasi-totalité des travailleurs qu'elle occupait, ne gardant que cinq employés, le juge a déduit légalement qu'il y avait eu, à ce moment, cessation définitive de l'activité principale de l'entreprise au sens de l'article 2, alinéa 4, de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise, modifié par la loi du 28 juillet 1971, bien que ladite société n'ait décidé qu'en juillet 1972 de procéder à sa liquidation, la reconstitution de l'entreprise n'étant plus rentable."
+      ],
+      "abstractNL": [
+        "Uit de vaststelling dat een vennootschap, wegens vernieling van haar werkplaatsen, magazijnen en burelen door brand, in november 1970 het merendeel van haar werknemers, op vijf na, heeft ontslagen, heeft de rechter wettelijk afgeleid dat op dat ogenblik de hoofdactiviteit definitief was stopgezet, in de zin van artikel 2, vierde lid, van de wet van 28 juni 1966 betreffende de schadeloosstelling van de werknemers die ontslagen worden bij de sluiting van ondernemingen, gewijzigd bij de wet van 28 juli 1971, hoewel deze vennootschap slechts in juli 1972 tot vereffening beslist had, aangezien de wederopbouw van de onderneming niet meer renderend was."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760623.1": {
+      "court": "CASS",
+      "date": "1976-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'application de la législation sur la fermeture d'entreprises ne requiert pas que l'entreprise ait existé pendant l'année civile entière précédant l'année de la fermeture. (Loi du 28 juin 1966, art. 1er et 2; loi du 30 juin 1967, art. 2.)"
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de wetgeving op de sluiting van ondernemingen is niet vereist dat de onderneming heeft bestaan gedurende het ganse kalenderjaar dat het jaar van de sluiting voorafgaat. ( Artt. 1 en 2 wet van 28 juni 1966; art. 2 wet van 30 juni 1967. )"
       ]
     }
   }

@@ -30,5 +30,37 @@
         "Het arrest dat het recht op gewaarborgde kinderbijslag toekent aan de eiser voor de twee bedoelde kinderen, zonder vast te stellen dat zij vanaf 31 augustus van het kalenderjaar dat zij de leeftijd van 18 jaar bereikten zich bevonden in één van de hypotheses bepaald in artikel 62, §§2 tot 5 Kinderbijslagwet werknemers is niet naar recht verantwoord."
       ]
     }
+  },
+  "6": {
+    "ECLI:BE:CASS:2011:ARR.20111010.4": {
+      "court": "CASS",
+      "date": "2011-10-10",
+      "roleNumber": "S.10.0088.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer les ressources dont bénéficie la personne qui a la charge de l'enfant, pendant le trimestre civil dans lequel s'inscrit le mois à partir duquel les allocations familiales peuvent être octroyées, il peut être déduit de la considération qu'une association entendait mettre à la disposition de cette personne 500  par mois ou 6000 euros pour 12 mois, que cette personne disposait de 6000 euros pour la période de 12 mois à laquelle cette association les avait affectés, soit 500 euros par mois ou 1500 euros par trimestre et non pas 6000 euros pour le seul trimestre au cours duquel ils avaient été payés (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Om de bestaansmiddelen te bepalen waarover de persoon met het kind ten laste beschikt gedurende het kalenderkwartaal waarin de maand valt vanaf wanneer de gezinsbijslag kan worden verleend, kan uit de overweging dat een vereniging een bedrag van 500 euro per maand of 6.000 euro voor twaalf maanden ter beschikking wilde stellen van die persoon, worden afgeleid dat hij over 6.000 euro beschikte voor de periode van twaalf maanden waartoe die vereniging ze had bestemd, d.w.z. 500 euro per maand of 1.500 euro per kwartaal en niet 6.000 euro voor het enige kwartaal gedurende hetwelk ze werden uitbetaald (1). (1) Zie concl. O.M. in Pas., 2011, nr. ... ."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2009:ARR.20091221.4": {
+      "court": "CASS",
+      "date": "2009-12-21",
+      "roleNumber": "S.09.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/21/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions qui instituent des prestations familiales garanties consacrent le caractère résiduel par rapport aux autres prestations familiales, du régime des prestations familiales garanties (1). (1) Voir les concl. écrites du ministère public."
+      ],
+      "abstractNL": [
+        "De bepalingen die de gewaarborgde gezinsbijslag invoeren, leggen het residuaal karakter van de regeling van de gewaarborgde gezinsbijslag t.a.v. de andere gezinsbijslagen vast (1). (1) Zie concl. O.M. in Pas., 2009, nr ..."
+      ]
+    }
   }
 }

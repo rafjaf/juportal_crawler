@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2009:ARR.20091221.8": {
+      "court": "CASS",
+      "date": "2009-12-21",
+      "roleNumber": "C.09.0082.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge appelé à appliquer un droit étranger en vertu du Code de droit international privé doit appliquer à la situation internationale dont il est saisi la règle de ce droit étranger qui régit cette situation en tenant compte des dispositions dudit droit qui règlent l'application de la loi dans le temps."
+      ],
+      "abstractNL": [
+        "De rechter die krachtens het Wetboek van Internationaal Privaatrecht een vreemde wet moet toepassen, moet op de internationale situatie waarvan hij kennisgenomen heeft, de regel van dat vreemd recht toepassen die deze situatie regelt en moet daarbij rekening houden met de bepalingen van dat recht die de werking van de wet in de tijd regelen."
+      ]
+    }
+  },
   "15": {
     "ECLI:BE:CASS:2025:ARR.20250512.3F.2": {
       "court": "CASS",
@@ -46,6 +62,22 @@
       ]
     }
   },
+  "16": {
+    "ECLI:BE:CASS:2009:ARR.20091221.8": {
+      "court": "CASS",
+      "date": "2009-12-21",
+      "roleNumber": "C.09.0082.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge appelé à appliquer un droit étranger en vertu du Code de droit international privé doit appliquer à la situation internationale dont il est saisi la règle de ce droit étranger qui régit cette situation en tenant compte des dispositions dudit droit qui règlent l'application de la loi dans le temps."
+      ],
+      "abstractNL": [
+        "De rechter die krachtens het Wetboek van Internationaal Privaatrecht een vreemde wet moet toepassen, moet op de internationale situatie waarvan hij kennisgenomen heeft, de regel van dat vreemd recht toepassen die deze situatie regelt en moet daarbij rekening houden met de bepalingen van dat recht die de werking van de wet in de tijd regelen."
+      ]
+    }
+  },
   "18": {
     "ECLI:BE:CASS:2021:ARR.20210607.3F.3": {
       "court": "CASS",
@@ -61,6 +93,22 @@
       ],
       "abstractNL": [
         "De mededeling van de zaak aan het openbaar ministerie verantwoordt niet dat het tot bindendverklaring van het arrest wordt opgeroepen in het cassatiegeding (1). (1) Cass. 12 oktober 2007, AR C.06.0545.F, AC 2007, nr. 480."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:2013:ARR.20130425.7": {
+      "court": "CASS",
+      "date": "2013-04-25",
+      "roleNumber": "C.11.0103.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/04/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L''article 20, alinéa 2, du Code de droit international privé n'impose pas au juge belge d''appliquer les dispositions impératives ou d''ordre public du droit d''un autre État avec lequel la situation présente un lien étroit mais lui donne seulement la faculté de leur donner effet."
+      ],
+      "abstractNL": [
+        "Artikel 20, tweede lid, van het van het Wetboek van internationaal privaatrecht verplicht de Belgische rechter niet toepassing te maken van dwingende bepalingen of bepalingen van openbare orde van het recht van een andere Staat waarmee het geval nauw is verbonden, maar geeft hem uitsluitend de mogelijkheid er uitwerking aan te verlenen."
       ]
     }
   },
@@ -200,6 +248,20 @@
       "abstractNL": [
         "Een partij kan geen miskenning van het recht van verdediging of van het recht op een eerlijke behandeling van de zaak afleiden uit het feit alleen dat zij, na overlegging door haarzelf van buitenlandse gerechtelijke stukken die niet conform het wettelijk voorschrift zijn, niet ambtshalve een termijn toegewezen kreeg om dat gebrek te verhelpen, die de rechter krachtens de wet niet moet opleggen."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140306.5": {
+      "court": "CASS",
+      "date": "2014-03-06",
+      "roleNumber": "C.12.0391.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 24, § 1er, du Code de droit international privé la partie qui invoque la reconnaissance ou demande la déclaration de la force exécutoire d'une décision judiciaire étrangère doit produire une expédition de la décision, réunissant les conditions nécessaires à son authenticité selon le droit de l'Etat dans lequel elle a été rendue; le juge qui décide que le demandeur ne démontre pas que l'expédition doit comprendre la signature du juge pour être exécutoire, que le formalisme doit s'apprécier en fonction des règles du droit judiciaire de l'Etat dans lequel la décision a été rendue et que le grief n'est pas démontré dès lors que ce droit n'est pas présenté, ne justifie pas légalement sa décision (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 24, § 1, Wetboek IPR moet de partij die een beroep doet op de erkenning van een buitenlandse beslissing, of de uitvoerbaarverklaring ervan vordert, het volgende stuk overleggen: een uitgifte van de beslissing die volgens het recht van de Staat waar zij is gewezen, voldoet aan de voorwaarden nodig voor de echtheid ervan; de rechter die oordeelt dat de eiser niet aantoont dat de uitgifte de handtekening van de rechter dient te bevatten om uitvoerbaar te zijn, dat het formalisme moet beoordeeld worden naar de regels van het gerechtelijk recht van de Staat waar de beslissing is gewezen en dat de grief niet bewezen is omdat dit recht niet wordt bijgebracht, verantwoordt zijn beslissing niet naar recht (1). (1) Zie concl. OM."
+      ]
     }
   },
   "25": {
@@ -243,6 +305,34 @@
       ],
       "abstractNL": [
         "Opdat een buitenlandse rechterlijke beslissing in toepassing van artikel 25, §1, 4°, Wetboek IPR niet wordt erkend of uitvoerbaar verklaard, is vereist dat de Belgische rechter onderzoekt of een buitenlandse rechterlijke beslissing overeenkomstig het recht van de Staat waar zij werd gewezen nog vatbaar is voor een gewoon rechtsmiddel."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110304.2": {
+      "court": "CASS",
+      "date": "2011-03-04",
+      "roleNumber": "C.10.0191.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Pour qu'une décision judiciaire étrangère ne soit ni reconnue ni déclarée exécutoire en application de l'article 25, §1er, 8° du Code de droit international privé, il est requis que le juge belge examine si la compétence de la juridiction étrangère était exclusivement fondée sur la présence du défendeur ou de biens sans relation directe avec le litige dans l'Etat dont relève cette juridiction."
+      ],
+      "abstractNL": [
+        "Opdat een buitenlandse rechterlijke beslissing in toepassing van artikel 25, §1, 8°, van het Wetboek IPR niet wordt erkend of uitvoerbaar verklaard, is vereist dat de Belgische rechter onderzoekt of de bevoegdheid van de buitenlandse rechter uitsluitend gegrond was op de aanwezigheid van de verweerder of van goederen zonder rechtstreeks verband met het geschil in de Staat waartoe die rechter behoort."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080620.4": {
+      "court": "CASS",
+      "date": "2008-06-20",
+      "roleNumber": "C.07.0457.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Vérifier si les droits de la défense, tels qu'ils sont conçus en droit belge, n'ont pas été violés devant la juridiction étrangère n'implique pas, lorsque le jugement étranger a statué par application des règles de son droit interne relatives à l'immutabilité de la demande des parties, l'application des règles du droit belge ayant le même objet; la circonstance que le juge ne peut statuer que sur les demandes formulées dans l'exploit introductif d'instance n'emporte pas nécessairement que les droits de la défense de la partie adverse ont été violés (1). (1) Voir Cass., 22 septembre 2005, RG C.03.0021.N, Pas., I, n° 451."
+      ],
+      "abstractNL": [
+        "Wanneer het vreemde vonnis uitspraak heeft gedaan met toepassing van zijn interne rechtsregels m.b.t. de onveranderlijkheid van de vordering van de partijen, impliceert het onderzoek naar de miskenning, voor het vreemde gerecht, van het recht van verdediging, zoals dat in het Belgisch recht is opgevat, niet de toepassing van de Belgische rechtsregels met hetzelfde voorwerp; de omstandigheid dat de rechter alleen uitspraak kan doen over de in de gedinginleidende dagvaarding geformuleerde vorderingen, impliceert niet noodzakelijkerwijs dat het recht van verdediging van de tegenpartij is miskend (1). (1) Zie Cass., 22 sept. 2005, AR C.03.0021.N, nr. 451."
       ]
     }
   },

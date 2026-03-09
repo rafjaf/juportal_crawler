@@ -15,6 +15,22 @@
       ]
     }
   },
+  "3": {
+    "ECLI:BE:CASS:1991:ARR.19910603.13": {
+      "court": "CASS",
+      "date": "1991-06-03",
+      "roleNumber": "9157",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/03/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le pourvoi contre une décision d'un conseil d'appel qui est dirigé contre celui-ci et non contre l'Ordre des pharmaciens lui-même. ( A.R. n° 80 du 10 novembre 1967, art. 1er et 3, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de voorziening tegen een beslissing van een raad van beroep die gericht is tegen die raad van beroep en niet tegen de Orde der apothekers zelf. ( Artt. 1 en 3, eerste lid, Apothekerswet, K.B. nr. 80 van 10 november 1967. )"
+      ]
+    }
+  },
   "6": {
     "ECLI:BE:CASS:2022:ARR.20220930.1N.9": {
       "court": "CASS",
@@ -29,6 +45,34 @@
       ],
       "abstractNL": [
         "De beslissing waarbij de provinciale raad in toepassing van artikel 27 van het KB van 29 mei 1970 tot regeling van de organisatie en de werking der raden van de Orde der apothekers oordeelt dat de zaak zonder gevolg mag worden gelaten, is een beslissing genomen in toepassing van artikel 6, 2° Apothekerswet, waartegen overeenkomstig artikel 13, eerste lid van die wet hoger beroep voor de raad van beroep openstaat dat krachtens artikel 21, eerste lid van die wet kan worden ingesteld door de voorzitter van de nationale raad samen met de bijzitter."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780428.1": {
+      "court": "CASS",
+      "date": "1978-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/04/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le conseil d'appel de l'Ordre des pharmaciens qui constate qu'un pharmacien, membre d'une organisation professionnelle réprésentative ayant institué une réglementation relative aux heures de fermeture des officines et à des services de garde, \"refuse systématiquement et sans aucun motif légitime de respecter les heures de fermeture pour la simple raison qu'un autre pharmacien ne se tient pas davantage à ces heures\", en déduit légalement que ledit pharmacien a manqué aux obligations que lui impose la déontologie, spécialement celles relatives à la confraternité, et décide légalement de lui appliquer de ce chef une sanction disciplinaire. (Arr. roy. num. 80 du 10 novembre 1967, art. 6, 2°)"
+      ],
+      "abstractNL": [
+        "De Raad van beroep van de Orde der Apothekers die vaststelt dat een apotheker die als lid van een representatieve beroepsvereniging welke een reglementering heeft vastgesteld inzake de sluitingsuren van de officina's en de wachtdiensten, \" systematisch en zonder wettige reden weigert de sluitingsuren na te leven alleen maar omdat een andere apotheker er zich niet aan houdt \", leidt daaruit wettelijk af dat die apotheker de voorschriften van de plichtenleer, inzonderheid die betreffende de confraterniteit, niet heeft nageleefd en beslist wettig hem daarom tuchtrechtelijk te straffen. ( Art. 6, 2°, K.B. nr. 80 van 10 november 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730112.1": {
+      "court": "CASS",
+      "date": "1973-01-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si le conseil d'appel de l'Ordre des pharmaciens ne peut déduire l'existence, dans le chef d'un pharmacien, d'une infraction aux règles de la déontologie du seul fait de la non-observation, par ce praticien, d'une réglementation édictée par une organisation professionnelle représentative dont celui-ci n'est pas membre, en revanche il peut légalement fonder une sanction disciplinaire sur les constatations que ce praticien soit gêne volontairement l'institution ou le fonctionnement d'un service de garde établi par cette organisation professionnelle soit, abusant de son droit d'exercer librement sa profession, rend, sans motif légitime, impossible ou difficile l'application par ses confrères, membres de ladite organisation, des dispositions de ladite réglementation relatives aux heures de fermeture des officines et aux périodes des vacances. ( Arrêté royal n° 80 du 10 novembre 1967, art. 6-2°. )"
+      ],
+      "abstractNL": [
+        "Hoewel de Raad van beroep van de Orde van apothekers ten laste van een apotheker het bestaan van een inbreuk op de regels inzake de plichtenleer niet kan afleiden uit het enkel feit van de niet-naleving, door deze beoefenaar, van een regeling ingevoerd door een representatieve beroepsvereniging, waarvan hij geen lid is, kan hij evenwel een tuchtsanctie gronden op de vaststellingen dat deze beoefenaar ofwel opzettelijk de inrichting of de werking van een door deze beroepsvereniging ingestelde wachtdienst belemmert ofwel, misbruik makende van zijn recht om zijn beroep op vrije wijze uit te oefenen, zonder wettige reden voor zijn confraters, die lid zijn van deze vereniging, de toepassing onmogelijk of moeilijk maakt van de bepalingen van deze regeling met betrekking tot de sluitingsuren van de officina en de vacantieperiodes. ( K.B. nr. 80 van 10 november 1967, art. 6-2°. )"
       ]
     }
   },
@@ -95,6 +139,88 @@
         "Anders dan in het gemeen recht, is bij artikel 13 en 25, §1 en 4, Apothekerswet in hoger beroep geen mogelijkheid uitgewerkt zoals bepaald in artikel 1054 Gerechtelijk Wetboek, waarbij de gedaagde in hoger beroep te allen tijde incidenteel beroep kan instellen tegen alle partijen die in het geding zijn voor de rechter in hoger beroep.",
         "Uit de bepalingen van artikel 13 en 25, §1 en 4, Apothekerswet en de wetsgeschiedenis volgt dat bij deze beroepsgroep één enkel hoger beroep tegen de beslissing van de provinciale raad volstaat om het volledig geschil zelf aanhangig te maken bij de raad van beroep, zodat deze regeling afwijkt van de in het gemeen recht en voor bepaalde andere beroepsgroepen geldende regel van de relatieve werking van het hoger beroep; deze bijzondere regeling die enkel een volgappel overbodig maakt, waarborgt evenwel op evenwaardige wijze het recht op een eerlijk proces door het vereiste van een twee derde meerderheid bij een uitspraak in hoger beroep, die de toestand van de apotheker op zijn enkel hoger beroep verzwaart (1). (1) Cass. 30 nov. 1990, AR nr. 7124, AC 1990-91, nr. 17; Cass. 25 juni 1993, AR nr. 7936, AC 1993, nr. 306; Cass. 10 sept. 1993, AR nr. 7983, AC 1993, nr. 340."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011108.5": {
+      "court": "CASS",
+      "date": "2001-11-08",
+      "roleNumber": "D990019N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'octroi de ristournes par un pharmacien à ses clients concerne en soi des intérêts exclusivement matériels et, en tant que tel, n'est pas contraire à la déontologie, sauf si l'importance de ces ristournes et leurs modalités d'octroi sont contraires aux principes généraux et au code de déontologie pharmaceutique (1)."
+      ],
+      "abstractNL": [
+        "Het verlenen van kortingen door een apotheker aan zijn klanten betreft op zich uitsluitend materiële belangen en is als dusdanig niet met de plichtenleer strijdig, tenzij de omvang van die kortingen en de wijze waarop zij worden toegekend van die aard zijn dat zij strijdig worden met de algemene beginselen en de code van de farmaceutische plichtenleer (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000225.8": {
+      "court": "CASS",
+      "date": "2000-02-25",
+      "roleNumber": "D980041F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée, la décision qui fonde la sanction disciplinaire sur une interdiction générale et absolue de toute publicité et la condamnation de toute concurrence sur le marché pharmaceutique."
+      ],
+      "abstractNL": [
+        "De beslissing die een tuchtstraf grondt op een algemeen en volstrekt verbod op iedere vorm van reclame en op de veroordeling van elke mededinging op de farmaceutische markt, is niet naar recht verantwoord."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860117.9": {
+      "court": "CASS",
+      "date": "1986-01-17",
+      "roleNumber": "4857",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un pourvoi en cassation n'est pas recevable du chef de la violation des règles du code de déontologie pharmaceutique élaboré par le conseil national de l'Ordre des pharmaciens; le Roi n'ayant pas, par arrêté délibéré en conseil des ministres, donné force obligatoire à ce code, les règles de celui-ci ne sont pas des lois au sens de l'article 608 du Code judiciaire ( Arr. roy. n° 80 du 10 novembre 1967, art. 15 )."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is een cassatieberoep gegrond op schending van de regels van de Code van plichtenleer voor apothekers, opgesteld door de nationale raad van de Orde van apothekers; nu de Koning niet bij een in ministerraad overlegd besluit aan die code verbindende kracht heeft verleend, zijn de regels van die code geen wet, in de zin van art. 608 Gerechtelijk Wetboek ( Art. 15 K.B. nr. 80 van 10 november 1967 )."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850131.4": {
+      "court": "CASS",
+      "date": "1985-01-31",
+      "roleNumber": "7174",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/01/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Un moyen de cassation n'est pas recevable du chef de la violation des règles du code de déontologie pharmaceutique élaboré par le conseil national de l'Ordre des pharmaciens; le Roi n'ayant pas, par arrêté délibéré en conseil des ministres, donné force obligatoire à ce code, les règles de celui-ci ne sont pas des lois au sens de l'article 608 du Code judiciaire. (Arr. roy. n° 80 du 10 novembre 1967, art. 15.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is een cassatiemiddel uit miskenning van de regels van de Code van plichtenleer voor apothekers, die door de nationale raad van de Orde der Apothekers is opgesteld; de regels van die code zijn geen wet in de zin van art. 608 Ger.W., nu de Koning daaraan geen verbindende kracht heeft verleend door een in ministerraad overlegd K.B. (Art. 15, K.B. nr. 80, 10 nov. 1967.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810925.2": {
+      "court": "CASS",
+      "date": "1981-09-25",
+      "roleNumber": "3071",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/25/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:2000:ARR.20001109.29": {
+      "court": "CASS",
+      "date": "2000-11-09",
+      "roleNumber": "D990005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'un accord relatif à l'organisation d'un service de garde n'est pas de nature à empêcher, restreindre ou fausser le jeu de la concurrence dans une partie substantielle du marché belge concerné, le Conseil de discipline d'appel de l'Ordre des pharmaciens qui considère que tel est le cas de l'accord qui ne porte que sur un service de garde limité à une seule localité et que ce territoire limité ne peut être retenu isolément (1)."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de beslissing dat een akkoord over de organisatie van een wachtdienst niet van dien aard is dat het de vrije mededinging op een wezenlijk deel van de betrokken Belgische markt verhindert, beperkt of vervalst, wanneer de tuchtraad in hoger beroep van de Orde van apothekers beslist dat zulks het geval is met het akkoord dat enkel slaat op een wachtdienst die beperkt is tot één enkele gemeente en dat dit beperkte grondgebied niet afzonderlijk kan worden beschouwd (1)."
+      ]
     }
   },
   "20": {
@@ -125,6 +251,46 @@
       "abstractNL": [
         "De raad van beroep van de Orde der apothekers die in eerste en laatste aanleg uitspraak doet nadat de zaak aanhangig werd omdat de provinciale raad geen enkele beslissing heeft genomen binnen zes maanden vanaf de ontvangst van de klacht en daarbij een sanctie oplegt, dient dat te doen met tweederde meerderheid van stemmen (1). (1) Zie Cass. 21 december 2012, AR D.12.0011.N, AC 2012, nr. 706."
       ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960125.1": {
+      "court": "CASS",
+      "date": "1996-01-25",
+      "roleNumber": "D940015N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La tentative de conciliation visée à l'article 20, alinéa 1er, alinéa 3, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens n'est pas prescrite à peine de nullité."
+      ],
+      "abstractNL": [
+        "De bij art. 20, alinéa 1, derde lid, Apothekerswet bepaalde poging tot verzoening is niet op straffe van nietigheid voorgeschreven."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861017.10": {
+      "court": "CASS",
+      "date": "1986-10-17",
+      "roleNumber": "5329",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les poursuites disciplinaires introduites devant un conseil provincial de l'Ordre des pharmaciens doivent en tous cas être précédées d'une instruction. ( Arrêté royal n° 80 du 10 novembre 1967, relatif à l'Ordre des pharmaciens, art. 20, alinéa 1. )"
+      ],
+      "abstractNL": [
+        "De tuchtvervolging voor een provinciale raad van de Orde van apothekers moet steeds worden voorafgegaan door een onderzoek. ( K.B. nr. 80, 10 november 1967 betreffende de Orde der apothekers, art. 20, alinéa 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
     }
   },
   "21": {
@@ -142,6 +308,46 @@
       "abstractNL": [
         "De beslissing waarbij de provinciale raad in toepassing van artikel 27 van het KB van 29 mei 1970 tot regeling van de organisatie en de werking der raden van de Orde der apothekers oordeelt dat de zaak zonder gevolg mag worden gelaten, is een beslissing genomen in toepassing van artikel 6, 2° Apothekerswet, waartegen overeenkomstig artikel 13, eerste lid van die wet hoger beroep voor de raad van beroep openstaat dat krachtens artikel 21, eerste lid van die wet kan worden ingesteld door de voorzitter van de nationale raad samen met de bijzitter."
       ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
     }
   },
   "24": {
@@ -158,6 +364,32 @@
       "abstractNL": [
         "De raad van beroep van de Orde der apothekers die in eerste en laatste aanleg uitspraak doet nadat de zaak aanhangig werd omdat de provinciale raad geen enkele beslissing heeft genomen binnen zes maanden vanaf de ontvangst van de klacht en daarbij een sanctie oplegt, dient dat te doen met tweederde meerderheid van stemmen (1). (1) Zie Cass. 21 december 2012, AR D.12.0011.N, AC 2012, nr. 706."
       ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971024.5": {
+      "court": "CASS",
+      "date": "1997-10-24",
+      "roleNumber": "D970006F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La demande que la décision du conseil provincial de l'Ordre des pharmaciens soit prononcée à huis-clos ou en audience publique relève de l'appréciation du pharmacien poursuivi et le huis-clos ne constitue pas une formalité substantielle; est, dès lors, nouveau et donc irrecevable le moyen de cassation reprochant au conseil provincial d'avoir statué en audience publique, s'il n'apparaît pas que le pharmacien ait invoqué ce grief devant le conseil d'appel."
+      ],
+      "abstractNL": [
+        "Het verzoek om de beslissing van de provinciale raad van de Orde van apothekers met gesloten deuren of in openbare terechtzitting te wijzen, hangt van de beoordeling van de vervolgde apotheker af en is geen substantiële rechtsvorm; nieuw en derhalve niet ontvankelijk is het cassatiemiddel waarin de provincieraad verweten wordt in openbare terechtzitting uitspraak te hebben gedaan, als niet blijkt dat de apotheker dat bezwaar voor de raad van beroep heeft aangevoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
     }
   },
   "25": {
@@ -173,6 +405,374 @@
       ],
       "abstractNL": [
         "De raad van beroep van de Orde der apothekers die in eerste en laatste aanleg uitspraak doet nadat de zaak aanhangig werd omdat de provinciale raad geen enkele beslissing heeft genomen binnen zes maanden vanaf de ontvangst van de klacht en daarbij een sanctie oplegt, dient dat te doen met tweederde meerderheid van stemmen (1). (1) Zie Cass. 21 december 2012, AR D.12.0011.N, AC 2012, nr. 706."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911212.7": {
+      "court": "CASS",
+      "date": "1991-12-12",
+      "roleNumber": "9199",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/12/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 25, alinéa 4, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, le conseil d'appel ne peut appliquer une sanction alors que le conseil provincial n'en a prononcé aucune, ou aggraver la sanction prononcée par ce conseil, qu'à la majorité des deux tiers. Il en est ainsi même si le conseil d'appel annule la décision du conseil provincial."
+      ],
+      "abstractNL": [
+        "Naar luid van art. 25, alinéa 4, Apothekerswet, kan de raad van beroep alleen met een tweederdemeerderheid een sanctie toepassen wanneer de provinciale raad er geen heeft uitgesproken, of een door die raad uitgesproken sanctie verzwaren; die regel geldt evenzeer wanneer de raad van beroep de beslissing van de provinciale raad vernietigt."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840629.11": {
+      "court": "CASS",
+      "date": "1984-06-29",
+      "roleNumber": "3908",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/29/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La notification de la décision d'un conseil provincial de l'Ordre des pharmaciens visée à l'article 25, alinéa 1er, de l'arrêté royal n° 80, du 10 novembre 1967, est réalisée au moment où la lettre recommandée à la poste est présentée à l'adresse utile."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de beslissing van een provinciale raad van de Orde van Apothekers, bedoeld in art. 25, alinéa 1, K.B. nr. 80 van 10 nov. 1967, geschiedt op het ogenblik dat de brief op het dienende adres wordt aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    }
+  },
+  "26": {
+    "ECLI:BE:CASS:1994:ARR.19940902.7": {
+      "court": "CASS",
+      "date": "1994-09-02",
+      "roleNumber": "8313",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, le pourvoi en cassation formé contre la décision du conseil d'appel de l'Ordre des pharmaciens lorsqu'il a été notifié à l'assesseur du conseil national hors du délai prévu à l'article 26, 2°, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens.(A. R. n° 80 du 10 novembre 1967, art. 26, 2°.)."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de raad van beroep van de Orde van apothekers wanneer het buiten de bij art. 26, 2°, Apothekerswet bepaalde termijn ter kennis werd gebracht van de bijzitter in de nationale raad. (Art. 26, 2°, Apothekerswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920206.10": {
+      "court": "CASS",
+      "date": "1992-02-06",
+      "roleNumber": "7730",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi en cassation contre une décision du Conseil d'appel de l'Ordre des pharmaciens, formé sans l'intervention d'un avocat à la Cour de cassation. ( A.R.n° 80 du 10 novembre 1967, art. 26. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de Raad van Beroep van de Orde der Apothekers dat zonder medewerking van een advocaat bij het Hof van Cassatie is ingesteld. ( Art. 26 K.B.nr.80 van 10 november 1967 Apothekerswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820903.8": {
+      "court": "CASS",
+      "date": "1982-09-03",
+      "roleNumber": "3563",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/03/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi en cassation contre une décision du conseil d'appel de l'Ordre des pharmaciens, formé sans l'intervention d'un avocat à la Cour de cassation. (Arrêté royal nr. 80 du 10 novembre 1967, art. 26; loi du 15 juillet 1970, art. 67.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de Raad van Beroep van de Orde van Apothekers dat zonder medewerking van een advocaat bij het Hof van Cassatie is ingesteld <1>. (Art. 26, K.B. nr. 80 10 nov. 1967; art. 67 wet 15 juli 1970.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811126.9": {
+      "court": "CASS",
+      "date": "1981-11-26",
+      "roleNumber": "6387",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les dénonciations prescrites par l'article 26, 2°, de l'arrêté royal nr. 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, modifié par l'article 67, par. 1er, 3°, de la loi du 15 juillet 1970, sont des conditions de la recevabilité du pourvoi."
+      ],
+      "abstractNL": [
+        "Kennisgeving van de voorziening aan de magistraat-bijzitter, als voorgeschreven bij art. 26, 2°, K.B. nr. 80 van 10 nov. 1967 betreffende de Orde van Apothekers, gew. bij art. 67, alinéa 1, 3° , wet van 15 juli 1970, is een vereiste voor de ontvankelijkheid van de voorziening."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801120.8": {
+      "court": "CASS",
+      "date": "1980-11-20",
+      "roleNumber": "6243",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/20/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1972:ARR.19720608.8": {
+      "court": "CASS",
+      "date": "1972-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La Cour ne peut avoir égard à un mémoire en réponse à un pourvoi contre une sentence du conseil d'appel de l'Ordre des pharmaciens, qui n'est pas signé par un avocat à la Cour de cassation. ( Arr. roy. n° 80 du 10 novembre 1967, art. 26 modifié par l'art. 67, alinéa 1er, de la loi du 15 juillet 1970, et Code judic., art. 1092. )"
+      ],
+      "abstractNL": [
+        "Het Hof kan geen rekening houden met een memorie van antwoord op een voorziening tegen een sententie van de Raad van beroep van de Orde van apothekers, die niet door een advocaat bij het Hof van cassatie is ondertekend. ( K.B. van 10 november 1967, art. 26, gewijzigd bij artikel 67, alinéa 1, van de wet van 15 juli 1970, en G.W., art. 1092. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720310.6": {
+      "court": "CASS",
+      "date": "1972-03-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Ne viole pas les droits de la défense le conseil d'appel de l'Ordre des avocats, qui rejette une demande de remise fondée sur l'ouverture d'une nouvelle instruction disciplinaire, en constatant que la cause dont il est saisi est en état d'être jugée sans que les faits nouveaux doivent être pris en considération."
+      ],
+      "abstractNL": [
+        "De rechten van de verdediging worden niet geschonden door de Raad van beroep van de Orde van advocaten, die een verzoek tot uitstel op grond van een nieuw tuchtonderzoek verwerpt, door vast te stellen dat de zaak waarvan hij kennis heeft genomen in staat van wijzen is, zonder dat de nieuwe feiten in aanmerking moeten worden genomen."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710316.6": {
+      "court": "CASS",
+      "date": "1971-03-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/03/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi formé sous l'empire de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, contre une décision du conseil mixte d'appel de cet Ordre, qui n'a pas été notifié au ministre qui a la santé publique dans ses attributions. (Arr. roy. n° 80 du 10 novembre 1967, art. 26, 2°.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep ingesteld onder de gelding van het koninklijk besluit nr. 80 van 10 november 1967 betreffende de Orde van apothekers, tegen een beslissing van de gemengde raad van beroep van die Orde die niet ter kennis is gebracht van de minister tot wiens bevoegdheid Volksgezondheid behoort. (Kon. besluit nr. 80 van 10 november 1967, art. 26, 2°.)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    }
+  },
+  "27": {
+    "ECLI:BE:CASS:1993:ARR.19931029.3": {
+      "court": "CASS",
+      "date": "1993-10-29",
+      "roleNumber": "8114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:1971:ARR.19711119.7": {
+      "court": "CASS",
+      "date": "1971-11-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/11/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 25 mars 1969, qui se fonde sur l'article 32 de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, a fixé au 1er avril 1969 la date de l'entrée en vigueur dudit arrêté royal n° 80 ainsi que l'abrogation de la loi du 19 mai 1949 créant l'Ordre des pharmaciens."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 25 maart 1969, genomen op grond van artikel 32 van het koninklijk besluit nr. 80 van 10 november 1967 betreffende de Orde der Apothekers, heeft de datum van inwerkingtreding alsmede de opheffing van de wet van 19 mei 1949 tot oprichting van de orde der Apothekers op 1 april 1969 vastgesteld."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1978:ARR.19780915.3": {
+      "court": "CASS",
+      "date": "1978-09-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Bien qu'il ne soit pas membre d'une organisation professionnelle qui a établi un réglementation relative à un service de garde, aux heures de fermeture des officines et aux périodes des vacances, peut se rendre coupable d'une infraction aux règles de la déontologie le pharmacien qui, sans motif légitime et en abusant de son droit d'exercer librement sa profession, rend difficile, par son abstention systématique de la coopération confraternelle nécessaire, l'application de pareille réglementation."
+      ],
+      "abstractNL": [
+        "wel hij geen lid is van een beroepsvereniging die een regeling heeft vastgesteld voor een wachtdienst, voor de diensturen van de officina's en de vakantieperioden, toch kan hij regels inzake de plichtenleer overtreden de apotheker die, zonder wettige reden en misbruik makend van zijn recht om zijn beroep vrij uit te oefenen, systematisch niet samenwerkt met zijn confraters, zoals zulks vereist is, zodat hij de toepassing van een dergelijke regeling bemoeilijkt <1>."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011108.5": {
+      "court": "CASS",
+      "date": "2001-11-08",
+      "roleNumber": "D990019N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'octroi de ristournes par un pharmacien à ses clients concerne en soi des intérêts exclusivement matériels et, en tant que tel, n'est pas contraire à la déontologie, sauf si l'importance de ces ristournes et leurs modalités d'octroi sont contraires aux principes généraux et au code de déontologie pharmaceutique (1)."
+      ],
+      "abstractNL": [
+        "Het verlenen van kortingen door een apotheker aan zijn klanten betreft op zich uitsluitend materiële belangen en is als dusdanig niet met de plichtenleer strijdig, tenzij de omvang van die kortingen en de wijze waarop zij worden toegekend van die aard zijn dat zij strijdig worden met de algemene beginselen en de code van de farmaceutische plichtenleer (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001109.29": {
+      "court": "CASS",
+      "date": "2000-11-09",
+      "roleNumber": "D990005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'un accord relatif à l'organisation d'un service de garde n'est pas de nature à empêcher, restreindre ou fausser le jeu de la concurrence dans une partie substantielle du marché belge concerné, le Conseil de discipline d'appel de l'Ordre des pharmaciens qui considère que tel est le cas de l'accord qui ne porte que sur un service de garde limité à une seule localité et que ce territoire limité ne peut être retenu isolément (1)."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de beslissing dat een akkoord over de organisatie van een wachtdienst niet van dien aard is dat het de vrije mededinging op een wezenlijk deel van de betrokken Belgische markt verhindert, beperkt of vervalst, wanneer de tuchtraad in hoger beroep van de Orde van apothekers beslist dat zulks het geval is met het akkoord dat enkel slaat op een wachtdienst die beperkt is tot één enkele gemeente en dat dit beperkte grondgebied niet afzonderlijk kan worden beschouwd (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940902.7": {
+      "court": "CASS",
+      "date": "1994-09-02",
+      "roleNumber": "8313",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, le pourvoi en cassation formé contre la décision du conseil d'appel de l'Ordre des pharmaciens lorsqu'il a été notifié à l'assesseur du conseil national hors du délai prévu à l'article 26, 2°, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens.(A. R. n° 80 du 10 novembre 1967, art. 26, 2°.)."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de raad van beroep van de Orde van apothekers wanneer het buiten de bij art. 26, 2°, Apothekerswet bepaalde termijn ter kennis werd gebracht van de bijzitter in de nationale raad. (Art. 26, 2°, Apothekerswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920206.10": {
+      "court": "CASS",
+      "date": "1992-02-06",
+      "roleNumber": "7730",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi en cassation contre une décision du Conseil d'appel de l'Ordre des pharmaciens, formé sans l'intervention d'un avocat à la Cour de cassation. ( A.R.n° 80 du 10 novembre 1967, art. 26. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de Raad van Beroep van de Orde der Apothekers dat zonder medewerking van een advocaat bij het Hof van Cassatie is ingesteld. ( Art. 26 K.B.nr.80 van 10 november 1967 Apothekerswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911212.7": {
+      "court": "CASS",
+      "date": "1991-12-12",
+      "roleNumber": "9199",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/12/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 25, alinéa 4, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, le conseil d'appel ne peut appliquer une sanction alors que le conseil provincial n'en a prononcé aucune, ou aggraver la sanction prononcée par ce conseil, qu'à la majorité des deux tiers. Il en est ainsi même si le conseil d'appel annule la décision du conseil provincial."
+      ],
+      "abstractNL": [
+        "Naar luid van art. 25, alinéa 4, Apothekerswet, kan de raad van beroep alleen met een tweederdemeerderheid een sanctie toepassen wanneer de provinciale raad er geen heeft uitgesproken, of een door die raad uitgesproken sanctie verzwaren; die regel geldt evenzeer wanneer de raad van beroep de beslissing van de provinciale raad vernietigt."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910603.13": {
+      "court": "CASS",
+      "date": "1991-06-03",
+      "roleNumber": "9157",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/03/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le pourvoi contre une décision d'un conseil d'appel qui est dirigé contre celui-ci et non contre l'Ordre des pharmaciens lui-même. ( A.R. n° 80 du 10 novembre 1967, art. 1er et 3, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de voorziening tegen een beslissing van een raad van beroep die gericht is tegen die raad van beroep en niet tegen de Orde der apothekers zelf. ( Artt. 1 en 3, eerste lid, Apothekerswet, K.B. nr. 80 van 10 november 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840629.11": {
+      "court": "CASS",
+      "date": "1984-06-29",
+      "roleNumber": "3908",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/29/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La notification de la décision d'un conseil provincial de l'Ordre des pharmaciens visée à l'article 25, alinéa 1er, de l'arrêté royal n° 80, du 10 novembre 1967, est réalisée au moment où la lettre recommandée à la poste est présentée à l'adresse utile."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de beslissing van een provinciale raad van de Orde van Apothekers, bedoeld in art. 25, alinéa 1, K.B. nr. 80 van 10 nov. 1967, geschiedt op het ogenblik dat de brief op het dienende adres wordt aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820903.8": {
+      "court": "CASS",
+      "date": "1982-09-03",
+      "roleNumber": "3563",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/03/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi en cassation contre une décision du conseil d'appel de l'Ordre des pharmaciens, formé sans l'intervention d'un avocat à la Cour de cassation. (Arrêté royal nr. 80 du 10 novembre 1967, art. 26; loi du 15 juillet 1970, art. 67.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een beslissing van de Raad van Beroep van de Orde van Apothekers dat zonder medewerking van een advocaat bij het Hof van Cassatie is ingesteld <1>. (Art. 26, K.B. nr. 80 10 nov. 1967; art. 67 wet 15 juli 1970.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811126.9": {
+      "court": "CASS",
+      "date": "1981-11-26",
+      "roleNumber": "6387",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les dénonciations prescrites par l'article 26, 2°, de l'arrêté royal nr. 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, modifié par l'article 67, par. 1er, 3°, de la loi du 15 juillet 1970, sont des conditions de la recevabilité du pourvoi."
+      ],
+      "abstractNL": [
+        "Kennisgeving van de voorziening aan de magistraat-bijzitter, als voorgeschreven bij art. 26, 2°, K.B. nr. 80 van 10 nov. 1967 betreffende de Orde van Apothekers, gew. bij art. 67, alinéa 1, 3° , wet van 15 juli 1970, is een vereiste voor de ontvankelijkheid van de voorziening."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810925.2": {
+      "court": "CASS",
+      "date": "1981-09-25",
+      "roleNumber": "3071",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/25/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19801120.8": {
+      "court": "CASS",
+      "date": "1980-11-20",
+      "roleNumber": "6243",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/20/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1971:ARR.19710316.6": {
+      "court": "CASS",
+      "date": "1971-03-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/03/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi formé sous l'empire de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens, contre une décision du conseil mixte d'appel de cet Ordre, qui n'a pas été notifié au ministre qui a la santé publique dans ses attributions. (Arr. roy. n° 80 du 10 novembre 1967, art. 26, 2°.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep ingesteld onder de gelding van het koninklijk besluit nr. 80 van 10 november 1967 betreffende de Orde van apothekers, tegen een beslissing van de gemengde raad van beroep van die Orde die niet ter kennis is gebracht van de minister tot wiens bevoegdheid Volksgezondheid behoort. (Kon. besluit nr. 80 van 10 november 1967, art. 26, 2°.)"
       ]
     }
   }

@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1979:ARR.19790319.7": {
+      "court": "CASS",
+      "date": "1979-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le privilège garantissant les créances du Fonds national de retraite des ouvriers mineurs vis-à-vis des employeurs couvre non seulement les cotisations dues par ceux-ci, mais aussi les majorations de cotisations et les intérêts de retard. ( Arr.-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés, art. 3, par. 1er, alinéa 7; loi hypothécaire du 16 décembre 1851, article 19, 4bis, al. 2. )"
+      ],
+      "abstractNL": [
+        "Het voorrecht tot zekerheid van de schuldvorderingen van het Nationaal Pensioenfonds voor Mijnwerkers ten opzichte van werknemers dekt niet enkel de door hen verschuldigde bijdragen, maar ook de bijdragebijslagen en de verwijlintresten. (Art. 3, alinéa 1, zevende lid, Mijnwerkerspensioenwet; art. 19, 4°bis, tweede lid, Hypotheekwet.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1985:ARR.19850204.10": {
       "court": "CASS",
@@ -85,6 +101,48 @@
         "L'article 13 précité, conçu en termes généraux, s'applique à tout titulaire d'une pension de retraite ou d'invalidité d'ouvrier mineur ou assimilé, qu'il soit de nationalité belge ou étrangère, et s'oppose au cumul de la pension de retraite ou d'invalidité à charge de la Belgique, au delà du montant de la pension de retraite que le travailleur aurait pu obtenir s'il avait effectué une carrière de trente ans comme ouvrier mineur de fond, avec toute pension de retraite ou d'invalidité fût-elle servie par une institution d'un Etat étranger. Si en vertu de l'article 11, 2 du règlement n° 3 du 25 septembre 1958 de la Communauté Economique Européenne, les clauses de réduction prévues par la législation d'un Etat membre ne sont pas applicables aux cas ou les prestations de même nature sont acquises conformément aux dispositions des articles 26 et 28 dudit règlement, c'est toutefois à la condition que les périodes d'assurance ne se superposent pas. Cette disposition ne s'oppose dès lors pas à la réduction du montant de la pension dont le F.N.R.O.M. est redevable, dans la mesure ou sa prestation se rapporte à des périodes ayant servi au calcul du montant des prestations allouées par l'institution compétente de l'Etat italien."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1975:ARR.19751016.5": {
+      "court": "CASS",
+      "date": "1975-10-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le Fonds national de retraite des ouvriers mineurs, établissement public (1), créé par la loi du 20 août 1920, est chargé, en vertu des dispositions de l'arrêté-loi du 10 janvier 1945, d'assumer, sous la garantie de l'Etat (2), le fonctionnement des diverses branches de la sécurité sociale des ouvriers mineurs et assimilés et, à cette fin, de répartir entre lesdites branches, dans les proportions déterminées par la loi, notamment le montant des cotisations que la loi impose aux exploitants charbonniers et assimilés ainsi qu'aux ouvriers mineurs et assimilés de lui verser. (Loi du 20 août 1920 modifiée par celle du 30 décembre 1924; arrêté-loi du 10 janvier 1945 modifié par les lois des 27 mars 1951 et 28 avril 1958 et l'arrêté royal nr. 50 du 24 octobre 1967.)"
+      ],
+      "abstractNL": [
+        "Het Nationaal pensioenfonds voor mijnwerkers, openbare instelling (1) welke is opgericht bij de wet van 20 augustus 1920, is krachtens de bepalingen van de besluitwet van 10 januari 1945 ermee belast, onder waarborg van het Rijk (2), te zorgen voor de werking van de verschillende onderdelen van de sociale zekerheid van de mijnwerkers en ermee gelijkgestelden en daartoe tussen de verschillende sectoren overeenkomstig de door de wet bepaalde verhoudingen, o.a. de bijdragen om te slaan welke de wet aan degenen die de mijnen ontginnen en de ermee gelijkgestelden alsmede aan de mijnwerkers en de ermee gelijkgestelden verplicht te storten aan dat Fonds. ( Wet van 20 augustus 1920 gewijzigd bij de wet van 30 december 1924; besluitwet van 10 januari 1945 gewijzigd bij de wetten van 27 maart 1951 en 28 april 1958 en het koninklijk besluit nr. 50 van 24 oktober 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680118.3": {
+      "court": "CASS",
+      "date": "1968-01-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/01/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est mélangé de fait et de droit, et partant non recevable, le moyen qui obligerait la cour à vérifier des éléments de fait."
+      ],
+      "abstractNL": [
+        "Feiten en recht zijn vermengd in een middel, dat derhalve niet ontvankelijk is, als dit middel het Hof zou verplichten gegevens van feitelijke aard na te gaan."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790319.7": {
+      "court": "CASS",
+      "date": "1979-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le privilège garantissant les créances du Fonds national de retraite des ouvriers mineurs vis-à-vis des employeurs couvre non seulement les cotisations dues par ceux-ci, mais aussi les majorations de cotisations et les intérêts de retard. ( Arr.-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés, art. 3, par. 1er, alinéa 7; loi hypothécaire du 16 décembre 1851, article 19, 4bis, al. 2. )"
+      ],
+      "abstractNL": [
+        "Het voorrecht tot zekerheid van de schuldvorderingen van het Nationaal Pensioenfonds voor Mijnwerkers ten opzichte van werknemers dekt niet enkel de door hen verschuldigde bijdragen, maar ook de bijdragebijslagen en de verwijlintresten. (Art. 3, alinéa 1, zevende lid, Mijnwerkerspensioenwet; art. 19, 4°bis, tweede lid, Hypotheekwet.)"
+      ]
     }
   }
 }

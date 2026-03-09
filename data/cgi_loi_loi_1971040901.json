@@ -1,4 +1,20 @@
 {
+  "7": {
+    "ECLI:BE:CASS:1978:ARR.19780531.3": {
+      "court": "CASS",
+      "date": "1978-05-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La commune qui, aux termes de l'article 2 de l'arrêté royal du 8 décembre 1970, ratifié par l'article 7 de la loi du 9 avril 1971, succède à tous les biens, droits, charges et obligations des communes fusionnées, a le droit de mettre fin aux concessions de service public accordées par ces communes au concessionnaire comme ces communes auraient pu le faire elles-mêmes."
+      ],
+      "abstractNL": [
+        "De gemeente die, luidens artikel 2 van het koninklijk besluit van 8 december 1970, bekrachtigd bij artikel 7 van de wet van 9 april 1971, verplicht is alle bezettingen, rechten, lasten en verplichtingen van de samengevoegde gemeenten over te nemen, heeft het recht de door die gemeenten aan de concessionaris verleende concessies van openbare diensten in te trekken, zoals die gemeenten zulks hadden kunnen doen."
+      ]
+    }
+  },
   "25": {
     "ECLI:BE:CASS:2018:ARR.20180618.3": {
       "court": "CASS",
@@ -12,6 +28,54 @@
       ],
       "abstractNL": [
         "De vergoedingen, zoals bepaald in de artikelen 22, 23 en 23bis Arbeidsongevallenwet, zijn ook verschuldigd indien vóór de tijdelijke verergering zich een verergering van de blijvende arbeidsongeschiktheid heeft voorgedaan na de herzieningstermijn en op grond daarvan aan het slachtoffer een bijslag wordt toegekend wegens verergering van blijvende arbeidsongeschiktheid tot minstens 10 pct., met toepassing van artikel 9, eerste lid, van het koninklijk besluit van 10 december 1987 betreffende de bijslagen verleend in het kader van de arbeidsongevallenwet van 10 april 1971; de toekenning van de bijslag op grond van artikel 9, eerste lid, van het voormelde koninklijk besluit opent aldus ook het recht voor de voormelde vergoedingen voor tijdelijke arbeidsongeschiktheid voor periodes die zich voordoen vanaf de aanvang van de periode waarvoor een bijslag voor verergering van blijvende arbeidsongeschiktheid tot minstens 10 pct. is toegekend (1). (1) Zie andersluidende concl. OM."
+      ]
+    }
+  },
+  "46": {
+    "ECLI:BE:CASS:2014:ARR.20140113.4": {
+      "court": "CASS",
+      "date": "2014-01-13",
+      "roleNumber": "C.13.0208.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 47 de la loi du 10 avril 1971 sur les accidents du travail que l'assureur-loi est subrogé à concurrence des débours effectués et des capitaux versés dans les droits que la victime ou ses ayants droit auraient pu exercer en vertu du droit commun à l'égard du responsable du dommage indemnisé en application de la loi du 10 avril 1971."
+      ],
+      "abstractNL": [
+        "Uit artikel 47 Arbeidsongevallenwet volgt dat de arbeidsongevallenverzekeraar tot beloop van de gedane uitkeringen en gevestigde kapitalen in de rechten treedt die het slachtoffer of zijn rechthebbenden hadden kunnen uitoefenen op grond van het gemene recht tegen de persoon die aansprakelijk is voor de schade die krachtens de Arbeidsongevallenwet wordt vergoed."
+      ]
+    }
+  },
+  "47": {
+    "ECLI:BE:CASS:2014:ARR.20140113.4": {
+      "court": "CASS",
+      "date": "2014-01-13",
+      "roleNumber": "C.13.0208.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 47 de la loi du 10 avril 1971 sur les accidents du travail que l'assureur-loi est subrogé à concurrence des débours effectués et des capitaux versés dans les droits que la victime ou ses ayants droit auraient pu exercer en vertu du droit commun à l'égard du responsable du dommage indemnisé en application de la loi du 10 avril 1971."
+      ],
+      "abstractNL": [
+        "Uit artikel 47 Arbeidsongevallenwet volgt dat de arbeidsongevallenverzekeraar tot beloop van de gedane uitkeringen en gevestigde kapitalen in de rechten treedt die het slachtoffer of zijn rechthebbenden hadden kunnen uitoefenen op grond van het gemene recht tegen de persoon die aansprakelijk is voor de schade die krachtens de Arbeidsongevallenwet wordt vergoed."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19730629.5": {
+      "court": "CASS",
+      "date": "1973-06-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 8 décembre 1970, confirmé par la loi du 9 avril 1971, ayant décidé la fusion des communes de Termonde, Appels et Saint-Gilles-Termonde et disposé, en son article 2, que la commune de Termonde, devenant la ville du même nom, succède aux droits et obligations des deux autres communes, est irrecevable le pourvoi dirigé contre la commune de Saint-Gilles-Termonde et non contre la ville de Termonde, alors que ledit article 2 était entré en vigueur avant la signification dudit pourvoi."
+      ],
+      "abstractNL": [
+        "Daar het koninklijk besluit van 8 december 1970, bekrachtigd bij de wet van 9 april 1971, beslist heeft dat de gemeenten Dendermonde, Appels en Sint-Gillis-bij-Dendermonde worden samengevoegd en in artikel 2 ervan bepaald wordt dat de gemeente Dendermonde, die een stad met dezelfde naam is geworden, de rechten en verplichtingen van de twee andere gemeenten overneemt, is niet ontvankelijk de voorziening in cassatie die tegen de gemeente Sint-Gillis-bij-Dendermonde is gericht en niet tegen de stad Dendermonde, nu genoemd artikel 2 voor de betekening van deze voorziening in werking was getreden."
       ]
     }
   }

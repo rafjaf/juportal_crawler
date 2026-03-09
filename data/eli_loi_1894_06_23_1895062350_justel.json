@@ -1,4 +1,20 @@
 {
+  "13": {
+    "ECLI:BE:CASS:2004:ARR.20040209.7": {
+      "court": "CASS",
+      "date": "2004-02-09",
+      "roleNumber": "S020057F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/02/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas de l'article 13 de la loi du 23 juin 1894 portant revision de la loi du 3 avril 1851 sur les sociétés mutualistes, que le président d'une société mutualiste ou la personne déléguée par l'assemblée générale pour le remplacer devrait toujours obtenir une autorisation d'un autre organe de la société pour pouvoir agir en justice (1). (1) Comp. L. du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités, art. 21."
+      ],
+      "abstractNL": [
+        "Uit artikel 13 van de Wet van 23 juni 1894 houdende herziening van de Wet van 3 april 1851 op de maatschappijen van onderlinge bijstand volgt niet dat de voorzitter van een maatschappij van onderlinge bijstand of de door de algemene vergadering te zijner vervanging afgevaardigde persoon altijd de machtiging van een ander orgaan van de maatschappij nodig heeft om in rechte te kunnen optreden (1). (1) Vgl. art. 21, Wet 6 aug. 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1994:ARR.19940207.6": {
       "court": "CASS",

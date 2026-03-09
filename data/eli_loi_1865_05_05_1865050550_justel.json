@@ -40,6 +40,48 @@
       "abstractNL": [
         "Behoudens uitdrukkelijke afwijking in de sociale bepalingen, is de wettelijke rentevoet in sociale zaken bedoeld in artikel 2, §3, van de wet van 5 mei 1865 betreffende de lening tegen interest, ongeacht de grond van het recht op terugvordering, van toepassing op de terugbetaling, door de instelling, van de geïnde bedragen die haar onverschuldigd als sociale bijdragen zijn betaald."
       ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860522.4": {
+      "court": "CASS",
+      "date": "1986-05-22",
+      "roleNumber": "F714F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, partant, irrecevable à l'appui d'un pourvoi en matière civile, le moyen fondé sur des dispositions légales ou un principe du droit qui ne sont ni d'ordre public ni impératifs, qui n'a pas été soumis au juge d'appel et dont celui-ci ne s'est pas saisi de sa propre initiative."
+      ],
+      "abstractNL": [
+        "Nieuw en derhalve niet ontvankelijk is het tot staving van een cassatieberoep in burgerlijke zaken aangevoerd middel, dat gegrond is op wettelijke bepalingen of een rechtsbeginsel die noch de openbare orde raken noch van dwingende aard zijn, dat niet aan de appelrechter is voorgelegd en waarover deze evenmin op eigen initiatief heeft beslist."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19651108.3": {
+      "court": "CASS",
+      "date": "1965-11-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions ont le droit d'interpréter leurs décisions antérieures, pour autant que les dispositions de celles-ci soient obscures ou ambiguës, sans toutefois pouvoir modifier ou compléter ce qui a été réellement décidé ni ajouter une constatation requise pour la légalité de ce qui a été jugé."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860522.4": {
+      "court": "CASS",
+      "date": "1986-05-22",
+      "roleNumber": "F714F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, partant, irrecevable à l'appui d'un pourvoi en matière civile, le moyen fondé sur des dispositions légales ou un principe du droit qui ne sont ni d'ordre public ni impératifs, qui n'a pas été soumis au juge d'appel et dont celui-ci ne s'est pas saisi de sa propre initiative."
+      ],
+      "abstractNL": [
+        "Nieuw en derhalve niet ontvankelijk is het tot staving van een cassatieberoep in burgerlijke zaken aangevoerd middel, dat gegrond is op wettelijke bepalingen of een rechtsbeginsel die noch de openbare orde raken noch van dwingende aard zijn, dat niet aan de appelrechter is voorgelegd en waarover deze evenmin op eigen initiatief heeft beslist."
+      ]
     }
   }
 }

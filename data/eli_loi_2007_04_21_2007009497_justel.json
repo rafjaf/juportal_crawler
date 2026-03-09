@@ -1,4 +1,34 @@
 {
+  "7": {
+    "ECLI:BE:CASS:2011:ARR.20110519.3": {
+      "court": "CASS",
+      "date": "2011-05-19",
+      "roleNumber": "C.10.0573.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les affaires en cours, auxquelles sont immédiatement applicables les dispositions de la loi du 21 avril 2007 relative à la répétibilité des honoraires et frais d'avocat modifiant l'article 1022, alinéa 1er du Code judiciaire, sont celles sur lesquelles il doit encore être prononcé au moment de l'entrée en vigueur de cette loi le 1er janvier 2008."
+      ],
+      "abstractNL": [
+        "De hangende zaken, waarop de bepalingen van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat, die artikel 1022, eerste lid, Gerechtelijk Wetboek wijzigt, onmiddellijk van toepassing zijn, zijn die waarover nog uitspraak moet worden gedaan bij de inwerkingtreding van die wet op 1 januari 2008 (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100325.1": {
+      "court": "CASS",
+      "date": "2010-03-25",
+      "roleNumber": "C.08.0483.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La nouvelle loi relative à la répétibilité des honoraires et des frais d'avocat est non seulement applicable aux actions formulées sous la forme d'une indemnité de procédure conformément à la nouvelle loi, mais également aux actions tendant à l'indemnisation de ces frais et honoraires comme élément du dommage susceptible d'être indemnisé; lorsque le premier juge a statué, avant le 1er janvier 2008, sur une action tendant à l'indemnisation de ces frais et honoraires comme élément du dommage susceptible de réparation mais que cette décision fait l'objet d'un appel régulier quant à la forme et introduit en temps utile, le juge d'appel est tenu d'appliquer la loi du 21 avril 2007 relative à la répétibilité des honoraires et des frais d'avocat aux deux instances, sous réserve de remplacer ainsi l'indemnité réclamée initialement par l'indemnité de procédure éventuellement accordée (1). (1) C. jud., art. 1022, tel que remplacé par l'art. 7 de la loi du 21 avril 2007."
+      ],
+      "abstractNL": [
+        "De nieuwe wet betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat is niet alleen van toepassing op de vorderingen die overeenkomstig die nieuwe wet onder de vorm van een rechtsplegingsvergoeding worden geformuleerd, maar tevens op de vorderingen strekkende tot vergoeding van die kosten en erelonen als vergoedbaar element van schade; wanneer de eerste rechter voor 1 januari 2008 uitspraak heeft gedaan over een vordering strekkende tot vergoeding van die kosten en erelonen als vergoedbaar element van schade, maar deze beslissing het voorwerp uitmaakt van een tijdig en regelmatig hoger beroep, dient de appelrechter toepassing te maken van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat in beide aanleggen, met dien verstande dat de eventueel toe te kennen rechtsplegingsvergoeding thans de aanvankelijk gevorderde schadevergoeding vervangt (1). (1) Art. 1022 Ger.W., zoals vervangen bij art. 7 Wet 21 april 2007."
+      ]
+    }
+  },
   "8": {
     "ECLI:BE:CASS:2017:ARR.20170315.4": {
       "court": "CASS",
@@ -29,6 +59,20 @@
       "abstractNL": [
         "Artikel 1022, eerste lid, Gerechtelijk Wetboek, zoals gewijzigd bij artikel 7 van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en de kosten verbonden aan de bijstand van een advocaat, is, vanaf haar inwerkingtreding, onmiddellijk van toepassing op de hangende zaken; onder hangende zaken worden de zaken bedoeld waarover, in de betreffende aanleg, nog uitspraak moet worden gedaan bij de inwerkingtreding van de nieuwe wet; hieruit volgt dat in hoger beroep geen rechtsplegingsvergoeding overeenkomstig de nieuwe wet kan worden toegekend voor de procedure gevoerd in eerste aanleg onder de toepassing van de oude wet (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100325.1": {
+      "court": "CASS",
+      "date": "2010-03-25",
+      "roleNumber": "C.08.0483.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 13 de la loi du 21 avril 2007 relative à la répétibilité des honoraires et des frais d'avocat, on entend par affaires en cours, les affaires en cours au moment de l'entrée en vigueur de la nouvelle loi."
+      ],
+      "abstractNL": [
+        "Onder hangende zaken in de zin van artikel 13 van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat worden de zaken bedoeld waarover nog uitspraak moet worden gedaan bij de inwerkingtreding van de nieuwe wet."
+      ]
     }
   },
   "14": {
@@ -58,6 +102,34 @@
       ],
       "abstractNL": [
         "Artikel 1022, eerste lid, Gerechtelijk Wetboek, zoals gewijzigd bij artikel 7 van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en de kosten verbonden aan de bijstand van een advocaat, is, vanaf haar inwerkingtreding, onmiddellijk van toepassing op de hangende zaken; onder hangende zaken worden de zaken bedoeld waarover, in de betreffende aanleg, nog uitspraak moet worden gedaan bij de inwerkingtreding van de nieuwe wet; hieruit volgt dat in hoger beroep geen rechtsplegingsvergoeding overeenkomstig de nieuwe wet kan worden toegekend voor de procedure gevoerd in eerste aanleg onder de toepassing van de oude wet (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110519.3": {
+      "court": "CASS",
+      "date": "2011-05-19",
+      "roleNumber": "C.10.0573.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les affaires en cours, auxquelles sont immédiatement applicables les dispositions de la loi du 21 avril 2007 relative à la répétibilité des honoraires et frais d'avocat modifiant l'article 1022, alinéa 1er du Code judiciaire, sont celles sur lesquelles il doit encore être prononcé au moment de l'entrée en vigueur de cette loi le 1er janvier 2008."
+      ],
+      "abstractNL": [
+        "De hangende zaken, waarop de bepalingen van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat, die artikel 1022, eerste lid, Gerechtelijk Wetboek wijzigt, onmiddellijk van toepassing zijn, zijn die waarover nog uitspraak moet worden gedaan bij de inwerkingtreding van die wet op 1 januari 2008 (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100325.1": {
+      "court": "CASS",
+      "date": "2010-03-25",
+      "roleNumber": "C.08.0483.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La nouvelle loi relative à la répétibilité des honoraires et des frais d'avocat est non seulement applicable aux actions formulées sous la forme d'une indemnité de procédure conformément à la nouvelle loi, mais également aux actions tendant à l'indemnisation de ces frais et honoraires comme élément du dommage susceptible d'être indemnisé; lorsque le premier juge a statué, avant le 1er janvier 2008, sur une action tendant à l'indemnisation de ces frais et honoraires comme élément du dommage susceptible de réparation mais que cette décision fait l'objet d'un appel régulier quant à la forme et introduit en temps utile, le juge d'appel est tenu d'appliquer la loi du 21 avril 2007 relative à la répétibilité des honoraires et des frais d'avocat aux deux instances, sous réserve de remplacer ainsi l'indemnité réclamée initialement par l'indemnité de procédure éventuellement accordée (1). (1) C. jud., art. 1022, tel que remplacé par l'art. 7 de la loi du 21 avril 2007."
+      ],
+      "abstractNL": [
+        "De nieuwe wet betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat is niet alleen van toepassing op de vorderingen die overeenkomstig die nieuwe wet onder de vorm van een rechtsplegingsvergoeding worden geformuleerd, maar tevens op de vorderingen strekkende tot vergoeding van die kosten en erelonen als vergoedbaar element van schade; wanneer de eerste rechter voor 1 januari 2008 uitspraak heeft gedaan over een vordering strekkende tot vergoeding van die kosten en erelonen als vergoedbaar element van schade, maar deze beslissing het voorwerp uitmaakt van een tijdig en regelmatig hoger beroep, dient de appelrechter toepassing te maken van de wet van 21 april 2007 betreffende de verhaalbaarheid van de erelonen en kosten verbonden aan de bijstand van een advocaat in beide aanleggen, met dien verstande dat de eventueel toe te kennen rechtsplegingsvergoeding thans de aanvankelijk gevorderde schadevergoeding vervangt (1). (1) Art. 1022 Ger.W., zoals vervangen bij art. 7 Wet 21 april 2007."
       ]
     }
   }

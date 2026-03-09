@@ -1,4 +1,36 @@
 {
+  "10": {
+    "ECLI:BE:CASS:2000:ARR.20000918.2": {
+      "court": "CASS",
+      "date": "2000-09-18",
+      "roleNumber": "S000004NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La délégation de compétence pour agir devant les juridictions administratives dans les litiges relatifs aux droits résultant d'une réglementation de sécurité sociale ne s'applique pas exclusivement à l'Office national de l'Emploi."
+      ],
+      "abstractNL": [
+        "De bevoegdheidsdelegatie om op te treden voor de administratieve rechtscolleges in de geschillen omtrent de rechten ontstaan uit een regeling van sociale zekerheid is niet uitsluitend van toepassing op de Rijksdienst voor Arbeidsvoorziening."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:2008:ARR.20081013.2": {
+      "court": "CASS",
+      "date": "2008-10-13",
+      "roleNumber": "S.08.0017.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en application de l'article 16, §1er, 5° de la loi coordonnée du 14 juillet 1994, le fonctionnaire dirigeant du service des soins de santé décide d'interjeter appel et que cette décision doit être approuvée par le conseil général lors de sa prochaine séance, cette approbation constitue un acte prescrit par la loi au sens de l'article 21, alinéa 1er, de la loi du 25 avril 1963, en vertu duquel, lorsque l'organisme concerné est en défaut de prendre une mesure ou d'accomplir un acte prescrit par la loi ou les règlements, le ministre dont l'organisme relève peut se substituer à lui après l'avoir invité à prendre les mesures ou à accomplir les actes nécessaires dans le délai qu'il fixe, sans que celui-ci puisse être inférieur à huit jours."
+      ],
+      "abstractNL": [
+        "Wanneer de leidend ambtenaar van de dienst voor geneeskundige verzorging, met toepassing van art. 16, § 1, 5°, gecoörd. W 14 juli 1994, beslist om hoger beroep in te stellen en die beslissing door de algemene raad goedgekeurd moet worden op zijn eerstvolgende vergadering, vormt die goedkeuring een bij de wet voorgeschreven handeling in de zin van art. 21, eerste lid, W. 25 april 1963, dat bepaalt dat, wanneer het betrokken organisme in gebreke blijft om een maatregel te treffen of een handeling te verrichten die door de wet of de verordeningen zijn voorgeschreven, de minister van wie het organisme afhangt zich in zijn plaats kan stellen na het verzocht te hebben de maatregelen te nemen of de noodzakelijke handelingen te verrichten binnen een door hem gestelde tijd, die niet minder dan acht dagen mag bedragen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1975:ARR.19751016.1": {
       "court": "CASS",

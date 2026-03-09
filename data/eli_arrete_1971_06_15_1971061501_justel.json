@@ -1,4 +1,20 @@
 {
+  "11": {
+    "ECLI:BE:CASS:1991:ARR.19910211.9": {
+      "court": "CASS",
+      "date": "1991-02-11",
+      "roleNumber": "8879",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/02/11/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La décision judiciaire prononcée à l'occasion d'une revision d'office et augmentant le montant de la réparation des dommages résultant de la maladie professionnelle, peut porter ses effets à la date de l'examen médical sur la base duquel est fondée la décision administrative non contestée prise par le Fonds dans la procédure de revision d'office antérieure. ( Lois coordonnées du 3 juin 1970, art. 52 et 53; A.R. du 15 juin 1971, art. 7 et 11. )"
+      ],
+      "abstractNL": [
+        "De rechterlijke beslissing naar aanleiding van een ambtshalve herziening, waarbij het bedrag tot vergoeding van de schade ten gevolge van een beroepsziekte wordt verhoogd, kan effect sorteren op de datum van het medisch onderzoek dat ten grondslag ligt aan de niet betwiste administratieve beslissing van het Fonds in de vroegere procedure inzake ambtshalve herziening. ( Artt. 52 en 53, gecoördineerde wetten van 3 juni 1970; artt. 7 en 11, K.B. van 15 juni 1971. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1981:ARR.19810615.6": {
       "court": "CASS",

@@ -1,4 +1,66 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2008:ARR.20081119.5": {
+      "court": "CASS",
+      "date": "2008-11-19",
+      "roleNumber": "P.08.1047.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte d'aucune disposition légale que, lorsque l'exploitant d'un établissement classé, dont l'exploitation requérait un permis d'environnement, est une personne morale, les dirigeants de celle-ci ne peuvent être poursuivis."
+      ],
+      "abstractNL": [
+        "Uit geen enkele wettelijke bepaling vloeit voort dat, wanneer de exploitant van een ingedeelde inrichting waarvan de exploitatie een milieuvergunning vereiste, een rechtspersoon is, de bestuurders ervan niet kunnen worden vervolgd."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:2011:ARR.20110608.2": {
+      "court": "CASS",
+      "date": "2011-06-08",
+      "roleNumber": "P.11.0305.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'autorisation de déverser à l'égout des eaux usées accordée à une société fixe comme condition particulière l'obligation d'avertir l'administration en cas de déversement accidentel, cette obligation s'applique à tout déversement fortuit et n'est pas subordonnée à un dépassement des normes régissant la nature, la composition ou la quantité des produits déversés."
+      ],
+      "abstractNL": [
+        "Wanneer de aan een bedrijf verleende vergunning tot het lozen van afvalwater in de riolering, als specifieke voorwaarde oplegt om in geval van accidentele lozing het bestuur in te lichten, is die waarschuwingsplicht van toepassing op alle toevallige lozingen en vereist zij niet dat de normen die de aard, de samenstelling of de hoeveelheid van de geloosde producten regelen, zijn overschreden (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:2011:ARR.20111005.7": {
+      "court": "CASS",
+      "date": "2011-10-05",
+      "roleNumber": "P.11.0758.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En Région wallonne, nul ne peut, en règle, exploiter sans un permis d'environnement un établissement de classe 1 ou de classe 2; cette disposition ne subordonne pas l'exigence d'un permis d'environnement à la circonstance que l'établissement classé soit exploité dans un cadre professionnel (1). (1) Décret du Conseil régional wallon du 11 mars 1999 relatif au permis d'environnement, art. 10."
+      ],
+      "abstractNL": [
+        "In het Waals Gewest kan in de regel niemand zonder milieuvergunning een inrichting van klasse 1 of 2 exploiteren; die bepaling stelt de milieuvergunning niet afhankelijk van het vereiste dat de ingedeelde inrichting beroepshalve wordt geëxploiteerd (1). (1) Art. 10, Decreet Raad Waals Gewest 11 maart 1999 betreffende de milieuvergunning."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081119.5": {
+      "court": "CASS",
+      "date": "2008-11-19",
+      "roleNumber": "P.08.1047.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Requiert un permis d'environnement, l'exploitation de locaux de spectacle et d'amusement dont la capacité est supérieure à 150 personnes et qui sont équipés d'installations d'émission de musique amplifiée électroniquement, même si lesdites installations sont temporaires ou mobiles."
+      ],
+      "abstractNL": [
+        "Voor de exploitatie van voorstellingszalen en amusementslokalen met een capaciteit van meer dan 150 personen en voorzien van installaties voor het draaien van elektronisch versterkte muziek, is een milieuvergunning vereist, ook als de voormelde installaties tijdelijk of mobiel zijn."
+      ]
+    }
+  },
   "11": {
     "ECLI:BE:CASS:2025:ARR.20250604.2F.10": {
       "court": "CASS",
@@ -14,6 +76,36 @@
         "Lorsque le juge constate que les préventions reprochées au prévenu visent le fait d'exploiter irrégulièrement un local, un terrain ou un atelier ayant pour objet l'entreposage, l'entretien ou la réparation de véhicules automoteurs, le juge peut en déduire que les dits véhicules, propriété du prévenu et relevant de son exploitation irrégulière, constituent l'objet des préventions (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    }
+  },
+  "58": {
+    "ECLI:BE:CASS:2011:ARR.20110608.2": {
+      "court": "CASS",
+      "date": "2011-06-08",
+      "roleNumber": "P.11.0305.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'autorisation de déverser à l'égout des eaux usées accordée à une société fixe comme condition particulière l'obligation d'avertir l'administration en cas de déversement accidentel, cette obligation s'applique à tout déversement fortuit et n'est pas subordonnée à un dépassement des normes régissant la nature, la composition ou la quantité des produits déversés."
+      ],
+      "abstractNL": [
+        "Wanneer de aan een bedrijf verleende vergunning tot het lozen van afvalwater in de riolering, als specifieke voorwaarde oplegt om in geval van accidentele lozing het bestuur in te lichten, is die waarschuwingsplicht van toepassing op alle toevallige lozingen en vereist zij niet dat de normen die de aard, de samenstelling of de hoeveelheid van de geloosde producten regelen, zijn overschreden (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081119.5": {
+      "court": "CASS",
+      "date": "2008-11-19",
+      "roleNumber": "P.08.1047.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Requiert un permis d'environnement, l'exploitation de locaux de spectacle et d'amusement dont la capacité est supérieure à 150 personnes et qui sont équipés d'installations d'émission de musique amplifiée électroniquement, même si lesdites installations sont temporaires ou mobiles."
+      ],
+      "abstractNL": [
+        "Voor de exploitatie van voorstellingszalen en amusementslokalen met een capaciteit van meer dan 150 personen en voorzien van installaties voor het draaien van elektronisch versterkte muziek, is een milieuvergunning vereist, ook als de voormelde installaties tijdelijk of mobiel zijn."
+      ]
     }
   },
   "77": {

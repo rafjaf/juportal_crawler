@@ -29,6 +29,50 @@
       ]
     }
   },
+  "5": {
+    "ECLI:BE:CASS:2001:ARR.20011220.8": {
+      "court": "CASS",
+      "date": "2001-12-20",
+      "roleNumber": "C980032N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le capitaine exerce l'autorité et la surveillance sur le pilote, même si le propriétaire du bateau reste civilement responsable des actes de celui-ci (1) (2)."
+      ],
+      "abstractNL": [
+        "De kapitein heeft gezag en toezicht over de loods, al blijft de scheepseigenaar burgerlijk aansprakelijk voor diens handelingen (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850517.4": {
+      "court": "CASS",
+      "date": "1985-05-17",
+      "roleNumber": "4492",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 5 de la loi du 3 novembre 1967 sur le pilotage des bâtiments de mer, le capitaine est seul maître de la conduite et des manoeuvres du bâtiment; il n'est investi d'aucune autorité à l'égard du pilote qui opère comme son conseiller."
+      ],
+      "abstractNL": [
+        "Overeenkomstig art. 5 wet 3 nov. 1967 betreffende het loodsen van zeevaartuigen is alleen de kapitein meester over de leiding en de maneuvers van het vaartuig, maar hij heeft geen enkel gezag over de loods die als zijn raadgever optreedt."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831215.12": {
+      "court": "CASS",
+      "date": "1983-12-15",
+      "roleNumber": "6871",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 5 de la loi du 3 novembre 1967 sur le pilotage des bâtiments de mer, le capitaine est seul maître de la conduite et des manoeuvres du bâtiment; il n'est investi d'aucune autorité à l'égard du pilote qui opère comme son conseiller."
+      ],
+      "abstractNL": [
+        "Overeenkomstig art. 5 wet 3 nov. 1967 betreffende het loodsen van zeevaartuigen is de kapitein alleen meester over de leiding en de maneuvers van het vaartuig; hij heeft geen enkel gezag over de loods die als zijn raadgever optreedt."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1983:ARR.19831215.11": {
       "court": "CASS",
@@ -42,6 +86,20 @@
       ],
       "abstractNL": [
         "Uit art. 251, 3° en 7° lid, Scheepvaartwet volgt dat indien de aanvaring te wijten is aan de schuld van een der schepen, de schade van de benadeelden ten gevolge van die aanvaring moet worden vergoed door de eigenaar van dat schip; doch, noch uit art. 251 Scheepvaartwet, noch uit art. 64 van die wet, luidens hetwelk de kapitein verplicht is persoonlijk op zijn schip aanwezig te zijn bij het in- en uitvaren van havens, ankerplaatsen of rivieren, volgt dat de eigenaar geen verhaal zou kunnen uitoefenen tegen derden die eventueel aansprakelijk kunnen gesteld worden op grond van andere wettelijke bepalingen, met name de art. 1382 of 1384 B.W. De kapitein, die overeenkomstig art. 5 wet 3 november 1967 betreffende het loodsen van zeevaartuigen alleen meester is over de leiding en de maneuvers van het vaartuig, heeft geen enkel gezag over de loods die, volgens dezelfde wettekst, optreedt als zijn raadgever. Niet naar recht verantwoord is het arrest dat nalaat te onderzoeken of de loods van een schip dat de aanvaring heeft veroorzaakt een fout heeft begaan, die, ook al was zij zeer licht, heeft bijgedragen tot de schade ten gevolge van die aanvaring, en dat uitsluit dat, zo ja, de Staat aansprakelijk kan worden gesteld, hoewel de loods deel uitmaakt van een door de Staat ingerichte dienst en onder de uitsluitende bevoegdheid van de Staat valt."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011220.8": {
+      "court": "CASS",
+      "date": "2001-12-20",
+      "roleNumber": "C980032N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le capitaine exerce l'autorité et la surveillance sur le pilote, même si le propriétaire du bateau reste civilement responsable des actes de celui-ci (1) (2)."
+      ],
+      "abstractNL": [
+        "De kapitein heeft gezag en toezicht over de loods, al blijft de scheepseigenaar burgerlijk aansprakelijk voor diens handelingen (1) (2)."
       ]
     }
   }

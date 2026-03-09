@@ -1,4 +1,50 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1999:ARR.19990614.2": {
+      "court": "CASS",
+      "date": "1999-06-14",
+      "roleNumber": "S980042N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Par séjour, au sens de l'extension de l'intervention de l'assurance obligatoire contre la maladie et l'invalidité aux travailleurs indépendants, d'une part, à l'hospitalisation pour mise en observation et traitement et, d'autre part, aux médicaments délivrés pendant un séjour dans cet établissement, il y a lieu d'entendre une hospitalisation qui est nécessaire parce qu'il est impossible d'appliquer le traitement requis ou de poser un diagnostic précis de manière ambulatoire."
+      ],
+      "abstractNL": [
+        "Met verblijf, in de zin van de uitbreiding van de tussenkomst der verplichte ziekte- en invaliditeitsverzekering ten laste van de zelfstandigen tot enerzijds de opneming in een ziekenhuis ter observatie en behandeling en anderzijds de tijdens een verblijf in deze inrichting afgeleverde geneesmiddelen, wordt bedoeld een hospitalisatie die noodzakelijk is omdat het niet mogelijk is op ambulante wijze de vereiste behandeling door te voeren of de gepaste diagnose te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790205.2": {
+      "court": "CASS",
+      "date": "1979-02-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/02/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, alinéa 2, 14., de l'arrêté royal du 30 juillet 1964, qui prévoit l'intervention de l'assurance maladie-invalidité pour les prestations de rééducation fonctionnelle destinées à corriger ou compenser, chez un enfant, un handicap physique ou mental, ne distingue pas entre l'origine accidentelle ou congénitale de ce handicap et vise non seulement la récupération d'un état préexistant mais aussi les soins destinés à combler un handicap de l'enfant, quelle que soit son origine. (Art. 1er, al. 2, 14., de l'arrêté royal du 30 juillet 1964 portant les conditions dans lesquelles l'application de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité est étendue aux travailleurs indépendants.)"
+      ],
+      "abstractNL": [
+        "Art. 1, tweede lid, 14°, K.B. van 30 juli 1964 volgens hetwelk de ziekte- en invaliditeitsverzekering tussenkomt in verstrekkingen voor revalidatie die bestemd zijn om bij een kind een lichamelijke of mentale handicap zo volledig mogelijk tegen te gaan of te verhelpen, maakt geen onderscheid tussen de accidentele of aangeboren oorsprong van die handicap en beoogt niet enkel het herstel van een vroeger bestaande gezondheidstoestand, maar ook de verzorging om een handicap van het kind te verhelpen, ongeacht de oorsprong ervan. ( Art. 1, tweede lid, 14°, K.B. van 30 juli 1964 houdende de voorwaarden waaronder de toepassing van de Z.I.V.-Wet van 9 augustus 1963 tot de zelfstandigen wordt verruimd. )"
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:1986:ARR.19860210.10": {
+      "court": "CASS",
+      "date": "1986-02-10",
+      "roleNumber": "5033",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'ancien travailleur indépendant qui, en application de l'article 38 de l'arrêté royal du 22 décembre 1967, peut, pendant deux ans, préserver ses droits au régime de pension pour travailleurs indépendants, ne peut, pendant cette période, être assujetti à l'assurance soins de santé comme \"personne non encore protégée\". ( Arr. roy. du 28 juin 1962, art. 1er, 1°; arr. roy. du 30 juillet 1964, art. 3, 3° )."
+      ],
+      "abstractNL": [
+        "De gewezen zelfstandige die na het stopzetten van zijn beroepsarbeid met toepassing van art. 38 K.B. 22 december 1967 nog gedurende twee jaar zijn rechten in de pensioenregeling voor zelfstandigen kan vrijwaren, kan gedurende die periode niet als \"nog niet beschermde persoon\" onder de ziektekostenverzekering vallen. ( Art. 1, 1°, K.B. 28 juni 1962; art. 3, 3°, K.B. 30 juli 1964. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1973:ARR.19731220.2": {
       "court": "CASS",

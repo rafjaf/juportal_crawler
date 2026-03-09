@@ -1,4 +1,20 @@
 {
+  "5": {
+    "ECLI:BE:CASS:2009:ARR.20090928.3": {
+      "court": "CASS",
+      "date": "2009-09-28",
+      "roleNumber": "S.08.0144.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'action a pris naissance avant l'entrée en vigueur de la loi du 10 juin 1998 modifiant l'article 2262bis du Code civil, les nouveaux délais de prescription qu'elle institue ne commencent à courir qu'à partir de cette entrée en vigueur sans que toutefois, la durée totale du délai de prescription ne puisse dépasser trente ans (1). (1) Voir conclusions écrites du ministère public."
+      ],
+      "abstractNL": [
+        "Wanneer de rechtsvordering is ontstaan vóór de inwerkingtreding van W. 10 juni 1998 tot wijziging van art. 2262bis B.W., beginnen de nieuwe verjaringstermijnen waarin zij voorziet slechts te lopen vanaf haar inwerkingtreding, zonder dat de totale duur van de verjaringstermijn meer dan dertig jaar mag bedragen (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2014:ARR.20140206.3": {
       "court": "CASS",
@@ -12,6 +28,52 @@
       ],
       "abstractNL": [
         "Uit de bepalingen van artikel 2262bis, eerste lid, Burgerlijk Wetboek en artikel 10 van de Wet van 10 juni 1998 tot wijziging van sommige bepalingen betreffende de verjaring volgt dat wanneer het recht op de persoonlijke rechtsvordering ontstaan is vóór de inwerkingtreding van de voormelde wet van 10 juni 1998, de vordering door verloop van tien jaar verjaart, zonder dat de totale duur van de verjaringstermijn meer dan dertig jaar mag bedragen; wanneer het recht op de persoonlijke rechtsvordering ontstaan is na de inwerkingtreding van deze wet, verjaart de vordering door verloop van tien jaar (1). (1) Het O.M. concludeerde tot de verwerping van het enig middel tot cassatie, mede op grond dat het vierde onderdeel faalde naar recht, nu op basis van een onderzoek van het begrip \"rechtsvordering\" in artikel 10 van de Wet van 10 juni 1998 tot wijziging van sommige bepalingen betreffende de verjaring blijkt dat, voor de bepaling van de relevante verjaringsregel, niet de datum waarop de rechtsvordering wordt ingesteld relevant is, maar de datum waarop het vorderingsrecht ontstaan is. Is dit laatste het geval voor de inwerkingtreding van de wet van 10 juni 1998, dan geldt de overgangsregel van artikel 10 van deze wet. Is dit recht nadien ontstaan, dan wordt artikel 2262bis, §1, lid 1, BW toegepast. In zoverre het middel aanvoerde dat de appelrechters de tienjarige verjaring dienden toe te passen omdat de rechtsvordering van de verweerders werd ingesteld na de inwerkingtreding van de Wet van 10 juni 1998 (27 juli 1998, en dus 27 juli 2008), ging het naar het oordeel van het O.M. van een verkeerde rechtsopvatting uit. (Zie Cass. 4 okt. 1957, AC 1958, 54; Cass. 24 jan. 1997, AR C.96.0068.N, AC 1998, nr. 47; zie ook: I. Claeys, De nieuwe verjaringswet: een inleidende verkenning, RW 1998-1999, 401-402, nr. 62; P. De Smedt, Toepassing in de tijd van de gewijzigde verjaringstermijnen, in De herziening van de bevrijdende verjaring door de Wet van 10 juni 1998. De gelijkheid hersteld?, Antwerpen, Kluwer, 1999, 146-147, nrs. 184 en 186; A. Van Oevelen, Recente ontwikkelingen inzake de bevrijdende verjaring in het burgerlijk recht, RW 2000-2001, 1439, nr. 13; C. Lebon, De nieuwe verjaringswet, 5 jaar later, NjW 2003, 836-837, nrs. 6 en 7; J.F. Van Droogenbroeck en R.O. Dalcq, La loi du 10 juin 1998 modifiant certaines dispositions en matière de prescription, JT 1998, 708)."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090928.3": {
+      "court": "CASS",
+      "date": "2009-09-28",
+      "roleNumber": "S.08.0144.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/09/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'action a pris naissance avant l'entrée en vigueur de la loi du 10 juin 1998 modifiant l'article 2262bis du Code civil, les nouveaux délais de prescription qu'elle institue ne commencent à courir qu'à partir de cette entrée en vigueur sans que toutefois, la durée totale du délai de prescription ne puisse dépasser trente ans (1). (1) Voir conclusions écrites du ministère public."
+      ],
+      "abstractNL": [
+        "Wanneer de rechtsvordering is ontstaan vóór de inwerkingtreding van W. 10 juni 1998 tot wijziging van art. 2262bis B.W., beginnen de nieuwe verjaringstermijnen waarin zij voorziet slechts te lopen vanaf haar inwerkingtreding, zonder dat de totale duur van de verjaringstermijn meer dan dertig jaar mag bedragen (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:2000:ARR.20000929.1": {
+      "court": "CASS",
+      "date": "2000-09-29",
+      "roleNumber": "C970154NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition suivant laquelle l'action civile résultant d'une infraction se prescrit selon les règles du Code civil ou des lois particulières qui sont applicables à l'action en dommages et intérêts est applicable aux actions qui ne sont pas définitivement jugées; c'est le cas lorsqu'un recours en cassation est pendant."
+      ],
+      "abstractNL": [
+        "De bepaling dat de burgerlijke rechtsvordering uit een misdrijf verjaart volgens de regels van het Burgerlijk Wetboek of van de bijzondere wetten die van toepassing zijn op de rechtsvordering tot vergoeding van de schade is toepasselijk op rechtsvorderingen waarover niet definitief beslist werd; dit is het geval wanneer een cassatieberoep hangend is."
+      ]
+    }
+  },
+  "2262bis": {
+    "ECLI:BE:CASS:2003:ARR.20030522.13": {
+      "court": "CASS",
+      "date": "2003-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/05/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La disposition suivant laquelle l'action civile résultant d'une infraction se prescrit selon les règles du Code civil ou des lois particulières qui sont applicables à l'action en dommages et intérêts est applicable aux actions qui ne sont pas définitivement jugées (1). (1) Cass., 29 septembre 2000, RG C.97.0154.N, n° 502."
+      ],
+      "abstractNL": [
+        "De bepaling dat de burgerlijke rechtsvordering uit een misdrijf verjaart volgens de regels van het Burgerlijk Wetboek of van de bijzondere wetten die van toepassing zijn op de rechtsvordering tot vergoeding van de schade is toepasselijk op rechtsvorderingen waarover nog niet definitief is beslist (1). (1) Cass., 29 sept. 2000, AR C.97.0154.N, nr 502."
       ]
     }
   }

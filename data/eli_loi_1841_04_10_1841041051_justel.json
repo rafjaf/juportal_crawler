@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:1996:ARR.19961129.5": {
+      "court": "CASS",
+      "date": "1996-11-29",
+      "roleNumber": "C940481N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'indication de la largeur d'un chemin vicinal dans l'atlas des chemins vicinaux a seulement des effets juridiques quant à la largeur qui y est mentionnée et non quant à la plus grande largeur sur lequel le chemin est utilisé."
+      ],
+      "abstractNL": [
+        "De vermelding van de breedte van een buurtweg in de atlas der buurtwegen heeft enkel rechtsgevolgen voor de daarin vermelde breedte en niet voor de ruimere breedte waarover die weg wordt gebruikt."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2010:ARR.20101115.2": {
       "court": "CASS",
@@ -12,6 +28,20 @@
       ],
       "abstractNL": [
         "De in artikel 12 van de wet van 10 april 1841 bedoelde buurtwegen kunnen niet door verjaring verkregen worden zolang zij tot het openbaar gebruik dienen; de rechter beperkt op onwettige wijze het begrip openbaar gebruik in de zin van dat artikel 12 wanneer hij oordeelt dat, onder openbaar gebruik van een weg, moet worden verstaan de gebruikelijke doorgang van het publiek en niet een toevallig en schaars gebruik."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741004.8": {
+      "court": "CASS",
+      "date": "1974-10-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le fait qu'un particulier a été autorisé, à titre provisoire et à certaines conditions, par le collège des bourgmestre et échevins, en vertu d'un règlement de police sur l'occupation de la voie publique, à construire une terrasse sur un terrain ne prouve pas, à lui seul, que ce terrain appartient à la voie publique."
+      ],
+      "abstractNL": [
+        "Het feit dat een particulier van het college van burgemeester en schepenen, overeenkomstig een politieverordening op de ingebruikneming van de openbare weg, voorlopig en onder bepaalde voorwaarden een vergunning heeft gekregen om op een perceel grond een terras te bouwen, bewijst op zichzelf niet dat dit perceel deel uitmaakt van de openbare weg."
       ]
     }
   },
@@ -56,6 +86,186 @@
       ],
       "abstractNL": [
         "Het openbaar gebruik dat de verjaring belet van de buurtwegen, zoals ze worden erkend en gehandhaafd ingevolge de algemene rooi- en afpalingsplannen, impliceert het gebruik van de buurtweg volgens het traject bepaald in de Atlas der buurtwegen (1). (1) Zie Cass., 10 dec. 1885, Pas., 1886, I, 9, met concl. eerste adv.-gen. Mesdagh de ter Kiele."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20041028.15": {
+      "court": "CASS",
+      "date": "2004-10-28",
+      "roleNumber": "C020109F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La partie qui allègue que le droit de passage sur un chemin vicinal dont le sol lui appartient s'est éteint par l'effet du défaut d'usage public de ce chemin pendant trente ans, a la charge de prouver ce fait."
+      ],
+      "abstractNL": [
+        "De partij die aanvoert dat het recht van uitweg over de buurtweg waarvan de bodem haar toebehoort, tenietgegaan is doordat die weg gedurende dertig jaar niet tot het openbaar nut diende, moet dat feit bewijzen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940113.15": {
+      "court": "CASS",
+      "date": "1994-01-13",
+      "roleNumber": "9551",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les chemins vicinaux visés à l'art. 12 de la loi du 10 avril 1841 sont imprescriptibles aussi longtemps qu'ils servent à l'usage public; restreint illégalement la notion d'usage public au sens dudit art. 12, le juge qui considère que, par usage public d'un chemin, on entend le passage habituel du public et non les actes de passage accidentels et isolés. (L. 10 avril 1841, art. 10 et 12; C. civ., art. 2226.)"
+      ],
+      "abstractNL": [
+        "De in art. 12 Wet van 10 april 1841 bedoelde buurtwegen kunnen door geen verjaring verkregen worden zolang zij dienen tot het openbaar gebruik; het begrip \" openbaar gebruik \", in de zin van voormeld art. 12, wordt door rechter onterecht beperkt, wanneer hij oordeelt dat onder openbaar gebruik van een weg wordt verstaan de gewoonlijke overgang door het gebruik en niet een toevallige en enkele overgang. (Artt. 10 en 12 Wet van 10 april 1841; art. 226 B.W.)"
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:1971:ARR.19710318.1": {
+      "court": "CASS",
+      "date": "1971-03-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/03/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Indépendamment des modes particuliers prévus par la loi, et notamment par les articles 1er, 28 et 28bis de la loi du 10 avril 1841, une commune peut acquérir la vicinalité d'un chemin par une possession trentenaire, répondant aux prescriptions de l'article 2229 du Code civil. (Code civil, art. 2229 et 2262.)"
+      ],
+      "abstractNL": [
+        "Ongeacht de bijzondere wijzen bij de wet bepaald en onder meer bij de artikelen 1, 28 en 28bis van de wet van 10 april 1841, kan een gemeente een buurtweg verkrijgen door het bezit ervan te hebben gedurende dertig jaren, overeenkomstig de voorschriften van artikel 2229 van het Burgerlijk Wetboek. (Burg. Wetb., art. 2229 en 2262.)"
+      ]
+    }
+  },
+  "29": {
+    "ECLI:BE:CASS:1983:ARR.19830520.1": {
+      "court": "CASS",
+      "date": "1983-05-20",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un droit de passage sur une propriété privée peut être acquis en tant que \" servitude légale \" d'utilité publique au profit des habitants d'une commune et de tous les intéressés par un usage trentenaire continu, non interrompu, public et non équivoque d'une bande de terrain, par chacun, à des fins de circulation publique, à condition que cet usage ait lieu avec l'intention d'utiliser cette bande dans ce but et ne repose pas sur une simple tolérance du propriétaire du terrain; cette règle vaut indépendamment de tout acte administratif formel de la commune, encore qu'un tel acte puisse contribuer à prouver cette intention."
+      ],
+      "abstractNL": [
+        "Een recht van overgang over een privé-eigendom kan als \" wettelijke erfdienstbaarheid \" tot openbaar nut, ten behoeve van de inwoners van de gemeente en van alle belanghebbenden, worden verkregen door een dertigjarig voortdurend en onafgebroken, openbaar en niet dubbelzinnig gebruik van een strook grond door een ieder voor het openbaar verkeer, mits dit gebruik geschiedt met de bedoeling de strook als zodanig te gebruiken en niet berust op een eenvoudig gedogen van de eigenaar van de grond; zulks geldt ook afgezien van enige formele administratieve handeling van de gemeente, zij het dat zodanige handeling de bedoeling mede kan bewijzen."
+      ]
+    }
+  },
+  "33": {
+    "ECLI:BE:CASS:1982:ARR.19820323.9": {
+      "court": "CASS",
+      "date": "1982-03-23",
+      "roleNumber": "6904",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'est prescrite une infraction aux articles 88, 9°, du Code rural et 28 du règlement sur les chemins vicinaux de la province de Flandre occidentale du 24 avril 1952, modifié par arrêté du 10 octobre 1963, le juge de répression, saisi de l'action publique avant que la prescription ait été acquise, doit, par application de l'article 32bis du règlement provincial et de l'article 33 de la loi du 10 avril 1841 sur les chemins vicinaux, ordonner le rétablissement des lieux dans leur état primitif; ce rétablissement ne constitue en effet pas une peine mais uniquement un mode particulier de réparation ou de restitution destiné à mettre fin à une situation contraire à la loi résultant de l'infraction et nuisant à l'intérêt public; la décision qui l'ordonne est de nature civile."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van art. 88, 9°, Veldw. en van art. 28 van de verordening op de buurtwegen vande provincie West-Vlaanderen van 24 april 1952, gew. bij besluit van 10 okt. 1963, verjaard is, moet de strafrechter bij wie de strafvordering aanhangig is gemaakt voordat deze door verjaring is vervallen, met toepassing van art. 32bis van de provincieverordening en van art. 33 wet van 10 april 1841 op de buurtwegen, bevelen dat de plaats in haar vorige staat wordt hersteld; dat herstel is immers geen straf, maar een bijzondere vorm van vergoeding of teruggave om een einde te maken aan de met de wet strijdige toestand, die uit het misdrijf is ontstaan en waardoor het openbaar belang wordt geschaad; de beslissing waarbij het herstel wordt bevolen, is van civielrechtelijke aard <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810317.11": {
+      "court": "CASS",
+      "date": "1981-03-17",
+      "roleNumber": "6196",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Ne s'oppose pas à l'exercice du droit de la commune de constituer partie civile, la disposition de l'article 33 de la loi du 10 avril 1841 sur les chemins vicinaux, qui oblige le juge à prononcer, outre la peine, la remise en état des lieux."
+      ],
+      "abstractNL": [
+        "Art. 33 wet van 10 april 1841 op de buurtwegen, volgens hetwelk de rechter verplicht is, buiten de straf die hij oplegt, te bevelen dat de plaats in de vorige toestand wordt hersteld, doet geen afbreuk aan het recht van de gemeente om zich burgerlijke partij te stellen."
+      ]
+    }
+  },
+  "649": {
+    "ECLI:BE:CASS:2003:ARR.20030620.5": {
+      "court": "CASS",
+      "date": "2003-06-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/06/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un chemin qui n'a pas été nécessairement possédé par la commune à des fins de prescription acquisitive dans le respect des conditions prévues aux articles 2229 et 2265 du Code civil n'acquiert pas le caractère de chemin vicinal par sa seule inscription sur un plan arrêté par la députation permanente figurant à l'atlas des chemins vicinaux (1); la commune acquiert un droit de propriété sur le chemin vicinal ou l'usage d'une servitude de droit public suivant la portée et l'étendue de sa possession uniquement si les conditions de l'article 10 de la loi du 10 avril 1841 sur les chemins vicinaux sont remplies (2). (1) Voir Cass., 26 avril 1877, Pas., 1877, I, 217; 29 décembre 1881, Pas., 1882, I, 22; 1 février 1900, Pas., 1900, I, 131 et 22 avril 1983, RG 3681, n° 463. Voir également Wilkin, R., Voirie et alignement. Urbanisme et Construction, Bruylant, Bruxelles, 1964, 118 e.s.; Derine, R. & Hamelink, P., Overzicht van rechtspraak (1973-1979) Zakenrecht, T.P.R., 1981, 211, n° 118; Baert., G., Eigendom en afpaling ten aanzien van buurt- en landwegen, T. not., 1992, 466; Pâques, B., Création et suppression des chemins ruraux par l'effet de la prescription, Aménagement-Environnement, 1992, numéro spécial, Kluwer Editions Juridiques Belgique, 36; Vuye, H., Fundamentele regels omtrent buurtwegen. Het arrest van het Hof van Cassatie van 13 januari 1994, R.Cass., 1994, 93, suivi de l'arrêt dans sa version originaire (langue française) (98), également publié dans Bull. et Pas., RG 9551, n° 15; Kokelenberg, J., Van Sinay, Th. & Vuye, H., Overzicht van rechtspraak (1989-1994) Zakenrecht, T.P.R., 1995, 695, nos 161-164; Mast, A., Overzicht van het Belgisch administratief recht, 14° éd. par Dujardin, J., Van Damme, M. & Vande Lanotte, J., 1996, Kluwer Rechtswetenschappen België, 280, n° 290; Snaet, S., Over de verkrijgende verjaring van buurtwegen, note sous Cass., 29 novembre 1996, A.J.T., 1997-98, 11; Vanoppen, S., De buurtweg: één- of tweerichtingsweg. Verjaringsaspecten inzake buurtwegen, T.V.G., 1999, 15. (2) Voir Cass., 20 février 1973, Bull. et Pas., 1973, I, 584."
+      ],
+      "abstractNL": [
+        "Een weg verkrijgt niet het kenmerk van buurtweg door het enkele feit dat hij is opgenomen in een door de provinciale deputatie vastgesteld plan van de Atlas der Buurtwegen, zonder dat is voldaan aan het voor de verkrijgende verjaring noodzakelijk bezit ervan door de gemeente volgens de voorwaarden gesteld in de artikelen 2229 en 2265 van het Burgerlijk Wetboek (1); enkel wanneer voldaan is aan de voorwaarden van artikel 10 van de wet van 10 april 1841 op de buurtwegen en van het bezit overeenkomstig voormelde artikelen van het Burgerlijk Wetboek verwerft de gemeente een eigendomsrecht op de buurtweg of enkel een publiekrechtelijke erfdienstbaarheid naargelang de draagwijdte en de strekking van haar bezit (2). (1)Zie Cass., 26 april 1877, Pas., 1877, I, 217, 29 dec. 1881, Pas., 1882, I, 22, 1 feb. 1900, Pas., 1900, I, 131 en 22 april 1983, AR 3681, A.C., 1982-83, nr 463. Zie ook WILKIN, R., Voirie et alignement. Urbanisme et Constructions, Bruylant, Brussel, 1964, 118 e.v., DERINE, R. & HAMELINK, P., Overzicht van rechtspraak (1973-1979) Zakenrecht, T.P.R., 1981, 211, nr 118, BAERT, G., Eigendom en afpaling ten aanzien van buurten landwegen, T. Not., 1992, 466, PAQUES, B., Création et suppression des chemins ruraux par l'effet de la prescription, Aménagement-Environnement, 1992, n° spécial, Kluwer Editions Juridiques Belgique, 36, VUYE, H., Fundamentele regels omtrent buurtwegen. Het arrest van het Hof van Cassatie van 13 januari 1994, Rec.Cass., 1994, 93, gevolgd door het arrest, in de oorspronkelijke (Franse) taal (98), dat ook gepubliceerd werd in A.C., AR 9551, nr 15, KOKELENBERG, J., VAN SINAY, Th. & VUYE, H., Overzicht van rechtspraak (1989-1994) Zakenrecht, T.P.R., 1995, 695, nrs 161-164, MAST, A., Overzicht van het Belgisch administratief recht, 14e uitg. door DUJARDIN, J., VAN DAMME, M. & VANDE LANOTTE, J., 1996, Kluwer Rechtswetenschappen België, 280, nr 290, SNAET, S., Over de verkrijgende verjaring van buurtwegen, noot onder Cass., 29 nov. 1996, A.J.T., 1997-98, 11, VANOPPEN, S., De buurtweg: één-of tweerichtingsweg. Verjaringsaspecten inzake buurtwegen, T.V.G., 1999, 15. (2) Zie Cass., 20 feb. 1973, A.C., 1973, 615."
+      ]
+    }
+  },
+  "650": {
+    "ECLI:BE:CASS:2003:ARR.20030620.5": {
+      "court": "CASS",
+      "date": "2003-06-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/06/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un chemin qui n'a pas été nécessairement possédé par la commune à des fins de prescription acquisitive dans le respect des conditions prévues aux articles 2229 et 2265 du Code civil n'acquiert pas le caractère de chemin vicinal par sa seule inscription sur un plan arrêté par la députation permanente figurant à l'atlas des chemins vicinaux (1); la commune acquiert un droit de propriété sur le chemin vicinal ou l'usage d'une servitude de droit public suivant la portée et l'étendue de sa possession uniquement si les conditions de l'article 10 de la loi du 10 avril 1841 sur les chemins vicinaux sont remplies (2). (1) Voir Cass., 26 avril 1877, Pas., 1877, I, 217; 29 décembre 1881, Pas., 1882, I, 22; 1 février 1900, Pas., 1900, I, 131 et 22 avril 1983, RG 3681, n° 463. Voir également Wilkin, R., Voirie et alignement. Urbanisme et Construction, Bruylant, Bruxelles, 1964, 118 e.s.; Derine, R. & Hamelink, P., Overzicht van rechtspraak (1973-1979) Zakenrecht, T.P.R., 1981, 211, n° 118; Baert., G., Eigendom en afpaling ten aanzien van buurt- en landwegen, T. not., 1992, 466; Pâques, B., Création et suppression des chemins ruraux par l'effet de la prescription, Aménagement-Environnement, 1992, numéro spécial, Kluwer Editions Juridiques Belgique, 36; Vuye, H., Fundamentele regels omtrent buurtwegen. Het arrest van het Hof van Cassatie van 13 januari 1994, R.Cass., 1994, 93, suivi de l'arrêt dans sa version originaire (langue française) (98), également publié dans Bull. et Pas., RG 9551, n° 15; Kokelenberg, J., Van Sinay, Th. & Vuye, H., Overzicht van rechtspraak (1989-1994) Zakenrecht, T.P.R., 1995, 695, nos 161-164; Mast, A., Overzicht van het Belgisch administratief recht, 14° éd. par Dujardin, J., Van Damme, M. & Vande Lanotte, J., 1996, Kluwer Rechtswetenschappen België, 280, n° 290; Snaet, S., Over de verkrijgende verjaring van buurtwegen, note sous Cass., 29 novembre 1996, A.J.T., 1997-98, 11; Vanoppen, S., De buurtweg: één- of tweerichtingsweg. Verjaringsaspecten inzake buurtwegen, T.V.G., 1999, 15. (2) Voir Cass., 20 février 1973, Bull. et Pas., 1973, I, 584."
+      ],
+      "abstractNL": [
+        "Een weg verkrijgt niet het kenmerk van buurtweg door het enkele feit dat hij is opgenomen in een door de provinciale deputatie vastgesteld plan van de Atlas der Buurtwegen, zonder dat is voldaan aan het voor de verkrijgende verjaring noodzakelijk bezit ervan door de gemeente volgens de voorwaarden gesteld in de artikelen 2229 en 2265 van het Burgerlijk Wetboek (1); enkel wanneer voldaan is aan de voorwaarden van artikel 10 van de wet van 10 april 1841 op de buurtwegen en van het bezit overeenkomstig voormelde artikelen van het Burgerlijk Wetboek verwerft de gemeente een eigendomsrecht op de buurtweg of enkel een publiekrechtelijke erfdienstbaarheid naargelang de draagwijdte en de strekking van haar bezit (2). (1)Zie Cass., 26 april 1877, Pas., 1877, I, 217, 29 dec. 1881, Pas., 1882, I, 22, 1 feb. 1900, Pas., 1900, I, 131 en 22 april 1983, AR 3681, A.C., 1982-83, nr 463. Zie ook WILKIN, R., Voirie et alignement. Urbanisme et Constructions, Bruylant, Brussel, 1964, 118 e.v., DERINE, R. & HAMELINK, P., Overzicht van rechtspraak (1973-1979) Zakenrecht, T.P.R., 1981, 211, nr 118, BAERT, G., Eigendom en afpaling ten aanzien van buurten landwegen, T. Not., 1992, 466, PAQUES, B., Création et suppression des chemins ruraux par l'effet de la prescription, Aménagement-Environnement, 1992, n° spécial, Kluwer Editions Juridiques Belgique, 36, VUYE, H., Fundamentele regels omtrent buurtwegen. Het arrest van het Hof van Cassatie van 13 januari 1994, Rec.Cass., 1994, 93, gevolgd door het arrest, in de oorspronkelijke (Franse) taal (98), dat ook gepubliceerd werd in A.C., AR 9551, nr 15, KOKELENBERG, J., VAN SINAY, Th. & VUYE, H., Overzicht van rechtspraak (1989-1994) Zakenrecht, T.P.R., 1995, 695, nrs 161-164, MAST, A., Overzicht van het Belgisch administratief recht, 14e uitg. door DUJARDIN, J., VAN DAMME, M. & VANDE LANOTTE, J., 1996, Kluwer Rechtswetenschappen België, 280, nr 290, SNAET, S., Over de verkrijgende verjaring van buurtwegen, noot onder Cass., 29 nov. 1996, A.J.T., 1997-98, 11, VANOPPEN, S., De buurtweg: één-of tweerichtingsweg. Verjaringsaspecten inzake buurtwegen, T.V.G., 1999, 15. (2) Zie Cass., 20 feb. 1973, A.C., 1973, 615."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830422.4": {
+      "court": "CASS",
+      "date": "1983-04-22",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/04/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de la loi du 10 avril 1841 sur les chemins vicinaux, le caractère vicinal d'un chemin résulte de son inscription dans l'atlas de la commune, dès lors qu'aucune réclamation n'a été faite par les intéressés dans les délais de dix ou vingt ans pour interrompre la prescription acquisitive de la commune, qui est fondée sur l'usage du chemin par le public; cette loi ne fait aucune distinction entre les chemins dont le sol est la propriété de la commune et ceux dont le sol appartient à un particulier."
+      ],
+      "abstractNL": [
+        "Luidens de wet van 10 april 1841 op de buurtwegen verkrijgt een weg het kenmerk van buurtweg door zijn inschrijving in de atlas van de gemeente, wanneer geen tijdig bezwaar van de belanghebbenden is ingediend en binnen tien of twintig jaar geen daad is verricht waardoor de verkrijgende verjaring van de gemeente, die berust op een openbaar gebruik van de weg, werd gestuit; deze wet maakt geen onderscheid tussen wegen waarvan de aardebaan eigendom is van de gemeente en wegen waarvan de aardebaan eigendom is van een particulier."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940113.15": {
+      "court": "CASS",
+      "date": "1994-01-13",
+      "roleNumber": "9551",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les chemins vicinaux visés à l'art. 12 de la loi du 10 avril 1841 sont imprescriptibles aussi longtemps qu'ils servent à l'usage public; restreint illégalement la notion d'usage public au sens dudit art. 12, le juge qui considère que, par usage public d'un chemin, on entend le passage habituel du public et non les actes de passage accidentels et isolés. (L. 10 avril 1841, art. 10 et 12; C. civ., art. 2226.)"
+      ],
+      "abstractNL": [
+        "De in art. 12 Wet van 10 april 1841 bedoelde buurtwegen kunnen door geen verjaring verkregen worden zolang zij dienen tot het openbaar gebruik; het begrip \" openbaar gebruik \", in de zin van voormeld art. 12, wordt door rechter onterecht beperkt, wanneer hij oordeelt dat onder openbaar gebruik van een weg wordt verstaan de gewoonlijke overgang door het gebruik en niet een toevallige en enkele overgang. (Artt. 10 en 12 Wet van 10 april 1841; art. 226 B.W.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830520.1": {
+      "court": "CASS",
+      "date": "1983-05-20",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un droit de passage sur une propriété privée peut être acquis en tant que \" servitude légale \" d'utilité publique au profit des habitants d'une commune et de tous les intéressés par un usage trentenaire continu, non interrompu, public et non équivoque d'une bande de terrain, par chacun, à des fins de circulation publique, à condition que cet usage ait lieu avec l'intention d'utiliser cette bande dans ce but et ne repose pas sur une simple tolérance du propriétaire du terrain; cette règle vaut indépendamment de tout acte administratif formel de la commune, encore qu'un tel acte puisse contribuer à prouver cette intention."
+      ],
+      "abstractNL": [
+        "Een recht van overgang over een privé-eigendom kan als \" wettelijke erfdienstbaarheid \" tot openbaar nut, ten behoeve van de inwoners van de gemeente en van alle belanghebbenden, worden verkregen door een dertigjarig voortdurend en onafgebroken, openbaar en niet dubbelzinnig gebruik van een strook grond door een ieder voor het openbaar verkeer, mits dit gebruik geschiedt met de bedoeling de strook als zodanig te gebruiken en niet berust op een eenvoudig gedogen van de eigenaar van de grond; zulks geldt ook afgezien van enige formele administratieve handeling van de gemeente, zij het dat zodanige handeling de bedoeling mede kan bewijzen."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820323.9": {
+      "court": "CASS",
+      "date": "1982-03-23",
+      "roleNumber": "6904",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'est prescrite une infraction aux articles 88, 9°, du Code rural et 28 du règlement sur les chemins vicinaux de la province de Flandre occidentale du 24 avril 1952, modifié par arrêté du 10 octobre 1963, le juge de répression, saisi de l'action publique avant que la prescription ait été acquise, doit, par application de l'article 32bis du règlement provincial et de l'article 33 de la loi du 10 avril 1841 sur les chemins vicinaux, ordonner le rétablissement des lieux dans leur état primitif; ce rétablissement ne constitue en effet pas une peine mais uniquement un mode particulier de réparation ou de restitution destiné à mettre fin à une situation contraire à la loi résultant de l'infraction et nuisant à l'intérêt public; la décision qui l'ordonne est de nature civile."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van art. 88, 9°, Veldw. en van art. 28 van de verordening op de buurtwegen vande provincie West-Vlaanderen van 24 april 1952, gew. bij besluit van 10 okt. 1963, verjaard is, moet de strafrechter bij wie de strafvordering aanhangig is gemaakt voordat deze door verjaring is vervallen, met toepassing van art. 32bis van de provincieverordening en van art. 33 wet van 10 april 1841 op de buurtwegen, bevelen dat de plaats in haar vorige staat wordt hersteld; dat herstel is immers geen straf, maar een bijzondere vorm van vergoeding of teruggave om een einde te maken aan de met de wet strijdige toestand, die uit het misdrijf is ontstaan en waardoor het openbaar belang wordt geschaad; de beslissing waarbij het herstel wordt bevolen, is van civielrechtelijke aard <1>."
       ]
     }
   }

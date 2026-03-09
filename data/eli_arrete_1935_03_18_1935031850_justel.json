@@ -15,6 +15,22 @@
       ]
     }
   },
+  "9": {
+    "ECLI:BE:CASS:1968:ARR.19680620.3": {
+      "court": "CASS",
+      "date": "1968-06-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/06/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le tiers qui a fourni de ses deniers ou valeurs le cautionnement affecté à la garantie des engagements professionnels d'un agent de change, reste propriétaire de ces deniers ou valeurs à l'égard de l'agent de change. (Code de commerce, livre Ier, titre V, art. 71, modifié par l'arrêté royal n° 84 du 30 janvier 1935, art. II; arr. roy. n° 150 du 18 mars 1935, art. 9.)"
+      ],
+      "abstractNL": [
+        "De derde die met zijn geld of waarden de zekerheid heeft gesteld tot vrijwaring van de beroepsverbintenissen van een wisselagent, blijft eigenaar van deze gelden of waarden ten opzichte van de wisselagent. (Wetb. van kooph., boek I, titel V, art. 71, gewijzigd bij het koninklijk besluit nr 84 van 30 januari 1935, art. II; kon. besl. nr 150 van 18 maart 1935, art. 9.)"
+      ]
+    }
+  },
   "11": {
     "ECLI:BE:CASS:2015:ARR.20150402.7": {
       "court": "CASS",

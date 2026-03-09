@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2022:ARR.20220218.1F.3": {
       "court": "CASS",
@@ -74,6 +90,112 @@
       ],
       "abstractNL": [
         "Er bestaat grond om het Grondwettelijk Hof een prejudiciële vraag te stellen nu de vraag rijst of er in het geval van de uitzonderingsregel van artikel 23, twaalfde lid, Ruilverkavelingswet die de belanghebbende van een cassatieberoep uitsluit tegen een beslissing van de vrederechter waartegen geen hoger beroep openstaat, anders dan het gemeen recht dat in beginsel wel een cassatieberoep toelaat tegen beslissingen in eerste en laatste aanleg, een voldoende redelijke verantwoording bestaat voor dit onderscheid en voor de beperking van het recht voor de belanghebbenden om toegang te hebben tot het cassatieberoep en dus tot een buitengewoon rechtsmiddel tegen een beslissing waarin de vrederechter hun vorderingen niet ontvankelijk verklaart omdat deze niet op de door de wet bepaalde wijze waren ingesteld (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820226.8": {
+      "court": "CASS",
+      "date": "1982-02-26",
+      "roleNumber": "2942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 591, 11°, du Code judiciaire, aux termes duquel le juge de paix connaît, quel que soit le montant de la demande, des contestations en matière de remembrement de biens ruraux, vise uniquement les contestations prévues d'une manière expresse par la loi du 22 juillet 1970 et qui étaient, aussi, déjà visées par les dispositions de la loi du 25 juin 1956."
+      ],
+      "abstractNL": [
+        "Artikel 591, 11°, van het Gerechtelijk Wetboek, luidens hetwelk de vrederechter kennis neemt, ongeacht het bedrag van de vordering, van de geschillen inzake ruilverkavelingen van landeigendommen, doelt alleen op de betwistingen die uitdrukkelijk zijn bepaald bij de wet van 22 juli 1970 en die ook reeds door de bepalingen van de wet van 25 juni 1956 waren bedoeld."
+      ]
+    }
+  },
+  "52": {
+    "ECLI:BE:CASS:1983:ARR.19831118.7": {
+      "court": "CASS",
+      "date": "1983-11-18",
+      "roleNumber": "3850",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 de la loi du 22 juillet 1970 relative au remembrement, qui donne au juge de paix compétence pour déterminer, à la demande des intéressés, sur quelles nouvelles parcelles ou parties de celles-ci sont reportés les droits que possédaient ces personnes sur d'anciennes parcelles et dont il n'a pas été tenu compte dans l'acte de remembrement à la suite des circonstances précisées dans cet article, est également applicable aux cas dans lesquels le comité de remembrement a, dans les mêmes circonstances, établi sur les nouvelles parcelles des droits réels ou personnels qui n'existaient pas sur les anciennes parcelles."
+      ],
+      "abstractNL": [
+        "Art. 52 wet van 22 juli 1970, dat aan de vrederechter de bevoegdheid verleent om op verzoek van de belanghebbenden te bepalen op welke nieuwe kavels of gedeelten hiervan de rechten overgaan die personen op vroegere kavels bezaten en waarmee in de ruilverkavelingsakte geen rekening is gehouden ten gevolge van in dat artikel nader vermelde omstandigheden, is eveneens toepasselijk op de gevallen waarin het ruilverkavelingscomité onder dezelfde omstandigheden op de nieuwe kavels zakelijke of persoonlijke rechten heeft gevestigd die op de vroegere kavels niet rustten."
+      ]
+    }
+  },
+  "57": {
+    "ECLI:BE:CASS:1988:ARR.19880121.7": {
+      "court": "CASS",
+      "date": "1988-01-21",
+      "roleNumber": "7945",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi, en vertu de l'article 57 de la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux, d'une contestation relative au congé donné au preneur d'un bien, par la Société nationale terrienne, en vue de mettre le bien à la disposition du comité de remembrement, n'a pas à vérifier si le congé est indispensable pour la réalisation du remembrement ni s'il est donné dans le but de contribuer à l'amélioration des structures agraires."
+      ],
+      "abstractNL": [
+        "De rechter voor wie, volgens art. 57 Wet 22 juli 1970 op de wettelijke ruilverkaveling van landeigendommen, een geschil is gebracht over de opzegging, die door de Nationale Landmaatschappij aan de pachter van een goed is gedaan ten einde dit goed ter beschikking van het ruilverkavelingscomité te stellen, behoeft niet na te gaan of de opzegging noodzakelijk is voor de totstandkoming van de verkaveling en evenmin of de opzegging is gedaan ten einde bij te dragen tot de verbetering van de agrarische structuur."
+      ]
+    }
+  },
+  "68": {
+    "ECLI:BE:CASS:2005:ARR.20050310.3": {
+      "court": "CASS",
+      "date": "2005-03-10",
+      "roleNumber": "C040364N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/03/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Aucun accord préalable et écrit du comité de remembrement n'est requis pour l'exécution de travaux qui ne sont pas de nature à entraver les opérations de remembrement."
+      ],
+      "abstractNL": [
+        "Geen voorafgaande en schriftelijke toestemming van het ruilverkavelingscomité is vereist voor het uitvoeren van werken die geen belemmering van de ruilverkavelingsverrichtingen uitmaken."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880121.7": {
+      "court": "CASS",
+      "date": "1988-01-21",
+      "roleNumber": "7945",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi, en vertu de l'article 57 de la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux, d'une contestation relative au congé donné au preneur d'un bien, par la Société nationale terrienne, en vue de mettre le bien à la disposition du comité de remembrement, n'a pas à vérifier si le congé est indispensable pour la réalisation du remembrement ni s'il est donné dans le but de contribuer à l'amélioration des structures agraires."
+      ],
+      "abstractNL": [
+        "De rechter voor wie, volgens art. 57 Wet 22 juli 1970 op de wettelijke ruilverkaveling van landeigendommen, een geschil is gebracht over de opzegging, die door de Nationale Landmaatschappij aan de pachter van een goed is gedaan ten einde dit goed ter beschikking van het ruilverkavelingscomité te stellen, behoeft niet na te gaan of de opzegging noodzakelijk is voor de totstandkoming van de verkaveling en evenmin of de opzegging is gedaan ten einde bij te dragen tot de verbetering van de agrarische structuur."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831118.7": {
+      "court": "CASS",
+      "date": "1983-11-18",
+      "roleNumber": "3850",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 de la loi du 22 juillet 1970 relative au remembrement, qui donne au juge de paix compétence pour déterminer, à la demande des intéressés, sur quelles nouvelles parcelles ou parties de celles-ci sont reportés les droits que possédaient ces personnes sur d'anciennes parcelles et dont il n'a pas été tenu compte dans l'acte de remembrement à la suite des circonstances précisées dans cet article, est également applicable aux cas dans lesquels le comité de remembrement a, dans les mêmes circonstances, établi sur les nouvelles parcelles des droits réels ou personnels qui n'existaient pas sur les anciennes parcelles."
+      ],
+      "abstractNL": [
+        "Art. 52 wet van 22 juli 1970, dat aan de vrederechter de bevoegdheid verleent om op verzoek van de belanghebbenden te bepalen op welke nieuwe kavels of gedeelten hiervan de rechten overgaan die personen op vroegere kavels bezaten en waarmee in de ruilverkavelingsakte geen rekening is gehouden ten gevolge van in dat artikel nader vermelde omstandigheden, is eveneens toepasselijk op de gevallen waarin het ruilverkavelingscomité onder dezelfde omstandigheden op de nieuwe kavels zakelijke of persoonlijke rechten heeft gevestigd die op de vroegere kavels niet rustten."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820226.8": {
+      "court": "CASS",
+      "date": "1982-02-26",
+      "roleNumber": "2942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 591, 11°, du Code judiciaire, aux termes duquel le juge de paix connaît, quel que soit le montant de la demande, des contestations en matière de remembrement de biens ruraux, vise uniquement les contestations prévues d'une manière expresse par la loi du 22 juillet 1970 et qui étaient, aussi, déjà visées par les dispositions de la loi du 25 juin 1956."
+      ],
+      "abstractNL": [
+        "Artikel 591, 11°, van het Gerechtelijk Wetboek, luidens hetwelk de vrederechter kennis neemt, ongeacht het bedrag van de vordering, van de geschillen inzake ruilverkavelingen van landeigendommen, doelt alleen op de betwistingen die uitdrukkelijk zijn bepaald bij de wet van 22 juli 1970 en die ook reeds door de bepalingen van de wet van 25 juni 1956 waren bedoeld."
       ]
     }
   }

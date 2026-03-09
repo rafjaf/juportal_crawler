@@ -133,6 +133,36 @@
       "abstractNL": [
         "Het vereiste in artikel 16, §2, 1°, Wetboek van de Belgische Nationaliteit 'zolang zij in België samenleven', houdt in dat de vreemdeling en zijn Belgische echtgenoot in België moeten samenleven tot aan de rechterlijke beslissing (1). (1) Cass. 10 feb. 2000, AR C.99.0498.N, AC 2000, nr. 106."
       ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000210.26": {
+      "court": "CASS",
+      "date": "2000-02-10",
+      "roleNumber": "C990498N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'étranger qui contracte mariage avec un conjoint de nationalité belge ou dont le conjoint acquiert la nationalité belge, peut, si les époux ont résidé ensemble en Belgique pendant au moins trois ans et tant que dure la vie commune en Belgique, acquérir la nationalité belge par déclaration faite et agréée conformément à l'article 15 de la loi du 28 juin 1984 relative à certains aspects de la condition des étrangers et instituant le Code de la Nationalité belge; la condition \"tant que dure la vie commune en Belgique\" implique que l'étranger et son belge conjoint doivent résider ensemble en Belgique jusqu'à la prononciation de la décision judiciaire."
+      ],
+      "abstractNL": [
+        "De vreemdeling die huwt met een Belg of wiens echtgenoot de Belgische nationaliteit verkrijgt kan door een overeenkomstig art. 15 Wet 28 juni 1984 afgelegde en ingewilligde verklaring de staat van Belg verkrijgen indien de echtgenoten gedurende tenminste drie jaar in België samen hebben verbleven en zolang zij in België samenleven; de vereiste \"zolang zij in België samenleven\" houdt in dat de vreemdeling en zijn Belgische echtgenoot in België moeten samenleven tot aan de rechterlijke beslissing."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:1997:ARR.19970421.12": {
+      "court": "CASS",
+      "date": "1997-04-21",
+      "roleNumber": "S960138F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de quitter le territoire est définitif au sens de l'article 57, alinéa 2, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale lorsqu'il ne peut plus faire l'objet d'un recours suspensif devant une autorité administrative ou devant le Conseil d'Etat et non lorsqu'il n'est plus susceptible d'aucun recours devant une autorité ou juridiction quelconque appelée à statuer en matière de droit des étrangers; une demande d'autorisation exceptionnelle de séjour, une demande de reconnaissance de statut d'assimilé aux réfugiés et une demande de naturalisation ne constituent pas des recours suspensifs."
+      ],
+      "abstractNL": [
+        "Het bevel om het grondgebied te verlaten is definitief in de zin van art. 57, alinéa 2, OCMW-wet, wanneer daartegen geen schorsend beroep meer bij een administratieve overheid of bij de Raad van State kan worden ingesteld en niet wanneer het niet meer vatbaar is voor beroep bij enige overheid of rechterlijke instantie die uitspraak moet doen inzake vreemdelingenrecht; de aanvraag van een buitengewone verblijfsvergunning, de aanvraag om met een vluchteling te worden gelijkgesteld en een verzoek tot naturalisatie zijn geen schorsende beroepen."
+      ]
     }
   },
   "23": {
@@ -275,6 +305,38 @@
       ]
     }
   },
+  "24": {
+    "ECLI:BE:CASS:2011:ARR.20110421.1": {
+      "court": "CASS",
+      "date": "2011-04-21",
+      "roleNumber": "C.10.0394.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/04/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La faculté de recouvrer la nationalité belge visée à l'article 24 du Code de la nationalité belge ne s'applique pas aux Belges de statut congolais, qui n'avaient pas acquis la nationalité belge en vertu des lois métropolitaines sur la nationalité (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De in artikel 24 van het Wetboek van de Belgische nationaliteit bedoelde mogelijkheid om de Belgische nationaliteit te herkrijgen geldt niet voor de Belgen met Kongolees statuut, die de Belgische nationaliteit niet op grond van de nationaliteitswetten van het moederland hadden verkregen (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:2011:ARR.20110421.1": {
+      "court": "CASS",
+      "date": "2011-04-21",
+      "roleNumber": "C.10.0394.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/04/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La faculté de recouvrer la nationalité belge visée à l'article 24 du Code de la nationalité belge ne s'applique pas aux Belges de statut congolais, qui n'avaient pas acquis la nationalité belge en vertu des lois métropolitaines sur la nationalité (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De in artikel 24 van het Wetboek van de Belgische nationaliteit bedoelde mogelijkheid om de Belgische nationaliteit te herkrijgen geldt niet voor de Belgen met Kongolees statuut, die de Belgische nationaliteit niet op grond van de nationaliteitswetten van het moederland hadden verkregen (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  },
   "7bis": {
     "ECLI:BE:CASS:2023:ARR.20231023.3F.5": {
       "court": "CASS",
@@ -379,6 +441,90 @@
       "abstractNL": [
         "Uit de wetsgeschiedenis van de artikelen 12bis, §1, 3°, 12bis, §2, eerste, zesde en negende lid, en 12bis, §3, eerste lid, van het Wetboek van de Belgische nationaliteit, in de hier toepasselijke versie, blijkt dat de termijn van vier maanden waarover de procureur des Konings beschikt om een negatief advies uit te brengen, een strikte termijn is; de voormelde bepalingen strekken enerzijds ertoe de procureur des Konings voldoende tijd te geven om te kunnen controleren of de aanvrager voldoet aan de voorwaarden om de Belgische nationaliteit te verkrijgen; anderzijds strekken zij ertoe de aanvrager rechtszekerheid te verlenen over het ingaan van de termijn en hem de ambtshalve inschrijving van zijn verklaring te garanderen bij ontstentenis van een advies van het openbaar ministerie binnen de gestelde termijn (1). (1) Zie concl. OM.",
         "Uit de opbouw van voormelde bepalingen, de gebruikte bewoordingen en de wetsgeschiedenis volgt dat het advies van de procureur des Konings wordt uitgebracht in de zin van artikel 12bis, §2, zesde lid, WBN, zoals te dezen van toepassing, door het betekenen overeenkomstig artikel 12bis, §3, eerste lid, WBN, zoals te dezen van toepassing; hieruit volgt dat het advies slechts wordt uitgebracht op het ogenblik van die betekening; de ambtenaar van de burgerlijke stand zou bij het verstrijken van de termijn immers niet onmiddellijk kunnen overgaan tot ambtshalve inschrijving, zoals artikel 12bis, §2, negende lid, WBN, oplegt, indien het tijdstip waarop het advies wordt uitgebracht aan dat van de betekening zou kunnen voorafgaan (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111208.4": {
+      "court": "CASS",
+      "date": "2011-12-08",
+      "roleNumber": "C.10.0733.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La condition de sept années de résidence principale en Belgique couvertes par un séjour légal, pouvant être invoquée par l'étranger ayant atteint l'âge de dix-huit ans pour l'obtention de la nationalité belge, doit être comprise comme une période ininterrompue antérieure à la déclaration (1). (1) Voir Cass. 20 février 2009, RG C.08.0115.N, Pas. 2009, n° 149, avec les conclusions du M.P., publiées à leur date dans AC; Doc. Ch. 51.2760/033, p. 37; Sénat, session 2006-2007, 3-1988/4; voir aussi circ. 25 mai 2007."
+      ],
+      "abstractNL": [
+        "Met zeven jaar hoofdverblijfplaats in België gedekt door een wettelijk verblijf, als voorwaarde waarop de vreemdeling die de leeftijd van achttien jaar heeft bereikt zich kan beroepen voor het verkrijgen van de Belgische nationaliteit, dient een aan de verklaring voorafgaande onafgebroken periode te worden verstaan (1). (1) Zie Cass. 20 feb. 2009, AR C.08.0115.N, AC, 2009, nr. 149, met concl. OM; Doc. Kamer 51.2760/033, p. 37; Senaat, zitting 2006-2007, 3-1988/4; zie ook circ. 25 mei 2007."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090220.12": {
+      "court": "CASS",
+      "date": "2009-02-20",
+      "roleNumber": "C.07.0641.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La résidence principale en Belgique est légale au sens de l'article 12bis, § I, 3° du Code de la nationalité belge si l'étranger peut apporter la preuve d'un permis de séjour provisoire ou d'une autorisation à séjourner provisoirement sur le territoire (1). (1) Voir les conclusions du M.P. avant Cass., 20 février 2009, C.08.0115.N, publiées à leur date dans A.C., 2009."
+      ],
+      "abstractNL": [
+        "Het hoofdverblijf in België is wettelijk in de zin van artikel 12bis, § I, 3° het Wetboek van de Belgische nationaliteit indien de vreemdeling het bewijs kan leveren van een voorlopige verblijfsvergunning of van een toelating om voorlopig in het land te verblijven (1). (1) Zie de concl. O.M. voor Cass., 20 feb. 2009, AR C.08.0115.N, infra, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090220.16": {
+      "court": "CASS",
+      "date": "2009-02-20",
+      "roleNumber": "C.08.0115.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/20/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "A l'égard de l'étranger qui, au moment de la déclaration, a atteint l'âge de dix-huit ans et qui, ensuite de la régularisation, a été admis ou autorisé à séjourner pour une durée illimitée dans le Royaume, ou a été autorisé à s'y établir, la période antérieure à la régularisation durant laquelle l'étranger dispose, sans interruption, de permis de séjours provisoires ou d'autorisations de séjourner provisoirement sur le territoire peut être prise en compte pour le calcul de la durée de séjour légal requise (1). (1) Voir les conclusions du M.P., publiées à leur date dans A.C., 2009, voir aussi Cass., 20 février 2009, RG C.07.0641.N, supra, n° ..."
+      ],
+      "abstractNL": [
+        "Ten aanzien van de vreemdeling, die op het tijdstip van de verklaring de leeftijd van achttien jaar heeft bereikt en, ingevolge regularisatie, gemachtigd is of toegelaten werd tot een verblijf van onbeperkte duur in het Rijk of toegelaten werd om er zich te vestigen, mag, voor de berekening van de vereiste wettelijke verblijfsduur, de aan de regularisatie voorafgaande periode, gedurende dewelke de vreemdeling, zonder onderbreking, over voorlopige verblijfsvergunningen of over toelatingen om voorlopig in het land te verblijven heeft beschikt, in aanmerking worden genomen (1). (1) Zie de concl. O.M.; zie ook Cass., 20 feb. 2009, AR C.07.0641.N, supra, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050620.8": {
+      "court": "CASS",
+      "date": "2005-06-20",
+      "roleNumber": "C040457F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/06/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 12bis, ,§ 1er, 3°, du Code de la nationalité belge, tel qu'interprété par l'article 299 de la loi du 27 décembre 2004, et qui énonce que peut acquérir la nationalité belge en faisant une déclaration conformément au ,§ 2 de cet article, s'il a atteint l'âge de 18 ans, l'étranger qui a fixé sa résidence principale en Belgique depuis au moins 7 ans et qui, au moment de la déclaration a été admis ou autorisé à séjourner pour une durée illimitée dans le royaume ou a été autorisé à s'y établir, s'applique aux étrangers qui peuvent faire valoir 7 années de résidence principale couvertes par un séjour légal."
+      ],
+      "abstractNL": [
+        "Art. 12bis, ,§ 1, 3°, Wetboek van de Belgische nationaliteit, zoals uitgelegd bij art. 299, W. 27 dec. 2004, luidens hetwelk de vreemdeling de Belgische nationaliteit kan verkrijgen door een verklaring af te leggen overeenkomstig ,§ 2 van dat artikel, indien hij de leeftijd van achttien jaar heeft bereikt en indien hij sedert ten minste zeven jaar zijn hoofdverblijf in België heeft gevestigd en die, op het tijdstip van de verklaring gemachtigd is of toegelaten werd tot een verblijf van onbeperkte duur in het Rijk of toegelaten werd om er zich te vestigen, is van toepassing op de vreemdelingen die zich kunnen beroepen op zeven jaar hoofdverblijfplaats gedekt door een wettelijk verblijf."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050414.9": {
+      "court": "CASS",
+      "date": "2005-04-14",
+      "roleNumber": "C040205F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/04/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'un mois à l'expiration duquel le procureur du Roi est légalement présumé ne pas s'opposer à la demande d'acquisition de nationalité est calculé à partir du jour où ce magistrat a accusé réception de la communication faite par l'officier d'état civil (1). (1) Voir les conclusions du ministère public."
+      ],
+      "abstractNL": [
+        "De termijn van één maand na het verstrijken waarvan de procureur des Konings wettelijk wordt vermoed zich niet te verzetten tegen de aanvraag tot verkrijging van nationaliteit wordt berekend vanaf de dag waarop die magistraat de ontvangst heeft gemeld van de door de ambtenaar van de burgerlijke stand overgezonden verklaring (1). (1) Zie concl. O.M. in Pas., 2005, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040116.2": {
+      "court": "CASS",
+      "date": "2004-01-16",
+      "roleNumber": "C030370F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/01/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ajoute au texte de la loi une condition que celui-ci ne contient pas, l'arrêt, qui rejette la déclaration de nationalité au motif que la résidence principale du déclarant en Belgique n'est pas couverte par des titres de séjour pendant au moins sept ans. Conclusions contraires (1). (1) Le M.P. a conclu au rejet du pourvoi au motif qu'à son estime l'arrêt attaqué n'a pas ajouté une condition à la loi, les juges d'appel s'étant bornés à examiner la portée de la condition de \"fixation de résidence principale\" visée par la loi par référence aux travaux préparatoires où il est fait état de ce \"qu'il est évident qu'un séjour illégal ne peut être pris en considération\" (Doc Parl. Chambre, 50-0292/001, session 1999-2000, pp. 10 et 11)."
+      ],
+      "abstractNL": [
+        "Het arrest dat de nationaliteitsverklaring verwerpt op grond dat de hoofdverblijfplaats in België van degene die de verklaring aflegt, niet gedekt wordt door verblijfsvergunningen gedurende ten minste zeven jaar, voegt aan de wettekst een voorwaarde toe die daarin niet voorkomt. Andersl. concl. (1). (1) Het O.M. concludeerde tot verwerping van het cassatieberoep. Het was namelijk van mening dat het bestreden arrest geen voorwaarde aan de wet heeft toegevoegd, aangezien de appèlrechters zich beperkt hadden tot het onderzoek van de draagwijdte van het begrip \"vestiging van de hoofdverblijfplaats\", zoals het wordt bedoeld in de wet, met verwijzing naar de parlementaire voorbereiding waar vermeld staat: \"Vanzelfsprekend kan een onwettig verblijf niet in aanmerking worden genomen\". (Gedr. St., Kamer, 50-0292/001, zitting 1999-2000, p. 10 en 11)."
       ]
     }
   },
@@ -528,6 +674,22 @@
       ],
       "abstractNL": [
         "Opdat aan een in België geboren kind de Belgische nationaliteit kan worden toegekend in toepassing van artikel 11bis, §1, WBN, vóór de opheffing ervan bij wet van 4 december 2012, dienen het kind en minstens één van zijn ouders of adoptanten op het ogenblik van het afleggen van de nationaliteitsverklaring \"in wettelijk verblijf\" te zijn, dit is toegelaten of gemachtigd om voor een langere termijn dan drie maanden in het Rijk te verblijven of gemachtigd zich er te vestigen, overeenkomstig de bepalingen van de Vreemdelingenwet; daaruit volgt niet dat het kind en zijn ouders gedurende de volledige vereiste periode van het hoofdverblijf in België, gerechtigd moesten zijn om in het Rijk te verblijven (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20000210.26": {
+      "court": "CASS",
+      "date": "2000-02-10",
+      "roleNumber": "C990498N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'étranger qui contracte mariage avec un conjoint de nationalité belge ou dont le conjoint acquiert la nationalité belge, peut, si les époux ont résidé ensemble en Belgique pendant au moins trois ans et tant que dure la vie commune en Belgique, acquérir la nationalité belge par déclaration faite et agréée conformément à l'article 15 de la loi du 28 juin 1984 relative à certains aspects de la condition des étrangers et instituant le Code de la Nationalité belge; la condition \"tant que dure la vie commune en Belgique\" implique que l'étranger et son belge conjoint doivent résider ensemble en Belgique jusqu'à la prononciation de la décision judiciaire."
+      ],
+      "abstractNL": [
+        "De vreemdeling die huwt met een Belg of wiens echtgenoot de Belgische nationaliteit verkrijgt kan door een overeenkomstig art. 15 Wet 28 juni 1984 afgelegde en ingewilligde verklaring de staat van Belg verkrijgen indien de echtgenoten gedurende tenminste drie jaar in België samen hebben verbleven en zolang zij in België samenleven; de vereiste \"zolang zij in België samenleven\" houdt in dat de vreemdeling en zijn Belgische echtgenoot in België moeten samenleven tot aan de rechterlijke beslissing."
       ]
     }
   }

@@ -1,4 +1,20 @@
 {
+  "16": {
+    "ECLI:BE:CASS:2008:ARR.20081013.2": {
+      "court": "CASS",
+      "date": "2008-10-13",
+      "roleNumber": "S.08.0017.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'approbation par le conseil général de la décision du fonctionnaire dirigeant du service des soins de santé d'interjeter appel en cas d'urgence constitue une condition de la régularité de l'intentement de cet appel."
+      ],
+      "abstractNL": [
+        "De goedkeuring, door de algemene raad, van de beslissing van de leidend ambtenaar van de dienst voor geneeskundige verzorging om in geval van dringende noodzakelijkheid hoger beroep in te stellen, vormt een voorwaarde voor het regelmatig instellen van dat hoger beroep."
+      ]
+    }
+  },
   "25": {
     "ECLI:BE:CASS:2017:ARR.20170327.2": {
       "court": "CASS",
@@ -26,6 +42,20 @@
       ],
       "abstractNL": [
         "Artikel 25, derde lid, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994 beperkt de tussenkomst van het Bijzonder Solidariteitsfonds tot de kosten van geneeskundige verstrekkingen waarvoor, in het concrete geval, in geen tegemoetkoming voorzien is krachtens de reglementaire bepalingen van de Belgische verzekering voor geneeskundige verzorging of krachtens de wettelijke bepalingen van een buitenlandse regeling voor verplichte verzekering (1). (1) Zie de conclusie van het openbaar ministerie in Pas. nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040913.6": {
+      "court": "CASS",
+      "date": "2004-09-13",
+      "roleNumber": "S030129F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/09/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le collège des médecins-directeurs accorde l'intervention du fonds spécial de solidarité de l'assurance soins de santé, dans le coût d'un produit pharmaceutique qui n'est pas susceptible d'être admis au remboursement, que ce produit figure ou non dans la nomenclature des prestations de santé établie par le Roi (1). (1) L. coord. du 14 juillet 1994, art. 25, ,§ 2, et 35, ,§ 1er, avant leur modification par la L. du 25 janvier 1999."
+      ],
+      "abstractNL": [
+        "Het college van geneesheren-directeurs kent de tegemoetkoming van het bijzonder solidariteitsfonds van de ziektekostenverzekering toe in de kosten van een farmaceutisch product dat niet terugbetaald kan worden, ongeacht of dat product al dan niet is opgenomen in de door de Koning vastgestelde nomenclatuur van de geneeskundige verstrekkingen (1). (1) Artt. 25, ,§ 2, en 35, ,§ 1, gecoörd. W. 14 juli 1994, vóór de wijziging ervan bij de W. 25 jan. 1999."
       ]
     }
   },
@@ -123,6 +153,20 @@
       "abstractNL": [
         "De verzekering voor geneeskundige verzorging en uitkeringen neemt de loontoeslag ten laste, bedoeld in artikel 8 van de collectieve arbeidsovereenkomst van 7 december 2000 betreffende toeslagen voor onregelmatige prestaties, die wordt toegekend aan het verpleegkundig personeel, het verzorgingspersoneel en het personeel voor reactivering dat ‘s nachts moet werken in de door de bevoegde overheid erkende rust- en verzorgingstehuizen en rustoorden voor bejaarden (1). (1) Zie concl. OM in Pas. 2021, nr. 793."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120604.2": {
+      "court": "CASS",
+      "date": "2012-06-04",
+      "roleNumber": "S.10.0086.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'une spécialité pharmaceutique, pour une indication déterminée conformément à l'article 2 de l'arrêté royal du 21 décembre 2001, dépend de sa valeur thérapeutique pour cette indication et, en particulier, de son efficacité, telle qu'elle peut être évaluée au moment de l'inscription de la spécialité sur la liste des spécialités pharmaceutiques remboursables et, au plus tard, au moment de la décision de la mutualité sur la demande de remboursement formée par le patient (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De terugbetaling van een farmaceutische specialiteit voor een bijzondere indicatie overeenkomstig artikel 2 van het koninklijk besluit van 21 december 2001, hangt af van haar therapeutische waarde voor die indicatie en in het bijzonder van haar werkzaamheid, zoals die kan worden geëvalueerd op het tijdstip van de inschrijving van de specialiteit op de lijst van de vergoedbare farmaceutische specialiteiten en, ten laatste, op het tijdstip van de beslissing van het ziekenfonds over de door de patiënt geformuleerde vraag (1). (1) Zie de conclusie van het openbaar ministerie in Pas. nr. ..."
+      ]
     }
   },
   "35": {
@@ -175,6 +219,20 @@
       "abstractNL": [
         "De verzekering voor geneeskundige verzorging en uitkeringen neemt de loontoeslag ten laste, bedoeld in artikel 8 van de collectieve arbeidsovereenkomst van 7 december 2000 betreffende toeslagen voor onregelmatige prestaties, die wordt toegekend aan het verpleegkundig personeel, het verzorgingspersoneel en het personeel voor reactivering dat ‘s nachts moet werken in de door de bevoegde overheid erkende rust- en verzorgingstehuizen en rustoorden voor bejaarden (1). (1) Zie concl. OM in Pas. 2021, nr. 793."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120604.2": {
+      "court": "CASS",
+      "date": "2012-06-04",
+      "roleNumber": "S.10.0086.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'une spécialité pharmaceutique, pour une indication déterminée conformément à l'article 2 de l'arrêté royal du 21 décembre 2001, dépend de sa valeur thérapeutique pour cette indication et, en particulier, de son efficacité, telle qu'elle peut être évaluée au moment de l'inscription de la spécialité sur la liste des spécialités pharmaceutiques remboursables et, au plus tard, au moment de la décision de la mutualité sur la demande de remboursement formée par le patient (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De terugbetaling van een farmaceutische specialiteit voor een bijzondere indicatie overeenkomstig artikel 2 van het koninklijk besluit van 21 december 2001, hangt af van haar therapeutische waarde voor die indicatie en in het bijzonder van haar werkzaamheid, zoals die kan worden geëvalueerd op het tijdstip van de inschrijving van de specialiteit op de lijst van de vergoedbare farmaceutische specialiteiten en, ten laatste, op het tijdstip van de beslissing van het ziekenfonds over de door de patiënt geformuleerde vraag (1). (1) Zie de conclusie van het openbaar ministerie in Pas. nr. ..."
+      ]
     }
   },
   "37": {
@@ -214,6 +272,68 @@
       ]
     }
   },
+  "42": {
+    "ECLI:BE:CASS:2004:ARR.20040503.21": {
+      "court": "CASS",
+      "date": "2004-05-03",
+      "roleNumber": "C020593N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas de la disposition selon laquelle les rapports financiers et administratifs entre les bénéficiaires et les organismes assureurs, d'une part, et d'autre part les pharmaciens, les établissements hospitaliers, les kinésithérapeutes, les logopèdes, les fournisseurs de prothèse, d'appareils et d'implants et les services et institutions visés à l'article 34, 11°, 12° et 18° de la loi du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités, sont normalement régis par des conventions, que dans une convention conclue entre les établissements hospitaliers et les organismes assureurs aucune distinction ne puisse être faite selon que les intéressés sont ou non hospitalisés."
+      ],
+      "abstractNL": [
+        "Uit de bepaling dat de financiële en administratieve betrekkingen tussen de rechthebbenden en de verzekeringsinstellingen eensdeels, en de apothekers, de verplegingsinrichtingen, de kinesitherapeuten, de logopedisten, de verstrekkers van prothesen, toestellen en implantaten en de in artikel 34, 11°, 12° en 18° van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen bedoelde diensten en inrichtingen anderdeels, normaal bij overeenkomst worden geregeld, blijkt niet dat in een overeenkomst tussen verplegingsinrichtingen en verzekeringsinstellingen geen onderscheid zou mogen worden gemaakt naargelang de belanghebbenden al dan niet effectief in het ziekenhuis zijn opgenomen."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040112.23": {
+      "court": "CASS",
+      "date": "2004-01-12",
+      "roleNumber": "S030066F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/01/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est de la compétence du tribunal du travail et de la cour du travail, toute contestation qui a pour objet les droits et obligations résultant d'une convention qui régit les rapports financiers et administratifs entre les organismes assureurs et les praticiens de l'art infirmier et qui lie lesdits organismes assureurs et les dispensateurs de soins qui ont adhéré à cette convention; les chambres des juridictions du travail, qui connaissent de ces litiges se composent d'un juge au tribunal du travail ou d'un conseiller à la cour du travail et tout débat est précédé d'une tentative de conciliation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank en het arbeidshof zijn bevoegd voor alle betwistingen in verband met de rechten en plichten voortvloeiende uit een overeenkomst die de financiële en administratieve betrekkingen tussen de verzekeringsinstellingen en de verpleegkundigen regelt en die bindend is voor die verzekeringsinstellingen en de zorgverleners die tot die overeenkomst zijn toegetreden; de kamers van de arbeidsgerechten, die kennis nemen van die geschillen, bestaan uit één rechter in de arbeidsrechtbank of één raadsheer in het arbeidshof en elk debat wordt voorafgegaan door een poging tot verzoening (1). (1) Zie concl., O.M., in Pas., 2003, nr."
+      ]
+    }
+  },
+  "49": {
+    "ECLI:BE:CASS:2004:ARR.20040112.23": {
+      "court": "CASS",
+      "date": "2004-01-12",
+      "roleNumber": "S030066F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/01/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est de la compétence du tribunal du travail et de la cour du travail, toute contestation qui a pour objet les droits et obligations résultant d'une convention qui régit les rapports financiers et administratifs entre les organismes assureurs et les praticiens de l'art infirmier et qui lie lesdits organismes assureurs et les dispensateurs de soins qui ont adhéré à cette convention; les chambres des juridictions du travail, qui connaissent de ces litiges se composent d'un juge au tribunal du travail ou d'un conseiller à la cour du travail et tout débat est précédé d'une tentative de conciliation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank en het arbeidshof zijn bevoegd voor alle betwistingen in verband met de rechten en plichten voortvloeiende uit een overeenkomst die de financiële en administratieve betrekkingen tussen de verzekeringsinstellingen en de verpleegkundigen regelt en die bindend is voor die verzekeringsinstellingen en de zorgverleners die tot die overeenkomst zijn toegetreden; de kamers van de arbeidsgerechten, die kennis nemen van die geschillen, bestaan uit één rechter in de arbeidsrechtbank of één raadsheer in het arbeidshof en elk debat wordt voorafgegaan door een poging tot verzoening (1). (1) Zie concl., O.M., in Pas., 2003, nr."
+      ]
+    }
+  },
+  "50": {
+    "ECLI:BE:CASS:2009:ARR.20091123.4": {
+      "court": "CASS",
+      "date": "2009-11-23",
+      "roleNumber": "C.09.0266.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut pas appliquer la clause conventionnelle de la déclaration d'admission relative aux délais de communication des revenus du patient, qui déroge aux dispositions légales d'ordre public, qui ne permettent la réclamation d'aucun supplément d'honoraires lorsque les revenus du bénéficiaire sont inférieurs aux limites qu'elle prévoit (1). (1) Voir conclusions écrites du ministère public."
+      ],
+      "abstractNL": [
+        "De rechter mag het overeengekomen beding uit de opnameverklaring niet toepassen, dat betrekking heeft op de termijnen waarbinnen de patiënt zijn inkomen moet meedelen en dat afwijkt van de wetsbepalingen van openbare orde, die verbieden om honorariumsupplementen aan te rekenen wanneer het inkomen van de rechthebbende onder de daarin bepaalde maximumbedragen blijft (1). (1) Zie concl. O.M. in Pas., 2009, nr. ..."
+      ]
+    }
+  },
   "57": {
     "ECLI:BE:CASS:2015:ARR.20150216.1": {
       "court": "CASS",
@@ -227,6 +347,36 @@
       ],
       "abstractNL": [
         "Het nieuwe artikel 152, § 5, van de Gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen van 10 juli 2008, heeft vanaf 1 januari 2013 een onderscheid ingevoerd tussen de opname in een gemeenschappelijke kamer of tweepatiëntenkamer en een individuele kamer, door aan de bewoordingen \"forfaitaire honoraria\", die in het vroegere artikel 152, § 7, gebruikt zijn, een verschillende inhoud te geven volgens het type opname; bijgevolg kan artikel 26, wet 27 december 2012, dat het vroegere artikel 152, § 7 door artikel 152, § 5, heeft vervangen, geen uitleggende draagwijdte hebben betreffende het voornoemde oude artikel 157, § 7 (1). (1) Zie de concl. OM in Pas. 2015, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110603.3": {
+      "court": "CASS",
+      "date": "2011-06-03",
+      "roleNumber": "C.10.0617.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction de suppléments d'honoraires pour les médecins, pour les honoraires forfaitaires à payer par admission et/ou jour d'hospitalisation, s'applique aux prestations de biologie clinique, que les honoraires soient totalement ou partiellement payés forfaitairement (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Het verbod op ereloonsupplementen voor artsen, voor de forfaitaire honoraria per opname en/of per verpleegdag te betalen, geldt voor de verstrekkingen inzake klinische biologie, ongeacht of de tegemoetkoming geheel dan wel gedeeltelijk forfaitair wordt betaald (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "64": {
+    "ECLI:BE:CASS:1996:ARR.19960124.8": {
+      "court": "CASS",
+      "date": "1996-01-24",
+      "roleNumber": "P950190F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition légale, qui permet la limitation des honoraires, en cas d'utilisation d'un appareillage médical lourd ou de services médico-techniques lourds sans autorisation préalable, n'implique ni la licéité du principe de la perception des honoraires ni l'abrogation des sanctions pénales prévues par une loi antérieure, mais se borne à ajouter à celles-ci une sanction complémentaire consistant en la limitation des honoraires."
+      ],
+      "abstractNL": [
+        "De wettelijke bepaling op grond waarvan de honoraria kunnen worden beperkt in geval van gebruik van zware medische apparatuur of zware medisch-technische diensten zonder toestemming impliceert niet dat de inning van de honoraria in beginsel rechtmatig is noch dat de bij een vroegere wet bepaalde straffen zijn opgeheven; zij legt enkel een bijkomende straf op die bestaat in de beperking van de honoraria."
       ]
     }
   },
@@ -268,6 +418,68 @@
       ]
     }
   },
+  "80": {
+    "ECLI:BE:CASS:2004:ARR.20040913.7": {
+      "court": "CASS",
+      "date": "2004-09-13",
+      "roleNumber": "S040019F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/09/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'institut national d'assurance maladie-invalidité n'est pas tenu de payer les indemnités aux bénéficiaires ni des intérêts moratoires sur celles-ci; cette obligation incombe aux seuls organismes assureurs, lesquels sont les débiteurs des assurés (1). (1) Cass., 28 mars 1994, RG S.93.0130.F, n° 152, et les références citées à la note 1."
+      ],
+      "abstractNL": [
+        "Het Rijksinstituut voor ziekte- en invalditeitsverzekering is niet verplicht aan de rechthebbenden de uitkeringen en de moratoire interest daarop te betalen; die verplichting rust alleen op de verzekeringsinstellingen, die de schuldenaars van de verzekerden zijn (1). (1) Cass., 28 maart 1994, AR S.93.0130.F, nr 152, en de verwijzingen in noot 1."
+      ]
+    }
+  },
+  "81": {
+    "ECLI:BE:CASS:2000:ARR.20000306.5": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990056N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'Office national des Pensions est chargé en tant qu'institution de l'application des lois et règlements en matière de pensions de retraite et de survie des travailleurs salariés et doit être condamné aux dépens dans les différentes procédures menées lors de la constatation de l'incapacité de travail et du droit à la pension du conjoint survivant n'ayant pas encore atteint l'âge de 45 ans et qui ne peut bénéficier de cette pension que s'il justifie d'une incapacité de travail de 66 p.c. au moins constatée par le conseil médical de l'invalidité qui est chargé de cet examen en vertu de l'article 46, § 1er de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De Rijksdienst voor Pensioenen is als instelling belast met de toepassing van de wetten en verordeningen inzake rust- en overlevingspensioenen der werknemers en dient verwezen in de kosten van de onderscheiden procedures gevoerd naar aanleiding van het vaststellen van de arbeidsongeschiktheid en het pensioenrecht van de langstlevende echtgenoot die de leeftijd van 45 jaar nog niet heeft bereikt en dit pensioen slechts kan bekomen indien hij een arbeidsongeschiktheid bewijst van minstens 66%, die moet vastgesteld worden door de Geneeskundige Raad van invaliditeit, ingesteld bij de wetgeving inzake ziekte- en invaliditeitsverzekering en die met dit onderzoek is belast krachtens art. 46, § 1 van het KB van 21 december 1967 tot vaststelling van het algemeen reglement."
+      ]
+    }
+  },
+  "82": {
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000306.5": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990056N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'Office national des Pensions est chargé en tant qu'institution de l'application des lois et règlements en matière de pensions de retraite et de survie des travailleurs salariés et doit être condamné aux dépens dans les différentes procédures menées lors de la constatation de l'incapacité de travail et du droit à la pension du conjoint survivant n'ayant pas encore atteint l'âge de 45 ans et qui ne peut bénéficier de cette pension que s'il justifie d'une incapacité de travail de 66 p.c. au moins constatée par le conseil médical de l'invalidité qui est chargé de cet examen en vertu de l'article 46, § 1er de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De Rijksdienst voor Pensioenen is als instelling belast met de toepassing van de wetten en verordeningen inzake rust- en overlevingspensioenen der werknemers en dient verwezen in de kosten van de onderscheiden procedures gevoerd naar aanleiding van het vaststellen van de arbeidsongeschiktheid en het pensioenrecht van de langstlevende echtgenoot die de leeftijd van 45 jaar nog niet heeft bereikt en dit pensioen slechts kan bekomen indien hij een arbeidsongeschiktheid bewijst van minstens 66%, die moet vastgesteld worden door de Geneeskundige Raad van invaliditeit, ingesteld bij de wetgeving inzake ziekte- en invaliditeitsverzekering en die met dit onderzoek is belast krachtens art. 46, § 1 van het KB van 21 december 1967 tot vaststelling van het algemeen reglement."
+      ]
+    }
+  },
   "86": {
     "ECLI:BE:CASS:2016:ARR.20160523.4": {
       "court": "CASS",
@@ -298,6 +510,84 @@
         "En vertu de l'article 136, § 2, alinéa 4, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnité, l'organisme assureur est subrogé de plein droit au bénéficiaire du droit aux indemnités d'incapacité de travail à concurrence du montant des prestations octroyées pour la totalité des sommes qui sont dues en vertu du droit commun et réparent le même dommage et conformément à l'article 87 de la loi précitée, le bénéficiaire reçoit pour chaque jour ouvrable de la période d'un an prenant cours à la date de début de son incapacité de travail une indemnité d'incapacité primaire; il ne ressort ni de cette disposition, ni d'aucune autre que la périodicité du paiement effectué par l'organisme assureur au bénéfice de son assuré ait une influence sur la nature du dommage né de l'incapacité de travail; de la circonstance que les montants alloués par la mutuelle sont payés mois après mois, il ne se déduit pas que le dommage subi ce mois-là doive être considéré comme un préjudice différent de celui subi le mois précédent ou le mois suivant."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    }
+  },
+  "90": {
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    }
+  },
+  "93": {
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    }
+  },
+  "94": {
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    }
+  },
+  "97": {
+    "ECLI:BE:CASS:2001:ARR.20010214.14": {
+      "court": "CASS",
+      "date": "2001-02-14",
+      "roleNumber": "P001350F;P001353F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si l'article 97 de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité impose aux organismes assureurs, et à eux seuls, l'obligation de récupérer les prestations qu'ils ont payées indûment dans le cadre de cette assurance, cette disposition n'empêche pas lesdits organismes, en cas de poursuites pénales, d'introduire une action civile devant les juridictions répressives sur la base de l'article 1382 du Code civil lorsque les conditions d'application de cet article sont réunies (1); parmi ces conditions, figure la nécessité d'un dommage, qui n'est toutefois pas limité, dans ce cas, au dommage propre des organismes assureurs mais concerne également le dommage résultant des décaissements des montants correspondant à des prestations payées indûment et supportés par le régime de l'assurance qui a fourni les ressources affectées à ces prestations."
+      ],
+      "abstractNL": [
+        "Hoewel art. 97 ZIV-wet de verzekeringsinstellingen, en alleen hen, de verplichting oplegt de prestaties terug te vorderen die zij in het kader van die verzekering ten onrechte betaald hebben, belet die bepaling de verzekeringsinstellingen niet om, in geval van strafvervolgingen, voor de strafgerechten een burgerlijke rechtsvordering in te stellen op grond van art. 1382 BW, wanneer de voorwaarden voor de toepassing van dat artikel vervuld zijn (1); een van die voorwaarden vereist het bestaan van schade, die, in dat geval, evenwel niet is beperkt tot de eigen schade van de verzekeringsinstellingen, maar ook betrekking heeft op schade t.g.v. uitgaven waarvan het bedrag overeenstemt met de ten onrechte uitgekeerde prestaties die ten laste genomen worden door het verzekeringsstelsel dat de voor die prestaties bestemde fondsen heeft geleverd."
+      ]
     }
   },
   "100": {
@@ -328,6 +618,76 @@
       ],
       "abstractNL": [
         "De arbeidsongeschiktheid moet worden beoordeeld rekening houdend met alle beroepen die de werknemer zou kunnen hebben uitgeoefend uit hoofde van zijn beroepsopleiding (1). (1) Cass. 26 februari 1990, AR 6973, AC 1990, nr. 391; Cass. 17 maart 1980, AC 1980, nr. 448."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081117.6": {
+      "court": "CASS",
+      "date": "2008-11-17",
+      "roleNumber": "S.08.0085.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 93, alinéa 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités que le titulaire qui est à nouveau reconnu incapable de travailler plus de trois mois après la cessation de son état d'invalidité, se trouve en état d'incapacité primaire au sens des articles 87, alinéa 1er, et 100 de la loi précitée."
+      ],
+      "abstractNL": [
+        "Uit artikel 93, tweede lid, van de Z.I.V.-wet volgt dat de gerechtigde die na een periode van drie maanden of langer waarin hij de staat van invaliditeit niet meer bezit, opnieuw arbeidsongeschikt wordt erkend, zich alsdan bevindt in de staat van primaire arbeidsongeschiktheid bepaald bij de artikelen 87, eerste lid, en 100, van de Z.I.V.-wet."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000207.7": {
+      "court": "CASS",
+      "date": "2000-02-07",
+      "roleNumber": "S990148N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pendant les six premiers mois de l'incapacité primaire un travailleur peut rester à charge de son organisme assureur à la condition que le taux de réduction de capacité de gain prévu par la loi soit évalué par rapport à la profession habituelle de l'intéressé, pour autant que l'affection causale soit susceptible d'évolution favorable ou de guérison à plus ou moins brève échéance."
+      ],
+      "abstractNL": [
+        "Over de eerste zes maanden van primaire arbeidsongeschiktheid kan een werknemer ten laste blijven van zijn verzekeringsinstelling, op voorwaarde dat de bij de wet bepaalde vermindering van het vermogen tot verdienen gewaardeerd wordt ten aanzien van het gewone beroep van de betrokkene, althans indien de oorzakelijke aandoening voor een gunstig verloop of genezing vatbaar is binnen een tamelijk korte tijdspanne."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991011.3": {
+      "court": "CASS",
+      "date": "1999-10-11",
+      "roleNumber": "C970170N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les indemnités d'incapacité de travail allouées en vertu de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité couvrent le dommage qui consiste en la perte ou la réduction de la capacité d'acquérir, par son travail, des revenus pouvant contribuer aux besoins alimentaires."
+      ],
+      "abstractNL": [
+        "De krachtens de ZIV-wet van 9 augustus 1963 verleende arbeidsongeschiktheidsuitkeringen dekken de schade die bestaat in het verlies of de vermindering van het vermogen om, door het verrichten van arbeid, inkomsten te verwerven die tot het levensonderhoud kunnen bijdragen."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970120.10": {
+      "court": "CASS",
+      "date": "1997-01-20",
+      "roleNumber": "S960069F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/01/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour qu'un travailleur puisse être maintenu à charge de son organisme assureur après les six premiers mois d'incapacité primaire, il faut que le taux de réduction de sa capacité de gain fixé par la loi existe à la fois par rapport à ce qu'une personne de même condition et de même formation peut gagner par son travail dans le groupe de professions dans lesquelles se range l'activité professionnelle exercée par l'intéressé au moment où il est devenu incapable de travailler et par rapport à ce qu'une telle personne peut gagner par son travail dans les diverses professions que l'intéressé a exercées ou aurait pu exercer du fait de sa formation professionnelle."
+      ],
+      "abstractNL": [
+        "Na de eerste zes maanden van primaire arbeidsongeschiktheid kan een werknemer ten laste blijven van zijn verzekeringsinstelling, op voorwaarde dat de bij de wet bepaalde vermindering van zijn vermogen tot verdienen bestaat zowel in vergelijking met hetgeen een persoon van dezelfde stand en met dezelfde opleiding kan verdienen door zijn werkzaamheid in de beroepencategorie waartoe de beroepsarbeid behoort, door de betrokkene verricht toen hij arbeidsongeschikt werd als in vergelijking met wat een dergelijke persoon kan verdienen door zijn werkzaamheid in de verschillende beroepen die hij heeft uitgeoefend of zou hebben kunnen uitoefenen uit hoofde van zijn beroepsopleiding."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941121.8": {
+      "court": "CASS",
+      "date": "1994-11-21",
+      "roleNumber": "C940073N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les indemnités d'incapacité de travail allouées en vertu de la loi du 9 août 1963 couvrent le dommage qui consiste en la perte ou la réduction de la capacité d'acquérir, par son travail, des revenus pouvant contribuer aux besoins alimentaires; cette règle s'applique aussi aux indemnités d'incapacité de travail auxquelles le chômeur a droit lorsqu'il perd son droit à une allocation de chômage suite à une incapacité de travail."
+      ],
+      "abstractNL": [
+        "De krachtens de Z.I.V.-wet verleende arbeidsongeschiktheidsuitkeringen dekken de schade die bestaat in het verlies of de vermindering van het vermogen om door het verrichten van arbeid inkomsten te verwerven die tot het levensonderhoud kunnen bijdragen; dit geldt ook t.a.v. de arbeidsongeschiktheidsuitkeringen waarop de werkloze recht heeft wanneer hij, ten gevolge van zijn arbeidsongeschiktheid, zijn aanpraak op werkloosheidsuitkering verliest. (Art. 56, alinéa 1, Z.I.V.-wet d.d. 14 juli 1994)."
       ]
     }
   },
@@ -632,6 +992,316 @@
       "abstractNL": [
         "De rechter kan vergoeding toekennen voor het verlies van een kans op het verwerven van een voordeel of het vermijden van een nadeel indien het verlies van deze kans te wijten is aan een fout; enkel de economische waarde van de verloren gegane kans komt voor vergoeding in aanmerking; deze waarde kan niet bestaan uit het volledige bedrag van het uiteindelijk geleden nadeel of het verloren voordeel; hieruit volgt dat het verlies van een kans op herstel van de arbeidsongeschiktheid geen schade is zoals bedoeld in artikel 136, §2, ZIV-wet."
       ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111031.1": {
+      "court": "CASS",
+      "date": "2011-10-31",
+      "roleNumber": "C.10.0743.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 136, §2, alinéa 4, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, que l'organisme assureur qui a octroyé les prestations prévues par l'assurance obligatoire à la victime d'un dommage découlant d'une maladie, de lésions, de troubles fonctionnels ou d'un décès, est subrogé dans les droits de la victime pour la totalité de ses prestations, à concurrence des sommes dont le tiers responsable ou l'assureur de ce tiers sont redevables en droit commun à titre de réparation du dommage (1). (1) Voir Cass. 16 novembre 2009, RG C.09.0256.N, Pas. 2009, n. 667, et les conclusions du ministère public publiées avant cet arrêt dans AC."
+      ],
+      "abstractNL": [
+        "Uit artikel 136, §2, vierde lid ZIV-wet volgt dat de verzekeringsinstelling die aan het slachtoffer van schade voortvloeiend uit ziekte, letsels, functionele stoornissen of overlijden, de bij de verplichte verzekering bepaalde prestaties heeft verleend, in de rechten van het slachtoffer treedt voor het geheel van de door haar verleende prestaties, tot beloop van het bedrag dat de aansprakelijke derde of zijn verzekeraar in gemeen recht verschuldigd is ter vergoeding van die schade (1). (1) Zie Cass. 16 november 2009, AR C.09.0256.N, AC 2009, nr.667, met conclusie advocaat - generaal Mortier"
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111031.2": {
+      "court": "CASS",
+      "date": "2011-10-31",
+      "roleNumber": "C.11.0036.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 136, § 2, alinéa 4, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, que les prestations prévues par la loi ne sont pas cumulables avec les indemnités dues en droit commun ou en vertu d'une autre législation lorsque ces prestations et indemnités portent, en tout ou en partie, sur le même dommage (1). (1) Voir Cass. 9 février 2004, RG C.01.0127.F, Pas. 2004, nr. 68."
+      ],
+      "abstractNL": [
+        "Uit artikel 136,§2, eerste en vierde lid ZIV-wet volgt dat de in die wet bepaalde prestaties niet kunnen gecumuleerd worden met de krachtens het gemeen recht of een andere wetgeving verschuldigde vergoedingen wanneer die prestaties en vergoedingen dezelfde schade of hetzelfde gedeelte van die schade dekken(1). (1) Zie Cass. 9 februari 2004,AR C.01.0127.F, AC 2004, nr.68;"
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110516.1": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "C.10.0664.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sauf en cas d'erreur invincible ou autre cause d'exonération de responsabilité, l'infraction à une disposition légale ou réglementaire qui prescrit ou interdit un comportement déterminé constitue en soi une faute qui, s'il y a préjudice, engage la responsabilité civile de la personne qui a commis l'infraction, de sorte qu'en décidant simplement qu'il ne peut être déduit de l'obligation d'avertir prévue à l'article 136, §2, alinéa 6, de la loi relative à l'assurance obligatoire soins de santé et indemnités, que le remboursement des débours qui, pour des motifs de prescription, ne peut plus être réclamé par la voie de la subrogation visée à l'article 136, §2, alinéa 4, de la loi précitée, peut être réclamé en application des articles 170, e, de la loi précitée et 1382 du Code civil, les juges d'appel n'ont pas légalement justifié leur décision (1). (1) Voir Cass. 8 novembre 2002, RG C.00.0124.N, Pas., 2002, n° 591."
+      ],
+      "abstractNL": [
+        "De overtreding van een wettelijke of reglementaire bepaling die een bepaald gedrag voorschrijft of verbiedt, is op zichzelf een fout die leidt tot burgerrechtelijke aansprakelijkheid van diegene die de overtreding heeft begaan wanneer die fout schade veroorzaakt, behoudens onoverwinnelijke dwaling of enige grond tot ontheffing van aansprakelijkheid, zodat de appelrechters die zonder meer oordelen dat uit de informatieplicht zoals neergelegd in artikel 136, §2, zesde lid, Z.I.V.-wet niet kan afgeleid worden dat de uitgaven waarvan de terugvordering gesteund op de subrogatie bepaald bij artikel 136, §2, vierde lid, Z.I.V.-wet reeds verjaard is, wel zouden kunnen teruggevorderd worden op grond van de artikelen 170, e, Z.I.V.-wet en artikel 1382 B.W., hun beslissing niet naar recht verantwoorden (1). (1) Zie Cass. 8 nov. 2002, AR C.00.0124.N, AC, 2002, nr. 591."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100315.2": {
+      "court": "CASS",
+      "date": "2010-03-15",
+      "roleNumber": "C.09.0320.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 136, § 2, alinéas 1er, 3, 4, 6 et 7, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, que l'existence d'un jugement condamnant le débiteur de la réparation à indemniser le bénéficiaire, d'une part, n'exonère pas l'organisme assureur de son obligation d'octroyer les prestations prévues par la loi dans l'attente de l'exécution effective de ce jugement et de l'annonce par le débiteur de la réparation de cette exécution, à tout le moins, de l'intention d'exécuter le jugement et, d'autre part, ne prive pas cet organisme assureur du droit de réclamer par la voie de son droit de recours subrogatoire le remboursement des prestations qu'il a octroyées dans l'attente de l'avertissement du débiteur de la réparation visé à l'article 136, § 2, alinéa 6, de la loi (1). (1) Voir Cass., 29 mai 2006, RG C.05.0253.N, Pas., 2006, n° 294."
+      ],
+      "abstractNL": [
+        "Uit het eerste, derde, vierde, zesde en zevende lid van artikel 136, § 2 van de Z.I.V.-wet volgt dat de omstandigheid dat een vonnis de vergoedingsplichtige veroordeelt tot schadeloosstelling ten aanzien van de rechthebbende, de verzekeringsinstelling enerzijds niet ontslaat van haar verplichting om de door de Z.I.V.-wet bepaalde prestaties uit te keren totdat het vonnis daadwerkelijk werd uitgevoerd en zij van de uitvoering, minstens van het voornemen daartoe, op de hoogte is gebracht door de vergoedingsplichtige, en anderzijds haar niet het recht ontneemt door middel van haar subrogatoir verhaalsrecht de terugbetaling te vorderen van de prestaties die zij heeft uitgekeerd totdat zij door de vergoedingsplichtige werd ingelicht overeenkomstig het zesde lid van voormeld artikel (1). (1) Zie Cass., 29 mei 2006, AR C.05.0253.N, A.C., 2006, nr 294."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091116.6": {
+      "court": "CASS",
+      "date": "2009-11-16",
+      "roleNumber": "C.09.0256.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/16/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 136, § 2, alinéa 4, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, que l'organisme assureur qui a octroyé les prestations prévues par l'assurance obligatoire soins de santés et indemnités à la victime d'un dommage découlant d'une maladie, de lésions, de troubles fonctionnels ou d'un décès, est subrogé aux droits de cette victime pour la totalité de ses prestations, à concurrence de la totalité des sommes qui sont dues en droit commun à titre de réparation par le tiers responsable ou son assureur, compte tenu d'un éventuel partage de responsabilité. Cette subrogation ne se limite pas à une fraction des prestations octroyées proportionnelle à la part de responsabilité du tiers dans le dommage (1). (1) Voir les conclusions du ministère public publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Uit artikel 136, § 2, vierde lid Z.I.V.-wet volgt dat de verzekeringsinstelling die aan het slachtoffer van schade voortvloeiend uit ziekte, letsels, functionele stoornissen of overlijden, de bij de verplichte verzekering bepaalde prestaties heeft verleend, in de rechten van het slachtoffer treedt voor het geheel van de door haar verleende prestaties, tot beloop van het totaalbedrag van de geldsommen, die de aansprakelijke derde of zijn verzekeraar, rekening houdend met de mogelijke verdeling van de aansprakelijkheid, in gemeen recht verschuldigd zijn ter vergoeding van die schade. Die subrogatie is niet beperkt tot een breukdeel van de verleende prestaties dat evenredig is aan het aandeel van de derde in de aansprakelijkheid voor de veroorzaakte schade (1). (1) Zie de conclusie van het openbaar ministerie."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091116.5": {
+      "court": "CASS",
+      "date": "2009-11-16",
+      "roleNumber": "C.09.0135.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il réclame au tiers responsable l'indemnisation des prestations octroyées à la victime en sa qualité de partie subrogée en vertu de l'article 136, § 2, alinéa 4, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, l'organisme assureur n'exerce pas d'autre action que celle de la victime même (1). (1) Voir Cass., 3 septembre 2003, RG P.03.0256.F, Pas., 2003, n° 410."
+      ],
+      "abstractNL": [
+        "Wanneer de verzekeringsinstelling van de aansprakelijke derde vergoeding vordert voor de aan het slachtoffer uitgekeerde prestaties, oefent zij krachtens de indeplaatstelling ingevolge artikel 136, § 2, vierde lid van de ZIV-wet 1994, geen andere vordering uit dan deze van het slachtoffer zelf (1). (1) Zie Cass., 3 sept. 2003, AR P.03.0256.F, A.C., 2003, nr 410."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090323.4": {
+      "court": "CASS",
+      "date": "2009-03-23",
+      "roleNumber": "S.08.0122.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le demandeur d'emploi, travailleur d'une agence locale pour l'emploi et victime d'un accident de travail, n'a pas droit aux prestations de l'assurance maladie invalidité mais bien à celle de la société d'assurance garantissant une protection équivalente à celle qu'accorde la loi du 10 avril 1971 sur les accidents du travail."
+      ],
+      "abstractNL": [
+        "De werkzoekende, die tewerkgesteld wordt door een plaatselijk werkgelegenheidsagentschap en die getroffen wordt door een arbeidsongeval, heeft geen recht op de prestaties van de ziekte- en invaliditeitsverzekering, maar wel op die van de verzekeringsmaatschappij, die dezelfde bescherming als die van de Arbeidsongevallenwet waarborgt."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090121.5": {
+      "court": "CASS",
+      "date": "2009-01-21",
+      "roleNumber": "P.07.1816.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision le jugement qui énonce que les sommes qu'il exclut de l'assiette du recours subrogatoire de l'organisme assureur couvrent un dommage autre que celui causé par la faute du prévenu et, partant, ne constituent pas des sommes dues en application du droit commun."
+      ],
+      "abstractNL": [
+        "Het vonnis dat vermeldt dat de bedragen die het van de grondslag van de subrogatoire rechtsvordering van de verzekeringsinstelling uitsluit, een andere schade dekken dan die welke door de fout van de beklaagde is veroorzaakt en, bijgevolg, geen bedragen zijn die krachtens het gemeen recht zijn verschuldigd, verantwoordt zijn beslissing naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080922.2": {
+      "court": "CASS",
+      "date": "2008-09-22",
+      "roleNumber": "C.07.0531.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/09/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction, consacrée par les articles 136, § 2, alinéa 1er et 4, de la loi du 14 juillet 1994, de cumuler les prestations visés par la loi et les indemnités dues en vertu du droit commun ou d'une autre législation, belge ou étrangère, et la subrogation de l'organisme assureur dans les droits du bénéficiaire ne s'appliquent que pour autant que ces prestations et indemnités concernent le même dommage ou la même partie du dommage (1). (1) Voir Cass., 4 mai 1988, RG 6476, Pas., 1988, n° 547. Voir Cass.,10 février 1992, RG 9293, Pas., 1992, n° 300. Voir Cass., 22 octobre 1993, RG 8034, Pas., 1993, n° 424."
+      ],
+      "abstractNL": [
+        "Het in de artikelen 136, § 2, eerste en vierde lid van de wet van 14 juli 1994, neergelegde verbod om de in de wet bedoelde prestaties te cumuleren met de vergoedingen verschuldigd krachtens het gemeen recht of krachtens een andere Belgische of buitenlandse wetgeving en de indeplaatsstelling van de verzekeringsinstelling in de rechten van de rechthebbende zijn alleen van toepassing in zoverre die prestaties en vergoedingen betrekking hebben op dezelfde schade of hetzelfde deel van de schade (1). (1) Zie Cass., 4 mei 1988, AR 6476, A.C., 1987-1988, nr 547. Zie Cass., 10 feb. 1992, AR 9293, A.C., 1992, nr 300. Zie Cass., 22 okt. 1993, AR 8034, A.C., 1993, nr 424."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080421.6": {
+      "court": "CASS",
+      "date": "2008-04-21",
+      "roleNumber": "C.06.0631.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En ayant égard aux allocations de chômage perçues par la victime de l'accident pour évaluer le montant de l'indemnité lui revenant en droit commun mais en décidant que, à cet égard, l'organisme assureur n'établit pas correctement sa demande en tenant compte des droits de la victime en droit commun, l'arrêt attaqué qui ne refuse pas de prendre en considération les taux d'incapacité de travail reconnu par la demanderesse pour l'octroi des indemnités qu'elle a versées à son affilié et ne critique partant pas la décision de l'organisme assureur quant à l'état d'incapacité de celui-ci, justifie légalement sa décision (1). (1) Voir Cass., 9 février 2004, RG C.01.0127.F, Pas., 2004, n° 68."
+      ],
+      "abstractNL": [
+        "Het bestreden arrest, dat bij het begroten van het bedrag van de uitkering dat aan de getroffene van het ongeval naar gemeen recht verschuldigd is, rekening houdt met de werkloosheidsuitkeringen die hij ontvangen heeft, maar dat, wat dat betreft, beslist dat de verzekeringsinstelling haar vordering niet correct heeft gesteld door rekening te houden met de rechten die de getroffene overeenkomstig het gemeen recht heeft, weigert niet de percentages van arbeidsongeschiktheid in aanmerking te nemen die de eiser heeft erkend voor de toekenning van de aan zijn aangeslotene gestorte uitkeringen en oefent bijgevolg geen kritiek uit op de beslissing van de verzekeringsinstelling over de staat van arbeidsongeschiktheid van die aangeslotene, zodat het zijn beslissing naar recht verantwoordt (1). (1) Zie Cass., 9 feb. 2004, AR C.01.0127.F, A.C., 2004, nr. 68."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080421.7": {
+      "court": "CASS",
+      "date": "2008-04-21",
+      "roleNumber": "C.06.0675.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur, qui a fourni à la victime d'un dommage résultant d'une maladie, de lésions, de troubles fonctionnels ou du décès l'une des prestations prévues par l'assurance obligatoire, est subrogé à la victime, jusqu'à concurrence du montant de cette prestation, sur la totalité des sommes dues, compte tenu du partage éventuel de responsabilité, par le tiers responsable ou par son assureur en réparation de ce dommage, sans qu'il soit requis que les sommes auxquelles s'étend la subrogation réparent le même élément du dommage que celui auquel correspond la prestation octroyée, pourvu que l'élément du dommage que ces sommes réparent soit de nature à justifier l'octroi des prestations de l'assurance obligatoire (1). (1) Voir les conclusions du ministère public."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling, die aan de getroffene van schade voortvloeiend uit ziekte, letsels, functionele stoornissen of overlijden, één van de bij de verplichte verzekering bepaalde prestaties heeft verleend, treedt in de rechten van de getroffene tot beloop van het bedrag van die prestatie, op het totaalbedrag van de geldsommen die de aansprakelijke derde of zijn verzekeraar, rekening houdend met de mogelijke verdeling van de aansprakelijkheid, verschuldigd zijn ter vergoeding van die schade, zonder dat vereist is dat de geldsommen waarvoor de indeplaatsstelling geldt, hetzelfde bestanddeel van de schade vergoeden als dat waarmee de toegekende prestatie overeenstemt, mits het bestanddeel van de schade die door die geldsommen vergoed wordt, de toekenning van een prestatie van de verplichte verzekering kon verantwoorden (1). (1) Zie concl. O.M. in Pas., 2008, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071022.2": {
+      "court": "CASS",
+      "date": "2007-10-22",
+      "roleNumber": "C.06.0078.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/10/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un organisme assureur a octroyé des prestations de santé à un de ses affiliés, titulaire des prestations et victime d'un accident du roulage, et qu'il demande la condamnation de la personne responsable de l'accident au remboursement des prestations octroyées, il n'exerce pas une action distincte de celle de la victime, mais, par une demande distincte, il exerce l'action en payement des indemnités de la victime elle-même (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Wanneer een verzekeringsinstelling geneeskundige verstrekkingen heeft verleend aan één van haar verstrekkingsgerechtigde leden die door een wegverkeersongeval is getroffen, en de veroordeling vordert van de voor het ongeval aansprakelijke persoon tot terugbetaling van de verleende verstrekkingen, dan stelt zij geen andere rechtsvordering in dan die van de getroffene, maar stelt zij, bij een afzonderlijke eis, de rechtsvordering in tot betaling van de schadeloosstelling van de getroffene zelf (1). (1) Zie concl. O.M. in Pas."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071008.6": {
+      "court": "CASS",
+      "date": "2007-10-08",
+      "roleNumber": "C.06.0350.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/10/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur, qui a fourni des prestations à la victime, est subrogé dans les droits du bénéficiaire à concurrence de l'intégralité des prestations qu'il lui a octroyées; le montant du dommage que subit le bénéficiaire consistant dans la quote-part des frais médicaux que la législation sur l'assurance obligatoire en matière de soins de santé et d'indemnités laisse à sa charge n'est pas exclu de la subrogation de l'organisme assureur (1). (1) Voir Cass., 20 avril 1982, RG 7059 (Bull. et Pas., 1982, I, 942.); 18 novembre 1986, RG 9974 (Bull. et Pas., 1987, I, n°171); 11 avril 1988, RG 5851 (Bull. et Pas., 1988, I, n°483.); 12 novembre 1990, RG 7195, n°142."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die de getroffene prestaties heeft verleend, treedt in de rechten van de rechthebbende voor het geheel van de verleende prestaties; het bedrag van de schade van de rechthebbende, gelijk aan het gedeelte van de medische kosten dat de wetgeving betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen te zijnen laste laat, wordt niet uitgesloten van de indeplaatsstelling van de verzekeringsinstelling (1). (1) Zie Cass., 20 april 1982, AR 7059, A.C., 1981-82, nr. 483; 18 nov. 1986, AR 9974, A.C., 1986-87, nr. 171; 11 april 1988, AR 5851, A.C., 1988-89, nr. 483; 12 nov. 1990, AR 7195, A.C., 1990-91, nr. 142."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060403.2": {
+      "court": "CASS",
+      "date": "2006-04-03",
+      "roleNumber": "C050114N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/04/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les droits de l'assureur des soins de santé ne peuvent être déterminés en fonction des droits octroyés en droit commun à la victime sur la base d'un rapport d'experts désignés à l'amiable par convention entre la victime et l'assureur du tiers responsable (1). (1) Cass., 19 octobre 1994, RG P.94.0587.F, n° 441."
+      ],
+      "abstractNL": [
+        "De rechten van de verzekeraar van de geneeskundige verzorging kunnen niet worden bepaald op grond van de rechten die aan de getroffene naar gemeen recht worden toegekend op basis van een verslag van deskundigen welke in der minne zijn aangewezen bij een overeenkomst tussen de getroffene en de verzekeraar van de aansprakelijke derde (1). (1) Cass., 19 okt. 1994, AR P.94.0587.F, nr 441."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060227.4": {
+      "court": "CASS",
+      "date": "2006-02-27",
+      "roleNumber": "C040306F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La transaction intervenue entre la victime d'un accident et le tiers responsable n'est opposable à l'organisme assureur en matière d'assurance maladie-invalidité qu'avec l'accord de celui-ci (1). (1) Voir Cass., 12 juin 1986, RG 7414, n° 642; 8 février 1990, RG 8522, n° 354; 11 octobre 1999, RG C.98.0421.N, n° 522."
+      ],
+      "abstractNL": [
+        "De overeenkomst die tot stand gekomen is tussen de getroffene door een ongeval en de derde aansprakelijke kan alleen tegen de ziekte- en invaliditeitsverzekeraar worden aangevoerd als hij daarmee instemt (1). (1) Zie Cass., 12 juni 1986, AR 7414, nr 642; 8 feb. 1990, AR 8522, nr 354; 11 okt. 1999, AR C.98.0421.N, nr 522."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040308.4": {
+      "court": "CASS",
+      "date": "2004-03-08",
+      "roleNumber": "S030103F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/03/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les articles 63, ,§ 2, de la loi du 10 avril 1971 sur les accidents du travail et 136, ,§ 2, alinéa 3, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, qui prévoient un régime provisoire autonome et complet lorsque l'assureur-loi conteste l'application au cas de la loi sur les accidents du travail ou refuse de prendre le cas en charge, et l'article 66 de la loi du 10 avril 1971, qui prévoit la possibilité de l'octroi d'une provision lorsque l'application de la loi n'est pas contestée, excluent que le juge saisi du litige au fond concernant l'accident du travail puisse ordonner quelque autre mesure provisoire (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De artikelen 63, ,§ 2, Arbeidsongevallenwet en 136, ,§ 2, derde lid, Z.I.V.-wet 1994, die voorzien in een afzonderlijke en volledige voorlopige regeling wanneer de arbeidsongevallenverzekeraar de toepassing van de Arbeidsongevallenwet op het geval betwist of weigert het geval ten laste te nemen, en artikel 66 van de Arbeidsongevallenwet dat voorziet in de mogelijkheid van de toekenning van een voorschot wanneer de toepassing van de wet niet wordt betwist, sluiten uit dat de rechter bij wie het geschil over de zaak zelf betreffende het arbeidsongeval aanhangig is gemaakt, enige andere voorlopige maatregel kan bevelen (1). (1) Zie conl. O.M. in Bull. en Pas., 2004, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000207.8": {
+      "court": "CASS",
+      "date": "2000-02-07",
+      "roleNumber": "S990091N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans une contestation relative à la récupération par l'organisme assureur à l'égard de la personne responsable de l'accident des sommes qu'il a versées à son assuré, il ne résulte pas du fait que l'existence de ces sommes est établie, qu'il existe un lien de causalité entre les sommes et l'accident."
+      ],
+      "abstractNL": [
+        "In een geschil over de terugvordering door de verzekeringsinstelling tegen degene die voor het ongeval aansprakelijk is, van de bedragen die zij aan haar verzekerde heeft uitgekeerd, volgt niet uit het feit dat die bedragen bewezen zijn dat er een oorzakelijk verband is tussen de bedragen en het ongeval."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991011.4": {
+      "court": "CASS",
+      "date": "1999-10-11",
+      "roleNumber": "C980421N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La transaction intervenue entre le bénéficiaire et l'assureur de la responsabilité n'est pas opposable à l'organisme assureur qui est subrogé de plein droit au bénéficiaire des prestations de l'assurance maladie-invalidité, sans l'accord de l'organisme assureur."
+      ],
+      "abstractNL": [
+        "De dadingsovereenkomst die tot stand is gekomen tussen de rechthebbende en de aansprakelijkheidsverzekeraar kan niet tegen de verzekeringsinstelling, die rechtens in de plaats treedt van de rechthebbende op de toegekende prestaties van ziekte- en invaliditeitsverzekering, worden aangevoerd zonder haar instemming."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991011.6": {
+      "court": "CASS",
+      "date": "1999-10-11",
+      "roleNumber": "C970201N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur qui a accordé au bénéficiaire de l'assurance contre la maladie et l'invalidité certaines prestations est subrogé de plein droit au bénéficiaire à concurrence du montant des prestations octroyées, pour la totalité des sommes qui sont dues notamment en vertu du droit commun et que réparent partiellement ou totalement le même dommage."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die aan de rechthebbende op de ziekte- en invaliditeitsverzekering, bepaalde prestaties heeft toegekend, treedt rechtens in de plaats van de rechthebende tot beloop van het bedrag van de verleende prestaties, voor het geheel van de sommen die onder meer krachtens het gemeen recht verschuldigd zijn en die dezelfde schade geheel gedeeltelijk vergoeden."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960103.8": {
+      "court": "CASS",
+      "date": "1996-01-03",
+      "roleNumber": "P950730F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La cassation, sur le pourvoi d'une partie civile victime d'un accident, de la décision rendue sur l'action civile exercée par cette victime contre le prévenu, entraîne l'annulation de la décision rendue sur l'action civile exercée contre ce même prévenu par une autre partie civile subrogée à la première, notamment par l'organisme assureur qui a octroyé à la victime des prestations de l'assurance maladie-invalidité."
+      ],
+      "abstractNL": null
+    }
+  },
+  "141": {
+    "ECLI:BE:CASS:2001:ARR.20011220.11": {
+      "court": "CASS",
+      "date": "2001-12-20",
+      "roleNumber": "D000032N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/20/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La sanction infligée par la chambre restreinte du service du contrôle médical ne constitue pas une sanction au sens de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et du Pacte international relatif aux droits civils et politiques."
+      ],
+      "abstractNL": [
+        "Een sanctie opgelegd door de beperkte kamer van de dienst voor geneeskundige contrôle is geen strafmaatregel in de zin van het E.V.R.M. en van het I.V.B.P.R."
+      ]
+    }
+  },
+  "146": {
+    "ECLI:BE:CASS:2004:ARR.20041005.4": {
+      "court": "CASS",
+      "date": "2004-10-05",
+      "roleNumber": "P040747N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/10/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les médecins-inspecteurs de l'Institut national d'assurance maladie-invalidité sont compétents pour exercer un contrôle sur les prestations de l'assurance soins de santé et de l'assurance indemnités, à l'occasion duquel ils peuvent dresser des procès-verbaux concernant les infractions qu'ils constatent aux dispositions légales applicables (1). (1) Cass., 28 juin 1971, Bull. et Pas., 1971, 1105; Cass., 2 février 1982, Bull. et Pas., 1982, n° 330; Cass., 9 juin 1987, Bull. et Pas., 1987, n° 610."
+      ],
+      "abstractNL": [
+        "De geneesheren-inspecteurs van het rijksinstituut voor ziekte- en invaliditeitsverzekering hebben de bevoegdheid om controle te verrichten op de prestaties van de verzekering voor geneeskundige verzorging en van de uitkeringsverzekering, naar aanleiding waarvan zij processen-verbaal kunnen opstellen betreffende de overtredingen op de daartoe toepasselijke bepalingen die zij vaststellen (1) (1) Cass., 28 juni 1971, A.C. 1971, 1105; Cass., 2 feb. 1982, A.C. 1981-1982, nr. 330; Cass., 9 juni 1987, A.C. 1986-1987, nr 610."
+      ]
     }
   },
   "164": {
@@ -650,6 +1320,34 @@
         "Prestaties van de ziekte- en invaliditeitsverzekering zijn ten onrechte uitbetaald zodra de voorgeschreven reglementaire voorwaarden niet zijn vervuld aangezien artikel 164, eerste en tweede lid, ZIV-wet, voor de verplichte terugbetaling van ten onrechte toegekende prestaties, geen onderscheid maakt tussen vergissing en bedrog (1). (1) Zie concl. OM in Pas. 2019, nr. 89.",
         "Artikel 164, eerste en tweede lid, ZIV-wet belet de verzekeringsinstellingen niet om, in geval van strafvervolging, een burgerlijke rechtsvordering in te stellen voor de strafrechter op grond van artikel 1382 Burgerlijk Wetboek wanneer de toepassingsvoorwaarden van dit artikel zijn vervuld, waaronder de noodzakelijkheid van schade; die schade is in dat geval evenwel niet beperkt tot de eigen schade van de verzekeringsinstellingen maar heeft ook betrekking op de schade voortvloeiend uit de uitbetaling van de bedragen die overeenkomen met ten onrechte betaalde prestaties en die door de verzekeringsregeling worden gedragen die de middelen voor die prestaties heeft verstrekt (1). (1) Zie concl. OM in Pas. 2019, nr. 89."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070305.1": {
+      "court": "CASS",
+      "date": "2007-03-05",
+      "roleNumber": "S.05.0102.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/03/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le délai pour former appel dans un litige en matière de remboursement, en vertu de l'article 164 de la loi sur l'assurance maladie-invalidité de 1994, ne prend pas cours au moment de la notification de la décision attaquée par pli judiciaire aux parties, mais au moment de la signification de cette décision."
+      ],
+      "abstractNL": [
+        "De termijn om hoger beroep aan te tekenen in een geschil tot terugvordering, krachtens artikel 164, Z.I.V.-wet 1994, neemt geen aanvang op het tijdstip van de kennisgeving van de bestreden beslissing bij gerechtsbrief aan partijen, doch wel bij de betekening van deze beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980518.9": {
+      "court": "CASS",
+      "date": "1998-05-18",
+      "roleNumber": "S960167N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/05/18/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en régime du tiers payant, des prestations de l'assurance soins de santé payées indûment doivent être remboursées par le donneur de soins ou par la personne physique ou morale qui les a perçcues pour son propre compte, l'organisme assureur peut aussi réclamer le remboursement à ces personnes en se fondant sur le régime de la responsabilité de droit commun prévu par l'article 1382 du Code civil."
+      ],
+      "abstractNL": [
+        "Wanneer in het stelsel van de betalende derde ten onrechte betaalde prestaties van de verzekering voor geneeskundige verzorging moeten worden terugbetaald door de verstrekker van de verzorging of door de natuurlijke of rechtspersoon die deze vergoedingen voor eigen rekening heeft geond, kan de verzekeringsinstelling de terugbetaling ook op grond van de gemeenrechtelijke aansprakelijkheidsregeling van artikel 1382 BW van deze personen vorderen."
+      ]
     }
   },
   "167": {
@@ -666,6 +1364,46 @@
       "abstractNL": [
         "Wanneer een telastlegging wegens valsheid betrekking heeft op een document dat de terugbetaling toelaat van geneeskundige verstrekkingen, bedoeld in de ZIV-wet, zijn, onder voorbehoud van het bepaalde in artikel 155, tweede lid, Gerechtelijk Wetboek, enkel de leden van het arbeidsauditoraat bevoegd de strafvordering wegens dergelijke inbreuken uit te oefenen en moet de kamer van het hof van beroep dat uitspraak doet over de strafvordering samengesteld zijn uit twee raadsheren in het hof van beroep, de voorzitter daaronder begrepen, en uit één raadsheer in het arbeidshof."
       ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001127.5": {
+      "court": "CASS",
+      "date": "2000-11-27",
+      "roleNumber": "S990197NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 25 juin 1997 fixant le tarif des honoraires et frais dus aux experts désignés par les juridictions du travail dans les litiges relatifs au régime d'assurance obligatoire soins de santé et indemnités s'applique aux litiges relatifs à l'application de l'assurance indemnités pour travailleurs salariés et travailleurs indépendants dans lesquels un expert médical est désigné."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 25 juni 1997 tot vaststelling van het tarief van de erelonen en kosten voor de deskundigen aangewezen door de arbeidsgerechten inzake de geschillen betreffende de regeling voor verplichte verzekering voor geneeskundige verzorging en uitkeringen, is van toepassing op geschillen over de toepassing van de uitkeringsverzekering voor werknemers en voor zelfstandigen waarin een medisch expert wordt aangewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981112.4": {
+      "court": "CASS",
+      "date": "1998-11-12",
+      "roleNumber": "C970163F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Seul le tribunal du travail dispose du pouvoir de trancher la contestation relative aux décisions du médecin-conseil ou du conseil-médical de l'invalidité fixant le taux de l'incapacité primaire ou admettant l'état d'invalidité, à l'exclusion de la juridiction saisie, en droit commun, de l'action subrogatoire dirigée par l'organisme assureur contre le tiers responsable. (Solution implicite)."
+      ],
+      "abstractNL": [
+        "Alleen de arbeidsrechtbank is bevoegd om het geschil te beslechten over de beslissingen van de adviserend geneesheer of van de geneeskundige raad voor de invaliditeit die de graad van de primaire arbeidsongeschiktheid vastleggen of de invaliditeit aannemen, en niet het gerecht dat volgens het gemeen recht kennisneemt van de vordering tot indeplaatsstelling van de verzekeringsinstelling tegen de derde aansprakelijke. (Impliciet)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980908.8": {
+      "court": "CASS",
+      "date": "1998-09-08",
+      "roleNumber": "P970644N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le fait que le responsable d'un accident ou son ayant droit est un tiers à l'égard de la décision de reconnaissance de l'invalidité de la victime et qu'il ne présente pas l'intérêt personnel requis pour contester celle-ci devant le tribunal du travail ne le prive pas du droit, devant le juge pénal connaissant de l'action civile exercée par la victime, dans une cause où la mutualité de celle-ci est aussi impliquée, de présenter une défense alléguant que c'est à tort que ladite mutualité a payé des indemnités à son assuré, ladite victime."
+      ],
+      "abstractNL": null
     }
   },
   "168": {
@@ -688,6 +1426,22 @@
       ]
     }
   },
+  "170": {
+    "ECLI:BE:CASS:2011:ARR.20110516.1": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "C.10.0664.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sauf en cas d'erreur invincible ou autre cause d'exonération de responsabilité, l'infraction à une disposition légale ou réglementaire qui prescrit ou interdit un comportement déterminé constitue en soi une faute qui, s'il y a préjudice, engage la responsabilité civile de la personne qui a commis l'infraction, de sorte qu'en décidant simplement qu'il ne peut être déduit de l'obligation d'avertir prévue à l'article 136, §2, alinéa 6, de la loi relative à l'assurance obligatoire soins de santé et indemnités, que le remboursement des débours qui, pour des motifs de prescription, ne peut plus être réclamé par la voie de la subrogation visée à l'article 136, §2, alinéa 4, de la loi précitée, peut être réclamé en application des articles 170, e, de la loi précitée et 1382 du Code civil, les juges d'appel n'ont pas légalement justifié leur décision (1). (1) Voir Cass. 8 novembre 2002, RG C.00.0124.N, Pas., 2002, n° 591."
+      ],
+      "abstractNL": [
+        "De overtreding van een wettelijke of reglementaire bepaling die een bepaald gedrag voorschrijft of verbiedt, is op zichzelf een fout die leidt tot burgerrechtelijke aansprakelijkheid van diegene die de overtreding heeft begaan wanneer die fout schade veroorzaakt, behoudens onoverwinnelijke dwaling of enige grond tot ontheffing van aansprakelijkheid, zodat de appelrechters die zonder meer oordelen dat uit de informatieplicht zoals neergelegd in artikel 136, §2, zesde lid, Z.I.V.-wet niet kan afgeleid worden dat de uitgaven waarvan de terugvordering gesteund op de subrogatie bepaald bij artikel 136, §2, vierde lid, Z.I.V.-wet reeds verjaard is, wel zouden kunnen teruggevorderd worden op grond van de artikelen 170, e, Z.I.V.-wet en artikel 1382 B.W., hun beslissing niet naar recht verantwoorden (1). (1) Zie Cass. 8 nov. 2002, AR C.00.0124.N, AC, 2002, nr. 591."
+      ]
+    }
+  },
   "174": {
     "ECLI:BE:CASS:2025:ARR.20250210.3F.4": {
       "court": "CASS",
@@ -705,6 +1459,34 @@
       ],
       "abstractNL": [
         "Uit artikel 174 ZIV-wet volgt niet dat enkel de prestaties die na een listige kunstgreep werden verleend, onderworpen zijn aan een verjaringstermijn van vijf jaar (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061204.2": {
+      "court": "CASS",
+      "date": "2006-12-04",
+      "roleNumber": "S050071F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription est de cinq ans dans le cas où l'octroi indu de prestations à charge de l'assurance indemnités ou à charge de l'assurance soins de santé a été provoqué par des manoeuvres frauduleuses dont est responsable celui qui en a profité; ni de la considération que le bénéficiaire pouvait se renseigner quant à l'étendue de ses obligations à l'égard de son organisme assureur ni de la constatation que le bénéficiaire n'a pas déclaré à son organisme assureur la poursuite d'une activité, il ne peut être légalement déduit l'existence de manoeuvres frauduleuses ayant provoqué l'octroi de prestations indues."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn bedraagt vijf jaar, als het ten onrechte verlenen van prestaties ten laste van de arbeidsongeschiktheidsverzekering of van de ziektekostenverzekering het gevolg is van bedrieglijke handelingen van de begunstigde; noch uit de overweging dat de rechthebbende zich op de hoogte had kunnen stellen over zijn verplichtingen t.a.v. zijn verzekeringsinstelling, noch uit de vaststelling dat de gerechtigde de voortzetting van een activiteit niet aan zijn verzekeringsinstelling had aangegeven, kan wettig het bestaan van bedrieglijke handelingen worden afgeleid die het verlenen van onverschuldigde prestaties zouden hebben veroorzaakt."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991115.4": {
+      "court": "CASS",
+      "date": "1999-11-15",
+      "roleNumber": "S990083N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/11/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité instaure un régime de prescription auquel, sauf dérogation expresse, s'appliquent les dispositions de droit commun."
+      ],
+      "abstractNL": [
+        "De ZIV-wet voert een verjaringsstelsel in, waarop, behoudens uitdrukkelijke afwijking, de gemeenrechtelijke bepalingen toepasselijk zijn."
       ]
     }
   },
@@ -784,6 +1566,64 @@
       ],
       "abstractNL": [
         "Wanneer een telastlegging wegens valsheid betrekking heeft op een document dat de terugbetaling toelaat van geneeskundige verstrekkingen, bedoeld in de ZIV-wet, zijn, onder voorbehoud van het bepaalde in artikel 155, tweede lid, Gerechtelijk Wetboek, enkel de leden van het arbeidsauditoraat bevoegd de strafvordering wegens dergelijke inbreuken uit te oefenen en moet de kamer van het hof van beroep dat uitspraak doet over de strafvordering samengesteld zijn uit twee raadsheren in het hof van beroep, de voorzitter daaronder begrepen, en uit één raadsheer in het arbeidshof."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001127.5": {
+      "court": "CASS",
+      "date": "2000-11-27",
+      "roleNumber": "S990197NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 25 juin 1997 fixant le tarif des honoraires et frais dus aux experts désignés par les juridictions du travail dans les litiges relatifs au régime d'assurance obligatoire soins de santé et indemnités s'applique aux litiges relatifs à l'application de l'assurance indemnités pour travailleurs salariés et travailleurs indépendants dans lesquels un expert médical est désigné."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 25 juni 1997 tot vaststelling van het tarief van de erelonen en kosten voor de deskundigen aangewezen door de arbeidsgerechten inzake de geschillen betreffende de regeling voor verplichte verzekering voor geneeskundige verzorging en uitkeringen, is van toepassing op geschillen over de toepassing van de uitkeringsverzekering voor werknemers en voor zelfstandigen waarin een medisch expert wordt aangewezen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000306.5": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990056N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'Office national des Pensions est chargé en tant qu'institution de l'application des lois et règlements en matière de pensions de retraite et de survie des travailleurs salariés et doit être condamné aux dépens dans les différentes procédures menées lors de la constatation de l'incapacité de travail et du droit à la pension du conjoint survivant n'ayant pas encore atteint l'âge de 45 ans et qui ne peut bénéficier de cette pension que s'il justifie d'une incapacité de travail de 66 p.c. au moins constatée par le conseil médical de l'invalidité qui est chargé de cet examen en vertu de l'article 46, § 1er de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De Rijksdienst voor Pensioenen is als instelling belast met de toepassing van de wetten en verordeningen inzake rust- en overlevingspensioenen der werknemers en dient verwezen in de kosten van de onderscheiden procedures gevoerd naar aanleiding van het vaststellen van de arbeidsongeschiktheid en het pensioenrecht van de langstlevende echtgenoot die de leeftijd van 45 jaar nog niet heeft bereikt en dit pensioen slechts kan bekomen indien hij een arbeidsongeschiktheid bewijst van minstens 66%, die moet vastgesteld worden door de Geneeskundige Raad van invaliditeit, ingesteld bij de wetgeving inzake ziekte- en invaliditeitsverzekering en die met dit onderzoek is belast krachtens art. 46, § 1 van het KB van 21 december 1967 tot vaststelling van het algemeen reglement."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000207.7": {
+      "court": "CASS",
+      "date": "2000-02-07",
+      "roleNumber": "S990148N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pendant les six premiers mois de l'incapacité primaire un travailleur peut rester à charge de son organisme assureur à la condition que le taux de réduction de capacité de gain prévu par la loi soit évalué par rapport à la profession habituelle de l'intéressé, pour autant que l'affection causale soit susceptible d'évolution favorable ou de guérison à plus ou moins brève échéance."
+      ],
+      "abstractNL": [
+        "Over de eerste zes maanden van primaire arbeidsongeschiktheid kan een werknemer ten laste blijven van zijn verzekeringsinstelling, op voorwaarde dat de bij de wet bepaalde vermindering van het vermogen tot verdienen gewaardeerd wordt ten aanzien van het gewone beroep van de betrokkene, althans indien de oorzakelijke aandoening voor een gunstig verloop of genezing vatbaar is binnen een tamelijk korte tijdspanne."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991011.4": {
+      "court": "CASS",
+      "date": "1999-10-11",
+      "roleNumber": "C980421N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La transaction intervenue entre le bénéficiaire et l'assureur de la responsabilité n'est pas opposable à l'organisme assureur qui est subrogé de plein droit au bénéficiaire des prestations de l'assurance maladie-invalidité, sans l'accord de l'organisme assureur."
+      ],
+      "abstractNL": [
+        "De dadingsovereenkomst die tot stand is gekomen tussen de rechthebbende en de aansprakelijkheidsverzekeraar kan niet tegen de verzekeringsinstelling, die rechtens in de plaats treedt van de rechthebbende op de toegekende prestaties van ziekte- en invaliditeitsverzekering, worden aangevoerd zonder haar instemming."
       ]
     }
   }

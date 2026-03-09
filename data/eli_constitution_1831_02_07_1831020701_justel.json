@@ -93,6 +93,22 @@
       ]
     }
   },
+  "22": {
+    "ECLI:BE:CASS:1999:ARR.19990727.19": {
+      "court": "CASS",
+      "date": "1999-07-27",
+      "roleNumber": "P991082N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/07/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La protection du secret des lettres ne s'étend pas à un colis postal uniquement du fait qu'il est confié, pour expédition, sous pli ou emballage fermé, à une firme privée, avec mention de l'expéditeur et du destinataire."
+      ],
+      "abstractNL": [
+        "De bescherming van het briefgeheim strekt zich niet uit tot een postpakket enkel doordat het ter verzending onder gesloten omslag of verpakking aan een private firma wordt aangeboden met vermelding van afzender en bestemmeling."
+      ]
+    }
+  },
   "31": {
     "ECLI:BE:CASS:2022:ARR.20220225.1F.3": {
       "court": "CASS",
@@ -139,6 +155,22 @@
       ],
       "abstractNL": [
         "Het openbaar ministerie kan een parlementslid alleen vervolgen op grond van ontdekking op heterdaad wanneer het misdrijf nog actueel is; dit houdt in dat de akte van vervolging enkel van het misdrijf en de eventueel terstond daarop uitgevoerde onderzoekshandelingen mag gescheiden zijn door de tijd die materieel noodzakelijk is om tot de vervolging over te gaan; een vervolging die is ingesteld na een onderbreking die niet materieel noodzakelijk is om tot haar uitvoering over te gaan, heeft geen betrekking op een actueel misdrijf en is zonder het verlof van de parlementaire vergadering waarvan het parlementslid deel uitmaakt, niet ontvankelijk; de rechter beoordeelt onaantastbaar in feite of op het ogenblik van de vervolging, het misdrijf dat het voorwerp van de heterdaad uitmaakt, nog actueel is in de zin zoals hiervoor bepaald; het Hof gaat enkel na of de rechter uit de door hem vastgestelde feiten en omstandigheden geen gevolgen trekt die daarmee geen verband houden of op grond daarvan niet kunnen worden aangenomen (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "68": {
+    "ECLI:BE:CASS:2002:ARR.20020502.5": {
+      "court": "CASS",
+      "date": "2002-05-02",
+      "roleNumber": "C990518N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/05/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'assentiment préalable des Chambres concernant l'accord d'exécution d'un traité de base peut résulter des dispositions mêmes de ce traité si celui-ci a fait l'objet de l'assentiment parlementaire et si l'accord n'excède pas les limites fixées par le traité de base (1)."
+      ],
+      "abstractNL": [
+        "De voorafgaande instemming van de Kamers met een overeenkomst ter uitvoering van een basisverdrag kan resulteren uit de bepalingen zelf van het basisverdrag dat het voorwerp heeft uitgemaakt van een parlementaire goedkeuring, voor zover de overeenkomst de grenzen bepaald door het basisverdrag niet overschrijdt (1)."
       ]
     }
   },

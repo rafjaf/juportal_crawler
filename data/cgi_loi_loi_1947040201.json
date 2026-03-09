@@ -1,4 +1,52 @@
 {
+  "4": {
+    "ECLI:BE:CASS:1976:ARR.19761201.7": {
+      "court": "CASS",
+      "date": "1976-12-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/12/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour la fixation de la rémunération journalière moyenne, sur la base de laquelle le montant des allocations de chômage est calculé, il est tenu compte du nombre d'heures de travail pendant lesquelles le chômeur aurait normalement travaillé, s'il avait encore été occupé au travail le premier jour du chômage, et non du nombre d'heures pendant lesquelles il a réellement travaillé au cours de son occupation au travail. (Arr. roy. du 20 décembre 1963, art. 160, paragraphes 2, 3 et 7, 1°; arr. min. du 4 juin 1964, art 83quater, paragraphe 1er; arr. du Régent du 2 avril 1947, art. 4 (1)."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het gemiddeld dagloon, op basis waarvan het bedrag van de werkloosheidsuitkering wordt berekend, wordt rekening gehouden met het aantal arbeidsuren gedurende welke de werkloze normaal arbeid had verricht, indien hij op de eerste werkloosheidsdag nog te werk gesteld was geweest, en niet met het aantal uren gedurende welke hij tijdens zijn tewerkstelling werkelijk arbeid heeft verricht (Art. 160, par. 2, 3 en 7, 1°, K.B. van 20 december 1963; art. 83quater, par. 1, M.B. van 4 juni 1964; art. 4 besluit van de Regent van 2 april 1947 (1).)"
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1969:ARR.19691017.1": {
+      "court": "CASS",
+      "date": "1969-10-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/10/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne peut prétendre au bénéfice du salaire afférent à un jour férié le travailleur qui n'a pas été occupé au travail pendant au moins un jour ouvrables précédant un jour férié, même pour des motifs d'absence justifiés, à l'exception, toutefois,notamment, de l'application des dispositions légales concernant les vacances des travailleurs salariés. ( Arrêté du régent du 2 avril 1947, art. 11, tel qu'il a été remplacé par l'article 6 de l'arrêté du Régent du 15 juillet 1947. )"
+      ],
+      "abstractNL": [
+        "Geen aanspraak op loon voor een feestdag kan worden gemaakt door de arbeider die niet gedurende ten minste één dag gewerkt heeft in de periode van twaalf dagen welke aan die feestdag voorafgaat, zelfs om redenen van gerechtvaardigde afwezigheid, uitgezonderd, evenwel, de reden voortvloeiende uit de toepassing van de wettelijke bepalingen betreffende het verlof van de loonarbeiders. ( Besluit van de Regent van 2 april 1947, art. 11, zoals dit werd vervangen door artikel 6 van het besluit van de Regent van 15 juli 1947. )"
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1967:ARR.19670614.1": {
+      "court": "CASS",
+      "date": "1967-06-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur, qui n'a pas été occupé au travail pendant au moins un jour dans la période de douze jours ouvrables précédant un jour férié, a néanmoins droit à la rémunération afférente à ce jour, lorsque la non-occupation au travail est due, fût-ce partiellement, à l'application des dispositions légales concernant les vacances des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De werknemer die niet gedurende minstens één dag gewerkt heeft tijdens de periode van twaalf werkdagen die een feestdag voorafgaan, heeft desniettemin recht op het loon voor deze dag, wanneer de niet-tewerkstelling, al was het ten dele, te wijten is aan de toepassing van de wettelijke voorschriften betreffende het jaarlijks verlof van de loontrekkenden."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1966:ARR.19661209.2": {
       "court": "CASS",

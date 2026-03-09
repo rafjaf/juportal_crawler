@@ -106,5 +106,35 @@
         "De DIMONA-reglementering beoogt de toepassing van de Belgische sociale zekerheidsbepalingen, geldt enkel voor de tewerkstelling van de personen waarop die bepalingen van toepassing zijn en geldt niet ten aanzien van personen die beschikken over een A1-attest van een lidstaat van de Europese Unie op grond waarvan de toepassing van de Belgische sociale zekerheid wordt uitgesloten; hieruit volgt dat de DIMONA-aangifte-verplichting niet geldt ten aanzien van een werknemer-schijnzelfstandige die over een Pools A1 attest als zelfstandige beschikt ook indien hij naar Belgisch recht arbeidsrechtelijk als een werknemer moet worden beschouwd."
       ]
     }
+  },
+  "12bis": {
+    "ECLI:BE:CASS:2012:ARR.20120103.1": {
+      "court": "CASS",
+      "date": "2012-01-03",
+      "roleNumber": "P.10.1294.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/01/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En cas de concours d'infractions punissables d'une amende appliquée autant de fois qu'il y a de travailleurs à l'égard desquels l'infraction a été commise l'amende est appliquée autant de fois que le nombre total des travailleurs à l'égard desquels l'infraction a été commise; cette règle ne peut être appliquée que dans la mesure où les faits distincts sont similaires, ont la même qualification et sont punis par la même disposition légale (1). (1) Voir Cass. 8 avril 2008, RG P.07.0631.N, Pas. 2008, n° 208."
+      ],
+      "abstractNL": [
+        "Bij samenloop van misdrijven die strafbaar zijn met een geldboete die zoveel maal wordt toegepast als er werknemers bij het misdrijf betrokken zijn, wordt de geldboete zoveel maal toegepast als het totaal aantal werknemers dat bij die misdrijven betrokken is; deze regel kan alleen maar worden toegepast voor zover de onderscheiden feiten gelijkaardig zijn, met dezelfde misdrijfomschrijving, en alle strafbaar zijn gesteld door dezelfde wettelijke bepaling (1). (1) Zie Cass. 8 april 2008, AR P.07.0631.N, AC, 2008, nr. 208."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111108.3": {
+      "court": "CASS",
+      "date": "2011-11-08",
+      "roleNumber": "P.10.0399.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/11/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque des infractions sont punies des mêmes peines d'emprisonnement maximales, l'amende maximale la plus forte est déterminante pour fixer la peine la plus forte; lorsqu'une infraction est passible d'une amende applicable autant de fois qu'il y a de travailleurs à l'égard desquels une infraction a été commise, l'amende maximale pour cette infraction est établie compte tenu du nombre de travailleurs concernés par la prévention (1).(1) Cass. 5 juin 1979, RG 5287 (Bull. et Pas. 1979, I, 1135); Cass. 3 octobre 1990, RG 8261, Pas. 1991, n° 55."
+      ],
+      "abstractNL": [
+        "Wanneer misdrijven met dezelfde maximumgevangenisstraffen worden bestraft, is de hoogste maximumgeldboete beslissend voor het bepalen van de zwaarste straf; zo een misdrijf strafbaar is gesteld met een geldboete die zoveel keer moet worden toegepast als er werknemers zijn ten aanzien van wie de overtreding werd begaan, wordt de maximumgeldboete voor dat misdrijf vastgesteld rekening houdend met het aantal in de telastlegging betrokken werknemers (1). (1) Cass. 5 juni 1979, AR 5287, AC, 1978-79, 1159; Cass. 3 okt. 1990, AR 8261, AC, 1990-91, 119."
+      ]
+    }
   }
 }

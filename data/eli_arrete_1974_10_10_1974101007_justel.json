@@ -15,6 +15,20 @@
       ]
     }
   },
+  "4": {
+    "ECLI:BE:CASS:1998:ARR.19980908.6": {
+      "court": "CASS",
+      "date": "1998-09-08",
+      "roleNumber": "P970094N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'agrément par type de véhicule, accordé par le ministre des Communications ou son délégué, destiné à constater que le véhicule satisfait aux prescriptions du règlement général sur les conditions techniques auxquelles doivent répondre ces véhicules, ne contient que les seules conditions techniques imposées par ledit règlement; la transformation d'un véhicule n'est soumise auxdites prescriptions qu'en ce qui concerne ces seules conditions techniques."
+      ],
+      "abstractNL": null
+    }
+  },
   "13.6": {
     "ECLI:BE:CASS:2009:ARR.20091020.11": {
       "court": "CASS",

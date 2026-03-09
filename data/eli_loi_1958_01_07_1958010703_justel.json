@@ -1,4 +1,36 @@
 {
+  "4": {
+    "ECLI:BE:CASS:1983:ARR.19830509.7": {
+      "court": "CASS",
+      "date": "1983-05-09",
+      "roleNumber": "3838",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les personnes pouvant bénéficier des avantages octroyés par un fonds de sécurité d'existence, la nature de ces avantages et les conditions d'octroi et de payement ne doivent pas être mentionnées dans la convention collective de travail instituant le Fonds, mais peuvent faire l'objet d'une convention collective distincte. ( Loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, article 1er, 2 et 4, 3°. )"
+      ],
+      "abstractNL": [
+        "De personen die de door een fonds voor bestaanszekerheid verleende voordelen kunnen genieten, de aard van deze voordelen en de voorwaarden van toekenning en uitbetaling dienen niet te worden vermeld in de collectieve arbeidsovereenkomsten waarbij het fonds wordt opgericht, maar mogen het onderwerp van een afzonderlijke collectieve arbeidsovereenkomst vormen. ( Artt. 1, 2 en 4, 3°, wet 7 jan. 1958. )"
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1981:ARR.19810601.5": {
+      "court": "CASS",
+      "date": "1981-06-01",
+      "roleNumber": "3206",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les frais de liquidation des prestations accordées en application des statuts d'un fonds de sécurité d'existence ne peuvent être retenus sur le montant des prestations liquidées. ( Loi du 7 janvier 1958, art. 5. )"
+      ],
+      "abstractNL": [
+        "Kosten van betaling van prestaties, verleend met toepassing van de statuten van een fonds voor bestaanszekerheid, mogen niet worden ingehouden op het bedrag van de uitbetaalde uitkeringen. (Art. 5 wet 7 januari 1958.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1981:ARR.19810601.1": {
       "court": "CASS",
@@ -36,6 +68,34 @@
       ],
       "abstractNL": [
         "Aangezien de aansprakelijkheid van artikel 1384, lid 3, van het Burgerlijk Wetboek slechts bestaat ten gunste van derden die het slachtoffer zijn van de schade, die door de aangestelde is veroorzaakt in de functie waarvoor de aansteller hem heeft gebruikt, is de aansteller, die een dergelijke schade heeft vergoed, in beginsel ertoe gerechtigd een rechtsvordering krachtens indeplaatsstelling tegen zijn aangestelde, van de schade, in te stellen; deze mag zich integendeel van de op hem rustende aansprakelijkheid niet ontlasten door een verhaal uit te oefenen op de aansteller, om de enkele reden dat deze civielrechtelijk aansprakelijk is jegens derden."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720321.11": {
+      "court": "CASS",
+      "date": "1972-03-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/21/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En disposant qu'en ce qui concerne les infractions prévues à l'article 16-1° de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence l'amende, appliquée autant de fois qu'il y a eu de personnes pour qui les cotisations n'ont pas été versées, ne peut excéder 50.000 francs, l'article 19ter de cette loi décide que l'ensemble des amendes de 26 à 500 francs prévues par lesdits articles 16-1° et 19ter et ainsi appliquées ne peut excéder cette dernière somme et non que l'ensemble de ces amendes majorées des décimes additionnels légaux ne peut être supérieur à celle-ci."
+      ],
+      "abstractNL": [
+        "Door voor te schrijven dat voor de misdrijven bepaald bij artikel 16-1° van de wet van 7 januari 1958 betreffende de Fondsen voor bestaanszekerheid de geldboete zoveel maal toegepast wordt als er personen zijn voor wie geen bijdragen gestort werden, niet hoger mag zijn dan 50.000 frank, beslist artikel 19ter van deze wet dat alle geldboeten van 26 tot 500 frank bepaald bij deze artikelen 16-1° en 19ter en aldus toegepast, niet hoger mogen zijn dan dit laatste bedrag en niet dat al deze met wettelijke opdeciemen verhoogde geldboeten samen het bedoelde bedrag niet mogen te boven gaan."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700313.1": {
+      "court": "CASS",
+      "date": "1970-03-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence ne prévoit pas que, pour des motifs d'équité, l'employeur puisse être dispensé de l'exécution des obligations auxquelles elle le soumet, lorsqu'en exécution de ses dispositons un Fonds de sécurité d'existence est institué par décision d'une commission paritaire rendue obligatoire par arrêté royal."
+      ],
+      "abstractNL": [
+        "De wet van 7 januari 1958 betreffende de Fondsen voor bestaanszekerheid bepaalt niet dat een werkgever van de uitoefening van de opgelegde verplichtingen kan vrijgesteld worden om billijkheidsredenen, wanneer in uitvoering van die wetsbepalingen een Fonds voor bestaanszekerheid is opgericht bij beslissing van een paritair comité die verbindend werd verklaard bij koninklijk besluit."
       ]
     }
   }

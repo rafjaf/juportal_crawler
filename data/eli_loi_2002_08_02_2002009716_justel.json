@@ -63,6 +63,22 @@
       ]
     }
   },
+  "121": {
+    "ECLI:BE:CASS:2012:ARR.20120503.10": {
+      "court": "CASS",
+      "date": "2012-05-03",
+      "roleNumber": "C.10.0301.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui considère que le contrôle par la cour d'appel du prix approuvé par la C.B.F.A n'est possible que dans le cadre d'un recours qui est aussi dirigé contre la décision d'approbation du prospectus par la C.B.F.A. viole les articles 121, §1er, 1° et 2° de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers et 21 (20), alinéa 2, de la loi du 22 avril 2003 relative aux offres publiques de titres (1). (1) Tel qu'applicable en l'espèce. Le M.P. concluait au rejet du moyen unique en cassation au motif qu'en ses six branches, il repose sur une lecture ou interprétation erronées et qu'il manque, dès lors, en son ensemble, en fait."
+      ],
+      "abstractNL": [
+        "Het arrest dat oordeelt dat de toetsing door het hof van beroep van de door de C.B.F.A goedgekeurde prijs enkel mogelijk is in het raam van een rechtsmiddel dat ook gericht is tegen de beslissing van de C.B.F.A tot goedkeuring van het prospectus, schendt het artikel 121, §1, 1° en 2° van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, en het artikel 21(20), tweede lid, van de wet van 22 april 2003 betreffende de openbare aanbiedingen van effecten (1). (1) Zoals te dezen van toepassing. Het O.M. concludeerde tot verwerping van het enig middel tot cassatie op grond dat alle (zes) onderdelen ervan op een onjuiste lezing of interpretatie berusten en het middel aldus in zijn totaliteit feitelijke grondslag mist."
+      ]
+    }
+  },
   "2.1": {
     "ECLI:BE:CASS:2017:ARR.20170915.6": {
       "court": "CASS",

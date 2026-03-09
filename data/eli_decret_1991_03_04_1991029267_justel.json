@@ -1,4 +1,20 @@
 {
+  "10": {
+    "ECLI:BE:CASS:2014:ARR.20140708.2": {
+      "court": "CASS",
+      "date": "2014-07-08",
+      "roleNumber": "P.14.1021.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/07/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'elle est saisie, à la requête du ministère public, en application de l'article 60 de la loi du 8 avril 1965, d'une demande de confirmer, rapporter ou modifier une mesure d'accompagnement d'ordre éducatif, la juridiction de la jeunesse peut décider de renouveler la mesure d'accompagnement éducatif conformément à l'article 10 du décret du 4 mars 1991 du Conseil de la Communauté française relatif à l'aide à la jeunesse."
+      ],
+      "abstractNL": [
+        "De jeugdrechtbank waarbij, op vordering van het openbaar ministerie, met toepassing van artikel 60 van de wet van 8 april 1965, een verzoek tot bevestiging, intrekking of wijziging van een begeleidende maatregel van opvoedende aard aanhangig is gemaakt, kan beslissen om de begeleidende opvoedende maatregel te verlengen overeenkomstig artikel 10 van het decreet van de Franse Gemeenschap van 4 maart 1991 inzake hulpverlening aan de jeugd."
+      ]
+    }
+  },
   "38": {
     "ECLI:BE:CASS:2018:ARR.20180502.3": {
       "court": "CASS",
@@ -12,6 +28,108 @@
       ],
       "abstractNL": [
         "Volgens artikel 38, §1, decreet van 4 maart 1991 inzake hulpverlening aan de jeugd, neemt de jeugdrechtbank kennis van de te nemen maatregelen ten aanzien van een kind, zijn gezin of zijn leefgenoten, wanneer de lichamelijke of psychische integriteit van een kind, bedoeld in artikel 2, eerste lid, 2°, thans ernstig is bedreigd en wanneer één van de personen die de ouderlijke macht uitoefenen of die het kind in rechte of in feite onder hun bewaring hebben, de hulp van de adviseur weigert of die hulp niet benut; wanneer de appelrechter nergens in het arrest heeft vastgesteld dat de vader of de moeder van de minderjarige de hulp van de adviseur weigerde of die hulp niet benutte, is zijn beslissing om de tijdelijke huisvesting van de minderjarige buiten diens familiaal milieu te bevelen niet naar recht verantwoord."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110105.4": {
+      "court": "CASS",
+      "date": "2011-01-05",
+      "roleNumber": "P.10.1963.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que l'exécution des mesures ordonnées par le tribunal de la jeunesse en application de l'article 38 du décret du 4 mars 1991 relatif à l'aide à la jeunesse relève du directeur de l'aide à la jeunesse, la compétence du tribunal de la jeunesse relative au cas jugé se limite à la modification de ces mesures, prévue par l'article 60 de la loi du 9 avril 1965, à leur réexamen annuel conformément aux articles 10 du décret et 63quinquies de la loi, à l'examen d'une contestation d'une modalité d'application des mesures, visé à l'article 37 du décret, ou à l'homologation d'une autre mesure recueillant l'accord des parties, prévue à l'article 38, §4, alinéa 2 du décret (1). (1) Voir F. TULKENS et T. MOREAU, Droit de la jeunesse, Bruxelles, Larcier, 2000, p. 432."
+      ],
+      "abstractNL": [
+        "Aangezien de tenuitvoerlegging van de door de jeugdrechtbank, met toepassing van artikel 38 van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd bevolen maatregel tot de bevoegdheid behoort van de directeur bij de hulpverlening aan de jeugd, is de jeugdrechtbank in onderhavig geval alleen bevoegd tot de wijziging van die maatregelen, als bepaald in artikel 60 van de wet van 9 april 1965, tot hun jaarlijks hernieuwd onderzoek overeenkomstig de artikelen 10 van het decreet en 63quinquies van de wet, tot het in artikel 37 van het decreet bedoelde onderzoek van een betwisting betreffende de nadere regels voor de toepassing van de maatregelen, of tot homologatie van een andere maatregel waarover de partijen het eens zijn geraakt, als bepaald in artikel 38, §4, tweede lid, van het decreet (1). (1) Zie F. TULKENS en T. MOREAU, Droit de la jeunesse, Brussel, Larcier, 2000, p. 432."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100428.2": {
+      "court": "CASS",
+      "date": "2010-04-28",
+      "roleNumber": "P.10.0409.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il revient aux juridictions de la jeunesse de décider, dans des situations exceptionnelles, que l'enfant dont l'intégrité physique ou psychique est actuellement et gravement compromise et dont une des personnes investies de l'autorité parentale ou ayant la garde en droit ou en fait refuse l'aide du conseiller ou néglige de la mettre en oeuvre, sera hébergé temporairement hors de son milieu familial de vie; ce milieu comprend les personnes investies, par l'effet de la loi, de l'autorité parentale, soit le père et la mère."
+      ],
+      "abstractNL": [
+        "Het behoort tot de bevoegdheid van de jeugdrechtbanken om, in uitzonderlijke omstandigheden, te beslissen dat aan het kind, waarvan de lichamelijke of psychische integriteit thans ernstig is bedreigd en wanneer één van de personen die de ouderlijke macht uitoefenen of die het kind in rechte of in feite onder hun bewaring hebben de hulp van een adviseur weigert of die hulp niet benut, een tijdelijke huisvesting buiten zijn familiaal leefmilieu wordt verleend; tot dat milieu behoren zij die krachtens de wet met het ouderlijk gezag zijn bekleed, i.e. de vader en de moeder."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000711.7": {
+      "court": "CASS",
+      "date": "2000-07-11",
+      "roleNumber": "P001060FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/07/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En raison des éléments nouveaux à prendre en considération et de l'évolution de la situation de l'enfant, de sa famille ou de ses familiers, il ne peut être considéré que le juge de la jeunesse, statuant sur une demande de renouvellement d'une mesure de contrainte qu'il a décidée précédemment, connaît du même différend au sens de l'article 828, 8°, du Code judiciaire (1)."
+      ],
+      "abstractNL": [
+        "De jeugdrechter dient rekening te houden met de nieuwe gegevens en met de evolutie van de toestand van het kind, van zijn gezin of van zijn gezinsleden, zodat niet kan worden overwogen dat hij, bij de uitspraak over een vorering tot hernieuwing van een dwangmaatregel die hij reeds eerder had genomen, van hetzelfde geschil kennisneemt in de zin van art. 828, 8°, GerW. (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990331.5": {
+      "court": "CASS",
+      "date": "1999-03-31",
+      "roleNumber": "P990276F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La mesure d'hébergement temporaire hors du milieu familial peut être justifiée notamment par le souci de permettre le rétablissement des relations personnelles normales d'un enfant avec chacun de ses père et mère."
+      ],
+      "abstractNL": [
+        "De maatregel van tijdelijke huisvesting buiten het familiaal leefmilieu kan onder meer zijn ingegeven door de zorg om het kind in staat te stellen opnieuw normale persoonlijke relaties met ieder van zijn ouders aan te knopen."
+      ]
+    }
+  },
+  "39": {
+    "ECLI:BE:CASS:2000:ARR.20001129.13": {
+      "court": "CASS",
+      "date": "2000-11-29",
+      "roleNumber": "P001240F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/29/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'objet, le pourvoi formé par les parents d'un mineur contre la décision du juge d'appel de la jeunesse confirmant l'ordonnance du juge de la jeunesse qui prononce à l'égard de ce mineur une mesure provisoire de garde, lorsque, au moment où la Cour doit statuer sur le pourvoi, une nouvelle mesure a été prise à l'égard de ce mineur par le juge de la jeunesse (1)."
+      ],
+      "abstractNL": [
+        "De voorziening van de ouders van een minderjarige tegen de beslissing van de jeugdrechter in hoger beroep tot bevestiging van de beschikking van de jeugdrechter die t.a.v. die minderjarige een voorlopige maatregel van bewaring treft, is niet ontvankelijk wanneer de jeugdrechter, op het ogenblik dat het Hof uitspraak moet doen over de voorziening, een nieuwe maatregel t.a.v. die minderjarige treft (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001129.13": {
+      "court": "CASS",
+      "date": "2000-11-29",
+      "roleNumber": "P001240F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/29/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'objet, le pourvoi formé par les parents d'un mineur contre la décision du juge d'appel de la jeunesse confirmant l'ordonnance du juge de la jeunesse qui prononce à l'égard de ce mineur une mesure provisoire de garde, lorsque, au moment où la Cour doit statuer sur le pourvoi, une nouvelle mesure a été prise à l'égard de ce mineur par le juge de la jeunesse (1)."
+      ],
+      "abstractNL": [
+        "De voorziening van de ouders van een minderjarige tegen de beslissing van de jeugdrechter in hoger beroep tot bevestiging van de beschikking van de jeugdrechter die t.a.v. die minderjarige een voorlopige maatregel van bewaring treft, is niet ontvankelijk wanneer de jeugdrechter, op het ogenblik dat het Hof uitspraak moet doen over de voorziening, een nieuwe maatregel t.a.v. die minderjarige treft (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000711.7": {
+      "court": "CASS",
+      "date": "2000-07-11",
+      "roleNumber": "P001060FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/07/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En raison des éléments nouveaux à prendre en considération et de l'évolution de la situation de l'enfant, de sa famille ou de ses familiers, il ne peut être considéré que le juge de la jeunesse, statuant sur une demande de renouvellement d'une mesure de contrainte qu'il a décidée précédemment, connaît du même différend au sens de l'article 828, 8°, du Code judiciaire (1)."
+      ],
+      "abstractNL": [
+        "De jeugdrechter dient rekening te houden met de nieuwe gegevens en met de evolutie van de toestand van het kind, van zijn gezin of van zijn gezinsleden, zodat niet kan worden overwogen dat hij, bij de uitspraak over een vorering tot hernieuwing van een dwangmaatregel die hij reeds eerder had genomen, van hetzelfde geschil kennisneemt in de zin van art. 828, 8°, GerW. (1)."
       ]
     }
   }

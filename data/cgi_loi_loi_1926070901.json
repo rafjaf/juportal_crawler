@@ -1,4 +1,454 @@
 {
+  "4": {
+    "ECLI:BE:CASS:1969:ARR.19690314.3": {
+      "court": "CASS",
+      "date": "1969-03-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le lien de subordination caractéristique du contrat d'emploi consiste en ce que la personne qui prête ses services est, dans l'éxécution même de son travail, soumise à l'autorité, à la direction et à la surveillance de l'employeur, même si en fait cette autorité, cette direction et cette surveillance ne s'exercent pas de manière effective et ininterrompue, et si la nature du travail effectué comporte une certaine indépendance et la responsabilité personnelle du locateur de travail."
+      ],
+      "abstractNL": [
+        "De band van ondergeschiktheid, die de arbeidsovereenkomst voor bedienden kenmerkt, bestaat hierin dat de persoon die zijn diensten presteert, in de uitvoering zelf van zijn arbeid, onderworpen is aan het gezag, de leiding en het toezicht van de werkgever, zelfs indien in feite dat gezag, die leiding en dat toezicht niet werkelijk en ononderbroken uitgeoefend worden en indien de aard van de verrichte arbeid een zekere zelfstandigheid en de persoonlijke verantwoordelijkheid van de verhuurder van werk impliceert."
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19640904.1": {
+      "court": "CASS",
+      "date": "1964-09-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "De la seule circonstance qu'un travailleur, après avoir reçu de son employeur un préavis de quatorze jours, propre à un contrat de travail, n'a pas immédiatement protesté ni offert de continuer à prester ses services pendant une période correspondant à la durée du préavis qui doit être légalement accordé à un employé, il ne peut être légalement déduit que ce travailleur a renoncé à se prévaloirde sa qualité d'employé et à son droit de bénéficier de la durée du préavis que prévoient les lois coordonnées relatives au contrat d'emploi."
+      ],
+      "abstractNL": null
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1973:ARR.19730613.7": {
+      "court": "CASS",
+      "date": "1973-06-13",
+      "roleNumber": "1146",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Par application de l'article 578, 1°, du Code judiciaire, les juridictions du travail connaissent des contestations relatives aux contrats de louage de travail, à l'exclusion de celles portant sur les relations de travail des fonctionnaires publics régies par un statut."
+      ],
+      "abstractNL": [
+        "Bij toepassing van artikel 578, 1°, van het Gerechtelijk Wetboek zijn de arbeidsgerechten alleen bevoegd om kennis te nemen van geschillen inzake arbeidsovereenkomsten met uitsluiting van die betreffende de statutair geregelde dienstbetrekking van het overheidspersoneel."
+      ]
+    }
+  },
+  "43": {
+    "ECLI:BE:CASS:1968:ARR.19680222.3": {
+      "court": "CASS",
+      "date": "1968-02-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/02/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La cour de cassation a compétence pour vérifier si le juge a pu légalement déduire des faits qu'il constate l'existence du lien de subordination, caractéristique du contrat d'emploi."
+      ],
+      "abstractNL": [
+        "Het Hof van cassatie is bevoegd om na te gaan of de rechter uit de door hem vastgestelde feiten wettelijk het bestaan heeft kunnen afleiden van een band van ondergeschiktheid, kenmerk van de arbeidsovereenkomst voor bedienden."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661031.2": {
+      "court": "CASS",
+      "date": "1966-10-31",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/31/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les conseils de prud'hommes connaissent des contestations relatives au contrat de louage de services qui trouvent directement leur source dans semblable contrat; ils ne connaissent pas des contestations nées d'un délit ou d'un quasi-délit commis à l'occasion des rapports que pareil contrat engendre entre l'employeur et l'ouvrier ou l'employé. ( Loi du 9 juillet 1926, art. 1er et 43. )"
+      ],
+      "abstractNL": [
+        "De werkrechtersraden zijn bevoegd om kennis te nemen van betwistingen betreffende de arbeidsovereenkomst, welke rechtstreeks hun oorsprong vinden in dergelijke overeenkomst; zij zijn niet bevoegd om kennis te nemen van betwistingen waartoe een misdrijf of een oneigenlijk misdrijf dat ter gelegenheid van de betrekkingen welke dergelijk contract tussen de werkgever en de werkman of bediende doen ontstaan, gepleegd werd, aanleiding geven. ( Wet van 9 juli 1926, art. 1 en 43. )"
+      ]
+    }
+  },
+  "45": {
+    "ECLI:BE:CASS:1966:ARR.19660429.3": {
+      "court": "CASS",
+      "date": "1966-04-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 45 de la loi du 9 juillet 1926, remplacé par l'article 15 de la loi du 12 juillet 1960, aux termes de laquelle on entend, au point de vue de l'appel, par sentence définitive la décision qui met fin à toutes les contestations tant sur les incidents et la compétence que sur le fond et dont le conseil de prud'hommes a été saisi, est sans application au pourvoi en cassation contre une sentence rendue par la juridiction de prud'hommes; ce pourvoi demeure régi par l'article 14 du décret du 2 brumaire an IV. (Solution implicite.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650225.3": {
+      "court": "CASS",
+      "date": "1965-02-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 45 de la loi du 9 juillet 1926, remplacé par l'article 15 de la loi du 12 juillet 1960, aux termes de laquelle on entend, au point de vue de l'appel, par sentence définitive la décision qui met fin à toutes les contestations tant sur les incidents et la compétence que sur le fond et dont le conseil de prud'hommes a été saisi, est sans application au pourvoi en cassation contre une sentence rendue par la juridiction de prud'hommes; ce pourvoi demeure régi par l'article 14 du décret du 2 brumaire an IV. (Solution implicite.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "46": {
+    "ECLI:BE:CASS:1970:ARR.19700129.1": {
+      "court": "CASS",
+      "date": "1970-01-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction, prévue par l'article 46, alinéa 1er, de la loi du 9 juillet 1926, organique des conseils du prud'hommes, de former, en cause d'appel, une demande nouvelle n'est pas d'ordre public. Elle ne peut être invoquée que par la partie contre laquelle pareille demande est dirigée et ne peut être soulevée d'office par le juge."
+      ],
+      "abstractNL": [
+        "Het verbod gesteld bij artikel 46, lid 1, van de wet van 9 juli 1926 op de werkrechtersraden om in hoger beroep een nieuwe eis in te stellen, raakt de openbare orde niet. Het kan enkel worden ingeroepen door de partij tegen wie dergelijke eis is gericht en mag door de rechter niet ambtshalve worden opgeworpen."
+      ]
+    }
+  },
+  "53": {
+    "ECLI:BE:CASS:1975:ARR.19750129.1": {
+      "court": "CASS",
+      "date": "1975-01-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La demande de convocation en conciliation devant le conseil de prud'hommes, qui est déclarée nulle parce qu'elle est rédigée dans une autre langue que celle de la procédure, interrompt la prescription 4 ( Loi du 15 juin 1935, article 40, alinéa 3; loi du 9 juillet 1926, article 53.)"
+      ],
+      "abstractNL": [
+        "Het verzoek tot oproeping in verzoening voor de werkrechtersraad, dat nietig verklaard wordt omdat het gesteld is in een andere taal dan die van de rechtspleging, stuit de verjaring. ( Art. 40, lid 3, wet van 15 juni 1935; art. 53 wet van 9 juli 1926. )"
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:1968:ARR.19680301.1": {
+      "court": "CASS",
+      "date": "1968-03-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/03/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'appel des parties devant le bureau de conciliation du conseil de prud'hommes, préalablement à la saisine de la chambre compétente du conseil, a pour but de permettre au bureau d'épuiser la voie de la conciliation. (Loi du 9 juillet 1926, art. 52 et 55.)"
+      ],
+      "abstractNL": [
+        "De oproeping van de partijen voor het verzoeningsbureau van de werkrechtersraad, vooraleer de zaak bij de bevoegde kamer van de raad aanhangig is, heeft tot doel het verzoeningsbureau in de mogelijkheid te stellen alle middelen tot verzoening te beproeven. (Wet van 9 juli 1926, art. 52 en 55.)"
+      ]
+    }
+  },
+  "58": {
+    "ECLI:BE:CASS:1971:ARR.19710526.6": {
+      "court": "CASS",
+      "date": "1971-05-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction pour le juge de statuer sur choses non demandées est un principe général de droit."
+      ],
+      "abstractNL": [
+        "Het verbod uitspraak te doen over niet gevorderde zaken is een algemeen rechtsprinciep."
+      ]
+    }
+  },
+  "59": {
+    "ECLI:BE:CASS:1969:ARR.19691030.2": {
+      "court": "CASS",
+      "date": "1969-10-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/10/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la sentence rendue par défaut par le conseil de prud'hommes a été signifiée à l'employeur, défendeur originaire, à l'endroit affecté à l'exploitation de son entreprise, distinct de son domicile et de sa résidence actuelle, et qu'il ne s'est trouvé en cet endroit aucune personne pouvant recevoir valablement l'exploit de signification, la signification est nulle si la copie de l'exploit a ensuite été déposée par l'huissier de justice instrumentant entre les mains du bourgmestre ou d'un échevin de la commune de cet endroit, et non de la commune du domicile ou de la résidence actuelle. ( Loi du 9 juillet 1926, art.59. )"
+      ],
+      "abstractNL": [
+        "Wanneer de door de werkrechtersraad gewezen verstekbeslissing aan de werkgever, oorspronkelijke verweerder, betekend is aan de plaats, waar hij zijn bedrijf exploiteert en die onderscheiden is van zijn woonplaats en \"huidige verblijfplaats\" en op deze plaats niemand wordt aangetroffen die het exploot van betekening geldig in ontvangst kan nemen, is de betekening nietig zo het afschrift van het exploot vervolgens door de deurwaarder in handen gelaten wordt van de burgemeester of van een schepen van de gemeente van deze plaats en niet van de gemeente van de woonplaats of van de huidige verblijfplaats. ( Wet van 9 juli 1926, art. 59. )"
+      ]
+    }
+  },
+  "65": {
+    "ECLI:BE:CASS:1965:ARR.19650226.2": {
+      "court": "CASS",
+      "date": "1965-02-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute contestation relative à la désignation de la chambre du conseil de prud'hommes, compétente en raison de la qualité des parties, doit être produite avant toute autre exception ou moyen de défense. (Loi du 9 juillet 1926, art. 65, al. 1er.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "77": {
+    "ECLI:BE:CASS:1970:ARR.19700409.2": {
+      "court": "CASS",
+      "date": "1970-04-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la sentence du conseil de prud'hommes qui condamne une partie sans exposer, même sommairement, la demande et la défense sur lesquelles elle statue. ( Loi du 9 juillet 1926, art. 77. )"
+      ],
+      "abstractNL": [
+        "Onwettelijk is de sententie van de werkrechtersraad tot veroordeling van een partij, die geen enkele, ook geen beknopte samenvatting inhoudt van de eis of de verdediging waarover zij beslist. ( Wet van 9 juli 1926, art. 77 )."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700213.1": {
+      "court": "CASS",
+      "date": "1970-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la sentence du conseil de prud'hommes qui ne contient pas l'exposé, même sommaire , de la demande et de la défense. ( Loi du 9 juillet 1926, art. 77. )"
+      ],
+      "abstractNL": [
+        "Onwettelijk is de sententie van de werkrechtersraad die geen beknopte samenvatting inhoudt van de eis en van de verdediging. ( Wet van 9 juli 1926, art. 77. )"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680112.3": {
+      "court": "CASS",
+      "date": "1968-01-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/01/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée la sentence du conseil de prud'hommes qui, après avoir exposé la demande et la défense des parties, accueille l'action par la seule considération que la demande est fondée. (Constit., art. 97; loi du 9 juillet 1926, art. 77, alinéa 2)."
+      ],
+      "abstractNL": [
+        "Niet gemotiveerd is de sententie van de werkrechtersraad die, na de samenvatting van de eis en het verweer van de partijen, de vordering inwilligt om de enkele reden dat de eis gegrond is. (Grondwet, art. 97; wet van 9 juli 1926, art. 77, lid 2.)"
+      ]
+    }
+  },
+  "82": {
+    "ECLI:BE:CASS:1968:ARR.19680306.2": {
+      "court": "CASS",
+      "date": "1968-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/03/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 82, alinéa 2, de la loi du 9 juillet 1926 organique des conseils de prud'hommes, aux termes duquel l'acte d'opposition à une sentence rendue par défaut contiendra sommairement les moyens du demandeur sur opposition, n'attache pas à cette formalité le caractère d'une formalité essentielle ou d'une formalité prescrite à peine de nullité; l'omission de cette formalité n'entraîne l'irrecevabilité de l'opposition que si l'insuffisance de la motivation de l'opposition ne permet pas au défendeur de discuter le mérite de celle-ci."
+      ],
+      "abstractNL": [
+        "Artikel 82, lid 2, van de wet van 9 juli 1926 op de werkrechtersraden, naar luid waarvan de akte van verzet tegen een bij verstek gewezen sententie de bondige uiteenzetting van de middelen van de verzetdoende partij moet bevatten, hecht aan deze formaliteit niet het kenmerk van een wezenlijke of op straffe van nietigheid voorgeschreven formaliteit; het verzuim van deze formaliteit leidt enkel dan tot de onontvankelijkheid van het verzet als de ontoereikendheid van de motivering van het verzet de verweerder niet toelaat de waarde van het verzet te onderzoeken."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670914.1": {
+      "court": "CASS",
+      "date": "1967-09-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/09/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 82, alinéa 2, de la loi du 9 juillet 1926 organique des conseils de prud'hommes, aux termes duquel l'acte d'opposition à une sentence rendue par défaut contiendra sommairement les moyens du demandeur sur opposition, n'attachent pas à cette prescription le caractère d'une formalité essentielle ou d'une formalité prescrite à peine de nullité, l'omission de cette formalité n'entraîne l'irrecevabilité de l'opposition que si l'insuffisance de la motivation ne permet pas au défendeur sur opposition de discuter le mérite de celle-ci."
+      ],
+      "abstractNL": [
+        "Het vormvoorschrift vervat in artikel 82, lid 2, van de wet van 9 juli 1926 op de werkrechtersraden, naar luid waarvan de akte van verzet tegen een bij verstek gewezen sententie de bondige uiteenzetting van de middelen van eiser in verzet moet bevatten, is niet substantieel en is niet op straffe van nietigheid voorgeschreven; het verzuim van dit vormvoorschrift leidt dan alleen tot de onontvankelijkheid van het verzet als de ontoereikendheid van de motivering verweerder in verzet niet toelaat de waarde ervan te onderzoeken."
+      ]
+    }
+  },
+  "123": {
+    "ECLI:BE:CASS:1971:ARR.19710331.8": {
+      "court": "CASS",
+      "date": "1971-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/03/31/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En matière civile, justifie légalement le rejet d'une offre de preuve par témoins, le juge qui constate que, à défaut de précisions plus amples, la preuve contraire du fait allégué serait impossible."
+      ],
+      "abstractNL": [
+        "In burgerlijke zaken wordt de verwerping van een aanbod van bewijs door getuigen wettelijk gerechtvaardigd door de rechter die vaststelt dat bij gebrek aan nadere inlichtingen het tegenbewijs van het aangevoerde feit niet mogelijk zou zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700219.1": {
+      "court": "CASS",
+      "date": "1970-02-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'exposé sommaire de la demande, visé par les articles 77 et 123 de la loi du 9 juillet 1926, est, lorsque le litige est porté devant le conseil de prud'hommes d'appel, l'exposé sommaire des griefs de l'appelant contre la décision du premier juge; les arguments proposés à l'appui de ces griefs ne doivent pas être exposés."
+      ],
+      "abstractNL": [
+        "De beknopte samenvatting van de eis, bedoeld in de artikelen 77 en 123 van de wet van 9 juli 1926, is, wanneer het geschil voor de werkrechtersraad van beroep wordt gebracht, de beknopte samenvatting van de grieven van de eiser in hoger beroep tegen de beslissing van de eerste rechter; de tot staving van deze grieven aangevoerde argumenten moeten niet worden uiteengezet."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690918.2": {
+      "court": "CASS",
+      "date": "1969-09-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/09/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est non recevable, à défaut d'intérêt, le moyen pris de ce que la sentence du conseil de prud'hommes d'appel ne contient pas un exposé suffisant des griefs de la partie appelante, lorsque la sentence a donné une réponse adéquate à tous les griefs proposés par ladite partie."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk, bij gebreke van belang, is het middel hieruit afgeleid dat de sententie van de werkrechtersraad van beroep geen voldoende samenvatting geeft van de grieven van de eiser in hoger beroep, wanneer de sententie alle door deze partij voorgedragen grieven passend heeft beantwoord."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690328.2": {
+      "court": "CASS",
+      "date": "1969-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'exposé sommaire de la demande, visé par les articles 77 et 123 de la loi du 9 juillet 1926, est, lorsque le litige est porté devant le conseil de prud'hommes d'appel, l'exposé sommaire des griefs de l'appelant contre la décision du premier juge; les arguments proposés à l'appui de ces griefs ne doivent pas être exposés."
+      ],
+      "abstractNL": [
+        "De bondige uiteenzetting van de vordering, bedoeld bij de artikelen 77 en 123 van de wet van 9 juli 1926, is, wanneer het geding voor de werkrechtersraad van beroep wordt gebracht, gelijk aan de bondige uiteenzetting van de grieven van de eiser in hoger beroep tegen de beslissing van de eerste rechter; de tot staving van deze grieven aangevoerde argumenten moeten niet worden uiteengezet."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690121.6": {
+      "court": "CASS",
+      "date": "1969-01-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/01/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Dans les causes où il n'est pas tenu de procès-verbal de l'audition des témoins, la sentence du conseil de prud'hommes d'appel doit énoncer les noms, âge, profession et demeure de ceux-ci, leur serment, leur déclaration s'ils sont parents, alliés ou serviteurs ou domestiques des parties, les reproches et les résultats des dépositions. (Loi du 9 juillet 1926, art. 71 et 123.)"
+      ],
+      "abstractNL": [
+        "In de zaken waarin geen proces-verbaal van het getuigenverhoor wordt gehouden moet de sententie van de werkrechtersraad van beroep de namen, ouderdom, beroep en woonplaats van de getuigen vermelden, hun eedaflegging, hun verklaring of zij al dan niet bloed- of aanverwanten, dienaars of dienstboden zijn van de partijen, alsmede de redenen tot wraking en de uitslag der getuigenissen. (Wet van 9 juli 1926, art. 71 en 123.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19681113.1": {
+      "court": "CASS",
+      "date": "1968-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une contestation relative à la désignation de la chambre compétente en raison de la qualité des parties ne peut être produite devant le conseil de prud'hommes d'appel que si elle n'a pas été soulevée devant le conseil de prud'hommes.(Loi du 9 juillet 1926, art. 65 et 123.)"
+      ],
+      "abstractNL": [
+        "Een betwisting betreffende de aanwijzing van de bevoegde kamer op grond van de kwaliteit van de partijen kan enkel aan de werkrechtersraad van beroep worden overgelegd wanneer zij niet voor de werkrechtersraad werd opgeworpen. (Wet van 9 juli 1926, art. 65 en 123.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680104.3": {
+      "court": "CASS",
+      "date": "1968-01-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/01/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la sentence , rendue contradictoirement par le conseil de prud'hommes d'appel, qui ne contient pas l'exposé, même sommaire , de la défense de la partie intimée. (Loi du 9 juillet 1926, art. 77 et 123.)"
+      ],
+      "abstractNL": [
+        "Onwettelijk is de door de werkrechtersraad van beroep op tegenspraak gewezen sententie, die zelfs geen beknopte samenvatting bevat van de verdediging van de gedaagde in hoger beroep. (Wet van 9 juli 1926, art. 77 en 123.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671222.1": {
+      "court": "CASS",
+      "date": "1967-12-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/12/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la sentence du conseil de prud'hommes d'appel qui ne contient pas l'exposé, même sommaire, des griefs de la partie appelante contre la sentence dont appel, ni de la défense de la partie intimée. (Loi du 9 juillet 1926,art. 77 et 123.)"
+      ],
+      "abstractNL": [
+        "Is onwettelijk de sententie van de werkrechtersraad van beroep die geen beknopte uiteenzetting bevat noch van de door de eiser in hoger beroep aangevoerde grieven tegen de sententie in hoger beroep, noch van het verweer van de gedaagde in hoger beroep. (Wet van 9 juli 1926, art. 77 en 123.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670216.2": {
+      "court": "CASS",
+      "date": "1967-02-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est non recevable, à défaut d'intérêt, le moyen de cassation pris de ce que le conseil de prud'hommes d'appel n'expose pas une défense du demandeur en cassation, alors que la sentence donne à cette défense une réponse adéquate."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk bij gebrek aan belang het cassatiemiddel hieruit afgeleid dat de werkrechtersraad een verweer van de geïntimeerde, eiser in cassatie, niet uiteenzet, wanneer de sententie dit verweer passend beantwoordt."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670209.2": {
+      "court": "CASS",
+      "date": "1967-02-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est non recevable, à défaut d'intérêt, le moyen pris de ce que la sentence du conseil de prud'hommes d'appel ne contient pas un exposé suffisant des griefs de la partie appelante, demanderesse en cassation, lorsque la sentence a donné une réponse adéquate à tous les griefs proposés par ladite partie."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk bij gebreke van belang het middel hieruit afgeleid dat de sententie van de werkrechtersraad van beroep geen voldoende uiteenzetting van de grieven van de eiser in hoger beroep, eiser in cassatie, bevat, als de sententie een passend antwoord verstrekt op alle door deze partij aangevoerde grieven."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661117.1": {
+      "court": "CASS",
+      "date": "1966-11-17",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'exposé sommaire de la demande et de la défense, visé par les articles 77 et 123 de la loi du 9 juillet 1926, est, lorsque le litige est porté devant le conseil de prud'hommes d'appel, l'exposé sommaire des griefs de l'appelant contre la décision du premier juge et de la défense qu'y oppose l'intimé, ainsi que, le cas échéant, l'exposé sommaire des griefs fondant l'appel incident formé par l'intimé et de la défense qu'y oppose l'appelant principal; les arguments proposés à l'appui des griefs ou de la défense ne doivent pas être exposés."
+      ],
+      "abstractNL": [
+        "De bondige uiteenzetting van de eis en van het verweer, bedoeld bij de artikelen 77 en 123 van de wet van 9 juli 1926 is, wanneer het geding voor de werkrechtersraad van beroep wordt gebracht, de bondige uiteenzetting van de grieven van appellant tegen de beslissing van de eerste rechter en van het verweer dat geïntimeerde ertegen inroept, alsmede, desvoorkomend, de bondige uiteenzetting van de grieven welke het door de geïntimeerde ingestelde tegenberoep gronden en het verweer dat appellant ertegen inroept; de tot staving van de grieven of van het verweer voorgestelde argumenten moeten niet uiteengezet worden."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661028.2": {
+      "court": "CASS",
+      "date": "1966-10-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est non recevable, à défaut d'intérêt, le moyen pris de ce que la sentence du conseil de prud'homme d'appel ne contient pas un exposé suffisant des griefs de la partie appelante, demanderesse en cassation, lorsque la sentence a donné une réponse adéquate à tous les griefs proposés par ladite partie."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk, bij gebreke van belang, het middel afgeleid hieruit dat de sententie van de werkrechtersraad van beroep geen genoegzame uiteenzetting van de grieven van appellante, eiseres in cassatie, inhoudt, wanneer de sententie een passend antwoord op alle grieven van die partij heeft verstrekt."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650902.2": {
+      "court": "CASS",
+      "date": "1965-09-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la sentence du conseil de prud'hommes d'appel qui ne contient pas l'exposé, même sommaire, des griefs de la partie appelante contre la sentence dont appel, ni de la défense de la partie intimée. (Loi du 9 juillet 1926, art. 77 et 123.)"
+      ],
+      "abstractNL": null
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1974:ARR.19740206.5": {
       "court": "CASS",
@@ -29,6 +479,32 @@
         "De partijen hebben het recht zich te laten vertegenwoordigen of bijstaan voor de werkrechtersraad en de werkrechtersraad van beroep door een afgevaardigde van een beroepsorganisatie, die deze hoedanigheid doet blijken, houder is van een bijzondere volmacht en door de bevoegde werkrechtersraad is erkend. De afgevaardigde die aldus een partij vertegenwoordigt of bijstaat verkrijgt hierdoor niet de hoedanigheid van partij in het proces. (Wet op de werkrechtersraden, art. 62, lid 1 en 3, gewijzigd bij art. 18 van de wet van 12 juli 1960.)",
         "Wanneer de werkrechtersraad het persoonlijk verschijnen van de partijen beveelt, bij wijze van onderzoeksmaatregel, voorzien in lid 2 van artikel 62 van de wet op de werkrechtersraden, gewijzigd bij artikel 18 van de wet van 12 juli 1960, kan hij zonder zijn machten te overschrijden niet bevelen dat een derde, welke geen partij in het geding is, zal verschijnen om over de feiten te worden verhoord."
       ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691106.1": {
+      "court": "CASS",
+      "date": "1969-11-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition de la loi du 9 juillet 1926 organique des conseils de prud'hommes ne s'oppose à ce que les enquêtes soient tenues par un ou plusieurs commissaires désignés par le conseil."
+      ],
+      "abstractNL": [
+        "Geen enkele bepaling van de wet van 9 juli 1926 op de werkrechtersraden verzet zich ertegen dat er één of meer getuigenverhoren worden afgenomen door één of meer door de raad aangewezen commissarissen."
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19641120.3": {
+      "court": "CASS",
+      "date": "1964-11-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/11/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il se déduit de l'ensemble des dispositions de la loi du 9 juillet 1926, organique des conseils de prud'hommes, que, sauf dérogation expresse, les contestations du ressort des tribunaux qui s'élèvent entre les employeurs et les ouvriers ou employés, visés aux articles 1er à 5 de ladite loi et qui sont relatives à leurs engagements respectifs de travail ou d'emploi, sont de la compétence du conseil de prud'hommes, que ces ouvriers ou employés soient liés par un contrat de louage de services ou régis par un statut réglementaire."
+      ],
+      "abstractNL": null
     }
   }
 }

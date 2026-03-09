@@ -1,4 +1,48 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2000:ARR.20000411.9": {
+      "court": "CASS",
+      "date": "2000-04-11",
+      "roleNumber": "P000407N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge est tenu d'apprécier la double sanction des faits mis à charge du chef desquels l'extradition est demandée, indépendamment de l'appréciation de la culpabilité de l'inculpé. Il ne doit dès lors pas tenir compte des causes de justification, des causes exclusives de faute et des causes d'excuse exclusive de peine invoquées par l'inculpé."
+      ],
+      "abstractNL": [
+        "De rechter dient de dubbele strafbaarstelling van de telastgelegde feiten, waarvoor uitlevering wordt gevraagd, te onderzoeken los van de beoordeling van de schuld van de verdachte. Hij moet dus geen rekening houden met de door de verdachte aangevoerde rechtvaardigingsgronden, schulduitsluitingsgronden en strafuitsluitende verschoningsgronden."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940823.6": {
+      "court": "CASS",
+      "date": "1994-08-23",
+      "roleNumber": "P941005N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/08/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'infraction, pour laquelle l'extradition est demandée, est punissable de la peine de mort dans l'Etat requérant, seul le gouvernement est compétent pour décider s'il y a lieu d'accorder l'extradition. (Loi du 15 mars 1874 sur les extraditions, art. 1er, §2, alinéa 3.)"
+      ],
+      "abstractNL": [
+        "Wanneer op het strafbaar feit waarvoor de uitlevering wordt gevraagd, in de verzoekende Staat de doodstraf staat, komt het enkel aan de Regering toe te beslissen of de uitlevering wordt toegestaan. (Art. 1, alinéa 2, derde lid, Uitleveringswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740422.10": {
+      "court": "CASS",
+      "date": "1974-04-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour rendre exécutoire un mandat d'arrêt décerné par l'autorité étrangère aux fins d'extradition, la chambre du conseil ou, en cas d'appel, la chambre des mises en accusation doit avoir égard au fait tel qu'il est décrit dans les pièces de la procédure jointes à la demande d'extradition et non à la qualification donnée à ce fait par l'autorité étrangère; la juridiction d'instruction vérifie si le fait, pour lequel le mandat d'arrêt est délivré, constitue une infraction suivant les lois belges et si cette infraction est prévue à la fois par l'article 1er de la loi du 15 mars 1874 sur les extraditions et par le traité conclu par la Belgique et le pays demandant l'extradition."
+      ],
+      "abstractNL": [
+        "Om een door de vreemde overheid verleend bevel tot aanhouding uitvoerbaar te verklaren moet de raadkamer of, in geval van hoger beroep, de kamer van inbeschuldigingstelling, uitgaan van het feit zoals het is beschreven in de processtukken welke bij het verzoek tot uitlevering zijn gevoegd en niet van de kwalificering welke door de vreemde overheid hieraan is gegeven; het onderzoeksgerecht gaat na of het feit waarvoor het bevel tot aanhouding is verleend een misdrijf is voor de Belgische wet en of dit misdrijf tegelijkertijd is omschreven in artikel 1 van de wet van 15 maart 1874 op de uitleveringen en in het verdrag tussen Belgie en het land dat om de uitlevering verzoekt."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2023:ARR.20230613.2N.10": {
       "court": "CASS",
@@ -269,6 +313,574 @@
       "abstractNL": [
         "De rechterlijke macht is bevoegd ter voorkoming of ter beëindiging van de onrechtmatig schijnende aantastingen die de administratie bij de uitoefening van haar discretionaire macht heeft begaan van de subjectieve rechten van de vreemdeling die opgesloten is op grond van artikel 3 van de wet van 15 maart 1874 op de uitleveringen (1). (1) Zie concl. O.M. in Pas., 2007, nr ..."
       ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060307.4": {
+      "court": "CASS",
+      "date": "2006-03-07",
+      "roleNumber": "P060316N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/03/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui apprécie souverainement si une personne arrêtée a été informée, dans le plus court délai et dans une langue qu'elle comprend, des raisons de son arrestation et de toute accusation portée contre elle, peut à cet égard tenir compte de toutes les circonstances dont il ressort que la personne arrêtée était en fait antérieurement au courant d'un mandat d'arrêt étranger."
+      ],
+      "abstractNL": [
+        "De rechter die onaantastbaar oordeelt of een gearresteerde onverwijld en in een taal welke hij verstaat, op de hoogte werd gebracht van de redenen van zijn arrestatie en van alle beschuldigingen welke tegen hem zijn ingebracht, kan hierbij rekening houden met alle omstandigheden waaruit blijkt dat de gearresteerde reeds eerder feitelijk op de hoogte was van een buitenlands bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030218.26": {
+      "court": "CASS",
+      "date": "2003-02-18",
+      "roleNumber": "P021711N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/02/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation appelée à statuer sur l'appel de l'exequatur accordé par la chambre du conseil relativement à un mandat d'arrêt délivré par l'autorité étrangère compétente sur la base duquel l'extradition est demandée, est tenue de vérifier si, au moment de sa décision, ce mandat satisfait aux conditions requises par la loi et si les conditions générales et particulières d'extradition sont remplies ; elle ne peut toutefois ordonner la mise en liberté provisoire du détenu sur la base des articles 5.1.f et 5.4 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales que si la légalité ou la légitimité de l'exequatur est entachée par le délai qui s'est écoulé entre l'introduction de l'appel et sa décision, mais pas sur la base de motifs qui concernent exclusivement l'opportunité de la privation de liberté (1). (1) Cass., 5 déc. 1995, RG P.95.1146.N et P.95.1147.N, n° 526."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling die uitspraak moet doen over het hoger beroep tegen de uitvoerbaarverklaring door de raadkamer van een door de bevoegde vreemde overheid verleend bevel tot aanhouding op grond waarvan de uitlevering wordt verzocht, dient te onderzoeken of dit bevel op het ogenblik van haar beslissing aan de door de wet gestelde vereisten voldoet en of de algemene en bijzondere uitleveringsvoorwaarden zijn vervuld; zij kan de voorlopige invrijheidstelling van de aangehoudene evenwel enkel bevelen op grond van artikel 5.1.f en 5.4 EVRM wanneer de wettigheid of de rechtmatigheid van de uitvoerbaarverklaring werd aangetast door het tijdsverloop tussen het instellen van hoger beroep en haar beslissing, doch niet op grond van motieven die uitsluitend betrekking hebben op de opportuniteit van de vrijheidsberoving (1). (1) Cass., 5 dec. 1995, AR P.95.1146.N en P.95.1147.N., nr 526."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010717.4": {
+      "court": "CASS",
+      "date": "2001-07-17",
+      "roleNumber": "P010972N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/07/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, le délai dont dispose l'étranger pour interjeter appel de l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné par l'autorité étrangère en vue de l'extradition, est de vingt-quatre heures à compter de la signification de ladite ordonnance (1)."
+      ],
+      "abstractNL": [
+        "Inzake uitlevering bedraagt de termijn voor de vreemdeling om hoger beroep in te stellen tegen de beschikking van de raadkamer, waarbij het door de buitenlandse overheid met het oog op uitlevering verleende aanhoudingsbevel uitvoerbaar verklaard wordt, vierentwintig uur te rekenen vanaf de dag waarop de beschikking is betekend (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010508.22": {
+      "court": "CASS",
+      "date": "2001-05-08",
+      "roleNumber": "P010392N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les articles 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14 du Pacte international relatif aux droits civils et politiques ne concernent pas les droits de la défense devant les juridictions d'instruction, statuant sur l'exequatur d'un mandat d'arrêt décerné par l'autorité étrangère (1)."
+      ],
+      "abstractNL": [
+        "De artikelen 6 EVRM en 14 IVBPR hebben geen betrekking op het recht van verdediging voor de onderzoeksgerechten wanneer deze uitspraak doen over de uitvoerbaarverklaring van een door een buitenlandse overheid verleend aanhoudingsbevel (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010418.21": {
+      "court": "CASS",
+      "date": "2001-04-18",
+      "roleNumber": "P010381FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/04/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions appelées à rendre exécutoire le mandat d'arrêt décerné par l'autorité étrangère compétente ne sont pas tenues de citer dans leur décision les dispositions légales et conventionnelles qui définissent les conditions de l'extradition."
+      ],
+      "abstractNL": [
+        "De gerechten die de tenuitvoerlegging moeten bevelen van het door een bevoegde buitenlandse overheid uitgevaardigde bevel tot aanhouding, zijn niet verplicht om in hun beslissing opgave te doen van de wetsen de verdragsbepalingen die de voorwaarden voor de uitlevering bepalen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000613.9": {
+      "court": "CASS",
+      "date": "2000-06-13",
+      "roleNumber": "P000788NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ne s'applique pas à la procédure devant les juridictions d'instruction à moins que celles-ci ne se prononcent sur le bien-fondé de la prévention ou sur des contestations sur des droits et obligations de caractère civil et ne concerne dès lors pas les droits de la défense devant les juridictions d'instruction statuant sur l'exequatur d'un mandat d'arrêt délivré par l'autorité étrangère (1)."
+      ],
+      "abstractNL": [
+        "Artikel 6 EVRM is niet van toepassing op de rechtspleging voor de onderzoeksgerechten, tenzij wanneer deze uitspraak doen over de gegrondheid van de telastlegging of over een betwisting die burgerlijke rechten of verplichtingen tot voorwerp heeft, en heeft derhalve geen betrekking op het recht van verdediging voor de onderzoeksgerechten die uitspraak doen over de uitvoerbaarverklaring van een bevel tot aanhouding uitgevaardigd door een buitenlandse overheid (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000404.21": {
+      "court": "CASS",
+      "date": "2000-04-04",
+      "roleNumber": "P000293N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est légale la décision de la chambre des mises en accusation selon laquelle les critères invoqués par le demandeur pour apprécier la légalité d'un mandat d'arrêt étranger concernent non pas la légalité du mandat mais l'opportunité de l'extradition qui relève du pouvoir d'appréciation du gouvernement et pas du pouvoir judiciaire."
+      ],
+      "abstractNL": [
+        "Wettig is de beslissing van de kamer van inbeschuldigingstelling dat de door eiser aangevoerde criteria ter beoordeling van de wettigheid van het buitenlands bevel tot aanhouding niet de wettigheid van het bevel, maar de opportuniteit van de uitlevering betreffen en dat het oordeel daarover de regering en niet de rechterlijke macht toekomt."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990428.9": {
+      "court": "CASS",
+      "date": "1999-04-28",
+      "roleNumber": "P990475F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, le délai pour interjeter appel de l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné par l'autorité étrangère, est de vingt-quatre heures à compter de la signification de ladite ordonnance."
+      ],
+      "abstractNL": [
+        "Inzake uitlevering bedraagt de termijn om hoger beroep in te stellen tegen de beschikking van de raadkamer, waarbij het door de buitenlandse overheid verleende aanhoudingsbevel uitvoerbaar verklaard wordt, vierentwintig uur te rekenen van de betekening van die beschikking."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980713.10": {
+      "court": "CASS",
+      "date": "1998-07-13",
+      "roleNumber": "P980895N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/07/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation."
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971014.7": {
+      "court": "CASS",
+      "date": "1997-10-14",
+      "roleNumber": "P971218N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni l'article 3 de la loi du 15 mars 1874 sur les extraditions, ni aucune disposition de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire ne requièrent que, devant la chambre du conseil statuant sur l'exequatur d'un mandat d'arrêt étranger, une traduction de ce mandat étranger et des pièces annexes dans la langue de la procédure soit jointe."
+      ],
+      "abstractNL": [
+        "Art. 3 Uitleveringswet noch enige bepaling van de Taalwet Gerechtszaken vereisen dat voor de raadkamer die beslist over de uitvoerbaarverklaring van een vreemd bevel tot aanhouding, een vertaling in de taal der rechtspleging van dit vreemd bevel en van de bijhorende stukken zou zijn gevoegd."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960117.6": {
+      "court": "CASS",
+      "date": "1996-01-17",
+      "roleNumber": "P951389F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, le délai pour interjeter appel de l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné par l'autorité étrangère, est de vingt-quatre heures à compter de la signification de ladite ordonnance."
+      ],
+      "abstractNL": [
+        "Inzake uitlevering bedraagt de termijn om hoger beroep in te stellen tegen de beschikking van de raadkamer, waarbij het door de buitenlandse overheid verleende aanhoudingsbevel uitvoerbaar verklaard wordt, vierentwintig uur te rekenen van de betekening van die beschikking."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951205.1": {
+      "court": "CASS",
+      "date": "1995-12-05",
+      "roleNumber": "P951146N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation, appelée à statuer sur l'appel de l'exequatur accordée par la chambre du conseil relativement à un mandat d'arrêt, décerné par l'autorité étrangère compétente sur la base duquel l'extradition est demandée, est tenue de vérifier si, au moment de sa décision, ce mandat satisfait aux conditions requises par la loi et si les conditions générales et particulières d'extradition sont remplies : le délai entre l'introduction de l'appel et la décision de la chambre des mises en accusation peut porter atteinte à la légitimité ou la licéité de l'exequatur."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling die uitspraak moet doen over het hoger beroep tegen de uitvoerbaarverklaring door de raadkamer van een door de bevoegde vreemde overheid verleend bevel tot aanhouding op grond waarvan de uitlevering wordt verzocht, dient te onderzoeken of dit bevel op het ogenblik van haar beslissing aan de door de weet gestelde vereisten voldoet en of de algemene en bijzondere uitleveringsvoorwaarden zijn vervuld; de wettigheid of de rechtmatigheid van de uitvoerbaarverklaring kan namelijk worden aangetast door het tijdsverloop tussen het instellen van hoger beroep en de beslissing van de kamer van inbeschuldigingstelling."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950829.2": {
+      "court": "CASS",
+      "date": "1995-08-29",
+      "roleNumber": "P950864F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/08/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les règles imposées par la loi du 15 mars 1874 sur les extraditions ont été instaurées dans le seul but de permettre l'exécution d'une décision prise par une autorité judiciaire étrangère; elles n'autorisent pas une instance au fond."
+      ],
+      "abstractNL": [
+        "De bij de Uitleveringswet voorgeschreven regels zijn enkel bedoeld om de tenuitvoerlegging mogelijk te maken van de beslissing van een buitenlandse rechter; de behandeling van de zaak zelf is op grond van die regels niet mogelijk."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950829.3": {
+      "court": "CASS",
+      "date": "1995-08-29",
+      "roleNumber": "P951062F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/08/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions belges, statuant sur l'exequatur d'un mandat d'arrêt délivré par des autorités étrangères, sont sans Pouvoir pour connaître des irrégularités dont seraient entachés les actes d'un gouvernement ou d'une juridiction étrangers concernant une procédure d'extradition. (Seconde espèce)."
+      ],
+      "abstractNL": [
+        "De Belgische rechtscolleges zijn bij de uitvoerbaarverklaring van een door de buitenlandse autoriteiten verleend bevel tot aanhouding niet bevoegd om onregelmatigheden na te gaan die door een buitenlandse regering of gerecht begaan zijn in de akten betreffende een uitleveringsprocedure. (Tweede zaak)."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950531.11": {
+      "court": "CASS",
+      "date": "1995-05-31",
+      "roleNumber": "P950523F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/31/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La juridiction d'instruction appelée à statuer sur l'exequatur en Belgique d'un mandat d'arrêt décerné par l'autorité étrangère aux fins d'extradition, doit examiner si les documents produits par l'Etat requérant satisfont aux conditions prévues per la loi et par la convention d'extradition conclue avec l'Etat requérant et si, dans le cas qui lui est soumis, les conditions légales générales d'extradition sont réunies, sans se préoccuper de l'opportunité de l'extradition ni des conséquences éventuelles liées à l'extradition, qui relèvent du pouvoir d'appréciation et de décision du gouvernement belge."
+      ],
+      "abstractNL": [
+        "Het onderzoeksgerecht dat uitspraak moet doen over de uitvoerbaarheid in België van een met het oog op uitlevering door de buitenlandse overheid uitgevaardigd aanhoudingsbevel, dient te onderzoeken of de door de verzoekende Staat overgelegde stukken aan de eisen voldoen die bij de wet en bij het met de verzoekende Staat gesloten uitleveringsverdrag zijn gesteld en of, in het aan het gerecht voorgelegde geval, de algemene wettelijke uitleveringsvoorwaarden zijn vervuld, zonder zich daarbij in te laten met de opportuniteit van de uitlevering, noch met de mogelijke, aan de uitlevering verbonden gevolgen die tot de beoordelings- en beslissingsbevoegdheid van de Belgische regering behoren."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940629.24": {
+      "court": "CASS",
+      "date": "1994-06-29",
+      "roleNumber": "P940766F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas requis que le mandat d'arrêt décerné par l'autorité étrangère indique le lieu et la date des faits; il doit préciser ceux-ci de manière telle que les juridictions d'instruction puissent vérifier si, compte tenu des autres pièces de la procédure, les conditions de lieu et de temps exigées en matière d'extradition sont réunies, notamment si la prescription de l'action publique n'est pas acquise d'après la loi belge. (L. 15 mars 1874, art. 1er, 2 et 3.)"
+      ],
+      "abstractNL": [
+        "Het is niet vereist dat het bevel tot aanhouding, verleend door de buitenlandse overheid, zelf plaats en datum der feiten zou vermelden; het moet de feiten duidelijk omschrijven, zodat de onderzoeksgerechten kunnen nagaan of, gelet op de overige stukken van de rechtspleging, voldaan is aan de voor uitlevering gestelde vereisten inzake plaats en tijd, meer bepaald of de strafvordering niet verjaard is volgens de Belgische wet. (Artt. 1, 2 en 3 Uitleveringswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940622.14": {
+      "court": "CASS",
+      "date": "1994-06-22",
+      "roleNumber": "P940719F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il appartient au gouvernement d'examiner s'il a été procédé à la production, requise par la loi ou le traité, des pièces à l'appui desquelles un étranger peut être arrêté en vue de son extradition."
+      ],
+      "abstractNL": [
+        "Het ligt op de weg van de regering te onderzoeken of voldaan is aan de door de wet of het verdrag vereiste overlegging van de stukken op grond waarvan een vreemdeling met het oog op uitlevering kan worden opgesloten."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920225.10": {
+      "court": "CASS",
+      "date": "1992-02-25",
+      "roleNumber": "6251",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/25/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas requis que le mandat d'arrêt décerné par l'autorité étrangère, indique le lieu et la date des faits; il doit préciser les faits de manière telle que les juridictions d'instruction puissent vérifier s'ils constituent ou non une infraction suivant les lois belges, s'ils peuvent donner lieu à extradition et si, compte tenu des autres pièces de la procédure, la prescription de l'action publique n'est pas acquise d'après les lois de la Belgique. ( Art. 1, 2 et 3 loi du 15 mars 1874 sur les extraditions. )"
+      ],
+      "abstractNL": [
+        "Het is niet vereist dat het bevel tot aanhouding verleend door de buitenlandse overheid, zelf plaats en datum der feiten zou vermelden; het moet de feiten duidelijk omschrijven zodat de onderzoeksgerechten kunnen nagaan of die volgens de Belgische wetten een misdrijf en grond voor uitlevering kunnen opleveren en of, mede gelet op de andere stukken van de procedure, de verjaring van de strafvordering niet bereikt is volgens de Belgische wetten. ( Artt. 1, 2 en 3 Uitleveringswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910116.13": {
+      "court": "CASS",
+      "date": "1991-01-16",
+      "roleNumber": "8739",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/16/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt étranger a été déclaré exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger se trouve, à partir de cette date, à la disposition du pouvoir exécutif et il n'appartient plus au pouvoir judiciaire de lui accorder la liberté provisoire."
+      ],
+      "abstractNL": [
+        "Wanneer het vreemde bevel tot aanhouding op grond van art. 3 Uitleveringswet uitvoerbaar verklaard is, staat de vreemdeling met ingang van die datum ter beschikking van de uitvoerende macht en is de rechterlijke macht niet langer bevoegd om hem in voorlopige vrijheid te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900605.5": {
+      "court": "CASS",
+      "date": "1990-06-05",
+      "roleNumber": "4566",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La Chambre du conseil qui, dans le cadre de la procédure d'extradition, doit statuer sur l'exequatur du mandat d'arrêt décerné par l'autorité judiciaire étrangère est la chambre du conseil du lieu de la résidence de l'étranger en Belgique ou du lieu où il pourra être trouvé, en dépit de l'indication, par l'autorité requérante, de l'autorité judiciaire belge, qui, d'après elle, est compétente ratione loci. ( Loi sur les extraditions, art. 3, alinéa 2. )"
+      ],
+      "abstractNL": [
+        "De raadkamer die in het kader van de uitleveringsprocedure uitspraak te doen heeft over de uitvoerbaarverklaring van het door de vreemde gerechtelijke overheid verleende bevel tot aanhouding is de raadkamer van de plaats waar de vreemdeling in België verblijft of kan worden gevonden, ongeacht de aanwijzing door de verzoekende overheid van de volgens haar territoriaal bevoegde Belgische gerechtelijke overheid. ( Art. 3, tweede lid, Uitleveringswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880614.4": {
+      "court": "CASS",
+      "date": "1988-06-14",
+      "roleNumber": "2474",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La jonction, à la demande d'extradition, du texte de la loi étrangère applicable aux faits de la prévention pour laquelle l'extradition est demandée n'est pas prescrite par la loi."
+      ],
+      "abstractNL": [
+        "De voeging, bij een verzoek om uitlevering, van de tekst van de buitenlandse wet die op de ten laste gelegde feiten op grond waarvan de uitlevering wordt gevraagd toepasselijk is, is niet wettelijk voorgeschreven."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880210.19": {
+      "court": "CASS",
+      "date": "1988-02-10",
+      "roleNumber": "6501",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, la cassation, sur le pourvoi de l'étranger, de la décision de la chambre des mises en accusation disant non fondée l'opposition du demandeur à l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné à sa charge par l'autorité étrangère, n'entraîne pas l'annulation de la décision par laquelle le même arrêt déclare illégalement cette opposition recevable. ( Code d'instruction criminelle, article 135; loi du 15 mars 1874, article 3. )"
+      ],
+      "abstractNL": [
+        "Inzake uitlevering heeft de op de voorziening van de vreemdeling uitgesproken vernietiging van de beslissing van de kamer van inbeschuldigingstelling waarbij het verzet van eiser tegen de raadkamerbeschikking houdende uitvoerbaarverklaring van het door de buitenlandse overheid tegen hem verleende aanhoudingsbevel ongegrond wordt verklaard, niet de vernietiging tot gevolg van de beslissing waarbij, in hetzelfde arrest, dat verzet in strijd met de wet ontvankelijk wordt verklaard. ( Art. 135 Wetboek van Strafvordering; art. 3 Wet 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870630.25": {
+      "court": "CASS",
+      "date": "1987-06-30",
+      "roleNumber": "1573",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/30/sitemap_23.xml"
+      ],
+      "abstractFR": [
+        "Les étrangers, au sens des articles 1er et 3 de la loi sur les extraditions, sont tous ceux qui ne possèdent pas la nationalité belge."
+      ],
+      "abstractNL": [
+        "Vreemdelingen, in de zin van artt. 1 en 3 Uitleveringswet, zijn al diegenen die niet de Belgische nationaliteit bezitten."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860813.1": {
+      "court": "CASS",
+      "date": "1986-08-13",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/08/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 3, alinéas 2 et 3, de la loi du 15 mars 1874 sur les extraditions, le mandat d'arrêt délivré à l'étranger et produit par l'Etat requérant à l'appui de sa demande d'extradition, doit être d'abord \"dûment\" signifié à l'intéressé; ni la convention d'extradition conclue entre la Belgique et la Grande-Bretagne, ni la loi du 15 mars 1874 sur les extraditions, ne prescrivent que l'original ou une copie authentique de cet acte lui soit signifié. ( Loi du 15 mars 1874, art. 3. )"
+      ],
+      "abstractNL": [
+        "Krachtens art. 3, tweede en derde lid, Uitleveringswet, wordt het in den vreemde verleende bevel tot aanhouding, dat door de verzoekende Staat tot staving van zijn verzoek om uitlevering wordt overgelegd, aan de betrokkene vooraf \"behoorlijk\" betekend; noch het tussen België en Groot-Brittannië gesloten uitleveringsverdrag, noch de Uitleveringswet schrijven voor dat het origineel of een authentiek afschrift van die akte hem moet worden betekend. ( Wet 15 maart 1874, art. 3. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851113.8": {
+      "court": "CASS",
+      "date": "1985-11-13",
+      "roleNumber": "4662",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions belges sont sans pouvoir pour ordonner la mise en liberté d'un étranger détenu en vertu d'un mandat d'arrêt étranger, dûment rendu exécutoire et signifié à l'intéressé. ( Loi du 15 mars 1874, art. 3 )."
+      ],
+      "abstractNL": [
+        "De Belgische rechtscolleges zijn niet bevoegd om de invrijheidstelling te bevelen van een vreemdeling, die in hechtenis is krachtens een buitenlands bevel tot aanhouding, dat naar behoren uitvoerbaar is verklaard en aan de betrokkene is betekend. ( Art. 3 Uitleveringswet )."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850521.15": {
+      "court": "CASS",
+      "date": "1985-05-21",
+      "roleNumber": "9541",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le délai dans lequel l'étranger peut interjeter appel de l'ordonnance de la chambre du conseil, rendant exécutoire, aux fins d'extradition, un mandat d'arrêt décerné contre lui par une autorité étrangère, est de vingt-quatre heures à compter du jour de la signification de ladite ordonnance à l'intéressé. ( Code d'instr. crim., art. 135; loi du 15 mars 1874, art. 3. )"
+      ],
+      "abstractNL": [
+        "De termijn waarbinnen de vreemdeling hoger beroep kan instellen tegen de beschikking van de raadkamer waarbij een bevel tot aanhouding, tegen hem door een vreemde overheid verleend, met het oog op uitlevering, uitvoerbaar wordt verklaard, is vierentwintig uur, te rekenen van de dag waarop die beschikking aan de betrokkene is betekend. ( Art. 135 Sv.; art. 3 wet 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840911.2": {
+      "court": "CASS",
+      "date": "1984-09-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque ni le mandat d'arrêt décerné par l'autorité étrangère à charge d'un étranger dont l'extradition est demandée ni les pièces auxquelles la Cour peut avoir égard ne permettent à la Cour de contrôler si le mandat d'arrêt existe toujours, la Cour casse, avec renvoi, l'arrêt de la chambre des mises en accusation déclarant ce mandat d'arrêt exécutoire. ( Loi du 15 mars 1874 sur les extraditions, art. 3. )"
+      ],
+      "abstractNL": [
+        "Wanneer noch het bevel tot aanhouding, door de vreemde overheid verleend ten laste van een vreemdeling wiens uitlevering is gevraagd, noch de stukken waarop het Hof vermag acht te slaan, het Hof in de mogelijkheid stellen na te gaan of dat bevel tot aanhouding nog steeds bestaat, vernietigt het Hof, met verwijzing, het arrest van de kamer van inbeschuldigingstelling waarbij dat bevel tot aanhouding uitvoerbaar is verklaard. ( Art. 3 wet 15 maart 1874 op de uitleveringen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831123.2": {
+      "court": "CASS",
+      "date": "1983-11-23",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 2, de la loi du 15 mars 1874, limitant à trois semaines la durée de l'arrestation provisoire d'un étranger en vue de son extradition, est sans application à la procédure prévue par l'article 3 de la même loi, relative à l'exequatur du mandat d'arrêt décerné par une autorité étrangère compétente."
+      ],
+      "abstractNL": [
+        "Art. 5, tweede lid, wet 15 maart 1874, waarbij de duur van de voorlopige aanhouding van een vreemdeling met het oog op zijn uitlevering tot drie weken wordt beperkt, is niet van toepassing op de door art. 3 van dezelfde wet voorgeschreven procedure betreffende de uitvoerbaarverklaring van het door de vreemde bevoegde overheid afgeleverde bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830308.12": {
+      "court": "CASS",
+      "date": "1983-03-08",
+      "roleNumber": "7895",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/08/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. ( Loi du 15 mars 1874, art. 3; Code judic., art. 609. )"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820929.4": {
+      "court": "CASS",
+      "date": "1982-09-29",
+      "roleNumber": "3267",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ni la loi du 15 mars 1874 sur les extraditions, ni le traité d'extradition entre la Belgique et la Grèce signé les 26 juin et 9 juillet 1901 ne prévoient la signification de la copie du texte de la loi étrangère applicable au fait incriminé, accompagnant le mandat d'arrêt produit par le gouvernement requérant à l'appui de la demande d'extradition."
+      ],
+      "abstractNL": [
+        "Noch de Uitleveringswet 15 maart 1874, noch het op 26 juni en 9 juli 1901 ondertekende uitleveringsverdrag tussen België en Griekenland <1> schrijven de betekening voor van het afschrift van de tekst van de op het ten laste gelegde feit toepasselijke buitenlandse wet dat gevoegd is bij het door de verzoekende regering tot staving van haar verzoek om uitlevering overgelegde bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810722.6": {
+      "court": "CASS",
+      "date": "1981-07-22",
+      "roleNumber": "1827",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/07/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. ( Loi du 15 mars 1874, article 3; Code judic., art. 609. )"
+      ],
+      "abstractNL": [
+        "Het door de kamer van inbeschuldigingstelling aan de regering uitgebrachte advies inzake uitlevering is geen beslissing waartegen cassatieberoep openstaat <1>. (Art. 3 wet van 15 maart 1874; art. 609 Ger.W.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800109.11": {
+      "court": "CASS",
+      "date": "1980-01-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/01/09/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "La chambre du conseil statue, en règle, à huis clos; en matière d'extradition, la chambre du conseil rend exécutoire le mandat d'arrêt décerné par une autorité étrangère et aucune disposition légale ne prévoit que, dans ce cas, l'instruction sera publique. ( Loi du 15 mars 1874, art. 3, alinéa 2. )"
+      ],
+      "abstractNL": [
+        "De raadkamer doet in regel uitspraak met gesloten deuren; geen wetsbepaling schrijft voor dat de raadkamer, wanneer zij het door de vreemde overheid verleend bevel tot aanhouding uitvoerbaar verklaart, de zaak in het openbaar moet behandelen. ( Art. 3, tweede lid, wet van 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790912.3": {
+      "court": "CASS",
+      "date": "1979-09-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, le moyen qui reproche au juge d'avoir commis une violation de la loi, lorsque cette violation est sans influence sur la légalité du dispositif attaqué."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk bij gebrek aan belang is het middel dat aan de rechter verwijt dat hij de wet heeft geschonden, als die schending geen invloed heeft op de wettigheid van het bestreden beschikkende gedeelte <2>."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770913.3": {
+      "court": "CASS",
+      "date": "1977-09-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le juge du fond n'a pas précisé quelles sont les pièces qui, par application de l'article 3, alinéa 3, de la loi du 15 mars 1874 sur les extraditions, auraient été signifiées à l'étranger dont l'extradition à été demandée , la Cour est sans pouvoir pour rechercher dans les éléments du dossier si les pièces qui auraient été signifiées satisfont aux conditions prévues par la loi."
+      ],
+      "abstractNL": [
+        "Wanneer de feitenrechter niet gepreciseerd heeft welke stukken overeenkomstig artikel 3, derde lid, van de wet van 15 maart 1874 betreffende de uitleveringen zouden betekend zijn aan de vreemdeling om wiens uitlevering werd verzocht, is het Hof niet bevoegd om in de elementen van het dossier na te gaan of de stukken, die zouden betekend zijn, aan de wettelijke voorwaarden voldoen."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761012.11": {
+      "court": "CASS",
+      "date": "1976-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation (3). (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de Regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat (3). ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740423.4": {
+      "court": "CASS",
+      "date": "1974-04-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation d'une cour d'appel, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies door de kamer van inbeschuldigingstelling van een hof van beroep inzake uitlevering gegeven is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740122.10": {
+      "court": "CASS",
+      "date": "1974-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/01/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de Regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680617.4": {
+      "court": "CASS",
+      "date": "1968-06-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/06/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est entachée d'illégalité et d'excès de pouvoir la décision de la commission de défense sociale qui ordonne la mise en liberté à l'essai de l'interné à la condition expresse d'extradition et décide la remise de l'interné à l'autorité étrangère. (Loi du 9 avril 1930, remplacée par celle du 1er juillet 1964, art. 18, et loi du 15 mars 1874, art. 3.)"
+      ],
+      "abstractNL": [
+        "Is door onwettelijkheid en door machtsoverschrijding aangetast de beslissing van de commissie tot bescherming van de maatschappij, die de invrijheidstelling op proef van de geïnterneerde gelast onder de uitdrukkelijke voorwaarde van uitlevering en de overlevering van de geïnterneerde aan de vreemde overheid beveelt. (Wet van 9 april 1930, vervangen door die van 1 juli 1964, art. 18, en wet van 15 maart 1874, art. 3.)"
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19651220.9": {
+      "court": "CASS",
+      "date": "1965-12-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/12/20/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. (Lois des 4 août 1832, art. 15, et 15 mars 1874, art. 3.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650927.8": {
+      "court": "CASS",
+      "date": "1965-09-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/27/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, n'a pas le caractère d'une décision susceptible d'un pourvoi en cassation. (Lois des 4 août 1832, art. 15, et 15 mars 1874, art. 3.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1993:ARR.19931109.15": {
+      "court": "CASS",
+      "date": "1993-11-09",
+      "roleNumber": "P931328N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/09/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De Rechterlijke Macht is niet bevoegd om te beslissen omtrent de voorlopige invrijheidstelling van een vreemdeling die ter beschikking is van de Uitvoerende Macht doordat hem het buitenlands vonnis is betekend op grond waarvan om zijn uitlevering werd verzocht. (Art. 3 Uitleveringswet)."
+      ]
     }
   },
   "5": {
@@ -471,6 +1083,312 @@
       "abstractNL": [
         "De redelijke duur van de hechtenis met het oog op uitlevering wordt beoordeeld op grond van de feitelijke gegevens van de zaak, op het ogenblik van de beslissing van de rechter die met dat toezicht is belast; wanneer hij uitspraak moet doen over de gegrondheid van een verzoek tot voorlopige invrijheidstelling van de aangehouden vreemdeling, wegens de duur van de ondergane hechtenis, verbiedt geen enkele regel de rechter, die de verantwoordelijkheid van de Belgische overheid heeft uitgesloten, om de omstandigheid in aanmerking te nemen dat de betrokkene opeenvolgende rechtsmiddelen heeft ingesteld, waardoor de zaak ingewikkeld werd en de behandeling ervan tot het aanslepen van de rechtspleging heeft bijgedragen (1). (1) Zie Cass. 17 november 2015, AR P.15.1425.N, AC 2015, nr. 685; Cass. 29 februari 2012, AR P.12.0217.F, AC 2012, nr. 140; Cass. 13 juli 2010, AR P.10.1173.N, AC 2010, nr. 481; Cass. 31 maart 2009, AR P.09.0162.N, AC 2009, nr. 224, met concl. van P. DUINSLAEGER, toen advocaat-generaal, en RW 2009-2010, p. 490, met noot S. DEWULF, \"Rechterlijke controle op de uitlevering: (r)evoluties\". Daarentegen, \"om vast te stellen dat de redelijke termijn om berecht te worden niet verstreken is, mag de rechter de vertraging van de berechting van de zaak niet toeschrijven aan het gedrag van de beklaagde, met inbegrip van het groot aantal ingestelde rechtsmiddelen en van de door de beklaagde in het kader van de zaak gevorderde rechtsplegingen, zonder daarbij een onderscheid te maken met de rechtsmiddelen die voortvloeiden uit de rechtmatige uitoefening van het recht van verdediging\" (Cass. 28 september 2016, AR P.16.0307.F, AC 2016, nr. 529, met andersluidende concl. van advocaat-generaal M. NOLET DE BRAUWERE)."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010814.2": {
+      "court": "CASS",
+      "date": "2001-08-14",
+      "roleNumber": "P011159F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/08/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dès le moment où le mandat d'arrêt décerné par l'autorité judiciaire étrangère a été rendu exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger concerné se trouve à la disposition du pouvoir exécutif, sous un nouveau titre de privation de liberté, qui met fin au mandat d'arrêt provisoire décerné, par application de l'article 5 de la loi sur les extraditions, en vue de son extradition. Il n'appartient, dès lors, plus au pouvoir judiciaire d'accorder la liberté provisoire à cet étranger (1)."
+      ],
+      "abstractNL": [
+        "Zodra het door de buitenlandse rechterlijke overheid uitgevaardigde aanhoudingsbevel uitvoerbaar is verklaard met toepassing van art. 3 Uitleveringswet, bevindt de betrokken vreemdeling zich ter beschikking van de uitvoerende macht onder een nieuwe titel van vrijheidsberoving, die een einde maakt aan het bevel tot voorlopige aanhouding dat met toepassing van art. 5, Uitleveringswet, is uitgevaardigd met het oog op zijn uitlevering; het staat bijgevolg niet meer aan de rechterlijke macht om die vreemdeling voorlopig in vrijheid te stellen (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010703.4": {
+      "court": "CASS",
+      "date": "2001-07-03",
+      "roleNumber": "P010945N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/07/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation est compétente pour connaître de la demande de mise en liberté provisoire d'un étranger arrêté en exécution d'un mandat d'arrêt étranger qui lui a été dûment signifié, tant qu'elle n'a pas statué sur l'appel de la décision d'exequatur (1)."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling is bevoegd om te oordelen over een verzoek tot voorlopige invrijheidstelling van een vreemdeling, die op grond van een hem regelmatig betekend buitenlands bevel tot aanhouding is aangehouden, zolang zij over het hoger beroep tegen de beslissing tot uitvoerbaarverklaring niet heeft beslist (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010502.12": {
+      "court": "CASS",
+      "date": "2001-05-02",
+      "roleNumber": "P010614FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation a rejeté le pourvoi formé par un étranger, arrêté provisoirement, dont l'extradition a été demandée, contre l'arrêt de la chambre des mises en accusation qui a rejeté l'appel qu'il a formé contre l'ordonnance de la chambre du conseil déclarant exécutoire le mandat d'arrêt international décerné à sa charge, cet étranger se trouve à la disposition du pouvoir exécutif, seul maître de décider, après avoir pris l'avis de la chambre des mises en accusation, s'il doit ou non être livré à la justice du pays qui le réclame; est, partant, irrecevable, à défaut d'objet, le pourvoi formé par cet étranger contre l'arrêt de la chambre des mises en accusation qui a rejeté sa demande de mise en liberté provisoire (1)."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van Cassatie het cassatieberoep verwerpt dat een voorlopig aangehouden vreemdeling, wiens uitlevering is gevorderd, heeft ingesteld tegen het arrest van de kamer van inbeschuldigingstelling dat zijn hoger beroep verwerpt tegen de beschikking van de raadkamer, die het tegen hem uitgevaardigde internationale aanhoudingsbevel uitvoerbaar verklaart, wordt die vreemdeling ter beschikking gesteld van de uitvoerende macht, die, na advies van de kamer van inbeschuldigingstelling, als enige kan beslissen of hij al dan niet moet worden uitgeleverd aan het gerecht van het land dat zijn uitlevering vordert; het cassatieberoep van die vreemdeling tegen het arrest van de kamer van inbeschuldigingstelling dat zijn verzoek tot voorlopige invrijheidstelling verwerpt, is bijgevolg niet ontvankelijk bij gemis aan bestaansreden (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980310.16": {
+      "court": "CASS",
+      "date": "1998-03-10",
+      "roleNumber": "P980167N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/03/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le jugement étranger fondant la demande d'extradition d'un étranger arrêté provisoirement a été signifié, le pourvoi en cassation de cet étranger contre la décision rendue sur sa demande de mise en liberté provisoire devient sans objet."
+      ],
+      "abstractNL": [
+        "Na de betekening van het buitenlands vonnis op grond waarvan de uitlevering van een voorlopig aangehouden vreemdeling is gevraagd, heeft het cassatieberoep van die vreemdeling tegen de beslissing op zijn verzoek tot voorlopige invrijheidstelling geen bestaansreden meer."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971216.12": {
+      "court": "CASS",
+      "date": "1997-12-16",
+      "roleNumber": "P971405N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/16/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'étranger qui, arrêté provisoirement en application de l'article 5 de la loi du 15 mars 1874 sur les extraditions, est maintenu à la disposition du pouvoir exécutif en vertu d'une décision déclarant définitivement exécutoire le mandat d'arrêt décerné à l'étranger qui lui a été régulièrement signifié, introduit un pourvoi en cassation contre l'arrêt de la chambre des mises en accusation déclarant irrecevable sa demande de mise en liberté provisoire, reste soumis aux dispositions du Code d'instruction criminelle en ce qui concerne le pourvoi, même après l'entrée en vigueur des nouvelles dispositions de la loi relative à la détention préventive, et ne doit pas être remis en liberté lorsque l'arrjt n'est pas rendu dans le délai prévu à l'article 31, alinéa 3, de la loi du 20 juillet 1990 relative à la détention préventive."
+      ],
+      "abstractNL": [
+        "Wanneer een vreemdeling die, na met toepassing van art. 5 Uitleveringswet voorlopig te zijn aangehouden, ingevolge een definitieve beslissing van uitvoerbaarverklaring van het regelmatig betekende buitenlands bevel tot aanhouding gedetineerd is ter beschikking van de Uitvoerende Macht, cassatieberoep instelt tegen het arrest van de kamer van inbeschuldigingstelling dat zijn verzoek tot voorlopige invrijheidstelling onontvankelijk verklaart, gelden ten aanzien van dat cassatieberoep ook na de inwerkingtreding van de nieuwe wetsbepalingen betreffende de voorlopige hechtenis, de bepalingen van het Wetboek van Strafvordering en moet hij niet in vrijheid worden gesteld als het arrest niet is gewezen binnen de door art. 31, alinéa 3, Wet Voorlopige Hechtenis bepaalde termijn."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950314.7": {
+      "court": "CASS",
+      "date": "1995-03-14",
+      "roleNumber": "P950129N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La régularité ou l'irrégularité de la privation de liberté provisoire d'un étranger aux fins d'extradition est sans influence sur la légalité de la décision ordonnant l'exequatur d'un mandat d'arrêt décerné par une autorité étrangère."
+      ],
+      "abstractNL": [
+        "De al dan niet regelmatigheid van de voorlopige vrijheidsbeneming van een vreemdeling met het oog op uitlevering is zonder invloed op de wettelijkheid van de beslissing die het buitenlands bevel tot aanhouding uitvoerbaar verklaart."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940614.10": {
+      "court": "CASS",
+      "date": "1994-06-14",
+      "roleNumber": "P940617N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge d'instruction qui, en cas d'urgence,a décerné un mandat d'arrêt provisoire à charge d'un étranger, sur base d'un avis officiel donné par l'Etat requérant, est autorisé à procéder suivant les règles prescrites par les articles 87 à 90 du Code d'instruction criminelle, et peut ordonner une perquisition et une saisie sans que le mandat d'arrêt étranger ou l'acte équivalent aient été,au préalable, déclarés exécutoires par la chambre du conseil compétente. (L. 15 mars 1874, art. 5, al. 4)."
+      ],
+      "abstractNL": [
+        "De onderzoeksrechter die, in dringende gevallen, op grond van een officieel bericht van de verzoekende Staat, ten laste van de vreemdeling een voorlopig bevel tot aanhouding heeft verleend, is gemachtigd te handelen naar de regelen van de artt. 87 tot 90 Sv. en kan huiszoeking en inbeslagneming gelasten zonder dat vooraf het buitenlands bevel tot aanhouding of de gelijkwaardige akte door de daartoe bevoegde raadkamer uitvoerbaar moet zijn verklaard. (Art. 5, vierde lid, Uitleveringswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940601.12": {
+      "court": "CASS",
+      "date": "1994-06-01",
+      "roleNumber": "P940600F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 2, de la loi du 15 mars 1874, limitant à trois semaines la durée de l'arrestation provisoire d'un étranger en vue de son extradition, est sans application à la procédure prévue par l'article 3 de la même loi, relative à l'exequatur du mandat d'arrêt décerné par une autorité étrangère compétente."
+      ],
+      "abstractNL": [
+        "Art. 5, tweede lid, Uitleveringswet, waarbij de duur van de voorlopige aanhouding van een vreemdeling met het oog op zijn uitlevering tot drie weken wordt beperkt, is niet van toepassing op de door art. 3 van dezelfde wet voorgeschreven procedure betreffende de uitvoerbaarverklaring van het door de buitenlandse bevoegde overheid verleende bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940510.16": {
+      "court": "CASS",
+      "date": "1994-05-10",
+      "roleNumber": "P940508N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La régularité ou l'irrégularité de la privation de liberté provisoire d'un étranger aux fins d'extradition est sans influence sur la légalité de l'arrêt de la chambre des mises en accusation ordonnant l'exequatur d'un mandat d'arrêt décerné par une autorité étrangère. (L. 15 mars 1874, art. 3, al. 2 et 5, al. 1er et 2)."
+      ],
+      "abstractNL": [
+        "De al dan niet regelmatigheid van de voorlopige vrijheidsbeneming van een vreemdeling met het oog op uitlevering is zonder invloed op de wettelijkheid van het arrest van de kamer van inbeschuldigingstelling dat het buitenlands bevel tot aanhouding uitvoerbaar verklaart. (Artt. 3, tweede lid, en 5, eerste en tweede lid, Uitleveringswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890725.2": {
+      "court": "CASS",
+      "date": "1989-07-25",
+      "roleNumber": "3557",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/07/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère a été déclaré exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger concerné se trouve, à partir de cette date, à la disposition du pouvoir exécutif, sous un nouveau titre de privation de liberté, qui met fin au mandat d'arrêt provisoire décerné par application de l'article 5 de la loi sur les extraditions, en vue de son extradition; il n'appartient, dès lors, plus au pouvoir judiciaire d'accorder la liberté provisoire à cet étranger."
+      ],
+      "abstractNL": [
+        "Wanneer, met toepassing van art. 3 Uitleveringswet, het door de vreemde overheid verleende bevel tot aanhouding uitvoerbaar is verklaard, is de betrokken vreemdeling van dan af ter beschikking van de Uitvoerende Macht, onder een nieuwe titel van vrijheidsberoving, die een einde maakt aan het voorlopig bevel tot aanhouding dat, met toepassing van art. 5 Uitleveringswet, met het oog op zijn uitlevering was verleend; de Rechterlijke Macht is van dan af ook niet meer bevoegd om te beslissen omtrent een voorlopige invrijheidstelling van die vreemdeling."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890404.4": {
+      "court": "CASS",
+      "date": "1989-04-04",
+      "roleNumber": "8651",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère a été déclaré exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger concerné se trouve, à partir de cette date, à la disposition du pouvoir exécutif, sous un nouveau titre de privation de liberté, qui met fin au mandat d'arrêt provisoire décerné, par application de l'article 5 de la loi sur les extraditions, en vue de son extradition; il n'appartient, dès lors, plus au pouvoir judiciaire d'accorder la liberté provisoire de cet étranger."
+      ],
+      "abstractNL": [
+        "Wanneer, met toepassing van art. 3 Uitleveringswet, het door de vreemde overheid verleende bevel tot aanhouding uitvoerbaar is verklaard, is de betrokken vreemdeling van dan af ter beschikking van de Uitvoerende macht, onder een nieuwe titel van vrijheidsberoving die een einde maakt aan het voorlopig bevel tot aanhouding dat, met toepassing van art. 5 Uitleveringswet, met het oog op zijn uitlevering was verleend; de Rechterlijke Macht is van dan af ook niet meer bevoegd om te beslissen omtrent een voorlopige invrijheidstelling van die vreemdeling."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870813.2": {
+      "court": "CASS",
+      "date": "1987-08-13",
+      "roleNumber": "6118",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/08/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère à charge d'un étranger arrêté provisoirement, dont l'extradition a été demandée, a été déclaré exécutoire et signifié à cet étranger, le pourvoi en cassation contre l'arrêt de la chambre des mises en accusation confirmant le rejet de sa demande de mise en liberté provisoire devient sans objet. ( Loi du 15 mars 1874, articles 3 et 5. )"
+      ],
+      "abstractNL": [
+        "Wanneer het bevel tot aanhouding, door de buitenlandse gerechtelijke overheid verleend tegen een voorlopig aangehouden vreemdeling om wiens uitlevering is verzocht, uitvoerbaar verklaard is en aan die vreemdeling betekend is, heeft het cassatieberoep tegen het arrest van de kamer van inbeschuldigingstelling waarbij de afwijzing van diens verzoek tot voorlopige invrijheidstelling wordt bevestigd, geen reden van bestaan meer. ( Artt. 3 en 5 Wet 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851113.1": {
+      "court": "CASS",
+      "date": "1985-11-13",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il est satisfait à l'obligation de donner à l'étranger, détenu provisoirement aux fins d'extradition, dans le délai de trois semaines à dater de son arrestation, communication du mandat d'arrêt décerne» par l'autorité étrangère compétente, lorsque cet étranger est informé, dans ledit délai et dans une langue qu'il comprend, des motifs de son arrestation; il n'est pas requis que l'étranger reçoive, dans ce même délai, une traduction intégrale du mandat d'arrêt étranger. (Loi du 15 mars 1874, art. 5, al. 2)."
+      ],
+      "abstractNL": [
+        "De verplichting om aan de vreemdeling, die zich in voorlopige hechtenis bevindt met het oog op uitlevering, binnen de termijn van drie weken te rekenen van zijn aanhouding, mededeling te doen van het door de bevoegde buitenlandse overheid verleende bevel tot aanhouding is nagekomen, als die vreemdeling binnen die termijn en in een taal die hij verstaat, kennis heeft gekregen van de redenen van zijn aanhouding; niet vereist is dat de vreemdeling, binnen diezelfde termijn, een volledige vertaling krijgt van het buitenlands bevel tot aanhouding. ( Art. 5, tweede lid, Uitleveringswet )."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840911.12": {
+      "court": "CASS",
+      "date": "1984-09-11",
+      "roleNumber": "9002",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/11/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt, décerné par l'autorité judiciaire étrangère à charge d'un étranger arrêté provisoirement dont l'extradition est demandée, a été déclaré exécutoire et signifié à l'intéressé, le pourvoi formé par cet étranger contre l'arrêt de la chambre des mises en accusation qui rejette sa demande de mise en liberté provisoire devient sans objet. (Loi du 15 mars 1874 sur les extraditions, art. 3 et 5.)"
+      ],
+      "abstractNL": [
+        "Wanneer het bevel tot aanhouding, door de vreemde overheid verleend ten laste van de voorlopig aangehouden vreemdeling wiens uitlevering is gevraagd, uitvoerbaar is verklaard, heeft de voorziening van die vreemdeling tegen het arrest van de kamer van inbeschuldigingstelling dat zijn verzoek tot voorlopige invrijheidstelling verwerpt, geen bestaansreden meer.( Artt. 3 en 5 wet 15 maart 1874 op de uitleveringen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840117.15": {
+      "court": "CASS",
+      "date": "1984-01-17",
+      "roleNumber": "8405",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dans la mesure où il prescrit que le mandat d'arrêt contiendra la citation de la loi qui déclare que le fait mis à charge de l'inculpé est un crime ou un délit, l'article 96 du Code d'instruction criminelle n'est pas applicable au cas prévu à l'article 5, alinéa premier, de la loi sur les extraditions."
+      ],
+      "abstractNL": [
+        "Art. 96 Sv., in zoverre het voorschrijft dat het bevel tot aanhouding de wet dient te vermelden die bepaalt dat het ten laste gelegde feit een misdaad of een wanbedrijf is, is niet van toepassing op het bevel tot voorlopige aanhouding met het oog op eventuele uitlevering dat is verleend op grond van art. 5, eerste lid, van de Uitleveringswet."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801211.13": {
+      "court": "CASS",
+      "date": "1980-12-11",
+      "roleNumber": "1370",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/11/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La juridiction appelée à statuer sur la transmission des papiers et autres objets saisis au gouvernement étranger qui demande l'extradition vérifie si ces papiers et objets se rattachent directement au fait imputé; après avoir décidé legalement qu'il ne lui appartient pas de rechercher si des pièces saisies sont ou non couvertes par un secret professionnel et si, dès lors, elles doivent ou non être écartées du dossier, mission appartenant aux juridictions étrangères chargées de l'instruction et du jugement de la cause, elle décide néanmoins aussi légalement et sans contradiction que, dès lors que des inscriptions faites sur des enveloppes et les circonstances dans lesquelles lesdites pièces ont été saisies révèlent que celles-ci se rattachent directement aux faits imputés, fondant la demande d'extradition, il n'y a pas lieu de restituer ces pièces à l'étranger. ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "Het gerecht dat moet beslissen of papieren en andere in beslag genomen voorwerpen aan de vreemde, om uitlevering verzoekende regering, moeten worden overgezonden, gaat na of die papieren en voorwerpen rechtstreeks verband houden met het ten laste gelegde feit <1>; nadat het wettig heeft beslist dat het niet behoeft na te gaan of in beslag genomen stukken al dan niet door een beroepsgeheim zijn gedekt en/of zij om die reden uit het dossier moeten worden geweerd, hetgeen behoort tot de opdracht van het vreemde gerecht dat met het onderzoek en de beslissing van de zaak is belast, beslist het evenzeer naar recht en zonder tegenstrijdigheid dat, aangezien uit hetgeen op enveloppen is geschreven en uit de omstandigheden waarin die stukken zijn in beslag genomen, blijkt dat de stukken rechtstreeks verband houden met de ten laste gelegde feiten waarop het verzoek om uitlevering is gegrond, die stukken niet aan de verdachte behoeven te worden teruggegeven. (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770524.2": {
+      "court": "CASS",
+      "date": "1977-05-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une disposition d'un traité d'extradition prévoit que l'arrestation provisoire en vue d'extradition aura lieu sur l'exhibition d'un mandat d'arrêt ou autre acte ayant la même force, décerné par l'autorité compétente et produit par voie diplomatique, ou, en cas d'urgence, sur avis, transmis par la poste ou le télégraphe, de l'existence d'un mandat d'arrêt, à la condition que cet avis soit régulièrement donné par voie diplomatique au ministre des affaires étrangères du pays où l'inculpé s'est réfugié, ne fait pas obstacle à l'arrestation provisoire, en cas d'urgence, sur un avis officiel donné aux autorités belges par les autorités du pays où l'étranger aura été condamné ou poursuivi; dans ce cas, l'arrestation provisoire est toutefois facultative (1). (Convention d'extradition belgo-espagnole du 17 juin 1870, art. 11, et loi d'extradition du 15 mars 1874, article 5.)"
+      ],
+      "abstractNL": [
+        "De bepaling van een uitleveringsverdrag dat de voorlopige aanhouding voor een uitlevering geschiedt op vertoon van een bevel tot aanhouding of van een akte met dezelfde kracht, door de bevoegde overheid verleend en via diplomatieke weg toegezonden of, in spoedeisend geval, via een door de post of de telegraaf doorgezonden bericht van het bestaan van een bevel tot aanhouding, op voorwaarde dat dit bericht regelmatig via diplomatieke weg is toegezonden aan de Minister van Buitenlandse Zaken van het land waar de verdachte zich bevindt, staat de voorlopige aanhouding niet in de weg, die in spoedeisend geval, geschiedt op een officieel bericht dat aan de Belgische overheid toegezonden is door de overheid van het land waar de vreemdeling veroordeeld is of vervolgd wordt; in dit geval is de aanhouding evenwel facultatief (2). ( Verdrag tussen België en Spanje houdende rechtsbijstand in strafzaken van 17 juni 1870, art. 11, en Uitleveringswet van 15 maart 1874, art. 5. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760511.4": {
+      "court": "CASS",
+      "date": "1976-05-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi formé contre le mandat d'arrêt provisoire aux fins d'extradition. (Loi du 15 mars 1874, art. 5.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de voorziening tegen een voorlopig bevel tot aanhouding met het oog op uitlevering. ( Art. 5 wet van 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750623.1": {
+      "court": "CASS",
+      "date": "1975-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, antérieurement à une demande d'extradition, une commission rogatoire émanée de l'autorité compétente étrangère tend à faire opérer une visite domiciliaire ou la saisie de pièces ou d'objets, la procédure est régie par l'article 11 de la loi du 15 mars 1874 sur les extraditions, et non par l'article 5, alinéa 4, de cette loi et les articles 87 et 90 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "Wanneer vóór een verzoek om uitlevering een rogatoire commissie uitgaande van de bevoegde vreemde overheid strekt tot een huiszoeking of tot inbeslagneming van stukken of voorwerpen, wordt de procedure geregeld door artikel 11 van de wet van 15 maart 1874 op de uitleveringen en niet door artikel 5, lid 4, van deze wet en de artikelen 87 tot 90 van het Wetboek van strafvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730629.6": {
+      "court": "CASS",
+      "date": "1973-06-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/29/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque celui dont l'extradition est demandée prétend être de nationalité belge devant la juridiction appelée à rendre exécutoire le mandat d'arrêt décerné contre lui par l'autorité étrangère compétente, il appartient au ministère public de prouver qu'en l'état de la procédure, l'intéressé remplit la condition d'extranéité requise pour que son extradition puisse être envisagée, et que la prétention contraire n'est pas assez vraisemblable pour arrêter la procédure d'extradition à son début."
+      ],
+      "abstractNL": [
+        "Wanneer hij, om wiens uitlevering wordt verzocht, van Belgische nationaliteit beweert te zijn voor het gerecht waaraan opgedragen wordt het door de bevoegde vreemde overheid tegen hem verleende bevel tot aanhouding uitvoerbaar te verklaren, dient het openbaar ministerie te bewijzen dat, in de stand van de procedure, de betrokkene de voorwaarden betreffende het vreemdelingschap vervult om zijn uitlevering te kunnen overwegen en dat de tegenovergestelde bewering niet waarschijnlijk genoeg is om de uitleveringsprocedure bij haar aanvang te stuiten."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721024.13": {
+      "court": "CASS",
+      "date": "1972-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Ne peut être proposé pour la première fois devant la Cour le moyen dirigé contre un arrêt de la chambre des mises en accusation rejetant une demande de mise en liberté provisoire d'un étranger arrêté en vue de son extradition et alléguant que certaines pièces n'étaient pas jointes au dossier."
+      ],
+      "abstractNL": [
+        "Het middel hieruit afgeleid dat de kamer van inbeschuldigingstelling een verzoek tot voorlopige invrijheidstelling van een aangehouden vreemdeling met het oog op zijn uitlevering afgewezen heeft, en dat voorhoudt dat bepaalde stukken niet bij het dossier werden gevoegd, kan niet voor het eerst voor het Hof worden voorgedragen."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931109.16": {
+      "court": "CASS",
+      "date": "1993-11-09",
+      "roleNumber": "P931330N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/09/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer een vreemdeling die met toepassing van art. 5 Uitleveringswet voorlopig werd aangehouden, cassatieberoep aantekent tegen het arrest dat uitspraak doet over zijn hoger beroep tegen de beschikking van de raadkamer die zijn verzoek tot voorlopige invrijheidsstelling afwijst, gelden ten aanzien van dat cassatieberoep, ook na de inwerkingtreding van de nieuwe wetsbepalingen betreffende de voorlopige hechtenis, de bepalingen van het Wetboek van Strafvordering; derhalve zijn in de regel ontvankelijk de middelen die de eiser aangeeft in een memorie die ter griffie van het Hof van Cassatie is ingediend vóór het verstrijken van de termijn van twee maanden bepaald bij art. 420bis Sv. en tenminste 8 dagen voor de terechtzitting. (Impliciet)."
+      ]
     }
   },
   "7": {
@@ -494,6 +1412,22 @@
       ]
     }
   },
+  "8": {
+    "ECLI:BE:CASS:1986:ARR.19861105.2": {
+      "court": "CASS",
+      "date": "1986-11-05",
+      "roleNumber": "5396",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les cours et tribunaux, statuant en matière de détention préventive, sont sans pouvoir pour connaître des irrégularités dont seraient entachés les actes d'un gouvernement ou d'un pouvoir judiciaire étrangers, relatifs à une extradition accordée au gouvernement belge."
+      ],
+      "abstractNL": [
+        "De hoven en rechtbanken zijn bij de uitspraak over de voorlopige hechtenis niet bevoegd om onregelmatigheden na te gaan, die door een buitenlandse regering of rechterlijke macht begaan zijn in de akten betreffende een aan de Belgische regering toegestane uitlevering."
+      ]
+    }
+  },
   "11": {
     "ECLI:BE:CASS:2011:ARR.20110615.2": {
       "court": "CASS",
@@ -508,6 +1442,90 @@
       ],
       "abstractNL": [
         "Noch artikel 20 van het Europees Verdrag betreffende uitlevering, gedaan te Parijs op 13 december 1957, noch artikel 11 van de Uitleveringswet van 15 maart 1874, verbieden een derde bij wie gestolen goederen in beslag werden genomen, zijn recht op teruggave te doen gelden, met name voor de rechter van de verzoekende Partij."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040512.28": {
+      "court": "CASS",
+      "date": "2004-05-12",
+      "roleNumber": "P040297F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tiers susceptible d'être lésé par une extradition mobilière n'est pas partie à la cause devant la chambre du conseil appelée à statuer sur l'exequatur d'une commission rogatoire internationale demandé en application de l'article 11, alinéas 1er et 2, de la loi du 15 mars 1874 sur les extraditions."
+      ],
+      "abstractNL": [
+        "De derde die benadeeld kan worden door een toezending van stukken, is geen partij in de zaak voor de raadkamer die uitspraak moet doen over de uitvoerbaarverklaring van een internationale ambtelijke opdracht, die is gevorderd met toepassing van art. 11, eerste en tweede lid, Uitleveringswet."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011114.9": {
+      "court": "CASS",
+      "date": "2001-11-14",
+      "roleNumber": "P011285F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il n'appartient pas à la juridiction d'instruction, appelée à statuer sur la remise de pièces saisies au cours d'une visite domiciliaire exécutée, en présence des autorités de l'Etat requérant, ensuite d'une commission rogatoire, d'apprécier l'autorisation accordée par l'Etat requis aux autorités de l'Etat requérant d'assister à l'exécution de la commission rogatoire (1)."
+      ],
+      "abstractNL": [
+        "Het staat niet aan het onderzoeksgerecht, dat uitspraak moet doen over de overdracht van stukken die in beslag genomen werden tijdens een t.g.v. een ambtelijke opdracht in aanwezigheid van autoriteiten van de verzoekende staat verrichte huiszoeking, de door de aangezochte staat verleende toestemming aan de autoriteiten van de verzoekende staat om aanwezig te zijn bij de uitvoering van de ambtelijke opdracht te beoordelen (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990330.9": {
+      "court": "CASS",
+      "date": "1999-03-30",
+      "roleNumber": "P990284N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La juridiction d'instruction appelée à statuer sur la remise au gouvernement requérant du corps d'un délit ou des pièces à conviction, saisis après une visite domiciliaire ensuite d'une commission rogatoire, doit uniquement vérifier si les conditions générales d'extradition sont réunies."
+      ],
+      "abstractNL": [
+        "Het onderzoeksgerecht dat uitspraak moet doen over de overdracht aan de aanzoekende regering van een ingevolge een rogatoire commissie na een huiszoeking in beslag genomen voorwerp van een misdrijf of van overtuigingsstukken, moet enkel nagaan of de algemene uitleveringsvoorwaarden zijn vervuld."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921014.3": {
+      "court": "CASS",
+      "date": "1992-10-14",
+      "roleNumber": "168",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/10/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Seules les commissions rogatoires \"tendant à faire opérer soit une visite domiciliaire, soit la saisie du corps du délit ou de pièces à conviction\" doivent être \"préalablement rendues exécutoires par la chambre du conseil\"; les autres commissions rogatoires émanant des autorités judiciaires étrangères doivent, en règle, être exécutées, dès que leur exécution a été autorisée par le ministre de la Justice. ( Code judiciaire, art. 873; loi du 15 mars 1874, art. 11. )"
+      ],
+      "abstractNL": [
+        "Enkel de rogatoire commissies \"strekkende tot een huiszoeking of de inbeslagneming van het voorwerp van het misdrijf of van overtuigingsstukken\" moeten \"voorafgaandelijk door de raadkamer uitvoerbaar worden verklaard\"; de overige rogatoire commissies uitgaande van de vreemde rechterlijke autoriteiten moeten in de regel worden uitgevoerd zodra daartoe machtiging is gegeven door de minister van Justitie. ( Art. 873 Gerechtelijk Wetboek; art. 11 Uitleveringswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880308.5": {
+      "court": "CASS",
+      "date": "1988-03-08",
+      "roleNumber": "1647",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'appel du tiers détenteur ou de l'ayant droit, dirigé contre l'ordonnance de la chambre du conseil qui, par application de l'article 11 de la loi du 15 mars 1874 sur l'extradition et de l'article 20 du Traité d'extradition Benelux du 27 juin 1962, statue sur la remise d'objets saisis, doit être interjeté dans les 24 heures à compter du jour de l'ordonnance."
+      ],
+      "abstractNL": [
+        "Het hoger beroep van de derde-houder of rechthebbende tegen de beschikking van de raadkamer die op grond van art. 11 Uitleveringswet 15 maart 1874 en art. 20 Benelux-Uitleveringsverdrag uitspraak doet over de overdracht van in beslag genomen voorwerpen, moet worden ingesteld binnen 24 uur te rekenen van de dag van de beschikking."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840124.8": {
+      "court": "CASS",
+      "date": "1984-01-24",
+      "roleNumber": "8476",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 20.2 du Traité Benelux d'extradition du 27 juin 1962, qui exclut l'application de l'article 11, alinéa 3, de la loi du 15 mars 1874 sur les extraditions, la chambre du conseil apprécie souverainement en fait s'il y a lieu d'ordonner soit la transmission à la partie requérante des objets saisis qui ne se rattachent pas directement au fait imputé au prévenu, soit leur restitution à ce dernier ou leur remise à des tiers détenteurs ou autres ayants droit."
+      ],
+      "abstractNL": [
+        "Krachtens art. 20.2 Benelux-Uitleveringsverdrag 27 juni 1962, waarbij de toepassing van art. 11, derde lid, wet van 15 maart 1874 op de uitleveringen wordt uitgesloten, oordeelt de raadkamer op onaantastbare wijze in feite of de in beslag genomen voorwerpen, die niet rechtstreeks betrekking hebben op het feit dat aan de beklaagde ten laste wordt gelegd, aan de verzoekende partij worden overgedragen, dan wel of zij worden teruggegeven aan de beklaagde of aan derden die houder waren van de voorwerpen, of nog aan andere rechthebbenden."
       ]
     }
   },
@@ -578,6 +1596,22 @@
       ]
     }
   },
+  "44": {
+    "ECLI:BE:CASS:2004:ARR.20040526.12": {
+      "court": "CASS",
+      "date": "2004-05-26",
+      "roleNumber": "P040772F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dans les relations avec les Etats membres qui n'ont pas transposé la décision-cadre 2002/584/JAI du Conseil de l'Union européenne du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remises entre Etats membres, la loi du 15 mars 1874 sur les extraditions ou les instruments existants dans le domaine de l'extradition reste d'application (1). (1) DEJEMEPPE B., \"La loi du 19 décembre 2003 relative au mandat d'arrêt européen\", J.T., 2004, p. 112."
+      ],
+      "abstractNL": [
+        "In het kader van de betrekkingen met de Lidstaten die het kaderbesluit 2002/584/JAI van de Raad van de Europese Unie van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de Lidstaten niet hebben omgezet, blijven de wet van 15 maart 1874 op de uitleveringen of de bestaande instrumenten op het stuk van uitlevering van toepassing (1). (1) DEJEMEPPE B., \"La loi du 19 décembre 2003 relative au mandat d'arrêt européen\", J.T., 2004, p. 112."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:2025:ARR.20250902.2N.21": {
       "court": "CASS",
@@ -603,6 +1637,440 @@
       ],
       "abstractNL": [
         "De Uitleveringswet 1874 maakt geen melding van het cassatieberoep, dat ter zake geregeld blijft door het Wetboek van Strafvordering; daaruit volgt dat het cassatieberoep dat gericht is tegen een arrest van de kamer van inbeschuldigingstelling dat de beslissing van de raadkamer tot uitvoerbaarverklaring bevestigt, moet worden ingesteld door een advocaat die houder is van het in artikel 425, § 1, tweede lid, Wetboek van Strafvordering bedoelde getuigschrift (1). (1) Zie Cass. 7 juni 2016, AR P.16.0520.N, AC 2016, nr. ... (dat de niet-ontvankelijkheid vaststelt van het cassatieberoep dat, gericht tegen het arrest van de kamer van inbeschuldigingstelling dat de beschikking tot uitvoerbaarverklaring van de raadkamer bevestigt, niet door een advocaat op de griffie van het gerecht dat de bestreden beslissing heeft gewezen, werd ingesteld)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990601.11": {
+      "court": "CASS",
+      "date": "1999-06-01",
+      "roleNumber": "P990630N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La juridiction d'instruction qui, conformément aux dispositions des articles 11 de la loi du 15 mars 1874 sur les extraditions et 20.2 du Traité d'extradition Benelux du 27 juin 1962, est uniquement chargée d'approuver la remise d'objets saisis à l'autorité étrangère, ne peut, lorsqu'elle examine si les droits des tiers sont lésés, refuser cette remise que lorsque les tiers détenteurs ou autres ayants droit établissent qu'ils ont un intérêt à ce que ces objets soient conservés à l'intérieur des frontières du pays."
+      ],
+      "abstractNL": [
+        "Het onderzoeksgerecht dat overeenkomstig de bepalingen van de art. 11 Uitleveringswet en 20.2 Benelux-Uitleveringsverdrag alleen gelast is om de overdracht van in beslag genomen voorwerpen aan de vreemde autoriteit goed te keuren, vermag, bij het onderzoek of de rechten van derden worden benadeeld, deze overdracht alleen te weigeren wanneer derden-houders of andere rechthebbenden aantonen dat zij er belang bij hebben dat deze voorwerpen binnen 's lands grenzen worden bewaard."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19711130.4": {
+      "court": "CASS",
+      "date": "1971-11-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/11/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les traités d'extradition conclus notamment en vertu de la loi du 15 mars 1874 sur les extraditions et qui ont été ratifiés, sont entrés en vigueur et ont été publiés au Moniteur sont, sans avoir reçu, après leur conclusion, l'assentiment des Chambres prévu par l'article 68 de la Constitution ou l'approbation législative, au sens des articles 612 et 1080 du Code judiciaire, des \"lois\" dont la violation donne ouverture à un recours en cassation. ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De uitleveringsverdragen die onder meer zijn gesloten krachtens de wet van 15 maart 1874 op de uitleveringen en die zijn geratificeerd, in werking getreden en bekendgemaakt in het Staatsblad, leveren, zonder dat zij na de sluiting van de Kamers de instemming, bepaald bij artikel 68 van de Grondwet, of de goedkeuring van de wetgevende macht hebben verkregen, \"wetten\" op in de zin van de artikelen 612 en 1080 van het Gerechtelijk Wetboek, namelijk \"wetten\" waarvan de schending aanleiding kan geven tot een cassatieberoep. ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010717.4": {
+      "court": "CASS",
+      "date": "2001-07-17",
+      "roleNumber": "P010972N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/07/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, le délai dont dispose l'étranger pour interjeter appel de l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné par l'autorité étrangère en vue de l'extradition, est de vingt-quatre heures à compter de la signification de ladite ordonnance (1)."
+      ],
+      "abstractNL": [
+        "Inzake uitlevering bedraagt de termijn voor de vreemdeling om hoger beroep in te stellen tegen de beschikking van de raadkamer, waarbij het door de buitenlandse overheid met het oog op uitlevering verleende aanhoudingsbevel uitvoerbaar verklaard wordt, vierentwintig uur te rekenen vanaf de dag waarop de beschikking is betekend (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010703.4": {
+      "court": "CASS",
+      "date": "2001-07-03",
+      "roleNumber": "P010945N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/07/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation est compétente pour connaître de la demande de mise en liberté provisoire d'un étranger arrêté en exécution d'un mandat d'arrêt étranger qui lui a été dûment signifié, tant qu'elle n'a pas statué sur l'appel de la décision d'exequatur (1)."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling is bevoegd om te oordelen over een verzoek tot voorlopige invrijheidstelling van een vreemdeling, die op grond van een hem regelmatig betekend buitenlands bevel tot aanhouding is aangehouden, zolang zij over het hoger beroep tegen de beslissing tot uitvoerbaarverklaring niet heeft beslist (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010502.12": {
+      "court": "CASS",
+      "date": "2001-05-02",
+      "roleNumber": "P010614FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation a rejeté le pourvoi formé par un étranger, arrêté provisoirement, dont l'extradition a été demandée, contre l'arrêt de la chambre des mises en accusation qui a rejeté l'appel qu'il a formé contre l'ordonnance de la chambre du conseil déclarant exécutoire le mandat d'arrêt international décerné à sa charge, cet étranger se trouve à la disposition du pouvoir exécutif, seul maître de décider, après avoir pris l'avis de la chambre des mises en accusation, s'il doit ou non être livré à la justice du pays qui le réclame; est, partant, irrecevable, à défaut d'objet, le pourvoi formé par cet étranger contre l'arrêt de la chambre des mises en accusation qui a rejeté sa demande de mise en liberté provisoire (1)."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van Cassatie het cassatieberoep verwerpt dat een voorlopig aangehouden vreemdeling, wiens uitlevering is gevorderd, heeft ingesteld tegen het arrest van de kamer van inbeschuldigingstelling dat zijn hoger beroep verwerpt tegen de beschikking van de raadkamer, die het tegen hem uitgevaardigde internationale aanhoudingsbevel uitvoerbaar verklaart, wordt die vreemdeling ter beschikking gesteld van de uitvoerende macht, die, na advies van de kamer van inbeschuldigingstelling, als enige kan beslissen of hij al dan niet moet worden uitgeleverd aan het gerecht van het land dat zijn uitlevering vordert; het cassatieberoep van die vreemdeling tegen het arrest van de kamer van inbeschuldigingstelling dat zijn verzoek tot voorlopige invrijheidstelling verwerpt, is bijgevolg niet ontvankelijk bij gemis aan bestaansreden (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980713.10": {
+      "court": "CASS",
+      "date": "1998-07-13",
+      "roleNumber": "P980895N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/07/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation."
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980310.16": {
+      "court": "CASS",
+      "date": "1998-03-10",
+      "roleNumber": "P980167N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/03/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le jugement étranger fondant la demande d'extradition d'un étranger arrêté provisoirement a été signifié, le pourvoi en cassation de cet étranger contre la décision rendue sur sa demande de mise en liberté provisoire devient sans objet."
+      ],
+      "abstractNL": [
+        "Na de betekening van het buitenlands vonnis op grond waarvan de uitlevering van een voorlopig aangehouden vreemdeling is gevraagd, heeft het cassatieberoep van die vreemdeling tegen de beslissing op zijn verzoek tot voorlopige invrijheidstelling geen bestaansreden meer."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971014.7": {
+      "court": "CASS",
+      "date": "1997-10-14",
+      "roleNumber": "P971218N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni l'article 3 de la loi du 15 mars 1874 sur les extraditions, ni aucune disposition de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire ne requièrent que, devant la chambre du conseil statuant sur l'exequatur d'un mandat d'arrêt étranger, une traduction de ce mandat étranger et des pièces annexes dans la langue de la procédure soit jointe."
+      ],
+      "abstractNL": [
+        "Art. 3 Uitleveringswet noch enige bepaling van de Taalwet Gerechtszaken vereisen dat voor de raadkamer die beslist over de uitvoerbaarverklaring van een vreemd bevel tot aanhouding, een vertaling in de taal der rechtspleging van dit vreemd bevel en van de bijhorende stukken zou zijn gevoegd."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960117.6": {
+      "court": "CASS",
+      "date": "1996-01-17",
+      "roleNumber": "P951389F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière d'extradition, le délai pour interjeter appel de l'ordonnance de la chambre du conseil rendant exécutoire le mandat d'arrêt décerné par l'autorité étrangère, est de vingt-quatre heures à compter de la signification de ladite ordonnance."
+      ],
+      "abstractNL": [
+        "Inzake uitlevering bedraagt de termijn om hoger beroep in te stellen tegen de beschikking van de raadkamer, waarbij het door de buitenlandse overheid verleende aanhoudingsbevel uitvoerbaar verklaard wordt, vierentwintig uur te rekenen van de betekening van die beschikking."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950314.7": {
+      "court": "CASS",
+      "date": "1995-03-14",
+      "roleNumber": "P950129N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La régularité ou l'irrégularité de la privation de liberté provisoire d'un étranger aux fins d'extradition est sans influence sur la légalité de la décision ordonnant l'exequatur d'un mandat d'arrêt décerné par une autorité étrangère."
+      ],
+      "abstractNL": [
+        "De al dan niet regelmatigheid van de voorlopige vrijheidsbeneming van een vreemdeling met het oog op uitlevering is zonder invloed op de wettelijkheid van de beslissing die het buitenlands bevel tot aanhouding uitvoerbaar verklaart."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940510.16": {
+      "court": "CASS",
+      "date": "1994-05-10",
+      "roleNumber": "P940508N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La régularité ou l'irrégularité de la privation de liberté provisoire d'un étranger aux fins d'extradition est sans influence sur la légalité de l'arrêt de la chambre des mises en accusation ordonnant l'exequatur d'un mandat d'arrêt décerné par une autorité étrangère. (L. 15 mars 1874, art. 3, al. 2 et 5, al. 1er et 2)."
+      ],
+      "abstractNL": [
+        "De al dan niet regelmatigheid van de voorlopige vrijheidsbeneming van een vreemdeling met het oog op uitlevering is zonder invloed op de wettelijkheid van het arrest van de kamer van inbeschuldigingstelling dat het buitenlands bevel tot aanhouding uitvoerbaar verklaart. (Artt. 3, tweede lid, en 5, eerste en tweede lid, Uitleveringswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921014.3": {
+      "court": "CASS",
+      "date": "1992-10-14",
+      "roleNumber": "168",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/10/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Seules les commissions rogatoires \"tendant à faire opérer soit une visite domiciliaire, soit la saisie du corps du délit ou de pièces à conviction\" doivent être \"préalablement rendues exécutoires par la chambre du conseil\"; les autres commissions rogatoires émanant des autorités judiciaires étrangères doivent, en règle, être exécutées, dès que leur exécution a été autorisée par le ministre de la Justice. ( Code judiciaire, art. 873; loi du 15 mars 1874, art. 11. )"
+      ],
+      "abstractNL": [
+        "Enkel de rogatoire commissies \"strekkende tot een huiszoeking of de inbeslagneming van het voorwerp van het misdrijf of van overtuigingsstukken\" moeten \"voorafgaandelijk door de raadkamer uitvoerbaar worden verklaard\"; de overige rogatoire commissies uitgaande van de vreemde rechterlijke autoriteiten moeten in de regel worden uitgevoerd zodra daartoe machtiging is gegeven door de minister van Justitie. ( Art. 873 Gerechtelijk Wetboek; art. 11 Uitleveringswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890725.2": {
+      "court": "CASS",
+      "date": "1989-07-25",
+      "roleNumber": "3557",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/07/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère a été déclaré exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger concerné se trouve, à partir de cette date, à la disposition du pouvoir exécutif, sous un nouveau titre de privation de liberté, qui met fin au mandat d'arrêt provisoire décerné par application de l'article 5 de la loi sur les extraditions, en vue de son extradition; il n'appartient, dès lors, plus au pouvoir judiciaire d'accorder la liberté provisoire à cet étranger."
+      ],
+      "abstractNL": [
+        "Wanneer, met toepassing van art. 3 Uitleveringswet, het door de vreemde overheid verleende bevel tot aanhouding uitvoerbaar is verklaard, is de betrokken vreemdeling van dan af ter beschikking van de Uitvoerende Macht, onder een nieuwe titel van vrijheidsberoving, die een einde maakt aan het voorlopig bevel tot aanhouding dat, met toepassing van art. 5 Uitleveringswet, met het oog op zijn uitlevering was verleend; de Rechterlijke Macht is van dan af ook niet meer bevoegd om te beslissen omtrent een voorlopige invrijheidstelling van die vreemdeling."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890404.4": {
+      "court": "CASS",
+      "date": "1989-04-04",
+      "roleNumber": "8651",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère a été déclaré exécutoire par application de l'article 3 de la loi sur les extraditions, l'étranger concerné se trouve, à partir de cette date, à la disposition du pouvoir exécutif, sous un nouveau titre de privation de liberté, qui met fin au mandat d'arrêt provisoire décerné, par application de l'article 5 de la loi sur les extraditions, en vue de son extradition; il n'appartient, dès lors, plus au pouvoir judiciaire d'accorder la liberté provisoire de cet étranger."
+      ],
+      "abstractNL": [
+        "Wanneer, met toepassing van art. 3 Uitleveringswet, het door de vreemde overheid verleende bevel tot aanhouding uitvoerbaar is verklaard, is de betrokken vreemdeling van dan af ter beschikking van de Uitvoerende macht, onder een nieuwe titel van vrijheidsberoving die een einde maakt aan het voorlopig bevel tot aanhouding dat, met toepassing van art. 5 Uitleveringswet, met het oog op zijn uitlevering was verleend; de Rechterlijke Macht is van dan af ook niet meer bevoegd om te beslissen omtrent een voorlopige invrijheidstelling van die vreemdeling."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880308.5": {
+      "court": "CASS",
+      "date": "1988-03-08",
+      "roleNumber": "1647",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'appel du tiers détenteur ou de l'ayant droit, dirigé contre l'ordonnance de la chambre du conseil qui, par application de l'article 11 de la loi du 15 mars 1874 sur l'extradition et de l'article 20 du Traité d'extradition Benelux du 27 juin 1962, statue sur la remise d'objets saisis, doit être interjeté dans les 24 heures à compter du jour de l'ordonnance."
+      ],
+      "abstractNL": [
+        "Het hoger beroep van de derde-houder of rechthebbende tegen de beschikking van de raadkamer die op grond van art. 11 Uitleveringswet 15 maart 1874 en art. 20 Benelux-Uitleveringsverdrag uitspraak doet over de overdracht van in beslag genomen voorwerpen, moet worden ingesteld binnen 24 uur te rekenen van de dag van de beschikking."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870813.2": {
+      "court": "CASS",
+      "date": "1987-08-13",
+      "roleNumber": "6118",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/08/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt décerné par l'autorité judiciaire étrangère à charge d'un étranger arrêté provisoirement, dont l'extradition a été demandée, a été déclaré exécutoire et signifié à cet étranger, le pourvoi en cassation contre l'arrêt de la chambre des mises en accusation confirmant le rejet de sa demande de mise en liberté provisoire devient sans objet. ( Loi du 15 mars 1874, articles 3 et 5. )"
+      ],
+      "abstractNL": [
+        "Wanneer het bevel tot aanhouding, door de buitenlandse gerechtelijke overheid verleend tegen een voorlopig aangehouden vreemdeling om wiens uitlevering is verzocht, uitvoerbaar verklaard is en aan die vreemdeling betekend is, heeft het cassatieberoep tegen het arrest van de kamer van inbeschuldigingstelling waarbij de afwijzing van diens verzoek tot voorlopige invrijheidstelling wordt bevestigd, geen reden van bestaan meer. ( Artt. 3 en 5 Wet 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861105.2": {
+      "court": "CASS",
+      "date": "1986-11-05",
+      "roleNumber": "5396",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les cours et tribunaux, statuant en matière de détention préventive, sont sans pouvoir pour connaître des irrégularités dont seraient entachés les actes d'un gouvernement ou d'un pouvoir judiciaire étrangers, relatifs à une extradition accordée au gouvernement belge."
+      ],
+      "abstractNL": [
+        "De hoven en rechtbanken zijn bij de uitspraak over de voorlopige hechtenis niet bevoegd om onregelmatigheden na te gaan, die door een buitenlandse regering of rechterlijke macht begaan zijn in de akten betreffende een aan de Belgische regering toegestane uitlevering."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851113.1": {
+      "court": "CASS",
+      "date": "1985-11-13",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il est satisfait à l'obligation de donner à l'étranger, détenu provisoirement aux fins d'extradition, dans le délai de trois semaines à dater de son arrestation, communication du mandat d'arrêt décerne» par l'autorité étrangère compétente, lorsque cet étranger est informé, dans ledit délai et dans une langue qu'il comprend, des motifs de son arrestation; il n'est pas requis que l'étranger reçoive, dans ce même délai, une traduction intégrale du mandat d'arrêt étranger. (Loi du 15 mars 1874, art. 5, al. 2)."
+      ],
+      "abstractNL": [
+        "De verplichting om aan de vreemdeling, die zich in voorlopige hechtenis bevindt met het oog op uitlevering, binnen de termijn van drie weken te rekenen van zijn aanhouding, mededeling te doen van het door de bevoegde buitenlandse overheid verleende bevel tot aanhouding is nagekomen, als die vreemdeling binnen die termijn en in een taal die hij verstaat, kennis heeft gekregen van de redenen van zijn aanhouding; niet vereist is dat de vreemdeling, binnen diezelfde termijn, een volledige vertaling krijgt van het buitenlands bevel tot aanhouding. ( Art. 5, tweede lid, Uitleveringswet )."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840911.2": {
+      "court": "CASS",
+      "date": "1984-09-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque ni le mandat d'arrêt décerné par l'autorité étrangère à charge d'un étranger dont l'extradition est demandée ni les pièces auxquelles la Cour peut avoir égard ne permettent à la Cour de contrôler si le mandat d'arrêt existe toujours, la Cour casse, avec renvoi, l'arrêt de la chambre des mises en accusation déclarant ce mandat d'arrêt exécutoire. ( Loi du 15 mars 1874 sur les extraditions, art. 3. )"
+      ],
+      "abstractNL": [
+        "Wanneer noch het bevel tot aanhouding, door de vreemde overheid verleend ten laste van een vreemdeling wiens uitlevering is gevraagd, noch de stukken waarop het Hof vermag acht te slaan, het Hof in de mogelijkheid stellen na te gaan of dat bevel tot aanhouding nog steeds bestaat, vernietigt het Hof, met verwijzing, het arrest van de kamer van inbeschuldigingstelling waarbij dat bevel tot aanhouding uitvoerbaar is verklaard. ( Art. 3 wet 15 maart 1874 op de uitleveringen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840911.12": {
+      "court": "CASS",
+      "date": "1984-09-11",
+      "roleNumber": "9002",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/11/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le mandat d'arrêt, décerné par l'autorité judiciaire étrangère à charge d'un étranger arrêté provisoirement dont l'extradition est demandée, a été déclaré exécutoire et signifié à l'intéressé, le pourvoi formé par cet étranger contre l'arrêt de la chambre des mises en accusation qui rejette sa demande de mise en liberté provisoire devient sans objet. (Loi du 15 mars 1874 sur les extraditions, art. 3 et 5.)"
+      ],
+      "abstractNL": [
+        "Wanneer het bevel tot aanhouding, door de vreemde overheid verleend ten laste van de voorlopig aangehouden vreemdeling wiens uitlevering is gevraagd, uitvoerbaar is verklaard, heeft de voorziening van die vreemdeling tegen het arrest van de kamer van inbeschuldigingstelling dat zijn verzoek tot voorlopige invrijheidstelling verwerpt, geen bestaansreden meer.( Artt. 3 en 5 wet 15 maart 1874 op de uitleveringen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840124.8": {
+      "court": "CASS",
+      "date": "1984-01-24",
+      "roleNumber": "8476",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 20.2 du Traité Benelux d'extradition du 27 juin 1962, qui exclut l'application de l'article 11, alinéa 3, de la loi du 15 mars 1874 sur les extraditions, la chambre du conseil apprécie souverainement en fait s'il y a lieu d'ordonner soit la transmission à la partie requérante des objets saisis qui ne se rattachent pas directement au fait imputé au prévenu, soit leur restitution à ce dernier ou leur remise à des tiers détenteurs ou autres ayants droit."
+      ],
+      "abstractNL": [
+        "Krachtens art. 20.2 Benelux-Uitleveringsverdrag 27 juni 1962, waarbij de toepassing van art. 11, derde lid, wet van 15 maart 1874 op de uitleveringen wordt uitgesloten, oordeelt de raadkamer op onaantastbare wijze in feite of de in beslag genomen voorwerpen, die niet rechtstreeks betrekking hebben op het feit dat aan de beklaagde ten laste wordt gelegd, aan de verzoekende partij worden overgedragen, dan wel of zij worden teruggegeven aan de beklaagde of aan derden die houder waren van de voorwerpen, of nog aan andere rechthebbenden."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831123.2": {
+      "court": "CASS",
+      "date": "1983-11-23",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 2, de la loi du 15 mars 1874, limitant à trois semaines la durée de l'arrestation provisoire d'un étranger en vue de son extradition, est sans application à la procédure prévue par l'article 3 de la même loi, relative à l'exequatur du mandat d'arrêt décerné par une autorité étrangère compétente."
+      ],
+      "abstractNL": [
+        "Art. 5, tweede lid, wet 15 maart 1874, waarbij de duur van de voorlopige aanhouding van een vreemdeling met het oog op zijn uitlevering tot drie weken wordt beperkt, is niet van toepassing op de door art. 3 van dezelfde wet voorgeschreven procedure betreffende de uitvoerbaarverklaring van het door de vreemde bevoegde overheid afgeleverde bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830308.12": {
+      "court": "CASS",
+      "date": "1983-03-08",
+      "roleNumber": "7895",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/08/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. ( Loi du 15 mars 1874, art. 3; Code judic., art. 609. )"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810722.6": {
+      "court": "CASS",
+      "date": "1981-07-22",
+      "roleNumber": "1827",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/07/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. ( Loi du 15 mars 1874, article 3; Code judic., art. 609. )"
+      ],
+      "abstractNL": [
+        "Het door de kamer van inbeschuldigingstelling aan de regering uitgebrachte advies inzake uitlevering is geen beslissing waartegen cassatieberoep openstaat <1>. (Art. 3 wet van 15 maart 1874; art. 609 Ger.W.)"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790912.3": {
+      "court": "CASS",
+      "date": "1979-09-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, le moyen qui reproche au juge d'avoir commis une violation de la loi, lorsque cette violation est sans influence sur la légalité du dispositif attaqué."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk bij gebrek aan belang is het middel dat aan de rechter verwijt dat hij de wet heeft geschonden, als die schending geen invloed heeft op de wettigheid van het bestreden beschikkende gedeelte <2>."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770524.2": {
+      "court": "CASS",
+      "date": "1977-05-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une disposition d'un traité d'extradition prévoit que l'arrestation provisoire en vue d'extradition aura lieu sur l'exhibition d'un mandat d'arrêt ou autre acte ayant la même force, décerné par l'autorité compétente et produit par voie diplomatique, ou, en cas d'urgence, sur avis, transmis par la poste ou le télégraphe, de l'existence d'un mandat d'arrêt, à la condition que cet avis soit régulièrement donné par voie diplomatique au ministre des affaires étrangères du pays où l'inculpé s'est réfugié, ne fait pas obstacle à l'arrestation provisoire, en cas d'urgence, sur un avis officiel donné aux autorités belges par les autorités du pays où l'étranger aura été condamné ou poursuivi; dans ce cas, l'arrestation provisoire est toutefois facultative (1). (Convention d'extradition belgo-espagnole du 17 juin 1870, art. 11, et loi d'extradition du 15 mars 1874, article 5.)"
+      ],
+      "abstractNL": [
+        "De bepaling van een uitleveringsverdrag dat de voorlopige aanhouding voor een uitlevering geschiedt op vertoon van een bevel tot aanhouding of van een akte met dezelfde kracht, door de bevoegde overheid verleend en via diplomatieke weg toegezonden of, in spoedeisend geval, via een door de post of de telegraaf doorgezonden bericht van het bestaan van een bevel tot aanhouding, op voorwaarde dat dit bericht regelmatig via diplomatieke weg is toegezonden aan de Minister van Buitenlandse Zaken van het land waar de verdachte zich bevindt, staat de voorlopige aanhouding niet in de weg, die in spoedeisend geval, geschiedt op een officieel bericht dat aan de Belgische overheid toegezonden is door de overheid van het land waar de vreemdeling veroordeeld is of vervolgd wordt; in dit geval is de aanhouding evenwel facultatief (2). ( Verdrag tussen België en Spanje houdende rechtsbijstand in strafzaken van 17 juni 1870, art. 11, en Uitleveringswet van 15 maart 1874, art. 5. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761012.11": {
+      "court": "CASS",
+      "date": "1976-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation (3). (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de Regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat (3). ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760511.4": {
+      "court": "CASS",
+      "date": "1976-05-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi formé contre le mandat d'arrêt provisoire aux fins d'extradition. (Loi du 15 mars 1874, art. 5.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de voorziening tegen een voorlopig bevel tot aanhouding met het oog op uitlevering. ( Art. 5 wet van 15 maart 1874. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740423.4": {
+      "court": "CASS",
+      "date": "1974-04-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation d'une cour d'appel, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies door de kamer van inbeschuldigingstelling van een hof van beroep inzake uitlevering gegeven is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740122.10": {
+      "court": "CASS",
+      "date": "1974-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/01/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'avis donné au gouvernement par la chambre des mises en accusation, en matière d'extradition, ne présente pas le caractère d'une décision pouvant donner ouverture à cassation. (Loi du 15 mars 1874, art. 3; Code judic., art. 609.)"
+      ],
+      "abstractNL": [
+        "Het advies, door de kamer van inbeschuldigingstelling aan de Regering gegeven inzake uitlevering, is geen beslissing waartegen cassatieberoep openstaat. ( Art. 3 wet van 15 maart 1874; art. 609 G.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721024.13": {
+      "court": "CASS",
+      "date": "1972-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Ne peut être proposé pour la première fois devant la Cour le moyen dirigé contre un arrêt de la chambre des mises en accusation rejetant une demande de mise en liberté provisoire d'un étranger arrêté en vue de son extradition et alléguant que certaines pièces n'étaient pas jointes au dossier."
+      ],
+      "abstractNL": [
+        "Het middel hieruit afgeleid dat de kamer van inbeschuldigingstelling een verzoek tot voorlopige invrijheidstelling van een aangehouden vreemdeling met het oog op zijn uitlevering afgewezen heeft, en dat voorhoudt dat bepaalde stukken niet bij het dossier werden gevoegd, kan niet voor het eerst voor het Hof worden voorgedragen."
       ]
     }
   },

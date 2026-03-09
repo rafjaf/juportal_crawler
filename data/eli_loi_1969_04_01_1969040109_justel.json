@@ -1,4 +1,34 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1984:ARR.19840416.6": {
+      "court": "CASS",
+      "date": "1984-04-16",
+      "roleNumber": "6848",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/04/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, alinéa 2, alinéa 2, de la loi du 1er avril 1969, qui prévoit que, pour bénéficier du revenu minimum garanti aux personnes âgées, la personne qui n'a pas la nationalité belge doit avoir résidé effectivement en Belgique pendant au moins les cinq dernières années qui précèdent la date à laquelle s'ouvre le droit au revenu garanti, n'est pas applicable à la personne bénéficiant du Statut des réfugiés. ( Loi du 1er avril 1969 instituant le revenu garanti aux personnes âgées, art. 1er, alinéa 2, al. 2; Convention internationale relative au Statut des réfugiés, signée à Genève le 28 juillet 1951 et approuvée par l'acte du Pouvoir législatif du 26 juin 1953, art. 23. )"
+      ],
+      "abstractNL": [
+        "Art. 1, alinéa 2, tweede lid, wet van 1 april 1969, dat bepaalt: \" om het gewaarborgd minimuminkomen voor bejaarden te kunnen genieten, moet hij die geen Belg is gedurende ten minste vijf jaar vóór de datum waarop het recht op het gewaarborgd inkomen geopend wordt, werkelijk in België hebben verbleven \", is niet toepasselijk op degene die in het genot is van de status van vluchteling. ( Art. 1.2, tweede lid, wet van 1 april 1969 tot instelling van een gewaarborgd inkomen voor bejaarden; art. 23 Internationaal Verdrag betreffende de status van vluchtelingen, ondertekend te Genève op 28 juli 1951 en goedgekeurd bij de wet van 26 juni 1953. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751121.3": {
+      "court": "CASS",
+      "date": "1975-11-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/11/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dans les relations entre commerçants agissant dans l'exercice de leur commerce, ceux-ci ne peuvent refuser les payements ou versements d'au moins dix mille francs effectués par chèque ou par virement sur un compte ouvert auprès de l'Office des chèques postaux, d'une banque établie en Belgique ou d'une institution assimilée. (Arr. roy. n. 56 du 10 novembre 1967 favorisant l'usage de la monnaie scripturale, art. 3, et loi du 1er avril 1969, art. 1er.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "In de betrekkingen tussen handelaars optredend naar aanleiding van de uitoefening van hun handel, mogen die personen de betalingen of stortingen van ten minste vijftigduizend frank niet weigeren, die uitgevoerd worden door middel van een overschrijving op een rekening bij de Dienst der Postcheques of bij een in België gevestigde bankinstelling of een daarmee gelijkgestelde instelling. ( Art. 3. K.B. nr. 56 van 10 november 1969 tot bevordering van het gebruik van giraal geld, en art. 1 wet van 1 april 1969. ) ( Impliciete oplossing. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1984:ARR.19840416.4": {
       "court": "CASS",

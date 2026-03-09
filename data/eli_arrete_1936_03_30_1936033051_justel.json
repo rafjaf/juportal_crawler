@@ -15,6 +15,82 @@
       ]
     }
   },
+  "3": {
+    "ECLI:BE:CASS:2006:ARR.20060201.3": {
+      "court": "CASS",
+      "date": "2006-02-01",
+      "roleNumber": "P051427F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En règle, l'appel d'un jugement du tribunal de police doit être formé par la partie condamnée par défaut, quinze jours au plus tard après celui de la signification qui lui en aura été faite ou à son domicile; ce délai est toutefois augmenté, pour les personnes n'ayant ni domicile, ni résidence, ni domicile élu connus en Belgique, du délai que l'article 55 du Code judiciaire fixe (1). (1) Cass., 17 décembre 2002, R.W., 2003-2004, p. 1102 et la note de S. VAN OVERBEKE."
+      ],
+      "abstractNL": [
+        "In de regel moet het hoger beroep tegen een vonnis van de politierechtbank door de partij die bij verstek is veroordeeld, uiterlijk vijftien dagen na de dag van de betekening ervan aan zijn woonplaats, worden ingesteld; die termijn wordt evenwel verlengd, voor de personen zonder gekende woonplaats, verblijfplaats of gekozen woonplaats in België met de termijn die art. 55 Ger.W. bepaalt (1). (1) Cass., 17 dec. 2002, R.W., 2003-2004, p. 1102 en de noot van S. VAN OVERBEKE."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030128.8": {
+      "court": "CASS",
+      "date": "2003-01-28",
+      "roleNumber": "P020431N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/01/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ni l'article 203, ,§ 1er, du Code d'instruction criminelle ni aucune autre loi ne prévoit que le délai dont dispose la partie à l'égard de laquelle le jugement a été rendu contradictoirement dans un procès pénal pour interjeter appel, doit être augmenté dès lors que cette partie n'a ni domicile ni résidence ni domicile élu en Belgique, de sorte qu'aucune augmentation de ce délai d'appel ne peut être accordée, conformément à l'article 55 du Code judiciaire (1). (1) Cass. 10 octobre 2001, RG P.01.1020.N, n° 541."
+      ],
+      "abstractNL": [
+        "Noch artikel 203, ,§ 1, Wetboek van Strafvordering, noch enige andere wet bepaalt dat de termijn waarover de op tegenspraak gevonniste partij in een strafproces beschikt om hoger beroep in te stellen, dient verlengd te worden omdat deze partij in België noch woonplaats, noch verblijfplaats, noch gekozen woonplaats heeft, zodat voor dit hoger beroep geen termijnverlenging overeenkomstig artikel 55 Gerechtelijk Wetboek is toegestaan (1). (1) Cass., 10 okt. 2001, A.R. P.01.1020.F, nr. 541."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1971:ARR.19710222.5": {
+      "court": "CASS",
+      "date": "1971-02-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le demandeur en cassation n'est pas recevable à alléguer pour la première fois devant la Cour que sa défense devant le juge du fond a été entravée du fait de l'absence aux débats, due à l'irrégularité de la citation, d'une des parties en cause."
+      ],
+      "abstractNL": [
+        "De eiser tot cassatie is niet ontvankelijk om voor het eerst voor het Hof aan te voeren dat zijn rechten van de verdediging voor de feitenrechter zijn geschonden wegens de afwezigheid op de debatten, ten gevolge van de onregelmatigheid van de dagvaarding, van een der partijen in het geding."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1966:ARR.19660205.3": {
+      "court": "CASS",
+      "date": "1966-02-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La déchéance prévue par l'alinéa 5 de l'article 82bis du Code de procédure civile, aux termes duquel l'acte d'appel dirigé contre un jugement prononcé par un juge de paix est de nul effet, si la partie appelante n'a pas introduit la cause pour l'audience indiquée dans l'acte d'appel, n'a été instituée que dans le but d'éviter tout retard dans le jugement de l'appel et de mettre ainsi un terme aux appels dilatoires; elle n'est pas encourue lorsque la cause a été introduite à la date qui, après rectification de la mention erronée, indiquée dans l'acte d'appel par suite d'une erreur matérielle, est la date de comparution visée par l'acte d'appel. (Code de proc. civ., art. 82bis, al. 5; arr. roy. n° 300 du 30 mars 1936, art. 5.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1967:ARR.19671024.1": {
+      "court": "CASS",
+      "date": "1967-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/10/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'irrégularité qui résulterait de ce que la requête en cassation, en matière d'impôts directs, a été signifiée à une société civile sous forme de société anonyme, en liquidation, non au siège social, mais en la personne et au domicile de l'un de ses liquidateurs, n'entraîne la nullité du pourvoi que s'il est justifié que cette irrégularité a nui aux intérêts de la société défenderesse. (Code de proc. civ., art. 69 et 173; arrêté royal n° 300 du 30 mars 1936, art. 3 et 10; Code des impôts sur les revenus, art. 289)."
+      ],
+      "abstractNL": [
+        "De onregelmatigheid die zou voortvloeien uit de omstandigheid dat het cassatieverzoekschrift inzake directe belastingen is betekend aan een burgerlijke vennootschap in de vorm van een naamloze vennootschap, in vereffening, niet aan de maatschappelijke zetel doch aan de persoon en aan de woonplaats van een van de vereffenaars ervan brengt enkel dan de nietigheid van de voorziening mede als het blijkt dat deze onregelmatigheid de belangen van de verwerende vennootschap heeft geschaad. ( Wetboek van burgerlijke rechtsvordering, art. 69 en 173; koninklijk besluit nr. 300 van 30 maart 1936, art. 3 en 10; Wetboek van de Inkomstenbelastingen, art. 289. )"
+      ]
+    }
+  },
   "19": {
     "ECLI:BE:CASS:2015:ARR.20150925.3": {
       "court": "CASS",
@@ -60,6 +136,22 @@
       ],
       "abstractNL": [
         "Uit de samenhang van artikelen 19 en 21, II, van het Wetboek van Successierechten volgt dat de wederroepelijkheid van de titel van de schuldvordering geen oorzaak van waardevermindering ervan is (1). (1) Zie concl. OM in Pas. 2015, nr. ***."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1969:ARR.19690109.3": {
+      "court": "CASS",
+      "date": "1969-01-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/01/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La cour a, pour l'appréciation d'un pourvoi en matière civile, le pouvoir de rectifier une erreur matérielle commise dans la requête en cassation et apparaissant à l'évidence du contexte de celle-ci."
+      ],
+      "abstractNL": [
+        "Het Hof is bevoegd om, voor de beoordeling van een voorziening in burgerlijke zaken, een verschrijving in het cassatieverzoekschrift, die duidelijk blijkt uit de context ervan, te verbeteren."
       ]
     }
   },
@@ -124,6 +216,50 @@
       ],
       "abstractNL": [
         "De afwijking van artikel 1080 van het Gerechtelijk Wetboek, waarin artikel 142-4 van het Wetboek van Successierechten voorziet, is slechts van toepassing op het cassatieberoep tegen de in artikel 142-1 van dat wetboek bedoelde beslissingen over vervolgingen en gedingen die door de administratie of de belastingplichtige worden ingesteld om de betaling of de teruggaaf van rechten, interesten en boeten te verkrijgen; de toepassing ervan veronderstelt dat de voornoemde vervolgingen en gedingen ingesteld werden in de vorm van een gedinginleidende vordering en niet in die van een tussenvordering."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011010.13": {
+      "court": "CASS",
+      "date": "2001-10-10",
+      "roleNumber": "P011020F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de quinze jours dans lequel l'appel interjeté contre un jugement rendu contradictoirement doit être formé n'est pas augmenté à l'égard de la partie qui n'a ni domicile, ni résidence, ni domicile élu en Belgique (1)."
+      ],
+      "abstractNL": [
+        "De termijn van vijftien dagen waarbinnen het hoger beroep tegen een op tegenspraak gewezen vonnis moet worden ingesteld, wordt niet verlengd t.a.v. de partij die noch woonplaats, noch verblijfplaats, noch gekozen woonplaats in België heeft (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710222.5": {
+      "court": "CASS",
+      "date": "1971-02-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le demandeur en cassation n'est pas recevable à alléguer pour la première fois devant la Cour que sa défense devant le juge du fond a été entravée du fait de l'absence aux débats, due à l'irrégularité de la citation, d'une des parties en cause."
+      ],
+      "abstractNL": [
+        "De eiser tot cassatie is niet ontvankelijk om voor het eerst voor het Hof aan te voeren dat zijn rechten van de verdediging voor de feitenrechter zijn geschonden wegens de afwezigheid op de debatten, ten gevolge van de onregelmatigheid van de dagvaarding, van een der partijen in het geding."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670105.3": {
+      "court": "CASS",
+      "date": "1967-01-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 94 de la loi du 27 ventôse an VIII, en vertu duquel les avoués près le tribunal de première instance \" ont exclusivement le droit de postuler et de prendre des conclusions \" devant ce tribunal siégeant en matière civile, est une disposition d'ordre public. (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Het artikel 94 van de wet van 27 ventôse jaar VIII, krachtens hetwelk de pleitbezorgers bij de rechtbank van eerste aanleg \" uitsluitend het recht hebben te postuleren en conclusies te nemen \" vóór die rechtbank rechtdoende in burgerlijke zaken, is een bepaling van openbare orde. (Impliciete oplossing.)"
       ]
     }
   }

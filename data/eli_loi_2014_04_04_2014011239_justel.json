@@ -835,6 +835,22 @@
       ]
     }
   },
+  "301": {
+    "ECLI:BE:CASS:2006:ARR.20060526.3": {
+      "court": "CASS",
+      "date": "2006-05-26",
+      "roleNumber": "C050090F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/05/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi d'une demande en révision d'une pension après divorce, suite à une modification sensible de la situation du bénéficiaire, doit tenir compte de la modification des ressources du créancier entre le prononcé du divorce et le jugement sur la pension, même s'il ne s'agit pas d'une modification importante ou sensible."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter uitspraak moet doen over een vordering tot herziening van een uitkering na echtscheiding wegens een ingrijpende wijziging in de toestand van de uitkeringsgerechtigde echtgenoot, moet hij rekening houden met de wijziging die zich in de bestaansmiddelen van de uitkeringsgerechtigde heeft voorgedaan tussen de uitspraak van de echtscheiding en het over de uitkering gewezen vonnis, ook al betreft het geen aanzienlijke of ingrijpende wijziging."
+      ]
+    }
+  },
   "347": {
     "ECLI:BE:CASS:2014:ARR.20141118.6": {
       "court": "CASS",

@@ -1,4 +1,20 @@
 {
+  "66": {
+    "ECLI:BE:CASS:1980:ARR.19800508.2": {
+      "court": "CASS",
+      "date": "1980-05-08",
+      "roleNumber": "6036",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement la condamnation d'une partie sur la base de l'article 1382 du Code civil l'arrêt qui, si, d'une part, il impute une faute aux préposés de cette partie pour n'avoir pas, à l'occasion de la réparation ou de la transformation de raccordements, constaté l'état défectueux des dérivations desservant les installations de gaz particulières des usagers, d'autre part, précise aussi les éléments sur lesquels il fonde la responsabilité personnelle de cette partie en raison d'une faute commise par elle et en relation de causalité avec le dommage pour n'avoir pas respecté les mesures de sécurité s'imposant lors de l'établissement et de l'exploitation de transports de gaz. ( Code civil, art. 1382, 1383, 1384, alinéas 1er et 3; arrêté royal du 11 mars 1966, articles 47.a, 63 et 66. )"
+      ],
+      "abstractNL": [
+        "De veroordeling van een partij op grond van art. 1382 B.W. wordt naar recht verantwoord door het arrest dat, enerzijds, aan de aangestelde van die partij een fout verwijt omdat hij bij de herstelling of verandering van aansluitingen een bestaand defect niet heeft vastgesteld aan de nevenleidingen die het gas naar de privé-installaties van de gebruikers voeren en, anderzijds, ook de gegevens nader aangeeft waarop het de persoonlijke aansprakelijkheid van die partij laat steunen wegens haar eigen fout, t.w. het niet-naleven van de veiligheidsmaatregelen voorgeschreven bij de oprichting en de exploitatie van installaties voor gasvervoer, welke fout met de schade een oorzakelijk verband vertoont <1>. (Artt. 1382, 1383, 1384, eerste en tweede lid, B.W.; artt. 47a, 63 en 66 K.B. van 11 maart 1966.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:2012:ARR.20121114.10": {
       "court": "CASS",

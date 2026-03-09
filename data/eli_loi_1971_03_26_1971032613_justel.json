@@ -1,4 +1,20 @@
 {
+  "1154": {
+    "ECLI:BE:CASS:2005:ARR.20051013.34": {
+      "court": "CASS",
+      "date": "2005-10-13",
+      "roleNumber": "C040442N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Pour que des intérêts produisent des intérêts à partir du moment où leur capitalisation est demandée par sommation judiciaire, il ne suffit pas que des intérêts judiciaires soient également demandés, mais il est requis que la sommation indique une demande d'intérêts sur intérêts ou de capitalisation des intérêts (1). (1) Voir Cass., 5 février 1998, RG C.94.0342.N, n° 74."
+      ],
+      "abstractNL": [
+        "Opdat interest interest zou opbrengen vanaf het ogenblik dat de kapitalisatie ervan in een gerechtelijke aanmaning wordt gevorderd volstaat niet dat ook gerechtelijke interest wordt gevorderd, maar is vereist dat de aanmaning aangeeft dat interest op interest of kapitalisatie van interest wordt gevorderd (1). (1) Zie Cass., 5 feb. 1998, AR C.94.0342.N, nr 74."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1989:ARR.19891010.8": {
       "court": "CASS",
@@ -12,6 +28,110 @@
       ],
       "abstractNL": [
         "Strafbaarheid voor een misdrijf vereist de wetenschap dat dit misdrijf wordt gepleegd. De vaststelling dat de waterlozing niet accidenteel was, dat de bedrijfsleider bevoegd was om de nodige vergunningen aan te vragen en dat hij de onwettelijke toestand kon doen ophouden, volstaat niet om te beslissen dat de bedrijfsleider kennis had van het bestaan van de waterlozing."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960201.7": {
+      "court": "CASS",
+      "date": "1996-02-01",
+      "roleNumber": "C940060N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/02/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les contributions des entreprises déversant leurs eaux résiduaires soit dans un égout public, soit dans un collecteur de la société, sont fixées en fonction des déversements effectués par les entreprises au cours de l'exercice mais calculées en fonction des données de l'exercice précédent : cette règle ne donne pas lieu à exception lorsque l'entreprise ayant repris le fonds de commerce d'une autre entreprise effectue les mêmes déversements que son cédant."
+      ],
+      "abstractNL": [
+        "De bijdragen van de ondernemingen die hun afvalwater in een openbaar riool of in een moerriool van het bedrijf lozen, zijn verschuldigd op grond van de lozingen door deze ondernemingen verricht in het begrotingsjaar, maar worden berekend op grond van de gegevens van het vorige jaar; die regel kent geen uitzondering als een onderneming de handelszaak van een andere onderneming heeft overgenomen en dezelfde lozingen doet als de overdrager van de handelszaak."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891115.9": {
+      "court": "CASS",
+      "date": "1989-11-15",
+      "roleNumber": "7598",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/15/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "En établissant une peine pour le déversement d'eaux usées dans les eaux de surface ou dans les égouts publics sans respecter les conditions d'autorisation imposées, la loi a entendu réprimer non seulement la pollution directe mais aussi celle qui résulte du fait que des matières solides ou liquides, quel que soit l'endroit où elles sont déposées, soient entraînées dans les eaux visées par un phénomène naturel, tel que l'évacuation par mélange avec d'autres eaux. ( Loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution, articles 1er, 2, 5 et 41. )"
+      ],
+      "abstractNL": [
+        "De wet heeft, door het lozen van afvalwater in oppervlaktewateren of in openbare riolen, zonder naleving van de opgelegde vergunningsvoorwaarden, strafbaar te stellen, niet alleen de onmiddellijke verontreiniging ervan willen beteugelen maar ook de verontreiniging die het gevolg is van het feit dat stoffen of vloeistoffen, waar ook gedeponeerd, in de bedoelde wateren terechtkomen door een natuurlijk verschijnsel, zoals de afvoer door vermenging met andere wateren. ( Artt. 1, 2, 5 en 41 Wet 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800129.1": {
+      "court": "CASS",
+      "date": "1980-01-29",
+      "roleNumber": "6036",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/01/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En établissant une peine pour le déversement d'eaux usées dans les eaux de surface ou dans les égouts publics sans respecter les conditions d'autorisation imposées, la loi a entendu réprimer non seulement la pollution directe mais aussi celle qui résulte du fait que des matières solides ou des liquides, quel que soit l'endroit où ils sont versés, sont entraînés dans les eaux visées par un phénomène naturel, tel que l'évacuation par mélange avec d'autres eaux. ( Loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution, art. 1er, 2, 5 et 41. )"
+      ],
+      "abstractNL": [
+        "De wet heeft, door het lozen van afvalwater in oppervlaktewateren of in openbare riolen, zonder naleving van de opgelegde vergunningsvoorwaarden strafbaar te stellen, niet alleen de onmiddellijke verontreiniging ervan willen beteugelen maar ook de verontreiniging ervan die het gevolg is van het feit dat de stoffen of vloeistoffen, waar ook gedeponeerd, in de bedoelde wateren terechtkomen door een natuurlijk verschijnsel, zoals de afvoer door vermenging met andere wateren. ( Artt. 1, 2, 5 en 41 wet 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging. )"
+      ]
+    }
+  },
+  "35ter": {
+    "ECLI:BE:CASS:2008:ARR.20080214.9": {
+      "court": "CASS",
+      "date": "2008-02-14",
+      "roleNumber": "F.05.0054.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/14/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La charge polluante des eaux de surface déversées est diminuée par la charge polluante des eaux de surface utilisées au profit du redevable qui, dans son processus de production prélève de l'eau dans des eaux de surface déterminées pour ensuite la déverser dans ces mêmes eaux de surface, par le motif que le redevable se borne ainsi à déverser à nouveau la pollution déjà existante dans les eaux de surface; ce n'est pas la charge polluante totale de l'eau prélevée (NO) qui peut être déduite de la charge polluante totale de l'eau déversée (N), mais seules les charges polluantes partielles des eaux de surface prélevées peuvent être déduites des charges polluantes partielles correspondantes des eaux usées déversées (N1, N2 et N3); lorsque la différence entre la charge polluante partielle des eaux usées déversées et la charge polluante partielle correspondante des eaux de surface prélevées produit une valeur négative, de sorte que de l'eau déversée est plus pure que l'eau prélevée, il y a lieu de tenir compte de la valeur zéro pour la charge polluante en question. Lorsque le redevable déverse les eaux usées à plusieurs points de rejet, les déductions des charges polluantes déjà existantes sont effectuées pour chaque point de rejet, ce qui implique que les redevables ne peuvent regrouper les données de mesure et d'échantillonnage des points de rejet des eaux usées industrielles d'une même activité de production ou de différentes activités de production pour calculer la charge polluante après déduction; cela a pour conséquence que les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3,O, pour un point de rejet déterminé doivent être assimilées à zéro et ne peuvent être compensées avec les valeurs positives correspondantes d'un autre point de rejet; la notion de \"point de rejet\" se réfère au lieu physique où les aux usées sont mélangées aux eaux de surface. Lorsque plusieurs courants partiels d'eaux usées industrielles qui sont reliés à différentes activités de production du redevable, sont déversés à un point de rejet commun, le calcul de la charge polluante après déduction est effectué conformément à la disposition de l'article 35sexies, §§ 1er et 2, alinéa 1er, de la loi du 26 mars 1971; si les données de mesure et d'échantillonnage ont été recueillies séparément par courants partiels au niveau d'un contrôle installé à un point de rejet commun, il faut lors du calcul de la charge polluante après déduction, procéder à l'addition par charge polluante partielle des résultats correspondants à chaque courant partiel; les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3/O, qui sont mesurées pour la charge polluante partielle d'un courant partiel déterminé, ne doivent pas être assimilées à zéro dès lors qu'aucune disposition n'empêche qu'elles soient compensées avec les valeurs positives des charges polluantes partielles correspondantes d'un autre courant partiel."
+      ],
+      "abstractNL": [
+        "Ten bate van de heffingsplichtige die voor zijn productieproces water opneemt uit een bepaald oppervlaktewater en het nadien terugloost in datzelfde oppervlaktewater, wordt de vuilvracht van het geloosde afvalwater verminderd met de vuilvracht van het gebruikte oppervlaktewater om reden dat de heffingsplichtige de alsdan reeds aanwezige vervuiling in het oppervlaktewater louter terugstort; niet de totale vuilvracht van het opgenomen water (NO) kan in mindering worden gebracht van de totale vuilvracht van het geloosde water (N), maar alleen de verschillende deelvuilvrachten van het opgenomen oppervlaktewater kunnen in mindering gebracht worden van de overeenstemmende deelvuilvrachten van het geloosde afvalwater (N1, N2 en N3); wanneer het verschil tussen de deelvuilvracht van het geloosde afvalwater en de overeenstemmende deelvuilvracht van het opgenomen oppervlaktewater een negatieve waarde geeft, zodat derhalve zuiverder water wordt geloosd dan opgenomen, moet voor de desbetreffende vuilvracht de waarde nul in aanmerking worden genomen. Indien de heffingsplichtige het afvalwater loost langs meerdere lozingspunten, wordt het in mindering brengen van de reeds aanwezige vuilvracht uitgevoerd per lozingspunt, hetgeen impliceert dat de heffingsplichtigen de meet- en bemonsteringsresultaten van de lozingspunten van het (bedrijfs)afvalwater van eenzelfde productieactiviteit of van verschillende productieactiviteiten niet mogen samenvoegen voor de berekening van de vuilvracht na vermindering; dit heeft voor gevolg dat de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O voor een bepaald lozingspunt dienen gelijk gesteld te worden met nul en niet kunnen verrekend worden met de overeenstemmende positieve waarden van een ander lozingspunt; het begrip \"lozingspunt\" verwijst daarbij naar de fysieke plaats waar afvalwater in het oppervlaktewater wordt gebracht. Wanneer meerdere deelstromen van bedrijfsafvalwater, die verbonden zijn aan verschillende productieactiviteiten van de heffingsplichtige, via een gemeenschappelijk lozingspunt worden geloosd, wordt de berekening van de vuilvracht na vermindering uitgevoerd volgens het bepaalde in artikel 35sexies, §1 en §2, eerste lid, van de Oppervlaktewaterenwet; indien de meting en bemonstering afzonderlijk zijn gebeurd per deelstroom aan een controle-inrichting voor het gemeenschappelijk lozingspunt, moet bij de berekening van de vuilvracht na vermindering worden overgegaan tot het optellen per deelvuilvracht van de overeenstemmende resultaten verbonden aan elke deelstroom; daarbij dienen de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O die gemeten zijn voor de deelvuilvracht van een bepaalde deelstroom, niet gelijkgesteld te worden met nul nu geen enkele bepaling belet dat zij verrekend worden met positieve waarden van de overeenstemmende deelvuilvracht van een andere deelstroom."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20051013.33": {
+      "court": "CASS",
+      "date": "2005-10-13",
+      "roleNumber": "F030066N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la méthode de calcul indiquée à l'article 35quinquies, ,§ 1er, de la loi sur la protection des eaux de surface contre la pollution, la preuve du volume et de la composition de la charge polluante des eaux usées déversées peut uniquement être apportée par les résultats de mesure et d'échantillonnage légalement prescrits obtenus par la procédure légalement prescrite d'échantillonnage dans l'année précédant l'année d'imposition, et non au moyen de présomptions déduites de résultats de mesure et d'échantillonnage obtenues dans une année différente de l'année précédant l'année d'imposition."
+      ],
+      "abstractNL": [
+        "Het bewijs van het volume en de samenstelling van de vuilvracht van het geloosde afvalwater kan voor de toepassing van de in artikel 35quinquies, ,§ 1, van de Wet Verontreiniging Oppervlaktewateren aangegeven berekeningsmethode enkel geleverd worden door de wettelijk voorgeschreven meet- en bemonsteringsresultaten verkregen via de wettelijk voorgeschreven procedure van monsterneming in het jaar voorafgaand aan het heffingsjaar, en niet door middel van vermoedens afgeleid uit meet- en bemonsteringsresultaten verkregen in een ander jaar dan het jaar voorafgaand aan het heffingsjaar."
+      ]
+    }
+  },
+  "35quinquies": {
+    "ECLI:BE:CASS:2008:ARR.20080214.9": {
+      "court": "CASS",
+      "date": "2008-02-14",
+      "roleNumber": "F.05.0054.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/14/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La charge polluante des eaux de surface déversées est diminuée par la charge polluante des eaux de surface utilisées au profit du redevable qui, dans son processus de production prélève de l'eau dans des eaux de surface déterminées pour ensuite la déverser dans ces mêmes eaux de surface, par le motif que le redevable se borne ainsi à déverser à nouveau la pollution déjà existante dans les eaux de surface; ce n'est pas la charge polluante totale de l'eau prélevée (NO) qui peut être déduite de la charge polluante totale de l'eau déversée (N), mais seules les charges polluantes partielles des eaux de surface prélevées peuvent être déduites des charges polluantes partielles correspondantes des eaux usées déversées (N1, N2 et N3); lorsque la différence entre la charge polluante partielle des eaux usées déversées et la charge polluante partielle correspondante des eaux de surface prélevées produit une valeur négative, de sorte que de l'eau déversée est plus pure que l'eau prélevée, il y a lieu de tenir compte de la valeur zéro pour la charge polluante en question. Lorsque le redevable déverse les eaux usées à plusieurs points de rejet, les déductions des charges polluantes déjà existantes sont effectuées pour chaque point de rejet, ce qui implique que les redevables ne peuvent regrouper les données de mesure et d'échantillonnage des points de rejet des eaux usées industrielles d'une même activité de production ou de différentes activités de production pour calculer la charge polluante après déduction; cela a pour conséquence que les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3,O, pour un point de rejet déterminé doivent être assimilées à zéro et ne peuvent être compensées avec les valeurs positives correspondantes d'un autre point de rejet; la notion de \"point de rejet\" se réfère au lieu physique où les aux usées sont mélangées aux eaux de surface. Lorsque plusieurs courants partiels d'eaux usées industrielles qui sont reliés à différentes activités de production du redevable, sont déversés à un point de rejet commun, le calcul de la charge polluante après déduction est effectué conformément à la disposition de l'article 35sexies, §§ 1er et 2, alinéa 1er, de la loi du 26 mars 1971; si les données de mesure et d'échantillonnage ont été recueillies séparément par courants partiels au niveau d'un contrôle installé à un point de rejet commun, il faut lors du calcul de la charge polluante après déduction, procéder à l'addition par charge polluante partielle des résultats correspondants à chaque courant partiel; les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3/O, qui sont mesurées pour la charge polluante partielle d'un courant partiel déterminé, ne doivent pas être assimilées à zéro dès lors qu'aucune disposition n'empêche qu'elles soient compensées avec les valeurs positives des charges polluantes partielles correspondantes d'un autre courant partiel."
+      ],
+      "abstractNL": [
+        "Ten bate van de heffingsplichtige die voor zijn productieproces water opneemt uit een bepaald oppervlaktewater en het nadien terugloost in datzelfde oppervlaktewater, wordt de vuilvracht van het geloosde afvalwater verminderd met de vuilvracht van het gebruikte oppervlaktewater om reden dat de heffingsplichtige de alsdan reeds aanwezige vervuiling in het oppervlaktewater louter terugstort; niet de totale vuilvracht van het opgenomen water (NO) kan in mindering worden gebracht van de totale vuilvracht van het geloosde water (N), maar alleen de verschillende deelvuilvrachten van het opgenomen oppervlaktewater kunnen in mindering gebracht worden van de overeenstemmende deelvuilvrachten van het geloosde afvalwater (N1, N2 en N3); wanneer het verschil tussen de deelvuilvracht van het geloosde afvalwater en de overeenstemmende deelvuilvracht van het opgenomen oppervlaktewater een negatieve waarde geeft, zodat derhalve zuiverder water wordt geloosd dan opgenomen, moet voor de desbetreffende vuilvracht de waarde nul in aanmerking worden genomen. Indien de heffingsplichtige het afvalwater loost langs meerdere lozingspunten, wordt het in mindering brengen van de reeds aanwezige vuilvracht uitgevoerd per lozingspunt, hetgeen impliceert dat de heffingsplichtigen de meet- en bemonsteringsresultaten van de lozingspunten van het (bedrijfs)afvalwater van eenzelfde productieactiviteit of van verschillende productieactiviteiten niet mogen samenvoegen voor de berekening van de vuilvracht na vermindering; dit heeft voor gevolg dat de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O voor een bepaald lozingspunt dienen gelijk gesteld te worden met nul en niet kunnen verrekend worden met de overeenstemmende positieve waarden van een ander lozingspunt; het begrip \"lozingspunt\" verwijst daarbij naar de fysieke plaats waar afvalwater in het oppervlaktewater wordt gebracht. Wanneer meerdere deelstromen van bedrijfsafvalwater, die verbonden zijn aan verschillende productieactiviteiten van de heffingsplichtige, via een gemeenschappelijk lozingspunt worden geloosd, wordt de berekening van de vuilvracht na vermindering uitgevoerd volgens het bepaalde in artikel 35sexies, §1 en §2, eerste lid, van de Oppervlaktewaterenwet; indien de meting en bemonstering afzonderlijk zijn gebeurd per deelstroom aan een controle-inrichting voor het gemeenschappelijk lozingspunt, moet bij de berekening van de vuilvracht na vermindering worden overgegaan tot het optellen per deelvuilvracht van de overeenstemmende resultaten verbonden aan elke deelstroom; daarbij dienen de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O die gemeten zijn voor de deelvuilvracht van een bepaalde deelstroom, niet gelijkgesteld te worden met nul nu geen enkele bepaling belet dat zij verrekend worden met positieve waarden van de overeenstemmende deelvuilvracht van een andere deelstroom."
+      ]
+    }
+  },
+  "35sexies": {
+    "ECLI:BE:CASS:2008:ARR.20080214.9": {
+      "court": "CASS",
+      "date": "2008-02-14",
+      "roleNumber": "F.05.0054.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/14/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La charge polluante des eaux de surface déversées est diminuée par la charge polluante des eaux de surface utilisées au profit du redevable qui, dans son processus de production prélève de l'eau dans des eaux de surface déterminées pour ensuite la déverser dans ces mêmes eaux de surface, par le motif que le redevable se borne ainsi à déverser à nouveau la pollution déjà existante dans les eaux de surface; ce n'est pas la charge polluante totale de l'eau prélevée (NO) qui peut être déduite de la charge polluante totale de l'eau déversée (N), mais seules les charges polluantes partielles des eaux de surface prélevées peuvent être déduites des charges polluantes partielles correspondantes des eaux usées déversées (N1, N2 et N3); lorsque la différence entre la charge polluante partielle des eaux usées déversées et la charge polluante partielle correspondante des eaux de surface prélevées produit une valeur négative, de sorte que de l'eau déversée est plus pure que l'eau prélevée, il y a lieu de tenir compte de la valeur zéro pour la charge polluante en question. Lorsque le redevable déverse les eaux usées à plusieurs points de rejet, les déductions des charges polluantes déjà existantes sont effectuées pour chaque point de rejet, ce qui implique que les redevables ne peuvent regrouper les données de mesure et d'échantillonnage des points de rejet des eaux usées industrielles d'une même activité de production ou de différentes activités de production pour calculer la charge polluante après déduction; cela a pour conséquence que les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3,O, pour un point de rejet déterminé doivent être assimilées à zéro et ne peuvent être compensées avec les valeurs positives correspondantes d'un autre point de rejet; la notion de \"point de rejet\" se réfère au lieu physique où les aux usées sont mélangées aux eaux de surface. Lorsque plusieurs courants partiels d'eaux usées industrielles qui sont reliés à différentes activités de production du redevable, sont déversés à un point de rejet commun, le calcul de la charge polluante après déduction est effectué conformément à la disposition de l'article 35sexies, §§ 1er et 2, alinéa 1er, de la loi du 26 mars 1971; si les données de mesure et d'échantillonnage ont été recueillies séparément par courants partiels au niveau d'un contrôle installé à un point de rejet commun, il faut lors du calcul de la charge polluante après déduction, procéder à l'addition par charge polluante partielle des résultats correspondants à chaque courant partiel; les valeurs éventuellement négatives N1/N1,O, N2/N2,O ou N3/N3/O, qui sont mesurées pour la charge polluante partielle d'un courant partiel déterminé, ne doivent pas être assimilées à zéro dès lors qu'aucune disposition n'empêche qu'elles soient compensées avec les valeurs positives des charges polluantes partielles correspondantes d'un autre courant partiel."
+      ],
+      "abstractNL": [
+        "Ten bate van de heffingsplichtige die voor zijn productieproces water opneemt uit een bepaald oppervlaktewater en het nadien terugloost in datzelfde oppervlaktewater, wordt de vuilvracht van het geloosde afvalwater verminderd met de vuilvracht van het gebruikte oppervlaktewater om reden dat de heffingsplichtige de alsdan reeds aanwezige vervuiling in het oppervlaktewater louter terugstort; niet de totale vuilvracht van het opgenomen water (NO) kan in mindering worden gebracht van de totale vuilvracht van het geloosde water (N), maar alleen de verschillende deelvuilvrachten van het opgenomen oppervlaktewater kunnen in mindering gebracht worden van de overeenstemmende deelvuilvrachten van het geloosde afvalwater (N1, N2 en N3); wanneer het verschil tussen de deelvuilvracht van het geloosde afvalwater en de overeenstemmende deelvuilvracht van het opgenomen oppervlaktewater een negatieve waarde geeft, zodat derhalve zuiverder water wordt geloosd dan opgenomen, moet voor de desbetreffende vuilvracht de waarde nul in aanmerking worden genomen. Indien de heffingsplichtige het afvalwater loost langs meerdere lozingspunten, wordt het in mindering brengen van de reeds aanwezige vuilvracht uitgevoerd per lozingspunt, hetgeen impliceert dat de heffingsplichtigen de meet- en bemonsteringsresultaten van de lozingspunten van het (bedrijfs)afvalwater van eenzelfde productieactiviteit of van verschillende productieactiviteiten niet mogen samenvoegen voor de berekening van de vuilvracht na vermindering; dit heeft voor gevolg dat de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O voor een bepaald lozingspunt dienen gelijk gesteld te worden met nul en niet kunnen verrekend worden met de overeenstemmende positieve waarden van een ander lozingspunt; het begrip \"lozingspunt\" verwijst daarbij naar de fysieke plaats waar afvalwater in het oppervlaktewater wordt gebracht. Wanneer meerdere deelstromen van bedrijfsafvalwater, die verbonden zijn aan verschillende productieactiviteiten van de heffingsplichtige, via een gemeenschappelijk lozingspunt worden geloosd, wordt de berekening van de vuilvracht na vermindering uitgevoerd volgens het bepaalde in artikel 35sexies, §1 en §2, eerste lid, van de Oppervlaktewaterenwet; indien de meting en bemonstering afzonderlijk zijn gebeurd per deelstroom aan een controle-inrichting voor het gemeenschappelijk lozingspunt, moet bij de berekening van de vuilvracht na vermindering worden overgegaan tot het optellen per deelvuilvracht van de overeenstemmende resultaten verbonden aan elke deelstroom; daarbij dienen de eventueel negatieve waarden N1/N1,O, N2/N2,O of N3/N3,O die gemeten zijn voor de deelvuilvracht van een bepaalde deelstroom, niet gelijkgesteld te worden met nul nu geen enkele bepaling belet dat zij verrekend worden met positieve waarden van de overeenstemmende deelvuilvracht van een andere deelstroom."
       ]
     }
   }

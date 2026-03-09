@@ -74,6 +74,22 @@
       ]
     }
   },
+  "9": {
+    "ECLI:BE:CASS:1992:ARR.19920213.7": {
+      "court": "CASS",
+      "date": "1992-02-13",
+      "roleNumber": "F1128F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'une société anonyme, résidente en Belgique, est débitrice du précompte professionnel afférent aux rémunérations versées à l'un de ses administrateurs, résident français, l'arrêt qui, sur la base de ses constatations en fait, considère que ladite société n'apporte pas la preuve que ce résident français \"touchait la rémunération en une autre qualité que celle d'administrateur\". ( Convention franco-belge du 10 mars 1964, art. 9, alinéa alinéa 1er et 2; loi du 14 avril 1965. )"
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de beslissing van de rechter dat een naamloze vennootschap, die in België verblijf houdt, bedrijfsvoorheffing is verschuldigd op de bezoldigingen die zij aan een van haar in Frankrijk verblijvende bestuurders heeft betaald, wanneer hij, op grond van zijn vaststellingen in feite overweegt dat de bedoelde vennootschap niet aantoont dat die Franse verblijfhouder \"de bezoldiging in een andere hoedanigheid dan die van bestuurder ontvangt\". ( Art. 9, alinéa 1 en alinéa 2 Overeenkomst tussen België en Frankrijk 10 maart 1964; wet van 14 april 1965. )"
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2020:ARR.20200917.1F.6": {
       "court": "CASS",
@@ -158,6 +174,34 @@
         "Lorsqu'ils ont considéré que face à un virus mortel qui était encore insuffisamment analysé au moment de l'interdiction de réunir et contre lequel il n'y avait pas encore de médicament ou de vaccination connus, des mesures devaient être prises le plus rapidement possible afin d'en limiter la propagation et que, dans ce contexte, les droits individuels ont été limités de manière légitime et proportionnée afin d'éviter non seulement que les individus ne soient exposés à un danger mortel mais, avant tout, que ceux-ci n'en contaminent d'autres, les juges d'appel ont effectué le contrôle de légitimité et de proportionnalité de l'interdiction de se réunir dont le non-respect constitue l'infraction visée à l'article 5 de l'arrêté ministériel du 23 mars 2020 portant des mesures d'urgence pour limiter la propagation du coronavirus Covid-19."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1995:ARR.19950119.10": {
+      "court": "CASS",
+      "date": "1995-01-19",
+      "roleNumber": "F940056F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les rémunérations que perçoivent des administrateurs de société en qualité de salariés sont imposables dans l'Etat sur le territoire duquel s'exerce l'activité personnelle source des revenus."
+      ],
+      "abstractNL": [
+        "De bezoldigingen die bestuurders van een vennootschap als loontrekkers ontvangen, zijn belastbaar in de Staat op het grondgebied waarvan de persoonlijke activiteit, die de bron van die inkomsten is, wordt uitgeoefend."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941027.5": {
+      "court": "CASS",
+      "date": "1994-10-27",
+      "roleNumber": "F940011F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/10/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne peuvent être imposées en Belgique les rémunérations perçues en France par un travailleur résidant en Belgique qui n'a pas justifié de sa qualité de travailleur frontalier par la production de la carte frontalière instituée par les conventions particulières intervenues entre la France et la Belgique."
+      ],
+      "abstractNL": [
+        "In België kan geen belasting worden geheven van de in Frankrijk door een in België verblijvende arbeider ontvangen bezoldigingen, wanneer deze zijn hoedanigheid van grensarbeider niet heeft aangetoond door het overleggen van de door de bijzondere overeenkomsten tussen België en Frankrijk ingevoerde grenskaart. (Art. 11 Overeenkomst tussen België en Frankrijk van 10 maart 1964)."
+      ]
     }
   },
   "15": {
@@ -206,6 +250,20 @@
         "L'article 19, A, § 1er, alinéa 2, de la Convention du 10 mars 1964 entre la Belgique et la France impose à la Belgique d'accorder à ses résidents fiscaux le droit d'imputer une quotité forfaitaire d'impôt étranger sur l'impôt belge, y compris lorsque ce dernier est perçu exclusivement par la voie du précompte mobilier, afférent à leurs dividendes d'origine française ayant subi un impôt à la source; par conséquent, il ne saurait être donné effet à une règle de droit interne belge qui priverait lesdits résidents de ce droit (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1979:ARR.19790221.1": {
+      "court": "CASS",
+      "date": "1979-02-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/02/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer si le précompte mobilier perçu en Belgique sur les dividendes mis en payement par une société belge et payés à un non-résident, excède la limite de 10 p.c. autorisée par l'article 15, par. 1er et 2, de la convention du 10 mars 1964, conclue entre la Belgique et la France, tendant à éviter les doubles impositions, convention approuvée par la loi du 14 avril 1965, ledit article 15, par. 1er, ayant été modifié par avenant du 15 février 1971, approuvé par la loi du 12 avril 1973,il faut prendre en considération les précomptes calculés sur le montant brut des dividendes, sans déduction des revenus déjà taxés."
+      ],
+      "abstractNL": [
+        "Om te berekenen of de roerende voorheffing, die in België wordt geheven op de door een Belgische vennootschap betaalde en aan een niet-verblijfhouder uitgekeerde dividenden, meer bedraagt dan 10 pct., wat is toegestaan bij art. 15, alinéa alinéa 1 en 2, van de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting, gesloten op 10 maart 1964 en goedgekeurd bij de wet van 14 april 1965, welk artikel 15 is gewijzigd op 15 februari 1971 door een avenant, die is goedgekeurd bij de wet van 12 april 1973, moet daarbij rekening worden gehouden met de voorheffing op het brutobedrag van de dividenden, zonder aftrek van de reeds belaste inkomsten <2>."
+      ]
     }
   },
   "19": {
@@ -304,6 +362,22 @@
       ]
     }
   },
+  "21": {
+    "ECLI:BE:CASS:2001:ARR.20010118.5": {
+      "court": "CASS",
+      "date": "2001-01-18",
+      "roleNumber": "C990313F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 21.2 de la Convention du 10 mars 1964 entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique en matière d'impôts sur les revenus, impose au juge d'appel de s'assurer de la production d'une copie officielle des titres sur la base desquels les poursuites ont été engagées et de vérifier si, comme le soutenait le demandeur, les titres étrangers ne sont pas privés d'effet en raison de la prescription selon la loi de l'Etat requérant et n'ont pas perdu leur caractère exécutoire (1)."
+      ],
+      "abstractNL": [
+        "Krachtens art. 21.2 overeenkomst 10 maart 1964 tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen is de appèlrechter verplicht zich ervan te vergewissen of er een officieel afschrift is overgelegd van de bescheiden op grond waarvan de vervolging is ingesteld en na te gaan of, zoals eiser aanvoerde, de buitenlandse bescheiden geen uitwerking meer hebben omdat ze volgens de voorschriften van de verzoekende Staat verjaard zijn en of ze hun executoir karakter niet verloren hebben (1)."
+      ]
+    }
+  },
   "22": {
     "ECLI:BE:CASS:2015:ARR.20150904.1": {
       "court": "CASS",
@@ -335,6 +409,20 @@
       ],
       "abstractNL": [
         "De akkoorden tussen de in artikel 24.2 van het Belgisch-Frans dubbelbelastingverdrag van 10 maart 1964 aangewezen autoriteiten die van zijn bepalingen afwijken of de toepassing ervan afhankelijk stellen van voorwaarden die niet daarin zijn bepaald, hebben geen verbindende kracht en mogen niet door de rechtbanken worden toegepast (1). (1) Zie concl. OM in Pas. 2020, nr. 552."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760318.1": {
+      "court": "CASS",
+      "date": "1976-03-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque des Français, professionnels des spectacles ou des sports, musiciens ou autres personnes qui se produisent en public, sont engagés et rémunérés par un employeur établi en Belgique, leurs rémunérations sont des revenus d'origine belge, imposables en Belgique. (Convention du 10 mars 1964 entre la Belgique et la France tendant à éviter les doubles impositions, approuvées par l'acte du pouvoir législatif du 14 avril 1965, art. 7, 11 et 24, par. 2.)"
+      ],
+      "abstractNL": [
+        "Wanneer Fransen die het schouwspel en de sport beroepshalve beoefenen, musici of andere personen die in het openbaar optreden door een in België gevestigde werkgever worden geëngageerd, zijn hun bezoldigingen inkomsten van Belgische oorsprong die in België belastbaar zijn. ( Overeenkomst van 10 maart 1964 tussen België en Frankrijk tot voorkoming van dubbele belasting, goedgekeurd bij handeling van de wetgevende macht van 14 april 1965, artt. 7, 11 en 24, par. 2. )"
       ]
     }
   },
@@ -403,6 +491,78 @@
       ],
       "abstractNL": [
         "Hoewel de verdragsluitende Staten kunnen beslissen, met wederzijds akkoord, om de regel van artikel 10.1 van de Overeenkomst van 10 maart 1964 toe te passen op publiekrechtelijke rechtspersonen die een nijverheids- of handelsactiviteit uitoefenen, is, bij ontstentenis van een dergelijk akkoord, artikel 10.1 van toepassing op de in artikel 10.2 opgesomde lichamen of instellingen die geen nijverheids- of handelsactiviteit uitoefenen (1). (1) Zie concl. OM in Pas. 2021, nr. 25."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940630.18": {
+      "court": "CASS",
+      "date": "1994-06-30",
+      "roleNumber": "F930077F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les revenus d'origine belge exonérés d'impôt en vertu de conventions internationales préventives de la double imposition doivent être pris en considération pour déterminer le taux de l'impôt afférent aux revenus imposables d'un non-résident. (CIR 1964, art. 87quater, 152, 1°)."
+      ],
+      "abstractNL": [
+        "De krachtens internationale overeenkomsten tot voorkoming van dubbele belasting vrijgestelde inkomsten van Belgische oorsprong worden in rekening gebracht voor het bepalen van het aanslagpercentage op de belastbare inkomsten van een niet-verblijfhouder. (Artt. 87quater, en 152, 1°, WIB 1964)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930527.8": {
+      "court": "CASS",
+      "date": "1993-05-27",
+      "roleNumber": "F1230F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 10.1 de la Convention du 10 mars 1964, conclue à Bruxelles entre la Belgique et la France tendant à éviter les doubles impositions, aux termes duquel les rémunérations allouées sous forme de traitements, salaires, appointements, soldes et pensions par l'un des Etats contractants ou par une personne morale de droit public de cet Etat ne se livrant pas à une activité industrielle ou commerciale sont imposables exclusivement dans ledit Etat, l'arrêt qui annule la cotisation établie, sur la base de cette disposition légale, à charge d'un redevable de nationalité belge résidant en France mais travaillant comme enseignant en Belgique dans l'enseignement libre subventionné aux seuls motifs que le débiteur des salaires n'est pas l'Etat belge mais le pouvoir organisateur de l'enseignement libre et que les services rendus par les enseignants de cet enseignement libre ne le sont pas dans l'exercice de fonctions à caractère public."
+      ],
+      "abstractNL": [
+        "Art. 10.1 van de te Brussel tussen België en Frankrijk gesloten Overeenkomst van 10 maart 1964 tot voorkoming van dubbele belasting, volgens hetwelk de bezoldigingen in de vorm van salarissen, lonen, wedden, soldijen en pensioenen toegekend door een van de verdragsluitende Staten of door een publiekrechtelijke rechtspersoon van deze Staat, die geen nijverheids- of handelsactiviteit uitoefent, uitsluitend in deze Staat belastbaar zijn, wordt geschonden door het arrest dat de, op grond van die wetsbepaling, vastgestelde aanslag ten name van een belastingplichtige van Belgische nationaliteit die in Frankrijk verblijft maar in België les geeft in het gesubsidieerd vrij onderwijs, tenietdoet alleen op grond dat niet de Belgische Staat maar de inrichtende macht van het vrij onderwijs de schuldenaar van de wedden is en dat de diensten van de leerkrachten van dat vrij onderwijs niet worden verstrekt in de uitoefening van functies van openbare aard."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700407.1": {
+      "court": "CASS",
+      "date": "1970-04-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de la loi du 14 avril 1965 portant approbation de la convention conclue le 10 mars 1964 entre la Belgique et la France tendant à éviter les doubles impositions en matière d'impôts sur les revenus confie au directeur des contributions le pouvoir de prononcer, soit d'office, soit ensuite d'une réclamation motivée, le dégrèvement des cotisations prévues dans ledit article, sous réserve du recours à exercer éventuellement par le contribuable contre la décision du directeur auprès de la cour d'appel."
+      ],
+      "abstractNL": [
+        "Ingevolge artikel 5 van de wet van 14 april 1945 houdende goedkeuring van de overeenkomst van 10 maart 1964 tussen België en Frankrijk tot voorkoming van dubbele belasting inzake inkomstenbelastingen, is de directeur der belastingen bevoegd om zich hetzij ambtshalve, hetzij ten gevolge van een gemotiveerde reclamatie over de ontlasting uit te spreken van de in genoemd artikel bepaalde aanslagen, onder voorbehoud dat eventueel tegen de beslissing van de directeur bij het hof van beroep een beroep kan worden ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700324.1": {
+      "court": "CASS",
+      "date": "1970-03-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de dégrèvement d'impositions visées à l'article 5 de la loi du 14 avril 1965 portant approbation de la convention conclue le 10 mars 1964 avec la France et tendant notamment à éviter les doubles impositions, accordé d'office ou sur une demande introduite dans le délai d'un an prévu par ledit article 5, les articles 74, alinéa 5, des lois coordonnées relatives aux impôts sur les revenus et 308 du Code des impôts sur les revenus ne sont pas applicables; l'Etat ne peut donc être condamné au payement d'intérêts moratoires sur les sommes à rembourser."
+      ],
+      "abstractNL": [
+        "In geval van ontlasting van aanslagen bedoeld in artikel 5 van de wet van 14 april 1965 houdende goedkeuring van de op 10 maart 1964 met Frankrijk gesloten overeenkomst en strekkende onder meer tot voorkoming van dubbele belasting, verleend van ambtswege of op verzoek ingediend binnen de bij genoemd artikel 5 bepaalde termijn van een jaar, zijn de artikelen 74, lid 5, van de gecoördineerde wetten betreffende de inkomstenbelastingen en 308 van het Wetboek van de inkomstenbelastingen niet van toepassing; de Staat kan dus niet worden veroordeeld tot betaling van moratorium-interesten op de terug te betalen overbelastingen."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700106.1": {
+      "court": "CASS",
+      "date": "1970-01-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/01/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En cas de dégrèvement d'impositions visées à l'article 5 de la loi du 14 avril 1965 portant approbation de la convention conclue le 10 mars 1964 avec la France et tendant notamment à éviter les doubles impositions, accordé d'office ou sur une demande introduite dans le délai d'un an prévu par ledit article 5, les articles 74, alinéa 5, des lois coordonnées relatives aux impôts sur les revenus et 308 du Code des impôts sur les revenus ne sont pas applicables et l'Etat ne peut donc être condamné au payement d'intérêts moratoires sur les surtaxes à rembourser."
+      ],
+      "abstractNL": [
+        "Indien van de aanslagen waarvan sprake in artikel 5 van de wet van 14 april 1965 houdende goedkeuring van de overeenkomst met Frankrijk tot voorkoming van dubbele belasting, van ambtswege ontheffing wordt toegekend of ontheffing ervan wordt verleend op een aanvraag ingediend binnen de bij bedoeld artikel 5 gestelde termijn van één jaar, dan zijn de artikelen 74, lid 5, van de gecoördineerde wetten betreffende de inkomstenbelastingen en 308 van het Wetboek van de inkomstenbelastingen niet van toepassing, en de Staat kan dus niet worden veroordeeld tot de betaling van moratoriuminteresten op de terug te betalen overbelastingen."
       ]
     }
   }

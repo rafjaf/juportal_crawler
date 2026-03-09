@@ -1,4 +1,52 @@
 {
+  "130": {
+    "ECLI:BE:CASS:1994:ARR.19940117.13": {
+      "court": "CASS",
+      "date": "1994-01-17",
+      "roleNumber": "9575",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La nullité prévue par l'article 130 de la loi du 4 août 1978 de réorientation économique, qui tend uniquement à rendre inefficace toute disposition contenant une discrimination fondée sur le sexe, ne peut avoir d'autre effet que celui d'assurer un traitement égal aux travailleurs lésés par une telle discrimination; elle ne peut atteindre les droits des travailleurs qui ne sont pas lésés par cette discrimination. (L. 4 août 1978, art. 130; L. 5 décembre 1968, art. 9)."
+      ],
+      "abstractNL": [
+        "De in art. 130 Wet van 4 aug. 1978 tot economische heroriëntering bedoelde nietigheid, met als enig doel iedere bepaling houdende een discriminatie op grond van het geslacht ondoeltreffend te maken, kan alleen maar een gelijke behandeling beogen van de werknemers die door zodanige discriminatie worden benadeeld; zij heeft geen invloed op de rechten van de werknemers die door zulke discriminatie niet zijn benadeeld. (Art. 130, Wet van 4 aug. 1978; art. 9 Wet van 5 dec. 1968.)."
+      ]
+    }
+  },
+  "133": {
+    "ECLI:BE:CASS:1988:ARR.19880620.8": {
+      "court": "CASS",
+      "date": "1988-06-20",
+      "roleNumber": "8317",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/20/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 133 de la loi de réorientation économique du 4 août 1978 ne permet pas au juge, que celui-ci statue au fond ou en référé, d'ordonner à l'employeur de réintégrer dans l'entreprise un travailleur qui aurait été irrégulièrement licencié ensuite d'une discrimination entre travailleurs masculins et féminins. ( Loi du 4 août 1978, titre V, spéc. art. 127 et 133. )"
+      ],
+      "abstractNL": [
+        "Ingevolge art. 133 Wet Economische Heroriëntering kan de rechter, ongeacht of hij ten gronde dan wel in kort geding uitspraak doet, de werkgever niet bevelen dat hij een werknemer opnieuw in de onderneming opneemt na diens onregelmatig ontslag wegens discriminatie tussen mannelijke en vrouwelijke werknemers. ( Titel V, inz. de artt. 127 en 133, Wet Economische Heroriëntering. )"
+      ]
+    }
+  },
+  "141": {
+    "ECLI:BE:CASS:1983:ARR.19830511.3": {
+      "court": "CASS",
+      "date": "1983-05-11",
+      "roleNumber": "2894",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui déclare non établie la prévention, retenue à charge d'un membre du collège des bourgmestre et échevins devant prendre part au vote sur la désignation d'un instituteur communal, d'avoir refusé ou entravé l'accès à l'emploi d'un travailleur pour des motifs explicites ou implicites fondés directement ou indirectement sur le sexe de ce travailleur, au seul motif que priver tout citoyen devant prendre part au vote d'une assemblée délibérante, tel le collège des bourgmestre et échevins, de manifester librement son opinion avant le scrutin, porterait atteinte au droit de manifester son opinion en toute matière, garantie par l'article 14 de la Constitution, et au droit de toute personne à la liberté d'expression, garanti par l'article 10, par. 1er, de la Convention de sauvegarde des droits de l'homme. ( Loi du 4 août 1978, art. 121, alinéa 2, 3°, et 141, 1°. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest waarbij de telastlegging ter zake dat een lid van het college van burgermeester en schepenen, dat moest deelnemen aan de stemming over de benoeming van een gemeenteonderwijzer, de toegang tot de betrekking van een werknemer heeft ontzegd om expliciete of impliciete redenen die rechtstreeks of onrechtstreeks op het geslacht van de werknemer steunen, niet bewezen wordt verklaard op grond alleen dat het ontzeggen van vrije meningsuiting bij het stemmen aan een burger die moet deelnemen aan een geheime stemming in een vertegenwoordigend lichaam, zoals het college van burgemeester en schepenen, neerkomt op een schending van het door art. 14 Grondwet gewaarborgde recht om op elk gebied zijn mening te uiten, alsook van het recht van een ieder op vrijheid van meningsuiting, dat gewaarborgd is door art. 10, lid 1, Europees Verdrag Rechten van de Mens. ( Artt. 121, tweede lid, 3°, en 141, 1°, wet tot economische heroriëntering van 4 augustus 1978. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1994:ARR.19940328.14": {
       "court": "CASS",
@@ -101,6 +149,34 @@
         "En vertu de l'effet immédiat de la loi nouvelle relative à la prescription de l'action publique, l'arrêté royal nó 15 du 23 octobre 1978 et l'article 66 de la loi du 4 août 1978 s'appliquent aux actions nées avant la date de leur entrée en vigueur et non encore prescrites à cette date."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1994:ARR.19940117.13": {
+      "court": "CASS",
+      "date": "1994-01-17",
+      "roleNumber": "9575",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La nullité prévue par l'article 130 de la loi du 4 août 1978 de réorientation économique, qui tend uniquement à rendre inefficace toute disposition contenant une discrimination fondée sur le sexe, ne peut avoir d'autre effet que celui d'assurer un traitement égal aux travailleurs lésés par une telle discrimination; elle ne peut atteindre les droits des travailleurs qui ne sont pas lésés par cette discrimination. (L. 4 août 1978, art. 130; L. 5 décembre 1968, art. 9)."
+      ],
+      "abstractNL": [
+        "De in art. 130 Wet van 4 aug. 1978 tot economische heroriëntering bedoelde nietigheid, met als enig doel iedere bepaling houdende een discriminatie op grond van het geslacht ondoeltreffend te maken, kan alleen maar een gelijke behandeling beogen van de werknemers die door zodanige discriminatie worden benadeeld; zij heeft geen invloed op de rechten van de werknemers die door zulke discriminatie niet zijn benadeeld. (Art. 130, Wet van 4 aug. 1978; art. 9 Wet van 5 dec. 1968.)."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880620.8": {
+      "court": "CASS",
+      "date": "1988-06-20",
+      "roleNumber": "8317",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/20/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 133 de la loi de réorientation économique du 4 août 1978 ne permet pas au juge, que celui-ci statue au fond ou en référé, d'ordonner à l'employeur de réintégrer dans l'entreprise un travailleur qui aurait été irrégulièrement licencié ensuite d'une discrimination entre travailleurs masculins et féminins. ( Loi du 4 août 1978, titre V, spéc. art. 127 et 133. )"
+      ],
+      "abstractNL": [
+        "Ingevolge art. 133 Wet Economische Heroriëntering kan de rechter, ongeacht of hij ten gronde dan wel in kort geding uitspraak doet, de werkgever niet bevelen dat hij een werknemer opnieuw in de onderneming opneemt na diens onregelmatig ontslag wegens discriminatie tussen mannelijke en vrouwelijke werknemers. ( Titel V, inz. de artt. 127 en 133, Wet Economische Heroriëntering. )"
+      ]
     }
   }
 }

@@ -1,4 +1,32 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1996:ARR.19961003.6": {
+      "court": "CASS",
+      "date": "1996-10-03",
+      "roleNumber": "C950335F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si l'association sans but lucratif, qui ne poursuit ni son enrichissement ni un gain direct ou indirect pour ses membres, peut exercer une activité accessoire qui produit des bénéfices, c'est à la condition que cette activité soit nécessaire pour permettre la réalisation du but désintéressé que l'association veut atteindre et que celle-ci consacre à cette fin l'intégralité des bénéfices ainsi obtenus."
+      ],
+      "abstractNL": [
+        "Een VZW die noch haar verrijking noch een rechtstreekse of onrechtstreekse winst voor haar leden nastreeft, kan weliswaar een bijkomstige bedrijvigheid uitoefenen, op voorwaarde echter dat die bedrijvigheid noodzakelijk is voor het verwezenlijken van het onbaatzuchtig doel van de vereniging en dat laatstgenoemde die winst geheel aan dat doel besteedt."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650601.1": {
+      "court": "CASS",
+      "date": "1965-06-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/06/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'activité d'une association sans but lucratif est sans rapport avec l'objet en vue duquel elle a été formée et est exercée dans un but de lucre, les bénéfices et les profits qui en résultent sont imposables à la taxe professionnelle. (Lois coordonnées relatives aux impôts sur les revenus, art. 25, alinéa 1er, 1° et 3°; loi du 27 juin 1921, article 1er.)"
+      ],
+      "abstractNL": null
+    }
+  },
   "2": {
     "ECLI:BE:CASS:2020:ARR.20200410.1F.8": {
       "court": "CASS",
@@ -62,6 +90,52 @@
       ]
     }
   },
+  "6": {
+    "ECLI:BE:CASS:1971:ARR.19710908.1": {
+      "court": "CASS",
+      "date": "1971-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/09/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Sauf disposition contraire des statuts, les membres adhérents d'une association sans but lucratif ne doivent pas être convoqués aux assemblées générales. ( Loi du 27 juin 1921, art. 6. )"
+      ],
+      "abstractNL": [
+        "Behoudens andersluidende bepalingen van de statuten, moeten de aangesloten leden van een vereniging zonder winstoogmerk niet worden opgeroepen voor de algemene vergaderingen. ( Wet van 27 juni 1921, art. 6. )"
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1966:ARR.19660118.1": {
+      "court": "CASS",
+      "date": "1966-01-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le pourvoi en cassation d'une association sans but lucratif, lorsque la requête émane de deux administrateurs de l'association qui ne justifient pas d'une délégation du conseil d'administration, même lorsque les statuts disposent que tous les actes qui engagent l'association sont signés par le président ou par deux membres du conseil d'administration et que, au surplus, les pouvoirs du conseil d'administration sont déterminés par les articles 13 et 14 de la loi du 27 juin 1921."
+      ],
+      "abstractNL": null
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1972:ARR.19720525.2": {
+      "court": "CASS",
+      "date": "1972-05-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les administrateurs des associations sans but lucratif sont responsables, même à l'égard des tiers, de l'exécution du mandat qu'ils ont reçu et des fautes qu'ils ont commises dans leur gestion. ( Loi du 27 juin 1921, art. 14. )"
+      ],
+      "abstractNL": [
+        "De beheerders van verenigingen zonder winstoogmerk zijn aansprakelijk zelfs tegenover derden, voor de vervulling van de hun gegeven opdracht en voor de misgrepen die zij in hun beheer hebben bedreven. ( Wet van 27 juni 1921, art. 14. )"
+      ]
+    }
+  },
   "18": {
     "ECLI:BE:CASS:2014:ARR.20140404.2": {
       "court": "CASS",
@@ -92,6 +166,20 @@
       "abstractNL": [
         "De algemene vergadering van de ontbonden vereniging blijft het bevoegde orgaan dat zich kan uitspreken over de bestemming van het batig saldo van de vereffening, zelfs als de rechtbank de ontbinding van de vereniging heeft uitgesproken omdat haar ledenaantal minder is dan drie of omdat haar ledenaantal in de loop van de vrijwillige vereffening van de vereniging minder dan drie is geworden."
       ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851121.9": {
+      "court": "CASS",
+      "date": "1985-11-21",
+      "roleNumber": "7441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas fondée une demande de dessaisissement d'un tribunal de première instance pour cause de suspicion légitime, lorsque les faits invoqués à l'appui de la demande ne sont pas de nature à faire naître une suspicion légitime quant à la possibilité pour ce tribunal d'assurer au demandeur un procès équitable avec la sérénité requise."
+      ],
+      "abstractNL": [
+        "Niet gegrond is een vordering tot onttrekking van de zaak aan een rechtbank van eerste aanleg wegens gewettigde verdenking, wanneer uit de tot staving van de vordering aangevoerde feiten geen gewettigde verdenking kan ontstaan m.b.t. de mogelijkheid voor die rechtbank om aan de eiser een eerlijke en met de nodige sereniteit verlopende behandeling van zijn zaak te verzekeren."
+      ]
     }
   },
   "22": {
@@ -110,6 +198,94 @@
       ]
     }
   },
+  "26": {
+    "ECLI:BE:CASS:1999:ARR.19990624.10": {
+      "court": "CASS",
+      "date": "1999-06-24",
+      "roleNumber": "C980215F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la publication prescrite par l'article 3 de la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique a été effectuée, la circonstance d'avoir omis de déposer la liste des membres ou les listes complémentaires de membres n'a pas pour effet de déposséder l'association de la personnalité civile, mais simplement de suspendre à l'égard des tiers l'exercice de ses droits, liés à la personnalité civile, jusqu'à la régularisation de la situation; il résulte de l'économie des articles 3 et 26, alinéa 1er, de la loi du 27 juin 1921 et des travaux préparatoires de celle-ci, que, pour autant que l'association ait acquis la personnalité civile en se conformant au dit article 3, la sanction prévue à l'article 26, alinéa 1er, ne consiste, sauf en cas de dol, qu'en une exception dilatoire qui peut être invoquée jusqu'à la régularisation de la situation."
+      ],
+      "abstractNL": [
+        "Wanneer aan de in art. 3 VZW-wet voorgeschreven bekendmaking werd voldaan, heeft het verzuim van de neerlegging van de ledenlijst of van de aanvullende ledenlijsten niet tot gevolg dat de vereniging de rechtspersoonlijkheid verliest, maar enkel dat tegenover derden de uitoefening van haar aan die rechtspersoonlijkheid verbonden rechten is opgeschort tot aan de regularisatie; uit de opzet van de art. 3 en 26, eerste lid, VZW-wet en uit de parlementaire voorbereiding van die wet volgt dat, voor zover de vereniging rechtspersoonlijkheid heeft verkregen door de haar bij art. 3 opgelegde verplichting na te komen, de in art. 26, eerste lid, bepaalde sanctie, behoudens bedrog, enkel bestaat in een opschortende exceptie die kan worden opgeworpen tot de toestand geregulariseerd is."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990211.18": {
+      "court": "CASS",
+      "date": "1999-02-11",
+      "roleNumber": "C970324F;C970325F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le seul fait qu'une association sans but lucratif ne peut se prévaloir de la personnalité civile à l'égard des tiers n'oblige pas personnellement les associés, même fondateurs, à exécuter les obligations contractuelles souscrites au nom et pour compte de l'association."
+      ],
+      "abstractNL": [
+        "Het feit alleen dat een vereniging zonder winstoogmerk zich niet kan beroepen op rechtspersoonlijkheid t.a.v. derden, houdt voor de leden, zelfs de stichters, geen persoonlijke verplichting in om de contractuele verbintenissen die in naam en voor rekening van de vereniging zijn aangegaan uit te voeren."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921106.7": {
+      "court": "CASS",
+      "date": "1992-11-06",
+      "roleNumber": "7539",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la publication prescrite par l'article 3 de la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique, modifiée par la loi du 28 juin 1984, a été effectuée, la circonstance d'avoir omis de déposer la liste des membres ou les listes complémentaires de membres n'a pas pour effet de déposséder l'association de la personnalité civile, mais simplement de suspendre à l'égard des tiers l'exercice de ses droits, liés à la personnalité civile, jusqu'à la régularisation de la situation. ( Loi du 27 juin 1921, modifiée par la Loi du 28 juin 1984, art. 26. )"
+      ],
+      "abstractNL": [
+        "Wanneer aan de in art. 3 V.Z.W.-wet voorgeschreven bekendmaking werd voldaan, heeft het verzuim van de neerlegging van de ledenlijst of van de aanvullende ledenlijsten niet tot gevolg dat de vereniging de rechtspersoonlijkheid heeft verloren, maar enkel dat tegenover derden de uitoefening van haar aan die rechtspersoonlijkheid verbonden rechten is opgeschorst totdat de regularisatie is gedaan. ( Art. 26, eerste lid, V.Z.W.-wet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840525.10": {
+      "court": "CASS",
+      "date": "1984-05-25",
+      "roleNumber": "3932",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il constate que la liste des administrateurs d'une association sans but lucratif a été publiée aux annexes du Moniteur belge sans l'indication de leur profession mais que, sauf pour un seul de ces administrateurs, leur profession a été mentionnée lors de la publication de l'acte de fondation de l'association aux annexes du Moniteur, le juge décide légalement que l'association possède la personnalité civile à l'égard des tiers, conformément aux articles 3 et 26 de la loi du 27 juin 1921, dès lors qu'il décide que l'omission constatée n'empêche pas les tiers de vérifier la qualité d'administrateur des intéressés."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat de lijst van beheerders van een vereniging zonder winstoogmerk in het Belgisch Staatsblad is bekendgemaakt zonder vermelding van hun beroep, maar dat, behalve voor een enkele beheerder, hun beroep is vermeld bij de bekendmaking van de akte van oprichting van de vereniging in de bijlagen tot het Belgisch Staatsblad, beslist hij wettig dat de vereniging t.a.v. derden rechtspersoonlijkheid bezit, overeenkomstig de artt. 3 en 26 van de wet van 27 juni 1921, als hij beslist dat de vastgestelde nalatigheid niet belet dat derden de hoedanigheid van beheerder van de betrokkenen kunnen nagaan."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811210.8": {
+      "court": "CASS",
+      "date": "1981-12-10",
+      "roleNumber": "3222",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Celui qui, lors de la conclusion d'un contrat, déclare s'engager au nom d'une association sans but lucratif, ne s'engage pas personnellement; il n'est pas lui-même partie au contrat et ne le devient pas par le fait que l'association n'ayant pas déposé les listes complémentaires annuelles de ses membres ou publié la nomination de ses nouveaux administrateurs, le cocontractant n'est pas tenu de reconnaître la personnalité civile de l'association."
+      ],
+      "abstractNL": [
+        "Hij die bij het sluiten van een overeenkomst verklaard heeft zich te verbinden in naam van een vereniging zonder winstoogmerk is niet persoonlijk de wederpartij van de medecontractant; hij wordt zulks ook niet door het feit dat de medecontractant wegens het niet-neerleggen, door de vereniging, van haar jaarlijkse aanvullende ledenlijsten of wegens het niet-bekendmaken van de benoeming van nieuwe beheerders, niet ertoe gehouden is de rechtspersoonlijkheid van de vereniging te erkennen <1>."
+      ]
+    }
+  },
+  "38": {
+    "ECLI:BE:CASS:1999:ARR.19990318.3": {
+      "court": "CASS",
+      "date": "1999-03-18",
+      "roleNumber": "C970447F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les statuts d'une association sans but lucratif peuvent valablement prévoir des délégations de pouvoirs tant pour la gestion que pour les actes judiciaires, y compris pour l'intentement d'une action en justice."
+      ],
+      "abstractNL": [
+        "De statuten van een vereniging zonder winstoogmerk kunnen rechtsgeldig bepalen dat bevoegdheden worden overgedragen, zowel voor het beheer als voor de rechtshandelingen, inclusief het instellen van een rechtsgeding."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1987:ARR.19870212.8": {
       "court": "CASS",
@@ -123,6 +299,90 @@
       ],
       "abstractNL": [
         "Een VZW die een bijkomstige handelsactiviteit uitoefent (verkoop van drank in een bar) wordt hierdoor geen koopman, hotelhouder of tafelhouder in de zin van artikel 2271 en 2272 B.W."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730119.5": {
+      "court": "CASS",
+      "date": "1973-01-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si, aux termes de l'article 2 du Code de commerce, certains actes sont réputés par la loi actes de commerce, c'est parce que le législateur présume que ceux-ci sont accomplis dans un esprit de lucre."
+      ],
+      "abstractNL": [
+        "Indien, naar luid van artikel 2 van het Wetboek van koophandel, bepaalde handelingen als daden van koophandel worden aangemerkt, komt dit omdat de wetgever vermoedt dat deze daden met winstoogmerk worden verricht."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990624.10": {
+      "court": "CASS",
+      "date": "1999-06-24",
+      "roleNumber": "C980215F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la publication prescrite par l'article 3 de la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique a été effectuée, la circonstance d'avoir omis de déposer la liste des membres ou les listes complémentaires de membres n'a pas pour effet de déposséder l'association de la personnalité civile, mais simplement de suspendre à l'égard des tiers l'exercice de ses droits, liés à la personnalité civile, jusqu'à la régularisation de la situation; il résulte de l'économie des articles 3 et 26, alinéa 1er, de la loi du 27 juin 1921 et des travaux préparatoires de celle-ci, que, pour autant que l'association ait acquis la personnalité civile en se conformant au dit article 3, la sanction prévue à l'article 26, alinéa 1er, ne consiste, sauf en cas de dol, qu'en une exception dilatoire qui peut être invoquée jusqu'à la régularisation de la situation."
+      ],
+      "abstractNL": [
+        "Wanneer aan de in art. 3 VZW-wet voorgeschreven bekendmaking werd voldaan, heeft het verzuim van de neerlegging van de ledenlijst of van de aanvullende ledenlijsten niet tot gevolg dat de vereniging de rechtspersoonlijkheid verliest, maar enkel dat tegenover derden de uitoefening van haar aan die rechtspersoonlijkheid verbonden rechten is opgeschort tot aan de regularisatie; uit de opzet van de art. 3 en 26, eerste lid, VZW-wet en uit de parlementaire voorbereiding van die wet volgt dat, voor zover de vereniging rechtspersoonlijkheid heeft verkregen door de haar bij art. 3 opgelegde verplichting na te komen, de in art. 26, eerste lid, bepaalde sanctie, behoudens bedrog, enkel bestaat in een opschortende exceptie die kan worden opgeworpen tot de toestand geregulariseerd is."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990318.3": {
+      "court": "CASS",
+      "date": "1999-03-18",
+      "roleNumber": "C970447F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les statuts d'une association sans but lucratif peuvent valablement prévoir des délégations de pouvoirs tant pour la gestion que pour les actes judiciaires, y compris pour l'intentement d'une action en justice."
+      ],
+      "abstractNL": [
+        "De statuten van een vereniging zonder winstoogmerk kunnen rechtsgeldig bepalen dat bevoegdheden worden overgedragen, zowel voor het beheer als voor de rechtshandelingen, inclusief het instellen van een rechtsgeding."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921106.7": {
+      "court": "CASS",
+      "date": "1992-11-06",
+      "roleNumber": "7539",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la publication prescrite par l'article 3 de la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique, modifiée par la loi du 28 juin 1984, a été effectuée, la circonstance d'avoir omis de déposer la liste des membres ou les listes complémentaires de membres n'a pas pour effet de déposséder l'association de la personnalité civile, mais simplement de suspendre à l'égard des tiers l'exercice de ses droits, liés à la personnalité civile, jusqu'à la régularisation de la situation. ( Loi du 27 juin 1921, modifiée par la Loi du 28 juin 1984, art. 26. )"
+      ],
+      "abstractNL": [
+        "Wanneer aan de in art. 3 V.Z.W.-wet voorgeschreven bekendmaking werd voldaan, heeft het verzuim van de neerlegging van de ledenlijst of van de aanvullende ledenlijsten niet tot gevolg dat de vereniging de rechtspersoonlijkheid heeft verloren, maar enkel dat tegenover derden de uitoefening van haar aan die rechtspersoonlijkheid verbonden rechten is opgeschorst totdat de regularisatie is gedaan. ( Art. 26, eerste lid, V.Z.W.-wet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851121.9": {
+      "court": "CASS",
+      "date": "1985-11-21",
+      "roleNumber": "7441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas fondée une demande de dessaisissement d'un tribunal de première instance pour cause de suspicion légitime, lorsque les faits invoqués à l'appui de la demande ne sont pas de nature à faire naître une suspicion légitime quant à la possibilité pour ce tribunal d'assurer au demandeur un procès équitable avec la sérénité requise."
+      ],
+      "abstractNL": [
+        "Niet gegrond is een vordering tot onttrekking van de zaak aan een rechtbank van eerste aanleg wegens gewettigde verdenking, wanneer uit de tot staving van de vordering aangevoerde feiten geen gewettigde verdenking kan ontstaan m.b.t. de mogelijkheid voor die rechtbank om aan de eiser een eerlijke en met de nodige sereniteit verlopende behandeling van zijn zaak te verzekeren."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840525.10": {
+      "court": "CASS",
+      "date": "1984-05-25",
+      "roleNumber": "3932",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il constate que la liste des administrateurs d'une association sans but lucratif a été publiée aux annexes du Moniteur belge sans l'indication de leur profession mais que, sauf pour un seul de ces administrateurs, leur profession a été mentionnée lors de la publication de l'acte de fondation de l'association aux annexes du Moniteur, le juge décide légalement que l'association possède la personnalité civile à l'égard des tiers, conformément aux articles 3 et 26 de la loi du 27 juin 1921, dès lors qu'il décide que l'omission constatée n'empêche pas les tiers de vérifier la qualité d'administrateur des intéressés."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat de lijst van beheerders van een vereniging zonder winstoogmerk in het Belgisch Staatsblad is bekendgemaakt zonder vermelding van hun beroep, maar dat, behalve voor een enkele beheerder, hun beroep is vermeld bij de bekendmaking van de akte van oprichting van de vereniging in de bijlagen tot het Belgisch Staatsblad, beslist hij wettig dat de vereniging t.a.v. derden rechtspersoonlijkheid bezit, overeenkomstig de artt. 3 en 26 van de wet van 27 juni 1921, als hij beslist dat de vastgestelde nalatigheid niet belet dat derden de hoedanigheid van beheerder van de betrokkenen kunnen nagaan."
       ]
     }
   }

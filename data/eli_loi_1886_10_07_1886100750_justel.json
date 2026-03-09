@@ -1,4 +1,64 @@
 {
+  "32": {
+    "ECLI:BE:CASS:1977:ARR.19771110.7": {
+      "court": "CASS",
+      "date": "1977-11-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/11/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Relève la condition légale pour qu'une haie, en tant que clôture, puisse être réputée mitoyenne le jugement qui constate que cette haie a été plantée sur la ligne séparative des deux héritages; lorsqu'il n'a pas été soutenu qu'un seul des héritages était en état de clôture, le juge n'a pas l'obligation d'examiner l'état de clôture des fonds contigus (4). ( Code rural, art. 32. )"
+      ],
+      "abstractNL": [
+        "Het vonnis dat vaststelt dat een haag op de scheidingslijn van twee erven is geplant, stelt de wettelijke voorwaarde vast waardoor de haag als afsluiting als een gemene haag kan worden aangemerkt; wanneer niet is betoogd dat een enkel erf afgesloten was, is de rechter niet verplicht te onderzoeken of de aan elkaar grenzende erven afgesloten zijn (4). ( Art. 32 Veldwetboek. )"
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:2014:ARR.20141016.3": {
+      "court": "CASS",
+      "date": "2014-10-16",
+      "roleNumber": "C.12.0217.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/10/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 35, alinéa 1er, du Code rural consacre l'obligation légale de planter les arbres de haute tige à la distance de deux mètres de la ligne séparative de deux héritages; cette disposition n'impose pas au juge saisi d'une action en bornage de fixer la limite des propriétés des parties à deux mètres des arbres de haute tige plantés sur l'une d'elles (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 35, eerste lid, van het Veldwetboek legt de wettelijke verplichting vast om hoogstammige bomen op een afstand van twee meter van de scheidingslijn tussen twee erven te planten; die bepaling verplicht de rechter, die kennisneemt van een rechtsvordering tot afpaling, niet om de grens tussen de eigendommen van de partijen vast te stellen op twee meter van de hoogstammige bomen die op een van die eigendommen zijn geplant (1). (1) Zie concl. OM in Pas. 2014, nr. ...."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140123.5": {
+      "court": "CASS",
+      "date": "2014-01-23",
+      "roleNumber": "C.13.0083.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/23/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 35 du Code rural ne règle que la distance qui doit être respectée lors de la plantation d'arbres et de haies et prévoit aussi une exception pour les arbres fruitiers plantés en espalier, sans qu'il puisse s'en déduire qu'il est interdit à un voisin de faire pousser du lierre et de la vigne vierge contre un mur (1). (1) Voir F. BAUDONCQ et M. DEBAENE, 'Afstand van beplantingen. Het onderwerp herbekeken' in LECOCQ, P., TILLEMAN, B., VERBEKE, A., Zakenrecht/droit des biens, Bruges, La Charte, 2005, 221-283; A. KLUYSKENS, Zakenrecht, Anvers, Standaard Boekhandel, 1953, 339-342."
+      ],
+      "abstractNL": [
+        "Artikel 35 Veldwetboek regelt enkel de afstand die bij de aanplanting van bomen en hagen moet worden in acht genomen en voorziet tevens in een uitzondering voor fruitbomen die als leiboom worden aangeplant zonder dat er kan uit afgeleid worden dat het een nabuur verboden is tegen de muur klimop en wingerd te laten groeien (1). (1) Zie F. BAUDONQ en M. DEBAENE, 'Afstand van beplantingen. Het onderwerp herbekeken' in LECOCQ, P., TILLEMAN, B., VERBEKE, A., Zakenrecht/Droit des biens, Brugge, die Keure, 2005, 221-283; A. KLUYSKENS, Zakenrecht, Antwerpen, Standaard Boekhandel, 1953, 339-342."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810430.5": {
+      "court": "CASS",
+      "date": "1981-04-30",
+      "roleNumber": "2979",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié le jugement qui décide que des arbres plantés le long de la ligne séparative de deux héritages ne sont pas des arbres de haute tige, au seul motif que ces arbres ne causent aucun trouble de voisinage. ( Code rural, article 35. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het vonnis waarin wordt beslist dat de bomen langs de scheidingslijn tussen twee erven geen hoogstammige bomen zijn, enkel op grond dat die bomen geen burenhinder veroorzaken <1>. (Art. 35 Veldw.)"
+      ]
+    }
+  },
   "37": {
     "ECLI:BE:CASS:2020:ARR.20200103.1F.5": {
       "court": "CASS",
@@ -31,6 +91,256 @@
       ]
     }
   },
+  "76": {
+    "ECLI:BE:CASS:1966:ARR.19661003.6": {
+      "court": "CASS",
+      "date": "1966-10-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le garde-chasse particulier assermenté n'est dans l'exercice de ses fonctions d'officier de police judiciaire que sur le territoire dont son commettant lui a confié la surveillance et ses attributions se limitent à ce territoire."
+      ],
+      "abstractNL": [
+        "De bijzondere beëdigde jachtwachter is slechts in de uitoefening van zijn ambt van officier van gerechtelijke politie op het grondgebied waarvan zijn opdrachtgever hem de bewaking heeft toevertrouwd, en zijn bevoegdheden zijn tot dit grondgebied beperkt."
+      ]
+    }
+  },
+  "83": {
+    "ECLI:BE:CASS:1984:ARR.19840627.9": {
+      "court": "CASS",
+      "date": "1984-06-27",
+      "roleNumber": "3679",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/27/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'action publique résultant d'une infraction au Code rural est prescrite lorsque, en l'absence de cause de suspension de la prescription, six mois se sont écoulés depuis le dernier acte interruptif de la prescription. (Code rural, art. 83.)"
+      ],
+      "abstractNL": [
+        "De uit een overtreding van het Veldwetboek voortvloeiende strafvordering verjaart, bij ontstentenis van een grond van schorsing van de verjaring, door verloop van zes maanden, te rekenen van de laatste verjaringstuitende daad. (Art. 83 Veldwetboek.)"
+      ]
+    }
+  },
+  "87": {
+    "ECLI:BE:CASS:1984:ARR.19841219.10": {
+      "court": "CASS",
+      "date": "1984-12-19",
+      "roleNumber": "3914",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/12/19/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision qui, en cas de concours de contraventions, condamne le prévenu à une seule peine d'amende correctionnelle et à une seule peine d'emprisonnement subsidiaire correctionnelle (Code pénal, art. 58)."
+      ],
+      "abstractNL": [
+        "Onwettig is de beslissing die, bij samenloop van overtredingen, de beklaagde veroordeelt tot één enkele correctionele geldboete en tot één enkele vervangende correctionele gevangenisstraf. (Art. 58 Sw.)"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740204.11": {
+      "court": "CASS",
+      "date": "1974-02-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 87, 8., du Code rural, qui interdit de passer, sans nécessité et malgré la défense des propriétaires, sur des chemins appartenant à des particuliers, ne s'applique pas au passage sur les chemins situés dans les bois et forêts des particuliers ou soumis au régime forestier."
+      ],
+      "abstractNL": [
+        "Artikel 87, 8., van het Veldwetboek volgens hetwelk het verboden is om, zonder noodzaak en ondanks het verbod van de eigenaar, gebruik te maken van wegen die aan particulieren toebehoren, is niet van toepassing op wegen in bossen van particulieren noch op wegen die onder de boswetgeving vallen."
+      ]
+    }
+  },
+  "88": {
+    "ECLI:BE:CASS:1995:ARR.19951213.2": {
+      "court": "CASS",
+      "date": "1995-12-13",
+      "roleNumber": "P951103F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/13/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La contravention de dégradation, de détérioration ou d'usurpation de voirie visée à l'article 88, 9°, du Code rural est une infraction instantanée."
+      ],
+      "abstractNL": [
+        "De overtreding \"beschadiging of toeëigening van een weg\" bedoeld in art. 88, 9°, Veldwetboek is een aflopend misdrijf."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820323.9": {
+      "court": "CASS",
+      "date": "1982-03-23",
+      "roleNumber": "6904",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'est prescrite une infraction aux articles 88, 9°, du Code rural et 28 du règlement sur les chemins vicinaux de la province de Flandre occidentale du 24 avril 1952, modifié par arrêté du 10 octobre 1963, le juge de répression, saisi de l'action publique avant que la prescription ait été acquise, doit, par application de l'article 32bis du règlement provincial et de l'article 33 de la loi du 10 avril 1841 sur les chemins vicinaux, ordonner le rétablissement des lieux dans leur état primitif; ce rétablissement ne constitue en effet pas une peine mais uniquement un mode particulier de réparation ou de restitution destiné à mettre fin à une situation contraire à la loi résultant de l'infraction et nuisant à l'intérêt public; la décision qui l'ordonne est de nature civile."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van art. 88, 9°, Veldw. en van art. 28 van de verordening op de buurtwegen vande provincie West-Vlaanderen van 24 april 1952, gew. bij besluit van 10 okt. 1963, verjaard is, moet de strafrechter bij wie de strafvordering aanhangig is gemaakt voordat deze door verjaring is vervallen, met toepassing van art. 32bis van de provincieverordening en van art. 33 wet van 10 april 1841 op de buurtwegen, bevelen dat de plaats in haar vorige staat wordt hersteld; dat herstel is immers geen straf, maar een bijzondere vorm van vergoeding of teruggave om een einde te maken aan de met de wet strijdige toestand, die uit het misdrijf is ontstaan en waardoor het openbaar belang wordt geschaad; de beslissing waarbij het herstel wordt bevolen, is van civielrechtelijke aard <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820316.22": {
+      "court": "CASS",
+      "date": "1982-03-16",
+      "roleNumber": "6688",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/16/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 88, 9°, du Code rural, qui punit l'usurpation sur la largeur d'un chemin public, l'usurpation suppose, de la part du contrevenant, une mainmise totale ou partielle sur la surface du chemin."
+      ],
+      "abstractNL": [
+        "Volgens art. 88, 9°, Veldwetboek, krachtens hetwelk het zich toeëigenen van een strook van een openbare weg strafbaar is, kan er van toeëigening slechts sprake zijn wanneer, door de gedraging van de beklaagde, het oppervlak van de weg geheel of gedeeltelijk wordt ingepalmd <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811021.4": {
+      "court": "CASS",
+      "date": "1981-10-21",
+      "roleNumber": "1977",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'action publique résultant d'une infraction du Code rural est prescrite lorsque, en l'absence de cause de suspension de la prescription, six mois se sont écoulés depuis le dernier acte interruptif de la prescription."
+      ],
+      "abstractNL": [
+        "De uit een overtreding van het Veldwetboek voortvloeiende strafvordering verjaart, bij ontstentenis van een grond van schorsing van de verjaring, door verloop van zes maanden, te rekenen van de laatste verjaringstuitende daad."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780124.5": {
+      "court": "CASS",
+      "date": "1978-01-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/01/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le jugement attaqué condamne, sans autre précision, le prévenu du chef d'une contravention commise entre une date déterminée et une autre date et qu'il n'apparaît ni du jugement ni d'aucune pièce à laquelle la Cour peut avoir égard que le fait a été commis moins de six mois avant la date d'un acte d'instruction ou de poursuite interrompant la prescription et antérieur de moins de six mois à la prononciation du jugement ou qu'une cause de suspension de la prescription serait intervenue, la Cour est dans l'impossibilité de vérifier si, au jour de la prononciation du jugement, l'action publique était ou non prescrite; elle casse en conséquence, avec renvoi, la décision de condamnation (1)."
+      ],
+      "abstractNL": [
+        "Wanneer het bestreden vonnis de beklaagde zonder verdere verklaring veroordeelt wegens overtredingen, die gepleegd zijn tussen een bepaalde datum en een andere datum, en noch uit het vonnis noch uit enig stuk waarop het Hof vermag acht te slaan blijkt dat het feit gepleegd is minder dan zes maanden voor de daad van onderzoek of van vervolging waardoor de verjaring wordt gestuit en minder dan zes maanden voor de uitspraak van het vonnis of dat er een oorzaak van schorsing van de verjaring zou hebben bestaan, is het voor het Hof niet mogelijk na te gaan of de strafvordering op de dag van de uitspraak van het vonnis al dan niet verjaard was; het vernietigt dientengevolge de veroordelende beslissing met verwijzing (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740226.8": {
+      "court": "CASS",
+      "date": "1974-02-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision le juge qui déclare non fondée l'action d'une partie au motif qu'il n'y a point de relation de cause à effet entre le dommage et le fait imputé au prévenu, alors que cette absence de relation causale est déduite de circonstances qui ne concernent pas ledit dommage, mais exclusivement celui qui était invoqué par une autre partie."
+      ],
+      "abstractNL": [
+        "Niet wettelijk gerechtvaardigd is de beslissing van de rechter die de rechtsvordering van de burgerlijke partij niet gegrond verklaart, op grond dat er geen oorzakelijk verband bestaat tussen de schade en de aan de beklaagde toegeschreven daad, wanneer deze afwezigheid van oorzakelijk verband wordt afgeleid uit omstandigheden die geen betrekking hebben op deze schade doch enkel op de schade welke door een andere partij was aangevoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731015.11": {
+      "court": "CASS",
+      "date": "1973-10-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/10/15/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 10 mai 1960 relatif à l'échardonnage, pris en exécution de l'article 12 du Code rural et sanctionné conformément à l'article 88, 1., de ce code, est resté en vigueur jusqu'à son abrogation par l'article 95-28 et son remplacement par l'article 43 de l'arrêté royal du 25 août 1971, nonobstant l'abrogation des articles 12 et 88, 1., du Code rural par l'article 10 de la loi du 2 avril 1971 relative à la lutte contre les organismes nuisibles aux végétaux et aux produits végétaux, dont les dispositions reprennent et renforcent la législation antérieure."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 10 mei 1960 betreffende de distelbestrijding, ter uitvoering van artikel 12 van het Veldwetboek genomen en waarvan de overtredingen gestraft worden overeenkomstig artikel 88, 1., van dit wetboek, is van kracht gebleven tot zijn opheffing door artikel 95-28 en zijn vervanging door artikel 43 van het koninklijk besluit van 25 augustus 1971, niettegenstaande de opheffing van de artikelen 12 en 88, 1., van het Veldwetboek bij artikel 10 van de wet van 2 april 1971 betreffende de bestrijding van voor planten en plantaardige produkten schadelijke organismen, waarvan de bepalingen de vroegere wetgeving overnemen en sterker maken."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880531.2": {
+      "court": "CASS",
+      "date": "1988-05-31",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne le prévenu du chef d'infraction à l'article 88, 9°, alinéa 1er, du Code rural, est, en vertu de l'alinéa 2 de cette disposition, tenu d'ordonner la réparation de la contravention lorsqu'il considère que cette réparation est nécessaire pour faire disparaître les conséquences de la contravention, sans que la partie civile ou le ministère public doivent le demander."
+      ],
+      "abstractNL": [
+        "De rechter die de beklaagde veroordeelt wegens overtreding van art. 88, 9°, eerste lid, Veldwetboek, is krachtens het tweede lid van die bepaling verplicht het herstel van de overtreding te bevelen wanneer hij oordeelt dat herstel nodig is om de door de overtreding teweeggebrachte gevolgen te doen verdwijnen, zonder dat de burgerlijke partij of het openbaar ministerie zulks hoeven te vorderen."
+      ]
+    }
+  },
+  "89": {
+    "ECLI:BE:CASS:1993:ARR.19930216.9": {
+      "court": "CASS",
+      "date": "1993-02-16",
+      "roleNumber": "6017",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/02/16/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le terme \"champs\" dans l'article 89, 8°, du code rural a une portée générale et vise également les jardins, même lorsqu'ils sont situés dans un centre urbain ou une agglomération."
+      ],
+      "abstractNL": [
+        "De term \"veld\" uit art. 89, 8°, Veldwetboek heeft een algemene draagwijdte en doelt ook op tuinen, zelfs wanneer die in een bebouwde kom of een agglomeratie zijn gelegen."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741001.4": {
+      "court": "CASS",
+      "date": "1974-10-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/01/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié le jugement qui condamne le demandeur, par application de l'art 89, 8°, du Code rural, pour avoir allumé un feu à moins de 100 mètres des maisons, sans constater que le feu a été allumé \" dans les champs. \""
+      ],
+      "abstractNL": [
+        "Niet wettig gerechtvaardigd is het vonnis dat eiser veroordeelt met toepassing van artikel 89, 8°, van het Veldwetboek wegens het aansteken van vuur op minder dan 100 meter afstand van huizen, zonder vast te stellen dat het vuur \" op het veld \" werd aangestoken."
+      ]
+    }
+  },
+  "90": {
+    "ECLI:BE:CASS:1985:ARR.19850326.7": {
+      "court": "CASS",
+      "date": "1985-03-26",
+      "roleNumber": "9234",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge pénal n'a pas d'obligation de répondre aux moyens développés par le prévenu dans l'exploit d'opposition à une condamnation par défaut, si, à l'audience, l'opposant n'a pas déclaré reprendre ces moyens en termes de conclusions."
+      ],
+      "abstractNL": [
+        "De strafrechter behoeft niet te antwoorden op de middelen die door de beklaagde in het exploot van verzet tegen een bij verstek gewezen beslissing worden uiteengezet, als de opposant op de terechtzitting niet heeft verklaard dat hij die middelen bij conclusie herneemt."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721107.17": {
+      "court": "CASS",
+      "date": "1972-11-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/11/07/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "L'énumération, dans l'article 88, 12°, du Code rural, des endroits dans lesquels il est interdit de jeter des pierres ou autres corps durs ou d'autres objets pouvant souiller ou dégrader est limitative; elle vise notamment les arbres, mais non les bois comme tels."
+      ],
+      "abstractNL": [
+        "De opsomming, in artikel 88, 12°, van het Veldwetboek, van de plaatsen waar het werpen van stenen of andere harde lichamen of andere voorwerpen die kunnen bevuilen of beschadigen, verboden is, heeft met name betrekking op bomen, doch niet op bossen als dusdanig."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810902.2": {
+      "court": "CASS",
+      "date": "1981-09-02",
+      "roleNumber": "1788",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le fait de procéder à des plantations forestières dans les parties du territoire réservées à l'agriculture, à moins de six mètres de la ligne séparative de deux héritages, sans l'autorisation du collège des bourgmestre et échevins, est une infraction instantanée."
+      ],
+      "abstractNL": [
+        "Bosaanplanting in de voor landbouw bestemde gedeelten van het grondgebied op minder dan zes meter van de scheidingslijn tussen twee erven, zonder vergunning van het college van burgemeester en schepenen, is een aflopend misdrijf."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1968:ARR.19681021.4": {
       "court": "CASS",
@@ -44,6 +354,134 @@
       ],
       "abstractNL": [
         "Artikel 91, 1°, van het Veldwetboek, dat de herhaling regelt voor bepaalde bij dit wetboek bedoelde overtredingen, is niet van toepassing op de overtredingen waarvan sprake is in artikel 88."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951213.2": {
+      "court": "CASS",
+      "date": "1995-12-13",
+      "roleNumber": "P951103F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/13/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La contravention de dégradation, de détérioration ou d'usurpation de voirie visée à l'article 88, 9°, du Code rural est une infraction instantanée."
+      ],
+      "abstractNL": [
+        "De overtreding \"beschadiging of toeëigening van een weg\" bedoeld in art. 88, 9°, Veldwetboek is een aflopend misdrijf."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930216.9": {
+      "court": "CASS",
+      "date": "1993-02-16",
+      "roleNumber": "6017",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/02/16/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le terme \"champs\" dans l'article 89, 8°, du code rural a une portée générale et vise également les jardins, même lorsqu'ils sont situés dans un centre urbain ou une agglomération."
+      ],
+      "abstractNL": [
+        "De term \"veld\" uit art. 89, 8°, Veldwetboek heeft een algemene draagwijdte en doelt ook op tuinen, zelfs wanneer die in een bebouwde kom of een agglomeratie zijn gelegen."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850326.7": {
+      "court": "CASS",
+      "date": "1985-03-26",
+      "roleNumber": "9234",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge pénal n'a pas d'obligation de répondre aux moyens développés par le prévenu dans l'exploit d'opposition à une condamnation par défaut, si, à l'audience, l'opposant n'a pas déclaré reprendre ces moyens en termes de conclusions."
+      ],
+      "abstractNL": [
+        "De strafrechter behoeft niet te antwoorden op de middelen die door de beklaagde in het exploot van verzet tegen een bij verstek gewezen beslissing worden uiteengezet, als de opposant op de terechtzitting niet heeft verklaard dat hij die middelen bij conclusie herneemt."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820323.9": {
+      "court": "CASS",
+      "date": "1982-03-23",
+      "roleNumber": "6904",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'est prescrite une infraction aux articles 88, 9°, du Code rural et 28 du règlement sur les chemins vicinaux de la province de Flandre occidentale du 24 avril 1952, modifié par arrêté du 10 octobre 1963, le juge de répression, saisi de l'action publique avant que la prescription ait été acquise, doit, par application de l'article 32bis du règlement provincial et de l'article 33 de la loi du 10 avril 1841 sur les chemins vicinaux, ordonner le rétablissement des lieux dans leur état primitif; ce rétablissement ne constitue en effet pas une peine mais uniquement un mode particulier de réparation ou de restitution destiné à mettre fin à une situation contraire à la loi résultant de l'infraction et nuisant à l'intérêt public; la décision qui l'ordonne est de nature civile."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van art. 88, 9°, Veldw. en van art. 28 van de verordening op de buurtwegen vande provincie West-Vlaanderen van 24 april 1952, gew. bij besluit van 10 okt. 1963, verjaard is, moet de strafrechter bij wie de strafvordering aanhangig is gemaakt voordat deze door verjaring is vervallen, met toepassing van art. 32bis van de provincieverordening en van art. 33 wet van 10 april 1841 op de buurtwegen, bevelen dat de plaats in haar vorige staat wordt hersteld; dat herstel is immers geen straf, maar een bijzondere vorm van vergoeding of teruggave om een einde te maken aan de met de wet strijdige toestand, die uit het misdrijf is ontstaan en waardoor het openbaar belang wordt geschaad; de beslissing waarbij het herstel wordt bevolen, is van civielrechtelijke aard <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820316.22": {
+      "court": "CASS",
+      "date": "1982-03-16",
+      "roleNumber": "6688",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/16/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 88, 9°, du Code rural, qui punit l'usurpation sur la largeur d'un chemin public, l'usurpation suppose, de la part du contrevenant, une mainmise totale ou partielle sur la surface du chemin."
+      ],
+      "abstractNL": [
+        "Volgens art. 88, 9°, Veldwetboek, krachtens hetwelk het zich toeëigenen van een strook van een openbare weg strafbaar is, kan er van toeëigening slechts sprake zijn wanneer, door de gedraging van de beklaagde, het oppervlak van de weg geheel of gedeeltelijk wordt ingepalmd <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741001.4": {
+      "court": "CASS",
+      "date": "1974-10-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/01/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié le jugement qui condamne le demandeur, par application de l'art 89, 8°, du Code rural, pour avoir allumé un feu à moins de 100 mètres des maisons, sans constater que le feu a été allumé \" dans les champs. \""
+      ],
+      "abstractNL": [
+        "Niet wettig gerechtvaardigd is het vonnis dat eiser veroordeelt met toepassing van artikel 89, 8°, van het Veldwetboek wegens het aansteken van vuur op minder dan 100 meter afstand van huizen, zonder vast te stellen dat het vuur \" op het veld \" werd aangestoken."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740226.8": {
+      "court": "CASS",
+      "date": "1974-02-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision le juge qui déclare non fondée l'action d'une partie au motif qu'il n'y a point de relation de cause à effet entre le dommage et le fait imputé au prévenu, alors que cette absence de relation causale est déduite de circonstances qui ne concernent pas ledit dommage, mais exclusivement celui qui était invoqué par une autre partie."
+      ],
+      "abstractNL": [
+        "Niet wettelijk gerechtvaardigd is de beslissing van de rechter die de rechtsvordering van de burgerlijke partij niet gegrond verklaart, op grond dat er geen oorzakelijk verband bestaat tussen de schade en de aan de beklaagde toegeschreven daad, wanneer deze afwezigheid van oorzakelijk verband wordt afgeleid uit omstandigheden die geen betrekking hebben op deze schade doch enkel op de schade welke door een andere partij was aangevoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880531.2": {
+      "court": "CASS",
+      "date": "1988-05-31",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne le prévenu du chef d'infraction à l'article 88, 9°, alinéa 1er, du Code rural, est, en vertu de l'alinéa 2 de cette disposition, tenu d'ordonner la réparation de la contravention lorsqu'il considère que cette réparation est nécessaire pour faire disparaître les conséquences de la contravention, sans que la partie civile ou le ministère public doivent le demander."
+      ],
+      "abstractNL": [
+        "De rechter die de beklaagde veroordeelt wegens overtreding van art. 88, 9°, eerste lid, Veldwetboek, is krachtens het tweede lid van die bepaling verplicht het herstel van de overtreding te bevelen wanneer hij oordeelt dat herstel nodig is om de door de overtreding teweeggebrachte gevolgen te doen verdwijnen, zonder dat de burgerlijke partij of het openbaar ministerie zulks hoeven te vorderen."
+      ]
+    }
+  },
+  "35bis": {
+    "ECLI:BE:CASS:2013:ARR.20130510.4": {
+      "court": "CASS",
+      "date": "2013-05-10",
+      "roleNumber": "C.12.0371.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Des plantations forestières dans les parties du territoire réservées à l''agriculture suivant le plan de secteur ne sont pas légalement exclues à condition de laisser une distance de six mètres jusqu''à la ligne séparative de deux héritages et d'avoir obtenu l'autorisation du collège des bourgmestre et échevins (1). (1) Voir les conclusions du M.P., publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Bosaanplanting in de volgens het gewestplan voor de landbouw bestemde gedeelten van het grondgebied is wettelijk niet uitgesloten op voorwaarde dat een afstand van zes meter gelaten wordt tot de scheidingslijn tussen twee erven en dat het college van burgemeester en schepenen vergunning verleent (1). (1) Zie concl. O.M."
       ]
     }
   }

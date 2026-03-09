@@ -1,4 +1,20 @@
 {
+  "18": {
+    "ECLI:BE:CASS:2007:ARR.20070423.2": {
+      "court": "CASS",
+      "date": "2007-04-23",
+      "roleNumber": "C.04.0347.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La disposition que toute obligation de faire ou de ne pas faire se résout en dommages et intérêts en cas d'inexécution de la part du débiteur n'exclut pas que l'obligation de réparer peut s'étendre à l'amende administrative imposée, en application de l'article 18 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'organisateur d'un match de football national ou international ou à la fédération sportive coiffante qui ne respecte pas les obligations prévues par la loi."
+      ],
+      "abstractNL": [
+        "De bepaling dat iedere verbintenis om iets te doen of niet te doen wordt opgelost in schadevergoeding, ingeval de schuldenaar de verbintenis niet nakomt, sluit niet uit dat de vergoedingsplicht zich kan uitstrekken tot een administratieve geldboete die krachtens artikel 18 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden kan worden opgelegd aan de organisator van een nationale voetbalwedstrijd of van een internationale voetbalwedstrijd of aan de overkoepelende sportbond die de in de wet bedoelde verplichtingen niet naleeft."
+      ]
+    }
+  },
   "22": {
     "ECLI:BE:CASS:2013:ARR.20130111.1": {
       "court": "CASS",
@@ -12,6 +28,78 @@
       ],
       "abstractNL": [
         "De jeugdrechtbank die wordt gevat in het kader van het beroep tegen een administratieve beslissing ten aanzien van een minderjarige op grond van de Voetbalwet (1), vermag niet de maatregelen van bewaring, behoeding en opvoeding bedoeld in artikel 37, §1, van de Jeugdbeschermingswet op te leggen, of deze aan de opgelegde administratieve sanctie te substitueren. (1) In casu ging het om een stadionverbod."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110905.1": {
+      "court": "CASS",
+      "date": "2011-09-05",
+      "roleNumber": "C.11.0111.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la genèse de la loi que, par l'article 22 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, le législateur tend uniquement à punir les personnes interdites d'accès au terrain de jeu et aux zones adjacentes qui ont commis des faits qualifiés (1). (1) L'unique moyen de cassation faisait valoir que l'article de loi en question était applicable non seulement aux spectateurs d'un match de football mais également aux joueurs de football. La Cour a décidé que le moyen manquait en droit."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis volgt dat de wetgever met artikel 22 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden slechts die personen strafbaar heeft gesteld aan wie de toegang tot het speelveld en de aansluitende zones verboden is en die de omschreven feiten plegen (1). (1) In het enig middel tot cassatie was aangevoerd dat dit artikel niet enkel toepasselijk was op toeschouwers van een voetbalwedstrijd maar eveneens op de voetbalspelers zelf. Het Hof oordeelde dat dergelijk standpunt faalt naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080207.5": {
+      "court": "CASS",
+      "date": "2008-02-07",
+      "roleNumber": "C.05.0233.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les sanctions administratives que prévoit la loi relative à la sécurité lors des matches de football ne peuvent être prononcées avec sursis à l'exécution, à défaut d'une disposition légale le prévoyant, ni par le fonctionnaire compétent ni, par conséquent, par le juge de police en degré d'appel."
+      ],
+      "abstractNL": [
+        "De administratieve sancties waarin de Voetbalwet voorziet, kunnen noch door de bevoegde ambtenaar, en bijgevolg noch door de politierechter in graad van beroep, uitgesproken worden met uitstel van tenuitvoerlegging bij ontstentenis van enige wetsbepaling die daarin voorziet."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:2011:ARR.20110221.1": {
+      "court": "CASS",
+      "date": "2011-02-21",
+      "roleNumber": "C.09.0104.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/02/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'infraction visée à l'article 23 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, dans la version antérieure à sa modification par l'article 27 de la loi du 25 avril 2007, ne requiert pas que le match même soit suspendu en raison du comportement réprimé; il suffit que le déroulement du match, qui inclut le spectacle des supporters, soit troublé d'une manière quelconque par ce comportement (1). (1) Voir Cass., 16 novembre 2009, RG C.09.0104.N, Pas., 2009, n° 664."
+      ],
+      "abstractNL": [
+        "Voor de inbreuk bepaald in artikel 23 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden is niet vereist dat omwille van het bedoelde gedrag het spel zelf moet worden stilgelegd, maar volstaat het dat dit gedrag het verloop van de wedstrijd, waartoe ook de beleving van de toeschouwers behoort, op enige wijze hindert (1). (1) Zie: Cass., 16 nov. 2009, AR C.09.0104.N, Pas., 2009, n° 664."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091116.4": {
+      "court": "CASS",
+      "date": "2009-11-16",
+      "roleNumber": "C.09.0104.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 26, § 2, de la loi spéciale du 6 janvier 1989 sur la Cour d'arbitrage, la Cour est tenue de poser la question préjudicielle soulevée quant à l'éventuelle méconnaissance du principe de la légalité consacré aux articles 12, alinéa 2, 14 de la Constitution et 7 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, en ce que ni la loi du 21 décembre 1998 relative à la sécurité lors des matches de football ni aucune autre disposition légale ne précisent ce qu'il y a lieu d'entendre par \"le trouble du déroulement d'un match de football\" et par \"l'incitation à porter des coups et blessures, à la haine ou à l'emportement\" au sens de l'article 23 de la loi du 21 décembre 1998 précitée, alors que le principe de la légalité d'une disposition pénale requiert que, en soi ou lue conjointement avec d'autres dispositions, cette disposition définisse de manière suffisante le comportement punissable."
+      ],
+      "abstractNL": [
+        "Het Hof is krachtens artikel 26, § 2, van de Bijzondere Wet Arbitragehof gehouden de opgeworpen prejudiciële vraag te stellen wanneer aangevoerd wordt dat het legaliteitsbeginsel vervat in de artikelen 12, tweede lid en 14, Gw. en artikel 7, E.V.R.M. zou miskend zijn nu nergens in de Voetbalwet of in enige andere wettelijke bepaling nader wordt gepreciseerd wat dient begrepen te worden onder de in artikel 23 van de Voetbalwet vermelde \"verstoring van een voetbalwedstrijd\" en \"aanzetting tot slagen en verwondingen, haat of woede\", terwijl de legaliteit van een strafbepaling vereist dat zij op zichzelf of in context met andere bepalingen gelezen, op voldoende wijze de als strafbaar gestelde gedraging omschrijft."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080207.5": {
+      "court": "CASS",
+      "date": "2008-02-07",
+      "roleNumber": "C.05.0233.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les sanctions administratives que prévoit la loi relative à la sécurité lors des matches de football ne peuvent être prononcées avec sursis à l'exécution, à défaut d'une disposition légale le prévoyant, ni par le fonctionnaire compétent ni, par conséquent, par le juge de police en degré d'appel."
+      ],
+      "abstractNL": [
+        "De administratieve sancties waarin de Voetbalwet voorziet, kunnen noch door de bevoegde ambtenaar, en bijgevolg noch door de politierechter in graad van beroep, uitgesproken worden met uitstel van tenuitvoerlegging bij ontstentenis van enige wetsbepaling die daarin voorziet."
       ]
     }
   },
@@ -30,6 +118,82 @@
       "abstractNL": [
         "Tegen de beslissing van de jeugdrechtbank in beroep van een administratieve sanctie als bedoeld in artikel 24, tweede lid, van de Voetbalwet, staat geen hoger beroep open, zodat het vonnis in laatste aanleg is gewezen en een cassatieberoep tegen dergelijk vonnis ontvankelijk (1). (1) Zie de andersluidende concl. van het O.M.",
         "De jeugdrechtbank die wordt gevat in het kader van het beroep tegen een administratieve beslissing ten aanzien van een minderjarige op grond van de Voetbalwet (1), vermag niet de maatregelen van bewaring, behoeding en opvoeding bedoeld in artikel 37, §1, van de Jeugdbeschermingswet op te leggen, of deze aan de opgelegde administratieve sanctie te substitueren. (1) In casu ging het om een stadionverbod."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080207.5": {
+      "court": "CASS",
+      "date": "2008-02-07",
+      "roleNumber": "C.05.0233.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les sanctions administratives que prévoit la loi relative à la sécurité lors des matches de football ne peuvent être prononcées avec sursis à l'exécution, à défaut d'une disposition légale le prévoyant, ni par le fonctionnaire compétent ni, par conséquent, par le juge de police en degré d'appel."
+      ],
+      "abstractNL": [
+        "De administratieve sancties waarin de Voetbalwet voorziet, kunnen noch door de bevoegde ambtenaar, en bijgevolg noch door de politierechter in graad van beroep, uitgesproken worden met uitstel van tenuitvoerlegging bij ontstentenis van enige wetsbepaling die daarin voorziet."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:2010:ARR.20101104.6": {
+      "court": "CASS",
+      "date": "2010-11-04",
+      "roleNumber": "C.10.0078.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La loi relative à la sécurité lors des matches de football ne prévoyant aucun mode particulier de preuve concernant les faits pouvant faire l'objet d'une sanction administrative, la preuve de ces faits peut être rapportée par tous moyens de preuve soumis à un débat contradictoire, dont le juge apprécie souverainement la valeur probante; de la circonstance que des images d'un film vidéo pouvant faire la preuve de faits sanctionnés, ont été découvertes sur un site internet, il ne peut se déduire qu'il s'agit d'un moyen de preuve illicite portant atteinte au respect de la vie privée ou au droit de défense des personnes concernées."
+      ],
+      "abstractNL": [
+        "Aangezien de wet betreffende de veiligheid bij voetbalwedstrijden met betrekking tot de feiten waarvoor een administratieve sanctie opgelegd kan worden, geen enkel bijzonder bewijsmiddel oplegt, kan het bewijs van die feiten geleverd worden door alle bewijsmiddelen waarover een tegensprekelijk debat is gevoerd en waarvan de rechter op onaantastbare wijze de bewijswaarde beoordeelt; uit de omstandigheid dat de beelden van een video, die het bewijs kunnen opleveren van de gestrafte feiten, op een internetsite werden ontdekt, kan niet worden afgeleid dat het om een ongeoorloofd bewijsmiddel gaat, dat eerbied voor het privéleven of het recht van verdediging van de betrokken personen miskent."
+      ]
+    }
+  },
+  "26": {
+    "ECLI:BE:CASS:2009:ARR.20090102.1": {
+      "court": "CASS",
+      "date": "2009-01-02",
+      "roleNumber": "C.07.0571.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge doit ordonner la réouverture des débats avant de rejeter, en tout ou en partie, une demande sur la base d'une exception que les parties n'ont pas invoquée devant lui, comme la violation des droits de la défense dans une procédure visant à imposer une sanction administrative en vertu de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football (1) (2). (1) Voir Cass., 26 décembre 1986, RG 5176, Pas., 1987, n° 258; Cass., 3 avril 1998, RG C.97.0087.F, Pas., 1998, n° 191 et Cass., 17 mai 2002, RG C.01.0330.F, Pas., 2002, n° 303. (2) Art. 26, §§ 1er et 2 de la loi du 21 décembre 1998, tel qu'il était en vigueur avant sa modification par la loi du 25 avril 2007."
+      ],
+      "abstractNL": [
+        "De rechter moet de heropening van het debat bevelen alvorens een vordering geheel of gedeeltelijk af te wijzen op grond van een exceptie die partijen niet voor hem hadden in geroepen, zoals de miskenning van het recht van verdediging in een procedure tot het opleggen van een administratieve sanctie op grond van de Wet van 21 dec. 1998 betreffende de veiligheid bij voetbalwedstrijden (1) (2). (1) Zie Cass., 26 dec. 1986, AR 5176, A.C., 1986-87, nr. 258; Cass., 3 april 1998, AR C.97.0087.F, A.C., 1998, nr. 191, en Cass., 17 mei 2002, AR C.01.0330.F, A.C., 2002, nr. 303. (2) Art. 26, §§ 1 en 2, W. 21 dec. 1998, zoals van kracht voor de wijziging ervan bij W. 25 april 2007."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070423.2": {
+      "court": "CASS",
+      "date": "2007-04-23",
+      "roleNumber": "C.04.0347.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'appel de la décision du fonctionnaire compétent pour imposer une sanction administrative du chef d'infraction à la sécurité lors des matches de football susceptible d'être interjeté devant le tribunal de police, n'équivaut pas à l'appel au sens des articles 616 et 1050 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De mogelijkheid om tegen de beslissing van de bevoegde ambtenaar tot het opleggen van een administratieve sanctie wegens inbreuken op de veiligheid bij voetbalwedstrijden beroep in te stellen bij de politierechter, staat niet gelijk met een beroep in de zin van de artikelen 616 en 1050 van het Gerechtelijk Wetboek."
+      ]
+    }
+  },
+  "27": {
+    "ECLI:BE:CASS:2009:ARR.20090102.1": {
+      "court": "CASS",
+      "date": "2009-01-02",
+      "roleNumber": "C.07.0571.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge doit ordonner la réouverture des débats avant de rejeter, en tout ou en partie, une demande sur la base d'une exception que les parties n'ont pas invoquée devant lui, comme la violation des droits de la défense dans une procédure visant à imposer une sanction administrative en vertu de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football (1) (2). (1) Voir Cass., 26 décembre 1986, RG 5176, Pas., 1987, n° 258; Cass., 3 avril 1998, RG C.97.0087.F, Pas., 1998, n° 191 et Cass., 17 mai 2002, RG C.01.0330.F, Pas., 2002, n° 303. (2) Art. 26, §§ 1er et 2 de la loi du 21 décembre 1998, tel qu'il était en vigueur avant sa modification par la loi du 25 avril 2007."
+      ],
+      "abstractNL": [
+        "De rechter moet de heropening van het debat bevelen alvorens een vordering geheel of gedeeltelijk af te wijzen op grond van een exceptie die partijen niet voor hem hadden in geroepen, zoals de miskenning van het recht van verdediging in een procedure tot het opleggen van een administratieve sanctie op grond van de Wet van 21 dec. 1998 betreffende de veiligheid bij voetbalwedstrijden (1) (2). (1) Zie Cass., 26 dec. 1986, AR 5176, A.C., 1986-87, nr. 258; Cass., 3 april 1998, AR C.97.0087.F, A.C., 1998, nr. 191, en Cass., 17 mei 2002, AR C.01.0330.F, A.C., 2002, nr. 303. (2) Art. 26, §§ 1 en 2, W. 21 dec. 1998, zoals van kracht voor de wijziging ervan bij W. 25 april 2007."
       ]
     }
   },
@@ -62,6 +226,114 @@
       "abstractNL": [
         "Tegen de beslissing van de jeugdrechtbank in beroep van een administratieve sanctie als bedoeld in artikel 24, tweede lid, van de Voetbalwet, staat geen hoger beroep open, zodat het vonnis in laatste aanleg is gewezen en een cassatieberoep tegen dergelijk vonnis ontvankelijk (1). (1) Zie de andersluidende concl. van het O.M.",
         "De jeugdrechtbank die wordt gevat in het kader van het beroep tegen een administratieve beslissing ten aanzien van een minderjarige op grond van de Voetbalwet (1), vermag niet de maatregelen van bewaring, behoeding en opvoeding bedoeld in artikel 37, §1, van de Jeugdbeschermingswet op te leggen, of deze aan de opgelegde administratieve sanctie te substitueren. (1) In casu ging het om een stadionverbod."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120608.3": {
+      "court": "CASS",
+      "date": "2012-06-08",
+      "roleNumber": "C.11.0735.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Est illégal le jugement qui, pour dire le recours contre la décision administrative prononçant une amende administrative et une interdiction de stade recevable, considère que la requête ne devait être ni motivée ni datée."
+      ],
+      "abstractNL": [
+        "Het vonnis dat het beroep tegen de administratieve beslissing die een geldboete en een stadionverbod oplegt, ontvankelijk verklaart op grond dat het verzoekschrift noch gemotiveerd noch gedagtekend moest zijn, is onwettig."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070423.2": {
+      "court": "CASS",
+      "date": "2007-04-23",
+      "roleNumber": "C.04.0347.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'appel de la décision du fonctionnaire compétent pour imposer une sanction administrative du chef d'infraction à la sécurité lors des matches de football susceptible d'être interjeté devant le tribunal de police, n'équivaut pas à l'appel au sens des articles 616 et 1050 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De mogelijkheid om tegen de beslissing van de bevoegde ambtenaar tot het opleggen van een administratieve sanctie wegens inbreuken op de veiligheid bij voetbalwedstrijden beroep in te stellen bij de politierechter, staat niet gelijk met een beroep in de zin van de artikelen 616 en 1050 van het Gerechtelijk Wetboek."
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:2012:ARR.20120521.1": {
+      "court": "CASS",
+      "date": "2012-05-21",
+      "roleNumber": "C.11.0206.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les articles 35 et 36 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football visent à empêcher que le contrevenant à une des dispositions de la loi soit puni à la fois pénalement et administrativement, mais ne font pas obstacle à ce que plusieurs procès-verbaux soient établis et que ces procès-verbaux produisent des effets différents."
+      ],
+      "abstractNL": [
+        "De artikelen 35 en 36 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden verhinderen dat de overtreder van een in die wet omschreven bepaling zowel strafrechtelijk als administratiefrechtelijk zou gesanctioneerd worden maar staan er niet aan in de weg dat meerdere processen-verbaal worden opgemaakt en dat die processen-verbaal een verschillend gevolg krijgen."
+      ]
+    }
+  },
+  "36": {
+    "ECLI:BE:CASS:2012:ARR.20120521.1": {
+      "court": "CASS",
+      "date": "2012-05-21",
+      "roleNumber": "C.11.0206.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les articles 35 et 36 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football visent à empêcher que le contrevenant à une des dispositions de la loi soit puni à la fois pénalement et administrativement, mais ne font pas obstacle à ce que plusieurs procès-verbaux soient établis et que ces procès-verbaux produisent des effets différents."
+      ],
+      "abstractNL": [
+        "De artikelen 35 en 36 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden verhinderen dat de overtreder van een in die wet omschreven bepaling zowel strafrechtelijk als administratiefrechtelijk zou gesanctioneerd worden maar staan er niet aan in de weg dat meerdere processen-verbaal worden opgemaakt en dat die processen-verbaal een verschillend gevolg krijgen."
+      ]
+    }
+  },
+  "41": {
+    "ECLI:BE:CASS:2010:ARR.20100517.5": {
+      "court": "CASS",
+      "date": "2010-05-17",
+      "roleNumber": "C.09.0616.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction de stade judiciaire visée à l'article 41 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football constitue une peine relevant de l'application du Code d'instruction criminelle. En conséquence, cette interdiction de stade est distincte de l'interdiction de stade administrative visée à l'article 24 de la loi, qui est une sanction administrative infligée dans le cadre d'une procédure administrative."
+      ],
+      "abstractNL": [
+        "Het gerechtelijk stadionverbod, zoals bedoeld in artikel 41 van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden, is een straf waarop het Wetboek van Strafvordering van toepassing is. Dit stadionverbod onderscheidt zich dan ook van het administratief stadionverbod, bedoeld in artikel 24 van voormelde wet, zijnde een administratieve sanctie die op grond van een administratieve procedure wordt opgelegd."
+      ]
+    }
+  },
+  "45": {
+    "ECLI:BE:CASS:2010:ARR.20100517.5": {
+      "court": "CASS",
+      "date": "2010-05-17",
+      "roleNumber": "C.09.0616.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt contradictoire par lequel une cour d'appel prononce une condamnation pénale accompagnée d'une interdiction de stade judiciaire du chef d'une infraction commise dans un stade de football acquiert la force de chose jugée et est exécutoire à l'expiration du délai de quinze jours francs après la prononciation, pour autant qu'aucun recours en cassation n'ait été dirigé contre cet arrêt au cours de ce délai en application de l'article 373 du Code d'instruction criminelle. Le ministère public est tenu de veiller à l'exécution de la décision du juge pénal sur l'action publique dont la décision imposant une interdiction de stade judiciaire relève. La circonstance qu'à cette occasion, conformément à l'article 45 de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, le ministère public fait appel aux services de la Direction générale de la politique de sécurité et de prévention - Cellule Football - est sans incidence en l'espèce. La circonstance que la prise de cours et l'expiration de l'interdiction de stade prononcée est notifiée à cette direction alors que la procédure pénale ne prévoit pas de communication à l'égard de l'intéressé est la conséquence logique du fait que l'intéressé a été partie au procès pénal et que la direction ne l'a pas été."
+      ],
+      "abstractNL": [
+        "Een op tegenspraak gewezen arrest van een hof van beroep waarbij wegens een in een voetbalstadion begaan misdrijf een strafrechtelijke veroordeling met een gerechtelijk stadionverbod wordt uitgesproken, verkrijgt kracht van gewijsde en is uitvoerbaar na het verstrijken van de termijn van 15 vrije dagen vanaf de uitspraak, op voorwaarde dat tegen dit arrest binnen deze termijn geen cassatieberoep wordt aangetekend overeenkomstig artikel 373 van het Wetboek van Strafvordering. Het openbaar ministerie moet zorgen voor de tenuitvoerlegging van de beslissing van de strafrechter over de strafvordering, waartoe de beslissing omtrent het gerechtelijk stadionverbod behoort. De omstandigheid dat het openbaar ministerie hiervoor overeenkomstig artikel 45 van de wet van 21 december 1998 een beroep doet op de Directie Veiligheids- en Preventiebeleid- Voetbalcel, doet hieraan geen afbreuk. De omstandigheid dat het begin en einde van het uitgesproken stadionverbod aan deze directie ter kennis wordt gebracht en deze mededeling volgens de strafrechtspleging niet aan de betrokkene wordt gedaan, is het normaal gevolg van het feit dat de bedoelde directie geen partij was in de strafprocedure en de betrokkene wel."
+      ]
+    }
+  },
+  "1184": {
+    "ECLI:BE:CASS:2004:ARR.20040416.8": {
+      "court": "CASS",
+      "date": "2004-04-16",
+      "roleNumber": "C030356F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le juge prononce la résolution d'un contrat synallagmatique pour cause de manquement des deux parties en application de l'article 1184 du Code civil, il est tenu de déterminer les dommages-intérêts dus à chacune des parties en raison de l'inexécution du contrat par l'autre partie en fonction de la gravité de leurs manquements respectifs (1) (2). (1) Cass., 15 avril 1996, RG 95.0109.N, n° 113. (2) Conclusions du MP partiellement contraires: le MP, qui avait une autre lecture de l'arrêt attaqué, concluait au rejet du premier moyen au motif que dès lors que l'arrêt accorde à la demanderesse des dommages et intérêts à concurrence de 101.331 FB et motive le rejet du surplus de la demande, l'arrêt n'a pas, contrairement à ce que soutient le moyen, \"dénié à la demanderesse tout droit à des dommages et intérêts\"."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter, met toepassing van art.1184 B.W., een wederkerige overeenkomst ontbonden verklaart wegens de wanprestatie van beide partijen, moet hij de schadevergoeding waarop iedere partij wegens de niet-uitvoering van de overeenkomst door de andere partij recht heeft, bepalen in evenredigheid met de ernst van hun respectieve tekortkomingen (1) (2). (1) Cass., 15 april 1996, AR C.95.0109.N, nr 113. (2) Gedeelt. andersl. concl. van het O.M.: het O.M. had het arrest anders gelezen en besloot tot verwerping van het eerste middel op grond dat het arrest, aangezien het aan eiseres 101.331 BEF schadevergoeding toekent en de verwerping van het overige gedeelte van haar vordering met redenen omkleedt, in tegenstelling tot hetgeen het middel aanvoert, \"eiseres (niet) alle recht op schadevergoeding ontzegt\"."
       ]
     }
   },

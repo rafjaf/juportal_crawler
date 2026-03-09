@@ -1,4 +1,98 @@
 {
+  "14": {
+    "ECLI:BE:CASS:2007:ARR.20070313.1": {
+      "court": "CASS",
+      "date": "2007-03-13",
+      "roleNumber": "P.06.1334.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/03/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les droits de la défense et le droit de toute personne à faire entendre sa cause équitablement par un tribunal impartial sur le fondement du principe de la présomption d'innocence, sont violés par le juge qui juge la manière dont le prévenu se défend contre ses imputations ou qui suscite l'apparence que toute défense est vaine (1). (1) Voir Cass., 24 août 1998, RG P.98.1007.N, n° 371; Cass., 9 octobre 2003, RG D.02.0008.N, n° 485."
+      ],
+      "abstractNL": [
+        "Het recht van verdediging en het recht van eenieder op een eerlijke behandeling van zijn zaak door een onpartijdige rechter, waarbij het vermoeden van onschuld als uitgangspunt geldt, worden miskend door de rechter die de wijze waarop de beklaagde zich verdedigt tegen de tenlastelegging beoordeelt of de schijn verwekt dat elke verdediging zinloos is (1). (1) Zie Cass., 24 aug. 1998, AR P.98.1007.N, nr 371; Cass., 9 okt. 2003, AR D.02.0008.N, nr 485."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20021126.14": {
+      "court": "CASS",
+      "date": "2002-11-26",
+      "roleNumber": "P011670N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/11/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge du fond qui constate que des infractions ayant antérieurement fait l'objet d'une décision définitive et d'autres faits dont il est saisi et qui sont antérieurs à ladite décision, constituent avec les premières la manifestation successive et continue de la même intention délictueuse, et qui tient compte pour la fixation de la peine, des peines déjà prononcées, ne juge ou ne sanctionne pas une seconde fois le prévenu pour des faits du chef desquels ce dernier a déjà été condamné ou acquitté. Il ne prononce une peine que du chef des faits dont il est saisi et dont son prédécesseur n'a pas eu connaissance, s'il considéré que la sanction initiale pour l'ensemble des faits commis n'est pas suffisamment sévère."
+      ],
+      "abstractNL": [
+        "De feitenrechter die vaststelt dat misdrijven die reeds het voorwerp waren van een in kracht van gewijsde gegane beslissing en andere feiten die bij hem aanhangig zijn en aan die beslissing voorafgaan, samen met de eerste misdrijven de opeenvolgende en voortgezette uitvoering zijn van een zelfde misdadig opzet, en bij de straftoemeting rekening houdt met de reeds uitgesproken straffen, berecht of bestraft de beklaagde geen tweede keer voor feiten waarvoor deze laatste reeds is veroordeeld of vrijgesproken. Hij spreekt een straf uit enkel voor de feiten die bij hem aanhangig zijn en waarvan zijn voorganger geen kennis had, indien hij oordeelt dat de aanvankelijke bestraffing voor het geheel van de gepleegde feiten niet streng genoeg is."
+      ]
+    }
+  },
+  "100": {
+    "ECLI:BE:CASS:2002:ARR.20021017.6": {
+      "court": "CASS",
+      "date": "2002-10-17",
+      "roleNumber": "C010238F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/10/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'autorisation donnée par le directeur général de l'enregistrement et des domaines en vertu de l'article 100 du Code des droits de succession pour permettre à certains fonctionnaires de recueillir notamment auprès des banques des renseignements sur des opérations effectuées par un mandataire d'une personne défunte ne doit pas préciser les faits qui font l'objet de la recherche dès lors que cette opération doit être considérée comme une opération effectuée par le défunt lui-même (1). (1) J. DECUYPER, Successierechten, Antwerpen, Kluwer, 2000-2001, n° 1603, p. 915, K. VAN LOOY, Code des droits de succession et commentaires, Bruxelles, IPCF, p. 272."
+      ],
+      "abstractNL": [
+        "De machtiging die de directeur-generaal van registratie en domeinen ingevolge art. 100 W. Succ. geeft opdat bepaalde ambtenaren met name bij banken inlichtingen kunnen inwinnen over verrichtingen die gedaan werden door een lasthebber van een overleden persoon, dient niet nader te omschrijven over welke feiten het onderzoek gaat, aangezien die verrichting beschouwd moet worden als een verricht die door de overledene zelf is gedaan (1). (1) J. DECUYPER, Successierechten, Antwerpen, Kluwer, 2000-2001, nr. 1603, p. 915.K. VAN LOOY, Code des droits de succession et commentaires, Brussel, IPCF, p. 272."
+      ]
+    }
+  },
+  "1153": {
+    "ECLI:BE:CASS:2002:ARR.20021017.7": {
+      "court": "CASS",
+      "date": "2002-10-17",
+      "roleNumber": "C010272F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/10/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée la décision qui condamne une partie au paiement d'intérêts moratoires pour défaut de paiement de la pension alimentaire sans rechercher si le retard apporté par cette partie à l'exécution de son obligation alimentaire lui est imputable."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij een partij wordt veroordeeld tot betaling van moratoire interest omdat de onderhoudsuitkering niet is betaald zonder na te gaan of de vertraging van die partij in de uitvoering van haar onderhoudsverplichting aan haar te wijten is, is niet naar recht verantwoord."
+      ]
+    }
+  },
+  "1382": {
+    "ECLI:BE:CASS:2006:ARR.20061127.4": {
+      "court": "CASS",
+      "date": "2006-11-27",
+      "roleNumber": "C050310N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/11/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'impossibilité de principe, pour des parties contractantes, d'invoquer les règles de la responsabilité extracontractuelle dans le cadre de leur relation contractuelle, découle de l'hypothèse que, sauf stipulation contraire, les parties au contrat ont voulu soumettre leur relation contractuelle et ses manquements aux seules règles de la responsabilité contractuelle; cette hypothèse est dénuée de fondement, lorsque la relation juridique porte sur un service public et, en conséquence, est de nature réglementaire et non contractuelle et est régie par un règlement de droit public; sauf stipulation contraire, un manquement commis dans le cadre de ce règlement n'exclut pas toute responsabilité extracontractuelle (1). (1) Cass., 23 mai 1997, RG C.95.0053.N, n° 236; Cass., 21 juin 2002, RG C.00.0097.N, n° 375."
+      ],
+      "abstractNL": [
+        "De principiële onmogelijkheid voor contractspartijen om zich in het raam van hun contractuele verhouding op de regels van de buiten-contractuele aansprakelijkheid te beroepen vloeit voort uit de onderstelling dat contractspartijen hun contractuele rechtsverhouding en een in dit raam begane wanprestatie, behoudens andersluidend beding, uitsluitend door de regels van de contractuele aansprakelijkheid willen laten beheersen; deze onderstelling ontbreekt in geval de rechtsverhouding, de verlening van een openbare dienst betreft, derhalve niet van contractuele maar van reglementaire aard is en beheerst wordt door een publiekrechtelijk reglement; behoudens andersluidend beding, sluit een tekortkoming begaan in het raam van dit reglement, buiten-contractuele aansprakelijkheid niet uit (1). (1) Cass., 23 mei 1997, AR C.95.0053.N, nr 236; Cass., 21 juni 2002, AR C.00.0097.N, nr 375."
+      ]
+    }
+  },
+  "1383": {
+    "ECLI:BE:CASS:2006:ARR.20061127.4": {
+      "court": "CASS",
+      "date": "2006-11-27",
+      "roleNumber": "C050310N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/11/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'impossibilité de principe, pour des parties contractantes, d'invoquer les règles de la responsabilité extracontractuelle dans le cadre de leur relation contractuelle, découle de l'hypothèse que, sauf stipulation contraire, les parties au contrat ont voulu soumettre leur relation contractuelle et ses manquements aux seules règles de la responsabilité contractuelle; cette hypothèse est dénuée de fondement, lorsque la relation juridique porte sur un service public et, en conséquence, est de nature réglementaire et non contractuelle et est régie par un règlement de droit public; sauf stipulation contraire, un manquement commis dans le cadre de ce règlement n'exclut pas toute responsabilité extracontractuelle (1). (1) Cass., 23 mai 1997, RG C.95.0053.N, n° 236; Cass., 21 juin 2002, RG C.00.0097.N, n° 375."
+      ],
+      "abstractNL": [
+        "De principiële onmogelijkheid voor contractspartijen om zich in het raam van hun contractuele verhouding op de regels van de buiten-contractuele aansprakelijkheid te beroepen vloeit voort uit de onderstelling dat contractspartijen hun contractuele rechtsverhouding en een in dit raam begane wanprestatie, behoudens andersluidend beding, uitsluitend door de regels van de contractuele aansprakelijkheid willen laten beheersen; deze onderstelling ontbreekt in geval de rechtsverhouding, de verlening van een openbare dienst betreft, derhalve niet van contractuele maar van reglementaire aard is en beheerst wordt door een publiekrechtelijk reglement; behoudens andersluidend beding, sluit een tekortkoming begaan in het raam van dit reglement, buiten-contractuele aansprakelijkheid niet uit (1). (1) Cass., 23 mei 1997, AR C.95.0053.N, nr 236; Cass., 21 juni 2002, AR C.00.0097.N, nr 375."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1984:ARR.19840201.1": {
       "court": "CASS",
@@ -9,6 +103,486 @@
       ],
       "abstractFR": null,
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2002:ARR.20020723.4": {
+      "court": "CASS",
+      "date": "2002-07-23",
+      "roleNumber": "P021083F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/07/23/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les causes de récusation étant limitativement énumérées par la loi, la violation des articles 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, § 1er, du Pacte international relatif aux droits civils et politiques et du principe général du droit relatif à l'impartialité des juges ne peut fonder une récusation (1)."
+      ],
+      "abstractNL": [
+        "De wrakingsgronden worden op beperkende wijze opgesomd in de wet, zodat schending van art. 6.1 E.V.R.M. en van art. 14.1 I.V.B.P.R., alsook miskenning van het algemeen rechtsbeginsel inzake onafhankelijkheid en onpartijdigheid van de rechter niet tot staving van wraking kunnen worden aangevoerd (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020529.4": {
+      "court": "CASS",
+      "date": "2002-05-29",
+      "roleNumber": "P020763F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/05/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 14.3.b du Pacte international relatif aux droits civils et politiques concerne l'exercice des droits de la défense devant les juridictions de jugement et non la procédure suivie devant les juridictions d'instruction, sauf lorsque celles-ci statuent sur le bien-fondé de la prévention ou sur une contestation ayant pour objet des droits ou des obligations de caractère civil; il s'ensuit que ledit article 14.3.b ne concerne pas la procédure suivie en matière de détention préventive (1)."
+      ],
+      "abstractNL": [
+        "Art. 14.3.b, I.V.B.P.R., heeft betrekking op de uitoefening van het recht van verdediging voor de vonnisgerechten en niet op de rechtspleging voor de onderzoeksgerechten, behalve wanneer deze uitspraak doen over de gegrondheid van de tenlastelegging of op een geschil betreffende rechten of verplichtingen van burgerlijke aard; art. 14.3.b heeft bijgevolg geen betrekking op de rechtspleging inzake voorlopige hechtenis (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020416.20": {
+      "court": "CASS",
+      "date": "2002-04-16",
+      "roleNumber": "P010119N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le régime de la preuve prévue par l'article 67bis de la loi relative à la police de la circulation routière instaurant la présomption légale mais réfragable qu'une infraction commise avec un véhicule à moteur, immatriculé au nom d'une personne physique et dont le conducteur n'a pas été identifié au moment de la constatation de l'infraction, a été commise par le titulaire de la plaque d'immatriculation du véhicule, est compatible avec le principe général du droit que la peine est personnelle et avec la présomption d'innocence prévue par l'article 6, alinéa 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et par l'article 14, alinéa 2, du Pacte international relatif aux droits civils et politiques (1)."
+      ],
+      "abstractNL": [
+        "De bewijsregeling van art. 67bis Wegverkeerswet waarbij het wettelijke maar weerlegbare vermoeden wordt ingevoerd dat een overtreding met een motorvoertuig ingeschreven op naam van een natuurlijke persoon waarvan de bestuurder bij de vaststelling van de overtreding niet geïdentificeerd werd, door de titularis van de nummerplaat werd begaan, is verenigbaar met het algemeen rechtsbeginsel dat de straf persoonlijk is en met het vermoeden van onschuld van art. 6, lid 2, EVRM en art. 14, lid 2, IVBPR (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010517.10": {
+      "court": "CASS",
+      "date": "2001-05-17",
+      "roleNumber": "D000022F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'irrecevabilité des poursuites exercées contre le demandeur ne saurait se déduire du défaut d'indépendance ou d'impartialité du conseil provincial de l'Ordre des pharmaciens agissant en qualité de juridiction de jugement."
+      ],
+      "abstractNL": [
+        "De niet-ontvankelijkheid van de tegen eiser ingestelde vervolgingen kan niet worden afgeleid uit het gebrek aan onafhankelijkheid of onpartijdigheid van de provinciale raad van de Orde van apothekers, die optreedt als vonnisgerecht."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010112.12": {
+      "court": "CASS",
+      "date": "2001-01-12",
+      "roleNumber": "D990014NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Nul ne peut être poursuivi ou puni en raison d'une infraction pour laquelle il a déjà été acquitté ou condamné par un jugement définitif conformément à la loi et à la procédure pénale de chaque pays : cette règle ne fait pas obstacle à ce que les autorités belges prévoient des sanctions de diverse nature pour des faits identiques constituant des infractions, les uns régis par le système disciplinaire, les autres par le régime de la sanction administrative, même si les deux sanctions revêtent un caractère répressif au sens de l'article 14, § 7, du Pacte international relatif aux droits civiles et politiques (1)."
+      ],
+      "abstractNL": [
+        "Niemand mag voor een tweede keer worden berecht of gestraft voor een strafbaar feit waarvoor hij reeds overeenkomstig de wet en het procesrecht van elk land bij einduitspraak is veroordeeld of waarvan hij is vrijgesproken : zulks belet niet dat de Belgische overheid sancties van uiteenlopende aard mag bepalen voor dezelfde feiten die overtredingen uitmaken, de ene onderworpen aan het stelsel van het tuchtrecht, de andere onderworpen aan het stelsel van de administratieve sanctie, ook al zouden beide sancties een strafrechterlijke aard hebben in de zin van art. 14.7 van het internationaal verdrag van 19 december 1966 inzake burgerrechten en politieke rechten (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000307.8": {
+      "court": "CASS",
+      "date": "2000-03-07",
+      "roleNumber": "P991894N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La décision de la commission de libération conditionnelle statuant sur une demande de libération du condamné, n'a pas la caractéristique d'une décision sur une contestation sur des droits et obligations de caractère civil ou politique et pas davantage d'une décision sur des poursuites pénales. Les articles 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14 du Pacte international relatif aux droits civils et politiques ne s'appliquent pas à la procédure devant la commission de libération conditionnelle."
+      ],
+      "abstractNL": [
+        "De beslissing van de commissie voor de voorwaardelijke invrijheidstelling, uitspraak doende op een verzoek tot invrijheidstelling van de veroordeelde, heeft niet het kenmerk van een beslissing op een vordering tot het vaststellen van burgerlijke of politieke rechten en verplichtingen en evenmin van een beslissing op een strafvervolging. De artikelen 6 EVRM en 14 IVBPR zijn niet toepasselijk op de rechtspleging voor de commissie voor de voorwaardelijke invrijheidstelling."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000204.5": {
+      "court": "CASS",
+      "date": "2000-02-04",
+      "roleNumber": "C000051N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les causes de récusation étant limitativement énumérées par la loi, la violation des articles 6, §1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, §1er, du Pacte international relatif aux droits civils et politiques ne peut fonder une récusation."
+      ],
+      "abstractNL": [
+        "Aangezien de redenen tot wraking op beperkende wijze worden opgesomd in de wet, kan de schending van de artt. 6.1. EVRM en 14.1. IVBPR geen grond tot wraking opleveren."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981006.9": {
+      "court": "CASS",
+      "date": "1998-10-06",
+      "roleNumber": "P981228F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/06/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Aangezien de wet een limitatieve opsomming geeft van de wrakingsgronden, kan een schending van art. 6.3 EVRM en van art. 14.3 IVBPR niet worden aangevoerd in een verzoek tot wraking."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980929.8": {
+      "court": "CASS",
+      "date": "1998-09-29",
+      "roleNumber": "P981133F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "De la seule constatation que le prévenu n'a pas obtenu l'assistance d'un interprète devant le juge d'instruction, auquel il ne l'avait pas formellement demandée même s'il l'avait sollicitée au cours d'une audition par la police, il ne peut se déduire une violation des droits de la défense ni des droits de l'homme, dès lors qu'il a bénéficié d'une telle assistance devant le premier juge et devant la cour d'appel."
+      ],
+      "abstractNL": [
+        "Alleen uit de vaststelling dat de beklaagde geen bijstand van een tolk heeft gekregen voor de onderzoeksrechter, waaraan hij dat niet formeel had gevraagd, ook al had hij dat wel gedaan tijdens een verhoor door de politie, kan niet worden afgeleid dat zijn recht van verdediging of zijn rechten van de mens zijn geschonden, nu hij zowel voor de eerste rechter als voor het hof van beroep een dergelijke bijstand heeft genoten."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971105.10": {
+      "court": "CASS",
+      "date": "1997-11-05",
+      "roleNumber": "P971344F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions d'instruction qui sont appelées à examiner la légalité du mandat d'arrêt, ont le pouvoir d'en corriger les motifs soit en remplaçant un motif erroné par un motif exact, soit en corrigeant les erreurs éventuelles dans ce mandat, même lorsque le juge d'instruction a violé la présomption d'innocence, cette violation ne constituant pas un vice irréparable."
+      ],
+      "abstractNL": [
+        "De onderzoeksgerechten die de wettigheid van het aanhoudingsbevel moeten nagaan, zijn bevoegd om de redenen ervan te verbeteren, hetzij door een onjuiste reden door een juiste te vervangen, hetzij door de mogelijke fouten in dat bevel te verbeteren, zelfs als de onderzoeksrechter het vermoeden van onschuld miskend heeft, nu die miskenning geen onherstelbaar gebrek is."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970620.10": {
+      "court": "CASS",
+      "date": "1997-06-20",
+      "roleNumber": "C960142N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La désapprobation de la motivation du premier juge énoncée dans le jugement dont appel, émise dans la décision d'appel, ne suscite pas, en principe, l'apparence d'un parti pris ou d'une partialité, sauf s'il ressort des motifs du juge d'appel qu'il était prévenu ou partial lors de l'examen de la cause ou, à tout le moins, pouvait susciter une telle impression."
+      ],
+      "abstractNL": [
+        "De afkeuring in een uitspraak in hoger beroep, van een redenering gevolgd door de eerste rechter in een beroepen vonnis, is in beginsel geen blijk van vooringenomenheid of partijdigheid, tenzij uit de redenen van de appelrechter zou blijken dat hij vooringenomen of partijdig was bij het beoordelen van de zaak of althans de indruk kan wekken."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970319.9": {
+      "court": "CASS",
+      "date": "1997-03-19",
+      "roleNumber": "P970330F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Méconnait la présomption d'innocence consacrée par les articles 6, alinéa 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, alinéa 2, du pacte international relatif aux droits civils et politiques, l'arrêt de la chambre des mises en accusation à laquelle est soumise l'ordonnance de première comparution suivant le mandat d'arrêt qui, se référant aux motifs de celui-ci, statue sur la culpabilité d'un inculpé."
+      ],
+      "abstractNL": [
+        "Het in de artt. 6.2, EVRM, en 14.2, IVBPR, vastgelegde vermoeden van onschuld wordt miskend door het arrest van de kamer van inbeschuldigingstelling waaraan het bevel tot eerste verschijning, dat volgt op het bevel tot aanhouding, voorgelegd wordt en dat, met verwijzing naar de reden van het bevel tot aanhouding, uitspraak doet over de schuld van de beklaagde."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960216.8": {
+      "court": "CASS",
+      "date": "1996-02-16",
+      "roleNumber": "A940002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/02/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute personne accusée d'une infraction pénale a droit, en pleine égalité, à ne pas être forcée de témoigner contre elle-même ou de s'avouer coupable; dès lors, le juge pénal ne peut, dans la cause dont il est saisi, procéder à l'audition sous serment comme témoins d'une personne faisant l'objet d'une instruction judiciaire dans une autre cause ayant un rapport étroit avec la première ou d'une personne qui aurait participé à la commission de l'infraction sur laquelle porte cette instruction, sans avertir au préalable ces personnes qu'elles ne sont pas forcées de témoigner contre elles-mêmes ou de s'avouer coupables."
+      ],
+      "abstractNL": [
+        "Een ieder die wegens een strafbaar feit wordt vervolgd heeft het recht, in volle gelijkheid, niet te worden gedwongen tegen zichzelf te getuigen of een bekentenis af te leggen; de strafrechter mag bijgevolg, in de bij hem aanhangig gemaakte zaak, geen persoon onder eed als getuige verhoren waartegen in een andere zaak die een nauw verband vertoont met de eerste een gerechtelijk onderzoek loopt, noch een persoon die zou hebben deelgenomen aan het plegen van het misdrijf waarop dat onderzoek betrekking heeft, zonder vooraf die personen te waarschuwen dat zij niet gedwongen zijn tegen zichzelf te getuigen of een bekentenis af te leggen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950921.5": {
+      "court": "CASS",
+      "date": "1995-09-21",
+      "roleNumber": "C930344N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La mission du tribunal de commerce de déclarer d'office des commerçants et des sociétés commerciales en état de faillite implique que le tribunal peut prendre l'initiative de convoquer les intéressés et d'examiner si les conditions de faillite sont remplies; de la seule circonstance qu'avant de convoquer les intéressés, le juge a recueilli les éléments permettant d'apprécier la nécessité de la convocation, il ne peut être déduit que ce juge ne saurait être impartial pour statuer sur la faillite."
+      ],
+      "abstractNL": [
+        "De opdracht van de rechtbank van koophandel om ambtshalve kooplieden en handelsvennootschappen failliet te verklaren houdt in dat de rechtbank het initiatief mag nemen de betrokkenen op te roepen en zelf te onderzoeken of aan de vereisten voor een faillietverklaring is voldaan; uit de enkele omstandigheid dat de rechter, voordat hij de betrokkenen oproept, gegevens verzamelt om uit te maken of een oproeping wel nodig is, kan niet worden afgeleid dat die rechter niet de vereiste onpartijdigheid aan de dag zou leggen om over het faillissement uitspraak te doen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941209.11": {
+      "court": "CASS",
+      "date": "1994-12-09",
+      "roleNumber": "D930030N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le principe suivant lequel le juge disciplinaire doit être impartial n'est pas violé par la présence au conseil provincial de l'Ordre des médecins, du magistrat assesseur qui assiste tant à l'instruction qu'à l'examen et aux délibérations mais ne participe pas au vote."
+      ],
+      "abstractNL": [
+        "Het beginsel van de onpartijdigheid van de tuchtrechter is niet geschonden wanneer de magistraat-assessor bij de provinciale raad van de Orde der geneesheren zowel tijdens het onderzoek als tijdens de behandeling en de beraadslaging aanwezig is geweest, maar niet heeft deelgenomen aan de stemming. (Art. 7, alinéa 2, Artsenwet)."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911218.13": {
+      "court": "CASS",
+      "date": "1991-12-18",
+      "roleNumber": "9571",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/12/18/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 5, alinéa 3, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 9, alinéa 3, du Pacte international relatif aux droits civils et politiques, l'arrêt de la chambre des mises en accusation ordonnant le maintien de la détention préventive, qui, ayant constaté que l'instruction de la cause révèle un retard anormal et non justifié, considère que le délai raisonnable de la détention n'est pas dépassé en se fondant exclusivement sur des considérations relatives à la gravité des faits et à la sécurité publique."
+      ],
+      "abstractNL": [
+        "De artt. 5.3, Europees Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden en 9.3, Internationaal Verdrag Burgerrechten en Politieke Rechten worden geschonden, wanneer het arrest van de kamer van inbeschuldigingstelling, waarbij handhaving van de voorlopige hechtenis wordt bevolen, na te hebben vastgesteld dat de behandeling van de zaak een ongewone en onverantwoorde vertraging heeft opgelopen, beslist dat de redelijke termijn van de hechtenis niet is overschreden en die beslissing uitsluitend grondt op overwegingen in verband met de ernst van de feiten en de openbare veiligheid."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911009.11": {
+      "court": "CASS",
+      "date": "1991-10-09",
+      "roleNumber": "9396",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/09/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 5, alinéa 3, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, et 9, alinéa 3, du Pacte international relatif aux droits civils et politiques, reconnaissant le droit d'être jugé dans un délai raisonnable ou libéré pendant la procédure, l'arrêt de la chambre des mise en accusation qui décide le maintien d'une détention préventive sans répondre aux conclusions de l'inculpé invoquant des lenteurs de l'instruction."
+      ],
+      "abstractNL": [
+        "Art. 5.3, Europees Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden en art. 9.3, Internationaal Verdrag Burgerrechten en Politieke Rechten houdende erkenning van het recht om binnen een redelijke termijn berecht te worden of hangende het proces in vrijheid te worden gesteld, worden door het arrest van de kamer van inbeschuldigingstelling geschonden wanneer het de voorlopige hechtenis handhaaft zonder te antwoorden op de conclusie waarin de verdachte zich beriep op vertragingen in het onderzoek."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910419.14": {
+      "court": "CASS",
+      "date": "1991-04-19",
+      "roleNumber": "6713",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/19/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het arrest dat toepassing maakt van de bepaling van art. 3, alinéa 2, wet van 3 november 1967 betreffende het loodsen van zeevaartuigen, zoals die daarin werd ingevoegd door de wet van 30 augustus 1988 en krachtens welke de regeling uit het eerste lid van alinéa 1 van het nieuwe art. 3bis terugwerkt over een periode van dertig jaar, te rekenen van de dag van de publikatie van de wet in het Belgisch Staatsblad op 17 september 1988, houdt geen schending in van het gelijkheidsbeginsel neergelegd in art. 26 Internationaal Verdrag Burgerrechten en Politieke Rechten."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880621.18": {
+      "court": "CASS",
+      "date": "1988-06-21",
+      "roleNumber": "2027",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/21/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, le moyen de cassation pris de ce que le juge pénal, ayant déclaré prescrite l'action publique, eût dû, avant de statuer sur l'action civile, vérifier si l'action publique n'était pas irrecevable en raison du dépassement du délai raisonnable, lorsque le moyen n'allègue pas que l'action publique était déjà éteinte, pour cette raison, avant l'intentement de l'action civile."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk wegens gemis aan belang is het cassatiemiddel volgens hetwelk de strafrechter, na de strafvordering verjaard te hebben verklaard, alvorens over de burgerlijke rechtsvordering uitspraak te doen, had moeten nagaan of de strafvordering niet wegens overschrijding van de redelijke termijn niet-ontvankelijk was, wanneer het middel niet aanvoert dat de strafvordering om die reden reeds vervallen was vóór de instelling van de burgerlijke rechtsvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871105.3": {
+      "court": "CASS",
+      "date": "1987-11-05",
+      "roleNumber": "5518;5530",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge d'appel qui annule le jugement dont appel peut se référer à certains motifs du premier juge; cette simple référence ne saurait impliquer une contradiction ni un défaut de motivation."
+      ],
+      "abstractNL": [
+        "De appelrechter die het beroepen vonnis te niet doet, kan verwijzen naar bepaalde redenen van de eerste rechter; uit die enkele verwijzing valt geen tegenstrijdigheid of gebrek aan motivering af te leiden."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851218.9": {
+      "court": "CASS",
+      "date": "1985-12-18",
+      "roleNumber": "4734",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/18/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un arrêt de la chambre des mises en accusation énonce notamment, pour justifier le maintien de la détention préventive, qu'il est à craindre que, s'il était remis en liberté, l'inculpé ne récidive dans une délinquance spécifique, on ne saurait déduire avec certitude de cette seule énonciation que l'arrêt considère que le détenu a commis les faits dont il est inculpé; il s'ensuit que cet arrêt ne méconnaît pas la présomption d'innocence consacrée par les articles 6, par. 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, par. 2, du Pacte international relatif aux droits civils et politiques."
+      ],
+      "abstractNL": [
+        "Wanneer de kamer van inbeschuldigingstelling, om de handhaving van de voorlopige hechtenis te verantwoorden, in haar arrest onder meer vermeldt dat te vrezen valt dat de verdachte, mocht hij in vrijheid worden gesteld, opnieuw in een bepaald soort van misdrijven zal vervallen, dan kan uit die enkele vermelding niet met zekerheid worden afgeleid dat het arrest beslist dat de gedetineerde de feiten waarvan hij wordt verdacht, heeft gepleegd; dat arrest miskent bijgevolg niet het vermoeden van onschuld dat is vastgesteld in de artt. 6.2 Europees Verdrag Rechten van de Mens en 14.2 Internationaal Verdrag inzake burgerrechten en politieke rechten."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850911.10": {
+      "court": "CASS",
+      "date": "1985-09-11",
+      "roleNumber": "4232",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/09/11/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 6, paragraphe 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, paragraphe 1er, du Pacte international relatif aux droits civils et politiques, la décision rendue par une juridiction pénale composée, notamment, d'un magistrat ayant, en la cause, exercé les fonctions de juge d'instruction ou siégé à la juridiction d'instruction."
+      ],
+      "abstractNL": [
+        "Artt. 6. 1 Verdrag Rechten van de Mens en 14. 1 Internationaal Verdrag inzake burgerrechten en politieke rechten worden geschonden door de beslissing gewezen door een strafrechtelijk college dat onder meer bestond uit een magistraat die in de zaak als onderzoeksrechter is opgetreden of in het onderzoeksgerecht zitting heeft gehad."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850522.14": {
+      "court": "CASS",
+      "date": "1985-05-22",
+      "roleNumber": "4137",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La juridiction d'instruction qui, pour ordonner le maintien de la détention préventive d'une personne, constate que celle-ci a commis les faits dont elle est inculpée, méconnaît la présomption d'innocence consacrée par les articles 6, alinéa 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, alinéa 2, du Pacte international relatif aux droits civils et politiques."
+      ],
+      "abstractNL": [
+        "Het onderzoeksgerecht dat, om de handhaving van de voorlopige hechtenis van een persoon te bevelen, vaststelt dat deze de hem ten laste gelegde feiten heeft gepleegd, miskent het vermoeden van onschuld vastgelegd in de artt. 6.2 Verdrag Rechten van de Mens en 14, alinéa 2, Internationaal Verdrag inzake burgerrechten en politieke rechten."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850313.3": {
+      "court": "CASS",
+      "date": "1985-03-13",
+      "roleNumber": "4159",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La juridiction d'instruction qui, pour ordonner le maintien de la détention préventive d'une personne, constate que celle-ci a commis les faits dont elle est inculpée, méconnaît la présomption d'innocence consacrée par les articles 6, alinéa 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, alinéa 2, du Pacte international relatif aux droits civils et politiques."
+      ],
+      "abstractNL": [
+        "Het onderzoeksgerecht dat, om de handhaving van de voorlopige hechtenis van een persoon te bevelen, vaststelt dat deze de hem ten laste gelegde feiten heeft gepleegd, miskent het vermoeden van onschuld vastgesteld in de artt. 6.2 Verdrag Rechten van de Mens en 14, alinéa 2, Internationaal Verdrag inzake burgerrechten en politieke rechten."
+      ]
+    }
+  },
+  "14.7": {
+    "ECLI:BE:CASS:2013:ARR.20130327.1": {
+      "court": "CASS",
+      "date": "2013-03-27",
+      "roleNumber": "P.12.1945.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/03/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le principe général du droit 'non bis in idem', inscrit à l'article 14, § 7, du Pacte international relatif aux droits civils et politiques, s'oppose à ce qu'une personne fasse l'objet de poursuites pénales après avoir payé une amende administrative à caractère répressif, lorsque le texte prévoyant l'amende administrative et celui relatif à l'infraction pénale répriment, en des termes équivalents, le même comportement et que les éléments essentiels des deux infractions sont identiques (1). (1) C.Const., 26 avril 2007, n° 67/2007, considérant B.10; C.E., 9 décembre 2009, arrêt Carly, n° 198.730."
+      ],
+      "abstractNL": [
+        "Het in het Internationaal Verdrag inzake Burgerrechten en Politieke rechten vervatte algemeen rechtsbeginsel non bis in idem, verzet zich ertegen dat iemand strafrechtelijk wordt vervolgd nadat hij een administratieve geldboete heeft betaald van strafrechtelijke aard, wanneer de tekst waarbij de geldboete is bepaald en die betreffende het strafbaar feit, in vergelijkbare bewoordingen, dezelfde gedraging bestraffen en de bestanddelen van beide misdrijven identiek zijn (1). (1) GwH, 26 april 2007, nr. 67/2007, overweging B.10; EG 9 dec. 2009, arrest Carly, nr. 198.730."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120111.10": {
+      "court": "CASS",
+      "date": "2012-01-11",
+      "roleNumber": "P.11.1867.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/01/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le principe général du droit non bis in idem, consacré par l'article 14.7 du Pacte international relatif aux droits civils et politiques, tend à éviter que deux sanctions de même nature puissent être infligées à une même personne pour s'être rendue coupable d'un même comportement; lorsque la sanction disciplinaire infligée à un détenu ne porte que sur les modalités d'exécution d'une peine imposée par le juge, sans prolonger la durée de l'incarcération à subir par le condamné, une telle mesure ne saurait, en règle, être qualifiée de pénale (1). (1) Voir Cass. 24 novembre 2009, RG P.09.0965.N, Pas., 2009, n° 692; Marie-Aude BEERNAERT, \"Le cumul des sanctions disciplinaires et pénales à l'aune du principe non bis in idem\", observ. sous Corr. Verviers, 7 décembre 2009, J.L.M.B., 2010, p. 481."
+      ],
+      "abstractNL": [
+        "Het algemeen rechtsbeginsel non bis in idem dat in artikel 14.7 van het Internationaal Verdrag inzake Burgerrechten en Politieke rechten is vastgelegd, strekt ertoe te vermijden dat één en dezelfde persoon twee straffen van dezelfde aard krijgt voor dezelfde gedraging ; wanneer de tuchtstraf van een gedetineerde alleen betrekking heeft op de uitvoeringsmodaliteiten van een door de rechter opgelegde straf, zonder dat zij de duur verlengt van de opsluiting die de veroordeelde dient te ondergaan, kan dergelijke maatregel, in de regel, niet als een strafrechtelijke maatregel worden aangemerkt (1). (1) Zie Cass. 24 nov. 2009, AR P.09.0965.N, AC, 2009, nr. 692; Marie-Aude BEERNAERT, \"Le cumul des sanctions disciplinaires et pénales à l'aune du principe non bis in idem\", opm. onder Corr. Verviers, 7 dec. 2009, J.L.M.B., 2010, p. 481."
+      ]
+    }
+  },
+  "14.2": {
+    "ECLI:BE:CASS:2011:ARR.20110315.6": {
+      "court": "CASS",
+      "date": "2011-03-15",
+      "roleNumber": "P.10.1635.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La présomption d'innocence concerne la position du juge appelé à prendre connaissance de poursuites pénales ; la qualification faite dans la citation émanant du ministère public ayant pour objectif d'avertir le prévenu des lieu et heure auxquels le juge prendra connaissance de la cause et de l'informer des faits qui lui sont imputés, ce qui lui permet d'y opposer sa défense, n'implique pas de fait la culpabilité du prévenu aux yeux du juge (1). (1) Voir: Cass., 7 mars 2007, RG P.07.0259.F, Pas., 2007, n° 129."
+      ],
+      "abstractNL": [
+        "Het vermoeden van onschuld heeft betrekking op de houding van de rechter die kennis moet nemen van een strafrechtelijke vervolging; de omschrijving in de door het openbaar ministerie uitgebrachte dagvaarding, die tot doel heeft de beklaagde te verwittigen van de plaats en het tijdstip waarop de rechter van de zaak kennis zal nemen en hem in te lichten omtrent de hem verweten feiten, zodat hij zich kan verdedigen, houdt niet in dat daardoor voor de rechter de schuld van de beklaagde al vastlag (1). (1) Cass., 7 maart 2007, A.R. P.07.0259.F, A.C., 2007, nr. 129"
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071127.3": {
+      "court": "CASS",
+      "date": "2007-11-27",
+      "roleNumber": "P.07.1131.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/27/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "En application de la charge de la preuve en matière répressive, le ministère public est tenu de prouver que le prévenu qui est poursuivi du chef des infractions prévues aux articles 418 à 420 du Code pénal, a commis une faute tuant ou causant des lésions à une personne; le cas échéant, la partie civile qui réclame des dommages et intérêts sur la base des articles 1382 et 1383 du Code civil, est tenue de prouver que le prévenu a commis une faute et qu'il existe un lien de causalité entre la faute et le dommage."
+      ],
+      "abstractNL": [
+        "Ingevolge de bewijslast in strafzaken, moet het openbaar ministerie bewijzen dat de beklaagde die wordt vervolgd wegens de misdrijven van de artikelen 418 tot 420 Strafwetboek, een fout heeft begaan waardoor iemand werd gedood of waardoor iemand letsels heeft opgelopen; in voorkomend geval moet de burgerlijke partij die op grond van de artikelen 1382 en 1383, Burgerlijk Wetboek, schadevergoeding vordert, bewijzen dat de beklaagde een fout heeft begaan en dat tussen de fout en de schade een oorzakelijk verband bestaat."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050629.9": {
+      "court": "CASS",
+      "date": "2005-06-29",
+      "roleNumber": "P050697F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/06/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La demande d'entraide internationale, adressée par un juge d'instruction à une autorité étrangère, ne peut pas prendre appui sur des motifs qui méconnaissent la présomption d'innocence de l'inculpé (1). (1) Voir Cass., 4 février 1997, RG P.96.1027.N, n° 62 et 18 juin 2003, RG P.03.0542.F, n° 360."
+      ],
+      "abstractNL": [
+        "Het verzoek om internationale rechtshulp dat door een onderzoeksrechter aan een vreemde overheid is gericht, mag niet steunen op gronden die het vermoeden van onschuld van de inverdenkinggestelde miskennen (1). (1) Zie Cass., 4 feb. 1997, AR P.96.1027.N, nr 62 en 18 juni 2003, AR P.03.0542.F, nr 360."
+      ]
+    }
+  },
+  "15.1": {
+    "ECLI:BE:CASS:2010:ARR.20100126.4": {
+      "court": "CASS",
+      "date": "2010-01-26",
+      "roleNumber": "P.09.0264.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/01/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Même si elle relève de l'exercice de l'action publique, la condamnation d'office de l'employeur au paiement aux organismes percepteurs des cotisations de sécurité sociale, d'une indemnité égale au triple des cotisations éludées, imposée en cas de non-assujettissement d'une ou plusieurs personnes à l'application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, ne constitue pas une peine au sens des articles 7 à 43quater du Code pénal; elle emprunte toutefois à la sanction pénale qu'elle complète un caractère répressif et dissuasif que révèle principalement son montant, lui conférant le caractère d'une sanction pénale au sens des articles 7.1 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 15.1 du Pacte international relatif aux droits civils et politiques (1). (1) Voir Cass., 12 septembre 2007, RG P.07.0373.F, Pas., 2007, n° 401; Cass., 26 février 2008, RG P.07.0033.N (non publié)."
+      ],
+      "abstractNL": [
+        "De ambtshalve veroordeling van de werkgever tot betaling, aan de inningorganismen van de sociale zekerheidsbijdragen, van een vergoeding gelijk aan het drievoud van de ontdoken bijdragen, opgelegd bij niet-onderwerping van één of meer personen aan de toepassing van de R.S.Z.-wet, valt weliswaar onder de toepassing van de strafvordering maar is geen straf in de zin van de artikelen 7 tot 43quater Strafwetboek; zij ontleent echter aan de strafrechtelijke sanctie die zij vervolledigt, een repressief en afschrikwekkend karakter dat vooral tot uiting komt in het bedrag ervan, waardoor ze het karakter vertoont van een strafrechtelijke sanctie in de zin van de artikelen 7.1 E.V.R.M. en 15.1 I.V.B.P.R. (1). (1) Zie: Cass., 12 sept. 2007, AR P.07.0373.F, A.C., 2007, nr 401; Cass., 26 feb. 2008, AR P.07.0033.N (onuitgegeven)."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090602.8": {
+      "court": "CASS",
+      "date": "2009-06-02",
+      "roleNumber": "P.09.0071.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/02/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le principe de légalité en matière répressive, requérant de formuler la loi pénale de manière à ce que chaque personne, au moment où elle adopte un comportement, peut déterminer si ce comportement est punissable ou pas, n'est pas violé par le seul fait qu'au moment du prononcé, une loi ultérieure a requalifié la loi pénale de manière imprécise (1). (1) Voir Cass., 25 novembre 1997, RG P.96.1187.N, Pas., 1997, n° 504; Cass., 15 juin 2004, RG P.04.0358.N, Pas., 2004, n° 324; Cass., 9 novembre 2004, RG P.04.0849.N, Pas., 2004, n° 539."
+      ],
+      "abstractNL": [
+        "Het wettigheidbeginsel in strafzaken, dat vereist dat de strafwet wordt geformuleerd in bewoordingen op grond waarvan eenieder, op het ogenblik waarop hij een gedrag aanneemt, kan uitmaken of dat gedrag al dan niet strafbaar is, wordt niet miskend enkel doordat op het ogenblik van de uitspraak een latere wet de strafwet onnauwkeurig heeft geherformuleerd (1). (1) Zie: Cass., 25 nov. 1997, AR P.96.1187.N, A.C., 1997, nr 504; Cass., 15 juni 2004, AR P.04.0358.N, A.C., 2004, nr 324; Cass., 9 nov. 2004, AR P.04.0849.N, A.C., 2004, nr 539."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20021016.4": {
+      "court": "CASS",
+      "date": "2002-10-16",
+      "roleNumber": "P020916F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/10/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'amende attachée à une infraction commise avant l'entrée en vigueur, le 1er janvier 2002, de la loi du 26 juin 2000 relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 78 de la Constitution, mais infligée après son entrée en vigueur, doit être majorée conformément à la loi ancienne plus favorable, son montant en francs belges étant converti en euros sur la base du diviseur 40,3399."
+      ],
+      "abstractNL": [
+        "De geldboete die verbonden is aan een misdrijf dat gepleegd is vóór de inwerkingtreding, op 1 januari 2002 van de wet van 26 juni 2000 tot invoering, van de euro in de wetgeving, inzake de in art. 78 Gw. bedoelde materies, maar opgelegd wordt na de inwerkingtreding ervan, moet worden verhoogd overeenkomstig de oude wet die gunstiger is, waarbij het bedrag van de boete in Belgische frank wordt omgezet in euro door het te delen door 40,3399."
+      ]
+    }
+  },
+  "14.1": {
+    "ECLI:BE:CASS:2008:ARR.20080219.1": {
+      "court": "CASS",
+      "date": "2008-02-19",
+      "roleNumber": "P.07.1648.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'impartialité dont le juge doit faire preuve se révèle en principe par l'attitude de ce juge lors de l'examen de la cause; plus précisément, avant dire droit en la cause par un jugement, le juge doit veiller à éviter toute prise de position par laquelle il laisserait entendre qu'il s'est déjà forgé une opinion sur les questions litigieuses qui lui sont soumises; que l'information dans la presse puisse également atteindre le juge et le jury de la cour d'assises ne fait pas naître subséquemment un soupçon de partialité (1). (1) Cass., 15 décembre 2004, RG P.04.1189.F, Pas., 2004, n° 612 avec les conclusions de M. l'avocat général LOOP."
+      ],
+      "abstractNL": [
+        "De onpartijdigheid waarvan de rechter blijk moet geven, is in de regel bereikt door de houding van die rechter bij de behandeling van de zaak; meer bepaald moet de rechter vooraleer hij bij vonnis over de zaak uitspraak doet, erover waken dat hij geen standpunten inneemt waardoor hij laat verstaan dat hij reeds een mening heeft over de hem voorgelegde geschilpunten; dat berichtgeving in de pers ook de rechter en de jury van het hof van assisen kan bereiken, houdt niet in dat daardoor een schijn van partijdigheid ontstaat (1). (1) Cass., 15 dec. 2004, AR P.04.1189.F, A.C., 2004; nr. 612 met concl. adv.-gen. LOOP."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030409.9": {
+      "court": "CASS",
+      "date": "2003-04-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour affirmer l'existence d'une raison légitime de redouter chez un juge un défaut d'impartialité, les soupçons qu'un prévenu dit éprouver doivent être pris en considération, mais sans constituer pour autant un critère exclusif; il y a lieu, en effet, de rechercher si les appréhensions de l'intéressé peuvent passer pour objectivement justifiées (1); tel n'est pas le cas lorsque le prévenu se borne à faire état d'une plainte qu'il a lui-même déposée contre ce juge, sans invoquer aucun élément vérifiable qui permettrait de conforter objectivement les inquiétudes qu'il dit avoir pu ressentir. (1) Voir les conclusions du ministère public avant Cass., 16 juin 1999, audience plénière, RG P.98.0738.F, n° 362, en particulier pp. 884 et 885, n° 11, ainsi que les références citées."
+      ],
+      "abstractNL": [
+        "Om te stellen dat er een wettige reden bestaat om te vrezen dat de rechter niet onpartijdig is, moeten de vermoedens die een beklaagde zegt te hebben in aanmerking worden genomen, zonder dat zij evenwel een exclusief criterium mogen vormen; er moet immers worden onderzocht of de vrees van de betrokkene objectief verantwoord kan zijn (1); dat is niet het geval wanneer de beklaagde alleen een klacht vermeldt die hij zelf tegen die rechter heeft neergelegd, zonder enig verifieerbaar gegeven aan te voeren dat de vrees die hij zegt te hebben ervaren, objectief kan staven. (1) Zie concl. O.M. Cass., 16 juni 1999, volt. terechtz., AR P.98.0738.F, nr 362, inz. blz. 884 en 885, nr 11, en de vermelde verwijzingen."
+      ]
     }
   }
 }

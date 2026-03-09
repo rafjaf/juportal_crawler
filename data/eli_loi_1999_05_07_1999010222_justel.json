@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2008:ARR.20080429.2": {
+      "court": "CASS",
+      "date": "2008-04-29",
+      "roleNumber": "P.07.1718.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 2, 2°, de loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs ne place pas sur pied d'égalité l'exploitation de jeux de hasard et d'établissements de jeux de hasard mais il distingue les uns des autres, et ne prévoit pas davantage une interdiction d'exploitation simultanée de jeux de hasard et d'établissements de jeux de hasard (1). (1) Voir conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Artikel 2, 2°, Kansspelenwet zegt niet dat het exploiteren van kansspelen en van kansspelinrichtingen gelijk zijn, maar dat ze onderscheiden zijn, en bevat evenmin een verbod voor het gelijktijdig exploiteren van kansspelen en kansspelinrichtingen (1). (1) Zie conclusie O.M."
+      ]
+    }
+  },
   "4": {
     "ECLI:BE:CASS:2024:ARR.20240205.3N.2": {
       "court": "CASS",
@@ -13,6 +29,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Het aangaan van overeenkomsten tussen meerdere personen in verband met de exploitatie van kansspelen is in principe niet verboden, tenzij die zouden leiden tot het direct of indirect houderschap door een zelfde persoon van meerdere welbepaalde vergunningen of het feitelijk uitbaten van een kansspelinrichting zonder de vereiste vergunning (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2012:ARR.20120607.5": {
+      "court": "CASS",
+      "date": "2012-06-07",
+      "roleNumber": "C.11.0488.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/07/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de la loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs, tel qu'applicable avant son abrogation par la loi du 10 janvier 2010, ne concerne pas la validité des contrats conclus en vue de l'exploitation des jeux de hasard et des établissements de jeux de hasard autorisés conformément à la présente loi et à ses arrêtés d'exécution, mais bien ses effets juridiques et plus précisément la possibilité pour les parties contractantes d'invoquer la nullité de ce contrat; à cet égard, le législateur n'opère pas de distinction selon que les contrats ont été conclus avant ou après l'entrée en vigueur de l'article 5 de la loi du 7 mai 1999 (1). (1) Voir les conclusions contraires du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Artikel 5 Kansspelwet zoals van kracht vóór de opheffing bij wet van 10 januari 2010 betreft niet de rechtsgeldigheid van de overeenkomsten met het oog op de exploitatie van de door de wet en haar uitvoeringsbesluiten toegestane kansspelen en kansspelinrichtingen, maar wel de rechtsgevolgen ervan en meer bepaald de mogelijkheid voor de contractspartijen om de nietigheid van deze overeenkomst op te werpen; de wetgever maakt hierbij geen onderscheid naargelang de overeenkomsten zijn tot stand gekomen vóór of na de inwerkingtreding van artikel 5 Kansspelenwet (1). (1) Zie de andersluidende concl. van het O.M."
       ]
     }
   },
@@ -64,6 +96,36 @@
       "abstractFR": null,
       "abstractNL": [
         "Het aangaan van overeenkomsten tussen meerdere personen in verband met de exploitatie van kansspelen is in principe niet verboden, tenzij die zouden leiden tot het direct of indirect houderschap door een zelfde persoon van meerdere welbepaalde vergunningen of het feitelijk uitbaten van een kansspelinrichting zonder de vereiste vergunning (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080429.2": {
+      "court": "CASS",
+      "date": "2008-04-29",
+      "roleNumber": "P.07.1718.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Par l'interdiction de cumuler, prévue à l'article 27, alinéa 1er, de la loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs, la loi n'entend pas interdire la conclusion de contrats entre plusieurs personnes en matière d'exploitation de jeux de hasard, mais la détention de plusieurs licences spécifiques dans le chef de la même personne (1). (1) Voir conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Met het cumulverbod, zoals omschreven in artikel 27, eerste lid, Kansspelenwet, verbiedt de wet niet het aangaan van overeenkomsten tussen meerdere personen in verband met de exploitatie van kansspelen, maar het houderschap door een zelfde persoon van meerdere bepaalde vergunningen (1). (1) Zie conclusie O.M."
+      ]
+    }
+  },
+  "48": {
+    "ECLI:BE:CASS:2008:ARR.20080429.2": {
+      "court": "CASS",
+      "date": "2008-04-29",
+      "roleNumber": "P.07.1718.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 48 de la loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs, n'interdit pas au titulaire de licence de classe E de conclure un contrat avec un titulaire de licence de classe A, B, C ou D permettant au premier de mettre des appareils de jeux de hasard à la disposition du second, responsable de l'exploitation desdits appareils, tous deux se partageant le rendement de ces appareils (1). (1) Voir conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Artikel 48 Kansspelenwet verbiedt de vergunninghouder klasse E niet met een vergunninghouder klasse A, B, C of D een overeenkomst aan te gaan waarbij de eerste toestellen voor kansspelen ter beschikking stelt van de tweede die instaat voor de exploitatie van die toestellen en beiden de opbrengst van die toestellen delen (1). (1) Zie conclusie O.M."
       ]
     }
   },

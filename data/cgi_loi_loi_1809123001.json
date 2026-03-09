@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1995:ARR.19950224.10": {
+      "court": "CASS",
+      "date": "1995-02-24",
+      "roleNumber": "C930140N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 3 du Décret impérial du 30 décembre 1809 concernant les fabriques des églises entend par le nombre d'âmes, le chiffre de la population du ressort territorial de la paroisse."
+      ],
+      "abstractNL": [
+        "In art. 3 van het keizerlijk decreet van 30 december 1809 op de kerkbesturen wordt met het aantal zielen bedoeld het bevolkingscijfer van de territoriale omschrijving van de parochie."
+      ]
+    }
+  },
   "37": {
     "ECLI:BE:CASS:2023:ARR.20230202.1F.1": {
       "court": "CASS",
@@ -15,6 +31,22 @@
       ],
       "abstractNL": [
         "De lasten van het kerkbestuur bestaan in het onderhoud van de kerken, pastorijen en kerkhoven en in geval van onvoldoende inkomsten dient het al het nodige te doen om de herstellingen en de wederopbouw te verrichten; de verplichting voor het kerkbestuur om de schade te vergoeden die het door zijn fout heeft toegebracht aan de aannemer die met de uitvoering werd belast van de werken die door dat bestuur moeten worden verricht krachtens artikel 37, eerste lid, 4°, van het keizerlijk decreet, vormt geen dergelijke last maar vloeit voort uit de wettelijke bepalingen betreffende de aansprakelijkheid van de pleger van een fout."
+      ]
+    }
+  },
+  "62": {
+    "ECLI:BE:CASS:1977:ARR.19770202.11": {
+      "court": "CASS",
+      "date": "1977-02-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/02/02/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "N'est pas une taxe rémunératoire, mais un impôt communal, la taxe établie par une commune en raison de travaux de voirie faits, non pour rendre un service personnel et particulier à certains redevables, mais dans l'intérêt général des membres de la communauté communale, en exécution du dévoir général de police et de sécurité des routes incombant à la commune ."
+      ],
+      "abstractNL": [
+        "Geen verhaalbelasting doch een gemeentebelasting is de belasting welke een gemeente voor wegenwerken vestigt in het algemeen belang van een ieder der gemeenschap van de gemeente, ter uitvoering van de algemene plicht over de politie en de veiligheid van de wegen, die op de gemeente rust, te waken en niet om aan zekere belastingschuldigen een persoonlijke of particuliere dienst te bewijzen ."
       ]
     }
   },
@@ -50,6 +82,20 @@
       ],
       "abstractNL": [
         "Artikel 37 van het keizerlijk decreet van 30 december 1809 op de kerkfabrieken legt onder meer de wedde van de kosters en organisten ten laste van de kerkbesturen. Artikel 92, 1°, van het decreet legt de gemeenten op bij te dragen in de bedoelde last in zoverre de inkomsten van de kerkbesturen onvoldoende zijn ; artikel 114 belast, ten slotte, de Ministers van Binnenlandse Zaken en van de erediensten met de uitvoering van het decreet ; uit geen dezer noch uit andere wettelijke of reglementaire bepalingen vloeit voort dat de minister van Justitie de reglementaire bevoegdheid bezit de wedden van het wereldlijke kerkpersoneel vast te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810302.11": {
+      "court": "CASS",
+      "date": "1981-03-02",
+      "roleNumber": "3121",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort ni des dispositions du décret impérial du 30 décembre 1809 concernant les fabriques d'église ni d'autres dispositions légales ou réglementaires que le ministre de la justice a le pouvoir de prendre des règlements fixant les rémunérations du personnel séculier des églises."
+      ],
+      "abstractNL": [
+        "Noch uit de bepalingen van het keizerlijk decreet van 30 dec. 1809 op de kerkfabrieken, noch uit andere wettelijke of reglementaire bepalingen blijkt dat de minister van Justitie de reglementaire bevoegdheid bezit de wedden van het wereldlijke kerkpersoneel vast te stellen."
       ]
     }
   }

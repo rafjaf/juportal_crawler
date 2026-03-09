@@ -1,4 +1,48 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2013:ARR.20130913.3": {
+      "court": "CASS",
+      "date": "2013-09-13",
+      "roleNumber": "C.12.0329.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu''il est établi que le véhicule ayant causé le dommage a son stationnement dans un des États cités à l''article 2, alinéa 2, de l''arrêté royal du 13 février 1991, mais qu''il s'agit d''un véhicule pour lequel l''État d'origine a prévu une dérogation à l'obligation d''assurance de la responsabilité civile, le bureau belge des assureurs automobiles est tenu d''indemniser la personne lésée, sauf si l''État où ce véhicule est immatriculé a désigné en Belgique une autorité ou un organisme chargé de procéder à cette indemnisation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Wanneer is aangetoond dat het voertuig dat de schade heeft veroorzaakt in een van de in artikel 2, tweede lid, van het koninklijk besluit van 13 februari 1991 vermelde Staten is gestald, maar een voertuig betreft waarvoor de Staat van oorsprong heeft afgeweken van de verplichting tot verzekering van de burgerlijke aansprakelijkheid, dient het Belgisch bureau van de autoverzekeraars de benadeelde te vergoeden, behalve wanneer de Staat die dat voertuig van een kentekenplaat heeft voorzien, in België een autoriteit of een instelling heeft aangewezen die met die vergoeding is belast (1). (1) Zie concl. O.M. in Pas. 2012, nr. ... ."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091023.9": {
+      "court": "CASS",
+      "date": "2009-10-23",
+      "roleNumber": "C.08.0139.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/23/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Celui qui prouve avoir été préjudicié sur le territoire belge par un véhicule portant une plaque d'immatriculation délivrée par un autre Etat membre ne doit en outre prouver ni que le véhicule a son stationnement habituel sur le territoire de l'Etat qui a délivré la plaque d'immatriculation ni qu'il portait cette plaque lors du franchissement de la frontière."
+      ],
+      "abstractNL": [
+        "Wie aantoont dat hem op Belgisch grondgebied schade is toegebracht door een voertuig dat voorzien is van een kentekenplaat die is afgegeven door een andere Lidstaat, hoeft niet daarenboven aan te tonen dat het voertuig gewoonlijk is gestald in de Lidstaat die de kentekenplaat heeft afgegeven, en evenmin dat het voertuig van die kentekenplaat was voorzien toen het de grens overschreed."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971031.3": {
+      "court": "CASS",
+      "date": "1997-10-31",
+      "roleNumber": "C960461F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un accident est causé en Belgique par un véhicule volé ayant son stationnement habituel sur le territoire d'un autre Etat membre de l'Union européenne, le bureau belge des assureurs automobiles n'est, pas plus qu'un autre assureur, tenu à réparer le dommage."
+      ],
+      "abstractNL": [
+        "Wanneer in België een ongeval wordt veroorzaakt door een gestolen voertuig dat gewoonlijk op het grondgebied van een andere Lid-Staat van de Europese Unie is gestald, is het Belgisch bureau van de autoverzekeraars, evenmin als enige andere verzekeraar, verplicht de schade te vergoeden."
+      ]
+    }
+  },
   "2": {
     "ECLI:BE:CASS:2020:ARR.20200121.2N.11": {
       "court": "CASS",
@@ -29,6 +73,64 @@
       ],
       "abstractNL": [
         "Noch artikel 7 noch enig ander artikel WAM wijkt af van het recht dat artikel 14 Wet Landverzekeringsovereenkomst aan de verzekeraar toekent om de dekking te schorsen en de overeenkomst op te zeggen wegens niet-betaling van de premie; hieruit volgt dat artikel 5, derde lid, van het koninklijk besluit van 13 februari 1991, dat van dat recht afwijkt zonder daartoe door een bijzondere wet gerechtigd te zijn, onwettig is (1). (1) Art. 5, derde lid, KB van 13 februari 1991, vóór de wijziging ervan door het KB van 22 december 2017."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020116.33": {
+      "court": "CASS",
+      "date": "2002-01-16",
+      "roleNumber": "P011190F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/01/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La 'carte verte' ne fait que présumer contre l'assureur l'existence d'un contrat d'assurance pour la durée qu'elle prévoit et ne dispense pas l'assureur de prouver son allégation qu'il a été dérogé à la durée d'un an du contrat de l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs (1)."
+      ],
+      "abstractNL": [
+        "De \"groene kaart\" schept t.a.v. de verzekeraar alleen het vermoeden van het bestaan van een verzekeringsovereenkomst voor een daarin bepaalde duur en ontslaat de verzekeraar niet van de verplichting om het bewijs te leveren van zijn bewering dat er is afgeweken van de duur van een jaar van de W.A.M.-verzekeringsovereenkomst (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000118.19": {
+      "court": "CASS",
+      "date": "2000-01-18",
+      "roleNumber": "P971241N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La durée de validité mentionnée dans le certificat international d'assurance (la 'carte verte') ne porte pas atteinte à la durée du contrat d'assurance, légalement fixée à un an, sauf convention contraire entre les parties."
+      ],
+      "abstractNL": [
+        "De in het internationaal verzekeringsbewijs (de zg. 'groene kaart') vermelde geldigheidsduur doet geen afbreuk aan de wettelijk op één jaar bepaalde duur van de verzekeringsovereenkomst, behoudens andersluidende overeenkomst tussen partijen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20000118.19": {
+      "court": "CASS",
+      "date": "2000-01-18",
+      "roleNumber": "P971241N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La durée de validité mentionnée dans le certificat international d'assurance (la 'carte verte') ne porte pas atteinte à la durée du contrat d'assurance, légalement fixée à un an, sauf convention contraire entre les parties."
+      ],
+      "abstractNL": [
+        "De in het internationaal verzekeringsbewijs (de zg. 'groene kaart') vermelde geldigheidsduur doet geen afbreuk aan de wettelijk op één jaar bepaalde duur van de verzekeringsovereenkomst, behoudens andersluidende overeenkomst tussen partijen."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971031.3": {
+      "court": "CASS",
+      "date": "1997-10-31",
+      "roleNumber": "C960461F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un accident est causé en Belgique par un véhicule volé ayant son stationnement habituel sur le territoire d'un autre Etat membre de l'Union européenne, le bureau belge des assureurs automobiles n'est, pas plus qu'un autre assureur, tenu à réparer le dommage."
+      ],
+      "abstractNL": [
+        "Wanneer in België een ongeval wordt veroorzaakt door een gestolen voertuig dat gewoonlijk op het grondgebied van een andere Lid-Staat van de Europese Unie is gestald, is het Belgisch bureau van de autoverzekeraars, evenmin als enige andere verzekeraar, verplicht de schade te vergoeden."
       ]
     }
   }

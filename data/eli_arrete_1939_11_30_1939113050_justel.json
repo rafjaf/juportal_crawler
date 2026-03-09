@@ -1,4 +1,36 @@
 {
+  "2": {
+    "ECLI:BE:CASS:1985:ARR.19850117.11": {
+      "court": "CASS",
+      "date": "1985-01-17",
+      "roleNumber": "7073",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/01/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le démarchage sur les valeurs mobilières est interdit, sauf dans les cas et conditions déterminés par l'article 2 de l'arrêté royal n° 71 du 30 novembre 1939; les démarcheurs agissant pour le compte de personnes, institutions ou entreprises autorisées à pratiquer le démarchage en vertu de cette disposition, doivent être porteurs d'une licence dont les conditions d'octroi sont fixées par l'arrêté ministériel du 15 avril 1953."
+      ],
+      "abstractNL": [
+        "Demarchage met roerende waarden is verboden, behalve in de gevallen en onder de voorwaarden bepaald bij art. 2 K.B. nr. 71 30 nov. 1939; de demarcheurs die handelen voor rekening van krachtens die bepaling tot demarchage gemachtigde personen, instellingen of ondernemingen, moeten houder zijn van een licentie die wordt uitgereikt onder de voorwaarden bepaald bij M.B. 15 april 1953."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1976:ARR.19761214.1": {
+      "court": "CASS",
+      "date": "1976-12-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/12/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de concours matériel de faux en écritures correctionnalisé et d'infractions aux articles 26 et 42 de l'arrêté royal du 9 juillet 1935, 36, 201, 1°, 204 et 210 de la loi sur les sociétés, 2 ,4 et 6 de l'arrêté royal n° 71 du 30 novembre 1939, les peines concurrentes d'amende ne peuvent, sous réserve des décimes additionnels, excéder 4.000 frs. (2). (Code pénal, article 60, 196 et 214.)"
+      ],
+      "abstractNL": [
+        "In geval van meerdaadse samenloop van een gecorrectionaliseerde valsheid in geschriften met overtredingen van de artikelen 26 en 42 van het koninklijk besluit van 9 juli 1935, 36, 201, 1°, 204 en 210 van de wet op de vennootschappen, 2, 4 en 6 van het koninklijk besluit n° 71 van 30 november 1939, kunnen de samenlopende geldboeten, behoudens de opdecimes, 4.000 frank niet te boven gaan (4). (Artt. 60, 196 en 214 S.W.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1985:ARR.19850117.8": {
       "court": "CASS",
@@ -12,6 +44,20 @@
       ],
       "abstractNL": [
         "Is niet wettelijk gemotiveerd, het arrest waarin wordt beslist dat niet op ongeoorloofde wijze is gedemarcheerd, nu de demarcheur is opgetreden voor een familielid, agent van een openbare kredietinstelling, zonder vast te stellen enerzijds dat dit familielid of deze instelling het recht hadden te demarcheren, anderzijds dat de demarcheur zelf de vereiste vergunning bezat als bedoeld in het M.B. van 15 april 1953."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850117.11": {
+      "court": "CASS",
+      "date": "1985-01-17",
+      "roleNumber": "7073",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/01/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le démarchage sur les valeurs mobilières est interdit, sauf dans les cas et conditions déterminés par l'article 2 de l'arrêté royal n° 71 du 30 novembre 1939; les démarcheurs agissant pour le compte de personnes, institutions ou entreprises autorisées à pratiquer le démarchage en vertu de cette disposition, doivent être porteurs d'une licence dont les conditions d'octroi sont fixées par l'arrêté ministériel du 15 avril 1953."
+      ],
+      "abstractNL": [
+        "Demarchage met roerende waarden is verboden, behalve in de gevallen en onder de voorwaarden bepaald bij art. 2 K.B. nr. 71 30 nov. 1939; de demarcheurs die handelen voor rekening van krachtens die bepaling tot demarchage gemachtigde personen, instellingen of ondernemingen, moeten houder zijn van een licentie die wordt uitgereikt onder de voorwaarden bepaald bij M.B. 15 april 1953."
       ]
     }
   }

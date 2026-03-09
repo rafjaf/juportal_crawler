@@ -1,4 +1,36 @@
 {
+  "5": {
+    "ECLI:BE:CASS:2011:ARR.20111017.2": {
+      "court": "CASS",
+      "date": "2011-10-17",
+      "roleNumber": "S.10.0213.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de la loi du 4 décembre 2007 réglant les recours judiciaires introduits dans le cadre de la procédure relative aux élections sociales de l'année 2008 est applicable à toutes les contestations portant sur la validité d'une candidature et la confection des listes électorales, de sorte que l'employeur qui n'a pas introduit en temps utile son recours contestant la validité d'une candidature ne peut plus contester celle-ci au cours d'une procédure en matière de protection contre le licenciement."
+      ],
+      "abstractNL": [
+        "Artikel 5 van de wet van 4 december 2007 tot regeling van de gerechtelijke beroepen ingesteld in het kader van de procedure aangaande de sociale verkiezingen van het jaar 2008, vindt toepassing op alle betwistingen betreffende de geldigheid van een kandidatuur en de samenstelling van de kandidatenlijsten, zodat de werkgever de geldigheid van een kandidatuur waartegen hij niet tijdig beroep heeft ingesteld, niet meer kan betwisten in een procedure met betrekking tot de ontslagbescherming."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:2009:ARR.20090330.9": {
+      "court": "CASS",
+      "date": "2009-03-30",
+      "roleNumber": "S.08.0088.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 23, alinéa 1er, de la loi du 4 décembre 2007 relative aux élections sociales de l'année 2008 est une disposition légale qui se fonde sur le nombre de travailleurs occupés par une entreprise au sens de l'article 25, alinéa 1er, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, de sorte que les travailleurs intérimaires mis à la disposition d'une entreprise utilisatrice à la date de l'affichage de l'avis annonçant la date des élections entrent également en ligne de compte pour le calcul de l'effectif du personnel de cette entreprise et, en conséquence, pour la détermination du nombre des membres effectifs et suppléants de la délégation du personnel au sein du conseil d'entreprise et du comité pour la prévention et la protection au travail (1). (1) Voir les concl. du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Artikel 23, eerste lid van de wet van 4 december 2007 betreffende de sociale verkiezingen van het jaar 2008, is een wetsbepaling die steunt op het aantal werknemers dat door een onderneming wordt tewerkgesteld, zoals bedoeld in artikel 25, eerste lid van de Uitzendarbeidswet, zodat de uitzendkrachten die op de datum van de aanplakking van het bericht waarbij de datum van de verkiezingen wordt aangekondigd, ter beschikking van een gebruikende onderneming zijn gesteld, eveneens in aanmerking komen voor de berekening van de personeelssterkte van die onderneming en dus voor de vaststelling van het aantal leden en plaatsvervangende leden van de personeelsafvaardiging in de ondernemingsraad en in het comité voor preventie en bescherming op het werk (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  },
   "25": {
     "ECLI:BE:CASS:2013:ARR.20130415.4": {
       "court": "CASS",
@@ -28,6 +60,36 @@
       ],
       "abstractNL": [
         "De artikelen 25 en 26 Wet Sociale Verkiezingen zijn geen wetsbepalingen die aan de werkgever een verplichting opleggen die is gesteund op het aantal werknemers dat door de onderneming wordt tewerkgesteld zoals bedoeld in artikel 25, eerste lid Uitzendarbeidswet, maar wetsbepalingen die de onderlinge verhouding regelen tussen de verschillende categorieën van werknemers die in dienst zijn van de onderneming en die gesteund zijn op het aantal werknemers van elke categorie die in dienst is van de onderneming op de dag van de aanplakking van het bericht waarbij de datum der verkiezingen wordt aangekondigd (1). (1) Zie concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020924.8": {
+      "court": "CASS",
+      "date": "2002-09-24",
+      "roleNumber": "P010834N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "De l'article 26, ,§ 2, de la loi spéciale sur la Cour d'arbitrage du 6 janvier 1989, il résulte que lorsqu'une question visée à l'article 26, ,§ 1er, 3° de ladite loi est soulevée par un moyen devant la Cour de cassation, à propos en l'espèce de la violation des dispositions constitutionnelles citées par cette loi spéciale par la réglementation légale relative à la compétence du juge pénal de statuer sur l'opportunité de la demande de remise en état, celle-ci n'est pas dispensée de l'obligation de demander à la Cour d'arbitrage de statuer sur cette question même lorsque, dans un arrêt antérieur, la Cour d'arbitrage s'est déjà prononcée à titre préjudiciel sur une question ayant le même objet (1). (1) Voir Cass., 29 mars 1999, RG S.97.0056.F, n° 186 et les conclusions de Monsieur l'avocat général Leclercq."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 26, ,§ 2, Bijzondere Wet Arbitragehof, wanneer een middel een vraag, als bedoeld in art. 26, ,§ 1, 3°, voor het Hof opwerpt, in onderhavige geval m.b.t. de schending van de in die bijzondere wet vermelde grondwettelijke bepalingen door de wettelijke regeling betreffende de bevoegdheid van de strafrechter om over de opportuniteit van de vordering tot herstel in de oorspronkelijke toestand te oordelen, is het Hof niet ontslagen van de verplichting het Arbitragehof te verzoeken over die vraag uitspraak te doen, ook al heeft het Arbitragehof, bij wijze van een prejudiciële beslissing, over een vraag met hetzelfde onderwerp reeds uitspraak gedaan (1). (1) Zie Cass., 29 maart 1999, AR S.97.0056.F, nr. 186, en concl. adv.-gen. Leclercq."
+      ]
+    }
+  },
+  "33": {
+    "ECLI:BE:CASS:2009:ARR.20090105.5": {
+      "court": "CASS",
+      "date": "2009-01-05",
+      "roleNumber": "S.08.0101.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux préparatoires de la loi du 4 décembre 2007 relative aux élections sociales de l'année 2008 que la disposition finale de l'article 33, § 1er, alinéa 4, de cette loi, suivant laquelle \"l'appartenance à une catégorie de travailleurs est déterminée en fonction de la liste électorale sur laquelle est inscrit le travailleur\", tend uniquement à éviter toutes complications susceptibles de naître à la suite d'un changement de catégorie de travailleurs par un candidat au cours de la procédure électorale, plus spécialement un changement de catégorie postérieur à la clôture définitive de la liste électorale, et non à instaurer la condition d'éligibilité supplémentaire de l'inscription sur une liste électorale, qui n'est prévue ni par la loi du 20 septembre 1948 portant organisation de l'économie ni par la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis blijkt dat het bepaalde in de slotzin van artikel 33,§ 1, vierde lid, van de wet van 4 december 2007, dat \"het behoren tot een categorie van werknemers wordt vastgesteld in functie van de kiezerslijst waarop de werknemer is ingeschreven\", er enkel toe strekt problemen te vermijden die kunnen ontstaan wanneer een kandidaat in de loop van de verkiezingsprocedure van werknemerscategorie verandert, in het bijzonder wanneer de wijziging van categorie plaatsvindt nadat de kandidatenlijst definitief is geworden, maar niet tot doel heeft een bijkomende verkiesbaarheidsvoorwaarde die niet in de Bedrijfsorganisatiewet en de Wet Welzijn Werknemers is bepaald, namelijk op een kiezerslijst ingeschreven zijn, in te voeren."
       ]
     }
   }

@@ -1,4 +1,50 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2003:ARR.20030627.15": {
+      "court": "CASS",
+      "date": "2003-06-27",
+      "roleNumber": "C010023N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/06/27/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "L'affectation d'un terrain en propriété privée à une zone de parcs par un plan d'aménagement n'entraîne pas nécessairement l'expropriation, plus spécialement lorsque la zone de parcs n'est pas rendue accessible au public, de sorte que l'interdiction de bâtir et de lotir en raison de cette affectation ne découle pas de la prévision de l'expropriation au sens de l'article 37, alinéa 6, 1°, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme."
+      ],
+      "abstractNL": [
+        "De bestemming parkgebied die door een plan van aanleg aan een grond in private eigendom wordt gegeven, moet niet noodzakelijk tot onteigening leiden, inzonderheid wanneer het parkgebied niet toegankelijk wordt gemaakt voor het publiek zodat het op grond van die bestemming ingeroepen verbod te bouwen of te verkavelen niet het gevolg is van een in uitzicht gestelde onteigening in de zin van artikel 37, zesde lid, 1, van de Stedenbouwwet."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1989:ARR.19890505.1": {
+      "court": "CASS",
+      "date": "1989-05-05",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/05/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un terrain situé en zone d'extension de l'habitat ne peut être considéré comme terrain à bâtir tant que l'autorité compétente ne s'est pas prononcée sur l'aménagement de la zone et que, selon le cas, soit ladite autorité n'a pas pris de décision d'engagement des dépenses relatives aux équipements, soit que ces derniers n'ont pas fait l'objet d'un engagement accompagné de garantie de la part du promoteur. ( Arr. roy. du 28 décembre 1972 relatif à la présentation et à la mise en oeuvre des projets de plan et des plans de secteur, art. 5, alinéa 1er, 1. )"
+      ],
+      "abstractNL": [
+        "Een grond gelegen in een woonuitbreidingsgebied is geen bouwgrond zolang de bevoegde overheid over de ordening van het gebied niet heeft beslist, en zolang, volgens het geval, ofwel door de overheid geen besluit tot vaststelling van de uitgaven voor de voorzieningen is genomen, ofwel omtrent die voorzieningen geen met waarborgen omklede verbintenis is aangegaan door de promotor. ( Art. 5.1.1. K.B. van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810619.11": {
+      "court": "CASS",
+      "date": "1981-06-19",
+      "roleNumber": "3122",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le juge attribue à un terrain exproprié la caractéristique d'un terrain sis dans une zone d'extension normale de l'habitat dont le caractère propre a été confirmé mais non créé par le projet du plan de secteur, et alloue de ce chef une indemnité d'expropriation correspondant au prix que l'emprise aurait atteint en cas de vente comme terrain à bâtir, est irrecevable le moyen qui soutient que les terrains qui ont le caractère de terres agricoles et qui ne sont pas situés dans une zone d'habitat, ne peuvent être transformés en terrains à bâtir que lorsqu'une décision de l'autorité administrative est prise pour en modifier la destination, alors que, le jugement ne constatant pas que le terrain exproprié a le caractère d'une terre agricole, ce moyen obligerait la Cour à examiner des éléments de fait."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter aan een onteigend stuk grond het kenmerk toekent van ë grond in een normale uitbreidingszone van het woongebied waarvan het eigen kenmerk bevestigd maar niet geschapen werd door het ontwerp-gewestplan è en daarvoor een vergoeding toekent ten belope van de prijs die deze inneming in geval van verkoop als bouwgrond kan opleveren, is niet ontvankelijk het middel ten betoge dat de gronden die het kenmerk van landbouwgronden hebben en die niet gelegen zijn in een woongebied, niet in bouwgronden kunnen worden veranderd dan krachtens een besluit van de bestuursoverheid tot wijziging van de bestemming, als het vonnis niet vaststelt dat de onteigende grond het kenmerk heeft van landbouwgrond, zodat dat middel het Hof zou nopen tot het onderzoek van feitelijke gegevens <1>."
+      ]
+    }
+  },
   "7": {
     "ECLI:BE:CASS:2013:ARR.20130329.4": {
       "court": "CASS",
@@ -31,6 +77,22 @@
       ]
     }
   },
+  "9": {
+    "ECLI:BE:CASS:1974:ARR.19740404.11": {
+      "court": "CASS",
+      "date": "1974-04-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 9, alinéa 2, 3., de l'arrêté royal du 28 décembre 1972 fixant les règles relatives aux élections des membres des conseils provinciaux, des conseils d'appel et du conseil national de l'Ordre des médecins, aux termes duquel l'acte de candidature au conseil provincial de l'Ordre doit mentionner la qualité demandée de membre effectif ou de membre suppléant, signifie que le candidat doit préciser dans l'acte de candidature en quelle qualité il se porte candidat, que ce soit comme membre effectif ou comme membre suppléant, et n'a pas pour portée d'exclure une candidature faite à la fois en ces deux qualités."
+      ],
+      "abstractNL": [
+        "Artikel 9, lid 2, 3., van het koninklijk besluit van 28 december 1972 tot vaststelling van de regelen betreffende de verkiezing van de leden van de provinciale raden, de raden van beroep en de nationale raad van de Orde van geneesheren, naar luid waarvan de akte van kandidaatstelling voor de provinciale raad van de Orde van geneesheren het lidmaatschap - gewoon of plaatsvervangend - waarnaar gesolliciteerd wordt, moet vermelden, betekent dat de kandidaat in de akte van kandidaatstelling moet zeggen in welke hoedanigheid, hetzij als gewoon lid, hetzij als plaatsvervangend lid, hij zich kandidaat stelt, en heeft niet tot doel een kandidaatstelling in die twee hoedanigheden tegelijk uit te sluiten."
+      ]
+    }
+  },
   "11": {
     "ECLI:BE:CASS:2013:ARR.20130510.4": {
       "court": "CASS",
@@ -47,6 +109,22 @@
       ]
     }
   },
+  "16": {
+    "ECLI:BE:CASS:2001:ARR.20011106.11": {
+      "court": "CASS",
+      "date": "2001-11-06",
+      "roleNumber": "P000475N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 42, § 1er, 7°, du décret du Conseil flamand du 22 octobre 1996 relatif à l'aménagement du territoire vise à subordonner les modifications d'utilisation ayant un impact important sur l'affectation et l'aménagement du territoire à un permis et le deuxième alinéa dudit article précise à cet égard les critères sur la base desquels le Gouvernement flamand établit la liste des modifications d'utilisation devant être autorisées, mais le renvoi fait dans cette disposition à \" l'affectation de projets de plans de secteur dressés provisoirement, de plans de secteur dressés définitivement et de plans généraux d'aménagement élaborés conformément à l'article 12, troisième alinéa de ce décret \" n'implique pas que les modifications d'utilisation visées soient toujours interdites ou, au contraire, soient toujours autorisées tant qu'elles ne sont pas expressément interdites en vertu des dispositions de ces plans ou de l'arrêté royal du 28 décembre 1972 relatif à la présentation et la mise en oeuvre des projets de plans et des plans de secteur ; il appartient aux autorités, dans les cas prévus par l'arrêté d'exécution du 17 juillet 1984, subordonnant certaines modifications d'utilisation à un permis, d'apprécier conformément à ces dispositions si la modification projetée peut être autorisée et l'article 5 dudit arrêté prévoit que l'usage nouveau d'un bâtiment situé dans une zone de loisirs pour lequel est délivré un permis, et dont la fonction principale est la résidence permanente, est censé avoir un impact important sur l'espace environnant et qu'une telle modification nécessite l'obtention préalable d'un permis (1) (2) (3)."
+      ],
+      "abstractNL": [
+        "Artikel 42, § 1, 7°, Stedenbouwdecreet, beoogt de wijzigingen van gebruik, die een belangrijke weerslag hebben op de bestemming en de ordening van het grondgebied, te onderwerpen aan een vergunning en het tweede lid van dit artikel bepaalt daartoe de criteria op grond waarvan de Vlaamse Regering de lijst opstelt van de gebruikswijzigingen die moeten worden vergund, doch de verwijzing, in deze bepaling, naar \"de bestemmingen van voorlopig vastgestelde gewestplannen, van vastgestelde gewestplannen en van algemene plannen van aanleg tot stand gebracht overeenkomstig artikel 12, derde lid, van dit decreet\" houdt niet in dat de bedoelde gebruikswijzigingen steeds verboden zijn of, omgekeerd, steeds toelaatbaar zijn zolang zij niet uitdrukkelijk verboden zijn krachtens de bepalingen van deze plannen of van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen;het komt aan de overheid toe, in de gevallen bepaald in het uitvoeringsbesluit van 17 juli 1984, houdende het vergunningsplichting maken van sommige gebruikswijzigingen, overeenkomstig deze bepalingen te oordelen of de voorgenomen wijzigingkan worden vergund en artikel 5 van dit besluit bepaalt dat het nieuwe gebruik van een in een recreatiegebied gelegen vergund gebouw, met als hoofdfunctie dienspermanente bewoning, geacht wordt een belangrijke ruimtelijkeweerslag te hebben op de onmiddellijke omgeving en dat een dergelijke wijziging een voorafgaande vergunning behoeft (1) (2) (3)."
+      ]
+    }
+  },
   "19": {
     "ECLI:BE:CASS:2020:ARR.20200604.1N.18": {
       "court": "CASS",
@@ -60,6 +138,38 @@
       ],
       "abstractNL": [
         "Wanneer het bijzonder plan van aanleg voldoende gedetailleerde voorschriften bevat die de overheid geen enkele beoordelingsruimte meer laten, volstaat het dat de overheid aan die voorschriften toetst om de verenigbaarheid van het aangevraagde met de goede plaatselijke ordening na te gaan en kan een motivering door een enkele verwijzing naar het bijzonder plan van aanleg volstaan; dit is niet het geval ingeval van loutere overeenstemming van de vergunde constructie met de bestemming van het bijzonder plan van aanleg (1). (1) Zie R.v.St. 7 februari 2001, nr. 93.109."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1990:ARR.19900309.9": {
+      "court": "CASS",
+      "date": "1990-03-09",
+      "roleNumber": "6429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une personne de droit public, désignée par le Roi, sollicite un permis relatif à l'exécution de travaux d'intérêt général, le ministre ou, en cas d'avis favorable du collège des bourgmestre et échevins, son délégué peuvent accorder des dérogations au plan de secteur, pour autant que ces travaux soient compatibles avec la destination générale et le caractère architectural de la zone considérée. ( Loi organique de l'aménagement du territoire et de l'urbanisme du 29 mars 1962, art. 48 et arrêté royal du 28 décembre 1972 relatif à la présentation et à la mise en oeuvre des projets de plan et des plans de secteur, pris en exécution de cette loi, art. 20. )"
+      ],
+      "abstractNL": [
+        "Wanneer een door de Koning aangewezen publiekrechtelijke rechtspersoon een vergunning aanvraagt voor het uitvoeren van werken van algemeen belang, kan de minister of, in geval van gunstig advies van het college van burgemeester en schepenen, diens gemachtigde, met betrekking tot het gewestplan afwijkingen toestaan, voor zover die werken verenigbaar zijn met de algemene bestemming en met het architectonisch karakter van het betreffende gebied. ( Artt. 48, derde lid, Wet Ruimtelijke Ordening en Stedebouw en 20 van het ter uitvoering van die wet genomen K.B. van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen. )"
+      ]
+    }
+  },
+  "26": {
+    "ECLI:BE:CASS:2004:ARR.20040923.4": {
+      "court": "CASS",
+      "date": "2004-09-23",
+      "roleNumber": "D030023F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/09/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La réclamation d'un électeur contre les résultats des élections des membres des conseils provinciaux, des conseils d'appel et du conseil national de l'Ordre des médecins, est adressée, par lettre recommandée à la poste, au président du conseil d'appel qui utilise la langue du conseil provincial dont dépend le réclamant; pour être valable, la lettre introduisant cette réclamation doit être signée (1). (1) Voir Cass., 6 octobre 2000, RG F.97.0038.N, n° 526."
+      ],
+      "abstractNL": [
+        "Het bezwaarschrift van een kiezer tegen de uitslag van de verkiezingen van de leden van de provinciale raden, de raden van beroep en de nationale raad van de Orde der geneesheren wordt bij een ter post aangetekende brief gestuurd aan de voorzitter van de raad van beroep die dezelfde taal als voertaal heeft als de provinciale raad waarvan de reclamant afhangt; de brief waarbij dat bezwaarschrift wordt ingediend, is slechts geldig als hij ondertekend is (1). (1) Zie Cass., 6 okt. 2000, AR F.97.0038.N, nr 526."
       ]
     }
   },
@@ -80,6 +190,64 @@
         "De wetsbepaling die voorziet dat de woonuitbreidingsgebieden uitsluitend bestemd zijn voor groepswoningbouw zolang de bevoegde overheid over de ordening van het gebied niet heeft beslist en zolang, volgens het geval, ofwel die overheid geen besluit tot vastlegging van de uitgaven voor de voorzieningen heeft genomen, ofwel omtrent deze voorzieningen geen met waarborgen omklede verbintenis is aangegaan door de promotor, houdt in dat woonuitbreidingsgebieden niet voor andere in woongebieden toegelaten bestemmingen dan \"groepswoningbouw\" kunnen worden aangewend, zolang de bevoegde overheid niet over de ordening van het gebied heeft beslist, dit wil zeggen zolang de ordening van dit gebied niet is vastgesteld, hetzij in een goedgekeurd bijzonder plan van aanleg of ruimtelijk uitvoeringsplan, hetzij in een globaal plan dat het voorwerp uitmaakt van een behoorlijk vergunde verkaveling(1); hoewel woonuitbreidingsgebieden in beginsel reservegebieden zijn(2), sluit geen enkele wettelijke bepaling uit dat groepswoningbouw in dergelijke gebieden kan worden gerealiseerd zonder dat vooraf wordt vastgesteld dat de woongebieden niet volstaan om aan de woonbehoeften te voldoen. (1) Zie RvS 17 mei 2011, nr. 213.293, N.V. Vestabuild e.a.; RvS 2 oktober 2015, nr. 232.409, Deputatie van de Provincieraad van Vlaams-Brabant. (2) RvS 6 maart 2008, nr. 180.545, Tijtgat.",
         "Onder groepswoningbouw dient te worden verstaan het gelijktijdig oprichten van meerdere gebouwen bestemd voor bewoning die een samenhangend geheel vormen (1); de algemene bestemming groepswoningbouw laat aldus meer toe dan sociale woningbouw en sluit zuiver particulier initiatief niet uit (2). (1) RvS 30 maart 2010, nr. 202.563, N.V. Amsto. (2) RvS 24 september 1992, nr. 40.491, De Brabandere.",
         "Percelen gelegen in niet-geordende woonuitbreidingsgebieden komen, mits is voldaan aan de andere in artikel 2.6.1, §3, Vlaamse Codex Ruimtelijke Ordening vermelde voorwaarden, in aanmerking voor een vergunning om te bouwen of te verkavelen en komen stedenbouwkundig voor bebouwing in aanmerking, met name voor groepswoningbouw."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020624.5": {
+      "court": "CASS",
+      "date": "2002-06-24",
+      "roleNumber": "C010508N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 16.5.0 de l'arrêté royal du 28 décembre 1972 les zones de loisirs sont destinées à recevoir les équipements récréatifs et touristiques, y compris ou non les équipements de séjour; dans ces zones, les actes et travaux peuvent être soumis à des restrictions afin de respecter le caractère récréatif des zones."
+      ],
+      "abstractNL": [
+        "Krachtens art. 16.5.0 van het K.B. 28 december 1972 zijn recreatiegebieden bestemd voor het aanbrengen van recreatieve en toeristische accommodatie, al dan niet met inbegrip van verblijfsaccommodatie; in deze gebieden kunnen de handelingen en werken aan beperkingen worden onderworpen ten einde het recreatief karakter van de gebieden te bewaren."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900309.9": {
+      "court": "CASS",
+      "date": "1990-03-09",
+      "roleNumber": "6429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une personne de droit public, désignée par le Roi, sollicite un permis relatif à l'exécution de travaux d'intérêt général, le ministre ou, en cas d'avis favorable du collège des bourgmestre et échevins, son délégué peuvent accorder des dérogations au plan de secteur, pour autant que ces travaux soient compatibles avec la destination générale et le caractère architectural de la zone considérée. ( Loi organique de l'aménagement du territoire et de l'urbanisme du 29 mars 1962, art. 48 et arrêté royal du 28 décembre 1972 relatif à la présentation et à la mise en oeuvre des projets de plan et des plans de secteur, pris en exécution de cette loi, art. 20. )"
+      ],
+      "abstractNL": [
+        "Wanneer een door de Koning aangewezen publiekrechtelijke rechtspersoon een vergunning aanvraagt voor het uitvoeren van werken van algemeen belang, kan de minister of, in geval van gunstig advies van het college van burgemeester en schepenen, diens gemachtigde, met betrekking tot het gewestplan afwijkingen toestaan, voor zover die werken verenigbaar zijn met de algemene bestemming en met het architectonisch karakter van het betreffende gebied. ( Artt. 48, derde lid, Wet Ruimtelijke Ordening en Stedebouw en 20 van het ter uitvoering van die wet genomen K.B. van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890505.1": {
+      "court": "CASS",
+      "date": "1989-05-05",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/05/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un terrain situé en zone d'extension de l'habitat ne peut être considéré comme terrain à bâtir tant que l'autorité compétente ne s'est pas prononcée sur l'aménagement de la zone et que, selon le cas, soit ladite autorité n'a pas pris de décision d'engagement des dépenses relatives aux équipements, soit que ces derniers n'ont pas fait l'objet d'un engagement accompagné de garantie de la part du promoteur. ( Arr. roy. du 28 décembre 1972 relatif à la présentation et à la mise en oeuvre des projets de plan et des plans de secteur, art. 5, alinéa 1er, 1. )"
+      ],
+      "abstractNL": [
+        "Een grond gelegen in een woonuitbreidingsgebied is geen bouwgrond zolang de bevoegde overheid over de ordening van het gebied niet heeft beslist, en zolang, volgens het geval, ofwel door de overheid geen besluit tot vaststelling van de uitgaven voor de voorzieningen is genomen, ofwel omtrent die voorzieningen geen met waarborgen omklede verbintenis is aangegaan door de promotor. ( Art. 5.1.1. K.B. van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740404.11": {
+      "court": "CASS",
+      "date": "1974-04-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 9, alinéa 2, 3., de l'arrêté royal du 28 décembre 1972 fixant les règles relatives aux élections des membres des conseils provinciaux, des conseils d'appel et du conseil national de l'Ordre des médecins, aux termes duquel l'acte de candidature au conseil provincial de l'Ordre doit mentionner la qualité demandée de membre effectif ou de membre suppléant, signifie que le candidat doit préciser dans l'acte de candidature en quelle qualité il se porte candidat, que ce soit comme membre effectif ou comme membre suppléant, et n'a pas pour portée d'exclure une candidature faite à la fois en ces deux qualités."
+      ],
+      "abstractNL": [
+        "Artikel 9, lid 2, 3., van het koninklijk besluit van 28 december 1972 tot vaststelling van de regelen betreffende de verkiezing van de leden van de provinciale raden, de raden van beroep en de nationale raad van de Orde van geneesheren, naar luid waarvan de akte van kandidaatstelling voor de provinciale raad van de Orde van geneesheren het lidmaatschap - gewoon of plaatsvervangend - waarnaar gesolliciteerd wordt, moet vermelden, betekent dat de kandidaat in de akte van kandidaatstelling moet zeggen in welke hoedanigheid, hetzij als gewoon lid, hetzij als plaatsvervangend lid, hij zich kandidaat stelt, en heeft niet tot doel een kandidaatstelling in die twee hoedanigheden tegelijk uit te sluiten."
       ]
     }
   }

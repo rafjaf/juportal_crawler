@@ -19,6 +19,38 @@
       ]
     }
   },
+  "8": {
+    "ECLI:BE:CASS:2007:ARR.20070604.3": {
+      "court": "CASS",
+      "date": "2007-06-04",
+      "roleNumber": "S.06.0082.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'acte juridique administratif dont la notification constitue le point de départ de la prescription prévue à l'article 20, alinéa 1er, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail dans le secteur public, n'est pas exclusivement la décision de l'autorité visée à l'article 10 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des provinces, des communes et des associations de communes, des dommages résultant des accidents du travail, mais peut, lorsque la demande en paiement des indemnités est introduite avant que la décision précitée n'ait été prise, consister en la proposition du service médical visée aux articles 8 et 9 du même arrêté (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De administratieve rechtshandeling waarvan de kennisgeving de in artikel 20, eerste lid, Arbeidsongevallenwet Overheidspersoneel, bepaalde verjaring doet ingaan, is niet uitsluitend de beslissing van de overheid die bedoeld wordt in artikel 10, K.B. 13 juli 1970, betreffende de schadevergoeding ten gunste van sommige personeelsleden van provincies, gemeenten, agglomeraties en federaties van gemeenten, verenigingen van gemeenten, voor arbeidsongevallen, maar kan, indien de vordering tot betaling van de vergoedingen vóór het nemen van die beslissing ingesteld wordt, ook het in de artikelen 8 en 9 van datzelfde besluit bedoelde voorstel van de geneeskundige dienst zijn (1). (1) Zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:2000:ARR.20000207.6": {
+      "court": "CASS",
+      "date": "2000-02-07",
+      "roleNumber": "S990122N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision du service médical qui fixe le pourcentage de l'invalidité permanente du membre du personnel du secteur public, victime d'un accident du travail ou d'un accident survenu sur le chemin du travail, lie l'autorité dans la mesure où ce service reconnaît l'existence d'une invalidité permanente, ce pourcentage ne pouvant qu'être augmenté par l'autorité."
+      ],
+      "abstractNL": [
+        "De beslissing van de geneeskundige dienst, die het percentage vaststelt van de blijvende invaliditeit van het personeelslid van de overheid, slachtoffer van een arbeidsongeval of ongeval op de weg van en naar het werk, is bindend voor de overheid inzoverre deze dienst een blijvende invaliditeit erkent, welk percentage door de overheid alleen kan worden verhoogd."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2021:ARR.20210517.3F.2": {
       "court": "CASS",
@@ -37,6 +69,20 @@
         "Het akkoord van het slachtoffer over het rentevoorstel van het openbaar centrum voor maatschappelijk welzijn dat hem op het tijdstip van het ongeval in dienst had, vormt een overeenkomst tussen de schuldenaar van de schadeloosstelling en de rechthebbende op de prestaties van de verzekering voor geneeskundige verzorging en uitkeringen in de zin van artikel 136, § 2, vijfde lid, ZIV-wet, zelfs als het centrum gedeeltelijk gebonden is door de beslissing van de medische dienst over de graad van blijvende arbeidsongeschiktheid en, in geval van een dergelijk akkoord, het rentevoorstel is opgenomen in een beslissing van het centrum die aan het slachtoffer is meegedeeld (1). (1) Zie concl. OM in Pas. 2021, nr. 354.",
         "Die overeenkomst kan niet tegen de verzekeringsinstelling worden aangevoerd zonder haar instemming en de beslissing van het centrum die de overeenkomst uitvoert, heeft evenmin gevolg voor de verzekeringsinstelling (1). (1) Zie concl. OM in Pas. 2021, nr. 354."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070604.3": {
+      "court": "CASS",
+      "date": "2007-06-04",
+      "roleNumber": "S.06.0082.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'acte juridique administratif dont la notification constitue le point de départ de la prescription prévue à l'article 20, alinéa 1er, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail dans le secteur public, n'est pas exclusivement la décision de l'autorité visée à l'article 10 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des provinces, des communes et des associations de communes, des dommages résultant des accidents du travail, mais peut, lorsque la demande en paiement des indemnités est introduite avant que la décision précitée n'ait été prise, consister en la proposition du service médical visée aux articles 8 et 9 du même arrêté (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De administratieve rechtshandeling waarvan de kennisgeving de in artikel 20, eerste lid, Arbeidsongevallenwet Overheidspersoneel, bepaalde verjaring doet ingaan, is niet uitsluitend de beslissing van de overheid die bedoeld wordt in artikel 10, K.B. 13 juli 1970, betreffende de schadevergoeding ten gunste van sommige personeelsleden van provincies, gemeenten, agglomeraties en federaties van gemeenten, verenigingen van gemeenten, voor arbeidsongevallen, maar kan, indien de vordering tot betaling van de vergoedingen vóór het nemen van die beslissing ingesteld wordt, ook het in de artikelen 8 en 9 van datzelfde besluit bedoelde voorstel van de geneeskundige dienst zijn (1). (1) Zie concl. O.M. in Pas., 2007, nr ..."
+      ]
     }
   },
   "11": {
@@ -52,6 +98,140 @@
       ],
       "abstractNL": [
         "Bij een tijdelijke verergering van de blijvende arbeidsongeschiktheid na de consolidatiedatum waardoor het door een arbeidsongeval getroffen contractueel personeelslid van een gemeente zijn betrekking tijdelijk niet meer kan uitoefenen, heeft die getroffene, staande de arbeidsovereenkomst, op grond van een meer gunstige bepaling van het personeelsstatuut, gedurende de periode van tijdelijke verergering van de blijvende arbeidsongeschiktheid recht op vergoedingen voor tijdelijke arbeidsongeschiktheid, ongeacht de graad van blijvende arbeidsongeschiktheid; indien de periode van tijdelijke verergering van de blijvende arbeidsongeschiktheid voortduurt nadat de arbeidsovereenkomst een einde heeft genomen, blijft die getroffene verder recht hebben op een dagelijkse vergoeding gelijk aan 90 pct. van het gemiddeld dagbedrag, dit op voorwaarde dat hij een blijvende arbeidsongeschiktheid van ten minste 10 pct. heeft zo de tijdelijke verergeringstoestand zich heeft voorgedaan na de bij artikel 11 van het KB van 13 juli 1970 bepaalde herzieningstermijn (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990301.7": {
+      "court": "CASS",
+      "date": "1999-03-01",
+      "roleNumber": "S980013F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En matière d'accident du travail dont a été victime un membre du personnel d'une commune, l'action en révision des rentes n'est recevable que si une décision du collège des bourgmestre et échevins a été prise et notifiée dans le respect des dispositions réglementaires prévues ou si la demande d'indemnisation de la victime a donné lieu à une décision judiciaire passée en force de chose jugée, fixant le pourcentage d'invalidité permanente."
+      ],
+      "abstractNL": [
+        "Wanneer een lid van het gemeentepersoneel getroffen is door een arbeidsongeval, is de aanvraag tot herziening van de rente maar ontvankelijk ingeval een beslissing van het college van burgemeester en schepenen is genomen die met inachtneming van de voorziene reglementaire bepalingen ter kennis is gebracht of ingeval over de aanvraag tot vergoeding van de getroffene een in kracht van gewijsde gegane rechterlijke beslissing is gewezen die het percentage van de blijvende invaliditeit heeft vastgesteld."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:1996:ARR.19960122.4": {
+      "court": "CASS",
+      "date": "1996-01-22",
+      "roleNumber": "S950011F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Viole le principe général du droit de la non-rétroactivité des arrêtés réglementaires, l'arrêt qui applique à une situation définitivement accomplie avant le 1er mars 1988 entre la commune et un membre de son personnel, l'article 12, alinéa 2, de l'arrêté royal du 13 juillet 1970 relatif à la réparation en faveur de certains membres du personnel des communes, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail. (Principe général du droit de la non-rétroactivité des arrêtés réglementaires)."
+      ],
+      "abstractNL": [
+        "Het algemeen rechtsbeginsel dat verordeningsbesluiten geen terugwerkende kracht hebben wordt door de rechter geschonden, wanneer hij op een toestand die tussen de gemeente en een personeelslid vóór 1 maart 1988 is voldongen, toepassing maakt van artikel 12, alinéa 2, K.B. van 13 juli 1970 betreffende de schadevergoeding, ten gunste van sommige personeelsleden van gemeenten, voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk. (Algemeen rechtsbeginsel dat verordeningsbesluiten geen terugwerkende kracht hebben)."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950123.8": {
+      "court": "CASS",
+      "date": "1995-01-23",
+      "roleNumber": "S940047F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si l'événement, que la victime qualifie d'accident du travail, se révèle par la suite être une aggravation des lésions causées par un accident du travail antérieur, la circonstance que la victime aurait informé le service ou le fonctionnaire compétent au moyen de la formule visée à l'article 7 de l'arrêté royal du 13 juillet 1970 et dénommée \"declaration d'accident\", n'empêche pas l'autorité administrative et, en cas de contestation, l'autorité judiciaire de considérer que la nouvelle demande introduite par la victime constitue en réalité une demande en révision de la décision intervenue à la suite de l'accident initial."
+      ],
+      "abstractNL": [
+        "Ook al blijkt later dat de gebeurtenis, die de getroffene als arbeidsongeval bestempelt, een verergering is van de bij een vorig arbeidsongeval opgelopen letsels, staat de omstandigheid dat de getroffene de dienst of de bevoegde ambtenaar op de hoogte had gebracht door middel van het in art. 7 K.B. van 13 juli 1970 bedoelde formulier \"aangifte van ongeval\", er niet aan in de weg dat de bestuursoverheid en, in geval van betwisting, de rechterlijke overheid oordeelt dat de nieuwe aanvraag van de getroffene in werkelijkheid een aanvraag tot herziening is van de beslissing over het persoonlijke ongeval."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880411.10": {
+      "court": "CASS",
+      "date": "1988-04-11",
+      "roleNumber": "6113",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/04/11/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "La prescription de la demande de révision d'une rente pour accident du travail du chef d'incapacité permanente de travail, n'est pas interrompue par la communication, faite par l'autorité communale à la victime, que sa demande a été envoyée au service médical (Arr. roy. 13 juillet 1970, articles 9 et 12)."
+      ],
+      "abstractNL": [
+        "De verjaring van de vordering tot herziening van een arbeidsongevallenrente wegens blijvende arbeidsongeschiktheid wordt niet gestuit door de mededeling van de gemeentelijke overheid aan de getroffene dat zijn aanvraag wordt doorgezonden naar de geneeskundige dienst ( artt. 9 en 12 K.B. 13 juli 1970 )."
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:1989:ARR.19890904.4": {
+      "court": "CASS",
+      "date": "1989-09-04",
+      "roleNumber": "8555",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/04/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La rente pour invalidité permanente, résultant d'un accident du travail survenu dans le secteur public, est établie sur la base de la rémunération annuelle à laquelle la victime a droit au moment de l'accident; cette rente est augmentée ou diminuée conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation. ( Loi du 3 juillet 1967, art. 4 et 13; arr. roy. du 13 juillet 1970, art. 18. )"
+      ],
+      "abstractNL": [
+        "De rente wegens blijvende arbeidsongeschiktheid ten gevolge van een in de overheidssector overkomen arbeidsongeval wordt vastgesteld op basis van het jaarloon waarop de getroffene recht had ten tijde van het ongeval; die rente wordt vermeerderd of verminderd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel tot koppeling van de consumptieprijzen aan het indexcijfer. ( Artt. 4 en 13, Arbeidsongevallenwet Overheidspersoneel; art. 18 K.B. 13 juli 1970. )"
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:2007:ARR.20070212.1": {
+      "court": "CASS",
+      "date": "2007-02-12",
+      "roleNumber": "S050121F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le rattachement de la rente à un indice-pivot est sans incidence sur la détermination préalable de la rémunération annuelle de la victime d'un accident du travail dans le secteur public (1). (1) Le ministère public estimait que le moyen unique, en sa seconde branche, était irrecevable; selon lui, il obligeait la Cour à vérifier des éléments de fait, ce qui n'est pas au pouvoir de Celle-ci."
+      ],
+      "abstractNL": [
+        "De koppeling van de rente aan een spilindex heeft geen invloed op de voorafgaande bepaling van de jaarlijkse bezoldiging van een door een arbeidsongeval getroffen lid van het overheidspersoneel (1). (1) Het O.M. oordeelde dat het tweede onderdeel van het enige middel niet ontvankelijk was; volgens het O.M. verplichtte het het Hof tot een onderzoek van feiten, waarvoor het niet bevoegd is."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1999:ARR.19990329.6": {
+      "court": "CASS",
+      "date": "1999-03-29",
+      "roleNumber": "S980040F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas de contestation judiciaire, la rente due en vertu de l'article 22 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des communes et des centres publics d'aide sociale, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, n'est pas exigible dès le premier jour du mois correspondant à celui de la consolidation; la rente n'est en effet pas exigible tant que le juge n'a pas fait droit à la demande de payement de celle-ci par une décision devenue exécutoire."
+      ],
+      "abstractNL": [
+        "In geval van gerechtelijke betwisting kan de rente die verschuldigd in krachtens art. 22 KB 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van gemeenten en openbare centra voor maatschappelijk welzijn, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk, niet worden geëist vanaf de eerste dag van de maand die overeenstemt met die van de consolidatie; de rente is immers niet opeisbaar zolang de rechter de vordering tot betaling van die rente niet heeft toegewezen bij wege van een uitvoerbaar geworden beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981102.7": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S970164N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de contestation judiciaire, la rente due en vertu de l'article 22 de l'arrêté royal du 13 juillet 1970 relatif à la réparation en faveur de certains membres du personnel des centres publics d'aide sociale, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, n'est pas exigible dès le premier jour du mois correspondant à celui de la consolidation ou du décès; la rente n'est, en effet, pas exigible tant que le juge n'a pas fait droit à la demande de paiement de celle-ci par une décision devenue exécutoire."
+      ],
+      "abstractNL": [
+        "In geval van gerechtelijke betwisting kan de rente die verschuldigd is krachtens art. 22, KB 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van openbare centra voor maatschappelijk welzijn, voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk, niet worden geëist vanaf de eerste dag van de maand die overeenstemt met die van de consolidatie of het overlijden; de rente is immers niet opeisbaar zolang de rechter de vordering tot betaling van die rente niet heeft toegewezen bij wege van een uitvoerbaar geworden beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961128.8": {
+      "court": "CASS",
+      "date": "1996-11-28",
+      "roleNumber": "S960036F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de contestation judiciaire, la rente due en vertu de l'article 22 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des communes, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, n'est pas exigible dès le premier jour du mois correspondant à celui de la consolidation; la rente n'est en effet pas exigible tant que le juge n'a pas fait droit à la demande de payement de celle-ci par une décision devenue exécutoire."
+      ],
+      "abstractNL": [
+        "In geval van gerechterlijke betwisting kan de rente die verschuldigd is krachtens art. 22, KB 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van gemeenten, voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk, niet worden geëist vanaf de eerste dag van de maand die overeenstemt met die van de consolidatie; de rente is immers niet opeisbaar zolang de rechter de vordering tot betaling van die rente niet heeft toegewezen bij wege van een uitvoerbaar geworden beslissing."
       ]
     }
   },
@@ -75,6 +255,36 @@
       ]
     }
   },
+  "27": {
+    "ECLI:BE:CASS:2011:ARR.20110117.1": {
+      "court": "CASS",
+      "date": "2011-01-17",
+      "roleNumber": "C080303F-C090461F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/17/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 41, alinéa 1er, de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, que la subrogation de l'assureur avec qui une commune a conclu un contrat d'assurance en vertu de l'article 27 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des provinces, des communes, des agglomérations et des fédérations de communes, des associations de communes, des centres publics d'aide sociale, des services, établissements et associations d'aide sociale, des services du collège de la commission communautaire française et de ceux du collège de la commission communautaire flamande et des caisses publiques de prêts, des dommages résultant des accidents du travail et des accidents sur le chemin du travail n'est pas limitée à l'action subrogatoire qu'accorde à cette commune l'article 14, §3, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public mais s'étend aux autres droits et actions de la commune contre l'auteur du dommage."
+      ],
+      "abstractNL": [
+        "Uit artikel 41, eerste lid, van de wet van 25 juni op de landverzekering, volgt dat de subrogatie van de verzekeraar met wie de gemeente een verzekeringsovereenkomst is aangegaan krachtens artikel 27 van het koninklijk besluit van 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van provincies, gemeenten, agglomeraties en federaties van gemeenten, verenigingen van gemeenten, openbare centra voor maatschappelijk welzijn, diensten, instellingen en verenigingen voor maatschappelijk welzijn, diensten van het College van de Vlaamse Gemeenschapscommissie en diensten van het College van de Franse Gemeenschapscommissie en openbare kassen van lening, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk, niet beperkt is tot de subrogatoire vordering die de gemeente is toegekend bij artikel 14, §3, van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector, maar zich uitstrekt tot de andere rechten en rechtsvorderingen van de gemeente tegen de schadeveroorzaker."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840604.3": {
+      "court": "CASS",
+      "date": "1984-06-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/04/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "La charge des indemnités et rentes octroyées à un membre du personnel d'une association de communes en cas d'accident du travail incombe à cette association, sans que la victime dispose d'une action directe contre l'assureur de celle-ci. (Arr. roy. du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel ... des associations de communes ..., des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, art. 26 et 27.)"
+      ],
+      "abstractNL": [
+        "De last van de vergoedingen en renten welke aan een personeelslid van een vereniging van gemeenten bij een arbeidsongeval worden toegekend, komt ten bezware van die vereniging, zonder dat de getroffene een rechtstreekse vordering tegen haar verzekeraar heeft. (Artt. 26 en 27 K.B. 13 juli 1970 betreffende de schadevergoeding, ten gunste van sommige personeelsleden van ... verenigingen van gemeenten ..., voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19880411.8": {
       "court": "CASS",
@@ -86,6 +296,48 @@
       "abstractFR": null,
       "abstractNL": [
         "Het arrest oordeelt dat de verjaring van verweerders vordering tot herziening van de rente wegens blijvende arbeidsongeschiktheid gestuit is door een schrijven van eiseres van 11 januari 1980. Het arrest stelt vast dat eiseres in dat schrijven meedeelt dat verweerders aanvraag tot herziening wordt overgezonden aan de Sociaal-Medische Dienst en dat deze dienst de herziening zal \" doorvoeren \". Het arrest besluit dat de eiseres aldus heeft erkend dat aan de zijde van verweerder een recht op eventuele vergoeding zou kunnen bestaan wegens de aangevoerde verergering. Dit besluit berust op de enkele grond : dat eiseres, indien zij had geoordeeld dat het door verweerder voorgestelde medische stuk tot staving van zijn aanvraag tot herziening, geen recht op eventuele vergoeding kon doen ontstaan, zij, \" in toepassing van artikel 9 van (het koninklijk besluit van 13 juli 1970), waar dit stelt : \" de overheid gaat na of de voorwaarden tot toekenning van de vergoedingen vervuld zijn \", onmiddellijk de aanvraag tot herziening als zonder voorwerp (had) moeten afwijzen \". Voormelde bepaling van artikel 9 van het koninklijk besluit van 13 juli 1970 legt de overheid enkel een verplichting op ter zake van het te verrichten administratief onderzoek, wanneer de initiële aangifte wordt gedaan van een ongeval dat als een arbeidsongeval of een ongeval op de weg van of naar het werk kan worden beschouwd. De bedoelde bepaling vindt geen toepassing op een aanvraag tot herziening van de rente, waarvan de indiening, het onderzoek en de behandeling geregeld zijn door de artikelen 11 tot 17 van het koninklijk besluit van 13 juli 1970, zodat het arrest de beslissing dat de verjaring van verweerders vordering gestuit was, niet naar recht verantwoordt door het enkele daarvoor gegeven motief."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990329.6": {
+      "court": "CASS",
+      "date": "1999-03-29",
+      "roleNumber": "S980040F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas de contestation judiciaire, la rente due en vertu de l'article 22 de l'arrêté royal du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel des communes et des centres publics d'aide sociale, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, n'est pas exigible dès le premier jour du mois correspondant à celui de la consolidation; la rente n'est en effet pas exigible tant que le juge n'a pas fait droit à la demande de payement de celle-ci par une décision devenue exécutoire."
+      ],
+      "abstractNL": [
+        "In geval van gerechtelijke betwisting kan de rente die verschuldigd in krachtens art. 22 KB 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van gemeenten en openbare centra voor maatschappelijk welzijn, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk, niet worden geëist vanaf de eerste dag van de maand die overeenstemt met die van de consolidatie; de rente is immers niet opeisbaar zolang de rechter de vordering tot betaling van die rente niet heeft toegewezen bij wege van een uitvoerbaar geworden beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981102.7": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S970164N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de contestation judiciaire, la rente due en vertu de l'article 22 de l'arrêté royal du 13 juillet 1970 relatif à la réparation en faveur de certains membres du personnel des centres publics d'aide sociale, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, n'est pas exigible dès le premier jour du mois correspondant à celui de la consolidation ou du décès; la rente n'est, en effet, pas exigible tant que le juge n'a pas fait droit à la demande de paiement de celle-ci par une décision devenue exécutoire."
+      ],
+      "abstractNL": [
+        "In geval van gerechtelijke betwisting kan de rente die verschuldigd is krachtens art. 22, KB 13 juli 1970 betreffende de schadevergoeding ten gunste van sommige personeelsleden van openbare centra voor maatschappelijk welzijn, voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk, niet worden geëist vanaf de eerste dag van de maand die overeenstemt met die van de consolidatie of het overlijden; de rente is immers niet opeisbaar zolang de rechter de vordering tot betaling van die rente niet heeft toegewezen bij wege van een uitvoerbaar geworden beslissing."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840604.3": {
+      "court": "CASS",
+      "date": "1984-06-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/04/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "La charge des indemnités et rentes octroyées à un membre du personnel d'une association de communes en cas d'accident du travail incombe à cette association, sans que la victime dispose d'une action directe contre l'assureur de celle-ci. (Arr. roy. du 13 juillet 1970 relatif à la réparation, en faveur de certains membres du personnel ... des associations de communes ..., des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail, art. 26 et 27.)"
+      ],
+      "abstractNL": [
+        "De last van de vergoedingen en renten welke aan een personeelslid van een vereniging van gemeenten bij een arbeidsongeval worden toegekend, komt ten bezware van die vereniging, zonder dat de getroffene een rechtstreekse vordering tegen haar verzekeraar heeft. (Artt. 26 en 27 K.B. 13 juli 1970 betreffende de schadevergoeding, ten gunste van sommige personeelsleden van ... verenigingen van gemeenten ..., voor arbeidsongevallen en voor ongevallen overkomen op de weg naar en van het werk.)"
       ]
     }
   }

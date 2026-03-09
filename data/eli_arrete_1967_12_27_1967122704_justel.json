@@ -1,4 +1,18 @@
 {
+  "18": {
+    "ECLI:BE:CASS:1993:ARR.19931213.4": {
+      "court": "CASS",
+      "date": "1993-12-13",
+      "roleNumber": "S930029F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/13/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter kan de in de artt. 17 en 18, 2°, M.B. 27 dec. 1967 aangewezen materiële hulp slechts aan de minder-valide verlenen na te hebben nagegaan of de door de minder-valide gedane kosten nuttig zijn voor zijn omscholing of zijn professionele inschakeling. (Art. 18, 2°, M.B. 27 dec. 1967)."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1993:ARR.19931213.6": {
       "court": "CASS",
@@ -34,6 +48,20 @@
       "abstractFR": null,
       "abstractNL": [
         "Voldoet aan de criteria vermeld in art. 18, 2° van het Min. Besl. van 27 dec. 1967, genomen ter uitvoering van art. 3, 11° van de Wet van 16 april 1963, art. 93, 4° en 94 van het K.B. van 5.7.1963, het arrest dat nagegaan heeft of de gevraagde \"hulp\" nodig en verantwoord was ingevolge de handicap van de betrokkene en vervolgens nagegaan heeft of de kosten, waarvoor hulp wordt gevraagd, door diens handicap verantwoord zijn. Het Ministerieel Besluit van 27 dec. 1967 vereist dat de kosten waarvoor materiële hulp aan de minder-validen kan worden verleend \"noodzakelijk zijn uit hoofde van zijn handicap zelf en hierdoor bijkomende uitgaven vormen ten opzichte van degene die een valide persoon in identieke omstandigheden moet doen\". Het arrest stelt vast dat deze bepaling niet inhoudt dat bedoelde kosten \"eigen\" zijn aan de handicap of met andere woorden \"specifieke\" prestaties voor een minder-valide betreffen; dat kosten die door valide personen worden gemaakt of voor hen nuttig zijn, eveneens in aanmerking komen, op voorwaarde dat zij voor een minder-valide noodzakelijk zijn ingevolge zijn handicap."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780626.3": {
+      "court": "CASS",
+      "date": "1978-06-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la cour du travail condamne le Fonds national de reclassement social des handicapés à payer à un handicapé une somme d'argent, à titre d'aide matérielle, par application des articles 93, 4°, de l'arrêté royal du 5 juillet 1963 et 17 à 20 de l'arrêté ministériel du 27 décembre 1967, des intérêts moratoires peuvent être dus sur la somme accordée et prenant cours avant la décision judiciaire. (Code civil, art. 1153.)"
+      ],
+      "abstractNL": [
+        "Wanneer het arbeidshof het Rijksfonds voor Sociale Reclassering van de Minder-validen veroordeelt tot betaling aan de minder-valide van een bepaalde geldsom als materiele hulp met toepassing van de artikelen 93, 4°, van het koninklijk besluit van 5 juli 1963 en 17 tot 20 van het ministerieel besluit van 27 december 1967, kunnen op de toegekende som verwijlintresten voor de rechterlijke beslissing verschuldigd zijn. (B.W., art. 1153.)"
       ]
     }
   }

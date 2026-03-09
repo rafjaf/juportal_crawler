@@ -1,4 +1,98 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1995:ARR.19950127.8": {
+      "court": "CASS",
+      "date": "1995-01-27",
+      "roleNumber": "C928371N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'existe pas de présomption légale valable jusqu'à la preuve du contraire que, lors de l'établissement d'un état comptable, le reviseur d'entreprises tient compte des pièces qui lui ont été transmises ou que les éléments y portés sont exacts."
+      ],
+      "abstractNL": [
+        "Er bestaat geen wettelijk vermoeden tot bewijs van het tegendeel dat een bedrijfsrevisor bij het opstellen van een boekhoudkundige staat uitgaat van hem overgelegde stukken of dat erin vermelde gegevens juist zijn."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1997:ARR.19971024.4": {
+      "court": "CASS",
+      "date": "1997-10-24",
+      "roleNumber": "D960016F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/24/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La mission du conseil de l'Institut des réviseurs d'entreprises, d'adresser un rapport à la commission de discipline qu'il a saisie de faits reprochés à un réviseur, s'apparente à celle d'une juridiction d'instruction."
+      ],
+      "abstractNL": [
+        "De opdracht van de Raad van het Instituut der bedrijfsrevisoren om een verslag over te maken aan de tuchtcommissie bij wie het aan een bedrijfsrevisor ten laste gelegde feiten aanhangig heeft gemaakt, is vergelijkbaar met die van een onderzoeksgerecht."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910314.8": {
+      "court": "CASS",
+      "date": "1991-03-14",
+      "roleNumber": "8857",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/03/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Bien qu'en vertu de l'article 20 de la loi du 22 juillet 1953 créant un Institut des réviseurs d'entreprises, la procédure disciplinaire ne doive être publique que \"lorsque le réviseur d'entreprises intéressé en fait la demande expresse\", le juge a l'obligation d'écarter l'application de cette norme de droit interne en raison de la prééminence des exigences découlant de l'article 6, alinéa 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales."
+      ],
+      "abstractNL": [
+        "Hoewel krachtens art. 20 wet van 22 juli 1953 houdende oprichting van een Instituut der bedrijfsrevisoren, de tuchtprocedure alleen in het openbaar moet plaatsvinden, \"wanneer de betrokken bedrijfsrevisor erom uitdrukkelijk vraagt\", is de rechter evenwel verplicht die nationaalrechtelijke regel buiten toepassing te laten wegens de voorrang van de vereisten van art. 6.1 Europees Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1989:ARR.19890609.10": {
+      "court": "CASS",
+      "date": "1989-06-09",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/06/09/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible d'un pourvoi en cassation la décision rendue par la commission d'appel de l'Institut des experts comptables, statuant sur une demande d'octroi de la qualité d'expert comptable. ( Loi du 22 juillet 1953, art. 23, loi du 21 février 1985 , artt. 77 et 94 et Code judiciaire, art. 614, 9°. )"
+      ],
+      "abstractNL": [
+        "Geen cassatieberoep staat open tegen de beslissing van de commissie van beroep van het Instituut der Accountants, die uitspraak doet over een verzoek tot het verlenen van de hoedanigheid van accountant. ( Art. 23 Wet 22 juli 1953; artt. 77 en 94 wet 21 februari 1985 en art. 614, 9°, Gerechtelijk Wetboek. )"
+      ]
+    }
+  },
+  "27": {
+    "ECLI:BE:CASS:1983:ARR.19830126.12": {
+      "court": "CASS",
+      "date": "1983-01-26",
+      "roleNumber": "2698",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le reviseur d'entreprises, désigné sur requête par le président du tribunal de commerce pour faire rapport sur la description de chaque apport en nature fait par le requérant à une société à constituer (art. 29bis des lois coordonnées sur les sociétés commerciales), et nommé ultérieurement expert judiciaire dans des procédures de concordat et de faillite concernant le requérant, ne viole pas le secret professionnel auquel il est tenu, en révélant, dans l'exécution de ses missions d'expertise, des renseignements et des faits dont il a eu connaissance dans l'exercice de ses fonctions de reviseur d'entreprises (art. 27, al. 2, de la loi du 22 juillet 1953.)"
+      ],
+      "abstractNL": [
+        "Wanneer de appelrechter op het enkel hoger beroep van het openbaar ministerie de beslissing van de eerste rechter bevestigt, kunnen de kosten van het hoger beroep, zelfs niet gedeeltelijk, ten laste van de beklaagde worden gelegd <1>. (Art. 3, eerste lid, wet 1 juni 1849.)"
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:1988:ARR.19880108.16": {
+      "court": "CASS",
+      "date": "1988-01-08",
+      "roleNumber": "5579",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/08/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible d'un pourvoi en cassation la décision rendue par la commission d'appel de l'Institut des reviseurs d'entreprises, statuant sur une demande d'admission en qualité de membre de l'Institut, conformément aux articles 4 et 28 de la loi du 22 juillet 1953 créant un Institut des reviseurs d'entreprises, telle qu'elle a été en dernier lieu modifiée par la loi du 21 février 1985 relative à la réforme du revisorat d'entreprises."
+      ],
+      "abstractNL": [
+        "Cassatieberoep staat niet open tegen de beslissing van de Commissie van Beroep van het Instituut van Bedrijfsrevisoren die uitspraak doet op een aanvraag om als lid tot het Instituut te worden toegelaten, overeenkomstig artt. 4 en 28 van de wet van 22 juli 1953 houdende oprichting van een Instituut van Bedrijfsrevisoren, als laatstelijk gewijzigd bij de wet van 21 februari 1985 tot hervorming van het bedrijfsrevisoraat."
+      ]
+    }
+  },
   "37": {
     "ECLI:BE:CASS:2014:ARR.20140626.5": {
       "court": "CASS",
@@ -317,6 +411,64 @@
       ],
       "abstractNL": [
         "De algemene controlenormen die door het Instituut der bedrijfsrevisoren zijn goedgekeurd, zijn wetten in de zin van artikel 608 van het Gerechtelijk Wetboek (Impliciete oplossing)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810122.8": {
+      "court": "CASS",
+      "date": "1981-01-22",
+      "roleNumber": "6212",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 16 du règlement de discipline établi par l'arrêté royal du 16 mars 1957 prescrit au conseil de l'Institut des reviseurs d'entreprises de faire connaître au membre de cet institut à charge de qui une instruction disciplinaire est ouverte les faits mis à sa charge; ne méconnaît pas la portée de cette disposition le conseil de l'Institut ou la commission d'appel de cet Institut qui donnent aux faits une qualification autre que celle qui figurait dans l'acte introductif des poursuites, après avoir invité l'inculpé à se défendre sur les mêmes faits autrement qualifiés."
+      ],
+      "abstractNL": [
+        "Art. 16 van het bij K.B. van 16 maart 1957 vastgestelde tuchtreglement schrijft voor dat de raad van het Instituut der Bedrijfsrevisoren aan het lid van dat Instituut tegen wie een tuchtrechtelijk onderzoek wordt ingesteld, de hem ten laste gelegde feiten meedeelt; de draagwijdte van die beslissing wordt niet miskend door de raad van het Instituut of door de commissie van beroep van dat Instituut die aan de feiten een andere kwalificering geeft dan die welke voorkwam in de akte tot inleiding van de vervolging, nadat de verdachte was verzocht verweer te voeren tegen dezelfde, anders gekwalificeerde feiten."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950127.8": {
+      "court": "CASS",
+      "date": "1995-01-27",
+      "roleNumber": "C928371N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'existe pas de présomption légale valable jusqu'à la preuve du contraire que, lors de l'établissement d'un état comptable, le reviseur d'entreprises tient compte des pièces qui lui ont été transmises ou que les éléments y portés sont exacts."
+      ],
+      "abstractNL": [
+        "Er bestaat geen wettelijk vermoeden tot bewijs van het tegendeel dat een bedrijfsrevisor bij het opstellen van een boekhoudkundige staat uitgaat van hem overgelegde stukken of dat erin vermelde gegevens juist zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890609.10": {
+      "court": "CASS",
+      "date": "1989-06-09",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/06/09/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible d'un pourvoi en cassation la décision rendue par la commission d'appel de l'Institut des experts comptables, statuant sur une demande d'octroi de la qualité d'expert comptable. ( Loi du 22 juillet 1953, art. 23, loi du 21 février 1985 , artt. 77 et 94 et Code judiciaire, art. 614, 9°. )"
+      ],
+      "abstractNL": [
+        "Geen cassatieberoep staat open tegen de beslissing van de commissie van beroep van het Instituut der Accountants, die uitspraak doet over een verzoek tot het verlenen van de hoedanigheid van accountant. ( Art. 23 Wet 22 juli 1953; artt. 77 en 94 wet 21 februari 1985 en art. 614, 9°, Gerechtelijk Wetboek. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880108.16": {
+      "court": "CASS",
+      "date": "1988-01-08",
+      "roleNumber": "5579",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/08/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "N'est pas susceptible d'un pourvoi en cassation la décision rendue par la commission d'appel de l'Institut des reviseurs d'entreprises, statuant sur une demande d'admission en qualité de membre de l'Institut, conformément aux articles 4 et 28 de la loi du 22 juillet 1953 créant un Institut des reviseurs d'entreprises, telle qu'elle a été en dernier lieu modifiée par la loi du 21 février 1985 relative à la réforme du revisorat d'entreprises."
+      ],
+      "abstractNL": [
+        "Cassatieberoep staat niet open tegen de beslissing van de Commissie van Beroep van het Instituut van Bedrijfsrevisoren die uitspraak doet op een aanvraag om als lid tot het Instituut te worden toegelaten, overeenkomstig artt. 4 en 28 van de wet van 22 juli 1953 houdende oprichting van een Instituut van Bedrijfsrevisoren, als laatstelijk gewijzigd bij de wet van 21 februari 1985 tot hervorming van het bedrijfsrevisoraat."
       ]
     }
   }

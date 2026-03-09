@@ -15,6 +15,22 @@
       "abstractNL": null
     }
   },
+  "12": {
+    "ECLI:BE:CASS:1971:ARR.19710527.16": {
+      "court": "CASS",
+      "date": "1971-05-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/27/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 12 du traité instituant la Communauté économique européenne interdit aux Etats membres, à partir de l'entrée en vigueur du Traité, tant d'introduire entre eux de nouveaux droits de douane à l'importation et à l'exportation ou des taxes d'effet équivalent que d'augmenter ceux qu'ils appliquaient jusqu'à cette date dans leurs relations commerciales mutuelles."
+      ],
+      "abstractNL": [
+        "Volgens artikel 12 van het Verdrag tot oprichting van de Europese Economische Gemeenschappen moeten de Lid-Staten zich ervan onthouden onderling nieuwe in- en uitvoerrechten of heffingen van gelijke werking in te voeren en deze rechten en heffingen te verhogen welke zij tot op deze datum in hun onderlinge handelsbetrekkingen toepasten."
+      ]
+    }
+  },
   "18": {
     "ECLI:BE:CASS:2025:ARR.20251216.2N.34": {
       "court": "CASS",
@@ -70,6 +86,50 @@
       ]
     }
   },
+  "30": {
+    "ECLI:BE:CASS:1995:ARR.19950201.11": {
+      "court": "CASS",
+      "date": "1995-02-01",
+      "roleNumber": "P941111F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il appartient à celui qui soutient que l'obligation de déclaration des hausses de prix imposée par l'arrêté ministériel du 24 juin 1988 le place dans une situation concurrentielle défavorable ou discriminatoire par rapport à ses concurrents ou que les objectifs poursuivis par le Traité instituant la Communauté économique européenne, en son article 30, seraient mis en danger par les effets de ladite réglementation, d'apporter à l'appui de ses prétentions des éléments susceptibles de leur attribuer crédit."
+      ],
+      "abstractNL": [
+        "Wie aanvoert dat hij ten gevolge van de in het MB van 24 juni 1988 vervatte verplichting tot prijsverhogingsaangifte in een nadelige of discriminatoire positie verkeert vergeleken bij zijn concurrenten of dat de doelstellingen van art. 30 EEG-Verdrag in gevaar worden gebracht door de gevolgen van voormelde regeling, dient zijn beweringen te staven met alle gegevens die ze geloofwaardig kunnen maken."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820630.16": {
+      "court": "CASS",
+      "date": "1982-06-30",
+      "roleNumber": "1440",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La notion de mesures d'effet équivalant à des restrictions quantitatives à l'importation, figurant à l'article 30 du traité CEE, doit être interprétée en ce sens que ne relève pas de l'interdiction prévue par cette disposition une mesure nationale indistinctement applicable aux produits nationaux et importés, interdisant la consommation, la vente ou l'offre, même à titre gratuit, de boissons spiritueuses d'une certaine force alcoolique à consommer sur place, dans tous les endroits accessibles au public, ainsi que la détention de telles boissons tant dans les locaux où sont admis les consommateurs que dans les autres parties de l'établissement et dans l'habitation y attenante et dans la mesure où cette interdiction se présente comme accessoire à celle de l'interdiction de consommer sur place."
+      ],
+      "abstractNL": [
+        "Het begrip maatregelen van gelijke werking als kwantitatieve invoerbeperkingen in art. 30 EEG Verdrag moet aldus worden verstaan dat onder het in deze bepaling vervatte verbod niet valt een nationale maatregel die zonder onderscheid van toepassing is op nationale en op ingevoerde produkten en waarbij wordt verboden het verbruiken, verkopen een aanbieden, zelfs kosteloos, van ter plaatse te verbruiken sterke dranken met een bepaald alcoholgehalte in alle voor het publiek toegankelijke plaatsen, alsmede het voorhanden hebben van dergelijke dranken, zowel in lokalen waarin de verbruikers toegelaten worden, als in de overige gedeelten der inrichting en in de belendende woning, voor zover dit verbod een accessoir is van het verbod van verbruik ter plaatse <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800422.10": {
+      "court": "CASS",
+      "date": "1980-04-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/22/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Est interdite par l'article 30 du Traité instituant la Communauté économique européenne, une réglementation nationale de contrôle des prix ayant un effet équivalent à celui d'une restriction quantitative à l'importation, dans la mesure où elle rend impossible l'écoulement de produits importés en provenance d'un autre Etat membre ou rend cet écoulement plus difficile que celui des produits nationaux, ou dans la mesure où elle favorise la vente de produits nationaux au détriment des produits importés."
+      ],
+      "abstractNL": [
+        "Art. 30 E.E.G.-Verdrag van 25 maart 1957 verbiedt elke nationale prijsbeheersingsregeling van gelijke werking als een kwantitatieve invoerbeperking, voor zover de afzet van uit een andere Lid-Staat herkomstige, ingevoerde produkten daardoor onmogelijk wordt, of meer wordt bemoeilijkt dan die van de nationale produkten, dan wel voor zover zij leidt tot een begunstiging van de afzet van nationale produkten ten koste van de ingevoerde produkten."
+      ]
+    }
+  },
   "35": {
     "ECLI:BE:CASS:2023:ARR.20230907.1N.2": {
       "court": "CASS",
@@ -83,6 +143,22 @@
       ],
       "abstractNL": [
         "De artikelen 2, 5, § 1, 10 Taaldecreet zijn slechts in strijd met artikel 35 VWEU en dienen door de nationale rechter slechts buiten toepassing te worden gelaten, in zoverre zij aan ondernemingen met exploitatiezetel in het Nederlandse taalgebied van België de verplichting opleggen om voor alle vermeldingen op facturen betreffende grensoverschrijdende transacties binnen de Europese Unie uitsluitend het Nederlands te gebruiken, op straffe van door de rechter ambtshalve vast te stellen nietigheid van de facturen, doch niet in zoverre zij een dergelijke verplichting opleggen betreffende zuiver interne transacties binnen België (1). (1) Zie concl. OM. (2) Artt. 2 en 5, § 1, Taaldecreet vóór de wijziging bij Decreet van 7 juli 2017 houdende diverse bepalingen met betrekking tot het beleidsdomein Werk en Sociale Economie."
+      ]
+    }
+  },
+  "36": {
+    "ECLI:BE:CASS:1998:ARR.19980612.15": {
+      "court": "CASS",
+      "date": "1998-06-12",
+      "roleNumber": "C970254F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Ni un abus de droit ni l'interdiction de restrictions quantitatives à l'importation, à l'intérieur de l'Union européenne, ne peuvent être opposés à l'importateur d'appareils agissant en cessation contre un concurrent qui joint à des appareils identiques, importés parallèlement, des modes d'emploi constitués d'une simple photocopie de documents dont ledit importateur est l'auteur."
+      ],
+      "abstractNL": [
+        "Noch rechtsmisbruik, noch het verbod op kwantitatieve invoerbeperkingen binnen de Europese Unie kunnen worden tegengeworpen aan de invoerder van toestellen die een vordering tot staking ingesteld heeft tegen een concurrent die bij identieke, parallel ingevoerde, toestellen, gebruiksaanwijzingen voegt die zonder meer een fotocopie zijn van documenten die door voornoemde invoerder zijn opgesteld."
       ]
     }
   },
@@ -103,6 +179,36 @@
       "abstractNL": [
         "De jongere, die op de datum van de indiening van zijn verzoek om deze uitkeringen, staatsburger was van een lidstaat en, na zijn studie te hebben voleindigd, op zoek was naar een dienstbetrekking in België, kan op goede gronden met een beroep op artikel 39 EG staande houden dat hij met betrekking tot de toekenning van wachtuitkeringen niet mag worden gediscrimineerd op grond van nationaliteit.",
         "Artikel 39 van het Verdrag tot oprichting van de Europese Gemeenschap verzet zich tegen een nationale bepaling, zoals artikel 36, §1, eerste lid, 2°, j) van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, die het recht op wachtuitkeringen voor jongeren die op zoek zijn naar hun eerste dienstbetrekking afhankelijk stelt van de voorwaarde dat de betrokkene voorafgaand ten minste zes jaar onderwijs heeft gevolgd aan een onderwijsinstelling van de ontvangende lidstaat, voor zover deze voorwaarde belet dat rekening wordt gehouden met andere representatieve factoren die het bestaan kunnen aantonen van een werkelijke band tussen de aanvrager van wachtuitkeringen en de betrokken geografische arbeidsmarkt, en daardoor verder gaat dan nodig voor de verwezenlijking van de door die bepaling nagestreefde doelstelling, te weten het bestaan van een dergelijke band te waarborgen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000530.14": {
+      "court": "CASS",
+      "date": "2000-05-30",
+      "roleNumber": "P980405N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 2 de l'arrêté royal n° 34 du 20 juillet 1967 relatif à l'occupation de travailleurs de nationalité étrangère, dans sa version antérieure à la modification par l'arrêté royal du 19 mai 1995, constitue, en ce sens qu'il imposait un permis ou un document de travail aux travailleurs de nationalité étrangère mariés à un belge, une discrimination interdite par l'article 39, alinéa 2 du traité CEE entre les travailleurs des Etats-membres en matière d'emploi. Cette disposition conventionnelle qui interdit toute discrimination fondée sur la nationalité entre les travailleurs des Etats-membres, en ce qui concerne l'emploi, la rémunération et les autres conditions de travail, a un effet direct dans l'ordre juridique belge et impose au juge belge de ne pas appliquer une règle de droit national contraire (1)."
+      ],
+      "abstractNL": [
+        "Artikel 2 van het koninklijk besluit nr. 34 van 20 juli 1967 betreffende de tewerkstelling van werknemers van vreemde nationaliteit levert, in zijn versie vr de wijziging bij koninklijk besluit van 19 mei 1995, in de zin dat het een arbeidskaart of -document oplegde aan vreemde werknemers die met een Belg gehuwd zijn, een door artikel 39, tweede lid EEG-Verdrag verboden discriminatie tussen de werknemers van de lidstaten ter zake van werkgelegenheid op. Deze verdragsbepaling, die elke discriminatie op grond van nationaliteit tussen de werknemers van de lidstaten, wat betreft de werkgelegenheid, de beloning en de overige arbeidsvoorwaarden afschaft, heeft directe werking binnen de Belgische rechtsorde en gebiedt de Belgische rechter een daarmee strijdige regel van het nationale recht buiten toepassing te laten (1)."
+      ]
+    }
+  },
+  "43": {
+    "ECLI:BE:CASS:1969:ARR.19690429.3": {
+      "court": "CASS",
+      "date": "1969-04-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Antérieurement à l'entrée en vigueur du règlement n° 804-68 du 27 juin 1968 du Conseil des Ministres des Communautés européennes, les arrêtés ministériels des 31 décembre 1962 et 7 janvier 1966 soumettant à licence l'importation de certaines marchandises, et notamment du beurre, en provenance des Pays-Bas, étaient conformes à la réglementation prise, par application des articles 40 et 43 du traité instituant la Communauté économique européenne, par le Conseil des Ministres et la Commission de ladite Communauté, spécialement au règlement n° 13/64 du 5 février 1964 portant établissement graduel d'une organisation commune du marché dans le secteur laiterie et des produits laitiers et au règlement n° 136/64 du 12 octobre 1964 portant exécution de ce premier règlement; ne viole, dès lors, pas ladite réglementation l'arrêt d'une cour d'appel qui, par application de l'article 1er de la loi du 20 décembre 1897, condamne un prévenu qui, sous le régime antérieur audit règlement n° 804-68 du 27 juin 1968, a importé en Belgique du beurre en provenance des Pays-Bas sans avoir produit la licence d'importation requise."
+      ],
+      "abstractNL": [
+        "Voor de inwerkingtreding van de verordening nr 804.68 van 27 juni 1968 van de Ministerraad van de Europese Gemeenschappen stemden de ministeriële besluiten van 31 december 1962 en 7 januari 1966 die de invoer van zekere goederen, met name van boter uit Nederland, aan een invoervergunning onderworpen, overeen met de reglementering genomen met toepassing van de artikelen 40 en 43 van het Verdrag tot oprichting van de Europese Economische Gemeenschap door de Ministerraad en de Commissie van deze Gemeenschap, en inzonderheid met de verordening nr 13/64 van 5 februari 1964 houdende de geleidelijke totstandbrenging van een gemeenschappelijke ordening der markten in de zuivelsector en met de verordening nr 136/64 van 12 oktober 1964 houdende uitvoering van deze verordening; deze reglementering wordt derhalve niet geschonden door het arrest van een hof van beroep dat met toepassing van artikel 1 van de wet van 20 december 1897 een beklaagde veroordeelt, die onder het stelsel van voor de verordening nr 804.68 van 27 juni 1968 in België boter uit Nederland heeft ingevoerd zonder de vereiste vergunning te hebben overgelegd."
       ]
     }
   },
@@ -209,6 +315,36 @@
       ]
     }
   },
+  "51": {
+    "ECLI:BE:CASS:1997:ARR.19970210.4": {
+      "court": "CASS",
+      "date": "1997-02-10",
+      "roleNumber": "S960066N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le droit communautaire ne s'oppose pas à une législation nationale qui prévoit le droit à une pension au \"taux de ménage\" dans le cas où le conjoint du travailleur a cessé toute activité professionnelle et ne jouit pas d'une pension de retraite ou d'un avantage en tenant lieu, mais qui lui accorde une pension moins avantageuse dans le cas où son conjoint jouit d'une pension ou d'un avantage en tenant lieu."
+      ],
+      "abstractNL": [
+        "Het gemeenschapsrecht verzet zich niet tegen een nationale wettelijke regeling die een gezinspensioen toekent aan een werknemer wiens echtgenoot elke beroepsarbeid heeft gestaakt en geen rustpensioen of als zodanig geldend voordeel geniet, doch hem een minder voordelig pensioen toekent wanneer zijn echtgenoot een pensioen of een als zodanig geldend voordeel geniet."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970113.8": {
+      "court": "CASS",
+      "date": "1997-01-13",
+      "roleNumber": "S960062N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/01/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le droit communautaire ne s'oppose pas à une législation nationale qui prévoit le droit à une pension au \"taux de ménage\" dans les cas où le conjoint du travailleur a cessé toute activité professionnelle et ne jouit pas d'une pension de retraite ou d'un avantage en tenant lieu, mais qui accorde une pension moins avantageuse, dans les cas où le conjoint du travailleur jouit d'une pension ou d'un avantage en tenant lieu."
+      ],
+      "abstractNL": [
+        "Het gemeenschapsrecht verzet zich niet tegen een nationale wettelijke regeling die een gezinspensioen toekent aan een werknemer wiens echtgenoot elke beroepsarbeid heeft gestaakt en geen rustpensioen of als zodanig geldend voordeel geniet, doch hem een minder voordelig pensioen toekent wanneer zijn echtgenoot een pensioen of een als zodanig geldend voordeel geniet."
+      ]
+    }
+  },
   "56": {
     "ECLI:BE:CASS:2021:ARR.20210122.1N.38": {
       "court": "CASS",
@@ -239,6 +375,112 @@
       ]
     }
   },
+  "57": {
+    "ECLI:BE:CASS:1976:ARR.19761214.5": {
+      "court": "CASS",
+      "date": "1976-12-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/12/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les articles 52, 53, 54, alinéa 2, et 57 du traité instituant la Communauté économique européenne, relatifs au droit d'établissement, visent exclusivement la suppression des restrictions à la liberté d'établissement des ressortissants d'un Etat membre sur le territoire d'un autre Etat membre ainsi que la prévention d'une discrimination, quant à l'établissement sur le territoire d'un Etat membre, entre les habitants de celui-ci et les ressortissants d'un autre Etat membre."
+      ],
+      "abstractNL": [
+        "De artikelen 52, 53, 54, lid 2, en 57 van het Verdrag tot oprichting van de Europese Economische Gemeenschap betreffende het recht van vestiging beogen uitsluitend de opheffing en het verbod van invoering van beperkingen van de vrijheid van vestiging voor de onderdanen van een Lid-Staat op het grondgebied van een andere Lid-Staat en de voorkoming van een discriminatie, met betrekking tot de vestiging op het grondgebied van een Lid-Staat, tussen de ingezetenen van deze Lid-Staat en de onderdanen van een andere Lid-staat."
+      ]
+    }
+  },
+  "58": {
+    "ECLI:BE:CASS:1973:ARR.19730119.5": {
+      "court": "CASS",
+      "date": "1973-01-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si, aux termes de l'article 2 du Code de commerce, certains actes sont réputés par la loi actes de commerce, c'est parce que le législateur présume que ceux-ci sont accomplis dans un esprit de lucre."
+      ],
+      "abstractNL": [
+        "Indien, naar luid van artikel 2 van het Wetboek van koophandel, bepaalde handelingen als daden van koophandel worden aangemerkt, komt dit omdat de wetgever vermoedt dat deze daden met winstoogmerk worden verricht."
+      ]
+    }
+  },
+  "85": {
+    "ECLI:BE:CASS:2012:ARR.20120628.17": {
+      "court": "CASS",
+      "date": "2012-06-28",
+      "roleNumber": "C.10.0433.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La nullité prévue par l'article 85, alinéa 2 du Traité CE est absolue ce qui signifie que dès que les conditions d'application de l'article 85, alinéa 1er, du traité CE sont remplies et que la convention en question ne peut justifier l'octroi d'une exonération du chef de l'article 85, alinéa ', du traité CE, la nullité prévue par l'alinéa 2 de cet article peut être invoquée par chacun. Cette nullité implique, en outre, qu'elle peut concerner toutes les conséquences, passées et futures, de ladite convention (1) (2). (1) Voir les conclusions du M.P. publiées à leur date dans AC. (2) Actuellement , l'article 85 du Traité CE est devenu l'article 101 du Traité de l'Union européenne après l'entrée en vigueur du Traité de Lisbonne du 13 décembre 2007 modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne."
+      ],
+      "abstractNL": [
+        "De nietigheid van artikel 85, lid 2, van het EG-Verdrag is absoluut, wat betekent dat van zodra aan de toepassingsvoorwaarden van artikel 85, lid 1, van dit Verdrag is voldaan en de betrokken overeenkomst geen toekenning van een vrijstelling uit hoofde van artikel 85, lid 3, van dit Verdrag kan rechtvaardigen, de nietigheid waarin lid 2 van dit artikel voorziet, door eenieder kan worden ingeroepen; deze nietigheid houdt verder in dat zij alle gevolgen, voor het verleden en voor de toekomst, van de betrokken overeenkomst kan treffen (1) (2). (1) Zie de concl. van het O.M. (2) Art. 85 EG-Verdrag is thans, na de inwerkingtreding van het Verdrag van Lissabon betreffende de werking van de Europese Unie van 13 dec. 2007, art. 101 EU-Verdrag geworden."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810130.7": {
+      "court": "CASS",
+      "date": "1981-01-30",
+      "roleNumber": "2865",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen pris de ce que la décision attaquée se serait fondée sur une convention qui tomberait sous l'application de l'article 85 du Traité instituant la Communauté économique européenne et qui serait entachée de nullité, alors que ce moyen obligerait la Cour à vérifier des éléments de fait; la Cour ne saurait non plus interpréter elle-même la convention."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel hieruit afgeleid dat de bestreden beslissing zou steunen op een overeenkomst waarop art. 85 E.E.G.-Verdrag van toepassing kan zijn en die door nietigheid zou zijn aangetast, omdat zo'n middel het Hof zou nopen tot toetsing van feitelijke gegevens; het Hof mag evenmin zelf die overeenkomst interpreteren <1> <2>."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770107.12": {
+      "court": "CASS",
+      "date": "1977-01-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/01/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Constitue une \" loi \", au sens spécialement des articles 608 et 1080 du Code judiciaire, la disposition de l'article 58 de la loi du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée suivant laquelle le prix inscrit sur la bandelette fiscale apposée sur des produits de tabac est celui auquel ceux-ci doivent être vendus au consommateur; il s'ensuit que cette disposition légale ne saurait être \" interdite \" et être \" nulle \" par application de l'article 85 du traité instituant la Communauté économique européenne qui ne concerne que des accords entre entreprises, des décisions d'associations d'entreprises et des pratiques concertées."
+      ],
+      "abstractNL": [
+        "Een \" wet \", i.h.b. in de zin van artikelen 608 en 1080 van het Gerechtelijk Wetboek, is de bepaling van artikel 58 van de wet van 3 juli 1969 tot invoering van het Wetboek van de belasting over de toegevoegde waarde, volgens welke de op het fiscale bandje vermelde prijs op de tabaksfabrikaten de prijs is waartegen deze aan de verbruiker moeten verkocht worden; hieruit volgt dat deze wettelijke bepaling niet \" verboden \" en \" nietig \" kan zijn overeenkomstig artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, dat slechts betrekking heeft op overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670608.1": {
+      "court": "CASS",
+      "date": "1967-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le règlement n° 17 du 6 février 1962 du Conseil des ministres de la Communauté économique européenne instituée par le traité signé à Rome le 25 mars 1957 et approuvé par la loi du 2 décembre 1957 constitue une loi au sens des articles 17 de la loi du 4 août 1832 et 9 de la loi du 25 février 1925; est dès lors recevable, à l'appui d'un pourvoi en cassation, le moyen pris de la violation des dispositions de ce règlement. (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De verordening nr 17, van 6 februari 1962, van de Ministerraad van de Europese Economische Gemeenschap, opgericht door het verdrag dat te Rome op 25 maart 1957 is ondertekend en goedgekeurd bij de wet van 2 december 1957, is een wet in de zin van de artikelen 17 van de wet van 4 augustus 1832 en 9 van de wet van 25 februari 1925; dientengevolge is ontvankelijk een middel dat tot staving van een voorziening in cassatie afgeleid is uit de schending van de bepalingen van deze verordening. (Impliciete oplossing.)"
+      ]
+    }
+  },
+  "86": {
+    "ECLI:BE:CASS:1978:ARR.19781222.7": {
+      "court": "CASS",
+      "date": "1978-12-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/12/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Serait incompatible avec les dispositions du Traité instituant la Communauté économique européenne - et le juge devrait dès lors en écarter l'application - une disposition légale de droit interne qui aurait comme effet général d'autoriser, de régler ou simplement de rendre légal, selon le droit national, l'exploitation abusive d'une position dominante que l'article 86 du Traité instituant la Communauté économique européenne déclare être incompatible avec le Marché commun et de ce chef être interdite; en revanche, si une disposition légale de droit interne a uniquement pour effet de favoriser, dans certains cas seulement, une telle exploitation abusive, elle ne pourrait être considérée comme étant contraire aux dispositions du droit communautaire, mais le fait d'avoir exploité de façon abusive une position dominante dans le Marché commun ou dans une partie substantielle de celui-ci, le commerce entre Etats membres étant susceptible d'en être affecté, constituerait, néanmoins, un fait demeurant interdit par application dudit article 86."
+      ],
+      "abstractNL": [
+        "Onverenigbaar met de bepalingen van het EEG Verdrag _ zodat de rechter ze niet mag toepassen _ is een wettelijke bepaling van nationaal recht waardoor het misbruik van een machtspositie, dat volgens art. 86 EEG Verdrag onverenigbaar is met de gemeenschappelijke markt en daarom verboden is, volgens dat nationaal recht, onvermijdelijk als regel toegelaten wordt, gereglementeerd wordt of gewoon wettelijk gemaakt wordt <1> <2>; als daarentegen een wettelijke bepaling van nationaal recht enkel in bepaalde gevallen begunstiging van een dergelijk misbruik tot gevolg heeft, kan zij niet beschouwd worden als strijdig met de bepalingen van het gemeenschapsrecht, maar het feitelijk misbruik maken van een machtspositie op de gemeenschappelijke markt of op een wezenlijk deel daarvan, waardoor de handel tussen Lid-Staten kan worden beïnvloed, zou niettemin o.g.v. vorenvermeld art. 86 verboden blijven <2>."
+      ]
+    }
+  },
   "88": {
     "ECLI:BE:CASS:2008:ARR.20081205.5": {
       "court": "CASS",
@@ -258,6 +500,36 @@
         "Wanneer een steunmaatregel, waarvan de wijze van financiering deel uitmaakt, met miskenning van de aanmeldingsplicht ten uitvoer is gelegd, zijn de nationale rechterlijke instanties in beginsel verplicht de terugbetaling te gelasten van de specifiek ter financiering van de tot steun geheven belastingen of bijdragen (1). (1) Cass., 11 maart 2005, AR C.02.0133.N, A.C., 2005, nr. 152.",
         "Het staat de Commissie te beoordelen of de steunmaatregelen verenigbaar zijn met de gemeenschappelijke markt; die bevoegdheid staat los van deze van de nationale rechterlijke instanties toe te zien op de vrijwaring van de rechten van de justitiabelen ingeval van schending van de aanmeldingsplicht (1). (1) Cass. 11 maart 2005, AR C.02.0133.N, A.C., 2005, nr. 152.",
         "De ingevolge een wet verleende steun stricto sensu en de ter financiering daarvan geheven bijdragen, zijn rechtmatig voor zover zij betrekking hebben op de periode vanaf de datum van de beschikking van de Commissie die deze steunregeling verenigbaar met de gemeenschappelijke markt verklaart; voor zover die wet met terugwerkende kracht bijdragen oplegt voor de periode voorafgaand aan die beschikking is ze onrechtmatig (1). (1) H.v.J. EG, 21 okt. 2003, gevoegde zaken C-261/01 en C.262/01, Belgische Staat en Van Calster en Cleeren en Openbaar Slachthuis NV, Jur., 2003, C 304/3; zie Cass., 11 maart 2005, AR C.02.0133.N, A.C., 2005, nr. 152."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850627.26": {
+      "court": "CASS",
+      "date": "1985-06-27",
+      "roleNumber": "7211",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les autorités des Etats membres de la Communauté économique européenne restent compétentes pour appliquer les dispositions de l'article 85, alinéa 1er, du Traité instituant la Communauté économique européenne, conformément à l'article 88 dudit traité, aussi longtemps que la Commission de la communauté n'a engagé aucune procédure en application des articles 2, 3 ou 6 du règlement n° 17 du 6 février 1962."
+      ],
+      "abstractNL": [
+        "De autoriteiten van de Lid-Staten van de Europese Economische Gemeenschap blijven bevoegd om de bepalingen van art. 85, lid 1, EEG Verdrag toe te passen overeenkomstig art. 88 van dit verdrag, zolang de Commissie geen procedure heeft ingeleid krachtens de artt. 2, 3 en 6."
+      ]
+    }
+  },
+  "93": {
+    "ECLI:BE:CASS:2001:ARR.20010119.7": {
+      "court": "CASS",
+      "date": "2001-01-19",
+      "roleNumber": "C960091NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La Commission CE doit être informée en temps utile de chaque projet tendant à instituer ou à modifier des aides; en ce qui concerne les nouvelles aides projetées par les Etats-membres, la procédure préalable doit être introduite, aucune aide n'étant réputée régulièrement instituée sans cette procédure (1)."
+      ],
+      "abstractNL": [
+        "De EG-Commissie moet van elk voornemen tot invoering of wijziging van steunmaatregelen tijdig op de hoogte worden gebracht; ten aanzien van nieuwe steunmaatregelen die de Lid-Staten voornemens zijn in te voeren, dient een voorafgaande procedure ingesteld zonder welke geen enkele steunmaatregel geacht kan worden regelmatig te zijn ingevoerd (1)."
       ]
     }
   },
@@ -403,6 +675,542 @@
       ]
     }
   },
+  "117": {
+    "ECLI:BE:CASS:1997:ARR.19970616.3": {
+      "court": "CASS",
+      "date": "1997-06-16",
+      "roleNumber": "S960127N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Bien que l'article 177, dernier alinéa, du Traité du 25 mars 1957 instituant la Communauté européenne oblige sans restriction les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne, à soumettre toute question d'interprétation soulevée devant elles à la Cour de justice des Communautés européennes, cette obligation n'est pas valable lorsque la question soulevée correspond, quant au contenu, à une question sur laquelle une décision préjudicielle a déjà été rendue dans un cas similaire."
+      ],
+      "abstractNL": [
+        "Hoewel artikel 177, laatste lid van het EEG-Verdrag, zonder enige beperking, de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, verplicht om elke voor hen opgeworpen vraag om uitlegging aan het Hof van Justitie van de Europese Gemeenschappen voor te leggen, geldt deze verplichting niet wanneer de opgeworpen vraag inhoudelijk overeenstemt met een vraag waarover in een gelijkaardig geval reeds een prejudiciële beslissing is gewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761124.13": {
+      "court": "CASS",
+      "date": "1976-11-24",
+      "roleNumber": "5237",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/11/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation des traités instituant les Communautés européennes et des règlements de la Communauté donnée, sur son référé, par la Cour de justice des Communautés (1). (Traité instituant la Communauté économique européenne, approuvé par l'acte du pouvoir législatif du 2 décembre 1957, art. 117.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van de Verdragen tot oprichting van de Europese Gemeenschappen en de verordeningen van de Europese Economische Gemeenschap welke, op zijn verzoek, door het Hof van Justitie van de Gemeenschappen is gegeven (1). (Art. 117 Verdrag tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957.) (Impliciete oplossing.)"
+      ]
+    }
+  },
+  "177": {
+    "ECLI:BE:CASS:1997:ARR.19970625.8": {
+      "court": "CASS",
+      "date": "1997-06-25",
+      "roleNumber": "P960780F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de l'Union européenne, tel l'article 112 du règlement CEE 918/13 relatif à l'établissement du régime communautaire des franchises douanières, modifié par le règlement CEE 1315/88, est nécessaire pour que la Cour de cassation puisse rendre son arrêt, la Cour demande, en règle, à la Cour de justice de statuer par voie de décision préjudicielle."
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Europese Gemeenschap, zoals art. 112 van EEG-verordening 918/83 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen, gewijzigd bij de EEG-verordening 1315/88, voor het Hof van cassatie noodzakelijk is om zijn arrest te wijzen, vraagt het Hof, in de regel, het Hof van Justitie om bij wijze van prejudiciële beslissing uitspraak te doen."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970416.6": {
+      "court": "CASS",
+      "date": "1997-04-16",
+      "roleNumber": "P961112F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'obligation qu'a, en règle, la Cour de cassation de saisir la Cour de justice des Communautés européennes d'une question préjudicielle suppose que l'interprétation de dispositions communautaires soit nécessaire pour que la Cour puisse rendre son arrêt."
+      ],
+      "abstractNL": [
+        "Het Hof van cassatie is in de regel maar verplicht om een prejudiciële vraag te stellen aan het Hof van Justitie van de Europese Gemeenschappen, wanneer de uitlegging van bepalingen van het gemeenschapsrecht noodzakelijk is om een uitspraak van het Hof mogelijk te maken."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970220.12": {
+      "court": "CASS",
+      "date": "1997-02-20",
+      "roleNumber": "C960081F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation (Solution implicite)."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het H.V.J. o.m. reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van prejudiciële vraag, voor uitlegging tot het H.V.J. te wenden, op voorwaarde dat zij bij die uitleggingsbeslissing aansluiten (Impliciet)."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951006.8": {
+      "court": "CASS",
+      "date": "1995-10-06",
+      "roleNumber": "C940457F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. (Solution implicite)"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het H.v.J. o.m. reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van een prejudiciële vraag, voor uitlegging tot het H.v.J. te wenden, op voorwaarde, echter dat zij zich bij die uitleggingsbeslissing aansluiten. (Impliciet)."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950515.9": {
+      "court": "CASS",
+      "date": "1995-05-15",
+      "roleNumber": "S940138F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation d'une disposition du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté, tel l'article 69, alinéa 4, du règlement (CEE) n° 1408/71 du 14 juin 1971, est nécessaire pour que la Cour de cassation puisse rendre son arrêt, en l'espèce dans une affaire où se pose la question de savoir si cette disposition impose la condition d'exercice d'un emploi en Belgique pendant trois mois au moins pour la conservation et pour l'acquisition de la qualité de bénéficiaire des allocations de chômage ou seulement pour la conservation de cette qualité et non pour son acquisition, la Cour demande, en règle, à la Cour de justice de statuer par voie de décision préjudicielle."
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van een bepaling van het EEG-Verdrag of van een door de instellingen van de Gemeenschap verrichte handeling, zoals artikel 69, 54 van de verordening (EEG) nr. 1408/71 van 14 juni 1971, noodzakelijk is om een uitspraak van het Hof van Cassatie mogelijk te maken, in casu in een zaak waar de vraag rijst of die bepaling de voorwaarde oplegt dat gedurende ten minste drie maanden werkzaamheden in België moeten zijn uitgeoefend voor de handhaving en voor het verkrijgen van de hoedanigheid van gerechtigde op werkloosheidsuitkering dan wel alleen voor de handhaving van die hoedanigheid en niet voor het verkrijgen ervan, wendt het Hof zich, in de regel, tot het Hof van Justitie opdat dit bij wijze van prejudiciële beslissing uitspraak doet."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940921.10": {
+      "court": "CASS",
+      "date": "1994-09-21",
+      "roleNumber": "P940659F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'obligation qu'a, en règle, la Cour de cassation de saisir la Cour de justice des Communautés européennes d'une question préjudicielle suppose que l'interprétation de dispositions communautaires soit nécessaire pour que la Cour de cassation puisse rendre son arrêt. (Traité C.E.E., art. 177.)"
+      ],
+      "abstractNL": [
+        "Het Hof van Cassatie is in de regel maar verplicht om een prejudiciële vraag te stellen aan het Hof van Justitie van de Europese Gemeenschappen, wanneer de uitlegging van bepalingen van het gemeenschapsrecht noodzakelijk is om een uitspraak van het Hof van Cassatie mogelijk te maken. (Art. 177 E.E.G.-Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920210.14": {
+      "court": "CASS",
+      "date": "1992-02-10",
+      "roleNumber": "9229",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/10/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation d'une disposition du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté, tels les articles 3, 4, 46 et 51 du Règlement (CEE) n° 1408/71 du 14 juin 1971, est nécessaire pour que la Cour de cassation puisse rendre son arrêt, en l'espèce dans une affaire de cumul d'une prestation de vieillesse italienne et d'un revenu garanti par la législation belge à une personne âgée, la Cour demande, en règle, à la Cour de justice de statuer par voie de décision préjudicielle. ( Traité du 25 mars 1957, approuvé par la Loi du 2 décembre 1957, art. 177. )"
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van een bepaling van het E.E.G.-Verdrag of van een door de instellingen van de Gemeenschap verrichte handeling, zoals de artt. 3, 4, 46 en 51 van Verordening (EEG) nr. 1408/71 van 14 juni 1971 noodzakelijk is om een uitspraak van het Hof van Cassatie mogelijk te maken, in casu in een zaak van samenloop van een Italiaanse ouderdomsuitkering met een door de Belgische wetgeving aan een bejaarde gewaarborgd inkomen, wendt het Hof zich, in de regel, tot het Hof van Justitie opdat dit bij wijze van prejudiciële beslissing uitspraak doet. ( Art. 177 EEG Verdrag. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910909.16": {
+      "court": "CASS",
+      "date": "1991-09-09",
+      "roleNumber": "9012",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/09/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation d'une disposition du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté, tels les articles 2 et 3 du Règlement (CEE) n° 1408/71 du 14 juin 1971, est nécessaire pour que la Cour de cassation puisse rendre son arrêt en l'espèce dans une affaire de droit du conjoint d'un travailleur salarié à une allocation pour handicapés prévue par la législation nationale d'un Etat membre, la Cour demande, en règle, à la Cour de justice de statuer par voie de décision préjudicielle. ( Traité du 25 mars 1957, approuvé par la loi du 2 décembre 1957, art. 177. )"
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van een bepaling van het EEG Verdrag of van een door de instellingen van de EEG Verdrag of van een door de instellingen van de Gemeenschap verrichte handeling, zoals de artt. 2 en 3 van Verordening (EEG) nr. 1408/71 van 14 juni 1971, noodzakelijk is om een uitspraak van het Hof van Cassatie mogelijk te maken, in casu in een zaak van het recht van de echtgenoot van een werknemer op een tegemoetkoming voor minder-validen, als bedoeld in de nationale wetgeving van een Lid-Staat, wendt het Hof zich, in de regel, tot het Hof van Justitie om, bij wijze van prejudiciële beslissing, uitspraak te doen. ( Art. 177 EEG Verdrag. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900611.16": {
+      "court": "CASS",
+      "date": "1990-06-11",
+      "roleNumber": "8698",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/11/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. ( Traité du 25 mars 1957, instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het E.E.G.-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het Hof van Justitie van de Europese Gemeenschappen reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van een prejudiciële vraag, voor uitlegging tot dat Hof te wenden, op voorwaarde echter dat zij zich bij die uitleggingsbeslissing aansluiten. ( Art. 177 E.E.G.-Verdrag. ) ( Impliciet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900305.9": {
+      "court": "CASS",
+      "date": "1990-03-05",
+      "roleNumber": "8711",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/05/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. ( Traité du 25 mars 1957, instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het E.E.G.-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als die waarover het Hof van Justitie van de Europese Gemeenschappen reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wijze van een prejudiciële vraag, voor uitlegging tot dat Hof te wenden, op voorwaarde echter dat zij zich bij die uitleggingsbeslissing aansluiten. ( Art. 177 E.E.G.-Verdrag. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870930.6": {
+      "court": "CASS",
+      "date": "1987-09-30",
+      "roleNumber": "5795",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la communauté, est soulevée devant un tribunal correctionnel, dont les décisions sont susceptibles d'un recours juridictionnel, ce tribunal a la faculté mais non l'obligation de demander à la Cour de justice des communautés de statuer sur cette question. ( Traité instituant la Communauté économique européenne, art. 177. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag over de uitlegging van het EEG Verdrag of van een door de instellingen van de Gemeenschap verrichte handelingen wordt opgeworpen voor een correctionele rechtbank waarvan de beslissingen voor hoger beroep vatbaar zijn, kan die rechtbank zonder echter daartoe verplicht te zijn, het Hof van Justitie van de de Gemeenschappen verzoeken over die vraag uitspraak te doen. ( Art. 177 EEG Verdrag. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851118.12": {
+      "court": "CASS",
+      "date": "1985-11-18",
+      "roleNumber": "4864",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/18/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté, soulevée dans une affaire pendante devant la Cour de cassation, est identique à une question qui a déjà fait l'objet, dans une autre cause, d'une décision d'interprétation par la Cour de justice des Communautés européennes, la Cour de cassation est dispensée de l'obligation de saisir à nouveau la Cour de justice en interprétation ( Traité instituant la CEE, art. 177, alinéa 1er )."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag of van een akte van de EEG instellingen, opgeworpen in een voor het Hof van Cassatie hangende zaak, een punt betreft dat reeds het voorwerp is geweest, in een andere zaak, van een uitleggende beslissing van het Hof van Justitie van de Europese Gemeenschappen is het Hof van Cassatie vrijgesteld van de verplichting zich opnieuw tot het Hof van Justitie te wenden om een uitlegging te verkrijgen ( Art. 177, laatste lid, EEG Verdrag )."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841001.11": {
+      "court": "CASS",
+      "date": "1984-10-01",
+      "roleNumber": "6688",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation du Traité instituant la Communauté économique européenne et des règlements de celle-ci, donnée sur son référé par la Cour de justice des Communautés. (Traité instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van het EEG Verdrag en van de verordeningen van die Gemeenschap, welke door het Hof van Justitie van de Gemeenschappen op zijn verzoek is gegeven. ( Art. 177 EEG Verdrag, goedgekeurd bij de wet van 2 december 1957. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840618.9": {
+      "court": "CASS",
+      "date": "1984-06-18",
+      "roleNumber": "4359",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation constate que les dispositions du Traité instituant la Communauté économique européenne, dont la violation est invoquée, ne soulèvent aucune question d'interprétation ou de validité, elle n'est pas tenue, conformément à l'article 177 dudit Traité, de saisir la Cour de justice des Communautés européennes."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van Cassatie vaststelt dat de bepalingen van het EEG Verdrag waarvan de schending wordt aangevoerd, geen vraag om uitlegging doet rijzen, behoeft het Hof zich niet tot het Hof van Justitie te wenden overeenkomstig artikel 117 EEG Verdrag."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830615.11": {
+      "court": "CASS",
+      "date": "1983-06-15",
+      "roleNumber": "2988",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/15/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La Cour de justice des Communautés européennes est sans pouvoir pour statuer, en vertu de l'article 177 du Traité instituant la Communauté économique européenne, sur la conformité de la législation belge avec ce traité ou avec des actes pris par les institutions communautaires."
+      ],
+      "abstractNL": [
+        "Het Hof van Justitie van de Europese Gemeenschappen is niet bevoegd om, krachtens art. 177 E.E.G.-Verdrag, uitspraak te doen over de overeenstemming van de Belgische Wetgeving met dat Verdrag of met de door de instellingen van de Gemeenschap verrichte handelingen."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821018.10": {
+      "court": "CASS",
+      "date": "1982-10-18",
+      "roleNumber": "6443",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/10/18/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté, en l'espèce règlement (CEE) nr. 1408/71 du Conseil, relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés ainsi qu'aux membres de leur famille qui se déplacent dans la Communauté, est soulevée devant la Cour de cassation, celle-ci doit, en règle, saisir la Cour de justice des Communautés européennes. ( Traité instituant la Communauté économique européenne, art. 177, approuvé par l'acte du Pouvoir législatif du 2 décembre 1957. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag over de uitlegging van het EEG-Verdrag of van een akte van de EEG-instellingen, o.a. van verordening nr. 1408/71 van de Raad, betreffende de toepassing van de sociale-zekerheidsregelingen op loontrekkenden en hun gezinnen, die zich binnen de Gemeenschap verplaatsen, voor het Hof van Cassatie wordt opgeworpen, moet dit Hof in de regel de zaak aanhangig maken bij het Hof van Justitie van de Europese Gemeenschappen. ( Art. 177, EEG-Verdrag, goedgekeurd bij handeling van de Wetgevende Macht van 2 december 1957. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820922.7": {
+      "court": "CASS",
+      "date": "1982-09-22",
+      "roleNumber": "2308",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. ( Traité du 25 mars 1957, instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag of van een handeling van de Instellingen van de Gemeenschap dezelfde is als de vraag die al vroeger is opgeworpen en waarover het Hof van Justitie EEG een beslissing van uitlegging heeft gewezen, behoeven de nationale rechterlijke instanties waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor enige voorziening, zich niet opnieuw, bij wijze van een prejudiciële vraag, om uitlegging tot het Hof van Justitie te wenden, op voorwaarde dat zij zich in hun beslissingen naar die uitlegging gedragen <1>. (Art. 177 EEG Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811209.10": {
+      "court": "CASS",
+      "date": "1981-12-09",
+      "roleNumber": "1312",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les arrêts rendus par la Cour de justice des Communautés européennes en application de l'article 177 du Traité C.E.E. ont l'autorité et les effets spécifiques qu'ils tirent de la compétence attribuée à la Cour de justice par ce traité mais non l'autorité de la chose jugée au sens des dispositions du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De met toepassing van art. 177 E.E.G.-Verdrag gewezen arresten van het Hof van Justitie hebben wel het specifieke gezag en de specifieke uitwerking voortvloeiende uit de door het verdrag aan het Hof van Justitie toegekende bevoegdheid, doch niet het gezag van het rechterlijk gewijsde, in de zin van de bepalingen van het Gerechtelijk Wetboek <2>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810903.5": {
+      "court": "CASS",
+      "date": "1981-09-03",
+      "roleNumber": "6211",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation d'une disposition notamment du Traité instituant la Communauté économique européenne est soulevée devant la Cour de cassation et que celle-ci estime qu'une décision à ce sujet est nécessaire pour qu'elle puisse rendre son arrêt, elle doit, en règle, saisir la Cour de justice des Communautés européennes pour que celle-ci statue à titre préjudiciel sur ladite question. (Traité C.E.E., art. 177.)"
+      ],
+      "abstractNL": [
+        "Wanneer voor het Hof van Cassatie een vraag om uitlegging van een bepaling, met name van het E.E.G.-Verdrag, wordt opgeworpen en het Hof een beslissing op dat punt noodzakelijk acht voor het wijzen van zijn arrest, wendt het Hof zich, in de regel, tot het Hof van Justitie opdat het bij wijze van prejudiciële beslissing een uitspraak doet. (Art. 177 E.E.G.-Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810902.3": {
+      "court": "CASS",
+      "date": "1981-09-02",
+      "roleNumber": "1599",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. (Traité du 25 mars 1957, instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177.)"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag of van een handeling van de instellingen van de gemeenschap dezelfde is als de vraag die al vroeger is opgeworpen en waarover het Hof van Justitie EEG een beslissing van uitlegging heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor enige voorziening, zich niet opnieuw, bij wijze van een prejudiciële vraag, voor uitlegging tot het Hof van Justitie te wenden, op voorwaarde dat zij zich in hun beslissingen naar die uitlegging gedragen. (Art. 177 EEG Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810409.8": {
+      "court": "CASS",
+      "date": "1981-04-09",
+      "roleNumber": "5996",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne est identique à une question qui a fait antérieurement l'objet d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales telle la Cour de cassation, dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne, sont dispensées de saisir à nouveau, par question préjudicielle, cette Cour en interprétation à condition qu'elles se conforment, dans les décisions qu'elles rendent, à cette interprétation. ( Traité du 25 mars 1957 instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag dezelfde is als die waarover het Hof van Justitie van de EEG een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, zoals het Hof van Cassatie, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor enige voorziening, zich niet opnieuw, bij wijze van een prejudiciële vraag, voor uitlegging tot dat Hof te wenden, op voorwaarde dat zij zich in hun beslissingen naar die uitlegging gedragen <2>. (Art. 177 EEG Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800630.11": {
+      "court": "CASS",
+      "date": "1980-06-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation. ( Traité du 25 mars 1957, instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het E.E.G.-Verdrag of van een handeling van de organen van de Gemeenschap dezelfde is als die waarover het Hof van Justitie van de Europese Gemeenschappen reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor enige voorziening, zich niet opnieuw, bij wijze van een prejudiciële vraag, voor uitlegging tot dat Hof te wenden, op voorwaarde dat zij zich in hun beslissingen naar die uitlegging gedragen. ( Art. 177 E.E.G.-Verdrag van 25 maart 1957. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800612.4": {
+      "court": "CASS",
+      "date": "1980-06-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne, soulevée dans une cause pendante devant la Cour de cassation, est identique à une question qui a déjà fait l'objet, dans une autre cause, d'une décision d'interprétation par la Cour de justice des Communautés européennes, la Cour de cassation est dispensée de l'obligation de saisir à nouveau la Cour de justice en interprétation. ( Traité ayant institué la Communauté économique européenne, art. 177, dernier alinéa. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag, die is opgeworpen in een voor het Hof van Cassatie aanhangige zaak, dezelfde vraag is als die waarvoor het Hof van Justitie van de Europese Gemeenschappen reeds een uitleggende beslissing heeft gewezen, behoeft het Hof van Cassatie zich niet opnieuw tot het Hof van Justitie te wenden voor uitlegging. (Art. 177, laatste lid, EEG Verdrag.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800519.8": {
+      "court": "CASS",
+      "date": "1980-05-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation du Traité instituant la Communauté économique européenne et des règlements de celle-ci, donnée sur son référé par la Cour de justice des Communautés. ( Traité instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van het EEG Verdrag en van de verordeningen van die Gemeenschap, welke door het Hof van Justitie van de Gemeenschappen op zijn verzoek is gegeven. ( Art. 177 EEG Verdrag, goedgekeurd bij wet van 2 december 1957. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800505.6": {
+      "court": "CASS",
+      "date": "1980-05-05",
+      "roleNumber": "5544",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation du Traité instituant la Communauté économique européenne et des règlements de celle-ci, donnée, sur son référé, par la Cour de justice des Communautés européennes. ( Traité instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van het EEG Verdrag en van de verordeningen van die gemeenschap, welke door het Hof van Justitie van de Gemeenschappen op zijn verzoek is gegeven. ( Art. 177 EEG Verdrag, goedgekeurd bij wet van 2 december 1957. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791009.5": {
+      "court": "CASS",
+      "date": "1979-10-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté économique européenne, soulevée dans une affaire pendante devant la Cour de cassation, est identique à une question qui a déjà fait l'objet, dans une autre cause, d'une décision d'interprétation par la Cour de justice des Communautés européennes, la Cour de cassation est dispensée de l'obligation de saisir à nouveau la Cour de justice en interprétation. ( Traité CEE, art. 177, dernier alinéa. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG Verdrag, opgeworpen in een voor het Hof van Cassatie hangende zaak, een punt betreft dat reeds het voorwerp is geweest in een andere zaak van een uitleggende beslissing van het Hof van Justitie van de Europese Gemeenschappen, is het Hof van Cassatie vrijgesteld van de verplichting zich opnieuw tot het Hof van Justitie te wenden om een uitlegging te bekomen. ( Art. 177, laatste lid, EEG Verdrag van 25 maart 1957. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790108.2": {
+      "court": "CASS",
+      "date": "1979-01-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/01/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation constate que les dispositions du Traité instituant la Communauté économique européenne ou des règlements du Conseil des Ministres de la Communauté, dont la violation est invoquée, ne soulèvent aucune question d'interprétation, elle n'est pas tenue de saisir la Cour de justice des Communautés européennes, conformément à l'article 177, alinéa dernier, dudit traité."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van Cassatie vaststelt dat de bepalingen van het E.E.G.-Verdrag of van de verordeningen van de Raad van Ministers van de Gemeenschap, waarvan schending wordt aangevoerd tot geen vraag om uitlegging nopen, is het niet gehouden zich tot het Hof van Justitie te wenden, overeenkomstig art. 177, laatste lid, van dat verdrag."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780904.6": {
+      "court": "CASS",
+      "date": "1978-09-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation du traité instituant la Communauté économique européenne et des règlements de celle-ci donnée, sur son référé, par la Cour de justice des Communautés européennes. ( Traité instituant la Communauté économique européenne, approuvé par l'acte du pouvoir législatif du 2 décembre 1957, art. 177. ). ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van het EEG Verdrag en van de verordeningen van die gemeenschap, welke door het Hof van Justitie van de Gemeenschappen op zijn verzoek is gegeven. ( Art. 177 EEG Verdrag, goedgekeurd bij wet van 2 december 1957. ) (Impliciet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770919.7": {
+      "court": "CASS",
+      "date": "1977-09-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation notamment du traité instituant la Communauté économique européenne et des règlements de celle-ci donnée, sur son référé, par la Cour de justice des Communautés (1). ( Traité instituant la Communauté économique européenne, approuvé par l'acte du pouvoir législatif du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De nationale echter is o.m. gebonden door de uitlegging van het Verdrag tot oprichting van de Europese Economische Gemeenschap en de verordeningen van deze Gemeenschap welke, op zijn verzoek, door het Hof van Justitie van de Gemeenschappen is gegeven (1). ( Art. 117 Verdrag tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957. ) ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770919.6": {
+      "court": "CASS",
+      "date": "1977-09-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation notamment du traité instituant la Communauté économique européenne et des règlements de celle-ci donnée, sur son référé, par la Cour de justice des Communautés (1). ( Traité instituant la Communauté économique européenne, approuvé par l'acte du pouvoir législatif du 2 décembre 1957, art. 177. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De nationale rechter is o.a. gebonden door de uitlegging van het Verdrag tot oprichting van de Europese Economische Gemeenschap en de verordeningen van deze Gemeenschap welke, op zijn verzoek, door het Hof van Justitie van de Gemeenschappen is gegeven (1). - ( Art. 177 Verdrag tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957. ) ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760427.7": {
+      "court": "CASS",
+      "date": "1976-04-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/04/27/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation, saisie d'une demande de renvoi d'un tribunal à un autre pour cause de suspicion légitime, constate que les dispositions du droit communautaire dont la violation est invoquée par le requérant sont étrangères à ladite demande, elle n'est pas tenue de saisir la Cour de justice des Communautés européennes par application de l'article 177, alinéa dernier, du traité instituant la Communauté économique européenne."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van cassatie, waarbij een verzoek tot verwijzing van een rechtbank naar een andere wegens gewettigde verdenking aanhangig is, vaststelt dat gemeenschapsrechtelijke bepalingen waarvan de verzoeker de schending aanvoert geen betrekking hebben op dit verzoek, dient het de zaak niet voor het Hof van justitie van de Europese Gemeenschappen te brengen overeenkomstig artikel 177, laatste lid, van het Verdrag tot oprichting van de Europese Economische Gemeenschap."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750616.7": {
+      "court": "CASS",
+      "date": "1975-06-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation constate qu'une dispostition du droit communautaire, dont la violation est invoquée dans un moyen, notamment celle d'une directive relative aux modalités de constatation d'une infraction, ne saurait trouver application en l'espèce, dès lors qu'elle n'était pas en vigueur au moment où ladite infraction a pu être constatée, il n'y a point de question d'interprétation dont la solution soit nécessaire pour lui permettre de statuer; elle n'est, dès lors, point tenue de saisir la Cour de justice des Communautés européennes, par application de l'article 177, alinéa final, du traité instituant la Communauté économique européenne."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van cassatie vaststelt dat een bepaling inzake gemeenschapsrecht, waarvan de schending in een middel wordt aangevoerd, o.a. de bepaling van een richtlijn betreffende de wijze waarop een misdrijf wordt vastgesteld, in casu geen toepassing kan vinden, omdat zij niet van kracht was op het ogenblik dat dit misdrijf kon worden vastgesteld, is er geen uitleggingsprobleem waarvan de oplossing noodzakelijk is om het Hof in de gelegenheid te stellen uitspraak te doen; het Hof is dus niet verplicht de zaak bij het Hof van justitie van de Europese Gemeenschappen aanhangig te maken overeenkomstig artikel 177, laatste lid, van het Verdrag tot oprichting van de Europese Economische Gemeenschap."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750520.10": {
+      "court": "CASS",
+      "date": "1975-05-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/05/20/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation du tarif douanier commun, annexé au règlement du 28 juin 1968 du Conseil des Communautés européennes est soulevée devant la Cour de cassation, celle-ci doit, en régle, saisir la Cour de justice des Communautés européennes. (Traité instituant la Communauté économique européenne, article 177, approuvé par l'acte du pouvoir législatif du 2 décembre 1957.)"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag omtrent de uitlegging van het aan de verordening van 28 juni 1968 van de Raad van de Europese Gemeenschappen toegevoegd gemeenschappelijk douanetarief opgeworpen wordt voor het Hof van cassatie, moet het Hof de zaak aanhangig maken bij het Hof van Justitie van de Europese Gemeenschappen. ( Art. 177 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701224.5": {
+      "court": "CASS",
+      "date": "1970-12-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du traité instituant la Communauté économique européenne est soulevée dans une affaire pendante devant la Cour de cassation, celle-ci est tenue de saisir, à titre préjudiciel, la Cour de justice des Communautés européennes. (Traité du 25 mars 1957 instituant la Communauté économique européenne, approuvé par acte du pouvoir législatif du 2 décembre 1957, art. 177.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het Verdrag tot oprichting van de Europese Economische Gemeenschap wordt opgeworpen in een voor het Hof van cassatie hangende zaak, is het Hof ertoe verplicht de zaak aanhangig te maken bij het Hof van justitie van de Europese Gemeenschappen om een prejudiciële beslissing te bekomen. (Verdrag van 25 maart 1957 tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957, art. 177). (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931201.12": {
+      "court": "CASS",
+      "date": "1993-12-01",
+      "roleNumber": "P930913F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/01/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het Hof van Justitie van de Europese Gemeenschappen o.m. reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van een prejudiciële vraag, voor uitlegging tot het Hof te wenden, op voorwaarde echter dat zij zich bij die uitleggingsbeslissing aansluiten (Art. 177 EEG Verdrag) (Impliciet)."
+      ]
+    }
+  },
+  "189": {
+    "ECLI:BE:CASS:1995:ARR.19950210.8": {
+      "court": "CASS",
+      "date": "1995-02-10",
+      "roleNumber": "C930072N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Satifait á l'article 1080 du code judiciaire, en tant que cet article prescrit l'indication, dans le pourvoi, des dispositions légales dont la violation est invoquée, le moyen qui invoque la violation non pas des articles 100 et 189 du Traité instituant la Communauté économique européenne, mais des dispositions de la directive du Conseil des Communautés européennes et du Code de la taxe sur la valeur ajoutée qu'il indique, dès lors que cette violation peut entraîner la cassation de la décision attaquée."
+      ],
+      "abstractNL": [
+        "Aan art. 1080 Ger.W., in zoverre dit voorschrijft in het verzoekschrift tot cassatie de wettelijke bepalingen te vermelden waarvan schending wordt aangevoerd, wordt voldaan wanneer weliswaar geen schending wordt aangevoerd van de artt. 100 en 189 EG-Verdrag, maar de aangevoerde schending van de aangehaalde bepalingen van de EG Richtlijn en van het WBTW volstaat om tot vernietiging te leiden van de bestreden beslissing."
+      ]
+    }
+  },
   "217": {
     "ECLI:BE:CASS:2025:ARR.20250528.2F.18": {
       "court": "CASS",
@@ -420,6 +1228,22 @@
       "abstractNL": null
     }
   },
+  "220": {
+    "ECLI:BE:CASS:1979:ARR.19790628.8": {
+      "court": "CASS",
+      "date": "1979-06-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/06/28/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, en matière d'impôts directs, le moyen pris de ce que, ayant été imposé aux taxes assimilées aux impôts sur les revenus, le demandeur ne peut être imposé du même chef aux impôts sur les revenus, lorsqu'il n'invoque que la violation des articles 45 et 52 du Code des taxes assimilées aux impôts sur les revenus et l'article 220 du Traité instituant la Communauté économique européenne."
+      ],
+      "abstractNL": [
+        "Inzake directe belastingen is niet ontvankelijk het middel hieruit afgeleid dat de eiser die ter zake van de met de inkomstenbelastingen gelijkgestelde belastingen is aangeslagen, niet om dezelfde redenen in de inkomstenbelastingen kan worden belast, als het enkel schending aanvoert van de artt. 45 en 52 W.I.G.B. en van art. 220 E.E.G.-Verdrag."
+      ]
+    }
+  },
   "234": {
     "ECLI:BE:CASS:2004:ARR.20040323.26": {
       "court": "CASS",
@@ -434,6 +1258,34 @@
       ],
       "abstractNL": [
         "Het Hof is niet verplicht een prejudiciële vraag te stellen aan het Hof van Justitie van de Europese Gemeenschap, wanneer het antwoord op deze vraag geen weerslag kan hebben op zijn beoordeling van het middel en derhalve niet onontbeerlijk is om uitspraak te doen (1). (1) Zie Cass., 29 april 2003, AR P.02.1459.N, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050317.4": {
+      "court": "CASS",
+      "date": "2005-03-17",
+      "roleNumber": "C040005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/03/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation d'une disposition du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté, tel l'article 5, § 1er, de la première directive n° 89/104 du Conseil du 21 décembre 1988 rapprochant les législations des Etats membres sur les marques, est nécessaire pour que la Cour de cassation puisse rendre son arrêt, en l'espèce dans une affaire où est soulevée la question de la détermination de l'étendue de la protection d'une marque régulièrement acquise en fonction de son pouvoir distinctif, la Cour demande à la Cour de justice de statuer par voie de décision préjudicielle (1). (1) Voir Cass., 29 avril 2002, RG S.01.0137.F, n° 260; C.J.C.E., 11 novembre 1997, C-251/95, Rec. C.J.C.E., I, p. 6191; C.J.C.E., 29 septembre 1998, C-39/97, Rec. C.J.C.E., I, p. 5507."
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van een bepaling van het E.E.G.-Verdrag of van een door de instellingen van de Gemeenschap uitgevaardigde akte, zoals art. 5, § 1, van de eerste richtlijn nr 89/104 van de Raad van 21 dec. 1988 betreffende de aanpassing van het merkenrecht der Lid-staten, noodzakelijk is opdat het Hof van cassatie zijn arrest zou kunnen wijzen, te dezen in een zaak waarin de vraag wordt opgeworpen hoe de omvang van de bescherming van een rechtsgeldig verkregen merk aan de hand van zijn onderscheidend vermogen moet worden bepaald, verzoekt het Hof van cassatie het Hof van Justitie uitspraak te doen bij wege van een prejudiciële beslissing (1). (1) Zie Cass., 29 april 2002, AR S.01.0137.F, nr 260; H.v.J., 11 nov. 1997, C-251/95, Verz. Arr. H.v.J., I, p. 6223; H.v.J., 29 sept. 1998, C-39/97, Verz. Arr. H.v.J., I, p. 5535."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000313.7": {
+      "court": "CASS",
+      "date": "2000-03-13",
+      "roleNumber": "S980143F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question d'interprétation du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté est identique à une question qui a fait antérieurement l'objet, notamment, d'une décision d'interprétation par la Cour de justice des Communautés européennes, les juridictions nationales dont les décisions ne sont pas susceptibles d'un recours juridictionnel de droit interne sont dispensées de saisir à nouveau, par question préjudicielle, la Cour de justice en interprétation, à condition toutefois qu'elles se rallient à cette décision d'interprétation (Solution implicite)."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het H.v.J. o.m. reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van prejudiciële vraag, voor uitlegging tot het H.v.J. te wenden, op voorwaarde dat zij zich bij die uitleggingsbeslissing aansluiten. (Impliciet)."
       ]
     }
   },
@@ -450,6 +1302,20 @@
       ],
       "abstractNL": [
         "De uit een richtlijn voortvloeiende verplichting van de Lid-staten van de Europese Unie om het met de richtlijn beoogde resultaat te bereiken, alsook hun verplichting om, krachtens artikel 10 van het EG-verdrag, alle algemene of bijzondere maatregelen te treffen die geschikt zijn om de nakoming van de uit het Verdrag of uit handelingen van de instellingen der Gemeenschap voortvloeiende verplichtingen te verzekeren, gelden voor alle met overheidsgezag beklede instanties van de Lid-staten en dus, binnen het kader van hun bevoegdheden, ook voor de rechterlijke instanties, wat impliceert dat de nationale rechter bij de toepassing van het nationale recht dat recht zo veel mogelijk dient uit te leggen in het licht van de bewoordingen en het doel van de richtlijn, teneinde het daarmee beoogde resultaat te bereiken en aldus aan artikel 249, derde lid, van het EG-verdrag te voldoen."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130916.5": {
+      "court": "CASS",
+      "date": "2013-09-16",
+      "roleNumber": "S.07.0031.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/16/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'obligation des Etats membres découlant d'une directive d'atteindre les résultats de celle-ci ainsi que leur devoir, en vertu de l'article 10 du Traité instituant la Communauté européenne, dans la version consolidée à Amsterdam le 2 octobre 1997, de prendre toutes mesures générales ou particulières propres à assurer l'exécution de cette obligation s'imposent à toutes les autorités des Etats membres, y compris, dans le cadre de leurs compétences, les autorités juridictionnelles, qui sont tenues, en appliquant le droit national, de l'interpréter dans toute la mesure du possible à la lumière du texte et de la finalité de la directive pour atteindre le résultat visé par celle-ci et se conformer ainsi à l'article 249, alinéa 3, du Traité (1) (2). (1) Voir les concl. du M.P. (2) Art. 249, al. 3 du Traité instituant la Communauté européenne dans sa version consolidée à Amsterdam le 2 octobre 1997 applicable en l'espèce, actuellement article 288, al. 3 du Traité sur le fonctionnement de l''Union."
+      ],
+      "abstractNL": [
+        "De uit een richtlijn voortvloeiende verplichting van de lidstaten om het resultaat ervan te bereiken en ook hun plicht om, krachtens artikel 10 van het Verdrag tot oprichting van de Europese Gemeenschap, in de versie geconsolideerd te Amsterdam op 2 oktober 1997, alle algemene of bijzondere maatregelen te treffen welke geschikt zijn om de nakoming van die verplichting te verzekeren, gelden voor alle overheden van de lidstaten, met inbegrip, in het raam van hun bevoegdheden, van de rechtsprekende overheden die het nationale recht zoveel mogelijk moeten uitleggen in het licht van de tekst en het oogmerk van de richtlijn om het door haar beoogde resultaat te bereiken en zich aldus te conformeren aan artikel 249, derde lid, van het Verdrag (1)(2). (1) Zie concl. O.M. in Pas. 2013, nr. ... (2) Art. 249, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap in de versie geconsolideerd te Amsterdam op 2 oktober 1997, te dezen van toepassing, thans artikel 288, derde lid, van het Verdrag over de werking van de Unie."
       ]
     }
   },
@@ -872,6 +1738,20 @@
       "abstractNL": [
         "Wanneer een middel, voor het Hof, de vraag opwerpt of het begrip 'reclame' van artikel 2 Richtlijn 84/450/EEG van 10 september 1984 betreffende het nader tot elkaar brengen van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake misleidende reclame en vergelijkende reclame en van artikel 2 Richtlijn 2006/114/EG van 12 december 2006 inzake misleidende reclame en vergelijkende reclame, aldus moet worden uitgelegd dat het, enerzijds, de registratie en het gebruik van een domeinnaam en, anderzijds, het gebruik van metatags in metadata van een website omvat, stelt het Hof de vraag tot uitlegging van die bepalingen aan het Hof van Justitie van de Europese Unie (1). (1) Zie de concl. van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130124.2": {
+      "court": "CASS",
+      "date": "2013-01-24",
+      "roleNumber": "C.11.0371.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/01/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque devant la Cour de cassation la question se pose de savoir si l'article 45 de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) doit être interprété en ce sens que la notion de «paiements aux participants» vise aussi la livraison aux participants de certificats de parts nominatives, la Cour pose une question préjudicielle à la Cour de justice de l'Union européenne."
+      ],
+      "abstractNL": [
+        "Wanneer voor het Hof van Cassatie de vraag rijst of artikel 45 van de richtlijn 85/611/EEG van de Raad van 20 december 1985 van de Raad tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe's) in die zin moet worden uitgelegd dat het begrip uitkeringen aan de deelnemers ook doelt op de levering aan deelnemers van certificaten van deelbewijzen op naam, stelt het Hof een prejudiciële vraag aan het Hof van Justitie van de Europese Unie."
+      ]
     }
   },
   "288": {
@@ -1077,6 +1957,62 @@
       ],
       "abstractNL": [
         "De nationale rechter is gebonden door de uitlegging van de verdragen tot oprichting van de Europese Gemeenschappen, die, op zijn aanvraag, is gegeven door het Hof van justitie van de Europese Gemeenschappen; hij is evenwel bevoegd om uit deze uitlegging enigerlei niet uitgedrukte regel, die deze uitlegging noodzakelijk inhoudt, af te leiden. ( Verdrag tot oprichting van de Europese Gemeenschap voor atoomenergie, art. 150 en Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )"
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020905.3": {
+      "court": "CASS",
+      "date": "2002-09-05",
+      "roleNumber": "D990018F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un ressortissant communautaire présente au Conseil de l'Ordre des architectes une demande d'autorisation d'exercer la profession, le Conseil de l'Ordre est tenu de prendre en considération l'ensemble des diplômes, certificats et autres titres, ainsi que l'expérience pertinente de l'intéressé, en procédant à une comparaison entre, d'une part, les compétences attestées par ces titres et cette expérience et, d'autre part, les connaissances et qualifications exigées par la législation nationale, même lorsqu'une directive relative à la reconnaissance mutuelle des diplômes a été adoptée pour la profession en cause, mais que l'application de cette directive ne permet pas d'aboutir à la reconnaissance automatique du ou des titres du demandeur (1)."
+      ],
+      "abstractNL": [
+        "Wanneer een gemeenschapsonderdaan bij de Raad van de Orde van architecten een verzoek indient om te worden toegelaten tot het beroep, moet de Raad van de Orde rekening houden met alle diploma's, certificaten en andere titels alsmede met de relevante ervaring van de betrokkene, door de uit deze titels en ervaring blijkende bekwaamheden te vergelijken met de in de nationale wettelijke regeling verlangde kennis en kwalificaties, ook al is voor het betrokken beroep een richtlijn inzake de onderlinge erkenning van diploma's vastgesteld, maar de toepassing van die richtlijn niet kan leiden tot automatische erkenning van de titel(s) van de verzoeker (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020429.4": {
+      "court": "CASS",
+      "date": "2002-04-29",
+      "roleNumber": "S010137F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'interprétation d'une disposition du Traité instituant la Communauté européenne ou d'un acte pris par les institutions de la Communauté, tel l'article 7 de la directive du Conseil 79/7/CEE du 19 décembre 1978, est nécessaire pour que la Cour de cassation puisse rendre son arrêt, en l'espèce dans une affaire où se pose la question de l'interprétation de la notion de \"l'bge de la retraite\", la Cour demande, en règle, à la Cour de justice de statuer par voie de décision préjudicielle (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de uitlegging van een bepaling van het E.E.G.-Verdrag of van een handeling van de instellingen van de Gemeenschap, zoals art. 7 van de richtlijn van de Raad 79/7/EEG van 19 dec. 1978, voor het Hof van Cassatie noodzakelijk is om zijn arrest te wijzen, in casu in een zaak waar de uitlegging van het begrip \"pensioenleeftijd\" aan de orde is, vraagt het Hof in de regel, aan het Hof van Justitie om bij wijze van prejudiciële beslissing uitspraak te doen (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000121.9": {
+      "court": "CASS",
+      "date": "2000-01-21",
+      "roleNumber": "D990018F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si un moyen de cassation fait valoir que, lorsqu'une directive européenne détermine les conditions de la reconnaissance mutuelle des diplômes requis pour l'accès à une profession, telle celle d'architecte, les autorités compétentes des Etats membres ne peuvent, si ces conditions ne sont pas réunies, comparer les qualifications d'un requérant avec celles exigées par les règles nationales, la Cour de cassation pose une question préjudicielle à la Cour de Justice des Communautés européennes."
+      ],
+      "abstractNL": [
+        "Ingeval een cassatiemiddel aanvoert dat de bevoegde overheden van de lidstaten, wanneer een Europese richtlijn de voorwaarden vastlegt voor de onderlinge erkenning van de diploma's die vereist zijn om een beroep, zoals dat van architect, uit te oefenen, ingeval die voorwaarden niet zijn vervuld, de kwalificaties van een verzoeker niet mogen vergelijken met die welke in de nationale regeling zijn opgelegd, stelt het Hof van Cassatie een prejudiciële vraag aan het Hof van Justitie van de Europese Gemeenschappen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000114.9": {
+      "court": "CASS",
+      "date": "2000-01-14",
+      "roleNumber": "C980477F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié, l'arrêt qui, sur le fondement de constatations et considérations dont il ne résulte pas qu'il aurait retenu une cause d'exonération de responsabilité, décide que même si un règlement pris par une autorité administrative est contraire au Traité instituant la Communauté économique européenne, il ne constitue pas une faute si la violation dudit Traité n'est pas suffisamment caractérisée, sérieuse et manifeste."
+      ],
+      "abstractNL": [
+        "Het arrest dat op grond van vaststellingen en overwegingen waaruit niet blijkt dat het een grond tot ontheffing van aansprakelijkheid in aanmerking heeft genomen, beslist dat een verordening van de administratieve overheid, ook al is ze strijdig met het EEG-Verdrag, geen fout oplevert indien de schending van voornoemd verdrag niet voldoende gekwalificeerd, ernstig en kennelijk is, is niet naar recht verantwoord."
       ]
     }
   }

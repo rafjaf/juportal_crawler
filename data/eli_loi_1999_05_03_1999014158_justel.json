@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:2011:ARR.20111013.14": {
+      "court": "CASS",
+      "date": "2011-10-13",
+      "roleNumber": "C.10.0641.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour bénéficier de la garantie du cautionnement du transporteur, les dettes ne doivent pas seulement être utiles à une des activités visées à l'article 3, 1° et 2° de la loi du 3 mai 1999 relative au transport de choses par route, mais elles doivent aussi résulter d'une des fournitures de biens matériels et services énumérées dans cet article; cette liste de biens matériels et services doit être considérée comme étant restrictive et exhaustive; la fourniture de carburants, même si elle est indispensable à l'exécution des activités visées à l'article 3, 1° et 2° de la loi du 3 mai 1999, n'est pas reprise sur cette liste, de sorte que la dette qui en résulte ne bénéficie pas de la garantie du cautionnement (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Om de garantie van de borgtocht van de vervoerder te genieten moeten de schulden niet alleen dienstig zijn voor één van de in artikel 3, 1° en 2°, Wet goederenvervoer over de weg bedoelde werkzaamheden, maar moeten ze ook voortvloeien uit één van de in dit artikel opgesomde leveringen van goederen en diensten; deze lijst van goederen en diensten dient als restrictief en volledig te worden aangezien; de levering van brandstof, ook al is die onontbeerlijk voor de uitvoering van de bedoelde werkzaamheden, is niet opgenomen in deze lijst, zodat de eruit voortvloeiende schuld niet de garantie van de borgtocht geniet (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
   "5": {
     "ECLI:BE:CASS:2017:ARR.20170127.3": {
       "court": "CASS",
@@ -58,6 +74,38 @@
       ],
       "abstractNL": [
         "Wanneer aan boord van het daartoe gebruikte motorvoertuig geen eensluidend verklaarde kopie van de vervoersvergunning aanwezig is, is er sprake van één van de in artikel 36 Wet Goederenvervoer over de Weg bedoelde inbreuken waarvoor de bevoegd ambtenaren, onder de voorwaarden gesteld in de artikelen 32 en 34 van die wet, onmiddellijk een geldsom kunnen innen (1). (1) Art. 32, § 1, Wet Goederenvervoer over de Weg, zoals van toepassing vóór de opheffing ervan bij Wet 15 juli 2013."
+      ]
+    }
+  },
+  "37": {
+    "ECLI:BE:CASS:2010:ARR.20100309.1": {
+      "court": "CASS",
+      "date": "2010-03-09",
+      "roleNumber": "P.09.1474.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/09/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les tribunaux de police connaissent des infractions à l'article 37, § 2, 1°, de la loi du 3 mai 1999 relative au transport de choses par route, lequel punit le donneur d'ordre, le chargeur, le commissionnaire de transport ou le commissionnaire-expéditeur qui ont donné des instructions ou posé des actes ayant entraîné le dépassement des masses et dimensions maximales autorisées des véhicules (1). (1) Voir Cass., 18 février 2003, RG P.02.0900.N, Pas., 2003, n° 114."
+      ],
+      "abstractNL": [
+        "De politierechtbanken nemen kennis van de inbreuken op artikel 37, § 2, 1°, Wet Goederenvervoer over de Weg, dat de opdrachtgever, de verlader, de vervoercommissionair of de commissionair-expediteur strafbaar stelt, die instructies gegeven hebben of daden gesteld die hebben geleid tot de overschrijding van de toegelaten massa's en afmetingen van de voertuigen (1). (1) Zie: Cass., 18 feb. 2003, AR P.02.0900.N, A.C., 2003, nr 114."
+      ]
+    }
+  },
+  "38": {
+    "ECLI:BE:CASS:2013:ARR.20131205.5": {
+      "court": "CASS",
+      "date": "2013-12-05",
+      "roleNumber": "C.13.0056.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 38, § 4, de la loi du 3 mai 1999 relative au transport de choses par route les actions récursoires dérivant du contrat de transport de marchandises par route doivent, sous peine de déchéance, être introduites dans un délai d'un mois à dater de l'assignation qui donne lieu à l'action récursoire; lorsque cette condition est remplie l'action récursoire peut aussi être introduite après le délai d'un an, à la condition que l'action principale ait été introduite en temps utile (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 38, §4, van de wet van 3 mei 1999 betreffende het vervoer van zaken over de weg, moeten de regresvorderingen ontstaan uit de overeenkomst tot vervoer van goederen over de weg, op straffe van verval, worden ingesteld binnen een termijn van een maand te rekenen vanaf de dagvaarding die aanleiding geeft tot recht van regres; wanneer aan die voorwaarde is voldaan, kan de regresvordering ook worden ingesteld na verloop van de termijn van een jaar, op voorwaarde dat de hoofdvordering tijdig werd ingesteld (1). (1) Zie concl. O.M ."
       ]
     }
   }

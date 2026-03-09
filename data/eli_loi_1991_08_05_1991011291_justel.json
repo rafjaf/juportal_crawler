@@ -1,4 +1,80 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2000:ARR.20000225.8": {
+      "court": "CASS",
+      "date": "2000-02-25",
+      "roleNumber": "D980041F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Constituent une entreprise au sens de la loi sur la concurrence, alors même qu'ils ne sont pas des commerçants au sens de l'article 1er du Code de commerce et ont une fonction sociale, les pharmaciens dès lors qu'ils exercent une activité axée sur l'échange de biens ou de services poursuivant de manière durable un but économique."
+      ],
+      "abstractNL": [
+        "Hoewel zij geen kooplieden zijn in de zin van art. 1 WKh. en een maatschappelijke functie hebben, vormen de apothekers een onderneming in de zin van de Mededingingswet, aangezien ze een activiteit uitoefenen die gericht is op de uitwisseling van goederen of diensten en aldus op duurzame wijze een economisch doel nastreven."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990507.10": {
+      "court": "CASS",
+      "date": "1999-05-07",
+      "roleNumber": "D980013N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Même s'ils ne sont pas commerçants au sens de l'article 1er du Code de commerce et même s'ils exercent une fonction sociale, les pharmaciens exercent une activité visant l'échange de biens ou de services; ils poursuivent de manière durable un but économique et sont, dès lors, des entreprises au sens de l'article 1er de la loi du 5 août 1991."
+      ],
+      "abstractNL": [
+        "Ook al zijn zij geen kooplieden in de zin van artikel 1 van het Wetboek van Koophandel en ook al hebben zij een maatschappelijke functie, de apothekers oefenen een activiteit uit die gericht is op de uitwisseling van goederen of diensten; zij streven op duurzame wijze een economisch doel na en zijn aldus in de regel ondernemingen in de zin van artikel 1 van de Mededingingswet."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2002:ARR.20020502.8": {
+      "court": "CASS",
+      "date": "2002-05-02",
+      "roleNumber": "D010011N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/05/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'Ordre des médecins constitue une association d'entreprises au sens de la loi du 5 août 1991 sur la protection de la concurrence économique et, dans la mesure où elles ont pour objet ou pour effet de porter atteinte à la concurrence, les décisions de l'Ordre doivent être examinées par les organes disciplinaires de l'Ordre eu égard aux exigences de la loi sur la concurrence (1)."
+      ],
+      "abstractNL": [
+        "De Orde der geneesheren is een ondernemingsvereniging in de zin van de Mededingingswet en haar besluiten, in zoverre zij ertoe strekken of ten gevolge hebben dat de mededinging erdoor wordt aangetast, moeten door de tuchtorganen van de Orde worden getoetst aan de eisen van die wet (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001109.29": {
+      "court": "CASS",
+      "date": "2000-11-09",
+      "roleNumber": "D990005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'un accord relatif à l'organisation d'un service de garde n'est pas de nature à empêcher, restreindre ou fausser le jeu de la concurrence dans une partie substantielle du marché belge concerné, le Conseil de discipline d'appel de l'Ordre des pharmaciens qui considère que tel est le cas de l'accord qui ne porte que sur un service de garde limité à une seule localité et que ce territoire limité ne peut être retenu isolément (1)."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de beslissing dat een akkoord over de organisatie van een wachtdienst niet van dien aard is dat het de vrije mededinging op een wezenlijk deel van de betrokken Belgische markt verhindert, beperkt of vervalst, wanneer de tuchtraad in hoger beroep van de Orde van apothekers beslist dat zulks het geval is met het akkoord dat enkel slaat op een wachtdienst die beperkt is tot één enkele gemeente en dat dit beperkte grondgebied niet afzonderlijk kan worden beschouwd (1)."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2000:ARR.20000609.3": {
+      "court": "CASS",
+      "date": "2000-06-09",
+      "roleNumber": "C980458FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour apprécier l'existence d'une position dominante, le juge doit déterminer avec précision le marché en cause; le marché à prendre en considération comprend l'ensemble des produits qui, en fonction de leurs caractéristiques, sont particulièrement aptes à satisfaire des besoins constants et sont peu interchangeables avec d'autres produits; il appartient ainsi au juge de vérifier si le marché de référence comportait ou non des produits interchangeables."
+      ],
+      "abstractNL": [
+        "Om het bestaan van een machtspositie te beoordelen, moet de rechter nauwkeurig de betrokken markt afbakenen; de in aanmerking te nemen markt omvat alle producten die door hun eigenschappen bijzonder geschikt zijn om in constante behoeften te voorzien en die slechts in geringe mate door andere producten kunnen worden gesubstitueerd; de rechter dient aldus na te gaan of de betrokken markt al dan niet substitueerbare producten omvatte."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2019:ARR.20190320.4": {
       "court": "CASS",

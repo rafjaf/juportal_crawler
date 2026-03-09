@@ -1,4 +1,62 @@
 {
+  "126": {
+    "ECLI:BE:CASS:2004:ARR.20040405.4": {
+      "court": "CASS",
+      "date": "2004-04-05",
+      "roleNumber": "S020120F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité fixée par le juge en équité en cas de mort de l'employeur entraînant la cessation de l'activité ou de la collaboration personnelle du travailleur, ne constitue pas une rémunération au sens de la réglementation en matière de chômage (1). (1) A.R. du 20 décembre 1963, art. 126, al. 1er et al. 2 devenu al. 3 après modification par l'A.R. du 21 mai 1991. Le ministère public concluait, quant à lui, à la cassation. Il était d'avis que le moyen unique était fondé en tant qu'il invoquait la violation de l'article 126, al. 1er et al. 2 dans sa version applicable à la cause, de l'A.R. du 20 décembre 1963. Selon le ministère public, l'indemnité fixée par le juge en équité en cas de mort de l'employeur entraînant la cessation de l'activité ou de la collaboration personnelle du travailleur, constituait une rémunération au sens de la réglementation en matière de chômage (L. du 3 juillet 1978, art. 33; A.R. du 20 décembre 1963, art. 126; A.R. du 25 novembre 1991, art. 44 et 46, ,§1er). Le ministère public faisait observer que, comme l'énonce le texte de l'art. 126, al. 2, précité, l'énumération indiquée n'est pas limitative. Les termes \"sont notamment considérés comme rémunération\" sont essentiels et l'indemnité prévue par l'article 33 de la loi du 3 juillet 1978, d'une part, naît de la cessation de l'activité ou de la collaboration personnelle du travailleur, d'autre part, se justifie par la perte pour le travailleur de la rémunération que lui procurait jusque là le contrat de travail."
+      ],
+      "abstractNL": [
+        "De vergoeding die door de rechter naar billijkheid wordt vastgesteld in geval van overlijden van de werkgever dat het einde tot gevolg heeft van de activiteit of van de persoonlijke medewerking van de werknemer, is geen loon in de zin van het Werkloosheidsbesluit (1). (1) Werkloosheidsbesluit 1963, art. 126, eerste lid en tweede lid, dat het derde lid geworden is na de wijziging bij het Werkloosheidsbesluit 1991. Het openbaar ministerie concludeerde tot vernietiging. Het was van mening dat het enige middel gegrond was, in zoverre het de schending aanvoerde van artikel 126, eerste en tweede lid, Werkloosheidsbesluit 1963, zoals dat artikel van toepassing was op de zaak. Volgens het openbaar ministerie was de vergoeding die door de rechter naar billijkheid was vastgesteld in geval van overlijden van de werkgever dat het einde tot gevolg had van de activiteit of van de persoonlijke medewerking van de werknemer, een loon in de zin van de werkloosheidsreglementering (Art. 33 Arbeidsovereenkomstenwet; art. 126 Werkloosheidsbesluit 1963; artt. 44 en 46, ,§ 1, Werkloosheidsbesluit 1991). Het openbaar ministerie merkte op dat, zoals de tekst van voormeld artikel 126, tweede lid, bepaalt, de aangegeven opsomming niet beperkend is. De bewoordingen \"worden inzonderheid als loon aangemerkt\" zijn essentieel en de in artikel 33 Arbeidsovereenkomstenwet bepaalde vergoeding is enerzijds het gevolg van het einde van de activiteit of van de persoonlijke medewerking van de werknemer en is anderzijds verantwoord door het verlies van het loon dat voor de werknemer tot dat ogenblik voortvloeide uit de arbeidsovereenkomst."
+      ]
+    }
+  },
+  "128": {
+    "ECLI:BE:CASS:1993:ARR.19931206.7": {
+      "court": "CASS",
+      "date": "1993-12-06",
+      "roleNumber": "S930057N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/06/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Voor de toepassing van art. 128, alinéa 1, 1°, Werkloosheidsbesluit dient onder samenwonen te worden verstaan het bij elkaar wonen in die zin dat twee of meer personen samen dezelfde woning in gebruik hebben."
+      ]
+    }
+  },
+  "129": {
+    "ECLI:BE:CASS:1995:ARR.19950925.7": {
+      "court": "CASS",
+      "date": "1995-09-25",
+      "roleNumber": "S950022N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/25/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het beheerscomité van de Rijksdienst voor Arbeidsvoorziening beslist overeenkomstig art. 129, eerste lid, Werkloosheidsbesluit 20 dec. 1963 in het raam van art. 126, eerste lid, 1°, van hetzelfde besluit, over de toekenning van werkloosheidsuitkering aan alle werknemers wier werkloosheid het rechtstreeks of indirect gevolg is van een werkstaking, ongeacht of zij vóór of tijdens de staking verbonden zijn door een arbeidsovereenkomst met de werkgever van het bedrijf waar gestaakt wordt."
+      ]
+    }
+  },
+  "260": {
+    "ECLI:BE:CASS:1993:ARR.19930322.11": {
+      "court": "CASS",
+      "date": "1993-03-22",
+      "roleNumber": "9491",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/22/sitemap_11.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter mag de werkloze in zijn recht op werkloosheidsuitkering niet met terugwerking herstellen dan met inachtneming van de reglementsbepalingen inzake werkloosheid. (Art. 260, eerste lid, Werkloosheidsbesluit.) (Zie art. 152 Werkloosheidsbesluit.)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1995:ARR.19950529.1": {
       "court": "CASS",
@@ -2203,6 +2261,2330 @@
         "Le sens de l'article 6 de la Constitution est que tous les Belges doivent également se soumettre aux prescriptions de la loi, comme ils ont tous le même droit à en invoquer la protection. Les classifications établies par les articles 154 et 157 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, modifié par l'arrêté royal du 22 décembre 1967, applicables à l'espèce, ne reposaient pas sur une discrimination arbitraire entre les hommes et les femmes comme tels, mais sur la circonstance que la moyenne des rémunérations perçues par les travailleuses, était inférieure à la moyenne des rémunérations perçues par les travailleurs parce que les travailleuses occupaient en général des fonctions moins bien rémunérées. Les articles 154 et 157 de l'arrêté royal précité ne sont donc pas contraires au principe d'égalité que consacre l'article 6 de la Constitution. En refusant néanmoins d'appliquer ces dispositions réglementaires aux motifs qu'\"au stade de développement atteint par les divers secteurs de la sécurité sociale au moment des faits, la classification établie par l'article 154 de l'arrêté royal du 20 décembre 1963... ne se trouvait certainement plus en harmonie avec le but de progrès social que s'était assigné le législateur social\", l'arrêt attaqué a méconnu le sens et la portée de l'article 6 de la Constitution."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2001:ARR.20010618.11": {
+      "court": "CASS",
+      "date": "2001-06-18",
+      "roleNumber": "S990203FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La qualité d'administrateur d'une société commerciale dans laquelle le chômeur est titulaire de ce mandat même à titre gratuit, doit être considérée comme un travail que ledit chômeur effectue pour son propre compte pendant son chômage, qui peut être intégré dans le courant des échanges économiques de biens et de services, et qui n'est pas limité à la gestion normale des biens propres (1)."
+      ],
+      "abstractNL": [
+        "De hoedanigheid van bestuurder van een handelsvennootschap waarin de werkloze, zelfs onbezoldigd, houder is van dat mandaat, moet worden beschouwd als arbeid die de werkloze voor zichzelf verricht gedurende zijn werkloosheid, die kan worden ingeschakeld in het economisch ruilverkeer van goederen en diensten en die niet beperkt is tot het gewone beheer van eigen bezit (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000417.6": {
+      "court": "CASS",
+      "date": "2000-04-17",
+      "roleNumber": "C990363N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les décisions de rejet prises par l'inspecteur du chômage lui-même et/ou par la Commission administrative nationale suite au recours administratif d'un chômeur de longue durée, ne lient pas l'inspecteur du chômage dans son appréciation ultérieure; l'inspecteur est, dès lors tenu, lorsqu'il prend sa décision de suspension, d'apprécier les éléments objectifs et subjectifs invoqués par le chômeur comme moyen de défense et d'y répondre."
+      ],
+      "abstractNL": [
+        "De beslissingen van verwerping genomen door de werkloosheidsinspecteur zelf en/of door de Nationale administratieve Commissie ten gevolge van het administratief beroep van een langdurige werkloze, binden de werkloosheidsinspecteur niet bij zijn latere beoordeling; de inspecteur dient derhalve bij het nemen van zijn beslissing tot schorsing de door de werkloze als verweer ingeroepen objectieve en subjectieve gegevens te beoordelen en dit verweer te beantwoorden."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991115.2": {
+      "court": "CASS",
+      "date": "1999-11-15",
+      "roleNumber": "S980120N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/11/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les chômeurs mis au travail qui, aux termes de l'article 169 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, bénéficient, à la charge de l'Office, des mêmes avantages que ceux qui sont octroyés aux travailleurs en application de la législation sur les accidents du travail et les accidents survenus sur le chemin du travail, peuvent réclamer l'homologation obligatoire de l'accord concernant les indemnités dues en raison de l'accident du travail, ainsi que l'application de le réglementation selon laquelle le délai de révision ne commence à courrier qu'à comporter de l'homologation ou de l'entirénement de l'homologation de l'accord."
+      ],
+      "abstractNL": [
+        "De tewerkgestelde werklozen die luidens art. 169 Wekloosheidsbesluit 1963, ten laste van de RVA dezelfde voordelen genieten als die welke aan de werknemers worden toegekend bij toepassing van de wetgeving op de arbeidsongevallen en de ongevallen op de weg naar en van het werk, kunnen aanspraak maken op de verplichte homologatie van de overeenkomst betreffende de ingevolge het arbeidsongeval verschuldigde vergoedingen, alsmede op de regeling dat de termijn van herziening slechts vanaf de homologatie of bekrachtiging van de homologatie van de overeenkomst begint te lopen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980622.8": {
+      "court": "CASS",
+      "date": "1998-06-22",
+      "roleNumber": "S970101N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur cohabitant avec un travailleur indépendant auquel il est en mesure d'apporter une aide appréciable, est tenu de déclarer cette cohabitation; le fait que l'Office national a déjà connaissance de cette cohabitation par un dossier concernant la personne avec laquelle le chômeur cohabite, ne peut exonérer celui-ci de l'obligation de déclarer."
+      ],
+      "abstractNL": [
+        "Wanneer een werkloze samenwoont met een zelfstandige die hij aanmerkelijk kan helpen moet hij aangifte doen van dit samenwonen; het feit dat die samenwoning aan de Rijksdienst reeds bekend is uit een dossier van degene waarmee de werkloze samenwoont, kan de verplichting tot aangifte niet opheffen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980126.2": {
+      "court": "CASS",
+      "date": "1998-01-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'Office national de l'emploi ne peut octroyer au chômeur la majoration du montant journalier de base des allocations de chômage prévue par l'article 160, alinéa 2, alinéa 1er, 2°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, que si le chômeur justifie de sa cohabitation avec un conjoint ne disposant ni de revenus professionnels ni de revenus de remplacement."
+      ],
+      "abstractNL": [
+        "De Rijksdienst voor Arbeidsvoorziening kan aan de werkloze alleen een hoger dagelijks basisbedrag van de werkloosheidsuitkeringen toekennen, als bepaald in artikel 160, alinéa 2, eerste lid, 2°, Werkloosheidsbesluit 1963, als de werkloze aantoont dat hij samenwoont met een echtgenoot die noch over beroepsinkomens noch over vervangingsinkomens beschikt."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960624.11": {
+      "court": "CASS",
+      "date": "1996-06-24",
+      "roleNumber": "S950090F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 124, alinéa 1er, 1°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage et de l'article 1er de l'arrêté royal du 8 août 1986 relatif à l'octroi d'allocations d'attente aux jeunes travailleurs qui ont terminé leurs études, on entend par études de plein exercice du cycle secondaire, les études qui ont été suivies dans l'enseignement secondaire de plein exercice dispensé aux élèves réguliers pendant quarante semaines par an à raison d'au moins vingt-huit heures de cours et d'exercices de cinquante minutes par semaine; ces études ne comprennent pas des stages accomplis à l'extérieur de l'établissement scolaire chez des particuliers."
+      ],
+      "abstractNL": [
+        "In de zin van art. 124, 1ste lid, 1°, Werkloosheidsbesluit 1963 en van art. 1, K.B. 8 aug. 1986 betreffende de toekenning van wachtuitkeringen aan jonge werknemers die hun studies beëindigd hebben, wordt verstaan onder studies met een volledig leerplan van de secundaire cyclus, de studies die gevolgd werden in het secundair onderwijs met volledig leerplan dat gedurende veertig weken per jaar naar rato van ten minste achtentwintig wekelijkse lesuren en oefeningen van vijftig minuten aan regelmatige leerlingen wordt verstrekt; die studies omvatten geen buiten de onderwijsinstelling bij particulieren gevolgde stages."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960506.3": {
+      "court": "CASS",
+      "date": "1996-05-06",
+      "roleNumber": "S950078F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/05/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le chômeur n'est pas en mesure d'apporter une aide appréciable au travailleur indépendant avec lequel il cohabite, son absence de déclaration ne donne pas lieu à exclusion, sanction et récupération; cette exception ne peut être invoquée par le chômeur que s'il se trouve dans l'impossibilité d'apporter une aide appréciable au travailleur indépendant et il ne suffit donc pas au chômeur d'établir qu'en fait, il n'apporte pas une telle aide."
+      ],
+      "abstractNL": [
+        "Wanneer een werkloze niet in staat is de zelfstandige met wie hij samenwoont aanmerkelijk te helpen, geeft het feit dat hij van dat samenwonen geen aangifte doet geen aanleiding tot uitsluiting, sanctie en terugvordering; de werkloze kan die uitzondering enkel inroepen wanneer hij in de onmogelijkheid verkeert de zelfstandige aanmerkelijk te helpen en de werkloze kan derhalve niet volstaan met te bewijzen dat hij een dergelijke hulp in feite niet verleent."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950619.4": {
+      "court": "CASS",
+      "date": "1995-06-19",
+      "roleNumber": "S940135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La nullité prévue par l'article 26, alinéa 3, de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier ne frappe que les procès-verbaux qui constatent des infractions aux dispositions pénales concernant l'octroi des allocations de chômage."
+      ],
+      "abstractNL": [
+        "De in art. 26, derde lid, wet van 14 feb. 1961 voor economische expansie, sociale vooruitgang en financieel herstel bedoelde nietigheid heeft alleen betrekking op de processen-verbaal tot vaststelling van overtredingen van de strafbepalingen betreffende de toekenning van de werkloosheidsuitkeringen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950529.16": {
+      "court": "CASS",
+      "date": "1995-05-29",
+      "roleNumber": "S940127F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les mentions apposées par le chômeur sur ses cartes de pointage ne constituent pas une déclaration de cohabitation avec un travailleur indépendant au sens de l'article 128, alinéa 1er, alinéa 1er, 1°, de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "De door de werkloze op zijn controlekaarten aangebrachte vermeldingen zijn geen aangifte van samenwoning met een zelfstandige, in de zin van art. 128, alinéa 1, eerste lid, 1°, Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950529.15": {
+      "court": "CASS",
+      "date": "1995-05-29",
+      "roleNumber": "S940108F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui effectue d'importants travaux de parachèvement à sa propre maison afin de la rendre habitable pour lui-même, n'effectue pas un travail qui peut être intégré dans le courant des échanges économiques de biens et de services et qui n'est pas limité à la gestion normale des biens propres; l'exécution de ces travaux au cours de la période de chômage n'entraîne pas la perte de son droit aux allocations de chômage."
+      ],
+      "abstractNL": [
+        "De werkloze die omvangrijke voltooiingswerken aan de eigen woning uitvoert om ze voor zichzelf bewoonbaar te maken, verricht geen arbeid die ingeschakeld kan worden in het economisch ruilverkeer van goederen en diensten en die niet beperkt is tot het gewone beheer van eigen bezit; door het uitvoeren van die werken gedurende zijn werkloosheid verliest hij zijn aanspraak op werkloosheidsuitkering niet."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950515.8": {
+      "court": "CASS",
+      "date": "1995-05-15",
+      "roleNumber": "S940097F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur est indisponible pour le marché général de l'emploi lorsqu'il soumet sa remise au travail à des réserves telles qu'il n'est plus disponible que pour une certaine catégorie d'emplois convenables."
+      ],
+      "abstractNL": [
+        "Onbeschikbaar voor de algemene arbeidsmarkt is de werkloze die voor de hervatting van de arbeid zodanig voorbehoud maakt dat hij maar voor een deel van passende dienstbetrekkingen beschikbaar is."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950410.7": {
+      "court": "CASS",
+      "date": "1995-04-10",
+      "roleNumber": "S940154N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/04/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Violent l'article 210 de l'arrêté royal du 20 décembre 1963, les juges qui, après avoir décidé que le chômeur n'a travaillé que pendant certains jours et qu'il a agi de bonne foi limite, pour cette raison, la récupération aux jours concernés compris dans les cent cinquante derniers jours précédant la décision administrative litigieuse."
+      ],
+      "abstractNL": [
+        "De rechters die, na te hebben beslist dat de werkloze alleen op bepaalde dagen heeft gewerkt en te goeder trouw handelde, op grond daarvan de terugvordering enkel beperken tot de betreffende dagen vervat in de laatste 150 dagen voorafgaand aan de litigieuze administratieve beslissing, schenden art. 210, Werkloosheidsbesluit van 20 dec. 1963."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950403.9": {
+      "court": "CASS",
+      "date": "1995-04-03",
+      "roleNumber": "S940063F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/04/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de chômage de longue durée, la détermination d'un délai pour l'exercice de la compétence obligatoire de la commission administrative nationale n'empêche pas ladite commission d'exercer sa compétence après l'expiration de ce délai."
+      ],
+      "abstractNL": [
+        "Inzake langdurige werkloosheid staat het vaststellen van een termijn voor de nationale administratieve commissie om haar verplichte bevoegdheid uit te oefenen, niet eraan in de weg dat die commissie haar bevoegdheid na het verstrijken van die termijn uitoefent."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950220.15": {
+      "court": "CASS",
+      "date": "1995-02-20",
+      "roleNumber": "S940042F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 130, alinéa 1er, alinéas 2 et 3, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, dans sa version postérieure à l'arrêté royal du 22 mars 1982 et antérieure à l'arrêté royal du 3 juillet 1985, la décision qui considére qu'un emploi est réputé à temps plein lorsque le travailleur a été occupé pendant vingt-quatre heures par semaine."
+      ],
+      "abstractNL": [
+        "Art. 130, alinéa 1, tweede en derde lid, Werkloosheidsbesluit, zoals het luidde na het KB van 22 maart 1982 en voor het KB van 3 juli 1985, wordt geschonden door de beslissing dat de arbeidsbetrekking wordt geacht voltijds te zijn, wanneer de werknemer gedurende vierentwintig uren per week is tewerkgesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941205.10": {
+      "court": "CASS",
+      "date": "1994-12-05",
+      "roleNumber": "S940026N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur qui a accepté un emploi à temps partiel pour échapper au chômage et qui, dans le cadre de cet emploi, effectue son travail à domicile, ne doit pas remplir les conditions prévues par l'article 148 de l'arrêté royal du 20 décembre 1963 si, avant sa demande d'allocations, il ne travaillait pas à domicile."
+      ],
+      "abstractNL": [
+        "Een werkloze die een deeltijdse arbeidsregeling heeft aanvaard om aan de werkloosheid te ontsnappen en in het kader van die deeltijdse arbeidsregeling zijn arbeid thuis verricht, moet niet voldoen aan de voorwaarden bepaald bij art. 148 Werkloosheidsbesluit van 20 dec. 1963, zo hij vóór zijn aanvraag tot uitkering geen thuisarbeid verrichtte. (Artt. 171octies en 148 Werkloosheidsbesluit 20 dec. 1963)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940912.8": {
+      "court": "CASS",
+      "date": "1994-09-12",
+      "roleNumber": "C930467N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'administration ou l'établissement qui occupe un chômeur mis au travail n'est pas l'employeur de ce chômeur au sens de l'art. 46, alinéa 1er, de la loi du 10 avril 1971 même si ce chômeur effectue un travail sous son autorité. (A.R. 20 décembre 1963, art. 165, al. 3, 166 et 170; 10 avril 1971, art. 46.)"
+      ],
+      "abstractNL": [
+        "Het bestuur of de instelling die een tewerkgestelde werkloze in dienst neemt, is niet de werkgever van die werkloze in de zin van art. 46, alinéa 1, Arbeidsongevallenwet, ook al verricht die werkloze arbeid onder zijn gezag. (Werkloosheidsbesluit 1963, artt. 165, derde lid, 166 en 170; Arbeidsongevallenwet, art. 46.)"
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940328.19": {
+      "court": "CASS",
+      "date": "1994-03-28",
+      "roleNumber": "S930106F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le bénéfice des allocations de chômage risque de faire perdre au chômeur l'avantage constitué par une pension extra-légale mais le bénéfice de celle-ci ne saurait avoir pour effet de rendre son bénéficiaire indisponible pour le marché général de l'emploi. (AR 20 décembre 1963, art. 133, al. 4, 145 et 146, alinéa 1er (Voir A.R. 25 novembre 1991, art. 56, 65, 130 et 178, al. 2))."
+      ],
+      "abstractNL": [
+        "Het voordeel van de werkloosheidsuitkering kan de werkloze het voordeel van een buiten-wettelijk pensioen doen verliezen, maar het voordeel daarvan mag niet tot gevolg hebben dat de begunstigde onbeschikbaar wordt op de algemene arbeidsmarkt. (Artt. 133, 4de lid, 145 en 146, alinéa 1, Werkloosheidsbesluit.)(Zie artt. 56, 65, 130 en 178, tweede lid, K.B. 25 nov. 1991)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940328.17": {
+      "court": "CASS",
+      "date": "1994-03-28",
+      "roleNumber": "9668",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le travailleur qui demande à être admis au bénéfice des allocations de chômage effectue pour son propre compte un travail qui peut être intégré dans le courant des échanges économiques de biens et de services et qui n'est pas limité à la gestion normale des biens propres, il n'incombe pas à l'Office national de l'emploi d'apporter la preuve que le travailleur effectue ce travail pendant son chômage (A.R. 20 décembre 1963, art. 126, al. 1er, 1° et 2°, b.)"
+      ],
+      "abstractNL": [
+        "Wanneer de werknemer, die aanspraak maakt op werkloosheidsuitkeringen, voor zichzelf arbeid verricht die ingeschakeld kan worden in het economisch ruilverkeer van goederen en diensten en die niet beperkt is tot het gewone beheer van eigen bezit, staat het niet aan de Rijksdienst voor Arbeidsvoorziening het bewijs te leveren dat de werknemer die arbeid tijdens zijn werkloosheid verricht (Art. 126, 1ste lid, 1° en 2°, b, (Zie artt. 44 en 45, eerste lid, 1°, K.B. 25 nov. 1991) Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930621.12": {
+      "court": "CASS",
+      "date": "1993-06-21",
+      "roleNumber": "8215",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/06/21/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Pour décider que le chômage se prolonge d'une manière anormale, il faut uniquement tenir compte des critères à prendre en considération au cours de la période de chômage précédant la décision d'exclusion. (A.R. 20 décembre 1963, art. 143, modifié par l'A.R. 4 juin 1985, actuellement art 80 et s. de l'A.R. 25 novembre 1991)"
+      ],
+      "abstractNL": [
+        "Om te oordelen of de werkloosheid abnormaal lang duurt, mag alleen rekening worden gehouden met de in aanmerking te nemen criteria over de periode van werkloosheid die aan de beslissing tot uitsluiting voorafgaat. (Art. 143, Werkloosheidsbesluit 20 dec. 1963, gew. K.B. 4 juni 1985, thans artt. 8 e.v. Werkloosheidsbesluit 25 november 1991)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930510.6": {
+      "court": "CASS",
+      "date": "1993-05-10",
+      "roleNumber": "9647",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En règle, pour l'application de l'article 160, alinéa 2, alinéa 1er, 3°, c, de l'arrêté royal du 20 décembre 1963, qui détermine le montant des allocations de chômage de certains travailleurs ayant charge de famille, il y a lieu d'entendre par cohabitation le fait pour deux ou plusieurs personnes ayant un ménage commun de vivre ensemble sous le même toit; la cohabitation suppose une situation de fait et la circonstance que ces personnes sont inscrites à la même adresse dans les registres de population n'est pas décisive. (A.R. 20 décembre 1963, art. 160, alinéa 2, al. 1er, 3°, c)"
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 160, alinéa 2, eerste lid, 3°, c, Werkloosheidsbesluit, waarbij het bedrag wordt vastgesteld van de werkloosheidsuitkeringen van bepaalde werknemers met gezinslasten, dient in de regel onder \"samenwonen\" te worden verstaan, het onder hetzelfde dak samenleven van twee of meer personen die een gemeenschappelijke huishouding hebben; \"samenwonen\" onderstelt een feitelijke toestand en de omstandigheid dat die personen in de bevolkingsregisters op hetzelfde adres zijn ingeschreven, is niet doorslaggevend. (Art. 160, alinéa 2, eerste lid, 3°, c, Werkloosheidsbesluit)"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920427.11": {
+      "court": "CASS",
+      "date": "1992-04-27",
+      "roleNumber": "9226",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La mesure d'exclusion du bénéfice des allocations de chômage et la limitation relative à la récupération des allocations de chômage indûment perçues sont régies par des dispositions propres. ( A.R. du 20 décembre 1963, art. 126, 128 et 210. )"
+      ],
+      "abstractNL": [
+        "De ontzegging van het recht op werkloosheidsuitkering en de beperking van de terugvordering van de onrechtmatig ontvangen werkloosheidsuitkeringen worden door eigen bepalingen geregeld. ( Artt. 126, 128 en 210 Werkloosheidsbesluit van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920113.15": {
+      "court": "CASS",
+      "date": "1992-01-13",
+      "roleNumber": "9194",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/01/13/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Les cartes de contrôle du chômeur et ses déclarations lors d'une audition par les services de l'inspecteur régional du chômage ne constituent pas une déclaration d'un évènement entraînant une modification du dossier administratif, que le chômeur est tenu de remettre dans un délai déterminé, sur le formulaire réglementairement prescrit, à son organisme de payement. ( A.R. du 20 décembre 1963, art. 186, 189 et 190; A.M. du 4 juin 1964, art. 103 et 104. )"
+      ],
+      "abstractNL": [
+        "De controlekaarten van de werkloze en zijn verklaringen tijdens een verhoor door de diensten van de gewestelijk werkloosheidsinspecteur zijn geen wijzigingsaangifte van een gebeurtenis die een wijziging van het administratief dossier tot gevolg heeft, die de werkloze binnen een bepaalde termijn p een voorgeschreven formulier bij zijn uitbetalingsinstelling moet indienen. ( Artt. 186, 189 en 190, Werkloosheidsbesluit; artt. 103 en 104, M.B. van 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920113.16": {
+      "court": "CASS",
+      "date": "1992-01-13",
+      "roleNumber": "9204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/01/13/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut naître qu'à la date de la demande d'allocations et ne peut être apprécié qu'à cette date. ( A.R. du 20 décembre 1963, art. 185. )"
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan eerst met de datum van de aanvraag om uitkering ontstaan en pas vanaf de aanvraag worden beoordeeld. ( Art. 185, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911125.15": {
+      "court": "CASS",
+      "date": "1991-11-25",
+      "roleNumber": "9185",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/25/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Par terminaison des études ininterrompues après le 31 mai 1983, au sens de l'article 2, alinéa 1er, de l'arrêté royal du 12 avril 1983, on entend la terminaison des études qui étaient en cours après le 31 mai 1983. ( A.R. du 20 décembre 1963, art. 124. )"
+      ],
+      "abstractNL": [
+        "Onder beëindiging van ononderbroken studie na 31 mei 1983, in de zin van art. 2, eerste lid, K.B. van 12 april 1983, wordt verstaan de beëindiging van na 31 mei 1983 nog niet voltooide studie. ( Art. 124 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911125.18": {
+      "court": "CASS",
+      "date": "1991-11-25",
+      "roleNumber": "9167",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/25/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "En règle, le statut personnel du mineur de nationalité étrangère s'applique en matière d'obligation scolaire et, partant, en matière de travail et de chômage. ( Loi du 29 juin 1983, art. 1er; A.R. du 20 décembre 1963, art. 144; Loi du 16 mars 1971, art. 6. )"
+      ],
+      "abstractNL": [
+        "In de regel is het personeel statuut van de minderjarige met vreemde nationaliteit van toepassing inzake leerplicht en derhalve inzake arbeid en werkloosheid. ( Art. 1, Wet van 29 juni 1983; art. 144, Werkloosheidsbesluit; art. 6, Arbeidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911028.6": {
+      "court": "CASS",
+      "date": "1991-10-28",
+      "roleNumber": "7560",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/28/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'art. 174, alinéa 4, 8°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, aux termes duquel le chômeur ne doit pas être entendu préalablement à la décision de refus au droit aux allocations de chômage, en application de l(article 171octies, ne s'applique pas au chômeur qui ne satisfait pas aux conditions, prévues par l'article 171ter, alinéa 2, pour être réputé avoir accepté du travail à temps partiel afin d'échapper au chômage."
+      ],
+      "abstractNL": [
+        "Art. 174, vierde lid, 8°, Werkloosheidsbesluit, volgens hetwelk de werkloze niet moet worden gehoord alvorens hem het recht op werkloosheidsuitkering wordt ontzegd met toepassing van art. 171octies, is niet toepasselijk op de werknemer die niet voldoet aan de door art. 171ter, alinéa 2, bepaalde voorwaarden om te worden geacht deeltijdarbeid te hebben aanvaard om aan de werkloosheid te ontsnappen."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911021.9": {
+      "court": "CASS",
+      "date": "1991-10-21",
+      "roleNumber": "9105",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/21/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les compétences attribuées aux agents du bureau régional du chômage par les articles 22 de la loi du 14 février 1961 et 173 de l'arrêté royal du 20 décembre 1963, dans leur version applicable en 1985, n'autorisent pas la police communale à informer ces agents de l'existence d'un procès-verbal constatant une infraction à la loi pénale, telle l'ivresse publique, étrangère aux dispositions pénales concernant l'octroi des allocations de chômage, cette infraction fût-elle susceptible de constituer d'autre part une infraction au sens de l'article 198, alinéa 1er, 1°, actuellement abrogé, dudit arrêté royal, pouvant donner lieu à une sanction administrative à l'époque des faits."
+      ],
+      "abstractNL": [
+        "De bevoegdheden die bij de in 1985 toepasselijke tekst van artt. 22 wet van 14 februari 1961 en 173 Werkloosheidsbesluit aan de personeelsleden van het Gewestelijk bureau zijn toegekend, houden niet in dat de gemeentepolitie gemachtigd is om die personeelsleden in te lichten nopens het bestaan van een proces-verbaal tot vaststelling van een overtreding van de strafwet, zoals openbare dronkenschap, die geen betrekking heeft op de strafbepalingen inzake toekenning van werkloosheidsuitkeringen, ook al kan die overtreding overigens een overtreding opleveren in de zin van het thans opgeheven art. 198, eerste lid, 1°, van voormeld koninklijk besluit, waarvoor ten tijde van de feiten een administratieve sanctie kon worden opgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911014.12": {
+      "court": "CASS",
+      "date": "1991-10-14",
+      "roleNumber": "7542",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui a été entendu préalablement à la décision de refus ou de limitation du droit aux allocations de chômage, ne doit pas être réentendu lorsque, après l'audition, le bureau régional procède à d'autres enquêtes relatives aux faits sur lesquels se fonde la décision. ( A.R. du 20 décembre 1963, art. 174. )"
+      ],
+      "abstractNL": [
+        "De werkloze die vóór de beslissing tot ontzegging of beperking van het recht op werkloosheidsuitkering is gehoord, moet niet opnieuw worden gehoord, wanneer het gewestelijk bureau na het verhoor nog verdere onderzoekingen verricht ter zake van feiten waarop de beslissing berust. ( Art. 174 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911014.13": {
+      "court": "CASS",
+      "date": "1991-10-14",
+      "roleNumber": "7543",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/14/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui cohabite avec un aidant d'un travailleur indépendant n'a pas droit aux allocations de chômage, s'il n'en fait pas la déclaration, à moins qu'il ne soit pas en mesure d'apporter un aide appréciable à l'aidant. ( A.R. du 20 décembre 1963, art. 128, alinéa 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "De werkloze die met een helper van een zelfstandige samenwoont, heeft geen recht op werkloosheidsuitkering zo hij daarvan geen aangifte doet, tenzij hij niet in staat is de helper aanmerkelijk te helpen. ( Art. 128, alinéa 1, 1°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911007.7": {
+      "court": "CASS",
+      "date": "1991-10-07",
+      "roleNumber": "9205",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 126, alinéa 4, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, constitue un travail effectué pour le compte d'un tiers devant faire l'objet d'une déclaration préalable pour être considéré comme une activité non rémunérée, toute activité ayant un caractère productif et qui est exercée pour le compte d'un tiers dans le cadre de relations sociales, indépendamment du fait qu'elle ait été accomplie à titre de service d'ami ou de délassement."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 126, vierde lid, Werkloosheidsbesluit is arbeid voor een derde, waarvan vooraf aangifte moet worden gedaan om als activiteit zonder loon te worden beschouwd, elke werkzaamheid met produktief karakter die voor een derde wordt verricht in het maatschappelijk verkeer, ongeacht of zij als vriendendienst dan wel als tijdverdrijf wordt verricht."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910603.11": {
+      "court": "CASS",
+      "date": "1991-06-03",
+      "roleNumber": "9086",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/03/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur complet qui redevient apte au travail après une période de maladie et qui introduit une déclaration personnelle de chômage n'est pas en règle dispensé d'introduire en outre une déclaration d'aptitude physique dans le délai réglementaire; la dispense éventuelle doit lui être accordée par l'inspecteur régional. ( A.R. du 20 décembre 1963, art. 189; A.M. du 4 juin 1964, art. 84, 5° et 6°, 87 et 93, alinéa alinéa 2 et 3. )"
+      ],
+      "abstractNL": [
+        "Een volledig werkloze die na een ziekteperiode opnieuw arbeidsgeschikt wordt en een persoonlijke werkloosheidsverklaring indient, is in de regel niet vrijgesteld van de verplichting om bovendien binnen de voorgeschreven termijn een verklaring van lichamelijke geschiktheid in te dienen; vrijstelling dient hem eventueel door de gewestelijke inspecteur te worden toegekend. ( Art. 189 Werkloosheidsbesluit van 20 december 1963; artt. 84, 5° en 6°, 87 en 93, alinéa alinéa 2 en 3, M.B. van 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910513.9": {
+      "court": "CASS",
+      "date": "1991-05-13",
+      "roleNumber": "9077",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/05/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 133, alinéa 4, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, fixant la date à partir de laquelle le chômeur n'est pas admis au bénéfice des allocations de chômage parce qu'il refuse d'accepter un emploi convenable, n'est pas applicable lorsque le chômeur n'est pas admis au bénéfice des allocations sur la base de l'article 131, alinéa 1er, dès lors qu'il n'est pas valablement inscrit comme demandeur d'emploi."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 133, vierde lid, Werkloosheidsbesluit van 20 december 1963, die vaststelt vanaf welke datum het recht op werkloosheidsuitkering op grond van dat artikel wordt ontzegd wegens weigering van een passende dienstbetrekking, is niet toepasselijk wanneer het recht op uitkering op grond van art. 131, alinéa 1, wordt ontzegd, omdat de werkloze niet geldig als werkzoekende is ingeschreven."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910429.11": {
+      "court": "CASS",
+      "date": "1991-04-29",
+      "roleNumber": "9046",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/29/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "En cas de chômage dû à un abandon de travail, les circonstances prévisibles de longue date ne sont pas exclues des considérations d'ordre familial qui constituent un empêchement grave et qui influencent dès lors le caractère convenable de l'emploi abandonné. ( A.R. du 20 décembre 1963, art. 126, 134, alinéa 2, 1°, et 133; A.M. du 4 juin 1964, art. 46, 1°. )"
+      ],
+      "abstractNL": [
+        "In geval van werkloosheid wegens werkverlating worden de reeds lang voorzienbare omstandigheden niet uitgesloten uit de overwegingen van familiale aard die een zwaar beletsel vormen en derhalve invloed hebben op het passend karakter van de verlaten dienstbetrekking. ( Art. 126, 134, tweede lid, 1°, en 133, Werkloosheidsbesluit van 20 december 1963; art. 46, 1°, M.B. van 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910422.17": {
+      "court": "CASS",
+      "date": "1991-04-22",
+      "roleNumber": "7435",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'inspecteur du chômage refuse au chômeur qui est indisponible pour le marché général de l'emploi le bénéfice des allocations de chômage dans le délai d'un mois à dater du jour où il a eu connaissance de l'état d'indisponibilité, sa décision ne produit pas ses effets à partir du lundi qui suit sa notification, l'inspecteur eût-il été averti avec retard de l'état d'indisponibilité par le service de placement. ( A.R. du 20 décembre 1963, art. 133, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "Wanneer de werkloosheidsinspecteur de werkloze die onbeschikbaar voor de arbeidsmarkt is, het recht op werkloosheidsuitkering ontzegt binnen de maand nadat hij kennis heeft genomen van de onbeschikbaarheid, heeft zijn beslissing geen uitwerking vanaf de maandag na de kennisgeving ervan, ook al heeft de arbeidsbemiddelaar de inspecteur met vertraging op de hoogte gebracht van de onbeschikbaarheid. ( Art. 133, vierde lid, Werkloosheidsbesluit van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910304.10": {
+      "court": "CASS",
+      "date": "1991-03-04",
+      "roleNumber": "7373",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/03/04/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'exclusion du droit aux allocations de chômage par les motifs que le travailleur n'est pas devenu chômeur par suite de circonstances indépendantes de sa volonté, ne requiert pas que celui qui est devenu chômeur par son propre fait, ait eu la volonté de devenir chômeur. ( A.R. du 20 décembre 1963, art. 126, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Om aanspraak op werkloosheidsuitkering te ontzeggen op grond dat de werknemer niet werkloos is wegens omstandigheden onafhankelijk van zijn wil, is niet vereist dat hij die werkloos is geworden door eigen schuld of toedoen, daarbij de wil heeft gehad werkloos te worden. ( Art. 126, eerste lid, 1°, Werkloosheidsbesluit van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910114.16": {
+      "court": "CASS",
+      "date": "1991-01-14",
+      "roleNumber": "8974",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/14/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "La période de travail comme salarié ou d'inscription comme demandeur d'emploi, dont l'expiration doit précéder la demande d'admission du jeune travailleur au bénéfice des allocations de chômage ne prend cours qu'après que celui-ci a cessé de suivre des études supérieures de plein exercice et déposé éventuellement un mémoire si de telles études ont été entreprises à la fin des études de plein exercice du cycle secondaire supérieur. ( A.R. du 20 décembre 1963, art. 124, alinéa 1er, 1°, 2° et 3°. )"
+      ],
+      "abstractNL": [
+        "De periode van arbeid in loondienst of inschrijving als werkzoekende, die moet verstreken zijn voor de aanvraag van de jonge werknemer tot het verkrijgen van werkloosheidsuitkering, begint pas te lopen nadat hij is gestopt met het volgen van hogere studie met volledig leerplan en eventueel een scriptie heeft neergelegd, als dergelijke studie is aangevat bij het einde van de studie met een volledig leerplan van de hogere secundaire cyclus. ( Art. 124, eerste lid, 1°, 2° en 3°, Werkloosheidsbesluit van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910107.11": {
+      "court": "CASS",
+      "date": "1991-01-07",
+      "roleNumber": "7264",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 151, 2°, de l'arrêté royal du 20 décembre 1963, aux termes duquel les allocations de chômage ne sont pas octroyées pour les jours ouvrables habituellement chômés en raison des usages du secteur, de la région, du lieu ou de l'entreprise, aussi longtemps que le travailleur reste engagé dans les liens d'un contrat de travail, un établissement d'enseignement est une entreprise."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 151, 2°, Werkloosheidsbesluit van 20 december 1963, volgens hetwelk geen werkloosheidsuitkering wordt toegekend voor de werkdagen waarop gewoonlijk niet wordt gewerkt ten gevolge van de gebruiken in de sector, de streek, de plaats of de onderneming, zolang de werknemer door een arbeidsovereenkomst verbonden blijft, is een onderwijsinstelling een onderneming."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901022.11": {
+      "court": "CASS",
+      "date": "1990-10-22",
+      "roleNumber": "8809",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui, après une période de chômage partiel pour intempéries, a repris normalement le travail chez son employeur ne doit, préalablement à l'exercice de son activité professionnelle, ni biffer les cases de son certificat de chômage partiel tenant lieu de carte de contrôle, qui correspondent aux journées de travail postérieures à la journée de reprise normale de celui-ci, ni faire parapher la biffure par son employeur. ( Arrêté royal du 20 décembre 1963, art. 131, alinéa 1er, alinéa 3; 153, alinéa 4, alinéa 1er; 188, alinéa 2 et 3; et 195, alinéa 3. Loi du 3 juillet 1978, art. 50. )"
+      ],
+      "abstractNL": [
+        "De werknemer die, na een periode van gedeeltelijke werkloosheid wegens slecht weder, de arbeid bij zijn werkgever normaal heeft hervat, behoeft vooraleer hij zijn beroepsactiviteit hervat op zijn als controlekaart geldend bewijs van gedeeltelijke werkloosheid de vakjes die overeenkomen met de arbeidsdagen na de dag waarop de arbeid is hervat, niet te schrappen, en evenmin die schrapping te laten paraferen. ( Artt. 131, alinéa 1, derde lid, 153, alinéa 4, eerste lid, 188, tweede en derde lid, en 195, derde lid, Werkloosheidsbesluit; art. 50, Arbeidsovereenkomstenwet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901022.13": {
+      "court": "CASS",
+      "date": "1990-10-22",
+      "roleNumber": "8860",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/22/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui, à la fin d'une période de chômage complet, reprend normalement le travail chez un nouvel employeur doit, préalablement à l'exercice de son activité professionnelle, biffer la case de sa carte de contrôle, qui correspond à la journée de reprise normale du travail et faire parapher la biffure par son nouvel employeur. ( Arrêté royal du 20 décembre 1963, art. 131, alinéa 1er, alinéa 2; 153, alinéa 4, alinéa 1er; et 195, alinéa 3. )"
+      ],
+      "abstractNL": [
+        "De werknemer die, na een periode van volledige werkloosheid, de arbeid bij een nieuwe werknemer normaal hervat, moet alvorens met zijn beroepsactiviteit te beginnen, op zijn controlekaart het vakje schrappen, dat overeenkomt met de dag waarop de arbeid normaal is hervat, en de schrapping door zijn nieuwe werkgever laten paraferen. ( Artt. 131, alinéa 1, tweede lid, 153, alinéa 4, eerste lid, en 195, derde lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901008.9": {
+      "court": "CASS",
+      "date": "1990-10-08",
+      "roleNumber": "8900",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Un engagement d'apprentissage contrôlé concernant la formation permanente dans les classes moyennes est un contrat d'apprentissage au sens de l'article 124, alinéa 1er, 1°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage."
+      ],
+      "abstractNL": [
+        "Een gecontroleerde leerverbintenis inzake voortdurende vorming in de middenstand is een leerovereenkomst in de zin van artikel 124, eerste lid, 1°, Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901008.10": {
+      "court": "CASS",
+      "date": "1990-10-08",
+      "roleNumber": "8793",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dans la version de ces dispositions réglementaires applicables en 1983, le travailleur qui remplit la condition d'emploi à temps réduit assimilé à un emploi à temps plein par l'article 130, alinéa 2, alinéa 1er, 2°, in fine, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage n'est pas dispensé de l'obligation de satisfaire aux règles relatives à la durée journalière des prestations de travail prévues par les articles 121, alinéa 1er, alinéa 2, 1°, du même arrêté royal et 4, alinéa 2, 18 et 19 de l'arrêté ministériel du 4 juin 1964 relatif au chômage."
+      ],
+      "abstractNL": [
+        "Volgens de in 1983 toepasselijke verordeningsbepalingen is de werknemer die voldoet aan de voorwaarde dat zijn onvolledige dienstbetrekking overeenkomstig art. 130, alinéa 2, eerste lid, 2°, in fine, Werkloosheidsbesluit gelijk te stellen is met een volledige dienstbetrekking, niet vrijgesteld van de verplichting om de regels in acht te nemen inzake de dagelijkse duur van de arbeidsprestaties, als bedoeld in de artt. 121, alinéa 1, tweede lid, 1°, van hetzelfde besluit en 4, tweede lid, 18 en 19 van het ministerieel besluit van 4 juni 1964 inzake werkloosheid."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900618.15": {
+      "court": "CASS",
+      "date": "1990-06-18",
+      "roleNumber": "7106",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/18/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "N'est pas chômeur par suite de circonstances indépendantes de sa volonté, le travailleur qui reste lié à son employeur par un contrat de travail, mais qui ne l'exécute pas alors qu'il est apte au travail. ( Arr. roy. du 20 décembre 1963, article 126, alinéa 1er, 1. )"
+      ],
+      "abstractNL": [
+        "Niet werkloos wegens omstandigheden onafhankelijk van zijn wil is de werknemer die met zijn werkgever verbonden blijft door een arbeidsovereenkomst, maar deze niet uitvoert hoewel hij arbeidsgeschikt is. ( Art. 126, eerste lid, 1, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900528.15": {
+      "court": "CASS",
+      "date": "1990-05-28",
+      "roleNumber": "7072",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/28/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, les jeunes travailleurs ont droit aux allocations de chômage à condition notamment qu'ils aient terminé certaines études dans un établissement d'enseignement organisé, reconnu ou subventionné par l'Etat; cette condition n'est pas remplie en cas d'obtention d'un diplôme étranger dont l'équivalence avec un diplôme belge a été reconnue, mais qui a été délivré par un établissement d'enseignement étranger qui n'est pas organisé, reconnu ou subventionné par l'Etat belge."
+      ],
+      "abstractNL": [
+        "Krachtens art. 124 Werkloosheidsbesluit zijn jonge werknemers gerechtigd op werkloosheidsuitkering op voorwaarde o.m. dat zij bepaalde studies hebben beëindigd in een onderwijsinrichting die door de Staat is opgericht, erkend of gesubsidieerd; aan die vereiste is niet voldaan, wanneer een buitenlands diploma werd behaald dat als gelijkwaardig met een Belgisch diploma wordt erkend, maar dat werd afgeleverd door een buitenlandse onderwijsinrichting die niet door de Belgische Staat is opgericht, erkend of gesubsidieerd."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900521.16": {
+      "court": "CASS",
+      "date": "1990-05-21",
+      "roleNumber": "8361",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/21/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "En application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, les jeunes travailleurs marocains qui ont terminé leurs études ne peuvent prétendre à la qualité de bénéficiaires des allocations de chômage. ( Convention générale du 24 juin 1968 sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, art. 1er, 2, alinéa 1er, 2, f, et 36; Arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, art. 124 et 125. )"
+      ],
+      "abstractNL": [
+        "Jonge Marokkaanse werknemers die hun studie beëindigd hebben, kunnen geen aanspraak maken op de hoedanigheid van gerechtigde op werkloosheidsuitkeringen met toepassing van art. 124 Werkloosheidsbesluit. ( Artt. 1, 2, alinéa 1, 2, f, en 36 Sociale-Zekerheidsverdrag 24 juni 1968 met Marokko; artt. 124 en 125 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900514.10": {
+      "court": "CASS",
+      "date": "1990-05-14",
+      "roleNumber": "7045",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 11 mars 1977 (*), prévoyant un délai de prescription pour la récupération d'allocations de chômage perçues indûment, ne s'applique pas à la récupération décidée définitivement avant l'entrée en vigueur de la loi, soit le 30 juin 1985."
+      ],
+      "abstractNL": [
+        "De wet van 11 maart 1977 (*), die een verjaringstermijn invoert voor terugvordering van onrechtmatig ontvangen werkloosheidsuitkeringen, is niet toepasselijk op de terugvordering waartoe definitief was beslist vóór de inwerkingtreding van de wet d.i. 30 juni 1985."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900430.5": {
+      "court": "CASS",
+      "date": "1990-04-30",
+      "roleNumber": "6991",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/04/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur ne peut être considéré comme étant indisponible pour le marché général de l'emploi et, dès lors, comme n'étant pas disposé à accepter tout emploi convenable, par le seul motif qu'il a abandonné son emploi sans motif légitime. ( Arr. roy. du 20 décembre 1963, art. 133, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "De werkloze kan niet worden geacht onbeschikbaar voor de algemene arbeidsmarkt te zijn en dus niet bereid te zijn elke passende dienstbetrekking te aanvaarden, op de enkele grond dat hij zijn werk zonder wettige reden heeft verlaten. ( Art. 133, vierde lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900312.6": {
+      "court": "CASS",
+      "date": "1990-03-12",
+      "roleNumber": "6944",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut être refusé en application de l'article 146, alinéa 1er, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, à une veuve qui bénéficie d'une pension de survie à charge du Trésor, par les motifs que l'article 42 de la loi du 5 août 1978 et l'arrêté royal n° 30 du 30 mars 1982 subordonnent le droit à cette pension à l'interdiction de travailler si ce n'est de manière réduite."
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan met toepassing van art. 146, alinéa 1, Werkloosheidsbesluit niet worden ontzegd aan een weduwe die een overlevingspensioen ten laste van de Schatkist geniet, op grond dat art. 42 wet van 5 augustus 1978 en K.B. nr. 30 van 30 maart 1982 het recht op dat pensioen afhankelijk maken van de voorwaarde geen arbeid of maar in beperkte mate arbeid te verrichten."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900130.6": {
+      "court": "CASS",
+      "date": "1990-01-30",
+      "roleNumber": "3339",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 261, 5° de l'arrêté royal du 20 décembre 1963 requiert expressément l'intention frauduleuse pour que les peines correctionnelles, prévues par cet article, soient applicables au travailleur qui, en vertu des dispositions des articles 153, alinéa 4, et 195, alinéa 3, de cet arrêté, est censé avoir obtenu indûment l'estampillage de sa carte de contrôle; la non-observation dudit article 153, alinéa 4, comme tel n'implique pas cette intention frauduleuse."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 261, 5° Werkloosheidsbesluit stelt het bedrieglijk oogmerk uitdrukkelijk als vereiste voor de toepasselijkheid van de in dat artikel vastgestelde correctionele straffen op de werknemer die, krachtens de bepalingen van de artt. 153, alinéa 4 en 195, derde lid, geacht wordt op onrechtmatige wijze zijn controlekaart te hebben laten afstempelen; het niet naleven van dat artikel 153, alinéa 4, onderstelt als zodanig niet dat bedrieglijk oogmerk."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890925.9": {
+      "court": "CASS",
+      "date": "1989-09-25",
+      "roleNumber": "6658",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/25/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui, conformément à la procédure prévue à l'article 38 de l'arrêté ministériel du 4 juin 1964, a été déclaré physiquement apte à accepter un emploi offert, peut contester son aptitude devant les juridictions du travail. ( Arr. roy. du 20 décembre 1963, art. 133 et 134, alinéa 2, 3°. )"
+      ],
+      "abstractNL": [
+        "De werkloze die overeenkomstig de procedure bepaald in art. 38 M.B. 4 juni 1964 lichamelijk geschikt wordt verklaard om een aangeboden dienstbetrekking te aanvaarden, kan zijn geschiktheid voor de arbeidsgerechten betwisten. ( Artt. 133 en 134, tweede lid, 3°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890410.15": {
+      "court": "CASS",
+      "date": "1989-04-10",
+      "roleNumber": "8417",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le transfert de la rémunération, à l'intervention de l'organisme officiel visé à l'article 2 des arrêtés royaux successifs accordant une indemnité aux travailleurs frontaliers occupés en France en vue de compenser la perte de rémunération résultant des fluctuations du taux de change entre les monnaies belge et française, est une condition d'octroi de cette indemnité compensatoire. ( Arrêté-loi du 28 décembre 1944, art. 7, alinéa 1er, j; arr. roy. du 20 décembre 1963, art. 178 et 181; art. 2 des arr. roy. des 31 octobre 1979, 10 décembre 1980, 30 décembre 1981, 28 décembre 1982, 1er avril 1983, 12 janvier 1984, 14 février 1985, 24 décembre 1985 et 4 juin 1986.)"
+      ],
+      "abstractNL": [
+        "De transfer van het loon door toedoen van de officiële instelling bedoeld in art. 2 van de opeenvolgende koninklijke besluiten houdende toekenning van een vergoeding aan de in Frankrijk tewerkgestelde grensarbeiders tot compensatie van de loonderving voortvloeiend uit de schommelingen van de wisselkoers tussen de Belgische en de Franse munt is een voorwaarde tot toekenning van die compensatievergoeding. ( Art. 7, alinéa 1, j, Besluitwet van 28 december 1944; artt. 178 en 181 Werkloosheidsbesluit; art. 2 K.B.'s van 31 oktober 1979, 10 december 1980, 30 december 1981, 28 december 1982, 1 april 1983, 12 januari 1984, 14 februari 1985, 24 december 1985 en 4 juni 1986. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890403.8": {
+      "court": "CASS",
+      "date": "1989-04-03",
+      "roleNumber": "6480",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'Office national de l'emploi est débiteur de l'allocation de chômage et non l'organisme de paiement. ( Arrêté-loi du 28 décembre 1944, art. 7, alinéa alinéa 1er et 2; arr. roy. du 20 décembre 1963, artt. 172, 175, 178, 184, 208, 209, 211 et 216. )"
+      ],
+      "abstractNL": [
+        "Niet de uitbetalingsinstelling maar de Rijksdienst voor Arbeidsvoorziening is schuldenaar van de werkloosheidsuitkering. ( Art. 7, alinéa alinéa 1 en 2, besluitwet 28 december 1944; artt. 172, 175, 178, 184, 208, 209, 211 en 216 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890130.6": {
+      "court": "CASS",
+      "date": "1989-01-30",
+      "roleNumber": "6413",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les allocations de chômage au bénéfice desquelles est admis un chômeur qui est occupé par une association sans but lucratif, en application de l'article 161 de l'arrêté royal du 20 décembre 1963, sont dues par l'association sans but lucratif et non par l'Office national de l'Emploi. ( Art. 170 bis de l'arrêté royal du 20 décembre 1963. )"
+      ],
+      "abstractNL": [
+        "De werkloosheidsuitkering waarop een werkloze die met toepassing art. 161 Werkloosheidsbesluit tewerkgesteld is door een V.Z.W., aanspraak heeft, is verschuldigd door de V.Z.W. en niet door de Rijksdienst voor Arbeidsvoorziening. ( Art. 170 bis Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881024.15": {
+      "court": "CASS",
+      "date": "1988-10-24",
+      "roleNumber": "6282",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le jeune travailleur prévu à l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage qui n'était pas occupé en qualité de travailleur salarié au cours de la période précédant la demande d'allocations de chômage, ne conserve pas son droit aux allocations lorsqu'il effectue un travail pour le compte d'un tiers alors qu'il ne l'effectuait pas avant sa demande. ( Arr. roy. du 20 décembre 1963, art. 128, alinéa 1er, 4°. )"
+      ],
+      "abstractNL": [
+        "De in art. 124 Werkloosheidsbesluit bedoelde jonge werknemer die tijdens de periode vóór de aanvraag om werkloosheidsuitkering niet als werknemer was tewerkgesteld, behoudt zijn aanspraak op uitkering niet, wanneer hij arbeid voor een derde verricht die hij vóór zijn aanvraag niet verrichtte. ( Art. 128, alinéa 1, 4°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881024.14": {
+      "court": "CASS",
+      "date": "1988-10-24",
+      "roleNumber": "6274",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/24/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 126, alinéa 4, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, constitue un travail effectué pour le compte d'un tiers devant faire l'objet d'une déclaration préalable pour être considéré comme une activité non rémunérée, toute activité ayant un caractère productif et qui est exercée pour le compte d'un tiers dans le cadre de relations sociales, indépendamment du fait qu'elle ait été accomplie à titre de service d'amis ou de délassement."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 126, vierde lid, Werkloosheidsbesluit is arbeid voor een derde waarvan vooraf aangifte moet worden gedaan om als activiteit zonder loon te worden beschouwd, elke werkzaamheid met produktief karakter die voor een derde wordt verricht in het maatschappelijk verkeer, ongeacht of zij als vriendendienst of tijdverdrijf wordt verricht."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881010.13": {
+      "court": "CASS",
+      "date": "1988-10-10",
+      "roleNumber": "6236",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/10/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les allocations d'attente octroyées, en vertu de l'arrêté royal du 30 mars 1982, ne constituent pas des allocations de chômage pour l'application de l'article 160, alinéa 3, alinéa 3, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, modifié par l'arrêté royal du 27 avril 1984, qui accorde une majoration de l'allocation de chômage aux chômeurs mariés."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 160, alinéa 3, derde lid, Werkloosheidsbesluit, als gewijzigd bij K.B. 27 april 1984, dat een verhoging van de werkloosheidsuitkering toekent aan gehuwde werklozen, zijn wachtuitkeringen, verleend krachtens K.B. 30 maart 1982, geen werkloosheidsuitkeringen."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881010.9": {
+      "court": "CASS",
+      "date": "1988-10-10",
+      "roleNumber": "6263",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur indemnisé dont l'indemnisation a été interrompue et qui a perdu la qualité de bénéficiaire en application d'une législation antérieure, ne peut, lors d'une nouvelle demande d'allocations de chômage sous le régime d'une nouvelle réglementation, prétendre au maintien de cette qualité. ( Code civil art. 2, et arr. roy. du 20 décembre 1963, art. 123, alinéa 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "De uitkeringsgerechtigde werkloze wiens uitkeringen werden onderbroken en die met toepassing van een vroegere regeling de hoedanigheid van gerechtigde heeft verloren, kan bij een nieuwe aanvraag onder de gelding van een nieuwe regeling geen aanspraak maken op het behoud van die hoedanigheid. ( Artt. 2 Burgerlijk Wetboek en 123, alinéa 1, 1°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880615.11": {
+      "court": "CASS",
+      "date": "1988-06-15",
+      "roleNumber": "6172",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/15/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "En application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, les jeunes travailleurs marocains qui ont terminé leurs études ne peuvent prétendre à la qualité de bénéficiaires des allocations de chômage. ( Convention générale du 24 juin 1968 sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, art. 1er, 2, alinéa 1.2, f et 36; Arr. roy. du 20 décembre 1963, art. 125. )"
+      ],
+      "abstractNL": [
+        "Jonge Marokkaanse werknemers die hun studies beëindigd hebben, kunnen geen aanspraak maken op de hoedanigheid van gerechtigde op werkloosheidsuitkering met toepassing van art. 124 Werkloosheidsbesluit. ( Artt. 1, 2, alinéa 1.2, f, en 36 Sociale-zekerheidsverdrag 24 juni 1968 met Marokko; art. 125 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880516.10": {
+      "court": "CASS",
+      "date": "1988-05-16",
+      "roleNumber": "8286",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 142, alinéa 2 et alinéa 3, de l'arrêté royal du 20 décembre 1963 qui prévoit que lorsque le travailleur est reconnu apte au travail il est réadmis aux allocations de chômage et que lorsqu'il conteste la décision quant à son aptitude il conserve le bénéfice de celle-ci aussi longtemps qu'il n'en est pas décidé autrement, n'est applicable que si la contestation est portée devant les juridictions compétentes. ( Arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage. )"
+      ],
+      "abstractNL": [
+        "Art. 142, alinéa alinéa 2 en 3, Werkloosheidsbesluit 20 december 1963, dat bepaalt dat, wanneer de werknemer als geschikt tot werken wordt beschouwd, hij opnieuw tot de werkloosheidsuitkeringen wordt toegelaten, en dat, wanneer hij de beslissing betreffende zijn geschiktheid betwist, hij die geschiktheid behoudt zolang daarover niet anders is beslist, vindt enkel toepassing indien de betwisting voor het bevoegde gerecht wordt gebracht. ( Werkloosheidsbesluit 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880502.9": {
+      "court": "CASS",
+      "date": "1988-05-02",
+      "roleNumber": "8292",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/02/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui décide qu'un travailleur isolé ayant repris le travail pendant trois mois après une période d'indemnisation, a droit à une allocation quotidienne de chômage calculée à raison de 60 p.c. de sa rémunération moyenne pendant l'année prenant cours à la date de la nouvelle demande, en se fondant à cet égard sur l'article 160, alinéa 5, de l'arrêté royal du 20 décembre 1963 relatif à la révision de la rémunération moyenne retenue pour calculer le montant de l'allocation octroyée lors de la première demande. ( Arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, art. 160, alinéa alinéa 3 et 5. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest dat beslist dat een alleenstaande werknemer, die gedurende drie maanden het werk heeft hervat na een periode tijdens welke hij een vergoeding heeft ontvangen, recht heeft op een dagelijkse werkloosheidsuitkering ten belope van 60 pct. van zijn gemiddeld loon tijdens het jaar dat begint te lopen vanaf de datum van de nieuwe aanvraag, waarbij het dienaangaande steunt op art. 160, alinéa 5, K.B. van 20 december 1963 betreffende de herziening van het gemiddeld loon dat in aanmerking is genomen bij de berekening van het bedrag van de uitkering die bij de eerste aanvraag is toegekend. ( Art. 160, alinéa alinéa 3 en 5 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880328.8": {
+      "court": "CASS",
+      "date": "1988-03-28",
+      "roleNumber": "8277",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'infraction à l'article 195 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage ne requérant pas de dol spécial, est censé avoir obtenu indûment l'estampillage de sa carte de contrôle, le chômeur qui, s'étant dessaisi de cette carte, ne s'est pas conformé aux dispositions de l'article 153, alinéa 4, du même arrêté."
+      ],
+      "abstractNL": [
+        "Overtreding van art. 195 Werkloosheidsbesluit vereist geen bijzonder opzet, zodat de werkloze die, doordat hij zich van zijn controlekaart heeft ontdaan, de bepalingen van art. 153, alinéa 4, van hetzelfde besluit niet heeft nageleefd, wordt geacht zijn controlekaart ten onrechte te hebben laten afstempelen."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880229.17": {
+      "court": "CASS",
+      "date": "1988-02-29",
+      "roleNumber": "8213",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/29/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Les conditions prévues par l'article 130, alinéa 2bis, alinéa 2, de l'arrêté royal du 20 décembre 1963, pour qu'un emploi soit réputé à temps réduit volontaire, et que, partant, des allocations de chômage soient octroyées au travailleur qui devient chômeur, se rapportent à l'emploi occupé par ce travailleur au moment où survient le chômage. ( Arrêté royal du 20 décembre 1963, relatif à l'emploi et au chômage, article 130, alinéa 2bis. )"
+      ],
+      "abstractNL": [
+        "De voorwaarden van art. 130, alinéa 2bis, tweede lid, Werkloosheidsbesluit, waaronder een dienstbetrekking wordt beschouwd als een dienstbetrekking met verkorte werktijd uit eigen wil en waaronder werkloosheidsuitkeringen worden toegekend aan de werknemer die werkloos wordt, gelden voor de dienstbetrekking van die werknemer op het tijdstip waarop de werkloosheid intreedt. ( Art. 130, alinéa 2bis, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880208.15": {
+      "court": "CASS",
+      "date": "1988-02-08",
+      "roleNumber": "5991",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/08/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui effectue d'importants travaux de transformation à sa propre habitation afin de la rendre habitable pour lui-même, n'effectue pas un travail qui peut être intégré dans le courant des échanges économiques de biens et de services et qui n'est pas limité à la gestion normale des biens propres; l'exécution de ces travaux au cours de la période de chômage n'entraîne pas la perte de son droit aux allocations de chômage. ( Arr. roy. du 20 décembre 1963, art. 126, alinéa 1er, 2, b. )"
+      ],
+      "abstractNL": [
+        "De werkloze die omvangrijke verbouwingswerken aan de eigen woning uitvoert om ze voor zich zelf bewoonbaar te maken, verricht geen arbeid die ingeschakeld is in het economisch ruilverkeer van goederen en diensten en die niet beperkt is tot het gewone beheer van eigen bezit; door het uitvoeren van die werken gedurende zijn werkloosheid verliest hij zijn aanspraak op werkloosheidsuitkering niet. ( Art. 126, eerste lid, 2, b, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880208.11": {
+      "court": "CASS",
+      "date": "1988-02-08",
+      "roleNumber": "5982",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur indemnisé qui met fin à son chômage pour exercer une profession qui ne l'assujettit pas comme salarié à la sécurité sociale et qui, en application d'une réglementation antérieure, a perdu la qualité de bénéficiaire, ne peut, lors d'une nouvelle demande d'allocations de chômage, sous l'empire de la nouvelle réglementation, prétendre au maintien de la qualité de bénéficiaire. ( Code civil, art. 2; Arr. roy. du 20 décembre 1963, art. 123, alinéa 2, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "De uitkeringsgerechtigde werkloze die aan zijn werkloosheid een einde maakt om een beroep uit te oefenen waardoor hij niet als werknemer onder de sociale zekerheid valt, en die met toepassing van een vroegere regeling de hoedanigheid van gerechtigde heeft verloren, kan bij een nieuwe aanvraag onder de gelding van een nieuwe regeling geen aanspraak maken op het behoud van die hoedanigheid. ( Artt. 2 Burgerlijk Wetboek en 123, alinéa 2, eerste lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880111.15": {
+      "court": "CASS",
+      "date": "1988-01-11",
+      "roleNumber": "5857",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/11/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "La prolongation de la période de référence pour laquelle le travailleur doit pouvoir justifier d'une occupation pendant le nombre requis de journées de travail pour avoir droit au bénéfice des allocations de chômage, n'est pas applicable au travailleur qui commence à exercer une activité professionnelle indépendante au moment où il est chômeur. ( Arr. roy. du 20 décembre 1963, article 118, alinéa 5, modifié par l'arr. roy. du 12 avril 1983. )"
+      ],
+      "abstractNL": [
+        "De verlenging van de referentieperiode gedurende welke de werknemer het vereiste aantal arbeidsdagen in aanmerking moet kunnen doen nemen om op werkloosheidsuitkering gerechtigd te zijn, vindt geen toepassing op de werknemer die een zelfstandig beroep begint uit te oefenen op het ogenblik dat hij werkloos is. ( Art. 118, vijfde lid, Werkloosheidsbesluit, gewijzigd K.B. 12 april 1983. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871228.8": {
+      "court": "CASS",
+      "date": "1987-12-28",
+      "roleNumber": "5832",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/12/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut naître qu'à la date de la demande d'allocations et ne peut être apprécié qu'à partir de la demande. ( Arr. roy. du 20 décembre 1963, art. 185. )"
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan eerst met de datum van de aanvraag om uitkering ontstaan en pas vanaf de aanvraag worden beoordeeld. ( Art. 185 Werkloosheidsbesluit, K.B. van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871214.12": {
+      "court": "CASS",
+      "date": "1987-12-14",
+      "roleNumber": "5921",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/12/14/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "En application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, les jeunes travailleurs marocains qui ont terminé leurs études ne peuvent prétendre à la qualité de bénéficiaires des allocations de chômage (Convention générale du 24 juin 1968 sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, art. 1er, 2, alinéa 1.2, f, et 36; arr. roy. du 20 décembre 1963, art. 125. )"
+      ],
+      "abstractNL": [
+        "Jonge Marokkaanse werknemers die hun studie beëindigd hebben, kunnen geen aanspraak maken op de hoedanigheid van gerechtigde op werkloosheidsuitkering met toepassing van art. 124 Werkloosheidsbesluit. ( Artt. 1, 2, alinéa 1.2, f, en 36 Sociale-zekerheidsverdrag 24 juni 1968 met Marokko van 24 juni 1968, goedgekeurd bij wet van 20 juli 1970; art. 125 Werkloosheidsbesluit, K.B. van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871102.10": {
+      "court": "CASS",
+      "date": "1987-11-02",
+      "roleNumber": "5732",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/02/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur indemnisé dont l'indemnisation a été interrompue et qui a perdu la qualité de bénéficiaire en application d'une législation antérieure, ne peut, lors d'une nouvelle demande d'allocations de chômage sous le régime d'une nouvelle réglementation, prétendre au maintien de cette qualité. ( Code civil, art. 2, et arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 123, alinéa 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "De uitkeringsgerechtigde werkloze wiens uitkeringen werden onderbroken en die met toepassing van een vroegere regeling de hoedanigheid van gerechtigde heeft verloren, kan bij een nieuwe aanvraag onder de gelding van een nieuwe regeling geen aanspraak maken op het behoud van die hoedanigheid. ( Artt. 2 Burgerlijk Wetboek en 123, alinéa 1, 1°, Werkloosheidsbesluit K.B. van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870921.5": {
+      "court": "CASS",
+      "date": "1987-09-21",
+      "roleNumber": "5738",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'application de l'article 151, alinéa 1er, 3°, de l'arrêté royal du 20 décembre 1963, aux termes duquel les allocations de chômage ne sont pas octroyées pour les jours habituellement chômés dans un emploi à temps partiel en raison des usages dans l'entreprise, ne requiert pas que cet usage soit d'application dans toute l'entreprise."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 151, eerste lid, 3°, Werkloosheidsbesluit, K.B. 20 december 1963, volgens hetwelk geen werkloosheidsuitkering wordt toegekend voor de dagen waarop in een dienstbetrekking met verkorte werktijd gewoonlijk niet wordt gewerkt ingevolge de gebruiken in de onderneming, is niet vereist dat het gebruik geldt voor de gehele onderneming."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870617.13": {
+      "court": "CASS",
+      "date": "1987-06-17",
+      "roleNumber": "5657",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/17/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du montant de l'allocation de chômage du chômeur qui effectue un travail non salarié pour un tiers, il y a lieu d'entendre par revenus, les avantages matériels reçus diminués des dépenses et charges inhérentes au travail effectué. ( Arr. roy. du 20 décembre 1963, art. 146, alinéa alinéa 1er et 2, alinéa 2, 4°. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van het bedrag van de werkloosheidsuitkering van de werkloze die toegestane arbeid voor een derde niet in loondienst verricht, wordt onder inkomen verstaan de ontvangen materiële voordelen verminderd met de uitgaven en lasten die aan de verrichte arbeid verbonden zijn. ( Art. 146, alinéa alinéa 1 en 2, tweede lid, 4°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870413.15": {
+      "court": "CASS",
+      "date": "1987-04-13",
+      "roleNumber": "5586",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/04/13/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Une déclaration par laquelle le chômeur, pendant l'enquête menée par l'Office national de l'Emploi, signale un événement entraînant une modification du dossier administratif, ne constitue pas une déclaration de modification que le chômeur est tenu de remettre dans un délai déterminé, sur le formulaire prescrit, à son organisme de paiement. ( Arr. roy. du 20 décembre 1963, art. 86; arr. min. du 4 juin 1964, art. 103 * )"
+      ],
+      "abstractNL": [
+        "Een verklaring waarbij de werkloze tijdens een door de Rijksdienst voor Arbeidsvoorziening ingesteld onderzoek mededeling doet van een gebeurtenis die een wijziging van het administratief dossier tot gevolg heeft, is geen wijzigingsaangifte van zulke gebeurtenis die de werkloze binnen een bepaalde termijn op een voorgeschreven formulier bij zijn uitbetalingsinstelling moet indienen. ( Art. 86 Werkloosheidsbesluit; art. 103 * Ministrieel Besluit van 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870302.15": {
+      "court": "CASS",
+      "date": "1987-03-02",
+      "roleNumber": "5570",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/03/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "De la seule circonstance que le travailleur remplit la condition requise par l'article 150, alinéa 1er, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, d'avoir abandonné un emploi convenable, il ne peut se déduire qu'il a abandonné son travail sans motif légitime, au sens de l'article 134, alinéa 2, 1°, de ce même arrêté."
+      ],
+      "abstractNL": [
+        "Uit de enkele omstandigheid dat de werknemer voldoet aan het door art. 150, eerste lid, Werkloosheidsbesluit gestelde vereiste een passende dienstbetrekking te hebben verlaten, kon niet worden afgeleid dat hij zijn werk heeft verlaten zonder wettige reden in de zin van art. 134, tweede lid, 1°, van hetzelfde besluit."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870302.13": {
+      "court": "CASS",
+      "date": "1987-03-02",
+      "roleNumber": "5540",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/03/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 133, alinéa 4, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, fixant la date à partir de laquelle le chômeur est exclu du droit aux allocations de chômage parce qu'il refuse d'accepter un emploi convenable, n'est pas applicable lorsque le chômeur est exclu du droit aux allocations sur la base de l'article 131, alinéa 1er, dès lors qu'il n'est pas valablement inscrit comme demandeur d'emploi."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 133, vierde lid, Werkloosheidsbesluit, die vaststelt vanaf welke datum het recht op werkloosheidsuitkering op grond van dat artikel wordt ontzegd wegens weigering van een passende dienstbetrekking, is niet toepasselijk wanneer het recht op uitkering op grond van art. 131, alinéa 1, wordt ontzegd, omdat de werkloze niet geldig als werkzoekende is ingeschreven."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870209.11": {
+      "court": "CASS",
+      "date": "1987-02-09",
+      "roleNumber": "7687",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur privé d'un emploi à temps plein qui exerce une activité à temps réduit en vertu d'un contrat, n'a droit aux allocations de chômage pendant la durée de ce contrat et à l'expiration de celui-ci que s'il satisfait aux conditions prévues par l'article 130, alinéa 2, de l'arrêté royal du 20 décembre 1963, même s'il a conservé le bénéfice de son inscription comme demandeur d'un emploi à temps plein."
+      ],
+      "abstractNL": [
+        "De werknemer zonder voltijds werk die, ingevolge een overeenkomst, deeltijds werkt, heeft tijdens de duur van die overeenkomst en na het verstrijken ervan enkel recht op werkloosheidsuitkeringen als hij voldoet aan de voorwaarden bepaald bij art. 130, alinéa 2, Werkloosheidsbesluit, ook al is hij ingeschreven gebleven als werkzoekende voor voltijds werk."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870119.16": {
+      "court": "CASS",
+      "date": "1987-01-19",
+      "roleNumber": "5423",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour le travailleur qui a accepté un emploi à temps réduit pour échapper au chômage, le premier jour de chômage pris en considération pour déterminer la rémunération journalière moyenne en vue du calcul du montant de l'allocation de chômage, est le premier jour pour lequel le salaire hebdomadaire de ce travailleur est inférieur au salaire de référence fixé par le ministre et pour lequel le travailleur acquiert ainsi la qualité de chômeur complet. ( Arr. roy. du 20 décembre 1963, art. 130, alinéa 2, 1°, b, et arr. min. du 4 juin 1964, art. 83quater, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Voor een werknemer die een onvolledige dienstbetrekking heeft aanvaard om uit de werkloosheid te geraken, is de eerste werkloosheidsdag die voor de vaststelling van het gemiddeld dagloon met het oog op de berekening van het bedrag van de werkloosheidsuitkering in aanmerking komt, de eerste dag waarop het weekloon van die werknemer beneden het door de minister vastgestelde referentieloon ligt en de werknemer aldus de hoedanigheid van volledig werkloze verkrijgt. ( Artt. 130, alinéa 2, 1°, b, Werkloosheidsbesluit en 83quater, alinéa 1, M.B. 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870112.9": {
+      "court": "CASS",
+      "date": "1987-01-12",
+      "roleNumber": "7655",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/12/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'allocations de chômage perçues indûment est limité aux cent cinquante derniers jours d'indemnisation indue, lorsqu'il est établi que le chômeur a perçu de bonne foi des allocations de chômage auxquelles il n'avait pas droit; il appartient au chômeur de prouver sa bonne foi. ( Arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, art. 210. )"
+      ],
+      "abstractNL": [
+        "De terugvordering van onrechtmatig ontvangen werkloosheidsuitkeringen wordt beperkt tot de laatste 150 dagen van onverschuldigde toekenning, wanneer vaststaat dat de werkloze te goeder trouw uitkeringen heeft ontvangen waarop hij geen recht had; op de werkloze rust de bewijslast van zijn goede trouw. ( Art. 210 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861013.11": {
+      "court": "CASS",
+      "date": "1986-10-13",
+      "roleNumber": "5270",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/13/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, le travailleur doit pouvoir justifier d'une occupation pendant un certain nombre de journées de travail au cours d'un certain nombre de mois précédant la demande d'admission; pour la travailleuse-mère qui a interrompu son emploi pour s'occuper de ses enfants, la période de référence est prolongée de trois ans au maximum à dater de chaque naissance d'un enfant, dans la mesure où la fin de cette période de trois ans est comprise dans la période de référence ordinaire en remontant à partir du jour de la demande, ou dans une période de prolongation résultant d'une autre naissance. ( Arr. roy. du 20 décembre 1963, art. 118, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "Om op werkloosheidsuitkering gerechtigd te zijn moet de werknemer een bepaald aantal arbeidsdagen in aanmerking kunnen doen nemen in de loop van een bepaald aantal maanden vóór de aanvraag om uitkering; voor de werkneemster-moeder die haar dienstbetrekking onderbreekt om voor haar kinderen te zorgen, wordt de referentieperiode gedurende maximum drie jaar te rekenen vanaf elke geboorte van een kind verlengd, in zoverre de einddatum van die periode van drie jaar valt binnen de gewone referentieperiode, terug te rekenen vanaf de dag van de aanvraag, of binnen een verlenging ingevolge een andere geboorte ( Art. 118, vierde lid, Werkloosheidsbesluit )."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860915.9": {
+      "court": "CASS",
+      "date": "1986-09-15",
+      "roleNumber": "5298",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/09/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'allocations de chômage perçues indûment est limité aux cent cinquante derniers jours d'indemnisation indue, lorsqu'il est établi que le chômeur a perçu de bonne foi des allocations de chômage auxquelles il n'avait pas droit; il appartient au chômeur de prouver sa bonne foi. ( Arr. roy. du 20 décembre 1963, article 210. )"
+      ],
+      "abstractNL": [
+        "De terugvordering van onrechtmatig ontvangen werkloosheidsuitkering wordt beperkt tot de laatste 150 dagen van onverschuldigde toekenning, wanneer vaststaat dat de werkloze te goeder trouw uitkeringen heeft ontvangen waarop hij geen recht had; het staat aan de werkloze zijn goede trouw te bewijzen ( Art. 210 Werkloosheidsbesluit )."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860506.8": {
+      "court": "CASS",
+      "date": "1986-05-06",
+      "roleNumber": "187",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 261, 5°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage subordonne l'applicabilité des peines prévues audit article à l'existence d'une intention frauduleuse."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 261, 5°, Werkloosheidsbesluit stelt het bedrieglijk oogmerk als vereiste voor de toepasselijkheid van de bij dat artikel vastgestelde straffen."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860324.19": {
+      "court": "CASS",
+      "date": "1986-03-24",
+      "roleNumber": "5090",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Avant de refuser à un chômeur le droit aux allocations de chômage du chef d'indisponibilité pour le marché général de l'emploi, l'inspecteur du chômage est tenu de le convoquer aux fins de l'entendre, même s'il fonde sa décision sur des éléments identiques à ceux à propos desquels il a déjà entendu le chômeur sans l'avertir du fait que ces éléments peuvent entraîner cette mesure ( Arr. roy. du 20 décembre 1963, art. 174 )."
+      ],
+      "abstractNL": [
+        "Alvorens een werkloze het recht op werkloosheidsuitkering te ontzeggen wegens onbeschikbaarheid voor de algemene arbeidsmarkt, dient de werkloosheidsinspecteur hem op te roepen om hem te verhoren, ook al grondt hij zijn beslissing op dezelfde gegevens als die waaromtrent hij de werkloze tevoren reeds heeft verhoord zonder hem ervan te verwittigen dat deze gegevens tot die maatregel kunnen leiden ( Art. 174 Werkloosheidsbesluit )."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860121.12": {
+      "court": "CASS",
+      "date": "1986-01-21",
+      "roleNumber": "9733",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 261, 5°, de l'arrêté royal relatif à l'emploi et au chômage requiert l'intention frauduleuse; la négligence ne suffit pas."
+      ],
+      "abstractNL": [
+        "Art. 261, 5° Werkloosheidsbesluit vereist bedrieglijk oogmerk. Nalatigheid is niet voldoende."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851230.7": {
+      "court": "CASS",
+      "date": "1985-12-30",
+      "roleNumber": "4942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'autorité de chose jugée erga omnes de la décision rendue sur l'action publique s'attache à ce qui a été certainement et nécessairement jugé par le juge pénal."
+      ],
+      "abstractNL": [
+        "Het gezag erga omnes van het gewijsde op de strafvordering geldt voor wat zeker en noodzakelijk door de strafrechter is gewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851223.7": {
+      "court": "CASS",
+      "date": "1985-12-23",
+      "roleNumber": "7199",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/23/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Un travailleur qui est licencié parce qu'il a remis à son employeur un certificat médical de son médecin traitant attestant qu'il serait préférable de lui éviter certains travaux, n'est pas licencié pour des motifs équitables eu égard à son attitude, au sens de l'article 134, alinéa 2, 2°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage et, dès lors, son chômage n'est pas dû à son propre fait."
+      ],
+      "abstractNL": [
+        "Een werknemer die wordt ontslagen omdat hij aan zijn werkgever een medisch attest van zijn behandelend geneesheer heeft overhandigd, volgens hetwelk het beter zou zijn hem bepaalde werken niet te laten uitvoeren, wordt niet ontslagen om billijke redenen ten gevolge van zijn houding, in de zin van art. 134, tweede lid, 2., Werkloosheidsbesluit 20 december 1963, en zijn werkloosheid is derhalve niet aan zijn eigen schuld of toedoen te wijten."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851216.14": {
+      "court": "CASS",
+      "date": "1985-12-16",
+      "roleNumber": "4863",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, les jeunes travailleurs marocains qui ont terminé leurs études, ne peuvent prétendre à la qualité de bénéficiaires des allocations de chômage ( Convention générale du 24 juin 1968 sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, art. 1er, 2, par. 1.2, f, et 36; arr.roy. du 20 décembre 1963, art. 125 )."
+      ],
+      "abstractNL": [
+        "Jonge Marokkaanse werknemers die hun studie beëindigd hebben, kunnen geen aanspraak maken op de hoedanigheid van gerechtigde op werkloosheidsuitkering met toepassing van art. 124 Werkloosheidsbesluit ( Artt. 1, 2, par. 1.2, f, en 36 Sociale-zekerheidsverdrag 24 juni 1968 met Marokko; art. 125 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851202.6": {
+      "court": "CASS",
+      "date": "1985-12-02",
+      "roleNumber": "4869",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'allocations de chômage perçues indûment est limité aux cent cinquante derniers jours d'indemnisation indue, lorsqu'il est établi que le chômeur a perçu de bonne foi des allocations de chômage auxquelles il n'avait pas droit; il appartient au chômeur de prouver sa bonne foi ( Arr. roy. du 20 décembre 1963, article 210 )."
+      ],
+      "abstractNL": [
+        "De terugvordering van onrechtmatig ontvangen werkloosheidsuitkeringen wordt beperkt tot de laatste 150 dagen van onverschuldigde toekenning, wanneer vaststaat dat de werkloze te goeder trouw uitkeringen heeft ontvangen waarop hij geen recht had; het staat aan de werkloze zijn goede trouw te bewijzen ( Art. 210 Werkloosheidsbesluit )."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850624.21": {
+      "court": "CASS",
+      "date": "1985-06-24",
+      "roleNumber": "4783",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/24/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur est indisponible pour le marché général de l'emploi lorsqu'il limite sa disponibilité à accepter un emploi quel qu'il soit, à un emploi à horaire continu. ( Arr. roy. du 20 décembre 1963, art. 133, al. 4. )"
+      ],
+      "abstractNL": [
+        "Een werkloze is onbeschikbaar voor de algemene arbeidsmarkt wanneer hij zijn bereidheid om enige dienstbetrekking te aanvaarden, beperkt tot de bereidheid enkel in een ononderbroken uurregeling te werken. ( Art. 133, vierde lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850624.22": {
+      "court": "CASS",
+      "date": "1985-06-24",
+      "roleNumber": "4784",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/24/sitemap_21.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur n'est pas indisponible pour le marché général de l'emploi lorsqu'il fait des réserves qui ne concernent que les conditions concrètes de travail de l'emploi qui lui est offert. ( Arr. roy. du 20 décembre 1963, art. 133, al. 4. )"
+      ],
+      "abstractNL": [
+        "Een werkloze is niet onbeschikbaar voor de algemene arbeidsmarkt wanneer het door hem gemaakte voorbehoud alleen de concrete arbeidsvoorwaarden van de hem aangeboden dienstbetrekking betreft. ( Art. 133, vierde lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850624.17": {
+      "court": "CASS",
+      "date": "1985-06-24",
+      "roleNumber": "4793",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/24/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La préparation d'un mémoire pour obtenir un diplôme de fin d'études d'un cycle ou d'un niveau équivalent ou supérieur, prolonge le délai d'un an pendant lequel les jeunes travailleurs peuvent introduire, après la fin de leurs études secondaires, leur demande d'allocations de chômage, conformément à l'article 134 de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "De voorbereiding van een verhandeling voor het behalen van het einddiploma van studie van een gelijke of hogere cyclus of niveau verlengt de termijn van een jaar binnen welke jonge werknemers na het beëindigen van hun secundaire studie hun aanvraag om werkloosheidsuitkering moeten indienen met toepassing van art. 134 Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850610.13": {
+      "court": "CASS",
+      "date": "1985-06-10",
+      "roleNumber": "4770",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/10/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'exclusion du droit aux allocations de chômage en raison de déclarations erronées ou incomplètes faites par le chômeur est aussi applicable au chômeur qui a, par négligence, confirmé et signé un formulaire de renseignements complété d'une manière erronée par son employeur et qui a ainsi perçu indûment des allocations. ( Arr. roy. du 20 décembre 1963, art. 194. )"
+      ],
+      "abstractNL": [
+        "De uitsluiting van het recht op werkloosheidsuitkering wegens door de werkloze afgelegde onjuiste of onvolledige verklaringen vindt ook toepassing op de werkloze die een door zijn werkgever verkeerd ingevuld inlichtingsformulier uit onachtzaamheid bevestigt en ondertekent en daardoor onverschuldigde uitkeringen ontvangt. ( Art. 194 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850515.7": {
+      "court": "CASS",
+      "date": "1985-05-15",
+      "roleNumber": "4143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/15/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision condamnant le prévenu du chef d'infraction à l'article 261, 6°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, le juge qui se borne à relever que ce prévenu a fait ou laissé travailler un ou plusieurs travailleurs sous ses ordres et sa surveillance, sans constater aussi que lesdits travailleurs ont tiré de cette occupation quelque rémunération ou avantage matériel. ( Arr. roy. du 20 décembre 1963, art. 126, 2°, a, et 261, 6°; loi du 3 juillet 1978, art. 2. )"
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing waarbij de beklaagde wordt veroordeeld wegens overtreding van art. 261, 6o, van het Werkloosheidsbesluit, wanneer de rechter enkel erop wijst dat die beklaagde door één of meer werknemers onder zijn gezag en toezicht arbeid heeft doen of laten verrichten, zonder tevens vast te stellen dat die werknemers voor die werkzaamheid enig loon of materieel voordeel hebben ontvangen. ( Artt. 126, 2o, a, en 261, 6o, K.B. 20 dec. 1963; art. 2 wet 3 juli 1978. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850325.11": {
+      "court": "CASS",
+      "date": "1985-03-25",
+      "roleNumber": "7279",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si l'exclusion du droit aux allocations de chômage, pendant 26 semaines, du chômeur qui soumet sa remise au travail à des réserves qui le rendent indisponible pour le marché général de l'emploi est limitée à la durée de l'indisponibilité lorsque, en dehors de toute offre d'emploi, elle est déclarée spontanément par le chômeur, cette limitation n'est pas applicable au travailleur qui a effectivement interrompu l'emploi salarié pour donner des soins à ses jeunes enfants et se consacrer à leur éducation. (Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 150, al. 2, 3 et 5.)"
+      ],
+      "abstractNL": [
+        "De uitsluiting van het recht op werkloosheidsuitkering gedurende 26 weken van de werkloze die voor zijn werkhervatting zulkdanig voorbehoud maakt dat hij onbeschikbaar wordt voor de algemene arbeidsmarkt, wordt weliswaar beperkt tot de duur van de onbeschikbaarheid wanneer deze, zonder dat een werkaanbod werd gedaan, eigener beweging door de werkloze wordt aangegeven, maar die beperking is niet toepasselijk op de werknemer die zijn betrekking in loondienst werkelijk heeft onderbroken om voor zijn kleine kinderen te zorgen en zich aan hun opvoeding te wijden. (Art. 150, tweede, derde en vijfde lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850318.14": {
+      "court": "CASS",
+      "date": "1985-03-18",
+      "roleNumber": "4657",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour conserver son droit aux allocations de chômage, le chômeur qui cohabite avec un travailleur indépendant, doit faire la déclaration des différentes professions que celui-ci exerce. (Arr. roy. du 20 décembre 1963, article 128, alinéa 1er, 1°.)"
+      ],
+      "abstractNL": [
+        "Om zijn aanspraak op werkloosheidsuitkering te behouden moet de werkloze die met een zelfstandige samenwoont, aangifte doen van de verscheidene beroepen die deze uitoefent. (Art. 128, alinéa 1, 1°, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841119.11": {
+      "court": "CASS",
+      "date": "1984-11-19",
+      "roleNumber": "4505",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/11/19/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, dans la déclaration de cohabitation avec un travailleur indépendant, le chômeur précise qu'il aide ce travailleur dans sa profession relevant de l'industrie hôtelière, tous les vendredis soir et pendant les week-ends ou les jours fériés, le droit aux allocations de chômage ne peut lui être refusé en raison de ce travail, pour tous les jours de la période pendant laquelle il a été chômeur. (Arr. roy. du 20 décembre 1963, art. 128, alinéa 1er, al. 1er, 2° et 3°.)"
+      ],
+      "abstractNL": [
+        "Wanneer de werkloze in zijn aangifte van samenwonen met een zelfstandige verklaart deze te helpen in diens horecabedrijf tijdens de vrijdagavonden, de weekeinden en de feestdagen, kan hem zijn recht op werkloosheidsuitkering op grond van die arbeid niet worden ontzegd voor alle dagen van de periodes gedurende welke hij werkloos is geweest.. (Art. 128, alinéa 1, eerste lid, 2° en 3°, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841022.7": {
+      "court": "CASS",
+      "date": "1984-10-22",
+      "roleNumber": "4431",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui met lui-même fin au contrat de travail n'est pas chômeur par suite de circonstances indépendantes de sa volonté, sauf si sa démission est la conséquence de circonstances de nature telle qu'il ne peut raisonnablement être exigé de lui de continuer l'exécution du contrat. (Arr. roy. du 20 décembre 1963, art. 126.)"
+      ],
+      "abstractNL": [
+        "De werknemer die zelf een einde aan de arbeidsovereenkomst maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren. (Art. 126 Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841008.10": {
+      "court": "CASS",
+      "date": "1984-10-08",
+      "roleNumber": "4405",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/08/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, le militaire licencié de l'armée, comme le prévoit l'article 1er de la loi du 28 juin 1960 ne peut faire valoir la durée de ses services à l'armée comme journées de travail, que si, dans les trente jours qui suivent son licenciement, il se fait inscrire comme demandeur d'emploi auprès de l'Office national de l'emploi, même si l'attestation prévue par l'article 4, alinéa 3, de ladite loi ne lui a pas été remise. (Loi du 28 juin 1960, articles 2 et 4, alinéa 3; Arr. roy. du 20 décembre 1963, art. 118.)"
+      ],
+      "abstractNL": [
+        "De uit het leger ontslagen militair, als bedoeld in artikel 1 van de wet van 28 juni 1960, kan de duur van zijn diensten bij het leger slechts als arbeidsdagen in aanmerking doen nemen om op werkloosheidsuitkering gerechtigd te zijn, indien hij zich binnen 30 dagen na zijn ontslag als werkzoekende bij de Rijksdienst voor Arbeidsvoorziening laat inschrijven, ook indien het in artikel 4, alinéa 3, van dezelfde wet bedoelde attest van ontslag hem niet werd afgegeven. (Artt. 2 en 4, alinéa 3, wet 28 juni 1960; art. 118 Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840910.9": {
+      "court": "CASS",
+      "date": "1984-09-10",
+      "roleNumber": "4337",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est nulle la décision de refus ou de limitation des allocations de chômage, lorsque le chômeur n'a pas été entendu par l'inspecteur du chômage qui a pris la décision, mais par un inspecteur d'un autre ressort. ( Arr. roy. du 20 décembre 1963, article 174, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Nietig is de beslissing waarbij het recht op werkloosheidsuitkering wordt ontzegd of beperkt wanneer de werkloze niet is gehoord door de werkloosheidsinspecteur die de beslissing neemt, maar door een inspecteur van een ander ambtsgebied. ( Art. 174, eerste lid, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840910.10": {
+      "court": "CASS",
+      "date": "1984-09-10",
+      "roleNumber": "4364",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le remboursement d'allocations de chômage perçues indûment est limité aux cent cinquante derniers jours d'indemnisation indue, lorsqu'il est établi que le chômeur a perçu de bonne foi des allocations de chômage auxquelles il n'avait pas droit; il appartient au chômeur de prouver sa bonne foi. ( Arr. roy. du 20 décembre 1963, article 210. )"
+      ],
+      "abstractNL": [
+        "De terugvordering van onrechtmatig ontvangen werkloosheidsuitkering wordt beperkt tot de laatste 150 dagen van onverschuldigde toekenning, wanneer vaststaat dat de werkloze te goeder trouw uitkeringen heeft ontvangen waarop hij geen recht had; het staat aan de werkloze zijn goede trouw te bewijzen. ( Art. 210 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840618.7": {
+      "court": "CASS",
+      "date": "1984-06-18",
+      "roleNumber": "4358",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur dont l'allocation de chômage a été ramenée de 60 % à 40 % de sa rémunération pendant son chômage complet, ne peut prétendre en tant que chômeur partiel qu'à une allocation de 40 %, pour autant que son droit aux allocations comme chômeur complet n'ait pas été interrompu pendant six mois. (Arr. roy. du 20 décembre 1963, art. 160, alinéa 3, alinéas 2, 3 et 6, 1°.)"
+      ],
+      "abstractNL": [
+        "De werknemer wiens werkloosheidsuitkering tijdens zijn volledige werkloosheid van 60 pct. op 40 pct. van zijn loon was gebracht, heeft als gedeeltelijk werkloze ook maar aanspraak op een uitkering van 40 pct. zolang zijn recht op uitkering als volledig werkloze niet gedurende zes maanden is onderbroken. (Art. 160, alinéa 3, tweede, derde en zesde lid, 1°, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840612.19": {
+      "court": "CASS",
+      "date": "1984-06-12",
+      "roleNumber": "8609",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/12/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision constatant que l'obligation de déclarer les activités exercées gratuitement pour le compte de tiers et ne pouvant être assimilées à un travail accessoire peu important, visée à l'article 126, alinéa 4, de l'arrête royal du 20 décembre 1963, est générale, de sorte qu'est dénuée d'intérêt la question de savoir si c'est à titre de \"hobby\", d'\"occupation de loisirs\" ou à quelque autre titre que le chômeur a effectué le travail non préalablement déclaré."
+      ],
+      "abstractNL": [
+        "Wettelijk verantwoord is de beslissing die vaststelt dat de bij art. 126, vierde lid, Werkloosheidsbesluit bedoelde aangifteplicht van de voor rekening van derden zonder loon verrichte activiteit, die niet kan beschouwd worden als incidenteel verrichte arbeid van gering belang, algemeen is, zodat de vraag of de werkloze die niet vooraf aangegeven arbeid heeft verricht als \"hobby\", \"vrijetijdsbesteding\" of anderszins, geen belang vertoont."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840605.9": {
+      "court": "CASS",
+      "date": "1984-06-05",
+      "roleNumber": "8422",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/05/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 261, 5°, de l'arrêté royal du 20 décembre 1963 requiert expressément l'intention frauduleuse pour que les peines correctionnelles, prévues par cet article, soient applicables au travailleur qui, en vertu des dispositions des articles 153, alinéa 4, et 195, alinéa 3, de cet arrêté, est censé avoir obtenu indûment l'estampillage de sa carte de contrôle."
+      ],
+      "abstractNL": [
+        "De bepaling van artikel 261, 5°, Werkloosheidsbesluit stelt het bedrieglijk oogmerk uitdrukkelijk als vereiste voor de toepasselijkheid van de in dat artikel vastgestelde correctionele straffen op de werknemer die krachtens de bepalingen van de artikelen 153, alinéa 4, en 195, derde lid, geacht wordt op onrechtmatige wijze zijn controlekaart te hebben laten afstempelen."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840528.7": {
+      "court": "CASS",
+      "date": "1984-05-28",
+      "roleNumber": "4322;4323",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur dont le droit à la pension est subordonné à la condition de ne pas effectuer d'autre travail que le travail réduit autorisé par la réglementation relative à la pension qui lui est applicable, n'a pas droit à l'allocation de chômage prévue à l'article 146, alinéa 1er, de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "De werknemer wiens recht op pensioen afhankelijk is van de voorwaarde geen andere dan de door de betrokken pensioenregeling in beperkte mate toegelaten arbeid te verrichten, heeft geen recht op de werkloosheidsuitkering, bepaald bij art. 146, alinéa 1, van het Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840514.12": {
+      "court": "CASS",
+      "date": "1984-05-14",
+      "roleNumber": "4086",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/14/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "En cas de payement partiel au chômeur de l'indemnité de congé qui lui est due, celui-ci ne peut être admis au bénéfice des allocations de chômage, même dans une mesure qui serait proportionnelle à la partie du délai de préavis correspondant à la partie de l'indemnité de congé qui ne lui a pas été payée. ( Arr. roy. du 20 décembre 1963, art. 126. )"
+      ],
+      "abstractNL": [
+        "Wanneer de opzeggingsvergoeding waarop de werkloze recht heeft, maar gedeeltelijk is uitbetaald, heeft hij geen aanspraak op werkloosheidsuitkering in evenredigheid met het gedeelte van de opzeggingstermijn dat overeenstemt met het gedeelte van de opzeggingsvergoeding dat niet werd uitbetaald. ( Art. 126 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840409.8": {
+      "court": "CASS",
+      "date": "1984-04-09",
+      "roleNumber": "4292",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/04/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui met lui-même fin au contrat de travail n'est pas chômeur par suite de circonstances indépendantes de sa volonté, sauf si sa démission est la conséquence de circonstances de nature telle qu'il ne peut raisonnablement être exigé de lui de continuer l'exécution du contrat. ( Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 126. )"
+      ],
+      "abstractNL": [
+        "De werknemer die zelf aan de arbeidsovereenkomst een einde maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren. ( Art. 126 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840409.7": {
+      "court": "CASS",
+      "date": "1984-04-09",
+      "roleNumber": "4279",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/04/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'alinéa 5 de l'article 118 de l'arrêté royal relatif à l'emploi et au chômage, la période de référence visée à l'alinéa 1er de cet article peut être prolongée du nombre de jours au cours desquels le travailleur a interrompu son emploi salarié pour exercer une profession indépendante; il ne suit pas de cette disposition que l'exercice d'une profession indépendante constitue toujours un motif légitime d'abandon de travail au sens de l'article 134, alinéa 2, 1°, du même arrêté."
+      ],
+      "abstractNL": [
+        "Volgens art. 118, vijfde lid, van het Werkloosheidsbesluit wordt de in het eerste lid van dit artikel bedoelde referentieperiode verlengd met het aantal dagen tijdens welke de werknemer zijn arbeid in loondienst heeft onderbroken om een zelfstandig beroep uit te oefenen; uit deze bepaling volgt niet dat de uitoefening van een zelfstandig beroep steeds een wettige reden tot werkverlating is in de zin van art. 134, tweede lid, 1°, van hetzelfde besluit."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840227.10": {
+      "court": "CASS",
+      "date": "1984-02-27",
+      "roleNumber": "4228",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/02/27/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur déclaré physiquement apte à accepter un emploi offert par le bureau régional ne peut plus contester son aptitude devant le tribunal du travail lorsqu'il n'a pas respecté l'article 38, alinéa 2, de l'arrêté ministériel du 4 juin 1964. ( Arr. roy. du 20 décembre 1963, art. 133. )"
+      ],
+      "abstractNL": [
+        "De werkloze die door de geneesheer aangewezen door het gewestelijk bureau lichamelijk geschikt wordt verklaard om een aangeboden dienstbetrekking te aanvaarden, kan zijn geschiktheid niet meer betwisten voor de arbeidsrechtbank wanneer hij het bepaalde in art. 38, tweede lid, M.B. 4 juni 1964 niet in acht heeft genomen. ( Art. 133 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840227.12": {
+      "court": "CASS",
+      "date": "1984-02-27",
+      "roleNumber": "4243",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/02/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La présentation d'examens à la fin d'études d'un cycle ou d'un niveau équivalent ou supérieur prolonge le délai d'un an pendant lequel les jeunes travailleurs doivent introduire leur demande d'admission au bénéfice des allocations de chômage en application de l'article 124 de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "Het afleggen van examens op het einde van gevolgde studies van een gelijke of hogere cyclus of niveau verlengt de termijn van één jaar binnen welke jonge werknemers na het beëindigen van secundaire studies hun aanvraag om werkloosheidsuitkering moeten indienen met toepassing van art. 124 Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840213.18": {
+      "court": "CASS",
+      "date": "1984-02-13",
+      "roleNumber": "4176",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/02/13/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Si, pour être admis au bénéfice des allocations de chômage après la fin de ses études, le jeune travailleur doit introduire une demande dans le délai d'un an, prolongé, éventuellement, en raison de la durée des cours d'un cycle ou d'un niveau supérieur qu'il a suivis, cette prolongation n'est accordée que si lesdits cours ne sont accessibles, notamment, qu'aux porteurs d'un diplôme ou d'un certificat de l'enseignement secondaire supérieur. ( Arr. roy. du 20 décembre 1963, art. 124, al. 1er, 2° et 4°, et al. 2. )"
+      ],
+      "abstractNL": [
+        "Studies die slechts toegankelijk zijn voor houders van een getuigschrift van hoger secundair onderwijs zijn studies van een hogere cyclus of niveau die leiden tot verlenging van de termijn van een jaar binnen welke jonge werknemers na het beëindigen van studies van de hogere secundaire cylus hun aanvraag om werkloosheidsuitkering moeten indienen met toepassing van art. 124 Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840130.6": {
+      "court": "CASS",
+      "date": "1984-01-30",
+      "roleNumber": "4075",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lors de l'appréciation de la légitimité d'un motif d'abandon de travail, le juge peut tenir compte d'autres éléments que les critères de l'emploi convenable établis par les articles 34 à 62bis de l'arrêté ministériel du 4 juin 1964, lorsque le litige à trancher tombe hors du champ d'application de ces critères. ( Arr. roy. du 20 décembre 1963, art. 134, al. 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Bij de beoordeling van de wettige reden tot werkverlating mag de rechter andere gegevens in aanmerking nemen dan de criteria van de passende dienstbetrekking vastgesteld in de artikelen 34 tot 62bis M.B. 4 juni 1964, wanneer het te beslechten geschil buiten het toepassingsgebied van die criteria valt. ( Art. 134, tweede lid, 1°, Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840130.7": {
+      "court": "CASS",
+      "date": "1984-01-30",
+      "roleNumber": "4212",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/30/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur dont le droit à la pension est subordonné à la condition de ne pas effectuer d'autre travail que le travail réduit autorisé par la réglementation relative à la pension, n'a pas droit à l'allocation de chômage, prévue par l'article 146, paragraphe 1er, de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "De werknemer wiens recht op pensioen afhankelijk is van de voorwaarde geen andere dan de door de betrokken pensioenregeling in beperkte mate toegelaten arbeid te verrichten, heeft geen recht op de werkloosheidsuitkering, bepaald bij artikel 146, alinéa 1, van het Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831024.8": {
+      "court": "CASS",
+      "date": "1983-10-24",
+      "roleNumber": "4038",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/24/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les vacances qui suivent une période pendant laquelle de jeunes travailleurs n'ont pas suivi les cours d'un cycle ou d'un niveau supérieur n'ont pas pour effet de prolonger le délai d'un an dans lequel ils doivent, en application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, introduire leur demande d'allocations de chômage après la fin de leurs études secondaires."
+      ],
+      "abstractNL": [
+        "De vakantie die volgt op een periode gedurende welke jonge werknemers geen cursussen van een hogere cyclus of niveau hebben gevolgd, leidt niet tot verlenging van de termijn van één jaar binnen welke zij na het beëindigen van secundaire studies hun aanvraag om werkloosheidsuitkering moeten indienen met toepassing van art. 124 Werkloosheidsbesluit."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830912.6": {
+      "court": "CASS",
+      "date": "1983-09-12",
+      "roleNumber": "3912",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les chômeurs mis au travail par les pouvoirs publics, qui sont victimes d'un accident du travail, bénéficient, à charge de l'Office national de l'emploi, des avantages qui sont octroyés aux travailleurs par le Fonds des accidents du travail, en application de l'arrêté royal du 21 décembre 1971 concernant les allocations et l'assistance sociale accordées par le Fonds des accidents du travail. ( Arr. roy du 20 décembre 1963 relatif à l'emploi et au chômage, art. 169. )"
+      ],
+      "abstractNL": [
+        "De door een arbeidsongeval getroffen werklozen die door de overheid tewerkgesteld zijn, hebben ten laste van de Rijksdienst voor Arbeidsvoorziening aanspraak op de voordelen die aan de werknemers worden toegekend door het Fonds voor Arbeidsongevallen, met toepassing van het koninklijk besluit van 21 december 1971 betreffende de bijslagen en de sociale bijstand verleend door het Fonds voor Arbeidsongevallen. ( Art. 169 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830613.9": {
+      "court": "CASS",
+      "date": "1983-06-13",
+      "roleNumber": "3435",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui met lui-même fin au contrat de travail n'est pas chômeur par suite de circonstances indépendantes de sa volonté, sauf si sa décision est la conséquence de circonstances de nature telle qu'il ne puisse raisonnablement être exigé de lui de continuer l'exécution du contrat. (Arr. roy. du 20 décembre 1963, article 126.)"
+      ],
+      "abstractNL": [
+        "De werknemer die zelf een einde aan de arbeidsovereenkomst maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren. (Art. 126 Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830509.6": {
+      "court": "CASS",
+      "date": "1983-05-09",
+      "roleNumber": "3841",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/09/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour décider si un travailleur est admis au bénéfice des allocations de chômage, les journées de travail à prendre en considération ne sont pas calculées conformément à l'article 24, alinéa 1er , de l'arrêté royal du 28 novembre 1969 qui concerne le calcul des cotisations de sécurité sociale, mais suivant les règles prévues par l'arrêté ministériel du 4 juin 1964, spécialement article 4, pris en exécution de l'article 121, paragraphe 1er, alinéa 2, 1, de l'arrêté royal du 20 décembre 1963."
+      ],
+      "abstractNL": [
+        "Om te bepalen of een werknemer gerechtigd is op werkloosheidsuitkering worden de in aanmerking te nemen arbeidsdagen niet berekend overeenkomstig art. 24, eerste lid, K.B. van 28 nov. 1969, dat betrekking heeft op de berekening van de sociale-zekerheidsbijdragen, maar volgens de regelen die ter uitvoering van art. 121, alinéa 1, tweede lid, 1°, Werkloosheidsbesluit zijn vastgesteld door het ministerieel besluit van 4 juni 1964, inzonderheid art. 4."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830418.12": {
+      "court": "CASS",
+      "date": "1983-04-18",
+      "roleNumber": "6307",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/04/18/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui met lui-même fin au contrat de travail n'est pas chômeur par suite de circonstances indépendantes de sa volonté, sauf si sa démission est la conséquence de circonstances de nature telle qu'il ne pourrait raisonnablement être exigé de lui de continuer l'exécution de son contrat. ( Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 126. )"
+      ],
+      "abstractNL": [
+        "De werknemer die zelf de arbeidsovereenkomst beëindigt, is geen werkloze wegens omstandigheden onafhankelijk van zijn wil, behalve wanneer zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden verwacht dat hij de overeenkomst verder uitvoert. ( Art. 126 K.B. van 20 dec. 1963 Arbeidsvoorziening en werkloosheid. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830321.11": {
+      "court": "CASS",
+      "date": "1983-03-21",
+      "roleNumber": "3793",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur devenu chômeur par son propre fait est exclu à deux reprises du droit aux allocations de chômage, en application des articles 135 à 138 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, et que ces exclusions prennent cours à la même date, celles-ci ne peuvent être ramenées à une seule et la durée totale de l'exclusion s'établit par addition des deux mesures. ( Arr. roy. du 20 décembre 1963, art. 201. )"
+      ],
+      "abstractNL": [
+        "Wanneer het recht op werkloosheidsuitkering van een werkloze door eigen schuld of toedoen, ingevolge de artt. 135 tot 138 van het Werkloosheidsbesluit, tweemaal wordt beperkt, met ingang van dezelfde datum, mogen beide beperkingen niet tot één enkele worden herleid, maar dient de duur ervan te worden samengeteld. ( Art. 201 Werkloosheidsbesluit. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830307.9": {
+      "court": "CASS",
+      "date": "1983-03-07",
+      "roleNumber": "3783",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/07/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le jeune travailleur admis au bénéfice des allocations de chômage, par application de l'article 124 de l'arrêté royal du 20 décembre 1963, et qui est ou qui devient chômeur par son propre fait, perd tous ses droits aux allocations de chômage pendant treize semaines au moins et vingt-six semaines au plus par application de l'article 138, alinéa 1er, du même arrêté, même si l'indemnisation a été interrompue, pendant une période inférieure à quinze mois et qu'il conservait ainsi sa qualité de bénéficiaire en vertu de l'article 123, par. 1er, 1°, de cet arrêté."
+      ],
+      "abstractNL": [
+        "De jonge werknemer, die met toepassing van artikel 124 van het Werkloosheidsbesluit gerechtigde op werkloosheidsuitkering is geworden en die werkloos is of wordt door eigen schuld of toedoen, verliest zijn aanspraak op uitkering gedurende ten minste 13 en ten hoogste 26 weken met toepassing van artikel 138, eerste lid, van hetzelfde besluit, ook wanneer de toekenning van uitkeringen gedurende minder dan 15 maanden onderbroken werd en hij dientengevolge zijn hoedanigheid van gerechtigde krachtens artikel 123, alinéa 1, 1°, van dit besluit behield."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830221.9": {
+      "court": "CASS",
+      "date": "1983-02-21",
+      "roleNumber": "3763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/21/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "De ce qu'un chômeur n'a pas rempli les formalités prévues à l'article 130, par. 2, 2°, alinéa 2, de l'arrêté royal du 20 décembre 1963 ou de ce qu'il s'occupait de son ménage il ne peut se déduire qu'il n'apporte pas la preuve qu'il se trouvait en état de chômage involontaire lorsqu'il a accepté un emploi à temps réduit. (Arr. roy. du 20 décembre 1963, art. 130, par. 2, 2°, al. 3.)"
+      ],
+      "abstractNL": [
+        "Dat een werkloze niet bewijst dat zij werkelijk onvrijwillig werkloos was toen zij een dienstbetrekking met verkorte werktijd heeft aanvaard, kan niet worden afgeleid uit de omstandigheid dat zij de formaliteiten bepaald in artikel 130, alinéa 2, tweede lid, van het Werkloosheidsbesluit niet heeft vervuld, noch uit het feit dat zij haar eigen huishouden verzorgde <1>. (Art. 130, alinéa 2, derde lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830221.10": {
+      "court": "CASS",
+      "date": "1983-02-21",
+      "roleNumber": "3778",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur est indisponible pour le marché général de l'emploi lorsqu'il soumet sa remise au travail à des réserves telles qu'il n'est plus disponible que pour une certaine catégorie d'emplois convenables. (Arr. roy. du 20 décembre 1963, art. 133, al. 4.)"
+      ],
+      "abstractNL": [
+        "Onbeschikbaar voor de algemene arbeidsmarkt is de werkloze die voor de hervatting van de arbeid zodanig voorbehoud maakt dat hij maar voor een deel van passende dienstbetrekking beschikbaar is <1>. (Art. 133, vierde lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830221.8": {
+      "court": "CASS",
+      "date": "1983-02-21",
+      "roleNumber": "3762",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "De ce qu'un chômeur n'a pas rempli les formalités prévues à l'article 130, par. 2, 2°, alinéa 2, de l'arrêté royal du 20 décembre 1963 ou de ce qu'il n'a pas demandé d'allocations de chômage avant d'accepter un emploi à temps réduit il ne peut se déduire qu'il n'apporte pas la preuve qu'il se trouvait en état de chômage involontaire lorsqu'il a accepté un emploi à temps réduit. (Arr. roy. du 20 décembre 1963, art. 130, par. 2, 2°, al. 3.)"
+      ],
+      "abstractNL": [
+        "Dat een werkloze niet bewijst dat zij werkelijk onvrijwillig werkloos was toen zij een dienstbetrekking met verkorte werktijd heeft aanvaard, kan niet worden afgeleid uit de omstandigheid dat zij de formaliteiten bepaald in artikel 130, alinéa 2, tweede lid, van het Werkloosheidsbesluit niet heeft vervuld, noch uit het feit dat zij geen werkloosheidsuitkering had gevraagd voordat zij de dienstbetrekking met verkorte werktijd had aanvaard <1>. (Art. 130, alinéa 2, derde lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830207.6": {
+      "court": "CASS",
+      "date": "1983-02-07",
+      "roleNumber": "3731",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/07/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Est nulle la décision de refus ou de limitation des allocations de chômage lorsque le chômeur n'a pas été préalablement convoqué aux fins d'être entendu, même si cette négligence n'a pas nui à ses intérêts. (Arr. roy. du 20 décembre 1963, art. 174, al. 1er.)"
+      ],
+      "abstractNL": [
+        "Nietig is de beslissing waarbij het recht op werkloosheidsuitkering wordt ontzegd of beperkt, wanneer de werkloze vooraf niet is opgeroepen om te worden gehoord, ook al heeft dit verzuim zijn belangen niet geschaad. (Art. 174, eerste lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830207.8": {
+      "court": "CASS",
+      "date": "1983-02-07",
+      "roleNumber": "3748",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/07/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Perd son droit aux allocations de chômage le chômeur qui cohabite avec un travailleur indépendant lorsque, dans la déclaration de cohabitation, il répond négativement à la question s'il a l'intention d'aider le travailleur indépendant pendant son chômage, et que cette réponse est contraire à la vérité. (Arr. roy. du 20 décembre 1963, art. 128, par. 1er, al. 1er, 1.)"
+      ],
+      "abstractNL": [
+        "De werkloze die met een zelfstandige samenwoont, behoudt zijn aanspraak op werkloosheidsuitkering niet, wanneer hij in de aangifte van het samenwonen de vraag, of hij denkt de zelfstandige tijdens zijn werkloosheid te helpen, in strijd met de waarheid ontkennend beantwoordt <1>. (Art. 128, alinéa 1, eerste lid, 1°, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830103.5": {
+      "court": "CASS",
+      "date": "1983-01-03",
+      "roleNumber": "6739",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 124, alinéa 2, de l'arrêté royal du 20 décembre 1963, modifié par l'arrêté royal du 22 novembre 1976 qui prévoit que le délai d'un an fixé par l'article 124, alinéa 1er, 2°, pour l'introduction d'une demande d'admission par le jeune travailleur ayant terminé des études secondaires, peut être prolongé d'une durée équivalente à celle pendant laquelle il a suivi, sans solliciter son admission au bénéfice des allocations de chômage, des cours d'un cycle ou d'un niveau supérieur, a pour seul objet de fixer les conditions dans lesquelles ledit délai d'un an peut être prolongé et ne détermine pas le montant à partir duquel le jeune travailleur peut s'inscrire comme demandeur d'emploi et solliciter le bénéfice des allocations. (Arrêté royal du 20 décembre 1963, art. 124, par. 1er et 2, modifié par les arrêtés royaux des 3 octobre 1968 et 22 novembre 1976.)"
+      ],
+      "abstractNL": [
+        "De bepaling van art. 124, tweede lid, K.B. 20 dec. 1963, gewijzigd bij K.B. 22 nov. 1976, die zegt dat de termijn van één jaar, bij art. 124, eerste lid, 2°, vastgesteld voor het indienen van de aanvraag door de jonge werknemer die zijn secundaire studies heeft beëindigd, kan worden verlengd met een duur gelijkwaardig aan die tijdens welke hij, zonder zijn toelaatbaarheid tot het genot van de werkloosheidsuitkeringen aan te vragen, studies heeft gevolgd van een hogere cyclus of niveau, heeft enkel tot doel de voorwaarden vast te stellen waaronder de genoemde termijn van één jaar kan worden verlengd en stelt niet het ogenblik vast vanaf hetwelk de jonge werknemer zich als werkzoekende kan inschrijven en werkloosheidsuitkeringen kan aanvragen (Art. 124, alinéa alinéa 1 en 2, K.B. 20 dec. 1963, gew. bij de K.B. van 3 okt. 1968 en van 22 nov. 1976) <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821206.11": {
+      "court": "CASS",
+      "date": "1982-12-06",
+      "roleNumber": "3616",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le travailleur est devenu chômeur par son propre fait, il doit être exclu pendant quatre semaines au moins du droit aux allocations de chômage; n'est, dès lors, pas légale la décision qui, en raison de circonstances spéciales à la cause, réduit ce délai à moins de quatre semaines. (Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 135.)"
+      ],
+      "abstractNL": [
+        "Aan de werkloze door eigen schuld of toedoen moet het recht op werkloosheidsuitkering gedurende ten minste vier weken worden ontzegd; onwettig is de beslissing die wegens bijzondere omstandigheden van de zaak die termijn op minder dan vier weken brengt. (Art. 135 werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821206.7": {
+      "court": "CASS",
+      "date": "1982-12-06",
+      "roleNumber": "3638",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, par application de l'article 120, 1°, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, le demandeur doit avoir commencé sa carrière professionnelle avant l'expiration de la période de dix ans prévue par cet article."
+      ],
+      "abstractNL": [
+        "Om op werkloosheidsuitkering gerechtigd te zijn met toepassing van artikel 120, 1°, van het Werkloosheidsbesluit is vereist dat de aanvrager zijn beroepsloopbaan begonnen is voordat de in dat artikel bedoelde periode van tien jaar verstreken is <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821122.5": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3595",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'un an pendant lequel les jeunes travailleurs, qui ont terminés leurs études, ont travaillé en qualité de salariés ou ont été inscrits comme demandeurs d'emploi pendant le nombre de jours prescrit, n'est pas prolongé du nombre de jours pendant lesquels ils ont travaillé en qualité de salarié. ( Arrêté royal du 20 décembre 1963, art. 124. )"
+      ],
+      "abstractNL": [
+        "De termijn van één jaar gedurende welke jonge werknemers, die hun studies hebben beëindigd, het vereiste aantal dagen arbeid in loondienst hebben verricht of als werkzoekende ingeschreven zijn geweest, wordt niet verlengd met het aantal dagen dat zij in de loop van die periode arbeid in loondienst hebben verricht <1>. (Art. 124 Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821025.15": {
+      "court": "CASS",
+      "date": "1982-10-25",
+      "roleNumber": "3586",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/10/25/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Un travailleur qui est licencié, par son employeur, parce que celui-ci ne peut lui fournir le travail que le médecin du travail estime indiqué, n'est pas congédié pour des motifs équitables eu égard à son attitude, au sens de l'article 134, alinéa 2, 2°, de l'arrêté royal du 20 décembre 1963 et son chômage n'est, dès lors, pas dû à son fait."
+      ],
+      "abstractNL": [
+        "Een werknemer die door zijn werkgever ontslagen wordt omdat deze hem niet de arbeid kan laten verrichten die de arbeidsarts geschikt oordeelt, wordt niet ontslagen om billijke redenen ten gevolge van zijn houding in de zin van art. 134, tweede lid, 2°, Werkloosheidsbesluit 20 dec. 1963 en zijn werkloosheid is derhalve niet aan zijn eigen schuld of toedoen te wijten."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820928.6": {
+      "court": "CASS",
+      "date": "1982-09-28",
+      "roleNumber": "7326",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/28/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En érigeant en infraction les actes définis à l'article 261 de l'arrêté royal du 20 décembre 1963, et relatifs au chômage, la loi n'exclut pas l'application des dispositions du Code pénal relatives au faux en écritures et à l'usage de pièces fausses, lorsque les éléments constitutifs de ces crimes sont réunis."
+      ],
+      "abstractNL": [
+        "Door de in art. 261 K.B. van 20 dec. 1963 betreffende de arbeidsvoorziening en werkloosheid omschreven handelingen met betrekking tot de regeling inzake werkloosheid als misdrijf te kenmerken, sluit de wetgever de toepassing niet uit van de bepalingen van het Strafwetboek betreffende de valsheid in geschrifte en het gebruik van valse stukken, wanneer de bestanddelen van die misdaden aanwezig zijn <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820913.11": {
+      "court": "CASS",
+      "date": "1982-09-13",
+      "roleNumber": "3585",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/13/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Constitue une rémunération, au sens de l'article 126 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, l'indemnité spéciale prévue par l'article 1erbis, par. 7, de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux de travail, due au travailleur licencié qui est membre du comité de sécurité et d'hygiène ou candidat aux élections à ce comité."
+      ],
+      "abstractNL": [
+        "Loon in de zin van art. 126 Werkloosheidsbesluit is de bijzondere vergoeding die krachtens art. 1bis, alinéa 7, Gezondheids- en Veiligheidswet van 10 juni 1952 wordt toegekend aan de ontslagen werknemer die lid is van of kandidaat bij de verkiezingen voor het veiligheidscomité <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820913.10": {
+      "court": "CASS",
+      "date": "1982-09-13",
+      "roleNumber": "3537",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/13/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, le travailleur doit pouvoir justifier d'une occupation pendant un certain nombre de journées de travail au cours d'un certain nombre de mois précédant la demande d'admission; pour obtenir la prolongation de cette période de référence, il n'est pas requis que la travailleuse-mère, qui a interrompu son emploi pour s'occuper de ses enfants, introduise sa demande d'allocations de chômage dans les trois ans à dater de la naissance de son plus jeune enfant. (Arr. roy. 20 décembre 1963 relatif à l'emploi et au chômage, article 118.)"
+      ],
+      "abstractNL": [
+        "Om op werkloosheidsuitkeringen gerechtigd te zijn, moet de werknemer een bepaald aantal arbeidsdagen in aanmerking kunnen doen nemen in de loop van een bepaald aantal maanden vóór de aanvraag om uitkering; om de verlenging van die referentieperiode te bekomen, is niet vereist dat de werkneemster-moeder, die haar dienstbetrekking onderbreekt om voor haar kinderen te zorgen, haar aanvraag om uitkering indient binnen drie jaar na de geboorte van het jongste kind. (Art. 118, vierde lid, Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820628.14": {
+      "court": "CASS",
+      "date": "1982-06-28",
+      "roleNumber": "3528",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur que le médecin désigné par le bureau régional a déclaré apte à accepter un emploi offert, ne peut plus contester son aptitude devant le tribunal du travail lorsqu'il n'a pas respecté le prescrit de l'article 38, alinéa 2, de l'arrêté ministériel du 4 juin 1964 relatif au chômage. (Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 133.)"
+      ],
+      "abstractNL": [
+        "De werkloze die door de geneesheer, aangewezen door het gewestelijk bureau, lichamelijk geschikt wordt verklaard om een aangeboden dienstbetrekking te aanvaarden, kan zijn geschiktheid niet meer betwisten voor de arbeidsrechtbank, wanneer hij het bepaalde in artikel 38, tweede lid, niet in acht heeft genomen <1>. (Art. 133 Werkloosheidsbesluit.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820308.17": {
+      "court": "CASS",
+      "date": "1982-03-08",
+      "roleNumber": "3321",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/08/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Pour conserver son droit aux allocations de chômage, le chômeur qui cohabite avec un travailleur indépendant doit déclarer la profession de celui-ci. (Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 128, par. 1er, 1°)"
+      ],
+      "abstractNL": [
+        "Om zijn aanspraak op werkloosheidsuitkering te behouden, moet de werkloze die met een zelfstandige samenwoont, aangifte doen van het beroep dat deze uitoefent <1>. (Art. 128, alinéa 1, 1°, K.B. 20 dec. 1963.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811123.4": {
+      "court": "CASS",
+      "date": "1981-11-23",
+      "roleNumber": "3095",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, par application de l'article 120, 1°, de l'arrêté royal du 20 décembre 1963, seules les journées de travail prévues à l'article 118, alinéa 1er, de ce même arrêté sont prises en considération et non celles prévues au deuxième alinéa de cet article."
+      ],
+      "abstractNL": [
+        "Om gerechtigd te zijn op werkloosheidsuitkering met toepassing van art. 120, 1°, Werkloosheidsbesluit komen alleen de arbeidsdagen waarvan sprake in art. 118, eerste lid, van hetzelfde besluit in aanmerking en niet die bepaald overeenkomstig het tweede lid van dit artikel <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810921.4": {
+      "court": "CASS",
+      "date": "1981-09-21",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions du travail sont compétentes pour connaître des contestations relatives aux décisions prises par le comité de gestion, conformément à l'article 129 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage."
+      ],
+      "abstractNL": [
+        "De arbeidsgerechten zijn bevoegd om kennis te nemen van betwistingen aangaande beslissingen die het beheerscomité overeenkomstig artikel 129 Werkloosheidsbesluit heeft genomen."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810629.10": {
+      "court": "CASS",
+      "date": "1981-06-29",
+      "roleNumber": "6304",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/29/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La décision de refus ou de limitation des allocations de chômage ne peut être prise par le directeur du bureau régional à l'égard d'un travailleur dont le chômage se prolonge ou se renouvelle anormalement que lorsque ce travailleur est demandeur ou bénéficiaire d'allocations."
+      ],
+      "abstractNL": [
+        "T.a.v. een werknemer wiens werkloosheid op abnormale wijze aanhoudt of terugkeert, kan de directeur van het gewestelijk bureau de werkloosheidsuitkeringen enkel ontzeggen of beperken als die werknemer uitkeringen vraagt of geniet."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810202.9": {
+      "court": "CASS",
+      "date": "1981-02-02",
+      "roleNumber": "2995",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/02/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le jeune travailleur, visé à l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, qui, pendant la période d'inscription, est convoqué comme demandeur d'emploi par les services de placement et qui ne se présente pas aux jour et heure prévus à la convocation, est rayé des listes des demandeurs d'emploi. ( Arr. min. du 4 juin 1964, art. 31. )"
+      ],
+      "abstractNL": [
+        "De jonge werknemer bedoeld in art. 124 Werkloosheidsbesluit, die gedurende de periode van inschrijving als werkzoekende wordt opgeroepen door de diensten voor arbeidsbemiddeling en zich niet aanbiedt op de dag en het uur vermeld in de oproeping, wordt van de lijsten der werkzoekenden geschrapt. (Art. 31 M.B. van 4 juni1964.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801020.12": {
+      "court": "CASS",
+      "date": "1980-10-20",
+      "roleNumber": "2965",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/20/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Un chômeur est indisponible pour le marché général de l'emploi lorsqu'il limite sa disposition à accepter un emploi à la condition d'exercer son propre métier. ( Arrêté royal du 20 décembre 1963, art. 133, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "Een werkloze is onbeschikbaar voor de algemene arbeidsmarkt, wanneer hij zijn bereidheid om een dienstbetrekking te aanvaarden, beperkt tot de bereidheid zijn eigen beroep uit te oefenen <1>. (Art. 133, vierde lid, K.B. 20 dec. 1963.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800929.9": {
+      "court": "CASS",
+      "date": "1980-09-29",
+      "roleNumber": "6066",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/09/29/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'un an maximum entre la fin des études et la demande d'admission, prévu par l'article 124, alinéa 1er, 2., de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage pour que le jeune chômeur puisse être admis au bénéfice des allocations de chômage, commence à courir dès la fin desdites études et non à la fin des vacances scolaires qui les suivent."
+      ],
+      "abstractNL": [
+        "De termijn van ten hoogste een jaar tussen het einde van de studies en de aanvraag om uitkering, gesteld bij art. 124, eerste lid, 2°, K.B. 20 december 1963 betreffende de arbeidsvoorziening en werkloosheid, waarbinnen de jonge werknemer zijn aanvraag om uitkering kan doen, begint te lopen vanaf het einde van die studie en niet bij het einde van de daaropvolgende schoolvakantie <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800623.12": {
+      "court": "CASS",
+      "date": "1980-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Est considéré comme travailleur, chef de ménage, en vue de la fixation du taux des allocations de chômage, le travailleur dont l'épouse, ou la travailleuse dont l'époux, hormis les activités ménagères, exerce des activités pour lesquelles il ou elle ne reçoit aucun avantage matériel pouvant contribuer à leur subsistance et à celle de leur famille. ( Arr. roy. du 20 décembre 1963, art. 160; arr. min. du 4 juin 1964, art. 83ter, al. 1er, 1. )"
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de werkloosheidsuitkering wordt als werknemer-gezinshoofd beschouwd de werknemer wiens echtgenote of de werkneemster wier echtgenoot, buiten huishoudelijke werkzaamheden, bezigheden verricht waarvoor hij of zij geen enkel materieel voordeel ontvangt dat tot hun levensonderhoud en dat van hun gezin kan bijdragen <1>. (Art. 160 K.B. 20 dec. 1963; art. 83ter, eerste lid, 1o, M.B. 4 juni 1964.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800512.6": {
+      "court": "CASS",
+      "date": "1980-05-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/12/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour être admis au bénéfice des allocations de chômage, par application de l'article 120 de l'arrêté royal du 20 décembre 1963, le travailleur doit justifier notamment de la moitié ou des deux tiers au moins du nombre de journées de travail fixé par l'article 118, alinéa 1er, du même arrêté; pour l'application de cette disposition les journées de travail doivent se situer au cours de la période de référence visée à l'article 118, alinéa 1er, prolongée conformément à l'alinéa 4 du même article."
+      ],
+      "abstractNL": [
+        "Om gerechtigd te zijn op werkloosheidsuitkering met toepassing van art. 120 K.B. 20 dec. 1963 moet de werknemer onder meer ten minste de helft of twee derde van het door art. 118, eerste lid, van hetzelfde besluit vereiste aantal arbeidsdagen in aanmerking kunnen doen nemen; voor de toepassing van deze bepaling komen de arbeidsdagen in aanmerking die vallen tijdens de in art. 118, eerste lid, bedoelde referteperiode, verlengd overeenkomstig het vierde lid van hetzelfde artikel <1>"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800303.7": {
+      "court": "CASS",
+      "date": "1980-03-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur ne remplit pas les conditions de stage fixées pour la catégorie d'âge à laquelle il appartient, le juge ne peut, pour l'appréciation du passé professionnel de ce travailleur, prendre en considération l'activité de celui-ci au cours des dix années qui précèdent la période de référence fixée pour une catégorie d'âge groupant des travailleurs plus âgés. ( Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, articles 118, al. 1er, et 120. )"
+      ],
+      "abstractNL": [
+        "Wanneer een werknemer niet voldoet aan de wachttijdsvoorwaarden van de leeftijdsgroep waartoe hij behoort, kan de rechter, bij de beoordeling van het beroepsverleden van die werknemer, geen rekening houden met diens arbeid tijdens de periode van tien jaar die voorafgaat aan de referteperiode voor een leeftijdsgroep van oudere werknemers. (Artt. 118, eerste lid, en 120 K.B. Arbeidsvoorziening en Werkloosheid.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800211.8": {
+      "court": "CASS",
+      "date": "1980-02-11",
+      "roleNumber": "2681",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les critères de l'emploi convenable, établis en exécution de l'alinéa 3 de l'article 133 de l'arrêté royal du 20 décembre 1963, ne sont pas pris en considération pour déterminer si le chômeur a soumis sa remise au travail à des réserves telles qu'elles le rendent indisponible pour le marché général de l'emploi, au sens de l'alinéa 4 dudit article."
+      ],
+      "abstractNL": [
+        "De criteria van de passende dienstbetrekking, vastgesteld ter uitvoering van het derde lid van art. 133 K.B. 20 dec. 1963, komen niet in aanmerking om te oordelen of de werkloze voor de hervatting van de arbeid dusdanig voorbehoud heeft gemaakt dat hij onbeschikbaar wordt voor de algemene arbeidsmarkt in de zin van het vierde lid van hetzelfde artikel. <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800211.10": {
+      "court": "CASS",
+      "date": "1980-02-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/11/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour avoir droit aux allocations de chômage, les jeunes travailleurs visés à l'article 124 de l'arrêté royal du 20 décembre 1963 doivent avoir travaillé ou avoir été inscrits comme demandeurs d'emploi pendant 75 jours ouvrables préalablement, et non postérieurement, à la demande d'allocations. ( Arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, art. 124, alinéa 1er, 3° )"
+      ],
+      "abstractNL": [
+        "Om op werkloosheidsuitkering gerechtigd te zijn, moeten de jonge werknemers, bedoeld in art. 124 K.B. 20 dec. 1963, krachtens het eerste lid, 3°, van dit artikel gedurende 75 werkdagen vóór _ en niet na _ hun aanvraag om uitkering arbeid in loondienst verricht hebben of als werkzoekende ingeschreven zijn geweest."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800121.6": {
+      "court": "CASS",
+      "date": "1980-01-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/01/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 121, alinéa 1er, alinéa 3, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, qui dispose que le travail effectué à l'étranger est pris en considération s'il l'a été dans un emploi qui donnerait lieu, en Belgique, au payement de cotisations de sécurité sociale, a une portée générale et ne distingue pas suivant que le demandeur d'allocations, alors qu'il effectuait un travail à l'étranger, a ou non bénéficié d'un régime de sécurité sociale comportant des allocations de chômage."
+      ],
+      "abstractNL": [
+        "Art. 121, alinéa 1, derde lid, K.B. 20 december 1963 betreffende de arbeidsvoorziening en werkloosheid bepaalt dat de in het buitenland verrichte arbeid in aanmerking komt wanneer hij verricht is in een dienstbetrekking die in België aanleiding zou geven tot betaling van sociale-zekerheidsuitkeringen; die bepaling is van algemene aard en maakt geen onderscheid naargelang de uitkeringsaanvrager, toen hij in het buitenland werkte, al dan niet onderworpen was aan een sociale-zekerheidsstelsel met werkloosheidsuitkeringen."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790212.8": {
+      "court": "CASS",
+      "date": "1979-02-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/02/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 130 de l'arrêté royal du 20 décembre 1963, aux termes duquel les allocations de chômage ne sont, en principe, octroyées qu'en cas de chômage subi dans un emploi à temps plein et qui détermine les conditions auxquelles le travailleur occupé à temps réduit peut bénéficier desdites allocations, est applicable aux travailleurs à domicile."
+      ],
+      "abstractNL": [
+        "Art. 130 K.B. 20 dec. 1963, luidens hetwelk werkloosheidsuitkering in beginsel maar wordt toegekend in geval van werkloosheid in een volledige dienstbetrekking en dat de voorwaarden bepaalt waaronder de werknemer met een onvolledige dienstbetrekking werkloosheidsuitkering kan genieten, is toepasselijk op de huisarbeiders <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19781030.8": {
+      "court": "CASS",
+      "date": "1978-10-30",
+      "roleNumber": "5790",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/10/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur à temps réduit volontaire au sens de l'article 130, par. 2bis, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage fait valoir, pour être admis au bénéfice des allocations, des demi-journées de travail accomplies dans une entreprise où le travail hebdomadaire est normalement et habituellement réparti sur cinq jours, il y a lieu de majorer le nombre de ces demi-journées de 20 p.c. ( Arr. roy. du 20 décembre 1963, art. 118, 125bis et 130, par. 2bis, et arr. min. du 4 juin 1964 relatif au chômage, art. 7. )"
+      ],
+      "abstractNL": [
+        "Wanneer een werknemer met uit eigen wil verkorte werktijd, in de zin van art. 130, alinéa 2bis, K.B. 20 dec. 1963 betreffende arbeidsvoorziening en werkloosheid, om aanspraak te kunnen maken op werkloosheidsuitkeringen, doet gelden dat hij halve dagen werkzaam is geweest in een onderneming waar de wekelijkse arbeid normaal en gewoonlijk over vijf dagen verdeeld is, wordt het aantal halve arbeidsdagen met 20 pct. verhoogd. (Artt. 118, 125bis en 130, alinéa 2, K.B. 20 dec. 1963 en art. 7 M.B. 4 juni 1964.)"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780918.9": {
+      "court": "CASS",
+      "date": "1978-09-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui n'est pas chef de ménage et qui bénéficie d'allocations de chômage calculées à raison de 40 p.c. de sa rémunération moyenne parce qu'il est en état de chômage depuis plus d'une année, peut recouvrer le droit à des allocations calculées à raison de 60 p.c. de sa rémunération dès qu'il a interrompu son indemnisation pendant une année au moins, si, pendant cette année, il n'a pas été chômeur ou malade pendant plus de trois mois au total. ( Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 160, par. 3 et 5, et arr. min. du 4 juin 1964 relatif au chômage, art. 83bis. )"
+      ],
+      "abstractNL": [
+        "De werknemer, niet-gezinshoofd, die werkloosheidsuitkeringen geniet, berekend tegen 40 pct. van zijn gemiddeld loon, omdat hij sinds meer dan een jaar werkloos is, kan opnieuw recht hebben op uitkeringen, berekend tegen 60 pct. van zijn loon, na een onderbreking van zijn uitkering gedurende ten minste een jaar, op voorwaarde dat hij gedurende dat jaar niet langer dan drie maanden werkloos of ziek is geweest. (Art. 160, alinéa alinéa 3 en 5, K.B. 20 dec. 1963 betreffende arbeidsvoorziening en werkloosheid, art. 83bis M.B. 4 juni 1964 inzake werkloosheid.)."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780612.9": {
+      "court": "CASS",
+      "date": "1978-06-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 130 de l'arrêté royal du 20 décembre 1963, aux termes duquel les allocations de chômage ne sont, en principe, octroyées qu'en cas de chômage subi dans un emploi à temps plein et qui détermine les conditions auxquelles le travailleur occupé à temps réduit peut bénéficier desdites allocations, est applicable aux travailleurs à domicile."
+      ],
+      "abstractNL": [
+        "Artikel 130 van het koninklijk besluit van 20 december 1963, luidens hetwelk werkloosheidsuitkering in beginsel maar wordt toegekend in geval van werkloosheid in een volledige dienstbetrekking en dat de voorwaarden bepaalt waaronder de werknemer met een onvolledige dienstbetrekking werkloosheidsuitkering kan genieten, is toepasselijk op de huisarbeiders."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780503.15": {
+      "court": "CASS",
+      "date": "1978-05-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/03/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Sont applicables aux jeunes travailleurs admis aux allocations de chômage en vertu de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, après l'expiration de la période de six mois prenant cours lors de leur inscription comme demandeurs d'emploi, les règles relatives à la détermination des critères de l'emploi convenable en raison des aptitudes professionnelles, applicables aux chômeurs qui ne sont pas admis aux allocations de chômage en vertu dudit article 124. (Arr. min. du 4 juin 1964, art. 48.)"
+      ],
+      "abstractNL": [
+        "Op de jonge werknemers die met toepassing van artikel 124 van het koninklijk besluit van 20 december 1963 op werkloosheidsuitkering gerechtigd zijn, zijn na het verstrijken van de periode van zes maanden vanaf hun inschrijving als werkzoekende, de regelen betreffende de vaststelling van de criteria van de passende dienstbetrekking in verband met de beroepsgeschiktheid toepasselijk, welke gelden voor de werklozen die niet met toepassing van voornoemd artikel 124 op werkloosheidsuitkering gerechtigd zijn. (Ministerieel besluit van 4 juni 1964, art. 48.)"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780503.16": {
+      "court": "CASS",
+      "date": "1978-05-03",
+      "roleNumber": "2168",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/03/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut suppléer d'office aux motifs proposés par les parties que lorsqu'il se fonde uniquement sur des faits régulièrement soumis à son appréciation et ne modifie ni l'objet ni la cause de la demande."
+      ],
+      "abstractNL": [
+        "De rechter kan ambtshalve de door de partijen voorgedragen redenen aanvullen, wanneer hij enkel steunt op regelmatig aan zijn beoordeling overgelegde feiten en het voorwerp noch de oorzaak van de eis wijzigt."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770926.4": {
+      "court": "CASS",
+      "date": "1977-09-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui met lui-même fin au contrat de travail n'est pas chômeur par suite de circonstances indépendantes de sa volonté, sauf si sa démission est la conséquence de circonstances de nature telle qu'il ne puisse raisonnablement être exigé de lui de continuer l'exécution du contrat (2). ( Arr. roy. du 20 décembre 1963, article 126. )"
+      ],
+      "abstractNL": [
+        "De werknemer die elf een einde aan de arbeidsovereenkomst maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren (1). ( K. B. van 30 december 1963, art. 126. )"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770622.8": {
+      "court": "CASS",
+      "date": "1977-06-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/06/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur masculin qui peut prétendre à une pension avant l'âge de 65 ans cesse d'avoir droit aux allocations de chômage à partir du premier jour du mois qui suit celui au cours duquel il atteint cet âge. (Arr. roy. du 20 décembre 1963 relatif à l'emploi et au chômage, art. 145, par. 1er.)"
+      ],
+      "abstractNL": [
+        "De mannelijke werknemer die aanspraak kan doen gelden op een pensioen voor zijn vijfenzestigste jaar heeft geen recht meer op de werkloosheidsuitkering vanaf de eerste dag van de kalendermaand volgend op de datum waarop hij de pensioengerechtigde leeftijd bereikt. ( Art. 145, par. 1, K.B. van 20 december 1963 betreffende arbeidsvoorziening en werkloosheid. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761201.8": {
+      "court": "CASS",
+      "date": "1976-12-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/12/01/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 193 de l'arrêté royal du 20 décembre 1963, selon lequel l'organisme payeur peut payer des allocations de chômage avant d'avoir reçu la carte d'allocations, lorsque cette carte ne lui est pas transmise dans le délai prescrit, n'accorde au chômeur dont la demande d'allocations est rejetée aucun droit aux allocations, si l'organisme payeur n'a pas usé de la faculté de payer des allocations avant d'avoir reçu la carte d'allocations."
+      ],
+      "abstractNL": [
+        "Artikel 193 van het koninklijk besluit van 20 december 1963, luidens hetwelk de uitbetalingsinstelling werkloosheidsuitkering mag uitbetalen alvorens de uitkeringskaart te hebben ontvangen, wanneer deze kaart haar niet binnen de voorgeschreven termijn wordt bezorgt, verleent aan de werkloze wiens aanvraag om uitkering wordt afgewezen geen enkel recht op uitkering, wanneer de uitbetalingsinstelling geen gebruik heeft gemaakt van de mogelijkheid uitkeringen uit te betalen alvorens de uitkeringskaart te hebben ontvangen."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760602.8": {
+      "court": "CASS",
+      "date": "1976-06-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La privation du droit aux allocations pendant la période prévue à l'article 136, par. 2, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage ne peut être fondée sur un fait antérieur qui n'a pas fait l'objet d'une décision passée en force de chose jugée."
+      ],
+      "abstractNL": [
+        "Het verlies van de aanspraak op werkloosheidsuitkering gedurende de periode vastgesteld in artikel 136, par. 2, van het koninklijk besluit van 20 december 1963 betreffende arbeidsvoorziening en werkloosheid kan niet worden gegrond op een vroeger feit waarover een in kracht van gewijsde gegane beslissing is gewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760526.9": {
+      "court": "CASS",
+      "date": "1976-05-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/26/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut reconnaître un droit aux allocations de chômage aux seuls motifs que la décision administrative déniant le droit aux allocations est nulle, aucune demande d'allocations n'ayant été introduite, et que la revision de ce droit est irrégulière. (Arr. roy. du 20 décembre 1963, art. 172, 174 et 176.)"
+      ],
+      "abstractNL": [
+        "De rechter kan geen recht op werkloosheidsuitkering toekennen op grond alleen dat de administratieve beslissing waarbij het recht op uitkering wordt ontzegd nietig is, omdat geen uitkeringsaanvraag werd ingediend, en dat de herziening van dit recht onregelmatig is. ( Artt. 172, 174 en 176 K.B. van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760310.9": {
+      "court": "CASS",
+      "date": "1976-03-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les vacances qui suivent une période pendant laquelle de jeunes travailleurs n'ont pas suivi les cours d'un cycle ou d'un niveau supérieur n'ont pas pour effet de prolonger le délai d'un an dans lequel ils doivent, application de l'article 124 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, introduire leur demande d'allocations de chômage après la fin de leurs études secondaires (1)."
+      ],
+      "abstractNL": [
+        "De vakantie die volgt op een periode gedurende welke jonge werknemers geen cursussen van een hogere cyclus of niveau hebben gevolgd, leidt niet tot verlenging van de termijn van een jaar binnen welke zij na het beëindigen van secundaire studies hun aanvraag om werkloosheidsuitkering moeten indienen met toepassing van artikel 124 van het koninklijk besluit van 20 december 1963 betreffende arbeidsvoorziening en werkloosheid (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751126.12": {
+      "court": "CASS",
+      "date": "1975-11-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/11/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le chômeur qui conserve sa qualité de bénéficiaire, lorsque son indemnisation a été interrompue pendant une période inférieure à quinze mois, doit introduire une demande pour prétendre à nouveau au bénéfice des allocations de chômage (1). (arr. roy. du 20 décembre 1963, art. 123, par. 1er, 1°, et 185.)"
+      ],
+      "abstractNL": [
+        "De werkloze die zijn hoedanigheid van gerechtigde behoudt wanneer zijn uitkeringen gedurende minder dan 15 maanden onderbroken werden, moet een aanvraag indienen om opnieuw werkloosheidsuitkering te bekomen (1). ( Artt. 123, par. 1, 1°, en 185 K.B. van 20 december 1963 )."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751119.8": {
+      "court": "CASS",
+      "date": "1975-11-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/11/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur est admis au bénéfice des allocations de chômage, en raison d'un travail exercé à l'étranger dans un emploi qui en Belgique donnerait lieu au payement de cotisations de sécurité sociale, il peut être tenu compte, pour la détermination du taux des allocations de chômage dues à ce travailleur , de la rémunération journalière moyenne qu'il a gagnée à l'étranger (1). (Arr. roy. du 20 décembre 1963, art. 121, par. 1er, et 160; par. 2; arr. min. du 4 juin 1964; art. 83quarter, par. 4.)"
+      ],
+      "abstractNL": [
+        "Wanneer een werknemer recht heeft op werkloosheidsuitkeringen voor de in het buitenland verrichte arbeid in een dienstbetrekking die in Belgie aanleiding zou geven tot betaling van sociale-zekerheidsbijdragen, kan de rechter, voor de vaststelling van het bedrag van de aan deze werknemer verschuldigde werkloosheidsuitkeringen, wettelijk rekening houden met het gemiddeld dagloon dat hij in het buitenland heeft verdiend. ( Artt. 121, alinéa 1, en 160, alinéa 2, K.B. van 20 december 1963; art. 83quater, alinéa 4, M.B. van 4 juni 1964. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751029.3": {
+      "court": "CASS",
+      "date": "1975-10-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La sanction administrative, prévue à l'article 196 de l'arrêté royal du 20 décembre 1963, du chef de production de documents inexacts ne peut être infligée que lorsque le chômeur a produit lesdits documents dans l'intention spéciale d'obtenir des allocations de chômage indues."
+      ],
+      "abstractNL": [
+        "De door artikel 196 van het koninklijk besluit van 20 december 1963 bepaalde administratieve sanctie wegens het voorleggen van onjuiste documenten kan maar worden opgelegd wanneer de werkloze die documenten heeft voorgelegd met het bijzonder opzet onrechtmatig werkloosheidsuitkering te bekomen."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750326.4": {
+      "court": "CASS",
+      "date": "1975-03-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du montant de l'allocation de chômage le pécule de vacances des travailleurs est considéré comme rémunération jusqu'à concurrence d'un montant égal à 6 pc. des autres sommes et avantages considérés comme rémunération. ( arr. roy. du 20 décembre 1963, art. 160, paragraphe 2, alinéa 2; arr. roy. du 28 novembre 1969, art. 19, paragraphe 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van het bedrag van de werkloosheidsuitkering wordt het vakantiegeld van de arbeiders als loon beschouwd ten belope van een bedrag dat gelijk is aan 6 t.h. van de andere sommen en voordelen die als loon in aanmerking komen. ( Art. 160, par. 2, lid 2, K.B. van 20 december 1963; art. 19, par. 1, 1°, K. B. van 28 november 1969. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750319.1": {
+      "court": "CASS",
+      "date": "1975-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui refuse les indemnités d'incapacité de travail à un travailleur, au seul motif qu'il a bénéficié en Italie d'allocations de chômage, ne justifie pas légalement sa décision, s'il ne constate pas que la loi italienne refuse, en principe, comme la loi belge, les allocations de chômage au travailleur atteint d'une incapacité de travail de 66 p. c. au moins lui ouvrant un droit aux indemnités d'incapacité de travail. ( Loi du 9 août 1963, art. 56, et arrêté royal du 20 décembre 1963, art. 142. )"
+      ],
+      "abstractNL": [
+        "De rechter die weigert aan een werknemer vergoedingen wegens arbeidsongeschiktheid toe te kennen op grond alleen dat hij in Italië werkloosheidsuitkeringen heeft gekregen, verantwoordt niet wettelijk zijn beslissing als hij niet vaststelt dat de Italiaanse wet in beginsel, zoals de Belgische wet, geen werkloosheidsuitkeringen toekent aan een werknemer met een arbeidsongeschiktheid van 66 percent, waardoor hij recht heeft op vergoedingen wegens arbeidsongeschiktheid. ( Art. 56 wet van 9 augustus 1963; art. 142 K.B. van 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750219.7": {
+      "court": "CASS",
+      "date": "1975-02-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/02/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les retenues de sécurité sociale n'ont pas été opérées sur les salaires payés à un travailleur pendant la période de stage prévue à l'article 118 de l'arrêté royal du 20 décembre 1963, le juge ne peut légalement décider que ce travailleur est admis au bénéfice des allocations de chômage, sans constater que ledit travailleur peut se prévaloir soit de l'article 15 de l'arrêté ministériel du 4 juin 1964 qui détermine les conditions dans lesquelles les retenues de sécurité sociale sont censées avoir été opérées, soit de l'article 16 du même arrêté qui fixe les conditions dans lesquelles un travailleur peut invoquer la régularisation du payement des cotisations."
+      ],
+      "abstractNL": [
+        "Wanneer de inhoudingen voor de sociale zekerheid verricht zijn op lonen welke aan een werknemer betaald zijn tijdens de proeftijd waarvan sprake in artikel 18 van het koninklijk besluit van 20 december 1963, kan de rechter niet wettelijk beslissen dat deze werknemer recht heeft op werkloosheidsuitkeringen zonder vast te stellen dat deze werknemer zich kan beroepen hetzij op artikel 15 van het ministerieel besluit van 4 juni 1964 tot vaststelling van de voorwaarden waaronder mag geacht worden dat de bijdragen voor de sociale zekerheid ingehouden werden, hetzij op artikel 16 van hetzelfde besluit tot vaststelling van de voorwaarden waarop een werknemer zich kan beroepen om de betaling van de bijdragen te regulariseren."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741010.9": {
+      "court": "CASS",
+      "date": "1974-10-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En l'absence de disposition légale dérogatoire, applicable en la cause, les prestations de travail effectuées par un mineur d'age de moins de quatorze ans ne peuvent pas être prises en considération pour le calcul des septante-cinq journées de travail nécessaires à l'ouverture du droit aux allocations de chomage. ( Arrêté royal du 20 décembre 1963, art. 118, et lois sur le travail des enfants coordonnées le 28 février 1919, art. 3. )"
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van een afwijkende wettelijke bepaling die ten deze van toepassing is, kan de arbeid van een minderjarige die nog geen veertien jaar oud is, niet in aanmerking komen voor de berekening van de vijfenzeventig arbeidsdagen die nodig zijn om recht te geven op de werkloosheidsuitkeringen. ( Art. 118 k.b. van 20 december 1963 en art. 3 wetten betreffende de kinderarbeid, gecoördineerd op 28 februari 1919. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731128.8": {
+      "court": "CASS",
+      "date": "1973-11-28",
+      "roleNumber": "4955",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/11/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur a refusé la réduction de la durée de travail prévue par le contrat le liant à son employeur et qu'ensuite de ce refus l'employeur a congédié ledit travailleur, avec préavis, le juge ne peut légalement décider que ce travailleur est devenu chômeur par son propre fait. (Arrêté royal du 20 décembre 1963, relatif à l'emploi et au chômage, art. 134.)"
+      ],
+      "abstractNL": [
+        "Wanneer een werknemer de in de overeenkomst met zijn werkgever bepaalde werktijdsverkorting heeft geweigerd en de werkgever, ten gevolge van die weigering, de werknemer heeft afgedankt, met opzegging, kan de rechter wettelijk niet beslissen dat die werknemer door eigen toedoen werkloos is geworden. ( Art. 134 K.B. 20 december 1963 betreffende arbeidsvoorziening en werkloosheid. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731114.3": {
+      "court": "CASS",
+      "date": "1973-11-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/11/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivée la décision qui rejette le recours introduit devant la juridiction du travail par le chômeur exclu du bénéfice des allocations de chômage, sans répondre de manière adéquate aux conclusions par lesquelles ce chômeur faisait valoir que le seul refus de se présenter à un examen de recrutement de l'Etat ne pouvait être assimilé au refus d'un emploi convenable suivant les critères établis par l'arrêté ministériel du 4 juin 1964. (Arr. roy. du 20 décembre 1963, art. 124, 133, 134 et 138.)"
+      ],
+      "abstractNL": [
+        "Niet regelmatig gemotiveerd is de beslissing die afwijzend beschikt op de vordering die voor het arbeidsgerecht is ingesteld door de werkloze aan wie het recht op werkloosheidsuitkering was ontzegd, zonder passend te antwoorden op de conclusie waarin deze werkloze deed gelden dat de weigering alleen zich voor een wervingsexamen van de Staat aan te melden, niet kon gelijkgesteld worden met de weigering een passende dienstbetrekking te aanvaarden volgens de criteria van het ministerieel besluit van 4 juni 1964. ( Artt. 124, 133, 134 en 138 K. B. 20 december 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730328.5": {
+      "court": "CASS",
+      "date": "1973-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/03/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le caractère convenable d'un emploi offert, que le chômeur inscrit comme demandeur d'emploi doit accepter pour avoir droit aux allocations de chômage, peut être apprécié en ayant égard à d'autres critères que ceux indiqués dans les articles 35 à 59 de l'arrêté ministériel du 4 juin 1964 relatif au chômage, lorsque la contestation relative au caractère convenable de l'emploi sort du champ d'application des critères établis par cet arrêté ministériel. ( Arr. roy. du 20 décembre 1963, art. 133. )"
+      ],
+      "abstractNL": [
+        "Het passend karakter van een aangeboden dienstbetrekking, welke de werkloze die als werkzoekende moet ingeschreven zijn om recht op werkloosheidsuitkering te hebben, verplicht is te aanvaarden, mag ook beoordeeld worden met inachtneming van andere criteria dan die welke voorkomen in de artikelen 35 tot 59 van het ministerieel besluit van 4 juni 1964 inzake werkloosheid, wanneer het geschil betreffende het passend karakter van de dienstbetrekking buiten het toepassingsveld van die bij ministerieel besluit vastgestelde criteria valt. ( Koninklijk besluit van 20 december 1963, art. 133 )."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730221.2": {
+      "court": "CASS",
+      "date": "1973-02-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut ni se substituer au comité de gestion de l'Office national de l'emploi pour reconnaître que des études du cycle secondaire inférieur de formation technique ou professionnelle préparent normalement à l'exercice d'une profession salariée, ni assimiler à de telles études l'enseignement suivi par un jeune travailleur. ( Arrêté royal du 20 décembre 1963, article 124, al. 1er, 4°, modifié par l'article 1er de l'arrêté royal du 3 octobre 1968. )"
+      ],
+      "abstractNL": [
+        "De rechter mag zich niet in de plaats van het beheerscomité van de Rijksdienst voor arbeidsvoorziening stellen om te erkennen dat studies van de lagere secundaire cyclus met technische of beroepsvorming een normale voorbereiding zijn voor de uitoefening van een beroep in loondienst en evenmin het door een jonge werknemer genoten onderwijs met dergelijke studies gelijkstellen. ( K.B. van 20 december 1963, art. 124, lid 1, 4°, gewijzigd bij het K.B. van 3 oktober 1968. )"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670614.1": {
+      "court": "CASS",
+      "date": "1967-06-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur, qui n'a pas été occupé au travail pendant au moins un jour dans la période de douze jours ouvrables précédant un jour férié, a néanmoins droit à la rémunération afférente à ce jour, lorsque la non-occupation au travail est due, fût-ce partiellement, à l'application des dispositions légales concernant les vacances des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De werknemer die niet gedurende minstens één dag gewerkt heeft tijdens de periode van twaalf werkdagen die een feestdag voorafgaan, heeft desniettemin recht op het loon voor deze dag, wanneer de niet-tewerkstelling, al was het ten dele, te wijten is aan de toepassing van de wettelijke voorschriften betreffende het jaarlijks verlof van de loontrekkenden."
+      ]
     }
   }
 }

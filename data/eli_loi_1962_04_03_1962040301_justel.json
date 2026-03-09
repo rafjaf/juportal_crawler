@@ -1,4 +1,20 @@
 {
+  "27": {
+    "ECLI:BE:CASS:1978:ARR.19781127.3": {
+      "court": "CASS",
+      "date": "1978-11-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/11/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La pension du travailleur salarié qui a été calculée en application de la loi du 3 avril 1962 et qui a pris cours effectivement et pour la première fois avant le 1er janvier 1968 demeure régie par ladite loi du 3 avril 1962,à l'exception des articles 16, 21, 22 et 27 de celle-ci. ( Arr. roy. no 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés, art. 75, par. 1er, 8. )"
+      ],
+      "abstractNL": [
+        "Het werknemerspensioen dat is berekend met toepassing van de wet van 3 april 1962 en dat daadwerkelijk en voor de eerste maal vóór 1 januari 1968 is ingegaan, blijft beheerst door de wet van 3 april 1962, met uitzondering van artt. 16, 21, 22 en 27 van die wet. ( Art. 75, alinéa 1, 8°, K.B. nr. 50 van 24 oktober 1967. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1978:ARR.19781127.6": {
       "court": "CASS",

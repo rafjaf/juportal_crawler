@@ -17,6 +17,22 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:1998:ARR.19981126.10": {
+      "court": "CASS",
+      "date": "1998-11-26",
+      "roleNumber": "C950219N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, § II, 4°, et 47, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration, c'est-à-dire celles qui sont étroitement liées à la gestion technique du navire; ces fautes sont distinctes de celles que le capitaine-propriétaire commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, § II, 4°, en 47 van boek II Wkh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. deze die in het sturen van het schip worden begaan, als de in het beheren van het schip begane fouten, d.w.z. deze die nauw verbonden zijn met het technische beheer van het schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
+      ]
+    }
+  },
   "9": {
     "ECLI:BE:CASS:2016:ARR.20160609.4": {
       "court": "CASS",
@@ -146,6 +162,36 @@
       ],
       "abstractNL": [
         "De vorderingen betreffende de maatregelen van artikel 14, leden a) en b), van de wet van 11 april 1989 houdende goedkeuring en uitvoering van diverse internationale akten inzake de zeevaart stemmen overeen met de vorderingen vermeld in artikel 2, §1, leden d) en e), van het Verdrag betreffende de beperking van de aansprakelijkheid inzake zeevorderingen, opgemaakt te Londen op 19 november 1976; uit artikel 1, c), van voormelde wet volgt dat deze vorderingen, voor wat de zeevaartuigen betreft, uitgesloten zijn van toepassing van de aansprakelijkheidsbeperking, zoals die door dit Verdrag geregeld is; uit artikel 18 van die wet en de wetsgeschiedenis blijkt evenwel dat de wetgever deze vorderingen, betreffende de zeevaartuigen, aan een eigen regeling van aansprakelijkheidsbeperking heeft onderworpen; aldus wil de wetgever de onbeperkte aansprakelijkheid matigen, die voor zeevaartuigen zou voortvloeien uit de uitsluiting van deze vorderingen uit de toepassing van voormeld Verdrag (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010330.5": {
+      "court": "CASS",
+      "date": "2001-03-30",
+      "roleNumber": "C970330N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'au lieu de remettre au liquidateur à l'abandon de la valeur du navire la valeur à laquelle il entend limiter sa responsabilité, augmentée des intérêts légaux, depuis le jour de l'événement jusqu'au jour du versement fait au liquidateur, le propriétaire du navire y substitue un cautionnement de banque conformément à l'article 53, §V, de la loi (ancienne) du 25 septembre 1908 sur la navigation maritime et la navigation intérieure, les intérêts continuent à courir jusqu'au jour du versement de la somme au liquidateur."
+      ],
+      "abstractNL": [
+        "Wanneer de eigenaar van het schip, in plaats van aan de vereffenaar van het afgestane scheepsvermogen de waarde te overhandigen tot dewelke hij zijn aansprakelijkheid wenst te beperken, vermeerderd met de wettelijke interest sedert de dag van het voorval tot de dag van storting in handen van de vereffenaar, bij de bank, overeenkomstig art. 53, § V, Zeewet (oud), een zekerheid verstrekt heeft, loop de interest door tot op de dag van de storting van het bedrag in handen van de vereffenaar."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981126.10": {
+      "court": "CASS",
+      "date": "1998-11-26",
+      "roleNumber": "C950219N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, § II, 4°, et 47, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration, c'est-à-dire celles qui sont étroitement liées à la gestion technique du navire; ces fautes sont distinctes de celles que le capitaine-propriétaire commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, § II, 4°, en 47 van boek II Wkh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. deze die in het sturen van het schip worden begaan, als de in het beheren van het schip begane fouten, d.w.z. deze die nauw verbonden zijn met het technische beheer van het schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
       ]
     }
   }

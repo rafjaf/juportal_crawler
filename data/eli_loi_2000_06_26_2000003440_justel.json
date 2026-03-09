@@ -14,5 +14,37 @@
         "De geldboete die verbonden is aan een misdrijf dat gepleegd is vóór de inwerkingtreding, op 1 januari 2002, van de Wet 26 juni 2000 betreffende de invoering van de euro in de wetgeving die betrekking heeft op aangelegenheden als bedoeld in artikel 78 van de Grondwet, maar opgelegd wordt na de inwerkingtreding ervan, moet worden verhoogd overeenkomstig de oude wet die gunstiger is, waarbij het bedrag in Belgische frank wordt omgezet in euro door het te delen door 40,3399 (1); de toepassing, ter bestraffing van misdrijven gepleegd vóór de inwerkingtreding van voormelde wet van 26 juni 2000, van een deler die lager is dan de wettelijke omrekeningskoers van de nieuwe munt heeft tot gevolg dat het bedrag van de geldboeten op het hogere tiental wordt afgerond en, bijgevolg, dat zwaardere straffen worden opgelegd dan deze bepaald bij de van kracht zijnde wet op het ogenblik waarop de bewezen verklaarde feiten werden gepleegd. (1) Cass., 16 okt. 2002, AR P.02.0916.F, nr 544."
       ]
     }
+  },
+  "5": {
+    "ECLI:BE:CASS:2003:ARR.20030115.13": {
+      "court": "CASS",
+      "date": "2003-01-15",
+      "roleNumber": "P021326F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/01/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "N'entraîne pas la nullité du jugement attaqué, la constatation des juges d'appel que leur décision a été prise à l'unanimité, alors que cette unanimité n'était pas requise pour justifier légalement la conversion en euros des montants des peines d'amende que le premier juge avait fixés en francs belges (1). (1) Voir Cass., 21 octobre 1986, RG 9606, n° 112."
+      ],
+      "abstractNL": [
+        "Het bestreden vonnis is niet nietig, wanneer de appèlrechters vaststellen dat hun beslissing met eenparigheid van stemmen is genomen, terwijl die eenstemmigheid niet was vereist om de omzetting in euro van de geldboeten, die de eerste rechter in Belgische frank had vastgesteld, naar recht te verantwoorden (1). (1) Zie Cass., 21 okt. 1986, AR 9606, nr 112."
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:2003:ARR.20031112.6": {
+      "court": "CASS",
+      "date": "2003-11-12",
+      "roleNumber": "P031208F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/11/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les condamnations pécuniaires prononcées par les cours et tribunaux sont exprimées en euro à partir du 1er janvier 2002 selon les modalités prévues à l'article 1er, alinéa 2, de la loi relative aux décimes additionnels sur les amendes pénales; doit être annulée la décision qui prononce des condamnations dans une monnaie qui n'a plus cours légal."
+      ],
+      "abstractNL": [
+        "De door de hoven en rechtbanken uitgesproken veroordelingen tot geldboeten worden vanaf 1 jan. 2002 uitgedrukt in euro, volgens de modaliteiten van art. 1, tweede lid, Wet 5 maart 1952 betreffende de opdeciemen op de strafrechtelijke geldboeten; de beslissing die veroordelingen uitspreekt in een munt die geen wettelijke waarde meer heeft, moet worden vernietigd."
+      ]
+    }
   }
 }

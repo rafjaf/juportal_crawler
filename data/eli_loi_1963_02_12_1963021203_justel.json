@@ -1,4 +1,20 @@
 {
+  "42": {
+    "ECLI:BE:CASS:1969:ARR.19690324.7": {
+      "court": "CASS",
+      "date": "1969-03-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge, appelé à statuer sur l'action civile de la communauté religieuse à laquelle appartenaient les victimes d'un accident du roulage, peut décider, sur la base d'éléments de fait qu'il constate, que dans le passé ces victimes ont régulièrement abandonné leur pension de vieillesse à ladite communauté, et en déduire, à titre de présomption, que si elles étaient demeurées en vie, les victimes auraient continué à abandonner lesdites pensions à leur communauté, même si ces pensions ne pouvaient valablement être cédées à l'avance."
+      ],
+      "abstractNL": [
+        "De rechter die uitspraak moet doen op de burgerlijke rechtsvordering van de kloostergemeenschap, waartoe de slachtoffers van een verkeersongeval behoorden, kan op grond van door hem vastgestelde feitelijke elementen beslissen dat deze slachtoffers in het verleden regelmatig hun ouderdomspensioen aan deze gemeenschap afstonden, en er als vermoeden uit afleiden dat zo deze slachtoffers in leven waren gebleven, zij verder bedoelde pensioenen aan hun gemeenschap zouden blijven afstaan hebben, zelfs zo deze pensioenen niet geldig vooraf konden overgedragen worden."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1986:ARR.19860616.10": {
       "court": "CASS",
@@ -22,6 +38,34 @@
       "abstractFR": null,
       "abstractNL": [
         "Een persoon vraagt de toekenning van de aanvullende tegemoetkoming voor minder-validen aan; bovendien is zij met een prestatie begunstigd overeenkomstig de wet van 12 februari 1963 betreffende de inrichting van een rust- en overlevingspensioenregeling ten behoeve van de vrijwillige verzekerden. Invloed van deze prestatie naar gelang van haar aard, op de vaststelling van het bedrag van de aanvullende tegemoetkoming voor minder-validen. Verhaal bij het Hof van Cassatie ten einde de aard van deze prestatie vast te stellen _ Afwijzing van de voorziening."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860616.6": {
+      "court": "CASS",
+      "date": "1986-06-16",
+      "roleNumber": "7355",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est uniquement comprise dans \"le régime des assurés libres\", en vue de l'application de l'article 115, alinéa 1er, de l'arrêté royal du 22 décembre 1967, le régime institué par la loi du 12 février 1963 relative à l'organisation d'un régime de pension de retraite et de survie au profit des assurés libres."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 115, alinéa 1, K.B. van 22 december 1967 valt onder \"de regeling der vrijwillig verzekerden\" alleen de wet van 12 februari 1963 betreffende de inrichting van een ouderdomspensioenregeling en overlevingspensioenregeling ten behoeve van de vrijwillig verzekerden."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690324.7": {
+      "court": "CASS",
+      "date": "1969-03-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge, appelé à statuer sur l'action civile de la communauté religieuse à laquelle appartenaient les victimes d'un accident du roulage, peut décider, sur la base d'éléments de fait qu'il constate, que dans le passé ces victimes ont régulièrement abandonné leur pension de vieillesse à ladite communauté, et en déduire, à titre de présomption, que si elles étaient demeurées en vie, les victimes auraient continué à abandonner lesdites pensions à leur communauté, même si ces pensions ne pouvaient valablement être cédées à l'avance."
+      ],
+      "abstractNL": [
+        "De rechter die uitspraak moet doen op de burgerlijke rechtsvordering van de kloostergemeenschap, waartoe de slachtoffers van een verkeersongeval behoorden, kan op grond van door hem vastgestelde feitelijke elementen beslissen dat deze slachtoffers in het verleden regelmatig hun ouderdomspensioen aan deze gemeenschap afstonden, en er als vermoeden uit afleiden dat zo deze slachtoffers in leven waren gebleven, zij verder bedoelde pensioenen aan hun gemeenschap zouden blijven afstaan hebben, zelfs zo deze pensioenen niet geldig vooraf konden overgedragen worden."
       ]
     }
   }

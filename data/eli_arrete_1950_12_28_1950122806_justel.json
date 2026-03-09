@@ -1,4 +1,20 @@
 {
+  "125": {
+    "ECLI:BE:CASS:2007:ARR.20071119.3": {
+      "court": "CASS",
+      "date": "2007-11-19",
+      "roleNumber": "S.06.0053.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/11/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas un acte de procédure au sens du Tarif criminel, le rapport de contrôle dressé par la police fédérale et transmis sans autre procédure au SPF Emploi, Travail et Concertation Sociale qui l'a ensuite communiqué à l'O.N.Em., alors qu'au moment de ces communications, aucune autorité judiciaire chargée par la loi d'exercer l'action publique n'avait déjà été saisie du rapport précité ou de faits auxquels il se rapporte (1). (1) L'arrêt de la Cour ne se prononce pas sur la question de connaître si un tel rapport de contrôle est un acte d'instruction ou non. Sur l'autorisation du procureur général près la cour d'appel, voir cass. 23 janvier 1991, RG 8479, n°272; 25 mars 2003, RG P.02.1699.N, n°202. Comp. actuellement AR du 27 avril 2007 portant règlement général des frais de justice en matière répressive, art. 96, M.B. du 25 mai 2007, Ed. 2, p. 28209."
+      ],
+      "abstractNL": [
+        "Het controleverslag dat door de federale politie is opgesteld en zonder verdere rechtspleging is verzonden naar de FOD Werkgelegenheid, Arbeid en Sociaal Overleg, die het vervolgens aan de R.V.A. heeft medegedeeld, is geen akte van de rechtspleging wanneer op het ogenblik van die mededeling nog geen enkele rechterlijke overheid die wettelijk met de uitoefening van de strafvordering is belast, van dit verslag of van de daarin vermelde feiten kennisgenomen had (1). (1) Het arrest van het Hof doet geen uitspraak over de vraag of een dergelijk controleverslag al dan niet een akte van de rechtspleging is. M.b.t. de machtiging van de procureur-generaal bij het hof van beroep, zie Cass., 23 jan. 1991, AR 8479, nr. 272; 25 maart 2003, AR P.02.1699.N, nr. 202. Vgl. thans art. 96, K.B. 27 april 2007 houdende algemeen reglement op de gerechtskosten in strafzaken, B.S. 25 mei 2007, 2de Ed., p. 28209."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1984:ARR.19840120.3": {
       "court": "CASS",
@@ -22,6 +38,62 @@
       "abstractFR": null,
       "abstractNL": [
         "De inlichtingen nodig om de bijdragen te berekenen voor de sociale-zekerheidsregeling dienen door de sociale inspectie door bemiddeling van de procureur-generaal bij het Hof van Beroep verstrekt, op gevaar van schending van het beroepsgeheim. (toepassing van artikel 125 van het algemeen reglement op de gerechtskosten in strafzaken)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940518.11": {
+      "court": "CASS",
+      "date": "1994-05-18",
+      "roleNumber": "P940075F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui ordonne la suspension du prononcé de la condamnation doit condamner le prévenu au paiement de l'indemnité prévue par l'article 91, alinéa 2, de l'arrêté royal du 28 décembre 1950 portant règlement général sur les frais de justice en matière répressive. (L. 29 juin 1964, art. 6, al. 2)"
+      ],
+      "abstractNL": [
+        "Wanneer de rechter de opschorting van de uitspraak van de veroordeling gelast, moet hij de beklaagde veroordelen tot betaling van de vergoeding bedoeld in art. 91, tweede lid, K.B. 28 dec. 1950 houdende algemeen reglement op de gerechtskosten in strafzaken. (Art. 6, tweede lid, Probatiewet)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830208.3": {
+      "court": "CASS",
+      "date": "1983-02-08",
+      "roleNumber": "6546",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les frais de l'interprète de langue française, néerlandaise ou allemande, auquel il a dû être recouru pour traduire les déclarations du prévenu ne parlant pas la langue de la procédure, ne peuvent être mis à charge de celui-ci. (Loi du 15 juin 1935, art. 31; arrêté royal du 28 décembre 1950, art. 93, 3.)"
+      ],
+      "abstractNL": [
+        "De kosten van een franstalige, nederlandstalige of duitstalige tolk op wie een beroep moest worden gedaan voor de verklaringen van de beklaagde die de taal van de rechtspleging niet sprak, mogen niet ten laste van deze laatste gelaten worden <1>. (Art. 31 Taalwet Gerechtszaken 1935; art. 93, 3°, K.B. 28 dec. 1950 houdende algemeen reglement op de gerechtskosten in strafzaken.)"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761019.3": {
+      "court": "CASS",
+      "date": "1976-10-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les frais de l'interprète de langue française, néerlandaise ou allemande, auquel il a dû être recouru pour traduire les déclarations du prévenu ne parlant pas la langue de la procédure, ne peuvent être mis à charge de celui-ci (1). Loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, art. 31; arrêté royal du 28 décembre 1950 portant règlement général sur les frais de justice en matière répressive, art. 93, 3°.)"
+      ],
+      "abstractNL": [
+        "De kosten van een Franstalige, Nederlandstalige of Duitstalige tolk op wie een beroep moest worden gedaan voor de verklaringen van de beklaagde die de taal van de rechtspleging niet sprak, mogen niet ten laste van deze laatste gelaten worden (1). ( Art. 31 van de wet van 15 juni 1935 op het gebruik van de talen in gerechtszaken; art. 93, 3°, van het koninklijk besluit van 28 december 1950 houdende algemeen reglement op de gerechtskosten in strafzaken. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720314.2": {
+      "court": "CASS",
+      "date": "1972-03-14",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les frais d'un interprète de langue allemande, auquel il a dû être recouru pour traduire les déclarations du prévenu ne parlant pas la langue de la procédure, ne peuvent être mis à charge de celui-ci. ( Convention de sauvegarde des droits de l'homme et des libertés fondamentales, - approuvée par l'acte du pouvoir législatif du 13 mai 1955, - art. 6-3-c; loi du 15 juin 1935, art. 31; règlement général sur les frais de justice en matière répressive, édicté par l'arrêté royal du 28 décembre 1950, art. 93, 3°. )"
+      ],
+      "abstractNL": [
+        "De kosten van een Duitstalige tolk op wie een beroep moest worden gedaan voor de vertaling van de verklaringen van de beklaagde, die de taal van de rechtspleging niet sprak, mogen niet ten laste van deze laatste worden gebracht. ( Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden, goedgekeurd bij de handeling van de wetgevende macht van 13 mei 1955, art. 6-3-e; wet van 15 juni 1935, art. 31; algemeen reglement op de gerechtskosten in strafzaken, uitgevaardigd bij het koninklijk besluit van 28 december 1950, art. 93, 3°. )"
       ]
     }
   }

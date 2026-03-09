@@ -1,4 +1,20 @@
 {
+  "24": {
+    "ECLI:BE:CASS:1996:ARR.19960126.1": {
+      "court": "CASS",
+      "date": "1996-01-26",
+      "roleNumber": "C950049F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 24, alinéa 1er, des lois sur le concordat judiciaire, coordonnées par l'arrêté du Régent du 25 septembre 1946, que le juge qui envisage de prononcer la faillite après le rejet du concordat, doit entendre à nouveau le débiteur ou du moins l'y inviter pour qu'il puisse présenter ses remarques à propos des conditions de la faillite."
+      ],
+      "abstractNL": [
+        "Uit art. 24, eerste lid, Wet Gerechtelijk Akkoord volgt dat de rechter die voornemens is na verwerping van het akkoord de faillietverklaring uit te spreken, de schuldenaar opnieuw moet horen of hem ten minste daartoe moet oproepen opdat hij zijn opmerkingen over de voorwaarden voor de faillietverklaring naar voor zou kunnen brengen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1986:ARR.19861013.7": {
       "court": "CASS",
@@ -76,6 +92,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De sociale-zekerheidsbijdragen vormen het door de wet verplicht te betalen aandeel van de werkgevers en werknemers in de financiering van een sociale openbare dienst. De bijdrageopslag en de nalatigheidsintrest zijn sancties om de regelmatige betaling van de sociale-zekerheidsbijdragen te verzekeren; de opbrengst ervan behoort tot de geldmiddelen waarover de sociale zekerheid beschikt en dient eveneens om de goede werking van de openbare dienst te waarborgen. Zowel de sociale-zekerheidsbijdragen als de daarop verschuldigde bijdrageopslag en verwijlintrest of nalatigheidsintrest zijn openbare lasten in de zin van artikel 29, derde lid, 1°, van de bij besluit van de Regent van 25 september 1946 gecoordineerde wetten op het gerechtelijk akkoord. Het gerechtelijk akkoord heeft geen uitwerking met betrekking tot de verwijlintresten verschuldigd op de bijdragen voor sociale zekerheid op grond dat zowel de bijdragen als de bijdrageopslagen en de verwijlintresten tot de \"openbare lasten\" behoren."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960126.1": {
+      "court": "CASS",
+      "date": "1996-01-26",
+      "roleNumber": "C950049F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 24, alinéa 1er, des lois sur le concordat judiciaire, coordonnées par l'arrêté du Régent du 25 septembre 1946, que le juge qui envisage de prononcer la faillite après le rejet du concordat, doit entendre à nouveau le débiteur ou du moins l'y inviter pour qu'il puisse présenter ses remarques à propos des conditions de la faillite."
+      ],
+      "abstractNL": [
+        "Uit art. 24, eerste lid, Wet Gerechtelijk Akkoord volgt dat de rechter die voornemens is na verwerping van het akkoord de faillietverklaring uit te spreken, de schuldenaar opnieuw moet horen of hem ten minste daartoe moet oproepen opdat hij zijn opmerkingen over de voorwaarden voor de faillietverklaring naar voor zou kunnen brengen."
       ]
     }
   }

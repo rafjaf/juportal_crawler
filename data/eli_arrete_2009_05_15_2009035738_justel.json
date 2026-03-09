@@ -17,6 +17,50 @@
       ]
     }
   },
+  "6": {
+    "ECLI:BE:CASS:2013:ARR.20130903.8": {
+      "court": "CASS",
+      "date": "2013-09-03",
+      "roleNumber": "P.12.1253.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si la perpétuation d'un acte visé à l'article 6.1.1, alinéa 3, du Code flamand de l'aménagement du territoire est partiellement située dans une zone vulnérable d'un point de vue spatial et partiellement dans une autre zone, le juge ne peut, en principe, accueillir la demande de remise en état que pour autant qu'elle concerne les actes situés dans une zone vulnérable d'un point de vue spatial et donc pas pour ceux concernant les actes situés dans une autre zone; mais si toutefois l'acte situé dans une zone vulnérable d'un point de vue spatial et celui situé dans une autre zone constituent un ensemble et qu'un accueil partiel de la demande de remise en état ne peut assurer la réparation d'une situation illégale causée par l'infraction, le juge est tenu d'accueillir également la demande de remise en état pour la partie située dans la zone non vulnérable d'un point de vue spatial."
+      ],
+      "abstractNL": [
+        "Indien de instandhouding van een door artikel 6.1.1, derde lid, Vlaamse Codex Ruimtelijke Ordening bedoelde handeling deels gelegen is in een ruimtelijk kwetsbaar gebied en deels in een ander gebied, kan de rechter de herstelvordering in de regel slechts inwilligen voor zover ze betrekking heeft op de in het ruimtelijk kwetsbaar gebied gelegen handelingen en dus niet voor die welke in het andere gebied gelegen zijn, maar indien evenwel de in het ruimtelijk kwetsbaar gebied en in een ander gebied gelegen handeling één geheel vormt en een gedeeltelijke inwilliging van de herstelvordering onmogelijk kan leiden tot het herstel van de door het misdrijf veroorzaakte onwettige toestand, dient de rechter de herstelvordering ook in te willigen voor het in het niet ruimtelijk kwetsbaar gebied gelegen gedeelte."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121106.5": {
+      "court": "CASS",
+      "date": "2012-11-06",
+      "roleNumber": "P.12.0489.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/11/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En vertu des articles 1er du Premier Protocole additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 15 de la Constitution, le juge doit vérifier si la décision de l'autorité demanderesse en réparation de requérir une mesure de réparation déterminée, a été prise dans le seul but d'un bon aménagement du territoire; il est tenu de ne donner aucune suite à la demande fondée sur des motifs étrangers à l'aménagement du territoire ou sur une conception manifestement déraisonnable d'un bon aménagement du territoire (1). (1) Voir: Cass., 10 février 2009, RG P.08.1163.N, Pas., 2009, n° 108; Cass., 24 novembre 2009, RG P.09.0278.N, Pas., 2009, n° 689; Cass., 25 mars 2011, RG C.10.0016.N, Pas., 2011, n° 225."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1 Eerste Aanvullend Protocol EVRM en artikel 159 Grondwet moet de rechter nagaan of de beslissing van de herstelvorderende overheid om een bepaalde herstelmaatregel te vorderen, uitsluitend met het oog op de goede ruimtelijke ordening is genomen; hij moet de vordering die is gestoeld op motieven die vreemd zijn aan de ruimtelijke ordening of op een opvatting van een goede ruimtelijke ordening die kennelijk onredelijk is, zonder gevolg laten (1). (1) Zie: Cass. 10 feb. 2009, AR P.08.1163.N, AC 2009, nr. 108; Cass. 24 nov. 2009, AR P.09.0278.N, AC 2009, nr. 689; Cass. 25 maart 2011, AR C.10.0016.N, AC 2011, nr. 225."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120424.4": {
+      "court": "CASS",
+      "date": "2012-04-24",
+      "roleNumber": "P.11.1362.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/04/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La désignation irrégulière du bien immobilier est sans incidence sur la recevabilité de l'action publique mise en mouvement du chef d'infractions à la législation en matière d'urbanisme; le cas échéant, rien n'interdit à l'administration introduisant l'action en réparation de rectifier en cours d'instance la désignation cadastrale erronée (1). (1) Cass. 5 octobre 1999, RG P.97.0897.N, Pas. 1999, n° 503."
+      ],
+      "abstractNL": [
+        "De niet-behoorlijke omschrijving van het onroerend goed heeft geen invloed op de ontvankelijkheid van de strafvordering wegens inbreuken op de stedenbouwwetgeving; in voorkomend geval belet niets het herstelvorderende bestuur tijdens het geding de onjuiste kadastrale omschrijving van het goed recht te zetten (1). (1) Cass. 5 okt. 1999, AR P.97.0897.N, AC 1999, nr. 503."
+      ]
+    }
+  },
   "6.1.5": {
     "ECLI:BE:CASS:2017:ARR.20170512.3": {
       "court": "CASS",
@@ -105,6 +149,118 @@
       "abstractNL": [
         "De stedenbouwkundige inspecteur treedt, zowel bij het vorderen van een herstelmaatregel als bij het ten uitvoer leggen van de bevolen herstelmaatregel en van de verschuldigde dwangsommen, op in naam van het Vlaamse Gewest, zonder dat hij dit in het kader van een gedwongen tenuitvoerlegging uitdrukkelijk in zijn betekeningsexploot dient te vermelden (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20141125.3": {
+      "court": "CASS",
+      "date": "2014-11-25",
+      "roleNumber": "P.13.1715.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/11/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition décrétale ne requiert que l'inspecteur urbaniste régional mentionne explicitement dans l'action en réparation qu'il intervient au nom de la Région flamande (1). (1) Voir: Cass. 3 avril 2007, RG P.06.1586.N, Pas. 2007, n° 165."
+      ],
+      "abstractNL": [
+        "Geen enkele decretale bepaling vereist dat de gewestelijk stedenbouwkundig inspecteur in de herstelvordering uitdrukkelijk zou vermelden dat hij optreedt namens het Vlaamse Gewest (1). (1) Zie Cass. 3 april 2007, AR P.06.1586.N, AC 2007, nr. 165."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140902.1": {
+      "court": "CASS",
+      "date": "2014-09-02",
+      "roleNumber": "P.13.1391.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La mesure de réparation de la plus-value vise à annuler les conséquences de l'infraction en matière d'urbanisme en infligeant le paiement d'une somme d'argent équivalant à l'enrichissement illégal; en tant que forme particulière de restitution indue réglée par le pouvoir décrétal, elle se borne à neutraliser, pour des motifs d'équité, l'enrichissement illégitime tiré de l'infraction en matière d'urbanisme, mais laisse subsister les actes illégaux (1). (1) Voir Cass. 15 septembre 2009, RG P.09.0182.N, Pas. 2009, n° 501."
+      ],
+      "abstractNL": [
+        "De herstelmaatregel van de meerwaarde strekt ertoe de gevolgen van het stedenbouwmisdrijf teniet te doen door het opleggen van de betaling van een geldsom, gelijk aan de onwettige verrijking; als een door de decreetgever bijzonder geregelde vorm van oneigenlijke teruggave neutraliseert zij om billijkheidsredenen enkel de door het stedenbouwmisdrijf veroorzaakte onrechtmatige verrijking, maar laat zij de onwettige handelingen bestaan (1). (1) Zie Cass. 15 september 2009, AR P.09.0182.N, AC 2009, nr. 501."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130903.8": {
+      "court": "CASS",
+      "date": "2013-09-03",
+      "roleNumber": "P.12.1253.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas de l'article 211bis, première et deuxième phrases, du Code d'instruction criminelle que les juges d'appel qui, contrairement au premier juge, ordonnent une mesure de remise en état, le cas échéant sous la menace d'une astreinte, sont tenus de prendre cette décision à l'unanimité; la circonstance que la demande de l'autorité requérant la remise en état doit être assimilée sans plus à une action civile relevant néanmoins de l'action publique en tant que mesure de nature civile, n'y déroge pas (1). (1) Voir: Cass., 2 mars 2004, RG P.03.1187.N, Pas., 2004, n° 112; Cass., 12 mai 2009, RG P.08.1888.N (non publié)."
+      ],
+      "abstractNL": [
+        "Uit artikel 211bis, eerste en tweede zin, Wetboek van Strafvordering volgt niet dat de appelrechters die anders dan de eerste rechter een herstelmaatregel bevelen, desgevallend onder de dreiging van een dwangsom, dit met eenparigheid moeten beslissen; de omstandigheid dat de vordering van de herstelvorderende overheid niet zonder meer gelijk te stellen is met een burgerlijke rechtsvordering en als maatregel van burgerrechtelijke aard toch onder de strafvordering valt, doet daaraan geen afbreuk (1). (1) Zie: Cass. 2 maart 2004, AR P.03.1187.N, AC 2004, nr. 112; Cass. 12 mei 2009, AR P.08.1888.N (onuitgegeven)."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130903.9": {
+      "court": "CASS",
+      "date": "2013-09-03",
+      "roleNumber": "P.12.1645.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Une décision subordonnant l'instruction de l'action en réparation à la décision du Conseil d'Etat rendue sur un litige relatif à une autorisation de régularisation n'est pas une décision de simple administration de sorte que conformément à l'article 1050, alinéa 1er, du Code judiciaire, elle peut fait l'objet d'un appel dès que la décision est rendue."
+      ],
+      "abstractNL": [
+        "Een beslissing waarbij de behandeling van de herstelvordering afhankelijk wordt gemaakt van de beslechting door de Raad van State van een geschil betreffende een regularisatievergunning is geen louter administratieve beslissing, zodat overeenkomstig artikel 1050, eerste lid, Gerechtelijk Wetboek daartegen hoger beroep openstaat zodra de beslissing is gewezen."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121106.4": {
+      "court": "CASS",
+      "date": "2012-11-06",
+      "roleNumber": "P.11.1993.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/11/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les exceptions à l'ordre de priorité de la demande de réparation, prévu à l'article 6.1.41, § 1er, du Code flamand de l'aménagement du territoire, démontrent que, plus encore que la nature de l'infraction, l'atteinte portée au bon aménagement du territoire local est déterminante dans le choix de la mesure de réparation, tant en ce qui concerne une infraction aux prescriptions d'affectation, sans excepter le cas prévoyant une possibilité de dérogation régulière à ces prescriptions, qu'en ce qui concerne toute autre infraction; dans les deux cas, le contrôle du caractère proportionnel et raisonnable reste invariablement d'application: la mesure requise doit être proportionnelle à l'atteinte portée à l'aménagement du territoire, constatée in concreto, et elle doit être raisonnable eu égard à la charge qui en résulte pour l'intéressé (1). (1) Voir: Cass., 17 mai 2011, RG P.11.0068.N, Pas., 2011, n° 322."
+      ],
+      "abstractNL": [
+        "De uitzonderingen op de prioriteitenorde voor de herstelvordering zoals bepaald in artikel 6.1.41, § 1, Vlaamse Codex Ruimtelijke Ordening tonen aan dat de aantasting van de goede plaatselijke ruimtelijke ordening, nog meer dan de aard van de overtreding zelf, bepalend is voor de keuze van de herstelmaatregel, zowel bij een overtreding van de bestemmingsvoorschriften, het geval waarbij een regelmatige afwijkingsmogelijkheid op deze voorschriften is voorzien niet uitgezonderd, als voor de andere overtredingen; in beide gevallen blijft de evenredigheids- en redelijkheidstoets onverminderd van toepassing: het gevorderde herstel moet evenredig zijn aan de in concreto vastgestelde aantasting van de ruimtelijke ordening en de maatregel moet redelijk blijven in vergelijking tot de last die dit voor de betrokkene meebrengt (1). (1) Zie: Cass. 17 mei 2011, AR P.11.0068.N, AC 2011, nr. 322."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120320.1": {
+      "court": "CASS",
+      "date": "2012-03-20",
+      "roleNumber": "P.11.1314.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La condamnation au paiement d'une somme égale à la plus-value acquise par le bien veut éviter que l'administration, dans un souci d'équité, renonce à une remise en état des lieux ou à l'exécution de travaux de construction ou d'adaptation en raison des conséquences graves que cela entraînerait pour le contrevenant et accepterait ainsi une situation contraire à l'aménagement du territoire et dans laquelle le contrevenant conserverait en outre le bénéfice de son infraction; la mesure tend ainsi à la restauration d'un bon aménagement du territoire par l'annulation des conséquences de l'infraction à la loi, soit en l'espèce par la suppression de l'enrichissement illégal, par le paiement d'une somme d'argent égale à la plus-value (1). (1) Voir Cass. 13 décembre 1977, Pas. 1978, I, 443."
+      ],
+      "abstractNL": [
+        "De veroordeling tot een bedrag gelijk aan de verkregen meerwaarde van het goed wil voorkomen dat het bestuur billijkheidshalve van een herstel in de vorige staat of van de uitvoering van bouw- of aanpassingswerken zou afzien omwille van de ernstige gevolgen die dit voor de overtreder zou meebrengen en aldus een toestand zou aanvaarden die strijdig is met de goede ruimtelijke ordening waarbij de overtreder bovendien het voordeel van zijn overtreding zou behouden; de maatregel strekt aldus tot het herstel van de goede ruimtelijke ordening door het tenietdoen van de gevolgen van de wetsovertreding, zij het in dit geval door het tenietdoen van de onwettige verrijking, door de betaling van een geldsom gelijk aan de meerwaarde (1). (1) Zie: Cass. 13 dec. 1977, AC, 1978, 443."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110531.17": {
+      "court": "CASS",
+      "date": "2011-05-31",
+      "roleNumber": "P.11.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'administration compétente peut adapter et expliciter davantage en cours d'instance la demande de remise en état et ses motifs à la suite des objections formulées contre cette demande; rien ne s'oppose à ce que cette modification se fasse par la voie de conclusions au nom de l'administration compétente (1). (1) Voir Cass. 29 septembre 2008, RG P.08.0468.N, Pas., 2008, n° 496."
+      ],
+      "abstractNL": [
+        "Het bevoegde bestuur kan de herstelvordering en de motieven ervan tijdens het geding aanpassen en nader toelichten tengevolge van de tegen deze vordering aangevoerde bezwaren; niets staat eraan in de weg dat deze aanpassing bij wijze van conclusie namens het bevoegde bestuur zou geschieden (1). (1) Zie Cass. 29 sept. 2008, AR P.08.0468.N, AC, 2008, nr. 496."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110517.6": {
+      "court": "CASS",
+      "date": "2011-05-17",
+      "roleNumber": "P.11.0068.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Tant en cas d'infraction aux prescriptions d'affectation qu'en cas d'autres contraventions, l'étendue du dommage porté à l'aménagement du territoire local, plus encore que l'infraction en elle-même, est déterminante dans le choix de la mesure de réparation; dans les deux cas, le contrôle du caractère proportionnel et raisonnable reste invariablement d'application, la réparation demandée devant être proportionnelle à l'atteinte constatée in concreto portée à l'aménagement du territoire et la mesure devant rester raisonnable eu égard à la charge qui en résulte pour l'intéressé (1). (1) Voir: Cass., 4 février 2003, RG P.01.1462.N, Pas., 2003, n° 80; Cass., 15 juin 2004, RG P.04.0237.N, Pas., 2004, n° 323, avec les conclusions de M. l'avocat général De Swaef, publiées à leur date dans A.C.; Cass., 18 mars 2008, RG P.07.1509.N, Pas., 2008, n° 187; Cass., 10 février 2009, RG P.08.1163.N, Pas., 2009, n° 108 et Cass., 17 février 2009, RG P.08.1587, N, Pas., 2009, n° 131."
+      ],
+      "abstractNL": [
+        "Zowel bij overtreding van de bestemmingsvoorschriften als voor de andere overtredingen is, meer nog dan de overtreding zelf, de omvang van de schade aan de plaatselijke ruimtelijke ordening bepalend voor de keuze van de herstelmaatregel; in beide gevallen blijven de evenredigheids- en redelijkheidstoets onverminderd van toepassing, moet het gevorderde herstel evenredig zijn aan de in concreto vastgestelde aantasting van de ruimtelijke ordening en moet de maatregel redelijk blijven in vergelijking tot de last die dit voor de betrokkene meebrengt (1). (1) Zie: Cass. 4 feb. 2003, AR P.01.1462.N, AC, 2003, nr. 80; Cass. 15 juni 2004, AR P.04.0237.N, nr. 323 met concl. van advocaat-generaal De Swaef; Cass. 18 maart 2008, AR P.07.1509.N, AC, 2008, nr. 187; Cass. 10 feb. 2009, AR P.08.1163.N, AC, 2009, nr. 108 en Cass. 17 feb. 2009, AR P.08.1587.N, AC, 2009, nr. 131."
+      ]
     }
   },
   "6.1.1": {
@@ -185,6 +341,48 @@
         "Het niet-vergund gebruik in strijd met de gewestplanbestemming \"agrarisch gebied\" kan na 1 mei 2000 ingevolge artikel 6.1.1, 6°, van de Vlaamse Codex Ruimtelijke Ordening een strafbare handeling uitmaken, voor zover dit strijdig gebruik op zich een ruimtelijke implicatie heeft, hetgeen de rechter in concreto dient na te gaan (1). (1) Zie concl. OM.",
         "Voor dergelijke strafbare handeling kan een stakingsbevel worden afgeleverd, zoals bedoeld in artikel 154 van het Stedenbouwdecreet 1999 en artikel 6.1.47 van de Vlaamse Codex Ruimtelijke Ordening voor zover vaststaat dat daardoor een inbreuk op de wettelijke regels inzake ruimtelijke ordening kan worden voorkomen (1). (1) Zie concl. OM.",
         "Het niet vergund gebruik in strijd met de bestemmingsvoorschriften is geen voortdurend misdrijf, dit is een misdrijf dat bestaat in een ononderbroken en door de dader bestendigde wederrechtelijke toestand (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131024.1": {
+      "court": "CASS",
+      "date": "2013-10-24",
+      "roleNumber": "C.12.0068.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'usage contraire aux prescriptions de destination des plans d'aménagement après le 1er mai 2000 peut constituer un acte punissable pour autant que cet usage contraire ait une implication spatiale, ce qui doit être examiné in concreto par le juge (1). (1) Voir les concl. partiellement contraires du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het gebruik dat strijdig is met de bestemmingsvoorschriften van de plannen van aanleg vanaf 1 mei 2000 kan een strafbare handeling uitmaken, voor zover dit strijdig gebruik een ruimtelijke implicatie heeft, hetgeen de rechter in concreto dient na te gaan (1). (1) Zie de deels strijdige concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131024.2": {
+      "court": "CASS",
+      "date": "2013-10-24",
+      "roleNumber": "C.12.0069.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'usage contraire aux prescriptions de destination des plans d'aménagement après le 1er mai 2000 peut constituer un acte punissable pour autant que cet usage contraire ait une implication spatiale, ce qui doit être examiné in concreto par le juge (1). (1) Voir les concl. partiellement contraires du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het gebruik dat strijdig is met de bestemmingsvoorschriften van de plannen van aanleg vanaf 1 mei 2000 kan een strafbare handeling uitmaken, voor zover dit strijdig gebruik een ruimtelijke implicatie heeft, hetgeen de rechter in concreto dient na te gaan (1). (1) Zie de deels strijdige concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120110.3": {
+      "court": "CASS",
+      "date": "2012-01-10",
+      "roleNumber": "P.11.0843.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/01/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "A la différence de la \"commission\" ou de la \"continuation\" de l'infraction à une prescription d'affectation par une utilisation contraire, qui suppose le fait de poser un ou plusieurs actes d'utilisation autant positifs qu'instantanés, le \"maintien\" constitue une infraction continue de maintien de la situation délictuelle d'utilisation qui est née à la suite d'un des actes positifs précités et à laquelle l'auteur ne met pas fin; l'achèvement de la commission ou de la continuation de l'utilisation contraire par la cessation des actes positifs précités n'exclut pas la pérennité d'une situation contraire à la prescription d'affectation, née de cette utilisation."
+      ],
+      "abstractNL": [
+        "Anders dan het \"plegen\" of het \"voortzetten\" van de inbreuk op een bestemmingsvoorschrift door een daarmee strijdig gebruik, die het stellen van één of meerdere zowel positieve als aflopende handelingen van gebruik veronderstelt, vormt de \"instandhouding\" één voortdurend misdrijf van behoud van de delictuele toestand van gebruik die ten gevolge van voormelde positieve handeling(en) is ontstaan en waaraan de dader geen einde stelt; de voltooiing van het plegen of het voortzetten van het strijdige gebruik door het beëindigen van voormelde positieve handelingen sluit het voortbestaan van een met het bestemmingsvoorschrift strijdige toestand die door dit gebruik is ontstaan, niet uit."
       ]
     }
   },
@@ -284,6 +482,34 @@
       "abstractNL": [
         "Agrarische activiteiten zijn activiteiten gericht op de productie van vruchten, gewassen of vee en para-agrarische activiteiten zijn activiteiten die onmiddellijk bij landbouw aansluiten of erop afgestemd zijn; een hondenkwekerij is vreemd aan landbouw en kan evenmin worden aangemerkt als een para-agrarisch bedrijf want het fokken van honden sluit immers niet onmiddellijk aan bij landbouw of is evenmin erop afgestemd (1). (1) Zie RvSt. nr. 96811 van 21 juni 2001, RvSt. nr. 112780 van 21 november 2002, RvSt. nr. 161270 van 12 juli 2006, RvSt. nr. 167375 van 1 februari 2007; RvSt. nr. 201009 van 17 februari 2010."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20131024.2": {
+      "court": "CASS",
+      "date": "2013-10-24",
+      "roleNumber": "C.12.0069.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/10/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les articles 4.2.1, 5°, c) et 6.1.1, alinéa 1er, 1° du Code flamand de l'aménagement du territoire déclarent punissable uniquement l'usage usuel d'un terrain pour la pose d'une ou plusieurs installations mobiles pouvant être utilisées comme logement, c'est-à-dire le placement répété de telles installations sur un terrain, mais pas l'usage de ces installations en tant que telles (1). (1) Voir les concl. partiellement contraires du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De artikelen 4.2.1, 5°, c), en 6.1.1, eerste lid, 1°, van de Vlaamse Codex Ruimtelijke Ordening stellen enkel strafbaar het gewoonlijk gebruiken van een grond voor het plaatsen van één of meer verplaatsbare inrichtingen die voor bewoning kunnen worden gebruikt, dit is het herhaaldelijk plaatsen van dergelijke inrichtingen op een stuk grond, maar niet het gebruik van deze inrichtingen als dusdanig (1). (1) Zie de deels strijdige concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111206.1": {
+      "court": "CASS",
+      "date": "2011-12-06",
+      "roleNumber": "P.11.0599.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Par les termes \"utilisation de façon générale\" au sens des articles 4.2.1., 5°, a et 6.1.1., alinéa 1er, 1° du Code flamand de l'aménagement du territoire le décret ne vise pas l'obligation d'autorisation pour un entreposage fortuit de biens mais requiert une utilisation du terrain avec une certaine régularité et qui doit durer un certain temps avant qu'une autorisation soit nécessaire; l'infraction existe dès que l'utilisation de façon générale résulte de plusieurs actes d'utilisation sans que l'autorisation nécessaire ait été obtenue, ce que le juge apprécie souverainement en fait."
+      ],
+      "abstractNL": [
+        "Met 'gewoonlijk gebruik', in de zin van de artikelen 4.2.1, 5°, a en 6.1.1, eerste lid, 1°, Vlaamse Codex Ruimtelijke Ordening, beoogt het decreet geen vergunningsplicht voor de toevallige opslag van goederen maar vereist het een gebruik van de grond dat een zekere regelmaat vertoont en een zekere tijd moet duren alvorens een vergunning noodzakelijk is; het misdrijf bestaat van zodra door meerdere handelingen van gebruik zonder dat daartoe de nodige vergunning verkregen werd, het gewoonlijk gebruik ontstaat, hetgeen de rechter onaantastbaar in feite beoordeelt."
+      ]
     }
   },
   "6.1.50": {
@@ -299,6 +525,84 @@
       ],
       "abstractNL": [
         "Het staat niet aan de beslagrechter, die kennisneemt van het verzet gedaan tegen het in artikel 6.1.50, § 1, Vlaamse Codex Ruimtelijke Ordening bedoelde dwangbevel, uitspraak te doen over de geldigheid van de bestuurshandeling die aan het dwangbevel ten grondslag ligt, noch over de geldigheid van de administratieve geldboete (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "6.1.7": {
+    "ECLI:BE:CASS:2014:ARR.20141125.3": {
+      "court": "CASS",
+      "date": "2014-11-25",
+      "roleNumber": "P.13.1715.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/11/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "De la circonstance que le juge ne tient pas compte de l'avis non obligatoire du Conseil supérieur de la Politique de Maintien ne saurait être déduite la violation de l'obligation de motivation qui lui incombe."
+      ],
+      "abstractNL": [
+        "Uit de omstandigheid dat de rechter geen rekening houdt met het niet-bindend advies van de Hoge Raad voor het Handhavingsbeleid, kan geen miskenning van de op hem rustende motiveringsverplichting worden afgeleid."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111025.4": {
+      "court": "CASS",
+      "date": "2011-10-25",
+      "roleNumber": "P.11.0368.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/10/25/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'action par laquelle une administration habilitée à introduire une action en réparation se joint à l'action en réparation préalablement introduite par une autre administration habilitée à cet effet revêt un caractère indépendant et n'est pas subordonnée à l'action préalablement introduite mais est exclusivement déterminée pas l'administration qui l'engage, de sorte qu'il s'agit d'une action nouvelle pour laquelle, sous peine d'irrecevabilité, l'avis positif préalable du Conseil supérieur peut être exigé."
+      ],
+      "abstractNL": [
+        "De vordering waarbij het ene bevoegde herstelvorderende bestuur zich aansluit bij de herstelvordering die het andere daartoe bevoegde bestuur vooraf heeft ingesteld, heeft een zelfstandig karakter en is in haar bestaan niet afhankelijk van de voordien ingestelde vordering maar wordt uitsluitend bepaald door het bestuur die ze heeft ingesteld, zodat het een nieuwe vordering betreft waarvoor, op straffe van onontvankelijkheid, het voorafgaande positief advies van de Hoge Raad voor het Handhavingsbeleid kan vereist zijn."
+      ]
+    }
+  },
+  "6.1.43": {
+    "ECLI:BE:CASS:2013:ARR.20131212.1": {
+      "court": "CASS",
+      "date": "2013-12-12",
+      "roleNumber": "C.12.0036.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/12/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui rejette comme étant non fondée l'action en réparation introduite par l'inspecteur urbaniste devant le juge civil, ne peut condamner l'inspecteur urbaniste en tant que partie succombante au paiement d'une indemnité de procédure (1). (1) Voir Cour Const., 8 mars 2012, n° 43/2012."
+      ],
+      "abstractNL": [
+        "De rechter die de door de stedenbouwkundig inspecteur voor de burgerlijke rechter ingestelde herstelvordering afwijst als ongegrond, vermag de stedenbouwkundige inspecteur niet als in het ongelijk gestelde partij veroordelen tot het betalen van de rechtsplegingsvergoeding (1). (1) Zie GwH. 8 maart 2012, nr. 43/2012."
+      ]
+    }
+  },
+  "6.1.47": {
+    "ECLI:BE:CASS:2013:ARR.20130208.4": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.11.0617.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de cessation constitue une mesure préventive qui tend, non seulement, à garantir le pouvoir du juge d'ordonner la réparation mais qui vise aussi à prévenir des infractions aux règles légales en matière d'aménagement du territoire au sens des articles 146 du décret du 18 mai 1999 et 6.1.1. du Code flamand de l'aménagement du territoire (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het bevel tot staking is een preventieve maatregel die er niet alleen toe strekt de macht van de rechter om het herstel te bevelen veilig te stellen, maar ook bedoeld is om inbreuken op de wettelijke regels inzake ruimtelijke ordening zoals bedoeld in artikel 146 Stedenbouwdecreet 1999 en 6.1.1 Vlaamse Codex Ruimtelijke Ordening te voorkomen (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "6.1.1.6": {
+    "ECLI:BE:CASS:2013:ARR.20130208.4": {
+      "court": "CASS",
+      "date": "2013-02-08",
+      "roleNumber": "C.11.0617.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'utilisation non autorisée en violation de l'affectation du plan régional en \"zone de loisirs\" constitue un acte punissable après le 1er mai 2000; la cessation peut être ordonnée pour un tel acte punissable dans la mesure où il est établi qu'une infraction aux règles légales en matière d'aménagement du territoire peut ainsi être prévenue (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het niet-vergund gebruik in strijd met de gewestplanbestemming 'recreatiegebied' maakt na 1 mei 2000 een strafbare handeling uit; voor dergelijke strafbare handeling kan een stakingsbevel worden afgeleverd voor zover vaststaat dat daardoor een inbreuk op de wettelijke regels inzake ruimtelijke ordening kan worden voorkomen (1). (1) Zie de concl. van het O.M."
       ]
     }
   }

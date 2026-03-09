@@ -47,6 +47,22 @@
       ]
     }
   },
+  "6": {
+    "ECLI:BE:CASS:2013:ARR.20131205.4": {
+      "court": "CASS",
+      "date": "2013-12-05",
+      "roleNumber": "C.12.0497.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la genèse de la loi que l'obligation d'indiquer le prix total pour les biens et services s'applique uniquement à l'affichage de toutes les composantes du prix que l'entreprise peut dans tous les cas chiffrer en un tout et non lorsqu'il n'est pas possible d'indiquer un prix total parce que celui-ci dépend d'éléments qui sont laissés à la décision du consommateur (1). (1) Projet de loi relatif aux pratiques du marché et à la protection du consommateur, Exposé des motifs, Doc. Parl Chambre, 2009-2010, DOC 52, n° 2340/001, p. 42."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis blijkt dat de verplichting om voor de goederen en diensten de totale prijs aan te duiden enkel geldt voor de weergave van alle prijsbestanddelen die de onderneming in alle gevallen tot een geheel vermag te becijferen en niet wanneer dit niet mogelijk is omdat de totale prijs afhankelijk is van beslissingen van de consument (1). (1) Wetsontwerp betreffende marktpraktijken en consumentenbescherming, Memorie van Toelichting, Parl. St. Kamer, 2009-2010, DOC 52, nr. 2340/001, p. 42 ."
+      ]
+    }
+  },
   "19": {
     "ECLI:BE:CASS:2011:ARR.20110420.5": {
       "court": "CASS",

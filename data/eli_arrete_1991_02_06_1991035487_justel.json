@@ -13,6 +13,36 @@
       "abstractNL": [
         "Niets belet de rechter bij het beoordelen van de betekenis die aan de begrippen 'hinderen' en 'schade en hinder' moet worden gegeven en gelet op de concrete omstandigheden van de zaak, te verwijzen naar in andere verwante regelgeving gehanteerde criteria of naar daarmee verband houdende rechtspraak van de afdeling bestuursrechtspraak van de Raad van State."
       ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080617.1": {
+      "court": "CASS",
+      "date": "2008-06-17",
+      "roleNumber": "P.06.1348.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/17/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'étendue du devoir de diligence consacré aux articles 22, alinéa 2, du décret du Conseil flamand du 28 juin 1985 relatif à l'autorisation antipollution et 43, § 2, de l'arrêté de l'Exécutif flamand du 6 février 1991, fixant le règlement flamand relatif à l'autorisation écologique (VLAREM I) ne se borne pas au respect des conditions générales ou particulières de l'autorisation, et ne doit pas être précisée antérieurement par arrêté ministériel; il est général et comprend toute mesure de prudence ou de prévoyance."
+      ],
+      "abstractNL": [
+        "De omvang van de in artikel 22, tweede lid, Milieuvergunningsdecreet, en in artikel 43, § 2, Vlarem I, bepaalde zorgvuldigheidsplicht blijft niet beperkt tot het naleven van de algemene of de bijzondere voorwaarden van de vergunning en moet niet vooraf bij ministerieel besluit worden gepreciseerd; zij is algemeen en omvat elke maatregel van voorzichtigheid of voorzorg (1). (1) Cass., 4 feb. 2003, AR P.02.0615.N, A.C., 2003, nr 83."
+      ]
+    }
+  },
+  "43ter": {
+    "ECLI:BE:CASS:2008:ARR.20080617.1": {
+      "court": "CASS",
+      "date": "2008-06-17",
+      "roleNumber": "P.06.1348.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/17/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le devoir de diligence consacré aux articles 22, alinéa 2, du décret du Conseil flamand du 28 juin 1985 relatif à l'autorisation antipollution et 43, § 2, de l'arrêté de l'Exécutif flamand du 6 février 1991 fixant le règlement flamand relatif à l'autorisation écologique (VLAREM I), n'est pas limité par l'article 43ter, du Vlarem I, selon lequel un établissement sera exploité de manière à ce que toutes les mesures de prévention appropriées soient prises contre les pollutions, notamment en ayant recours aux meilleures techniques disponibles."
+      ],
+      "abstractNL": [
+        "De in artikel 22, tweede lid, Milieuvergunningsdecreet, en in artikel 43, § 2, Vlarem I, bepaalde zorgvuldigheidsplicht wordt niet beperkt door artikel 43ter, Vlarem I, dat bepaalt dat een inrichting zo dient te worden geëxploiteerd dat alle passende preventieve maatregelen tegen verontreiniging worden getroffen, met name door toepassing van de best beschikbare technieken."
+      ]
     }
   }
 }

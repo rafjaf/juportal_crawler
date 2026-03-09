@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1998:ARR.19980610.16": {
+      "court": "CASS",
+      "date": "1998-06-10",
+      "roleNumber": "P980549F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'application immédiate d'une nouvelle loi, qui prévoit la possibilité d'un appel en faveur de l'interné contre les décisions de la commission de défense sociale, ne peut avoir pour effet de priver indirectement celui-ci du droit de se pourvoir dont il jouissait, en vertu de l'ancienne loi, au moment de la décision rendue en dernier ressort."
+      ],
+      "abstractNL": [
+        "De onmiddellijke toepassing van een nieuwe wet, waarin de mogelijkheid wordt voorzien om ten gunste van de geonterneerde hoger beroep in te stellen tegen de beslissingen van de commissie tot bescherming van de maatschappij, kan niet tot gevolg hebben dat die geonterneerde onrechtstreeks het recht wordt ontzegd om cassatieberoep in te stellen, welk recht hij, krachtens de oude wet, genoot op het ogenblik dat de beslissing in laatste aanleg werd gewezen."
+      ]
+    }
+  },
   "5": {
     "ECLI:BE:CASS:2018:ARR.20180927.4": {
       "court": "CASS",

@@ -1,4 +1,20 @@
 {
+  "21": {
+    "ECLI:BE:CASS:1975:ARR.19750305.16": {
+      "court": "CASS",
+      "date": "1975-03-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le pouvoir attribué au Roi, par l'article 21, 1°, de la loi du 21 mai 1955, de déterminer les personnes à qui sont versés, en cas de décès du bénéficiaire, les arrérages échus et non payés d'une pension de retraite ou de survie et l'ordre dans lequel ces personnes sont appelées à en bénéficier implique le pouvoir de déroger aux règles de la dévolution successorale et à la saisine des héritiers. ( Constit., art. 78 et 107; loi du 21 mai 1955, art. 21, 1°, et arrêté royal du 17 juin 1955, art. 37. )"
+      ],
+      "abstractNL": [
+        "De bevoegdheid welke aan de Koning bij artikel 21, 1°, van de wet van 21 mei 1955 wordt toegekend om te bepalen aan welke personen, in geval van overlijden van de gerechtigde, de vervallen en niet betaalde achterstallen van een rust- en overlevingspensioen worden uitbetaald en de orde waarin die personen er het genot zullen van hebben, impliceert dat hij kan afwijken van de regels inzake erfopvolging en saisine van de erfgenamen. ( Artt. 78 en 107 Grondwet; art. 21 wet van 21 mei 1955 en art. 37 K.B. 17 juni 1955. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1975:ARR.19750305.11": {
       "court": "CASS",

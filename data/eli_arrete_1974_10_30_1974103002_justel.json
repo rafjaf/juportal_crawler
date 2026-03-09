@@ -1,4 +1,76 @@
 {
+  "12": {
+    "ECLI:BE:CASS:1998:ARR.19980914.3": {
+      "court": "CASS",
+      "date": "1998-09-14",
+      "roleNumber": "S970074F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le droit au minimum de moyens d'existence, il y a lieu de prendre en considération tous les revenus, quelle qu'en soit la nature ou l'origine, et ce avant toute saisie opérée en raison d'obligations alimentaires."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1990:ARR.19900514.9": {
+      "court": "CASS",
+      "date": "1990-05-14",
+      "roleNumber": "7040",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/14/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Avant la modification de l'article 12 de l'arrêté royal du 30 octobre 1974 par l'arrêté royal du 8 juillet 1988 à partir du 1er août 1988, le calcul des ressources ouvrant le droit à un minimum de moyens d'existence devait tenir compte de la pension alimentaire perçue au profit des enfants mineurs de l'intéressé."
+      ],
+      "abstractNL": [
+        "Voordat art. 12 K.B. 30 oktober 1974 werd gewijzigd door K.B. 8 juli 1988 met ingang van 1 augustus 1988, diende bij de berekening van de bestaansmiddelen voor de vaststelling van het recht op bestaansminimum rekening te worden gehouden met het onderhoudsgeld ontvangen ten behoeve van de minderjarige kinderen van de betrokkene."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1999:ARR.19990927.6": {
+      "court": "CASS",
+      "date": "1999-09-27",
+      "roleNumber": "S980138N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le centre public d'aide sociale refuse le minimum de moyens d'existence par le motif qu'il existe suffisamment de ressources en raison de la cohabitation avec un ascendant et que l'intéressé le conteste, il naît une contestation entre le demandeur et le défendeur quant au droit au minimum de moyens d'existence; le jugement de cette contestaion relève de la compétence du tribunal du travail dès lors que celui-ci connaît des contestations relatives à l'application de la loi instituant un minimum de moyens d'existence en ce qui concerne les contestations relatives à l'octroi, à la révision, au refus et au remboursement par le bénéficiaire du minimum de moyens d'existence et à l'application des sanctions administratives prévues par la législation précitée."
+      ],
+      "abstractNL": [
+        "Wanneer het openbaar centrum voor maatschappelijk welzijn het bestaansminimum intrekt op grond dat er voldoende inkomsten zijn wegens het samenwonen met een ascendent en de betrokkene dit betwist, ontstaat er een geschil tussen eiser en verweerder over het recht op het bestaansminimum; de berechting van dit geschil behoort tot de bevoegdheid van de arbeidsrechtbank daar deze kennis neemt van de geschillen betreffende de toepassing van de wet tot instelling van het recht op een bestaansminimum, wat betreft de geschillen betreffende de toekenning, de herziening, de weigering en de terugbetaling door de gerechtigde van het bestaansminimum alsmede betreffende de toepassing van de administratieve sancties bepaald in de desbetreffende wetgeving."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901022.16": {
+      "court": "CASS",
+      "date": "1990-10-22",
+      "roleNumber": "8870",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/22/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Onder \"feitelijk gezin\" in art. 5, alinéa 1, Bestaansminimumwet en art. 13 K.B. van 30 oktober 1974, waarin wordt bepaald welke bestaansmiddelen in aanmerking worden genomen van de personen met wie de aanvrager samenwoont, wordt verstaan twee personen die, zonder gehuwd te zijn, een gezin vormen."
+      ]
+    }
+  },
+  "26": {
+    "ECLI:BE:CASS:1990:ARR.19901008.11": {
+      "court": "CASS",
+      "date": "1990-10-08",
+      "roleNumber": "8907",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il n'existe pas de droit immuable au bénéfice du minimum de moyens d'existence. ( Loi du 7 août 1974, art. 1er, alinéa 1er, et 7, alinéa 1er; Arrêté royal du 30 octobre 1974, art. 26, al. 1er, tel qu'il a été modifié par l'arrêté royal du 27 mars 1987. )"
+      ],
+      "abstractNL": [
+        "Er bestaat geen onveranderlijk recht op het bestaansminimum. ( Artt. 1, alinéa 1 en 7, alinéa 1 Bestaansminimumwet; art. 26, eerste lid, K.B. van 30 oktober 1974, gewijzigd bij K.B. van 27 maart 1987. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1993:ARR.19930517.18": {
       "court": "CASS",

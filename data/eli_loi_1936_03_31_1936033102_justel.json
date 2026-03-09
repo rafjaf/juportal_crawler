@@ -1,4 +1,20 @@
 {
+  "27": {
+    "ECLI:BE:CASS:2014:ARR.20141031.6": {
+      "court": "CASS",
+      "date": "2014-10-31",
+      "roleNumber": "F.13.0017.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/10/31/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 27, alinéa 1er, du Code des droits de succession le passif admissible dans la succession d'un habitant du royaume se borne aux dettes du défunt existantes au moment du décès, outre les frais funéraires; viole cette disposition, le juge qui considère que la dette est née après le décès et qui reprend cette dette dans le passif de la succession (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 27, eerste lid, Wetboek Successierechten geldt als aannemelijk passief met betrekking tot de nalatenschap van een Rijksinwoner, naast de begrafeniskosten, slechts de op de dag van het overlijden bestaande schulden van de overledene; de rechter die oordeelt dat de schuld ontstond na het overlijden en deze schuld opneemt in het passief van de nalatenschap, schendt deze bepaling (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "47": {
     "ECLI:BE:CASS:2015:ARR.20150924.10": {
       "court": "CASS",
@@ -42,6 +58,22 @@
       ],
       "abstractNL": [
         "De rechter kan niet wettig oordelen dat de verhoging van de boete met 50 pct. in geval de successierechten bij dwangbevel worden ingevorderd, het recht op toegang tot een rechterlijke instantie miskent, zonder na te gaan of de belastingplichtige in de concrete omstandigheden voldoende reden had om de geldboete niet vrijwillig te betalen (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "135": {
+    "ECLI:BE:CASS:1996:ARR.19960628.16": {
+      "court": "CASS",
+      "date": "1996-06-28",
+      "roleNumber": "C950316F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La restitution de droits de succession et le paiement d'intérêts moratoires sont subordonnés au dépôt d'une déclaration indiquant le fait donnant lieu à la restitution; une requête en restitution ne suffit pas."
+      ],
+      "abstractNL": [
+        "Voor de teruggave van successierechten en de betaling van moratoire interest is de inlevering vereist van een aangifte die het feit aanduidt dat aanleiding geeft tot teruggave; een verzoek tot teruggave volstaat niet."
       ]
     }
   },
@@ -186,6 +218,20 @@
       ],
       "abstractNL": [
         "Om het wettelijk vermoeden te ontzenuwen dat effecten aan toonder of op naam, ingeschreven op naam van de overledene, voor het vruchtgebruik, en op naam van een derde, voor de blote eigendom, deel uitmaken van de nalatenschap van de overledene en door deze derde als legaat zijn verkregen, moet het bewijs geleverd worden dat genoemde inschrijving geen vermomde gift ten behoeve van deze laatste is; dienaangaande dient te worden bewezen dat de blote eigendom door de derde voor de inschrijving was verkregen. (Wetboek van de successierechten, art. 9.)"
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960628.16": {
+      "court": "CASS",
+      "date": "1996-06-28",
+      "roleNumber": "C950316F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La restitution de droits de succession et le paiement d'intérêts moratoires sont subordonnés au dépôt d'une déclaration indiquant le fait donnant lieu à la restitution; une requête en restitution ne suffit pas."
+      ],
+      "abstractNL": [
+        "Voor de teruggave van successierechten en de betaling van moratoire interest is de inlevering vereist van een aangifte die het feit aanduidt dat aanleiding geeft tot teruggave; een verzoek tot teruggave volstaat niet."
       ]
     }
   }

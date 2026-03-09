@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:2004:ARR.20041007.9": {
+      "court": "CASS",
+      "date": "2004-10-07",
+      "roleNumber": "C990289F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/10/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il appartient en règle au juge saisi d'une demande fondée sur une disposition de droit étranger de déterminer le contenu, le sens et la portée de ce droit, le cas échéant après avoir recueilli à ce sujet les informations nécessaires et en respectant les droits de la défense (1). (1) Voir Cass., 19 octobre 1980, Bull. et Pas., 1981, I, 159, avec les conclusions de M. l'avocat général Krings; Cass., 13 mai 1996, RG C.94.0210.F, n° 170 et Cass., 3 décembre 1990, RG 8963, n° 175 et les références citées à la note."
+      ],
+      "abstractNL": [
+        "Het staat in de regel aan de rechter bij wie een op een bepaling van vreemd recht gegronde vordering aanhangig is, de inhoud, de betekenis en de draagwijdte van dat recht te bepalen, in voorkomend geval na daarover de nodige inlichtingen te hebben ingewonnen, met eerbiediging van het recht van verdediging (1). (1) Zie Cass., 19 okt. 1980, (A.C., 1980) en concl. adv.-gen. Krings in Bull. en Pas, 1981, I, 160; Cass. 13 mei 1996, AR C.94.0210.F, nr 170 en 3 dec. 1990, AR 8963, nr 175 en de verwijzingen in noot."
+      ]
+    }
+  },
   "4": {
     "ECLI:BE:CASS:2024:ARR.20240610.3F.4": {
       "court": "CASS",
@@ -14,6 +30,406 @@
         "La personne handicapée qui vit sous le même toit que ses parents et règle les questions ménagères principalement en commun avec eux ne vit pas seule au sens de l'article 4, alinéa 1er, 2°, de l'arrêté royal du 6 juillet 1987, partant, ne relève pas de la catégorie B, quand bien même la cohabitation serait destinée à combler un déficit d'autonomie de cette personne (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2013:ARR.20131118.3": {
+      "court": "CASS",
+      "date": "2013-11-18",
+      "roleNumber": "S.12.0070.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/11/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il constate qu'une personne handicapée a sa résidence principale à la même adresse qu'une tierce personne avec laquelle elle n'est ni parente ni alliée au premier, deuxième ou troisième degré, le juge ne peut, sans violer l'article 7, § 3, alinéa 2, de la loi du 27 février 1987 relative aux allocations aux personnes handicapées, décider que cette personne handicapée n'est pas établie en ménage, au sens des articles 4, alinéa 1er, 3°, de l'arrêté royal du 6 juillet 1987, et 7, § 1er, de la loi précitée, au motif qu'elle n'en apporte pas la preuve (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De rechter, die vaststelt dat een persoon met een handicap zijn hoofdverblijfplaats heeft op hetzelfde adres als een derde persoon die geen bloed- of aanverwant is in de eerste, tweede of derde graad, schendt artikel 7, §3, tweede lid, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, wanneer hij beslist dat die persoon met een handicap geen huishouden vormt in de zin van de artikelen 4, eerste lid, 3°, van het koninklijk besluit van 6 juli 1987, en 7, §1, van de voornoemde wet, op grond dat hij daarvan geen bewijs levert (1). (1) Zie concl. O.M. in Pas. 2013, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030224.6": {
+      "court": "CASS",
+      "date": "2003-02-24",
+      "roleNumber": "S010132F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/02/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En matière d'allocation de remplacement de revenus au handicapé, doit être considéré comme isolé le bénéficiaire qui vit seul, c'est-à-dire qui ne vit pas avec une ou plusieurs personnes sous le même toit en faisant ménage commun, et qui n'a pas d'enfant à charge (1). (1) Voir Cass., 10 mai 1993, R.G. 9647, n° 227, et les références citées à la note 3 p. 469."
+      ],
+      "abstractNL": [
+        "Voor inkomensvervangende tegemoetkomingen aan gehandicapten moet als een alleenstaande worden beschouwd de gerechtigde die alleen woont, dat is de gerechtigde die niet met een of meer personen onder hetzelfde dak leeft met wie hij een huishouden vormt, en die geen kind ten laste heeft (1). (1) Zie Cass., 10 mei 1993, AR. 9647, nr. 227, en de verwijzingen in noot 3, p. 480."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1988:ARR.19881205.9": {
+      "court": "CASS",
+      "date": "1988-12-05",
+      "roleNumber": "6399",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/12/05/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Pour calculer les moyens d'existence provenant des biens cédés, qui sont pris en considération pour l'octroi des allocations aux handicapés, le montant des dettes et abattements doit être déduit de la valeur vénale du bien et non des revenus de ce bien fixés forfaitairement. ( Arr. roy. du 24 décembre 1974, art. 28 et 29. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van de bestaansmiddelen uit afgestane goederen die in aanmerking komen voor de toekenning van tegemoetkomingen aan minder-validen, moet het bedrag van de in mindering te brengen schulden en abattementen worden afgetrokken van de verkoopwaarde van het goed en niet van het forfaitair aan te rekenen inkomen uit dat goed. ( Art. 28 en 29 K.B. 24 december 1974. )"
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2013:ARR.20131216.3": {
+      "court": "CASS",
+      "date": "2013-12-16",
+      "roleNumber": "S.12.0060.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 9, § 3, de l'arrêté royal du 6 juillet 1987 relatif à l'allocation de remplacement de revenus et à l'allocation d'intégration ne déroge pas aux règles énoncées aux articles 8, § 1er, et 9, § 1er, de cet arrêté en ce qui concerne la période de référence des revenus à prendre en considération mais impose d'appliquer au calcul de ces revenus les corrections justifiées par la nouvelle situation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Artikel 9, §3, van het koninklijk besluit van 6 juli 1987 betreffende de inkomensvervangende tegemoetkoming en de integratietegemoetkoming wijkt niet af van de regels in de artikelen 8, §1, en 9, §1, van dat besluit inzake de referentieperiode die in aanmerking moeten worden genomen, maar bepaalt dat de door de nieuwe toestand gerechtvaardigde aanpassingen moeten worden toegepast op de berekening van die inkomens (1). (1) Zie concl. O.M. in Pas. 2013, nr. ... ."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930426.9": {
+      "court": "CASS",
+      "date": "1993-04-26",
+      "roleNumber": "9646",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/04/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les indemnités d'assurance maladie-invalidité constituent un revenu. (C.I.R., art. 20, 2°, a, et 26, al. 2, 3°(1); L. 27 février 1987, art. 6, 7, et 13, alinéa 1er, al. 2; A.R. 6 juillet 1987, art. 8, alinéa 1er). (Solution implicite)"
+      ],
+      "abstractNL": [
+        "De vergoedingen voor ziekte- en invaliditeitsverzekering vormen een inkomen. (Artt. 20, 2°, a, en 26, tweede lid, 3°(1), W.I.B.; artt. 6, 7 en 13, alinéa 1, tweede lid, W. 27 febr. 1987; art. 8, alinéa 1, K.B. 6 juli 1987). (Impliciet)"
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:2004:ARR.20041115.33": {
+      "court": "CASS",
+      "date": "2004-11-15",
+      "roleNumber": "S030052F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/11/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les données en matière d'état civil qui ont servi de base pour la fixation du montant du revenu figurant sur l'avertissement-extrait de rôle, sont modifiées, il est tenu compte de la nouvelle situation; pour déterminer dans cette nouvelle situation le montant du revenu du handicapé qui vient en diminution du montant de l'allocation d'intégration, il y a lieu de se placer au premier jour du mois qui suit celui au cours duquel le bénéficiaire se trouve dans la situation consistant en une modification de son état civil (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Wanneer de gegevens inzake burgerlijke staat die als grondslag hebben gediend voor de vaststelling van het bedrag van het inkomen dat voorkomt op het aanslagbiljet, worden gewijzigd, wordt rekening gehouden met de nieuwe toestand; om in die nieuwe toestand het bedrag van het inkomen van de mindervalide te bepalen dat afgetrokken wordt van de integratietegemoetkoming, moet men zich plaatsen op de eerste dag van de maand die volgt op deze waarin de begunstigde zich in de toestand bevindt die een wijziging van zijn burgerlijke staat vormt (1). (1) Zie concl.O.M. in Bull., 2004, I, nr ... ."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950626.1": {
+      "court": "CASS",
+      "date": "1995-06-26",
+      "roleNumber": "S940157N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour la fixation du montant de l'allocation aux handicapés il n'est tenu compte que de la modification du revenu du handicapé, intervenue avant la date à laquelle la décision administrative sur la demande prend cours."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten wordt slechts rekening gehouden met een wijziging van het inkomen van de gehandicapte in zoverre die wijziging is ingetreden vóór de datum waarop de administratieve beslissing over de aanvraag ingaat."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950227.14": {
+      "court": "CASS",
+      "date": "1995-02-27",
+      "roleNumber": "S940098N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte des articles 8 et 9 de l'arrêté royal du 6 juillet 1987 (dans la version originale) que les données justifiant l'octroi ou l'augmentation de l'allocation aux handicapés qui n'étaient pas connues de l'administration lorsque le droit aux allocations a été reconnu, ne peuvent donner lieu qu'à une nouvelle demande."
+      ],
+      "abstractNL": [
+        "Uit de artt. 8 en 9 K.B. 6 juli 1987 (in de oorspronkelijke versie) volgt dat gegevens welke de toekenning of de verhoging van de tegemoetkoming van de gehandicapten rechtvaardigen maar die ten tijde van de toekenning van het recht op tegemoetkoming door de administratie niet bekend waren, slechts aanleiding kunnen geven tot een nieuwe aanvraag."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921214.5": {
+      "court": "CASS",
+      "date": "1992-12-14",
+      "roleNumber": "8017",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour la fixation du montant de l'allocation aux handicapés il n'est tenu compte que de la modification du revenu du handicapé, intervenue avant la date à laquelle la décision administrative sur la demande prend cours. ( Arr. roy. du 6 juillet 1987, art. 8, alinéa 1er, alinéa 2, et 9, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten wordt slechts rekening gehouden met een wijziging van het inkomen van de gehandicapte welke is ingetreden voor de datum waarop de administratieve beslissing over de aanvraag ingaat. ( Artt. 8, alinéa 1, tweede lid, en 9, eerste lid, K.B. van 6 juli 1987. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921214.4": {
+      "court": "CASS",
+      "date": "1992-12-14",
+      "roleNumber": "7922;8104",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 9 de l'arrêté royal du 6 juillet 1987, le revenu à prendre en considération pour le calcul de l'allocation des handicapés peut être adapté, lorsque des données en matière de revenu sont modifiées avant la date de prise de cours de l'allocation; pour l'application de cette disposition, il ne peut être tenu compte d'une diminution du revenu de l'année de la date de prise de cours de l'allocation."
+      ],
+      "abstractNL": [
+        "Krachtens art. 9 K.B. van 6 juli 1987 kan het in aanmerking te nemen inkomen voor de berekening van de tegemoetkomingen aan gehandicapten worden aangepast, wanneer gegevens betreffende het inkomen zijn gewijzigd voor de ingangsdatum van de tegemoetkoming; voor de toepassing van deze bepaling kan geen rekening worden gehouden met een vermindering van het inkomen van het jaar van de ingangsdatum van de tegemoetkoming."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:2013:ARR.20131216.3": {
+      "court": "CASS",
+      "date": "2013-12-16",
+      "roleNumber": "S.12.0060.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 9, § 3, de l'arrêté royal du 6 juillet 1987 relatif à l'allocation de remplacement de revenus et à l'allocation d'intégration ne déroge pas aux règles énoncées aux articles 8, § 1er, et 9, § 1er, de cet arrêté en ce qui concerne la période de référence des revenus à prendre en considération mais impose d'appliquer au calcul de ces revenus les corrections justifiées par la nouvelle situation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Artikel 9, §3, van het koninklijk besluit van 6 juli 1987 betreffende de inkomensvervangende tegemoetkoming en de integratietegemoetkoming wijkt niet af van de regels in de artikelen 8, §1, en 9, §1, van dat besluit inzake de referentieperiode die in aanmerking moeten worden genomen, maar bepaalt dat de door de nieuwe toestand gerechtvaardigde aanpassingen moeten worden toegepast op de berekening van die inkomens (1). (1) Zie concl. O.M. in Pas. 2013, nr. ... ."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030407.19": {
+      "court": "CASS",
+      "date": "2003-04-07",
+      "roleNumber": "S010135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est prise en exécution de l'article 10, alinéa 4, de la loi du 27 février 1987 relative aux allocations aux handicapés et non en exécution de l'article 7 de cette loi, la règle suivant laquelle, pour l'application des dispositions réglementaires précisées, il n'est tenu compte de la séparation de fait des conjoints ou de la fin de la cohabitation des personnes qui sont établies en ménage, que pour autant que ces situations durent depuis un an au moins (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De regel volgens welke voor de toepassing van de gepreciseerde verordenende bepalingen met de feitelijke scheiding van de echtgenoten of met het einde van de samenwoning van de personen die een huishouden hebben gevormd enkel rekening wordt gehouden in zoverre die toestanden sedert ten minste een jaar duren is vastgesteld ter uitvoering van artikel 10, vierde lid, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten en niet ter uitvoering van artikel 7 van die wet (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1998:ARR.19981102.10": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S980006N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail connaissant du recours dirigé contre la décision du ministre relative à des droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés peut uniquement décider si le ministre a statué conformément aux prescriptions légales sur le droit aux allocations et, dès lors, ne peut connaître des droits qui ne sont pas prévus par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen de beslissing van de minister ten aanzien van rechten die ontstaan uit de Mindervalidenwet Tegemoetkomingen kan alleen oordelen of de minister overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming heeft beslist en kan derhalve geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die aan het bestuur niet zijn voorgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981102.9": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S980003N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail connaissant du recours dirigé contre la décision du ministre relative à des droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés peut uniquement décider si le ministre a statué conformément aux prescriptions légales sur le droit aux allocations et, dès lors, ne peut connaître des droits qui ne sont pas prévus par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen de beslissing van de minister ten aanzien van rechten die ontstaan uit de Mindervalidenwet Tegemoetkomingen kan alleen oordelen of de minister overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming heeft beslist en kan derhalve geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die aan het bestuur niet zijn voorgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971117.8": {
+      "court": "CASS",
+      "date": "1997-11-17",
+      "roleNumber": "S970034N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail qui connaît du recours contre une décision du ministre en matière d'allocations aux handicapés, se borne à décider si la décision a été prise conformément aux dispositions légales concernant le droit aux allocations compte tenu des éléments qui, à la date de cette décision, déterminent les droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés et sur la base desquels la décision a été prise ou aurait dû être prise; la juridiction du travail ne peut connaître de droits qui ne sont pas consacrés par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen een beslissing van de minister ten aanzien van tegemoetkomingen voor mindervaliden, kan alleen oordelen of de beslissing overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming werd genomen met inachtneming van de gegevens die, op de datum van die beslissing, de rechten bepalen die voortvloeien uit de Gehandicaptenwet Tegemoetkomingen en op grond waarvan de beslissing werd genomen of moest genomen worden; het arbeidsgerecht kan geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die het bestuur niet zijn voorgelegd."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1998:ARR.19980518.8": {
+      "court": "CASS",
+      "date": "1998-05-18",
+      "roleNumber": "S970149N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/05/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Violent l'effet dévolutif de l'appel, les juges d'appel qui, relativement à une demande de revision administrative du droit aux allocations, rejettent la fin de non-recevoir fondée sur l'illégalité de la demande de revision administrative basée sur des motifs médicaux, soulevée pour la première fois par l'administration en degré d'appel sans nouvelle demande, en la considérant comme contraire aux principes de bonne administration."
+      ],
+      "abstractNL": [
+        "Schenden de devolutieve werking van het hoger beroep de appelrechters die, betreffende een vordering tot administratieve herziening van het recht op tegemoetkomingen, de in graad van beroep voor het eerste door de administratie aangevoerde grond van niet-ontvankelijkheid, gesteund op de onwettigheid een administratieve herziening te vorderen op medische gronden zonder hernieuwde aanvraag, deze exceptie afwijzen door ze strijdig te achten met de beginselen van behoorlijk bestuur."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941219.10": {
+      "court": "CASS",
+      "date": "1994-12-19",
+      "roleNumber": "S940066N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Afin de déterminer le montant de l'allocation aux handicapés, l'administration doit décider sur la base de données qu'elle connaît au moment où elle prend sa décision et qu'elle peut prendre en considération, sans qu'une nouvelle demande doive être introduite à cet effet, lorsque les données ont été modifiées avant la date de prise de cours de l'allocation."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten moet het bestuur beslissen op grond van de gegevens die het bij het nemen van zijn beslissing kent en in aanmerking mag nemen, zonder dat daartoe een nieuwe aanvraag moet worden ingediend wanneer de gegevens zijn gewijzigd voor de ingangsdatum van de tegemoetkoming. (Art. 8, alinéa 1, laatste lid, Gehandicaptenwet Tegemoetkomingen; artt. 8, 9 en 20 K.B. 6 juli 1987)."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:2004:ARR.20041115.33": {
+      "court": "CASS",
+      "date": "2004-11-15",
+      "roleNumber": "S030052F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/11/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les données en matière d'état civil qui ont servi de base pour la fixation du montant du revenu figurant sur l'avertissement-extrait de rôle, sont modifiées, il est tenu compte de la nouvelle situation; pour déterminer dans cette nouvelle situation le montant du revenu du handicapé qui vient en diminution du montant de l'allocation d'intégration, il y a lieu de se placer au premier jour du mois qui suit celui au cours duquel le bénéficiaire se trouve dans la situation consistant en une modification de son état civil (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Wanneer de gegevens inzake burgerlijke staat die als grondslag hebben gediend voor de vaststelling van het bedrag van het inkomen dat voorkomt op het aanslagbiljet, worden gewijzigd, wordt rekening gehouden met de nieuwe toestand; om in die nieuwe toestand het bedrag van het inkomen van de mindervalide te bepalen dat afgetrokken wordt van de integratietegemoetkoming, moet men zich plaatsen op de eerste dag van de maand die volgt op deze waarin de begunstigde zich in de toestand bevindt die een wijziging van zijn burgerlijke staat vormt (1). (1) Zie concl.O.M. in Bull., 2004, I, nr ... ."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970303.7": {
+      "court": "CASS",
+      "date": "1997-03-03",
+      "roleNumber": "S960097F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La modification de l'article 13 de la loi du 27 février 1987 relative aux allocations aux handicapés par l'article 50 de la loi du 30 décembre 1992, qui est entrée en vigueur le 1er juillet 1993, est de nature, notamment par la prise en compte, pour l'octroi de l'allocation de remplacement de revenus, des pensions dont bénéficie le handicapé, à entraîner la suppression ou la diminution de l'allocation de celui-ci; cette modification justifie dès lors qu'il soit procédé d'office à une révision du droit à l'allocation de remplacement de revenus."
+      ],
+      "abstractNL": [
+        "De wijziging van art. 13, Gehandicaptenwet Tegemoetkomingen, bij art. 50, W. 30 dec. 1992, die op 1 juli 1993 in werking is getreden, kan de afschaffing of vermindering van de tegemoetkoming aan de mindervalide tot gevolg hebben, inzonderheid door voor de toekenning van de inkomensvervangende tegemoetkoming het door laatstgenoemde genoten pensioen in aanmerking te nemen; die wijziging verantwoordt bijgevolg een ambtshalve herziening van het recht op de inkomensvervangende tegemoetkoming."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970303.8": {
+      "court": "CASS",
+      "date": "1997-03-03",
+      "roleNumber": "S960110F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La modification de l'article 13 de la loi du 27 février 1987 relative aux allocations aux handicapés par l'article 50 de la loi du 30 décembre 1992, qui est entrée en vigueur le 1er juillet 1993, est de nature, notamment par la prise en compte, pour l'octroi de l'allocation de remplacement de revenus, des pensions dont bénéficie le handicapé, à entraîner la suppression ou la diminution de l'allocation de celui-ci."
+      ],
+      "abstractNL": [
+        "De wijziging van art. 13, Gehandicaptenwet Tegemoetkomingen, bij art. 50, W. 30 dec. 1992, die op 1 juli 1993 in werking is getreden, kan de afschaffing of vermindering van de tegemoetkoming aan de mindervalide tot gevolg hebben, inzonderheid door voor de toekenning van de inkomensvervangende tegemoetkoming het door laatstgenoemde genoten pensioen in aanmerking te nemen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950109.8": {
+      "court": "CASS",
+      "date": "1995-01-09",
+      "roleNumber": "S940053F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La décision accordant au handicapé, en vertu de la loi du 27 juin 1969, une allocation qui a pris cours après le 31 décembre 1974 mais avant le 1er juillet 1987, peut être revue d'office lorsque est constatée dans le chef du bénéficiaire une modification de nature à entraîner la suppression, la diminution ou le non-paiement de l'allocation, ce qui n'est pas en soi le cas quand le handicapé passe de la catégorie cohabitant à la catégorie isolé."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij,krachtens de Minder-validenwet Tegemoetkomingen 1969, aan de minder-valide een tegemoetkoming is toegekend die na 31 december 1974, doch voor 1 juni 1987 is ingegaan, kan ambtshalve worden herzien, wanneer bij de gerechtigde een wijziging wordt vastgesteld die de afschaffing, vermindering of niet-betaling van de tegemoetkoming kan tot gevolg hebben, wat op zich niet het geval is wanneer de minder-valide van de categorie \"samenwonende\" naar die van \"allenstaande\" overgaat."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1995:ARR.19950306.10": {
+      "court": "CASS",
+      "date": "1995-03-06",
+      "roleNumber": "S940093F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La révision d'office du droit à l'allocation de remplacement de revenus et à l'allocation d'intégration est instruite en tenant compte, en matière de revenu, des données relatives à la deuxième année précédant celle de la révision d'office."
+      ],
+      "abstractNL": [
+        "De ambtshalve herziening van het recht op inkomensvervangende tegemoetkoming en de integratietegemoetkoming wordt onderzocht met inaanmerkingneming, inzake inkomen, van de gegevens die betrekking hebben op het tweede jaar voorafgaand aan dat in de loop waarvan ambtshalve tot herziening wordt overgegaan."
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:1992:ARR.19920316.12": {
+      "court": "CASS",
+      "date": "1992-03-16",
+      "roleNumber": "7785",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/16/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "La suspension du paiement de l'allocation d'intégration pour un tiers n'est soumise à d'autres conditions que le séjour de l'handicapé dans un établissement dans les conditions, prévues à l'art. 28 de l'A.R. du 6 juillet 1987, et la prise en charge totale ou partielle des frais de séjour par les pouvoirs publics, un service public ou un organisme de sécurité sociale. ( Loi du 27 février 1987, art. 12, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Voor de opschorting van de uitbetaling van de integratietegemoetkoming voor een derde, gelden geen andere voorwaarden dan dat de gehandicapte in een instelling verblijft onder voorwaarden bepaald bij art. 28 K.B. van 6 juli 1987, en dat de overheid, een openbare dienst of een sociale-zekerheidsinstelling de kosten van het verblijf geheel of gedeeltelijk draagt. ( Art. 12, alinéa 1, Gehandicaptenwet Tegemoetkomingen. )"
+      ]
+    }
+  },
+  "30": {
+    "ECLI:BE:CASS:2003:ARR.20030505.9": {
+      "court": "CASS",
+      "date": "2003-05-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/05/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est établi qu'à la date de prise d'effet de la demande d'allocation ou le premier jour du mois qui suit la révision d'office, le handicapé s'est vu octroyer une indemnité sous forme d'un capital versé en une fois du chef d'incapacité temporaire et permanente de travail et qu'un certain montant de ce capital concerne une indemnité du chef d'incapacité temporaire de travail pour une période antérieure à la date de prise d'effet du droit aux allocations, ce montant ne constitue pas une allocation qui doit être prise en compte pour déterminer la contrevaleur en prestation périodique."
+      ],
+      "abstractNL": [
+        "Wanneer vaststaat dat aan de gehandicapte op de datum van uitwerking van de aanvraag tot tegemoetkoming of op de eerste dag van de maand die volgt op de ambtshalve herziening, een vergoeding onder de vorm van een ineens uitgekeerd kapitaal voor tijdelijke en blijvende arbeidsongeschiktheid werd uitgekeerd en dat een bepaald bedrag van het ineens uitgekeerde kapitaal betrekking heeft op een vergoeding wegens tijdelijke arbeidsongeschiktheid voor een periode voorafgaand aan de ingangsdatum van het recht op tegemoetkoming, is dit bedrag geen uitkering die moet worden in aanmerking genomen om de tegenwaarde in periodieke uitkering te bepalen."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990927.4": {
+      "court": "CASS",
+      "date": "1999-09-27",
+      "roleNumber": "S980132N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 13 de la loi du 27 février 1987 relative aux allocations aux handicapés modifié par l'article 50 de la loi du 30 décembre 1992 et à l'article 30 de l'arrêté royal du 6 juillet 1987 relatif à l'allocation de remplacement de revenus et à l'allocation d'intégration, modifié par l'arrêté royal du 14 avril 1993, les deux dispositions étant entrées en vigueur le 1er juillet 1993, l'allocation de remplacement de revenus peut être refusée au handicapé ou réduite lorsque celui-ci peut prétendre à des prestations jusifiées par une limitation de sa capacité de gain ou à des prestations sociales relatives à la maladie et l'invalidité au chômage, aux accidents du travail, aux maladies professionnelles, aux allocations familiales, aux pensions de retraite et de survie et au revenu garanti aux personnes âgées; de telles allocations sont calculées conformément à la loi et en fonction d'un tableau; ces dispositions modifiées doivent être appliquées immédiatement après leur entrée en vigueur."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 13, Gehandicaptenwet tegemoetkomingen, gewijzigd bij art.50 van de wet van 30 december 1992 en art. 30 KB 6 juli 1987, zoals gewijzigd bij KB van 14 april 1993, beide bepalingen in werking getreden op 1 juli 1993, kan de inkomensvervangende tegemoetkoming aan de gehandicapte geweigerd of verminderd worden wanneer de gehandicapte aanspraak heeft op uitkeringen die hun grond vinden in een beperking van het verdienvermogen of op sociale uitkering betreffende de ziekte en invaliditeit, de werkloosheid, de arbeidsongevallen, de beroepsziekten, de gezinsbijslagen, de rust-en overleveingspensioenen en het gewaarborgd inkomen voor bejaarden; dergelijke uitkeringen worden aangerekend zoals wettelijk bepaald en met inachtname van een tabel; deze bepalingen moeten in hun nieuwe vorm onmiddellijk vanaf de inwerkingtreding ervan worden toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961028.11": {
+      "court": "CASS",
+      "date": "1996-10-28",
+      "roleNumber": "S960007F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le handicapé introduit une demande administrative d'allocation de remplacement de revenus, le juge ne peut prendre en considération, pour l'application de l'article 13, alinéa 1er, de la loi du 27 février 1987, que les prestations auxquelles peut prétendre le handicapé le premier jour du mois qui suit celui au cours duquel la demande précitée a été introduite; le juge ne peut donc prendre en considération les prestations auxquelles peut prétendre le handicapé postérieurement à cette date, notamment postérieurement au recours du handicapé devant le tribunal du travail contre la décision administrative du ministre statuant sur la demande administrative d'allocation; les éléments justifiant l'octroi ou l'augmentation de l'allocation, qui ne peuvent être ainsi soumis pour la première fois au tribunal du travail, peuvent toutefois donner lieu à une nouvelle demande administrative."
+      ],
+      "abstractNL": [
+        "Wanneer de minder-valide een administratieve aanvraag voor een inkomensvervangende tegemoetkoming indient, kan de rechter, voor de toepassing van artikel 13, alinéa 1, Wet 27 feb. 1987, enkel de uitkeringen in aanmerking nemen waarop de minder-valide recht heeft op de eerste dag van de maand die volgt op de maand in de loop waarvan de voornoemde aanvraag is ingediend; de rechter kan dus niet de uitkeringen in aanmerking nemen waarop de minder-valide na die datum recht heeft, inzonderheid na zijn beroep bij de arbeidsrechtbank tegen de administratieve beslissing van de minister op de administratieve aanvraag tot uitkering; de gegevens tot verantwoording van de toekenning of de stijging van de uitkering, die aldus niet voor het eerst aan de arbeidsrechtbank kunnen worden voorgelegd, kunnen evenwel leiden tot een nieuwe administratieve aanvraag."
+      ]
+    }
+  },
+  "41": {
+    "ECLI:BE:CASS:1991:ARR.19911125.16": {
+      "court": "CASS",
+      "date": "1991-11-25",
+      "roleNumber": "9224",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/25/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Le fait qu'une décision administrative doit être prise après l'entrée en vigueur de nouvelles dispositions légales ou réglementaires, telles celles en matière d'allocations aux handicapés, a en règle pour conséquence qu'elle doit appliquer les nouvelles dispositions légales ou réglementaires pour la période postèrieure à l'entrée en vigueur de ces nouvelles dispositions et à l'abrogation des anciennes. ( Loi du 27 février 1987, art. 28 et 30; A.R. du 6 juillet 1987, art. 40 et 41. )"
+      ],
+      "abstractNL": [
+        "Het feit dat een administratieve beslissing moet worden genomen na de inwerkingtreding van nieuwe wettelijke of verordenende bepalingen, zoals die inzake tegemoetkomingen aan gehandicapten, heeft in de regel tot gevolg dat die beslissing toepassing moet maken van de nieuwe wettelijke of verordenende bepalingen voor de periode die volgt op de inwerkingtreding van die nieuwe bepalingen en op de opheffing van de oude. ( Artt. 28 en 30, Wet van 27 februari 1987; artt. 40 en 41, K.B. van 6 juli 1987. )"
+      ]
     }
   },
   "general": {
@@ -51,6 +467,204 @@
       "abstractFR": null,
       "abstractNL": [
         "Het arrest bevat de volgende overwegingen : Overwegende dat, krachtens artikel 8, alinéa 1, van het koninklijk besluit van 6 juli 1987 komt voor de toekenning van de inkomensvervangende tegemoetkoming en de integratietegemoetkoming als inkomen in aanmerking, het in het eerste lid van die paragraaf omschreven belastbaar inkomen van het tweede jaar dat aan het jaar voorafgaat in de loop waarvan de aanvraag wordt ingediend; dat dit inkomen voorkomt op het aanslagbiljet dat wordt afgeleverd door de Administratie der Directe Belastingen; Dat artikel 9 van hetzelfde koninklijk besluit bepaalt dat, wanneer voor de ingangsdatum van de tegemoetkoming, de gegevens inzake burgerlijke staat, de samenstelling van het gezin, samenwoning of inkomen, welke tot grondslag hebben gediend voor de bepaling van het bedrag van het op het aanslagbiljet voorkomend inkomen, gewijzigd zijn, rekening wordt gehouden met de nieuwe toestand en het bedrag van het inkomen eventueel wordt aangepast, voor zover de wijziging van dit inkomen minstens 20 pct bedraagt; Overwegende dat het belastbaar inkomen van het jaar van de aanvraag om tegemoetkoming pas na het verstrijken van dat jaar kan worden vastgesteld en kan worden vergeleken met het belastbaar inkomen van twee jaar voor dat van de aanvraag; dat het inkomen van het jaar waarin de tegemoetkoming ingaat, de in het voormelde artikel 9 bedoelde gegevens niet kan wijzigen voor de ingangsdatum van de tegemoetkoming; Dat voor de toepassing van dit artikel 9 geen rekening kan worden gehouden met een vermindering van het inkomen van het jaar van de ingangsdatum van de tegemoetkoming; Overwegende dat blijkens de vaststellingen van het arrest : 1. verweerster in juni 1987 een aanvraag indiende tot het verkrijgen van tegemoetkomingen aan gehandicapten; 2. eiser, om bij beslissing van 21 december 1988 de inkomensvervangende- en integratietegemoetkomingen met ingang van 1 juli 1987 te weigeren, overeenkomstig het voormelde artikel 9 rekening hield met het inkomen van 1986, dat minstens 20 pct. hoger lag dan het inkomen van 1985, dat het normaal refertejaar was; 3. zich in de loop van 1987, voor het indienen van de aanvraag en de ingangsdatum van de beslissing, wijzigingen hebben voorgedaan, waardoor het inkomen tijdens dat jaar minstens 20 pct. lager lag dan het inkomen van 1986; Dat het arrest, door te oordelen dat voor het toekennen van de tegemoetkomingen met ingang van 1 juli 1987, rekening moet worden gehouden met het inkomen tijdens 1987, de in het middel vermelde wettelijke bepalingen schendt; Dat het middel gegrond is."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890116.5": {
+      "court": "CASS",
+      "date": "1989-01-16",
+      "roleNumber": "6408",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du montant limité de la pension de retraite du conjoint du handicapé, à prendre en considération pour déterminer l'allocation complémentaire accordée aux handicapés, il faut entendre par \"pension de retraite d'un conjoint\", octroyée du chef d'une activité exercée en tant que travailleur ou travailleur indépendant, la pension du chef de famille, visée à l'article 10, alinéa 1er, a, de l'arrêté royal n° 50 du 24 octobre 1967 et de l'article 9, alinéa 1er, 1°, de l'arrêté royal n° 72 du 10 novembre 1967. ( Arr. roy. du 17 novembre 1969, art. 39, alinéa alinéa 1er et 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het beperkte bedrag van het rustpensioen van de echtgenoot van de minder-valide dat wordt aangerekend voor de berekening van de aanvullende tegemoetkoming aan minder-validen moet onder \"rustpensioen van gehuwd man\", dat wordt toegekend wegens een als werknemer of als zelfstandige uitgeoefende bezigheid, worden verstaan het gezinspensioen bedoeld in art. 10, alinéa 1, a, K.B. nr. 50, van 24 oktober 1967 en art. 9, alinéa 1, 1°, K.B. nr. 72 van 10 november 1967. ( Art. 39, alinéa alinéa 1 en 2, 1°, K.B. 17 november 1969. )"
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981102.10": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S980006N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail connaissant du recours dirigé contre la décision du ministre relative à des droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés peut uniquement décider si le ministre a statué conformément aux prescriptions légales sur le droit aux allocations et, dès lors, ne peut connaître des droits qui ne sont pas prévus par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen de beslissing van de minister ten aanzien van rechten die ontstaan uit de Mindervalidenwet Tegemoetkomingen kan alleen oordelen of de minister overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming heeft beslist en kan derhalve geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die aan het bestuur niet zijn voorgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981102.9": {
+      "court": "CASS",
+      "date": "1998-11-02",
+      "roleNumber": "S980003N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail connaissant du recours dirigé contre la décision du ministre relative à des droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés peut uniquement décider si le ministre a statué conformément aux prescriptions légales sur le droit aux allocations et, dès lors, ne peut connaître des droits qui ne sont pas prévus par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen de beslissing van de minister ten aanzien van rechten die ontstaan uit de Mindervalidenwet Tegemoetkomingen kan alleen oordelen of de minister overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming heeft beslist en kan derhalve geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die aan het bestuur niet zijn voorgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971117.8": {
+      "court": "CASS",
+      "date": "1997-11-17",
+      "roleNumber": "S970034N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail qui connaît du recours contre une décision du ministre en matière d'allocations aux handicapés, se borne à décider si la décision a été prise conformément aux dispositions légales concernant le droit aux allocations compte tenu des éléments qui, à la date de cette décision, déterminent les droits résultant de la loi du 27 février 1987 relative aux allocations aux handicapés et sur la base desquels la décision a été prise ou aurait dû être prise; la juridiction du travail ne peut connaître de droits qui ne sont pas consacrés par la décision ministérielle ou qui n'ont pas été soumis à l'administration."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht dat kennis neemt van het beroep tegen een beslissing van de minister ten aanzien van tegemoetkomingen voor mindervaliden, kan alleen oordelen of de beslissing overeenkomstig de wettelijke voorschriften over het recht op tegemoetkoming werd genomen met inachtneming van de gegevens die, op de datum van die beslissing, de rechten bepalen die voortvloeien uit de Gehandicaptenwet Tegemoetkomingen en op grond waarvan de beslissing werd genomen of moest genomen worden; het arbeidsgerecht kan geen kennis nemen van aanspraken die buiten de ministeriële beslissing vallen of die het bestuur niet zijn voorgelegd."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961028.11": {
+      "court": "CASS",
+      "date": "1996-10-28",
+      "roleNumber": "S960007F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le handicapé introduit une demande administrative d'allocation de remplacement de revenus, le juge ne peut prendre en considération, pour l'application de l'article 13, alinéa 1er, de la loi du 27 février 1987, que les prestations auxquelles peut prétendre le handicapé le premier jour du mois qui suit celui au cours duquel la demande précitée a été introduite; le juge ne peut donc prendre en considération les prestations auxquelles peut prétendre le handicapé postérieurement à cette date, notamment postérieurement au recours du handicapé devant le tribunal du travail contre la décision administrative du ministre statuant sur la demande administrative d'allocation; les éléments justifiant l'octroi ou l'augmentation de l'allocation, qui ne peuvent être ainsi soumis pour la première fois au tribunal du travail, peuvent toutefois donner lieu à une nouvelle demande administrative."
+      ],
+      "abstractNL": [
+        "Wanneer de minder-valide een administratieve aanvraag voor een inkomensvervangende tegemoetkoming indient, kan de rechter, voor de toepassing van artikel 13, alinéa 1, Wet 27 feb. 1987, enkel de uitkeringen in aanmerking nemen waarop de minder-valide recht heeft op de eerste dag van de maand die volgt op de maand in de loop waarvan de voornoemde aanvraag is ingediend; de rechter kan dus niet de uitkeringen in aanmerking nemen waarop de minder-valide na die datum recht heeft, inzonderheid na zijn beroep bij de arbeidsrechtbank tegen de administratieve beslissing van de minister op de administratieve aanvraag tot uitkering; de gegevens tot verantwoording van de toekenning of de stijging van de uitkering, die aldus niet voor het eerst aan de arbeidsrechtbank kunnen worden voorgelegd, kunnen evenwel leiden tot een nieuwe administratieve aanvraag."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950626.1": {
+      "court": "CASS",
+      "date": "1995-06-26",
+      "roleNumber": "S940157N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour la fixation du montant de l'allocation aux handicapés il n'est tenu compte que de la modification du revenu du handicapé, intervenue avant la date à laquelle la décision administrative sur la demande prend cours."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten wordt slechts rekening gehouden met een wijziging van het inkomen van de gehandicapte in zoverre die wijziging is ingetreden vóór de datum waarop de administratieve beslissing over de aanvraag ingaat."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950306.10": {
+      "court": "CASS",
+      "date": "1995-03-06",
+      "roleNumber": "S940093F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La révision d'office du droit à l'allocation de remplacement de revenus et à l'allocation d'intégration est instruite en tenant compte, en matière de revenu, des données relatives à la deuxième année précédant celle de la révision d'office."
+      ],
+      "abstractNL": [
+        "De ambtshalve herziening van het recht op inkomensvervangende tegemoetkoming en de integratietegemoetkoming wordt onderzocht met inaanmerkingneming, inzake inkomen, van de gegevens die betrekking hebben op het tweede jaar voorafgaand aan dat in de loop waarvan ambtshalve tot herziening wordt overgegaan."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950227.14": {
+      "court": "CASS",
+      "date": "1995-02-27",
+      "roleNumber": "S940098N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte des articles 8 et 9 de l'arrêté royal du 6 juillet 1987 (dans la version originale) que les données justifiant l'octroi ou l'augmentation de l'allocation aux handicapés qui n'étaient pas connues de l'administration lorsque le droit aux allocations a été reconnu, ne peuvent donner lieu qu'à une nouvelle demande."
+      ],
+      "abstractNL": [
+        "Uit de artt. 8 en 9 K.B. 6 juli 1987 (in de oorspronkelijke versie) volgt dat gegevens welke de toekenning of de verhoging van de tegemoetkoming van de gehandicapten rechtvaardigen maar die ten tijde van de toekenning van het recht op tegemoetkoming door de administratie niet bekend waren, slechts aanleiding kunnen geven tot een nieuwe aanvraag."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941219.10": {
+      "court": "CASS",
+      "date": "1994-12-19",
+      "roleNumber": "S940066N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Afin de déterminer le montant de l'allocation aux handicapés, l'administration doit décider sur la base de données qu'elle connaît au moment où elle prend sa décision et qu'elle peut prendre en considération, sans qu'une nouvelle demande doive être introduite à cet effet, lorsque les données ont été modifiées avant la date de prise de cours de l'allocation."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten moet het bestuur beslissen op grond van de gegevens die het bij het nemen van zijn beslissing kent en in aanmerking mag nemen, zonder dat daartoe een nieuwe aanvraag moet worden ingediend wanneer de gegevens zijn gewijzigd voor de ingangsdatum van de tegemoetkoming. (Art. 8, alinéa 1, laatste lid, Gehandicaptenwet Tegemoetkomingen; artt. 8, 9 en 20 K.B. 6 juli 1987)."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921214.5": {
+      "court": "CASS",
+      "date": "1992-12-14",
+      "roleNumber": "8017",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour la fixation du montant de l'allocation aux handicapés il n'est tenu compte que de la modification du revenu du handicapé, intervenue avant la date à laquelle la décision administrative sur la demande prend cours. ( Arr. roy. du 6 juillet 1987, art. 8, alinéa 1er, alinéa 2, et 9, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het bedrag van de tegemoetkoming aan gehandicapten wordt slechts rekening gehouden met een wijziging van het inkomen van de gehandicapte welke is ingetreden voor de datum waarop de administratieve beslissing over de aanvraag ingaat. ( Artt. 8, alinéa 1, tweede lid, en 9, eerste lid, K.B. van 6 juli 1987. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921214.4": {
+      "court": "CASS",
+      "date": "1992-12-14",
+      "roleNumber": "7922;8104",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 9 de l'arrêté royal du 6 juillet 1987, le revenu à prendre en considération pour le calcul de l'allocation des handicapés peut être adapté, lorsque des données en matière de revenu sont modifiées avant la date de prise de cours de l'allocation; pour l'application de cette disposition, il ne peut être tenu compte d'une diminution du revenu de l'année de la date de prise de cours de l'allocation."
+      ],
+      "abstractNL": [
+        "Krachtens art. 9 K.B. van 6 juli 1987 kan het in aanmerking te nemen inkomen voor de berekening van de tegemoetkomingen aan gehandicapten worden aangepast, wanneer gegevens betreffende het inkomen zijn gewijzigd voor de ingangsdatum van de tegemoetkoming; voor de toepassing van deze bepaling kan geen rekening worden gehouden met een vermindering van het inkomen van het jaar van de ingangsdatum van de tegemoetkoming."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920316.12": {
+      "court": "CASS",
+      "date": "1992-03-16",
+      "roleNumber": "7785",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/16/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "La suspension du paiement de l'allocation d'intégration pour un tiers n'est soumise à d'autres conditions que le séjour de l'handicapé dans un établissement dans les conditions, prévues à l'art. 28 de l'A.R. du 6 juillet 1987, et la prise en charge totale ou partielle des frais de séjour par les pouvoirs publics, un service public ou un organisme de sécurité sociale. ( Loi du 27 février 1987, art. 12, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Voor de opschorting van de uitbetaling van de integratietegemoetkoming voor een derde, gelden geen andere voorwaarden dan dat de gehandicapte in een instelling verblijft onder voorwaarden bepaald bij art. 28 K.B. van 6 juli 1987, en dat de overheid, een openbare dienst of een sociale-zekerheidsinstelling de kosten van het verblijf geheel of gedeeltelijk draagt. ( Art. 12, alinéa 1, Gehandicaptenwet Tegemoetkomingen. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881205.9": {
+      "court": "CASS",
+      "date": "1988-12-05",
+      "roleNumber": "6399",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/12/05/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Pour calculer les moyens d'existence provenant des biens cédés, qui sont pris en considération pour l'octroi des allocations aux handicapés, le montant des dettes et abattements doit être déduit de la valeur vénale du bien et non des revenus de ce bien fixés forfaitairement. ( Arr. roy. du 24 décembre 1974, art. 28 et 29. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van de bestaansmiddelen uit afgestane goederen die in aanmerking komen voor de toekenning van tegemoetkomingen aan minder-validen, moet het bedrag van de in mindering te brengen schulden en abattementen worden afgetrokken van de verkoopwaarde van het goed en niet van het forfaitair aan te rekenen inkomen uit dat goed. ( Art. 28 en 29 K.B. 24 december 1974. )"
+      ]
+    }
+  },
+  "9ter": {
+    "ECLI:BE:CASS:2013:ARR.20131202.1": {
+      "court": "CASS",
+      "date": "2013-12-02",
+      "roleNumber": "S.12.0043.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les montants, jusqu'à concurrence desquels certaines parties des revenus sont immunisés, à prendre en considération pour le calcul de l'allocation d'intégration sont ceux en vigueur à la date à laquelle la décision de révision d'office produit ses effets, qui est le premier jour du mois qui suit la notification de la décision de révision d'office est non le montant où la procédure de révision d'office et entamée."
+      ],
+      "abstractNL": [
+        "De bedragen tot beloop waarvan sommige gedeelten van de inkomens worden vrijgesteld voor de berekening van de integratietegemoetkoming, zijn de bedragen die gelden op de datum van uitwerking van de beslissing tot ambtshalve herziening, namelijk de eerste dag van de maand volgend op de kennisgeving van de beslissing tot ambtshalve herziening en niet het bedrag bij de aanvang van de procedure van de ambtshalve herziening."
       ]
     }
   }

@@ -14,5 +14,65 @@
         "Artikel 125 van de Grondwet en de artikelen 2 en 3 van de bijzondere wet van 25 juni 1998 tot regeling van de strafrechtelijke verantwoordelijkheid van leden van een Gemeenschaps- of Gewestregering, maken een onderscheid tussen misdrijven die in dan wel buiten de uitoefening van hun ambt zijn gepleegd; de Grondwetgever en de wetgever hebben niet de persoon van de minister maar het ministerieel ambt willen beschermen en, meer nog dan het ambt, de gehele regering, als instelling; aangezien het in het gedrang brengen van de ministeriële verantwoordelijkheid is onderworpen aan voorwaarden die rechtstreeks met die doelstelling verband houden, zoals voor elke van het gemeen recht afwijkende regeling, dienen die voorwaarden beperkend te worden uitgelegd (1). (1) Eliane Liekendael, \"Contribution mineure à une réflexion sur un problème majeur : la responsabilité pénale des ministres fédéraux\", rede uitgesproken door de procureur-generaal bij het Hof van Cassatie op de plechtige openingszitting van 1 september 1998, Brussel, Bruylant, 1998, p. 5, en R.D.P.C., 1998, p. 940-941."
       ]
     }
+  },
+  "6": {
+    "ECLI:BE:CASS:2001:ARR.20010109.5": {
+      "court": "CASS",
+      "date": "2001-01-09",
+      "roleNumber": "P991050NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 103, dernier alinéa, de la Constitution et l'article 6 de la loi du 25 juin 1998 réglant la responsabilité pénale des ministres permettent à la personne lésée de se constituer partie civile devant la cour d'appel saisie par le ministère public compétent pour l'action publique exercée à charge d'un ministre ou, après avoir reçu l'autorisation de la Chambre des représentants, de saisir elle-même la cour d'appel compétente d'une action civile (1)."
+      ],
+      "abstractNL": [
+        "Artikel 103, laatste lid, Grondwet, en artikel 6 van de wet van 25 juni 1998 laten de benadeelde toe zich voor het hof van beroep dat door het bevoegde openbaar ministerie van de strafvordering jegens een minister aangesproken wordt, burgerlijke partij te stellen of, na daartoe het verlof te hebben gekregen van de kamer van volksvertegenwoordigers, voor het bevoegde hof van beroep zelf een burgerlijke rechtsvordering aanhangig te maken (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010109.12": {
+      "court": "CASS",
+      "date": "2001-01-09",
+      "roleNumber": "P000992N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une action civile dirigée par une personne lésée contre un ministre du chef d'une infraction visée à l'article 103 de la Constitution ne peut être intentée par le biais d'une constitution de partie civile devant le juge d'instruction (1)."
+      ],
+      "abstractNL": [
+        "De uitstelling van een burgerlijke rechtsvordering jegens een minister door een benadeelde wegens een door art. 103 Grondwet bedoeld misdrijf kan niet bij wege van een burgerlijke partijstelling voor de onderzoeksrechter (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010109.5": {
+      "court": "CASS",
+      "date": "2001-01-09",
+      "roleNumber": "P991050NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 103, dernier alinéa, de la Constitution et l'article 6 de la loi du 25 juin 1998 réglant la responsabilité pénale des ministres permettent à la personne lésée de se constituer partie civile devant la cour d'appel saisie par le ministère public compétent pour l'action publique exercée à charge d'un ministre ou, après avoir reçu l'autorisation de la Chambre des représentants, de saisir elle-même la cour d'appel compétente d'une action civile (1)."
+      ],
+      "abstractNL": [
+        "Artikel 103, laatste lid, Grondwet, en artikel 6 van de wet van 25 juni 1998 laten de benadeelde toe zich voor het hof van beroep dat door het bevoegde openbaar ministerie van de strafvordering jegens een minister aangesproken wordt, burgerlijke partij te stellen of, na daartoe het verlof te hebben gekregen van de kamer van volksvertegenwoordigers, voor het bevoegde hof van beroep zelf een burgerlijke rechtsvordering aanhangig te maken (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010109.12": {
+      "court": "CASS",
+      "date": "2001-01-09",
+      "roleNumber": "P000992N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une action civile dirigée par une personne lésée contre un ministre du chef d'une infraction visée à l'article 103 de la Constitution ne peut être intentée par le biais d'une constitution de partie civile devant le juge d'instruction (1)."
+      ],
+      "abstractNL": [
+        "De uitstelling van een burgerlijke rechtsvordering jegens een minister door een benadeelde wegens een door art. 103 Grondwet bedoeld misdrijf kan niet bij wege van een burgerlijke partijstelling voor de onderzoeksrechter (1)."
+      ]
+    }
   }
 }

@@ -1,4 +1,20 @@
 {
+  "34": {
+    "ECLI:BE:CASS:1986:ARR.19861201.17": {
+      "court": "CASS",
+      "date": "1986-12-01",
+      "roleNumber": "7612",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/12/01/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 34 de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, qui prévoit que le comité de gestion de l'Office national peut renoncer au recouvrement des pécules indûment payés, n'implique pas que ce comité doive se prononcer sur l'opportunité de la récupération de pécules préalablement à la demande tendant au remboursement des pécules indûment payés."
+      ],
+      "abstractNL": [
+        "Art. 34 van het K.B. van 30 maart 1967 tot bepaling van de algemene uitvoeringsmodaliteiten van de wetten betreffende de jaarlijkse vakantie der loonarbeiders, dat bepaalt dat het beheerscomité van de Rijksdienst mag afzien van de invordering van het ten onrechte uitbetaald vakantiegeld, impliceert niet dat dit comité over de opportuniteit van de terugvordering van het vakantiegeld uitspraak moet doen alvorens de vordering strekkende tot terugbetaling van het ten onrechte uitbetaald vakantiegeld in te stellen."
+      ]
+    }
+  },
   "38": {
     "ECLI:BE:CASS:2009:ARR.20090309.8": {
       "court": "CASS",
@@ -12,6 +28,146 @@
       ],
       "abstractNL": [
         "De verplichting om het vakantiegeld te betalen aan een bediende die tijdelijk volledig arbeidsongeschikt is t.g.v. een arbeidsongeval, houdt geen verband met de in de Arbeidsongevallenwet bepaalde schadevergoeding; die verplichting rust op de werkgever."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050926.3": {
+      "court": "CASS",
+      "date": "2005-09-26",
+      "roleNumber": "S040163N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par la \"rémunération brute\" au sens des articles 38, 2°, et 46 de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, tout avantage accordé par l'employeur en contrepartie des prestations de travail effectuées en exécution du contrat de travail, à l'exclusion des avantages qui n'entrent pas en ligne de compte pour le calcul des cotisations de sécurité sociale (1). (1) Cass., 4 février 2002, RG S.01.0103.N, n° 83."
+      ],
+      "abstractNL": [
+        "Met de term 'brutowedde' in de artikelen 38, 2°, en 46, van het Uitvoeringsbesluit Jaarlijkse Vakantie is bedoeld : elk voordeel toegekend door de werkgever als tegenprestatie voor de arbeid verricht ter uitvoering van de arbeidsovereenkomst, behoudens indien dit voordeel niet in aanmerking wordt genomen voor de berekening van de sociale zekerheidsbijdragen (1). (1) Zie Cass., 4 feb. 2002, AR S.01.0103.N, nr 83."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930104.11": {
+      "court": "CASS",
+      "date": "1993-01-04",
+      "roleNumber": "8089",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les avantages en nature dont bénéficie l'employé sont pris en considération pour le calcul de son simple pécule de vacances. ( A.R. du 30 mars 1967, art. 38, 1°. )"
+      ],
+      "abstractNL": [
+        "Door de bediende genoten voordelen in natura komen in aanmerking voor de berekening van het enkel vakantiegeld. ( Art. 38, 1°, K.B. van 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891009.12": {
+      "court": "CASS",
+      "date": "1989-10-09",
+      "roleNumber": "6671",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un treizième mois n'est pas pris en considération pour le calcul du double pécule de vacances prévu à l'article 38, 2°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "Een dertiende maand komt niet in aanmerking voor de berekening van het dubbel vakantiegeld bedoeld in artikel 38, 2°, K.B. 30 maart 1967."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820510.3": {
+      "court": "CASS",
+      "date": "1982-05-10",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de congé prévue à l'article 20 des lois relatives au contrat d'emploi ne comprend pas, outre la rémunération, le pécule de vacances prévu à l'article 38, 1°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "De opzeggingsvergoeding, bepaald in art. 20 van de wetten betreffende het bediendencontract, omvat naast de wedde, niet het vakantiegeld, bepaald in art. 38, 1°, K.B. 30 maart 1967 <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810202.10": {
+      "court": "CASS",
+      "date": "1981-02-02",
+      "roleNumber": "3060",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/02/02/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de congé, prévue à l'article 20 des lois relatives au contrat d'emploi, ne comprend pas, outre la rémunération, le pécule de vacances prévu à l'article 38, 1°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "De opzeggingsvergoeding, bepaald in art. 20 A.O.B., omvat, naast de wedde, niet het vakantiegeld, bepaald in artikel 38, 1°, K.B. van 30 maart 1967."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780529.5": {
+      "court": "CASS",
+      "date": "1978-05-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/29/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de congé prévue à l'article 20 des lois relatives au contrat d'emploi ne comprend pas \"la rémunération normale afférente aux jours de vacances\" visée à l'article 38, 1°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "De opzeggingsvergoeding, bepaald in artikel 20 van de wetten betreffende het bediendencontract, omvat, naast de wedde, niet het vakantiegeld, bepaald in artikel 38, 1°., van het koninklijk besluit van 30 maart 1967."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750319.5": {
+      "court": "CASS",
+      "date": "1975-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La rémunération prise en considération pour vérifier la validité d'une clause d'essai insérée dans un contrat d'emploi comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2°, de l'arrêté royal du 30 mars 1967, modifié par l'article 31 de l'arrêté royal du 2 avril 1970. ( Lois coordonnées relatives au contrat d'emploi, art. 3, et arrêté royal du 30 mars 1967, art. 38, 2°, modifié par l'arrêté royal du 2 avril 1970. )"
+      ],
+      "abstractNL": [
+        "Het loon waarmee rekening wordt gehouden om de geldigheid na te gaan van een verbintenis op proef in een arbeidsovereenkomst voor bedienden omvat, benevens de wedden, ook de voordelen verworven krachtens de overeenkomst, o.a. het supplement waarvan sprake is in artikel 38, 2°, van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970. ( Art. 3 gecoörd. wetten betreffende het bediendencontract; art. 38, 2°, K. B. van 30 maart 1967, gewijzigd bij K. B. van 2 april 1970. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741204.2": {
+      "court": "CASS",
+      "date": "1974-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité dont l'article 20 des lois coordonnées relatives au contrat d'emploi impose le payement à la partie qui rompt la convention sans juste motif ou sans respecter les délais de préavis comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément de pécule prévu par l'article 38, 2°, de l'arrêté royal du 30 mars 1967, modifié par l'article 31 de l'arrêté royal du 2 avril 1970."
+      ],
+      "abstractNL": [
+        "De vergoeding die krachtens artikel 20 van de wetten betreffende het bediendencontract moet worden betaald door de partij die de overeenkomst zonder dringende reden of zonder inachtneming van de opzeggingstermijn beëindigt, omvat naast de wedde de verdiensten verworven krachtens de overeenkomst, inzonderheid het bijkomend vakantiegeld, bepaald bij artikel 38, 2°, van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740522.5": {
+      "court": "CASS",
+      "date": "1974-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité qui, en vertu de l'article 20 des lois coordonnées relatives au contrat d'emploi, doit être payée par la partie qui rompt la convention sans juste motif ou sans respecter les délais de préavis comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2., de l'arrêté royal du 30 mars 1967 modifié par l'article 31 de l'arrêté royal du 2 avril 1970."
+      ],
+      "abstractNL": [
+        "De vergoeding welke krachtens artikel 20 van de gecoordineerde wetten betreffende het bediendencontract moet worden betaald door de partij die de verbintenis verbreekt zonder gegronde reden of zonder de opzeggingstermijn in acht te nemen, omvat, buiten de wedden, de krachtens de overeenkomst verworven verdiensten, o.a. het bijkomend vakantiegeld waarvan sprake in artikel 38, 2., van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740522.4": {
+      "court": "CASS",
+      "date": "1974-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité qui, en vertu de l'article 20 des lois coordonnées relatives au contrat d'emploi, doit être payée par la partie qui rompt la convention sans juste motif ou sans respecter les délais de préavis comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2., de l'arrêté royal du 30 mars 1967 modifié par l'article 31 de l'arrêté royal du 2 avril 1970."
+      ],
+      "abstractNL": [
+        "De vergoeding welke krachtens artikel 20 van de gecoordineerde wetten betreffende het bediendencontract moet worden betaald door de partij die de verbintenis verbreekt zonder gegronde reden of zonder de opzeggingstermijn in acht te nemen, omvat, buiten de wedden, de krachtens de overeenkomst verworven verdiensten, o.a. het bijkomend vakantiegeld waarvan sprake in artikel 38, 2., van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970."
       ]
     }
   },
@@ -58,6 +214,90 @@
       "abstractNL": [
         "Op grond van de toelichting in de aanhef van het Koninklijk Besluit van 28 april 1999, kan niet besloten worden dat voor de periode vóór 1 december 1998 geen vakantiegeld verschuldigd is op jaarlijks toegekende bonussen of premies, zodat ook voor de periode vóór 1 december1998 de jaarlijks betaalde premies of bonussen onder bepaalde voorwaarden als variabel loon in de zin van artikel 39, eerste lid van het K.B. van 30 maart 1967 kunnen beschouwd worden (1) (2). (1) Art. 39 van KB van 30 maart 1967 vóór de toevoeging van een zesde alinea bij Koninklijke besluiten van 1 maart 1999 en 28 april 1999; (2) Cass., 18 sept. 2006, AR S.05.0020.N, A.C., 2006, nr. 422.",
         "Voor de toepassing van artikel 39 van het K.B. van 30 maart 1967 moet loon als veranderlijk beschouwd worden wanneer de toekenning ervan als loon, dit is als tegenprestatie van de in de arbeidsovereenkomst bedongen arbeid, afhankelijk is van criteria die de betaling ervan onzeker en wisselend maken; Wanneer de betaling van het loonvoordeel niet onzeker is, maar alleen het bedrag ervan wisselend is, betreft het geen veranderlijk loon (1). (1) Zie Cass., 18 sept. 2006, AR S.05.00520.N, A.C., 2006, nr. 422 waarin werd geoordeeld dat wanneer de toekenning van het loonvoordeel vaststaat, maar alleen het bedrag ervan wisselend is, het geen veranderlijk loon betreft."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060918.2": {
+      "court": "CASS",
+      "date": "2006-09-18",
+      "roleNumber": "S050020N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les primes ou bonus octroyés annuellement peuvent être considérés, sous certaines conditions, comme une rémunération variable (1) (2). (1) Cass., 22 septembre 1980, Bull. et Pas., 1981, I, 78; Cass., 1er juin 1987, RG 5633, n° 591. (2) Avant l'entrée en vigueur des arrêtés royaux des 1er mars 1999 et 28 avril 1999 insérant dans l'article 39 de l'arrêté royal du 30 mars 1967 un sixième alinéa produisant ses effets au 1er décembre 1998."
+      ],
+      "abstractNL": [
+        "De jaarlijkse betaalde premies of bonussen kunnen onder bepaalde voorwaarden als veranderlijke wedde worden beschouwd (1) (2). (1) Cass., 22 sept. 1980, A.C., 1980-81, nr 51; Cass., 1 juni 1987, AR 5633, A.C., 1986-87, nr 591. (2) Vóór de invoering van de koninklijke besluiten van 1 maart 1999 en 28 april 1999 tot invoeging van een zesde alinea in art. 39 van het K.B. van 30 maart 1967, met uitwerking op 1 december 1998."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960115.12": {
+      "court": "CASS",
+      "date": "1996-01-15",
+      "roleNumber": "S950093N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le simple pécule de vacances de l'année précédente est pris en considération pour le calcul du simple et du double pécule de vacances de l'employé dont la rémunération est variable."
+      ],
+      "abstractNL": [
+        "Voor de berekening van het enkel en het dubbel vakantiegeld van de bediende wiens loon veranderlijk is, komt het enkel vakantiegeld van het vorig jaar in aanmerking."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870601.17": {
+      "court": "CASS",
+      "date": "1987-06-01",
+      "roleNumber": "5633",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/01/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Une participation aux bénéfices fixée en pourcentage, qui est octroyée à titre de contreprestation pour le travail effectué, constitue une rémunération variable pour le calcul du pécule de vacances de l'employé, cette participation fût-elle payée une fois par an. ( Arr. roy. du 30 mars 1967, art. 39. )"
+      ],
+      "abstractNL": [
+        "Een in percenten vastgesteld aandeel in de winst, dat wordt toegekend als tegenprestatie voor verrichte arbeid, is veranderlijk loon voor de berekening van het vakantiegeld van de bediende, ook wanneer dat aandeel slechts eens per jaar wordt betaald. ( Art. 39 K.B. 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810119.12": {
+      "court": "CASS",
+      "date": "1981-01-19",
+      "roleNumber": "3002",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La rémunération afférente aux jours fériés est prise en considération pour le calcul du pécule de vacances de l'employé dont la rémunération est variable. ( Arr. roy. du 30 mars 1967, art. 39. )"
+      ],
+      "abstractNL": [
+        "Loon voor feestdagen komt in aanmerking voor de berekening van het vakantiegeld van de bediende wiens wedde veranderlijk is. ( Art. 39 K.B. 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800922.11": {
+      "court": "CASS",
+      "date": "1980-09-22",
+      "roleNumber": "2804",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/09/22/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du pécule de vacances accordé à un employé la prime de fin d'année ne peut être considérée comme étant une rémunération variable, au sens de l'article 39 de l'arrêté royal du 30 mars 1967, au seul motif que le montant de cette prime change chaque année."
+      ],
+      "abstractNL": [
+        "Voor de berekening van het aan een bediende toekomende vakantiegeld kan een eindejaarspremie niet worden aangemerkt als veranderlijk loon in de zin van het K.B. van 30 maart 1967 om de enkele reden dat het bedrag van de premie elk jaar verschilt."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741218.8": {
+      "court": "CASS",
+      "date": "1974-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La rémunération de tout travail supplémentaire est prise en considération pour le calcul du pécule de vacances revenant à un employé. ( Lois coordonnées du 28 juin 1971, art. 9, arrêté royal du 30 mars 1967, art. 38 et 39. )"
+      ],
+      "abstractNL": [
+        "Loon voor overwerk komt in aanmerking voor de betekening van het aan een bediende toekomende vakantiegeld. ( Art. 9 gecoördineerde wetten van 28 juni 1971; artt. 38 en 39 K.B. van 30 maart 1967. )"
       ]
     }
   },
@@ -121,6 +361,20 @@
       "abstractNL": [
         "De verplichting om het vakantiegeld te betalen aan een bediende die tijdelijk volledig arbeidsongeschikt is t.g.v. een arbeidsongeval, houdt geen verband met de in de Arbeidsongevallenwet bepaalde schadevergoeding; die verplichting rust op de werkgever."
       ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19781205.2": {
+      "court": "CASS",
+      "date": "1978-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/12/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui interrompt le travail à la suite d'un accident qui n'est pas un accident du travail, n'a pas droit à une indemnité du chef de la perte du pécule de vacances pour les douze premiers mois de l'interruption du travail, dans la mesure où il conserve le droit au pécule de vacances en raison de l'assimilation de ces jours d'inactivité à des jours de travail. ( Code civil, art. 1382 et 1383; lois coord. du 28 juin 1971, art. 9, 10 et 11; arr. roy. du 30 mars 1967, art. 16, 2., 18, 2., 41, 2., et 43, 2. )"
+      ],
+      "abstractNL": [
+        "De werknemer die de arbeid onderbreekt wegens een ongeval dat geen arbeidsongeval is, heeft geen recht op schadevergoeding wegens verlies van vakantiegeld gedurende de eerste twaalf maanden van de arbeidsonderbreking, in de mate waarin hij zijn aanspraak op vakantiegeld behoudt ingevolge de gelijkstelling van die dagen van inactiviteit met arbeidsdagen <1>. (Artt., 1382 en 1383 B.W.; gecoördineerde wetten van 28 juni 1971, artt. 9, 10, 11; artt. 16, 2o, 18, 2o, 41, 2o, en 43, 2o K.B. 30 maart 1967)"
+      ]
     }
   },
   "46": {
@@ -136,6 +390,222 @@
       ],
       "abstractNL": [
         "Uit de samenhang van de artikelen 44, 46, § 1, eerste lid en tweede lid, 1° van het Werkloosheidsbesluit, artikel 20, eerste lid van het Uitvoeringsbesluit Werkloosheid en artikel 46, eerste en tweede lid van het Uitvoeringsbesluit Vakantiewet volgt dat zowel de opzeggingsvergoeding als het bij artikel 46 van het Uitvoeringsbesluit Vakantiewet bedoelde vakantiegeld bij uitdiensttreding als loon moet worden aangezien voor de toepassing van artikel 44 van het Werkloosheidsbesluit, zodat de werkloze geen werkloosheidsuitkeringen kan genieten voor de periodes waarop die vergoedingen betrekking hebben, en dat de beide vergoedingen voor de toepassing van de werkloosheidsreglementering niet kunnen geacht worden eenzelfde kalenderperiode te dekken. Aldus kan de ontslagen bediende die van zijn werkgever zowel opzeggingsvergoeding als vakantiegeld bij uitdiensttreding ontvangt, slechts werkloosheidsuitkeringen genieten na het verstrijken van de door de opzeggingsvergoeding gedekte periode, verlengd met de niet opgenomen vakantiedagen, gedekt door het vakantiegeld bij uitdiensttreding."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050926.3": {
+      "court": "CASS",
+      "date": "2005-09-26",
+      "roleNumber": "S040163N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas requis que, pour entrer en ligne de compte dans le calcul du pécule de vacances payable par l'employeur à l'employé dont le contrat prend fin, l'avantage soit accordé pour la période des vacances."
+      ],
+      "abstractNL": [
+        "Om te worden opgenomen in de berekeningsbasis van het vakantiegeld dat de werkgever moet betalen aan de bediende wiens contract een einde neemt, is niet vereist dat een voordeel zich uitstrekt over de vakantieperiode."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020204.6": {
+      "court": "CASS",
+      "date": "2002-02-04",
+      "roleNumber": "S010103N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le pécule de vacances de l'employé dont le contrat de travail prend fin est calculé sur la base de la rémunération brute gagnée chez l'employeur pendant l'exercice de vacances en cours; il faut entendre par \"rémunération brute\" tout avantage en argent ou évaluable en argent octroyé par l'employeur à titre de contrepartie du travail effectué dans le cadre d'un contrat de travail."
+      ],
+      "abstractNL": [
+        "Het vakantiegeld van de bediende wiens arbeidsovereenkomst een einde neemt wordt berekend aan de hand van de brutowedde die bij de werkgever is verdiend tijdens het lopende vakantiedienstjaar; met de term \"brutowedde\" is bedoeld: elk voordeel in geld of in geld waardeerbaar, toegekend door de werkgever als tegenprestatie voor de in het kader van de arbeidsovereenkomst verrichte arbeid."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991025.5": {
+      "court": "CASS",
+      "date": "1999-10-25",
+      "roleNumber": "S980139N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 38, 39 et 46 de l'arrêté royal du 30 mars 1967 sont impératives au profit de l'employé."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 38, 39 en 46 van het Vakantiebesluit zijn dwingend ten voordele van de bediende."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990222.4": {
+      "court": "CASS",
+      "date": "1999-02-22",
+      "roleNumber": "S970123N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le pécule de vacances de l'employé dont le contrat de travail prend fin, est calculé sur la base des rémunérations brutes gagnées chez l'employeur pendant l'exercice de vacances en cours; cette disposition est impérative au bénéfice de l'employé."
+      ],
+      "abstractNL": [
+        "Het vakantiegeld van de bediende wiens arbeidsovereenkomst een einde neemt wordt berekend aan de hand van het brutoloon dat bij de werkgever is verdiend tijdens het lopende vakantiedienstjaar; deze bepaling is van dwingend recht ten voordele van de werknemer."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960129.5": {
+      "court": "CASS",
+      "date": "1996-01-29",
+      "roleNumber": "S950072N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/29/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les articles 38, 39 et 46 de l'arrêté royal du 30 mars 1967 réglant le calcul du pécule de vacances, sont des dispositions légales impératives."
+      ],
+      "abstractNL": [
+        "Artt. 38, 39 en 46 K.B. 30 maart 1967, die de berekening van het vakantiegeld van de bedienden regelen, zijn bepalingen van dwingend recht."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900115.19": {
+      "court": "CASS",
+      "date": "1990-01-15",
+      "roleNumber": "6898",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/15/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Les articles 38, 39 et 46 de l'arrêté royal du 30 mars 1967 réglant le calcul du pécule de vacances, sont des dispositions légales impératives."
+      ],
+      "abstractNL": [
+        "Artt. 38, 39 en 46 K.B. 30 maart 1967, die de berekening van het vakantiegeld van de bedienden regelen, zijn dwingende wettelijke bepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860623.3": {
+      "court": "CASS",
+      "date": "1986-06-23",
+      "roleNumber": "7355",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/23/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 46 de l'arrêté royal du 30 mars 1967, déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, qui dispose que lorsque le contrat d'un employé prend fin, son employeur lui paie au moment de son départ 14 p.c. des rémunérations brutes gagnées chez lui pendant l'exercice de vacances en cours ne faisant aucune distinction, tous les éléments de la rémunération doivent être pris en compte pour le calcul de ce pécule de vacances."
+      ],
+      "abstractNL": [
+        "Art. 46 K.B. van 30 maart 1967 tot bepaling van de algemene uitvoeringsmodaliteiten van de wetten betreffende de jaarlijkse vakantie der loonarbeiders bepaalt dat, wanneer het contract van een bediende een einde neemt, zijn werkgever hem bij zijn vertrek 14 percent van de bij hem tijdens het lopend vakantiedienstjaar verdiende brutowedde betaalt; nu dat artikel geen onderscheid maakt, komen alle bestanddelen van de bezoldiging in aanmerking bij de berekening van dat vakantiegeld."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851028.16": {
+      "court": "CASS",
+      "date": "1985-10-28",
+      "roleNumber": "4843",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Une prime de fin d'année allouée à l'employé en raison du travail effectué en exécution de son contrat de travail est prise en considération pour le calcul du pécule de vacances auquel il a droit lorsque son engagement prend fin ( Arr. roy. du 30 mars 1967, art. 46 )."
+      ],
+      "abstractNL": [
+        "Een nieuwjaarspremie die aan de bediende is toegekend wegens ter uitvoering van zijn arbeidsovereenkomst verrichte arbeid, komt in aanmerking voor de berekening van zijn vakantiegeld, waarop hij bij het beëindigen van zijn dienstbetrekking recht heeft. ( Art. 46 K.B. 30 maart 1967 )."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830413.9": {
+      "court": "CASS",
+      "date": "1983-04-13",
+      "roleNumber": "2716",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/04/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La rupture unilatérale d'un contrat de travail par la démission de l'employé met immédiatement fin au contrat de travail."
+      ],
+      "abstractNL": [
+        "Eenzijdige beëindiging van een arbeidsovereenkomst door het ontslag van de bediende doet de arbeidsovereenkomst onmiddellijk eindigen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830110.3": {
+      "court": "CASS",
+      "date": "1983-01-10",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/10/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les avantages en nature dont bénéficie l'employé sont pris en considération pour le calcul de son pécule de vacances. (Arr. roy. du 30 mars 1967, art. 38 et 46.)"
+      ],
+      "abstractNL": [
+        "Door de bediende genoten voordelen in natura komen in aanmerking voor de berekening van zijn vakantiegeld. (Artt. 38 en 46 K.B. 30 maart 1967.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820524.13": {
+      "court": "CASS",
+      "date": "1982-05-24",
+      "roleNumber": "3450",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/24/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'employeur n'est pas tenu de payer à l'employé un pécule de vacances sur l'indemnité de congé. (Arrêté royal du 30 mars 1967, art. 46.)"
+      ],
+      "abstractNL": [
+        "De werkgever is aan de bediende geen vakantiegeld op de opzeggingsvergoeding verschuldigd <1>. (Art. 46 K.B. 30 maart 1967.)"
+      ]
+    }
+  },
+  "50": {
+    "ECLI:BE:CASS:2000:ARR.20000904.4": {
+      "court": "CASS",
+      "date": "2000-09-04",
+      "roleNumber": "S000003NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'octroi d'un pécule supplémentaire de vacances aux jeunes employés, la période de première occupation peut déjà prendre cours avant la fin des études ou de l'apprentissage."
+      ],
+      "abstractNL": [
+        "Voor de toekenning van het aanvullend vakantiegeld voor de jeugdige bedienden mag de periode van eerste tewerkstelling reeds vóór het einde van de studies of leertijd aanvangen."
+      ]
+    }
+  },
+  "54": {
+    "ECLI:BE:CASS:1986:ARR.19860317.8": {
+      "court": "CASS",
+      "date": "1986-03-17",
+      "roleNumber": "7282",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La juridiction du travail doit, à peine de nullité, communiquer au ministère public la contestation civile résultant d'une demande qui révèle une infraction aux lois et arrêtés relatifs à la règlementation du travail et aux matières qui relèvent de la compétence du tribunal du travail, telle qu'une demande fondée sur le non-paiement, à la fin de l'engagement d'un travailleur, d'un intéressement faisant partie de la rémunération et contribuant au calcul du pécule de vacances ( Code judiciaire, art. 578, 7°, et 764, al. 1er, 12°; loi du 12 avril 1965, art. 11 et 42, 1°; arr. roy. du 30 mars 1967, art. 46 et 54, 2° )."
+      ],
+      "abstractNL": [
+        "Het arbeidsgerecht moet, op straffe van nietigheid, aan het openbaar ministerie meedelen het burgerlijk geschil dat voortvloeit uit een vordering blijkens welke de wetten en besluiten inzake de arbeidsreglementering en de onder de bevoegdheid van de arbeidsrechtbank vallende aangelegenheden zijn overtreden, zoals een vordering wegens niet-betaling, bij de beëindiging van de dienstbetrekking van een werknemer, van een omzetpremie die deel uitmaakt van de bezoldiging en die meetelt bij de berekening van het vakantiegeld ( artt. 578, 7°, en 764, eerste lid, 12°, Gerechtelijk Wetboek; artt. 11 en 42, 1°, Wet Bescherming Loon; artt. 46 en 54, 2°, K.B. van 30 maart 1967 )."
+      ]
+    }
+  },
+  "68": {
+    "ECLI:BE:CASS:1989:ARR.19891009.10": {
+      "court": "CASS",
+      "date": "1989-10-09",
+      "roleNumber": "6679",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/09/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La travailleuse n'a pas droit à une indemnité d'accouchement pour les jours au cours desquels elle n'a pas pu prendre de vacances avant la fin de l'exercice de vacances en raison de son repos d'accouchement mais pour lesquels elle peut prétendre à un pécule de vacances. ( Loi du 9 août 1963, art. 56, alinéa 1er, al. 5, et 57, alinéa 1er, 2°; arr. roy. du 4 novembre 1963, art. 230, al. 1er, 2°, et al. 4; arr. roy. du 30 mars 1967, art. 66, 67 et 68, 2°. )"
+      ],
+      "abstractNL": [
+        "De werkneemster heeft geen recht op bevallingsuitkering voor het aantal dagen dat zij wegens bevallingsrust geen vakantie heeft kunnen nemen vóór het einde van het vakantiejaar, maar waarvoor zij aanspraak op vakantiegeld heeft. ( Artt. 56, alinéa 1, vijfde lid, en 57, alinéa 1, 2°, Z.I.V.-wet; art. 230, eerste lid, 2°, en vierde lid, K.B. 4 november 1963; artt. 66, 67 en 68, 2°, K.B. 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691017.1": {
+      "court": "CASS",
+      "date": "1969-10-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/10/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne peuvent être imputées sur les jours de vacances annuelles les journées à prendre en considéraon en vertu de la législation relative à l'octroi de salaires aux travailleurs pendant un certain nombre de jours fériés par an, et notamment le 1er Mai. ( Arrêté du Régent du 2 avril 1947, art. 1er, tel qu'il a été remplacé par l'arrêté du Régent du 15 juillet 1947; arrêté royal du 30 mars 1967, art. 68. )"
+      ],
+      "abstractNL": [
+        "Op de jaarlijkse vakantiedagen mogen niet worden aangerekend de dagen die in aanmerking moeten genomen worden ingevolge de wetgeving betreffende het toekennen van loon aan de werknemers voor een bepaald aantal feestdagen, en onder meer 1 mei. ( Besluit van de Regent van 2 april 1947, art. 1, zoals dit is vervangen door het besluit van de Regent van 15 juli 1947; koninklijk besluit van 30 maart 1967, art. 68. )"
       ]
     }
   },
@@ -248,6 +718,202 @@
       "abstractFR": null,
       "abstractNL": [
         "Voor de berekening van het aan een bediende toekomende vakantiegeld komt elk voor overwerk betaald loon in aanmerking, ongeacht of de overuren al dan niet tot de normale tewerkstellingsvoorwaarden van de bediende behoren. Wanneer het loon voor overwerk afhankelijk is van de omvang van de arbeidsprestatie, is het veranderlijk loon in de zin van art. 39 van het K.B. van 30 maart 1967. In dat geval dient het vakantiegeld van de bediende berekend te worden met inachtneming van bedoeld loon dat genoten werd gedurende de periode van twaalf maanden die de maand waarin de vakantie genomen wordt, voorafgaat."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000904.4": {
+      "court": "CASS",
+      "date": "2000-09-04",
+      "roleNumber": "S000003NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'octroi d'un pécule supplémentaire de vacances aux jeunes employés, la période de première occupation peut déjà prendre cours avant la fin des études ou de l'apprentissage."
+      ],
+      "abstractNL": [
+        "Voor de toekenning van het aanvullend vakantiegeld voor de jeugdige bedienden mag de periode van eerste tewerkstelling reeds vóór het einde van de studies of leertijd aanvangen."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891009.12": {
+      "court": "CASS",
+      "date": "1989-10-09",
+      "roleNumber": "6671",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un treizième mois n'est pas pris en considération pour le calcul du double pécule de vacances prévu à l'article 38, 2°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "Een dertiende maand komt niet in aanmerking voor de berekening van het dubbel vakantiegeld bedoeld in artikel 38, 2°, K.B. 30 maart 1967."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891009.10": {
+      "court": "CASS",
+      "date": "1989-10-09",
+      "roleNumber": "6679",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/09/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La travailleuse n'a pas droit à une indemnité d'accouchement pour les jours au cours desquels elle n'a pas pu prendre de vacances avant la fin de l'exercice de vacances en raison de son repos d'accouchement mais pour lesquels elle peut prétendre à un pécule de vacances. ( Loi du 9 août 1963, art. 56, alinéa 1er, al. 5, et 57, alinéa 1er, 2°; arr. roy. du 4 novembre 1963, art. 230, al. 1er, 2°, et al. 4; arr. roy. du 30 mars 1967, art. 66, 67 et 68, 2°. )"
+      ],
+      "abstractNL": [
+        "De werkneemster heeft geen recht op bevallingsuitkering voor het aantal dagen dat zij wegens bevallingsrust geen vakantie heeft kunnen nemen vóór het einde van het vakantiejaar, maar waarvoor zij aanspraak op vakantiegeld heeft. ( Artt. 56, alinéa 1, vijfde lid, en 57, alinéa 1, 2°, Z.I.V.-wet; art. 230, eerste lid, 2°, en vierde lid, K.B. 4 november 1963; artt. 66, 67 en 68, 2°, K.B. 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870601.17": {
+      "court": "CASS",
+      "date": "1987-06-01",
+      "roleNumber": "5633",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/01/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Une participation aux bénéfices fixée en pourcentage, qui est octroyée à titre de contreprestation pour le travail effectué, constitue une rémunération variable pour le calcul du pécule de vacances de l'employé, cette participation fût-elle payée une fois par an. ( Arr. roy. du 30 mars 1967, art. 39. )"
+      ],
+      "abstractNL": [
+        "Een in percenten vastgesteld aandeel in de winst, dat wordt toegekend als tegenprestatie voor verrichte arbeid, is veranderlijk loon voor de berekening van het vakantiegeld van de bediende, ook wanneer dat aandeel slechts eens per jaar wordt betaald. ( Art. 39 K.B. 30 maart 1967. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861201.17": {
+      "court": "CASS",
+      "date": "1986-12-01",
+      "roleNumber": "7612",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/12/01/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 34 de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, qui prévoit que le comité de gestion de l'Office national peut renoncer au recouvrement des pécules indûment payés, n'implique pas que ce comité doive se prononcer sur l'opportunité de la récupération de pécules préalablement à la demande tendant au remboursement des pécules indûment payés."
+      ],
+      "abstractNL": [
+        "Art. 34 van het K.B. van 30 maart 1967 tot bepaling van de algemene uitvoeringsmodaliteiten van de wetten betreffende de jaarlijkse vakantie der loonarbeiders, dat bepaalt dat het beheerscomité van de Rijksdienst mag afzien van de invordering van het ten onrechte uitbetaald vakantiegeld, impliceert niet dat dit comité over de opportuniteit van de terugvordering van het vakantiegeld uitspraak moet doen alvorens de vordering strekkende tot terugbetaling van het ten onrechte uitbetaald vakantiegeld in te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830110.3": {
+      "court": "CASS",
+      "date": "1983-01-10",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/10/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les avantages en nature dont bénéficie l'employé sont pris en considération pour le calcul de son pécule de vacances. (Arr. roy. du 30 mars 1967, art. 38 et 46.)"
+      ],
+      "abstractNL": [
+        "Door de bediende genoten voordelen in natura komen in aanmerking voor de berekening van zijn vakantiegeld. (Artt. 38 en 46 K.B. 30 maart 1967.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820524.13": {
+      "court": "CASS",
+      "date": "1982-05-24",
+      "roleNumber": "3450",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/24/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'employeur n'est pas tenu de payer à l'employé un pécule de vacances sur l'indemnité de congé. (Arrêté royal du 30 mars 1967, art. 46.)"
+      ],
+      "abstractNL": [
+        "De werkgever is aan de bediende geen vakantiegeld op de opzeggingsvergoeding verschuldigd <1>. (Art. 46 K.B. 30 maart 1967.)"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820510.3": {
+      "court": "CASS",
+      "date": "1982-05-10",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de congé prévue à l'article 20 des lois relatives au contrat d'emploi ne comprend pas, outre la rémunération, le pécule de vacances prévu à l'article 38, 1°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "De opzeggingsvergoeding, bepaald in art. 20 van de wetten betreffende het bediendencontract, omvat naast de wedde, niet het vakantiegeld, bepaald in art. 38, 1°, K.B. 30 maart 1967 <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800922.11": {
+      "court": "CASS",
+      "date": "1980-09-22",
+      "roleNumber": "2804",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/09/22/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du pécule de vacances accordé à un employé la prime de fin d'année ne peut être considérée comme étant une rémunération variable, au sens de l'article 39 de l'arrêté royal du 30 mars 1967, au seul motif que le montant de cette prime change chaque année."
+      ],
+      "abstractNL": [
+        "Voor de berekening van het aan een bediende toekomende vakantiegeld kan een eindejaarspremie niet worden aangemerkt als veranderlijk loon in de zin van het K.B. van 30 maart 1967 om de enkele reden dat het bedrag van de premie elk jaar verschilt."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19781205.2": {
+      "court": "CASS",
+      "date": "1978-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/12/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui interrompt le travail à la suite d'un accident qui n'est pas un accident du travail, n'a pas droit à une indemnité du chef de la perte du pécule de vacances pour les douze premiers mois de l'interruption du travail, dans la mesure où il conserve le droit au pécule de vacances en raison de l'assimilation de ces jours d'inactivité à des jours de travail. ( Code civil, art. 1382 et 1383; lois coord. du 28 juin 1971, art. 9, 10 et 11; arr. roy. du 30 mars 1967, art. 16, 2., 18, 2., 41, 2., et 43, 2. )"
+      ],
+      "abstractNL": [
+        "De werknemer die de arbeid onderbreekt wegens een ongeval dat geen arbeidsongeval is, heeft geen recht op schadevergoeding wegens verlies van vakantiegeld gedurende de eerste twaalf maanden van de arbeidsonderbreking, in de mate waarin hij zijn aanspraak op vakantiegeld behoudt ingevolge de gelijkstelling van die dagen van inactiviteit met arbeidsdagen <1>. (Artt., 1382 en 1383 B.W.; gecoördineerde wetten van 28 juni 1971, artt. 9, 10, 11; artt. 16, 2o, 18, 2o, 41, 2o, en 43, 2o K.B. 30 maart 1967)"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780529.5": {
+      "court": "CASS",
+      "date": "1978-05-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/29/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de congé prévue à l'article 20 des lois relatives au contrat d'emploi ne comprend pas \"la rémunération normale afférente aux jours de vacances\" visée à l'article 38, 1°, de l'arrêté royal du 30 mars 1967."
+      ],
+      "abstractNL": [
+        "De opzeggingsvergoeding, bepaald in artikel 20 van de wetten betreffende het bediendencontract, omvat, naast de wedde, niet het vakantiegeld, bepaald in artikel 38, 1°., van het koninklijk besluit van 30 maart 1967."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750319.5": {
+      "court": "CASS",
+      "date": "1975-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La rémunération prise en considération pour vérifier la validité d'une clause d'essai insérée dans un contrat d'emploi comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2°, de l'arrêté royal du 30 mars 1967, modifié par l'article 31 de l'arrêté royal du 2 avril 1970. ( Lois coordonnées relatives au contrat d'emploi, art. 3, et arrêté royal du 30 mars 1967, art. 38, 2°, modifié par l'arrêté royal du 2 avril 1970. )"
+      ],
+      "abstractNL": [
+        "Het loon waarmee rekening wordt gehouden om de geldigheid na te gaan van een verbintenis op proef in een arbeidsovereenkomst voor bedienden omvat, benevens de wedden, ook de voordelen verworven krachtens de overeenkomst, o.a. het supplement waarvan sprake is in artikel 38, 2°, van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970. ( Art. 3 gecoörd. wetten betreffende het bediendencontract; art. 38, 2°, K. B. van 30 maart 1967, gewijzigd bij K. B. van 2 april 1970. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740522.5": {
+      "court": "CASS",
+      "date": "1974-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité qui, en vertu de l'article 20 des lois coordonnées relatives au contrat d'emploi, doit être payée par la partie qui rompt la convention sans juste motif ou sans respecter les délais de préavis comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2., de l'arrêté royal du 30 mars 1967 modifié par l'article 31 de l'arrêté royal du 2 avril 1970."
+      ],
+      "abstractNL": [
+        "De vergoeding welke krachtens artikel 20 van de gecoordineerde wetten betreffende het bediendencontract moet worden betaald door de partij die de verbintenis verbreekt zonder gegronde reden of zonder de opzeggingstermijn in acht te nemen, omvat, buiten de wedden, de krachtens de overeenkomst verworven verdiensten, o.a. het bijkomend vakantiegeld waarvan sprake in artikel 38, 2., van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740522.4": {
+      "court": "CASS",
+      "date": "1974-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité qui, en vertu de l'article 20 des lois coordonnées relatives au contrat d'emploi, doit être payée par la partie qui rompt la convention sans juste motif ou sans respecter les délais de préavis comprend, outre les appointements, les avantages acquis en vertu de la convention, notamment le supplément prévu par l'article 38, 2., de l'arrêté royal du 30 mars 1967 modifié par l'article 31 de l'arrêté royal du 2 avril 1970."
+      ],
+      "abstractNL": [
+        "De vergoeding welke krachtens artikel 20 van de gecoordineerde wetten betreffende het bediendencontract moet worden betaald door de partij die de verbintenis verbreekt zonder gegronde reden of zonder de opzeggingstermijn in acht te nemen, omvat, buiten de wedden, de krachtens de overeenkomst verworven verdiensten, o.a. het bijkomend vakantiegeld waarvan sprake in artikel 38, 2., van het koninklijk besluit van 30 maart 1967, gewijzigd bij artikel 31 van het koninklijk besluit van 2 april 1970."
       ]
     }
   }

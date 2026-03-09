@@ -1,4 +1,36 @@
 {
+  "57": {
+    "ECLI:BE:CASS:1985:ARR.19851114.1": {
+      "court": "CASS",
+      "date": "1985-11-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 4 de l'arrêté royal nr. 23 du 23 mai 1967, pris en exécution de l'article 2, paragraphe 5, de la loi du 31 mars 1967 attribuant certains pouvoirs au Roi en vue d'assurer la relance économique, l'accélération de la reconversion régionale et la stabilisation de l'équilibre budgétaire, et remplaçant l'article 263 du Code des impôts sur les revenus par une disposition nouvelle, n'est pas conforme à la loi d'habilitation dans la mesure où il établit un délai extraordinaire d'imposition à l'égard des contribuables qui, jusqu'alors, n'y étaient pas soumis."
+      ],
+      "abstractNL": [
+        "Art. 4, K.B. nr. 23 van 23 mei 1967, genomen ter uitvoering van art. 2, par. 5, van de wet van 31 maart 1967 tot toekenning van bepaalde machten aan de Koning ten einde de economische heropleving, de bespoediging van de regionale reconversie en de stabilisatie van het begrotingsevenwicht te verzekeren, en dat art. 263 W.I.B. door een nieuwe bepaling vervangt, is niet conform de machtigingswet in zoverre het een buitengewone aanslagtermijn vaststelt t.a.v. belastingplichtigen voor wie die tot dan toe niet gold."
+      ]
+    }
+  },
+  "106": {
+    "ECLI:BE:CASS:1987:ARR.19870928.9": {
+      "court": "CASS",
+      "date": "1987-09-28",
+      "roleNumber": "7820",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas des travaux préparatoires de la loi du 5 janvier 1976 relative aux propositions budgétaires 1975-1976 que l'intention du législateur ait été de conférer une portée rétroactive au paragraphe 3 inséré par l'article 106 de cette loi dans l'article 1er de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs. ( Loi des 27 juin 1969, art. 1er, alinéa 3, inséré par l'article 106 de la loi du 5 janvier 1976 relative aux propositions budgétaires. )"
+      ],
+      "abstractNL": [
+        "Uit de voorgeschiedenis van de wet van 5 januari 1976 betreffende de budgettaire voorstellen 1975-1976 blijkt niet dat de wetgever bedoeld heeft de bij art. 106 van die wet in art. 1 Sociale-Zekerheidswet werknemers 1969 ingevoegde alinéa 3 terugwerkende kracht te verlenen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1987:ARR.19870928.4": {
       "court": "CASS",
@@ -12,6 +44,48 @@
         "La loi du 5 janvier 1976 a, par un article 106, complété l'article 1er de la loi du 27 juin 1969 par un paragraphe 3 qui dispose que cette loi ne s'applique pas davantage, notamment, aux institutions hospitalières créées par des personnes privées ou appartenant au secteur public ainsi qu'aux médecins qui y sont occupés, si ces médecins sont également soumis au statut social des travailleurs indépendants pour raison d'exercice de la médecine en dehors de ces institutions, à moins que celles-ci ne leur octroient exclusivement qu'une rémunération fixe. Le moyen fait grief à l'arrêt de décider que l'article 106 de la loi du 5 janvier 1976 qui a exclu du champ d'application de la sécurité sociale les médecins hospitaliers occupés par des institutions ne leur octroyant pas exclusivement une rémunération fixe lorsque, du chef de l'exercice de leur art en dehors de ces institutions, ils sont soumis au statut social des travailleurs indépendants, \"doit être appliquée dans tous les litiges non encore définitivement réglés lors de l'entrée en vigueur de l'article 106 précité\". D'une part, contrairement à ce que soutient le mémoire en réponse, l'article 1er, alinéa 1er, de la loi du 27 juin 1969 a une portée générale et il assujettit à la sécurité sociale tous les travailleurs liés par un contrat de travail et leurs employeurs, y compris, avant que l'article ne soit complété par un paragraphe 3, les médecins hospitaliers quelles que soient les modalités de leur rémunération, et les institutions qui les emploient en vertu d'un contrat de travail. D'autre part, l'article 106 de la loi du 5 janvier 1976 se borne à compléter l'article 1er de la loi du 27 juin 1969 par un nouveau paragraphe 3 sans préciser que la disposition nouvelle serait interprétative. L'article 145 de la loi modificative prévoit que les dispositions du chapitre IV entrent en vigueur le 1er janvier 1976, sans prévoir de dérogation pour l'article 106 compris dans ledit chapitre. Il ne ressort pas des travaux parlementaires préparatoires de la loi du 5 janvier 1976 que l'intention du législateur ait été de conférer à l'article 106 une portée rétroactive."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1986:ARR.19860228.1": {
+      "court": "CASS",
+      "date": "1986-02-28",
+      "roleNumber": "F1261N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le législateur a voulu soumettre au régime transitoire prévu par la loi du 5 janvier 1976 les associés actifs d'une société de personnes qui ont bénéficié tant en 1974 qu'en 1975 de revenus professionnels imposables, lorsque ces revenus ont été recueillis après la clôture de l'exercice comptable, pendant l'exercice comptable suivant; la circonstance qu'à la suite d'une décision de l'assemblée générale de la société, l'exercice comptable précité a été prolongé jusqu'à une date ultérieure de l'année 1976 n'y fait pas obstacle."
+      ],
+      "abstractNL": [
+        "Het is de bedoeling van de wetgever geweest aan de overgangsbepalingen van de wet van 5 januari 1976 te onderwerpen de werkende vennoten van een personenvennootschap, die zowel in 1974 als in 1975 belastbare bedrijfsinkomsten hebben genoten, wanneer die inkomsten na het afsluiten van het boekjaar in de loop van het daaropvolgend boekjaar werden ontvangen; de omstandigheid dat het laatstvermelde boekjaar door een beslissing van de algemene vergadering van de vennootschap tot een latere datum in 1976 werd verlengd, doet daaraan geen afbreuk."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870928.9": {
+      "court": "CASS",
+      "date": "1987-09-28",
+      "roleNumber": "7820",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas des travaux préparatoires de la loi du 5 janvier 1976 relative aux propositions budgétaires 1975-1976 que l'intention du législateur ait été de conférer une portée rétroactive au paragraphe 3 inséré par l'article 106 de cette loi dans l'article 1er de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs. ( Loi des 27 juin 1969, art. 1er, alinéa 3, inséré par l'article 106 de la loi du 5 janvier 1976 relative aux propositions budgétaires. )"
+      ],
+      "abstractNL": [
+        "Uit de voorgeschiedenis van de wet van 5 januari 1976 betreffende de budgettaire voorstellen 1975-1976 blijkt niet dat de wetgever bedoeld heeft de bij art. 106 van die wet in art. 1 Sociale-Zekerheidswet werknemers 1969 ingevoegde alinéa 3 terugwerkende kracht te verlenen."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851114.1": {
+      "court": "CASS",
+      "date": "1985-11-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 4 de l'arrêté royal nr. 23 du 23 mai 1967, pris en exécution de l'article 2, paragraphe 5, de la loi du 31 mars 1967 attribuant certains pouvoirs au Roi en vue d'assurer la relance économique, l'accélération de la reconversion régionale et la stabilisation de l'équilibre budgétaire, et remplaçant l'article 263 du Code des impôts sur les revenus par une disposition nouvelle, n'est pas conforme à la loi d'habilitation dans la mesure où il établit un délai extraordinaire d'imposition à l'égard des contribuables qui, jusqu'alors, n'y étaient pas soumis."
+      ],
+      "abstractNL": [
+        "Art. 4, K.B. nr. 23 van 23 mei 1967, genomen ter uitvoering van art. 2, par. 5, van de wet van 31 maart 1967 tot toekenning van bepaalde machten aan de Koning ten einde de economische heropleving, de bespoediging van de regionale reconversie en de stabilisatie van het begrotingsevenwicht te verzekeren, en dat art. 263 W.I.B. door een nieuwe bepaling vervangt, is niet conform de machtigingswet in zoverre het een buitengewone aanslagtermijn vaststelt t.a.v. belastingplichtigen voor wie die tot dan toe niet gold."
+      ]
     }
   }
 }

@@ -19,6 +19,76 @@
       ]
     }
   },
+  "3": {
+    "ECLI:BE:CASS:1993:ARR.19930512.14": {
+      "court": "CASS",
+      "date": "1993-05-12",
+      "roleNumber": "P930161F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le prélèvement d'une quantité de sang inférieure à la quantité minimum prévue par l'article 3 de l'arrêté royal du 10 juin 1959 n'affecte la valeur probante de l'analyse du sang que lorsque les droits de la défense ont été violés par suite de l'impossibilité de procéder à une seconde analyse. (A.R. 10 juin 1959, art. 3)."
+      ],
+      "abstractNL": [
+        "Afneming van een kleinere hoeveelheid bloed dan het bij art. 3 K.B. van 10 juni 1959 voorgeschreven minimum tast de bewijswaarde van de bloedanalyse alleen aan als het recht van verdediging is geschonden doordat er geen tweede analyse kan worden verricht. (Art. 3 K.B. van 10 juni 1959)."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921223.10": {
+      "court": "CASS",
+      "date": "1992-12-23",
+      "roleNumber": "26",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/23/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'impose au médecin chargé d'effectuer un prélèvement sanguin en vue du dosage d'alcool, de constater de manière expresse qu'il a prélevé au moins 5 ml de sang. ( A.R. du 10 juin 1959, art. 3. )"
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling verplicht de geneesheer die een bloedafneming moet verrichten met het oog op het bepalen van het alcoholgehalte, uitdrukkelijk te vermelden dat hij ten minste 5 ml. bloed heeft afgenomen. ( Art. 3 K.B. van 10 juni 1959. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920225.9": {
+      "court": "CASS",
+      "date": "1992-02-25",
+      "roleNumber": "5016",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'indication dans le rapport d'expertise d'une analyse du sang, du numéro de la vénule, n'est pas une formalité substantielle ou prescrite à peine de nullité; le juge peut légalement déduire des autres éléments du rapport que le sang contenu dans cette vénule provient de la personne dont le sang a été prélevé. ( Code d'instruction criminelle, art. 44bis, alinéa 4; Code de la route du 1er décembre 1975, art. 64; A.R. du 10 juin 1959, art. 3. )"
+      ],
+      "abstractNL": [
+        "De vermelding van het nummer van de venule in het expertiseverslag over een bloedonderzoek is geen substantieel of op straffe van nietigheid voorgeschreven vormvoorschrift, de rechter kan uit andere gegevens van het verslag het bewijs afleiden dat het bloed van die venule dat is van degene wiens bloed is afgenomen. ( Art. 44bis, alinéa 4, Wetboek van Strafvordering; art. 64 Wegverkeerswet; art. 3 K.B. van 10 juni 1959. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760928.2": {
+      "court": "CASS",
+      "date": "1976-09-28",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'indication, dans le rapport d'analyse d'un prélèvement sanguin, du numéro d'identification de la vénule n'est pas une formalité substantielle ou prescrite à peine de nullité; le juge peut légalement déduire des autres éléments du rapport d'analyse que le sang contenu dans cette vénule provient de la personne dont le sang a été prélevé. (Code d'instr. crim. art. 44bis, par. 4; loi relative à la police de la circulation routière, art. 64; arr. roy. du 10 juin 1959, art. 3)"
+      ],
+      "abstractNL": [
+        "De vermelding in het expertiseverslag van een bloedonderzoek, van het nummer van de venule, is geen substantieel of op straffe van nietigheid voorgeschreven vormvoorschrift; de rechter kan uit andere gegevens van het verslag het bewijs afleiden dat het bloed van deze venule dat is van degene wiens bloed is afgenomen. ( Art. 44bis, par. 4, Sv.; art. 64 wegenverkeerswet; art. 3 K.B. van 10 juni 1959. )"
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650510.2": {
+      "court": "CASS",
+      "date": "1965-05-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les conditions imposées par la loi et les arrêtés royaux et ministériels, en matière de prélèvement sanguin et d'analyse du sang, tendent à entourer ces opérations des plus complètes garanties scientifiques, de telle façon qu'un juste crédit puisse être accordé à leur résultat. (Code d'instr. crim., art. 44bis; loi du 1er août 1899, complétée par celle du 15 avril 1958, art. 4bis; arr. roy. du 10 juin 1959; arr. min. du 22 août 1959.)"
+      ],
+      "abstractNL": null
+    }
+  },
   "6": {
     "ECLI:BE:CASS:2017:ARR.20170628.3": {
       "court": "CASS",
@@ -65,6 +135,76 @@
       "abstractNL": [
         "Enkel wanneer de persoon wiens bloed werd geanalyseerd om het alcoholgehalte te bepalen, het recht om een tweede analyse te laten verrichten, heeft uitgeoefend binnen vijftien dagen te rekenen vanaf de dag der kennisgeving van de resultaten van de analyse door het openbaar ministerie, kan hij een miskenning van zijn recht van verdediging in verband met dat resultaat inroepen."
       ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921118.23": {
+      "court": "CASS",
+      "date": "1992-11-18",
+      "roleNumber": "90",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/18/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Lorsque c'est une autorité judiciaire qui fait procéder à une expertise, en application de l'article 7, alinéa 1er, de l'arrêté royal du 10 juin 1959 relatif au prélèvement sanguin en vue du dosage de l'alcool, cette autorité judiciaire est tenue de désigner nommément l'expert, opérant dans un laboratoire agréé, à qui elle confie la mission d'effectuer l'analyse du sang; toute analyse effectuée par un autre expert, celui-ci opérât-il dans le même laboratoire, ne saurait être considérée comme une preuve valable."
+      ],
+      "abstractNL": [
+        "Wanneer een rechterlijke overheid een deskundigenonderzoek gelast met toepassing van art. 7, eerste lid, K.B. van 10 juni 1959 betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte, moet zij de in een erkend laboratorium optredende deskundige, die zij met de bloedanalyse belast, met name aanwijzen; elke analyse, die door een andere deskundige, zelfs in hetzelfde laboratorium, wordt verricht, kan niet als een rechtsgeldig bewijs worden aangemerkt."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900123.11": {
+      "court": "CASS",
+      "date": "1990-01-23",
+      "roleNumber": "3195",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/23/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le résultat d'une analyse du sang faite par un expert autre que celui qui avait été requis à cet effet par le ministère public, conformément à l'article 7, alinéa 1er, de l'arrêté royal du 10 juin 1959, ne constitue pas une preuve valable; est nulle la décision qui, sur le fondement du résultat de pareille analyse, condamne le prévenu du chef d'infraction à l'article 34, 1°, de la loi relative à la police de la circulation routière."
+      ],
+      "abstractNL": [
+        "Het resultaat van een bloedanalyse verricht door een andere deskundige dan diegene die daartoe door het openbaar ministerie overeenkomstig art. 7, eerste lid, K.B. 10 juni 1959 was gevorderd, levert geen rechtsgeldig bewijs op; nietig is de beslissing die op grond van het resultaat van die analyse de beklaagde veroordeelt wegens overtreding van art. 34, 1° Wegverkeerswet."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861001.10": {
+      "court": "CASS",
+      "date": "1986-10-01",
+      "roleNumber": "5077",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/01/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Viole les droits de la défense l'arrêt déclarant établie une prévention d'alcoolémie qui, pour considérer que ces droits ont été respectés, se borne à énoncer que le prévenu n'a pas exprimé dans le délai légal son désir de procéder à une contre-expertise concernant l'analyse du sang et que ces droits n'ont en rien été mis en péril, même si ultérieurement la vénule contenant l'échantillon sanguin a été égarée."
+      ],
+      "abstractNL": [
+        "Het recht van verdediging wordt miskend door de rechter die een telastlegging \"alcoholgehalte in het bloed\" bewezen verklaart en, om te beslissen dat dit recht is in acht genomen, enkel vermeldt dat de beklaagde niet binnen de wettelijke termijn zijn wens heeft te kennen gegeven om een tegenexpertise m.b.t. het bloedonderzoek te doen houden en dat dit recht geenszins in het gedrang is gekomen ook al is achteraf de venule met het bloedmonster zoekgeraakt."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810415.8": {
+      "court": "CASS",
+      "date": "1981-04-15",
+      "roleNumber": "1516",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Contrairement au délai de quinze jours, prescrit à l'inculpé par l'article 9, alinéa 3, de l'arrêté royal du 10 juin 1959, pour faire procéder à une seconde analyse, le délai de sept jours, imparti à l'expert par l'article 7, alinéa 3, de ce même arrêté pour déposer son rapport, n'est pas prescrit à peine de nullité, et l'inobservation de ce délai n'est pas de nature à énerver la valeur probante de l'analyse de sang; elle ne peut entraîner la nullité que si elle porte atteinte aux droits de la défense."
+      ],
+      "abstractNL": [
+        "Anders dan de termijn van vijftien dagen, die ingevolge art. 9, derde lid, K.B. van 10 juni 1959 aan de verdachte is voorgeschreven om een tweede analyse te doen uitvoeren, is de termijn van zeven dagen waarover de deskundige, ingevolge art. 7, derde lid, van hetzelfde besluit, beschikt om zijn verslag in te dienen, niet op straffe van nietigheid voorgeschreven; niet-inachtneming van die termijn doet niets af aan de bewijswaarde van de bloedanalyse en kan enkel tot nietigheid leiden wanneer het recht van verdediging is miskend <4>."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740917.8": {
+      "court": "CASS",
+      "date": "1974-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/09/17/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen proposé pour la première fois devant la Cour de cassation et pris de ce que l'expert requis par l'autorité judiciaire d'effectuer une analyse de sang n'a pas transmis son rapport dans le délai de sept jours dela réception du réquisitoire, fixé par l'article 7 de l'arrêté royal du 10 juin 1959 relatif au prélèvement sanguin en vue du dosage de l'alcool."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel dat voor de eerste maal voor het Hof van cassatie is voorgedragen en hieruit is afgeleid dat de deskundige die door de rechterlijke overheid is opgevorderd om het bloed te ontleden, zijn verslag niet binnen zeven dagen na het ontvangen van de vordering heeft overgelegd, zoals zulks is vereist bij artikel 7 van het koninklijk besluit van 10 juni 1959 betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte."
+      ]
     }
   },
   "9": {
@@ -80,6 +220,144 @@
       ],
       "abstractNL": [
         "De verplichting om de persoon van wie het bloed werd afgenomen, kennis te geven van zijn recht om een tweede analyse te laten verrichten, dient niet op het ogenblik van de bloedproef te gebeuren, maar wel bij de kennisgeving achteraf van de uitslagen van de analyse."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990616.10": {
+      "court": "CASS",
+      "date": "1999-06-16",
+      "roleNumber": "P990682F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La notification des résultats de l'analyse à la personne dont le sang a été prélevé n'est pas prescrite à peine de nullité; le défaut de notification ne prive pas le rapport d'expertise de sa force probante, pour autant que les droits de la défense aient été respectés."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de uitslagen van de bloedproef aan de persoon van wie bloed werd afgenomen, is niet voorgeschreven op straffe van nietigheid; wanneer die kennisgeving niet is geschied, verliest het deskundigenverslag zijn wettelijke bewijswaarde niet, mits het recht van verdediging geëerbiedigd werd."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980421.13": {
+      "court": "CASS",
+      "date": "1998-04-21",
+      "roleNumber": "P960789N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/04/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le prévenu exerçcant le droit de faire effectuer une seconde analyse d'un prélèvement sanguin effectué sur lui ne peut invoquer l'impossibilité d'utiliser le résultat de ladite analyse à titre de violation de ses droits de défense qu'après avoir fait lui-même les diligences nécessaires pour l'utilisation concrète de l'analyse, notamment en la demandant en temps utile et en assurant le suivi de celle-ci."
+      ],
+      "abstractNL": [
+        "De beklaagde die een beroep doet op het recht om een tweede analyse een van hem genomen bloedstaal te laten verrichten kan slechts dan de onmogelijkheid van aanwending van het resultaat ervan als een miskenning van zijn recht van verdediging inroepen, nadat hijzelf alle vereiste maatregelen heeft genomen om de concrete aanwendbaarheid ervan te benaarstigen door onder meer deze analyse tijdig aan te vragen en op te volgen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940126.4": {
+      "court": "CASS",
+      "date": "1994-01-26",
+      "roleNumber": "P930988F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les délais dans lesquels, d'une part, le ministère public ou le juge d instruction notifie les résultats de l'analyse de sang, requise par l'autorité judiciaire, à la personne dont le sang a été prélevé, et, d'autre part, cette personne, si elle entend faire procéder à une seconde analyse, est tenue de le faire, sont prescrits pour éviter le dépérissement des preuves et entourer l'analyse de garanties scientifiques permettant d'accorder crédit à ces résultats; il s'ensuit qu'une nouvelle analyse requise par l'autorité judiciaire, postérieurement à l'expiration du délai prévu pour la seconde analyse, ne présente plus, au regard de l'arrêté royal du 10 juin 1959, de garanties scientifiques suffisantes. (A.R. 10 juin 1959, art. 9, al. 1er et 3)."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1990:ARR.19900425.11": {
+      "court": "CASS",
+      "date": "1990-04-25",
+      "roleNumber": "8222",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/04/25/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Les délais imposés par les articles 6, 7 et 9 de l'arrêté royal du 10 juin 1959 relatif au prélèvement sanguin en vue du dosage de l'alcool ne sont pas prescrits à peine de nullité; leur méconnaissance n'affecte pas, sous réserve des droits de la défense, la force probante du rapport d'expertise régulièrement versé au dossier de la procédure. ( Loi relative à la police de la circulation routière, art. 34, 1°. )"
+      ],
+      "abstractNL": [
+        "De termijnen, bedoeld in de artt. 6, 7 en 9 K.B. 10 juni 1959 betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte zijn niet op straffe van nietigheid voorgeschreven; niet-inachtneming ervan tast de wettelijke bewijswaarde van het regelmatig bij het rechtsplegingsdossier gevoegde deskundigenverslag niet aan mits het recht van verdediging wordt geëerbiedigd. ( Art. 34, 1°, Wegverkeerswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860521.1": {
+      "court": "CASS",
+      "date": "1986-05-21",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/05/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La notification des résultats de l'analyse à la personne dont du sang a été prélevé n'est pas prescrite par l'article 9 de l'arrêté royal du 10 juin 1959 à peine de nullité de ces résultats; la nullité de la notification n'affecte pas la force probante du rapport d'expertise, pour autant que les droits de la défense aient été respectés."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de uitslagen van het bloedonderzoek aan de persoon op wie een bloedproef is verricht, is door art. 9 K.B. 10 juni 1959 niet voorgeschreven op straffe van nietigheid van de uitslagen; de nietigheid van de kennisgeving tast de bewijskracht van het deskundigenverslag niet aan, voor zover het recht van verdediging is geëerbiedigd."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810909.6": {
+      "court": "CASS",
+      "date": "1981-09-09",
+      "roleNumber": "1680",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le moyen pris de ce que les droits de la défense du prévenu ont été violés par l'inobservation des dispositions de l'article 9 de l'arrêté royal du 10 juin 1959 relatif au prélèvement sanguin en vue du dosage de l'alcool, qui prescrit la notification des résultats de l'analyse à la personne dont le sang a été prélevé, ne peut être proposé pour la première fois devant la Cour."
+      ],
+      "abstractNL": [
+        "Het middel hieruit afgeleid dat het recht van verdediging van de beklaagde is miskend door niet-inachtneming van de bepalingen van art. 9 K.B. 10 juni 1959 betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte, volgens welke de uitslagen van de analyse ter kennis moeten worden gebracht van de persoon van wie het bloed werd afgenomen, kan niet voor het eerst voor het Hof worden voorgedragen."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800304.4": {
+      "court": "CASS",
+      "date": "1980-03-04",
+      "roleNumber": "6036",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/04/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En notifiant les résultats de l'analyse du prélèvement sanguin à la personne dont le sang a été prélevé, l'officier du ministère public ou le juge d'instruction doit en même temps avertir celle-ci que, si elle estime devoir faire procéder à une seconde analyse, elle doit user de ce droit dans les quinze jours à compter du jour de la notification; cet avertissement n'étant pas une formalité substantielle, son omission n'entraîne une nullité qu'en cas de violation des droits de la défense. ( Arr. roy. du 10 juin 1959 relatif au prélèvement sanguin, article 9. )"
+      ],
+      "abstractNL": [
+        "Bij de kennisgeving van de uitslagen van de analyse aan de persoon van wie het bloed is afgenomen, moet de ambtenaar van het openbaar ministerie of de onderzoeksrechter die persoon terzelfder tijd waarschuwen dat hij, indien hij een tweede analyse meent te moeten laten verrichten, van dit recht moet gebruik maken binnen vijftien dagen te rekenen van de dag der kennisgeving; deze kennisgeving is geen substantiële vorm zodat het verzuim ervan slechts nietigheid tot gevolg heeft als het recht van verdediging is miskend <2>. (Art. 9 K.B. 10 juni 1959 betreffende de bloedproef.)"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740924.1": {
+      "court": "CASS",
+      "date": "1974-09-24",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/09/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La notification des résultats de l'analyse du sang doit être faite par pli recommandé à la poste; la preuve du contenu du pli recommandé peut être faite par toutes voies de droits, y compris les présomptions. (Arr. roy. du 10 juin 1959, art. 9.)"
+      ],
+      "abstractNL": [
+        "De kennisgeving van de uitslagen van de bloedanalyse moet bij ter post aangetekende brief geschieden; het bewijs van de inhoud van de aangetekende brief kan geleverd worden door alle rechtsmiddelen, met inbegrip van vermoedens. (Art. 9 K.B. 10 juni 1959.)"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690722.1": {
+      "court": "CASS",
+      "date": "1969-07-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/07/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour la computation du délai de quinze jours dans lequel l'intéressé est en droit de demander qu'il soit procédé à une seconde analyse du prélèvement sanguin opéré sur sa personne, il n'y a lieu d'avoir égard aux dimanches et jours fériés que si le lendemain du jour du dépôt à la poste de l'avis du ministère public au juge d'instruction indiquant les résultats de la première analyse, ou si le dernier jour pour l'introduction de la demande de seconde analyse, est un dimanche ou un jour férié; les autres dimanches et jours fériés qui tombent dans le délai ainsi défini ne peuvent être pris en considération. (Arrêté royal du 10 juin 1959, relatif au prélèvement sanguin, art. 9; Code d'instr. crim., art 644.)"
+      ],
+      "abstractNL": [
+        "Voor de berekening van de termijn van vijftien dagen waarin de betrokkene het recht heeft om te vragen dat een tweede analyse van zijn afgenomen bloed zou worden uitgevoerd, dienen de zon- en feestdagen slechts in aanmerking te worden genomen indien ofwel de dag na de afgifte aan de post van het bericht van het openbaar ministerie of de onderzoeksrechter waarbij de uitslagen van de eerste analyse werden bekend gemaakt ofwel de laatste dag voor het indienen van het verzoek een zon- of feestdag is; de andere zon- en feestdagen die vallen binnen de aldus omschreven termijn mogen niet in aanmerking worden genomen. (Koninklijk besluit van 10 juni 1959, betreffende de bloedproef, art. 9; Wetb. van strafv., art. 644)."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670424.10": {
+      "court": "CASS",
+      "date": "1967-04-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/04/24/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Ne peut être soulevé pour la première fois devant la cour de cassation le moyen pris de ce que l'officier du ministère public ou le juge d'instruction n'a pas, dans les conditions prévues par l'article 9 de l'arrêté royal du 10 juin 1959, notifié le résultat de l'analyse à la personne sur laquelle le sang a été prélevé par application de l'article 4bis de la loi du 1er août 1899 modifiée par celle du 15 avril 1958."
+      ],
+      "abstractNL": [
+        "Kan niet voor het eerst aan het hof van cassatie worden overgelegd het middel hieruit afgeleid dat de ambtenaar van het openbaar ministerie of de onderzoeksrechter niet in de bij artikel 9 van het koninklijk besluit van 10 juni 1959 gestelde voorwaarden het resultaat van de bloedproef heeft betekend aan de persoon van wie een bloedmonster is genomen, bij toepassing van artikel 4bis van de wet van 1 augustus 1899, gewijzigd bij die van 15 april 1958."
       ]
     }
   },
@@ -112,6 +390,78 @@
       "abstractNL": [
         "De termijnen m.b.t. bloedanalyses zijn voorgeschreven om te beletten dat de bewijzen teloorgaan en om de analyse met wetenschappelijke waarborgen te omkleden zodat de uitslagen ervan geloofwaardig blijven (1). (1) Cass. 9 sept. 1963, in Bull. en Pas., 1964, I, 29; Cass.(volt. zitt.) 26 jan. 1994, AR P.93.0988.F, AC, 1994, nr. 51, met concl. adv.-gen. Liekendael in Bull. en Pas., 1994, I, nr. 51.",
         "De uitslagen van de analyse van het bloed dat van een persoon is afgenomen, hebben slechts wettelijke bewijswaarde als alle bij het koninklijk besluit van 10 juni 1959 voorgeschreven vormvereisten in acht genomen zijn vóór het verstrijken van de termijn van drie maanden van de afneming, tijdens welke het staal in het laboratorium bewaard moet worden (1). (1) Cass. 9 sept. 1963, in Bull. en Pas., 1964, I, 29; Cass.(volt. zitt.) 26 jan. 1994, AR P.93.0988.F, AC, 1994, nr. 51, met concl. adv.-gen. Liekendael in Bull. en Pas., 1994, I, nr. 51."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830531.5": {
+      "court": "CASS",
+      "date": "1983-05-31",
+      "roleNumber": "7477",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/31/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les articles 9 et 10 de l'arrêté royal du 10 juin 959, modifié par l'arrêté royal du 10 novembre 1966 relatif au prélèvement sanguin en vue du dosage de l'alcool, accordent à la personne dont le sang a été prélevé le droit de faire procéder à une seconde analyse dans les conditions et les délais prévus; c'est à la personne dont le sang a été prélevé seule qu'il appartient de décider si elle juge ou non opportun d'user de ce droit pour se défendre. Lorsque l'inculpé n'a pu user du droit de faire procéder à une seconde analyse dans les délais prévus par ledit arrêté royal, le résultat de la première analyse ne lui ayant pas été notifié ou lui ayant été notifié tardivement, cette circonstance n'entraîne une nullité que s'il en résulte une violation des droits de la défense."
+      ],
+      "abstractNL": [
+        "De artt. 9 en 10 K.B. van 10 juni 1959, gewijzigd bij K.B. van 10 november 1966, betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte, verlenen aan de persoon van wie het bloed is afgenomen het recht om, met inachtneming van de in die artikelen bepaalde voorwaarden en termijnen, een tweede analyse te laten verrichten. Alleen de persoon zelf van wie het bloed is afgenomen heeft het recht te oordelen of hij het, met het oog op zijn verdediging, opportuun acht van dit recht gebruik te maken. Wanneer de verdachte geen gebruik heeft kunnen maken van het recht om, binnen de bij voormeld K.B. bepaalde termijnen, een tweede analyse te doen verrichten omdat de kennisgeving van de uitslag van de eerste analyse hem niet of laattijdig ter kennis werd gebracht, heeft die omstandigheid alleen dan nietigheid tot gevolg wanneer daardoor het recht van verdediging wordt miskend."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710315.26": {
+      "court": "CASS",
+      "date": "1971-03-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/03/15/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une seconde analyse de l'échantillon de sang prélevé a été demandée dans les formes et le délai fixés par les articles 9 et 10 de l'arrêté royal du 10 juin 1959, et que cette analyse n'a pas été faite dans le délai prévu par le second de ces articles par le laboratoire agréé, sans que cette situation puisse être imputée à l'intéressé, il appartient à celui-ci de faire les diligences nécessaires auprès du laboratoire auquel la demande a été adressée pour qu'il soit procédé à l'analyse, que la demande soit parvenue au laboratoire ou n'y soit pas parvenue; il ne lui est pas loisible d'adresser une demande distincte à un autre laboratoire agréé."
+      ],
+      "abstractNL": [
+        "Is een tweede analyse van het genomen bloedmonster aangevraagd in de vormen en de termijn gesteld bij de artikelen 9 en 10 van het koninklijk besluit van 10 juni 1959 en is deze analyse door het erkend laboratorium niet verricht binnen de bij het tweede artikel voorgeschreven termijn, zonder dat deze toestand aan de betrokkene kan worden verweten, dan moet deze de nodige stappen doen om de analyse te doen verrichten, onverschillig of het verzoek al dan niet bij het laboratorium is toegekomen; het staat hem niet vrij een afzonderlijk verzoek aan een ander erkend laboratorium te richten."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690512.4": {
+      "court": "CASS",
+      "date": "1969-05-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/05/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'analyse et la seconde analyse du prélèvement sanguin opéré en vertu de l'article 44bis du Code d'instruction criminelle ou de la loi relative à la police de la circulation routière doivent, pour être valables, être effectuées suivant la méthode décrite à l'annexe II de l'arrêté royal relatif au prélèvement sanguin en vue du dosage de l'alcool. (Arr. roy. du 10 juin 1959, art. 8 et 10, al. 3, et arr. roy. du 4 avril 1961 relatif à la méthode de dosage de l'alcool dans le sang.)"
+      ],
+      "abstractNL": [
+        "De bloedanalyse en de tweede analyse na de bloedproef verricht met toepassing van artikel 44bis van het Wetboek van strafvordering of van de wet op de politie van het wegverkeer moeten, om geldig te zijn, uitgevoerd worden volgens de methode omschreven in bijlage II van het koninklijk besluit betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte in het bloed. (Koninklijk besluit van 10 juni 1959, artikelen 8 en 10, lid 3, en koninklijk besluit van 4 april 1961 betreffende de methode om het alcohol in bloed te bepalen.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670925.10": {
+      "court": "CASS",
+      "date": "1967-09-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/09/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La personne qui a subi un prélèvement sanguin et qui, après les résultats de l'analyse de sang prélevé sur elle lui ont été notifiés, veut faire procéder à une seconde analyse, doit en faire la demande, dans le délai, les formes et les conditions fixées par les articles 9 et 10 de l'arrêté royal du 10 juin 1959; il appartient au laboratoire agréé, choisi par cette personne, ou à celle-ci elle-même de demander au laboratoire agréé dans lequel la première analyse avait été effectuée la transmission de l'échantillon de sang, laquelle n'est pas subordonnée à une autorisation de l'officier du ministère public ou du juge d'instruction. (Code d'instr. crim., art. 44bis; loi du 1er août 1899; art. 4bis et 4ter; loi du 15 avril 1958, art. 1er et 4; arrêté royal du 10 juin 1959, art. 9 et 10.)"
+      ],
+      "abstractNL": [
+        "De personen op wie een bloedproef wordt toegepast en die, nadat de resultaten van de analyse van het op hem genomen bloedmonster hem bekend gemaakt zijn, een tweede analyse wil laten verrichten, moet daartoe een aanvraag zenden binnen de termijnen en overeenkomstig de vormen en voorwaarden gesteld bij de artikelen 9 en 10 van het koninklijk besluit van 10 juni 1959; het staat aan het door deze persoon gekozen erkend laboratorium of aan deze persoon zelf vrij aan het erkend laboratorium waar de eerste analyse werd verricht de overzending van het bloedmonster te vragen, overzending die niet afhankelijk is van een machtiging van de officier van het openbaar ministerie of van de onderzoekrechter. (Wetboek van strafvordering, art. 44bis; wet van 1 augustus 1899, art. 4bis en 4ter; wet van 15 april 1958, art. 1 en 4; koninklijk besluit van 10 juni 1959, art. 9 en 10.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940525.11": {
+      "court": "CASS",
+      "date": "1994-05-25",
+      "roleNumber": "P931071F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les délais prévus par l'arrêté royal du 10 juin 1959 relatif au prélèvement sanguin en vue du dosage de l'alcool sont prescrits pour éviter le dépérissement des preuves et entourer l'analyse de garanties scientifiques permettant d'accorder crédit à ses résultats; l'analyse requise en dehors de ces délais par l'autorité judiciaire ne présente plus, au regard de cet arrêté royal, de garanties scientifiques suffisantes."
+      ],
+      "abstractNL": [
+        "De termijnen, bepaald bij het K.B. 10 juni 1959 betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte, zijn voorgeschreven om het teloorgaan van bewijzen te voorkomen en de analyse te omringen met wetenschappelijke waarborgen die geloofwaardigheid kunnen verlenen aan de resultaten ervan; de analyse die door de rechterlijke overheid buiten die termijnen gevorderd wordt, biedt geen voldoende wetenschappelijke waarborgen meer in de zin van voornoemd K.B."
       ]
     }
   }

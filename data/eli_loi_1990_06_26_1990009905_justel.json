@@ -15,6 +15,22 @@
       ]
     }
   },
+  "4": {
+    "ECLI:BE:CASS:1998:ARR.19981022.8": {
+      "court": "CASS",
+      "date": "1998-10-22",
+      "roleNumber": "C980233F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge civil ne peut ordonner la mise en observation d'une personne que s'il constate qu'il s'agit d'un malade mental."
+      ],
+      "abstractNL": [
+        "De burgerlijke rechter kan de opneming ter observatie enkel bevelen als hij vaststelt dat de betrokkene geestesziek is."
+      ]
+    }
+  },
   "7": {
     "ECLI:BE:CASS:2021:ARR.20210308.3N.6": {
       "court": "CASS",
@@ -81,6 +97,64 @@
         "Krachtens artikel 57, § 1, derde lid, van de wet van 8 juli 1976 kan de maatschappelijke dienstverlening van materiële of geneeskundige aard zijn; zij kan bestaan uit het ten laste nemen van de kosten van vervoer, opneming, verblijf en behandeling in een psychiatrische dienst van een ter observatie opgenomen zieke overeenkomstig artikel 9 van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke, namelijk de kosten die ten laste van de zieke komen krachtens artikel 34, tweede lid, van dezelfde wet (1). (1) Zie de concl. van het O.M. in Pas. nr. ...",
         "De verplichting van het openbaar centrum voor maatschappelijk welzijn om maatschappelijke dienstverlening aan de zieke te verstrekken krachtens de artikelen 1 en 57, § 1, van de wet van 8 juli 1976, onder de door die wet bepaalde voorwaarden, onder de vorm van het ten laste nemen van vervoer en opneming in een psychiatrische dienst van een ter observatie opgenomen zieke overeenkomstig artikel 9 van de wet van 26 juni 1990, is, wegens het spoedeisend karakter dat die ter observatie opneming veronderstelt, niet ondergeschikt aan een vraag om tussenkomst van de zieke of zijn mandataris; als dat spoedeisend karakter aanhoudt, geldt hetzelfde voor de kosten van verblijf en behandeling (1). (1) Zie de concl. van het O.M. in Pas. nr. ..."
       ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110121.6": {
+      "court": "CASS",
+      "date": "2011-01-21",
+      "roleNumber": "C.10.0151.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en cas d'urgence, le ministère public décide qu'une personne malade sera mise en observation dans un service psychiatrique qu'il désigne, il ne cherche pas à obtenir gain de cause mais vise à garantir les intérêts de la société et de l'intéressé lui-même; cette réglementation particulière est inconciliable avec l'application des dispositions de droit commun en matière de frais de justice (1). (1) Voir les conclusions du M.P.; voir aussi l'article 2 de la loi du 21 février 2010 (M.B. du 11 mars 2010) modifiant les articles 1022 du Code judiciaire et 162bis du Code d'instruction criminelle et abrogeant l'article 6 de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales."
+      ],
+      "abstractNL": [
+        "Wanneer het openbaar ministerie in spoedeisend geval beslist dat een zieke persoon ter observatie zal worden opgenomen in de psychiatrische dienst die hij aanwijst, streeft hij geen gelijk na, maar de vrijwaring van de belangen van de maatschappij en van de betrokkene zelf; deze bijzondere regeling is onverenigbaar met de toepassing van de gemeenrechtelijke bepalingen inzake de gerechtskosten (1). (1) Zie de concl. van het O.M.; zie ook art. 2 van de wet van 21 feb. 2010 ( B.S. 11 maart 2010) tot wijziging van de artikelen 1022 van het Gerechtelijk Wetboek en 162bis van het Wetboek van strafvordering en tot opheffing van artikel 6 van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070927.2": {
+      "court": "CASS",
+      "date": "2007-09-27",
+      "roleNumber": "C.06.0566.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'annulation de la mesure d'observation, contestée par le malade mental mis en observation, a pour effet que la mesure consécutive de maintien de l'hospitalisation dans l'établissement ordonnée par le juge de paix devient irrégulière, le malade mental mis en observation ayant dès lors un intérêt persistant à maintenir son appel contre cette mesure d'observation et cet appel conservant ainsi un objet, même si la période d'observation contestée est expirée avant qu'il ne soit statué sur cette voie de recours et si ce maintien de l'hospitalisation est déjà ordonné."
+      ],
+      "abstractNL": [
+        "De vernietiging van de door de in observatie genomen geesteszieke bestreden observatiemaatregel heeft tot gevolg dat de daaropvolgende door de vrederechter bevolen maatregel tot zijn verder verblijf in de instelling onregelmatig wordt, waardoor de geesteszieke een blijvend belang heeft om zijn hoger beroep tegen die observatiemaatregel te handhaven en dit hoger beroep nog steeds een voorwerp heeft, al is de betwiste observatieperiode verstreken vooraleer uitspraak is gedaan over dit rechtsmiddel en is dat verder verblijf reeds bevolen."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070507.3": {
+      "court": "CASS",
+      "date": "2007-05-07",
+      "roleNumber": "C.07.0053.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/07/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La requête adressée par le procureur du Roi au juge de paix concernant une mesure de mise en observation d'un malade mental en service psychiatrique ordonnée d'urgence un samedi, un dimanche ou un jour férié, peut être déposée au greffe au cours du premier jour ouvrable suivant (1). (1) Voir Doc. Parl., Sénat, 1989-1990, n° 733/2, p. 67; M.-Th. Meulders-Klein, \"La protection des malades mentaux et des personnes inaptes à gérer leurs biens après les réformes\", in Protections des malades mentaux et incapacités des majeurs: le droit belge après les réformes. Actes du 3° Colloque de l'Association Famille & Droit, E. Story-Scientia, 1996, p. 80. Contra : M. Verrycken, \"De Krankzinnigenwet en haar vervanging door de Wetten van 26 juni 1990 en 18 juli 1991: parlementaire voorbereiding - krachtlijnen en eerste bilan\" in Het nieuwe statuut van de (geestes)zieken, E. Story-Scientia, 2000, p. 21; M.J. Van Vlasselaer, \"Procedurale aspecten van de Wet van 26 juni 1990 m.b.t. de persoon van de geesteszieke\" in Het nieuwe statuut van de (geestes)zieken, E. Story-Scientia, 2000, p. 171."
+      ],
+      "abstractNL": [
+        "Wanneer de maatregel van opneming van een geesteszieke ter observatie in een psychiatrische dienst door de procureur des Konings bij spoedeisendheid wordt getroffen op een zaterdag, een zondag of een wettelijke feestdag, kan het verzoekschrift aan de vrederechter door hem ter griffie worden neergelegd in de loop van de eerstvolgende werkdag (1). (1) Zie Parl. St. Senaat 1989-1990. nr. 733/2, p.67; M.-Th. Meulders-Klein, \"La protection des maladies mentaux et des personnes inaptes à gérer leurs biens après les réformes..\", in Protection des maladies mentaux et incapacités des majeurs: Le droit belge après les réformes. Actes du 3e Colloque de l'Association Famille & Droit, E. Story-Scientia, 1996, p.80. Contra: M. Verrycken, \"De Krankzinnigenwet en haar vervanging door de Wetten van 26 juni 1990 en 18 juli 1991: parlementaire voorbereiding - krachtlijnen en eerste bilan\" in Het nieuwe statuut van de (geestes)zieken, E. Story-Scientia, 2000, p. 21; M.J. Van Vlasselaer, \"Procedurale aspecten van de Wet van 26 juni 1990, m.b.t. de persoon van de geesteszieke\" in Het nieuwe statuut van de (geestes)zieken, E. Story-Scientia, 2000, p. 171."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:2007:ARR.20070927.2": {
+      "court": "CASS",
+      "date": "2007-09-27",
+      "roleNumber": "C.06.0566.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'annulation de la mesure d'observation, contestée par le malade mental mis en observation, a pour effet que la mesure consécutive de maintien de l'hospitalisation dans l'établissement ordonnée par le juge de paix devient irrégulière, le malade mental mis en observation ayant dès lors un intérêt persistant à maintenir son appel contre cette mesure d'observation et cet appel conservant ainsi un objet, même si la période d'observation contestée est expirée avant qu'il ne soit statué sur cette voie de recours et si ce maintien de l'hospitalisation est déjà ordonné."
+      ],
+      "abstractNL": [
+        "De vernietiging van de door de in observatie genomen geesteszieke bestreden observatiemaatregel heeft tot gevolg dat de daaropvolgende door de vrederechter bevolen maatregel tot zijn verder verblijf in de instelling onregelmatig wordt, waardoor de geesteszieke een blijvend belang heeft om zijn hoger beroep tegen die observatiemaatregel te handhaven en dit hoger beroep nog steeds een voorwerp heeft, al is de betwiste observatieperiode verstreken vooraleer uitspraak is gedaan over dit rechtsmiddel en is dat verder verblijf reeds bevolen."
+      ]
     }
   },
   "13": {
@@ -97,6 +171,50 @@
       ],
       "abstractNL": [
         "Artikel 30, § 2 tot § 6, Wet Bescherming Persoon Geesteszieke neemt de regels niet over die vermeld zijn in de artikelen 7, § 2 en § 3, en 13 van deze wet; de voorwaarden waaronder de laatstvermelde twee artikelen de verdere ziekenhuisopname van de zieke regelen, zijn niet van toepassing zijn in hoger beroep."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070927.2": {
+      "court": "CASS",
+      "date": "2007-09-27",
+      "roleNumber": "C.06.0566.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'annulation de la mesure d'observation, contestée par le malade mental mis en observation, a pour effet que la mesure consécutive de maintien de l'hospitalisation dans l'établissement ordonnée par le juge de paix devient irrégulière, le malade mental mis en observation ayant dès lors un intérêt persistant à maintenir son appel contre cette mesure d'observation et cet appel conservant ainsi un objet, même si la période d'observation contestée est expirée avant qu'il ne soit statué sur cette voie de recours et si ce maintien de l'hospitalisation est déjà ordonné."
+      ],
+      "abstractNL": [
+        "De vernietiging van de door de in observatie genomen geesteszieke bestreden observatiemaatregel heeft tot gevolg dat de daaropvolgende door de vrederechter bevolen maatregel tot zijn verder verblijf in de instelling onregelmatig wordt, waardoor de geesteszieke een blijvend belang heeft om zijn hoger beroep tegen die observatiemaatregel te handhaven en dit hoger beroep nog steeds een voorwerp heeft, al is de betwiste observatieperiode verstreken vooraleer uitspraak is gedaan over dit rechtsmiddel en is dat verder verblijf reeds bevolen."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960613.9": {
+      "court": "CASS",
+      "date": "1996-06-13",
+      "roleNumber": "C960052N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aucune sanction de nullité n'est liée au dépassement du délai de 24 heures prévu par les articles 7, alinéa 2 et 13 de la loi du 28 juin 1990 relative à la protection de la personne des malades mentaux; la réglementation de droit commun prévue par l'article 860, alinéa 3 est applicable."
+      ],
+      "abstractNL": [
+        "Er is geen sanctie van nietigheid verbonden aan de overschrijding van de termijn van 24 uur bepaald bij artt. 7, § 2 en 13 van de wet van 26 juni 1990 betreffende de persoon van de geesteszieke; de gemeenrechtelijke regeling van art. 860 derde lid is van toepassing."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1993:ARR.19930909.7": {
+      "court": "CASS",
+      "date": "1993-09-09",
+      "roleNumber": "9560",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les missions, biens, droits et obligations du Fonds des Routes, en ce compris, notamment, les droits et obligations résultant de procédures judiciaires en cours, ont été transférés à la Région wallonne, en ce qui la concerne, le 1er janvier 1989, conformément aux articles 2, par.1er et 2, et 8 de l'arrêté royal du 28 novembre 1991, publié au Moniteur belge du 18 janvier 1992; n'est, dès lors, pas légalement justifiée la décision judiciaire qui condamne le Fonds des routes postérieurement au 18 janvier 1992. ( L. spéciale 16 janvier 1989, art. 57, par. 5, al. 1er, et 61, par. 3; L. 28 décembre 1984, art. 1er, dernier al.; L. 26 juin 1990, art. 14, par. 1er; A.R. 13 mars 1991, art. 2, par. 2, et 20, par. 1er et 2; A.R. 28 novembre 1991, art. 2, par. 1er et 2, et 8)."
+      ],
+      "abstractNL": [
+        "De taken, goederen, rechten en verplichtingen van het Wegenfonds, met inbegrip van de rechten en verplichtingen die voortkomen uit hangende gerechtelijke procedures, zijn op 1 januari 1989 aan het Waalse Gewest, wat hem betreft, overgedragen overeenkomstig de artt.2, par.1 et 2, en 8 K.B. van 28 nov. 1991, dat in het Belgisch Staatsblad van 18 jan. 1992 is bekendgemaakt; niet naar recht verantwoord is derhalve de rechterlijke beslissing waarbij het Wegenfonds na 18 januari 1992 is veroordeeld. (Artt. 57, par. 5, eerste lid, en 61, par.3, Bijzondere Wet van 16 jan. 1989; art. 1, laatste lid, Wet van 28 december 1984; art. 14, par. 1, Wet van 26 juni 1990; artt. 2, par. 2, en 20, par. 1 en 2, K.B. van 13 maart 1991; artt. 2, par. 1 en 2, en 8 K.B. van 28 nov. 1991)."
       ]
     }
   },
@@ -146,6 +264,78 @@
       "abstractNL": [
         "Artikel 30, §3, van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke verbiedt de voorzitter van de rechtbank van eerste aanleg niet om een andere rechter van de rechtbank te belasten met de opdracht de rechtsdag te bepalen."
       ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080215.3": {
+      "court": "CASS",
+      "date": "2008-02-15",
+      "roleNumber": "C.07.0243.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui, en degré d'appel, statue sur le maintien en hospitalisation d'un malade mental n'a pas l'obligation d'entendre contradictoirement les médecins dans l'hôpital desquels est placé le malade mental ni le médecin conseil de celui-ci."
+      ],
+      "abstractNL": [
+        "De rechter die in hoger beroep uitspraak doet over de handhaving van de ziekenhuisopname van een geesteszieke, is niet ertoe verplicht om zowel de geneesheren van het ziekenhuis waar de geesteszieke is geplaatst als diens adviserend arts op tegenspraak te horen."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061023.2": {
+      "court": "CASS",
+      "date": "2006-10-23",
+      "roleNumber": "C050582F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/23/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 30, ,§ 1er, de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux, qui dispose que les jugements du juge de paix ne sont pas susceptibles d'opposition, ne s'applique pas aux jugements rendus par le tribunal de première instance statuant en degré d'appel."
+      ],
+      "abstractNL": [
+        "Artikel 30, ,§ 1, W. 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke, krachtens hetwelk tegen de vonnissen van de vrederechter geen verzet kan worden gedaan, is niet van toepassing op vonnissen die de rechtbank van eerste aanleg in hoger beroep heeft gewezen."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:2003:ARR.20030905.6": {
+      "court": "CASS",
+      "date": "2003-09-05",
+      "roleNumber": "C020587F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/09/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La loi du 26 juin 1990 relative à la protection de la personne des malades mentaux ne contient pas de disposition dérogeant à l'article 1080 du Code judiciaire, de sorte que la requête introduisant, en application de l'article 31 de la loi du 26 juin 1990 précitée, un pourvoi en cassation doit être signée par un avocat à la Cour de cassation (1). (1) Cass., 26 mars 1999, RG C.96.0067.N, n° 185."
+      ],
+      "abstractNL": [
+        "De wet van 26 juni 1990 betreffende de persoon van de geestesziekte houdt geen afwijkende bepaling van artikel 1080 Ger.W. in, zodat het verzoekschrift waarbij, met toepassing van art. 31 voormelde W. 26 juni 1990, cassatieberoep wordt ingesteld, ondertekend moet zijn door een advocaat bij het Hof van Cassatie (1). (1) Cass., 26 maart 1999, AR C.99.0067.N, nr 185."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990326.5": {
+      "court": "CASS",
+      "date": "1999-03-26",
+      "roleNumber": "C960067N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 26 juin 1990 relative à la protection de la personne des malades mentaux ne contient pas de disposition dérogeant à l'article 1080 du Code judiciaire, de sorte que la requête introduisant, en application de l'article 31 de la loi du 26 juin 1990 précitée, un pourvoi en cassation doit être signée par un avocat à la Cour de cassation."
+      ],
+      "abstractNL": [
+        "De wet van 26 juni 1990 betreffende de persoon van de geestesziekte houdt geen afwijkende bepaling van artikel 1080 van het Gerechtelijk Wetboek in, zodat het verzoekschrift waarbij een voorziening in cassatie wordt ingesteld met toepassing van artikel 31 van de voormelde wet van 26 juni 1990 ondertekend moet zijn door een advocaat bij het Hof van Cassatie."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971208.2": {
+      "court": "CASS",
+      "date": "1997-12-08",
+      "roleNumber": "C970180N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La loi du 26 juin 1990 relative à la protection de la personne des malades mentaux ne contient pas de disposition dérogeant à l'article 1080 du Code judiciaire, de sorte que la requête introduisant, en application de l'article 31 de la loi du 26 juin 1990 précitée, un pourvoi en cassation doit être signée par un avocat à la Cour de cassation."
+      ],
+      "abstractNL": [
+        "De wet van 26 juni 1990 betreffende de persoon van de geesteszieke houdt geen afwijkende bepaling van art. 1080 GerW. in, zodat het verzoekschrift waarbij een voorziening in cassatie wordt ingesteld met toepassing van artikel 31 van de voormelde wet van 26 juni 1990, moet ondertekend zijn door een advocaat bij het Hof van cassatie."
+      ]
     }
   },
   "general": {
@@ -161,6 +351,48 @@
       "abstractFR": null,
       "abstractNL": [
         "Noch uit artikel 5.1.e EVRM noch uit de Interneringswet zelf vloeit voort dat de omstandigheid dat een inverdenkinggestelde is opgenomen in een instelling op basis van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke en daar zorg ontvangt, het bevelen van de internering belet, voor zover aan de voorwaarden van artikel 9 Interneringswet is voldaan; het doel, de voorwaarden, de procedures, de concreet te bevelen maatregelen en de duur van het door de wet van 26 juni 1990 bepaalde beschermingsstatuut en van het door de Interneringswet bepaalde statuut zijn niet identiek of gelijklopend en de toepassing van het beschermingsstatuut van de wet van 26 juni 1990 sluit een internering dan ook niet uit."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990326.5": {
+      "court": "CASS",
+      "date": "1999-03-26",
+      "roleNumber": "C960067N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 26 juin 1990 relative à la protection de la personne des malades mentaux ne contient pas de disposition dérogeant à l'article 1080 du Code judiciaire, de sorte que la requête introduisant, en application de l'article 31 de la loi du 26 juin 1990 précitée, un pourvoi en cassation doit être signée par un avocat à la Cour de cassation."
+      ],
+      "abstractNL": [
+        "De wet van 26 juni 1990 betreffende de persoon van de geestesziekte houdt geen afwijkende bepaling van artikel 1080 van het Gerechtelijk Wetboek in, zodat het verzoekschrift waarbij een voorziening in cassatie wordt ingesteld met toepassing van artikel 31 van de voormelde wet van 26 juni 1990 ondertekend moet zijn door een advocaat bij het Hof van Cassatie."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981022.8": {
+      "court": "CASS",
+      "date": "1998-10-22",
+      "roleNumber": "C980233F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge civil ne peut ordonner la mise en observation d'une personne que s'il constate qu'il s'agit d'un malade mental."
+      ],
+      "abstractNL": [
+        "De burgerlijke rechter kan de opneming ter observatie enkel bevelen als hij vaststelt dat de betrokkene geestesziek is."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971208.2": {
+      "court": "CASS",
+      "date": "1997-12-08",
+      "roleNumber": "C970180N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La loi du 26 juin 1990 relative à la protection de la personne des malades mentaux ne contient pas de disposition dérogeant à l'article 1080 du Code judiciaire, de sorte que la requête introduisant, en application de l'article 31 de la loi du 26 juin 1990 précitée, un pourvoi en cassation doit être signée par un avocat à la Cour de cassation."
+      ],
+      "abstractNL": [
+        "De wet van 26 juni 1990 betreffende de persoon van de geesteszieke houdt geen afwijkende bepaling van art. 1080 GerW. in, zodat het verzoekschrift waarbij een voorziening in cassatie wordt ingesteld met toepassing van artikel 31 van de voormelde wet van 26 juni 1990, moet ondertekend zijn door een advocaat bij het Hof van cassatie."
       ]
     }
   }

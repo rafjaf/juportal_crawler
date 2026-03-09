@@ -796,6 +796,20 @@
       ]
     }
   },
+  "8": {
+    "ECLI:BE:CASS:1993:ARR.19931221.15": {
+      "court": "CASS",
+      "date": "1993-12-21",
+      "roleNumber": "P931579N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/21/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het bevel het land te verlaten dat aan een vreemdeling gegeven wordt onder verwijzing naar art. 7.2° en 7.3° Vreemdelingenwet en dienvolgens in overeenstemming is met het bepaalde in art. 8 van dezelfde wet, bevat de juridische en feitelijke overwegingen die aan de beslissing ten grondslag liggen en schendt artt. 1 en 2 van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen niet."
+      ]
+    }
+  },
   "9": {
     "ECLI:BE:CASS:2023:ARR.20231117.1F.3": {
       "court": "CASS",
@@ -1544,6 +1558,18 @@
       "abstractFR": [
         "En matière de chômage, l'égalité de traitement entre les travailleurs étrangers ou apatrides et les ressortissants belges, et ce éventuellement avec effet rétroactif, ne vaut qu'à l'égard de la personne qui possède la qualité de réfugié et qui est reconnue en tant que telle en vertu des dispositions légales et conventionnelles applicables."
       ],
+      "abstractNL": [
+        "De gelijkheid van behandeling inzake werkloosheid van vreemde of staatloze werknemers en van Belgische onderdanen geldt slechts, eventueel met terugwerkende kracht, voor de persoon die de hoedanigheid van vluchteling bezit en als dusdanig is erkend krachtens de toepasselijke verdrags- en wetsbepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950925.8": {
+      "court": "CASS",
+      "date": "1995-09-25",
+      "roleNumber": "S950043N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/25/sitemap_2.xml"
+      ],
+      "abstractFR": null,
       "abstractNL": [
         "De gelijkheid van behandeling inzake werkloosheid van vreemde of staatloze werknemers en van Belgische onderdanen geldt slechts, eventueel met terugwerkende kracht, voor de persoon die de hoedanigheid van vluchteling bezit en als dusdanig is erkend krachtens de toepasselijke verdrags- en wetsbepalingen."
       ]
@@ -5737,6 +5763,398 @@
       ],
       "abstractNL": [
         "Niet ontvankelijk, bij gebrek aan belang, is de voorziening die een vreemdeling heeft ingesteld tegen het arrest van de kamer van inbeschuldigingstelling waarbij zijn beroep tegen de maatregel van vrijheidsberoving, die de minister van Justitie overeenkomstig de wet van 15 dec. 1980 te zijnen opzichte heeft genomen, niet ontvankelijk is verklaard, wanneer de eiser van het grondgebied van het Rijk is verwijderd voordat het Hof op de voorziening uitspraak heeft gedaan."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020827.4": {
+      "court": "CASS",
+      "date": "2002-08-27",
+      "roleNumber": "P021175F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/08/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La détention légale d'un étranger en vue de son éloignement effectif du territoire ne constitue pas, en soi, un traitement inhumain et dégradant (1)."
+      ],
+      "abstractNL": [
+        "De wettelijke hechtenis van een vreemdeling met het oog op zijn daadwerkelijke verwijdering van het grondgebied is, op zich, geen onmenselijke of vernederende behandeling (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020130.13": {
+      "court": "CASS",
+      "date": "2002-01-30",
+      "roleNumber": "P011694F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/01/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'étranger qui fait l'objet de mesures privatives de liberté distinctes en vue de l'éloignement du territoire peut introduire un recours contre chacune de ces mesures auprès du pouvoir judiciaire; viole l'article 71 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, la juridiction d'instruction qui fonde sa décision d'irrecevabilité d'un de ces recours sur des motifs qui reviennent à confondre les deux mesures administratives contre lesquelles l'étranger avait exercé des recours judiciaires distincts."
+      ],
+      "abstractNL": [
+        "De vreemdeling die het voorwerp uitmaakt van afzonderlijke vrijheidsberovende maatregelen met het oog op de verwijdering van het grondgebied, kan tegen elke maatregel een beroep bij de rechterlijke macht instellen; het onderzoeksgerecht schendt art. 71 Vreemdelingenwet, wanneer zijn beslissing tot niet-ontvankelijkheid van een van die beroepen gegrond is op redenen waarin de twee administratieve maatregelen, waartegen de vreemdeling afzonderlijke rechtsmiddelen had aangewend, met elkaar worden verward."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011003.9": {
+      "court": "CASS",
+      "date": "2001-10-03",
+      "roleNumber": "P011271F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Seul l'étranger qui fait l'objet d'une des mesures privatives de liberté visées à l'article 71 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, peut introduire, contre cette mesure, le recours prévu audit article; est sans objet et, partant, irrecevable le recours introduit par un étranger qui n'a pas fait l'objet personnellement d'une telle mesure (1)."
+      ],
+      "abstractNL": [
+        "Alleen de vreemdeling jegens wie een van de in artikel 71, Vreemdelingenwet, bedoelde vrijheidsberovende maatregelen wordt genomen, kan tegen die maatregel het in dat artikel bedoelde beroep instellen; het beroep dat ingesteld wordt door een vreemdeling die niet persoonlijk is getroffen door een dergelijke maatregel, is doelloos en bijgevolg niet ontvankelijk (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010910.9": {
+      "court": "CASS",
+      "date": "2001-09-10",
+      "roleNumber": "S000165F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/09/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque se pose la question de savoir si viole les principes constitutionnels d'égalité et de non-discrimination, l'article 57, § 2, alinéa 1er, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, qui serait applicable à des étrangers qui ne peuvent être éloignés du territoire belge en vertu de l'article 14 de la loi du 22 décembre 1999 relative à la régularisation de séjour de certaines catégories d'étrangers séjournant sur le territoire du Royaume, la Cour de cassation doit, en règle, demander à la Cour d'arbitrage de statuer sur cette question (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de vraag rijst of art. 57, § 2, eerste lid, OCMW-wet dat van toepassing is op vreemdelingen die, krachtens art. 14 W. 22 december 1999 betreffende de regularisatie van het verblijf van bepaalde categorieën van vreemdelingen verblijvend op het grondgebied van het Rijk niet van het Belgisch grondgebied kunnen worden verwijderd, de grondwettelijke beginselen inzake gelijkheid en non-discriminatie miskent, moet het Hof van Cassatie in beginsel het Arbitragehof verzoeken over die vraag uitspraak te doen (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010319.6": {
+      "court": "CASS",
+      "date": "2001-03-19",
+      "roleNumber": "S990195N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'autorisation qui est délivrée à l'étranger, lors de circonstances exceptionnelles, de séjourner dans le Royaume au-delà du délai de trois mois ne sort ses effets juridiques qu'à partir du moment où elle est donnée."
+      ],
+      "abstractNL": [
+        "De machtiging die aan de vreemdeling in buitengewone omstandigheden kan worden verleend om langer dan drie maanden in het land te verblijven ressorteert eerst rechtsgevolgen vanaf het tijdstip waarop zij wordt verleend."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010319.7": {
+      "court": "CASS",
+      "date": "2001-03-19",
+      "roleNumber": "S000069N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'autorisation délivrée à l'étranger pour un séjour de plus de trois mois ne vaut que pour l'avenir et n'a pas pour conséquence que les ordres antérieurs de quitter le territoire sont retirés faisant naître ainsi un droit à l'aide sociale avec effet rétroactif."
+      ],
+      "abstractNL": [
+        "De machtiging tot verblijf aan de vreemdeling verleend voor een verblijf van meer dan 3 maanden geldt slechts voor de toekomst en heeft niet tot gevolg dat de voorheen gegeven bevelen het grondgebied te verlaten worden ingetrokken waardoor met terugwerkende kracht recht op maatschappelijke dienstverlening zou ontstaan."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990330.10": {
+      "court": "CASS",
+      "date": "1999-03-30",
+      "roleNumber": "P990288N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions d'instruction, saisies d'un recours contre une mesure privative de liberté en vue de l'éloignement du territoire d'un étranger, se bornent à vérifier si les mesures privatives de liberté ou d'éloignement du territoire sont conformes à la loi sans pouvoir se prononcer sur leur opportunité; leur vérification porte uniquement sur la légalité des mesures attaquées elles-mêmes sans que, dans ce cadre, elles puissent avoir égard à des pièces ou éléments nouveaux."
+      ],
+      "abstractNL": [
+        "De onderzoeksgerechten die kennis nemen van een beroep tegen een maatregel van vrijheidsberoving die genomen is om een vreemdeling van het grondgebied te verwijderen, onderzoeken alleen of de maatregelen van vrijheidsberoving of tot verwijdering van het grondgebied in overeenstemming zijn met de wet zonder zich uit te spreken over de gepastheid ervan; hun onderzoek heeft slechts betrekking op de wettigheid van de bestreden maatregelen zelf, zonder hierbij nieuwe gegevens of stukken in aanmerking te nemen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981208.9": {
+      "court": "CASS",
+      "date": "1998-12-08",
+      "roleNumber": "P981489N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/12/08/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en vertu de l'article 71, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, l'étranger introduit un recours contre une mesure de privation de liberté en déposant une requête auprès de la chambre du conseil du tribunal correctionnel du lieu de sa résidence dans le Royaume ou du lieu où il a été trouvé, la requête ne doit pas nécessairement être signée par l'étranger requérant ou par son avocat faisant état d'une procuration spéciale."
+      ],
+      "abstractNL": [
+        "Wanneer de vreemdeling, krachtens art. 71, eerste lid, Vreemdelingenwet, beroep instelt tegen een maatregel van vrijheidsberoving door een verzoekschrift neer te leggen bij de raadkamer van de correctionele rechtbank van zijn verblijfplaats in het Rijk of van de plaats waar hij werd aangetroffen, hoeft dat verzoekschrift niet verplicht ondertekend te worden door de verzoekende vreemdeling of door zijn advocaat die van een bijzondere volmacht doet blijken."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980309.3": {
+      "court": "CASS",
+      "date": "1998-03-09",
+      "roleNumber": "S970075F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/03/09/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de quitter le territoire est définitif au sens de l'article 57, alinéa 2, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale lorsqu'il ne peut plus faire l'objet d'un recours devant une autorité administrative ou devant le Conseil d'Etat; aucune disposition légale n'organise un recours devant le ministre de l'Intérieur pour l'étranger à qui un tel ordre a été notifié."
+      ],
+      "abstractNL": [
+        "Het bevel om het grondgebied te verlaten is definitief in de zin van art. 57, alinéa 2, OCMW-wet wanneer daarentegen geen schorsend beroep meer kan worden ingesteld bij een administratieve overheid of bij de Raad van State; geen enkele wettekst bepaalt dat een vreemdeling aan wie kennis is gegeven van een dergelijk bevel, beroep kan instellen bij de minister van Binnenlandse zaken."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980204.7": {
+      "court": "CASS",
+      "date": "1998-02-04",
+      "roleNumber": "P980074F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/02/04/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 149 de la Constitution ne s'applique pas aux juridictions d'instruction statuant sur le maintien de la mesure administrative de privation de liberté prise contre l'étranger."
+      ],
+      "abstractNL": [
+        "Art. 149 Gw. is niet toepasselijk op de onderzoeksgerechten die uitspraak doen over de handhaving van een ten aanzien van de vreemdeling genomen bestuurlijke maatregel van vrijheidsberoving."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971112.17": {
+      "court": "CASS",
+      "date": "1997-11-12",
+      "roleNumber": "P971355F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'un juge d'instruction, en application de la loi du 20 juillet 1990 relative à la détention préventive met un inculpé étranger en liberté en imposant la condition de ne pas quitter le territoire, est sans incidence sur la vérification opérée par la chambre des mises en accusation par application de l'article 72 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een onderzoeksrechter, met toepassing van de Wet Voorlopige Hechtenis, een vreemde verdachte in vrijheid stelt met het verbod om het grondgebied te verlaten, heeft geen weerslag op het door de kamer van inbeschuldigingstelling met toepassing van art. 72, Vreemdelingenwet, uitgevoerde onderzoek."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971112.16": {
+      "court": "CASS",
+      "date": "1997-11-12",
+      "roleNumber": "P971283F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/12/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La notification de l'ordre de quitter le territoire est régulièrement faite par le directeur de l'établissement pénitentiaire à l'étranger, dont une ordonnance de la chambre du conseil rendue dans les cinq jours d'un mandat d'arrêt ne maintient pas la détention préventive, tant que le délai d'appel du ministère public contre cette ordonnance n'est pas expiré."
+      ],
+      "abstractNL": [
+        "De directeur van de strafinrichting geeft op regelmatige wijze kennis van het bevel om het grondgebied te verlaten aan de vreemdeling, wiens voorlopige hechtenis niet gehandhaafd wordt door een binnen de vijf dagen na de uitvaardiging van het aanhoudingsbevel gewezen beschikking van de raadkamer, zolang de termijn waarbinnen het OM tegen die beschikking hoger beroep kan instellen, niet verstreken is."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961218.10": {
+      "court": "CASS",
+      "date": "1996-12-18",
+      "roleNumber": "P961535F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/12/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 62 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, les décisions administratives sont motivées; indépendamment de la motivation de la décision ordonnant à l'étranger de quitter le territoire, la décision ministérielle de faire ramener sans délai l'étranger à la frontière et de le détenir à cette fin doit être motivée."
+      ],
+      "abstractNL": [
+        "De administratieve beslissingen worden krachtens art. 62, Vreemdelingenwet, met redenen omkleed; de ministeriële beslissing om de vreemdeling zonder verwijl naar de grens te doen terugleiden en hem te dien einde in hechtenis te stellen, moet met redenen omkleed worden, ongeacht de motivering van het bevel om het grondgebied te verlaten."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961107.15": {
+      "court": "CASS",
+      "date": "1996-11-07",
+      "roleNumber": "S960088F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de quitter le territoire est définitif au sens de l'article 57, alinéa 2, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale lorsqu'il ne peut plus faire l'objet d'un recours suspensif devant une autorité administrative ou devant le Conseil d'Etat et non lorsqu'il n'est plus susceptible d'aucun recours devant une autorité ou juridiction quelconque appelée à statuer en matière de droit des étrangers; un recours en annulation devant le Conseil d'Etat n'a pas d'effet suspensif."
+      ],
+      "abstractNL": [
+        "Het bevel om het grondgebied te verlaten is definitief, in de zin van art. 57, alinéa 2, OCMW-wet, wanneer daartegen geen schorsend beroep meer bij een administratieve overheid of bij de Raad van State kan worden ingesteld en niet wanneer het niet meer vatbaar is voor enig beroep bij enige overheid of rechterlijke instantie die uitspraak moet doen inzake vreemdelingenrecht; een beroep tot nietigverklaring bij de Raad van State werkt niet schorsend."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951220.3": {
+      "court": "CASS",
+      "date": "1995-12-20",
+      "roleNumber": "P951331F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/20/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 54, alinéa 2, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ne fixe pas de durée maximale de la mise provisoire à la disposition du gouvernement d'un étranger entré dans le Royaume sans satisfaire aux conditions légales et ayant demandé la qualité de réfugié, mais cette mesure ne peut être maintenue que si des circonstances exceptionnellement graves le justifient."
+      ],
+      "abstractNL": [
+        "Art. 54, alinéa 2, Vreemdelingenwet bepaalt de maximumduur niet van de maatregel waarbij een vreemdeling, die het Rijk is binnengekomen zonder te voldoen aan de wettelijke voorwaarden en die de hoedanigheid van vluchteling heeft aangevraagd, voorlopig ter beschikking van de Regering wordt gesteld; die maatregel kan evenwel enkel worden gehandhaafd, zolang zulks wegens uitzonderlijk ernstige omstandigheden nodig is."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951204.2": {
+      "court": "CASS",
+      "date": "1995-12-04",
+      "roleNumber": "S950038N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'ordre de quitter le territoire est définitif au sens de l'article 57, alinéa 2, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, lorsqu'il ne peut plus faire l'objet d'un recours suspensif devant une autorité administrative ou devant le Conseil d'Etat; un tel recours en annulation devant le Conseil d'Etat n'a pas d'effet suspensif."
+      ],
+      "abstractNL": [
+        "Het bevel om het grondgebied te verlaten is definitief, in de zin van art. 57, alinéa 2, OCMW-wet, wanneer het bevel niet meer vatbaar is voor enig beroep met schorsende werking bij een administratieve overheid of bij de Raad van State; een dergelijk beroep tot nietigverklaring bij de Raad van State werkt niet schorsend."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951003.4": {
+      "court": "CASS",
+      "date": "1995-10-03",
+      "roleNumber": "P951145N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Devient sans objet le pourvoi en cassation, formé par un étranger contre un arrêt de la chambre des mises en accusation décidant que, conformément à l'article 27, alinéa 3, de la loi du 15 décembre 1980, il sera maintenu en détention, si, avant la décision de la Cour sur le pourvoi, une nouvelle mesure administrative de privation de liberté a été prise contre le demandeur."
+      ],
+      "abstractNL": [
+        "Doelloos is het cassatieberoep van een vreemdeling tegen een arrest van de kamer van inbeschuldigingstelling waarbij is beslist dat hij, overeenkomstig art. 27, derde lid, Vreemdelingenwet, opgesloten zal blijven, als vóór de uitspraak van het Hof op het cassatieberoep, met toepassing van dezelfde wetsbepaling, tegen eiser een nieuwe maatregel van vrijheidsbeneming werd getroffen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950808.1": {
+      "court": "CASS",
+      "date": "1995-08-08",
+      "roleNumber": "P950996F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/08/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le samedi n'est pas un jour ouvrable au sens de l'article 72 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. (Solution implicite)."
+      ],
+      "abstractNL": [
+        "Zaterdag is geen werkdag in de zin van art. 72, Vreemdelingenwet. (Impliciet)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930730.4": {
+      "court": "CASS",
+      "date": "1993-07-30",
+      "roleNumber": "P931064F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/07/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Devient sans objet le pourvoi formé par un étranger contre un arrêt de la chambre des mises en accusation décidant qu'il restera détenu conformément à l'article 27, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, si, avant que la Cour ait statué sur le pourvoi, la mesure privative de liberté dont le demandeur avait été frappé a pris fin du fait que celui-ci a été rapatrié."
+      ],
+      "abstractNL": [
+        "Doelloos wordt het cassatieberoep van een vreemdeling tegen een arrest van de kamer van inbeschuldigingstelling waarbij is beslist dat hij, overeenkomstig art. 27, derde lid, Vreemdelingenwet opgesloten zal blijven, als, voor de uitspraak van het Hof op het cassatieberoep, de tegen de eiser genomen maatregel van vrijheidsbeneming een einde heeft genomen doordat hij is gerepatrieerd."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921209.11": {
+      "court": "CASS",
+      "date": "1992-12-09",
+      "roleNumber": "361",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même depuis l'entrée en vigueur des nouvelles dispositions légales relatives à la détention préventive, le pourvoi en cassation formé par l'étranger, objet d'une mesure privative de liberté, contre l'arrêt qui maintient cette mesure, demeure régi par les dispositions du Code d'instruction criminelle; ce pourvoi ne doit, dès lors, pas être formé dans les vingt-quatre heures de la signification de l'arrêt attaqué. ( Code d'instruction criminelle, art. 373; Loi du 15 décembre 1980, art. 72; Loi du 20 juillet 1990, art. 31. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vreemdeling die het voorwerp is van een maatregel van vrijheidsberoving, zich in cassatie voorziet tegen het arrest dat die maatregel handhaaft, gelden ten aanzien van dat cassatieberoep, ook na de inwerkingtreding van de nieuwe wetsbepalingen betreffende de voorlopige hechtenis, de bepalingen van het Wetboek van Strafvordering; derhalve is niet vereist dat het cassatieberoep wordt ingesteld binnen vierentwintig uur, te rekenen van de betekening van het bestreden arrest. ( Art. 373 Wetboek van Strafvordering; art. 72 Vreemdelingenwet; art. 31 Wet Voorlopige Hechtenis 1990. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900529.13": {
+      "court": "CASS",
+      "date": "1990-05-29",
+      "roleNumber": "4523",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La règle suivant laquelle l'étranger renvoyé qui, n'ayant pas obtempéré dans le délai imparti, est détenu à cette fin pendant le temps strictement nécessaire pour l'exécution de la mesure, est mis en liberté si, dans le mois de son arrestation, il n'a pas pu entrer régulièrement sur le territoire d'un autre Etat, n'est pas applicable lorsque cette situation est créée par le comportement et l'opposition illicite de l'étranger. ( Loi du 15 décembre 1980, art. 27, al. 3, et 29. )"
+      ],
+      "abstractNL": [
+        "De reden volgens welke de teruggewezen vreemdeling, die binnen de gestelde termijn geen gevolg heeft gegeven aan het bevel en om die reden opgesloten wordt voor de tijd die strikt noodzakelijk is voor de uitvoering van de maatregel, in vrijheid wordt gesteld als hij niet binnen de maand na zijn aanhouding regelmatig het grondgebied van een ander land heeft kunnen betreden is niet van toepassing wanneer die toestand te wijten is aan de houding en het wederrechtelijk verzet van de vreemdeling. ( Artt. 27, derde lid, en 29 Vreemdelingenwet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880628.14": {
+      "court": "CASS",
+      "date": "1988-06-28",
+      "roleNumber": "2608",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort du rapprochement des articles 7 et 27 de la loi du 15 décembre 1980 sur les étrangers que la mesure coercitive de détention envers l'étranger qui a reçu l'ordre de quitter le territoire peut être prise non seulement par le Ministre de la Justice mais aussi par son délégué."
+      ],
+      "abstractNL": [
+        "Uit art. 7 juncto art. 27 Vreemdelingenwet 15 december 1980 volgt dat de dwangmaatregel van opsluiting ten aanzien van de vreemdeling aan wie bevel werd gegeven het land te verlaten, kan worden genomen niet alleen door de minister van Justitie maar ook door zijn gemachtigde."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870128.8": {
+      "court": "CASS",
+      "date": "1987-01-28",
+      "roleNumber": "5595",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté ministériel mettant à la disposition du gouvernement un étranger renvoyé ou expulsé, en vue de sa remise à la frontière, doit mentionner les circonstances exceptionnellement graves qui motivent cette décision. ( Loi du 15 décembre 1980, art. 25, 62 et 72. )"
+      ],
+      "abstractNL": [
+        "Het ministerieel besluit waarbij een teruggewezen of uitgezette vreemdeling ter beschikking van de Regering wordt gesteld met het oog op zijn terugleiding naar de grens, moet melding maken van de uitzonderlijk ernstige omstandigheden waardoor die beslissing zich laat verantwoorden. ( Artt. 25, 62 en 72 wet van 15 december 1980. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860604.3": {
+      "court": "CASS",
+      "date": "1986-06-04",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'étranger qui, après s'être vu notifier un arrêté ministériel de renvoi, épouse un Belge ou une Belge, ne bénéficie pas des conditions privilégiées prévues par l'article 21, 4°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers."
+      ],
+      "abstractNL": [
+        "De vreemdeling, die, nadat hem een ministerieel terugwijzingsbesluit ter kennis is gebracht, met een Belg of een Belgische huwt, geniet niet de voorkeursbehandeling bedoeld in art. 21, 4°, Wet 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860423.7": {
+      "court": "CASS",
+      "date": "1986-04-23",
+      "roleNumber": "5011",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/04/23/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Devient sans objet le pourvoi formé par un étranger contre un arrêt de la chambre des mises en accusation décidant qu'il restera détenu conformément à l'article 27, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, si, avant que la Cour ait statué sur le pourvoi, la mesure privative de liberté dont le demandeur avait été frappé a pris fin du fait que celui a été reconduit à la frontière d'un pays limitrophe."
+      ],
+      "abstractNL": [
+        "Doelloos wordt het cassatieberoep van een vreemdeling tegen een arrest van de kamer van inbeschuldigingstelling waarbij is beslist dat hij overeenkomstig art. 27, derde lid, Vreemdelingenwet, opgesloten zal blijven, als, vóór de uitspraak van het Hof op het cassatieberoep, de tegen de eiser genomen maatregel van vrijheidsberoving is verlopen doordat hij naar de grens van een buurland is teruggeleid."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850403.6": {
+      "court": "CASS",
+      "date": "1985-04-03",
+      "roleNumber": "4209",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Devient sans objet le pourvoi formé par un étranger contre un arrêt de la chambre des mises en accusation décidant que cet étranger restera détenu conformément à l'article 27, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, s'il a été ultérieurement mis fin à cette détention avant que la Cour n'ait statué sur le pourvoi. ( Loi du 15 décembre 1980, art. 27, al. 3, 71, al. 1e, et 72, al. 2. )"
+      ],
+      "abstractNL": [
+        "Doelloos wordt het cassatieberoep van een vreemdeling tegen een arrest van de kamer van inbeschuldigingstelling, waarbij is beslist dat de vreemdeling overeenkomstig art. 27, derde lid, Vreemdelingenwet opgesloten zal blijven, als die hechtenis naderhand, voordat het Hof op het cassatieberoep uitspraak heeft gedaan, is geëindigd. ( Artt. 27, derde lid, 71, eerste lid, en 72, tweede lid, Vreemdelingenwet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850306.7": {
+      "court": "CASS",
+      "date": "1985-03-06",
+      "roleNumber": "4157",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'étranger renvoyé du royaume a introduit une demande en révision de l'arrêté ministériel de renvoi, aucune mesure d'éloignement du territoire motivée par les mêmes faits ne peut être exécutée à son égard; il peut cependant être privé de sa liberté pendant la durée de l'examen de la demande en révision à la double condition que la détention soit ordonnée par le ministre de la Justice et qu'elle soit justifiée par des circonstances exceptionnellement graves. (Loi du 15 décembre 1980, art. 67.)"
+      ],
+      "abstractNL": [
+        "Wanneer de uit het Rijk teruggewezen vreemdeling een verzoek tot herziening van het ministerieel terugwijzingsbesluit heeft ingediend, kan geen enkele andere, op dezelfde feiten gegronde maatregel tot verwijdering van het grondgebied te zijnen aanzien ten uitvoer gelegd worden; hij kan nochtans voor de duur van het onderzoek zijn verzoek tot herziening van zijn vrijheid worden beroofd op voorwaarde echter dat de opsluiting wordt bevolen door de minister van Justitie en verantwoord is door uitzonderlijk ernstige omstandigheden. (Art. 67 wet van 15 dec. 1980.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841114.6": {
+      "court": "CASS",
+      "date": "1984-11-14",
+      "roleNumber": "3910",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/11/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Devient sans objet le pourvoi formé par un étranger contre un arrêt de la chambre des mises en accusation décidant qu'il restera détenu conformément à l'article 27, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, si, avant que la Cour ait statué sur le pourvoi, la mesure privative de liberté dont le demandeur avait été frappé a pris fin par le rapatriement de celui-ci dans un autre pays."
+      ],
+      "abstractNL": [
+        "Doelloos is het cassatieberoep van een vreemdeling tegen een arrest van de kamer van inbeschuldigingstelling dat beslist dat hij overeenkomstig art. 27, derde lid, Vreemdelingenwet, zal opgesloten blijven, wanneer de vrijheidsberoving, alvorens het Hof uitspraak heeft gedaan over het cassatieberoep, door repatriëring naar een ander land is beëindigd."
       ]
     }
   },

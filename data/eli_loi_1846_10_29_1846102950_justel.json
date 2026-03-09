@@ -15,6 +15,52 @@
       ]
     }
   },
+  "9": {
+    "ECLI:BE:CASS:1980:ARR.19801002.10": {
+      "court": "CASS",
+      "date": "1980-10-02",
+      "roleNumber": "6115",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi contre un arrêt de la Cour des comptes en tant qu'il est dirigé contre le conseiller remplissant les fonctions de ministère public près cette Cour, lorsqu'il ne concerne ni l'injonction faite par ce magistrat au comptable de rendre compte dans un délai déterminé ni une condamnation à une amende qui aurait été prononcée contre ledit comptable. ( Loi du 29 octobre 1846, art. 8 et 9. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het cassatieberoep tegen een arrest van het Rekenhof in zoverre het gericht is tegen de raadsheer in het Rekenhof die als openbaar ministerie optreedt, wanneer het geen betrekking heeft op de aanmaning door die magistraat van de rekenplichtige tot afrekening binnen een bepaalde termijn en evenmin op een veroordeling van die rekenplichtige tot een geldboete. ( Artt. 8 en 9, wet van 29 oktober 1846. )"
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1983:ARR.19830630.14": {
+      "court": "CASS",
+      "date": "1983-06-30",
+      "roleNumber": "6829",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/30/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour des comptes, statuant par application des articles 5 et 10 de la loi du 29 octobre 1846, procède à l'examen et à la liquidation des comptes d'un comptable envers le Trésor public et établit si celui-ci est quitte, en avance ou en débet, elle ne statue pas sur une contestation."
+      ],
+      "abstractNL": [
+        "Wanneer het Rekenhof, uitspraak doende met toepassing van de artt. 5 en 10 van de wet van 29 okt. 1846 de rekeningen van een rekenplichtige jegens de Staatskas naziet en verevent en vaststelt of zijn rekeningen effen zijn, een tegoed vertonen of met een tekort sluiten, doet het geen uitspraak over een betwisting."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830630.16": {
+      "court": "CASS",
+      "date": "1983-06-30",
+      "roleNumber": "6830",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour des comptes, statuant par application des articles 5 et 10 de la loi du 29 octobre 1846, procède à l'examen et à la liquidation des comptes d'un comptable envers le Trésor public et établit si celui-ci est quitte, en avance ou en débet, elle ne statue pas sur une contestation."
+      ],
+      "abstractNL": [
+        "Wanneer het Rekenhof, uitspraak doende met toepassing van de artt. 5 en 10 wet van 19 okt. 1846, de rekeningen van een rekenplichtige tegenover de Staatskas naziet en verevent en vaststelt of zijn rekeningen effen zijn, een tegoed vertonen of met een tekort sluiten, doet het geen uitspraak over een betwisting."
+      ]
+    }
+  },
   "17": {
     "ECLI:BE:CASS:2017:ARR.20171016.1": {
       "court": "CASS",
@@ -28,6 +74,22 @@
       ],
       "abstractNL": [
         "Noch uit artikel 17, eerste lid, van de wet van 29 oktober 1846 op de inrichting van het Rekenhof, noch uit artikel 159 van de Grondwet kan worden afgeleid dat de beslissingen van het Rekenhof over de wettigheid en het bedrag van de pensioenen ten laste van de Staat bindend zijn voor de rechtbanken die uitspraak moeten doen over een betwisting betreffende burgerrechten of politieke rechten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19801002.9": {
+      "court": "CASS",
+      "date": "1980-10-02",
+      "roleNumber": "6064",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 728, 755, 758 et 780 du Code judiciaire, relatives à la comparution des parties, à la procédure écrite, à l'audience et à la publicité des jugements, sont sans application quant aux procédures suivies par la Cour des comptes; celles-ci sont en effet régies par d'autres dispositions légales non expressément abrogées et par des principes du droit dont l'application n'est pas compatible avec ces dispositions du Code judiciaire. ( Code judic., art. 2; loi du 29 octobre 1846. )"
+      ],
+      "abstractNL": [
+        "De bepalingen van de artt. 728, 755, 758 en 780, Gerechtelijk Wetboek betreffende de verschijning van partijen, de schriftelijke behandeling, de terechtzitting en de openbaarheid van de uitspraak van het vonnis zijn niet toepasselijk op de procedures bij het Rekenhof; deze worden immers geregeld door andere, niet uitdrukkelijk opgeheven wetsbepalingen en door rechtsbeginselen waarvan de toepassing niet verenigbaar is met die bepalingen van het Gerechtelijk Wetboek. ( Art. 2, Gerechtelijk Wetboek, wet van 5 oktober 1846. )"
       ]
     }
   }

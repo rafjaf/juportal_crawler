@@ -15,6 +15,36 @@
       ]
     }
   },
+  "7": {
+    "ECLI:BE:CASS:1997:ARR.19971219.5": {
+      "court": "CASS",
+      "date": "1997-12-19",
+      "roleNumber": "F970010F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'irrecevabilité du pourvoi en matière de taxes communales ou provinciales directes ne saurait résulter du seul fait que la requête en cassation, signée par le demandeur ou son avocat, a été déposée au greffe de la cour d'appel par une personne dont la qualité n'est pas précisée. (Solution implicite)"
+      ],
+      "abstractNL": [
+        "De niet-ontvankelijkheid van het cassatieberoep inzake directe gemeente- of provinciebelastingen kan niet voortvloeien uit het enkele feit dat het door eiser of diens advocaat ondertekende verzoekschrift tot cassatie ter griffie van het hof van beroep is neergelegd door een persoon wiens hoedanigheid niet wordt gepreciseerd. (Impliciet)"
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:1965:ARR.19650204.1": {
+      "court": "CASS",
+      "date": "1965-02-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition des lois coordonnées sur la réparation des dommages résultant des accidents du travail ne dispense la victime ou ses ayants droit de la preuve que le dommage subi a pour cause un accident du travail."
+      ],
+      "abstractNL": null
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2025:ARR.20250321.1N.3": {
       "court": "CASS",
@@ -4491,6 +4521,20 @@
       "abstractNL": [
         "Wanneer de prejudiciële vraag berust op een onjuiste bewering, op grond dat eiser zich niet in de door hem beschreven toestand bevindt, is de prejudiciële vraag niet ontvankelijk."
       ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940531.8": {
+      "court": "CASS",
+      "date": "1994-05-31",
+      "roleNumber": "P930458N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un moyen de cassation soulève une question relative à la violation, par une loi, des articles 6 et 6bis (actuellement 10 et 11) de la Constitution, la Cour de cassation n'est pas tenue de poser la question préjudicielle à la Cour d'arbitrage lorsque le pourvoi est irrecevable pour des motifs de procédure tirés de normes ne faisant pas elles-mêmes l'objet de la demande de question préjudicielle. (L. spéciale du 6 janvier 1989, art. 26, alinéa 2)."
+      ],
+      "abstractNL": [
+        "Indien een cassatiemiddel een vraag opwerpt omtrent de schending door een wet van de artt. 6 en 6bis (thans artt. 10 en 11) Gw., is het Hof van Cassatie niet gehouden aan het Arbitragehof een prejudiciële vraag te stellen als de voorziening niet ontvankelijk is op grond van een procedurereden die ontleend is aan een norm, welke zelf niet het voorwerp uitmaakt van het verzoek tot het stellen van de prejudiciële vraag. (Art. 26, alinéa 2, Bijzondere Wet Arbitragehof)."
+      ]
     }
   },
   "12": {
@@ -4999,6 +5043,34 @@
       ],
       "abstractNL": [
         "De legaliteit van een strafbepaling vereist dat ze, op zichzelf of in context met andere bepalingen gelezen, op voldoende preciese wijze de strafbaar gestelde gedraging omschrijft; aan deze vereiste is voldaan wanneer het voor hen op wie de strafbepaling toepasselijk is - waarbij rekening mag worden gehouden met de bijzondere hoedanigheid of functie van deze personen - mogelijk is om op grond ervan de feiten en nalatigheden te kennen die hun strafrechtelijke aansprakelijkheid meebrengen, zelfs als de nadere omschrijving hiervan wordt overgelaten aan de rechter."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050511.7": {
+      "court": "CASS",
+      "date": "2005-05-11",
+      "roleNumber": "P040900F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/05/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En réponse à la question préjudicielle posée par la Cour de cassation, la Cour d'arbitrage a dit pour droit que l'article 29, ,§ 1er, des lois relatives à la police de la circulation routière et coordonnées par l'arrêté royal du 16 mars 1968, remplacé par l'article 6 de la loi du 7 février 2003 portant diverses dispositions en matière de sécurité routière, ne viole pas les articles 12, alinéa 2, et 14 de la Constitution (1). (1) Voir Cass., 13 octobre 2004, RG P.04.0900.F, n° ..."
+      ],
+      "abstractNL": [
+        "In antwoord op de prejudiciële vraag die door het Hof van Cassatie is gesteld, zegt het Arbitragehof voor recht dat artikel 29, ,§ 1, van de wetten betreffende de politie over het wegverkeer, gecoördineerd bij het koninklijk besluit van 16 maart 1968, vervangen bij artikel 6 van de wet van 7 februari 2003 houdende verschillende bepalingen inzake verkeersveiligheid, de artikelen 12, tweede lid, en 14 van de Grondwet niet schendt (1). (1) Zie Cass., 13 okt. 2004, AR P.04.0900.F, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940426.15": {
+      "court": "CASS",
+      "date": "1994-04-26",
+      "roleNumber": "P940529N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un mandat d'amener indiquant l'identité de l'intéressé, le lieu, la date et la description selon les termes de la loi de l'infraction mise à charge, l'énumération des articles de loi qualifiant le fait d'infraction et le degré de la peine et constatant que la personne n'a pas déjà été mise à la disposition du juge d'instruction et qu'il existe des indices sérieux de culpabilité résultant d'éléments disponibles suite à l'instruction menée jusqu'à ce jour, constitue une ordonnance motivée du juge au sens de l'article 3 de la loi du 20 juillet 1990."
+      ],
+      "abstractNL": [
+        "Een met redenen omkleed bevel van de rechter dat voldoet aan art. 3 Wet Voorlopige Hechtenis, is het bevel tot medebrenging dat de identiteit vermeldt van de betrokkene, de plaats en datum en de omschrijving met de termen van de wet van het ten laste gelegde misdrijf, de opsomming van de wetsartikelen die het feit als misdrijf omschrijven en de strafmaat bepalen, alsmede de vaststelling dat de persoon niet reeds ter beschikking van de onderzoeksrechter werd gesteld en dat er ernstige aanwijzingen van schuld bestaan voortspruitende uit de elementen die thans voorhanden zijn terloops het tot op heden gevoerde onderzoek."
       ]
     }
   },
@@ -15490,6 +15562,104 @@
       "abstractNL": [
         "Niet regelmatig met redenen omkleed is het arrest dat zich ertoe beperkt de redengeving van in andere zaken gewezen arresten waarvan niet vaststaat dat eiser er partij was, over te nemen zonder haar weer te geven."
       ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20021206.3": {
+      "court": "CASS",
+      "date": "2002-12-06",
+      "roleNumber": "C020171N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/12/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être reproché au juge de n'avoir pas motivé un point de son raisonnement qui est dénué d'intérêt (1). (1) Voir Cass., 17 mars 1995, RG C.93.0204.N, n° 156; 4 février 2002, RG C.98.0522.N, n° 92."
+      ],
+      "abstractNL": [
+        "Met betrekking tot een punt dat in zijn redenering geen belang vertoont kan aan de rechter geen gebrek in de motivering worden verweten (1). (1) Zie Cass., 17 maart 1995, A.R. C.93.0204.N, nr 156; 4 febr. 2000, A.R. C.98.0522.N, nr 92."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970930.4": {
+      "court": "CASS",
+      "date": "1997-09-30",
+      "roleNumber": "P960489N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/09/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas contradictoire, la décision déclarant le prévenu, en sa qualité d'administrateur délégué de deux sociétés distinctes, coupable de banqueroute frauduleuse, respectivement banqueroute simple et déclarant le prévenu ensuite, dans le dispositif de la décision, uniquement banqueroutier simple, ce qui constitue une mention surabondante."
+      ],
+      "abstractNL": [
+        "Niet tegenstrijdig is de beslissing die de beklaagde, in zijn hoedanigheid van afgevaardigde bestuurder van twee onderscheiden vennootschappen, schuldig verklaart aan bedrieglijke, respectievelijk eenvoudige bankbreuk en in het dictum van de beslissing beklaagde vervolgens enkel eenvoudig bankroetier verklaart, wat een overtollige vermelding uitmaakt."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970630.12": {
+      "court": "CASS",
+      "date": "1997-06-30",
+      "roleNumber": "S960172N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/30/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivé, le jugement qui se borne à s'approprier, sans la reproduire, la motivation d'un jugement rendu dans une autre cause, où le demandeur n'était pas partie."
+      ],
+      "abstractNL": [
+        "Niet regelmatig met redenen omkleed is het vonnis dat zich ertoe beperkt de redengeving van een in een andere zaak gewezen vonnis, waarin eiser geen partij was, over te nemen zonder haar weer te geven."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961003.6": {
+      "court": "CASS",
+      "date": "1996-10-03",
+      "roleNumber": "C950335F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Une décision se fonde sur des motifs ambigus lorsque ces motifs sont susceptibles de différentes interprétations et qu'elle est légalement justifiée dans une ou plusieurs interprétations mais non dans une ou plusieurs autres."
+      ],
+      "abstractNL": [
+        "Een beslissing is gegrond op dubbelzinnige redenen, wanneer die redenen op verscheidene wijzen kunnen worden uitgelegd en wanneer zij volgens een of meer van die uitleggingen naar recht is verantwoord maar volgens een of meer andere niet."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940426.11": {
+      "court": "CASS",
+      "date": "1994-04-26",
+      "roleNumber": "P940323N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/26/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'elle statue sur une contestation relative à la liberté individuelle, la commission de défense sociale est tenue de motiver sa décision, ce qui implique de répondre aux conclusions."
+      ],
+      "abstractNL": [
+        "Wanneer een commissie tot bescherming van de maatschappij uitspraak doet over een geschil betreffende de individuele vrijheid, is ze verplicht haar beslissing met redenen te omkleden, wat het beantwoorden van conclusies impliceert."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940330.9": {
+      "court": "CASS",
+      "date": "1994-03-30",
+      "roleNumber": "P931674F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge du fond apprécie en fait l'existence d'un dommage causé par un acte illicite et le montant destiné à le réparer intégralement; il peut recourir à une évaluation ex aequo et bono s'il indique la raison pour laquelle le mode de calcul proposé par la victime ne peut être admis, et constate en outre l'impossibilité de déterminer autrement le dommage tel qu'il l'a caractérisé. (Const., art. 149 (art. 97 ancien); C.civ., art. 1382 et 1383)."
+      ],
+      "abstractNL": [
+        "De feitenrechter beoordeelt het bestaan van de door een onrechtmatige daad veroorzaakte schade en raamt het bedrag van de vergoeding voor het volledig herstel ervan; hij kan de schade ex aequo et bono ramen, mits hij de reden aangeeft waarom de door de getroffene voorgestelde berekeningswijze niet kan worden aangenomen en tevens vaststelt dat het niet mogelijk is de schade, zoals hij deze heeft omschreven, anders te bepalen (Art. 149 Gw., (oud art. 97); artt. 1382 en 1383 B.W.)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940328.20": {
+      "court": "CASS",
+      "date": "1994-03-28",
+      "roleNumber": "S930116F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les conclusions déposées par le demandeur se fondent sur deux hypothèses contradictoires, la première invoquant l'ignorance des textes légaux, la seconde supposant la connaissance de ceux-ci, observe la règle de forme prescrite par l'article 149 de la Constitution l'arrêt qui répond à la première de ces hypothèses et qui, ce faisant, écarte nécessairement la seconde. (Const. coord. 17 février 1994, art. 149 (Voir antérieurement Const., art. 97))."
+      ],
+      "abstractNL": [
+        "Wanneer eisers conclusie gegrond is op twee tegenstrijdige onderstellingen, waarbij de eerste het niet kennen van wetteksten aanvoert en de tweede de kennis daarvan onderstelt, wordt het vormvoorschrift van art. 149 Gw. nageleefd door het arrest dat de eerste onderstelling beantwoordt en aldus noodzakelijkerwijze de tweede uitsluit. (Art. 149 gecoörd. Gw. 17 febr. 1994) (Zie vroeger art. 97, Gw.)."
+      ]
     }
   },
   "150": {
@@ -20537,6 +20707,118 @@
       ],
       "abstractNL": [
         "De bepalingen van het Handvest van de grondrechten van de Europese Unie zijn gericht tot de instellingen en organen van de Unie met inachtneming van het subsidiariteitsbeginsel alsook tot de Lidstaten, uitsluitend wanneer zij het recht van de Unie toepassen; de verplichting om de grondrechten te eerbiedigen zoals ze in het kader van de Europese Unie zijn omschreven, geldt voor de Lidstaten bijgevolg alleen wanneer ze optreden met toepassing van het communautair recht (1). (1) HvJ, 13 juli 1989, Wachauf, nr. 5/88, Jur.HvJ 1989, p. 2609; HvJ, 18 juni 1991, ERT, Jur.HvJ 1991, I-2925; zie Cass., 3 oktober 2012, AR P.12.0709.F, AC 2012, nr. 508, met concl. adv.-gen. Vandermeersch; Nicolas Cariat, \"La charte des droits fondamentaux de l'Union européenne et les juridictions belges. Quelques balises pour une application prometteuse\", in J.T. 2010, p. 105 e.v.; Henri-D. Bosly, Damien Vandermeersch en Marie-Aude Beernaert, Droit de la procédure pénale, 2014, p. 70-71."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011211.8": {
+      "court": "CASS",
+      "date": "2001-12-11",
+      "roleNumber": "P011535N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales n'implique pas que le juge qui prend connaissance du pourvoi de l'inculpé, dirigé contre l'action publique exercée à sa charge, ne puisse plus, en vertu d'une disposition de droit interne, lui refuser la communication des pièces déclarées nulles qui ne seront pas utilisées contre lui (1)."
+      ],
+      "abstractNL": [
+        "Artikel 6 EVRM houdt niet in dat de rechter, die kennisneemt van de voorziening van de verdachte, gericht tegen de strafvordering die tegen hem is ingesteld, aan deze, krachtens een internrechtelijke bepaling, geen inzage kan ontzeggen van nietig verklaarde stukken, die tegen hem niet zullen worden gebruikt (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010329.12": {
+      "court": "CASS",
+      "date": "2001-03-29",
+      "roleNumber": "F990077F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/29/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les règles d'égalité et de non-discrimination consacrées par les articles 10, 11 et 172 de la Constitution (1994) s'opposent à ce que soient traitées de manière identique, sans qu'apparaisse une justification raisonnable, des catégories de personnes se trouvant dans des situations qui, au regard de la norme considérée, sont essentiellement différentes."
+      ],
+      "abstractNL": [
+        "De in de artt. 10, 11 en 172 Gw. (1994) vastgelegde regels inzake gelijkheid en non-discriminatie verbieden dat categorieën van personen die in situaties verkeren welke, vanuit het oogpunt van de bedoelde maatregel, wezenlijk van elkaar verschillen, op dezelfde wijze worden behandeld zonder dat daarvoor een redelijke grond voorhanden is."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970630.12": {
+      "court": "CASS",
+      "date": "1997-06-30",
+      "roleNumber": "S960172N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/30/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivé, le jugement qui se borne à s'approprier, sans la reproduire, la motivation d'un jugement rendu dans une autre cause, où le demandeur n'était pas partie."
+      ],
+      "abstractNL": [
+        "Niet regelmatig met redenen omkleed is het vonnis dat zich ertoe beperkt de redengeving van een in een andere zaak gewezen vonnis, waarin eiser geen partij was, over te nemen zonder haar weer te geven."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960905.12": {
+      "court": "CASS",
+      "date": "1996-09-05",
+      "roleNumber": "F9603F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/09/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le Roi n'a pu, par l'arrêté royal du 8 juillet 1970 portant règlement général des taxes assimilées aux impôts sur les revenus, spécialement l'article 15, alinéa 1er, 2°, b, limiter l'exemption de la taxe de circulation sur les véhicules automobiles, aux voitures automobiles proprement dites utilisées comme moyens de locomotion personnelle par des infirmes, et exclure dès lors de cette exemption les minibus utilisés aux mêmes fins, restreignant de la sorte la portée de l'article 5, alinéa 1er, alinéa 1er, 3°, du Code des taxes assimilées aux impôts sur les revenus, disposition qui a valeur de loi."
+      ],
+      "abstractNL": [
+        "De Koning heeft, bij het K.B. van 8 juli 1970 houdende algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen, inzonderheid art. 15, § 1, 2°, b, de vrijstelling van de verkeersbelasting op de autovoertuigen niet kunnen beperken tot de personenauto's, in de strikte betekenis van het woord, die als persoonlijk vervoermiddel worden gebruikt door gebrekkigen; hij heeft derhalve de voor hetzelfde doel gebruikte minibussen niet van die vrijstelling kunnen uitsluiten en aldus de draagwijdte beperken van art. 5, § 1, eerste lid, 3°, van het WIGB, welke bepaling kracht van wet heeft."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950530.7": {
+      "court": "CASS",
+      "date": "1995-05-30",
+      "roleNumber": "P940126N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'utilisation par le juge belge d'éléments de preuve qui sont obtenus par la mise sur écoute téléphonique pratiquée aux Pays-Bas conformément à la loi néerlandaise, n'est pas incompatible avec les articles 8, alinéa 2, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, 17 du pacte international relatif aux droits civils et politiques et 29 de la Constitution (1994), dès lors qu'il fut constaté que la mise sur écoute a eu lieu sur la base d'une disposition légale qui, notamment en raison de la détermination d'un cadre de référence suffisant précisant les modalités d'application de la mesure de mise sur écoute, satisfait qualitativement au standard minimum de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales."
+      ],
+      "abstractNL": [
+        "Het aanwenden door de Belgische rechter van bewijskrachtige gegevens die overeenkomstig de Nederlandse wetgeving in Nederland zijn verkregen door het afluisteren van telefoongesprekken, is niet strijdig met de artt. 8.2, EVRM, 17 IVBPR en 29 Gw (1994), als wordt vastgesteld dat de telefoontap gebeurde op basis van een wettelijke voorziening die, o.m. door bepaling van een voldoende referentiekader waarin de toepassingsmodaliteiten van de tap-maatregel gepreciseerd zijn, kwalitatief voldoet aan de minimumstandaard van het EVRM."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940426.11": {
+      "court": "CASS",
+      "date": "1994-04-26",
+      "roleNumber": "P940323N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/26/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'elle statue sur une contestation relative à la liberté individuelle, la commission de défense sociale est tenue de motiver sa décision, ce qui implique de répondre aux conclusions."
+      ],
+      "abstractNL": [
+        "Wanneer een commissie tot bescherming van de maatschappij uitspraak doet over een geschil betreffende de individuele vrijheid, is ze verplicht haar beslissing met redenen te omkleden, wat het beantwoorden van conclusies impliceert."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940426.15": {
+      "court": "CASS",
+      "date": "1994-04-26",
+      "roleNumber": "P940529N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un mandat d'amener indiquant l'identité de l'intéressé, le lieu, la date et la description selon les termes de la loi de l'infraction mise à charge, l'énumération des articles de loi qualifiant le fait d'infraction et le degré de la peine et constatant que la personne n'a pas déjà été mise à la disposition du juge d'instruction et qu'il existe des indices sérieux de culpabilité résultant d'éléments disponibles suite à l'instruction menée jusqu'à ce jour, constitue une ordonnance motivée du juge au sens de l'article 3 de la loi du 20 juillet 1990."
+      ],
+      "abstractNL": [
+        "Een met redenen omkleed bevel van de rechter dat voldoet aan art. 3 Wet Voorlopige Hechtenis, is het bevel tot medebrenging dat de identiteit vermeldt van de betrokkene, de plaats en datum en de omschrijving met de termen van de wet van het ten laste gelegde misdrijf, de opsomming van de wetsartikelen die het feit als misdrijf omschrijven en de strafmaat bepalen, alsmede de vaststelling dat de persoon niet reeds ter beschikking van de onderzoeksrechter werd gesteld en dat er ernstige aanwijzingen van schuld bestaan voortspruitende uit de elementen die thans voorhanden zijn terloops het tot op heden gevoerde onderzoek."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940328.20": {
+      "court": "CASS",
+      "date": "1994-03-28",
+      "roleNumber": "S930116F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les conclusions déposées par le demandeur se fondent sur deux hypothèses contradictoires, la première invoquant l'ignorance des textes légaux, la seconde supposant la connaissance de ceux-ci, observe la règle de forme prescrite par l'article 149 de la Constitution l'arrêt qui répond à la première de ces hypothèses et qui, ce faisant, écarte nécessairement la seconde. (Const. coord. 17 février 1994, art. 149 (Voir antérieurement Const., art. 97))."
+      ],
+      "abstractNL": [
+        "Wanneer eisers conclusie gegrond is op twee tegenstrijdige onderstellingen, waarbij de eerste het niet kennen van wetteksten aanvoert en de tweede de kennis daarvan onderstelt, wordt het vormvoorschrift van art. 149 Gw. nageleefd door het arrest dat de eerste onderstelling beantwoordt en aldus noodzakelijkerwijze de tweede uitsluit. (Art. 149 gecoörd. Gw. 17 febr. 1994) (Zie vroeger art. 97, Gw.)."
       ]
     }
   },

@@ -33,6 +33,22 @@
       ]
     }
   },
+  "59": {
+    "ECLI:BE:CASS:2002:ARR.20020620.8": {
+      "court": "CASS",
+      "date": "2002-06-20",
+      "roleNumber": "C000620N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le receveur, fonctionnaire comptable au sein de l'administration compétent en matière de recouvrement des amendes, est en principe habilité en vertu du titre légal imposant l'amende, soit la décision rendue; la circonstance qu'au moment du recouvrement, il n'est pas expressément mentionné que les poursuites sont faites au nom du procureur du Roi n'influe pas sur la validité de ces poursuites (1)."
+      ],
+      "abstractNL": [
+        "De ontvanger, die een rekenplichtige ambtenaar is in de administratie bevoegd voor de invordering van de boete, is in beginsel bevoegd voor de invordering op grond van de wettelijke titel die de boete heeft opgelegd, dit is de uitgesproken beslissing: de omstandigheid dat bij de invordering niet uitdrukkelijk vermeld wordt dat de vervolgingen geschieden in naam van de procureur des Konings, is zonder invloed op de geldigheid van die vervolgingen (1)."
+      ]
+    }
+  },
   "100": {
     "ECLI:BE:CASS:2025:ARR.20251002.1N.9": {
       "court": "CASS",
@@ -340,6 +356,36 @@
       ],
       "abstractNL": [
         "Aangezien de in artikel 106, § 2, van de wetten op de Rijkscomptabiliteit bepaalde specifieke verjaringstermijn, die volgt op de verjaringsstuitende daad, te weten de neerlegging van de aangetekende brief, ongrondwettig wordt geacht, doet die verjaringsstuitende daad een nieuwe verjaringstermijn ingaan van dezelfde duur als de oorspronkelijke termijn, namelijk een termijn van vijf jaar (1). (1) Zie andersluidende concl. OM in Pas. 2019, nr. 13."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020909.6": {
+      "court": "CASS",
+      "date": "2002-09-09",
+      "roleNumber": "C990327N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 100 des lois sur la comptabilité de l'Etat, coordonnées par l'arrêté royal du 17 juillet 1991, ne viole pas les articles 10 et 11 de la Constitution en tant qu'il prévoit un délai de prescription quinquennal pour les actions en indemnisation fondées sur la responsabilité extra-contractuelle des pouvoirs publics lorsque le préjudice et l'identité du responsable peuvent être immédiatement constatés (1)."
+      ],
+      "abstractNL": [
+        "Artikel 100 van de wetten op de Rijkscomptabiliteit, geco|rdineerd bij het koninklijk besluit van 17 juli 1991, schendt de artikelen 10 en 11 van de Grondwet niet in zoverre het in een vijfjarige verjaringstermijn voorziet voor vorderingen tot schadevergoeding op grond van de buitencontractuele aansprakelijkheid van de overheid wanneer het nadeel en de identiteit van de daarvoor aansprakelijke onmiddellijk kunnen worden vastgesteld (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020620.8": {
+      "court": "CASS",
+      "date": "2002-06-20",
+      "roleNumber": "C000620N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le receveur, fonctionnaire comptable au sein de l'administration compétent en matière de recouvrement des amendes, est en principe habilité en vertu du titre légal imposant l'amende, soit la décision rendue; la circonstance qu'au moment du recouvrement, il n'est pas expressément mentionné que les poursuites sont faites au nom du procureur du Roi n'influe pas sur la validité de ces poursuites (1)."
+      ],
+      "abstractNL": [
+        "De ontvanger, die een rekenplichtige ambtenaar is in de administratie bevoegd voor de invordering van de boete, is in beginsel bevoegd voor de invordering op grond van de wettelijke titel die de boete heeft opgelegd, dit is de uitgesproken beslissing: de omstandigheid dat bij de invordering niet uitdrukkelijk vermeld wordt dat de vervolgingen geschieden in naam van de procureur des Konings, is zonder invloed op de geldigheid van die vervolgingen (1)."
       ]
     }
   }

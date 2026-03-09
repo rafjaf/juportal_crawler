@@ -1,4 +1,412 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2000:ARR.20000119.23": {
+      "court": "CASS",
+      "date": "2000-01-19",
+      "roleNumber": "P981182F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article unique, § XV, de la loi du 25 octobre 1919 modifiant temporairement l'organisation judiciaire et la procédure devant les cours et tribunaux ne viole pas les articles 10 et 11 de la Constitution en ce qu'il dispose que les attributions de la chambre du conseil du tribunal de première instance en matière répressive sont dévolues à une chambre d'un juge, ces attributions comprenant celle d'ordonner l'internement du chef d'un fait qualifié crime ou délit notamment contre l'ordre des familles ou contre la moralité publique."
+      ],
+      "abstractNL": [
+        "Het enige artikel, § XV, W. 25 oktober 1919 schendt de artt. 10 en 11 Gw. niet, in zoverre het bepaalt dat de bevoegdheden van de raadkamer van de rechtbank van eerste aanleg in strafzaken worden opgedragen aan een kamer met één rechter, inclusief de bevoegdheid om de internering te bevelen wegens een als misdaad of wanbedrijf omschreven feit, inz. een misdrijf tegen de orde der familie en tegen de openbare zedelijkheid."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990608.3": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P980903N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation appelée à statuer sur le règlement de la procédure, doit répondre à une demande de la partie civile tendant à faire ordonner une instruction complémentaire."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling die uitspraak moet doen over de regeling van de procedure moet een verzoek van de burgerlijke partij om een aanvullend onderzoek te bevelen beantwoorden."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980929.9": {
+      "court": "CASS",
+      "date": "1998-09-29",
+      "roleNumber": "P981182F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le Code judiciaire n'a pas abrogé la disposition légale suivant laquelle la chambre du conseil est composée d'un seul juge, statuant sur le rapport du juge d'instruction, même lorsqu'elle statue sur l'internement d'une personne poursuivie du chef d'une infraction contre l'ordre des familles ou contre la moralité publique."
+      ],
+      "abstractNL": [
+        "Het GerW. heeft de wettelijke bepaling niet opgeheven, volgens welke de raadkamer samengesteld is uit één rechter die uitspraak doet over het verslag van de onderzoeksrechter, zelfs wanneer die raadkamer uitspraak doet over de internering van een persoon die vervolgd wordt wegens een misdrijf tegen de orde der familie en tegen de openbare zedelijkheid."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980630.11": {
+      "court": "CASS",
+      "date": "1998-06-30",
+      "roleNumber": "P980791N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée, l'ordonnance de la chambre du conseil qui, l'inculpé ayant été convoqué à une audience déterminée, renvoie l'inculpé visé au tribunal correctionnel à une audience antérieure."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1996:ARR.19960117.5": {
+      "court": "CASS",
+      "date": "1996-01-17",
+      "roleNumber": "P950930F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La chambre du conseil et la chambre des mises en accusation, réglant la procédure, répondent aux conclusions qui contestent ou affirment l'existence en fait de charges par la seule constatation qu'il en existe ou qu'il n'en existe pas."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer en de kamer van inbeschuldigingstelling de procedure regelen, antwoorden zij op de conclusie waarin het feitelijk bestaan van bezwaren betwist of bevestigd wordt, door de enkele vaststelling dat die bezwaren aanwezig of niet aanwezig zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951220.1": {
+      "court": "CASS",
+      "date": "1995-12-20",
+      "roleNumber": "P950118F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/20/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'avis de fixation d'une cause à l'audience de la chambre du conseil, que le greffier de cette chambre doit envoyer à l'inculpé en vue du règlement de la procédure, est notifié à une adresse erronée et que, dès lors, les débats se déroulent en dehors de la présence de cet inculpé, l'ordonnance qui renvoie celui-ci au tribunal correctionnel ne répond pas aux conditions légales de validité formelle de l'acte saisissant la juridiction de jugement et doit être déclarée nulle; la cassation de l'ordonnance entraîne l'annulation de la procédure et des décisions subséquentes."
+      ],
+      "abstractNL": [
+        "Wanneer de kennisgeving die de griffier van de raadkamer met het oog op de regeling van de procedure aan de verdachte moet doen m.b.t. de rechtsdag waarop de zaak door die kamer zal worden behandeld, op een verkeerd adres is geschied en de debatten derhalve plaatsvinden buiten de tegenwoordigheid van de verdachte, voldoet de beschikking waarbij hij naar de correctionele rechtbank wordt verwezen niet aan de wettelijke vereisten inzake de formele geldigheid van de akte waarbij het vonnisgerecht geadieerd wordt en moet zij nietig verklaard worden; vernietiging van de beschikking leidt tot vernietiging van de rechtspleging en de daarop volgende beslissingen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950503.11": {
+      "court": "CASS",
+      "date": "1995-05-03",
+      "roleNumber": "P941431F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/03/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La chambre du conseil et la chambre des mises en accusation, réglant la procédure, répondent aux conclusions qui contestent ou affirment l'existence en fait de charges par la seule constatation qu'il en existe ou qu'il n'en existe pas; toutefois le pouvoir souverain d'appréciation, reconnu à la juridiction d'instruction, ne l'exonère pas de l'obligation de rencontrer des conclusions qui soutiennent que le fait imputé constitue ou non une infraction punissable."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer en de kamer van inbeschuldigingstelling de procedure regelen, antwoorden zij op de conclusie, waarin het feitelijk bestaan van bezwaren betwist of bevestigd wordt, door de enkele vaststelling dat die bezwaren voorhanden of niet voorhanden zijn; de onaantastbare beoordelingsbevoegdheid waarover het onderzoeksgerecht beschikt ontslaat dat gerecht evenwel niet van de verplichting te antwoorden op een conclusie ten betoge dat het ten laste gelegde feit al dan niet strafbaar is."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870109.9": {
+      "court": "CASS",
+      "date": "1987-01-09",
+      "roleNumber": "5385",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sur le réquisitoire conforme du procureur du Roi et lorsqu'il n'y a pas de partie civile en cause, la chambre du conseil peut rendre une ordonnance de contraventionnalisation sans qu'un avis ait été donné à l'inculpé et à son conseil et sans que le dossier ait été déposé au greffe pour leur permettre d'en prendre connaissance. ( Loi du 25 octobre 1919, article unique, alinéa XV. )"
+      ],
+      "abstractNL": [
+        "Op eensluidende vordering van de procureur des Konings en wanneer er geen burgerlijke partij in het geding is, kan de raadkamer een beschikking van contraventionalisering wijzen, zonder dat aan de verdachte en aan diens raadsman bericht werd gegeven en zonder dat het dossier neergelegd werd ter griffie om hen in staat te stellen ervan inzage te nemen. ( Wet 25 oktober 1919, enig art., alinéa XV. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860617.3": {
+      "court": "CASS",
+      "date": "1986-06-17",
+      "roleNumber": "4918",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/17/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de ce que prescrit l'article XV de la loi du 25 octobre 1919 que la chambre du conseil, appelée à statuer sur le règlement d'une procédure, est saisie de la cause dès avant que le juge d'instruction n'en ait rendu compte conformément à l'article 127 du Code d'instruction criminelle (solution implicite)."
+      ],
+      "abstractNL": [
+        "Uit de op grond van art. XV van de wet van 25 oktober 1919 te treffen maatregelen volgt dat wanneer de raadkamer uitspraak moet doen over de regeling van de procedure, de zaak bij haar reeds aanhangig is vooraleer de onderzoeksrechter het bij art. 127 Wetboek van Strafvordering voorgeschreven verslag heeft uitgebracht ( Impliciete oplossing )."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850522.18": {
+      "court": "CASS",
+      "date": "1985-05-22",
+      "roleNumber": "4169",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/22/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en violation de l'article unique, alinéa XV, de la loi du 25 octobre 1919, l'inculpé et son conseil n'ont pu prendre connaissance du dossier avant l'ordonnance de renvoi prononcée par la chambre du conseil, cette ordonnance est nulle, ainsi que la procédure et les décisions de condamnation subséquentes."
+      ],
+      "abstractNL": [
+        "Wanneer de verdachte en diens raadsman in strijd met het enig artikel, alinéa XV, van de wet van 25 okt. 1919 geen inzage hebben kunnen nemen van de stukken van het dossier vóór de door de raadkamer gewezen beschikking tot verwijzing, dan is die beschikking nietig evenals de rechtspleging en de daaropvolgende veroordelende beslissingen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831214.11": {
+      "court": "CASS",
+      "date": "1983-12-14",
+      "roleNumber": "3081",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Répond aux conclusions de l'inculpé qui n'opposent ni déclinatoire de compétence de la juridiction d'instruction ni exception et ne soutiennent pas que les faits imputés, fussent-ils constants, ne constituent pas des infractions punissables, la juridiction d'instruction qui constate qu'il existe des charges suffisantes pour renvoyer l'inculpé au tribunal correctionnel du chef des infractions mises à sa charge. ( Loi du 25 octobre 1919, article unique, paragraphe XV; loi du 22 juillet 1927, art. 1er; loi du 19 août 1920. )"
+      ],
+      "abstractNL": [
+        "De conclusie van de verdachte waarin noch de onbevoegdheid van het onderzoeksgerecht wordt aangevoerd noch een exceptie wordt opgeworpen en waarin evenmin wordt betoogd dat de ten laste gelegde feiten, zelfs al waren, ze bewezen, geen strafbare misdrijven opleveren, wordt genoegzaam naar recht beantwoord door het onderzoeksgerecht dat vaststelt dat er voldoende bezwaren bestaan om de verdachte naar de correctionele rechtbank te verwijzen wegens de hem ten laste gelegde misdrijven. ( Enig art., alinéa XV, wet van 25 oktober 1919; art. 1 wet van 22 juli 1927; wet van 19 augustus 1920. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801223.12": {
+      "court": "CASS",
+      "date": "1980-12-23",
+      "roleNumber": "6356",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/23/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1975:ARR.19751027.14": {
+      "court": "CASS",
+      "date": "1975-10-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/27/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la chambre du conseil statue sur la confirmation du mandat d'arrêt, l'inculpé peut se faire assister par un avocat mais, en règle, ne peut se faire représenter par lui. ( Loi du 20 avril 1874, art. 4; loi du 25 octobre 1919, art. un., par. XV, complété par l'art. 3 de la loi du 16 février 1961.)"
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer beslist over de bevestiging van het bevel tot aanhouding, kan de verdachte zich laten bijstaan door een advocaat, doch hij kan zich door hem niet laten vertegenwoordigen. ( Art. 4 wet van 20 april 1874; art. 1, par. XV, wet van 25 oktober 1919, aangevuld bij artikel 3 van de wet van 16 februari 1961. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750929.5": {
+      "court": "CASS",
+      "date": "1975-09-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/09/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée l'ordonnance de la chambre du conseil qui renvoie l'inculpé au tribunal correctionnel sans répondre à ses conclusions soutenant que l'instruction est nulle. (Loi du 25 octobre 1919, article unique, par. XV ; Code d'instr. crim., art. 223.)"
+      ],
+      "abstractNL": [
+        "Niet gemotiveerd is de beschikking van de raadkamer, waarbij de verdachte naar de correctionele rechtbank wordt verwezen, zonder te antwoorden op de conclusie ten betoge dat het onderzoek nietig is. (Enig artikel, par. VI, wet van 25 oktober 1919; art. 223 Sv.)"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741209.10": {
+      "court": "CASS",
+      "date": "1974-12-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Rejette par une décision motivée des conclusions demandant une mesure d'instruction, la juridiction d'instruction qui donne les raisons pour lesquelles elle s'estime suffisament éclairée. ( Loi du 25 octobre 1919, article unique, par. XV; code d'instr. crim. art. 223. )"
+      ],
+      "abstractNL": [
+        "Een conclusie waarin om een onderzoeksmaatregel wordt verzocht wordt bij een met redenen omklede beslissing verworpen door het onderzoeksgerecht dat de redenen opgeeft waarom het oordeelt voldoende ingelicht te zijn. ( Enig artikel, par. XV, wet van 25 oktober 1919; art. 223 Sv. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731001.7": {
+      "court": "CASS",
+      "date": "1973-10-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/10/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'ordonnance de la chambre du conseil ou l'arrêt de la chambre des mises en accusation, qui renvoient un inculpé au tribunal correctionnel , répondent de manière adéquate à des conclusions qui contestent uniquement l'existence de charges suffisantes pour le renvoi, en constatant l'existence de pareilles charges. (Loi du 25 octobre 1919, article unique, par. XV; Code d'instr. crim., art. 223.)"
+      ],
+      "abstractNL": [
+        "De beschikking van de raadkamer of het arrest van de kamer van inbeschuldigingstelling, waarbij een verdachte naar de correctionele rechtbank wordt verwezen, antwoorden passend op een conclusie waarin enkel de aanwezigheid van voldoende bezwaren tot verwijzing wordt betwist door vast te stellen dat die bezwaren bestaan. ( Enig artikel, par. XV wet van 25 oktober 1919; art. é Sv. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730213.14": {
+      "court": "CASS",
+      "date": "1973-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/13/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Devant la juridictions répressives la partie civile comparaît en personne ou par un avocat porteur des pièces. ( Code d'instr. crim., art. 152, 185 et 223; loi du 25 octobre 1919, XV; loi du 16 février 1961, art. 1er, 2 et 3. )"
+      ],
+      "abstractNL": [
+        "Voor de strafgerechten verschijnt de burgerlijke partij persoonlijk of in de persoon van een advocaat, houder van de stukken. ( Sv., art. 152, 185 en 223; wet van 25 oktober 1919, XV; wet van 16 februari 1961, art. 1, 2 en 3. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660926.3": {
+      "court": "CASS",
+      "date": "1966-09-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est nulle l'ordonnance de la chambre du conseil, renvoyant l'inculpé devant le tribunal correctionnel, qui n'indique pas si les inculpés ont comparu, et ne porte pas l'indication du quantième du mois où elle a été rendue. (Loi du 25 octobre 1919, article unique, alinéa XV, complétée par l'article 3, alinéa 1er, de la loi du 16 février 1961; loi du 18 juin 1869, art. 158, 165 et 166, modifiés par la loi du 20 décembre 1957, art. 8.)"
+      ],
+      "abstractNL": [
+        "Is nietig de beschikking van de raadkamer waarbij de verdachte naar de correctionele rechtbank verwezen wordt die niet aanduidt of de verdachten verschenen zijn en tevens niet vermeld de hoeveelste van de maand zij gewezen werd. (Wet van 25 oktober 1919, enig artikel, XV, aangevuld door artikel 3, alinéa 1, van de wet van 16 februari 1961; wet van 18 juni 1869, art. 158, 165 en 166, gewijzigd bij de wet van 20 december 1957, art. 8.)"
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19651209.3": {
+      "court": "CASS",
+      "date": "1965-12-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/12/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Sauf disposition légale dérogatoire, le ministère public fait partie intégrante de la cour d'appel; à son défaut la cour n'est pas légalement constituée, sans qu'il y ait lieu de distinguer, en matière civile ou commerciale, entre les causes qui sont obligatoirement communiquées au ministère public et celles dont la communication est facultative."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650308.10": {
+      "court": "CASS",
+      "date": "1965-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/03/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'ordonnance de la chambre du conseil ou l'arrêt de la chambre des mises en accusation, qui renvoient un inculpé devant le tribunal correctionnel, répondent de manière adéquate à des conclusions qui contestent uniquement l'existence de charges suffisantes pour le renvoi, en constatant l'existence de pareilles charges. (Loi du 25 octobre 1919, article unique, alinéa XV; Code d'instr. crim., article 223.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650308.2": {
+      "court": "CASS",
+      "date": "1965-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/03/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La chambre du conseil ordonne légalement le dessaisissement du juge d'instruction, en raison des nécessités d'une bonne administration de la justice, sans que les formalités prévues par l'article unique, alinéa XV, de la loi du 25 octobre 1919 aient été observées. (Loi du 25 octobre 1919, art. unique, alinéa XV; Code d'instr. crim., art. 127.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1970:ARR.19701106.1": {
+      "court": "CASS",
+      "date": "1970-11-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si les espèces, valeurs et créances ne font généralement pas partie du fonds de commerce, elles peuvent cependant, par une clause de l'acte, être comprises dans le fonds donné en gage, l'énumération, par l'article 2 de la loi du 26 octobre 1919, des éléments qui composent le fonds n'étant pas limitative."
+      ],
+      "abstractNL": [
+        "Indien de speciën, waardepapieren en schuldvorderingen over het algemeen geen deel uitmaken van de handelszaak, kunnen zij nochtans, door middel van een beding, begrepen zijn in de in pand gegeven handelszaak, aangezien de in artikel 2 van de wet van 25 oktober 1919 gegeven opsomming niet beperkend is."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1972:ARR.19720526.7": {
+      "court": "CASS",
+      "date": "1972-05-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La mise en gage du fonds de commerce, instituée par la loi du 25 octobre 1919 modifiée par l'arrêté royal n° 282 du 30 mars 1936, est soumise à des règles particulières différentes de celles qui régissent les gages visés par les articles 2073 à 2084 du Code civil et par la loi du 5 mai 1872 portant revision des dispositions du Code de commerce relatives au gage et à la commission."
+      ],
+      "abstractNL": [
+        "De inpandgeving van de handelszaak ingesteld bij de wet van 25 oktober 1919, zoals deze is gewijzigd bij het koninklijk besluit nr. 282 van 30 maart 1936, is onderworpen aan andere bijzondere regels dan die welke voorzien in de regeling van de panden, omschreven bij de artikelen 2073 tot 2084 van het Burgerlijk Wetboek, en bij de wet van 5 mei 1872 houdende herziening van het Wetboek van koophandel betreffende het pand en de commissielonen."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1966:ARR.19660204.1": {
+      "court": "CASS",
+      "date": "1966-02-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'agréation accordée par le gouvernement à un établissement de crédit, aux fins de pouvoir recevoir en gage des fonds de commerce, est une autorisation individuelle; partant, l'agréation accordée à une société commerciale, qui se transforme ultérieurement en une société commerciale d'une autre forme, ne subsiste pas au profit de la nouvelle personne morale, même si celle-ci continue, en fait, la même entreprise. (Loi du 25 octobre 1919, art. 7.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:1967:ARR.19671113.6": {
+      "court": "CASS",
+      "date": "1967-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/11/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'aliénation frauduleuse ou le déplacement frauduleux de tout ou partie des éléments d'un fonds de commerce, donné en gage, ne constitue le délit prévu par l'article 8 de la loi du 25 octobre 1919, modifiée par l'arrêté royal n° 282 du 30 mars 1936, que si le fonds de commerce a été donné en gage dans les conditions déterminées par cette loi."
+      ],
+      "abstractNL": [
+        "De bedrieglijke vervreemding of de bedrieglijke verplaatsing van alle of een deel van de bestanddelen van een in pand gegeven handelszaak maakt slechts dan het wanbedrijf bedoeld bij artikel 8 van de wet van 25 oktober 1919, gewijzigd bij het koninklijk besluit nr 282 van 30 maart 1936, uit als de handelszaak in de bij deze wet gestelde voorwaarden in pand is gegeven."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1965:ARR.19650528.4": {
+      "court": "CASS",
+      "date": "1965-05-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est dénué d'intérêt le moyen soutenant que la disposition de l'article 10 de la loi du 25 octobre 1919 sur la mise en gage du fonds de commerce, réglant l'opposabilité au créancier de la clause d'interdiction de cession de bail, est applicable en cas de dation en payement du fonds de commerce au créancier gagiste, lorsque la dation en payement est postérieure à la résolution du bail."
+      ],
+      "abstractNL": null
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1999:ARR.19991021.4": {
+      "court": "CASS",
+      "date": "1999-10-21",
+      "roleNumber": "C970249N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le créancier au bénéfice duquel un fonds de commerce a été donné en gage ne dispose pas d'un droit de suite sur les éléments incorporels individuels de ce fonds."
+      ],
+      "abstractNL": [
+        "De schuldeiser ten bate van wie een handelszaak werd in pand gegeven heeft geen volgrecht op individuele, onlichamelijke bestanddelen van de handelszaak."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:1994:ARR.19941216.17": {
+      "court": "CASS",
+      "date": "1994-12-16",
+      "roleNumber": "C940090N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni la loi du 5 mai 1872 ni la loi du 25 octobre 1919 ne s'opposent à ce que l'introduction et l'instruction de la demande tendant au remplacement de la personne désignée pour la vente du fonds de commerce donné en gage aient lieu sur requête unilatérale, conformément aux articles 1025 à 1033 du Code judiciaire : est recevable l'opposition, formée par le curateur du débiteur failli, à l'ordonnance rendue à cet égard et qui prejudicie à ses droits, lorsqu'elle est formée en vertu de l'article 1033 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De wet van 5 mei 1872 noch de wet van 25 oktober 1919 staan eraan in de weg dat de inleiding en behandeling van de vordering tot vervanging van degene die werd aangewezen om een pand gegeven handelszaak te verkopen, gebeurt op eenzijdig verzoekschrift overeenkomstig de artt. 1025 tot 1033 Ger. W.; rechtsgeldig is het verzet dat de curator van de failliete schuldenaar op grond van art. 1033 Ger. W. doet tegen de desaangaande gegeven beschikking die zijn rechten benadeelt. (Artt. 4 en 5 wet 5 mei 1872, 12 wet 25 okt. 1919)."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:2006:ARR.20061020.1": {
+      "court": "CASS",
+      "date": "2006-10-20",
+      "roleNumber": "C050347N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'application de la disposition qui prescrit que toute créance née d'activités professionnelles, commerciales ou civiles et qu'il est d'usage de constater par une facture peut être cédée ou donnée en gage par endossement de cette facture ou d'une copie certifiée conforme de celle-ci, n'est pas limitée aux factures de biens déjà livrées ou prestations déjà fournies."
+      ],
+      "abstractNL": [
+        "De toepassing van de bepaling die voorschrijft dat elke schuldvordering ontstaan uit een beroeps-, handels- of burgerlijke bedrijvigheid en die gewoonlijk door een factuur wordt vastgesteld mag worden afgestaan of in pand gegeven worden door endossement van deze factuur of van een voor eensluidend verklaard afschrift ervan, is niet beperkt tot facturen over goederen die reeds geleverd of prestaties die reeds volbracht zijn."
+      ]
+    }
+  },
   "14": {
     "ECLI:BE:CASS:2022:ARR.20220303.1N.4": {
       "court": "CASS",
@@ -30,6 +438,20 @@
       ],
       "abstractNL": [
         "De nietigheid van het endossement sluit niet uit dat een gemeenrechtelijke overdracht of verpanding van een schuldvordering is tot stand gekomen."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880513.1": {
+      "court": "CASS",
+      "date": "1988-05-13",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La signification de la cession de créance, dont il est question à l'alinéa 2 de l'article 16 de la loi du 25 octobre 1919, est celle qui, conformément à l'alinéa 1er, doit être faite par lettre recommandée à la poste avec accusé de réception et reproduisant expressément le texte de l'alinéa 2."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de overdracht van een schuldvordering, waarvan sprake is in het tweede lid van art. 16 Wet van 25 oktober 1919, is de betekening die volgens het eerste lid moet worden gedaan door middel van een ter post aangetekend schrijven met ontvangstbewijs, waarin de tekst van voormeld tweede lid uitdrukkelijk is weergegeven."
       ]
     }
   },
@@ -154,6 +576,184 @@
       ],
       "abstractNL": [
         "De schuldvorderingen, waarden en speciën maken meestal geen deel uit van het handelsfonds. Door een bijzondere bepaling mag nochtans van deze regel afgeweken worden. Het handelsfonds bezit geen rechtspersoonlijkheid en dus ook geen afzonderlijk patrimonium. Hoewel al de goederen van het handelsfonds tot het patrimonium van de handelaar behoren, kan deze zekere elementen van dit patrimonium in de handelszaak begrijpen. Het voegen bij het handelsfonds van de schuldvorderingen impliceert niet dat het volledig passief eveneens in het handelsfonds zou begrepen zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851011.4": {
+      "court": "CASS",
+      "date": "1985-10-11",
+      "roleNumber": "4702",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Un fonds de commerce ne peut être mis en gage, conformément aux conditions prévues par la loi du 25 octobre 1919, que par son propriétaire."
+      ],
+      "abstractNL": [
+        "Een handelszaak kan onder de bij de wet 25 oktober 1919 bepaalde voorwaarden alleen door de eigenaar ervan in pand gegeven worden."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700611.1": {
+      "court": "CASS",
+      "date": "1970-06-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La cause qui a été renvoyée, en matière civile, devant une cour d'appel, par un arrêt de cassation prononcé avant l'entrée en vigueur de l'article 1110 du Code judiciaire, doit, même après cette entrée en vigueur, être jugée par deux chambres réunies. ( Loi du 4 août 1832, art. 22; loi du 18 juin 1869, art. 85; loi du 25 octobre 1919, art. unique, XI. )"
+      ],
+      "abstractNL": [
+        "De zaak die, in een burgerlijke aangelegenheid, naar een hof van beroep is verwezen door een cassatiearrest vóór de inwerkingtreding van artikel 1110 van het Gerechtelijk Wetboek, moet, zelfs na deze inwerkingtreding, door twee verenigde kamers worden beslecht. ( Wet van 4 augustus 1832, art. 22; wet van 18 juni 1869, art. 85; wet van 25 oktober 1919, enig artikel, XI. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700312.3": {
+      "court": "CASS",
+      "date": "1970-03-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, aucun tribunal de commerce n'étant établi dans un arrondissement, le tribunal de première instance y exerce la juridiction commerciale, il juge sans l'assistance du ministère public, même si la chambre est composée d'un juge unique. ( Loi du 18 juin 1869, art. 33; loi du 25 octobre 1919, art. unique. )"
+      ],
+      "abstractNL": [
+        "Wanneer er in het arrondissement geen rechtbank van koophandel is gevestigd, oefent de rechtbank van eerste aanleg de rechtsmacht in handelszaken uit; zij vonnist zonder de bijstand van het openbaar ministerie, zelfs indien de kamer slechts uit één rechter bestaat. ( Wet van 18 juni 1869, art. 33; wet van 25 oktober 1919, enig artikel. )"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691103.7": {
+      "court": "CASS",
+      "date": "1969-11-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, la requête en inscription de faux relative à un moyen invoqué à l'appui d'un pourvoi lorsqu'un autre moyen est de nature à entraîner une cassation aussi étendue que celle à laquelle tend le premier moyen."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk, wegens gemis aan belang, is het verzoekschrift tot betichting van valsheid betreffende een tot staving van een voorziening aangevoerd middel indien een ander middel tot een even ruime vernietiging kan leiden als die waartoe het eerste middel strekt."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000119.23": {
+      "court": "CASS",
+      "date": "2000-01-19",
+      "roleNumber": "P981182F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article unique, § XV, de la loi du 25 octobre 1919 modifiant temporairement l'organisation judiciaire et la procédure devant les cours et tribunaux ne viole pas les articles 10 et 11 de la Constitution en ce qu'il dispose que les attributions de la chambre du conseil du tribunal de première instance en matière répressive sont dévolues à une chambre d'un juge, ces attributions comprenant celle d'ordonner l'internement du chef d'un fait qualifié crime ou délit notamment contre l'ordre des familles ou contre la moralité publique."
+      ],
+      "abstractNL": [
+        "Het enige artikel, § XV, W. 25 oktober 1919 schendt de artt. 10 en 11 Gw. niet, in zoverre het bepaalt dat de bevoegdheden van de raadkamer van de rechtbank van eerste aanleg in strafzaken worden opgedragen aan een kamer met één rechter, inclusief de bevoegdheid om de internering te bevelen wegens een als misdaad of wanbedrijf omschreven feit, inz. een misdrijf tegen de orde der familie en tegen de openbare zedelijkheid."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991021.4": {
+      "court": "CASS",
+      "date": "1999-10-21",
+      "roleNumber": "C970249N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le créancier au bénéfice duquel un fonds de commerce a été donné en gage ne dispose pas d'un droit de suite sur les éléments incorporels individuels de ce fonds."
+      ],
+      "abstractNL": [
+        "De schuldeiser ten bate van wie een handelszaak werd in pand gegeven heeft geen volgrecht op individuele, onlichamelijke bestanddelen van de handelszaak."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990608.3": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P980903N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation appelée à statuer sur le règlement de la procédure, doit répondre à une demande de la partie civile tendant à faire ordonner une instruction complémentaire."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling die uitspraak moet doen over de regeling van de procedure moet een verzoek van de burgerlijke partij om een aanvullend onderzoek te bevelen beantwoorden."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950503.11": {
+      "court": "CASS",
+      "date": "1995-05-03",
+      "roleNumber": "P941431F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/03/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La chambre du conseil et la chambre des mises en accusation, réglant la procédure, répondent aux conclusions qui contestent ou affirment l'existence en fait de charges par la seule constatation qu'il en existe ou qu'il n'en existe pas; toutefois le pouvoir souverain d'appréciation, reconnu à la juridiction d'instruction, ne l'exonère pas de l'obligation de rencontrer des conclusions qui soutiennent que le fait imputé constitue ou non une infraction punissable."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer en de kamer van inbeschuldigingstelling de procedure regelen, antwoorden zij op de conclusie, waarin het feitelijk bestaan van bezwaren betwist of bevestigd wordt, door de enkele vaststelling dat die bezwaren voorhanden of niet voorhanden zijn; de onaantastbare beoordelingsbevoegdheid waarover het onderzoeksgerecht beschikt ontslaat dat gerecht evenwel niet van de verplichting te antwoorden op een conclusie ten betoge dat het ten laste gelegde feit al dan niet strafbaar is."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941216.17": {
+      "court": "CASS",
+      "date": "1994-12-16",
+      "roleNumber": "C940090N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ni la loi du 5 mai 1872 ni la loi du 25 octobre 1919 ne s'opposent à ce que l'introduction et l'instruction de la demande tendant au remplacement de la personne désignée pour la vente du fonds de commerce donné en gage aient lieu sur requête unilatérale, conformément aux articles 1025 à 1033 du Code judiciaire : est recevable l'opposition, formée par le curateur du débiteur failli, à l'ordonnance rendue à cet égard et qui prejudicie à ses droits, lorsqu'elle est formée en vertu de l'article 1033 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De wet van 5 mei 1872 noch de wet van 25 oktober 1919 staan eraan in de weg dat de inleiding en behandeling van de vordering tot vervanging van degene die werd aangewezen om een pand gegeven handelszaak te verkopen, gebeurt op eenzijdig verzoekschrift overeenkomstig de artt. 1025 tot 1033 Ger. W.; rechtsgeldig is het verzet dat de curator van de failliete schuldenaar op grond van art. 1033 Ger. W. doet tegen de desaangaande gegeven beschikking die zijn rechten benadeelt. (Artt. 4 en 5 wet 5 mei 1872, 12 wet 25 okt. 1919)."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850522.18": {
+      "court": "CASS",
+      "date": "1985-05-22",
+      "roleNumber": "4169",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/22/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en violation de l'article unique, alinéa XV, de la loi du 25 octobre 1919, l'inculpé et son conseil n'ont pu prendre connaissance du dossier avant l'ordonnance de renvoi prononcée par la chambre du conseil, cette ordonnance est nulle, ainsi que la procédure et les décisions de condamnation subséquentes."
+      ],
+      "abstractNL": [
+        "Wanneer de verdachte en diens raadsman in strijd met het enig artikel, alinéa XV, van de wet van 25 okt. 1919 geen inzage hebben kunnen nemen van de stukken van het dossier vóór de door de raadkamer gewezen beschikking tot verwijzing, dan is die beschikking nietig evenals de rechtspleging en de daaropvolgende veroordelende beslissingen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831214.11": {
+      "court": "CASS",
+      "date": "1983-12-14",
+      "roleNumber": "3081",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Répond aux conclusions de l'inculpé qui n'opposent ni déclinatoire de compétence de la juridiction d'instruction ni exception et ne soutiennent pas que les faits imputés, fussent-ils constants, ne constituent pas des infractions punissables, la juridiction d'instruction qui constate qu'il existe des charges suffisantes pour renvoyer l'inculpé au tribunal correctionnel du chef des infractions mises à sa charge. ( Loi du 25 octobre 1919, article unique, paragraphe XV; loi du 22 juillet 1927, art. 1er; loi du 19 août 1920. )"
+      ],
+      "abstractNL": [
+        "De conclusie van de verdachte waarin noch de onbevoegdheid van het onderzoeksgerecht wordt aangevoerd noch een exceptie wordt opgeworpen en waarin evenmin wordt betoogd dat de ten laste gelegde feiten, zelfs al waren, ze bewezen, geen strafbare misdrijven opleveren, wordt genoegzaam naar recht beantwoord door het onderzoeksgerecht dat vaststelt dat er voldoende bezwaren bestaan om de verdachte naar de correctionele rechtbank te verwijzen wegens de hem ten laste gelegde misdrijven. ( Enig art., alinéa XV, wet van 25 oktober 1919; art. 1 wet van 22 juli 1927; wet van 19 augustus 1920. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801223.12": {
+      "court": "CASS",
+      "date": "1980-12-23",
+      "roleNumber": "6356",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/23/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1970:ARR.19701106.1": {
+      "court": "CASS",
+      "date": "1970-11-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si les espèces, valeurs et créances ne font généralement pas partie du fonds de commerce, elles peuvent cependant, par une clause de l'acte, être comprises dans le fonds donné en gage, l'énumération, par l'article 2 de la loi du 26 octobre 1919, des éléments qui composent le fonds n'étant pas limitative."
+      ],
+      "abstractNL": [
+        "Indien de speciën, waardepapieren en schuldvorderingen over het algemeen geen deel uitmaken van de handelszaak, kunnen zij nochtans, door middel van een beding, begrepen zijn in de in pand gegeven handelszaak, aangezien de in artikel 2 van de wet van 25 oktober 1919 gegeven opsomming niet beperkend is."
       ]
     }
   }

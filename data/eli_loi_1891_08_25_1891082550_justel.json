@@ -13,6 +13,64 @@
       "abstractNL": [
         "De artikelen 4 en 5 Vervoerwet gelden ook ten aanzien van personenvervoer in openbare dienst (1). (1) Zie de concl. van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660909.2": {
+      "court": "CASS",
+      "date": "1966-09-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La cause étrangère, dont l'article 4 de la loi du 25 août 1891 impose la preuve au transporteur, pour écarter la présomption de faute pesant sur lui en cas d'avarie ou de perte des marchandises, comprend non seulement les cas fortuits ou de force majeure, mais aussi le fait soit d'un tiers, soit de l'expéditeur ou du destinataire."
+      ],
+      "abstractNL": [
+        "De vreemde oorzaak waarvan artikel 4 van de wet van 25 augustus 1891 het bewijs aan de vervoerder oplegt om het vermoeden van schuld ter zijde te stellen dat op hem weegt in geval van averij of van verlies van de goederen, omvat niet alleen de gevallen van toeval of van overmacht, maar tevens de daad hetzij van een derde, hetzij van de afzender of van de geadresseerde."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950105.8": {
+      "court": "CASS",
+      "date": "1995-01-05",
+      "roleNumber": "C940002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La présomption de responsabilité pesant sur le transporteur ferroviaire (chemin de fer) pour les accidents survenus aux voyageurs, n'implique pas que les déclarations du transporteur ou de ses préposés et agents ne puissent être prises en considération pour apprécier l'existence d'une cause étrangère invoquée par le transporteur pour s'exonérer de sa responsabilité."
+      ],
+      "abstractNL": [
+        "Het op de spoorwegvervoerder rustend vermoeden van aansprakelijkheid voor de aan reizigers overkomen ongevallen, houdt niet in dat de verklaringen van de vervoerder of van zijn aangestelden of beambten niet in aanmerking kunnen komen bij de beoordeling van het bestaan van een door de vervoerder aangevoerde vreemde oorzaak waardoor hij van aansprakelijkheid wordt vrijgesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761126.7": {
+      "court": "CASS",
+      "date": "1976-11-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/11/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qui, après avoir constaté qu'un incendie s'est déclaré au cours du transport de bouteilles de gaz, non suffisamment prémunies contre des fuites, au moyen d'un véhicule inadapté et dans des conditions dangereuses, considère que l'incendie est dû à la fois au vice des bouteilles de gaz transportées et aux fuites, qu'elle précise, commises par le voiturier. (1). (Loi du 25 août 1891 sur le contrat de transport, articles 3 et 4; code civil, art. 1147 et 1148.)"
+      ],
+      "abstractNL": [
+        "Wettelijk gerechtvaardigd is de beslissing die, na te hebben vastgesteld dat een ontbranding is ontstaan tijdens het vervoer van gasflessen, welke niet voldoende waren beveiligd tegen gasontsnapping, met een daartoe niet geschikt voertuig en op een gevaarlijke wijze, oordeelt dat de brand te wijten is én aan het gebrek van de vervoerde gasflessen én aan de fouten van de vervoerder welke worden gepreciseerd (1). (artt. 3 en 4 van de wet van 25 augustus 1891 betreffende de vervoerovereenkomst; artt. 1147 en 1148 B.W.)"
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1981:ARR.19810507.2": {
+      "court": "CASS",
+      "date": "1981-05-07",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que le destinataire de marchandises faisant l'objet d'un contrat de transport avait le droit, conformément à l'article 6 de la loi du 25 août 1891, de donner des instructions au préposé du voiturier lors de la livraison et d'exercer sa surveillance sur la bonne exécution de ces instructions sans y ajouter aucune autre constatation impliquant que ce destinataire pouvait aussi donner audit préposé du voiturier des ordres qu'un commettant peut donner à ses préposés, décide légalement qu'il n'existe pas de lien de subordination entre le préposé du voiturier et le destinataire, et que ce dernier n'est pas un commettant au sens de l'article 1384, alinéa 3, du Code civil."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat de geadresseerde van de koopwaar, waarop de vervoerovereenkomst betrekking heeft, ingevolge art. 6 Vervoerwet het recht had onderrichtingen te geven aan de aangestelde van de vervoerder bij de aflevering en toezicht uit te oefenen op de goede uitvoering van die onderrichtingen <3>, en aldus niet vaststelt dat die geadresseerde aan de aangestelde van de vervoerder ook de bevelen kon geven die een meester aan zijn aangestelde kon geven, beslist hij wettig dat er tussen de aangestelde van de vervoerder en de geadresseerde geen gezagsverhouding bestaat en dat laatstbedoelde geen meester is, in de zin van art. 1384, derde lid, B.W."
+      ]
     }
   },
   "9": {
@@ -43,6 +101,118 @@
       ],
       "abstractNL": [
         "Uit de samenhang van artikel 9 Vervoerwet en de artikelen 2260 en 2261 Burgerlijk Wetboek en een grondwetconforme interpretatie van deze bepalingen, volgt dat de dag waarop het feit zich heeft voorgedaan dat tot de rechtsvordering aanleiding geeft en die de verjaringstermijn doet lopen, niet in die termijn begrepen is, maar wel de laatste dag van de termijn (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20031204.5": {
+      "court": "CASS",
+      "date": "2003-12-04",
+      "roleNumber": "C020170N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/12/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de six mois prévu en matière de transport intérieur à l'article 9, alinéa 1er, de la loi du 25 août 1891 portant révision du titre du Code de commerce concernant les contrats de transport, est applicable à toutes les actions qui dérivent du contrat de transport de choses, même si ces actions portent sur des obligations accessoires à l'exécution du transport (1). (1) Voir Cass., 7 janvier 2000, RG C.96.0179.N, n° 13."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van zes maanden inzake binnenlands vervoer, zoals bepaald in artikel 9, eerste lid, van de Wet van 25 augustus 1891 op de vervoersovereenkomst, geldt voor alle rechtsvorderingen die uit de overeenkomst van goederenvervoer voortvloeien, ook al hebben die vorderingen betrekking op verbintenissen die accessoir zijn aan de uitvoering van het vervoer (1). (1) Zie Cass., 7 jan. 2000, AR C.96.0179.N, nr 13."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011108.3": {
+      "court": "CASS",
+      "date": "2001-11-08",
+      "roleNumber": "C980354N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'action récursoire peut aussi être introduite après l'expiration du délai de prescription prévu pour l'action découlant d'un transport intérieur qui est de six mois à partir du jour où le transport aurait dû avoir lieu ou à partir du jour de la remise de la marchandise, à la condition qu'elle soit introduite dans le délai d'un mois suivant la citation donnant lieu au recours (1)."
+      ],
+      "abstractNL": [
+        "De regresvordering kan ook worden ingesteld na verloop van de termijn van verjaring van de vordering die voortvloeit ui een binnenlands vervoer, die zes maanden bedraagt en loopt vanaf de dag waarop het vervoer moest geschieden of vanaf de dag van de afgifte van de goederen, op voorwaarde dat ze wordt ingesteld binnen de termijn van een maand te rekenen van de dagvaarding die tot het regres aanleiding geeft (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720106.12": {
+      "court": "CASS",
+      "date": "1972-01-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/01/06/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le débiteur entend payer sa dette par un chèque, ce n'est pas la remise de ce titre au banquier du créancier qui éteint sa dette, mais la mise à la disposition de ce dernier du montant de sa créance."
+      ],
+      "abstractNL": [
+        "Indien de schuldenaar zijn schuld per cheque wenst te betalen, gaat deze niet teniet door het overhandigen van dit effect aan de schuldeiser, maar door het ter beschikking stellen van de schuldeiser van het bedrag van zijn schuldvordering."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000107.6": {
+      "court": "CASS",
+      "date": "2000-01-07",
+      "roleNumber": "C960179N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de six mois prévu à l'article 9 de la loi du 25 août 1891 est uniquement applicable aux actions dérivant du contrat de transport de biens et non aux contrats qui, bien qu'impliquant le transport de biens, ont essentiellement pour objet des prestations autres que le simple transport."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van zes maanden voorzien bij artikel 9 van de wet van 25 augustus 1891 geldt slechts voor de rechtsvorderingen die ontstaan uit de overeenkomst van goederenvervoer maar niet voor overeenkomsten die weliswaar inhouden dat goederen worden vervoerd maar die hoofdzakelijk andere prestaties tot voorwerp hebben dan het louter vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810410.6": {
+      "court": "CASS",
+      "date": "1981-04-10",
+      "roleNumber": "3008",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/10/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1999:ARR.19990420.14": {
+      "court": "CASS",
+      "date": "1999-04-20",
+      "roleNumber": "P971490N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, conformément au \"Règlement général applicable aux voyageurs et aux personnes présentes dans les installations du chemin de fer\", la SNCB est habilitée, sur la base d'une non-exécution d'une obligation qualifiée d'infraction, à imposer aux voyageurs ou aux personnes présentes dans ses installations l'indemnité forfaitaire fixée dans le Règlement général régulièrement publié, elle peut réclamer cette indemnité devant le juge répressif."
+      ],
+      "abstractNL": [
+        "Wanneer de NMBS, overeenkomstig het \"Algemeen Reglement toepasselijk op de reizigers en de personen aanwezig in de instellingen van de spoorweg\", gemachtigd is om, op grond van een als misdrijf gekwalificeerde wanprestatie, aan reizigers of personen aanwezig in haar instellingen de forfaitaire vergoeding aan te rekenen die bepaald is in het regelmatig bekendgemaakte Algemeen Reglement, kan zij deze vergoeding voor de strafrechter vorderen."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961105.4": {
+      "court": "CASS",
+      "date": "1996-11-05",
+      "roleNumber": "P951122N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le terme \"tarifs\" énoncé à l'article 13 de la loi du 25 août 1891 portant revision du titre de Code de commerce concernant les contrats de transports, remplacé par l'article 165, 2°, de la loi du 21 mars 1991, ne vise pas uniquement les prix de transport applicables, mais également les conditions d'application de ces prix, qui forment un ensemble avec eux."
+      ],
+      "abstractNL": [
+        "De term \"tarieven\" in artikel 13 van de wet van 25 augustus 1891 op de vervoerovereenkomst, zoals het werd vervangen bij artikel 165, 2°, van de wet van 21 maart 1991, betekent niet enkel de toepasselijke vervoerprijzen, maar eveneens de voorwaarden onder dewelke deze vervoerprijzen worden aangerekend en die hiermee één geheel vormen."
+      ]
+    }
+  },
+  "33": {
+    "ECLI:BE:CASS:1967:ARR.19671006.2": {
+      "court": "CASS",
+      "date": "1967-10-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/10/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de six mois, établi pour les actions qui dérivent du contrat de transport, court à partir de la vente lorsque les marchandises transportées, ayant été refusées par le destinataire, ont été vendues publiquement, conformément aux dispositions des articles 8 et 33 de la loi du 25 août 1891, concernant les contrats de transport."
+      ],
+      "abstractNL": [
+        "De zesmaandelijkse verjaringstermijn, vastgesteld voor de vorderingen die uit de vervoerovereenkomst ontstaan, loopt vanaf de verkoop, wanneer de vervoerde goederen, die door de bestemmeling geweigerd werden, in het openbaar verkocht worden overeenkomstig de bepalingen van de artikelen 8 en 33 van de wet van 25 augustus 1891, betreffende de overeenkomsten van vervoer."
       ]
     }
   },
@@ -85,6 +255,86 @@
       "abstractFR": [
         "Lorsqu'aucune faute délictuelle n'a été retenue à charge du transporteur ou de son préposé, l'action en responsabilité, née du contrat de transport de personnes et fondée uniquement sur l'article 4 de la loi du 25 août 1891, se prescrit par un an."
       ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2001:ARR.20011108.3": {
+      "court": "CASS",
+      "date": "2001-11-08",
+      "roleNumber": "C980354N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'action récursoire peut aussi être introduite après l'expiration du délai de prescription prévu pour l'action découlant d'un transport intérieur qui est de six mois à partir du jour où le transport aurait dû avoir lieu ou à partir du jour de la remise de la marchandise, à la condition qu'elle soit introduite dans le délai d'un mois suivant la citation donnant lieu au recours (1)."
+      ],
+      "abstractNL": [
+        "De regresvordering kan ook worden ingesteld na verloop van de termijn van verjaring van de vordering die voortvloeit ui een binnenlands vervoer, die zes maanden bedraagt en loopt vanaf de dag waarop het vervoer moest geschieden of vanaf de dag van de afgifte van de goederen, op voorwaarde dat ze wordt ingesteld binnen de termijn van een maand te rekenen van de dagvaarding die tot het regres aanleiding geeft (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720106.12": {
+      "court": "CASS",
+      "date": "1972-01-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/01/06/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le débiteur entend payer sa dette par un chèque, ce n'est pas la remise de ce titre au banquier du créancier qui éteint sa dette, mais la mise à la disposition de ce dernier du montant de sa créance."
+      ],
+      "abstractNL": [
+        "Indien de schuldenaar zijn schuld per cheque wenst te betalen, gaat deze niet teniet door het overhandigen van dit effect aan de schuldeiser, maar door het ter beschikking stellen van de schuldeiser van het bedrag van zijn schuldvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671006.2": {
+      "court": "CASS",
+      "date": "1967-10-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/10/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de six mois, établi pour les actions qui dérivent du contrat de transport, court à partir de la vente lorsque les marchandises transportées, ayant été refusées par le destinataire, ont été vendues publiquement, conformément aux dispositions des articles 8 et 33 de la loi du 25 août 1891, concernant les contrats de transport."
+      ],
+      "abstractNL": [
+        "De zesmaandelijkse verjaringstermijn, vastgesteld voor de vorderingen die uit de vervoerovereenkomst ontstaan, loopt vanaf de verkoop, wanneer de vervoerde goederen, die door de bestemmeling geweigerd werden, in het openbaar verkocht worden overeenkomstig de bepalingen van de artikelen 8 en 33 van de wet van 25 augustus 1891, betreffende de overeenkomsten van vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000107.6": {
+      "court": "CASS",
+      "date": "2000-01-07",
+      "roleNumber": "C960179N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de six mois prévu à l'article 9 de la loi du 25 août 1891 est uniquement applicable aux actions dérivant du contrat de transport de biens et non aux contrats qui, bien qu'impliquant le transport de biens, ont essentiellement pour objet des prestations autres que le simple transport."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van zes maanden voorzien bij artikel 9 van de wet van 25 augustus 1891 geldt slechts voor de rechtsvorderingen die ontstaan uit de overeenkomst van goederenvervoer maar niet voor overeenkomsten die weliswaar inhouden dat goederen worden vervoerd maar die hoofdzakelijk andere prestaties tot voorwerp hebben dan het louter vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990420.14": {
+      "court": "CASS",
+      "date": "1999-04-20",
+      "roleNumber": "P971490N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, conformément au \"Règlement général applicable aux voyageurs et aux personnes présentes dans les installations du chemin de fer\", la SNCB est habilitée, sur la base d'une non-exécution d'une obligation qualifiée d'infraction, à imposer aux voyageurs ou aux personnes présentes dans ses installations l'indemnité forfaitaire fixée dans le Règlement général régulièrement publié, elle peut réclamer cette indemnité devant le juge répressif."
+      ],
+      "abstractNL": [
+        "Wanneer de NMBS, overeenkomstig het \"Algemeen Reglement toepasselijk op de reizigers en de personen aanwezig in de instellingen van de spoorweg\", gemachtigd is om, op grond van een als misdrijf gekwalificeerde wanprestatie, aan reizigers of personen aanwezig in haar instellingen de forfaitaire vergoeding aan te rekenen die bepaald is in het regelmatig bekendgemaakte Algemeen Reglement, kan zij deze vergoeding voor de strafrechter vorderen."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810410.6": {
+      "court": "CASS",
+      "date": "1981-04-10",
+      "roleNumber": "3008",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/10/sitemap_6.xml"
+      ],
+      "abstractFR": null,
       "abstractNL": null
     }
   }

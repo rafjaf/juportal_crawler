@@ -15,6 +15,52 @@
       ]
     }
   },
+  "21": {
+    "ECLI:BE:CASS:1979:ARR.19790328.13": {
+      "court": "CASS",
+      "date": "1979-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque ni les constatations de la décision attaquée ni les pièces de la procédure auxquelles la Cour peut avoir égard ne permettent à celle-ci de vérifier si l'action publique était ou non prescrite, la Cour casse, avec renvoi, la décision de condamnation. ( Constit., art. 97; loi du 17 avril 1878, art. 21, 22 et 23. )"
+      ],
+      "abstractNL": [
+        "Wanneer het Hof noch uit vaststellingen van de bestreden beslissing noch uit de gedingstukken, waarop het Hof vermag acht te slaan, kan opmaken of de strafvordering al dan niet verjaard was, vernietigt het Hof de veroordelende beslissing, met verwijzing <2>. (Art. 97 Gw.; artt. 21, 22 en 23 wet van 17 april 1878)."
+      ]
+    }
+  },
+  "24": {
+    "ECLI:BE:CASS:2005:ARR.20050607.29": {
+      "court": "CASS",
+      "date": "2005-06-07",
+      "roleNumber": "P040092N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/06/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 33 de la loi-programme du 5 août 2003, qui complète l'article 5.2 de la loi du 16 juillet 2002 modifiant diverses dispositions en vue notamment d'allonger les délais de prescription pour les crimes non correctionnalisables, de telle sorte que l'article 3 de cette dernière loi, qui abroge le régime, instauré par la loi du 11 décembre 1998, de la suspension de la prescription à partir de l'audience introductive, ne s'applique qu'aux infractions commises après le 1er septembre 2003, ne viole pas les articles 10 et 11 de la Constitution."
+      ],
+      "abstractNL": [
+        "Artikel 33 van de programmawet van 5 augustus 2003, dat het artikel 5.2 van de wet van 16 juli 2002 tot wijziging van verschillende bepalingen teneinde inzonderheid de verjaringstermijnen voor de niet correctionaliseerbare misdaden te verlengen, aanvult derwijze dat het artikel 3 van laatstgenoemde wet, dat het stelsel van de wet van 11 december 1998 van schorsing van de verjaring vanaf de inleidende zitting afschaft, alleen op de misdrijven gepleegd nà 1 september 2003 toepasselijk is, schendt de artikelen 10 en 11 van de Grondwet niet."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040330.44": {
+      "court": "CASS",
+      "date": "2004-03-30",
+      "roleNumber": "P040092N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/03/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les causes de suspension de la prescription qui sont prévues par l'article 24, 1°, du Titre préliminaire du Code de procédure pénale, modifié par l'article 3 de la loi du 11 décembre 1998, restent applicables aux infractions commises au plus tard le 1er septembre 2003 (1). (1) Voir Cass., 9 octobre 2001, RG P.00.0106.N, n° 537."
+      ],
+      "abstractNL": [
+        "Zijn onverminderd van toepassing voor de misdrijven gepleegd ten laatste op 1 september 2003, de schorsingsgronden van de verjaring, die bepaald zijn bij artikel 24, 1°, Voorafgaande Titel Sv. zoals gewijzigd door artikel 3 van de wet van 11 december 1998 (1). (1) Zie Cass., 9 okt. 2001, AR P.00.0106.N, nr 537."
+      ]
+    }
+  },
   "32": {
     "ECLI:BE:CASS:2015:ARR.20150304.2": {
       "court": "CASS",

@@ -14,5 +14,37 @@
         "De in artikel 44 Dopingdecreet bepaalde verschoningsgrond kan niet worden toegepast op misdrijven strafbaar gesteld in de Drugwet; hieruit volgt dat het bezit van verboden substanties, als bedoeld in de Drugwet, door een sportbeoefenaar tijdens of bij de voorbereiding van een sportmanifestatie, steeds krachtens die wet strafbaar blijft (1). (1) Zie Cass., 26 juni 2007, AR P.07.0521.N, A.C., 2007, nr. ..., Gw. H., nr. 62/2008 van 10 april 2008, B.S. 18 juni 2008, 31414."
       ]
     }
+  },
+  "7": {
+    "ECLI:BE:CASS:2002:ARR.20020115.7": {
+      "court": "CASS",
+      "date": "2002-01-15",
+      "roleNumber": "P000806N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/01/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un vétérinaire fournit des médicaments en vue de l'utilisation chez des animaux de substances à action hormonale et anti-hormonale, sans que ces médicaments soient enregistrés ou aient été achetés en pharmacie, celui-ci n'agit pas dans les limites de ses fonctions légales et n'est pas exempté de l'autorisation générale ministérielle requise."
+      ],
+      "abstractNL": [
+        "Wanneer een dierenarts geneesmiddelen verschaft teneinde gebruik bij dieren van stoffen met hormonale en anti-hormonale werking zonder dat deze geneesmiddelen geregistreerd zijn en zonder dat zij bij een apotheker worden aangekocht, handelt hij niet binnen de perken van zijn wettelijke bevoegdheid en geniet hij geen vrijstelling van de vereiste ministeriële algemene vergunning."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010206.9": {
+      "court": "CASS",
+      "date": "2001-02-06",
+      "roleNumber": "P990777N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques ne stipulant pas de restriction quant aux substances qui présentent un intérêt pour la santé publique et l'arrêté royal du 12 avril 1974 relatif à certaines opérations concernant les substances à action hormonale, antihormonale, anabolisante, bêta-adrénergique, anti-infectieuse, antiparasitaire et anti-inflammatoire renvoyant aux dispositions pénales de cette loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, cette réglementation, en tant que ledit arrêté royal règle l'utilisation de certaines substances pour les animaux, est également prise dans l'intérêt de la santé publique."
+      ],
+      "abstractNL": [
+        "Nu de in art. 1 Drugwet gedane opsomming geen beperking inhoudt wat de stoffen en middelen betreft die voor de openbare gezondheid belang vertonen en het KB van 12 april 1974 betreffende sommige verrichtingen in verband met stoffen met hormonale, anti-hormonale, anabole, anti-infectueuze, anti-parasitaire en anti-inflammatoire werking verwijst naar de strafbepalingen van de Drugwet van 24 februari 1921, gebeurt in zoverre dit besluit het gebruik van bepaalde middelen en stoffen bij dieren regelt, eveneens in het belang van de openbare gezondheid."
+      ]
+    }
   }
 }

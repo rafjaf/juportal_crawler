@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1976:ARR.19761013.3": {
+      "court": "CASS",
+      "date": "1976-10-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui a déja suivi avec fruit au moins durant deux années l'enseignement de promotion sociale a le droit de s'absenter du travail annuellement pendant un nombre d'heures total égal au nombre d'heures de cours que comporte le programme des cours que suit le travailleur, quels que soient la réglementation et les usages en vigueur dans les établissements dispensant l'enseignement de promotion sociale et l'horaire de ceux-ci. (Loi du 10 avril 1973 accordant des crédits d'heures aux travailleurs en vue de leur promotion sociale, article 3, par. 1er.)"
+      ],
+      "abstractNL": [
+        "De werknemer die tenminste reeds twee jaar met vrucht het onderwijs voor sociale promotie heeft gevolg heeft het recht om op het werk afwezig te zijn gedurende een aantal uren dat overeenstemt met het aantal cursusuren dat het door hem gevolgde cursusjaar omvat, ongeacht de reglementering en de gebruiken in de inrichtingen waar het onderwijs voor sociale promotie wordt gegeven, de structuur van de programma's en hun uurrooster. ( Art. 3, par. 1, wet van 10 april 1973 waarbij aan de werknemers kredieturen worden toegekend met het oog op hun sociale promotie. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1976:ARR.19761013.2": {
       "court": "CASS",

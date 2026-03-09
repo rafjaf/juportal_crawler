@@ -46,6 +46,20 @@
         "De wetgever voert, door de aangifte van de verantwoordelijke voor de verwerking, enerzijds een a priori toezicht in ten voordele van de Commissie voor de bescherming van de persoonlijke levenssfeer, zodat die commissie zich ervan kan vergewissen of de aangegeven verwerking conform de bij wet bepaalde beginselen is, en legt, anderzijds, aan de verantwoordelijke voor de verwerking de strafrechtelijk bestrafte verplichting op om aan een natuurlijke persoon, die hierom verzoekt, alle inlichtingen te verstrekken die hij krachtens de wet dient te geven.",
         "Alleen wanneer de verantwoordelijke voor de verwerking de inlichtingen, die m.n. betrekking hebben op de categorieën van gegevens en de persoonsgegevens die zijn verwerkt, meedeelt aan de natuurlijke persoon die hierom verzoekt, kwijt hij zich van zijn informatieplicht t.a.v. de betrokkene."
       ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970516.13": {
+      "court": "CASS",
+      "date": "1997-05-16",
+      "roleNumber": "C960114N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/05/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être question d'un fichier au sens de la loi que lorsque la structure logique suivant laquelle l'ensemble des données à caractère personnel est constitué et conservé, rend possible une consultation systématique de celles-ci; même s'il est logiquement structuré, un dossier manuellement constitué, qui ne permet en aucun cas le traitement des données, leur modification, leur effacement ou leur diffusion, ni davantage leur conservation permanente en vue d'une consultation systématique, ne constitue pas un fichier."
+      ],
+      "abstractNL": [
+        "Er is slechts sprake van een bestand in de zin van de wet, als door de logisch gestructureerde wijze waarop een geheel van persoonsgegevens wordt samengesteld en bewaard, een systematische raadpleging ervan mogelijk is; een manueel aangelegd dossier, ook al is het mogelijks logisch gestructureerd, dat in genendele toelaat de gegevens te verwerken, te wijzigen, uit te wissen of te verspreiden, noch op een duurzame wijze te bewaren met het oog op een systematische raadpleging ervan, is geen bestand."
+      ]
     }
   },
   "3": {
@@ -111,6 +125,36 @@
       ],
       "abstractNL": [
         "Wanneer de verwerking van persoonsgegevens die bij architecten n.a.v. de visumaanvragen zijn verzameld, een welbepaald, uitdrukkelijk omschreven en gerechtvaardigd doel beoogt, namelijk de naleving van de beroepsplichten, is de verwerking van die gegevens voor een tuchtonderzoek geoorloofd."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100317.7": {
+      "court": "CASS",
+      "date": "2010-03-17",
+      "roleNumber": "P.09.1691.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "De la seule circonstance qu'une caméra de surveillance, installée visiblement sur la voie publique, permette de réunir des éléments de preuve des infractions qui s'y commettent, il ne saurait se déduire une ingérence dans l'exercice du droit au respect de la vie privée (1). (1) Au moment des faits de la cause, soit avant la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance, aucune disposition légale ne réglementait l'usage d'une telle caméra installée dans un lieu public. Voir toutefois Gand, 28 mars 2002, N.J.W., 2003, p. 819; et J.-P. MASSON, \"Le droit à l'image\", in Les droits de la personnalité, Actes du Xème colloque de l'association Famille & Droit, Bruylant, 2009, p. 240."
+      ],
+      "abstractNL": [
+        "Uit het feit alleen dat een bewakingscamera, die zichtbaar op de openbare weg is opgesteld, het mogelijk maakt bewijsmateriaal te vergaren van de daar gepleegde misdrijven, kan geen miskenning van het recht op eerbiediging van het privéleven worden afgeleid (1). (1) Op het ogenblik van de feiten van de zaak, dus vóór de wet van 21 maart 2007 tot regeling en het gebruik van bewakingscamera's, regelde geen enkele wettelijke bepaling het gebruik van dergelijke camera's op een openbare plaats. Zie evenwel Gent, 28 maart 2002, N.J.W., 2003, p. 819 en J.-P. MASSON, \"Le droit à l'image\", in Les droits de la personnalité, Actes du Xème colloque de l'association Famille & Droit, Bruylant, 2009, p. 240."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2001:ARR.20010131.9": {
+      "court": "CASS",
+      "date": "2001-01-31",
+      "roleNumber": "P001540F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/31/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel n'interdit pas la conservation par un expert judiciaire de données relatives à des profils génétiques qu'il a été chargé d'analyser (1)."
+      ],
+      "abstractNL": [
+        "De W. 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens verbiedt de gerechtsdeskundige niet de genetische profielen die hij gelast werd te analyseren, te bewaren (1)."
       ]
     }
   },
@@ -225,6 +269,20 @@
       ],
       "abstractNL": [
         "De omstandigheid dat een bewijselement is verkregen met miskenning van het recht op het privéleven, gewaarborgd door artikel 8 EVRM, heeft niet noodzakelijkerwijs een miskenning van het recht op een eerlijk proces tot gevolg (1); de rechter moet in het licht van de gehele procedure beoordelen of de inbreuk op het privéleven een dergelijke miskenning tot gevolg heeft gehad (2). (1) Zie Cass. 20 februari 2018, AR P.17.0882.N, AC 2018, nr. 109 ; Cass. 19 april 2016, AR P.15.1639.N, AC 2016, nr. 265, § 6, met concl. advocaat-generaal met opdracht Winants; Wet 14 juni 2017 tot wijziging van artikel 36bis van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens, BS 28 juni 2017. De voormelde wet van 8 december 1992 is opgeheven door artikel 280, eerste lid, Wet 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, BS 5 september 2018. (2) Zie Cass. 28 februari 2017, AR P.16.0261.N, AC 2017, nr. 139, § 14."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970516.13": {
+      "court": "CASS",
+      "date": "1997-05-16",
+      "roleNumber": "C960114N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/05/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être question d'un fichier au sens de la loi que lorsque la structure logique suivant laquelle l'ensemble des données à caractère personnel est constitué et conservé, rend possible une consultation systématique de celles-ci; même s'il est logiquement structuré, un dossier manuellement constitué, qui ne permet en aucun cas le traitement des données, leur modification, leur effacement ou leur diffusion, ni davantage leur conservation permanente en vue d'une consultation systématique, ne constitue pas un fichier."
+      ],
+      "abstractNL": [
+        "Er is slechts sprake van een bestand in de zin van de wet, als door de logisch gestructureerde wijze waarop een geheel van persoonsgegevens wordt samengesteld en bewaard, een systematische raadpleging ervan mogelijk is; een manueel aangelegd dossier, ook al is het mogelijks logisch gestructureerd, dat in genendele toelaat de gegevens te verwerken, te wijzigen, uit te wissen of te verspreiden, noch op een duurzame wijze te bewaren met het oog op een systematische raadpleging ervan, is geen bestand."
       ]
     }
   }

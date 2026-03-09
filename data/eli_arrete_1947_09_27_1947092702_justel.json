@@ -1,4 +1,82 @@
 {
+  "192": {
+    "ECLI:BE:CASS:1990:ARR.19901026.12": {
+      "court": "CASS",
+      "date": "1990-10-26",
+      "roleNumber": "6744",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qu'est sans faute celui qui entreprend des travaux de terrassement, de pavage ou autres dans le voisinage d'un câble électrique souterrain sans consultation préalable du propriétaire du sous-sol ou du câble et sans localisation préalable, lorsqu'il est établi que des plans ont été communiqués et que rien n'indiquait ou laissait supposer la présence du câble. ( Règlement général sur les installations électriques, approuvé par A.R. du 10 mars 1981, art. 192.02; Règlement général pour la protection du travail, art. 260bis. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij degene die grondwerken, bestratingswerken of andere werken in de nabijheid van een ondergrondse elektrische kabel uitvoert zonder voorafgaande raadpleging van de eigenaar van de ondergrond of van de kabel en zonder voorafgaande lokalisering van de kabel vrij van schuld wordt verklaard, is naar recht verantwoord wanneer bewezen is dat plannen medegedeeld werden en dat geen enkel gegeven op de aanwezigheid van de kabel wees of deze liet vermoeden. ( Art. 192.02, Algemeen Reglement op de Elektrische Installaties, goedgekeurd bij K.B. 10 maart 1981; art. 260bis, Algemeen Reglement Arbeidsbescherming. )"
+      ]
+    }
+  },
+  "462": {
+    "ECLI:BE:CASS:1982:ARR.19820525.6": {
+      "court": "CASS",
+      "date": "1982-05-25",
+      "roleNumber": "7121",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 462.1.3 du règlement général pour la protection du travail, approuvé par les arrêtés du Régent des 11 février 1946 et 27 septembre 1947, qui autorise une dérogation aux prescriptions de sécurité des articles 434.7.1, 434.9.1 et 457 du même règlement, ne s'applique qu'aux travaux de construction et d'entretien \"sur ou à partir\" de toits de toute mesure ou de leurs éléments constitutifs, à l'exclusion de travaux d'entretien effectués à une charpente. (Règlement général pour la protection du travail, art. 434.7.1, 434.9.1, 457 et 462.1.1. et 3; arrêté royal du 10 juin 1952 et arrêté royal du 28 décembre 1976)."
+      ],
+      "abstractNL": [
+        "Art. 462.1.3 Algemeen Reglement voor de Arbeidsbescherming, goedgekeurd bij de Regentsbesluiten van 11 feb. 1946 en 27 sept. 1947, dat in de gevallen die het bepaalt, afwijking toelaat van de veiligheidsvoorschriften van de artt. 434.7.1, 434.9.1 en 457 van hetzelfde reglement, is enkel toepasselijk op de bouw- en onderhoudswerkzaamheden \"op of vanop\" daken van elke aard of samenstellende onderdelen ervan, buiten de onderhoudswerken aan een dakgebinte. (Algemeen Reglement voor de Arbeidsbescherming, artt. 434.7.1, 434.9.1, 457 en 462.1.1 en 3, KB van 10 juni 1952 en KB van 28-12-1976.)"
+      ]
+    }
+  },
+  "832": {
+    "ECLI:BE:CASS:1974:ARR.19740227.4": {
+      "court": "CASS",
+      "date": "1974-02-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge n'est pas tenu de répondre à un moyen énoncé dans des conclusions, lorsque ce moyen est devenu sans objet en raison de la solution qu'il a donnée au litige."
+      ],
+      "abstractNL": [
+        "De rechter is niet verplicht te antwoorden op een bij conclusie voorgedragen middel, wanneer dit middel geen reden van bestaan meer heeft wegens de oplossing welke door de rechter aan het geschil is gegeven."
+      ]
+    }
+  },
+  "835": {
+    "ECLI:BE:CASS:1993:ARR.19930921.12": {
+      "court": "CASS",
+      "date": "1993-09-21",
+      "roleNumber": "6311",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le chef du service de sécurité, d'hygiène et d'embellissement des travaux n'occupe pas de fonction dirigeante au sein de l'entreprise (R.G.P.T., art. 833.1.2, 833.1.3 et 835)."
+      ],
+      "abstractNL": [
+        "Het hoofd van de dienst voor veiligheid, gezondheid en verfraaiing van de werkplaatsen heeft geen leidende functie in de onderneming. (Art. 833.1.2, art. 833.1.3 en art. 835 A.R.A.B.)."
+      ]
+    }
+  },
+  "849": {
+    "ECLI:BE:CASS:1974:ARR.19740402.10": {
+      "court": "CASS",
+      "date": "1974-04-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/02/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'exploitant d'un établissement dangereux, insalubre ou incommode est poursuivi pour ne pas avoir observé strictement la condition de l'arrêté d'autorisation de la députation permanente du conseil provincial suivant laquelle les vapeurs et gaz ne peuvent causer d'incommodités, le juge doit apprécier uniquement si l'exploitant a observé cette condition et n'a pas à décider si l'établissement exploité était incommode au sens de la loi."
+      ],
+      "abstractNL": null
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1976:ARR.19760525.8": {
       "court": "CASS",
@@ -24,6 +102,146 @@
       "abstractFR": null,
       "abstractNL": [
         "Mist feitelijke grondslag het middel dat aanvoert dat de bestreden beslissing de bewijskracht van een bepaalde akte miskent, terwijl de beslissing niet op deze akte steunt."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921103.8": {
+      "court": "CASS",
+      "date": "1992-11-03",
+      "roleNumber": "5607",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La règle prévue à l'article 453.15 du Règlement général pour la protection du travail en vigueur avant l'arrêté royal du 2 janvier 1991, qui oblige le travailleur à porter une ceinture ou baudrier de sécurité attaché au plus près du dispositif de suspension de l'engin, ne signifie pas que le travailleur doive être attaché à la cage de montage dans laquelle il se trouve, mais près du crochet de levage avec lequel cette cage est fixée à la grue."
+      ],
+      "abstractNL": [
+        "Het voorschrift van het vóór K.B. van 2 januari 1991 geldende art. 453.15 A.R.A.B., dat de werknemer verplicht een veiligheidsgordel of veiligheidsharnas te dragen dat vastgehecht wordt zo dicht mogelijk bij de ophanginrichting van de inrichting betekent niet dat de werknemer moet vastgehaakt zijn aan de montagekooi waarin hij zich bevindt, doch wel nabij de ophanginrichting waarmee deze kooi is vastgehecht aan de hijskraan."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921005.6": {
+      "court": "CASS",
+      "date": "1992-10-05",
+      "roleNumber": "7917",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/10/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La procédure prévue à l'article 833.2.1 du Règlement général pour la protection du travail, pour écarter de ses fonctions le chef du service de sécurité, d'hygiène et d'embellissement des lieux de travail, ne s'applique qu'à l'égard du chef de service qui a été désigné en vertu de la même procédure."
+      ],
+      "abstractNL": [
+        "De door art. 833.2.1 A.R.A.B. voorgeschreven procedure om een diensthoofd veiligheid uit zijn functie te verwijderen geldt alleen ten aanzien van het diensthoofd dat met naleving van dezelfde procedure is aangewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910123.11": {
+      "court": "CASS",
+      "date": "1991-01-23",
+      "roleNumber": "8456",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/23/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1er, alinéa 1er, alinéa 3 , de la loi du 10 juin 1952, concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, et 28, alinéa 3, du Règlement général pour la protection du travail concernent tous les membres du personnel des services publics, sans distinction entre les travailleurs engagés dans les liens d'un contrat de travail et les agents régis par un statut légal ou réglementaire. ( Arrêtés du Régent des 11 février 1946 et 27 septembre 1947. )"
+      ],
+      "abstractNL": [
+        "De artt. 1, alinéa 1, derde lid, Gezondheid en Veiligheidswet van 10 juni 1952, en 28, derde lid, Algemeen Reglement Arbeidsbescherming gelden voor alle personeelsleden van de openbare diensten, zonder dat een onderscheid hoeft te worden gemaakt tussen de werknemers die tewerkgesteld zijn krachtens een arbeidsovereenkomst, en de beambten die aan een wettelijk of reglementair statuut onderworpen zijn. ( Regentbesluiten van 11 februari 1946 en 27 september 1947. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901003.8": {
+      "court": "CASS",
+      "date": "1990-10-03",
+      "roleNumber": "8377",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'action publique du chef d'une infraction aux dispositions du règlement général pour la protection du travail, approuvé par les arrêtés du Régent des 11 février 1946 et 27 septembre 1947, ou des décisions et arrêtés pris en exécution de ce règlement, ne peut être exercée par les membres de l'auditorat du travail que si le prévenu est un employeur. ( Code judiciaire, art. 155, alinéa 1er, et 583; loi du 30 juin 1971, art. 1er, 23°, 4, 5 et 19. ) Lorsque l'infraction est commise par une société qui est employeur, les membres de l'auditorat du travail exercent l'action publique contre les personnes physiques pénalement responsables pour la société et qui sont poursuivies comme telles."
+      ],
+      "abstractNL": [
+        "De strafvordering wegens overtreding van de bepalingen van het A.R.A.B., goedgekeurd bij de Regentsbesluiten van 11 februari 1946 en 27 september 1947, of van de beslissingen en besluiten ter uitvoering van dat algemeen reglement, kan door de leden van het arbeidsauditoraat enkel worden uitgeoefend als de beklaagde een werkgever is ( Artt. 155, eerste lid, en 583 Gerechtelijk Wetboek; artt. 1, 23°, 4, 5 en 19 Wet Administratieve Geldboeten ); wanneer de overtreding wordt begaan door een vennootschap die de werkgeefster is, dan wordt de strafvordering door de leden van het arbeidsauditoraat ingesteld tegen de natuurlijke personen die voor die vennootschap strafrechtelijk verantwoordelijk zijn en die als dusdanig worden vervolgd."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870206.11": {
+      "court": "CASS",
+      "date": "1987-02-06",
+      "roleNumber": "778",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/06/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Toute extension ou transformation d'un établissement autorisé, lorsqu'elle entraîne l'application d'une nouvelle rubrique de la liste des établissements classés, est soumise aux dispositions des articles 1er à 13 du règlement général pour la protection du travail; une telle extension ou transformation requiert une nouvelle autorisation de l'autorité administrative. ( Règlement général pour la protection du travail, article 14. )"
+      ],
+      "abstractNL": [
+        "Elke uitbreiding of verandering van een vergunninghoudende inrichting, die de toepassing van een nieuwe rubriek op de lijst van de vergunningsplichtige ondernemingen tot gevolg heeft, is aan de bepalingen van artt. 1 tot 13 van het Algemeen Reglement voor de Arbeidsbescherming onderworpen; voor zulke uitbreiding of verandering is derhalve een nieuwe vergunning van de bestuursoverheid vereist. ( Art. 14 Algemeen Reglement Arbeidsbescherming. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840306.14": {
+      "court": "CASS",
+      "date": "1984-03-06",
+      "roleNumber": "8147",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/06/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'action publique du chef d'une infraction aux dispositions du règlement général pour la protection du travail, approuvé par les arrêtés du Régent des 11 février 1946 et 27 septembre 1947, ou des décisions et arrêtés pris en exécution de ce règlement, ne peut être exercée par les membres de l'auditorat du travail que si le prévenu est un employeur. ( Code judic., art. 155, al. 1er et 583 ; loi du 30 juin 1971 relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales, art. 1er, 23°, 4, 5 et 19. ) ; lorsque l'infraction est commise par une société qui est employeur, les membres de l'auditorat du travail exercent l'action publique contre les personnes physiques pénalement responsables pour la société et qui sont poursuivies comme telles."
+      ],
+      "abstractNL": [
+        "De strafvordering wegens overtreding van de bepalingen Algemeen Reglement Arbeidsbescherming, goedgekeurd bij Regentsbesluiten 11 feb. 1946 en 29 sept. 1947, of van de beslissingen en besluiten ter uitvoering van dat algemeen reglement, kan door de leden van het arbeidsauditoraat enkel worden uitgeoefend als de beklaagde een werkgever is. ( Artt. 155, eerste lid, en 583 Ger.W.; artt. 1, 23°, 4, 5 en 19 Wet Administratieve Geldboeten 30 juni 1971. ) Wanneer de overtreding wordt begaan door een vennootschap die de werkgeefster is, dan wordt de strafvordering door de leden van het arbeidsauditoraat ingesteld tegen de natuurlijke personen die in naam van de vennootschap worden vervolgd."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800624.12": {
+      "court": "CASS",
+      "date": "1980-06-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/24/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'exploitation des établissements visés à l'article 1er de l'arrêté royal du 17 septembre 1976, qui existaient au moment de l'entrée en vigueur de cet arrêté et qui à cette date n'ont pas fait l'objet d'une réclamation auprès de l'autorité compétente pour statuer sur les demandes d'autorisation ou auprès du Ministre qui a la santé publique dans ses attributions, ne peut être continuée sans autorisation préalable que si toutes les conditions fixées par l'article 3 de l'arrêté royal du 6 avril 1977 sont réunies. ( Règlement général pour la protection du travail ( titre Ier, chapitre II, B, no 15(8) ), approuvé par les arrêtés du Régent du 11 février 1946 et du 27 septembre 1947, modifié en dernier lieu par les arrêtés royaux des 17 septembre 1976 et 6 avril 1977, et arrêté royal du 6 avril 1977, article 3. )"
+      ],
+      "abstractNL": [
+        "De exploitatie van de inrichtingen, bedoeld in art. 1 K.B. van 12 september 1976, die bestonden op het ogenblik van de inwerkingtreding van dat besluit en die op die datum niet het voorwerp hebben uitgemaakt van een klacht, bij de overheid die bevoegd is te beslissen omtrent de aanvragen om vergunning of bij de minister die de Volksgezondheid in zijn bevoegdheid heeft, slechts worden voortgezet zonder voorafgaande vergunning, als alle voorwaarden van art. 3 K.B. van 6 april 1977 vervuld zijn. ( Algemeen Reglement Arbeidsbescherming ( titel I, hoofdstuk II, B, nr. 15 (8) ), goedgekeurd bij het Regentsbesluit van 11 februari 1946 en van 27 september 1947, gewijzigd bij K.B. van 17 september en 6 april 1977, en art. 3 K.B. van 6 april 1977. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760309.10": {
+      "court": "CASS",
+      "date": "1976-03-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'exercice de l'action publique du chef d'infraction commise par un employeur aux dispositions du règlement général pour la protection du travail, approuvé par les arrêtés du Régent des 11 février 1946 et 27 septembre 1947, ou des décisions et arrêtés pris en exécution dudit règlement relève, devant les tribunaux de police et les tribunaux correctionnels, de la compétence des membres de l'auditorat du travail et, devant les cours d'appel, de la compétence des membres de l'auditorat général du travail (1). (Code judic., articles 155, al. 1er, et 583; loi du 30 juin 1971 relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales, art. 1er, 23ème, 4, 5 et 19.)"
+      ],
+      "abstractNL": [
+        "De uitoefening van de strafvordering wegens de enkele overtreding, door een werkgever, van de bepalingen van het algemeen reglement voor de arbeidsbescherming, goedgekeurd bij de besluiten van de Regent van 11 februari 1946 en 27 september 1947, of van de beslissingen en besluiten genomen ter uitvoering van dit reglement, behoort voor de politierechtbanken en de correctionele rechtbanken tot de bevoegdheid van de leden van het arbeidsauditoraat en voor de hoven van beroep tot de bevoegdheid van de leden van het arbeidsauditoraat-generaal. (Artt. 155, lid 1, en 583 G.W.; artt. 1, 23., 4, 5, en 19 wet van 30 juni 1971 betreffende de administratieve geldboeten toepasselijk in geval van inbreuk op sommige sociale wetten.)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930921.12": {
+      "court": "CASS",
+      "date": "1993-09-21",
+      "roleNumber": "6311",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le chef du service de sécurité, d'hygiène et d'embellissement des travaux n'occupe pas de fonction dirigeante au sein de l'entreprise (R.G.P.T., art. 833.1.2, 833.1.3 et 835)."
+      ],
+      "abstractNL": [
+        "Het hoofd van de dienst voor veiligheid, gezondheid en verfraaiing van de werkplaatsen heeft geen leidende functie in de onderneming. (Art. 833.1.2, art. 833.1.3 en art. 835 A.R.A.B.)."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901026.12": {
+      "court": "CASS",
+      "date": "1990-10-26",
+      "roleNumber": "6744",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qu'est sans faute celui qui entreprend des travaux de terrassement, de pavage ou autres dans le voisinage d'un câble électrique souterrain sans consultation préalable du propriétaire du sous-sol ou du câble et sans localisation préalable, lorsqu'il est établi que des plans ont été communiqués et que rien n'indiquait ou laissait supposer la présence du câble. ( Règlement général sur les installations électriques, approuvé par A.R. du 10 mars 1981, art. 192.02; Règlement général pour la protection du travail, art. 260bis. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij degene die grondwerken, bestratingswerken of andere werken in de nabijheid van een ondergrondse elektrische kabel uitvoert zonder voorafgaande raadpleging van de eigenaar van de ondergrond of van de kabel en zonder voorafgaande lokalisering van de kabel vrij van schuld wordt verklaard, is naar recht verantwoord wanneer bewezen is dat plannen medegedeeld werden en dat geen enkel gegeven op de aanwezigheid van de kabel wees of deze liet vermoeden. ( Art. 192.02, Algemeen Reglement op de Elektrische Installaties, goedgekeurd bij K.B. 10 maart 1981; art. 260bis, Algemeen Reglement Arbeidsbescherming. )"
       ]
     }
   }

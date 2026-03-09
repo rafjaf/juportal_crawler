@@ -1,4 +1,18 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2008:ARR.20080722.4": {
+      "court": "CASS",
+      "date": "2008-07-22",
+      "roleNumber": "P.08.0965.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/07/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'état mental d'un inculpé est souverainement apprécié par le juge du fond sur la base des éléments produits aux débats (1). (1) Voir Cass., 2 juin 1992, RG 6649, Pas., 1992, I, n° 518."
+      ],
+      "abstractNL": null
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2019:ARR.20190911.3": {
       "court": "CASS",
@@ -12,6 +26,286 @@
       ],
       "abstractNL": [
         "Wanneer het hof van beroep het verzet van de beklaagde regelmatig ongedaan heeft verklaard, zijn de vorderingen in zijn conclusie die strekten tot het toekennen van opschorting van de uitspraak of uitstel niet langer pertinent zodat de appelrechters die niet meer hoefden te beantwoorden en het Hof ze niet meer hoefde te onderzoeken (1). (1) Zie concl. OM in Pas. 2019, nr. 450."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:2009:ARR.20090602.10": {
+      "court": "CASS",
+      "date": "2009-06-02",
+      "roleNumber": "P.09.0586.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les décisions de la Commission et de la Commission Supérieure de Défense Sociale concernant l'exécution des ordonnances d'internement ne sont pas susceptibles d'un pourvoi en cassation, ni d'un appel (1). (1) Voir Cass., 6 septembre 1983, RG 8217, Pas., 1984, n° 7; Cass., 13 septembre 1983, RG 8241, Pas., 1984, n° 23 avec note B.J.B.; Cass., 2 octobre 1984, RG 9113, Pas., 1985, n° 84; Cass., 2 juin 2009, RG P.09.0735.N, Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "Tegen de beslissingen van de commissie en de Hoge Commissie tot bescherming van de maatschappij betreffende de tenuitvoerleggingen van de beschikkingen tot internering staat geen hoger beroep of cassatieberoep open (1). (1) Zie: Cass., 6 sept. 1983, AR 8217, A.C., 1983-1984, nr 7; Cass., 13 sept. 1983, AR 8241, A.C., 1983-1984, nr 23 met noot B.J.B.; Cass., 2 okt. 1984, AR 9113, A.C., 1984-1985, nr 84; Cass., 2 juni 2009, AR P.09.0735.N, A.C., 2009, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090202.12": {
+      "court": "CASS",
+      "date": "2009-02-02",
+      "roleNumber": "P.09.0735.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les décisions de la Commission et de la Commission Supérieure de Défense Sociale ordonnant ou refusant le placement de l'interné dans un établissement privé, ne constituent qu'une modalité d'exécution de l'internement et ne sont, dès lors, pas susceptibles d'un appel, ni d'un pourvoi en cassation (1). (1) Voir Cass., 6 septembre 1983, RG 8217, Pas., 1984, n° 7; Cass., 13 septembre 1983, RG 8241, Pas., 1984, n° 23 avec note B.J.B.; Cass., 2 octobre 1984, RG 9113, Pas., 1985, n° 84; Cass., 2 juin 2009, RG P.09.0586.N, Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "De beslissingen van de commissie en de Hoge Commissie tot Bescherming van de Maatschappij waarbij de plaatsing van de geïnterneerde in een privé-inrichting wordt gelast of geweigerd, maken slechts een uitvoeringsmodaliteit van de internering uit en zijn derhalve niet vatbaar voor hoger beroep of cassatieberoep. (1). (1) Zie: Cass., 6 sept. 1983, AR 8217, A.C., 1983-1984, nr 7; Cass., 13 sept. 1983, AR 8241, A.C., 1983-1984, nr 23 met noot B.J.B.; Cass., 2 okt. 1984, AR 9113, A.C., 1984-1985, nr 84; Cass., 2 juni 2009, AR P.09.0586.N, A.C., 2009, nr ..."
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:2009:ARR.20090602.10": {
+      "court": "CASS",
+      "date": "2009-06-02",
+      "roleNumber": "P.09.0586.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La visite du lieu visée à l'article 18, alinéa 1er, de la loi du 1er juillet 1964 de défense sociale à l'égard des anormaux, des délinquants d'habitude et des auteurs de certains délits sexuels, tend à permettre à la Commission de se tenir informée de l'état de l'interné, et ce en vue d'une éventuelle mise en liberté; cette disposition ne vise point le contrôle quant aux conditions d'enfermement de l'interné."
+      ],
+      "abstractNL": [
+        "Het door artikel 18, eerste lid, Wet Bescherming Maatschappij bedoelde plaatsbezoek beoogt de mogelijkheid voor de commissie om zich te gaan vergewissen van de toestand van de geïnterneerde, zulks met het oog op een eventuele invrijheidstelling; dit heeft niets uitstaande met een controle op de opsluitingomstandigheden van de geïnterneerde."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:2002:ARR.20020618.7": {
+      "court": "CASS",
+      "date": "2002-06-18",
+      "roleNumber": "P020572N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La condamnation prononcée du chef d'une autre infraction à charge d'une personne internée n'empêche pas que la commission de défense sociale et, en degré d'appel, la commission supérieure de défense sociale, ordonne la réintégration et le maintien de la personne concernée dans un établissement qu'elle a désigné, lorsqu'elle constate que les conditions établies légalement pour la réintégration sont remplies, dès lors que cette réintégration ne constitue pas une seconde répression du chef de cette autre infraction, mais représente l'exécution d'une mesure d'internement ordonnée antérieurement (1)."
+      ],
+      "abstractNL": [
+        "De wegens een ander misdrijf uitgesproken veroordeling tegen een geïnterneerde staat eraan niet in de weg dat de commissie tot bescherming van de maatschappij, en in hoger beroep de hoge commissie tot bescherming van de maatschappij, de wederopneming en het behoud van de betrokkene in een door haar aangewezen inrichting beveelt, wanneer ze vaststelt dat de wettelijk opgelegde voorwaarden voor de wederopneming zijn vervuld, nu deze wederopneming geen tweede bestraffing van dit ander misdrijf vormt maar de uitvoering van een voordien bevolen maatregel van internering is (1)."
+      ]
+    }
+  },
+  "24": {
+    "ECLI:BE:CASS:2008:ARR.20080318.2": {
+      "court": "CASS",
+      "date": "2008-03-18",
+      "roleNumber": "P.07.1887.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/03/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision qui ordonne la mise à la disposition du gouvernement d'un récidiviste, dans le cas où cette mesure n'est pas prescrite par la loi, dès lors que les procédures relatives aux infractions qui forment la base de la récidive ne sont pas jointes au dossier de la poursuite (1) (2). (1) Cass., 5 août 1997, RG P.97.0924.N, Pas., 1997, n° 322. (2) Contrairement à la décision de la Cour, le ministère public avait conclu au rejet du pourvoi: selon lui, malgré la jurisprudence antérieure, le texte de l'article 24 de la loi du 1er juillet 1964 de défense sociale à l'égard des anormaux, des délinquants d'habitude et des auteurs de certains délits sexuels permet une lecture impliquant qu'il est nécessaire, mais suffisant, de joindre au dossier de la procédure une copie de la décision antérieure relative à l'infraction à la base de la récidive, avec la mention que cette décision a acquis force de chose jugée."
+      ],
+      "abstractNL": [
+        "Onwettig is de beslissing waarbij de terbeschikkingstelling van de regering wordt bevolen van een beklaagde die zich in staat van herhaling bevindt, ingeval die maatregel niet is voorgeschreven door de wet, wanneer de procedures betreffende de misdrijven die als grondslag van de herhaling gelden, niet bij het dossier van de vervolging zijn gevoegd (1) (2). (1) Cass., 5 aug. 1997, AR P.97.0924.N, A.C., 1997, nr. 322. (2) Anders dan het Hof besliste had het openbaar ministerie geconcludeerd tot verwerping van de voorziening: het was van oordeel dat, spijts de voorgaande rechtspraak, de tekst van artikel 24 Wet Bescherming Maatschappij een lezing toelaat die inhoudt dat het noodzakelijk, maar voldoende is, om bij het dossier van de rechtspleging een afschrift te voegen van de voorgaande beslissing betreffende het misdrijf dat als grond voor de herhaling geldt, met vermelding dat die beslissing kracht van gewijsde heeft."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:2007:ARR.20070102.1": {
+      "court": "CASS",
+      "date": "2007-01-02",
+      "roleNumber": "P061622N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que l'article 25 de la loi de Défense sociale prévoit le placement du condamné mis à la disposition du Gouvernement sous la surveillance du ministre de la Justice qui peut le laisser en liberté sous les conditions qu'il détermine, ou qui peut ordonner son internement, et que l'article 25bis de la même loi détermine les conditions pour l'internement de ce condamné, ne déroge pas au fait que la décision du ministre de la Justice constitue l'exécution de la mesure imposée par le juge pénal (1). (1) Dans le passé, la Cour a décidé à plusieurs reprises que la mise à la disposition du gouvernement constitue une peine, soit explicitement (Cass., 22 juillet 1955, Bull. et Pas., I, 1955, 1270; Cass., 17 juin 1975, Bull. et Pas., 1975, I, 998; Cass., 17 février 1976, Bull. et Pas., 1976, I, 675; Cass., 4 avril 1978, Bull. et Pas., 1978, I, 858), soit implicitement (Cass., 27 mars 1939, Bull. et Pas., 1939, I, 170). Cette jurisprudence a trouvé une ébauche dans un arrêt antérieur (Cass., 11 décembre 1933, Pas., 1934, I, 96, avec la note de L.C.) dans lequel la mise à disposition du gouvernement, à tout le moins concernant les récidivistes et les délinquants d'habitude, était spécifiée comme 'une mesure de sûreté de défense sociale qui participe de la nature des peines, c'est à dire des sanctions ordinaires du droit pénal'. La Cour a considéré alors, ainsi qu'ultérieurement (Cass., 21 décembre 1976, Bull. et Pas., 1977, I, 455), que lorsque le premier juge ne prononçait qu'une peine d'emprisonnement principal, le juge d'appel ne pouvait prononcer accessoirement la mise à disposition du gouvernement qu'à l'unanimité des voix. Implicitement il était admis que la mise à disposition du gouvernement ne constituait pas une peine accessoire mais qu'elle ne représentait qu'une partie de la privation de liberté et qu'elle faisait partie intégrante de la peine d'emprisonnement principal. La cassation de la décision relative à la mise à disposition du gouvernement s'étendait dès lors à toute la peine (Cass. 26 novembre 1974, Bull. et Pas., 1975, I, 334; sous Cass., 21 mars 1989, RG 2894, n° 416, p. 761). En raison de l'illégalité de la mise à disposition du gouvernement prononcée qui 'forme avec la peine prononcée un tout indivisible', un arrêt précédent, ultérieur à l'arrêt qui considérait la mise à la disposition du gouvernement comme une peine, a étendu la cassation à la condamnation entière même si 'le demandeur a, certes, limité son pourvoi à la disposition de l'arrêt qui ordonne cette mesure' (Cass., 5 décembre 1955, Bull. et Pas., 1956, I, 322). La terminologie maniée dans le présent arrêt ne doit dès lors pas illustrer nécessairement une conception modifiée de la nature juridique de la mise à disposition du gouvernement. Par ailleurs, le ministère public qui avait conclu au rejet du pourvoi, ce que la Cour a décidé en l'espèce, avait fait une distinction entre la décision judiciaire prononçant la mise à la disposition du gouvernement, et la décision ministérielle ultérieure d'internement qui concerne l'exécution (consécutive) de cette décision judiciaire. Le ministre exécute une décision judiciaire, pour le délai prononcé et tel que défini par la loi. Les possibilités limitées dont dispose le ministre en la matière ne constituent qu'une décision d'opportunité en fonction de l'objectif visé: l'objectif à atteindre, la défense sociale, peut être réalisé soit par l'isolement du condamné de la société (internement), soit par son intégration surveillée (liberté sous conditions). La décision judiciaire visée ci-dessus relève de la détermination de la peine à laquelle toutes les règles relatives au fait de rendre la justice pénale, sont applicables. La décision ministérielle est d'un autre ordre. (MT)"
+      ],
+      "abstractNL": [
+        "De omstandigheid dat artikel 25 Wet Bescherming Maatschappij de veroordeelde die ter beschikking van de regering is gesteld, onder het toezicht van de minister van Justitie plaatst, die hem in vrijheid kan laten onder de door hem bepaalde voorwaarden, of zijn internering kan gelasten, en dat artikel 25bis van dezelfde wet de voorwaarden bepaalt voor de internering van deze veroordeelde, doet eraan geen afbreuk dat de beslissing van de minister van Justitie de uitvoering is van de door de strafrechter opgelegde maatregel (1). (1) Het Hof heeft in het verleden meermaals geoordeeld dat de terbeschikkingstelling van de regering een straf is, hetzij expliciet (Cass., 22 juli 1955, A.C., 1955, 959; Cass., 17 juni 1975, A.C., 1975, 1103; Cass., 17 feb. 1976, A.C., 1976, 707; Cass., 4 april 1978, A.C., 1978, 884) hetzij impliciet (Cass., 27 maart 1939, A.C., 1939, 116). Deze rechtspraak vond een aanzet in een eerder arrest (Cass., 11 dec. 1933, Pas., 1934, I, 96 met noot L.C.) waar de terbeschikkingstelling van de regering, althans wat recidivisten en gewoontemisdadigers betreft, werd omschreven als \"une mesure de sûreté de défense sociale qui participe de la nature des peines, c'est à dire des sanctions ordinaires du droit pénal\". Het Hof oordeelde toen, en ook later (Cass., 21 dec. 1976, A.C., 1977, 455), dat wanneer de eerste rechter slechts een hoofdgevangenisstraf uitsprak, de appelrechter bijkomend de terbeschikkingstelling van de regering slechts kon uitspreken met eenparigheid van stemmen. Impliciet werd aangenomen dat de terbeschikkingstelling van de regering geen bijkomende straf was maar slechts een deel van de vrijheidsberoving uitmaakte en één geheel vormde met de hoofdgevangenisstraf. De cassatie van de beslissing omtrent de terbeschikkingstelling van de regering strekte zich dan ook uit tot de gehele straf (Cass., 26 nov. 1974, A.C., 1975, 363; Cass., 21 maart 1989, AR 2894, nr 416). Een vroeger arrest, daterend van na het arrest dat de terbeschikkingstelling van de regering een straf noemde, breidde de cassatie omwille van de onwettigheid van de uitgesproken terbeschikkingstelling van de regering die \"met de uitgesproken straf een onsplitsbaar geheel uitmaakt\" uit tot de ganse veroordeling ofschoon \"aanlegger gewis zijn voorziening beperkt heeft tot de bepaling van het arrest waarbij die maatregel gelast wordt\" (Cass., 5 dec. 1955, A.C., 1956, 261). De in het voorliggende arrest gehanteerde terminologie hoeft dus niet per se een illustratie te zijn van een gewijzigde opvatting omtrent de juridische natuur van de terbeschikkingstelling van de regering. Het openbaar ministerie, dat concludeerde tot verwerping van de voorziening en dus in de zin zoals het Hof thans heeft beslist, had trouwens een onderscheid gemaakt tussen de rechterlijke beslissing waarbij de terbeschikkingstelling van de regering wordt uitgesproken, en de latere ministeriële beslissing van internering die de (verdere) uitvoering van die rechterlijke beslissing betreft. De minister voert een rechterlijke beslissing uit, voor de periode dat zij werd uitgesproken en op een wijze door de wet bepaald. De beperkte keuze die de minister hierbij heeft is slechts een opportuniteitsbeslissing in functie van de beoogde finaliteit; het na te streven doel, de bescherming van de maatschappij, kan worden verwezenlijkt hetzij door afzondering van de veroordeelde uit de maatschappij (internering) hetzij door diens gecontroleerde integratie (vrijheid onder voorwaarden). De hoger bedoelde rechterlijke beslissing behoort tot het bepalen van de straf waarop alle regels met betrekking tot het strafrechtspreken van toepassing zijn. De ministeriële beslissing is van een andere orde. (MT)."
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:2008:ARR.20080722.4": {
+      "court": "CASS",
+      "date": "2008-07-22",
+      "roleNumber": "P.08.0965.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/07/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, partant, irrecevable le moyen proposé pour la première fois devant la Cour, pris de ce que le dossier n'aurait pas été tenu à la disposition du conseil de l'inculpé durant quatre jours avant que la chambre des mises en accusation statue sur la demande d'internement dont elle était saisie (1). (1) Voir Cass., 16 février 2000, RG P.99.1826.F, Pas., 2000, I, n° 129. 1"
+      ],
+      "abstractNL": [
+        "Het middel dat voor het eerst voor het Hof wordt voorgedragen en waarin wordt aangevoerd dat het dossier niet gedurende ten minste vier dagen ter beschikking van de raadsman van de inverdenkinggestelde is gesteld vooraleer de kamer van inbeschuldigingstelling uitspraak doet over de vordering tot internering die bij haar aanhangig is gemaakt, is nieuw en derhalve niet ontvankelijk (1). (1) Zie Cass., 16 feb. 2000, AR P.99.1826.F, A.C., 2000, nr 129."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:2011:ARR.20110913.5": {
+      "court": "CASS",
+      "date": "2011-09-13",
+      "roleNumber": "P.11.1471.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le condamné mis à la disposition du gouvernement qui introduit un recours contre la décision du ministre et, en degré d'appel, contre l'ordonnance de la chambre du conseil, et qui est absent à l'audience de la chambre des mises en accusation peut introduire un pourvoi en cassation contre l'arrêt selon le droit commun (solution implicite)."
+      ],
+      "abstractNL": [
+        "De ter beschikking van de regering gestelde veroordeelde die rechtsmiddelen aanwendt tegen de beslissing van de Minister en in hoger beroep tegen de beschikking van de raadkamer afwezig is ter zitting van de kamer van inbeschuldigingstelling kan tegen het arrest cassatieberoep instellen volgens het gemeen recht (impliciete oplossing)."
+      ]
+    }
+  },
+  "25ter": {
+    "ECLI:BE:CASS:2011:ARR.20110913.5": {
+      "court": "CASS",
+      "date": "2011-09-13",
+      "roleNumber": "P.11.1471.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le condamné mis à la disposition du gouvernement qui introduit un recours contre la décision du ministre et, en degré d'appel, contre l'ordonnance de la chambre du conseil, et qui est absent à l'audience de la chambre des mises en accusation peut introduire un pourvoi en cassation contre l'arrêt selon le droit commun (solution implicite)."
+      ],
+      "abstractNL": [
+        "De ter beschikking van de regering gestelde veroordeelde die rechtsmiddelen aanwendt tegen de beslissing van de Minister en in hoger beroep tegen de beschikking van de raadkamer afwezig is ter zitting van de kamer van inbeschuldigingstelling kan tegen het arrest cassatieberoep instellen volgens het gemeen recht (impliciete oplossing)."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070102.1": {
+      "court": "CASS",
+      "date": "2007-01-02",
+      "roleNumber": "P061622N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A l'expiration de sa peine privative de liberté, l'internement d'un condamné constitue, par sa nature, une mesure d'urgence, qui est dès lors immédiatement exécutoire, sans que le condamné, qui dispose du droit de s'opposer à son internement devant le juge, ne doive être entendu au préalable."
+      ],
+      "abstractNL": [
+        "De internering van een veroordeelde na afloop van zijn gevangenisstraf is naar zijn aard een dringende maatregel die daarom onmiddellijk uitvoerbaar is, zonder dat de veroordeelde, die over het recht beschikt om tegen zijn internering op te komen bij de rechter, vooraf moet gehoord worden."
+      ]
+    }
+  },
+  "26bis": {
+    "ECLI:BE:CASS:2011:ARR.20110913.5": {
+      "court": "CASS",
+      "date": "2011-09-13",
+      "roleNumber": "P.11.1471.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le condamné mis à la disposition du gouvernement qui introduit un recours contre la décision du ministre et, en degré d'appel, contre l'ordonnance de la chambre du conseil, et qui est absent à l'audience de la chambre des mises en accusation peut introduire un pourvoi en cassation contre l'arrêt selon le droit commun (solution implicite)."
+      ],
+      "abstractNL": [
+        "De ter beschikking van de regering gestelde veroordeelde die rechtsmiddelen aanwendt tegen de beslissing van de Minister en in hoger beroep tegen de beschikking van de raadkamer afwezig is ter zitting van de kamer van inbeschuldigingstelling kan tegen het arrest cassatieberoep instellen volgens het gemeen recht (impliciete oplossing)."
+      ]
+    }
+  },
+  "19ter": {
+    "ECLI:BE:CASS:2010:ARR.20100914.6": {
+      "court": "CASS",
+      "date": "2010-09-14",
+      "roleNumber": "P.10.1368.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/09/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision de la Commission Supérieure de Défense Sociale, rendue sur une demande de détention limitée et de transfert immédiat vers un établissement de sécurité modérée pour l'exécution ultérieure de l'internement, ne constitue pas une décision relative à la mise en liberté définitive de l'interné, mais bien aux modalités d'exécution de l'internement même, de sorte que cette décision n'est pas susceptible d'un pourvoi en cassation (1). (1) Cass., 2 juin 2009, RG P.09.0586.N, Pas., 2009, n° 367."
+      ],
+      "abstractNL": [
+        "De beslissing van de Hoge Commissie tot bescherming van de Maatschappij waarbij uitspraak wordt gedaan over een verzoek tot beperkte detentie en tot onmiddellijke overbrenging naar een medium security-inrichting voor de verdere uitvoering van de internering, is geen beslissing die uitspraak doet over de definitieve invrijheidstelling van de geïnterneerde, maar wel over de uitvoeringsmodaliteiten van de internering zelf, zodat tegen die beslissing geen cassatieberoep open staat (1). (1) Cass., 2 juni 2009, AR P.09.0586.N, A.C., 2009, nr. 367."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090202.12": {
+      "court": "CASS",
+      "date": "2009-02-02",
+      "roleNumber": "P.09.0735.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les décisions de la Commission et de la Commission Supérieure de Défense Sociale ordonnant ou refusant le placement de l'interné dans un établissement privé, ne constituent qu'une modalité d'exécution de l'internement et ne sont, dès lors, pas susceptibles d'un appel, ni d'un pourvoi en cassation (1). (1) Voir Cass., 6 septembre 1983, RG 8217, Pas., 1984, n° 7; Cass., 13 septembre 1983, RG 8241, Pas., 1984, n° 23 avec note B.J.B.; Cass., 2 octobre 1984, RG 9113, Pas., 1985, n° 84; Cass., 2 juin 2009, RG P.09.0586.N, Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "De beslissingen van de commissie en de Hoge Commissie tot Bescherming van de Maatschappij waarbij de plaatsing van de geïnterneerde in een privé-inrichting wordt gelast of geweigerd, maken slechts een uitvoeringsmodaliteit van de internering uit en zijn derhalve niet vatbaar voor hoger beroep of cassatieberoep. (1). (1) Zie: Cass., 6 sept. 1983, AR 8217, A.C., 1983-1984, nr 7; Cass., 13 sept. 1983, AR 8241, A.C., 1983-1984, nr 23 met noot B.J.B.; Cass., 2 okt. 1984, AR 9113, A.C., 1984-1985, nr 84; Cass., 2 juni 2009, AR P.09.0586.N, A.C., 2009, nr ..."
+      ]
+    }
+  },
+  "19bis": {
+    "ECLI:BE:CASS:2009:ARR.20090202.12": {
+      "court": "CASS",
+      "date": "2009-02-02",
+      "roleNumber": "P.09.0735.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les décisions de la Commission et de la Commission Supérieure de Défense Sociale ordonnant ou refusant le placement de l'interné dans un établissement privé, ne constituent qu'une modalité d'exécution de l'internement et ne sont, dès lors, pas susceptibles d'un appel, ni d'un pourvoi en cassation (1). (1) Voir Cass., 6 septembre 1983, RG 8217, Pas., 1984, n° 7; Cass., 13 septembre 1983, RG 8241, Pas., 1984, n° 23 avec note B.J.B.; Cass., 2 octobre 1984, RG 9113, Pas., 1985, n° 84; Cass., 2 juin 2009, RG P.09.0586.N, Pas., 2009, n° ..."
+      ],
+      "abstractNL": [
+        "De beslissingen van de commissie en de Hoge Commissie tot Bescherming van de Maatschappij waarbij de plaatsing van de geïnterneerde in een privé-inrichting wordt gelast of geweigerd, maken slechts een uitvoeringsmodaliteit van de internering uit en zijn derhalve niet vatbaar voor hoger beroep of cassatieberoep. (1). (1) Zie: Cass., 6 sept. 1983, AR 8217, A.C., 1983-1984, nr 7; Cass., 13 sept. 1983, AR 8241, A.C., 1983-1984, nr 23 met noot B.J.B.; Cass., 2 okt. 1984, AR 9113, A.C., 1984-1985, nr 84; Cass., 2 juni 2009, AR P.09.0586.N, A.C., 2009, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070213.3": {
+      "court": "CASS",
+      "date": "2007-02-13",
+      "roleNumber": "P061631N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La décision de la Commission de défense sociale rejetant la demande de mise en liberté d'un interné n'est pas rendue en dernier ressort, de sorte que le pourvoi en cassation formé contre cette décision est irrecevable (1). (1) Voir Cass., 30 juin 1998, RG p.98.0728.N, n° 352; Cass., 4 janvier 2000, RG P.99.1618.N, n° 4."
+      ],
+      "abstractNL": [
+        "De beslissing van de Commissie tot bescherming van de maatschappij, waarbij het verzoek tot invrijheidstelling van een geïnterneerde wordt afgewezen, is niet in laatste aanleg gewezen, zodat het cassatieberoep tegen deze beslissing niet ontvankelijk is (1). (1) Zie Cass., 30 juni 1998, AR P.98.0728.N, nr 352; Cass., 4 jan. 2000, AR P.99.1618.N, nr 4."
+      ]
+    }
+  },
+  "23bis": {
+    "ECLI:BE:CASS:2007:ARR.20071016.6": {
+      "court": "CASS",
+      "date": "2007-10-16",
+      "roleNumber": "P.07.0916.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/10/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La mise à la disposition du gouvernement visée à l'article 23bis de la loi de défense sociale est une mesure pénale de sûreté qui peut être prononcée après une condamnation sur la base des articles du Code pénal mentionnés dans cette disposition; ladite mesure est en tant que telle une peine accessoire (1). (1) Voir note M.T. sous Cass., 2 janvier 2007, AR P.06.1622.N, n°...."
+      ],
+      "abstractNL": [
+        "De terbeschikkingstelling van de regering zoals bedoeld in artikel 23bis, Wet bescherming Maatschappij is een beveiligende strafmaatregel die kan worden uitgesproken na veroordeling op grond van één van de in dat artikel vermelde artikelen van het Strafwetboek; die maatregel is als dusdanig een bijkomende straf (1). (1) Zie noot M.T. onder Cass., 2 jan. 2007, AR P.06.1622.N, nr. ..."
+      ]
+    }
+  },
+  "25bis": {
+    "ECLI:BE:CASS:2007:ARR.20070102.1": {
+      "court": "CASS",
+      "date": "2007-01-02",
+      "roleNumber": "P061622N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que l'article 25 de la loi de Défense sociale prévoit le placement du condamné mis à la disposition du Gouvernement sous la surveillance du ministre de la Justice qui peut le laisser en liberté sous les conditions qu'il détermine, ou qui peut ordonner son internement, et que l'article 25bis de la même loi détermine les conditions pour l'internement de ce condamné, ne déroge pas au fait que la décision du ministre de la Justice constitue l'exécution de la mesure imposée par le juge pénal (1). (1) Dans le passé, la Cour a décidé à plusieurs reprises que la mise à la disposition du gouvernement constitue une peine, soit explicitement (Cass., 22 juillet 1955, Bull. et Pas., I, 1955, 1270; Cass., 17 juin 1975, Bull. et Pas., 1975, I, 998; Cass., 17 février 1976, Bull. et Pas., 1976, I, 675; Cass., 4 avril 1978, Bull. et Pas., 1978, I, 858), soit implicitement (Cass., 27 mars 1939, Bull. et Pas., 1939, I, 170). Cette jurisprudence a trouvé une ébauche dans un arrêt antérieur (Cass., 11 décembre 1933, Pas., 1934, I, 96, avec la note de L.C.) dans lequel la mise à disposition du gouvernement, à tout le moins concernant les récidivistes et les délinquants d'habitude, était spécifiée comme 'une mesure de sûreté de défense sociale qui participe de la nature des peines, c'est à dire des sanctions ordinaires du droit pénal'. La Cour a considéré alors, ainsi qu'ultérieurement (Cass., 21 décembre 1976, Bull. et Pas., 1977, I, 455), que lorsque le premier juge ne prononçait qu'une peine d'emprisonnement principal, le juge d'appel ne pouvait prononcer accessoirement la mise à disposition du gouvernement qu'à l'unanimité des voix. Implicitement il était admis que la mise à disposition du gouvernement ne constituait pas une peine accessoire mais qu'elle ne représentait qu'une partie de la privation de liberté et qu'elle faisait partie intégrante de la peine d'emprisonnement principal. La cassation de la décision relative à la mise à disposition du gouvernement s'étendait dès lors à toute la peine (Cass. 26 novembre 1974, Bull. et Pas., 1975, I, 334; sous Cass., 21 mars 1989, RG 2894, n° 416, p. 761). En raison de l'illégalité de la mise à disposition du gouvernement prononcée qui 'forme avec la peine prononcée un tout indivisible', un arrêt précédent, ultérieur à l'arrêt qui considérait la mise à la disposition du gouvernement comme une peine, a étendu la cassation à la condamnation entière même si 'le demandeur a, certes, limité son pourvoi à la disposition de l'arrêt qui ordonne cette mesure' (Cass., 5 décembre 1955, Bull. et Pas., 1956, I, 322). La terminologie maniée dans le présent arrêt ne doit dès lors pas illustrer nécessairement une conception modifiée de la nature juridique de la mise à disposition du gouvernement. Par ailleurs, le ministère public qui avait conclu au rejet du pourvoi, ce que la Cour a décidé en l'espèce, avait fait une distinction entre la décision judiciaire prononçant la mise à la disposition du gouvernement, et la décision ministérielle ultérieure d'internement qui concerne l'exécution (consécutive) de cette décision judiciaire. Le ministre exécute une décision judiciaire, pour le délai prononcé et tel que défini par la loi. Les possibilités limitées dont dispose le ministre en la matière ne constituent qu'une décision d'opportunité en fonction de l'objectif visé: l'objectif à atteindre, la défense sociale, peut être réalisé soit par l'isolement du condamné de la société (internement), soit par son intégration surveillée (liberté sous conditions). La décision judiciaire visée ci-dessus relève de la détermination de la peine à laquelle toutes les règles relatives au fait de rendre la justice pénale, sont applicables. La décision ministérielle est d'un autre ordre. (MT)"
+      ],
+      "abstractNL": [
+        "De omstandigheid dat artikel 25 Wet Bescherming Maatschappij de veroordeelde die ter beschikking van de regering is gesteld, onder het toezicht van de minister van Justitie plaatst, die hem in vrijheid kan laten onder de door hem bepaalde voorwaarden, of zijn internering kan gelasten, en dat artikel 25bis van dezelfde wet de voorwaarden bepaalt voor de internering van deze veroordeelde, doet eraan geen afbreuk dat de beslissing van de minister van Justitie de uitvoering is van de door de strafrechter opgelegde maatregel (1). (1) Het Hof heeft in het verleden meermaals geoordeeld dat de terbeschikkingstelling van de regering een straf is, hetzij expliciet (Cass., 22 juli 1955, A.C., 1955, 959; Cass., 17 juni 1975, A.C., 1975, 1103; Cass., 17 feb. 1976, A.C., 1976, 707; Cass., 4 april 1978, A.C., 1978, 884) hetzij impliciet (Cass., 27 maart 1939, A.C., 1939, 116). Deze rechtspraak vond een aanzet in een eerder arrest (Cass., 11 dec. 1933, Pas., 1934, I, 96 met noot L.C.) waar de terbeschikkingstelling van de regering, althans wat recidivisten en gewoontemisdadigers betreft, werd omschreven als \"une mesure de sûreté de défense sociale qui participe de la nature des peines, c'est à dire des sanctions ordinaires du droit pénal\". Het Hof oordeelde toen, en ook later (Cass., 21 dec. 1976, A.C., 1977, 455), dat wanneer de eerste rechter slechts een hoofdgevangenisstraf uitsprak, de appelrechter bijkomend de terbeschikkingstelling van de regering slechts kon uitspreken met eenparigheid van stemmen. Impliciet werd aangenomen dat de terbeschikkingstelling van de regering geen bijkomende straf was maar slechts een deel van de vrijheidsberoving uitmaakte en één geheel vormde met de hoofdgevangenisstraf. De cassatie van de beslissing omtrent de terbeschikkingstelling van de regering strekte zich dan ook uit tot de gehele straf (Cass., 26 nov. 1974, A.C., 1975, 363; Cass., 21 maart 1989, AR 2894, nr 416). Een vroeger arrest, daterend van na het arrest dat de terbeschikkingstelling van de regering een straf noemde, breidde de cassatie omwille van de onwettigheid van de uitgesproken terbeschikkingstelling van de regering die \"met de uitgesproken straf een onsplitsbaar geheel uitmaakt\" uit tot de ganse veroordeling ofschoon \"aanlegger gewis zijn voorziening beperkt heeft tot de bepaling van het arrest waarbij die maatregel gelast wordt\" (Cass., 5 dec. 1955, A.C., 1956, 261). De in het voorliggende arrest gehanteerde terminologie hoeft dus niet per se een illustratie te zijn van een gewijzigde opvatting omtrent de juridische natuur van de terbeschikkingstelling van de regering. Het openbaar ministerie, dat concludeerde tot verwerping van de voorziening en dus in de zin zoals het Hof thans heeft beslist, had trouwens een onderscheid gemaakt tussen de rechterlijke beslissing waarbij de terbeschikkingstelling van de regering wordt uitgesproken, en de latere ministeriële beslissing van internering die de (verdere) uitvoering van die rechterlijke beslissing betreft. De minister voert een rechterlijke beslissing uit, voor de periode dat zij werd uitgesproken en op een wijze door de wet bepaald. De beperkte keuze die de minister hierbij heeft is slechts een opportuniteitsbeslissing in functie van de beoogde finaliteit; het na te streven doel, de bescherming van de maatschappij, kan worden verwezenlijkt hetzij door afzondering van de veroordeelde uit de maatschappij (internering) hetzij door diens gecontroleerde integratie (vrijheid onder voorwaarden). De hoger bedoelde rechterlijke beslissing behoort tot het bepalen van de straf waarop alle regels met betrekking tot het strafrechtspreken van toepassing zijn. De ministeriële beslissing is van een andere orde. (MT)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020618.7": {
+      "court": "CASS",
+      "date": "2002-06-18",
+      "roleNumber": "P020572N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/06/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La condamnation prononcée du chef d'une autre infraction à charge d'une personne internée n'empêche pas que la commission de défense sociale et, en degré d'appel, la commission supérieure de défense sociale, ordonne la réintégration et le maintien de la personne concernée dans un établissement qu'elle a désigné, lorsqu'elle constate que les conditions établies légalement pour la réintégration sont remplies, dès lors que cette réintégration ne constitue pas une seconde répression du chef de cette autre infraction, mais représente l'exécution d'une mesure d'internement ordonnée antérieurement (1)."
+      ],
+      "abstractNL": [
+        "De wegens een ander misdrijf uitgesproken veroordeling tegen een geïnterneerde staat eraan niet in de weg dat de commissie tot bescherming van de maatschappij, en in hoger beroep de hoge commissie tot bescherming van de maatschappij, de wederopneming en het behoud van de betrokkene in een door haar aangewezen inrichting beveelt, wanneer ze vaststelt dat de wettelijk opgelegde voorwaarden voor de wederopneming zijn vervuld, nu deze wederopneming geen tweede bestraffing van dit ander misdrijf vormt maar de uitvoering van een voordien bevolen maatregel van internering is (1)."
       ]
     }
   }

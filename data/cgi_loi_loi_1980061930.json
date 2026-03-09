@@ -17,6 +17,22 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:1997:ARR.19970224.4": {
+      "court": "CASS",
+      "date": "1997-02-24",
+      "roleNumber": "S960013N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La règle uniforme de la loi portant approbation de la Convention sur la loi applicable aux obligations contractuelles, faite à Rome le 19 juin 1980, donnant à des parties la possibilité d'invoquer un droit étranger, accompagnée ou non de la désignation d'une juridiction étrangère, ne permet pas au juge belge de contrôler l'admissibilité d'une clause de compétence prévue dans un contrat de travail, à la lumière de cette règle, la clause concernant la désignation de la juridiction compétente étant exclue du champ d'application de la loi d'approbation et la loi applicable à la convention désignant la juridiction compétente n'étant pas déterminée."
+      ],
+      "abstractNL": [
+        "De eenvormige regel van de wet houdende goedkeuring van het Europees Verdrag van 19 juni 1980 inzake het recht dat van toepassing is op verbintenissen uit overeenkomsten en die aan partijen de mogelijkheid geeft zich te beroepen op een buitenlands recht al dan niet gepaard gaande met de aanwijzing van een buitenlands rechter, laat de Belgische rechter niet toe de toelaatbaarheid van een in een arbeidsovereenkomst opgenomen bevoegdheidsclausule te toetsen aan deze regel nu de overeenkomst tot aanwijzing van de bevoegde rechter is uitgesloten uit het toepassingsgebied van de goedkeuringswet en niet wordt bepaald welke wet toepasselijk is op de overeenkomst tot aanwijzing van de bevoegde rechter."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2026:ARR.20260115.1N.13": {
       "court": "CASS",
@@ -58,6 +74,34 @@
       "abstractNL": [
         "Wanneer een middel, voor het Hof, de vraag opwerpt of, mede in acht genomen de kwalificatie naar Belgisch recht van de in het geding zijnde artikelen 18, 20 en 21 van de wet van 13 april 1995 betreffende de handelsagentuurovereenkomst als bepalingen van bijzonder dwingend recht in de zin van artikel 7.2 EVO, de artikelen 3 en 7.2 EVO, al dan niet in samenhang gelezen met richtlijn 86/653/EEG van de Raad van 18 december 1986 inzake de coördinatie van de wetgevingen in de Lidstaten inzake zelfstandige handelsagenten, aldus moeten worden uitgelegd dat zij toelaten dat de bepalingen van bijzonder dwingend recht van het land van de rechter die een ruimere bescherming bieden dan het door richtlijn 86/653/EEG opgelegde minimum, worden toegepast op de overeenkomst, ook indien blijkt dat het op de overeenkomst toepasselijke recht het recht van een andere EU-lidstaat is waarin tevens de minimumbescherming die geboden wordt door voormelde richtlijn 86/653/EEG werd geïmplementeerd, stelt het Hof de vraag tot uitlegging van die bepalingen aan het Hof van Justitie van de Europese Unie (1). (1) Zie de concl. van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080228.15": {
+      "court": "CASS",
+      "date": "2008-02-28",
+      "roleNumber": "C.07.0076.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que la loi du 27 juillet 1961 relative à la résiliation unilatérale des concessions de vente exclusive ne contient aucune disposition réglant la cession de la concession de vente exclusive, l'obligation d'appliquer exclusivement la loi belge dans le cas de la résiliation d'une concession de vente produisant ses effets dans tout ou partie du territoire belge ne concerne que le règlement de la résiliation unilatérale de la concession de vente et pas l'appréciation des effets contractuels de ce contrat ou de la validité de la cession, de sorte que cette loi ne peut faire obstacle à l'application de la loi choisie par les parties pour régler la cession de la concession de vente exclusive (1). (1) Voir F. RIGAUX et M. FALLON, Droit international privé, Bruxelles, Larcier, 3ème éd., n° 14.189."
+      ],
+      "abstractNL": [
+        "Vermits de Alleenverkoopwet geen enkele bepaling bevat die de overdracht van een alleenverkoopconcessie regelt, heeft de verplichting om, in het geval van de beëindiging van een verkoopconcessie met uitwerking voor het gehele Belgische grondgebied of een deel ervan, uitsluitend de Belgische wet toe te passen alleen betrekking op de beslechting van de eenzijdige beëindiging van de verkoopconcessie en niet op de beoordeling van de contractuele gevolgen van deze overeenkomst of van de geldigheid van de overdracht ervan, zodat deze wet de toepassing van het door de partijen gekozen recht op de overdracht van de alleenverkoopconcessie niet in de weg kan staan (1). (1) Zie F. RIGAUX en M. FALLON, Droit international privé, Brussel, Larcier, 3e ed., nr. 14.189."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990617.14": {
+      "court": "CASS",
+      "date": "1999-06-17",
+      "roleNumber": "C980122F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le contrat est régi par la loi choisie par les parties; viole cette règle le juge qui examine la validité d'une clause pénale selon le droit belge et prononce la nullité de cette clause en application de ce droit, alors que, suivant les constatations antérieures de ce juge, le contrat est soumis à la loi luxembourgeoise."
+      ],
+      "abstractNL": [
+        "Een overeenkomst wordt beheerst door het recht dat de partijen hebben gekozen; de rechter schendt die regel wanneer hij de geldigheid van een strafbeding onderzoekt volgens het Belgisch recht en met toepassing van dat recht de nietigheid van dat beding uitspreekt hoewel, volgens vorige vaststellingen van die rechter, de overeenkomst aan het Luxemburgs recht is onderworpen."
+      ]
     }
   },
   "4": {
@@ -75,6 +119,22 @@
       ]
     }
   },
+  "7": {
+    "ECLI:BE:CASS:2012:ARR.20120507.2": {
+      "court": "CASS",
+      "date": "2012-05-07",
+      "roleNumber": "S.11.0080.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/07/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La question de savoir si, en vertu de l'article 7.2 de la Convention sur la loi applicable aux obligations contractuelles, faite à Rome le 19 juin 1980, approuvée par la loi du 14 juillet 1987, une disposition de droit impératif spécial relevant de la loi du pays du juge est applicable quelle que soit la loi applicable au contrat, est appréciée à la lumière de la lex fori et non à la lumière de la disposition conventionnelle précitée, de sorte que le moyen de cassation qui invoque uniquement la violation de l'article 7.2 de la convention précitée sans invoquer également la violation des dispositions impératives spéciales du droit belge dont l'application aurait prétendument été écartée à tort, n'est pas recevable."
+      ],
+      "abstractNL": [
+        "Of een bepaling van bijzonder dwingend recht uit het recht van het land van de rechter ingevolge artikel 7.2 van het EVO dient te worden toegepast ongeacht het op de overeenkomst toepasselijke recht, wordt bepaald door de lex fori en niet door voormelde verdragsbepaling, zodat het cassatiemiddel dat enkel de schending aanvoert van artikel 7.2. EVO zonder ook schending aan te voeren van de bepalingen van bijzonder dwingend Belgisch recht die beweerdelijk ten onrechte niet werden toegepast, niet ontvankelijk is."
+      ]
+    }
+  },
   "8": {
     "ECLI:BE:CASS:2017:ARR.20170224.6": {
       "court": "CASS",
@@ -88,6 +148,38 @@
       ],
       "abstractNL": [
         "Uit artikel 8, tweede lid, EVO volgt dat een partij zich slechts kan beroepen op het recht van het land waar zij haar gewone verblijfplaats heeft, indien zij het verweer voert dat zij volgens dit recht geen toestemming tot de overeenkomst heeft verleend en zij aantoont dat het in de gegeven omstandigheden niet redelijk zou zijn de gevolgen van haar gedrag te bepalen overeenkomstig het recht dat ingevolge het eerste lid van toepassing is; enkel in dat geval dient de rechter, krachtens artikel 8, tweede lid, EVO, te onderzoeken of uit het recht van het land waar de partij haar gewone verblijfplaats heeft, blijkt dat zij geen toestemming tot de overeenkomst heeft verleend (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:2007:ARR.20070423.1": {
+      "court": "CASS",
+      "date": "2007-04-23",
+      "roleNumber": "C.04.0137.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les dommages-intérêts alloués en matière de vente à caractère international d'objets mobiliers corporels en cas d'inexécution de l'obligation comprennent non seulement le paiement d'une somme d'argent en réparation du dommage proprement dit, mais aussi le paiement d'intérêts pour non-exécution ou exécution tardive de l'obligation de réparer, tant antérieurement que postérieurement à une éventuelle décision judiciaire (1). (1) La Convention sur la loi applicable aux ventes à caractère international d'objets mobiliers corporels, signée à La Haye, le 15 juin 1955, telle qu'elle était applicable avant sa dénonciation par la Belgique par avis publié au M.B. du 30 juin 1990."
+      ],
+      "abstractNL": [
+        "De vergoeding die, inzake de internationale koop van roerende lichamelijke zaken, wordt toegekend ingevolge een contractuele tekortkoming, omvat niet alleen de betaling van een geldsom ter vergoeding van de eigenlijke schade, maar tevens de betaling van interest wegens het uitblijven van of de vertraging in de uitvoering van de verbintenis tot schadeloosstelling, zowel voor als na het tussenkomen van een rechterlijke beslissing (1). (1) Verdrag van 15 juni 1955 inzake de op de internationale koop van roerende lichamelijke zaken toepasselijke wet, ondertekend te Den Haag, zoals van toepassing vóór de opzegging ervan door België bij bericht verschenen in het B.S. van 30 juni 1990."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990617.14": {
+      "court": "CASS",
+      "date": "1999-06-17",
+      "roleNumber": "C980122F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le contrat est régi par la loi choisie par les parties; viole cette règle le juge qui examine la validité d'une clause pénale selon le droit belge et prononce la nullité de cette clause en application de ce droit, alors que, suivant les constatations antérieures de ce juge, le contrat est soumis à la loi luxembourgeoise."
+      ],
+      "abstractNL": [
+        "Een overeenkomst wordt beheerst door het recht dat de partijen hebben gekozen; de rechter schendt die regel wanneer hij de geldigheid van een strafbeding onderzoekt volgens het Belgisch recht en met toepassing van dat recht de nietigheid van dat beding uitspreekt hoewel, volgens vorige vaststellingen van die rechter, de overeenkomst aan het Luxemburgs recht is onderworpen."
       ]
     }
   }

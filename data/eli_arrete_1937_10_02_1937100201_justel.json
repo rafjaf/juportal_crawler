@@ -1,4 +1,18 @@
 {
+  "5": {
+    "ECLI:BE:CASS:2006:ARR.20061002.2": {
+      "court": "CASS",
+      "date": "2006-10-02",
+      "roleNumber": "C050439N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 1er, de l'arrêté royal du 2 octobre 1937 relatif au statut des agents de l'Etat, aux termes duquel les agents de l'Etat du niveau 1 sont nommés par le Roi, n'est pas applicable aux agents des organismes visés à l'article 1er, ,§ 1er, I, de l'arrêté royal du 8 janvier 1973 fixant le statut du personnel de certains organismes d'intérêt public (1) (2). (1) L'article 1er, ,§ 1er, I, 10°, de l'arrêté royal du 8 janvier 1973, tel qu'il était applicable avant son abrogation par l'arrêté royal du 5 septembre 2002. (2) L'article 5, alinéa 1er, de l'arrêté royal du 2 octobre 1937, tel qu'il était applicable avant sa modification par l'arrêté royal du 15 mars 1993."
+      ],
+      "abstractNL": null
+    }
+  },
   "15": {
     "ECLI:BE:CASS:2017:ARR.20170202.1F.1": {
       "court": "CASS",
@@ -29,6 +43,22 @@
       ]
     }
   },
+  "50": {
+    "ECLI:BE:CASS:1974:ARR.19741024.8": {
+      "court": "CASS",
+      "date": "1974-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le mandat ou service, même gratuit, dans des affaires privées à but lucratif, est réputé incompatible avec la qualité d'agent de l'Etat par l'article 50 de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, même en l'absence d'intention frauduleuse."
+      ],
+      "abstractNL": [
+        "De bij artikel 50 van het koninklijk besluit van 2 oktober 1937, houdende het statuut van het rijkspersoneel, met de hoedanigheid van rijksambtenaar onverenigbaar geachte zelfs onbezoldigde opdracht of dienst in particuliere zaken met winstoogmerken, vereist geen bedrieglijk opzet."
+      ]
+    }
+  },
   "70": {
     "ECLI:BE:CASS:2017:ARR.20170202.1F.1": {
       "court": "CASS",
@@ -56,6 +86,70 @@
       ],
       "abstractNL": [
         "Aangezien de door de leden van de ministeriële kabinetten uitgeoefende functie in essentie tijdelijk is, niet georganiseerd is volgens een loopbaanstelsel en steunt op het persoonlijk vertrouwen tussen het personeelslid van het kabinet en de minister, volgt dat het herstel van een personeelslid van een ministerieel kabinet in zijn functie, t.g.v. de nietigverklaring door de Raad van State van de beslissing die zijn benoeming beëindigt, niet mogelijk is wanneer de minister niet langer in functie is."
+      ]
+    }
+  },
+  "81": {
+    "ECLI:BE:CASS:1987:ARR.19871015.17": {
+      "court": "CASS",
+      "date": "1987-10-15",
+      "roleNumber": "7907",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/10/15/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Il n'existe pas de règle suivant laquelle le criminel tiendrait le disciplinaire en état."
+      ],
+      "abstractNL": [
+        "Er bestaat geen regel dat de behandeling van de strafvordering de berechting van de tuchtvordering opschort."
+      ]
+    }
+  },
+  "101": {
+    "ECLI:BE:CASS:1990:ARR.19900621.3": {
+      "court": "CASS",
+      "date": "1990-06-21",
+      "roleNumber": "8575",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les articles 49, alinéa 1er, de l'arrêté royal du 25 avril 1956 fixant le statut des agents du ministère des Affaires étrangères et du Commerce extérieur, et 101, alinéa 2, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat n'accordent pas aux agents qui ont réussi une épreuve de promotion un droit à une telle promotion, mais leur permettent de faire valoir des titres à cette promotion."
+      ],
+      "abstractNL": [
+        "De artt. 49, alinéa 1, K.B. van 25 april 1956 tot vaststelling van het statuut der personeelsleden van het Ministerie van Buitenlandse Zaken en Buitenlandse Handel, en 101, tweede lid, K.B. van 2 oktober 1937 houdende het statuut van het Rijkspersoneel verlenen aan de ambtenaren die voor een bevorderingsexamen zijn geslaagd, geen recht op zodanige bevordering, maar biedt hun de mogelijkheid hun aanspraken op die bevordering te doen gelden."
+      ]
+    }
+  },
+  "112": {
+    "ECLI:BE:CASS:1981:ARR.19810423.6": {
+      "court": "CASS",
+      "date": "1981-04-23",
+      "roleNumber": "3128",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La force et l'autorité de la chose jugée d'un arrêt du Conseil d'Etat n'existent que pour ce qui a été décidé d'une manière certaine par cette juridiction; pour autant que l'annulation par le Conseil d'Etat d'un arrêté ministériel rapportant la révocation d'un fonctionnaire ou agent et la remplaçant par une sanction disciplinaire moins sévère puisse avoir pour conséquence que la révocation est censée n'avoir pas été rapportée, le refus de ce fonctionnaire ou agent de reprendre l'exercice de ses fonctions ne saurait être considéré comme constituant un manquement professionnel; il ne s'en déduit toutefois pas qu'il n'y a pas non plus un tel manquement lorsque ledit fonctionnaire ou agent refuse encore de reprendre ses fonctions après que la mesure de révocation a été ultérieurement légalement rapportée et que sa remise en service a été légalement décidée."
+      ],
+      "abstractNL": [
+        "De kracht en het gezag van gewijsde van een arrest van de Raad van State gelden slechts voor hetgeen door dat rechtscollege zeker is gewezen; voor zover de vernietiging door de Raad van State van een ministerieel besluit, waarbij de afzetting van een rijksambtenaar wordt ingetrokken en vervangen door een mildere straf, tot gevolg kan hebben dat de afzetting geacht wordt niet ingetrokken te zijn, kan de weigering van die rijksambtenaar zijn dienst te hernemen, niet als beroepsfout aangemerkt worden; daaruit volgt evenwel niet dat er evenmin een beroepsfout is wanneer die rijksambtenaar blijft weigeren zijn dienst te hernemen nadat de afzetting achteraf wettig is ingetrokken en de wederindienstneming wettig is beslist."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810423.6": {
+      "court": "CASS",
+      "date": "1981-04-23",
+      "roleNumber": "3128",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La force et l'autorité de la chose jugée d'un arrêt du Conseil d'Etat n'existent que pour ce qui a été décidé d'une manière certaine par cette juridiction; pour autant que l'annulation par le Conseil d'Etat d'un arrêté ministériel rapportant la révocation d'un fonctionnaire ou agent et la remplaçant par une sanction disciplinaire moins sévère puisse avoir pour conséquence que la révocation est censée n'avoir pas été rapportée, le refus de ce fonctionnaire ou agent de reprendre l'exercice de ses fonctions ne saurait être considéré comme constituant un manquement professionnel; il ne s'en déduit toutefois pas qu'il n'y a pas non plus un tel manquement lorsque ledit fonctionnaire ou agent refuse encore de reprendre ses fonctions après que la mesure de révocation a été ultérieurement légalement rapportée et que sa remise en service a été légalement décidée."
+      ],
+      "abstractNL": [
+        "De kracht en het gezag van gewijsde van een arrest van de Raad van State gelden slechts voor hetgeen door dat rechtscollege zeker is gewezen; voor zover de vernietiging door de Raad van State van een ministerieel besluit, waarbij de afzetting van een rijksambtenaar wordt ingetrokken en vervangen door een mildere straf, tot gevolg kan hebben dat de afzetting geacht wordt niet ingetrokken te zijn, kan de weigering van die rijksambtenaar zijn dienst te hernemen, niet als beroepsfout aangemerkt worden; daaruit volgt evenwel niet dat er evenmin een beroepsfout is wanneer die rijksambtenaar blijft weigeren zijn dienst te hernemen nadat de afzetting achteraf wettig is ingetrokken en de wederindienstneming wettig is beslist."
       ]
     }
   }

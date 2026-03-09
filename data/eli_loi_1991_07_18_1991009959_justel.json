@@ -1,4 +1,20 @@
 {
+  "155": {
+    "ECLI:BE:CASS:1999:ARR.19990519.10": {
+      "court": "CASS",
+      "date": "1999-05-19",
+      "roleNumber": "P981393F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en matière d'urbanisme, le fonctionnaire délégué demande à la juridiction répressive d'ordonner la remise en état des lieux, la décision du juge pénal faisant droit à cette demande ressortit à l'action publique, nonobstant le caractère civil de la mesure, dont la prononciation en pareil cas est prescrite par la loi à titre de complément obligé de la condamnation pénale."
+      ],
+      "abstractNL": [
+        "Wanneer de gemachtigde ambtenaar van stedenbouw de strafrechter vraagt het herstel van de plaats in de vorige staat te bevelen, behoort de beslissing van de strafrechter waarbij die vordering wordt toegewezen tot de strafvordering, ook al is die maatregel van burgerrechtelijke aard en wordt de uitspraak ervan in een dergelijk geval door de wet voorgeschreven als verplichte aanvulling van de strafrechtelijke veroordeling."
+      ]
+    }
+  },
   "181": {
     "ECLI:BE:CASS:2014:ARR.20140106.1": {
       "court": "CASS",

@@ -17,6 +17,22 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:1995:ARR.19950210.8": {
+      "court": "CASS",
+      "date": "1995-02-10",
+      "roleNumber": "C930072N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsq'une question relative á l'interprétation d'une disposition d'une directive du Conseil des Communautés européennesest soulevée devant la Cour de cassation, telle, en l'espèce, la question relative á la portée de l'article 17.2 de la sixième directive 77/388/CEE du 17 mai 1977 en matière d'harmonisation des législations des Etats membres relatives aux taxes sur le chiffre d'affaire - système commun de taxe sur la valeur ajoutée : assiette uniforme, la Cour demande, en règle, á la Cour de justice des Communautés européennes de statuer par voie de décision préjudicielle."
+      ],
+      "abstractNL": [
+        "Wanneer voor het Hof van cassatie een vraag rijst in verband met de uitlegging van een bepaling van een Richtlijn van de Raad, met name de vraag naar de draagwijdt van art. 17.2 van de Zesde Richtlijn 77/388 EG Raad van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting (Gemeenschappelijk stelsel van belasting over de toegevoede waarde : uniforme grondslag), verzoekt het Hof, in de regel, het Hof van justitie van de Europese Gemeenschappen daarover bij wijze van prejudiciële beslissing uitspraak te doen."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2022:ARR.20221125.1N.6": {
       "court": "CASS",
@@ -62,6 +78,62 @@
         "In het kader van de aftrekregeling van de BTW, kan het recht op aftrek ook geweigerd worden als de BTW-plichtige te goeder trouw is nu de desbetreffende bepalingen geen onderscheid maken naargelang de BTW-plichtige te goeder trouw is of niet (1). (1) Zie concl. O.M.",
         "De BTW-administratie is gerechtigd het recht op aftrek te verwerpen met betrekking tot de facturen waarop de leveringsdatum niet is vermeld, nu de vermelding op de factuur van de datum van levering van de goederen nodig is om de inning van de belasting en de controle daarop door de administratie mogelijk te maken (1). (1) Zie concl. O.M.",
         "Het komt aan de nationale rechter toe om te oordelen of de door de lidstaten opgelegde verplichte vermeldingen op de factuur nodig zijn om de inning van de BTW en de controle daarvan door de belastingadministratie te verzekeren, en voldoen aan de vereiste dat die vermeldingen niet zo talrijk of technisch mogen zijn dat zij de uitoefening van het recht op aftrek nagenoeg onmogelijk of overdreven moeilijk maken (1). (1) Zie concl. O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001013.7": {
+      "court": "CASS",
+      "date": "2000-10-13",
+      "roleNumber": "C980402NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/10/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour pouvoir exercer son droit à déduction de la taxe grevant les biens ou les services qui lui ont été fournis, l'assujetti doit détenir une facture établie conformément à l'article 2 de l'arrêté royal n° 1 du 23 juillet 1969 : il suit de cette disposition que l'assujetti ne peut compléter les mentions essentielles de la facture à la lumière d'autres documents en vue de fonder son droit à la déduction de la taxe (1)."
+      ],
+      "abstractNL": [
+        "Om zijn recht op aftrek te kunnen uitoefenen ten aanzien van de belasting geheven op de aan hem geleverde goederen en verleende diensten, moet de belastingplichtige in het bezit zijn van een factuur opgemaakt overeenkomstig art. 2 KB nr. 1 van 23 juli 1969 : uit die bepaling volgt dat de belastingplichtige niet de mogelijkheid heeft ontbrekende, wezenlijke vermeldingen op de factuur op grond van andere documenten aan te vullen om alzo zijn recht op aftrek te kunnen gronden (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960919.4": {
+      "court": "CASS",
+      "date": "1996-09-19",
+      "roleNumber": "C950383F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/09/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour pouvoir exercer son droit à déduction de la taxe sur la valeur ajoutée grevant un bien ou un service qui lui a été fourni, l'assujetti doit détenir une facture régulière; dès lors, l'arrêt, qui, d'une part, constate que les factures litigieuses présentent diverses irrégularités au regard des mentions devant obligatoirement y figurer, et d'où, d'autre part, il ne résulte pas que ces mentions étaient inutiles pour la perception de la taxe sur la valeur ajoutée et son contrôle par l'administration, ne décide pas légalement que l'assujetti pouvait déduire la taxe sur la valeur ajoutée afférente auxdites factures."
+      ],
+      "abstractNL": [
+        "Om zijn recht op aftrek van de BTW geheven van het aan hem geleverde goed of verleende dienst te kunnen uitoefenen, moet de belastingplichtige in het bezit zijn van een regelmatige factuur; het arrest dat, enerzijds, vaststelt dat de litigieuze facturen verschillende onregelmatigheden vertonen t.a.v. de vermeldingen die verplicht erop moeten voorkomen en waaruit, anderzijds, niet volgt dat die vermeldingen geen nut hadden voor de inning van de BTW en voor de controle erop door de administratie, beslist derhalve niet naar recht dat de belastingplichtige de BTW betreffende de voornoemde facturen mocht aftrekken."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960607.8": {
+      "court": "CASS",
+      "date": "1996-06-07",
+      "roleNumber": "C950111F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour pouvoir exercer son droit à déduction de la taxe sur la valeur ajoutée grevant un bien ou un service qui lui a été fourni, l'assujetti doit détenir une facture portant notamment la date de la livraison du bien."
+      ],
+      "abstractNL": [
+        "Om zijn recht op aftrek van de belasting over de toegevoegde waarde, geheven van een aan hem geleverd goed of verleende dienst, te kunnen uitoefenen, moet de belastingplichtige in het bezit zijn van een factuur die inzonderheid de datum van de levering van het goed vermeldt."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891204.14": {
+      "court": "CASS",
+      "date": "1989-12-04",
+      "roleNumber": "6631",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/04/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'assujetti ne peut exercer son droit à déduction de la taxe sur la valeur ajoutée ayant grevé les biens et les services qui lui ont été fournis, lorsque les factures ne mentionnent pas le numéro d'ordre sous lequel elles sont inscrites au facturier de sortie. ( Arr. roy. n° 3 du 10 décembre 1969, art. 3, alinéa 1er, 2°. )"
+      ],
+      "abstractNL": [
+        "De belastingplichtige kan zijn recht op aftrek van B.T.W. geheven van de aan hem geleverde goederen en verleende diensten niet uitoefenen, wanneer de facturen het volgnummer niet vermelden waaronder zij in het boek van de uitgaande facturen zijn ingeschreven. ( Art. 3, alinéa 1, 2°, K.B. nr. 3 van 10 december 1969. )"
       ]
     }
   },
@@ -172,6 +244,34 @@
       "abstractNL": [
         "Onder verwijzing naar het arrest van het Hof van Justitie van de Europese Unie van 27 maart 2019 in de zaak C-201/18 oordeelt het Hof dat wanneer het daadwerkelijke of voorgenomen gebruik van de goederen of diensten niet wijzigt, er geen reden is tot herziening van de ten aanzien van dat bedrijfsmiddel in aftrek gebrachte btw (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950330.8": {
+      "court": "CASS",
+      "date": "1995-03-30",
+      "roleNumber": "C940223F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas une dette de la masse celle qui ne résulte pas d'un engagement contracté par le curateur en vue de l'administration de la masse, mais de l'application des articles 477 ou 528 du Code de commerce prévoyant la réalisation de l'actif du failli et de l'article 10, alinéa 1er, 4°, de l'arrêté royal n° 3 du 10 décembre 1969, en vertu duquel la revision de la déduction des taxes ayant grevé un bien d'investissement doit être opérée lorsque celui-ci cesse d'exister dans l'entreprise."
+      ],
+      "abstractNL": [
+        "Geen schuld van de boedel is de schuld die niet voortvloeit uit een door de curator voor het beheer van de boedel aangegane verbintenis, maar uit de toepassing van de artt. 477 of 528 W.Kh. m.b.t. de tegeldemaking van de activa van de gefailleerde en van art. 10, eerste lid, 4°, K.B. nr. 3 van 10 december 1969, krachtens hetwelk de herziening van de aftrek van de belasting op een bedrijfsmiddel moet worden verricht wanneer het ophoudt in de onderneming te bestaan."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860213.13": {
+      "court": "CASS",
+      "date": "1986-02-13",
+      "roleNumber": "7305",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/13/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "En imposant, pour les taxes ayant grevé les biens d'investissement, la révision des déductions initialement opérées par l'assujetti, lorsque le bien d'investissement est, durant la période visée, affecté par l'assujetti, en tout ou en partie, à des fins autres que professionnelles, le législateur a entendu lier la révision à la modification de la situation ayant permis la déductibilité de la taxe, de telle sorte que pareille révision s'impose chaque fois que, en raison d'une telle modification, la déduction opérée initialement est devenue sans raison d'être. ( Code de la T.V.A., art. 48, alinéa 2, et 49; arrêté royal n° 3 du 10 décembre 1969 relatif aux déductions pour l'application de la taxe sur la valeur ajoutée, art. 9, alinéa 1er, et 10, al. 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "Door voor te schrijven, dat t.a.v. de belasting geheven van bedrijfsmiddelen, de oorspronkelijk door de belastingplichtige verrichte aftrek aan herziening onderworpen is, wanneer het bedrijfsmiddel tijdens het bedoelde tijdvak door de belastingplichtige geheel of gedeeltelijk voor privédoeleinden of andere dan beroepsdoeleinden is gebruikt, doet de wetgever blijken van zijn bedoeling om de herziening te koppelen aan de wijziging van de toestand waardoor de belasting kon worden afgetrokken, zodat die herziening moet worden verricht telkens als de oorspronkelijke aftrek, wegens zodanige wijziging, geen reden van bestaan meer heeft. ( Wetboek van de Belasting over de Toegevoegde Waarde, artt. 48, alinéa 2, en 49; K.B. nr. 3 van 10 december 1969 met betrekking tot de aftrekregeling voor de toepassing van de belasting over de toegevoegde waarde, artt. 9, alinéa 1, en 10, eerste lid, 1°. )"
+      ]
     }
   },
   "11": {
@@ -188,6 +288,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Onder verwijzing naar het arrest van het Hof van Justitie van de Europese Unie van 27 maart 2019 in de zaak C-201/18 oordeelt het Hof dat wanneer het daadwerkelijke of voorgenomen gebruik van de goederen of diensten niet wijzigt, er geen reden is tot herziening van de ten aanzien van dat bedrijfsmiddel in aftrek gebrachte btw (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1988:ARR.19881202.6": {
+      "court": "CASS",
+      "date": "1988-12-02",
+      "roleNumber": "6004",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/12/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, conformément à l'article 14 de l'arrêté royal n° 3 du 10 décembre 1969 relatif aux déductions pour l'application de la taxe sur la valeur ajoutée, la règle du prorata général n'est pas applicable, il faut prendre en considération l'affectation réelle des biens et des services fournis."
+      ],
+      "abstractNL": [
+        "Wanneer krachtens art. 14 K.B. nr. 3 van 10 december 1969 met betrekking tot de aftrekregeling voor de toepassing van de belasting over de toegevoegde waarde het algemeen verhoudingsgetal niet dient te worden toegepast, moet het werkelijk gebruik van de geleverde goederen en verleende diensten in acht worden genomen."
       ]
     }
   },

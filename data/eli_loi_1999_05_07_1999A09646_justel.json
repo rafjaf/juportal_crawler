@@ -89,6 +89,22 @@
       ]
     }
   },
+  "32": {
+    "ECLI:BE:CASS:2008:ARR.20080529.3": {
+      "court": "CASS",
+      "date": "2008-05-29",
+      "roleNumber": "C.07.0321.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/05/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Une convention par laquelle une partie prend une participation dans une société sous la condition que les autres associés s'engagent à racheter ces actions après l'expiration d'un certain délai ou lorsqu'une certaine condition s'est réalisée, n'est pas subordonnée à l'interdiction visée à l'article 32 du Code des sociétés lorsque cette convention sert l'intérêt de la société (1). (1) Voir Cass., 5 novembre 1998, RG C.96.0011.F, C.96.0022.F, C.96.0023.F, C.96.0024.F, C.96.0036.F, Pas., 1998, n° 477."
+      ],
+      "abstractNL": [
+        "Een overeenkomst waarbij een partij een participatie neemt in een vennootschap onder het beding dat de overige vennoten zich ertoe verbinden om deze aandelen terug te kopen na het verstrijken van een bepaalde termijn of wanneer een bepaalde voorwaarde in vervulling is gegaan, valt niet onder het in artikel 32 van het Wetboek van Vennootschappen bedoelde verbod wanneer deze overeenkomst het vennootschapsbelang dient (1). (1) Zie Cass., 5 nov. 1998, AR C.96.0011.F, C.96.0022.F, C.96.0023.F, C.96.0024.F, C.96.0036.F, A.C., 1998, nr. 477."
+      ]
+    }
+  },
   "33": {
     "ECLI:BE:CASS:2019:ARR.20190617.1": {
       "court": "CASS",
@@ -184,6 +200,34 @@
       ],
       "abstractNL": [
         "Een door een vennootschap gesloten overeenkomst bindt alleen deze vennootschap en niet de natuurlijke persoon die in zijn hoedanigheid van orgaan van de vennootschap de overeenkomst namens de vennootschap heeft gesloten; hij kan enkel als medeschuldenaar van die overeenkomst worden aangemerkt mits hij zich zelf daartoe, in eigen naam, verbonden heeft (1). (1) Zie R. STEENNOT, 'De tegenwerpbaarheid van algemene voorwaarden' (noot onder Vred. Etterbeek 28 september 2012), T.Vred. 2013, (574) 577."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110902.1": {
+      "court": "CASS",
+      "date": "2011-09-02",
+      "roleNumber": "C.10.0185.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le liquidateur désigné par le tribunal, qui n'était pas partie à l'instance devant le premier juge et qui, à la suite de sa désignation, représente la société dissoute citée à comparaître dans le cadre d'un appel de la société, ne doit pas être appelé à la cause (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De door de rechtbank aangewezen vereffenaar die geen partij was in het geding voor de eerste rechter en die ten gevolge van zijn aanwijzing de ontbonden vennootschap vertegenwoordigt die gedagvaard was om te verschijnen naar aanleiding van een hoger beroep van de vennootschap, hoeft niet in het geding te worden opgeroepen (1). (1) Zie concl. O.M., Pas., 2011, AR C.10.0185.F, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une décision relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que des candidats délégués du personnel, soit arrêtée par le conseil d'administration d'une société anonyme alors qu'il n'est pas régulièrement composé n'a pas pour effet que cette décision, fût-elle de nature à être annulée, n'engagerait pas la société que représente ce collège (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een beslissing betreffende de bijzondere ontslagregeling voor personeelsafgevaardigden in de ondernemingsraden en in de comités van veiligheid, gezondheid en verfraaiing van de werkplaatsen, alsmede voor de kandidaat-personeelsafgevaardigden, genomen wordt door een onregelmatig samengestelde raad van bestuur van een naamloze vennootschap, heeft niet tot gevolg dat die beslissing, zelfs al kon ze worden nietig verklaard, niet bindend zou zijn voor de vennootschap die door dat college wordt vertegenwoordigd (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
       ]
     }
   },
@@ -332,6 +376,54 @@
       ]
     }
   },
+  "143": {
+    "ECLI:BE:CASS:2007:ARR.20070524.1": {
+      "court": "CASS",
+      "date": "2007-05-24",
+      "roleNumber": "D.06.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'organe de gestion de la société reste en défaut de mettre le réviseur en mesure d'exécuter sa mission, celui-ci doit notamment rédiger un rapport de carence."
+      ],
+      "abstractNL": [
+        "Wanneer het bestuursorgaan van de vennootschap de revisor niet in staat stelt zijn opdracht te vervullen, moet deze met name een verslag van niet-bevinding opstellen."
+      ]
+    }
+  },
+  "144": {
+    "ECLI:BE:CASS:2007:ARR.20070524.1": {
+      "court": "CASS",
+      "date": "2007-05-24",
+      "roleNumber": "D.06.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'organe de gestion de la société reste en défaut de mettre le réviseur en mesure d'exécuter sa mission, celui-ci doit notamment rédiger un rapport de carence."
+      ],
+      "abstractNL": [
+        "Wanneer het bestuursorgaan van de vennootschap de revisor niet in staat stelt zijn opdracht te vervullen, moet deze met name een verslag van niet-bevinding opstellen."
+      ]
+    }
+  },
+  "182": {
+    "ECLI:BE:CASS:2011:ARR.20110902.1": {
+      "court": "CASS",
+      "date": "2011-09-02",
+      "roleNumber": "C.10.0185.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le liquidateur désigné par le tribunal, qui n'était pas partie à l'instance devant le premier juge et qui, à la suite de sa désignation, représente la société dissoute citée à comparaître dans le cadre d'un appel de la société, ne doit pas être appelé à la cause (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De door de rechtbank aangewezen vereffenaar die geen partij was in het geding voor de eerste rechter en die ten gevolge van zijn aanwijzing de ontbonden vennootschap vertegenwoordigt die gedagvaard was om te verschijnen naar aanleiding van een hoger beroep van de vennootschap, hoeft niet in het geding te worden opgeroepen (1). (1) Zie concl. O.M., Pas., 2011, AR C.10.0185.F, nr. ..."
+      ]
+    }
+  },
   "183": {
     "ECLI:BE:CASS:2021:ARR.20211126.1F.1": {
       "court": "CASS",
@@ -385,6 +477,34 @@
         "De sluiting van de vereffening van een vennootschap overeenkomstig de artikelen 194 en 195 Wetboek van Vennootschappen, maakt in beginsel een einde aan het bestaan en de rechtspersoonlijkheid van deze vennootschap; de vereffende vennootschap wordt geacht voort te bestaan om zich te verweren tegen vorderingen die de schuldeisers conform artikel 198, §1, derde streepje, Wetboek van Vennootschappen tijdig hebben ingesteld tegen de vennootschap, alsook ten aanzien van vorderingen die reeds voor de sluiting van de vereffening tegen de vennootschap werden ingesteld (1). (1) Zie concl. OM.",
         "Dit passief voortbestaan, dat de bescherming beoogt van de schuldeisers van de vennootschap, laat de vereffende vennootschap ook toe om een rechtsmiddel in te stellen tegen een veroordelende rechterlijke beslissing gewezen na de sluiting van de vereffening in een procedure die nog lopende was ten tijde van de vereffening (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120214.4": {
+      "court": "CASS",
+      "date": "2012-02-14",
+      "roleNumber": "P.11.1181.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La société liquidée n'est réputée continuer à exister que pour se défendre contre les actions intentées en temps utile contre la société en liquidation et ne peut introduire des actions en justice ni en diligenter la poursuite."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt enkel geacht voort te bestaan om zich te verweren tegen vorderingen die tegen de vennootschap in vereffening tijdig worden ingesteld, en kan geen rechtsvorderingen instellen noch de verderzetting ervan benaarstigen."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080417.11": {
+      "court": "CASS",
+      "date": "2008-04-17",
+      "roleNumber": "C.07.0054.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La société en liquidation est réputée exister pour pouvoir se défendre contre les actions introduites en temps utile à son égard par les créanciers; cette existence passive, qui vise la protection des créanciers de la société, porte non seulement sur les actions introduites dans le délai de cinq ans suivant la publication de la clôture de la liquidation mais aussi sur les actions déjà introduites à l'égard de la société au moment de la clôture de la liquidation; la clôture de la liquidation n'a pas pour effet d'empêcher la poursuite des procédures pendantes contre la société, à l'intervention de ses liquidateurs (1).(1) Voir Cass., 22 mars 1962 et les conclusions de M. l'avocat général Ganshof van der MEERSCH, Pas., 1962, I, 807 et 17 juin 1965, ibid., 1965, I, 1134; E. DE BIE & J. DE LEENHEER, \"Vereffening van vennootschappen na de wet van 13 april 1993. Juridische, boekhoudkundige, fiscale aspecten en modellen\", Bruxelles, Ced. Samson, 1996, 201-202; D. D'HOOGHE, \"De gevolgen van de sluiting van de vereffening\", R.D.C., 1989, (333) 337-339; H. DU FAUX, \"La liquidation des sociétés commerciales\", dans Rép. Not., XII. Droit commercial et économique, T. VI, Bruxelles, Larcier, 2003, n° 154; Ph. JEHASSE, \"Manuel de la liquidation\", Bruxelles, Kluwer, 2004, 414, n° 868 et 416, n° 869; G. MEERSMAN, \"Procesbekwaamheid van een vereffende vennootschappen\", R.D.C., 1999, (575) 577 et 578; B. TILLEMAN, \"Proceshandelingen van en tegen vennootschappen\", Anvers, Maklu, n° 126."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt geacht voort te bestaan om zich te verweren tegen vorderingen die de schuldeisers tijdig hebben ingesteld tegen de vennootschap; dit passief voortbestaan, dat de bescherming beoogt van de schuldeisers van de vennootschap, geldt niet alleen ten aanzien van vorderingen ingesteld binnen de termijn van vijf jaar na de bekendmaking van de sluiting van de vereffening, maar ook ten aanzien van vorderingen die reeds voor de sluiting van de vereffening tegen de vennootschap werden ingesteld; de sluiting van de vereffening heeft niet tot gevolg dat lopende procedures niet meer kunnen worden voortgezet tegen de vennootschap, in de persoon van haar vereffenaars (1). (1) Zie Cass., 22 maart 1962, met concl. van adv.-gen. Ganshof van der MEERSCH, Pas., 1962, 807 en 17 juni 1965, Pas., 1965, 1134; E. DE BIE & J. DE LEENHEER, Vereffening van vennootschappen na de wet van 13 april 1993. Juridische, boekhoudkundige, fiscale aspecten en modellen, Brussel, Ced. Samson, 1996, 201-202; D. D'HOOGHE, \"De gevolgen van de sluiting van de vereffening\", T.B.H., 1989, (333) 337-339; H. DU FAUX, La liquidation des sociétés commerciales, in Rép. Not., XII. Droit commercial et économique, boek VI, Brussel, Larcier, 2003, nr 154; Ph. JEHASSE, Manuel de la liquidation, Brussel, Kluwer, 2004, 414, nr 868 en 416, nr 869; G. MEERSMAN, \"Procesbekwaamheid van een vereffende vennootschap\", T.B.H., 1999, (575) 577 en 578; B. TILLEMAN, Proceshandelingen van en tegen vennootschappen, Antwerpen, Maklu, nr 126."
+      ]
     }
   },
   "185": {
@@ -400,6 +520,22 @@
       ],
       "abstractNL": [
         "Wanneer een derde de aanstelling van een curator ad hoc vordert om de activa te gelde te maken die na de sluiting van het faillissement zijn opgedoken, moet hij zijn rechtsvordering richten tegen de persoon die geacht wordt de vereffenaar van de failliete rechtspersoon te zijn."
+      ]
+    }
+  },
+  "186": {
+    "ECLI:BE:CASS:2011:ARR.20110902.1": {
+      "court": "CASS",
+      "date": "2011-09-02",
+      "roleNumber": "C.10.0185.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le liquidateur désigné par le tribunal, qui n'était pas partie à l'instance devant le premier juge et qui, à la suite de sa désignation, représente la société dissoute citée à comparaître dans le cadre d'un appel de la société, ne doit pas être appelé à la cause (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De door de rechtbank aangewezen vereffenaar die geen partij was in het geding voor de eerste rechter en die ten gevolge van zijn aanwijzing de ontbonden vennootschap vertegenwoordigt die gedagvaard was om te verschijnen naar aanleiding van een hoger beroep van de vennootschap, hoeft niet in het geding te worden opgeroepen (1). (1) Zie concl. O.M., Pas., 2011, AR C.10.0185.F, nr. ..."
       ]
     }
   },
@@ -472,6 +608,20 @@
         "De vennootschap waarvan de vereffening is afgesloten, blijft enkel voort bestaan om zich te verweren tegen vorderingen die door de schuldeisers tegen die vennootschap worden ingesteld in de persoon van haar vereffenaars (1). (1) Cass. 14 februari 2012, AR P.11.1181.N, AC 2012, nr. 106.",
         "De rechtsvordering die de vereffende vennootschap heeft ingesteld vóór de afsluiting van haar vereffening, kan noch door haar vereffenaars noch door haar vennoten, die niet kunnen worden beschouwd als haar rechtverkrijgenden ten algemene titel, worden voortgezet (1). (1) Zie Cass. 17 juni 1965 (Bull en Pas. 1965, I, 1134)."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120214.4": {
+      "court": "CASS",
+      "date": "2012-02-14",
+      "roleNumber": "P.11.1181.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La société liquidée n'est réputée continuer à exister que pour se défendre contre les actions intentées en temps utile contre la société en liquidation et ne peut introduire des actions en justice ni en diligenter la poursuite."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt enkel geacht voort te bestaan om zich te verweren tegen vorderingen die tegen de vennootschap in vereffening tijdig worden ingesteld, en kan geen rechtsvorderingen instellen noch de verderzetting ervan benaarstigen."
+      ]
     }
   },
   "195": {
@@ -521,6 +671,20 @@
       ],
       "abstractNL": [
         "Het afsluiten van de vereffening van een rechtspersoon sluit niet uit dat het gebruik van valse jaarrekeningen nog een nuttig gevolg zou kunnen hebben."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120214.4": {
+      "court": "CASS",
+      "date": "2012-02-14",
+      "roleNumber": "P.11.1181.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La société liquidée n'est réputée continuer à exister que pour se défendre contre les actions intentées en temps utile contre la société en liquidation et ne peut introduire des actions en justice ni en diligenter la poursuite."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt enkel geacht voort te bestaan om zich te verweren tegen vorderingen die tegen de vennootschap in vereffening tijdig worden ingesteld, en kan geen rechtsvorderingen instellen noch de verderzetting ervan benaarstigen."
       ]
     }
   },
@@ -664,6 +828,62 @@
       "abstractNL": [
         "Het gebruik van een vals stuk kan blijven duren na de sluiting van de verrichtingen van het faillissement van de rechtspersoon."
       ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130912.2": {
+      "court": "CASS",
+      "date": "2013-09-12",
+      "roleNumber": "C.13.0045.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/09/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'article 198, § 1er, quatrième tiret du Code des sociétés que la prescription commence à courir dès que les faits ne sont plus celés et que le préjudicié a, dès lors, la possibilité de les connaître."
+      ],
+      "abstractNL": [
+        "Uit artikel 198, §1, vierde streepje, Wetboek Vennootschappen volgt dat de verjaring begint te lopen van zodra de verrichtingen niet meer verborgen worden gehouden en de benadeelde derhalve in de mogelijkheid verkeert deze te kennen."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121012.2": {
+      "court": "CASS",
+      "date": "2012-10-12",
+      "roleNumber": "C.11.0571.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'action dirigée contre les gérants en vertu de l'article 111, alinéa 3, de la loi du 13 avril 1995 ne constitue pas une action tendant à la libération du capital mais une action en responsabilité qui est soumise au délai de prescription de l'article 198, § 1er, quatrième tiret, du Code des sociétés (1). (1) Voir les conclusions du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De vordering tegen de bestuurders op grond van artikel 111, derde lid, van de wet van 13 april 1995 is geen vordering strekkende tot volstorting van het kapitaal, maar een aansprakelijkheidsvordering die onderworpen is aan de verjaringstermijn van artikel 198, § 1, vierde streepje, Wetboek van Vennootschappen (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120214.4": {
+      "court": "CASS",
+      "date": "2012-02-14",
+      "roleNumber": "P.11.1181.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La société liquidée n'est réputée continuer à exister que pour se défendre contre les actions intentées en temps utile contre la société en liquidation et ne peut introduire des actions en justice ni en diligenter la poursuite."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt enkel geacht voort te bestaan om zich te verweren tegen vorderingen die tegen de vennootschap in vereffening tijdig worden ingesteld, en kan geen rechtsvorderingen instellen noch de verderzetting ervan benaarstigen."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080417.11": {
+      "court": "CASS",
+      "date": "2008-04-17",
+      "roleNumber": "C.07.0054.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La société en liquidation est réputée exister pour pouvoir se défendre contre les actions introduites en temps utile à son égard par les créanciers; cette existence passive, qui vise la protection des créanciers de la société, porte non seulement sur les actions introduites dans le délai de cinq ans suivant la publication de la clôture de la liquidation mais aussi sur les actions déjà introduites à l'égard de la société au moment de la clôture de la liquidation; la clôture de la liquidation n'a pas pour effet d'empêcher la poursuite des procédures pendantes contre la société, à l'intervention de ses liquidateurs (1).(1) Voir Cass., 22 mars 1962 et les conclusions de M. l'avocat général Ganshof van der MEERSCH, Pas., 1962, I, 807 et 17 juin 1965, ibid., 1965, I, 1134; E. DE BIE & J. DE LEENHEER, \"Vereffening van vennootschappen na de wet van 13 april 1993. Juridische, boekhoudkundige, fiscale aspecten en modellen\", Bruxelles, Ced. Samson, 1996, 201-202; D. D'HOOGHE, \"De gevolgen van de sluiting van de vereffening\", R.D.C., 1989, (333) 337-339; H. DU FAUX, \"La liquidation des sociétés commerciales\", dans Rép. Not., XII. Droit commercial et économique, T. VI, Bruxelles, Larcier, 2003, n° 154; Ph. JEHASSE, \"Manuel de la liquidation\", Bruxelles, Kluwer, 2004, 414, n° 868 et 416, n° 869; G. MEERSMAN, \"Procesbekwaamheid van een vereffende vennootschappen\", R.D.C., 1999, (575) 577 et 578; B. TILLEMAN, \"Proceshandelingen van en tegen vennootschappen\", Anvers, Maklu, n° 126."
+      ],
+      "abstractNL": [
+        "De vereffende vennootschap wordt geacht voort te bestaan om zich te verweren tegen vorderingen die de schuldeisers tijdig hebben ingesteld tegen de vennootschap; dit passief voortbestaan, dat de bescherming beoogt van de schuldeisers van de vennootschap, geldt niet alleen ten aanzien van vorderingen ingesteld binnen de termijn van vijf jaar na de bekendmaking van de sluiting van de vereffening, maar ook ten aanzien van vorderingen die reeds voor de sluiting van de vereffening tegen de vennootschap werden ingesteld; de sluiting van de vereffening heeft niet tot gevolg dat lopende procedures niet meer kunnen worden voortgezet tegen de vennootschap, in de persoon van haar vereffenaars (1). (1) Zie Cass., 22 maart 1962, met concl. van adv.-gen. Ganshof van der MEERSCH, Pas., 1962, 807 en 17 juni 1965, Pas., 1965, 1134; E. DE BIE & J. DE LEENHEER, Vereffening van vennootschappen na de wet van 13 april 1993. Juridische, boekhoudkundige, fiscale aspecten en modellen, Brussel, Ced. Samson, 1996, 201-202; D. D'HOOGHE, \"De gevolgen van de sluiting van de vereffening\", T.B.H., 1989, (333) 337-339; H. DU FAUX, La liquidation des sociétés commerciales, in Rép. Not., XII. Droit commercial et économique, boek VI, Brussel, Larcier, 2003, nr 154; Ph. JEHASSE, Manuel de la liquidation, Brussel, Kluwer, 2004, 414, nr 868 en 416, nr 869; G. MEERSMAN, \"Procesbekwaamheid van een vereffende vennootschap\", T.B.H., 1999, (575) 577 en 578; B. TILLEMAN, Proceshandelingen van en tegen vennootschappen, Antwerpen, Maklu, nr 126."
+      ]
     }
   },
   "202": {
@@ -709,6 +929,20 @@
       ],
       "abstractNL": [
         "Tenzij het bestuur van de gewone commanditaire vennootschap werd toevertrouwd aan een persoon die niet met de vennootschap verbonden is, mag dat bestuur enkel aan de beherende vennoten worden toevertrouwd."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120524.4": {
+      "court": "CASS",
+      "date": "2012-05-24",
+      "roleNumber": "F.11.0014.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/24/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Les commandités d'une société en commandite simple sont tenus solidairement et de manière illimitée au respect des obligations de la société, quels que soient leur cause ou le moment où elles sont nées; le recouvrement d'une dette fiscale auprès des commandités ne requiert dès lors pas que cette dette était née au moment où ils étaient commandités (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De beherende vennoten van een gewone commanditaire vennootschap zijn onbeperkt en hoofdelijk aansprakelijk voor de nakoming van de verbintenissen van de vennootschap, ongeacht uit welke oorzaak of op welk tijdstip zij zijn ontstaan; voor de invordering van een belastingschuld lastens de beherende vennoten is bijgevolg niet vereist dat deze schuld bestond op het ogenblik dat zij beherend vennoot waren (1). (1) Zie de concl. van het O.M."
       ]
     }
   },
@@ -802,6 +1036,22 @@
       ],
       "abstractNL": [
         "Alle vennoten van een vennootschap onder firma worden als ondernemingen aangemerkt (1). (1) Zie concl. OM in Pas. 2018, nr. 409."
+      ]
+    }
+  },
+  "206": {
+    "ECLI:BE:CASS:2012:ARR.20120524.4": {
+      "court": "CASS",
+      "date": "2012-05-24",
+      "roleNumber": "F.11.0014.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/24/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Les commandités d'une société en commandite simple sont tenus solidairement et de manière illimitée au respect des obligations de la société, quels que soient leur cause ou le moment où elles sont nées; le recouvrement d'une dette fiscale auprès des commandités ne requiert dès lors pas que cette dette était née au moment où ils étaient commandités (1). (1) Voir les conclusions du M.P., publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De beherende vennoten van een gewone commanditaire vennootschap zijn onbeperkt en hoofdelijk aansprakelijk voor de nakoming van de verbintenissen van de vennootschap, ongeacht uit welke oorzaak of op welk tijdstip zij zijn ontstaan; voor de invordering van een belastingschuld lastens de beherende vennoten is bijgevolg niet vereist dat deze schuld bestond op het ogenblik dat zij beherend vennoot waren (1). (1) Zie de concl. van het O.M."
       ]
     }
   },
@@ -1126,6 +1376,20 @@
         "De zaakvoerders, gewezen zaakvoerders en alle andere personen die ten aanzien van de zaken van de vennootschap werkelijke bestuursbevoegdheid hebben gehad en die in de loop van de periode van vijf jaar voorafgaand aan de faillietverklaring bij minstens twee faillissementen, vereffeningen of gelijkaardige operaties met schulden ten aanzien van een inningsorganisme van sociale zekerheidsbijdragen betrokken waren, zijn objectief aansprakelijk voor het geheel of een gedeelte van de bedoelde sociale zekerheidsbijdragen, ongeacht of hen een fout ten laste kan worden gelegd (1). (1) Zie concl. OM.",
         "De zaakvoerders, gewezen zaakvoerders en alle andere personen die ten aanzien van de zaken van de vennootschap werkelijke bestuursbevoegdheid hebben gehad en die in de loop van de periode van vijf jaar voorafgaand aan de faillietverklaring bij minstens twee faillissementen, vereffeningen of gelijkaardige operaties met schulden ten aanzien van een inningsorganisme van sociale zekerheidsbijdragen betrokken waren, zijn objectief aansprakelijk voor het geheel of een gedeelte van de bedoelde sociale zekerheidsbijdragen, ongeacht of hen een fout ten laste kan worden gelegd (1) . (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081210.6": {
+      "court": "CASS",
+      "date": "2008-12-10",
+      "roleNumber": "P.08.0939.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'action en comblement du passif, instituée notamment par l'article 265 du Code des sociétés, ne peut être introduite que devant le tribunal de commerce."
+      ],
+      "abstractNL": [
+        "De vordering tot delging van het passief, die met name door artikel 265 W.Venn. is ingevoerd, kan alleen voor de rechtbank van koophandel worden ingesteld."
+      ]
     }
   },
   "302": {
@@ -1206,6 +1470,36 @@
       "abstractNL": [
         "De uitsluiting strekt ertoe de geschillen te regelen die de fundamentele belangen van de vennootschap of de continuïteit van de onderneming in gevaar brengen of, meer algemeen, de gevallen van ernstige en duurzame onenigheid tussen de vennoten op te lossen; de uitsluiting kan worden bevolen in geval van een voldoende ernstige en duurzame onenigheid tussen de vennoten die het voortbestaan van de vennootschap in gevaar brengt of dreigt te brengen; de gegronde reden voor de uitsluiting hoeft bijgevolg niet noodzakelijk te bestaan uit een foutief of onrechtmatig gedrag dat aan een van de vennoten kan worden toegerekend; wanneer een vordering tot uitsluiting wordt beantwoord met een tegenvordering tot uitsluiting en de rechter het bestaan vaststelt van een gegronde reden tot uitsluiting die niet bestaat uit een foutief of onrechtmatig gedrag, dan dient hij na te gaan, in het belang van de vennootschap, welke partij de meeste garanties biedt voor het voortbestaan van de vennootschap."
       ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20101209.9": {
+      "court": "CASS",
+      "date": "2010-12-09",
+      "roleNumber": "C.08.0441.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas d'action tendant à contraindre un associé à céder ses parts dans la société, c'est à la date du transfert ordonné par le juge que les parts doivent être évaluées, dès lors que le droit au paiement du prix des parts naît au moment du transfert de propriété de celles-ci."
+      ],
+      "abstractNL": [
+        "Wanneer een vordering is ingesteld die ertoe strekt een vennoot te verplichten om zijn aandelen in de vennootschap over te dragen, moet de prijs van de aandelen worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht ervan."
+      ]
+    }
+  },
+  "338": {
+    "ECLI:BE:CASS:2010:ARR.20101209.9": {
+      "court": "CASS",
+      "date": "2010-12-09",
+      "roleNumber": "C.08.0441.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas d'action tendant à contraindre un associé à céder ses parts dans la société, c'est à la date du transfert ordonné par le juge que les parts doivent être évaluées, dès lors que le droit au paiement du prix des parts naît au moment du transfert de propriété de celles-ci."
+      ],
+      "abstractNL": [
+        "Wanneer een vordering is ingesteld die ertoe strekt een vennoot te verplichten om zijn aandelen in de vennootschap over te dragen, moet de prijs van de aandelen worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht ervan."
+      ]
     }
   },
   "340": {
@@ -1221,6 +1515,34 @@
       ],
       "abstractNL": [
         "De waarde van de aandelen moet, in beginsel, worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht; bij die raming moet de rechter abstractie maken van zowel de omstandigheden die geleid hebben tot de vordering tot overname van de aandelen als van het gedrag van de partijen ten gevolge van de vordering (1); dit houdt in dat indien de rechter in concreto vaststelt dat deze omstandigheden of dit gedrag een invloed hebben gehad op de waarde van de aandelen zoals deze vastgesteld wordt op datum van overdracht, hij de invloed hiervan buiten beschouwing dient te laten; te dien einde is het de rechter ook toegestaan om als peildatum voor de waardering van de prijs een ander tijdstip in aanmerking te nemen. (1) Zie Cass. 5 oktober 2012, AR C.11.0398.N, AC 2012, nr. 514, met conclusie van advocaat-generaal met opdracht Van Ingelgem."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20111128.5": {
+      "court": "CASS",
+      "date": "2011-11-28",
+      "roleNumber": "C.11.0338.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/11/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En règle, les faits susceptibles d'être invoqués à titre de justes motifs par l'associé qui demande en justice que les associés à l'origine de ces justes motifs, reprennent toutes ses parts, doivent être propres à la société dont l'actionnaire veut se retirer, mais il n'est cependant pas exclu que des faits étrangers à cette société soient également pris en considération."
+      ],
+      "abstractNL": [
+        "Indien de feiten die als gegronde redenen kunnen worden aangevoerd door de vennoot die in rechte vordert dat zijn aandelen worden overgenomen door de vennoten op wie deze gegronde redenen betrekking hebben, in de regel verband zullen houden met de vennootschap uit welke de aandeelhouder wenst te treden, is het niet uitgesloten dat ook feiten die geen verband houden met die vennootschap in aanmerking worden genomen."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090316.2": {
+      "court": "CASS",
+      "date": "2009-03-16",
+      "roleNumber": "C.08.0047.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/16/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les justes motifs visés à l'article 340, alinéa 1er, du Code des sociétés doivent être d'une nature telle qu'il ne peut raisonnablement être souhaité que l'associé qui demande la reprise demeure associé. Cette condition n'implique pas nécessairement l'existence d'un comportement fautif ou illicite spécifiquement imputable à l'associé cité en reprise de parts, auquel l'associé-demandeur est étranger (1). (1) Voir les conclusions du ministère public publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "De gegronde redenen waarvan sprake in artikel 340, eerste lid van het Wetboek van Vennootschappen, moeten van die aard zijn dat van de vennoot die de overname vordert in redelijkheid niet kan verlangd worden dat hij nog langer vennoot blijft. Dit impliceert niet dat steeds een foutieve of onrechtmatige gedraging vereist is die specifiek toerekenbaar is aan de vennoot van wie de overname gevorderd wordt en waaraan de vennoot die de overname vordert vreemd is (1). (1) zie de conclusie van het O.M."
       ]
     }
   },
@@ -1253,6 +1575,34 @@
       ],
       "abstractNL": [
         "Uit de artikelen 352, 353 en 357, §§1, 2 en 3, van het Wetboek van vennootschappen volgt dat, hoewel de vennoot van een coöperatieve vennootschap met onbeperkte aansprakelijk persoonlijk en hoofdelijk instaat voor de schulden van de vennootschap, het feit dat aandelen van die vennootschap worden verworven op zich alleen niet voldoende is om de houder ervan de hoedanigheid van vennoot toe te kennen: het is noodzakelijk dat de overnemer uitdrukkelijk aanvaardt zich op onbeperkte en hoofdelijke wijze te verbinden, wat door het bestuursorgaan wordt nagegaan bij de inschrijving in het aandelenregister waarin overigens zijn toetreding wordt vastgesteld."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121206.7": {
+      "court": "CASS",
+      "date": "2012-12-06",
+      "roleNumber": "C.11.0654.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La nécessité d'un règlement efficace de la faillite et l'égalité de traitement des créanciers impliquent que le curateur puisse agir contre un tiers qui doit répondre des dettes du failli lorsque cette obligation existe à l'égard de tous les créanciers, même si ce droit d'agir n'appartient pas au failli (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De noodzaak van een efficiënte afwikkeling van het faillissement en de gelijke behandeling van de schuldeisers maken dat de curator gerechtigd is de vorderingsrechten uit te oefenen tegen een derde die heeft in te staan voor de schulden van de gefailleerde, wanneer die gehoudenheid bestaat tegen alle schuldeisers, ook al behoren die vorderingsrechten niet aan de gefailleerde toe (1). (1) Zie concl. O.M. in Pas. 2012, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070614.3": {
+      "court": "CASS",
+      "date": "2007-06-14",
+      "roleNumber": "F.06.0044.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/14/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Est un redevable de l'impôt à charge duquel l'administration peut exercer les droits que la loi lui confère en vue de recouvrer l'impôt, l'associé d'une société coopérative à responsabilité illimitée qui est tenu personnellement de payer l'impôt établi au nom de cette société (1) (2). (1) Voir les conclusions du ministère public. (2) Voir Cass., 16 septembre 2004, RG F.03.0063.F, n° 417."
+      ],
+      "abstractNL": [
+        "De vennoot van een coöperatieve vennootschap met onbeperkte aansprakelijkheid die persoonlijk gehouden is tot betaling van de belasting die vastgesteld is ten name van die vennootschap, is een belastingschuldige ten laste van wie de administratie de rechten kan doen gelden die de wet haar verleent met het oog op de invordering van de belasting (1) (2). (1) Zie concl. O.M. in Pas., 2007, nr ... (2) Zie Cass., 16 sept. 2004, AR F.03.0063.F, nr 417."
       ]
     }
   },
@@ -1350,6 +1700,22 @@
       ],
       "abstractNL": [
         "Ingeval van niet tijdige voorlegging van de jaarrekening aan de algemene vergadering of niet tijdige neerlegging van de jaarrekening bij de Nationale Bank van België, wordt de door de derden geleden schade, behoudens tegenbewijs, vermoed voort te vloeien uit dit verzuim , waarbij de bestuurder of zaakvoerder dit vermoeden kan weerleggen door het bewijs te leveren van de afwezigheid van het oorzakelijk verband tussen de door derden geleden schade en het bedoelde verzuim en de derde aldus wordt bevrijd van de bewijslast van dat oorzakelijk verband."
+      ]
+    }
+  },
+  "409": {
+    "ECLI:BE:CASS:2008:ARR.20081210.6": {
+      "court": "CASS",
+      "date": "2008-12-10",
+      "roleNumber": "P.08.0939.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'action en comblement du passif, instituée notamment par l'article 265 du Code des sociétés, ne peut être introduite que devant le tribunal de commerce."
+      ],
+      "abstractNL": [
+        "De vordering tot delging van het passief, die met name door artikel 265 W.Venn. is ingevoerd, kan alleen voor de rechtbank van koophandel worden ingesteld."
       ]
     }
   },
@@ -1491,6 +1857,20 @@
         "Les actes de la gestion journalière sont notamment ceux qui sont commandés par les besoins de la vie quotidienne de la société (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2009:ARR.20090226.1": {
+      "court": "CASS",
+      "date": "2009-02-26",
+      "roleNumber": "F.07.0043.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/26/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision que la réclamation d'une société anonyme a été valablement introduite par deux personnes chargés par l'administrateur délégué dans le cadre de sa gestion journalière, l'arrêt qui considère qu'eu égard à l'ampleur des activités de cette société l'introduction de la réclamation litigieuse était de peu d'importance mais omet d'examiner si cet acte nécessitait une solution d'une promptitude telle qu'il ne pouvait attendre une réunion du conseil d'administration (1) (2). (1) Voir Cass., 24 octobre 2002, RG F.01.0088.F, Pas., 2002, n° 570; Cass., 17 septembre 1968, Pas., 1969, I, 61. (2) La Cour a le même jour décidé la pareille dans les causes RG F.07.0044.F et F.07.0045.F, inédites."
+      ],
+      "abstractNL": [
+        "Het arrest dat beslist dat, gelet op de omvang van de activiteiten van een naamloze vennootschap, het indienen van het litigieuze bezwaarschrift maar een gering belang had, maar niet nagaat of die handeling een zo snelle oplossing vereiste dat niet op een vergadering van de raad van bestuur kon worden gewacht, verantwoordt niet naar recht zijn beslissing dat het bezwaarschrift van die vennootschap rechtsgeldig is ingediend door twee personen die de afgevaardigd bestuurder daarmee belast had binnen het kader van zijn dagelijks bestuur (1) (2). (1) Zie Cass., 24 okt. 2002, AR F.01.0088.F, A.C., 2002, nr. 570; Cass., 17 sept. 1968, A.C., 1969, 60. (2) Het Hof heeft dezelfde dag in dezelfde zin beslist in de niet gepubliceerde zaken AR F.07.0044.F en F.07.0045.F."
+      ]
     }
   },
   "528": {
@@ -1568,6 +1948,34 @@
       "abstractNL": [
         "De schuldeiser die een vordering op grond van artikel 530, §1, tweede lid, Wetboek van Vennootschappen instelt, komt niet op voor de vergoeding van individuele schade, maar voor zijn aandeel in de collectieve schade; dit aandeel in de collectieve schade houdt geen verband met de contractuele schade die een schuldeiser lijdt naar aanleiding van een door de gefailleerde vennootschap niet-nagekomen verbintenis (1). (1) Zie Cass. 10 december 2008, AR P.08.0939.F, AC 2008, nr. 714; zie ook F. PARREIN, \"De allerindividueelste vordering van de allerindividueelste schade - Het persoonlijk vorderingsrecht bij kennelijk grove fout aan banden gelegd\", TRV 2012, p. 50, en M. VANDENBOGAERDE, \"Aansprakelijkheid van vennootschapsbestuurders\", Intersentia, 2009, p. 200, nr. 246.",
         "De regel van de quasi-immuniteit van de uitvoeringsagent is niet van toepassing op de aansprakelijkheid van een bestuurder wegens een door hem begane kennelijk grove fout die heeft bijgedragen tot het faillissement."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081210.6": {
+      "court": "CASS",
+      "date": "2008-12-10",
+      "roleNumber": "P.08.0939.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'action en comblement du passif, instituée notamment par l'article 265 du Code des sociétés, ne peut être introduite que devant le tribunal de commerce."
+      ],
+      "abstractNL": [
+        "De vordering tot delging van het passief, die met name door artikel 265 W.Venn. is ingevoerd, kan alleen voor de rechtbank van koophandel worden ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081017.3": {
+      "court": "CASS",
+      "date": "2008-10-17",
+      "roleNumber": "C.07.0118.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si les fautes graves et caractérisées dans le chef des administrateurs de sociétés ont contribué à la faillite des sociétés faillies distinctes qui sont liquidées ensemble en vertu d'une décision judiciaire avec la constitution d'une seule masse, les administrateurs peuvent être déclarés personnellement obligés, avec ou sans solidarité, de tout ou partie des dettes sociales à concurrence de l'insuffisance d'actif."
+      ],
+      "abstractNL": [
+        "Indien de kennelijk grove fouten van bestuurders van vennootschappen hebben bijgedragen tot het faillissement van afzonderlijke failliete vennootschappen die op grond van een rechterlijke beslissing als een geheel worden vereffend met vorming van een enkele boedel, moet het tekort, tot beloop waarvan die bestuurders persoonlijk en al dan niet hoofdelijk aansprakelijk kunnen gesteld worden voor het geheel of een deel van de schulden van de vennootschap, worden vastgesteld op grond van het verschil tussen baten en schulden van de gehele boedel."
       ]
     }
   },
@@ -1748,6 +2156,20 @@
       "abstractNL": [
         "Wanneer een vennootschap verschillende categorieën van effecten heeft uitgegeven, mag de rechter de prijs van de overgedragen effecten bepalen door op de totale waarde van de onderneming het aandeel aan te rekenen van die effecten in verhouding tot het geheel van de uitgegeven effecten, op voorwaarde dat de effecten van verschillende categorieën eenzelfde waarde hebben; om te bepalen of effecten die vrij overdraagbaar zijn en effecten die dat niet zijn van gelijke waarde zijn, moet de rechter abstractie maken van de wil van hun houder om ze al dan niet over te dragen (1). (1) Zie concl. OM in Pas. 2014, nr. ..."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121005.8": {
+      "court": "CASS",
+      "date": "2012-10-05",
+      "roleNumber": "C.11.0398.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La valeur des actions doit être évaluée au moment où le juge en ordonne le transfert dès lors que le droit d'obtenir le paiement du prix des actions naît au moment du transfert de la propriété; lors de cette évaluation le juge doit faire abstraction tant des circonstances qui ont donné lieu à la demande de transfert des actions que du comportement des parties à la suite de cette demande (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De waarde van de aandelen moet worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht; bij die raming moet de rechter abstractie maken van zowel de omstandigheden die geleid hebben tot de vordering tot overdracht van de aandelen als van het gedrag van de partijen ten gevolge van de vordering (1). (1) Zie de concl. van het O.M."
+      ]
     }
   },
   "640": {
@@ -1806,6 +2228,20 @@
       "abstractNL": [
         "In de beslissing waarbij hij de gedwongen overdracht uitspreekt, bepaalt de rechter wanneer de eigendomsoverdracht en de betaling van de effecten moeten plaatsvinden; de vastgestelde prijs wordt pas vanaf dan eisbaar en kan voordien geen interest opbrengen (1); wanneer de prijs reeds is vastgesteld in het vonnis waarbij de overdracht wordt bevolen, is in geval van vertraging in de betaling moratoire interest verschuldigd overeenkomstig artikel 1153 Burgerlijk Wetboek; wanneer de overdracht wordt bevolen tegen de betaling van een voorlopig bedrag en voor het overige een deskundige wordt aangesteld met het oog op de begroting van de waarde van de aandelen, vormt de verbintenis van de overnemer tot betaling van het verschil tussen het voorlopig bedrag en de waarde van de aandelen, voor de raming daarvan door de rechter, een waardeschuld waarop vergoedende interest kan worden toegekend (2). (1) Cass. 30 oktober 2003, AR C.02.0498.N, AC 2003, nr. 543. (2) Zie Cass. 14 maart 2008, AR C.06.0657.F, AC 2008, nr. 182, en Cass. 11 juni 2009, AR C.08.0196.F, AC 2009, nr. 396; zie ook Cass. 14 december 1989, AR nr. 8488, AC 1989-90, nr. 243."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121005.8": {
+      "court": "CASS",
+      "date": "2012-10-05",
+      "roleNumber": "C.11.0398.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La valeur des actions doit être évaluée au moment où le juge en ordonne le transfert dès lors que le droit d'obtenir le paiement du prix des actions naît au moment du transfert de la propriété; lors de cette évaluation le juge doit faire abstraction tant des circonstances qui ont donné lieu à la demande de transfert des actions que du comportement des parties à la suite de cette demande (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De waarde van de aandelen moet worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht; bij die raming moet de rechter abstractie maken van zowel de omstandigheden die geleid hebben tot de vordering tot overdracht van de aandelen als van het gedrag van de partijen ten gevolge van de vordering (1). (1) Zie de concl. van het O.M."
+      ]
     }
   },
   "642": {
@@ -1850,6 +2286,34 @@
       "abstractNL": [
         "De gegronde redenen op grond waarvan een of meer aandeelhouders in rechte kunnen vorderen dat een aandeelhouder zijn aandelen en alle converteerbare effecten die hij bezit of die recht geven op het inkopen van of de omwisseling in aandelen van de vennootschap aan hen overdraagt, moeten van die aard zijn dat het behouden in de vennootschap van de aandeelhouder waarvan de uitsluiting wordt gevorderd, de fundamentele belangen of de continuïteit van de onderneming in gevaar brengt (1). (1) Zie Cass. 19 feb. 2009, AR C.07.0171.F - C.07.0514.F, AC 2009, nr. 139."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121005.8": {
+      "court": "CASS",
+      "date": "2012-10-05",
+      "roleNumber": "C.11.0398.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La valeur des actions doit être évaluée au moment où le juge en ordonne le transfert dès lors que le droit d'obtenir le paiement du prix des actions naît au moment du transfert de la propriété; lors de cette évaluation le juge doit faire abstraction tant des circonstances qui ont donné lieu à la demande de transfert des actions que du comportement des parties à la suite de cette demande (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De waarde van de aandelen moet worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht; bij die raming moet de rechter abstractie maken van zowel de omstandigheden die geleid hebben tot de vordering tot overdracht van de aandelen als van het gedrag van de partijen ten gevolge van de vordering (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090219.11": {
+      "court": "CASS",
+      "date": "2009-02-19",
+      "roleNumber": "C070171F-C070514F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La procédure en reprise d'actions, d'obligations ou de droits de souscription qui a pour objet de résoudre les situations conflictuelles qui mettent en péril les intérêts fondamentaux ou la continuité de l'entreprise, ou, plus généralement, de résoudre les situations de mésentente grave entre les associés, n'implique pas l'existence d'une faute dans le chef des actionnaires contre lesquels l'action est dirigée."
+      ],
+      "abstractNL": [
+        "De rechtspleging tot terugkoop van aandelen, in aandelen converteerbare obligaties of warrants, die ertoe strekt de geschillen te regelen die de fundamentele belangen of de continuïteit van de onderneming in gevaar brengen of, meer algemeen, de gevallen van ernstige onenigheid tussen de vennoten op te lossen, impliceert niet dat de aandeelhouders waartegen de vordering is gericht een fout hebben begaan."
+      ]
     }
   },
   "643": {
@@ -1882,6 +2346,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De rechter kan slechts een andere peildatum hanteren dan de datum van eigendomsoverdracht, wanneer hij in concreto vaststelt dat de omstandigheden die geleid hebben tot de vordering tot overname van de aandelen of het gedrag van de partijen ten gevolge van de vordering, een invloed hebben gehad op de waarde van de aandelen (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121005.8": {
+      "court": "CASS",
+      "date": "2012-10-05",
+      "roleNumber": "C.11.0398.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La valeur des actions doit être évaluée au moment où le juge en ordonne le transfert dès lors que le droit d'obtenir le paiement du prix des actions naît au moment du transfert de la propriété; lors de cette évaluation le juge doit faire abstraction tant des circonstances qui ont donné lieu à la demande de transfert des actions que du comportement des parties à la suite de cette demande (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De waarde van de aandelen moet worden geraamd op het tijdstip waarop de rechter de overdracht ervan beveelt, aangezien het recht op betaling van de prijs van de aandelen ontstaat op het tijdstip van de eigendomsoverdracht; bij die raming moet de rechter abstractie maken van zowel de omstandigheden die geleid hebben tot de vordering tot overdracht van de aandelen als van het gedrag van de partijen ten gevolge van de vordering (1). (1) Zie de concl. van het O.M."
       ]
     }
   },
@@ -1917,6 +2395,38 @@
       ],
       "abstractNL": [
         "Nu de wetgever een geschillenregeling invoerde om conflicten in een vennootschap in going concern op te lossen derwijze dat zo weinig mogelijk afbreuk wordt gedaan aan de continuïteit van de onderneming, kan de rechter die in de regel de waarde van de over te dragen aandelen bepaalt met het oog op de continuïteit van de onderneming, de aandelen enkel tegen liquidatiewaarde waarderen in geval van verlieslatende ondernemingen waarvan dus twijfel bestaat over hun voortbestaan (1). (1) Zie Cass. 5 oktober 2012, AR C.11.0398.N, AC 2012, nr. 514; Cass. 9 december 2010, AR C.08.0441.F, AC 2010, nr. 723."
+      ]
+    }
+  },
+  "671": {
+    "ECLI:BE:CASS:2009:ARR.20090618.8": {
+      "court": "CASS",
+      "date": "2009-06-18",
+      "roleNumber": "F.08.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'une cotisation est nulle pour avoir été enrôlée au nom d'une personne inexistante, l'arrêt qui sur la base de ses constatations considère que la cotisation a été enrôlée au nom d'une société qui, bien qu'elle soit présentée dans l'avertissement-extrait de rôle comme \" en liquidation \", avait cessé de plein droit d'exister au jour de l'absorption, sans liquidation, par une autre société, dès lors qu'il ne suit pas de l'article 360 du Code des impôts sur les revenus 1992, que si l'impôt dû pour un exercice d'imposition est établi sur les revenus que le contribuable a recueillis pendant la période imposable, il puisse être enrôlé à charge d'une personne inexistante au moment de l'enrôlement et qu'en vertu de l'article 671 du Code des sociétés, la fusion par absorption est l'opération par laquelle une ou plusieurs sociétés transfèrent à une autre société, par suite d'une dissolution sans liquidation, l'intégralité de leur patrimoine, activement et passivement (1) (2). (1) Voir Cass., 22 mars 1962, Bull. et Pas., I, 1962, 807 avec les conclusions de l'avocat général Ganshof van der Meersch. (2) Dans cette espèce, l'absorption du 20 décembre 1993 a été réalisée sous l'empire de la loi du 29 juin 1993, qui a introduit dans les lois coordonnées sur les sociétés commerciales de nouvelles dispositions relatives aux fusions de sociétés. En vertu de l'article 174/1 des lois coordonnées, devenu l'article 671 du Code des sociétés, la fusion par absorption est l'opération par laquelle une ou plusieurs sociétés transfèrent à une autre société, par suite d'une dissolution sans liquidation, l'intégralité de leur patrimoine, activement et passivement. En vertu de l'article 174/10, §2, 1° des lois coordonnées, devenu l'article 682 du Code des sociétés, par l'effet de l'absorption, la société absorbée cesse d'exister. Par conséquent, lorsqu'un impôt est dû sur des revenus réalisés par la société absorbante, cet impôt doit être enrôlé au nom de la société absorbante à laquelle, par l'effet de l'absorption, l'ensemble du patrimoine actif et passif de la société absorbée est transféré. Sous l'empire de la législation antérieure à la loi du 29 juin 1993, il en était autrement."
+      ],
+      "abstractNL": [
+        "De beslissing van het arrest dat een aanslag nietig is wegens de inkohiering ten name van een onbestaande persoon, is naar recht verantwoord wanneer het arrest op grond van zijn vaststellingen oordeelt dat de aanslag werd ingekohierd ten name van een vennootschap die, ook al wordt zij in het aanslagbiljet voorgesteld als zijnde \"in vereffening\", van rechtswege had opgehouden te bestaan op de dag van de overneming, zonder vereffening, door een andere vennootschap, aangezien uit artikel 306 W.I.B. 1992, niet volgt dat als de voor een aanslagjaar verschuldigde belasting gevestigd wordt op de inkomsten die de belastingplichtige in het belastbare tijdperk heeft verkregen, zij kan worden ingekohierd ten name van een persoon die niet bestaat op het ogenblik van de inkohiering , en aangezien, krachtens artikel 671 van het Wetboek van Vennootschappen, fusie door overneming de rechtshandeling is waarbij het gehele vermogen van één of meer vennootschappen, zowel de rechten als de verplichtingen, als gevolg van ontbinding zonder vereffening op een andere vennootschap overgaat (1) (2). (1) Zie Cass., 22 maart 1962, Bull. en Pas., I, 1962, 807 met concl. adv.-gen. Ganshof van der Meersch. (2) In deze zaak vond de overneming plaats op 20 december 1993 onder vigueur van de wet van 29 juni 1933 die in de gecoördineerde wetten op de handelsvennootschappen nieuwe bepalingen heeft ingevoegd m.b.t. de fusies van vennootschappen. Krachtens art. 174/1 van de gecoördineerde wetten, thans art. 671 van het Wetboek van vennootschappen, is fusie door overneming de rechtshandeling waarbij het gehele vermogen van één of meer vennootschappen, zowel de rechten als de verplichtingen, als gevolg van ontbinding zonder vereffening op een andere vennootschap overgaat. Krachtens art. 174/10, § 2, 1°, van de gecoördineerde wetten, thans art. 682 van het Wetboek van Vennootschappen, houdt de ontbonden vennootschap, ten gevolge van de overneming, van rechtswege op te bestaan. Wanneer belasting verschuldigd is op inkomsten van de verkrijgende vennootschap, moet die belasting bijgevolg worden ingekohierd ten name van de verkrijgende vennootschap waarnaar, ten gevolge van de overneming, het gehele vermogen, zowel de rechten als de verplichtingen, van de opgeslorpte vennootschap is overgegaan. Onder vigueur van de regeling vóór de wet van 29 juni 1993 was dit niet het geval."
+      ]
+    }
+  },
+  "673": {
+    "ECLI:BE:CASS:2009:ARR.20091209.6": {
+      "court": "CASS",
+      "date": "2009-12-09",
+      "roleNumber": "P.09.1304.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/09/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La scission par absorption implique le transfert, aux sociétés bénéficiaires, de tout le patrimoine de la société dissoute et scindée, moyennant l'attribution aux associés de celle-ci d'actions ou de parts des sociétés ayant bénéficié des apports résultant de la scission; la rétention d'un élément du patrimoine actif de la société vendue ne fait pas, de celle-ci, une société scindée par absorption, et ne peut dès lors pas être qualifiée de contravention à la procédure à suivre pour réaliser la scission."
+      ],
+      "abstractNL": [
+        "Splitsing door overneming betekent dat het gehele vermogen van de ontbonden en gesplitste vennoootschap overgaat op de verkrijgende vennootschappen, waarbij de vennoten van eerstgenoemde vennootschap aandelen of deelbewijzen krijgen van de vennootschappen waarin ten gevolge van de splitsing activa zijn ingebracht; het behoud van een deel van het actief vermogen van de verkochte vennootschap maakt van die vennootschap geen gesplitste vennootschap door overneming, en kan bijgevolg niet worden omschreven als een overtreding van de in geval van splitsing te volgen procedure."
       ]
     }
   },
@@ -2276,6 +2786,20 @@
       ],
       "abstractNL": [
         "Voor de toepassing van artikel 838, eerste lid, Wetboek van Vennootschappen, dient de betrokken natuurlijke persoon het land- of tuinbouwbedrijf daadwerkelijk te exploiteren als beherend vennoot, in overeenstemming met de voorwaarden van artikel 791, eerste lid, Wetboek van Vennootschappen."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121012.5": {
+      "court": "CASS",
+      "date": "2012-10-12",
+      "roleNumber": "C.12.0101.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le preneur peut sans autorisation du bailleur céder son droit de bail à son fils mais pas à une société agricole, son fils fût-il associé gérant de cette société."
+      ],
+      "abstractNL": [
+        "De pachter kan zijn pachtrechten zonder toestemming van de verpachter overdragen aan zijn zoon, maar niet aan een landbouwvennootschap, ook al is zijn zoon beherend vennoot in deze vennootschap."
       ]
     }
   }

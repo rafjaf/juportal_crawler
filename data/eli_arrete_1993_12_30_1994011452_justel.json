@@ -62,6 +62,22 @@
       ]
     }
   },
+  "32": {
+    "ECLI:BE:CASS:2006:ARR.20060209.6": {
+      "court": "CASS",
+      "date": "2006-02-09",
+      "roleNumber": "C010492N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La modification de l'article 4 de la loi générale sur les douanes et accises par l'article 3 de la loi du 27 décembre 1993, qui attribue à partir du 1er janvier 1994 à l'administration des douanes et accises la compétence pour percevoir notamment les prélèvements agricoles, et l'abrogation par l'article 33 de l'arrêté royal du 30 décembre 1993 de l'arrêté royal du 25 octobre 1971 relatif à l'exécution des actes émanant des institutions compétentes des Communautés européennes touchant la matière agricole en vertu duquel l'Office central des contingents et licences était chargé de percevoir lesdits prélèvements, sont sans effet rétroactif sur les situations nées et définitivement réglées avant l'entrée en vigueur de l'arrêté royal du 30 décembre 1993."
+      ],
+      "abstractNL": [
+        "De wijziging van artikel 4, A.W.D.A. door artikel 3 van de wet van 27 december 1993, waarbij de administratie der Douane en Accijnzen vanaf 1 januari 1994 onder meer bevoegd wordt gemaakt om de inning te verrichten van de landbouwheffingen, en de opheffing bij artikel 33 van het K.B. van 30 december 1993 van het K.B. van 25 oktober 1971, dat de Centrale Dienst voor Contingenten en Vergunningen voorheen belastte met het innen van bedoelde heffingen, hebben geen terugwerkende kracht op de voor de inwerkingtreding van het K.B. van 30 december 1993 ontstane en definitief voltrokken toestanden."
+      ]
+    }
+  },
   "33": {
     "ECLI:BE:CASS:2015:ARR.20150924.9": {
       "court": "CASS",

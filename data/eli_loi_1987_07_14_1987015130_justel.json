@@ -1,4 +1,20 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1999:ARR.19990617.14": {
+      "court": "CASS",
+      "date": "1999-06-17",
+      "roleNumber": "C980122F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le contrat est régi par la loi choisie par les parties; viole cette règle le juge qui examine la validité d'une clause pénale selon le droit belge et prononce la nullité de cette clause en application de ce droit, alors que, suivant les constatations antérieures de ce juge, le contrat est soumis à la loi luxembourgeoise."
+      ],
+      "abstractNL": [
+        "Een overeenkomst wordt beheerst door het recht dat de partijen hebben gekozen; de rechter schendt die regel wanneer hij de geldigheid van een strafbeding onderzoekt volgens het Belgisch recht en met toepassing van dat recht de nietigheid van dat beding uitspreekt hoewel, volgens vorige vaststellingen van die rechter, de overeenkomst aan het Luxemburgs recht is onderworpen."
+      ]
+    }
+  },
   "6": {
     "ECLI:BE:CASS:2010:ARR.20100607.4": {
       "court": "CASS",
@@ -12,6 +28,36 @@
       ],
       "abstractNL": [
         "De vraag of met het land waar zich de vestiging bevindt die de werknemer in dienst heeft genomen in de zin van artikel 6, tweede lid b, van het E.V.O.-Verdrag, dient te worden verstaan het land waar zich de vestiging bevindt die volgens de arbeidsovereenkomst de werknemer in dienst neemt, dan wel het land waar zich de vestiging bevindt van de werkgever waaraan de werknemer voor zijn effectieve tewerkstelling is verbonden, ook al verricht hij zijn arbeid niet gewoonlijk in hetzelfde land; de vraag of de plaats waar de werknemer, die zijn werk niet gewoonlijk in een zelfde land verricht, zich dient aan te melden en de administratieve onderrichtingen, alsmede de instructies voor het uitvoeren van zijn werkzaamheden ontvangt, moet worden aangezien als de plaats van effectieve tewerkstelling in de zin van de eerste vraag; de vraag of de vestiging van de werkgever waaraan de werknemer voor zijn effectieve tewerkstelling is verbonden in de zin van de eerste vraag, moet beantwoorden aan bepaalde formele vereisten, zoals ondermeer het bezit van rechtspersoonlijkheid, dan wel of het bestaan van een feitelijke vestiging kan volstaan, en de vraag of de vestiging van een andere vennootschap, met wie de vennootschapswerkgever bindingen heeft, dienst kan doen als vestiging in de zin van de derde vraag, ook al is het werkgeversgezag niet overgedragen aan die andere vennootschap zijn vragen die een uitlegging vereisen van artikel 6, tweede lid, b, van het E.V.O.-Verdrag waarvoor het Hof van Justitie van de Europese Unie bevoegd is."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970224.4": {
+      "court": "CASS",
+      "date": "1997-02-24",
+      "roleNumber": "S960013N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La règle uniforme de la loi portant approbation de la Convention sur la loi applicable aux obligations contractuelles, faite à Rome le 19 juin 1980, donnant à des parties la possibilité d'invoquer un droit étranger, accompagnée ou non de la désignation d'une juridiction étrangère, ne permet pas au juge belge de contrôler l'admissibilité d'une clause de compétence prévue dans un contrat de travail, à la lumière de cette règle, la clause concernant la désignation de la juridiction compétente étant exclue du champ d'application de la loi d'approbation et la loi applicable à la convention désignant la juridiction compétente n'étant pas déterminée."
+      ],
+      "abstractNL": [
+        "De eenvormige regel van de wet houdende goedkeuring van het Europees Verdrag van 19 juni 1980 inzake het recht dat van toepassing is op verbintenissen uit overeenkomsten en die aan partijen de mogelijkheid geeft zich te beroepen op een buitenlands recht al dan niet gepaard gaande met de aanwijzing van een buitenlands rechter, laat de Belgische rechter niet toe de toelaatbaarheid van een in een arbeidsovereenkomst opgenomen bevoegdheidsclausule te toetsen aan deze regel nu de overeenkomst tot aanwijzing van de bevoegde rechter is uitgesloten uit het toepassingsgebied van de goedkeuringswet en niet wordt bepaald welke wet toepasselijk is op de overeenkomst tot aanwijzing van de bevoegde rechter."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990617.14": {
+      "court": "CASS",
+      "date": "1999-06-17",
+      "roleNumber": "C980122F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le contrat est régi par la loi choisie par les parties; viole cette règle le juge qui examine la validité d'une clause pénale selon le droit belge et prononce la nullité de cette clause en application de ce droit, alors que, suivant les constatations antérieures de ce juge, le contrat est soumis à la loi luxembourgeoise."
+      ],
+      "abstractNL": [
+        "Een overeenkomst wordt beheerst door het recht dat de partijen hebben gekozen; de rechter schendt die regel wanneer hij de geldigheid van een strafbeding onderzoekt volgens het Belgisch recht en met toepassing van dat recht de nietigheid van dat beding uitspreekt hoewel, volgens vorige vaststellingen van die rechter, de overeenkomst aan het Luxemburgs recht is onderworpen."
       ]
     }
   }

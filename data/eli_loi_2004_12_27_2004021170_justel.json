@@ -1,4 +1,20 @@
 {
+  "8": {
+    "ECLI:BE:CASS:2011:ARR.20110207.5": {
+      "court": "CASS",
+      "date": "2011-02-07",
+      "roleNumber": "S.10.0056.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/02/07/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'article 22ter, alinéa 2, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, dans la version postérieure à sa modification par l'article 8 de la loi-programme du 27 décembre 2004, qui ne détermine pas la nature de la présomption, peut uniquement être interprété en ce sens que la présomption instaurée suivant laquelle, à défaut de publicité des horaires de travail normaux, les travailleurs à temps partiel sont présumés avoir effectué leurs prestations à temps plein, n'est pas applicable lorsque les services de l'inspection sociale constatent l'impossibilité matérielle d'effectuer les prestations concernées à temps plein (1). (1) Voir les conclusions contraires du M.P. publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "1° Artikel 22ter, tweede lid, RSZ-wet, zoals vervangen bij artikel 8 van de Programmawet van 27 december 2004, die de aard van het vermoeden niet kwalificeert, kan alleen zo worden gelezen dat het ingevoerde vermoeden dat door de deeltijdse werknemers voltijds arbeid werd verricht, wanneer geen normale werkroosters werden bekendgemaakt, niet geldt wanneer door de sociale inspectiediensten is vastgesteld dat het materieel onmogelijk is om voltijdse arbeid te verrichten (1). (1) Zie de andersluidende concl. van het O.M."
+      ]
+    }
+  },
   "334": {
     "ECLI:BE:CASS:2024:ARR.20240328.1N.6": {
       "court": "CASS",
@@ -56,6 +72,80 @@
       "abstractNL": [
         "Wanneer de minnelijke aanzuiveringsregeling geen uitdrukkelijke regeling bevat in verband met de mogelijkheid voor de fiscale administraties om toepassing te maken van artikel 334 Programmawet, het bij betwisting hierover aan de rechter staat om via interpretatie van de minnelijke regeling te oordelen of de administratie al dan niet over deze mogelijkheid beschikt."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140331.2": {
+      "court": "CASS",
+      "date": "2014-03-31",
+      "roleNumber": "S.12.0078.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/31/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux préparatoires de la loi-programme du 27 décembre 2004 qu'en vue de résorber l'arriéré fiscal, l'article 334 a entendu étendre la possibilité pour l'État d'opérer une compensation, après concours, entre des créances qu'il détermine, sans égard à l'existence ou non d'un lien de connexité; cette disposition n'exige pas que les créances en cause existent l'une et l'autre avant la survenance du concours (1). (1) Voir les concl. contr. du M.P."
+      ],
+      "abstractNL": [
+        "Uit de parlementaire voorbereiding van de programmawet van 27 december 2004 blijkt dat artikel 334, met het oog op het wegwerken van de fiscale achterstand, de mogelijkheden heeft willen verruimen ten voordele van de Staat door de schuldvergelijking na samenloop mogelijk te maken tussen de al dan niet samenhangende schuldvorderingen die het vaststelt; die bepaling vereist niet dat de betrokken bij het hof van beroep schuldvorderingen allebei bestaan alvorens er samenloop is (1). (1) Zie concl. OM in Pas. 2014, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100624.2": {
+      "court": "CASS",
+      "date": "2010-06-24",
+      "roleNumber": "C.09.0365.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/24/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'article 334 de la loi-programme du 27 décembre 2004 qui permet aussi la compensation après concours entre des créances qui ne sont pas connexes, vaut uniquement pour les créances qui sont nées avant le concours, en l'espèce, avant la déclaration de faillite; cette disposition ne permet, dès lors, pas de compensation entre une créance fiscale née avant la déclaration de faillite du redevable et les crédits fiscaux qui doivent être remboursés au curateur en raison des opérations commerciales poursuivies par lui après la déclaration de faillite du redevable concerné (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C.; le 24 juin 2010, la Cour a prononcé un arrêt analogue dans la cause F.09.0085.N."
+      ],
+      "abstractNL": [
+        "Artikel 334 van de programmawet van 27 december 2004, dat de schuldvergelijking na samenloop ook mogelijk maakt tussen niet-samenhangende vorderingen, geldt alleen voor vorderingen die ontstaan zijn vóór de samenloop, te dezen, vóór de faillietverklaring; die bepaling laat derhalve geen schuldvergelijking toe tussen een fiscale schuldvordering ontstaan vóór de faillietverklaring van de belastingschuldige en fiscale tegoeden die aan de curator dienen te worden terugbetaald ingevolge de handelsverrichtingen voortgezet door hem na de faillietverklaring van de betrokken belastingplichtige (1). (1) Zie de conclusie van het O.M.; Op 24 juni 2010 heeft het Hof een analoog arrest uitgesproken in de zaak F.09.0058.N."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20071214.3": {
+      "court": "CASS",
+      "date": "2007-12-14",
+      "roleNumber": "F.06.0076.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/12/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il se déduit des articles 1675/7, § 1er, du Code judiciaire et 334, alinéa 2, de la loi-programme du 27 décembre 2004 que la règle énoncée au premier alinéa de cette seconde disposition suivant laquelle le fonctionnaire compétent est autorisé sous certaines conditions à affecter toute somme à restituer ou à payer à un redevable entre autres dans le cadre de dispositions légales en matière d'impôts, au paiement notamment de diverses dettes fiscales, s'applique lorsque le contribuable a été admis au bénéfice de la procédure de règlement collectif de dettes."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1675/7, § 1, van het Gerechtelijk Wetboek en 334, tweede lid, van de programmawet van 27 december 2004 kan worden afgeleid dat de in het eerste lid van die tweede bepaling vermelde regel volgens welke de bevoegde ambtenaar onder bepaalde voorwaarden het recht heeft om elk aan een belastingschuldige terug te geven of te betalen bedrag onder meer binnen het kader van wetsbepalingen inzake belastingen, aan te wenden ter betaling met name van verschillende belastingschulden, van toepassing is wanneer de belastingschuldige is toegelaten tot het voordeel van de procedure van collectieve schuldenregeling."
+      ]
+    }
+  },
+  "415": {
+    "ECLI:BE:CASS:2014:ARR.20140911.3": {
+      "court": "CASS",
+      "date": "2014-09-11",
+      "roleNumber": "F.13.0101.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'accise sur les huiles minérales ne devient pas en toute hypothèse exigible, au taux lié à leur utilisation finale effective, à la date de leur mise à la consommation dans le pays (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De accijns op de minerale oliën wordt niet in alle gevallen verschuldigd tegen het tarief dat van toepassing is op het werkelijk eindgebruik van die oliën, op de datum van hun uitslag tot verbruik in het land (1). (1) Zie concl. OM in Pas. 2014."
+      ]
+    }
+  },
+  "417": {
+    "ECLI:BE:CASS:2014:ARR.20140911.3": {
+      "court": "CASS",
+      "date": "2014-09-11",
+      "roleNumber": "F.13.0101.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'accise sur les huiles minérales ne devient pas en toute hypothèse exigible, au taux lié à leur utilisation finale effective, à la date de leur mise à la consommation dans le pays (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De accijns op de minerale oliën wordt niet in alle gevallen verschuldigd tegen het tarief dat van toepassing is op het werkelijk eindgebruik van die oliën, op de datum van hun uitslag tot verbruik in het land (1). (1) Zie concl. OM in Pas. 2014."
+      ]
     }
   },
   "419": {
@@ -102,6 +192,38 @@
       ],
       "abstractNL": [
         "Uit de artikelen 420, § 6, eerste en tweede lid, van de Programmawet van 27 december 2004, 1 van het K.B. van 3 juli 2005 houdende maatregelen voor de toepassing van bepaalde verlaagde tarieven inzake accijnzen en 9, § 1, van de Wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen, volgt dat een bedrijf dat voldoet aan de wettelijke grondvoorwaarden om te genieten van het nultarief, zonder evenwel in het bezit te zijn van een vergunning “energieproducten en elektriciteit”, recht heeft op terugbetaling van de onterecht betaalde accijnzen."
+      ]
+    }
+  },
+  "421": {
+    "ECLI:BE:CASS:2014:ARR.20140911.3": {
+      "court": "CASS",
+      "date": "2014-09-11",
+      "roleNumber": "F.13.0101.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'accise sur les huiles minérales ne devient pas en toute hypothèse exigible, au taux lié à leur utilisation finale effective, à la date de leur mise à la consommation dans le pays (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De accijns op de minerale oliën wordt niet in alle gevallen verschuldigd tegen het tarief dat van toepassing is op het werkelijk eindgebruik van die oliën, op de datum van hun uitslag tot verbruik in het land (1). (1) Zie concl. OM in Pas. 2014."
+      ]
+    }
+  },
+  "422": {
+    "ECLI:BE:CASS:2014:ARR.20140911.3": {
+      "court": "CASS",
+      "date": "2014-09-11",
+      "roleNumber": "F.13.0101.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/09/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'accise sur les huiles minérales ne devient pas en toute hypothèse exigible, au taux lié à leur utilisation finale effective, à la date de leur mise à la consommation dans le pays (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De accijns op de minerale oliën wordt niet in alle gevallen verschuldigd tegen het tarief dat van toepassing is op het werkelijk eindgebruik van die oliën, op de datum van hun uitslag tot verbruik in het land (1). (1) Zie concl. OM in Pas. 2014."
       ]
     }
   },
@@ -192,6 +314,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De verbeurdverklaring die de rechter dient uit te spreken krachtens artikel 436 van de Programmawet van 27 december 2004, artikel 45, vierde lid, Accijnswet 2009 en de artikelen 220, § 1, 221, § 1, en 257, § 3, AWDA, heeft een zakelijk karakter omdat het uitspreken ervan niet vereist dat de veroordeelde eigenaar is van de verbeurd te verklaren goederen en evenmin dat de ontduiker bekend is (1); door die verbeurdverklaring wordt de Belgische Staat van rechtswege eigenaar van de verbeurdverklaarde goederen; bij de verbeurdverklaring van niet-aangehaalde goederen rust op de veroordeelde de verplichting om deze voor te brengen. (1) Cass. 23 juni 2020, P.20.0020.N, AC 2020, nr. 436, NC 2021, 171; Cass. 19 januari 2016, AR P.14.1519.N, AC 2016, nr. 39, met concl. van procureur-generaal M. DE SWAEF, toen plaatsvervangend advocaat-generaal."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070605.11": {
+      "court": "CASS",
+      "date": "2007-06-05",
+      "roleNumber": "P.06.1655.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La confiscation prévue à l'article 436, alinéa 3, de la loi-programme du 27 décembre 2004 a un caractère réel, c'est-à-dire qu'elle touche l'objet lui-même quel qu'en soit le propriétaire et où qu'il se trouve, nonobstant la possibilité pour le propriétaire de prouver éventuellement qu'il est étranger à l'infraction."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een rechter bepaalde feiten vaststelt en op deze door hem vastgestelde feiten een onwettige wetstoepassing maakt, is geen motiveringsgebrek in de zin van artikel 149 Grondwet maar een onwettigheid (1). (1) Over het onderscheid tussen een motiveringsgebrek en een onwettigheid: zie conclusie proc.-gen. du JARDIN bij Cass., 7 dec. 2001, voltallige zitting, AR C.99.0442.F, nr 681."
       ]
     }
   },

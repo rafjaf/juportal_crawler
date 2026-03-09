@@ -1,4 +1,66 @@
 {
+  "136": {
+    "ECLI:BE:CASS:2003:ARR.20031020.7": {
+      "court": "CASS",
+      "date": "2003-10-20",
+      "roleNumber": "C020582N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/10/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur qui a octroyé des indemnités d'incapacité de travail en vertu de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire soins de santé et indemnités est subrogé au bénéficiaire à concurrence du montant total de ces prestations, à l'égard de celui qui, en vertu du droit commun, est responsable de l'incapacité, le montant de la demande de l'organisme assureur ne pouvant toutefois pas excéder le montant qui serait octroyé au bénéficiaire en vertu du droit commun pour l'incapacité causée."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die op grond van de Z.I.V.-wet ongeschiktheidsuitkeringen heeft toegekend, is voor het gehele bedrag ervan in de plaats gesteld van haar rechthebbende, ten aanzien van diegene die, op grond van het gemene recht, voor de ongeschiktheid aansprakelijk is, met deze beperking dat het bedrag van de vordering van de verzekeringsinstelling niet hoger kan zijn dan het bedrag dat de rechthebbende in het gemene recht zou toekomen voor de veroorzaakte ongeschiktheid."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950215.12": {
+      "court": "CASS",
+      "date": "1995-02-15",
+      "roleNumber": "P941227F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur qui a fourni des prestations au profit de la victime d'un dommage dont un tiers est partiellement responsable, est subrogé dans les droits du bénéficiaire à concurrence de la totalité du montant des sommes dues à cette victime en vertu du droit commun en réparation du même dommage et ce, quelle que soit la part de responsabilité retenue à charge de la victime."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die prestaties heeft verleend aan de persoon die schade heeft geleden waarvoor een derde ten dele aansprakelijk is, treedt in de plaats van de rechthebbende tot beloop van het geheel van de sommen die krachtens het gemeen recht aan de getroffene verschuldigd zijn ter vergoeding van dezelfde schade, ongeacht de mate waarin de getroffene aansprakelijk is verklaard."
+      ]
+    }
+  },
+  "157": {
+    "ECLI:BE:CASS:2001:ARR.20011205.7": {
+      "court": "CASS",
+      "date": "2001-12-05",
+      "roleNumber": "P011115F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas une peine mais un mode de recouvrement du dommage qui n'exclut pas la réparation de celui-ci par d'autres voies de droit, la mesure prise par les commissions de contrôle instituées auprès du service médical, par laquelle celles-ci récupèrent totalement ou partiellement, auprès des médecins qui prescrivent des examens et traitements inutilement onéreux ou superflus, les dépenses relatives aux prestations à charge de l'assurance soins de santé et indemnités (1); en cas de récupération seulement partielle, l'organisme assureur ne perd pas le droit de récupérer devant la juridiction répressive la différence entre le coût total des prestations superflues et le montant récupéré, l'exercice du pouvoir d'appréciation que la loi reconnaît aux commissions de contrôle n'emportant, par lui-même, aucune rupture du lien causal entre la faute du dispensateur de soins et le dommage que, sans cette faute, l'organisme assureur n'aurait pas subi (2)."
+      ],
+      "abstractNL": [
+        "De maatregel die getroffen wordt door de bij de geneeskundige dienst ingestelde controlecommissies, waarbij zij de uitgaven m.b.t. de prestaties die door de verzekering voor geneeskundige verzorging en uitkeringen ten laste werden genomen, geheel of gedeeltelijk terugvorderen van de geneesheren die onnodig dure of overbodige onderzoeken en behandelingen voorschrijven, is geen straf maar een wijze van herstel van schade die dat herstel door andere rechtsmiddelen niet uitsluit (1); in geval van een slechts gedeeltelijke terugvordering, verliest de verzekeringsinstelling het recht niet om voor het strafgerecht het verschil tussen het totaalbedrag van de overbodige prestaties en het teruggevorderde bedrag terug te vorderen, aangezien de uitoefening van de beoordelingsbevoegdheid, die de wet aan de controlecommissies toekent, het oorzakelijk verband niet verbreekt tussen de fout van de zorgverlener en de schade die de verzekeringsinstelling, zonder die fout, niet zou hebben geleden (2)."
+      ]
+    }
+  },
+  "174": {
+    "ECLI:BE:CASS:1997:ARR.19970630.11": {
+      "court": "CASS",
+      "date": "1997-06-30",
+      "roleNumber": "S960159N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le régime de prescription prévu à l'article 106 de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, actuellement l'article 174 de l'arrêté royal du 14 juillet 1994 portant coordination de la loi relative à l'assurance obligatoire soins de santé et indemnités, est soumis, sauf dérogation expresse, à l'application des dispositions du droit commun."
+      ],
+      "abstractNL": [
+        "Op het in art. 106 Ziektewet 1963, thans art. 174 Ziektewet 1994 voorziene verjaringsstelsel zijn, behoudens uitdrukkelijke afwijking, de gemeenrechtelijke bepalingen van toepassing."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:2001:ARR.20011203.4": {
       "court": "CASS",
@@ -12,6 +74,20 @@
       ],
       "abstractNL": [
         "Zolang de schade van degene die ziekte- en invaliditeitsuitkeringen ontvangt niet effectief is vergoed krachtens een andere wet of het gemeen recht, kan het R.I.Z.I.V. de verzekeringsinstelling niet verwijten dat ze haar subrogatoire vordering niet heeft ingesteld (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950215.12": {
+      "court": "CASS",
+      "date": "1995-02-15",
+      "roleNumber": "P941227F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur qui a fourni des prestations au profit de la victime d'un dommage dont un tiers est partiellement responsable, est subrogé dans les droits du bénéficiaire à concurrence de la totalité du montant des sommes dues à cette victime en vertu du droit commun en réparation du même dommage et ce, quelle que soit la part de responsabilité retenue à charge de la victime."
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die prestaties heeft verleend aan de persoon die schade heeft geleden waarvoor een derde ten dele aansprakelijk is, treedt in de plaats van de rechthebbende tot beloop van het geheel van de sommen die krachtens het gemeen recht aan de getroffene verschuldigd zijn ter vergoeding van dezelfde schade, ongeacht de mate waarin de getroffene aansprakelijk is verklaard."
       ]
     }
   }

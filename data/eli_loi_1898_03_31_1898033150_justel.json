@@ -15,6 +15,22 @@
       ]
     }
   },
+  "6": {
+    "ECLI:BE:CASS:1979:ARR.19790510.4": {
+      "court": "CASS",
+      "date": "1979-05-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une convention est conclue avec un tiers par les membres d'une association qui n'a pas la personnalité juridique, ce sont les associés seuls qui deviennent créanciers et débiteurs des droits et obligations qui en découlent, lesquels se divisent en règle entre eux et se fixent dans leurs patrimoines."
+      ],
+      "abstractNL": [
+        "Wanneer de leden van een vereniging zonder rechtspersoonlijkheid een overeenkomst aangaan met een derde worden alleen de vennoten schuldeiser en schuldenaar van de eruit voortvloeiende rechten en verplichtingen, die in de regel onder hen verdeeld en in hun vermogen opgenomen worden <1>."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2005:ARR.20050404.20": {
       "court": "CASS",
@@ -28,6 +44,90 @@
       ],
       "abstractNL": [
         "De verplichting voor de kabelmaatschappijen die lid zijn van een beroepsvereniging voor maatschappijen of verenigingen die radio- en televisieprogramma's via de kabel doorgeven, om vóór de doorgifte via de kabel van prestaties van uitvoerende kunstenaars de toestemming te verkrijgen van de houders van de naburige rechten op die prestaties, welke hun recht om die doorgifte toe te staan of te verbieden alleen kunnen uitoefenen door een vennootschap voor het beheer van de rechten, vloeit voort uit art. 51, W. 30 juni 1994 betreffende het auteursrecht en de naburige rechten, en houdt geen verband met hun hoedanigheid van deelgenoot van de voormelde beroepsvereniging."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880210.18": {
+      "court": "CASS",
+      "date": "1988-02-10",
+      "roleNumber": "6302",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/10/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "Une union professionnelle légalement reconnue peut, soit par constitution de partie civile, soit par citation directe, réclamer la réparation du dommage causé par l'atteinte aux intérêts pour la protection desquels elle est constituée, spécialement aux intérêts professionnels d'ordre matériel ou moral; elle peut aussi agir en justice pour la protection des droits individuels que ses membres tiennent de leur qualité d'associé. ( Loi du 31 mars 1898, articles 2 et 10. )"
+      ],
+      "abstractNL": [
+        "Een wettelijk erkende beroepsvereniging kan, hetzij door zich burgerlijke partij te stellen hetzij door rechtstreekse dagvaarding, herstel vorderen van schade die voortvloeit uit de aantasting van de belangen ter bescherming waarvan zij is opgericht, inzonderheid van de beroepsbelangen van stoffelijke of zedelijke aard; zij kan ook in rechte optreden ter verdediging van de individuele rechten die haar leden in hun hoedanigheid van aangeslotenen bezitten. ( Artt. 2 en 10, Wet 31 maart 1898. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720912.4": {
+      "court": "CASS",
+      "date": "1972-09-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'union professionnelle légalement reconnue peut, par voie de constitution de partie civile, réclamer la réparation du préjudice matériel et moral, causé par l'atteinte portée, par une infraction, aux intérêts pour la protection desquels elle est constituée et peut aussi agir en justice pour la défense des droits individuels que ses membres tiennent de leur qualité d'associé. ( Loi du 31 mars 1898, art. 2 et 10. )"
+      ],
+      "abstractNL": [
+        "De wettelijk erkende beroepsvereniging kan, door zich burgerlijke partij te stellen, herstel vorderen van de materiële en morele schade veroorzaakt door de aantasting, wegens een misdrijf, van de belangen ter bescherming waarvan ze is opgericht en in rechte optreden ter verdediging van de individuele rechten die haar leden in hun hoedanigheid van aangeslotenen bezitten. ( Wet van 31 maart 1898, art. 2 en 10. )"
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19641012.1": {
+      "court": "CASS",
+      "date": "1964-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/10/12/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'union professionnelle légalement reconnue peut, par voie de constitution de partie civile, réclamer la répartition du préjudice causé par l'atteinte portée, par une infraction, aux intérêts pour la protection desquels elle est constituée et agir aussi pour la défense des droits individuels que ses membres tiennent de leur qualité d'associé. (Loi du 31 mars 1898, art. 2 et 10.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19870519.5": {
+      "court": "CASS",
+      "date": "1987-05-19",
+      "roleNumber": "760",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La constitution de partie civile, notamment pour saisir la juridiction répressive par voie de citation directe, suppose un préjudice personnel; aucune disposition légale ne confère à l'Ordre des architectes, qui n'est pas une union professionnelle établie conformément à la loi du 31 mars 1898, le droit d'intenter l'action publique par voie de citation directe en raison d'une infraction qui nuirait aux intérêts de ses membres."
+      ],
+      "abstractNL": [
+        "De burgerlijke partijstelling, met name om de zaak door rechtstreekse dagvaarding bij het strafgerecht aanhangig te maken, vereist een eigen schade; geen enkele wettelijke bepaling verleent aan de Orde van architecten, die geen overeenkomstig de wet van 31 maart 1898 opgerichte beroepsvereniging is, het recht om bij wege van rechtstreekse dagvaarding de strafvordering wegens een misdrijf dat het belang van haar leden zou schaden, op gang te brengen."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730213.14": {
+      "court": "CASS",
+      "date": "1973-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/13/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Si l'union professionnelle, dont les statuts ont été entérinés par le Conseil d'Etat et ensuite publiés au Moniteur belge jouit de la personnalité juridique, ceux contre lesquels ladite union agit en justice ont toutefois le droit d'invoquer sa nullité qui résulterait de l'inobservation des conditions fixées par la loi pour sa constitution, mais à charge, pour eux, d'établir le fondement de ladite nullité. ( Loi du 31 mars 1898. )"
+      ],
+      "abstractNL": [
+        "Indien de beroepsvereniging, waarvan de statuten door de Raad van State zijn bekrachtigd en vervolgens in het Belgisch Staatsblad bekendgemaakt zijn, rechtspersoonlijkheid heeft, hebben degenen tegen wie deze beroepsvereniging in rechte optreedt evenwel het recht om zich te beroepen op haar nietigheid, die zou voortvloeien uit de niet-inachtneming van de wettelijke voorwaarden voor haar oprichting, onder verplichting dat zij de gegrondheid van deze nietigheid bewijzen. ( Wet van 31 maart 1898. )"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680628.4": {
+      "court": "CASS",
+      "date": "1968-06-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/06/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas assimilable à une union professionnelle régie par la loi du 31 mars 1898, une \" association \" soumise au droit écossais qui, en vertu du \" Company Act 1948 \", a le statut d'une société commerciale."
+      ],
+      "abstractNL": [
+        "Een \" vereniging \" onderworpen aan het Schots recht die bij toepassing van de \" Company Act 1948 \" het statuut van een handelsvennootschap bezit, is niet gelijk te stellen met een beroepsvereniging beheerst door de wet van 31 maart 1898."
       ]
     }
   }

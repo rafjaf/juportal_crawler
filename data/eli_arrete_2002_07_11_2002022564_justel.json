@@ -1,4 +1,52 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2012:ARR.20121105.4": {
+      "court": "CASS",
+      "date": "2012-11-05",
+      "roleNumber": "S.12.0020.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/11/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Suivant la Cour constitutionnelle, lorsque l'apatride s'est vu reconnaître cette qualité parce qu'il a involontairement perdu sa nationalité et qu'il démontre qu'il ne peut obtenir un titre de séjour légal et durable dans un autre État avec lequel il aurait des liens, la situation dans laquelle il se trouve est de nature à porter une atteinte discriminatoire à ses droits fondamentaux, de sorte que la différence de traitement entre cet apatride et le réfugié reconnu n'est pas raisonnablement justifiée; le moyen qui repose sur le soutènement qu'il est contraire à la Constitution de ne pas reconnaître à tout apatride le droit au séjour lié à sa qualité, manque en droit."
+      ],
+      "abstractNL": [
+        "Het Grondwettelijk Hof heeft beslist dat, wanneer de staatloze deze hoedanigheid heeft verkregen omdat hij buiten zijn wil zijn nationaliteit heeft verloren en aantoont dat hij geen wettige en duurzame verblijfstitel kan verkrijgen in een andere Staat waarmee hij banden zou hebben, de situatie waarin hij zich bevindt op discriminerende wijze afbreuk kan doen aan zijn grondrechten, zodat het verschil in behandeling tussen die staatloze en de erkende vluchteling niet redelijk verantwoord is; het middel, dat betoogt dat de Grondwet geschonden wordt wanneer niet aan elke staatloze het aan zijn hoedanigheid verbonden recht van verblijf wordt toegekend, faalt naar recht."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:2014:ARR.20140303.2": {
+      "court": "CASS",
+      "date": "2014-03-03",
+      "roleNumber": "S.12.0110.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La protection du travailleur commence au moment où l'employeur est informé du dépôt de la plainte motivée auprès du conseiller en prévention (1) (2). (1) Voir les concl. du M.P. (2) Art. 32tredecies de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, dans la version introduite par la loi du 11 juin 2002 relative à la protection contre la violence et le harcèlement moral ou sexuel au travail et avant son remplacement par la loi du 10 janvier 2007; articles 12 à 14 de l'arrêté royal du 11 juillet 2002 relatif à la protection contre la violence et le harcèlement moral ou sexuel au travail, avant son abrogation par l'arrêté royal du 17 mai 2007."
+      ],
+      "abstractNL": [
+        "De bescherming van de werknemer vangt aan op het tijdstip waarop de werkgever op de hoogte wordt gesteld van de indiening van de met redenen omklede klacht bij de preventieadviseur (1) (2). (1) Zie concl. OM in Pas. 2013 nr. ... (2) Art. 32tredecies van de Wet Welzijn Werknemers, in de versie ingevoerd bij de wet van 11 juni 2002 betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk en vóór de wijziging ervan bij de wet van 10 januari 2007; de artikelen 12 tot 14 van het koninklijk besluit betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk, vóór de opheffing ervan bij het KB van 17 mei 2007."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:2014:ARR.20140303.2": {
+      "court": "CASS",
+      "date": "2014-03-03",
+      "roleNumber": "S.12.0110.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La protection du travailleur commence au moment où l'employeur est informé du dépôt de la plainte motivée auprès du conseiller en prévention (1) (2). (1) Voir les concl. du M.P. (2) Art. 32tredecies de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, dans la version introduite par la loi du 11 juin 2002 relative à la protection contre la violence et le harcèlement moral ou sexuel au travail et avant son remplacement par la loi du 10 janvier 2007; articles 12 à 14 de l'arrêté royal du 11 juillet 2002 relatif à la protection contre la violence et le harcèlement moral ou sexuel au travail, avant son abrogation par l'arrêté royal du 17 mai 2007."
+      ],
+      "abstractNL": [
+        "De bescherming van de werknemer vangt aan op het tijdstip waarop de werkgever op de hoogte wordt gesteld van de indiening van de met redenen omklede klacht bij de preventieadviseur (1) (2). (1) Zie concl. OM in Pas. 2013 nr. ... (2) Art. 32tredecies van de Wet Welzijn Werknemers, in de versie ingevoerd bij de wet van 11 juni 2002 betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk en vóór de wijziging ervan bij de wet van 10 januari 2007; de artikelen 12 tot 14 van het koninklijk besluit betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk, vóór de opheffing ervan bij het KB van 17 mei 2007."
+      ]
+    }
+  },
   "22": {
     "ECLI:BE:CASS:2015:ARR.20150119.3": {
       "court": "CASS",
@@ -128,6 +176,20 @@
       ],
       "abstractNL": [
         "De gezinsbijslag die een ouder van de aanvrager van het leefloon ontvangt ten voordele van de aanvrager kan niet worden beschouwd als bestaansmiddel van de aanvrager in de zin van artikel 16, § 1, Leefloonwet."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110131.1": {
+      "court": "CASS",
+      "date": "2011-01-31",
+      "roleNumber": "S.10.0030.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul des ressources du demandeur à l'intégration sociale, peuvent être prises en considération, dans les limites fixées par le Roi par arrêté délibéré en Conseil des Ministres, les ressources des personnes avec lesquelles le demandeur cohabite; cette disposition habilite le Roi à déterminer les cas dans lesquels les ressources des cohabitants du demandeur à l'intégration sociale doivent être, peuvent être ou ne sont pas prises en considération (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Voor de berekening van de bestaansmiddelen van de aanvrager van het leefloon kunnen, binnen de grenzen bepaald door de Koning, bij een besluit vastgesteld na overleg in de Ministerraad, de bestaansmiddelen van de personen met wie de aanvrager samenwoont, in aanmerking worden genomen; die bepaling machtigt de Koning om de gevallen te bepalen waarin de bestaansmiddelen van de samenwonenden van de aanvrager van het leefloon in aanmerking moeten of kunnen komen of niet in aanmerking worden genomen (1). (1) Zie concl. O.M."
       ]
     }
   }

@@ -29,5 +29,37 @@
         "Uit het onderling verband tussen de artikelen 5, §5, en 6 van de wet van 22 april 1999 betreffende de beroepstucht voor accountants en belastingconsulenten volgt dat het begrip \"betekening\" in voormeld artikel 6 als een kennisgeving met een ter post aangetekende brief moet worden verstaan, zoals nader omschreven in voormeld artikel 5, §5, en geen gerechtsdeurwaardersexploot vereist."
       ]
     }
+  },
+  "8": {
+    "ECLI:BE:CASS:2010:ARR.20100416.4": {
+      "court": "CASS",
+      "date": "2010-04-16",
+      "roleNumber": "D.09.0006.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/16/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne permet de se pourvoir contre la décision qui radie le demandeur de la liste des stagiaires de l'Institut des experts-comptables et des conseils fiscaux pour un motif qui n'est pas de nature disciplinaire."
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling geeft de eiser het recht om zich in cassatie te voorzien tegen de beslissing die hem schrapt van de lijst van de stagiairs van het Instituut van de accountants en de belastingconsulenten om een reden die niets met tucht te maken heeft."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020910.8": {
+      "court": "CASS",
+      "date": "2002-09-10",
+      "roleNumber": "P010577N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La radiation temporaire du tableau des experts comptables externes pour la durée de la suspension a pour conséquence la perte de la qualité d'expert comptable, ce qui entraîne la déchéance du droit de porter le titre d'expert comptable (1)."
+      ],
+      "abstractNL": [
+        "De tijdelijke schrapping in het register van de externe accountants voor de duur van de schorsing heeft het verlies van hoedanigheid van accountant en als gevolg daarvan het verlies van het recht de titel van accountant te mogen voeren tot gevolg (1)."
+      ]
+    }
   }
 }

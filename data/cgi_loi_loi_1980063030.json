@@ -1,4 +1,18 @@
 {
+  "11": {
+    "ECLI:BE:CASS:1996:ARR.19960415.3": {
+      "court": "CASS",
+      "date": "1996-04-15",
+      "roleNumber": "S950106N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/04/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions du travail sont compétentes pour, à la demande du travailleur, contrôler la légalité du droit d'appréciation de l'employeur tel qu'il est prévu par l'article 11 de la convention collective de travail du 30 juin 1980, conclue au sein de la commission paritaire de la construction, relative aux conditions de travail applicables dans les entreprises qui ressortissent à cette commission, et rendue obligatoire par l'arrêté royal du 3 avril 1981."
+      ],
+      "abstractNL": null
+    }
+  },
   "17": {
     "ECLI:BE:CASS:2013:ARR.20130408.2": {
       "court": "CASS",
@@ -12,6 +26,22 @@
       ],
       "abstractNL": [
         "Het arrest verantwoordt zijn beslissing naar recht om zelfs bij collectief ontslag, de bepalingen van de collectieve arbeidsovereenkomst van 30 juni 1980 op de vakbondsafgevaardigden toe te passen, aangezien blijkt uit de feitelijke overwegingen, die het in aanmerking neemt, dat het risico op discriminatie door de werkgever onder de ontslagen werknemers niet is afgewend."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:1992:ARR.19920622.12": {
+      "court": "CASS",
+      "date": "1992-06-22",
+      "roleNumber": "7864",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la loi du 10 avril 1971 sur les accidents du travail, est considérée comme rémunération l'indemnité de mobilité, visée à l'article 31, alinéa 2, de la convention collective de travail du 30 juin 1980 relative aux conditions de travail applicables dans les entreprises de la construction, rendue obligatoire par l'arrêté royal du 3 avril 1981. ( Loi du 10 avril 1971, art. 35, alinéa 2. )"
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de Arbeidsongevallenwet wordt als loon beschouwd de mobiliteitsvergoeding bedoeld in art. 31, alinéa 2, c.a.o. van 30 juni 1980 betreffende de arbeidsvoorwaarden in het bouwbedrijf, algemeen verbindend verklaard bij K.B. van 3 april 1981. ( Art. 35, tweede lid, Arbeidsongevallenwet van 10 april 1971. )"
       ]
     }
   }

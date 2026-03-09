@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1976:ARR.19760621.6": {
+      "court": "CASS",
+      "date": "1976-06-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour bénéficier de la protection prévue par l'article 1er de l'arrêté royal nr. 91 du 29 janvier 1935, les dessins et modèles industriels doivent présenter, à la fois, une certaine nouveauté et une certaine originalité."
+      ],
+      "abstractNL": [
+        "Om de bescherming van artikel 1 van het koninklijk besluit nr. 91 van 29 januari 1935 te genieten moeten de nijverheidstekeningen en -modellen tegelijkertijd blijk geven van een zekere schepping en van een zekere originaliteit."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19880114.5": {
       "court": "CASS",
@@ -12,6 +28,34 @@
       ],
       "abstractNL": [
         "De tekeningen en modellen die ontworpen werden voor het in voege treden van de eenvormige Beneluxwet blijven onder het beschermingsregime van de vroegere nationale wetgeving. De bescherming die werd ingevoerd door K.B. nr. 91 van 29 januari 1935 geldt voor tekeningen en modellen die beantwoorden aan de voorwaarden van artikel 1, nl. nieuw zijn en origineel. Het model van een bouwmateriaal dat nieuw en origineel is valt dus onder deze bescherming."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770307.3": {
+      "court": "CASS",
+      "date": "1977-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La protection légale en matière de dessins et modèles industriels a notamment pour objet toutes combinaisons de formes plastiques moulées ayant pour but de donner à un produit un aspect nouveau ou une forme originale; l'appréciation de l'originalité de la forme ne relève pas de critères faisant abstraction du produit auquel elle est appliquée et qu'elle a pour but d'individualiser pour le distinguer d'un produit de même nature ."
+      ],
+      "abstractNL": [
+        "De wettelijke bescherming inzake nijverheidstekeningen en -modellen heeft met name betrekking op alle gegoten plastische vormen welke tot doel hebben aan een produkt een nieuw voorkomen of een eigenaardige vorm te geven; de beoordeling van de eigenaardigheid van de vorm kan niet afhangen van de criteria die onafhankelijk zouden bestaan van het produkt waarop deze vorm is toegepast en waardoor het geïndividualiseerd wordt om het te onderscheiden van een produkt van dezelfde aard ."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760621.6": {
+      "court": "CASS",
+      "date": "1976-06-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour bénéficier de la protection prévue par l'article 1er de l'arrêté royal nr. 91 du 29 janvier 1935, les dessins et modèles industriels doivent présenter, à la fois, une certaine nouveauté et une certaine originalité."
+      ],
+      "abstractNL": [
+        "Om de bescherming van artikel 1 van het koninklijk besluit nr. 91 van 29 januari 1935 te genieten moeten de nijverheidstekeningen en -modellen tegelijkertijd blijk geven van een zekere schepping en van een zekere originaliteit."
       ]
     }
   }

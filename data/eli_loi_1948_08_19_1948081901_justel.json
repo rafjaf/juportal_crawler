@@ -1,4 +1,36 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1991:ARR.19910128.7": {
+      "court": "CASS",
+      "date": "1991-01-28",
+      "roleNumber": "8978",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/28/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions du travail sont compétentes pour connaître des contestations individuelles relatives aux contrats de travail même en cas de grève et le juge du fond peut, à cette occasion, se prononcer sur le caractère raisonnable ou non des objectifs poursuivis par les travailleurs concernés en refusant de reprendre le travail. ( Code judiciaire, article 578, 1°; Loi du 19 août 1948, art. 1er; Loi du 3 juillet 1978, art. 35 , alinéas 1er et 2. )"
+      ],
+      "abstractNL": [
+        "De arbeidsgerechten zijn bevoegd om kennis te nemen van individuele geschillen inzake arbeidsovereenkomsten, zelfs in geval van staking, en de feitenrechter kan zich te dier gelegenheid erover uitspreken of de bedoeling van de betrokken werknemers om het werk niet te willen hervatten, al dan niet redelijk is. ( Art. 578, 1°, Gerechtelijk Wetboek; art. 1, Wet Prestaties Algemeen Belang van 19 augustus 1948; art. 35, eerste en tweede lid, Arbeidsovereenkomstenwet van 3 juli 1978. )"
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1980:ARR.19800414.9": {
+      "court": "CASS",
+      "date": "1980-04-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le manquement d'une partie à ses obligations ne met pas, en soi, fin au contrat de travail."
+      ],
+      "abstractNL": [
+        "Op zichzelf doet een tekortkoming van een partij aan haar verplichtingen de arbeidsovereenkomst niet eindigen <1>."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1984:ARR.19840507.1": {
       "court": "CASS",
@@ -36,6 +68,48 @@
       "abstractFR": null,
       "abstractNL": [
         "Nu het arrest eerst enkel als principe vooropstelt dat het opzettelijk niet-verrichten van de bedongen arbeid een onrechtmatige daad is gelet op het voorschrift van artikel 1134, derde lid, van het Burgerlijk Wetboek en het arbeidshof vervolgens omstandig de redenen aangeeft waarom het oordeelt dat ten deze verweerders deelneming aan de staking geoorloofd was, motiveert het aldus, zonder tegenstrijdigheid, zijn beslissing regelmatig. In zover de onderdelen gericht zijn tegen de beslissing dat een werknemer het recht heeft deel te nemen aan een in de onderneming uitgeroepen staking die niet door een representatieve vakorganisatie is erkend, wordt het volgende overwogen :\"Overwegende dat de wet van 19 augustus 1948 betreffende de prestaties van algemeen belang in vredestijd regelt hoe de maatregelen, prestaties en diensten worden bepaald \"die moeten verzekerd worden in geval van collectieve en vrijwillige stopzetting van de arbeid, ten einde het hoofd te bieden aan zekere vitale behoeften, sommige dringende werken uit te voeren aan de machines of aan de machines of aan het materiaal, sommige taken te volbrengen die geboden zijn door een geval van overmacht of een onvoorziene noodzakelijkheid\"; dat artikel 3 van dezelfde wet bepaalt wie de werknemers aanwijst die deze werkzaamheden moeten verrichten; dat uit deze wettelijke regeling volgt dat stakende werknemers alleen ertoe gehouden zijn de krachtens de wet opgelegde arbeid te verrichten. Dat de wet van 19 augustus 1948 aldus de erkenning inhoudt van het recht van de werknemer om de contractueel bedongen arbeid wegens staking niet te verrichten en om derhalve, met afwijking van artikel 1134 van het Burgerlijk Wetboek, de door de arbeidsovereenkomst opgenomen verplichting niet ten uitvoer te brengen. Dat de deelneming aan een staking op zichzelf dus geen onrechtmatige daad is. Overwegende dat voor het overige geen wetsbepaling de werknemers verbiedt deel te nemen aan een staking die niet door een representatieve vakorganisatie is erkend. Overwegende dat, ook al is het stakingsrecht als zodanig niet uitdrukkelijk door de wet erkend, de aangevochten beslissing op de voornoemde gronden naar recht verantwoord is\"."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840507.12": {
+      "court": "CASS",
+      "date": "1984-05-07",
+      "roleNumber": "6623",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'employeur a le droit, en raison d'un lock-out, de ne pas faire exécuter le travail convenu ( loi du 9 août 1948 ) et, partant, par dérogation à l'article 1134 du Code civil, de ne pas exécuter les obligations découlant du contrat de travail; dès lors, le fait de décréter le lock-out ne constitue pas nécessairement un acte illicite. Le juge ne peut, pour décider que le travailleur ne peut prétendre à des dommages-intérêts pour suspension unilatérale et fautive du contrat, refuser de rechercher si, en l'espèce, le lock-out décrété par l'employeur ne constituait pas une suspension qui n'était justifiée ni par la force majeure ni par l'exception d'inexécution."
+      ],
+      "abstractNL": [
+        "De werkgever heeft het recht om, wegens uitsluiting ( lock-out ), de overeengekomen arbeid niet te doen uitvoeren ( wet van 19 augustus 1948 ) en bijgevolg om, in afwijking van art. 1134 B.W., de uit de arbeidsovereenkomst voortvloeiende verbintenissen niet uit te voeren; uitsluiting aankondigen is derhalve niet noodzakelijk een onrechtmatige handeling. De rechter mag, om te beslissen dat de werknemer geen recht heeft op schadevergoeding wegens eenzijdige en foutieve schorsing van de overeenkomst, niet weigeren na te gaan of, in het onderhavige geval, de door de werkgever aangekondigde uitsluiting een schorsing was die noch door overmacht noch door de exceptie van niet-uitvoering was verantwoord."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811221.12": {
+      "court": "CASS",
+      "date": "1981-12-21",
+      "roleNumber": "3288",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur a le droit, en raison d'une grève, de ne pas effectuer le travail convenu ( loi du 19 août 1948 ) et partant, par dérogation à l'article 1134 du Code civil, de ne pas exécuter les obligations découlant du contrat de travail; la participation à une grève ne constitue, dès lors, pas en soi un acte illicite."
+      ],
+      "abstractNL": [
+        "De werknemer heeft het recht om de contractueel bedongen arbeid wegens staking niet te verrichten (wet 19 augustus 1948) en derhalve, met afwijking van art. 1134 B.W., de door de arbeidsovereenkomst opgenomen verplichtingen niet ten uitvoer te brengen; dienvolgens is deelneming aan een staking op zichzelf geen onrechtmatige daad <5>."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910128.7": {
+      "court": "CASS",
+      "date": "1991-01-28",
+      "roleNumber": "8978",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/28/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les juridictions du travail sont compétentes pour connaître des contestations individuelles relatives aux contrats de travail même en cas de grève et le juge du fond peut, à cette occasion, se prononcer sur le caractère raisonnable ou non des objectifs poursuivis par les travailleurs concernés en refusant de reprendre le travail. ( Code judiciaire, article 578, 1°; Loi du 19 août 1948, art. 1er; Loi du 3 juillet 1978, art. 35 , alinéas 1er et 2. )"
+      ],
+      "abstractNL": [
+        "De arbeidsgerechten zijn bevoegd om kennis te nemen van individuele geschillen inzake arbeidsovereenkomsten, zelfs in geval van staking, en de feitenrechter kan zich te dier gelegenheid erover uitspreken of de bedoeling van de betrokken werknemers om het werk niet te willen hervatten, al dan niet redelijk is. ( Art. 578, 1°, Gerechtelijk Wetboek; art. 1, Wet Prestaties Algemeen Belang van 19 augustus 1948; art. 35, eerste en tweede lid, Arbeidsovereenkomstenwet van 3 juli 1978. )"
       ]
     }
   }

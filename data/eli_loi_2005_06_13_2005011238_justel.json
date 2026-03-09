@@ -54,6 +54,22 @@
       ]
     }
   },
+  "34": {
+    "ECLI:BE:CASS:2009:ARR.20091222.5": {
+      "court": "CASS",
+      "date": "2009-12-22",
+      "roleNumber": "P.09.1306.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La recherche de détecteurs de radars par les services de police par l'utilisation d'un détecteur de détecteurs de radars n'est contraire ni à la Directive 1999/5/CE du Parlement européen et du Conseil, du 9 mars 1999, concernant les équipements hertziens et les équipements terminaux de télécommunications et la reconnaissance mutuelle de leur conformité, ni à la loi du 13 juin 2005 relative aux communications électroniques (1). (1) Voir les conclusions du M.P., publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De opsporing van radardetectoren door de politiediensten middels het gebruik van een radardetector-detector is strijdig noch met Richtlijn 1999/5/EG van het Europees Parlement en de Raad van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit, noch met de wet van 13 juni 2005 betreffende de elektronische communicatie (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
   "55": {
     "ECLI:BE:CASS:2021:ARR.20211007.1N.1": {
       "court": "CASS",
@@ -131,6 +147,20 @@
       ],
       "abstractNL": [
         "Het arrest dat overweegt dat het onbelangrijk is te weten of de werknemer de werkgever toegang tot zijn e-mails heeft verleend, aangezien het e-mails betreft die geen verband houden met zijn persoonlijke levenssfeer zodat de kennisname ervan bijgevolg geen inbreuk kan zijn op artikel 124 van de wet van 13 juni 2005 betreffende de elektronische communicatie, schendt die wetsbepaling die geen onderscheid maakt tussen private en professionele e-mails (1). (1) Zie concl. OM in Pas. 2019, nr. 299."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091001.4": {
+      "court": "CASS",
+      "date": "2009-10-01",
+      "roleNumber": "C.08.0064.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La prise de connaissance intentionnelle de l'existence d'un courriel, ainsi que l'usage de cette connaissance ou de l'information qui est ainsi obtenue intentionnellement ou non, par quiconque n'y a pas été autorisé au préalable, est exclue."
+      ],
+      "abstractNL": [
+        "De opzettelijke kennisname van het bestaan van een e-mail, alsook het gebruik van die kennis of van de informatie die zodoende met of zonder opzet werd verkregen, is uitgesloten voor wie niet vooraf de nodige toestemmingen heeft gekregen."
       ]
     }
   },

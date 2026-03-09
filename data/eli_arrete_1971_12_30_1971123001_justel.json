@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1976:ARR.19760630.9": {
+      "court": "CASS",
+      "date": "1976-06-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'employeur du travailleur ou l'assureur n'a pas institué un service médical remplissant les conditions prévues par la loi, la victime d'un accident du travail a le libre choix du médecin; le tarif du remboursement des soins médicaux correspond en ce cas au tarif des honoraires et des prix, tel qu'il résulte de l'application de la nomenclature des soins de santé établie en exécution de la législation instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité. (Loi du 10 avril 1971 sur les accidents du travail, art. 29 et 31; arr. roy. du 30 décembre 1971, art. 1er.)"
+      ],
+      "abstractNL": [
+        "Wanneer de werkgever van de werknemer of de verzekeraar geen medische dienst heeft ingesteld die aan de wettelijke voorwaarden voldoet, kan de getroffene van een arbeidsongeval vrij een geneesheer kiezen; het tarief voor terugbetaling van geneeskundige verzorging is, in dat geval, gelijk aan het tarief van honoraria en prijzen, zoals het voortvloeit uit de toepassing van de nomenclatuur van de geneeskundige verstrekkingen opgemaakt ter uitvoering van de wetgeving tot instelling en organisatie van een regeling voor verplichte ziekte- en invaliditeitsverzekering. ( Artt. 29 en 31 wet van 10 april 1971; art. 1 K.B. van 30 december 1971. )"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1976:ARR.19760630.2": {
       "court": "CASS",

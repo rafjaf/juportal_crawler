@@ -1,4 +1,34 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1992:ARR.19921123.2": {
+      "court": "CASS",
+      "date": "1992-11-23",
+      "roleNumber": "91/13250",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt énonce \"que le travailleur est qualifié dans les documents sociaux, de travailleur intermittent; que la cour (du travail) approuve, en son principe, la validité de contrats précisant ainsi la nature des prestations du travailleur; qu'il doit être admis également que pareil contrat est valable, indépendamment de la durée des prestations, pour autant que celles-ci soient réellement intermittentes; que le contrat convenu entre parties répond à cette condition dans la mesure où le travail s'effectue sur convocation et est rémunéré essentiellement à la vacation; qu'il est indifférent de constater qu'en l'espèce, les convocations patronales répétées font apparaître une relative stabilité dans les relations de travail, sauf à démontrer - quod non - une fraude de l'employeur\". L'arrêt répond ainsi, en les contredisant, aux conclusions du demandeur qui invoquaient la fraude de la défenderesse. Le moyen, en cette branche, manque en fait."
+      ],
+      "abstractNL": null
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1995:ARR.19950306.12": {
+      "court": "CASS",
+      "date": "1995-03-06",
+      "roleNumber": "S940114F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur occupé dans un régime à temps partiel, accepté pour échapper au chômage, qui a introduit auprès de son organisme de paiement, avec sa demande d'allocations de chômage, la déclaration signée par son employeur, prévue à l'article 171octies, alinéa 1er, c, de l'arrêté royal du 20 décembre 1963, est tenu, en règle, d'accepter l'emploi à temps plein qu'il doit obtenir par priorité en vertu de l'article 4 de la convention collective de travail n° 35 visée à cette disposition, lors même que l'employeur ne lui aurait offert cet emploi que pour se conformer à ladite convention collective de travail."
+      ],
+      "abstractNL": [
+        "Wanneer een werknemer tewerkgesteld in een deeltijdse arbeidsregeling, die aanvaard werd om aan de werkloosheid te ontsnappen, samen met zijn aanvraag om werkloosheidsuitkeringen, de in art. 171 octies, alinéa 1, 1°, c, Werkloosheidsbesluit bedoelde en door zijn werkgever ondertekende verklaring bij zijn uitbetalingsinstelling heeft ingediend, moet hij, in de regel, de voltijdse betrekking aanvaarden, die hij bij voorrang moet verkrijgen krachtens art. 4 van de in die bepaling bedoelde C.A.O. nr. 35, ook al had de werknemer hem die betrekking alleen aangeboden om zich te gedragen naar voormelde C.A.O."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1995:ARR.19950306.2": {
       "court": "CASS",

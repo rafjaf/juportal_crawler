@@ -1,4 +1,68 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2011:ARR.20111117.7": {
+      "court": "CASS",
+      "date": "2011-11-17",
+      "roleNumber": "C.10.0516.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/11/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Un transport de personnes effectué par aéronef, contre rémunération, sur le territoire belge est soumis à l'application des dispositions de la Convention de Varsovie du 12 octobre 1929 indépendamment du moment où le passager quitte l'aéronef (1). (1) Voir les conclusions (contraires) du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Een vervoer tegen betaling van personen met luchtvaartuigen op het Belgisch grondgebied valt onder de toepassing van de bepalingen van het Verdrag van Warschau ongeacht wanneer de passagier het luchtvaartuig verlaat (1). (1) Zie de (strijdige) concl. van het OM."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1988:ARR.19880930.7": {
+      "court": "CASS",
+      "date": "1988-09-30",
+      "roleNumber": "5675",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les énonciations de la lettre de transport aérien relatives à la qualité , au volume et à l'état de la marchandise se trouvant dans un colis ne font preuve de ce que le transporteur a reçu les marchandises manquantes que pour autant que la lettre de transport contienne les constatations contradictoires requises. ( Convention de Varsovie du 12 octobre 1929, modifiée à la Haye en 1955, art. 11 , al. 2. )"
+      ],
+      "abstractNL": [
+        "De opgaven in een luchtvrachtbrief betreffende de hoeveelheid, de omvang en de toestand der goederen in een collo strekken tegenover de vervoerder enkel tot bewijs dat hij de ontbrekende goederen heeft ontvangen, voor zover de vrachtbrief de vereiste contradictoire vaststellingen bevat. ( Art. 11, lid 2, Verdrag van Warschau van 12 oktober 1929, gewijzigd te 's Gravenhage in 1955. )"
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:2008:ARR.20080410.10": {
+      "court": "CASS",
+      "date": "2008-04-10",
+      "roleNumber": "C.07.0074.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par la perte de bagages la disparition de biens ou leur remise à une personne autre que celle qui peut prétendre à cette remise."
+      ],
+      "abstractNL": [
+        "Onder verlies van bagage wordt begrepen het verdwijnen van de goederen of de afgifte ervan aan een andere persoon dan diegene die gerechtigd is op de afgifte."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:1977:ARR.19770127.2": {
+      "court": "CASS",
+      "date": "1977-01-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/01/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 25 de la Convention de Varsovie du 12 octobre 1929 pour l'unification de certaines règles relatives au transport aérien international, approuvée par la loi du 7 avril 1936, modifié par l'article XIII du Protocole de La Haye du 28 septembre 1955 approuvé par la loi du 30 juillet 1963 qui détermine les cas où le transporteur est tenu à la réparation intégrale du préjudice, il faut que le transporteur ou son préposé, auquel est reproché un acte ou une omission téméraires, ait eu la conscience effective qu'un dommage en résulterait probablement et non pas seulement qu'il ait normalement dû en avoir conscience (2)."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 25 van het Verdrag van Warschau van 12 oktober 1929 tot het brengen van eenheid in enige bepalingen inzake het internationaal luchtvervoer, goedgekeurd bij de wet van 7 april 1936, gewijzigd bij artikel XIII van het Protocol van 's-Gravenhage van 28 september 1963, goedgekeurd bij de wet van 30 juli 1963, waarin de gevallen worden vastgesteld waarin de vervoerder tot volledige schadevergoeding gehouden is, moet de vervoerder of zijn aangestelde, aan wie men een roekeloze daad of nalatigheid verwijt, werkelijk weten dat de schade waarschijnlijk het gevolg zou zijn en niet enkel dat hij zulks normalerwijze had moeten weten (2)."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19880930.5": {
       "court": "CASS",
@@ -12,6 +76,20 @@
       ],
       "abstractNL": [
         "Ingeval wordt beweerd dat er goederen ontbreken en de luchtvrachtbrief niet de vereiste tegenstelbare vaststelling inhoudt betreffende de hoeveelheid, de omvang en de toestand van de goederen in de colli, volgt uit artikel 11 alinea 2 van het Verdrag van Warschau dat de opgaven hiervan in de luchtvrachtbrief geen bewijs leveren tegen de vervoerder dat hij de ontbrekende goederen voor vervoer ontvangen heeft. Het is daarenboven niet vereist dat de vervoerder in de luchtvrachtbrief enig voorbehoud heeft gemaakt betreffende de aard van de goederen."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880930.7": {
+      "court": "CASS",
+      "date": "1988-09-30",
+      "roleNumber": "5675",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les énonciations de la lettre de transport aérien relatives à la qualité , au volume et à l'état de la marchandise se trouvant dans un colis ne font preuve de ce que le transporteur a reçu les marchandises manquantes que pour autant que la lettre de transport contienne les constatations contradictoires requises. ( Convention de Varsovie du 12 octobre 1929, modifiée à la Haye en 1955, art. 11 , al. 2. )"
+      ],
+      "abstractNL": [
+        "De opgaven in een luchtvrachtbrief betreffende de hoeveelheid, de omvang en de toestand der goederen in een collo strekken tegenover de vervoerder enkel tot bewijs dat hij de ontbrekende goederen heeft ontvangen, voor zover de vrachtbrief de vereiste contradictoire vaststellingen bevat. ( Art. 11, lid 2, Verdrag van Warschau van 12 oktober 1929, gewijzigd te 's Gravenhage in 1955. )"
       ]
     }
   }

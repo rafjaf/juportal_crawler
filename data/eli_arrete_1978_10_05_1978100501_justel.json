@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2006:ARR.20061009.3": {
+      "court": "CASS",
+      "date": "2006-10-09",
+      "roleNumber": "S050099F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, 1°, de l'arrêté royal du 5 octobre 1978 portant exécution des articles 299bis du Code des impôts sur les revenus et 30bis de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, vise tout travail de nettoyage, sans distinction suivant la nature ou l'importance de ce travail; seul est exclu le nettoyage d'une habitation individuelle existante (1). (1) Voir Cass., 25 octobre 1999, RG S.99.0006.N, n° 562."
+      ],
+      "abstractNL": [
+        "Artikel 1, 1°, K.B. 28 dec. 1978 tot uitvoering van de artikelen 299bis van het Wetboek van de inkomstenbelastingen en 30bis van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, heeft betrekking op alle reinigingswerken, zonder onderscheid volgens de aard of het belang van die werken; alleen de reiniging van bestaande individuele woongelegenheden is uitgesloten (1). (1) Zie Cass., 25 okt. 1999, A.R. S.99.0006.N, nr 562."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1983:ARR.19830428.9": {
       "court": "CASS",
@@ -10,6 +26,34 @@
       "abstractFR": null,
       "abstractNL": [
         "Het bestreden arrest (Hof Luik, 10 februari 1982, J.T., 1983, 451) heeft de R.S.Z. (eiser) veroordeeld tot terugbetaling, aan de curator van een gefailleerde aannemer, van de bedragen die derden, bij de voortzetting van de handelsverrichtingen van de gefailleerde door de curator, met toepassing van art. 30bis van de wet van 27 juni 1967 en van art. 27 van het K.B. van 5 oktober 1978 aan de R.S.Z. hebben betaald. Het daartegen door de R.S.Z. aangevoerde middel faalt naar recht:\"Overwegende dat, ingevolge artikel 444 van de Faillissementswet van 18 april 1851, de gefailleerde te rekenen van het vonnis van faillietverklaring het beheer over al zijn goederen verliest, dat wordt toevertrouwd aan een curator die, als gerechtelijk lasthebber, de bij de wet bepaalde machten uitoefent, in het belang zowel van de gezamelijke schuldeisers als van de gefailleerde; \"Overwegende dat, wanneer de curator, ingevolge artikel 475 van de genoemde Faillissementswet, van de rechtbank de toestemming krijgt om de handelsverrichtingen van de gefailleerde voorlopig voort te zetten, de schuldvorderingen en de schulden ten gevolge van die activiteit verbintenissen van de boedel zelf zijn, die onder het bestuur van de curator blijven zolang de staat van faillissement aanhoudt; \"Dat die toestand niet wordt beinvloed door het feit dat de gefailleerde bij het einde van die staat, doordat hij is verbonden door de handelingen die de curator binnen de perken van zijn macht heeft verricht, houder van die schulden en schuldvorderingen wordt; \"Overwegende dat bijgevolg het arrest, dat met verwijzing naar de motieven van de eerste rechter vaststelt dat de curator van de rechtbank toestemming heeft gekregen om voorlopig de handelsverrichtingen van de gefailleerden voort te zetten, en dat verschillende schuldenaars wegens die verrichtingen aan eiser de inhoudingen bepaald bij artikel 30bis van de wet van 27 juni 1969 hebben gestort, en beslist dat voor de toepassing van die wetsbepaling en van artikel 30, alinéa 1, van het koninklijk besluit van 5 oktober 1978 de medecontractant, aan wie op zijn verzoek het bedrag van de inhoudingen gestort door de genoemde schuldenaars moet worden overgemaakt, de curator is en niet de gefailleerde, geen van de in het middel aangewezen wettelijke bepalingen schendt.\""
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990621.7": {
+      "court": "CASS",
+      "date": "1999-06-21",
+      "roleNumber": "C980143F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 403, alinéas 1er et 2, du Code des impôts sur les revenus (1992) et l'article 23 de l'arrêté royal du 5 octobre 1978, sont applicables sans limitation à tout montant versé par le maître de l'ouvrage au receveur après la mise en liquidation de la société non enregistrée."
+      ],
+      "abstractNL": [
+        "Art. 403, eerste en tweede lid, WIB (1992) en art. 23 KB 5 oktober 1978 zijn onbeperkt van toepassing op elk bedrag dat de opdrachtgever aan de ontvanger heeft betaald na de vereffening van de niet geregistreerde vennootschap."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950331.14": {
+      "court": "CASS",
+      "date": "1995-03-31",
+      "roleNumber": "F930119N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen qui se borne à indiquer l'article 299bis du Code des impôts sur les revenus (1964) comme disposition légale violée et n'indique pas l'article 1er de l'arrêté royal du 5 octobre 1978 portant exécution des articles 299bis et 299ter, alinéa 6, 2°, du Code des impôts sur les revenus (1964) et 30bis et 30ter, alinéa 9, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernent la sécurité sociale des travailleurs, qui prévoit à quelles activités s'applique l'article 299bis du Code des impôts sur les revenus."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel dat alleen art. 299bis WIB (1964) als geschonden wetsbepaling aanduidt en niet art. 1 KB 5 okt. 1978 tot uitvoering van de artt. 299bis en 299ter, alinéa 6, 2°, WIB (1964) en van de artt. 30bis en 30ter, alinéa 9, 2° van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 dec. 1944 betreffende de maatschappelijke zekerheid der arbeiders, dat bepaalt op welke werkzaamheden art. 299bis WIB (1964) van toepassing is."
       ]
     }
   }

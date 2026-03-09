@@ -1,4 +1,126 @@
 {
+  "3": {
+    "ECLI:BE:CASS:2011:ARR.20110520.1": {
+      "court": "CASS",
+      "date": "2011-05-20",
+      "roleNumber": "F.09.0114.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Selon le cas, les accises doivent être considérées comme des taxes perçues à l'importation de marchandises au sens des articles 1, b) et 8.1 de la Convention TIR (1). (1) Voir les conclusions du M.P. publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Accijnzen moeten, naargelang het geval, beschouwd worden als heffingen die worden geheven bij of in verband met de invoer van goederen in de zin van de artikelen 1.b) en 8.1 van de TIR-overeenkomst (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20051104.15": {
+      "court": "CASS",
+      "date": "2005-11-04",
+      "roleNumber": "C040367F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/11/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'énumération à l'article 3 de l'arrêté royal n° 52 du 29 décembre 1992 des documents probants nécessaires pour établir la réalité de l'expédition ou du transport des biens est exemplative de sorte que ne sont pas exclus d'autres documents pour autant qu'à tout moment ils soient en possession du vendeur et puissent être produits au fonctionnaire compétent."
+      ],
+      "abstractNL": [
+        "De opsomming in art. 3, K.B. nr 52 van 29 dec. 1992 van de noodzakelijke bewijskrachtige documenten waaruit de echtheid van de verzending of het vervoer van de goederen blijkt, dient slechts als voorbeeld zodat andere documenten niet uitgesloten zijn voor zover ze te allen tijde in het bezit van de verkoper zijn en aan de bevoegde ambtenaar kunnen worden getoond."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040420.9": {
+      "court": "CASS",
+      "date": "2004-04-20",
+      "roleNumber": "P030802N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Un bien soumis à accise qui est détenu en-dehors d'un régime suspensif est mis à la consommation, à un moment donné, de quelque manière que ce soit (1) (2). (1) Voir CJCE, 5 avril 2001, Jur. 2001, I-2729 (van de Water, C-325/99). (2) Les dispositions actuellement applicables sont les articles 4, ,§ 1er, sub 8° et 11°, 6, 12 et 15, ,§ 1er, de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise."
+      ],
+      "abstractNL": [
+        "Een accijnsgoed dat buiten een schorsingsregeling voorhanden wordt gehouden, is ooit, op welke wijze dan ook, uitgeslagen tot verbruik (1) (2). (1) Zie H.v.J. EG, 5 april 2001, Jur. 2001, I-2729 (van de Water, C-325/99). (2) De thans toepasselijke bepalingen zijn artt. 4, ,§ 1, sub 8° en 11°, 6, 12 en 15, ,§ 1, van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2004:ARR.20040420.9": {
+      "court": "CASS",
+      "date": "2004-04-20",
+      "roleNumber": "P030802N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que la sortie, fût-ce de manière irrégulière, du régime suspensif équivaut à une mise en circulation, toute production, transformation, détention ou circulation en-dehors du régime suspensif rend l'accise exigible (1) (2). (1) Voir CJCE, 5 avril 2001, Jur. 2001, I-2729 (van de Water, C-325/99). (2) Actuellement art. 6 de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise."
+      ],
+      "abstractNL": [
+        "Aangezien een onttrekking, ook op onregelmatige wijze, aan een schorsingsregeling is gelijkgesteld met uitslag tot verbruik, leidt alle productie, verwerking, voorhanden hebben of verkeer buiten een schorsingsregeling tot de verschuldigdheid van de accijns (1) (2). (1) Zie H.v.J. EG, 5 april 2001, Jur. 2001, I-2729 (van de Water, C-325/99). (2) Thans art. 6 van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2010:ARR.20100520.7": {
+      "court": "CASS",
+      "date": "2010-05-20",
+      "roleNumber": "F.09.0047.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/20/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La notification par lettre recommandée de la décision du ministre des Finances d'ouvrir un compte spécial en vue du paiement de la taxe sur la valeur ajoutée n'est pas prescrite à peine de nullité; la forme de la notification ne constitue pas davantage une formalité substantielle qui devrait être respectée afin de faire naître une dette d'impôt (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De kennisgeving van de beslissing van de Minister van Financiën tot opening van een bijzondere rekening voor de voldoening van de belasting over de toegevoegde waarde bij aangetekende brief is niet voorgeschreven op straffe van nietigheid; de vorm van kennisgeving is evenmin een substantiële vormvereiste die zou moeten worden nageleefd om een belastingschuld te doen ontstaan (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1999:ARR.19990921.6": {
+      "court": "CASS",
+      "date": "1999-09-21",
+      "roleNumber": "P980368N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La détention de paquets de cigarettes non revêtus de bandelettes fiscales belges, pour lesquels des droits d'importation, des droits d'accises et des droits d'accises spéciaux sont dus, ne constitue pas une infraction commise par négligence ou une infraction involontaire, mais requiert un dol général, c'est-à-dire l'intention soit d'accomplir sciemment et volontairement l'acte interdit pénalement, soit de négliger sciemment et volontairement l'acte obligatoire."
+      ],
+      "abstractNL": [
+        "Het voorhanden hebben van pakjes sigaretten niet bekleed met Belgische fiscale bandjes waarop invoerrechten, accijns en bijzondere accijns verschuldigd zijn, is geen onachtzaamheids- of onopzettelijk misdrijf, maar vereist algemeen opzet, dit is het opzet om wetens en willens de strafrechtelijk verboden, respectievelijk geboden handeling te stellen of na te laten."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2004:ARR.20040420.9": {
+      "court": "CASS",
+      "date": "2004-04-20",
+      "roleNumber": "P030802N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le document accompagnant tout produit soumis à accise circulant en régime de suspension entre les territoires des différents Etats membres, ne concerne que la circulation des produits soumis à accise en régime de suspension de sorte qu'il ne résulte pas du fait que les produits soumis à accise sont détenus avec le document d'accompagnement qu'ils sont soumis au régime de suspension en raison de la détention de produits soumis à accise (1). (1) Actuellement art. 12, 15, ,§ 1er et 23 de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise."
+      ],
+      "abstractNL": [
+        "Het geleidedocument waarvan elk accijnsproduct dat zich onder de schorsingsregeling in het verkeer tussen de Lid-Staten bevindt, vergezeld gaat, heeft alleen betrekking op het verkeer van accijnsproducten onder de schorsingsregeling zodat het feit dat accijnsproducten worden voorhanden gehouden met een geleidedocument, niet meebrengt dat zij vallen onder de schorsingsregeling voor het voorhanden hebben van accijnsproducten (1). (1) Thans artt. 12, 15, ,§ 1, en 23 van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daaarop."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990921.6": {
+      "court": "CASS",
+      "date": "1999-09-21",
+      "roleNumber": "P980368N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La détention de paquets de cigarettes non revêtus de bandelettes fiscales belges, pour lesquels des droits d'importation, des droits d'accises et des droits d'accises spéciaux sont dus, ne constitue pas une infraction commise par négligence ou une infraction involontaire, mais requiert un dol général, c'est-à-dire l'intention soit d'accomplir sciemment et volontairement l'acte interdit pénalement, soit de négliger sciemment et volontairement l'acte obligatoire."
+      ],
+      "abstractNL": [
+        "Het voorhanden hebben van pakjes sigaretten niet bekleed met Belgische fiscale bandjes waarop invoerrechten, accijns en bijzondere accijns verschuldigd zijn, is geen onachtzaamheids- of onopzettelijk misdrijf, maar vereist algemeen opzet, dit is het opzet om wetens en willens de strafrechtelijk verboden, respectievelijk geboden handeling te stellen of na te laten."
+      ]
+    }
+  },
   "13": {
     "ECLI:BE:CASS:2019:ARR.20190426.2": {
       "court": "CASS",
@@ -12,6 +134,22 @@
       ],
       "abstractNL": [
         "Uit de samenhang tussen de artikelen 13 en 20 van het koninklijk besluit van 29 december 1992 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop, volgt dat de in het voormelde artikel 20 opgenomen verplichting zekerheid te stellen voor de accijnzen slechts rust op de erkend entrepothouder, en niet op de douane-expediteur die de aangifte deed in de douanerechten (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:2000:ARR.20001003.13": {
+      "court": "CASS",
+      "date": "2000-10-03",
+      "roleNumber": "P981232NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/10/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le type de l'activité et non le type du véhicule étant déterminant pour bénéficier de l'exonération de l'accise sur les huiles minérales, les tracteurs utilisés pour l'exploitation agricole bénéficient de cette exonération uniquement lorsqu'ils sont utilisés pour des activités agricoles (1)."
+      ],
+      "abstractNL": [
+        "Nu de aard van de werkzaamheid en niet de aard van het voertuig bepalend is voor het genieten van vrijstelling van accijns op minerale oliën, genieten de tractoren gebruikt bij de exploitatie van landbouwbedrijven alleen van deze vrijstelling wanneer zij gebruikt worden voor landbouwwerkzaamheden (1)."
       ]
     }
   },
@@ -42,6 +180,82 @@
       ],
       "abstractNL": [
         "Om de accijnsschuldenaar aan te duiden op grond van artikel 20, §§ 2 en 3 van het Koninklijk Besluit van 29 december 1992 betreffende de algemene regeling van accijnsprodukten, dient niet te worden aangetoond dat de overtreding of onregelmatigheid was begaan tijdens het verkeer te lande."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:2007:ARR.20070525.6": {
+      "court": "CASS",
+      "date": "2007-05-25",
+      "roleNumber": "F.05.0020.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le règlement national de remboursement de l'accise dans le cas spécial de la constatation de l'annulation des signes fiscaux par les autorités fiscales de l'état membre qui les a émis, doit être de nature à ne pas favoriser l'abus et la fraude et ne peut exclure le remboursement dans les cas oú une telle exclusion serait disproportionnée par rapport au but visé; une constatation obligatoire par les autorités fiscales, avant que les produits soient enlevés pour la consommation, est de nature à éviter tout abus et est proportionnée au but visé (1). (1) Voir les conclusions du M.P., publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De nationale regeling van teruggaaf van accijns in het bijzondere geval waarin de vernietiging van de fiscale kentekens geconstateerd wordt door de belastingautoriteiten van de lidstaat die ze heeft afgegeven, moet van die aard zijn dat zij misbruik en fraude niet in de hand mag werken en de teruggaaf niet mag uitsluiten in gevallen waar dergelijke uitsluiting onevenredig zou zijn met het gestelde doel; een verplichte constatatie door de belastingautoriteiten, vooraleer de goederen tot het verbruik worden uitgeslagen, is van aard alle misbruiken te vermijden en is evenredig met het gestelde doel (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  },
+  "43": {
+    "ECLI:BE:CASS:2003:ARR.20030902.6": {
+      "court": "CASS",
+      "date": "2003-09-02",
+      "roleNumber": "P011494N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/09/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut se déduire du seul fait qu'un projet de loi de confirmation n'a pas été déposé dans le délai prévu par l'article 11, ,§ 2 de la loi générale sur les douanes et accises auprès des chambres législatives, que l'article 43 de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise, ne confirme pas valablement l'arrêté royal du 29 décembre 1992, pris en application du ,§ 1er de cet article 11. (1). (1) Voir Cass., 24 avril 2002, RG P.02.0118.F, n° 251."
+      ],
+      "abstractNL": [
+        "Uit het feit alleen dat een ontwerp van bekrachtigingswet niet binnen de bij artikel 11, ,§ 2, Douaneen Accijnzenwet, bepaalde termijn bij de wetgevende Kamers is ingediend, kan niet worden afgeleid dat artikel 43 van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop, het koninklijk besluit van 29 december 1992, genomen met toepassing van ,§ 1 van dat artikel 11, niet geldig bekrachtigt (1). (1) Zie Cass., 24 april 2002, AR P.02.0118.F, nr 251."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030625.11": {
+      "court": "CASS",
+      "date": "2003-06-25",
+      "roleNumber": "P030460F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/06/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait que les Chambres législatives n'ont pas été saisies d'un projet de loi de confirmation dans le délai prévu par l'article 11, ,§ 2, de la loi générale sur les douanes et accises, il ne se déduit pas que l'article 43 de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise ne confirme pas valablement l'arrêté royal du 29 décembre 1992, pris en application du paragraphe 1er dudit article 11 (1). (1) Voir Cass., 24 avril 2002, RG P.02.0118.F, n° 251."
+      ],
+      "abstractNL": [
+        "Uit het feit alleen dat een ontwerp van bekrachtigingswet niet binnen de bij art. 11, ,§ 2, Douaneen Accijnzenwet, bepaalde grenzen bij de wetgevende kamers is ingediend, kan niet worden afgeleid dat art. 43, W. 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop, het K.B., 29 dec. 1992, genomen met toepassing van paragraaf 1 van dat art. 11, niet geldig bevestigt (1). (1) Zie Cass., 24 april 2002, AR P.02.0118.F, nr 251."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001003.13": {
+      "court": "CASS",
+      "date": "2000-10-03",
+      "roleNumber": "P981232NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/10/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le type de l'activité et non le type du véhicule étant déterminant pour bénéficier de l'exonération de l'accise sur les huiles minérales, les tracteurs utilisés pour l'exploitation agricole bénéficient de cette exonération uniquement lorsqu'ils sont utilisés pour des activités agricoles (1)."
+      ],
+      "abstractNL": [
+        "Nu de aard van de werkzaamheid en niet de aard van het voertuig bepalend is voor het genieten van vrijstelling van accijns op minerale oliën, genieten de tractoren gebruikt bij de exploitatie van landbouwbedrijven alleen van deze vrijstelling wanneer zij gebruikt worden voor landbouwwerkzaamheden (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990921.6": {
+      "court": "CASS",
+      "date": "1999-09-21",
+      "roleNumber": "P980368N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La détention de paquets de cigarettes non revêtus de bandelettes fiscales belges, pour lesquels des droits d'importation, des droits d'accises et des droits d'accises spéciaux sont dus, ne constitue pas une infraction commise par négligence ou une infraction involontaire, mais requiert un dol général, c'est-à-dire l'intention soit d'accomplir sciemment et volontairement l'acte interdit pénalement, soit de négliger sciemment et volontairement l'acte obligatoire."
+      ],
+      "abstractNL": [
+        "Het voorhanden hebben van pakjes sigaretten niet bekleed met Belgische fiscale bandjes waarop invoerrechten, accijns en bijzondere accijns verschuldigd zijn, is geen onachtzaamheids- of onopzettelijk misdrijf, maar vereist algemeen opzet, dit is het opzet om wetens en willens de strafrechtelijk verboden, respectievelijk geboden handeling te stellen of na te laten."
       ]
     }
   }

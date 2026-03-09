@@ -31,6 +31,22 @@
       ]
     }
   },
+  "28": {
+    "ECLI:BE:CASS:1996:ARR.19961003.7": {
+      "court": "CASS",
+      "date": "1996-10-03",
+      "roleNumber": "C950374F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/10/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 24, alinéa 3, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement est étranger au cas qui concerne le retrait de subventions-traitements pour un enseignant qui ne remplit pas la condition fixée au 3° de l'article 28 de la même loi."
+      ],
+      "abstractNL": [
+        "Art. 24, alinéa 3, Wet 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving heeft niets te maken met het geval waarin de weddetoelage wordt ingehouden voor een onderwijzer die de in art. 28, 3° van dezelfde wet vastgestelde voorwaarde niet vervult."
+      ]
+    }
+  },
   "33": {
     "ECLI:BE:CASS:2022:ARR.20221114.3F.4": {
       "court": "CASS",
@@ -81,6 +97,20 @@
       "abstractNL": [
         "Het arrest schendt artikel 33 van de wet van 29 mei 1959 wanneer het, zonder vast te stellen dat de kosten voor de extra muros activiteiten niet onder de normale onderwijsorganisatie vallen, beslist dat die activiteiten \"niettemin kennelijk a priori onder het algemene begrip bijkomende voordelen vallen zoals dat door het Arbitragehof is omschreven\" (1). (1) Zie Cass., 18 nov. 2004, AR C.02.0264.F, nr 554, met concl. adv.-gen. Henkes, in Pas., 2004, nr 554.",
         "Het arrest schendt artikel 33 van de wet van 29 mei 1959 wanneer het, zonder vast te stellen dat de kosten voor bewaking en toezicht alsook de kosten voor de toegang tot het zwembad niet onder de normale onderwijsorganisatie vallen, die kosten als sociale voordelen beschouwt (1). (1) Zie Cass., 18 nov. 2004, AR C.02.0264.F, nr 554, met concl. adv.-gen. Henkes, in Pas., 2004, nr.554."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20041118.6": {
+      "court": "CASS",
+      "date": "2004-11-18",
+      "roleNumber": "C020264F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/11/18/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 33 de la loi du 29 mai 1959, dite du Pacte scolaire, les avantages sociaux sont des avantages à caractère social accordés aux enfants, qui ne s'inscrivent pas dans l'organisation normale de l'enseignement; est dès lors légalement justifiée la décision que les classes de neige, qui dispensent un enseignement dans des conditions optimales de salubrité à des élèves réguliers, font partie de l'organisation scolaire normale et ne constituent pas un avantage social."
+      ],
+      "abstractNL": [
+        "Sociale voordelen in de zin van artikel 33 van de wet van 29 mei 1959, de zgn. Schoolpactwet, zijn voordelen van sociale aard die aan kinderen worden toegekend en die niet binnen de normale onderwijsorganisatie vallen; de beslissing dat sneeuwklassen, die onderwijs verstrekken in optimale gezondheidsomstandigheden aan regelmatige leerlingen, tot de normale onderwijsorganisatie behoren en dus geen sociaal voordeel vormen, is bijgevolg naar recht verantwoord."
       ]
     }
   },
@@ -141,6 +171,96 @@
       ],
       "abstractNL": [
         "De Gemeenschap betaalt aan de personeelsleden van de gesubsidieerde instellingen rechtstreeks en maandelijks de weddetoelagen uit; die verplichting van de Gemeenschap t.a.v. die personeelsleden gaat, in hoofde van die personeelsleden, gepaard met een subjectief recht t.a.v. de Gemeenschap (1). (1) Zie concl. O.M. in Pas., 2009, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970421.13": {
+      "court": "CASS",
+      "date": "1997-04-21",
+      "roleNumber": "S960173F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'intervention imposée aux employeurs par la loi du 27 juillet 1962 établissant une intervention des employeurs dans la perte subie par la Société nationale des chemins de fer belges par l'émission d'abonnements pour ouvriers et employés, ne constitue pas un avantage rémunératoire qui ferait partie de la subvention-traitement payée à un membre du personnel d'un établissement d'enseignement subventionné."
+      ],
+      "abstractNL": [
+        "De bijdrage die bij de wet van 27 juli 1962 tot vaststelling van een werkgeversbijdrage in het verlies geleden door de Nationale Maatschappij der Belgische Spoorwegen ingevolge de uitgifte van abonnementen voor werklieden en bedienden aan de werkgevers is opgelegd, is geen loonvoordeel dat deel zou uitmaken van de weddetoelage die wordt betaald aan een personeelslid van een gesubsidieerde onderwijsinrichting."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900510.9": {
+      "court": "CASS",
+      "date": "1990-05-10",
+      "roleNumber": "8691",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/10/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Peut être déclarée recevable la demande en justice tendant au paiement d'une subvention-traitement, dirigée contre l'Etat par un enseignant d'un établissement subventionné. ( Loi du 29 mai 1959, articles 25 et 36. )"
+      ],
+      "abstractNL": [
+        "Ontvankelijk kan worden verklaard de vordering in rechte die door een leerkracht van een gesubsidieerde inrichting tot betaling van een weddetoelage tegen de Staat is ingesteld. ( Artt. 25 en 36 Wet van 29 mei 1959. )"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850315.17": {
+      "court": "CASS",
+      "date": "1985-03-15",
+      "roleNumber": "4483",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/15/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "N'affecte pas la débition de la rémunération attachée à une nomination à titre définitif comme institutrice en chef d'une école communale, le fait que les subventions-traitements accordées et payées directement et mensuellement à l'institutrice en chef par l'Etat, en application de l'article 36 de la loi du 29 mai 1959, sont retirées en vertu de l'article 24, alinéa 3, de ladite loi, au motif que l'établissement d'enseignement ne remplit pas les conditions fixées, l'institutrice en chef, nommée dans une école communale francophone d'une des communes périphériques de l'agglomération bruxelloise, ne prouvant pas qu'elle possède les connaissances linguistiques requises."
+      ],
+      "abstractNL": [
+        "De aan een definitieve benoeming als hoofdonderwijzeres van een gemeenteschool verbonden bezoldigingsregeling wordt niet aangetast wanneer de door de Staat verleende en met toepassing van art. 36 wet 29 mei 1959 rechtstreeks en maandelijks aan de hoofdonderwijzeres uitbetaalde weddetoelagen krachtens art. 24, alinéa 3, van evenvermelde wet worden ingehouden op grond dat de betreffende onderwijsinrichting de gestelde voorwaarden niet vervult omdat de hoofdonderwijzeres, die benoemd werd aan een franstalige gemeenteschool in een randgemeente van de Brusselse agglomeratie, de vereiste taalkennis niet kan bewijzen."
+      ]
+    }
+  },
+  "37": {
+    "ECLI:BE:CASS:1983:ARR.19830127.4": {
+      "court": "CASS",
+      "date": "1983-01-27",
+      "roleNumber": "6724",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'obligation pour les chefs d'établissements subventionnés d'affecter les subventions de fonctionnement et d'équipement qui leur sont allouées par application de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, aux fins pour lesquelles elles ont été accordées, n'exclut pas le droit des créanciers de saisir ces biens dès lors qu'ils sont incorporés au patrimoine propre de ces établissements. (Loi hypothécaire du 16 décembre 1851, art. 7 et 8; Code judic., art. 1408, 1409 et 1410; loi du 29 mai 1959, art. 32 modifié par l'article 11 de la loi du 11 juillet 1973, et 37.)"
+      ],
+      "abstractNL": [
+        "De verplichting voor de hoofden van gesubsidieerde onderwijsinrichtingen de werkings- en uitrustingstoelagen, die hun zijn verleend met toepassing van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de wetgeving betreffende het onderwijs, aan te wenden voor de doeleinden waarvoor zij hun zijn verleend, sluit niet uit dat de schuldeisers het recht hebben die goederen in beslag te nemen, wanneer zij tot het vermogen van de genoemde inrichtingen zijn gaan behoren. (Artt. 7 en 8 Hypotheekwet; artt. 1408 tot 1410 Ger.W.; art. 32 wet van 29 mei 1959, gew. bij art. 11 wet van 11 juli 1973, en art. 37.)"
+      ]
+    }
+  },
+  "47": {
+    "ECLI:BE:CASS:1969:ARR.19691205.1": {
+      "court": "CASS",
+      "date": "1969-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/12/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 40 et 47 de la loi du 29 mai 1959 modifiant la législation relative à l'enseignement gardien, primaire, moyen, normal, technique et artistique, qui octroient à partir du 1er septembre 1958 une pension à charge du Trésor aux membres du personnel enseignant de l'enseignement libre, et qui se réfèrent provisoirement pour le calcul de cette pension au système prévu par la loi du 30 janvier 1954 régissant les pensions des membres du personnel des établissements privés d'enseignement technique, n'ont pas pour effet de soustraire, à partir de la date susdite, ce personnel au régime de la sécurité sociale."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 40 en 47 van de wet van 29 mei 1959 tot wijziging van de wetgeving betreffende het bewaarschoolonderwijs, het lager-, middelbaar-, normaal-, technisch- en kunstonderwijs, die vanaf 1 september 1958 ten laste van de Schatkist een pensioen toekennen aan het onderwijzend personeel van het vrij onderwijs, en voor de berekening van dit pensioen voorlopig verwijzen naar de wet van 30 januari 1954 tot regeling van de pensioenen der leden van het personeel der privé-inrichtingen voor technisch onderwijs, hebben niet tot gevolg vanaf deze datum dit personeel uit de regeling van de sociale zekerheid uit te sluiten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19751008.12": {
+      "court": "CASS",
+      "date": "1975-10-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/08/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les articles 14, 15, 16 et 117 de la Constitution ne s'opposent pas à ce que les communes qui organisent temporairement dans leurs écoles primaires l'enseignement d'une religion, sans que la loi du 29 mai 1959 soit applicable audit enseignement, nomment, sur la proposition des autorités religieuses, les personnes qui en sont chargées et concluent avec celles-ci un contrat qui, sans pouvoir porter atteinte à la liberté de leur enseignement, implique l'existence d'un lien de subordination (1)."
+      ],
+      "abstractNL": [
+        "De artikelen 14, 15, 16 en 117 van de Grondwet verhinderen niet dat de gemeenten in hun lagere scholen tijdelijk voorzien in een godsdienstonderricht waarop de wet van 29 mei 1959 niet van toepassing is, op voordracht van de geestelijke overheden, personen voor dit onderricht benoemen en met hen een overeenkomst sluiten die een gezagsverhouding impliceert (1)."
       ]
     }
   }

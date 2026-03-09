@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2003:ARR.20030410.10": {
+      "court": "CASS",
+      "date": "2003-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Devant les juridictions civiles de première instance dont le siège est établi dans la région de langue française, toute la procédure contentieuse est faite en français; partant, il doit être fait usage de cette langue pour rédiger tant les conclusions que la déclaration de créance visée à l'article 1675/9, ,§ 2, du Code judiciaire, qui s'inscrit dans la procédure de règlement collectif de dettes, dont elle est un élément."
+      ],
+      "abstractNL": [
+        "Voor de burgerlijke rechtbanken van eerste aanleg die hun zetel in het Franse taalgebied hebben, wordt de gehele rechtspleging in betwiste zaken in het Frans gevoerd; die taal moet bijgevolg gebruikt worden om zowel de conclusie als de aangifte van schuldvordering op te stellen, die bedoeld is in art. 1675/9, ,§ 2, Ger.W. en betrekking heeft op de procedure van collectieve schuldenregeling waarvan zij een onderdeel is."
+      ]
+    }
+  },
   "12": {
     "ECLI:BE:CASS:2015:ARR.20150303.5": {
       "court": "CASS",
@@ -114,6 +130,38 @@
       ],
       "abstractNL": [
         "Uit geen enkele wetsbepaling blijkt dat een tolk elke pagina moet tekenen van de met zijn medewerking opgestelde procedurele handelingen."
+      ]
+    }
+  },
+  "36": {
+    "ECLI:BE:CASS:2003:ARR.20030410.10": {
+      "court": "CASS",
+      "date": "2003-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'article 36, alinéa 1er, de la loi du 15 juin 1935 n'autorise le juge, à la demande d'une partie et si la mesure semble absolument nécessaire, à permettre qu'il soit fait usage pour les plaidoiries d'une autre langue que celle de la procédure par le conseil de cette partie qu'à la condition que celui-ci déclare ne pas connaître la langue de la procédure et ait son domicile dans une autre région linguistique; partant, cette faculté fait défaut dès lors que le conseil de cette partie devant le juge des saisies d'un tribunal de première instance situé dans la région de langue française est un avocat d'un barreau situé dans cette région."
+      ],
+      "abstractNL": [
+        "Ingevolge art. 36, eerste lid, Taalwet Gerechtszaken kan de rechter, op verzoek van een partij en indien hij zulks volstrekt nodig acht, slechts toestaan dat de raadsman van die partij voor de pleidooien gebruik maakt van een andere taal dan die van de rechtspleging, indien deze verklaart de taal van de rechtspleging niet te kennen en zijn woonplaats heeft in een ander taalgebied; die mogelijkheid bestaat dus niet wanneer de raadsman van die partij voor de beslagrechter van een rechtbank van eerste aanleg uit het Franse taalgebied, een advocaat is van een balie uit dat taalgebied."
+      ]
+    }
+  },
+  "38": {
+    "ECLI:BE:CASS:2003:ARR.20030410.10": {
+      "court": "CASS",
+      "date": "2003-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/10/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision l'arrêt qui, pour dire l'appel irrecevable comme tardif, considère que la notification, dans la région de langue néerlandaise, du jugement entrepris du juge des saisies d'un tribunal de première instance situé dans la région de langue française a fait courir le délai d'appel, bien que n'y eût pas été jointe une traduction de ce jugement en langue néerlandaise, dès lors qu'il décide illégalement que la partie à laquelle la signification a été faite, a accepté le français pour langue de la procédure."
+      ],
+      "abstractNL": [
+        "Het arrest dat, om het hoger beroep wegens laattijdigheid niet-ontvankelijk te verklaren, oordeelt dat de kennisgeving, in het Nederlandse taalgebied, van het beroepen vonnis van de beslagrechter van een rechtbank van eerste aanleg uit het Franse taalgebied, de beroepstermijn heeft doen ingaan, ook al was er geen Nederlandse vertaling van dat vonnis bijgevoegd, verantwoordt zijn beslissing niet naar recht, aangezien het onwettig beslist dat de partij aan wie de betekening is gedaan, het Frans als taal van de rechtspleging heeft aangenomen."
       ]
     }
   },

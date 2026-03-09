@@ -13,6 +13,20 @@
       "abstractNL": [
         "De raden van de Orde van architecten, die een appreciatiebevoegdheid hebben met betrekking tot de inschrijving als zelfstandig architect, kunnen de inschrijving weigeren op grond van niet-naleving van de voorwaarden inzake diploma, het bestaan van een onverenigbaarheid in hoofde van de aanvrager of zijn onwaardigheid of onbekwaamheid om het beroep van architect uit te oefenen, maar niet op grond van redenen die verband houden met de wijze waarop de verzoeker voornemens is de nakoming van de deontologische verplichtingen in de toekomst te verzekeren (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070518.4": {
+      "court": "CASS",
+      "date": "2007-05-18",
+      "roleNumber": "C.06.0287.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas des dispositions légales qui prévoient que le juge peut charger des experts de procéder à des constatations ou de donner un avis d'ordre technique et que nul ne peut porter le titre d'architecte ni en exercer la profession s'il ne remplit pas les conditions légales, que l'expert judiciaire désigné par le juge en matière de construction exerce nécessairement la profession d'architecte."
+      ],
+      "abstractNL": [
+        "Uit de wettelijke bepalingen die voorzien dat de rechter deskundigen kan gelasten vaststellingen te doen of een technisch advies te geven en dat niemand de titel mag voeren van architect noch het beroep ervan mag uitoefenen indien hij niet aan de wettelijke voorwaarden voldoet, volgt niet dat de gerechtsdeskundige die door de rechter wordt aangesteld in bouwzaken noodzakelijkerwijze het beroep van architect uitoefent."
+      ]
     }
   },
   "2": {
@@ -111,6 +125,22 @@
       ]
     }
   },
+  "5": {
+    "ECLI:BE:CASS:2006:ARR.20060410.5": {
+      "court": "CASS",
+      "date": "2006-04-10",
+      "roleNumber": "D050021F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/04/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction pour les fonctionnaires et agents de l'Etat, des provinces, des communes et des établissements publics de faire acte d'architecte en dehors de leurs fonctions, laquelle s'applique aux fonctionnaires et agents engagés à temps partiel, n'est pas subordonnée à la condition que, dans ses fonctions officielles, celui auquel elle s'applique accomplisse des actes caractéristiques de la profession d'architecte (1). (1) Voir cass., 28 février 1984, RG 4256, n° 76."
+      ],
+      "abstractNL": [
+        "Het verbod voor de ambtenaren en beambten van de Staat, de provincies, de gemeenten en de openbare instellingen, om buiten hun functies als architect op te treden, dat van toepassing is op de ambtenaren en agenten die deeltijds in dienst zijn genomen, is niet onderworpen aan de voorwaarde dat degene op wie dat verbod van toepassing is, in zijn officiële functies handelingen stelt die kenmerkend zijn voor het beroep van architect (1). (1) Zie Cass., 28 feb. 1984, AR 4256, nr 76."
+      ]
+    }
+  },
   "6": {
     "ECLI:BE:CASS:2023:ARR.20230512.1N.3": {
       "court": "CASS",
@@ -155,6 +185,102 @@
       "abstractNL": [
         "Het uitoefenen van het beroep van architect is onverenigbaar met dat van aannemer van openbare of private werken; de aldus in het belang van zowel het beroep van architect als van de opdrachtgevers ingestelde onverenigbaarheid moet, zoals elke bepaling die de vrijheid van nijverheid en arbeid inperkt, op beperkende wijze worden uitgelegd; dit belet evenwel niet dat het verbod beide beroepen te cumuleren algemeen is, zich uitstrekt tot de werkzaamheid in dienst van een aannemer van openbare en private werken en niet beperkt is tot de cumulatie van de functie van aannemer en architect in het raam van eenzelfde concreet bouwproject (1). (1) Cass. 16 november 2012, AR D.11.0021.N, AC 2012, nr. 619, met concl. van advocaat-generaal Dubrulle; zie ook Cass. 17 februari 1969, AC 1969, 566, waaruit a contrario duidelijk volgt dat de onverenigbaarheid zich uitstrekt tot de werkzaamheid in dienst van een vennootschap die daadwerkelijk aannemersactiviteiten ontplooit."
       ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671218.1": {
+      "court": "CASS",
+      "date": "1967-12-18",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/12/18/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De wetsbepalingen, welke de vrijheid van nijverheid en arbeid beperken, moeten, in de regel, op beperkende wijze ingesteld worden."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2005:ARR.20050922.10": {
+      "court": "CASS",
+      "date": "2005-09-22",
+      "roleNumber": "D040022N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/22/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Un ingénieur ayant un diplôme d'ingénieur civil électricien ou d'ingénieur civil mécanique peut agir en qualité d'architecte (1). (1) Voir Cass., 9 février 1971 (Bull. et Pas., 1971, I, 527); C.E. n° 26.763, 26 juin 1986, Arr. C.E., 1986, P. RIGAUX, L'architecte. Le droit de la profession, Bruxelles, Larcier, 1975, n° 91-92."
+      ],
+      "abstractNL": [
+        "Een ingenieur met het diploma van burgerlijk electrotechnisch ingenieur of burgerlijk werktuigkundig ingenieur mag optreden in de hoedanigheid van architect (1). (1) Zie Cass., 9 feb. 1971, (Arr. Cass., 1971, blz.555); R.v.St. nr 26.763, 26 juni 1986, Arr. R. v. St. 1986, P. RIGAUX, L'architecte. Le droit de la profession, Brussel, Larcier, 1975, nrs 91-92."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970609.2": {
+      "court": "CASS",
+      "date": "1997-06-09",
+      "roleNumber": "S940114F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le devoir de conseil et d'assistance de l'architecte l'oblige à informer le maître de l'ouvrage de la réglementation concernant l'enregistrement des entrepreneurs et des conséquences qui peuvent en résulter, et à vérifier l'enregistrement de l'entrepreneur lors de la conclusion du contrat d'entreprise et au cours de l'exécution de celui-ci."
+      ],
+      "abstractNL": [
+        "De architect, die verplicht is de opdrachtgever advies te geven en bijstand te verlenen, moet hem deswege inlichten over de reglementering inzake registratie van aannemers en de mogelijke gevolgen daarvan, en moet de registratie van de aannemer bij het sluiten van en tijdens de overeenkomst nagaan."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950630.7": {
+      "court": "CASS",
+      "date": "1995-06-30",
+      "roleNumber": "C930418N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/30/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 4, alinéa 1er, de la loi du 20 février 1939 ne règle pas, en soi, la responsabilité extra-contractuelle de l'architecte."
+      ],
+      "abstractNL": [
+        "Op zich regelt art 4, eerste lid, Wet 20 febr. 1939 de extra-contractuele aansprakelijkheid van de architect niet."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840928.1": {
+      "court": "CASS",
+      "date": "1984-09-28",
+      "roleNumber": "4256",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les fonctionnaires et les agents visés à l'article 5, alinéa 1er, de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, auxquels il est interdit de faire acte d'architecte en dehors de leurs fonctions, sont non seulement les fonctionnaires et les agents nommés à titre définitif, mais aussi en principe, les fonctionnaires et les agents temporaires."
+      ],
+      "abstractNL": [
+        "Onder de in art. 5, eerste lid, wet 20 feb. 1939 tot bescherming van de titel en van het beroep van architect bedoelde ambtenaren en beambten, aan wie het verboden is, buiten hun functies, als architect op te treden, zijn niet alleen de vast benoemde maar, in beginsel, ook de tijdelijke ambtenaren en beambten begrepen."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791108.7": {
+      "court": "CASS",
+      "date": "1979-11-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un dommage trouve sa cause dans les fautes concurrentes commises par plusieurs parties dans l'exécution de leurs obligations contractuelles et que, sans l'une de ces fautes, celles des autres parties n'auraient point suffi à causer le dommage, chacune de ces parties est, en règle, tenue envers la victime de réparer ledit dommage en son entier."
+      ],
+      "abstractNL": [
+        "Wanneer door samenlopende fouten van verschillende partijen schade is veroorzaakt bij de uitvoering van hun contractuele verbintenissen en zonder een van die fouten, die van de andere partijen niet hadden volstaan om de schade te veroorzaken, is in de regel elk van die partijen jegens de benadeelde gehouden de schade volledig te vergoeden <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791024.12": {
+      "court": "CASS",
+      "date": "1979-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   }
 }

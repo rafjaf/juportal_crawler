@@ -45,6 +45,22 @@
       ]
     }
   },
+  "7": {
+    "ECLI:BE:CASS:1983:ARR.19830502.5": {
+      "court": "CASS",
+      "date": "1983-05-02",
+      "roleNumber": "6472",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les promesses de convention dont les conditions de validité sont régies par l'article 7 de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction, produisent tous leurs effets si les seules personnes qui peuvent invoquer la nullité desdites promesses ne le font pas dans les conditions prévues par cette loi."
+      ],
+      "abstractNL": [
+        "De voorovereenkomsten waarvan de geldigheidsvereisten geregeld worden bij art. 7 wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen brengen alle mogelijke gevolgen voort, als degenen die zich op de nietigheid van de voorovereenkomst kunnen beroepen zulks niet doen met inachtneming van de wettelijke voorschriften."
+      ]
+    }
+  },
   "9": {
     "ECLI:BE:CASS:2018:ARR.20181213.2": {
       "court": "CASS",
@@ -58,6 +74,22 @@
       ],
       "abstractNL": [
         "Artikel 9 van de wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen wil niet afwijken van de gevolgen die het gemeen recht van de verkoop en van de aanneming verbindt aan de oplevering van het werk, voor wat betreft de vrijwaring tegen verborgen gebreken; indien de partijen bepalen dat de goedkeuring bij de voorlopige oplevering gegeven wordt, is het gemeen recht van de verkoop en van de aanneming vanaf dat ogenblik van toepassing, wat met name inhoudt dat de koper binnen een korte of een nuttige termijn dient te handelen."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1980:ARR.19801104.3": {
+      "court": "CASS",
+      "date": "1980-11-04",
+      "roleNumber": "6036",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 10 de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction établit une distinction entre la convention visée à l'article 1er de cette loi, lors de la conclusion de laquelle le montant payé à titre d'acompte ou d'arrhes ne peut dépasser 5 p.c. du prix total de l'habitation, et la passation de l'acte authentique, lors de laquelle le promoteur ou l'entrepreneur peuvent prétendre au payement d'une somme qui, compte tenu de l'acompte ou des arrhes versés, est égale au prix du terrain ou de la quotité qui en est vendue, majorée du coût des ouvrages exécutés."
+      ],
+      "abstractNL": [
+        "Art. 10 wet 9 juli 1971 op de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen maakt een onderscheid tussen de overeenkomst bedoeld in art. 1 van dezelfde wet, bij het sluiten waarvan het bedrag dat als voorschot of handgeld wordt betaald, niet hoger mag zijn dan 5 pct. van de totale prijs van de woning, en het verlijden van de authentieke akte, waarbij de promotor of de aannemer betaling mag eisen van een som die, rekening houdende met het gestorte voorschot of handgeld, zal gelijk zijn aan de prijs van de grond of het aandeel dat daarin verkocht wordt, verhoogd met de prijs van de uitgevoerde werken."
       ]
     }
   },
@@ -77,6 +109,32 @@
       "abstractNL": [
         "De opdrachtgever of de koper moet de nietigheid van de aan de Woningbouwwet onderworpen overeenkomst op straffe van verval in rechte vorderen of voor de rechter als verweer opwerpen vóór de voorlopige oplevering of het verlijden van de authentieke akte; eenmaal de voorlopige oplevering heeft plaatsgevonden of de authentieke akte werd verleden, kan de opdrachtgever of de koper nadien niet meer de nietigheid van de overeenkomst vorderen of ze als verweer opwerpen (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830224.1": {
+      "court": "CASS",
+      "date": "1983-02-24",
+      "roleNumber": "6698",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de dix ans auquel est soumise la responsabilité de l'architecte et de l'entrepreneur prend cours, en règle, non à partir de la réception provisoire mais à partir de l'agréation définitive; il prend cours à partir de la réception provisoire si les parties sont convenues d'attacher à cet acte un effet d'agréation. (Code civil, art. 1792 et 2270; loi du 9 juillet 1971, art. 6, 9 et 13.)"
+      ],
+      "abstractNL": [
+        "De termijn van de tienjarige verjaring, die geldt voor de aansprakelijkheid van de architect en van de aannemer, gaat in de regel in vanaf de definitieve aanvaarding en niet vanaf de voorlopige oplevering; de termijn vangt aan bij de voorlopige oplevering wanneer de partijen overeengekomen zijn dat die handeling gepaard gaat met aanvaarding van het werk <2>. (Artt. 1792 en 2270 B.W.; artt. 6, 9 en 13 wet van 9 juli 1971.)"
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1980:ARR.19800227.8": {
+      "court": "CASS",
+      "date": "1980-02-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/27/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   },
   "general": {
@@ -90,6 +148,44 @@
       "abstractFR": [
         "L'article 7, b, de la loi du 9 juillet 1971 dispose que les conventions visées à l'article 1er, ainsi que les promesses de pareilles conventions doivent mentionner la date de la délivrance du permis de bâtir et les conditions de ce permis, et aux termes de l'article 13, alinéa 2, l'inobservation de l'une des dispositions de l'article 7 entraîne la nullité de la convention; il résulte toutefois de l'alinéa 3 de l'article 13 que cette nullité est relative, ne pouvant être invoquée que par l'acquéreur ou le maître de l'ouvrage, à l'exclusion de toute autre personne, avant la passation de l'acte authentique ou, s'il s'agit d'un contrat d'entreprise, avant la réception provisoire visée à l'article 9. Les promesses de convention produisent tous leurs effets si les seules personnes qui peuvent en invoquer la nullité ne le font pas dans les conditions précitées. Dès lors, la cour du travail a pu décider légalement que la préconvention signée par le client constitue l'ordre prévu par l'article 4, alinéa 1er, de la loi du 30 juillet 1963."
       ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1979:ARR.19790608.4": {
+      "court": "CASS",
+      "date": "1979-06-08",
+      "roleNumber": "2425",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/06/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction n'est pas applicable aux conventions conclues par un acquéreur ou maître de l'ouvrage dont l'activité habituelle consiste à construire ou à faire construire des maisons ou appartements en vue de les céder à titre onéreux. (Loi du 9 juillet 1971, art. 2, 3°.)"
+      ],
+      "abstractNL": [
+        "De wet tot regeling van de woningbouw en de verkoop van de te bouwen of in aanbouw zijnde woningen 9 juli 1971 vindt geen toepassing op de overeenkomsten aangegaan door een verkrijger of opdrachtgever wiens geregelde werkzaamheid er in bestaat huizen of appartementen op te richten of te laten oprichten om ze onder bezwarende titel te vervreemden. (Art. 2, 3°, W. 9 juli 1971.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801104.3": {
+      "court": "CASS",
+      "date": "1980-11-04",
+      "roleNumber": "6036",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 10 de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction établit une distinction entre la convention visée à l'article 1er de cette loi, lors de la conclusion de laquelle le montant payé à titre d'acompte ou d'arrhes ne peut dépasser 5 p.c. du prix total de l'habitation, et la passation de l'acte authentique, lors de laquelle le promoteur ou l'entrepreneur peuvent prétendre au payement d'une somme qui, compte tenu de l'acompte ou des arrhes versés, est égale au prix du terrain ou de la quotité qui en est vendue, majorée du coût des ouvrages exécutés."
+      ],
+      "abstractNL": [
+        "Art. 10 wet 9 juli 1971 op de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen maakt een onderscheid tussen de overeenkomst bedoeld in art. 1 van dezelfde wet, bij het sluiten waarvan het bedrag dat als voorschot of handgeld wordt betaald, niet hoger mag zijn dan 5 pct. van de totale prijs van de woning, en het verlijden van de authentieke akte, waarbij de promotor of de aannemer betaling mag eisen van een som die, rekening houdende met het gestorte voorschot of handgeld, zal gelijk zijn aan de prijs van de grond of het aandeel dat daarin verkocht wordt, verhoogd met de prijs van de uitgevoerde werken."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800227.8": {
+      "court": "CASS",
+      "date": "1980-02-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/27/sitemap_8.xml"
+      ],
+      "abstractFR": null,
       "abstractNL": null
     }
   }

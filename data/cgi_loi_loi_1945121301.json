@@ -1,4 +1,606 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1980:ARR.19800320.6": {
+      "court": "CASS",
+      "date": "1980-03-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/20/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, alinéa 2, de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail et l'article 8, par. 1er, de la loi du 10 avril 1971 sur les accidents du travail définissent d'une manière identique ce qu'il faut entendre par \" accident sur le chemin du travail \"."
+      ],
+      "abstractNL": [
+        "Art. 1, tweede lid, K.B. van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit arbeidsongevallen en art. 8, alinéa 1, Arbeidsongevallenwet van 10 april 1971 zeggen in dezelfde bewoordingen wat onder \"ongeval op de weg naar en van het werk\" moet worden verstaan."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19761117.12": {
+      "court": "CASS",
+      "date": "1976-11-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/11/17/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en matière d'accidents du travail ou d'accidents sur le chemin du travail, le pourvoi formé par les ayants droit de la victime contre l'assureur de l'employeur est rejeté, l'assureur est condamné aux dépens. (Loi du 20 mars 1948, art. unique, inséré dans l'article 39 des lois sur la réparation des dommages résultant des accidents du travail, coordonnées par l'arrêté royal du 28 septembre 1931; arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, art. 1er)"
+      ],
+      "abstractNL": [
+        "Wanneer, inzake arbeidsongevallen of ongevallen op de weg naar en van het werk, de voorziening van de rechthebbenden van de getroffene tegen de verzekerde van de werkgever wordt verworpen, wordt de verzekeraar in de kosten veroordeeld (2). (Enig artikel van de wet van 20 maart 1948, ingevoegd in artikel 39 van de bij het koninklijk besluit van 28 september 1931 gecoördineerde wetten betreffende de vergoeding van de schade voortspruitende uit de arbeidsongevallen; art. 1 van de besluitwet van 13 december 1945 betreffende de vergoeding van de schade voortspruitende uit de ongevallen die zich op de weg naar en van het werk voordoen.)"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741009.1": {
+      "court": "CASS",
+      "date": "1974-10-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur revient du lieu de l'exécution du travail, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945, lorsqu'il rejoint son domicile en rentrant d'un endroit où il s'était rendu sur l'indication de son employeur et en exécution d'une obligation résultant du contrat de travail."
+      ],
+      "abstractNL": [
+        "De werknemer komt van een plaats waar de arbeid wordt verricht in de zin van artikel 1 van de besluitwet van 13 december 1945, wanneer hij naar huis terugkeert van een plaats waarnaar hij zich heeft begeven op aanwijzing van de werkgever en ter uitvoering van een uit de arbeidsovereenkomst voortvloeiende verplichting."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740109.6": {
+      "court": "CASS",
+      "date": "1974-01-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/01/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail ne cesse pas d'être normal, lorsqu'un détour peu important est justifié par une cause légitime. (Arrêté-loi du 13 décembre 1945, art. 1er.)"
+      ],
+      "abstractNL": [
+        "De weg van of naar het werk houdt niet op normaal te zijn, wanneer een niet belangrijke omweg door een wettige oorzaak gerechtvaardigd is. ( Besluitwet van 13 december 1945, art. 1 )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730308.12": {
+      "court": "CASS",
+      "date": "1973-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail s'entend du trajet normal que le travailleur doit parcourir pour se rendre du lieu de sa résidence ou du lieu où il prend son repas, au lieu de l'exécution du travail et inversement, ou encore pour se rendre au lieu de payement des salaires et pour en revenir. ( Arrêté-loi du 13 décembre 1945, art. 1er. )"
+      ],
+      "abstractNL": [
+        "Onder de weg naar of van het werk wordt verstaan de normale weg, die de arbeider moet afleggen om zich van zijn verblijf of van de plaats waar hij gaat eten naar de plaats waar hij zijn werk verricht te begeven, en omgekeerd, of nog om zich naar de plaats te begeven waar de lonen worden uitbetaald en om ervan terug te keren. ( Besluitwet van 13 december 1945, art. 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721018.1": {
+      "court": "CASS",
+      "date": "1972-10-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/10/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "De la constatation que la manoeuvre fautive effectuée par la victime avec son cyclomoteur, et qui a occasionné sa chute, trouve aussi sa cause dans l'état de la route à cet endroit et non uniquement dans l'état d'ivresse de la victime le juge peut légalement déduire que l'accident, survenu sur le chemin du travail, est dû à un risque inhérent au trajet. ( Code civil, art. 1315; arrêté-loi du 13 décembre 1945, art. 1er, alinéa 4. )"
+      ],
+      "abstractNL": [
+        "Uit de vaststelling dat het foutief maneuver dat de getroffene met zijn bromfiets heeft uitgevoerd en waardoor hij ten val is gekomen, ook veroorzaakt is door de plaatselijke gesteldheid van de weg en niet uitsluitend door dronkenschap, kan de rechter wettig afleiden dat het ongeval op de weg naar of van het werk aan een met die weg onafscheidelijk verbonden risico te wijten is. ( B.W., art. 1315; besluitwet van 13 december 1945, art. 1, lid 4 )."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720531.4": {
+      "court": "CASS",
+      "date": "1972-05-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui relève qu'un représentant de commerce doit, en vertu de son contrat, consacrer toute son activité à la vente de voitures, les affaires pouvant se conclure au bureau ou ailleurs et seule l'heure du commencement du travail étant fixée par ledit contrat, peut légalement décider qu'en raison du caractère spécifique de cette profession et compte tenu des circonstances de fait qu'il précise, la présence de ce travailleur dans un café jusqu'à vingt-trois heures était commandée par l'exercice de sa profession, et qu'il travaillait, pendant ce laps de temps, dans un lien de subordination. ( Lois relatives au contrat d'emploi, coordonnées le 20 juillet 1955, art. 1er et 5, alinéa 1er; loi du 30 juillet 1963, art. 1er et 2; arrêté-loi du 13 décembre 1945, art. 1er. )"
+      ],
+      "abstractNL": [
+        "De rechter die erop wijst, dat een handelsvertegenwoordiger krachtens zijn arbeidsovereenkomst geheel zijn activiteit aan de verkoop van voertuigen moet besteden, met het gevolg dat de zaken op het kantoor of elders konden worden afgesloten, daar alleen het aanvangsuur van de arbeid door deze overeenkomst was vastgesteld, kan wettelijk beslissen dat, wegens het specifiek karakter van dit beroep en rekening houdende met de nauwkeurig opgegeven feiten, de aanwezigheid van deze werknemer in een café tot drieëntwintig uur geboden was door de uitoefening van zijn beroep en dat hij gedurende deze tijdspanne als ondergeschikte arbeidde. ( Wetten betreffende de arbeidsovereenkomst voor bedienden, gecoördineerd 20 juli 1955, art. 1 en 2; besluitwet van 13 december 1945, art. 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720517.1": {
+      "court": "CASS",
+      "date": "1972-05-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le trajet n'est pas nécessairement normal, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, lorsque l'interruption ou le détour sont justifiés par une cause légitime."
+      ],
+      "abstractNL": [
+        "De weg is niet noodzakelijk normaal, in de zin van artikel 1 van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen, wanneer de onderbreking of de omweg door een wettige reden gerechtvaardigd zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720308.10": {
+      "court": "CASS",
+      "date": "1972-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas un accident sur le chemin du travail l'accident survenu au travailleur sur le chemin allant d'un restaurant au lieu de son travail, lorsqu'il n'a pas pris de repas dans ce restaurant. ( Arrêté-loi du 13 décembre 1945, art. 1er, al. 1er et 2. )"
+      ],
+      "abstractNL": [
+        "Geen ongeval op de weg naar en van het werk is het ongeval dat de werknemer overkomt op de weg van een restaurant naar het werk, wanneer hij in dit restaurant zijn eetmaal niet heeft genomen. ( Besluitwet van 13 december 1945, art. 1, leden 1 en 2. )"
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19711103.14": {
+      "court": "CASS",
+      "date": "1971-11-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/11/03/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Est entaché d'ambiguïté et n'est, partant , pas régulièrement motivé le jugement qui laisse incertain si le juge a entendu décider, en fait, que la visite faite par un travailleur à ses soeurs n'était pas due à des raisons de convenance personnelle ou s'il a considéré en droit qu'une raison relevant de convenance personnelle peut constituer une cause légitime d'interruption du chemin du travail. ( Constit., art. 97; arrêté-loi du 13 décembre 1945, art. 1er. )"
+      ],
+      "abstractNL": [
+        "Door dubbelzinnigheid aangetast en derhalve niet regelmatig met redenen omkleed is het vonnis dat in het onzekere laat of de rechter in feite heeft willen beslissen dat het bezoek van een werknemer aan zijn beide zusters niet was toe te schrijven aan redenen van persoonlijke aard, dan wel of hij in rechte heeft gesteld dat een reden van persoonlijke aard een wettige oorzaak voor de onderbreking van de weg van het werk kan uitmaken. ( Grondwet, art. 97; besluitwet van 13 december 1945, art. 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701125.4": {
+      "court": "CASS",
+      "date": "1970-11-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "De la seule circonstance qu'un accident est survenu alors que l'ouvrier retournait chez lui après avoir consulté un médecin relativement aux séquelles d'un précédent accident du travail, il ne peut être déduit que l'accident est survenu sur le chemin du travail. (Arrêté-loi du 13 décembre 1945, art. 1er, al. 2 et 3.)"
+      ],
+      "abstractNL": [
+        "Uit de enkele omstandigheid dat een ongeval is overkomen op het ogenblik dat de werknemer naar huis terugkeert na een geneesheer te hebben geraadpleegd in verband met de gevolgen van een vorig arbeidsongeval, kan niet worden afgeleid dat het ongeval is overkomen op de weg naar en van het werk. (Besluitwet van 13 december 1945, art. 1, lid 2 en 3.)"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700619.2": {
+      "court": "CASS",
+      "date": "1970-06-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est un accident sur le chemin du travail celui qui se produit alors que le travailleur se rendait à la résidence de son employeur qui y avait organisé une réunion de son personnel dans l'intention d'aller avec celui-ci en groupe à la foire, conformément aux usages de l'entreprise. ( Arrêté-loi du 13 décembre 1945, art. 1er. )"
+      ],
+      "abstractNL": [
+        "Een ongeval op de weg naar of van het werk is het ongeval dat zich voordoet wanneer de werkman zich naar het huis van zijn werkgever begeeft, die aldaar een bijeenkomst van zijn personeel inricht om, overeenkomstig de gebruiken van de onderneming, in groep de kermis te bezoeken. ( Besluitwet van 13 december 1945, art. 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691127.2": {
+      "court": "CASS",
+      "date": "1969-11-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er de l'arrêté-loi du 13 décembre 1945 n'exige pas que le travailleur, pour se trouver sur le chemin du travail, ait quitté sa résidence, mais se borne à déterminer le trajet qu'il doit suivre, en se rendant à son travail ou en revenant de son travail, en fixant le point de départ ou d'arrivée au \"lieu de sa résidence\", c'est-à-dire à l'endroit où ladite résidence se situe."
+      ],
+      "abstractNL": [
+        "Artikel 1 van de besluitwet van 13 december 1945 vereist niet dat de arbeider, om zich op de weg naar en van het werk te bevinden, zijn verblijfplaats heeft verlaten, doch zegt enkel welke weg hij moet volgen om zich naar zijn werk te begeven of ervan terug te keren, en stelt hiervoor als vertrek- of aankomstpunt vast \"zijn verblijf\", dit wil zeggen de plaats waar dit verblijf is gevestigd."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19681219.1": {
+      "court": "CASS",
+      "date": "1968-12-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/12/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un accident s'est produit sur l'itinéraire normal qui sépare la résidence du travailleur du lieu de l'exécution de son travail, le juge qui constate que le travailleur a quitté sa résidence un certain temps avant le moment où, au plus tard, il aurait dû le faire normalement pour se trouver en temps utile sur les lieux de son travail, que l'accident s'est produit peu après son départ et que les risques inhérents au trajet n'ont pas été aggravés, peut légalement en déduire que l'accident s'est produit sur le chemin du travail, quels qu'aient été les motifs du départ prématuré, celui-ci eût-il même été dû à une cause de convenance personnelle. (Arretê-loi du 13 décembre 1945, art. 1er.)"
+      ],
+      "abstractNL": [
+        "Wanneer een ongeval heeft plaatsgehad op het normaal traject tussen de verblijfplaats van de werknemer en de plaats van zijn werk, kan de rechter die vaststelt dat de werknemer zijn verblijf verlaten heeft een zekere tijd voor het ogenblik waarop hij het ten laatste normaal had moeten doen om op tijd op de plaats van zijn werk te zijn, dat het ongeval zich heeft voorgedaan kort na zijn vertrek en dat de aan het traject verbonden risico's niet verergerd werden, wettelijk eruit afleiden dat het ongeval zich heeft voorgedaan op de weg naar of van het werk, welke ook de redenen van zijn voortijdig vertrek geweest zijn, zelfs al was dit te wijten aan een persoonlijke aangelegenheid. (Besluitwet van 13 december 1945, art. 1.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19681107.2": {
+      "court": "CASS",
+      "date": "1968-11-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/11/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une interruption du travail n'emporte pas, par elle-même, la suspension de l'exécution du contrat de travail."
+      ],
+      "abstractNL": [
+        "Een onderbreking van het werk brengt niet op zichzelf de schorsing van de uitvoering van de arbeidsovereenkomst mee."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680425.1": {
+      "court": "CASS",
+      "date": "1968-04-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/04/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le trajet normal, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, n'est pas nécessairement un trajet sans interruption ou sans détour. (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De normale weg in de zin van artikel 1 van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen, is niet noodzakelijk een weg zonder onderbreking of een omweg. (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680201.4": {
+      "court": "CASS",
+      "date": "1968-02-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/02/01/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivée la décision qui ne rencontre pas de manière adéquate la défense de l'assureur-loi soutenant qu'un long laps de temps s'est écoulé entre la fin du travail et la survenance de l'accident sur le chemin du retour, sans que la victime justifie de la force majeure ou d'une cause légitime. (Constit., art. 97; arrêté-loi du 13 décembre 1945, art. 1er.)"
+      ],
+      "abstractNL": [
+        "Niet regelmatig met redenen omkleed is de beslissing, die geen passend antwoord verstrekt op het verweer van de verzekeraar tegen arbeidsongevallen, die stelt dat een lang tijdsverloop verstreken is tussen het einde van het werk en het ogenblik waarop het ongeval plaats heeft gehad op de weg naar en van het werk, zonder dat het slachtoffer een bewijs bijbrengt van overmacht of van een wettige oorzaak. (Grondwet, art. 97; besluitwet van 13 december 1945, art. 1.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680104.1": {
+      "court": "CASS",
+      "date": "1968-01-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/01/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le trajet normal, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, n'est pas nécessairement un trajet sans interruption; le trajet ne cesse pas d'être normal, lorsque l'interruption est justifiée par une cause légitime."
+      ],
+      "abstractNL": [
+        "De normale weg, in de zin van artikel 1 van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit arbeidsongevallen, is niet noodzakelijk een weg zonder onderbreking; de weg houdt niet op de normale weg te zijn, wanneer de onderbreking gerechtvaardigd is door een wettige oorzaak."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671208.1": {
+      "court": "CASS",
+      "date": "1967-12-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/12/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La partie qui demande le payement des indemnités forfaitaires légales en raison d'un accident survenu sur le chemin du travail a la charge de prouver que l'accident est survenu sur le chemin du travail. (Code civil, art. 1315; arrêté-loi du 13 décembre 1945, art. 1er)."
+      ],
+      "abstractNL": [
+        "Op de partij, die de betaling vraagt van de bij de wet vastgestelde forfaitaire vergoedingen voor een ongeval overkomen op de weg naar en van het werk, rust de last van het bewijs dat het ongeval overkomen is op de weg naar en van het werk. (Burg. Wetb., art. 1315; besluitwet van 13 december 1945, art. 1.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671120.8": {
+      "court": "CASS",
+      "date": "1967-11-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/11/20/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les lois relatives à la réparation des dommages résultant des accidents du travail, rendues applicables aux accidents survenus sur le chemin du travail, n'envisagent que la réparation des dommages résultant d'une atteinte à la personne des travailleurs; elles ne s'appliquent ni aux accidents qui n'ont causé un dommage qu'à leurs biens, ni aux accidents du travail en tant qu'ils ont causé un dommage à ces biens (1). (Lois coordonnées le 28 septembre 1931, art. 1er et 19; arrêté-loi du 13 décembre 1945, art. 1er.)"
+      ],
+      "abstractNL": [
+        "De wetten betreffende de vergoeding van de schade voortspruitende uit de arbeidsongevallen die van toepassing zijn op de ongevallen overkomen op de weg naar of van het werk, nemen enkel de vergoeding in aanmerking van de schade voortspruitende uit een aantasting van de persoon van de werknemers; zij zijn niet van toepassing op de ongevallen die enkel aan hun goederen schade berokkend hebben en evenmin op de arbeidsongevallen, in zover zij aan deze goederen schade berokkend hebben. (Gecoördineerde wetten van 28 september 1931, art. 1 en 19; besluitwet van 13 december 1945, art. 1.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671109.2": {
+      "court": "CASS",
+      "date": "1967-11-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/11/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail, visé par l'article 1er de l'arrêté-loi du 13 décembre 1945, s'entend du trajet normal que le travailleur doit parcourir pour se rendre du lieu de sa résidence ou du lieu où il prend ses repas au lieu de l'exécution du travail et inversement, ou encore pour se rendre au lieu du payement des salaires et pour en revenir. Si le juge peut admettre la légitimité de causes de détour ou d'interruption du trajet qui ne rendent pas celui-ci anormal, il ne peut, en revanche, étendre la notion même des trajets limitativement définis par ledit article 1er."
+      ],
+      "abstractNL": [
+        "Onder \"weg naar en van het werk\", bedoeld in artikel 1 van de besluitwet van 13 december 1945, wordt verstaan de normale weg die de werknemer moet afleggen om zich van zijn verblijf of van de plaats waar hij gaat eten naar de plaats waar hij zijn werk verricht te begeven, en omgekeerd, of nog om zich naar de plaats te begeven waar de lonen worden uitbetaald, en om ervan terug te keren. Zo de rechter de wettigheid van de oorzaken van de omweg of van de onderbreking van de weg die deze laatste niet abnormaal maken kan aannemen, mag hij evenwel het begrip zelf van de wegen, welke in artikel 1 op beperkende wijze zijn omschreven, niet uitbreiden."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670630.3": {
+      "court": "CASS",
+      "date": "1967-06-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'accident survenu sur le chemin du travail est, comme l'accident du travail, un événement soudain qui produit une lésion corporelle entraînant une incapacité de travail ou la mort, et dont la cause ou l'une des causes est extérieure à l'organisme de la victime."
+      ],
+      "abstractNL": [
+        "Het ongeval dat zich op de weg naar of van het werk voordoet is, evenals het arbeidsongeval, een schielijke gebeurtenis die een lichamelijk letsel teweegbrengt, hetwelk een ongeschiktheid tot werken of de dood tot gevolg heeft, en waarvan de oorzaak of een van de oorzaken buiten het organisme van de getroffene ligt."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670512.1": {
+      "court": "CASS",
+      "date": "1967-05-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dans l'article 1er de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, les mots \" lieu de la résidence du travailleur \" n'impliquent pas que le travailleur ne puisse avoir qu'une seule résidence, au sens dudit article."
+      ],
+      "abstractNL": [
+        "In artikel 1 van de besluitwet van 13 december 1945 betreffende de vergoeding van de schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen impliceren de woorden \" plaats van het verblijf van de arbeider \" niet dat de arbeider slechts één verblijf mag hebben in de zin van dit artikel."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670428.1": {
+      "court": "CASS",
+      "date": "1967-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/04/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945, n'est pas nécessairement la voie publique; il n'exclut pas le trajet que le travailleur doit parcourir, dans sa propriété, en rapport avec la nécessité dans laquelle il se trouve de se rendre du lieu de sa résidence au lieu de l'exécution de son travail et inversement."
+      ],
+      "abstractNL": [
+        "De weg naar en van het werk, in de zin van artikel 1 van de besluitwet van 13 december 1945 is niet noodzakelijk de openbare weg; het sluit de weg niet uit welke de werknemer op zijn erf dient af te leggen, in verband met de noodzaak waarin hij zich bevindt zich te begeven van de plaats van zijn verblijf naar de plaats waar hij zijn werk verricht en omgekeerd."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670202.2": {
+      "court": "CASS",
+      "date": "1967-02-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dans l'article 1er de l'arrêté-loi du 13 décembre 1945, relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, les mots \" lieu de la résidence du travailleur \" n'impliquent pas que le travailleur ne peut avoir qu'une seule résidence."
+      ],
+      "abstractNL": [
+        "In artikel 1 van de besluitwet van 13 december 1945 betreffende de vergoeding van de schade voortspruitende uit arbeidsongevallen, impliceren de woorden \" verblijf van de arbeider \" niet dat de arbeider slechts één enkel verblijf mag hebben."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661125.3": {
+      "court": "CASS",
+      "date": "1966-11-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/11/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "De ce qu'un travailleur, après une journée de dur travail dans le vent et la pluie, loin de son domicile, s'est, sur le chemin du retour, reposé pendant une demi-heure dans une auberge, celle-ci fût-elle sise sur le côté de la route opposé à celui que le travailleur eût emprunté, s'il s'était rendu directement à son domicile, le juge peut légalement déduire que cette interruption et ce détour sont, pour l'application de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, justifiés par une cause légitime."
+      ],
+      "abstractNL": [
+        "Uit de omstandigheid dat een arbeider na een dag zware arbeid, in regen en wind, ver van zijn woonst, zich, op de weg terug van het werk, gedurende een half uur heeft opgehouden in een herberg, ook al is deze aan de andere kant van de baan gelegen dan die welke de arbeider zou hebben gevolgd indien hij zich rechtstreeks naar zijn woonst had begeven, kan de rechter wettelijk afleiden dat die onderbreking en die omweg voor de toepassing van de besluitwet van 13 december 1945 op de vergoeding van de schade voortspruitende uit ongevallen overkomen op de weg van of naar het werk, door een wettige oorzaak zijn gerechtvaardigd."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660127.2": {
+      "court": "CASS",
+      "date": "1966-01-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de demande en réparation de dommages résultant d'un accident du travail ou d'un accident survenu sur le chemin du travail, la loi établit les bases d'évaluation du litige pour déterminer le ressort. (Lois coordonnées le 28 septembre 1931, art. 2 à 6; arr.-loi du 13 décembre 1945, art. 1er; loi du 25 mars 1876, art. 23 et 27.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19651126.1": {
+      "court": "CASS",
+      "date": "1965-11-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de demande en réparation de dommages résultant d'un accident survenu sur le chemin du travail, la loi établit les bases légales d'évaluation du litige pour déterminer le ressort. (Lois coordonnées le 28 septembre 1931, art. 2 à 6; arr.-loi du 13 décembre 1945, art. 1er; loi du 25 mars 1876, art. 23 et 27.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650930.1": {
+      "court": "CASS",
+      "date": "1965-09-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application des lois coordonnées sur la réparation des dommages résultant des accidents du travail, l'incapacité de travail permanente consiste dans l'atteinte portée à la capacité de travail de la victime et à sa faculté de concurrence, c'est-à-dire à la perte ou à la diminution du potentiel économique de la victime, lequel s'apprécie en fonction du marché général du travail."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650925.2": {
+      "court": "CASS",
+      "date": "1965-09-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de demande en réparation de dommages résultant d'un accident survenu sur le chemin du travail, la loi établit les bases d'évaluation du litige pour déterminer le ressort, et le salaire de la victime en est l'un des éléments essentiels. (Lois coordonnées le 28 septembre 1931, art. 2 à 6; arr.-loi du 13 décembre 1945, art. 1er; loi du 25 mars 1876, art. 23 et 27.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650426.4": {
+      "court": "CASS",
+      "date": "1965-04-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/04/26/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Avant sa modification par l'article unique de la loi du 11 juin 1964, l'article 19, alinéa 3, des lois coordonnées sur la réparation des dommages résultant des accidents du travail, qui, sauf le cas de faute intentionnelle, refuse à la victime d'un accident du travail l'action en responsabilité de droit commun contre l'auteur de l'accident, lorsque celui-ci est ouvrier ou préposé du chef d'entreprise, n'était applicable, en cas d'accident survenu sur le chemin du travail et dont l'auteur et la victime étaient ouvriers du même chef d'entreprise, que si l'auteur et la victime se trouvaient, l'un et l'autre, sur le chemin du travail. (Lois coordonnées le 28 septembre 1931, article 19; arr.-loi du 13 décembre 1945, art. 1er.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650212.1": {
+      "court": "CASS",
+      "date": "1965-02-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un temps anormal s'est écoulé entre le moment de la cessation du travail et celui d'un accident survenu sur le chemin du travail, au sens de l'article 1er de l'arrêté-loi du 13 décembre 1945, il incombe à la victime ou à ses ayants droit de prouver que l'anomalie a une cause légitime ou est due à la force majeure."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1964:ARR.19641218.3": {
+      "court": "CASS",
+      "date": "1964-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En matière de demande en réparation de dommages résultant d'un accident de travail, d'un accident survenu sur le chemin du travail ou d'un accident du travail survenu à des gens de mer, la loi établit les bases légales d'évaluation du litige pour déterminer le ressort. (Lois coordonnées le 28 septembre 1931, art. 2 à6; arrêté-loi du 13 décembre 1945, art. 1er; loi du 30 décembre 1929, art. 3 à 7; loi du 25 mars 1876, art. 23 et 27.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1975:ARR.19750108.6": {
+      "court": "CASS",
+      "date": "1975-01-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge , qui constate qu'un accident est survenu alors que la victime faisait un détour pour des motifs de convenance personnelle, décide légalement que l'accident n'est pas survenu sur le chemin du travail. (Arrêté-loi du 13 décembre 1945, article 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat het ongeval zich heeft voorgedaan toen de getroffene om redenen van persoonlijke aard een omweg maakte, beslist wettelijk dat het ongeval zich niet op de weg naar of van het werk heeft voorgedaan. ( Artt. 1 en 2 besluitwet van 13 december 1945. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731205.1": {
+      "court": "CASS",
+      "date": "1973-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/12/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La faute de la victime d'un accident survenu sur le chemin du travail, qui exclut, en vertu de l'article 2, alinéa 2, de l'arrêté-loi du 13 décembre 1945, le droit aux indemnités forfaitaires, est la faute qui, tout en ayant un lien de causalité avec l'accident, n'a aucun rapport avec le trajet normal."
+      ],
+      "abstractNL": [
+        "De fout van de getroffene van een geval op de weg naar en van het werk, die luidens artikel 2, lid 2, van de besluitwet van 13 december 1945 het recht op de forfaitaire vergoedingen uitsluit, is de fout die, hoewel ze verband met het ongeval houdt, geen enkel verband met de normale weg heeft."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700306.1": {
+      "court": "CASS",
+      "date": "1970-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail s'entend du trajet normal que le travailleur doit parcourir pour se rendre du lieu de sa résidence ou du lieu où il prend son repas au lieu de l'exécution du travail ou inversément, ou encore pour se rendre au lieu du payement des salaires et pour en revenir. ( Arrêté-loi du 13 décembre 1945, art., 1er et 2. )"
+      ],
+      "abstractNL": [
+        "Onder de weg naar of van het werk dient te worden verstaan de door de arbeider normaal af te leggen weg om zich van zijn verblijf of van de plaats waar hij gaat eten naar de plaats waar hij zijn werk verricht te begeven, en omgekeerd, of nog, om zich naar de plaats te begeven waar de lonen worden uitbetaald en om ervan terug te keren. ( Besluitwet van 13 december 1945, art. 1 en 2. )"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690206.1": {
+      "court": "CASS",
+      "date": "1969-02-06",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/02/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas entaché de contradiction le jugement qui constate, d'une part, qu'un accident survenu sur le chemin du travail a été la réalisation d'un risque inhérent au trajet normal défini par l'article 2 de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant de ces accidents et, d'autre part, que la cause de l'accident n'est pas connue."
+      ],
+      "abstractNL": [
+        "Niet tegenstrijdig is het vonnis dat vaststelt enerzijds dat een ongeval op de weg naar of van het werk de verwezenlijking is van een risico verbonden aan de normale weg, omschreven bij artikel 2 van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit dergelijke ongevallen, en anderzijds dat de oorzaak van het ongeval niet gekend is."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19681129.3": {
+      "court": "CASS",
+      "date": "1968-11-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/11/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Une interruption pour prendre une détente dont le travailleur avait besoin, dût-elle durer une heure et demie, peut avoir une cause légitime et n'exclut, dès lors, pas nécessairement que l'accident se soit produit sur le chemin normal du travail."
+      ],
+      "abstractNL": [
+        "Een onderbreking om een ontspanning te nemen die de werknemer nodig had, al duurde zij anderhalf uur, kan een rechtmatige oorzaak hebben en sluit bijgevolg niet noodzakelijk uit dat het ongeval zich op de normale weg van het werk voordeed."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670615.1": {
+      "court": "CASS",
+      "date": "1967-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour que le trajet parcouru par le travailleur demeure, malgré un détour ou une interruption, le trajet normal, au sens de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, il n'est pas requis que le détour ou l'interruption aient été commandés par une véritable nécessité; il suffit qu'ils aient une cause légitime, des motifs de convenance personnelle étant toutefois exclus."
+      ],
+      "abstractNL": [
+        "Opdat de door de arbeider afgelegde weg de normale weg zou blijven volgens de betekenis van deze termen in de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen, zelfs al legt hij die af met een omweg of een onderbreking, is niet vereist dat de omweg of de onderbreking door een ware noodzaak wordt voorgeschreven; het is voldoende dat zij gerechtvaardigd wordt door een wettige reden met uitsluiting van persoonlijke aangelegenheden."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670609.1": {
+      "court": "CASS",
+      "date": "1967-06-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le mot \" apparaît \", employé dans les motifs d'une décision judiciaire, exprime, suivant le contexte, une opinion soit dubitative, soit certaine."
+      ],
+      "abstractNL": [
+        "Het woord \" voorkomt \", dat in de redenen van een rechterlijke beslissing gebezigd wordt, drukt volgens de context een twijfelachtige of een zekere mening uit."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670526.2": {
+      "court": "CASS",
+      "date": "1967-05-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'accident survenu sur le chemin du travail est, comme l'accident du travail, un événement soudain qui produit une lésion corporelle entraînant une incapacité de travail ou la mort du travailleur, et dont la cause ou l'une des causes est extérieure à l'organisme de la victime."
+      ],
+      "abstractNL": [
+        "Het ongeval dat zich op de weg naar of van het werk voordoet, is evenals het arbeidsongeval een schielijke gebeurtenis die een lichamelijk letsel teweegbrengt hetwelk een ongeschiktheid tot werken of de dood ten gevolge heeft, en waarvan de oorzaak of één van de oorzaken buiten het organisme van de getroffene ligt."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661118.3": {
+      "court": "CASS",
+      "date": "1966-11-18",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/11/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Décide légalement qu'un accident est survenu sur le trajet normal du travail, le juge qui constate que cet accident a eu lieu sur un chemin de halage que la victime suivait habituellement, en cyclomoteur, pour se rendre à son travail ou en revenir, et que ce chemin, bien que l'accès en soit, en principe, interdit à tout conducteur, ne présente pas de danger particulier."
+      ],
+      "abstractNL": [
+        "Beslist wettelijk dat een ongeval zich voordoet op het normaal traject naar of van het werk, de rechter die vaststelt dat het ongeval gebeurde op een jaagpad dat gewoonlijk per rijwiel met hulpmotor door het slachtoffer werd gevolgd om zich naar zijn werk te begeven of om ervan terug te keren, en dat dit jaagpad hoewel de toegang ertoe, in principe, aan elke bestuurder verboden was, geen bijzonder gevaar vertoont."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660310.1": {
+      "court": "CASS",
+      "date": "1966-03-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/03/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivé le jugement qui décide qu'un accident est survenu sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945, pour le seul motif que la durée du trajet, que le travailleur parcourut en voiture automobile pour se rendre du lieu de l'exécution du travail à sa résidence, est une durée normale, alors que l'employeur ou l'assureur-loi soutenait en conclusions qu'à la durée du trajet ainsi effectué devait être ajoutée la durée pendant laquelle le travailleur, interrompant ce trajet, avait séjourné dans un débit de boissons, interruption qui n'avait pas de cause légitime."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650506.2": {
+      "court": "CASS",
+      "date": "1965-05-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ne se rend pas au lieu du payement de la rémunération, au sens des articles 1er et 2 de l'arrêté-loi du 13 décembre 1945, relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, l'employé qui se rend à l'Office des chèques postaux pour y retirer les rémunérations versées, à son compte, par son employeur."
+      ],
+      "abstractNL": null
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1970:ARR.19700306.5": {
       "court": "CASS",
@@ -65,6 +667,156 @@
       "abstractNL": [
         "De weg naar of van het werk, bedoeld door de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen, is niet noodzakelijk het rechtstreekse of het ononderbroken traject; doch het traject is niet meer normaal wanneer de arbeider het onderbreekt, zonder dat zulks door overmacht of door een wettige reden verantwoord is."
       ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720426.2": {
+      "court": "CASS",
+      "date": "1972-04-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/04/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate qu'un travailleur a été victime d'un accident sur le chemin du lieu de l'exécution de son travail à sa résidence après avoir, au cours de la nuit, interrompu ce trajet pour se rendre dans un café où il avait séjourné pendant deux heures, uniquement pour y boire des verres de bière et s'y adonner à des jeux avec des compagnons de travail, peut en déduire légalement que ledit accident ne s'est pas produit sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945."
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat een arbeider werd getroffen door een ongeval op de weg van de plaats waar hij zijn werk had verricht naar zijn verblijf na, in de loop van de nacht, deze weg te hebben onderbroken om naar een café te gaan waar hij twee uur was gebleven alleen om er met werkmakkers glazen bier te drinken en er op toestellen te spelen, kan hieruit wettelijk afleiden dat dit ongeval zich niet op de weg van het werk heeft voorgedaan in de zin van de besluitwet van 13 december 1945."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701223.4": {
+      "court": "CASS",
+      "date": "1970-12-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "De ce que l'accident est survenu sur le chemin du travail, mais que le transport au lieu du travail est organisé par l'employeur, il ne peut être déduit que l'accident, dont est victime l'ouvrier pendant le déplacement, est survenu dans le cours de l'exécution du contrat de travail et est un accident du travail et non un accident survenu sur le chemin du travail. (Lois coordonnées le 28 septembre 1931, art. 1er, al. 1er, et 6; arrêté-loi du 13 décembre 1945.)"
+      ],
+      "abstractNL": [
+        "Uit de omstandigheid dat het ongeval is overkomen op de weg naar het werk maar het vervoer naar het werk door de werkgever is georganiseerd, kan niet worden afgeleid dat het ongeval, dat de werknemer tijdens de verplaatsing treft, in de loop van de uitvoering van de arbeidsovereenkomst is overkomen en arbeidsongeval is en geen ongeval op de weg naar of van het werk. (Gecoördineerde wetten van 28 september 1931, art. 1, lid 1 en 6; besluitwet van 13 december 1945.)"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691128.2": {
+      "court": "CASS",
+      "date": "1969-11-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut légalement décider que le travailleur qui, avant de sortir sa voiture de son garage pour se rendre du lieu de sa résidence au lieu de l'exécution de son travail,va vérifier si l'état de la route permet la circulation automobile, se trouve à ce moment, sur le chemin du travail au sens de l'arrêté-loi du 13 décembre 1945."
+      ],
+      "abstractNL": [
+        "De rechter kan wettelijk beslissen dat de arbeider die, alvorens zijn voertuig uit zijn garage te rijden om zich van de plaats van zijn verblijf te begeven naar de plaats waar hij zijn werk verricht, nagaat of de staat van de rijbaan het wegverkeer mogelijk maakt, zich op dat ogenblik op de weg naar of van het werk bevindt in de zin van de besluitwet van 13 december 1945."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690905.1": {
+      "court": "CASS",
+      "date": "1969-09-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/09/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ne se trouve pas sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945, l'ouvrier qui, son contrat de travail ayant pris fin, se rend chez son ancien employeur pour y retirer l'assignation postale, constituant le payement de son pécule de vacances, que la Caisse nationale des vacances annuelles y avait fait parvenir, et qui, en en revenant, est la victime d'un accident mortel."
+      ],
+      "abstractNL": [
+        "Niet op de weg naar of van het werk, in de zin van de besluitwet van 13 december 1945, bevindt zich de arbeider die, nadat zijn arbeidsovereenkomst geëindigd is, zich naar zijn vroegere werkgever begeeft om er het door de Rijkskas voor jaarlijks verlof aan laatstgenoemde geadresseerde postmandaat, zijnde de betaling van zijn vakantiegeld, af te halen en die, bij zijn terugkeer, door een dodelijk ongeval getroffen wordt."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690516.2": {
+      "court": "CASS",
+      "date": "1969-05-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le jugement attaqué décide qu'un accident est un accident survenu sur le chemin du travail au sens de l'arrêté-loi du 13 décembre 1945, en relevant deux circonstances établissant, chacune, que l'accident est dû à un risque inhérent à ce chemin, est irrecevable, à défaut d'intérêt, le moyen de cassation qui ne critique que la constatation d'une de ces circonstances, alors que la décision est légalement justifiée par la constatation de l'autre."
+      ],
+      "abstractNL": [
+        "Wanneer het bestreden vonnis, om te beslissen dat een ongeval een op de weg van het werk overkomen ongeval is in de zin van de besluitwet van 13 december 1945, wijst op twee omstandigheden uit elk waarvan blijkt dat het ongeval te wijten is aan een met deze weg onafscheidelijk verbonden risico, is niet ontvankelijk, wegens het ontbreken van belang, het cassatiemiddel dat slechts de vaststelling van een van deze omstandigheden kritiseert, terwijl de beslissing wettelijk is verantwoord door de vaststelling van de andere omstandigheid."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690327.2": {
+      "court": "CASS",
+      "date": "1969-03-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est survenu sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945 relatif à la réparation des dommages résultant des accidents survenus sur le chemin du travail, l'accident dont a été victime un travailleur sur le chemin qu'il suivait, un jour où il ne devait pas se rendre à son travail, entre une gare de chemin de fer et son domicile, trajet qu'il était obligé de parcourir ce jour-là qui était le seul où il pouvait obtenir à ladite gare un \"coupon de semaine\", payé en partie par son patron, qui lui était nécessaire pour se rendre, en chemin de fer, les jours de travail, de son domicile au lieu de l'exécution du travail et inversement."
+      ],
+      "abstractNL": [
+        "Op de weg naar of van het werk overkomen, in de zin van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen op de weg naar of van het werk, is het ongeval waardoor de arbeider getroffen werd op de weg die hij de dag waarop hij zich niet naar zijn werk moest begeven, volgde tussen een station en zijn woonplaats, welke weg hij deze dag moest afleggen omdat het de enige dag was waarop hij bij dit station zijn weekkaartje kon bekomen, dat gedeeltelijk door zijn patroon werd betaald en dat hij nodig had om zich per trein op de werkdagen, van zijn woonplaats naar de plaats waar hij zijn werk verricht te begeven, en omgekeerd."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19671207.3": {
+      "court": "CASS",
+      "date": "1967-12-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/12/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition des lois coordonnées sur la réparation des dommages résultant des accidents du travail ou de l'arrêté-loi du 13 décembre 1945 à la réparation des dommages résultant des accidents survenus sur le chemin du travail ne prive d'effet la reconnaissance, par l'employeur ou par son assureur, de l'existence de l'accident dont le travailleur déclare avoir été la victime."
+      ],
+      "abstractNL": [
+        "Geen enkele bepaling van de gecoördineerde wetten betreffende de vergoeding der schade voortspruitende uit arbeidsongevallen of van de besluitwet van 13 december 1945 betreffende de vergoeding voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen berooft van uitwerking de erkenning, door de werkgever of door zijn verzekeraar, van het bestaan van het ongeval waardoor de arbeider verklaart te zijn getroffen."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661103.1": {
+      "court": "CASS",
+      "date": "1966-11-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/11/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'évaluation du litige dans l'assignation est inopérante pour la détermination du ressort, lorsque la loi établit les bases d'évaluation du litige."
+      ],
+      "abstractNL": [
+        "De begroting van het geschil in de dagvaarding, tot bepaling van de aanleg, mist elk gevolg wanneer de wet de grondslagen voor de begroting van het geschil bepaalt."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661003.4": {
+      "court": "CASS",
+      "date": "1966-10-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 19, alinéa 3, des lois coordonnées sur la réparation des dommages résultant des accidents du travail, qui, sauf dans le cas de faute intentionnelle, refuse à la victime d'un accident du travail le recours de droit commun contre l'auteur responsable de l'accident lorsque celui-ci est le chef d'entreprise, un ouvrier ou un préposé de ce dernier, était, avant l'entrée en vigueur de la loi du 11 juin 1964 qui a modifié ladite disposition légale, applicable tant à l'accident survenu sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945, qu'à l'accident survenu dans le cours et par le fait de l'exécution du contrat de travail."
+      ],
+      "abstractNL": [
+        "Artikel 19, lid 3, van de gecoördineerde wetten betreffende de schade voortvloeiend uit arbeidsongevallen, hetwelk, behalve het geval van opzettelijke fout, aan de getroffene van een arbeidsongeval het recht ontzegt om tegen de aansprakelijke dader van het ongeval vergoeding te vorderen overeenkomstig de regels van het gemeen recht, wanneer deze dader het ondernemingshoofd, diens arbeider of aangestelde is, was, vóór de inwerkingtreding van de wet van 11 juni 1964 die bedoelde wetsbepaling gewijzigd heeft, van toepassing zowel op het ongeval dat zich heeft voorgedaan op de weg naar of van het werk, in de zin van de besluitwet van 13 december 1945, als op het ongeval dat zich heeft voorgedaan tijdens en ingevolge de uitvoering van het arbeidscontract."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660113.2": {
+      "court": "CASS",
+      "date": "1966-01-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute chute d'un travailleur, sur le chemin du travail, au sens de l'arrêté-loi du 13 décembre 1945, n'est pas nécessairement due à l'action d'une force extérieure et ne constitue partant pas nécessairement un accident du travail au sens de l'article 1er des lois coordonnées relatives à la réparation des dommages résultant des accidents du travail."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1964:ARR.19641218.1": {
+      "court": "CASS",
+      "date": "1964-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/12/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le chemin du travail, visé par l'arrêté-loi du 13 décembre 1945, n'est pas nécessairement le trajet direct ou le trajet non interrompu; le trajet ne cesse pas d'être normal lorsqu'il comprend un détour ou une interruption justifiés par une cause légitime."
+      ],
+      "abstractNL": null
     }
   }
 }

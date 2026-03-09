@@ -1,4 +1,36 @@
 {
+  "75": {
+    "ECLI:BE:CASS:1996:ARR.19960220.10": {
+      "court": "CASS",
+      "date": "1996-02-20",
+      "roleNumber": "P960144N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/02/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En prenant la décision de refuser le séjour et \"la décision de maintenir en un lieu déterminé\", en application des articles 52, 74.6, alinéa 1er, de la loi du 15 décembre 1980 et 75, alinéa 2, de l'arrêté royal du 8 octobre 1981 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, le ministre des Affaires intérieures agit en vertu de la loi et non sur ordre ou au nom du Roi; aucune disposition légale ne requiert qu'à cet égard, le ministre ou son délégué se réfère au Roi."
+      ],
+      "abstractNL": [
+        "Bij het nemen van de beslissing tot weigering van verblijf en van de \"beslissing tot het vasthouden in een welbepaalde plaats\", met toepassing van de artt. 52 en 74.6, § 1, Vreemdelingenwet en 75, § 2, van het K.B. van 8 okt. 1981 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, treedt de minister van Binnenlandse Zaken op krachtens de wet en niet door of namens de Koning; geen wettelijke bepaling vereist dat de minister of zijn gemachtigde hierbij verwijst naar de Koning."
+      ]
+    }
+  },
+  "77": {
+    "ECLI:BE:CASS:2009:ARR.20090629.6": {
+      "court": "CASS",
+      "date": "2009-06-29",
+      "roleNumber": "S.08.0114.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/29/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'effet suspensif des recours visés par les articles 63/3, alinéa 1er, et 57/11, § 1er, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, dans leur version appliquée par la cour du travail, sur les mesures d'éloignement du territoire prises à l'égard de l'étranger en raison des faits qui ont donné lieu à la décision contestée n'implique pas que l'ordre de quitter le territoire, qui accompagnait une telle décision, retrouve effet du seul fait du rejet du recours. Le nouvel ordre de quitter le territoire notifié à la suite de la décision qui rejette le recours se substitue, ensuite de ce nouvel examen, à l'ordre de quitter le territoire qui accompagnait la décision contestée et dont il n'est pas un simple acte confirmatif (1). (1) Avant son abrogation par la loi du 27 décembre 2006."
+      ],
+      "abstractNL": [
+        "De schorsende werking van de beroepen bedoeld in de artt. 63/3, eerste lid, en 57/11, § 1, derde lid, Vreemdelingenwet, zoals die artikelen door het arbeidshof zijn toegepast, op de maatregelen tot verwijdering van het grondgebied, die t.a.v. de vreemdeling zijn genomen op grond van de feiten die tot de betwiste beslissing hebben geleid, impliceert niet dat het bevel om het grondgebied te verlaten, dat samen met een dergelijke beslissing is gegeven, alleen al door de verwerping van het beroep opnieuw uitwerking krijgt. Het nieuwe bevel om het grondgebied te verlaten, dat na de beslissing tot verwerping van het beroep ter kennis wordt gebracht, vervangt, t.g.v. dat nieuwe onderzoek, het bevel om het grondgebied te verlaten dat samen met de betwiste beslissing werd gegeven en dat deze beslissing niet zomaar bevestigt (1). (1) Vóór de opheffing ervan bij W. 27 dec. 2006."
+      ]
+    }
+  },
   "98": {
     "ECLI:BE:CASS:2012:ARR.20121105.4": {
       "court": "CASS",
@@ -12,6 +44,22 @@
       ],
       "abstractNL": [
         "Het Grondwettelijk Hof heeft beslist dat, wanneer de staatloze deze hoedanigheid heeft verkregen omdat hij buiten zijn wil zijn nationaliteit heeft verloren en aantoont dat hij geen wettige en duurzame verblijfstitel kan verkrijgen in een andere Staat waarmee hij banden zou hebben, de situatie waarin hij zich bevindt op discriminerende wijze afbreuk kan doen aan zijn grondrechten, zodat het verschil in behandeling tussen die staatloze en de erkende vluchteling niet redelijk verantwoord is; het middel, dat betoogt dat de Grondwet geschonden wordt wanneer niet aan elke staatloze het aan zijn hoedanigheid verbonden recht van verblijf wordt toegekend, faalt naar recht."
+      ]
+    }
+  },
+  "113": {
+    "ECLI:BE:CASS:2009:ARR.20090220.12": {
+      "court": "CASS",
+      "date": "2009-02-20",
+      "roleNumber": "C.07.0641.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/02/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Un étranger qui a introduit un recours urgent contre un ordre de quitter le territoire et qui ensuite de la suspension de cet ordre dispose d'un document de séjour spécial, est admis à séjourner provisoirement sur le territoire; sa résidence principale en Belgique est ainsi couverte par un séjour légal."
+      ],
+      "abstractNL": [
+        "Een vreemdeling die een dringend beroep heeft ingesteld tegen een bevel om het land te verlaten en die ingevolge de schorsing van dit bevel over een bijzonder verblijfsdocument beschikt, is het toegelaten voorlopig in het land te verblijven; zijn hoofdverblijf in België is aldus gedekt door een wettelijk verblijf."
       ]
     }
   }

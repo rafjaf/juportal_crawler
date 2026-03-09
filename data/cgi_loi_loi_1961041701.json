@@ -31,6 +31,22 @@
       ]
     }
   },
+  "38": {
+    "ECLI:BE:CASS:2014:ARR.20141211.4": {
+      "court": "CASS",
+      "date": "2014-12-11",
+      "roleNumber": "C.13.0537.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/12/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge étatique qui identifie et interprète une coutume internationale n'est pas tenu de constater, dans sa décision, l'existence d'une pratique générale, admise par une majorité des Etats, qui soit à l'origine de cette coutume internationale (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De overheidsrechter die een internationaal gebruik identificeert en uitlegt, dient in zijn beslissing niet het bestaan vast te stellen van een algemene, door een meerderheid van de Staten erkende gewoonte die aan de grondslag van dat internationaal gebruik ligt (1). (1) Zie concl. OM in Pas. 2014, nr. ... ."
+      ]
+    }
+  },
   "39": {
     "ECLI:BE:CASS:2019:ARR.20190102.3": {
       "court": "CASS",

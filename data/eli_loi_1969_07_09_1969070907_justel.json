@@ -30,5 +30,35 @@
         "Artikel 11 van de wet van 9 juli 1969 tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector, zoals in deze van toepassing, vindt toepassing wanneer een nieuwe bezoldigingsregeling in werking treedt in de loop van de laatste vijf jaar van de loopbaan of erna, tot de datum waarop het pensioen ingaat, en ertoe strekt het personeelslid ook te laten genieten van een uit de nieuwe bezoldigingsregeling voortvloeiende weddeschaalverhoging in het gedeelte van de referentieperiode dat voorafgaat aan de inwerkingtreding van de nieuwe bezoldingsregeling; wanneer de bezoldigingsregeling die geldt op het tijdstip van de ingenottreding van het pensioen een overgangsregeling bevat die toeliet dat een personeelslid de weddeschaal van de vorige bezoldigingsregeling behield, dan maakt die behouden weddeschaal integraal deel uit van de op het tijdstip van de ingenottreding van het pensioen geldende bezoldigingsregeling in de zin van artikel 11 van de voormelde wet van 9 juli 1969 (1). (1) Artt. 11 en 12 van de wet van 9 juli 1969 tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector, zoals van toepassing voor de vervanging ervan door de wet van 25 april 2007 betreffende de pensioenen van de openbare sector"
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940630.19": {
+      "court": "CASS",
+      "date": "1994-06-30",
+      "roleNumber": "F930129F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, le moyen qui invoque la violation d'une convention internationale, en l'espèce la Convention préventive de double imposition conclue le 11 avril 1967 entre la Belgique et la République fédérale d'Allemagne, sans indiquer la loi belge qui a approuvé cette convention. (Art. 388 CIR)."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel ten betoge dat een internationale overeenkomst, te dezen de Overeenkomst tot voorkoming van dubbele belasting, op 11 april 1967 gesloten tussen België en de Bondsrepubliek Duitsland, is geschonden, zonder de Belgische wet tot goedkeuring van die overeenkomst te vermelden. (Art. 388 WIB)."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731012.1": {
+      "court": "CASS",
+      "date": "1973-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/10/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le précompte mobilier perçu par l'Etat belge sur les dividendes attribués par une société résidente de la Belgique à un résident de la République fédérale d'Allemagne ne peut, aux termes de l'article 10, alinéas 2 et 3, de la convention signée le 11 avril 1967 entre la Belgique et la République fédérale d'Allemagne et approuvée par la loi 9 juillet 1969, en vue d'éviter les doubles impositions, excéder 15 p.c. du montant brut des dividendes, c'est-à-dire du montant des dividendes avant déduction des revenus déjà taxés."
+      ],
+      "abstractNL": [
+        "De door Belgie geheven roerende voorheffing op de dividenden toegekend door een vennootschap die verblijfhouder is van Belgie, aan een verblijfhouder van de Bondsrepubliek Duitsland, mag, overeenkomstig artikel 10, lid 2 en 3, van de overeenkomst op 11 april 1967 ondertekend tussen Belgie en de Bondsrepubliek Duitsland tot voorkoming van dubbele belasting, niet hoger zijn dan 15 pct. van het brutobedrag van de dividenden, d.w.z. van het bedrag van de dividenden zonder aftrekking van de reeds belaste inkomsten."
+      ]
+    }
   }
 }

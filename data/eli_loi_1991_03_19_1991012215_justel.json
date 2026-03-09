@@ -14,6 +14,34 @@
       "abstractNL": [
         "Onder sluiting wordt verstaan, de definitieve stopzetting van de hoofdactiviteit van de onderneming of van een afdeling ervan (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121203.3": {
+      "court": "CASS",
+      "date": "2012-12-03",
+      "roleNumber": "S110114F-S110115F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la loi du 19 mars 1991, la fermeture d'une division de l'entreprise se définit comme la cessation définitive de l'activité principale de cette division."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de wet van 19 maart 1991, wordt de sluiting van een afdeling van de onderneming gedefinieerd als de definitieve stopzetting van de hoofdactiviteit van die afdeling."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990222.8": {
+      "court": "CASS",
+      "date": "1999-02-22",
+      "roleNumber": "S980076N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Par fermeture, on entend toute cessation définitive de l'activité principale de l'entreprise ou d'une division de celle-ci."
+      ],
+      "abstractNL": [
+        "Met sluiting wordt elke definitieve stopzetting van de hoofdactiviteit van de onderneming of van een afdeling ervan bedoeld."
+      ]
     }
   },
   "2": {
@@ -32,6 +60,200 @@
       "abstractNL": [
         "Het ontslag is de handeling waardoor een partij aan de andere partij ter kennis brengt dat zij de tussen hen voor onbepaalde tijd gesloten arbeidsovereenkomst wil beëindigen; zodat het geen gevolg heeft bij het verstrijken van de daarmee gepaard gaande opzeggingstermijn maar op het ogenblik waarop het wordt gegeven (1). (1) Cass. 18 mei 1987, AR 5624, AC 1986-87, nr. 547.",
         "Het ontslag kan door de werkgever niet ter kennis worden gebracht voordat de bij de Wet Ontslagregeling Personeelsafgevaardigden beschermde werknemer de leeftijd van vijfenzestig jaar heeft bereikt, zelfs als de opzeggingstermijn pas hierna verstrijkt."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121015.6": {
+      "court": "CASS",
+      "date": "2012-10-15",
+      "roleNumber": "S.11.0052.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le mandat du délégué du personnel donne lieu au préjudice visé aux articles 21, §5, de la loi du 20 septembre 1948 portant organisation de l'économie et 2, §4, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, lorsque le délégué du personnel est privé d'un avantage à la suite du fait qu'en raison de l'exercice de son mandat, il ne peut remplir les critères requis pour l'obtention de cet avantage."
+      ],
+      "abstractNL": [
+        "Het mandaat van een personeelsafgevaardigde geeft aanleiding tot benadeling in de zin van artikel 21, §5, Bedrijfsorganisatiewet en artikel 2, §4, Wet Ontslagregeling personeelsafgevaardigden, wanneer de personeelsafgevaardigde een voordeel wordt ontzegd omdat wegens de uitoefening van dit mandaat niet kan voldoen aan de criteria die voor de toekenning van dat voordeel worden gesteld."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110516.3": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "S.10.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les articles 2, §6, troisième et sixième tirets, 5, §3, alinéa 2, et 8, alinéa 1er, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés qui prévoient les cas dans lesquels, d'un commun accord avec le travailleur protégé, il peut être mis fin à son contrat de travail et à sa protection suivant des modalités différant des modalités prévues à l'article 2, §1er, de la loi, sont soumis à une stricte interprétation et ne sauraient impliquer que le travailleur protégé peut renoncer à tout moment à la protection prévue par la loi."
+      ],
+      "abstractNL": [
+        "De artikelen 2, §6, derde en zesde gedachtestreepje, 5, §3, tweede lid, en 8, eerste lid, Wet Ontslagregeling Personeelsafgevaardigden, waarin gevallen zijn bepaald waarin de arbeidsovereenkomst van een beschermde werknemer met diens akkoord op een andere wijze dan bepaald in artikel 2, §1, kan worden beëindigd en de bescherming ten einde komt, moet strikt geïnterpreteerd worden en houden geenszins in dat de beschermde werknemer te allen tijde afstand kan doen van de door deze wet verleende bescherming."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20101213.7": {
+      "court": "CASS",
+      "date": "2010-12-13",
+      "roleNumber": "S.10.0047.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/12/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'un employeur poursuive devant la juridiction du travail la procédure en admission d'un motif grave de licenciement d'un délégué du personnel aux conseils d'entreprise et aux comités d'hygiène et d'embellissement des lieux de travail n'a pas pour effet que, aussi longtemps que la procédure est pendante, un juge ne puisse décider que l'employeur a rompu le contrat qu'à la condition de constater la volonté de l'employeur de rompre le contrat pour un motif autre que le motif grave allégué."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een werkgever voor het arbeidsgerecht de in die wet bepaalde procedure tot erkenning van een dringende reden van ontslag van een personeelsafgevaardigde in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen instelt, heeft niet tot gevolg dat de rechter, zolang de procedure loopt, slechts kan beslissen dat de werkgever de overeenkomst heeft beëindigd, op voorwaarde dat hij vaststelt dat de werkgever de overeenkomst om een andere dan de aangevoerde dringende reden heeft willen beëindigen."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20101129.3": {
+      "court": "CASS",
+      "date": "2010-11-29",
+      "roleNumber": "S.09.0114.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Motive régulièrement et justifie légalement sa décision de ne pas admettre de motif grave de licenciement, l'arrêt attaqué qui considère, sans être critiqué, que le seul fait allégué par l'employeur comme constitutif de motif grave est un vol et qui exclut, en l'absence d'intention frauduleuse, que le travailleur a commis ce vol."
+      ],
+      "abstractNL": [
+        "Het bestreden arrest motiveert regelmatig en verantwoordt naar recht zijn beslissing om de dringende reden van ontslag niet aan te nemen, wanneer het overweegt, zonder bekritiseerd te worden, dat het enige feit dat de werkgever aanvoert tot staving van de dringende reden een diefstal is en bij gebrek aan bedrieglijk opzet uitsluit dat de werknemer die diefstal heeft gepleegd."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090622.9": {
+      "court": "CASS",
+      "date": "2009-06-22",
+      "roleNumber": "S.09.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel intéresse l'ordre public a pour effet non d'entacher de nullité le licenciement régulièrement effectué par l'employeur, notifié au cours des périodes de protection visées aux paragraphes 2 et 3 de l'article 2 de la loi, mais de rendre les indemnités visées aux articles 16 et 17 de la loi exigibles dès le moment où le contrat de travail prend effectivement fin à la suite du licenciement effectué par l'employeur."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de Wet Ontslagregeling Personeelsafgevaardigden van openbare orde is brengt niet mee dat de door de werkgever op regelmatige wijze gegeven opzegging, ter kennis gebracht gedurende de beschermingsperiodes bedoeld in de paragrafen 2 en 3 van artikel 2 van deze wet, nietig is, maar heeft tot gevolg dat de in artikelen 16 en 17 van deze wet bepaalde vergoedingen verschuldigd zijn van zodra de arbeidsovereenkomst effectief ten einde komt ingevolge die opzegging van de werkgever."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une décision relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que des candidats délégués du personnel, soit arrêtée par le conseil d'administration d'une société anonyme alors qu'il n'est pas régulièrement composé n'a pas pour effet que cette décision, fût-elle de nature à être annulée, n'engagerait pas la société que représente ce collège (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een beslissing betreffende de bijzondere ontslagregeling voor personeelsafgevaardigden in de ondernemingsraden en in de comités van veiligheid, gezondheid en verfraaiing van de werkplaatsen, alsmede voor de kandidaat-personeelsafgevaardigden, genomen wordt door een onregelmatig samengestelde raad van bestuur van een naamloze vennootschap, heeft niet tot gevolg dat die beslissing, zelfs al kon ze worden nietig verklaard, niet bindend zou zijn voor de vennootschap die door dat college wordt vertegenwoordigd (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081208.5": {
+      "court": "CASS",
+      "date": "2008-12-08",
+      "roleNumber": "S.08.0047.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui a été élu une première fois au Conseil d'entreprise et qui est, par la suite, candidat non élu aux élections suivantes bénéficie de la protection de plus longue durée (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De werknemer die een eerste keer werd verkozen voor de ondernemingsraad en die vervolgens, als kandidaat, niet werd verkozen bij de volgende verkiezingen, geniet de langere beschermingsperiode (1). (1) Zie concl. O.M. in Pas., 2008, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070305.3": {
+      "court": "CASS",
+      "date": "2007-03-05",
+      "roleNumber": "S.06.0079.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/03/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Un candidat délégué du personnel non élu dans les conseils d'entreprise et dans les comités de sécurité, d'hygiène et d'embellissement des lieux de travail bénéficie, à tout le moins lors de sa première candidature, d'une protection égale à celle des délégués du personnel élus; il ne peut y avoir qu'une seule première candidature (1). (1) Cass., 1er octobre 2001, S.01.0014.N, n° 510."
+      ],
+      "abstractNL": [
+        "Een niet verkozen kandidaat-personeelsafgevaardigde in ondernemingsraden en in comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen geniet alleszins bij zijn eerste kandidatuurstelling de bescherming, gelijk aan deze van de verkozen personeelsafgevaardigden; er kan maar éénmaal een eerste kandidatuur zijn (1). (1) Cass., 1 okt. 2001, AR S.01.0014.N, nr 510."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011001.9": {
+      "court": "CASS",
+      "date": "2001-10-01",
+      "roleNumber": "S010014N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de scission d'une unité technique d'exploitation en plusieurs entités juridiques, le candidat délégué du personnel qui n'a pas été élu lors des élections sociales organisées avant cette scission, continue à bénéficier des mesures de protection prévues par la loi du 19 mars 1991 lorsqu'il se porte candidat aux élections sociales suivantes au sein de l'unité technique d'exploitation nouvellement créée ; cette candidature ne doit pas être considérée comme une première candidature bénéficiant de la plus longue période de protection y afférente mais comme une candidature d'un délégué du personnel qui était déjà candidat et qui n'a pas été élu lors des élections précédentes et qui ne bénéficie que d'une période de protection prenant cours le trentième jour précédant l'affichage de l'avis fixant la date des élections et se terminant deux ans après l'affichage du résultat des élections."
+      ],
+      "abstractNL": [
+        "In geval van splitsing van een technische bedrijfseenheid in verschillende juridische entiteiten blijft de niet verkozen kandidaat personeelsafgevaardigde bij sociale verkiezingen georganiseerd vóór deze afsplitsing, de beschermingsmaatregelen bepaald bij de wet van 19 maart 1991 genieten wanneer hij zich bij de volgende sociale verkiezingen kandidaat stelt in de nieuwe ontstane technische bedrijfseenheid; deze kandidatuurstelling dient niet beschouwd te worden als een eerste kandidatuur met de erbij horende langere periode van bescherming maar als kandidatuur van de personeelsafgevaardigde die reeds kandidaat was en niet werd verkozen bij de vorige verkiezingen met slechts een periode van bescherming die loopt vanaf de dertigste dag voorafgaand aan de aanplakking van het bericht dat de datum van de verkiezingen vastlegt en een einde neemt twee jaar na de aanplakking van de uitslag van de verkiezingen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000515.4": {
+      "court": "CASS",
+      "date": "2000-05-15",
+      "roleNumber": "S000194NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Seuls les candidats délégués du personnel qui sont mentionnés sur la liste définitive des candidats pour les élections des représentants du personnel au sein des conseils et des comités bénéficient de l'avantage de la protection contre le licenciement (1)."
+      ],
+      "abstractNL": [
+        "Slechts de kandidaat-personeelsafgevaardigden die vermeld zijn op de definitieve kandidatenlijst voor de verkiezingen van de vertegenwoordigers van het personeel voor de raden en voor de comités, genieten van het voordeel van de ontslagbescherming (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940314.10": {
+      "court": "CASS",
+      "date": "1994-03-14",
+      "roleNumber": "S930082F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En matière de conseil d'entreprise et de comité de sécurité et d'hygiène, constitue un licenciement d'un travailleur protégé pour des raisons d'ordre économique ou technique, non seulement la rupture du contrat par l'employeur mais aussi la résiliation du contrat par le curateur à la faillite; le curateur qui envisage de licencier des travailleurs ainsi protégés doit dès lors, en règle, consulter au préalable la commission paritaire compétente. (L. 20 septembre 1948, art. 21, alinéa 2, L. 10 juin 1952, art. 1er bis, alinéa 2, et L. 19 mars 1991, art. 2, alinéa 1er)."
+      ],
+      "abstractNL": [
+        "I.v.m. de ondernemingsraad en het veiligheidscomité geldt als ontslag van een beschermde werknemer om economische of technische redenen niet alleen de beëindiging van de overeenkomst door de werkgever, maar ook de ontbinding van de overeenkomst door de curator in het faillissement; de curator die derwijze beschermde werknemers wil ontslaan, moet dus, in de regel, vooraf het bevoegd paritair comité raadplegen (Art. 21, alinéa 2, Bedrijfsorganisatiewet; art. 1bis, alinéa 2, Gezondheids- en Veiligheidswet; art. 2, alinéa 1, W. van 19 maart 1991)."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920615.12": {
+      "court": "CASS",
+      "date": "1992-06-15",
+      "roleNumber": "9347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/15/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'employeur, le curateur d'une faillite ou le liquidateur d'un concordat judiciaire ne sont pas tenus de consulter la commission paritaire avant de licencier un travailleur protégé pour des raisons d'ordre économique ou technique, lorsqu'ils sont obligés, en exécution d'une décision judiciaire, de licencier tout le personnel en même temps ou en un temps très proche, de sorte que toute discrimination est exclue; cette décision judiciaire doit toutefois les obliger en droit et non se borner à énoncer des circonstances que la juridiction du travail doit apprécier pour en déduire, selon elle, la cessation immédiate des activités de l'entreprise, substituant ainsi sa propre appréciation à celle du juge qui a rendu la décision judiciaire sur laquelle elle se fonde. ( Loi du 20 septembre 1948, art. 21, alinéa 2; loi du 10 juin 1952, art. 1er bis, alinéa 2; et loi du 19 mars 1991, art. 2, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "De werkgever, de curator van een faillissement en de vereffenaar van een gerechtelijk akkoord zijn niet gehouden het paritair comité te raadplegen alvorens een beschermde werknemer om economische of technische redenen te ontslaan, wanneer zij ingevolge een rechterlijke beslissing verplicht zijn alle werknemers gelijkelijk en terzelfdertijd of binnen een zeer korte termijn te ontslaan, zodat discriminatie uitgesloten is; die rechterlijke beslissing moet hen evenwel in rechte verplichten en zich niet ertoe beperken omstandigheden te vermelden die door de arbeidsrechtbank moeten worden beoordeeld teneinde eruit af te leiden dat, volgens de arbeidsrechtbank, de werkzaamheden van de onderneming onmiddellijk moeten worden stopgezet, zodat zij haar eigen beoordeling in de plaats stelt van die van de rechter die de rechterlijke beslissing heeft gewezen en waarop zij steunt. ( Art. 21, alinéa 2 Bedrijfsorganisatiewet van 20 september 1948; art. 1bis, alinéa 2, Gezondheid en Veiligheidswet van 10 juni 1952; en art. 2, alinéa 1, Wet van 19 maart 1991. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920224.17": {
+      "court": "CASS",
+      "date": "1992-02-24",
+      "roleNumber": "9265",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/24/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'employeur, le curateur d'une faillite ou le liquidateur d'un concordat judiciaire ne sont pas tenus de consulter la commission paritaire avant de licencier un travailleur protégé pour des raisons d'ordre économique ou technique, lorsqu'ils sont obligés, en raison d'une décision judiciaire, de licencier tout le personnel en même temps ou en un temps très proche, de sorte que toute discrimination est exclue; le jugement qui déclare une faillite ne constitue pas en lui-même une décision judiciaire dispensant le curateur de consulter la commission paritaire. ( Loi du 20 septembre 1948, art. 21, alinéa 2; Loi du 10 juin 1952, art. 1er bis, alinéa 2; Loi du 19 mars 1991, art. 2, alinéa 1er; et Loi du 3 juillet 1978, art. 26. )"
+      ],
+      "abstractNL": [
+        "De werkgever, de curator van een faillissement en de vereffenaar van een gerechtelijk akkoord zijn niet gehouden het paritair comité te raadplegen alvorens een beschermde werknemer wegens economische of technische redenen te ontslaan, wanneer zij ingevolge een rechterlijke beslissing, verplicht zijn alle werknemers gelijkelijk en terzelfdertijd of binnen een zeer korte termijn te ontslaan, zodat discriminatie uitgesloten is; een vonnis van faillietverklaring is op zichzelf geen rechterlijke beslissing waarbij de curator ervan wordt vrijgesteld het paritair comité te raadplegen. ( Art. 21, alinéa 2, Bedrijfsorganisatiewet; art. 1bis, alinéa 2, Gezondheid en Veiligheidswet; art. 2, alinéa 1, Wet van 19 maart 1991 en art. 26, Arbeidsovereenkomstenwet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930419.11": {
+      "court": "CASS",
+      "date": "1993-04-19",
+      "roleNumber": "8287",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/04/19/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer het ontslag van een personeelsafgevaardigde in een ondernemingsraad of een veiligheidscomité het gevolg is van de stopzetting van een activiteit in het bedrijf en van het daardoor veroorzaakte ontslag van een welbepaalde personeelsgroep, mag de rechter de financieel-economische en technische verantwoording van die stopzetting en van het ontslag van die personeelsgroep niet beoordelen om te beslissen of de werknemer om economische of technische redenen is ontslagen. (Art. 2, alinéa 1, eerste lid, Wet ontslag beschermde werknemers)."
       ]
     }
   },
@@ -63,6 +285,130 @@
       "abstractNL": [
         "Het doel van de bescherming vervat in de Wet Ontslagregeling Personeelsafgevaardigden bestaat erin nadelige discriminatie van de personeelsafgevaardigden te voorkomen en de goede werking van de overlegorganen te vrijwaren; zolang niet vaststaat dat de betreffende overlegorganen in een bepaalde onderneming binnen een zeer korte termijn niet langer hun wettelijke opdracht zullen te vervullen hebben, is er, behoudens afwijkende bijzondere wetsbepaling zoals artikel 46, §2, eerste lid, Faillissementswet, geen enkele grond die toelaat een personeelsafgevaardigde om technische of economische redenen te ontslaan zonder het bevoegde paritair comité te raadplegen."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121203.3": {
+      "court": "CASS",
+      "date": "2012-12-03",
+      "roleNumber": "S110114F-S110115F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/03/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Une division d'entreprise est, au sens de l'article 3, §14, alinéas 3 et 4 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués ou candidats délégués du personnel, une partie de l'entreprise qui présente une certaine cohésion et se distingue du reste de l'entreprise par une autonomie technique, une activité distincte et durable et un personnel propre (1). (1) Cass., 4 février 2002, RG S.00.0179.N, Pas., 2002, n° 80."
+      ],
+      "abstractNL": [
+        "In de zin van artikel 3, §14, derde en vierde lid van de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden is een afdeling van een onderneming een onderdeel van de onderneming dat een zekere samenhang vertoont en zich onderscheidt van de rest van de onderneming door een eigen technische autonomie en door een onderscheiden en duurzame activiteit en eigen personeel (1). (1) Cass. 4 feb. 2002, AR S.00.0179.N, AC 2002, nr. 80."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110620.5": {
+      "court": "CASS",
+      "date": "2011-06-20",
+      "roleNumber": "S.10.0159.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/20/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Par la condition de la reconnaissance des raisons d'ordre économique ou technique justifiant le licenciement, le législateur tend, sans vouloir instaurer une discrimination favorable aux travailleurs protégés, à faire contrôler si la raison invoquée existe réellement et à éviter plus spécialement qu'une telle raison soit invoquée à l'égard de travailleurs protégés en raison de leur mandat de délégué du personnel ou de candidat délégué du personnel, ce qui discriminerait ceux-ci défavorablement par rapport aux autres travailleurs (1). (1) Voir les conclusions du M.P. publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "Met de vereiste erkenning van de ingeroepen economische of technische reden tot ontslag, streeft de wetgever ernaar, zonder een voordelige discriminatie voor de beschermde werknemers tot stand te willen brengen, het werkelijk bestaan van de ingeroepen reden te laten controleren en te voorkomen dat zo een reden in het bijzonder ten aanzien van de beschermde werknemers zou worden ingeroepen omwille van hun functie van personeelsafgevaardigde of kandidaat-personeelsafgevaardigde, wat een nadelige discriminatie ten opzichte van de andere werknemers zou inhouden (1). (1) Zie de conclusies van het openbaar ministerie."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le caractère d'ordre public de l'article 3, § 1er, al. 1er, de la loi du 19 mars 1991 relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement du travail, ainsi que des candidats délégués du personnel, n'affecte pas la règle relative à la représentation de la personne morale qui agit par son organe dont les pouvoirs sont déterminés par le code des sociétés, l'objet social et les clauses statutaires (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "Het feit dat artikel 3, § 1, eerste lid, W. 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden de openbare orde raakt, heeft geen weerslag op de regel betreffende de vertegenwoordiging van de rechtspersoon, die optreedt door zijn orgaan waarvan de bevoegdheden worden vastgesteld in het Wetboek van vennootschappen, conform zijn maatschappelijk doel en in zijn statuten (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061218.5": {
+      "court": "CASS",
+      "date": "2006-12-18",
+      "roleNumber": "S060038F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un avertissement donné sous pli judiciaire que la réouverture des débats est ordonnée par le tribunal, ne constitue pas la notification visée à l'article 10, alinéa 8, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés."
+      ],
+      "abstractNL": [
+        "Een bij gerechtsbrief gegeven waarschuwing dat de rechtbank de heropening van het debat beveelt, vormt niet de kennisgeving bedoeld in artikel 10, achtste lid, Wet 19 maart 1991 houdende bijzondere ontslagregeling voor de beschermde werknemers."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20051024.7": {
+      "court": "CASS",
+      "date": "2005-10-24",
+      "roleNumber": "S050002N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il suit de la ratio legis de l'article 3, ,§1er, alinéas 3 et 4 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel que cette disposition légale n'est applicable que si le travailleur protégé licencié était occupé dans la division obligée de fermer; dans ce cas, le lien de causalité entre les raisons d'ordre économique ou technique, à savoir la fermeture de la division, et le licenciement de ce travailleur étant établi, les juridictions du travail ne sont pas tenues de reconnaître préalablement l'existence de ces raisons."
+      ],
+      "abstractNL": [
+        "Uit de ratio legis van artikel 3, ,§ 1, derde en vierde lid van de Wet van 19 maart 1991 volgt dat deze wetsbepaling slechts van toepassing is in zoverre de ontslagen beschermde werknemer werkzaam was in de afdeling die gesloten werd; in dit geval staat het causaal verband tussen de economische of technische reden, zijnde de sluiting van die afdeling, en het ontslag van die werknemer vast, met gevolg dat de arbeidsrechtbank niet voorafgaandelijk deze economische of technische reden moet erkennen."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040419.8": {
+      "court": "CASS",
+      "date": "2004-04-19",
+      "roleNumber": "S030078N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ressort du jugement déclaratif de faillite, d'une part, que les raisons d'ordre économique justifiant le licenciement de l'ensemble des travailleurs et aussi des travailleurs protégés sont reconnues et, d'autre part, que le licenciement de l'ensemble des travailleurs par le curateur en raison de la faillite, soit immédiatement après la faillite, soit progressivement selon les besoins de la liquidation, n'est en principe pas discriminatoire."
+      ],
+      "abstractNL": [
+        "Uit het faillissementsvonnis volgt, eensdeels, dat de economische reden tot het ontslaan van alle werknemers, ook van de beschermde werknemers vaststaat, en, anderdeels, dat het ontslag door de curator van alle werknemers ten gevolge van het faillissement, hetzij onmiddellijk na het faillissement, hetzij geleidelijk aan naargelang van de vereisten van de vereffening, in de regel niet discriminatoir is."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20021014.18": {
+      "court": "CASS",
+      "date": "2002-10-14",
+      "roleNumber": "S010173N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/10/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'employeur, le curateur d'une faillite et le liquidateur d'un concordat judiciaire ne sont pas tenus de consulter la commission paritaire avant de licencier un travailleur protégé pour des raisons d'ordre économique ou technique, lorsqu'ils sont obligés, en exécution d'une décision judiciaire de licencier tous les travailleurs en même temps ou dans un laps de temps très court, de sorte que toute discrimination est exclue (1). (1) Cass., 25 juin 2001, RG S.00.0041.N, n° 396."
+      ],
+      "abstractNL": [
+        "De werkgever, de curator van een faillissement en de vereffenaar van een gerechtelijk akkoord zijn niet gehouden het paritair comité te raadplegen, alvorens een beschermde werknemer wegens economische of technische redenen te ontslaan, wanneer zij ingevolge een rechterlijke beslissing verplicht zijn alle werknemers terzelfder tijd of binnen een zeer korte termijn te ontslaan, zodat discriminatie uitgesloten is (1). (1) Cass., 25 juni 2001, AR S.00.0041.N nr 396."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940613.8": {
+      "court": "CASS",
+      "date": "1994-06-13",
+      "roleNumber": "S930143N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 3, alinéa 1er, alinéa 3, de la loi du 19 mars 1991, à défaut de décision de l'organe paritaire compétent, l'employeur ne peut licencier le délégué du personnel ou le candidat délégué du personnel que, notamment, en cas de licenciement d'une catégorie déterminée du personnel. Aucune disposition légale ne requiert que la catégorie déterminée du personnel soit constituée de l'ensemble du personnel qui doit nécessairement être licencié en raison d'une modification de l'équipement technique de l'entreprise ou d'une adaptation ou d'une modification de l'orientation économique de l'entreprise."
+      ],
+      "abstractNL": [
+        "Krachtens art. 3, alinéa 1, 3e lid, Wet 19 maart 1991 mag de werkgever bij ontstentenis van beslissing van het paritair orgaan, de personeelsafgevaardigde of kandidaat personeelsafgevaardigde enkel ontslaan onder meer in het geval van het ontslag van een welbepaalde personeelsgroep. Geen enkele wetsbepaling vereist dat de welbepaalde personeelsgroep zou bestaan uit het geheel van de werknemers dat wegens een wijziging in de technische uitrusting van de onderneming of een aanpassing of wijziging van de economische oriëntering van het bedrijf noodzakelijk dient te worden ontslagen."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931011.8": {
+      "court": "CASS",
+      "date": "1993-10-11",
+      "roleNumber": "9539",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/11/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het bestaan van economische redenen mag door de arbeidsgerechten niet anders worden beoordeeld naargelang het een bedrijf met industriële of economische oogmerken betreft of niet. (Art. 3, alinéa 1, vierde lid, Wet van 19 maart 1991)."
+      ]
     }
   },
   "4": {
@@ -80,6 +426,176 @@
       ],
       "abstractNL": [
         "Wanneer een werkgever vóór het verstrijken van de in artikel 4, § 1, Wet Ontslagregeling Personeelsafgevaardigden bedoelde termijn van drie werkdagen zijn zaak bij de voorzitter van de arbeidsrechtbank aanhangig maakt door middel van het bij artikel 4, § 2, bedoelde verzoekschrift en dit verzoekschrift op grond van artikel 40, eerste lid, Taalwet Gerechtszaken nietig wordt verklaard, heeft dit nietig verzoekschrift de bedoelde termijn gestuit, zodat de betrokken werkgever beschikt over een nieuwe termijn, die overeenstemt met de oorspronkelijke termijn waarover hij beschikte, om zijn zaak met naleving van de Taalwet Gerechtszaken bij de voorzitter van de arbeidsrechtbank aanhangig te maken (1) (2). (1) Zie concl. OM. (2) Het Hof komt hiermee terug op zijn eerdere rechtspraak van 21 november 1994 (Cass. 21 november 1994, AR S.94.0054, AC 1994, nr. 503)."
+      ]
+    },
+    "ECLI:BE:CASS:2013:ARR.20130128.3": {
+      "court": "CASS",
+      "date": "2013-01-28",
+      "roleNumber": "S.11.0123.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/01/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 4, §1er, et 4, §4, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, ainsi que des articles 20ter de la loi du 20 septembre 1948 portant organisation de l'économie et 58 de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail que l'organisation présentante mentionnée à l'article 4, §1er, de la loi du 19 mars 1991 précitée vise l'organisation interprofessionnelle représentative des travailleurs et non l'organisation syndicale affiliée à ou faisant partie d'une organisation interprofessionnelle (1). (1) Voir les conclusions du M.P. publiées dans AC."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 4, §1, en 4, §4 Wet Ontslagregeling Personeelsafgevaardigden, alsook uit artikel 20ter bedrijfsorganisatiewet en artikel 58 Bedrijfsorganisatiewet volgt dat de in artikel 4, §1 Wet Ontslagregeling Personeelsafgevaardigden bedoelde voordragende organisatie de interprofessionele representatieve werknemersorganisatie betreft en niet de vakorganisatie die aangesloten is of deel uitmaakt van een interprofessionele organisatie (1). (1) Zie conclusies O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060911.5": {
+      "court": "CASS",
+      "date": "2006-09-11",
+      "roleNumber": "S050100F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dès lors qu'il refuse le caractère de faute aux faits qui sont reprochés au délégué du personnel au conseil d'entreprise ou au comité de sécurité et d'hygiène, ou au candidat délégué du personnel, et qui précèdent de trois jours ouvrables ou moins la requête qui saisit le président du tribunal du travail lorsque l'employeur envisage un licenciement pour motif grave, l'arrêt attaqué n'a pas à examiner les faits se situant plus de trois jours ouvrables avant l'envoi de ladite requête, ceux-ci n'étant pas susceptibles d'avoir une incidence sur la gravité d'un comportement dont le caractère fautif est dénié (1). (1) Voir cass., 27 novembre 1989, RG 8650, n° 197; 2 décembre 1996, RG S.95.0138.F, n° 472; 7 avril 2003, RG S.00.0013.F, n° 229."
+      ],
+      "abstractNL": [
+        "Wanneer het bestreden arrest de feiten die aan de personeelsafgevaardigde in de ondernemingsraad of in het comité voor veiligheid en hygiëne, of aan de kandidaat-personeelsafgevaardigde verweten worden, en die drie werkdagen of minder zijn voorafgegaan aan het verzoek dat de werkgever, die een ontslag om dringende reden overweegt, aan de voorzitter van de arbeidsrechtbank richt, als fout weigert aan te merken, hoeft dat arrest bijgevolg geen feiten te onderzoeken die méér dan drie werkdagen vóór het verzoek hebben plaatsgevonden, aangezien die geen weerslag kunnen hebben op het dringend karakter van een gedrag dat niet fout is bevonden (1). (1) Zie Cass., 27 nov. 1989, AR 8650, nr 197; 2 dec. 1996, AR S.95.0138.F, nr 472; 7 april 2003, AR S.00.0013.F, nr 229."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20031208.8": {
+      "court": "CASS",
+      "date": "2003-12-08",
+      "roleNumber": "S030037F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/12/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les faits pouvant justifier l'intention de l'employeur de licencier pour motif grave un délégué du personnel au sein du conseil d'entreprise ou du comité de sécurité, d'hygiène et d'embellissement des lieux de travail, ou un candidat délégué du personnel doivent être mentionnés, à peine de nullité, dans les lettres recommandées à la poste elles-mêmes par lesquelles l'employeur informe de son intention le travailleur protégé et l'organisation qui a présenté ce dernier (1). (1) Le ministère public concluait qu'il y avait lieu, d'une part, de casser l'arrêt attaqué sauf en tant qu'il recevait l'appel, et, d'autre part, de déclarer l'arrêt de la Cour commun au SETCA, partie appelée en déclaration d'arrêt commun. Il était d'avis, comme l'arrêt annoté, que le premier moyen était fondé dans la mesure où ce dernier invoquait la violation de l'article 4 de la loi du 19 mars 1991. Mais le ministère public estimait aussi que le second moyen, en sa première branche, était fondé dans la mesure suivante. Selon le ministère public, l'employeur qui envisage de licencier pour motif grave un délégué du personnel au sein du conseil d'entreprise ou du comité de sécurité, d'hygiène et d'embellissement des lieux de travail, ou un candidat délégué du personnel doit informer de son intention et appeler à la cause, en même temps que le travailleur protégé, l'organisation qui a présenté la candidature de celui-ci, c'est-à-dire l'organisation interprofessionnelle de travailleurs constituée sur le plan national, représentée au Conseil central de l'économie et au Conseil national du travail, et comptant au moins cinquante mille travailleurs, qui a présenté la candidature de l'intéressé. (L. du 19 mars 1991, art. 4 à 7; L. du 20 septembre 1948, art. 14, ,§ 1er, al. 2, 4°, a, et 20ter, al. 1er; A.R. du 25 mai 1999, art. 1er, 6°, a, et 31, al. 1er; L. du 4 août 1996, art. 3, ,§ 2, 1°, et 58, al. 1er). Le ministère public considérait encore qu'il était sans intérêt d'examiner le second moyen, en ses deuxième et troisième branches, qui n'aurait pu entraîner une cassation plus étendue."
+      ],
+      "abstractNL": [
+        "De feiten die het voornemen van de werkgever om een personeelsafgevaardigde of een kandidaat-personeelsafgevaardigde in de ondernemingsraad of in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen om een dringende reden te ontslaan, kunnen wettigen, dienen, op straffe van nietigheid, te worden vermeld in de ter post aangetekende brieven zelf waarin de werkgever de beschermde werknemer en de organisatie die hem heeft voorgedragen inlicht over zijn voornemen (1). (1) Het openbaar ministerie concludeerde dat er grond bestond, enerzijds, tot vernietiging van het bestreden arrest behalve in zoverre dat arrest het hoger beroep ontvankelijk verklaarde en, anderzijds, tot bindendverklaring van het arrest van het Hof voor de B.B.T.K., die is opgeroepen tot bindendverklaring van dat arrest. Het was, zoals het geannoteerde arrest, van mening dat het eerste middel gegrond was in zoverre het de schending van artikel 4 van de wet van 19 maart 1991 aanvoerde. Het openbaar ministerie was evenwel van oordeel dat ook het eerste onderdeel van het tweede middel gegrond was in de volgende mate. Volgens het openbaar ministerie is de werkgever die het voornemen heeft een personeelsafgevaardigde of een kandidaat-personeelsafgevaardigde in de ondernemingsraad of in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen om een dringende reden te ontslaan, ertoe verplicht naast de beschermde werknemer ook de organisatie die zijn kandidatuur voorgedragen heeft, namelijk de op het nationaal vlak opgerichte en in de Centrale Raad voor het Bedrijfsleven en in de Nationale Arbeidsraad vertegenwoordigde interprofessionele werknemersorganisatie die ten minste vijftigduizend werknemers telt en die de kandidatuur van de betrokkene heeft voorgedragen, op de hoogte te brengen van zijn voornemen om haar in het geding te betrekken (Artt. 4 tot 7 W. 19 maart 1991; artt. 14, ,§ 1, tweede lid, 4°, a, en 20ter, eerste lid, Bedrijfsorganisatiewet ; artt. 1, 6°, a, en 31, eerste lid, K.B. 25 mei 1999; artt. 3, ,§ 2, 1°, en 58, eerste lid, W. 4 aug. 1996). Het openbaar ministerie was voorts van mening dat het onderzoek van het tweede en het derde onderdeel van het tweede middel elk belang miste, daar het niet tot ruimere cassatie had kunnen leiden."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960603.4": {
+      "court": "CASS",
+      "date": "1996-06-03",
+      "roleNumber": "S950140N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le fait qui justifie le congé sans préavis est le fait accompagné de toutes les circonstances de nature à lui conférer le caractère d'un motif grave."
+      ],
+      "abstractNL": [
+        "Het feit dat het ontslag zonder opzegging rechtvaardigt, is het feit met inachtneming van alle omstandigheden die daarvan een dringende reden kunnen uitmaken."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941205.14": {
+      "court": "CASS",
+      "date": "1994-12-05",
+      "roleNumber": "S940029N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'employeur peut, dans le cas prévu par l'article 4, alinéa 1, de la loi du 19 mars 1991, prouver par témoins le jour au cours duquel il a eu connaissance du fait qui justifierait le licenciement."
+      ],
+      "abstractNL": [
+        "De werkgever kan, in het geval bedoeld bij art. 4, alinéa 1, Wet 19 maart 1991, door getuigen bewijzen op welke dag hij kennis heeft gekregen van het feit dat het ontslag zou rechtvaardigen. (Artt. 1341 B.W., 12 en 35 Arbeidsovereenkomstenwet)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941121.7": {
+      "court": "CASS",
+      "date": "1994-11-21",
+      "roleNumber": "S940054N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai pour l'introduction d'une requête auprès du président du tribunal du travail, en application de l'article 4, alinéa 1er, de la loi du 19 mars 1991 est un délai préfix, dont l'expiration entraîne forclusion du droit lui-même."
+      ],
+      "abstractNL": [
+        "De termijn, waarin het verzoekschrift moet worden neergelegd bij de voorzitter van de arbeidsrechtbank, met toepassing van art. 4, alinéa 1, Wet van 19 maart 1991, is een fatale termijn waarvan het verstrijken leidt tot verval van het recht zelve."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940919.13": {
+      "court": "CASS",
+      "date": "1994-09-19",
+      "roleNumber": "S940005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'employeur qui reproche des manquements continus en cours à un délégué du personnel ou à un candidat délégué du personnel, apprécie la date à laquelle il estime que ces manquements continus en cours rendraient toute collaboration professionnelle définitivement impossible à partir du moment où ils auraient été reconnus exacts et suffisamment graves par les juridictions du travail. (L. 19 mars 1991, art. 4, alinéa 1er.)"
+      ],
+      "abstractNL": [
+        "Wanneer een werkgever aan een personeelsafgevaardigde of een kandidaat-personeelsafgevaardigde lopende voortdurende tekortkomingen verwijt, bepaalt hij de datum waarop, naar zijn oordeel, die lopende voortdurende tekortkomingen elke professionele samenwerking definitief onmogelijk maken vanaf het ogenblik waarop zij door de arbeidsgerechten als juist en voldoende zwaarwichtig zouden beoordeeld worden. (Art. 4, alinéa I, Wet van 19 maart 1991.)"
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941121.1": {
+      "court": "CASS",
+      "date": "1994-11-21",
+      "roleNumber": "S940055N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/21/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het arrest stelt vast dat de dagvaarding van 4 mei 1993 vermeldt : \"Overwegende dat (eiser) overeenkomstig de wet van 19.3.1991 (verweerder) bij deze ontslaat om de volgende redenen\" en dat daarin van de rechtbank wordt gevraagd \"te beslissen dat (verweerder) terecht door (eiseres) om dringende redenen door huidige dagvaarding ontslaan werd\". Door daaruit af te leiden dat \"ondubbelzinnig blijkt dat (eiseres) de bedoeling had door middel van deze dagvaarding (verweerder) te ontslaan\" en de rechtbank \"verzocht te beslissen dat (verweerder) terecht ontslagen werd\", geeft het arrest van de dagvaarding een uitlegging die met de bewoordingen ervan niet onverenigbaar is, mitsdien de bewijskracht ervan niet miskent. Het onderdeel mist feitelijke grondslag."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2011:ARR.20110516.3": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "S.10.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les articles 2, §6, troisième et sixième tirets, 5, §3, alinéa 2, et 8, alinéa 1er, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés qui prévoient les cas dans lesquels, d'un commun accord avec le travailleur protégé, il peut être mis fin à son contrat de travail et à sa protection suivant des modalités différant des modalités prévues à l'article 2, §1er, de la loi, sont soumis à une stricte interprétation et ne sauraient impliquer que le travailleur protégé peut renoncer à tout moment à la protection prévue par la loi."
+      ],
+      "abstractNL": [
+        "De artikelen 2, §6, derde en zesde gedachtestreepje, 5, §3, tweede lid, en 8, eerste lid, Wet Ontslagregeling Personeelsafgevaardigden, waarin gevallen zijn bepaald waarin de arbeidsovereenkomst van een beschermde werknemer met diens akkoord op een andere wijze dan bepaald in artikel 2, §1, kan worden beëindigd en de bescherming ten einde komt, moet strikt geïnterpreteerd worden en houden geenszins in dat de beschermde werknemer te allen tijde afstand kan doen van de door deze wet verleende bescherming."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001218.5": {
+      "court": "CASS",
+      "date": "2000-12-18",
+      "roleNumber": "S000103F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si la partie qui, d'une manière unilatérale, modifie, fût-ce temporairement, un des éléments essentiels du contrat de travail, met fin immédiatement à celui-ci de façon illicite et si lorsque le juge décide qu'une partie a mis fin au contrat de travail en modifiant unilatéralement un élément essentiel, il n'est pas tenu de constater qu'elle avait l'intention de mettre fin au contrat (1), en revanche, le manquement d'une partie à ses obligations ne met pas fin, en soi, au contrat de travail (2)."
+      ],
+      "abstractNL": [
+        "Zo de partij die eenzijdig, al is het tijdelijk, een van de wezenlijke bestanddelen van de arbeidsovereenkomst wijzigt, onmiddellijk en onrechtmatig een einde aan die overeenkomst maakt en, zo de rechter, wanneer hij beslist dat een der partijen de arbeidsovereenkomst heeft beëindigd door eenzijdig een wezenlijk bestanddeel ervan te wijzigen, niet verplicht is vast te stellen dat zij de bedoeling had de overeenkomst te beëindigen (1), maakt daarentegen de tekortkoming van één der partijen aan haar verplichtingen op zich geen einde aan de arbeidsovereenkomst (2)."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:2001:ARR.20010423.4": {
+      "court": "CASS",
+      "date": "2001-04-23",
+      "roleNumber": "S000176NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/04/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'employeur qui a l'intention de licencier un délégué du personnel ou un candidat délégué pour un motif grave et qui, à l'expiration de la période de négociation, maintient sa décision de licencier, est tenu de citer le travailleur et l'organisation qui a présenté sa candidature devant le président du tribunal du travail (1)."
+      ],
+      "abstractNL": [
+        "De werkgever die het voornemen heeft een personeelsafgevaardigde of een kandidaat personeelsafgevaardigde om een dringende reden te ontslaan en die na verloop van de onderhandelingsperiode bij zijn voornemen blijft om te ontslaan, moet die werknemer en de organisatie die zijn kandidatuur heeft voorgedragen dagvaarden voor de voorzitter van de arbeidsrechtbank."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950227.15": {
+      "court": "CASS",
+      "date": "1995-02-27",
+      "roleNumber": "S940131N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le terme \"jour ouvrable\" figurant à l'article 6 de la loi du 19 mars 1991, portant un régime de licenciement particulier pour les travailleurs protégés s'entend dans son sens usuel en droit social et comprend, dès lors, les samedis."
+      ],
+      "abstractNL": [
+        "Het woord \"werkdag\" uit art. 6 van de wet van 19 maart 1991 betreffende de ontslagregeling voor beschermde werknemers moet worden begrepen in de gebruikelijke betekenis van het woord in het arbeidsrecht en slaat aldus ook op zaterdagen."
       ]
     }
   },
@@ -129,6 +645,204 @@
       "abstractNL": [
         "De schade die erin bestaat om, zonder tegenprestatie, tot na de ontslagprocedure om dringende reden, vergoedingen te moeten uitkeren aan de van diefstal verdachte beschermde werknemer, betreft een schade waarvan de vergoeding niet afhankelijk wordt gesteld van een uitdrukkelijke toelating die artikel 9 Wet Ontslagregeling Personeelsafgevaardigden (1) zou moeten bevatten. Het recht van de werkgever om de vergoeding van de voormelde schade te verkrijgen, vindt zijn grondslag in artikel 1382 Oud Burgerlijk Wetboek, in zoverre is vastgesteld dat de schade zich niet zou hebben voorgedaan bij ontstentenis van het misdrijf dat tot de schorsing van de uitvoering van de arbeidsovereenkomst heeft geleid; het vierde lid van het voormelde artikel 9, dat bepaalt dat de door de werkgever gestorte bijkomende vergoeding verworven blijft voor de personeelsafgevaardigde, ongeacht de beslissing van het arbeidsgerecht over de door de werkgever ingeroepen redenen, doet geen afbreuk aan het recht op vergoeding van de voormelde schade (2). (1) Wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden. (2) Zie Cass. 3 juni 2020, AR P.20.0278.F, AC 2020, nr. 353, met concl. van advocaat-generaal VANDERMEERSCH op datum in Pas."
       ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070205.2": {
+      "court": "CASS",
+      "date": "2007-02-05",
+      "roleNumber": "S060030N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le législateur vise à garantir un revenu au délégué ou au candidat-délégué pendant la suspension du contrat de travail en lui permettant de recevoir, outre les allocations de chômage, une indemnité complémentaire, payée par l'employeur, la somme des deux étant égale à la rémunération nette gagnée antérieurement; par rémunération nette, on vise non pas le revenu fiscal net, c'est-à-dire après déduction de l'impôt, étant donné que l'impôt dépend d'un certain nombre de facteurs étrangers à l'engagement."
+      ],
+      "abstractNL": [
+        "De wetgever beoogt de afgevaardigde of de kandidaat-afgevaardigde tijdens de schorsing van de arbeidsovereenkomst een inkomen te waarborgen doordat hij naast de werkloosheidsuitrusting een bijkomende vergoeding ontvangt, betaald door de werkgever, die samen gelijk zijn aan het voorheen verdiende nettoloon; met nettoloon wordt niet bedoeld het fiscaal netto-inkomen, te weten na aftrek van de belastingen, gezien de belastingen afhankelijk zijn van een aantal factoren die vreemd zijn aan de dienstbetrekking."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:2003:ARR.20031027.7": {
+      "court": "CASS",
+      "date": "2003-10-27",
+      "roleNumber": "S020101F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/10/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En matière de licenciement pour motif grave d'un délégué du personnel ou d'un candidat délégué du personnel au conseil d'entreprise ou au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, peuvent être frappés d'appel les ordonnances du président du tribunal du travail ne se limitant pas aux mesures qui ne sont pas susceptibles d'appel et les jugements définitifs du tribunal du travail (1). (1) Voir cass. 7 nov. 1994, RG S.94.0051.N, n° 475; 24 mars 2003, RG S.02.0011.F, n° ..., et la note 1."
+      ],
+      "abstractNL": [
+        "In zake ontslag wegens dringende reden van een personeelsafgevaardigde of een kandidaat-personeelsafgevaardigde in de ondernemingsraad of in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, kan hoger beroep worden ingesteld tegen de beschikkingen van de voorzitter van de arbeidsrechtbank die niet beperkt zijn tot de maatregelen die niet vatbaar zijn voor hoger beroep en tegen de eindvonnissen van de arbeidsrechtbank (1). (1) Zie cass., 7 nov. 1994, AR S.94.0051.N, nr 475; 24 maart 2003, AR S.02.0011.F, nr ..., en de noot 1."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970317.8": {
+      "court": "CASS",
+      "date": "1997-03-17",
+      "roleNumber": "S960056F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La notification d'un jugement ou d'un arrêt est acquise à la date de l'envoi de cette décision judiciaire et non à la date de sa réception; cette règle est applicable aux notifications des jugements et arrêts prévues par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De kennisgeving van een vonnis of arrest geschiedt op de datum van toezending van die rechterlijke beslissing en niet op de datum van de ontvangst ervan; die regel is toepasselijk op de kennisgevingen van vonnissen en arresten bepaald bij de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:2005:ARR.20050131.3": {
+      "court": "CASS",
+      "date": "2005-01-31",
+      "roleNumber": "S040083F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/01/31/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 11, ,§ 1er, alinéa 2, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, l'arrêt qui se fonde sur un moyen de l'appel qui n'a pas été formulé dans la requête d'appel (1). (1) Cass., 24 novembre 1997, RG S.96.0027.F, n° 499, avec concl. M.P.; voir Cass., 19 juin 1995, RG S.94.0104.F, n° 309."
+      ],
+      "abstractNL": [
+        "Het arrest dat steunt op een middel van het hoger beroep dat niet in het verzoekschrift van hoger beroep is geformuleerd, schendt art. 11, ,§ 1, tweede lid, Wet 19 maart 1991 houdende bijzonderde ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden (1). (1) Cass., 24 nov. 1997, AR S.96.0027.F, nr 499, met concl. O.M. in Bull. en Pas., 1997, I, nr 499; zie Cass., 19 juni 1995, AR S.94.0104.F, nr 309."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040322.8": {
+      "court": "CASS",
+      "date": "2004-03-22",
+      "roleNumber": "S030115F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/03/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est tardif et, dès lors, irrecevable le pourvoi formé plus de trois mois après la notification au demandeur, par pli judiciaire, de la décision rendue par une juridiction du travail dans tout litige auquel s'appliquent les articles 11, ,§ 3, al. 4, et 16 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel (1). (1) Voir Cass., 12 février 2001, RG S.00.0089.F, n° 83; 10 mars 2003, RG S.02.0085.F, n° .... D'une part, on observera qu'aux termes de l'article 11, ,§ 3, alinéa 4, de la loi du 19 mars 1991, ce sont tous les arrêts rendus dans le cadre du litige qui sont notifiés aux parties par pli judiciaire. D'autre part, on ne conçoit pas que, dans le même litige, deux contestations, dont la seconde est liée étroitement à la première, obéissent à des règles de procédure différentes."
+      ],
+      "abstractNL": [
+        "Het cassatieberoep is te laat en derhalve niet ontvankelijk wanneer het is ingesteld meer dan drie maanden na de aan eiser bij gerechtsbrief gedane kennisgeving van de beslissing, die door een arbeidsgerecht is gewezen in elk geschil waarop de artikelen 11, ,§ 3, vierde lid, en 16 van de Wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden van toepassing zijn (1). (1) Zie Cass., 12 feb. 2001, AR S.00.0089.F, nr 83; 10 maart 2003, AR S.02.0085.F, nr ... Enerzijds valt op dat, naar luid van artikel 11, ,§ 3, vierde lid, van de Wet van 19 maart 1991, alle over het geschil gewezen arresten aan de partijen bij gerechtsbrief ter kennis worden gebracht. Anderzijds is het uitgesloten dat in hetzelfde geschil, twee betwistingen waarvan de tweede nauw samenhangt met de eerste, aan verschillende procedureregels onderworpen zouden zijn."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030310.4": {
+      "court": "CASS",
+      "date": "2003-03-10",
+      "roleNumber": "S020085F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/03/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est tardif et, dès lors, irrecevable le pourvoi formé plus de trois mois après la notification au demandeur, sous pli judiciaire, de la décision de la juridiction du travail admettant le motif grave pouvant justifier le licenciement d'un travailleur protégé (1). (1) Cass., 28 mai 1990, R.G. 7079, n° 563; voir cass. 3 septembre 1999, R.G. C.97.0319.N, n° 434; 12 février 2001, R.G. S.00.0089.F, n° 83 et la note 1 p. 258."
+      ],
+      "abstractNL": [
+        "Laattijdig en derhalve niet ontvankelijk is het cassatieberoep dat is ingesteld meer dan drie maanden nadat de beslissing van het arbeidsgerecht die een dringende reden aanneemt die tot ontslag van een beschermde werknemer kan leiden, bij gerechtsbrief ter kennis van eiser is gebracht (1). (1) Cass., 28 mei 1990, AR 7079, nr 563; zie Cass. 3 sept. 1999, AR C.97.0319.N, nr 434; 12 feb. 2001, AR S.00.0089.F, nr 83 en de noot 1."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971124.3": {
+      "court": "CASS",
+      "date": "1997-11-24",
+      "roleNumber": "S960027F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 11, alinéa 1er, alinéa 2, de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, l'arrêt qui se fonde sur un moyen de l'appel qui n'a pas été formulé dans la requête d'appel."
+      ],
+      "abstractNL": [
+        "Het arrest dat steunt op een middel van hoger beroep dat niet in het verzoekschrift van hoger beroep is geformuleerd, schendt art. 11, alinéa 1, tweede lid, wet houdende bijzondere ontslagregeling voor de beschermde werknemers."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950619.2": {
+      "court": "CASS",
+      "date": "1995-06-19",
+      "roleNumber": "S940104F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 11, alinéa 1er, alinéa 2, de la loi portant un régime de licenciement particulier pour les travailleurs protégés, est notamment un moyen de l'appel l'indication de ce qui, dans le jugement définitif entrepris, est, selon l'appelant, contraire à la loi."
+      ],
+      "abstractNL": [
+        "In de zin van art. 11, alinéa 1, tweede lid, wet houdende bijzondere ontslagregeling voor de beschermende werknemers, is o.a. een middel van hoger beroep, de aanwijzing van hetgeen, volgens appellant, in het bestreden eindvonnis, strijdig is met de wet."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950410.6": {
+      "court": "CASS",
+      "date": "1995-04-10",
+      "roleNumber": "S940137N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/04/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'application de la procédure particulière devant les juridictions du travail comme prévu par les articles 3, 8, 10 et 11 de la loi du 19 mars 1991 est, en raison de la mission strictement limitée des juridictions du travail, inconciliable avec l'application des articles 807 et 810 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "De toepassing van de uitzonderlijke procedure voor de arbeidsgerechten, als bepaald in de artt. 3, 8, 10 en 11 van de Wet 19 maart 1991, is omwille van de strikt beperkte opdracht van de arbeidsgerechten niet verenigbaar met de toepassing van de artt. 807 en 810 Ger.W."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941107.11": {
+      "court": "CASS",
+      "date": "1994-11-07",
+      "roleNumber": "S940051N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Un jugement en matière de licenciement pour motif grave d'un travailleur protégé qui statue sur la recevabilité de la demande en justice constitue un jugement définitif et est, dès lors, susceptible d'appel."
+      ],
+      "abstractNL": [
+        "Een vonnis inzake ontslag wegens dringende reden van een beschermde werknemer dat uitspraak doet over de ontvankelijkheid van de vordering, is een eindvonnis en derhalve vatbaar voor hoger beroep. (Art. 10, laatste lid, en 11, alinéa 1, wet 19 maart 1991)."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970317.8": {
+      "court": "CASS",
+      "date": "1997-03-17",
+      "roleNumber": "S960056F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La notification d'un jugement ou d'un arrêt est acquise à la date de l'envoi de cette décision judiciaire et non à la date de sa réception; cette règle est applicable aux notifications des jugements et arrêts prévues par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De kennisgeving van een vonnis of arrest geschiedt op de datum van toezending van die rechterlijke beslissing en niet op de datum van de ontvangst ervan; die regel is toepasselijk op de kennisgevingen van vonnissen en arresten bepaald bij de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931122.14": {
+      "court": "CASS",
+      "date": "1993-11-22",
+      "roleNumber": "S930047N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/22/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Art. 11 Wet 19 maart 1991, volgens hetwelk het hoger beroep binnen 10 werkdagen na de kennisgeving moet worden aangetekend, houdt geen afwijkende bepalingen in van het voorschrift van art. 53 Ger. W. en is er mede verenigbaar."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930322.13": {
+      "court": "CASS",
+      "date": "1993-03-22",
+      "roleNumber": "9559",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/22/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Om de erkenning door het arbeidsgerecht te verkrijgen van het bestaan van economische of technische redenen die het ontslag van een personeelsafgevaardigde of een kandidaat personeelsafgevaardigde in de ondernemingsraad of het veiligheidscomité rechtvaardigen, moet de werkgever die werknemer dagvaarden, maar niet de organisatie die de kandidatuur van die werknemer heeft voorgedragen. (Artt. 3, alinéa 1, vierde lid; 5, alinéa 6; 8; 10; en 11, Wet van 19 maart 1991.)"
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:1999:ARR.19990614.7": {
+      "court": "CASS",
+      "date": "1999-06-14",
+      "roleNumber": "S980125N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la cour du travail reconnaît le motif grave justifiant le licenciement, le délai de trois jours ouvrables prévu à l'article 35, alinéa 3, de la loi du 3 juillet 1978 relative aux contrats de travail court à partir du troisième jour ouvrable qui suit la notification de l'arrêt; ce délai est un délai de déchéance qui a pour objectif de faire naître dans un délai maximum une certitude quant à la poursuite de l'existence ou non du contrat de travail."
+      ],
+      "abstractNL": [
+        "Wanneer het arbeidshof de dringende reden tot ontslag erkent gaat de termijn van drie werkdagen bepaald in artikel 35, derde lid, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten in op de derde werkdag na de kennisgeving van het arrest; deze termijn is een vervaltermijn die ertoe strekt binnen een maximumtermijn zekerheid te doen ontstaan over het al dan niet voortbestaan van de arbeidsovereenkomst."
+      ]
     }
   },
   "14": {
@@ -150,6 +864,106 @@
         "Het ontslag is de handeling waardoor een partij aan de andere partij ter kennis brengt dat zij de tussen hen voor onbepaalde tijd gesloten arbeidsovereenkomst wil beëindigen; zodat het geen gevolg heeft bij het verstrijken van de daarmee gepaard gaande opzeggingstermijn maar op het ogenblik waarop het wordt gegeven (1). (1) Cass. 18 mei 1987, AR 5624, AC 1986-87, nr. 547.",
         "Het ontslag kan door de werkgever niet ter kennis worden gebracht voordat de bij de Wet Ontslagregeling Personeelsafgevaardigden beschermde werknemer de leeftijd van vijfenzestig jaar heeft bereikt, zelfs als de opzeggingstermijn pas hierna verstrijkt."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120220.4": {
+      "court": "CASS",
+      "date": "2012-02-20",
+      "roleNumber": "S.10.0048.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de sécurité d'emploi et l'indemnité de protection du délégué et du candidat délégué du personnel peuvent être cumulées lorsque les conditions d'octroi de chacune d'elles sont réunies; leur cumul ne constitue pas un avantage prohibé par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De vergoeding voor vastheid van betrekking en de beschermingsvergoeding van de personeelsafgevaardigde en van de kandidaat-personeelsafgevaardigde kunnen worden gecumuleerd wanneer de voorwaarden voor de toekenning van elk van die vergoedingen vervuld zijn; de cumulatie van die vergoedingen vormt geen verboden voordeel in de zin van de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110516.3": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "S.10.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La protection spéciale prévue par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés contre le licenciement des délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, a pour but, d'une part, de permettre à ces délégués d'exercer leur mandat au sein de l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de présenter leur candidature à un tel mandat; cette protection, qui implique la possibilité de la réintégration dans l'entreprise visée à l'article 14 de la loi précitée, a été instituée dans l'intérêt général et, en conséquence, est d'ordre public (1). (1) Voir Cass. 4 septembre 1995, RG S.95.0001.F, Pas., 1995, n° 363; Cass. 1er décembre 1997, RG S.97.0054.N, Pas., 1997, n° 518; Cass. 15 mai 2000, RG S.99.0194.N, Pas., 2000, n° 292."
+      ],
+      "abstractNL": [
+        "De bij de Wet Ontslagregeling Personeelsafgevaardigden bepaalde bijzondere bescherming tegen ontslag voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor bescherming en preventie op het werk, alsmede voor de kandidaat - personeelsafgevaardigden, heeft tot doel, enerzijds, aan de personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen, en anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich kandidaat te stellen teneinde die opdracht uit te oefenen; die bescherming, waartoe de in artikel 14 van deze wet bepaalde mogelijkheid tot reïntegratie in de onderneming behoort, is in het algemeen belang ingevoerd en raakt dienvolgens de openbare orde (1). (1) Zie Cass. 4 sept. 1995, AR S.95.0001.F, AC, 1995, nr. 363; Cass. 1 dec. 1997, AR S.97.0054.N, AC, 1997, nr. 518; Cass. 15 mei 2000, AR S.99.0194.N, AC, 2000, nr. 292."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090622.9": {
+      "court": "CASS",
+      "date": "2009-06-22",
+      "roleNumber": "S.09.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel intéresse l'ordre public a pour effet non d'entacher de nullité le licenciement régulièrement effectué par l'employeur, notifié au cours des périodes de protection visées aux paragraphes 2 et 3 de l'article 2 de la loi, mais de rendre les indemnités visées aux articles 16 et 17 de la loi exigibles dès le moment où le contrat de travail prend effectivement fin à la suite du licenciement effectué par l'employeur."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de Wet Ontslagregeling Personeelsafgevaardigden van openbare orde is brengt niet mee dat de door de werkgever op regelmatige wijze gegeven opzegging, ter kennis gebracht gedurende de beschermingsperiodes bedoeld in de paragrafen 2 en 3 van artikel 2 van deze wet, nietig is, maar heeft tot gevolg dat de in artikelen 16 en 17 van deze wet bepaalde vergoedingen verschuldigd zijn van zodra de arbeidsovereenkomst effectief ten einde komt ingevolge die opzegging van de werkgever."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une décision relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que des candidats délégués du personnel, soit arrêtée par le conseil d'administration d'une société anonyme alors qu'il n'est pas régulièrement composé n'a pas pour effet que cette décision, fût-elle de nature à être annulée, n'engagerait pas la société que représente ce collège (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een beslissing betreffende de bijzondere ontslagregeling voor personeelsafgevaardigden in de ondernemingsraden en in de comités van veiligheid, gezondheid en verfraaiing van de werkplaatsen, alsmede voor de kandidaat-personeelsafgevaardigden, genomen wordt door een onregelmatig samengestelde raad van bestuur van een naamloze vennootschap, heeft niet tot gevolg dat die beslissing, zelfs al kon ze worden nietig verklaard, niet bindend zou zijn voor de vennootschap die door dat college wordt vertegenwoordigd (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961202.9": {
+      "court": "CASS",
+      "date": "1996-12-02",
+      "roleNumber": "S950153F;S960002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/12/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La demande de réintégration d'un candidat aux élections des délégués du personnel au comité de sécurité et d'hygiène qui a été licencié, doit être introduite dans les trente jours qui suivent la date de la présentation des candidatures; une demande introduite avant cette présentation n'a pas d'effet."
+      ],
+      "abstractNL": [
+        "De aanvraag tot herplaatsing van een ontslagen kandidaat bij de verkiezing van de werknemersafgevaardigden in het veiligheidscomité, moet worden ingediend binnen dertig dagen na de voordracht van de kandidaturen; een aanvraag die werd ingediend vóór die voordracht heeft geen uitwerking."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950904.4": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950001F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Instituée dans l'intérêt général, la protection spéciale des délégués du personnel aux conseil d'entreprise et comité de sécurité et d'hygiène et des candidats non élus a pour but, d'une part, de permettre aux travailleurs délégués du personnel d'exercer leur mission dans l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de se porter candidats aux élections."
+      ],
+      "abstractNL": [
+        "De in het algemeen belang ingevoerde bijzondere bescherming van de personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing en van de niet verkozen kandidaten heeft tot doel, enerzijds, aan de werknemers-personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen en, anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich bij de verkiezingen kandidaat te stellen."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1995:ARR.19950904.4": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950001F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Instituée dans l'intérêt général, la protection spéciale des délégués du personnel aux conseil d'entreprise et comité de sécurité et d'hygiène et des candidats non élus a pour but, d'une part, de permettre aux travailleurs délégués du personnel d'exercer leur mission dans l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de se porter candidats aux élections."
+      ],
+      "abstractNL": [
+        "De in het algemeen belang ingevoerde bijzondere bescherming van de personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing en van de niet verkozen kandidaten heeft tot doel, enerzijds, aan de werknemers-personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen en, anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich bij de verkiezingen kandidaat te stellen."
+      ]
     }
   },
   "16": {
@@ -169,6 +983,204 @@
         "Het ontslag is de handeling waardoor een partij aan de andere partij ter kennis brengt dat zij de tussen hen voor onbepaalde tijd gesloten arbeidsovereenkomst wil beëindigen; zodat het geen gevolg heeft bij het verstrijken van de daarmee gepaard gaande opzeggingstermijn maar op het ogenblik waarop het wordt gegeven (1). (1) Cass. 18 mei 1987, AR 5624, AC 1986-87, nr. 547.",
         "Het ontslag kan door de werkgever niet ter kennis worden gebracht voordat de bij de Wet Ontslagregeling Personeelsafgevaardigden beschermde werknemer de leeftijd van vijfenzestig jaar heeft bereikt, zelfs als de opzeggingstermijn pas hierna verstrijkt."
       ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20121203.4": {
+      "court": "CASS",
+      "date": "2012-12-03",
+      "roleNumber": "S.11.0014.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/12/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 16 de la loi du 19 mars 1991 ne prohibe pas tout cumul entre l'indemnité de protection et une autre indemnité due en vertu d'une convention collective, quelle qu'en soit la cause."
+      ],
+      "abstractNL": [
+        "Artikel 16 van de wet van 19 maart 1991 verbiedt niet elke cumulatie tussen de beschermingsvergoeding en een andere vergoeding verschuldigd op grond van een collectieve overeenkomst, ongeacht de reden."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120220.4": {
+      "court": "CASS",
+      "date": "2012-02-20",
+      "roleNumber": "S.10.0048.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de sécurité d'emploi et l'indemnité de protection du délégué et du candidat délégué du personnel peuvent être cumulées lorsque les conditions d'octroi de chacune d'elles sont réunies; leur cumul ne constitue pas un avantage prohibé par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De vergoeding voor vastheid van betrekking en de beschermingsvergoeding van de personeelsafgevaardigde en van de kandidaat-personeelsafgevaardigde kunnen worden gecumuleerd wanneer de voorwaarden voor de toekenning van elk van die vergoedingen vervuld zijn; de cumulatie van die vergoedingen vormt geen verboden voordeel in de zin van de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110516.3": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "S.10.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le caractère d'ordre public dont la protection contre le licenciement prévue par la loi est revêtue n'a pas pour effet que tous les droits découlant de la protection intéressent l'ordre public et ne sauraient faire l'objet d'une renonciation par le travailleur protégé; dès que l'employeur ne respecte pas la procédure de licenciement et que la réintégration du travailleur protégé dans l'entreprise prévue dans le cadre de la protection contre le licenciement ne peut plus être demandée dans les délais légaux ou n'a pas été acceptée et qu'en conséquence, la protection contre le licenciement manque son but, les indemnités de licenciement prévues aux articles 16 et 17 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés se restreignent aux intérêts particuliers du travailleur protégé licencié, de sorte que celui-ci acquiert définitivement le droit à l'indemnité de licenciement et à la renonciation à ce seul moment."
+      ],
+      "abstractNL": [
+        "Het openbare -orde- karakter van de wettelijke ontslagbescherming heeft niet tot gevolg dat alle uit die bescherming voortvloeiende rechten de openbare orde raken en niet vatbaar zijn voor afstand door de beschermde werknemer; van zodra de werkgever de ontslagprocedure niet heeft nageleefd en de tot de ontslagbescherming behorende mogelijke reïntegratie van de beschermde werknemer in de onderneming binnen de in de wet bepaalde termijnen niet meer kan worden gevraagd of niet is ingewilligd en derhalve de ontslagbescherming niet haar doel heeft bereikt, worden door de in de artikelen 16 en 17 Wet Ontslagregeling Personeelsafgevaardigden bepaalde ontslagvergoedingen nog slechts de particuliere belangen van de ontslagen werknemer beschermd, zodat de ontslagen beschermde werknemer vanaf dan zijn recht op de ontslagvergoeding definitief verworven heeft en ervan afstand kan doen."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090622.9": {
+      "court": "CASS",
+      "date": "2009-06-22",
+      "roleNumber": "S.09.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel intéresse l'ordre public a pour effet non d'entacher de nullité le licenciement régulièrement effectué par l'employeur, notifié au cours des périodes de protection visées aux paragraphes 2 et 3 de l'article 2 de la loi, mais de rendre les indemnités visées aux articles 16 et 17 de la loi exigibles dès le moment où le contrat de travail prend effectivement fin à la suite du licenciement effectué par l'employeur."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de Wet Ontslagregeling Personeelsafgevaardigden van openbare orde is brengt niet mee dat de door de werkgever op regelmatige wijze gegeven opzegging, ter kennis gebracht gedurende de beschermingsperiodes bedoeld in de paragrafen 2 en 3 van artikel 2 van deze wet, nietig is, maar heeft tot gevolg dat de in artikelen 16 en 17 van deze wet bepaalde vergoedingen verschuldigd zijn van zodra de arbeidsovereenkomst effectief ten einde komt ingevolge die opzegging van de werkgever."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une décision relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que des candidats délégués du personnel, soit arrêtée par le conseil d'administration d'une société anonyme alors qu'il n'est pas régulièrement composé n'a pas pour effet que cette décision, fût-elle de nature à être annulée, n'engagerait pas la société que représente ce collège (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een beslissing betreffende de bijzondere ontslagregeling voor personeelsafgevaardigden in de ondernemingsraden en in de comités van veiligheid, gezondheid en verfraaiing van de werkplaatsen, alsmede voor de kandidaat-personeelsafgevaardigden, genomen wordt door een onregelmatig samengestelde raad van bestuur van een naamloze vennootschap, heeft niet tot gevolg dat die beslissing, zelfs al kon ze worden nietig verklaard, niet bindend zou zijn voor de vennootschap die door dat college wordt vertegenwoordigd (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940124.8": {
+      "court": "CASS",
+      "date": "1994-01-24",
+      "roleNumber": "S930062N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de licenciement particulier, prévue par l'article 16 de la loi du 19 mars 1991 constitue un montant forfaitaire, calculé sur la rémunération en cours au moment du licenciement."
+      ],
+      "abstractNL": [
+        "De bijzondere ontslagvergoeding bepaald bij art. 16 W. 19 maart 1991 vormt een forfaitair bedrag berekend op het lopend loon op het ogenblik van het ontslag."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950904.4": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950001F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Instituée dans l'intérêt général, la protection spéciale des délégués du personnel aux conseil d'entreprise et comité de sécurité et d'hygiène et des candidats non élus a pour but, d'une part, de permettre aux travailleurs délégués du personnel d'exercer leur mission dans l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de se porter candidats aux élections."
+      ],
+      "abstractNL": [
+        "De in het algemeen belang ingevoerde bijzondere bescherming van de personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing en van de niet verkozen kandidaten heeft tot doel, enerzijds, aan de werknemers-personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen en, anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich bij de verkiezingen kandidaat te stellen."
+      ]
+    }
+  },
+  "17": {
+    "ECLI:BE:CASS:2012:ARR.20120618.8": {
+      "court": "CASS",
+      "date": "2012-06-18",
+      "roleNumber": "S.11.0002.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/18/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La condition de l'acceptation de la demande de réintégration est remplie lorsque l'employeur s'engage inconditionnellement dans le délai fixé à occuper à nouveau le travailleur aux mêmes conditions que précédemment. L'acceptation n'étant soumise à aucune formalité prescrite à peine de nullité, l'employeur peut apporter la preuve de son existence par tous moyens de droit."
+      ],
+      "abstractNL": [
+        "Aan de vereiste van aanvaarding van de reïntegratie is voldaan wanneer de werkgever zich binnen de gestelde termijn onvoorwaardelijk ertoe verbindt de werknemer onder dezelfde arbeidsvoorwaarden als voorheen opnieuw tewerk te stellen. De aanvaarding is niet onderworpen aan een op straffe van nietigheid voorgeschreven vormvereiste, zodat de werkgever het bestaan ervan met alle rechtsmiddelen mag bewijzen."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120220.4": {
+      "court": "CASS",
+      "date": "2012-02-20",
+      "roleNumber": "S.10.0048.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de sécurité d'emploi et l'indemnité de protection du délégué et du candidat délégué du personnel peuvent être cumulées lorsque les conditions d'octroi de chacune d'elles sont réunies; leur cumul ne constitue pas un avantage prohibé par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De vergoeding voor vastheid van betrekking en de beschermingsvergoeding van de personeelsafgevaardigde en van de kandidaat-personeelsafgevaardigde kunnen worden gecumuleerd wanneer de voorwaarden voor de toekenning van elk van die vergoedingen vervuld zijn; de cumulatie van die vergoedingen vormt geen verboden voordeel in de zin van de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110516.3": {
+      "court": "CASS",
+      "date": "2011-05-16",
+      "roleNumber": "S.10.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le caractère d'ordre public dont la protection contre le licenciement prévue par la loi est revêtue n'a pas pour effet que tous les droits découlant de la protection intéressent l'ordre public et ne sauraient faire l'objet d'une renonciation par le travailleur protégé; dès que l'employeur ne respecte pas la procédure de licenciement et que la réintégration du travailleur protégé dans l'entreprise prévue dans le cadre de la protection contre le licenciement ne peut plus être demandée dans les délais légaux ou n'a pas été acceptée et qu'en conséquence, la protection contre le licenciement manque son but, les indemnités de licenciement prévues aux articles 16 et 17 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les travailleurs protégés se restreignent aux intérêts particuliers du travailleur protégé licencié, de sorte que celui-ci acquiert définitivement le droit à l'indemnité de licenciement et à la renonciation à ce seul moment."
+      ],
+      "abstractNL": [
+        "Het openbare -orde- karakter van de wettelijke ontslagbescherming heeft niet tot gevolg dat alle uit die bescherming voortvloeiende rechten de openbare orde raken en niet vatbaar zijn voor afstand door de beschermde werknemer; van zodra de werkgever de ontslagprocedure niet heeft nageleefd en de tot de ontslagbescherming behorende mogelijke reïntegratie van de beschermde werknemer in de onderneming binnen de in de wet bepaalde termijnen niet meer kan worden gevraagd of niet is ingewilligd en derhalve de ontslagbescherming niet haar doel heeft bereikt, worden door de in de artikelen 16 en 17 Wet Ontslagregeling Personeelsafgevaardigden bepaalde ontslagvergoedingen nog slechts de particuliere belangen van de ontslagen werknemer beschermd, zodat de ontslagen beschermde werknemer vanaf dan zijn recht op de ontslagvergoeding definitief verworven heeft en ervan afstand kan doen."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090622.9": {
+      "court": "CASS",
+      "date": "2009-06-22",
+      "roleNumber": "S.09.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel intéresse l'ordre public a pour effet non d'entacher de nullité le licenciement régulièrement effectué par l'employeur, notifié au cours des périodes de protection visées aux paragraphes 2 et 3 de l'article 2 de la loi, mais de rendre les indemnités visées aux articles 16 et 17 de la loi exigibles dès le moment où le contrat de travail prend effectivement fin à la suite du licenciement effectué par l'employeur."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de Wet Ontslagregeling Personeelsafgevaardigden van openbare orde is brengt niet mee dat de door de werkgever op regelmatige wijze gegeven opzegging, ter kennis gebracht gedurende de beschermingsperiodes bedoeld in de paragrafen 2 en 3 van artikel 2 van deze wet, nietig is, maar heeft tot gevolg dat de in artikelen 16 en 17 van deze wet bepaalde vergoedingen verschuldigd zijn van zodra de arbeidsovereenkomst effectief ten einde komt ingevolge die opzegging van de werkgever."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090126.8": {
+      "court": "CASS",
+      "date": "2009-01-26",
+      "roleNumber": "S.08.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une décision relative au licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que des candidats délégués du personnel, soit arrêtée par le conseil d'administration d'une société anonyme alors qu'il n'est pas régulièrement composé n'a pas pour effet que cette décision, fût-elle de nature à être annulée, n'engagerait pas la société que représente ce collège (1). (1) Code des sociétés, article 61 dans sa rédaction applicable aux faits."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een beslissing betreffende de bijzondere ontslagregeling voor personeelsafgevaardigden in de ondernemingsraden en in de comités van veiligheid, gezondheid en verfraaiing van de werkplaatsen, alsmede voor de kandidaat-personeelsafgevaardigden, genomen wordt door een onregelmatig samengestelde raad van bestuur van een naamloze vennootschap, heeft niet tot gevolg dat die beslissing, zelfs al kon ze worden nietig verklaard, niet bindend zou zijn voor de vennootschap die door dat college wordt vertegenwoordigd (1). (1) Artikel 61, Wetboek van vennootschappen, zoals het te dezen van toepassing is."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030414.10": {
+      "court": "CASS",
+      "date": "2003-04-14",
+      "roleNumber": "S020064N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité complémentaire spéciale due en vertu de l'article 17 de la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel, doit être fixée en tenant compte de la durée réelle de la période de protection, c'est-à-dire au cours du mandat des membres représentant le personnel, obtenu lors des élections pour lesquelles le délégué du personnel non réintégré était aussi candidat (1). (1) Le M.P. a conclu à la cassation de l'arrêt attaqué. Il a estimé que lors de la fixation de l'indemnité spéciale conformément à l'article 17 de la loi du 19 mars 1991 il fallait tenir compte de la législation qui existait à la date à laquelle cette indemnité était née ou à la date où celle-ci devenait exigible - de sorte qu'avant l'entrée en vigueur de la loi du 5 mars 1999 relative aux élections sociales - le défendeur ne pouvait prétendre qu'à une indemnité sur la base d'un mandat qui prenait fin normalement en 1999."
+      ],
+      "abstractNL": [
+        "De bijzondere bijkomende vergoeding verschuldigd krachtens art. 17 van de Ontslagbeschermingswet, moet worden bepaald met inachtneming van de werkelijke duur van de beschermingsperiode, dit is gedurende het mandaat van de leden die het personeel vertegenwoordigen, verkregen bij de verkiezingen waarvoor de niet-gereïntegreerde personeelsafgevaardigde ook kandidaat was (1). (1) Het O.M. concludeerde tot de vernietiging van het bestreden arrest. Het oordeelde dat bij de begroting van de bijzondere vergoeding overeenkomstig art. 17, Wet van 19 maart 1991 rekening diende te worden gehouden met de wetgeving die bestond op de datum waarop het recht op vergoeding ontstond of op de datum waarop die vergoeding opeisbaar werd - zodat verweerder vóór de datum van de inwerkingtreding van de Wet van 5 maart 1999 met betrekking tot de sociale verkiezingen - slechts aanspraak kan maken op een vergoeding op basis van een mandaat dat normaal afloopt in 1999."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950904.4": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950001F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Instituée dans l'intérêt général, la protection spéciale des délégués du personnel aux conseil d'entreprise et comité de sécurité et d'hygiène et des candidats non élus a pour but, d'une part, de permettre aux travailleurs délégués du personnel d'exercer leur mission dans l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de se porter candidats aux élections."
+      ],
+      "abstractNL": [
+        "De in het algemeen belang ingevoerde bijzondere bescherming van de personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing en van de niet verkozen kandidaten heeft tot doel, enerzijds, aan de werknemers-personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen en, anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich bij de verkiezingen kandidaat te stellen."
+      ]
     }
   },
   "18": {
@@ -187,6 +1199,194 @@
       "abstractNL": [
         "Het in artikel 18 Wet Ontslagregeling Personeelsafgevaardigden bedoelde begrip “dringende reden” beoogt enkel het in artikel 35 Arbeidsovereenkomstenwet bedoelde feit dat elke verdere samenwerking onmiddellijk en definitief onmogelijk maakt (1). (1) Zie concl. OM.",
         "Een gerechtelijke ontbinding van de arbeidsovereenkomst op verzoek van de werknemer wegens ernstige tekortkoming in hoofde van de werkgever maakt niet steeds een beëindiging door de werknemer uit wegens feiten die een dringende reden uitmaken in hoofde van de werkgever in de zin van artikel 18 Wet Ontslagregeling Personeelafgevaardigden (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1319": {
+    "ECLI:BE:CASS:2006:ARR.20060911.6": {
+      "court": "CASS",
+      "date": "2006-09-11",
+      "roleNumber": "S060013F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Viole la foi due à un acte, le juge qui donne de cet acte une interprétation inconciliable avec ses termes (1). (1) Cass., 11 décembre 1989, RG 8694, n° é, avec concl. M.P.; 25 septembre 2000, RG C.99.0201.F, n° 490."
+      ],
+      "abstractNL": [
+        "De bewijskracht van een akte wordt door de rechter miskend wanneer hij aan die akte een uitlegging geeft die niet te verenigen is met de bewoordingen ervan (1). (1) Cass., 11 dec. 1989, AR 8694, nr é, met concl. O.M. in Bull. en Pas., 1989-90, I, nr é; 25 sept. 2000, AR C.99.0201.F, nr 490."
+      ]
+    }
+  },
+  "1320": {
+    "ECLI:BE:CASS:2006:ARR.20060911.6": {
+      "court": "CASS",
+      "date": "2006-09-11",
+      "roleNumber": "S060013F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Viole la foi due à un acte, le juge qui donne de cet acte une interprétation inconciliable avec ses termes (1). (1) Cass., 11 décembre 1989, RG 8694, n° é, avec concl. M.P.; 25 septembre 2000, RG C.99.0201.F, n° 490."
+      ],
+      "abstractNL": [
+        "De bewijskracht van een akte wordt door de rechter miskend wanneer hij aan die akte een uitlegging geeft die niet te verenigen is met de bewoordingen ervan (1). (1) Cass., 11 dec. 1989, AR 8694, nr é, met concl. O.M. in Bull. en Pas., 1989-90, I, nr é; 25 sept. 2000, AR C.99.0201.F, nr 490."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011001.9": {
+      "court": "CASS",
+      "date": "2001-10-01",
+      "roleNumber": "S010014N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de scission d'une unité technique d'exploitation en plusieurs entités juridiques, le candidat délégué du personnel qui n'a pas été élu lors des élections sociales organisées avant cette scission, continue à bénéficier des mesures de protection prévues par la loi du 19 mars 1991 lorsqu'il se porte candidat aux élections sociales suivantes au sein de l'unité technique d'exploitation nouvellement créée ; cette candidature ne doit pas être considérée comme une première candidature bénéficiant de la plus longue période de protection y afférente mais comme une candidature d'un délégué du personnel qui était déjà candidat et qui n'a pas été élu lors des élections précédentes et qui ne bénéficie que d'une période de protection prenant cours le trentième jour précédant l'affichage de l'avis fixant la date des élections et se terminant deux ans après l'affichage du résultat des élections."
+      ],
+      "abstractNL": [
+        "In geval van splitsing van een technische bedrijfseenheid in verschillende juridische entiteiten blijft de niet verkozen kandidaat personeelsafgevaardigde bij sociale verkiezingen georganiseerd vóór deze afsplitsing, de beschermingsmaatregelen bepaald bij de wet van 19 maart 1991 genieten wanneer hij zich bij de volgende sociale verkiezingen kandidaat stelt in de nieuwe ontstane technische bedrijfseenheid; deze kandidatuurstelling dient niet beschouwd te worden als een eerste kandidatuur met de erbij horende langere periode van bescherming maar als kandidatuur van de personeelsafgevaardigde die reeds kandidaat was en niet werd verkozen bij de vorige verkiezingen met slechts een periode van bescherming die loopt vanaf de dertigste dag voorafgaand aan de aanplakking van het bericht dat de datum van de verkiezingen vastlegt en een einde neemt twee jaar na de aanplakking van de uitslag van de verkiezingen."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010423.4": {
+      "court": "CASS",
+      "date": "2001-04-23",
+      "roleNumber": "S000176NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/04/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'employeur qui a l'intention de licencier un délégué du personnel ou un candidat délégué pour un motif grave et qui, à l'expiration de la période de négociation, maintient sa décision de licencier, est tenu de citer le travailleur et l'organisation qui a présenté sa candidature devant le président du tribunal du travail (1)."
+      ],
+      "abstractNL": [
+        "De werkgever die het voornemen heeft een personeelsafgevaardigde of een kandidaat personeelsafgevaardigde om een dringende reden te ontslaan en die na verloop van de onderhandelingsperiode bij zijn voornemen blijft om te ontslaan, moet die werknemer en de organisatie die zijn kandidatuur heeft voorgedragen dagvaarden voor de voorzitter van de arbeidsrechtbank."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001218.5": {
+      "court": "CASS",
+      "date": "2000-12-18",
+      "roleNumber": "S000103F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si la partie qui, d'une manière unilatérale, modifie, fût-ce temporairement, un des éléments essentiels du contrat de travail, met fin immédiatement à celui-ci de façon illicite et si lorsque le juge décide qu'une partie a mis fin au contrat de travail en modifiant unilatéralement un élément essentiel, il n'est pas tenu de constater qu'elle avait l'intention de mettre fin au contrat (1), en revanche, le manquement d'une partie à ses obligations ne met pas fin, en soi, au contrat de travail (2)."
+      ],
+      "abstractNL": [
+        "Zo de partij die eenzijdig, al is het tijdelijk, een van de wezenlijke bestanddelen van de arbeidsovereenkomst wijzigt, onmiddellijk en onrechtmatig een einde aan die overeenkomst maakt en, zo de rechter, wanneer hij beslist dat een der partijen de arbeidsovereenkomst heeft beëindigd door eenzijdig een wezenlijk bestanddeel ervan te wijzigen, niet verplicht is vast te stellen dat zij de bedoeling had de overeenkomst te beëindigen (1), maakt daarentegen de tekortkoming van één der partijen aan haar verplichtingen op zich geen einde aan de arbeidsovereenkomst (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970317.8": {
+      "court": "CASS",
+      "date": "1997-03-17",
+      "roleNumber": "S960056F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La notification d'un jugement ou d'un arrêt est acquise à la date de l'envoi de cette décision judiciaire et non à la date de sa réception; cette règle est applicable aux notifications des jugements et arrêts prévues par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel."
+      ],
+      "abstractNL": [
+        "De kennisgeving van een vonnis of arrest geschiedt op de datum van toezending van die rechterlijke beslissing en niet op de datum van de ontvangst ervan; die regel is toepasselijk op de kennisgevingen van vonnissen en arresten bepaald bij de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961202.9": {
+      "court": "CASS",
+      "date": "1996-12-02",
+      "roleNumber": "S950153F;S960002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/12/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La demande de réintégration d'un candidat aux élections des délégués du personnel au comité de sécurité et d'hygiène qui a été licencié, doit être introduite dans les trente jours qui suivent la date de la présentation des candidatures; une demande introduite avant cette présentation n'a pas d'effet."
+      ],
+      "abstractNL": [
+        "De aanvraag tot herplaatsing van een ontslagen kandidaat bij de verkiezing van de werknemersafgevaardigden in het veiligheidscomité, moet worden ingediend binnen dertig dagen na de voordracht van de kandidaturen; een aanvraag die werd ingediend vóór die voordracht heeft geen uitwerking."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950904.4": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950001F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Instituée dans l'intérêt général, la protection spéciale des délégués du personnel aux conseil d'entreprise et comité de sécurité et d'hygiène et des candidats non élus a pour but, d'une part, de permettre aux travailleurs délégués du personnel d'exercer leur mission dans l'entreprise et, d'autre part, d'assurer l'entière liberté des travailleurs de se porter candidats aux élections."
+      ],
+      "abstractNL": [
+        "De in het algemeen belang ingevoerde bijzondere bescherming van de personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing en van de niet verkozen kandidaten heeft tot doel, enerzijds, aan de werknemers-personeelsafgevaardigden de gelegenheid te geven hun opdracht in de onderneming uit te oefenen en, anderzijds, de volledige vrijheid van de werknemers te waarborgen om zich bij de verkiezingen kandidaat te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950619.2": {
+      "court": "CASS",
+      "date": "1995-06-19",
+      "roleNumber": "S940104F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 11, alinéa 1er, alinéa 2, de la loi portant un régime de licenciement particulier pour les travailleurs protégés, est notamment un moyen de l'appel l'indication de ce qui, dans le jugement définitif entrepris, est, selon l'appelant, contraire à la loi."
+      ],
+      "abstractNL": [
+        "In de zin van art. 11, alinéa 1, tweede lid, wet houdende bijzondere ontslagregeling voor de beschermende werknemers, is o.a. een middel van hoger beroep, de aanwijzing van hetgeen, volgens appellant, in het bestreden eindvonnis, strijdig is met de wet."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941205.14": {
+      "court": "CASS",
+      "date": "1994-12-05",
+      "roleNumber": "S940029N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'employeur peut, dans le cas prévu par l'article 4, alinéa 1, de la loi du 19 mars 1991, prouver par témoins le jour au cours duquel il a eu connaissance du fait qui justifierait le licenciement."
+      ],
+      "abstractNL": [
+        "De werkgever kan, in het geval bedoeld bij art. 4, alinéa 1, Wet 19 maart 1991, door getuigen bewijzen op welke dag hij kennis heeft gekregen van het feit dat het ontslag zou rechtvaardigen. (Artt. 1341 B.W., 12 en 35 Arbeidsovereenkomstenwet)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940613.8": {
+      "court": "CASS",
+      "date": "1994-06-13",
+      "roleNumber": "S930143N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 3, alinéa 1er, alinéa 3, de la loi du 19 mars 1991, à défaut de décision de l'organe paritaire compétent, l'employeur ne peut licencier le délégué du personnel ou le candidat délégué du personnel que, notamment, en cas de licenciement d'une catégorie déterminée du personnel. Aucune disposition légale ne requiert que la catégorie déterminée du personnel soit constituée de l'ensemble du personnel qui doit nécessairement être licencié en raison d'une modification de l'équipement technique de l'entreprise ou d'une adaptation ou d'une modification de l'orientation économique de l'entreprise."
+      ],
+      "abstractNL": [
+        "Krachtens art. 3, alinéa 1, 3e lid, Wet 19 maart 1991 mag de werkgever bij ontstentenis van beslissing van het paritair orgaan, de personeelsafgevaardigde of kandidaat personeelsafgevaardigde enkel ontslaan onder meer in het geval van het ontslag van een welbepaalde personeelsgroep. Geen enkele wetsbepaling vereist dat de welbepaalde personeelsgroep zou bestaan uit het geheel van de werknemers dat wegens een wijziging in de technische uitrusting van de onderneming of een aanpassing of wijziging van de economische oriëntering van het bedrijf noodzakelijk dient te worden ontslagen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940124.8": {
+      "court": "CASS",
+      "date": "1994-01-24",
+      "roleNumber": "S930062N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/01/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité de licenciement particulier, prévue par l'article 16 de la loi du 19 mars 1991 constitue un montant forfaitaire, calculé sur la rémunération en cours au moment du licenciement."
+      ],
+      "abstractNL": [
+        "De bijzondere ontslagvergoeding bepaald bij art. 16 W. 19 maart 1991 vormt een forfaitair bedrag berekend op het lopend loon op het ogenblik van het ontslag."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920224.17": {
+      "court": "CASS",
+      "date": "1992-02-24",
+      "roleNumber": "9265",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/24/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'employeur, le curateur d'une faillite ou le liquidateur d'un concordat judiciaire ne sont pas tenus de consulter la commission paritaire avant de licencier un travailleur protégé pour des raisons d'ordre économique ou technique, lorsqu'ils sont obligés, en raison d'une décision judiciaire, de licencier tout le personnel en même temps ou en un temps très proche, de sorte que toute discrimination est exclue; le jugement qui déclare une faillite ne constitue pas en lui-même une décision judiciaire dispensant le curateur de consulter la commission paritaire. ( Loi du 20 septembre 1948, art. 21, alinéa 2; Loi du 10 juin 1952, art. 1er bis, alinéa 2; Loi du 19 mars 1991, art. 2, alinéa 1er; et Loi du 3 juillet 1978, art. 26. )"
+      ],
+      "abstractNL": [
+        "De werkgever, de curator van een faillissement en de vereffenaar van een gerechtelijk akkoord zijn niet gehouden het paritair comité te raadplegen alvorens een beschermde werknemer wegens economische of technische redenen te ontslaan, wanneer zij ingevolge een rechterlijke beslissing, verplicht zijn alle werknemers gelijkelijk en terzelfdertijd of binnen een zeer korte termijn te ontslaan, zodat discriminatie uitgesloten is; een vonnis van faillietverklaring is op zichzelf geen rechterlijke beslissing waarbij de curator ervan wordt vrijgesteld het paritair comité te raadplegen. ( Art. 21, alinéa 2, Bedrijfsorganisatiewet; art. 1bis, alinéa 2, Gezondheid en Veiligheidswet; art. 2, alinéa 1, Wet van 19 maart 1991 en art. 26, Arbeidsovereenkomstenwet. )"
       ]
     }
   }

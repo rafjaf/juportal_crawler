@@ -1,4 +1,34 @@
 {
+  "20": {
+    "ECLI:BE:CASS:2009:ARR.20090312.3": {
+      "court": "CASS",
+      "date": "2009-03-12",
+      "roleNumber": "D.07.0023.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La loi n'exclut pas que la personne qui fait rapport au conseil provincial de l'ordre des pharmaciens soit le pharmacien instructeur."
+      ],
+      "abstractNL": [
+        "De wet sluit niet uit dat de persoon die bij de provinciale raad verslag uitbrengt, de apotheker-onderzoeker is."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960125.1": {
+      "court": "CASS",
+      "date": "1996-01-25",
+      "roleNumber": "D940015N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La décision du conseil provincial de l'Ordre des pharmaciens ordonnant, en matière disciplinaire, la comparution d'un pharmacien devant le conseil constitue une décision de nature juridictionnelle à laquelle la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs n'est pas applicable."
+      ],
+      "abstractNL": [
+        "De beslissing van de provinciale raad van de Orde der apothekers dat de apotheker in een tuchtzaak voor de raad moet verschijnen is een beslissing van jurisdictionele aard, waarop de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen niet van toepassing is."
+      ]
+    }
+  },
   "27": {
     "ECLI:BE:CASS:2022:ARR.20220930.1N.9": {
       "court": "CASS",
@@ -28,6 +58,50 @@
       "abstractNL": [
         "De beslissing om de apotheker te doen verschijnen maakt de tuchtrechtelijke vervolgingen aanhangig bij de provinciale raad (1). (1) Zie concl. OM in Pas. 2014, nr. ."
       ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090312.3": {
+      "court": "CASS",
+      "date": "2009-03-12",
+      "roleNumber": "D.07.0023.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/03/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La loi n'exclut pas que la personne qui fait rapport au conseil provincial de l'ordre des pharmaciens soit le pharmacien instructeur."
+      ],
+      "abstractNL": [
+        "De wet sluit niet uit dat de persoon die bij de provinciale raad verslag uitbrengt, de apotheker-onderzoeker is."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841011.2": {
+      "court": "CASS",
+      "date": "1984-10-11",
+      "roleNumber": "8032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, par application de l'article 27, alinéa 3, de l'arrêté royal du 29 mai 1970, le conseil provincial de l'Ordre des pharmaciens décide de faire comparaître un pharmacien en indiquant sommairement mais d'une manière suffisamment claire les faits reprochés, n'est pas entachée d'irrégularité la sentence du Conseil provincial qui, après avoir précisé la qualification des faits de manière à respecter les droits de la défense, prononce une sanction disciplinaire."
+      ],
+      "abstractNL": [
+        "Wanneer de provinciale raad van de Orde der Apothekers, met toepassing van art. 27, derde lid, van het K.B. van 29 mei 1970, beslist een apotheker te doen verschijnen onder summiere maar toch voldoende duidelijke omschrijving van de ten laste gelegde feiten, is niet onregelmatig de beslissing van de provinciale raad die, na de kwalificatie van de feiten te hebben gepreciseerd om het recht van verdediging te eerbiedigen, de tuchtstraf uitspreekt."
+      ]
+    }
+  },
+  "29": {
+    "ECLI:BE:CASS:1978:ARR.19780915.3": {
+      "court": "CASS",
+      "date": "1978-09-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Bien qu'il ne soit pas membre d'une organisation professionnelle qui a établi un réglementation relative à un service de garde, aux heures de fermeture des officines et aux périodes des vacances, peut se rendre coupable d'une infraction aux règles de la déontologie le pharmacien qui, sans motif légitime et en abusant de son droit d'exercer librement sa profession, rend difficile, par son abstention systématique de la coopération confraternelle nécessaire, l'application de pareille réglementation."
+      ],
+      "abstractNL": [
+        "wel hij geen lid is van een beroepsvereniging die een regeling heeft vastgesteld voor een wachtdienst, voor de diensturen van de officina's en de vakantieperioden, toch kan hij regels inzake de plichtenleer overtreden de apotheker die, zonder wettige reden en misbruik makend van zijn recht om zijn beroep vrij uit te oefenen, systematisch niet samenwerkt met zijn confraters, zoals zulks vereist is, zodat hij de toepassing van een dergelijke regeling bemoeilijkt <1>."
+      ]
     }
   },
   "31": {
@@ -43,6 +117,96 @@
       ],
       "abstractNL": [
         "De raad van beroep van de Orde der apothekers die in eerste en laatste aanleg uitspraak doet nadat de zaak aanhangig werd omdat de provinciale raad geen enkele beslissing heeft genomen binnen zes maanden vanaf de ontvangst van de klacht en daarbij een sanctie oplegt, dient dat te doen met tweederde meerderheid van stemmen (1). (1) Zie Cass. 21 december 2012, AR D.12.0011.N, AC 2012, nr. 706."
+      ]
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:1992:ARR.19921203.9": {
+      "court": "CASS",
+      "date": "1992-12-03",
+      "roleNumber": "9474",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'observation de la règle, suivant laquelle l'appel d'une décision du conseil provincial de l'Ordre des pharmaciens est adressé par pli recommandé au président du conseil provincial qui a rendu la décision, est une condition de la recevabilité de l'appel; est, dès lors irrecevable l'appel adressé par pli recommandé au conseil d'appel. ( A.R. du 29 mai 1970, art. 32. )"
+      ],
+      "abstractNL": [
+        "Het naleven van de regel volgens welke het beroep tegen een beslissing van de provinciale raad van de Orde van apothekers bij aangetekende brief wordt gestuurd aan de voorzitter van de provinciale raad, die de beslissing heeft gewezen, is een voorwaarde voor de ontvankelijkheid van het beroep; het beroep dat bij aangetekende brief aan de raad van beroep wordt gestuurd is bijgevolg niet ontvankelijk. ( Art. 32, K.B. van 29 mei 1970. )"
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:1991:ARR.19910905.12": {
+      "court": "CASS",
+      "date": "1991-09-05",
+      "roleNumber": "7485",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 35, alinéa 2, de l'arrêté royal du 29 mai 1970 réglant l'organisation et le fonctionnement des conseils de l'Ordre des pharmaciens, le conseil d'appel qui, statuant à la majorité simple, refuse à un pharmacien son inscription au tableau de l'Ordre, aussi longtemps que ce pharmacien demeurera inscrit au tableau de l'Ordre des médecins; pareille décision requiert la majorité des deux tiers."
+      ],
+      "abstractNL": [
+        "Art. 35, tweede lid, K.B. 29 mei 1970 tot regeling van de organisatie en de werking der Raden van de Orde der Apothekers wordt geschonden door de raad van beroep die, bij gewone meerderheid, de inschrijving van een apotheker op de lijst van de orde weigert zolang de inschrijving van die apotheker op de lijst van de Orde der Geneesheren behouden blijft; een dergelijke beslissing vereist een meerderheid van twee derde."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1992:ARR.19921203.9": {
+      "court": "CASS",
+      "date": "1992-12-03",
+      "roleNumber": "9474",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/12/03/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'observation de la règle, suivant laquelle l'appel d'une décision du conseil provincial de l'Ordre des pharmaciens est adressé par pli recommandé au président du conseil provincial qui a rendu la décision, est une condition de la recevabilité de l'appel; est, dès lors irrecevable l'appel adressé par pli recommandé au conseil d'appel. ( A.R. du 29 mai 1970, art. 32. )"
+      ],
+      "abstractNL": [
+        "Het naleven van de regel volgens welke het beroep tegen een beslissing van de provinciale raad van de Orde van apothekers bij aangetekende brief wordt gestuurd aan de voorzitter van de provinciale raad, die de beslissing heeft gewezen, is een voorwaarde voor de ontvankelijkheid van het beroep; het beroep dat bij aangetekende brief aan de raad van beroep wordt gestuurd is bijgevolg niet ontvankelijk. ( Art. 32, K.B. van 29 mei 1970. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910905.12": {
+      "court": "CASS",
+      "date": "1991-09-05",
+      "roleNumber": "7485",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 35, alinéa 2, de l'arrêté royal du 29 mai 1970 réglant l'organisation et le fonctionnement des conseils de l'Ordre des pharmaciens, le conseil d'appel qui, statuant à la majorité simple, refuse à un pharmacien son inscription au tableau de l'Ordre, aussi longtemps que ce pharmacien demeurera inscrit au tableau de l'Ordre des médecins; pareille décision requiert la majorité des deux tiers."
+      ],
+      "abstractNL": [
+        "Art. 35, tweede lid, K.B. 29 mei 1970 tot regeling van de organisatie en de werking der Raden van de Orde der Apothekers wordt geschonden door de raad van beroep die, bij gewone meerderheid, de inschrijving van een apotheker op de lijst van de orde weigert zolang de inschrijving van die apotheker op de lijst van de Orde der Geneesheren behouden blijft; een dergelijke beslissing vereist een meerderheid van twee derde."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841011.2": {
+      "court": "CASS",
+      "date": "1984-10-11",
+      "roleNumber": "8032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, par application de l'article 27, alinéa 3, de l'arrêté royal du 29 mai 1970, le conseil provincial de l'Ordre des pharmaciens décide de faire comparaître un pharmacien en indiquant sommairement mais d'une manière suffisamment claire les faits reprochés, n'est pas entachée d'irrégularité la sentence du Conseil provincial qui, après avoir précisé la qualification des faits de manière à respecter les droits de la défense, prononce une sanction disciplinaire."
+      ],
+      "abstractNL": [
+        "Wanneer de provinciale raad van de Orde der Apothekers, met toepassing van art. 27, derde lid, van het K.B. van 29 mei 1970, beslist een apotheker te doen verschijnen onder summiere maar toch voldoende duidelijke omschrijving van de ten laste gelegde feiten, is niet onregelmatig de beslissing van de provinciale raad die, na de kwalificatie van de feiten te hebben gepreciseerd om het recht van verdediging te eerbiedigen, de tuchtstraf uitspreekt."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780915.3": {
+      "court": "CASS",
+      "date": "1978-09-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Bien qu'il ne soit pas membre d'une organisation professionnelle qui a établi un réglementation relative à un service de garde, aux heures de fermeture des officines et aux périodes des vacances, peut se rendre coupable d'une infraction aux règles de la déontologie le pharmacien qui, sans motif légitime et en abusant de son droit d'exercer librement sa profession, rend difficile, par son abstention systématique de la coopération confraternelle nécessaire, l'application de pareille réglementation."
+      ],
+      "abstractNL": [
+        "wel hij geen lid is van een beroepsvereniging die een regeling heeft vastgesteld voor een wachtdienst, voor de diensturen van de officina's en de vakantieperioden, toch kan hij regels inzake de plichtenleer overtreden de apotheker die, zonder wettige reden en misbruik makend van zijn recht om zijn beroep vrij uit te oefenen, systematisch niet samenwerkt met zijn confraters, zoals zulks vereist is, zodat hij de toepassing van een dergelijke regeling bemoeilijkt <1>."
       ]
     }
   }

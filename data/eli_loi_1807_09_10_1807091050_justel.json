@@ -13,6 +13,20 @@
       "abstractNL": [
         "Apothekers, ook al zijn zij geen kooplieden in de zin van artikel 1 Wetboek van Koophandel en ook al hebben zij een maatschappelijke functie, oefenen een activiteit uit die gericht is op de uitwisseling van goederen of diensten; zij streven op duurzame wijze een economisch doel na en zijn aldus in de regel ondernemingen in de zin van artikel I.1, 1°, Wetboek Economisch Recht (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081219.1": {
+      "court": "CASS",
+      "date": "2008-12-19",
+      "roleNumber": "C.07.0281.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les personnes qui font du commerce en nom collectif sont présumées être commerçantes; elles acquièrent cette qualité par leur participation à la société (1). (1) Voir les conclusions du M.P., publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Personen die handel drijven onder firma worden geacht koopman te zijn; zij ontlenen die hoedanigheid aan hun lidmaatschap van de vennootschap (1). (1) Zie de concl. van het O.M."
+      ]
     }
   },
   "2": {
@@ -43,6 +57,20 @@
       "abstractNL": [
         "Met de normaal bij de landbouwbedrijven behorende verwerking die niet als daad van koophandel kan worden aangemerkt, bedoelt art. 2, vierde lid, Wetboek van Koophandel de verwerking, door de exploitant zelf, van voortbrengsel van zijn eigen landbouwbedrijf."
       ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100611.2": {
+      "court": "CASS",
+      "date": "2010-06-11",
+      "roleNumber": "C090525F-C090526F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/11/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Nonobstant leur caractère commercial, les activités de courtage immobilier, tendant à prospecter des acquéreurs, ne sont pas, en règle, interdites au notaire qui est appelé à passer l'acte authentique de vente; le notaire qui exerce ces activités n'est pas soumis aux obligations de l'arrêté royal du 6 septembre 1993 (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Ook al zijn de makelaarsactiviteiten die bedoeld zijn om kopers op te sporen daden van koophandel, toch zijn ze in de regel niet verboden voor de notaris wiens taak erin bestaat de authentieke koopakte te verlijden; de notaris die genoemde activiteiten verricht, is niet onderworpen aan de verplichtingen van het koninklijk besluit van 6 september 1993 (1). (1) Zie concl. O.M., in Bull., 2010, AR C.09.0526, nr. ..."
+      ]
     }
   },
   "25": {
@@ -58,6 +86,64 @@
       ],
       "abstractNL": [
         "Krachtens artikel 25, eerste lid, Wetboek van Koophandel, kan de rechter inzake handelsverrichtingen uit het gebrek aan protest van een brief ten aanzien van een handelaar het feitelijke vermoeden putten en het bewijs erin vinden dat de handelaar de inhoud van die brief aanvaardt, waarbij de rechter zulks beoordeelt naargelang van de feitelijke omstandigheden van het geval."
+      ]
+    },
+    "ECLI:BE:CASS:2012:ARR.20120319.2": {
+      "court": "CASS",
+      "date": "2012-03-19",
+      "roleNumber": "C.10.0645.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En matière commerciale, le juge peut admettre la preuve de l'existence d'un contrat de transaction par des présomptions, même en l'absence d'un commencement de preuve par écrit au sens de l'article 1347 du Code civil."
+      ],
+      "abstractNL": [
+        "In geschillen betreffende handelszaken kan de rechter het bewijs van het bestaan van een dading door vermoedens toelaten, zelfs als er geen begin van bewijs door geschrift voorhanden is in de zin van artikel 1347 van het Burgerlijk Wetboek."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20081106.20": {
+      "court": "CASS",
+      "date": "2008-11-06",
+      "roleNumber": "C.07.0476.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/06/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "La liberté des preuves s'applique aux engagements commerciaux, peu importe que l'une des parties ne soit pas commerçante ou qu'elle ait cessé de l'être."
+      ],
+      "abstractNL": [
+        "De vrijheid van bewijs geldt voor alle handelsverbintenissen, ongeacht of een van de partijen geen of niet langer koopman is."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080124.4": {
+      "court": "CASS",
+      "date": "2008-01-24",
+      "roleNumber": "C.07.0355.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/01/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La règle selon laquelle la facture acceptée établit la preuve du contrat ne vaut que pour la vente commerciale; pour les autres actes de commerce, le juge peut déduire une présomption de l'homme de l'acceptation de la facture et y puiser la preuve que le débiteur a marqué son accord à l'obligation énoncée dans la facture (1). (1) Cass., 1er décembre 1967, Bull. et Pas., 1968, 440; voir Cass., 7 janvier 2005, RG C.03.0129.N, Pas., 2005, n° 11."
+      ],
+      "abstractNL": [
+        "De regel dat de aanvaarde factuur het bewijs oplevert van de overeenkomst geldt enkel voor de handelskoop; voor andere handelsverrichtingen kan de rechter uit de aanvaarding van de factuur een feitelijk vermoeden putten en er het bewijs in vinden dat de schuldenaar zijn akkoord heeft gegeven met de in de factuur vermelde verbintenis (1). (1) Cass., 1 dec. 1967, A.C., 1968, 471; zie Cass., 7 jan. 2005, AR C.03.0129.N, A.C., 2005, nr 11."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:2007:ARR.20070531.1": {
+      "court": "CASS",
+      "date": "2007-05-31",
+      "roleNumber": "C.06.0147.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/05/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "A défaut d'indiquer pour compte de qui il est donné, l'aval garantit l'engagement cambiaire éventuel du tireur."
+      ],
+      "abstractNL": [
+        "Wanneer niet wordt vermeld voor wie het aval is gegeven, waarborgt het aval de eventuele wisselverbintenis van de trekker."
       ]
     }
   },
@@ -141,6 +227,20 @@
       ],
       "abstractNL": [
         "Een deskundig verslag dat als dusdanig niet tegenstelbaar is aan één der partijen omdat de expertise jegens haar niet tegensprekelijk was kan als vermoeden gelden ingevolge de omstandigheden waarin het werd opgesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870612.10": {
+      "court": "CASS",
+      "date": "1987-06-12",
+      "roleNumber": "5284",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par transformation qui relève normalement des entreprises agricoles et qui n'est pas réputée acte de commerce au sens de l'article 2, alinéa 4, du Code de commerce, la transformation par l'exploitant lui-même des produits de sa propre entreprise agricole."
+      ],
+      "abstractNL": [
+        "Met de normaal bij de landbouwbedrijven behorende verwerking die niet als daad van koophandel kan worden aangemerkt, bedoelt art. 2, vierde lid, Wetboek van Koophandel de verwerking, door de exploitant zelf, van voortbrengsel van zijn eigen landbouwbedrijf."
       ]
     }
   }

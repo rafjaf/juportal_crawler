@@ -1,4 +1,36 @@
 {
+  "26": {
+    "ECLI:BE:CASS:1983:ARR.19830329.5": {
+      "court": "CASS",
+      "date": "1983-03-29",
+      "roleNumber": "7659",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le caractère public des opérations de sollicitation de l'épargne, visées à l'article 108, livre Ier, titre V, du Code de commerce, à l'article 26 de l'arrêté royal nr. 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs et aux articles 1er, 15 et 22 de la loi du 10 juin 1964 sur les appels publics à l'épargne, est, selon l'article 1er de l'arrêté royal du 12 novembre 1969, établi lorsque, notamment, la sollicitation pour compte propre ou pour compte d'autrui s'adresse à plus de cinquante personnes; il n'y a pas lieu de distinguer selon que les personnes sollicitées sont ou ne sont pas des associés de l'entreprise sollicitant l'épargne, cette distinction ne figurant pas dans ledit arrêté."
+      ],
+      "abstractNL": [
+        "De publieke aard van de verrichting van het aantrekken van spaargelden, bedoeld in art. 108, boek 1, titel V, Kh., in art. 26 K.B. nr. 185 van 9 juli 1935 op de bankcontrole en het uitgifteregime voor titels en effecten, en in de artt. 1, 15 en 22 wet 10 juni 1964 op het openbaar aantrekken van spaargelden, staat vast, volgens art. 1, K.B. 12 nov. 1969, zodra, met name, voor eigen rekening of voor rekening van een derde meer dan vijftig personen werden aangesproken; er behoeft geen onderscheid te worden gemaakt naar- gelang de aangesproken personen al dan niet vennoten zijn van de onderneming die de spaargelden aantrekt, aangezien dat onderscheid in genoemd K.B. niet wordt gemaakt."
+      ]
+    }
+  },
+  "42": {
+    "ECLI:BE:CASS:1989:ARR.19891121.16": {
+      "court": "CASS",
+      "date": "1989-11-21",
+      "roleNumber": "1368",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/21/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction de faire usage des termes \"banque\" ou \"banquier\" dans la dénomination sociale s'applique non seulement aux entreprises qui effectuent les opérations visées à l'article 1er, alinéa 1er, de l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques mais aussi sans distinction à toutes les entreprises qui ne sont pas portées sur la liste dressée tous les ans par la Commission bancaire, à l'exception des entreprises qui n'effectuent pas d'opérations bancaires, dans la mesure où l'usage des termes en question ne peut faire naître une confusion quant à la nature des opérations de ces entreprises."
+      ],
+      "abstractNL": [
+        "Het verbod de termen \"bank\" of \"bankier\" te gebruiken in de maatschappelijke benaming geldt niet enkel voor de ondernemingen die verrichtingen doen als bedoeld in art. 1, eerste lid, van het Bankbesluit, maar ook zonder onderscheid voor alle ondernemingen die niet ingeschreven zijn op de jaarlijks door de Bankcommissie opgemaakte lijst, behoudens voor de ondernemingen die geen bankverrichtingen doen, voor zover het gebruik van de bewoordingen in kwestie geen verwarring kan doen ontstaan omtrent de aard van de verrichtingen van die ondernemingen."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1983:ARR.19830329.7": {
       "court": "CASS",
@@ -12,6 +44,20 @@
       ],
       "abstractNL": [
         "Gaan over tot de openbare uitgifte van effecten, de leden van het bestuursorgaan van een samenwerkende vennootschap, die bij hun coöperateurs, die meer dan 50 personen bedragen, zelf kasbons van de vennootschap plaatsen. Deze verrichting moet vermoed worden openbaar te zijn, gelet op art. 1, lid 1, 4° K.B. 12 november 1969, daar geen onderscheid moet worden gemaakt naargelang de gesolliciteerde personen al dan niet vennoten zijn van de emittente. Bij gebrek aan voorafgaande kennisgeving aan de Bankcommissie is deze openbare uitgifte ongeoorloofd (art. 26 en 42 K.B. nr 185 van 9 juli 1935)."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830329.5": {
+      "court": "CASS",
+      "date": "1983-03-29",
+      "roleNumber": "7659",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le caractère public des opérations de sollicitation de l'épargne, visées à l'article 108, livre Ier, titre V, du Code de commerce, à l'article 26 de l'arrêté royal nr. 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs et aux articles 1er, 15 et 22 de la loi du 10 juin 1964 sur les appels publics à l'épargne, est, selon l'article 1er de l'arrêté royal du 12 novembre 1969, établi lorsque, notamment, la sollicitation pour compte propre ou pour compte d'autrui s'adresse à plus de cinquante personnes; il n'y a pas lieu de distinguer selon que les personnes sollicitées sont ou ne sont pas des associés de l'entreprise sollicitant l'épargne, cette distinction ne figurant pas dans ledit arrêté."
+      ],
+      "abstractNL": [
+        "De publieke aard van de verrichting van het aantrekken van spaargelden, bedoeld in art. 108, boek 1, titel V, Kh., in art. 26 K.B. nr. 185 van 9 juli 1935 op de bankcontrole en het uitgifteregime voor titels en effecten, en in de artt. 1, 15 en 22 wet 10 juni 1964 op het openbaar aantrekken van spaargelden, staat vast, volgens art. 1, K.B. 12 nov. 1969, zodra, met name, voor eigen rekening of voor rekening van een derde meer dan vijftig personen werden aangesproken; er behoeft geen onderscheid te worden gemaakt naar- gelang de aangesproken personen al dan niet vennoten zijn van de onderneming die de spaargelden aantrekt, aangezien dat onderscheid in genoemd K.B. niet wordt gemaakt."
       ]
     }
   }

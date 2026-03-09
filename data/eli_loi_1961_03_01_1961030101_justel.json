@@ -1,4 +1,98 @@
 {
+  "3": {
+    "ECLI:BE:CASS:1985:ARR.19851008.3": {
+      "court": "CASS",
+      "date": "1985-10-08",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un chèque sans provision a été émis à titre de remboursement d'un emprunt, la partie civile ne peut, sur le fondement de l'infraction d'émission de chèque sans provision, réclamer le montant de l'emprunt qu'à la condition que, sans l'émission du chèque, l'emprunt ne se serait pas réalisé ( Loi du 17 avril 1878, art. 3 )."
+      ],
+      "abstractNL": [
+        "Wanneer een cheque zonder dekking is uitgegeven tot terugbetaling van een lening, kan de burgerlijke partij, op grond van het misdrijf \"uitgifte van een cheque zonder dekking\", het bedrag van de lening slechts vorderen als de lening zonder de uitgifte van de cheque niet zou zijn tot stand gekomen ( Art. 3 Chequewet )."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:2004:ARR.20040422.7": {
+      "court": "CASS",
+      "date": "2004-04-22",
+      "roleNumber": "C020427N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le chèque au porteur tiré sur le tireur lui-même n'est pas valable; il ne peut y être remédié par des éléments étrangers au chèque lui-même (1). (1) Voir l'exposé des motifs du projet de loi concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur, Doc. Parl. Chambre, 1932-1933, n° 116, 10-11, et Sénat, 1949-1950, n° 38, 8-9; voir aussi: VAN RYN, J. & HEENEN, J., Principes de droit commercial, T.III, Bruylant, Bruxelles, 1981, 392, n° 519 et 395-396, n° 522; SIMONT, L., De abstracte verbintenissen van de bankier naar Belgisch recht, T.P.R., 1985, 699; BUCKINX, H., Commentaar bij art. 6 Chequewet, dans: Handels en economisch recht. Commentaar met overzicht van rechtspraak en rechtsleer, Kluwer, Anvers, 1999, 21-22, n° 5-7."
+      ],
+      "abstractNL": [
+        "De cheque aan toonder door de trekker op zichzelf getrokken is geen geldige cheque; daaraan kan niet worden verholpen door gegevens buiten de cheque zelf (1). (1) Zie: de Memorie van Toelichting bij het wetsontwerp betreffende de invoering in de nationale wetgeving van de eenvormige wet op de cheque en het van kracht worden van deze wet, Gedr. St., Kamer, 1932-1933, nr 116, 10-11 en Senaat, 1949-1950, nr 38, 8-9; zie ook: VAN RYN, J. & HEENEN, J., Principes de droit commercial, T. III, Bruylant, Brussel, 1981, 392, nr 519 en 395-396, nr 522; SIMONT, L., De abstracte verbintenissen van de bankier naar Belgisch recht, T.P.R., 1985, 699; BUCKINX, H., Commentaar bij art. 6 Chequewet, in: Handels- en economisch recht. Commentaar met overzicht van rechtspraak en rechtsleer, Kluwer, Antwerpen, 1999, 21-22, nrs 5-7."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1981:ARR.19810507.11": {
+      "court": "CASS",
+      "date": "1981-05-07",
+      "roleNumber": "3201",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/07/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le détenteur d'un chèque endossable, fût-ce un chèque au porteur, encaisse ce chèque dans un établissement bancaire autre que l'établissement de la même banque sur lequel le chèque a été tiré, il est censé, à défaut d'éléments contraires, devenir endosseur par sa seule signature au verso du chèque et, dès lors, sauf clause contraire, être garant du payement de ce chèque; dans ce cas la signature ne peut être considérée comme simple quittance. ( Loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur, art. 15, dernier alinéa. )"
+      ],
+      "abstractNL": [
+        "Wanneer de houder van een voor endossement vatbare cheque, ook van een cheque aan toonder, die cheque te gelde maakt in een ander bankkantoor dan het kantoor van dezelfde bank waarop de cheque is getrokken, wordt hij, behoudens daarmee strijdige gegevens, door zijn enkele handtekening op de rugzijde van de cheque, geacht endossant te worden en, bij afwezigheid van een andersluidend beding, voor de betaling van die cheque in te staan; in dat geval kan die handtekening niet als een kwijting worden beschouwd. (Art. 15, laatste lid, eenvormige wet op de cheque 1 maart 1961.)"
+      ]
+    }
+  },
+  "29": {
+    "ECLI:BE:CASS:1982:ARR.19820923.5": {
+      "court": "CASS",
+      "date": "1982-09-23",
+      "roleNumber": "6654",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le débiteur entend payer sa dette par un chèque, ce n'est pas la remise de ce titre au banquier du créancier qui éteint sa dette, mais la mise à la disposition de ce dernier du montant de sa créance."
+      ],
+      "abstractNL": [
+        "Indien de schuldenaar zijn schuld per cheque wenst te betalen, gaat de schuld niet teniet door het overhandigen van de cheque aan de bankier van de schuldeiser, maar door het ter beschikking stellen van de schuldeiser van het bedrag van zijn schuldvordering <1>."
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:1990:ARR.19900927.10": {
+      "court": "CASS",
+      "date": "1990-09-27",
+      "roleNumber": "8676",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/27/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 35, alinéa 2, de la loi du 1er mars 1961 concernant l'introduction dans la loi nationale de la loi uniforme sur le chèque et sa mise en vigueur, régit la responsabilité du propriétaire du carnet de chèques en tant que tireur, tandis que l'article 35bis de la même loi vise sa responsabilité en tant que gardien dudit carnet; aucune de ces deux dispositions, qui ne peuvent être dissociées, n'a trait à l'hypothèse d'un ordre portant une fausse signature émis sur une formule qui n'est pas extraite d'un carnet de chèques."
+      ],
+      "abstractNL": [
+        "Art. 35, 2e lid, Chequewet stelt de aansprakelijkheid vast van de eigenaar van het chequeboekje als trekker, terwijl art. 35bis van voornoemde wet betrekking heeft op zijn aansprakelijkheid als bewaarder van dat boekje; geen van die beide bepalingen, die niet van elkaar te scheiden zijn, heeft betrekking op het geval dat een order met een valse handtekening wordt uitgeschreven op een formulier dat niet uit een chequeboekje komt."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840315.9": {
+      "court": "CASS",
+      "date": "1984-03-15",
+      "roleNumber": "6902",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'endossement d'un chèque peut consister simplement dans la signature de l'endosseur au dos du chèque ou sur l'allonge. ( Loi du 1er mars 1961, art. 16, al. 2. )"
+      ],
+      "abstractNL": [
+        "Het endossement van een cheque kan bestaan uit de enkele handtekening van de endossant op de rugzijde van de cheque of op het verlengstuk. ( Chequewet, art. 16, tweede lid. )"
+      ]
+    }
+  },
   "38": {
     "ECLI:BE:CASS:2009:ARR.20090129.5": {
       "court": "CASS",
@@ -12,6 +106,22 @@
       ],
       "abstractNL": [
         "Het feit dat een cheque met algemene kruising door de betrokkene slechts kan worden betaald aan een bankier of aan een cliënt van de betrokkene belet niet dat de gekruiste cheque wordt overgedragen en door de geëndosseerde."
+      ]
+    }
+  },
+  "42": {
+    "ECLI:BE:CASS:1972:ARR.19720929.3": {
+      "court": "CASS",
+      "date": "1972-09-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le porteur d'un chèque, qui n'est pas payé lors de sa présentation au tiré, doit faire constater le refus de payement par acte authentique ou par une déclaration en tenant lieu, avant l'expiration du délai de présentation de huit jours, et en donner avis à son endosseur ou au tireur dans les quatre jours ouvrables qui suivent le jour du protêt ou de la constatation équivalente, à moins qu'il ne soit dispensé de ces formalités et délais par l'endosseur ou le tireur. ( Loi du 1er mars 1961, art. 40, 41, 42 et 29. )"
+      ],
+      "abstractNL": [
+        "De houder van een cheque, die ten tijde van de aanbieding aan de betrokkene niet betaald is, moet de weigering van betaling door een authentieke akte of door een daarmee gelijkstaande verklaring doen vaststellen voor het einde van de aanbiedingstermijn van acht dagen en hiervan kennis geven aan zijn endossant of aan de trekker binnen de vier dagen volgende op de dag van het protest of de daarmee gelijkstaande vaststelling, tenzij de endossant of de trekker hem van deze formaliteiten en termijnen heeft vrijgesteld. ( Wet van 1 maart 1961, art. 40, 41, 42 en 29. )"
       ]
     }
   },
@@ -42,6 +152,218 @@
       ],
       "abstractNL": [
         "Het misdrijf van de uitgifte van cheque zonder dekking is voltrokken vanaf het ogenblik dat de cheque aan de rechthebbende is overhandigd of in omloop is gebracht, ook al is hij niet gedateerd en al wordt hij niet of pas later ter betaling aangeboden (1)(2). (1) Zie: Cass., 5 mei 1982, A.C., 1981-1982, nr. 523. (2) Zie: Cass., 15 maart 1988, AR 1678, A.C., 1987-1988, nr 441."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990113.10": {
+      "court": "CASS",
+      "date": "1999-01-13",
+      "roleNumber": "P980653F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/01/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision de condamner un prévenu du chef d'émission de chèque sans provision le juge qui déduit des éléments de fait qu'il énonce que le prévenu n'a pu ignorer que le chèque n'était pas provisionné au moment de l'émission."
+      ],
+      "abstractNL": [
+        "De rechter die uit de door hem opgesomde feiten afleidt dat een beklaagde hoorde te weten dat de cheque op het ogenblik van de uitgifte ervan niet gedekt was, verantwoordt naar recht zijn beslissing om de beklaagde te veroordelen wegens uitgifte van ongedekte cheques."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940330.7": {
+      "court": "CASS",
+      "date": "1994-03-30",
+      "roleNumber": "P931623F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue à l'article 61, 1°, de la loi du 1er mars 1961 est consommée au moment de l'émission du Chèque; un chèque est émis, au sens de cette disposition, lorsqu'il est mis en circulation ou remis au bénéficiaire, même s'il n'est pas offert en payement ou ne l'est qu'ultérieurement."
+      ],
+      "abstractNL": [
+        "Het bij art. 61, 1°, Chequewet bepaalde misdrijf is voltrokken op het tijdstip dat de cheque uitgegeven wordt; een cheque is uitgegeven in de zin van die bepaling, op het tijdstip dat hij in omloop is gebracht, of aan de nemer is overhandigd, ook al wordt hij niet of pas later ter betaling aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880315.15": {
+      "court": "CASS",
+      "date": "1988-03-15",
+      "roleNumber": "1678",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/15/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue à l'article 61, 1°, de la loi sur le chèque est consommée au moment de l'émission du chèque, c'est-à-dire au moment où il est remis au bénéficiaire ou mis en circulation, même s'il n'est pas ou n'est qu'ultérieurement présenté en payement."
+      ],
+      "abstractNL": [
+        "Het bij art. 61, 1°, Chequewet bepaalde misdrijf is voltrokken op het tijdstip dat de cheque uitgegeven wordt, dit wil zeggen op het tijdstip dat hij aan de rechthebbende is overhandigd of in omloop is gebracht, ook al wordt hij niet of pas later ter betaling aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870122.14": {
+      "court": "CASS",
+      "date": "1987-01-22",
+      "roleNumber": "7553",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/22/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Viole le principe général du droit, dit principe dispositif, aux termes duquel les parties au procès déterminent les limites du litige, ainsi que le principe général du droit imposant le respect des droits de la défense, le juge qui décide que le tiré, qui accepte de payer, au-delà de la provision disponible, un chèque dont il ignore le vol et la falsification, commet une faute lourde en se rendant complice du délit d'émission de chèque sans provision, alors que pareille faute lourde n'a pas été invoquée par les parties et que le tiré n'a, dès lors, pu se défendre contre l'allégation d'une telle faute."
+      ],
+      "abstractNL": [
+        "Het algemeen rechtsbeginsel van de autonomie der procespartijen, volgens hetwelk die partijen de grenzen van het geschil bepalen, en het algemeen beginsel van het recht van verdediging worden geschonden door de rechter die beslist dat de betrokkene, die aanvaardt een cheque, waarvan hij niet weet dat hij gestolen en vervalst is, boven de beschikbare dekking uit te betalen, grove schuld moet worden toegerekend omdat hij medeplichtig is aan het wanbedrijf uitgifte van een ongedekte cheque, terwijl de partijen zodanige grove schuld niet hebben aangevoerd en de betrokkene derhalve geen verweer heeft kunnen voeren tegen de aantijging daarvan."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820505.8": {
+      "court": "CASS",
+      "date": "1982-05-05",
+      "roleNumber": "2156",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Si, en l'absence d'une mention requise par la loi, un chèque cesse de valoir commercialement en tant que chèque, l'émission sans provision préalable, suffisante et disponible d'un chéque non daté n'indiquant pas le lieu de sa création tombe néanmoins sous l'application de l'article 61 de la loi du 1er mars 1961, dès lors que le titre émis doit être considéré comme un chèque dans l'acceptation commune et a effectivement été émis. (Loi du 1er mars 1961, articles 1er, 2 et 61.)"
+      ],
+      "abstractNL": [
+        "Ook al is een cheque, wegens het ontbreken van een bij de wet vereiste vermelding, niet meer geldig als handelspapier, toch valt de uitgifte, zonder voorafgaand, toereikend en beschikbaar fonds van een cheque zonder dagtekening of vermelding van de plaats waar hij getrokken is, onder art. 61 Chequewet 1 maart 1961, daar het uitgegeven waardepapier is aan te merken als een cheque, in de gewone betekenis van het woord en werkelijk is uitgegeven <1>. (Artt. 1, 2 en 61 Chequewet 1 maart 1961.)"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780405.6": {
+      "court": "CASS",
+      "date": "1978-04-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/04/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Motive légalement la condamnation du chef de cession d'un chèque sans provision préalable et disponible le juge qui constate que le prévenu a effectivement cédé un chèque qu'il savait non provisionné, d'autant plus qu'il avait connaissance de l'absence de provision au moment où le chèque fut tracé. (Loi du 1er mars 1961, art. 61, 2°)"
+      ],
+      "abstractNL": [
+        "Wettig gemotiveerd is de veroordeling wegens overdracht van een cheque zonder voorafgaand en beschikbaar fonds, wanneer de rechter vaststelt dat de beklaagde werkelijk een cheque heeft overgedragen waarvan hij wist dat hij niet gedekt was, te meer daar hij op het ogenblik dat die cheque uitgeschreven werd kennis had van het gemis aan fonds. ( Art. 61, 2°, wet van 1 maart 1961. )"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770124.7": {
+      "court": "CASS",
+      "date": "1977-01-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/01/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il y a émission d'un chèque, au sens de l'article 61 de la loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque, lorsque le chèque est mis en circulation ou remis au bénéficiaire. (1)."
+      ],
+      "abstractNL": [
+        "Een cheque is uitgegeven, in de zin van artikel 61 van de wet van 1 maart 1961 betreffende de invoering in de nationale wetgeving van de eenvormige wet op de cheque, wanneer de cheque in omloop gebracht of aan de rechthebbende overhandigd is (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760119.5": {
+      "court": "CASS",
+      "date": "1976-01-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Si en l'absence d'une mention requise par la loi un chèque cesse de valoir commercialement en tant que chèque, l'émission sans provision préalable, suffisante et disponible d'un chèque non daté n'indiquant pas le lieu de sa création tombe néanmoins sous l'application de l'article 61 de la loi du 1er mars 1961, dès lors que le titre émis doit être considéré comme un chèque dans l'acception commune et a été effectivement émis (1). (Loi du 1er mars 1961, art. 1er, 2 et 61.)"
+      ],
+      "abstractNL": [
+        "Hoewel bij gebrek aan een door de wet vereiste vermelding een cheque burgerrechtelijk niet meer als een cheque geldig is, valt de uitgifte zonder voorafgaand, toereikend en beschikbaar fonds van een cheque zonder datum of zonder vermelding van de plaats van uitgifte niettemin onder de toepassing van artikel 61 van de wet van 1 maart 1961, omdat het uitgegeven waardepapier moet worden beschouwd als een cheque in de gewone betekenis van het woord en werkelijk werd uitgegeven (1). ( Artt. 1, 2 en 61 wet van 1 maart 1961. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721218.9": {
+      "court": "CASS",
+      "date": "1972-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/18/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Il y a émission d'un chèque, au sens de l'article 61 de la loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur, lorsque le chèque est mis en circulation ou remis au bénéficiaire."
+      ],
+      "abstractNL": [
+        "Een cheque is uitgegeven, in de zin van artikel 61 van de wet van 1 maart 1961 betreffende de invoering in de nationale wetgeving van de eenvormige wet op de cheque en de inwerkingtreding van deze wet, wanneer de cheque in omloop is gebracht of aan de begunstigde wordt overhandigd."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19681112.4": {
+      "court": "CASS",
+      "date": "1968-11-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/11/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate qu'un chèque a été tracé, signé et remis à un tiers, au lieu où il était payable, en déduit légalement que ce chèque a été émis en ce lieu, au sens de l'article 61 de la loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur."
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat een check geschreven, getekend en aan een derde ter hand werd gesteld op de plaats waar hij betaalbaar was, leidt wettelijk eruit af dat deze check op deze plaats is uitgegeven, in de zin van artikel 61 van de wet van 1 maart 1961, betreffende de invoering in de nationale wetgeving van de eenvormige wet op de check en de inwerkingtreding van deze wet."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940330.7": {
+      "court": "CASS",
+      "date": "1994-03-30",
+      "roleNumber": "P931623F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue à l'article 61, 1°, de la loi du 1er mars 1961 est consommée au moment de l'émission du Chèque; un chèque est émis, au sens de cette disposition, lorsqu'il est mis en circulation ou remis au bénéficiaire, même s'il n'est pas offert en payement ou ne l'est qu'ultérieurement."
+      ],
+      "abstractNL": [
+        "Het bij art. 61, 1°, Chequewet bepaalde misdrijf is voltrokken op het tijdstip dat de cheque uitgegeven wordt; een cheque is uitgegeven in de zin van die bepaling, op het tijdstip dat hij in omloop is gebracht, of aan de nemer is overhandigd, ook al wordt hij niet of pas later ter betaling aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880315.15": {
+      "court": "CASS",
+      "date": "1988-03-15",
+      "roleNumber": "1678",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/15/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue à l'article 61, 1°, de la loi sur le chèque est consommée au moment de l'émission du chèque, c'est-à-dire au moment où il est remis au bénéficiaire ou mis en circulation, même s'il n'est pas ou n'est qu'ultérieurement présenté en payement."
+      ],
+      "abstractNL": [
+        "Het bij art. 61, 1°, Chequewet bepaalde misdrijf is voltrokken op het tijdstip dat de cheque uitgegeven wordt, dit wil zeggen op het tijdstip dat hij aan de rechthebbende is overhandigd of in omloop is gebracht, ook al wordt hij niet of pas later ter betaling aangeboden."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870122.14": {
+      "court": "CASS",
+      "date": "1987-01-22",
+      "roleNumber": "7553",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/22/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Viole le principe général du droit, dit principe dispositif, aux termes duquel les parties au procès déterminent les limites du litige, ainsi que le principe général du droit imposant le respect des droits de la défense, le juge qui décide que le tiré, qui accepte de payer, au-delà de la provision disponible, un chèque dont il ignore le vol et la falsification, commet une faute lourde en se rendant complice du délit d'émission de chèque sans provision, alors que pareille faute lourde n'a pas été invoquée par les parties et que le tiré n'a, dès lors, pu se défendre contre l'allégation d'une telle faute."
+      ],
+      "abstractNL": [
+        "Het algemeen rechtsbeginsel van de autonomie der procespartijen, volgens hetwelk die partijen de grenzen van het geschil bepalen, en het algemeen beginsel van het recht van verdediging worden geschonden door de rechter die beslist dat de betrokkene, die aanvaardt een cheque, waarvan hij niet weet dat hij gestolen en vervalst is, boven de beschikbare dekking uit te betalen, grove schuld moet worden toegerekend omdat hij medeplichtig is aan het wanbedrijf uitgifte van een ongedekte cheque, terwijl de partijen zodanige grove schuld niet hebben aangevoerd en de betrokkene derhalve geen verweer heeft kunnen voeren tegen de aantijging daarvan."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851008.3": {
+      "court": "CASS",
+      "date": "1985-10-08",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un chèque sans provision a été émis à titre de remboursement d'un emprunt, la partie civile ne peut, sur le fondement de l'infraction d'émission de chèque sans provision, réclamer le montant de l'emprunt qu'à la condition que, sans l'émission du chèque, l'emprunt ne se serait pas réalisé ( Loi du 17 avril 1878, art. 3 )."
+      ],
+      "abstractNL": [
+        "Wanneer een cheque zonder dekking is uitgegeven tot terugbetaling van een lening, kan de burgerlijke partij, op grond van het misdrijf \"uitgifte van een cheque zonder dekking\", het bedrag van de lening slechts vorderen als de lening zonder de uitgifte van de cheque niet zou zijn tot stand gekomen ( Art. 3 Chequewet )."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810507.11": {
+      "court": "CASS",
+      "date": "1981-05-07",
+      "roleNumber": "3201",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/07/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le détenteur d'un chèque endossable, fût-ce un chèque au porteur, encaisse ce chèque dans un établissement bancaire autre que l'établissement de la même banque sur lequel le chèque a été tiré, il est censé, à défaut d'éléments contraires, devenir endosseur par sa seule signature au verso du chèque et, dès lors, sauf clause contraire, être garant du payement de ce chèque; dans ce cas la signature ne peut être considérée comme simple quittance. ( Loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur, art. 15, dernier alinéa. )"
+      ],
+      "abstractNL": [
+        "Wanneer de houder van een voor endossement vatbare cheque, ook van een cheque aan toonder, die cheque te gelde maakt in een ander bankkantoor dan het kantoor van dezelfde bank waarop de cheque is getrokken, wordt hij, behoudens daarmee strijdige gegevens, door zijn enkele handtekening op de rugzijde van de cheque, geacht endossant te worden en, bij afwezigheid van een andersluidend beding, voor de betaling van die cheque in te staan; in dat geval kan die handtekening niet als een kwijting worden beschouwd. (Art. 15, laatste lid, eenvormige wet op de cheque 1 maart 1961.)"
       ]
     }
   }

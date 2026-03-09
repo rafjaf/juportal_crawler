@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2011:ARR.20110211.4": {
+      "court": "CASS",
+      "date": "2011-02-11",
+      "roleNumber": "F.10.0002.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/02/11/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La loi du 12 novembre 1997 relative à la publicité de l'administration dans les provinces et les communes n'est pas applicable à la procédure de réclamation en matière de taxe communale."
+      ],
+      "abstractNL": [
+        "De wet van 12 november 1997 betreffende de openbaarheid van bestuur in de provincies en gemeenten is niet van toepassing op de bezwaarprocedure inzake gemeentebelastingen."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2026:ARR.20260102.1F.1": {
       "court": "CASS",
@@ -11,6 +27,36 @@
         "L'article 3, 4°, de la loi du 12 novembre 1997 n'impose pas que l'avertissement-extrait de rôle relatif à une taxe communale mentionne les règles de computation des délais prévues aux articles 53 et 54 du Code judiciaire (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2010:ARR.20100510.3": {
+      "court": "CASS",
+      "date": "2010-05-10",
+      "roleNumber": "S.08.0140.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Tout document par lequel une décision ou un acte administratif à portée individuelle émanant d'une autorité administrative provinciale est notifié à un administré, indique les voies éventuelles de recours, les instances compétentes pour en connaître ainsi que les formes et délais à respecter, faute de quoi le délai de prescription pour introduire le recours ne prend pas cours; nonobstant les termes utilisés dans cette disposition, l'absence d'indication des délais de voies éventuelles de recours n'a pas pour effet d'empêcher la prise de cours du délai de prescription de l'action en paiement des indemnités (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Elk document waarmee een beslissing of een administratieve handeling met individuele strekking uitgaande van een provinciale administratieve overheid ter kennis wordt gebracht van een bestuurde, vermeldt de eventuele beroepsmogelijkheden, de instanties bij wie het beroep moet worden ingesteld en de geldende vormen en termijnen, bij ontstentenis waarvan de verjaringstermijn voor het indienen van het beroep geen aanvang neemt; ondanks de in die bepaling gebruikte bewoordingen, heeft de niet-vermelding van de mogelijke beroepsmogelijkheden niet tot gevolg dat de verjaringstermijn van de vordering tot betaling van de vergoedingen niet ingaat (1). (1) Zie concl. O.M. in Pas., 2010, nr. ..."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010510.7": {
+      "court": "CASS",
+      "date": "2001-05-10",
+      "roleNumber": "F000018N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 12 novembre 1997 n'est pas applicable aux litiges en matière de taxes communales sur lesquels la députation permanente a statué en tant qu'organe juridictionnel."
+      ],
+      "abstractNL": [
+        "De wet van 12 november 1997 vindt geen toepassing in geschillen inzake gemeentebelastingen waarin de bestendige deputatie als rechtsprekend orgaan uitspraak doet."
+      ]
     }
   }
 }

@@ -1,4 +1,52 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2008:ARR.20081212.13": {
+      "court": "CASS",
+      "date": "2008-12-12",
+      "roleNumber": "C.07.0365.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la combinaison des articles 1er et 271 de la Loi maritime que le champ d'application de cette loi est limité aux bâtiments destinés à faire habituellement une quelconque opération lucrative de navigation; l'article 270 de la Loi maritime, qui concerne les actions en réparation de dommages causés par un abordage, doit ainsi être interprété en ce sens qu'il concerne les abordages entre navires, comme prévu par ces articles (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1 en 271 van de Zeewet samen gelezen blijkt dat het toepassingsgebied van die wet wordt beperkt tot vaartuigen,gewoonlijk gebruikt voor enige winstgevende scheepvaartverrichting; aldus dient artikel 270 van de Zeewet,dat betrekking heeft op rechtsvorderingen tot vergoeding van schade door aanvaringen,in die zin uitgelegd te worden dat het betrekking heeft op aanvaringen tussen schepen,zoals bepaald in die artikelen (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1979:ARR.19790307.12": {
+      "court": "CASS",
+      "date": "1979-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/07/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas, au sens de l'article 23, par. 1er, 4, du livre II du Code de commerce, une somme représentative d'une indemnité due pour abordage et bénéficiant, aux termes de cette disposition légale, d'un privilège sur le navire ( bateau ), le fret et les accessoires, le montant des frais qu'une autorité publique a dû exposer pour, en exécution d'une obligation légale, relever l'épave d'un bâtiment coulé."
+      ],
+      "abstractNL": [
+        "Geen vergoeding ter zake van aanvaring, in de zin van art. 23, alinéa 1, 4 o, Boek II Kh., waarvoor die wettelijke bepaling een voorrecht verleent op het schip, op de vracht en op het toebehoren, zijn de kosten die een openbare overheid heeft moeten maken om, ter uitvoering van een wettelijke verplichting, het wrak van een gezonken schip te lichten."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:1971:ARR.19710205.3": {
+      "court": "CASS",
+      "date": "1971-02-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les engagements commerciaux peuvent être prouvés par toutes voies de droit, et notamment par présomption. (Code de commerce, art. 25.)"
+      ],
+      "abstractNL": [
+        "De handelsverbintenissen kunnen door alle bewijsmiddelen worden bewezen en met name door vermoedens. (Wetb. van koophandel, art. 25.)"
+      ]
+    }
+  },
   "46": {
     "ECLI:BE:CASS:2007:ARR.20070921.2": {
       "court": "CASS",
@@ -12,6 +60,48 @@
       ],
       "abstractNL": [
         "De loods die, krachtens artikel 5, eerste lid, van de wet van 3 november 1967, optreedt als de raadgever van de kapitein, die, naar luid van dezelfde bepaling, alleen meester is over de leiding en de manoeuvres van het vaartuig, staat niet onder diens gezag en toezicht (1). (1) Artt. 3 en 5, W. 3 nov. 1967, vóór de wijziging ervan bij W. 20 aug. 1988; zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011220.8": {
+      "court": "CASS",
+      "date": "2001-12-20",
+      "roleNumber": "C980032N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le capitaine exerce l'autorité et la surveillance sur le pilote, même si le propriétaire du bateau reste civilement responsable des actes de celui-ci (1) (2)."
+      ],
+      "abstractNL": [
+        "De kapitein heeft gezag en toezicht over de loods, al blijft de scheepseigenaar burgerlijk aansprakelijk voor diens handelingen (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790321.11": {
+      "court": "CASS",
+      "date": "1979-03-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 46, par. II, du livre II du Code de commerce ne permet pas au propriétaire d'un navire de limiter sa responsabilité à concurrence de la valeur du navire, du fret et des accessoires du navire, lorsque le dommage a été causé par un vice affectant le navire"
+      ],
+      "abstractNL": [
+        "Ingevolge art. 46, alinéa II, boek II Kh. mag de eigenaar van een schip zijn aansprakelijkheid niet beperken tot het beloop van de waarde van het schip, van de vracht en van het toebehoren van het schip, indien de schade is veroorzaakt door een gebrek van het schip <2> <3>."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680621.3": {
+      "court": "CASS",
+      "date": "1968-06-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/06/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le propriétaire du navire, qui se prévaut des dispositions de l'article 46, alinéa II, du titre II du livre II du Code de commerce, en raison d'une faute nautique, a la charge de la preuve de cette faute."
+      ],
+      "abstractNL": [
+        "Wanneer de eigenaar van een schip zich beroept op bepalingen van artikel 46, alinéa II, van boek II, titel II, van het Wetboek van koophandel wegens een nautische fout, rust de bewijslast op hem."
       ]
     }
   },
@@ -29,6 +119,34 @@
       ],
       "abstractNL": [
         "Onder vaartuig moet worden verstaan elk tuig dat drijft en, met of zonder eigen beweegkracht, vatbaar is voor verplaatsing over het water, ook al gebeurt dit slechts sporadisch, op voorwaarde dat het niet duurzaam met het land of de bodem verbonden is."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981126.10": {
+      "court": "CASS",
+      "date": "1998-11-26",
+      "roleNumber": "C950219N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, § II, 4°, et 47, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration, c'est-à-dire celles qui sont étroitement liées à la gestion technique du navire; ces fautes sont distinctes de celles que le capitaine-propriétaire commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, § II, 4°, en 47 van boek II Wkh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. deze die in het sturen van het schip worden begaan, als de in het beheren van het schip begane fouten, d.w.z. deze die nauw verbonden zijn met het technische beheer van het schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850321.13": {
+      "court": "CASS",
+      "date": "1985-03-21",
+      "roleNumber": "4572",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, alinéa II, 4°, et 47, alinéa Ier, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration , c'est-à-dire celles qui sont étroitement liées à la gestion technique de ce navire; elles sont distinctes de celles que le capitaine, propriétaire du navire, commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, alinéa II, 4°, en 47 van boek II Kh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. die welke bij het besturen van het schip worden begaan, als de bij het beheren van het schip begane fouten, d.w.z. die welke nauw verbonden zijn met het technische beheer van dat schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
       ]
     }
   },
@@ -49,6 +167,22 @@
       ]
     }
   },
+  "53": {
+    "ECLI:BE:CASS:2001:ARR.20010330.5": {
+      "court": "CASS",
+      "date": "2001-03-30",
+      "roleNumber": "C970330N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'au lieu de remettre au liquidateur à l'abandon de la valeur du navire la valeur à laquelle il entend limiter sa responsabilité, augmentée des intérêts légaux, depuis le jour de l'événement jusqu'au jour du versement fait au liquidateur, le propriétaire du navire y substitue un cautionnement de banque conformément à l'article 53, §V, de la loi (ancienne) du 25 septembre 1908 sur la navigation maritime et la navigation intérieure, les intérêts continuent à courir jusqu'au jour du versement de la somme au liquidateur."
+      ],
+      "abstractNL": [
+        "Wanneer de eigenaar van het schip, in plaats van aan de vereffenaar van het afgestane scheepsvermogen de waarde te overhandigen tot dewelke hij zijn aansprakelijkheid wenst te beperken, vermeerderd met de wettelijke interest sedert de dag van het voorval tot de dag van storting in handen van de vereffenaar, bij de bank, overeenkomstig art. 53, § V, Zeewet (oud), een zekerheid verstrekt heeft, loop de interest door tot op de dag van de storting van het bedrag in handen van de vereffenaar."
+      ]
+    }
+  },
   "58": {
     "ECLI:BE:CASS:2007:ARR.20070921.2": {
       "court": "CASS",
@@ -62,6 +196,22 @@
       ],
       "abstractNL": [
         "De loods die, krachtens artikel 5, eerste lid, van de wet van 3 november 1967, optreedt als de raadgever van de kapitein, die, naar luid van dezelfde bepaling, alleen meester is over de leiding en de manoeuvres van het vaartuig, staat niet onder diens gezag en toezicht (1). (1) Artt. 3 en 5, W. 3 nov. 1967, vóór de wijziging ervan bij W. 20 aug. 1988; zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    }
+  },
+  "59": {
+    "ECLI:BE:CASS:1977:ARR.19770930.1": {
+      "court": "CASS",
+      "date": "1977-09-30",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le propriétaire d'un navire est responsable des engagements qui résultent du connaissement, même si ce connaissement a été émis par l'affréteur à temps ou l'agent maritime de celui-ci (1). ( Lois coordonnées sur la navigation maritime, art. 46, par. 1er, et 59.)"
+      ],
+      "abstractNL": [
+        "De eigenaar van het schip is aansprakelijk voor de uit het cognossement voortvloeiende verbintenissen, zelfs indien het cognossement door de tijdbevrachter of diens scheepsagent is uitgegeven (1). ( Artt. 46, 1 en 59 Gecoord. Zeevaartwetten. )"
       ]
     }
   },
@@ -97,6 +247,22 @@
       ]
     }
   },
+  "68": {
+    "ECLI:BE:CASS:1983:ARR.19830520.10": {
+      "court": "CASS",
+      "date": "1983-05-20",
+      "roleNumber": "3756;3757",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 23, par. 1er, 5, de la loi sur la navigation maritime, sont seules privilégiées sur le navire, sur le fret du voyage pendant lequel est née la créance privilégiée et sur les accessoires du navire et du fret acquis depuis le début du voyage, les créances provenant des contrats passés ou d'opérations effectuées par le capitaine hors du port d'attache, en vertu de ses pouvoirs légaux, pour les besoins réels de la conservation du navire ou de la continuation du voyage; pour apprécier si le capitaine a agi dans les limites de ses pouvoirs légaux, il faut tenir compte de la disposition légale suivant laquelle, lorsque les propriétaires ou leurs fondés de pouvoirs sont sur les lieux, le capitaine ne peut, sans leur autorisation spéciale, faire travailler au radoub du bâtiment, acheter des voiles, cordages et autres choses pour le bâtiment, ni fréter le navire. ( Article 68 de la loi sur la navigation maritime. )"
+      ],
+      "abstractNL": [
+        "Overeenkomstig art. 23, alinéa 1, 5°, Zeewet, zijn alleen bevoorrecht op het schip, op de vracht verdiend gedurende de reis tijdens welke de bevoorrechte schuldvordering is ontstaan, en op het toebehoren van het schip en van de vracht, sedert de aanvang van de reis ontstaan, de schuldvorderingen voortspruitende uit overeenkomsten of handelingen, door de kapitein krachtens zijn wettelijke bevoegdheden buiten de thuishaven gesloten of verricht en noodzakelijk tot het behoud van het schip of tot de voortzetting van de reis; bij het beoordelen of de kapitein binnen zijn wettelijke bevoegdheid heeft gehandeld, dient rekening gehouden te worden met het voorschrift dat, wanneer de eigenaars of hun gevolmachtigden zich ter plaatse bevinden, de kapitein, zonder hun bijzondere toestemming, het schip niet laten herstellen, geen zeilen, touwen en andere voorwerpen voor het schip mag aankopen of het schip vervrachten. ( Art. 68 Zeewet. )"
+      ]
+    }
+  },
   "89": {
     "ECLI:BE:CASS:2008:ARR.20081128.4": {
       "court": "CASS",
@@ -110,6 +276,48 @@
       ],
       "abstractNL": [
         "Enkel de derde-houder van het cognossement aan order die kan aantonen dat hij het cognossement door endossement of door een ononderbroken reeks van endossementen heeft verkregen, kan de daaruit voortvloeiende rechten uitoefenen en is derhalve vorderingsgerechtigd (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841026.3": {
+      "court": "CASS",
+      "date": "1984-10-26",
+      "roleNumber": "4198",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 89 de la loi sur la navigation maritime fait obstacle à ce que, lorsque le porteur du connaissement introduit une demande de dommages-intérêts en raison de manquants ou d'avarie contre le transporteur maritime, une même demande soit introduite par le vendeur ou par l'assureur qui, ayant payé le dommage, est subrogé à ses droits."
+      ],
+      "abstractNL": [
+        "Art. 89 Zeevaartwet staat eraan in de weg dat, wanneer de houder van het cognossement tegen de zeevervoerder een vordering tot vergoeding van tekort of averij instelt, tevens dezelfde vordering wordt ingesteld door de verkoper of door de verzekeraar die, door hem te vergoeden, in zijn rechten is getreden."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810514.10": {
+      "court": "CASS",
+      "date": "1981-05-14",
+      "roleNumber": "3012",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/14/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Si aux termes de l'article 89 du titre II, du livre II, du Code de commerce ( lois coordonnées sur la navigation maritime ) le porteur du connaissement a seul le droit de se faire délivrer le chargement par le capitaine, ce droit implique, en principe, le droit à l'indemnité en raison du manquement ou de l'avarie, la somme réclamée de ce chef n'étant que la contre-valeur de la marchandise que le capitaine est dans l'impossibilité de délivrer."
+      ],
+      "abstractNL": [
+        "Naar luid van art. 89 titel II, boek II, Kh. (gecoörd. wetten op de zeevaart) heeft de houder van het cognossement weliswaar uitsluitend recht op aflevering van de lading door de kapitein, maar dat recht impliceert, in beginsel, het recht op vergoeding wegens tekort of averij, nu het deswege gevorderde bedrag alleen maar de tegenwaarde is van de koopwaar die de kapitein onmogelijk kan afleveren <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690606.1": {
+      "court": "CASS",
+      "date": "1969-06-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/06/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le droit exclusif pour le porteur du connaissement de se faire délivrer le chargement par le capitaine implique, en principe, celui de se faire indemniser du manquant ou de l'avarie. (Lois coordonnées relatives à la navigation maritime et à la navigation intérieure, art. 89.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Het exclusief recht van de cognossementhouder om zich de lading door de kapitein te doen afleveren impliceert in beginsel het recht om zich te laten vergoeden voor het tekort of de averij. (Gecoordineerde wetten op de zee- en binnenvaart, art. 89). (Impliciete oplossing.)"
       ]
     }
   },
@@ -141,6 +349,298 @@
       "abstractNL": [
         "De regels van artikel 91 Zeewet zijn van dwingend recht en van toepassing ongeacht het op het cognossement toepasselijke recht (1). (1) Zie de concl. van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110107.8": {
+      "court": "CASS",
+      "date": "2011-01-07",
+      "roleNumber": "C.09.0611.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tiers porteur du connaissement ne peut être considéré comme l'ayant-cause du chargeur mais puise ses droits contre le transporteur maritime de manière indépendante et directe dans le connaissement (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "De derde-houder van het cognossement kan niet beschouwd worden als de rechtsopvolger van de inlader, maar ontleent zijn rechten tegen de zeevervoerder op zelfstandige en rechtstreekse wijze uit het cognossement (1). (1) Zie de conclusie van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110107.4": {
+      "court": "CASS",
+      "date": "2011-01-07",
+      "roleNumber": "C.09.0208.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas dérogé à la règle que le porteur du connaissement puise ses droits dans le connaissement par le contrôle de la personne qui a émis le connaissement (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Aan de regel dat de cognossementhouder zijn rechten uit het cognossement put, wordt geen afbreuk gedaan doordat wordt nagegaan wie het cognossement heeft uitgegeven (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060929.8": {
+      "court": "CASS",
+      "date": "2006-09-29",
+      "roleNumber": "C040518N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/09/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par moment de l'enlèvement au sens de l'article 91 de la loi du 21 août 1879 sur la navigation maritime et la navigation intérieure, le moment de l'enlèvement effectif des marchandises."
+      ],
+      "abstractNL": [
+        "Het tijdstip van de aflevering in de zin van artikel 91, Zeewet, dient te worden begrepen als het tijdstip van de feitelijke aflevering van de goederen."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20030131.18": {
+      "court": "CASS",
+      "date": "2003-01-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/01/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'examen de l'état apparent des marchandises incombant au transporteur maritime qui délivre le connaissement au chargeur doit être effectué avec l'attention ordinairement apportée par tout transporteur maritime normalement soigneux, compte tenu de la nature des marchandises, du mode de chargement et des exigences du transport maritime (1). (1) H. Boonk, Zeevervoer onder cognossement, Arnhem 1993, 84 à 86 ; J. Van den Heuvel, De vervoerovereenkomst, R.W., 1985-86, (2147), 2160."
+      ],
+      "abstractNL": [
+        "Het onderzoek van de uiterlijke staat van de goederen, waartoe de zeevervoerder gehouden is met het oog op het afleveren van een cognossement aan de inlader, dient te gebeuren op een wijze die van een normaal zorgvuldig zeevervoerder mag worden verwacht, rekening houdend met de aard van de goederen, de wijze van inlading en de eisen van de zeereis (1). (1) H. BOONK, Zeevervoer onder cognossement, Arnhem 1993, 84 tot 86; J. VAN DEN HEUVEL, De Vervoerovereenkomst, R.W., 1985-1986, (2147) 2160."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650312.2": {
+      "court": "CASS",
+      "date": "1965-03-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/03/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La clause de chargement par n'importe quel temps, insérée dans un contrat de vente cif, mais non dans la charte-partie, n'exonère pas le transporteur, à l'égard de l'acheteur, de la responsabilité prévue par l'article 91, A, alinéa III, 2°, de la loi du 21 août 1879 (livre II du Code de commerce). (Les deux espèces.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2001:ARR.20010511.6": {
+      "court": "CASS",
+      "date": "2001-05-11",
+      "roleNumber": "C970465N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 91 de la loi maritime est relatif aux obligations du transporteur et à sa responsabilité quant aux marchandises transportées; il n'est pas applicable à une demande tendant à obtenir le paiement des prix de transport et des frais supportés par le commissionnaire-transporteur introduite à l'égard du destinataire des marchandises."
+      ],
+      "abstractNL": [
+        "Artikel 91 Zeewet heeft betrekking op de verplichtingen van de vervoerder en op zijn aansprakelijkheid voor de vervoerde goederen; het is niet van toepassing op een vordering tot het betalen van vrachtprijzen en kosten van een commissionnair-vervoerder tegen de bestemmeling van de goederen."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001201.5": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C970351N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être déduit de l'article 91, A, §I, c, de la loi maritime que le règlement de la responsabilité prévu à l'article 91 est toujours applicable lorsque, contrairement aux mentions figurant au connaissement, les marchandises sont transportées en pontée (1)."
+      ],
+      "abstractNL": [
+        "Uit art. 91, A, §I, c, Zeewet kan niet worden afgeleid dat de aansprakelijkheidsregeling van art. 91 steeds toepasselijk is als de goederen, in strijd met de vermeldingen op het cognossement, op het dek worden vervoerd (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001201.4": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C970336N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La présomption de responsabilité visée à l'article 91, A, §III, 6°, de la loi maritime n'est pas valable à l'égard de l'agent du navire ayant signé un laisser-suivre en qualité de mandataire du chargeur (1)."
+      ],
+      "abstractNL": [
+        "Het vermoeden van aansprakelijkheid bedoeld bij art. 91, A, §III, 6°, Zeewet, rust niet op de scheepsagent die, handelend als lasthebber van de ladingbelanghebbende, een laat-volgen ondertekent (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970418.5": {
+      "court": "CASS",
+      "date": "1997-04-18",
+      "roleNumber": "C940091N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le connaissement que le transporteur maritime est tenu de délivrer vaut présomption, sauf preuve contraire, de la réception par le transporteur des marchandises telles qu'elles y sont décrites conformément aux dispositions de la loi; cette preuve contraire n'est pas admise lorsque le connaissement a été transféré à un tiers porteur de bonne foi, c'est-à-dire le tiers qui, au moment de la réception du connaissement, n'a pas connaissance du fait que les marchandises chargées ne correspondent pas à la description exprimée dans le connaissement."
+      ],
+      "abstractNL": [
+        "Het door de zeevervoerder af te leveren cognossement geldt als vermoeden, behoudens tegenbewijs, van de ontvangst door de vervoerder van de goederen zoals ze overeenkomstig de bepalingen van de wet in dat stuk beschreven zijn; dat tegenbewijs wordt niet toegelaten indien het cognossement is overgedragen geworden aan een derde persoon die er te goeder trouw houder van is, d.i. de derde persoon die op het ogenblik dat hij het cognossement ontvangt niet op de hoogte is dat de ingescheepte goederen niet overeenstemmen met de beschrijving ervan in het cognossement."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910111.19": {
+      "court": "CASS",
+      "date": "1991-01-11",
+      "roleNumber": "6853;6854",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/11/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Si aux termes d'une charte-partie le capitaine signera le connaissement au nom de l'affréteur, le porteur d'un connaissement signé par le capitaine peut faire valoir que l'affréteur est désigné comme transporteur dans le connaissement. ( Lois coordonnées sur la navigation maritime et la navigation intérieure, art. 91, A, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Als de charterpartij bepaalt dat de kapitein de cognossementen ondertekent namens de bevrachter, kan de houder van een cognossement dat door de kapitein is ondertekend, doen gelden dat de bevrachter als vervoerder in het cognossement wordt aangewezen. ( Art. 91, A, alinéa 1, Zeewet van 21 augustus 1879. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890623.4": {
+      "court": "CASS",
+      "date": "1989-06-23",
+      "roleNumber": "6330",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/06/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le transporteur maritime qui, en ce qui concerne le dommage ou la perte de la marchandise transportée, invoque la cause d'exonération de sa responsabilité, prévue à l'article 91, A, alinéa 4, 2°, m, de la loi maritime, aux termes duquel il n'est pas responsable pour perte ou dommage résultant ou provenant de la nature propre de la marchandise, est tenu de prouver que la nature de celle-ci la rendait impropre à supporter les risques normaux du voyage, malgré le fait qu'il l'ait traitée de façon appropriée et soigneuse."
+      ],
+      "abstractNL": [
+        "De zeevervoerder die zich, met betrekking tot schade aan of verlies van de vervoerde goederen, beroept op de bij art. 91, A, alinéa 4, 2°, m, Zeewet bepaalde ontheffingsgrond, luidens welke hij niet aansprakelijk is voor verlies of schade te wijten aan de eigen aard van de goederen, moet bewijzen dat de aard van de goederen ze ongeschikt maakte om opgewassen te zijn tegen de normale voorvallen van de reis, ondanks de behoorlijke en zorgvuldige behandeling van de goederen door hem."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880615.19": {
+      "court": "CASS",
+      "date": "1988-06-15",
+      "roleNumber": "5883",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/15/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le juge belge qui est saisi en vertu d'une clause de compétence figurant dans un connaissement, n'est tenu d'examiner sa compétence que sur la base des règles de droit belge relatives à la compétence du juge belge, le connaissement fût-il soumis, en tant que tel, à l'application d'une loi étrangère."
+      ],
+      "abstractNL": [
+        "De Belgische rechter die geadieerd wordt ingevolge een bevoegdheidsbeding in een cognossement, dient het onderzoek naar zijn bevoegdheid slechts te verrichten aan de hand van de Belgische rechtsregels betreffende de bevoegdheid van de Belgische rechter, ook al moet op het cognossement als geheel een vreemde wet worden toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851003.12": {
+      "court": "CASS",
+      "date": "1985-10-03",
+      "roleNumber": "4616",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les droits et devoirs du transporteur maritime et du réceptionnaire des marchandises sont réglés par l'article 91, A, paragraphe III , 6°, de la loi sur la navigation maritime, lorsque les marchandises sont délivrées non suivant les stipulations du connaissement mais suivant un \"delivery order\" émis pour couvrir le transport réellement effectué."
+      ],
+      "abstractNL": [
+        "De rechten en verplichtingen van de zeevervoerder en de ontvanger van de goederen worden geregeld bij art. 91, A, par. III, 6° Zeewet, wanneer de goederen niet worden afgeleverd volgens de bepalingen van het cognossement, maar volgens een \"delivery order\" uitgeschreven voor het werkelijk uitgevoerde vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830909.1": {
+      "court": "CASS",
+      "date": "1983-09-09",
+      "roleNumber": "8032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 91, paragraphe IV, 2°, c, du Livre II du Code de commerce, aux termes duquel ni le transporteur ni le navire ne seront responsables pour perte ou dommage résultant ou provenant des périls, dangers ou accidents de la mer ou d'autres eaux navigables, il faut, mais il suffit, que le transporteur se trouve dans l'impossibilité de préserver les marchandises transportées contre les suites dommageables de ces évènements; cette impossibilité peut apparaître indirectement d'un ensemble de circonstances qui exclut toute possibilité de faute dans le chef du transporteur."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 91, alinéa IV, 2°, c, van boek II van het Wetboek van Koophandel, luidens welke bepaling noch de vervoerder noch het schip aansprakelijk zijn wegens verlies of schade als gevolg van of voortspruitende uit perikelen, gevaren en onheilen van de zee of van andere bevaarbare wateren, is vereist maar voldoende dat de vervoerder zich in de onmogelijkheid bevindt de vervoerde goederen tegen de schadelijke gevolgen van die gebeurtenissen te beschutten; die onmogelijkheid kan onrechtstreeks blijken uit een geheel van omstandigheden dat elke mogelijkheid van een fout aan de zijde van de vervoerder uitsluit."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800326.14": {
+      "court": "CASS",
+      "date": "1980-03-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/26/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Si la \"théorie de la confiance légitime dans le droit des obligations\" est éventuellement comprise dans les dispositions de ce droit, c'est la violation des dispositions légales dans lesquelles cette \" théorie \" trouve son incidence qui peut être invoquée dans un moyen de cassation mais non la violation d'un prétendu principe ou de prétendues règles empruntés à la \" théorie de la confiance légitime dans le droit des obligations \"."
+      ],
+      "abstractNL": [
+        "Al is eventueel de \"theorie van de vertrouwensleer in het verbintenissenrecht\" opgenomen in de bepalingen van dat recht, toch dient schending van wetsbepalingen waarin die \"theorie\" haar weerslag heeft, te worden aangevoerd in een cassatiemiddel en niet schending van een zogezegd principe of zogezegde beginselen ontleend aan de \"theorie van de vertrouwensleer in het verbintenissenrecht\"."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790525.4": {
+      "court": "CASS",
+      "date": "1979-05-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/05/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La limitation de responsabilité prévue à l'article 91, A, par. IV, 5°, de la loi maritime n'est pas applicable lorsque, contrairement aux mentions figurant au connaissement, les marchandises sont transportées en pontée."
+      ],
+      "abstractNL": [
+        "De aansprakelijkheidsbeperking bedoeld in art. 91, A, alinéa IV, 5°, Zeewet van 21 augustus 1879 geldt niet als de goederen, in strijd met de vermeldingen van het cognossement, op het dek worden vervoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770311.1": {
+      "court": "CASS",
+      "date": "1977-03-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le connaissement que le transporteur est tenu de délivrer vaut présomption, sauf preuve contraire, de la réception par le transporteur des marchandises telles qu'elles y sont décrites . (Lois coordonnées sur la navigation maritime, art. 91, A, par. III, 3°, a, b, et c.)"
+      ],
+      "abstractNL": [
+        "Het door de vervoerder af te leveren cognossement geldt als vermoeden, behoudens tegenbewijs, van de ontvangst door de vervoerder van de goederen zoals ze in dit stuk beschreven zijn. ( Art. 91, A, par. III, 3°, a, b en c, gecoördineerde wetten op de zeevaart. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660401.3": {
+      "court": "CASS",
+      "date": "1966-04-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La clause \"said to contain\", insérée dans le connaissement délivré au chargeur, par laquelle le transporteur maritime, le capitaine ou l'agent du transporteur formule des réserves quant à la nature et à l'état réel de marchandises transportées en caisse, est licite, sans que le transporteur, le capitaine ou l'agent du transporteur doive indiquer les raisons qu'il a de soupçonner l'exactitude des déclarations du chargeur, ni les circonstances ensuite desquelles il n'a pas eu des moyens raisonnables de vérifier le contenu de la caisse. (Lois coordonnées sur la navigation maritime, art. 91, A, alinéa III, 3°.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1992:ARR.19920925.12": {
+      "court": "CASS",
+      "date": "1992-09-25",
+      "roleNumber": "7756",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/09/25/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het niet-voorkomen dat ballastwater in de laadruimten van het schip binnendringt, is geen fout bij de behandeling van het schip, maar een gebrek aan de zorg voor de lading, dat de vervoerder niet ontheft van zijn aansprakelijkheid voor de schade van de lading. (Art. 91, § IV, 2°, a, Zeewet van 21 augustus 1879.)"
+      ]
+    }
+  },
+  "128": {
+    "ECLI:BE:CASS:1983:ARR.19830930.1": {
+      "court": "CASS",
+      "date": "1983-09-30",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en raison de sa tardiveté, l'exécution d'une obligation devient sans intérêt pour le créancier, le débiteur ayant laissé passer le temps pendant lequel l'obligation devait être exécutée, le créancier n'est pas tenu d'accepter l'exécution tardive et il peut prétendre à des dommages-intérêts du chef de l'inexécution de ladite obligation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitvoering van een verbintenis wegens haar laattijdigheid van geen nut meer is voor de schuldeiser, daar de schuldenaar de tijd heeft laten voorbijgaan binnen welke de verbintenis moest worden uitgevoerd, is de schuldeiser niet verplicht de laattijdige uitvoering aan te nemen en heeft hij recht op schadevergoeding wegens niet-uitvoering van de genoemde verbintenis."
+      ]
+    }
+  },
+  "207": {
+    "ECLI:BE:CASS:1976:ARR.19760506.2": {
+      "court": "CASS",
+      "date": "1976-05-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est fondée sur des motifs exempts de contradiction la décision qui déclare un assureur tenu d'indemniser le dommage causé par un capitaine de navire dûment assuré, soit parce que le contrat d'assurance déroge à la règle des articles 205 et 206 de la loi maritime suivant laquelle les pertes et dommages provenant du fait de l'assuré ne sont pas à charge de l'assureur, soit parce que, à défaut de stipulation contraire, les fautes du capitaine doivent être considérées comme de la baraterie de patron, couverte par l'article 207 de la même loi."
+      ],
+      "abstractNL": [
+        "Op geen tegenstrijdige gronden gesteund is de beslissing dat een verzekeraar gehouden is tot vergoeding van de door toedoen van een verzekerde scheepskapitein veroorzaakte schade hetzij omdat de verzekeringsovereenkomst afwijkt van de regel van de artikelen 205 en 206 van de wet op de zeeverzekering volgens welke de verliezen en schade door toedoen van de verzekerde veroorzaakt niet ten laste van de verzekeraar komen, hetzij omdat, daar het tegendeel niet is bedongen, de fouten van de kapitein moeten beschouwd worden als schelmerij van de schipper, welke door artikel 207 van dezelfde wet is gedekt."
+      ]
     }
   },
   "251": {
@@ -156,6 +656,108 @@
       ],
       "abstractNL": [
         "De loods die, krachtens artikel 5, eerste lid, van de wet van 3 november 1967, optreedt als de raadgever van de kapitein, die, naar luid van dezelfde bepaling, alleen meester is over de leiding en de manoeuvres van het vaartuig, staat niet onder diens gezag en toezicht (1). (1) Artt. 3 en 5, W. 3 nov. 1967, vóór de wijziging ervan bij W. 20 aug. 1988; zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850517.4": {
+      "court": "CASS",
+      "date": "1985-05-17",
+      "roleNumber": "4492",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas d'abordage causé par la faute d'un navire, cette faute fût-elle celle d'un pilote même lorsque l'intervention de celui-ci est obligatoire, le propriétaire de ce navire est tenu de réparer les dommages que ladite faute a causés aux victimes de l'abordage, sans préjudice de son droit d'exercer un recours contre les tiers dont la responsabilité serait engagée sur la base notamment des articles 1382 ou 1384 du Code civil."
+      ],
+      "abstractNL": [
+        "Uit de verplichting van de eigenaar van het schip door wiens schuld een aanvaring is veroorzaakt, de schade van de door die aanvaring benadeelden te vergoeden, ook wanneer de fout bij de loods ligt en het gebruik van een loods verplicht was, volgt niet dat die eigenaar geen verhaal kan uitoefenen tegen derden die eventueel aansprakelijk kunnen worden gesteld op grond van de artt. 1382, 1383 en 1384 B.W., met name tegen de loods."
+      ]
+    }
+  },
+  "266": {
+    "ECLI:BE:CASS:1990:ARR.19900208.10": {
+      "court": "CASS",
+      "date": "1990-02-08",
+      "roleNumber": "8521",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/02/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le commissionnaire de transport maritime peut opposer à son commettant la prescription d'un an prévue par l'article 266, alinéa 3, de la loi du 21 août 1879 en faveur du transporteur."
+      ],
+      "abstractNL": [
+        "De commissionair voor zeevervoer kan aan zijn committent de eenjarige verjaring tegenwerpen die bij art. 266, derde lid, Zeewet ten voordele van de vervoerder is bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19641204.2": {
+      "court": "CASS",
+      "date": "1964-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/12/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A défaut de réserves écrites pour manquant, la personne qui a droit à la délivrance de marchandises, transportées en exécution d'un contrat de transport maritime, et qui exerce un recours contre le transporteur en raison d'un manquant, doit prouver tant la réalité du manquant allégué que l'existence de celui-ci au moment de la délivrance. (Articles 91, A. alinéa III, 6., et 266 du livre II du Code de commerce, modifié par la loi du 28 novembre 1928.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "270": {
+    "ECLI:BE:CASS:2008:ARR.20081212.13": {
+      "court": "CASS",
+      "date": "2008-12-12",
+      "roleNumber": "C.07.0365.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la combinaison des articles 1er et 271 de la Loi maritime que le champ d'application de cette loi est limité aux bâtiments destinés à faire habituellement une quelconque opération lucrative de navigation; l'article 270 de la Loi maritime, qui concerne les actions en réparation de dommages causés par un abordage, doit ainsi être interprété en ce sens qu'il concerne les abordages entre navires, comme prévu par ces articles (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1 en 271 van de Zeewet samen gelezen blijkt dat het toepassingsgebied van die wet wordt beperkt tot vaartuigen,gewoonlijk gebruikt voor enige winstgevende scheepvaartverrichting; aldus dient artikel 270 van de Zeewet,dat betrekking heeft op rechtsvorderingen tot vergoeding van schade door aanvaringen,in die zin uitgelegd te worden dat het betrekking heeft op aanvaringen tussen schepen,zoals bepaald in die artikelen (1). (1) Zie de concl. van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931217.16": {
+      "court": "CASS",
+      "date": "1993-12-17",
+      "roleNumber": "7985",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/17/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Rechtsvorderingen tot vergoeding van door aanvaring veroorzaakte schade, waarop de tweejarige verjaring toepasselijk is, zijn niet uitsluitend de rechtsvorderingen gericht tegen het aanvarend vaartuig maar ook alle rechtsvorderingen die beogen herstel te verkrijgen van de schade geleden ingevolge een aanvaring (Art. 270 Zeewet)."
+      ]
+    }
+  },
+  "271": {
+    "ECLI:BE:CASS:2008:ARR.20081212.13": {
+      "court": "CASS",
+      "date": "2008-12-12",
+      "roleNumber": "C.07.0365.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de la combinaison des articles 1er et 271 de la Loi maritime que le champ d'application de cette loi est limité aux bâtiments destinés à faire habituellement une quelconque opération lucrative de navigation; l'article 270 de la Loi maritime, qui concerne les actions en réparation de dommages causés par un abordage, doit ainsi être interprété en ce sens qu'il concerne les abordages entre navires, comme prévu par ces articles (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1 en 271 van de Zeewet samen gelezen blijkt dat het toepassingsgebied van die wet wordt beperkt tot vaartuigen,gewoonlijk gebruikt voor enige winstgevende scheepvaartverrichting; aldus dient artikel 270 van de Zeewet,dat betrekking heeft op rechtsvorderingen tot vergoeding van schade door aanvaringen,in die zin uitgelegd te worden dat het betrekking heeft op aanvaringen tussen schepen,zoals bepaald in die artikelen (1). (1) Zie de concl. van het O.M."
+      ]
+    }
+  },
+  "272": {
+    "ECLI:BE:CASS:1979:ARR.19790306.4": {
+      "court": "CASS",
+      "date": "1979-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La non-inscription d'un acte de vente d'un bateau pour la navigation intérieure a pour seul effet que la cession ne peut être opposée aux tiers, mais n'entraîne pas que des tiers doivent reconnaître comme étant le propriétaire le vendeur au nom duquel le bateau est encore immatriculé. ( Code de comm., livre II, art. 8 et 272. )"
+      ],
+      "abstractNL": [
+        "Het niet ingeschreven zijn van de akte van verkoop van een binnenschip heeft alleen tot gevolg dat de overdracht niet aan derden kan worden tegengeworpen, maar brengt niet mede dat derden de verkoper, op wiens naam het schip nog is ingeschreven, als eigenaar moeten erkennen. (Kh., boek II, artt. 8 en 272.)"
       ]
     }
   },
@@ -173,6 +775,76 @@
       ],
       "abstractNL": [
         "Onder vaartuig moet worden verstaan elk tuig dat drijft en, met of zonder eigen beweegkracht, vatbaar is voor verplaatsing over het water, ook al gebeurt dit slechts sporadisch, op voorwaarde dat het niet duurzaam met het land of de bodem verbonden is."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900312.7": {
+      "court": "CASS",
+      "date": "1990-03-12",
+      "roleNumber": "6979",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 59 de la loi maritime, en vertu duquel le capitaine est responsable des marchandises dont il se charge, n'est pas applicable à la navigation intérieure. ( Loi maritime, art. 273. )"
+      ],
+      "abstractNL": [
+        "Art. 59 Zeewet, luidens hetwelk de kapitein verantwoordelijk is voor de koopwaar waarmee hij zich belast, is niet van toepassing op de binnenvaart ( Art. 273 Zeewet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810911.13": {
+      "court": "CASS",
+      "date": "1981-09-11",
+      "roleNumber": "3145",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 46, par. 1er, de la loi maritime est applicable à la navigation intérieure en vertu de l'article 273 de cette loi."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel dat niet nader bepaalt waarin de aangewezen wettelijke bepalingen zouden geschonden zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720908.8": {
+      "court": "CASS",
+      "date": "1972-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, saisi de l'opposition d'un créancier à l'ordonnance rendue, par le président du tribunal de commerce, sur requête du débiteur, qui s'était prévalu des dispositions des articles 46, alinéa 2, et 273 du livre II du Code de commerce relatives à la limitation de la responsabilité à concurrence de la valeur du bateau, du fret et des accessoires, le juge décide que le moyen de l'opposant alléguant que ce débiteur n'est pas propriétaire du bateau ne peut être accueilli parce que la décision ayant prononcé la condamnation dudit débiteur au profit de ce créancier est fondée sur le droit de propriété du bateau dans le chef de ce dernier, il ne saurait avoir invoqué, ainsi, d'office et en violation de l'article 27, alinéa 2, du Code judiciaire, une exception de chose jugée, dès lors que l'ordonnance ayant fait l'objet de l'opposition avait précisément été rendue en raison de cette décision fondée sur le droit de propriété."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter, waarbij aanhangig is een verzet van een schuldeiser tegen de beschikking van de voorzitter van de rechtbank van koophandel over het verzoekschrift van de schuldenaar, die zich beroepen had op de bepalingen van de artikelen 46, alinéa 2, en 273 van Boek II van het Wetboek van koophandel betreffende de beperking van de aansprakelijkheid ten belope van de waarde van de boot, van de vracht en van het toebehoren, beslist dat het middel van de verzetdoende partij ten betoge dat deze schuldenaar geen eigenaar is van de boot niet kan worden aangenomen omdat de beslissing, die ten voordele van deze schuldeiser de veroordeling van de schuldenaar heeft uitgesproken, gegrond is op het eigendomsrecht van de schuldeiser met betrekking tot de boot, kan hij zich aldus niet ambtshalve en met schending van artikel 27, lid 2, van het Gerechtelijk Wetboek beroepen hebben op een exceptie van gewijsde, vermits de beschikking waartegen verzet juist was gewezen op basis van dit vonnis waaraan dit recht van eigendom ten grondslag lag."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701002.3": {
+      "court": "CASS",
+      "date": "1970-10-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Toute décision du juge sur une contestation est un dispositif, quelle que soit la place de cette décision dans le texte du jugement."
+      ],
+      "abstractNL": [
+        "Elke beslissing van de rechter betreffende een betwist punt vormt een beschikkende gedeelte, onverschillig de plaats waar deze beslissing in de tekst van het vonnis of het arrest voorkomt."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680822.1": {
+      "court": "CASS",
+      "date": "1968-08-22",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/08/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 46, § II, 53 et 273 de la loi sur la navigation maritime ne modifient pas la compétence des juridictions ordinaires appelées à statuer sur le fondement et le montant des créances pour lesquelles le propriétaire du navire se prévaut de la limitation de responsabilité prévue par les dispositions précitées."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 46, alinéa II, 53 en 273 van de zeevaartwet brengen geen wijzigingen aan aan de bevoegdheid van de gewone rechtsmachten die uitspraak moeten doen over de gegrondheid en het bedrag van de schuldvorderingen waarvoor de scheepseigenaar zich beroept op de bij genoemde bepalingen vastgestelde beperking van zijn aansprakelijkheid."
       ]
     }
   },
@@ -273,6 +945,230 @@
       ],
       "abstractNL": [
         "Indien, naar luid van artikel 89 van de zeevaartwet, de cognossementhouder alleen het recht heeft om zich de lading door de kapitein te doen afleveren, sluit dit recht, in principe, het recht in om vergoeding te vorderen wegens tekort of averij, vermits de dienaangaande gevorderde som slechts de tegenwaarde uitmaakt van de goederen welke de kapitein niet in staat is af te leveren."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011220.8": {
+      "court": "CASS",
+      "date": "2001-12-20",
+      "roleNumber": "C980032N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le capitaine exerce l'autorité et la surveillance sur le pilote, même si le propriétaire du bateau reste civilement responsable des actes de celui-ci (1) (2)."
+      ],
+      "abstractNL": [
+        "De kapitein heeft gezag en toezicht over de loods, al blijft de scheepseigenaar burgerlijk aansprakelijk voor diens handelingen (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001201.5": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C970351N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être déduit de l'article 91, A, §I, c, de la loi maritime que le règlement de la responsabilité prévu à l'article 91 est toujours applicable lorsque, contrairement aux mentions figurant au connaissement, les marchandises sont transportées en pontée (1)."
+      ],
+      "abstractNL": [
+        "Uit art. 91, A, §I, c, Zeewet kan niet worden afgeleid dat de aansprakelijkheidsregeling van art. 91 steeds toepasselijk is als de goederen, in strijd met de vermeldingen op het cognossement, op het dek worden vervoerd (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001201.4": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C970336N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La présomption de responsabilité visée à l'article 91, A, §III, 6°, de la loi maritime n'est pas valable à l'égard de l'agent du navire ayant signé un laisser-suivre en qualité de mandataire du chargeur (1)."
+      ],
+      "abstractNL": [
+        "Het vermoeden van aansprakelijkheid bedoeld bij art. 91, A, §III, 6°, Zeewet, rust niet op de scheepsagent die, handelend als lasthebber van de ladingbelanghebbende, een laat-volgen ondertekent (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981126.10": {
+      "court": "CASS",
+      "date": "1998-11-26",
+      "roleNumber": "C950219N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, § II, 4°, et 47, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration, c'est-à-dire celles qui sont étroitement liées à la gestion technique du navire; ces fautes sont distinctes de celles que le capitaine-propriétaire commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, § II, 4°, en 47 van boek II Wkh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. deze die in het sturen van het schip worden begaan, als de in het beheren van het schip begane fouten, d.w.z. deze die nauw verbonden zijn met het technische beheer van het schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900208.10": {
+      "court": "CASS",
+      "date": "1990-02-08",
+      "roleNumber": "8521",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/02/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le commissionnaire de transport maritime peut opposer à son commettant la prescription d'un an prévue par l'article 266, alinéa 3, de la loi du 21 août 1879 en faveur du transporteur."
+      ],
+      "abstractNL": [
+        "De commissionair voor zeevervoer kan aan zijn committent de eenjarige verjaring tegenwerpen die bij art. 266, derde lid, Zeewet ten voordele van de vervoerder is bepaald."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880615.19": {
+      "court": "CASS",
+      "date": "1988-06-15",
+      "roleNumber": "5883",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/15/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le juge belge qui est saisi en vertu d'une clause de compétence figurant dans un connaissement, n'est tenu d'examiner sa compétence que sur la base des règles de droit belge relatives à la compétence du juge belge, le connaissement fût-il soumis, en tant que tel, à l'application d'une loi étrangère."
+      ],
+      "abstractNL": [
+        "De Belgische rechter die geadieerd wordt ingevolge een bevoegdheidsbeding in een cognossement, dient het onderzoek naar zijn bevoegdheid slechts te verrichten aan de hand van de Belgische rechtsregels betreffende de bevoegdheid van de Belgische rechter, ook al moet op het cognossement als geheel een vreemde wet worden toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851003.12": {
+      "court": "CASS",
+      "date": "1985-10-03",
+      "roleNumber": "4616",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les droits et devoirs du transporteur maritime et du réceptionnaire des marchandises sont réglés par l'article 91, A, paragraphe III , 6°, de la loi sur la navigation maritime, lorsque les marchandises sont délivrées non suivant les stipulations du connaissement mais suivant un \"delivery order\" émis pour couvrir le transport réellement effectué."
+      ],
+      "abstractNL": [
+        "De rechten en verplichtingen van de zeevervoerder en de ontvanger van de goederen worden geregeld bij art. 91, A, par. III, 6° Zeewet, wanneer de goederen niet worden afgeleverd volgens de bepalingen van het cognossement, maar volgens een \"delivery order\" uitgeschreven voor het werkelijk uitgevoerde vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850321.13": {
+      "court": "CASS",
+      "date": "1985-03-21",
+      "roleNumber": "4572",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les fautes nautiques visées aux articles 46, alinéa II, 4°, et 47, alinéa Ier, du livre II du Code de commerce comprennent tant les fautes de navigation, c'est-à-dire celles qui sont commises dans la conduite du navire, que les fautes d'administration , c'est-à-dire celles qui sont étroitement liées à la gestion technique de ce navire; elles sont distinctes de celles que le capitaine, propriétaire du navire, commet dans la gestion de la cargaison."
+      ],
+      "abstractNL": [
+        "Het in artt. 46, alinéa II, 4°, en 47 van boek II Kh. bedoelde slechte zeemanschap, omvat zowel de nautische fouten, d.w.z. die welke bij het besturen van het schip worden begaan, als de bij het beheren van het schip begane fouten, d.w.z. die welke nauw verbonden zijn met het technische beheer van dat schip; die fouten zijn verschillend van die welke de kapitein-eigenaar begaat bij het beheer van de lading."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830930.1": {
+      "court": "CASS",
+      "date": "1983-09-30",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en raison de sa tardiveté, l'exécution d'une obligation devient sans intérêt pour le créancier, le débiteur ayant laissé passer le temps pendant lequel l'obligation devait être exécutée, le créancier n'est pas tenu d'accepter l'exécution tardive et il peut prétendre à des dommages-intérêts du chef de l'inexécution de ladite obligation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitvoering van een verbintenis wegens haar laattijdigheid van geen nut meer is voor de schuldeiser, daar de schuldenaar de tijd heeft laten voorbijgaan binnen welke de verbintenis moest worden uitgevoerd, is de schuldeiser niet verplicht de laattijdige uitvoering aan te nemen en heeft hij recht op schadevergoeding wegens niet-uitvoering van de genoemde verbintenis."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830909.1": {
+      "court": "CASS",
+      "date": "1983-09-09",
+      "roleNumber": "8032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 91, paragraphe IV, 2°, c, du Livre II du Code de commerce, aux termes duquel ni le transporteur ni le navire ne seront responsables pour perte ou dommage résultant ou provenant des périls, dangers ou accidents de la mer ou d'autres eaux navigables, il faut, mais il suffit, que le transporteur se trouve dans l'impossibilité de préserver les marchandises transportées contre les suites dommageables de ces évènements; cette impossibilité peut apparaître indirectement d'un ensemble de circonstances qui exclut toute possibilité de faute dans le chef du transporteur."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 91, alinéa IV, 2°, c, van boek II van het Wetboek van Koophandel, luidens welke bepaling noch de vervoerder noch het schip aansprakelijk zijn wegens verlies of schade als gevolg van of voortspruitende uit perikelen, gevaren en onheilen van de zee of van andere bevaarbare wateren, is vereist maar voldoende dat de vervoerder zich in de onmogelijkheid bevindt de vervoerde goederen tegen de schadelijke gevolgen van die gebeurtenissen te beschutten; die onmogelijkheid kan onrechtstreeks blijken uit een geheel van omstandigheden dat elke mogelijkheid van een fout aan de zijde van de vervoerder uitsluit."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800326.14": {
+      "court": "CASS",
+      "date": "1980-03-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/26/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Si la \"théorie de la confiance légitime dans le droit des obligations\" est éventuellement comprise dans les dispositions de ce droit, c'est la violation des dispositions légales dans lesquelles cette \" théorie \" trouve son incidence qui peut être invoquée dans un moyen de cassation mais non la violation d'un prétendu principe ou de prétendues règles empruntés à la \" théorie de la confiance légitime dans le droit des obligations \"."
+      ],
+      "abstractNL": [
+        "Al is eventueel de \"theorie van de vertrouwensleer in het verbintenissenrecht\" opgenomen in de bepalingen van dat recht, toch dient schending van wetsbepalingen waarin die \"theorie\" haar weerslag heeft, te worden aangevoerd in een cassatiemiddel en niet schending van een zogezegd principe of zogezegde beginselen ontleend aan de \"theorie van de vertrouwensleer in het verbintenissenrecht\"."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790306.4": {
+      "court": "CASS",
+      "date": "1979-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/03/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La non-inscription d'un acte de vente d'un bateau pour la navigation intérieure a pour seul effet que la cession ne peut être opposée aux tiers, mais n'entraîne pas que des tiers doivent reconnaître comme étant le propriétaire le vendeur au nom duquel le bateau est encore immatriculé. ( Code de comm., livre II, art. 8 et 272. )"
+      ],
+      "abstractNL": [
+        "Het niet ingeschreven zijn van de akte van verkoop van een binnenschip heeft alleen tot gevolg dat de overdracht niet aan derden kan worden tegengeworpen, maar brengt niet mede dat derden de verkoper, op wiens naam het schip nog is ingeschreven, als eigenaar moeten erkennen. (Kh., boek II, artt. 8 en 272.)"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760506.2": {
+      "court": "CASS",
+      "date": "1976-05-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est fondée sur des motifs exempts de contradiction la décision qui déclare un assureur tenu d'indemniser le dommage causé par un capitaine de navire dûment assuré, soit parce que le contrat d'assurance déroge à la règle des articles 205 et 206 de la loi maritime suivant laquelle les pertes et dommages provenant du fait de l'assuré ne sont pas à charge de l'assureur, soit parce que, à défaut de stipulation contraire, les fautes du capitaine doivent être considérées comme de la baraterie de patron, couverte par l'article 207 de la même loi."
+      ],
+      "abstractNL": [
+        "Op geen tegenstrijdige gronden gesteund is de beslissing dat een verzekeraar gehouden is tot vergoeding van de door toedoen van een verzekerde scheepskapitein veroorzaakte schade hetzij omdat de verzekeringsovereenkomst afwijkt van de regel van de artikelen 205 en 206 van de wet op de zeeverzekering volgens welke de verliezen en schade door toedoen van de verzekerde veroorzaakt niet ten laste van de verzekeraar komen, hetzij omdat, daar het tegendeel niet is bedongen, de fouten van de kapitein moeten beschouwd worden als schelmerij van de schipper, welke door artikel 207 van dezelfde wet is gedekt."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720908.8": {
+      "court": "CASS",
+      "date": "1972-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, saisi de l'opposition d'un créancier à l'ordonnance rendue, par le président du tribunal de commerce, sur requête du débiteur, qui s'était prévalu des dispositions des articles 46, alinéa 2, et 273 du livre II du Code de commerce relatives à la limitation de la responsabilité à concurrence de la valeur du bateau, du fret et des accessoires, le juge décide que le moyen de l'opposant alléguant que ce débiteur n'est pas propriétaire du bateau ne peut être accueilli parce que la décision ayant prononcé la condamnation dudit débiteur au profit de ce créancier est fondée sur le droit de propriété du bateau dans le chef de ce dernier, il ne saurait avoir invoqué, ainsi, d'office et en violation de l'article 27, alinéa 2, du Code judiciaire, une exception de chose jugée, dès lors que l'ordonnance ayant fait l'objet de l'opposition avait précisément été rendue en raison de cette décision fondée sur le droit de propriété."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter, waarbij aanhangig is een verzet van een schuldeiser tegen de beschikking van de voorzitter van de rechtbank van koophandel over het verzoekschrift van de schuldenaar, die zich beroepen had op de bepalingen van de artikelen 46, alinéa 2, en 273 van Boek II van het Wetboek van koophandel betreffende de beperking van de aansprakelijkheid ten belope van de waarde van de boot, van de vracht en van het toebehoren, beslist dat het middel van de verzetdoende partij ten betoge dat deze schuldenaar geen eigenaar is van de boot niet kan worden aangenomen omdat de beslissing, die ten voordele van deze schuldeiser de veroordeling van de schuldenaar heeft uitgesproken, gegrond is op het eigendomsrecht van de schuldeiser met betrekking tot de boot, kan hij zich aldus niet ambtshalve en met schending van artikel 27, lid 2, van het Gerechtelijk Wetboek beroepen hebben op een exceptie van gewijsde, vermits de beschikking waartegen verzet juist was gewezen op basis van dit vonnis waaraan dit recht van eigendom ten grondslag lag."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701002.3": {
+      "court": "CASS",
+      "date": "1970-10-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Toute décision du juge sur une contestation est un dispositif, quelle que soit la place de cette décision dans le texte du jugement."
+      ],
+      "abstractNL": [
+        "Elke beslissing van de rechter betreffende een betwist punt vormt een beschikkende gedeelte, onverschillig de plaats waar deze beslissing in de tekst van het vonnis of het arrest voorkomt."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680822.1": {
+      "court": "CASS",
+      "date": "1968-08-22",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/08/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 46, § II, 53 et 273 de la loi sur la navigation maritime ne modifient pas la compétence des juridictions ordinaires appelées à statuer sur le fondement et le montant des créances pour lesquelles le propriétaire du navire se prévaut de la limitation de responsabilité prévue par les dispositions précitées."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 46, alinéa II, 53 en 273 van de zeevaartwet brengen geen wijzigingen aan aan de bevoegdheid van de gewone rechtsmachten die uitspraak moeten doen over de gegrondheid en het bedrag van de schuldvorderingen waarvoor de scheepseigenaar zich beroept op de bij genoemde bepalingen vastgestelde beperking van zijn aansprakelijkheid."
       ]
     }
   }

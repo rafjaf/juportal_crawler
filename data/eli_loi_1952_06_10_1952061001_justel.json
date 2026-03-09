@@ -1,4 +1,800 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2003:ARR.20030317.20": {
+      "court": "CASS",
+      "date": "2003-03-17",
+      "roleNumber": "S010182N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/03/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La protection contre le licenciement dont bénéficient les membres d'une délégation syndicale qui sont chargés d'exercer les missions du comité de sécurité, d'hygiène et d'embellissement des lieux de travail, existe à partir du moment où le délégué syndical commence à exercer ses fonctions parce qu'il est chargé à partir de ce moment-là des missions du comité de sécurité, d'hygiène et d'embellissement des lieux de travail, même s'il n'a pas encore exercé effectivement sa mission en matière de sécurité et d'hygiène."
+      ],
+      "abstractNL": [
+        "De ontslagbescherming voor de leden van een vakbondsafvaardiging die met de uitoefening van de opdrachten van het veiligheidscomité zijn belast, bestaat vanaf het ogenblik dat de opdracht als vakbondsafgevaardigde wordt opgenomen omdat hij vanaf dat ogenblik belast is met de opdrachten van het Comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, ook al heeft hij de effectieve uitvoering van zijn opdracht inzake veiligheid en gezondheid nog niet aangevat."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961125.8": {
+      "court": "CASS",
+      "date": "1996-11-25",
+      "roleNumber": "S960006N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le jugement rendu dans le cadre d'un litige relatif à l'institution d'organes de concertation et à la tenue d'élections sociales est susceptible d'appel lorsque l'employeur n'a pas procédé aux opérations préliminaires à la procédure d'élection qui relèvent de son devoir d'information et de consultation."
+      ],
+      "abstractNL": [
+        "Het vonnis gewezen in het kader van een geschil in verband met het instellen van overlegorganen en het houden van sociale verkiezingen, is vatbaar voor hoger beroep wanneer de werkgever de aan de verkiezingsprocedure voorafgaande handelingen van informatie- en consultatieplicht niet heeft verricht."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951127.3": {
+      "court": "CASS",
+      "date": "1995-11-27",
+      "roleNumber": "S950069F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal du travail compétent pour statuer sur la reconnaissance d'unités techniques d'exploitation et sur l'institution de conseils d'entreprise et de comités de sécurité et d'hygiène est, en règle, celui du lieu du travail."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank van de plaats van het werk is, in de regel, bevoegd om uitspraak te doen over de erkenning van technische bedrijfseenheden en over de instelling van ondernemingsraden en veiligheidscomités."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950213.8": {
+      "court": "CASS",
+      "date": "1995-02-13",
+      "roleNumber": "S940112N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1er bis, alinéa 4, de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, et 21, alinéa 4, de la loi du 20 décembre 1984 portant organisation de l'économie, ne visent respectivement que la protection des candidats qui sont présentés, soit lors des élections prévues à l'article 1er, alinéa 4, b, 4, alinéa 5 de la loi du 10 juin 1952 soit lors des élections prévues aux articles 20 et 21 de la loi du 20 septembre 1948."
+      ],
+      "abstractNL": [
+        "De artt. 1bis, alinéa 4, Gezondheids- en veiligheidswet en 21, alinéa 4, Bedrijfsorganisatiewet beogen respectievelijk niets anders dan de bescherming van de kandidaten die zijn voorgedragen, hetzij bij de verkiezingen bedoeld in art. 1, alinéa 4, b, 4, vijfde lid, Gezondheids- en Veiligheidswet hetzij bij de verkiezingen bedoeld in de artt. 20 en 21 Bedrijfsorganisatiewet."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930125.5": {
+      "court": "CASS",
+      "date": "1993-01-25",
+      "roleNumber": "9357",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/25/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui a été licencié en violation de l'article 1er bis, alinéa 2, de la loi du 10 juin 1952 ne peut être présenté comme candidat aux élections pour le comité de sécurité et d'hygiène que s'il a été licencié pendant la période commencant le trentieme jour qui précède l'affichage de l'avis fixant la date des élections. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b bis, alinéa 4; Voir L. 20 septembre 1948, art. 19, al. 4; voir également L. 20 septembre 1948, art. 19, al. 1er, 3°, et L. 10 juin 1952, art. 1er, alinéa 4, b bis, al. 1er, 3°;"
+      ],
+      "abstractNL": [
+        "De werknemer die in strijd met art. 1bis, alinéa 2, Gezondheid en Veiligheidswet werd ontslagen, mag alleen als kandidaat bij de verkiezingen voor het Comité voor veiligheid en gezondheid worden voorgedragen indien hij werd ontslagen tijdens de periode die begint te lopen van de dertigste dag af voorafgaande aan de aanplakking van het bericht dat de verkiezingsdatum vaststelt. (Art. 1, alinéa 4, b bis, vierde lid, Gezondheid en Veiligheidswet); Zie art. 19, vierde lid, Bedrijfsorganisatiewet; zie ook art. 19, eerste lid, 3°, Bedrijfsorganisatiewet en art. 1, alinéa 4, b bis, eerste lid, 3°, Gezondheid en Veiligheidswet;"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920914.4": {
+      "court": "CASS",
+      "date": "1992-09-14",
+      "roleNumber": "9328",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/09/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour être éligible au conseil d'entreprise ou au comité de sécurité et d'hygiène d'une des unités techniques d'exploitation relevant d'une même entité juridique, le candidat doit être occupé dans l'unité technique d'exploitation où il est présenté. ( Loi du 20 septembre 1948, art. 14, alinéa 1er, alinéa 2, 1°, et Loi du 10 juin 1952, art. 1er, alinéa 4, b, 1, alinéa 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Om verkiesbaar te zijn voor de ondernemingsraad of het veiligheidscomité van één van de technische bedrijfseenheden die ressorteren onder dezelfde juridische entiteit, moet de kandidaat tewerkgesteld zijn in de technische bedrijfseenheid waarin hij wordt voorgedragen. ( Art. 14, alinéa 1, tweede lid, 1°, Bedrijfsorganisatiewet van 20 september 1948; art. 1, alinéa 4, b, 1, tweede lid, 1°, Wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920330.8": {
+      "court": "CASS",
+      "date": "1992-03-30",
+      "roleNumber": "7840",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour bénéficier de la protection spéciale contre le licenciement, à partir du trentième jour précédant l'affichage de l'avis fixant la date des élections, le travailleur licencié, candidat aux élections pour les conseils d'entreprise et comités de sécurité et d'hygiène, doit remplir la condition d'éligibilité de six mois d'occupation au moment de son licenciement. ( Loi du 20 septembre 1948, art. 19 alinéa 1er, 3°, et 21, alinéa 4, alinéa 1er; et loi du 10 juin 1952, art. 1er, alinéa 4, b/bis, alinéa 1er, 3°, et 1er bis, alinéa 4, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Om de bijzondere bescherming tegen ontslag te genieten, vanaf de dertigste dag v'o'or de aanplakking van het bericht dat de verkiezingsdatum vaststelt, moet de ontslagen kandidaat bij de verkiezingen voor de ondernemingsraad en het veiligheidscomité aan de verkiesbaarheidsvoorwaarde van zes maanden tewerkstelling voldoen op het ogenblik van het ontslag. ( Artt. 19, eerste lid, 3°, en 21, alinéa 4, eerste lid, Bedrijfsorganisatiewet; en 1, alinéa 4, b/bis, eerste lid, 3°, en 1bis, alinéa 4, eerste lid, Gezondheid en Veiligheidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910422.16": {
+      "court": "CASS",
+      "date": "1991-04-22",
+      "roleNumber": "7429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/22/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "La délégation syndicale exerce les missions du comité de sécurité et d'hygiène dans chaque entreprise occupant moins de cinquante travailleurs, dans la mesure où il n'existe pas d'obligation légale d'instituer un comité (*). ( Loi du 10 juin 1965, art. 1er, alinéa 4, b, 4; A.R. du 18 octobre 1978, art. 80 (**). )"
+      ],
+      "abstractNL": [
+        "De vakbondsafvaardiging oefent de opdrachten van het veiligheidscomité uit in elke onderneming die minder dan vijftig werknemers tewerkstelt, in zoverre er geen wettelijke verplichting tot oprichting van een comité bestaat (*). ( Art. 1, alinéa 4, b, 4, Gezondheid en Veiligheidswet van 10 juni 1952; art. 80, K.B. van 18 oktober 1978 (**). )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910123.11": {
+      "court": "CASS",
+      "date": "1991-01-23",
+      "roleNumber": "8456",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/01/23/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1er, alinéa 1er, alinéa 3 , de la loi du 10 juin 1952, concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, et 28, alinéa 3, du Règlement général pour la protection du travail concernent tous les membres du personnel des services publics, sans distinction entre les travailleurs engagés dans les liens d'un contrat de travail et les agents régis par un statut légal ou réglementaire. ( Arrêtés du Régent des 11 février 1946 et 27 septembre 1947. )"
+      ],
+      "abstractNL": [
+        "De artt. 1, alinéa 1, derde lid, Gezondheid en Veiligheidswet van 10 juni 1952, en 28, derde lid, Algemeen Reglement Arbeidsbescherming gelden voor alle personeelsleden van de openbare diensten, zonder dat een onderscheid hoeft te worden gemaakt tussen de werknemers die tewerkgesteld zijn krachtens een arbeidsovereenkomst, en de beambten die aan een wettelijk of reglementair statuut onderworpen zijn. ( Regentbesluiten van 11 februari 1946 en 27 september 1947. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900212.8": {
+      "court": "CASS",
+      "date": "1990-02-12",
+      "roleNumber": "6866;6974",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/02/12/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Est tardif et, dès lors, irrecevable le pourvoi formé plus de trois mois après la notification au demandeur, par pli judiciaire, de la décision rendue par une juridiction du travail dans un litige en matière d'élections des conseils d'entreprise et des comités de sécurité et d'hygiène. ( Code judiciaire, art. 57 et 1073, alinéa 1er; loi du 20 septembre 1948, art. 24, alinéa alinéa 1er, 1° et 2; loi du 10 juin 1952, art. 1er, alinéa 4, h, 1° et i; arr. roy. du 31 juillet 1986, art. 81, 5°. )"
+      ],
+      "abstractNL": [
+        "Tardief en derhalve niet ontvankelijk is de voorziening die is ingesteld meer dan drie maanden nadat de beslissing van het arbeidsgerecht over een geschil betreffende verkiezingen voor de ondernemingsraden en de veiligheidscomités bij gerechtsbrief ter kennis van de eiser is gebracht. ( Artt. 57 en 1073, eerste lid, Gerechtelijk Wetboek; art. 24, alinéa alinéa 1, 1°, en 2, Bedrijfsorganisatiewet; art. 1, alinéa 4, h, 1°, en i, Gezondheid en Veiligheidswet; art. 81, 5°, K.B. 31 juli 1986. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890206.8": {
+      "court": "CASS",
+      "date": "1989-02-06",
+      "roleNumber": "8470",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/02/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La désignation, par l'employeur, d'un délégué avec pouvoir de le représenter au sein du conseil d'entreprise ou du conseil de sécurité et d'hygiène procède du choix de l'employeur et non du vote des travailleurs. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 16, al. 1er, a; Loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, alinéa 4, b, 4. )"
+      ],
+      "abstractNL": [
+        "De aanwijzing van een afgevaardigde die bevoegd is de werkgever te vertegenwoordigen in de ondernemingsraad of het comité voor veiligheid en gezondheid geschiedt op grond van de keuze van de werkgever en niet ingevolge de stemming door de werknemers. ( Art. 16, eerste lid, a, Bedrijfsorganisatiewet; art. 1, alinéa 4, b, 4, Gezondheid en Veiligheidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871221.7": {
+      "court": "CASS",
+      "date": "1987-12-21",
+      "roleNumber": "7890",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/12/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur protégé ne peut être licencié pour des raisons d'ordre économique ou technique que si la commission paritaire, appelée à se prononcer sur ces raisons, a reconnu l'existence de celles-ci, ne s'est pas prononcée dans le délai de deux mois ou, au cours de ce délai, a constaté qu'il ne lui était pas possible de se prononcer, à défaut d'unanimité. ( Loi du 20 septembre 1948, portant organisation de l'économie, artt. 21, alinéa 2, alinéas 1er et 7, 24, alinéa 1er; Loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, alinéa 4, b, et 1er bis, alinéa 2, alinéas 1er et 6. )"
+      ],
+      "abstractNL": [
+        "Een beschermd werknemer kan niet wegens economische of technische redenen worden ontslagen tenzij het paritair comité, dat zich over die redenen dient uit te spreken, het bestaan ervan heeft erkend, of zich niet binnen de termijn van twee maanden heeft uitgesproken of tijdens die termijn heeft vastgesteld dat het zich, bij gebrek aan eenstemmigheid, niet kon uitspreken. ( Artt. 21, alinéa 2, lid 1 en 2, 24, alinéa 1 Bedrijfsorganisatiewet; artt. 1, alinéa 4, b en 1bis, alinéa 2, lid 1 en 6 Gezondheids- en Veiligheidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871130.19": {
+      "court": "CASS",
+      "date": "1987-11-30",
+      "roleNumber": "5821",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/30/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un employeur crée plusieurs comités de sécurité et d'hygiène pour une seule unité technique d'exploitation, la décision du tribunal du travail sur une contestation concernant la répartition des lieux de travail entre les différents comités est rendue en dernier ressort. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b, 1; arr. roy. du 31 juillet 1986, art. 8, 9 et 81, 6°. )"
+      ],
+      "abstractNL": [
+        "Wanneer de werkgever verscheidene veiligheidscomités voor één technische bedrijfseenheid opricht, is de beslissing van de arbeidsrechtbank over een geschil betreffende de indeling van de arbeidsplaatsen bij de onderscheidene comités niet in laatste aanleg gewezen. ( Art. 1, alinéa 4, b, 1, Gezondheid en veiligheidswet, wet van 10 juni 1952; artt. 8, 9 en 81, 6°, K.B. 31 juli 1986. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860630.15": {
+      "court": "CASS",
+      "date": "1986-06-30",
+      "roleNumber": "5198",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière de contestations concernant les élections sociales l'organisation professionnelle peut être représentée devant les juridictions du travail par un délégué, porteur d'une procuration écrite; ce délégué peut également plaider pour cette organisation. ( Code judiciaire, art. 440 et 728; loi du 20 septembre 1948, art. 24, alinéa 2; loi du 10 juin 1952, art. 1er, alinéa 4, i; arr. roy. du 18 octobre 1978, art. 78bis, 6° )."
+      ],
+      "abstractNL": [
+        "In geschillen betreffende sociale verkiezingen mag de vakorganisatie voor de arbeidsgerechten verschijnen door een afgevaardigde met een geschreven volmacht; deze afgevaardigde mag eveneens voor de organisatie pleiten. ( Artt. 440 en 728 Gerechtelijk Wetboek; art. 24, alinéa 2, Bedrijfsorganisatiewet; art. 1, alinéa 4, i, Gezondheid en Veiligheidswet, art. 78bis, 6°, K.B. 18 oktober 1978 )."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860616.13": {
+      "court": "CASS",
+      "date": "1986-06-16",
+      "roleNumber": "5172",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas une fin de non-recevoir déduite du défaut d'intérêt, l'exception qui équivaut à demander à la Cour l'annulation d'une décision de laquelle devrait ressortir le prétendu défaut d'intérêt."
+      ],
+      "abstractNL": [
+        "Geen grond van niet-ontvankelijkheid afgeleid uit gebrek aan belang, levert een exceptie op die erop neerkomt het Hof om vernietiging te verzoeken van een beslissing waaruit het beweerde gebrek aan belang zou moeten blijken."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860113.16": {
+      "court": "CASS",
+      "date": "1986-01-13",
+      "roleNumber": "4960",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la commission paritaire ne s'est pas prononcée, dans les deux mois, sur la demande de l'employeur tendant à faire reconnaître l'existence de raisons d'ordre économique ou technique permettant de licencier un travailleur, l'employeur n'est pas tenu d'introduire une demande devant les juridictions du travail tendant à faire constater l'existence de telles raisons avant de licencier le travailleur ( Loi du 20 septembre 1948, art. 20, par. 2 et 24, par. 1er, 2°; loi du 10 juin 1952, art. 1er, par. 4, h, 2°, et 1er bis, par. 2; Arr. roy. 18 octobre 1978, art. 74 et 75 )."
+      ],
+      "abstractNL": [
+        "Wanneer het paritair comité zich binnen 2 maanden niet heeft uitgesproken over de aanvraag van de werkgever tot erkenning van economische of technische redenen om een beschermde werknemer te ontslaan, is de werkgever niet verplicht een aanvraag bij de arbeidsgerechten in te dienen om het bestaan van zulke redenen te doen vaststellen alvorens de werknemer te ontslaan. ( Artt. 20, alinéa 2, en 24, alinéa 1, 2°, Bedrijfsorganisatiewet; artt. 1, alinéa 4, h, 2°, en 1bis, alinéa 2, Gezondheid en Veiligheidswet; artt. 74 en 75 K.B. 18 oktober 1978. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840116.9": {
+      "court": "CASS",
+      "date": "1984-01-16",
+      "roleNumber": "4140",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/16/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La connaissance du néerlandais ne constitue pas une condition pour être élu, dans la région de langue néerlandaise, en tant que délégué du personnel au sein du conseil d'entreprise. (Loi du 10 juin 1952, art. 1er, par. 4, bbis, alinéa 1er; décret du 19 juillet 1973, art. 2, 3 et 4.)"
+      ],
+      "abstractNL": [
+        "De kennis van het Nederlands is geen voorwaarde om in het Nederlandse taalgebied verkiesbaar te zijn als werknemersafgevaardigde in een veiligheidscomité. ( Art. 1, alinéa 1, b/bis, eerste lid, Gezondheid- en Veiligheidswet; artt. 2, 3 en 4 Taaldecreet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831219.14": {
+      "court": "CASS",
+      "date": "1983-12-19",
+      "roleNumber": "4049",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/19/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "Les services publics qui occupent habituellement au moins cinquante travailleurs sont tenus de créér un ou plusieurs comités de sécurité et d'hygiène, sauf si le personnel est soumis à des dispositions légales fixant leur statut syndical et prévoyant des mesures relatives à la sécurité et à l'hygiène. ( Loi du 10 juin 1952, art. 1er, paragraphes 1er, al. 3, et 4, b, 1, al. 1er, et d, al. 4. )"
+      ],
+      "abstractNL": [
+        "Overheidsdiensten die gewoonlijk ten minste 50 personeelsleden tewerkstellen, zijn verplicht een of meer veiligheidscomités op te richten, tenzij het personeel valt onder wettelijke bepalingen die hun vakbondsstatuut vaststellen en voorzien in gezondheids- en veiligheidsmaatregelen. ( Art. 1, alinéa 1, derde lid, en alinéa 4, b, 1, eerste lid, en d, vierde lid. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831219.17": {
+      "court": "CASS",
+      "date": "1983-12-19",
+      "roleNumber": "4125",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/19/sitemap_24.xml"
+      ],
+      "abstractFR": [
+        "Pour décider que deux entités juridiques ne forment pas une unité technique d'exploitation, le juge ne peut se fonder exclusivement sur les critères économiques, sans tenir compte des critères sociaux. ( Loi du 20 septembre 1948, art. 14, paragraphe 1er, al. 2, 1°, et loi du 10 juin 1952, art. 1er, paragraphe 4, b, ( 1 ), al. 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Om te beslissen dat twee juridische entiteiten niet een enkele technische bedrijfseenheid vormen, mag de rechter niet uitsluitend op de economische criteria steunen, zonder de sociale criteria in acht te nemen. ( Artt. 14, alinéa 1, tweede lid, 1°, Bedrijfsorganisatiewet, en 1, alinéa 4, b (1), tweede lid, 1°, Gezondheids- en Veiligheidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831114.3": {
+      "court": "CASS",
+      "date": "1983-11-14",
+      "roleNumber": "6970",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le jugement ayant statué sur un recours contre la décision d'un employeur prise en vue de la préparation des élections des délégués du personnel au conseil d'entreprise et au comité de sécurité et d'hygiène, n'a pas, à défaut d'identité d'objet, l'autorité de la chose jugée à l'égard du tribunal du travail saisi d'un recours contre la décision du même employeur concernant l'organisation d'élections sociales ultérieures. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 21, par. 1er, al. 1er; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux de travail, art. 1er, par. 4, b, ( 4 ) al. 5, et Code judic., art. 23. )"
+      ],
+      "abstractNL": [
+        "Het vonnis dat uitspraak doet over een beroep tegen de beslissing van een werkgever met het oog op de voorbereiding van de verkiezingen van de afgevaardigden van het personeel voor de ondernemingsraad en het comité voor veiligheid en gezondheid heeft, daar de gevorderde zaak niet dezelfde is, geen gezag van gewijsde ten aanzien van de arbeidsrechtbank waarbij een beroep is ingesteld tegen de beslissing van dezelfde werkgever betreffende de organisatie van latere sociale verkiezingen. ( Art. 21, alinéa 1, eerste lid, Bedrijfsorganisatiewet; art. 1, alinéa 4, b, (4), vijfde lid, Gezondheids en Veiligheidswet en art. 23 Ger.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820511.2": {
+      "court": "CASS",
+      "date": "1982-05-11",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une société commerciale a commis une infraction, la responsabilité pénale de celle-ci pèse sur les personnes physiques, organes ou préposés, par lesquelles elle a agi."
+      ],
+      "abstractNL": [
+        "Wanneer een handelsvennootschap een misdrijf heeft gepleegd, zijn de personen, organen of aangestelden, die voor haar zijn opgetreden, hiervoor strafrechtelijk verantwoordelijk <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811123.5": {
+      "court": "CASS",
+      "date": "1981-11-23",
+      "roleNumber": "3331",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une unité technique d'exploitation occupant habituellement en moyenne moins de 50 travailleurs fait partie d'une entité juridique occupant au moins ce nombre de travailleurs, il y a lieu de créer un comité de sécurité et d'hygiène dans l'entité juridique mais non dans l'unité technique d'exploitation. (Article 1er, par. 4, b, alinéas 1er et 4, de la loi du 10 juin 1952 modifiée par la loi du 23 janvier 1975.)"
+      ],
+      "abstractNL": [
+        "Wanneer een technische bedrijfseenheid, waar gewoonlijk gemiddeld minder dan 50 werknemers worden tewerkgesteld, deel uitmaakt van een juridische entiteit waar ten minste dit aantal werknemers wordt tewerkgesteld, moet een veiligheidscomité worden opgericht in de juridische entiteit, doch niet in de technische bedrijfseenheid. (Art. 1, alinéa 4, b, eerste, tweede en vierde lid, wet 10 juni 1952, gew. wet 23 jan. 1975.)"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810323.9": {
+      "court": "CASS",
+      "date": "1981-03-23",
+      "roleNumber": "6079",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les conditions d'éligibilité comme délégué du personnel respectivement au conseil d'entreprise et au comité de sécurité, d'hygiène et d'embellissement des lieux de travail doivent être remplies à la date des élections; il s'ensuit que le tribunal du travail, saisi du recours prévu à l'article 38 de l'arrêté royal du 18 octobre 1978 relatif aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, n'est pas tenu de vérifier si lesdites conditions existaient déjà à la date de la présentation des candidats. ( Loi du 20 septembre 1948, art. 19; loi du 10 juin 1952, art. 1er, par. 4, b bis. )"
+      ],
+      "abstractNL": [
+        "De voorwaarden om, als personeelsafgevaardigde, respectievelijk in de ondernemingsraad en in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaats verkozen te worden, moeten op de datum van de verkiezing vervuld zijn; daaruit volgt dat de arbeidsrechtbank, waarbij de voorziening, bepaald bij art. 38 K.B. van 18 oktober 1978 betreffende de ondernemingsraden en de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen is ingesteld, niet behoeft na te gaan of aan de genoemde voorwaarden reeds was voldaan op de datum van de voorstelling der kandidaten. (Art. 19 wet van 20 september 1948; art. 1, alinéa 4, b/bis, wet van 10 juni 1952.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800512.5": {
+      "court": "CASS",
+      "date": "1980-05-12",
+      "roleNumber": "2714",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Des entités juridiques distinctes ne remplissant pas toutes les conditions prévues aux articles 14, par. 2, b, de la loi du 20 septembre 1948 et 1er, par. 4, b, 2, alinéa 2, de la loi du 10 juin 1952 pour être présumées former une unité technique d'exploitation, peuvent toutefois être considérées comme une unité technique d'exploitation sur la base de critères économiques et sociaux, appréciés en fait. ( Loi du 20 septembre 1948, art. 14, par. 1er, alinéa 2, 1. ; loi du 10 juin 1952, art. 1er, par. 4, b, 1, alinéa 2, 1. )"
+      ],
+      "abstractNL": [
+        "Verschillende juridische entiteiten die niet voldoen aan alle voorwaarden, gesteld door de artt. 14, alinéa 2, b, wet van 20 september 1948 en 1, alinéa 4, b, 2, tweede lid, wet van 10 juni 1952, om te worden vermoed één technische bedrijfseenheid te vormen, kunnen niettemin op grond van feitelijk te beoordelen economische en sociale criteria als technische bedrijfseenheid worden beschouwd. ( Art. 14, alinéa 1, tweede lid, 1°, wet van 20 september 1948; art. 1, alinéa 4, b, 1, tweede lid, 1°, wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.8": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision que des entités juridiques distinctes ne constituent pas une seule unité technique d'exploitation le juge qui se fonde sur la circonstance qu'il n'est pas établi que ces entités ont été créées pour éluder l'application de la loi. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 14, par. 2, a; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, par. 4, b, 2. )"
+      ],
+      "abstractNL": [
+        "De rechter verantwoordt niet naar recht zijn beslissing dat de verschillende juridische entiteiten geen technische bedrijfseenheid vormen, wanneer hij die doet steunen op de omstandigheid dat niet is aangetoond dat die entiteiten zijn opgericht om de toepassing van de wet te omzeilen. ( Art. 14, alinéa 2, a, wet van 20 september 1948 houdende organisatie van het bedrijfsleven; art. 1, alinéa 4, b, 2, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.6": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que deux sociétés commerciales disposent de la même usine, ont une même direction, pratiquent entre elles des mutations de personnel relativement fréquentes et se trouvent en état d'interdépendance industrielle et qui déduit de ces éléments que lesdites sociétés constituent en réalité une seule unité technique d'exploitation, ne peut légalement décider que ces sociétés doivent instituer des conseils d'entreprise et des comités de sécurité et d'hygiène distincts aux motifs que, lorsque la seconde société fut créée, un conseil d'entreprise et un comité de sécurité et d'hygiène y furent institués et que depuis lors aucun élément nouveau n'est survenu qui ait modifié les relations entre les sociétés, si bien qu'un changement n'est pas opportun. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 14, par. 1er, al. 1er et 2; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, par. 4, b, 1 et 2. )"
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat twee handelsvennootschappen dezelfde fabriek en dezelfde directie hebben, dat zij hun personeel vrij geregeld uitwisselen en industrieel van elkaar afhankelijk zijn en uit die gegevens afleidt dat beide vennootschappen in feite een technische bedrijfseenheid vormen, kan hij niet wettig beslissen dat die vennootschappen afzonderlijke ondernemingsraden en comité's voor veiligheid en gezondheid moeten oprichten, op grond dat vanaf de totstandkoming van de tweede vennootschap een ondernemingsraad en een comité voor veiligheid bij die entiteit is opgericht, en dat sedertdien geen enkel nieuw gegeven aan het licht is gekomen dat de betrekkingen tussen beide vennootschappen heeft gewijzigd, zodat een wijziging niet opportuun is. ( Art. 14, alinéa 1, eerste en tweede lid, van de wet van 20 september 1948 houdende organisatie van het bedrijfsleven; art. 1, alinéa 4, b, 1 en 2, van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.7": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il énonce que des entités juridiques sont, jusqu'à preuve du contraire, présumées former une unité technique d'exploitation quand sont simultanément remplies plusieurs conditions et parmi celles-ci que les activités des entités juridiques qui résultent d'une scission restent liées entre elles, le législateur indique sa volonté de ne pas s'écarter de la signification usuelle du mot \" scission \" et que les activités des nouvelles entités juridiques devaient préalablement avoir été exercées au sein d'un ensemble; justifie, dès lors, légalement sa décision que ladite condition n'est pas remplie le juge qui constate que des entités juridiques ont été successivement créées soit pour répondre à des besoins nouveaux en matière d'assurance, soit pour des activités étrangères à celle-ci. ( Loi du 20 septembre 1948, art. 14, par. 2, b, 4.; loi du 10 juin 1952, art. 1er, par. 4, b, 2, al. 2, 4. )"
+      ],
+      "abstractNL": [
+        "Door te zeggen dat juridische entiteiten, tot het tegendeel wordt bewezen, vermoed worden één technische bedrijfseenheid te vormen wanneer tegelijkertijd verschillende voorwaarden zijn vervuld o.m. dat de activiteiten van de door splitsing ontstane juridische entiteiten op elkaar afgestemd blijven, heeft de wetgever doen blijken dat hij van de gebruikelijke betekenis van het woord \"splitsing\" niet wil afwijken en dat de activiteiten van de nieuwe juridische entiteit reeds vóór de splitsing binnen één geheel moeten hebben bestaan; naar recht verantwoord is dus de beslissing dat die voorwaarde niet is vervuld als vastgesteld is dat de juridische entiteiten achtereenvolgens zijn opgericht om tegemoet te komen aan nieuwe noden van het verzekeringswezen of aan noden die daarmee niets uitstaande hebben. ( Art. 14, alinéa 2, b, 4°, wet van 20 september 1948; art. 1, alinéa 4, b, 2e lid, 4, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800225.6": {
+      "court": "CASS",
+      "date": "1980-02-25",
+      "roleNumber": "2710",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Des entités juridiques différentes, ne remplissant pas toutes les conditions prévues aux articles 14, par. 2, b, de la loi du 20 septembre 1948 et 1er, par. 4, b, 2, alinea 2, de la loi du 10 juin 1952 pour être présumées former une unité technique d'exploitation, peuvent toutefois être considérées comme unité technique d'exploitation sur la base de critères économiques et sociaux, appréciés en fait. ( Loi du 20 septembre 1948, art. 14, par. 1er, alinéa 2, 1.; loi du 10 juin 1952, article 1er, par. 4, b, 1, alinéa 2, 1° )"
+      ],
+      "abstractNL": [
+        "Verschillende juridische entiteiten die niet voldoen aan alle voorwaarden, gesteld door artt. 14, alinéa 2, b, wet van 20 september 1948 en 1, alinéa 4, b, 2, tweede lid, wet van 10 juni 1952, om te worden vermoed een technische bedrijfseenheid te vormen, kunnen niettemin op grond van feitelijk te beoordelen economische en sociale criteria als technische bedrijfseenheid worden beschouwd. ( Wet van 20 september 1948, art. 14, alinéa 1, tweede lid, 1°; wet van 10 juni 1952, art. 1, alinéa 4, b, 1, tweede lid, 1°. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791112.4": {
+      "court": "CASS",
+      "date": "1979-11-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Des entités juridiques différentes, ne remplissant pas toutes les conditions prévues aux articles 14, par. 2, b, de la loi du 20 septembre 1948 et 1er, par. 4, b, 2, alinéa 2, de la loi du 10 juin 1952 pour être présumées former une unité technique d'exploitation, peuvent toutefois être considérées comme unités techniques d'exploitation sur la base de critères économiques et sociaux, appréciés en fait. ( Loi du 20 septembre 1948, art. 14, par. 1er, alinéa 2, 1.; loi du 10 juin 1952, art. 1er, par. 4, b, 1, al. 2, 1. )"
+      ],
+      "abstractNL": [
+        "Verschillende juridische entiteiten die niet voldoen aan alle voorwaarden, gesteld door de artt. 14, alinéa 2, b, van de wet van 20 september 1948 en 1, alinéa 4, b, 2, tweede lid, van de wet van 10 juni 1952, om te worden vermoed een technische bedrijfseenheid te vormen, kunnen niettemin op grond van feitelijk te beoordelen economische en sociale criteria als technische bedrijfseenheid worden beschouwd. ( Art. 14, alinéa 1, tweede lid, 1°, wet van 20 september 1948; art. 1, alinéa 4, b, 1, tweede lid, 1°, wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791022.7": {
+      "court": "CASS",
+      "date": "1979-10-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/22/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que les différentes unités techniques d'exploitation d'une entreprise disposent d'une autonomie sociale ne peut légalement décider que ces unités techniques ne forment qu'une entité au motif qu'il n'est pas établi qu'elles ont une autonomie économique. ( Loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la sécurité du travail et des lieux de travail, art. 1er, par. 4, b, 1, alinéa 2, 1°, modifié par l'arrêté royal n° 4 du 11 octobre 1978. )"
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat verschillende technische bedrijfseenheden van een onderneming over een sociale autonomie beschikken, kan niet wettig beslissen dat de technische eenheden een geheel vormen op grond dat niet bewezen is dat zij over een economische autonomie beschikken. ( Art. 1, alinéa 4, b, 1, tweede lid, 1°, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en de werkplaatsen, gewijzigd bij K.B. nr. 4 van 11 oktober 1978. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760519.7": {
+      "court": "CASS",
+      "date": "1976-05-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Un travailleur ne remplit pas les conditions d'éligibilité pour les élections des délégués du personnel au conseil d'entreprise et au comité de sécurité et d'hygiène dès lors qu'il n'a plus été occupé effectivement dans l'entreprise depuis plus de six mois et qu'il n'y a plus accès. ( Loi du 20 septembre 1948, art. 19, et loi du 10 juin 1952, art. 1er, par. 4, bbis, modifiés par la loi du 17 février 1971. )"
+      ],
+      "abstractNL": [
+        "Een werknemer vervult de verkiesbaarheidsvoorwaarden voor de verkiezing van personeelsafgevaardigden in de ondernemingsraad en in het comité voor veiligheid en gezondheid niet, als hij er sinds meer dan een jaar niet meer werkzaam is en er niet meer toegelaten wordt. ( Art. 19 wet van 20 september 1948 en art. 4, b/bis, wet van 10 juni 1952, gewijzigd bij de wet van 17 februari 1971. )"
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760218.10": {
+      "court": "CASS",
+      "date": "1976-02-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/02/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Un recours contre la décision statuant, lors de l'élection des délégués du personnel au conseil d'entreprise ou au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, sur la réclamation des travailleurs intéressés ou des organisations les plus représentatives intéressées contre les listes électorales ou contre la liste des personnes chargées effectivement d'un poste de direction dans l'entreprise peut être exercé auprès du tribunal du travail, non seulement par les travailleurs intéressés, mais aussi par les organisations les plus représentatives intéressées, comme telles, sans que ces organisations doivent justifier d'un mandat des travailleurs (1). (Loi du 20 septembre 1948, portant organisation de l'économie, art. 24 et loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, art. 1er, par. 4, h, modifiés par la loi du 23 janvier 1975, art. 7, 14 et 15.)"
+      ],
+      "abstractNL": [
+        "Een beroep tegen de beslissing die, bij de verkiezing van de personeelsafgevaardigden in de ondernemingsraad of in het comité voor veiligheid, gezondheid en verfraaiing der werkplaatsen, uitspraak doet over het bezwaar van de betrokken werknemers of van de betrokken meest representatieve organisaties tegen de kiezerslijsten of tegen de lijst van de personen die werkelijk met een leidinggevende functie in de onderneming zijn belast, kan worden ingesteld bij de arbeidsrechtbank, niet alleen door de betrokken werknemers, doch ook door de als dusdanig betrokken meest representatieve organisaties, zonder dat de organisaties moeten doen blijken van een volmacht van de werknemers (1). ( Art. 14 wet van 20 september 1948 houdende organisatie van het bedrijfsleven en wet van 10 juni 1952 betreffende de gezondheid en veiligheid van de werknemers alsmede de salubriteit van het werk en van de werkplaatsen, art. 1, par. 4, h, gew. bij de wet van 23 januari 1975, art. 7, 14 en 15. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751217.14": {
+      "court": "CASS",
+      "date": "1975-12-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1bis et 6 de l'arrêté royal du 18 février 1971, qui fixent les conditions d'électorat pour l'élection des délégués du personnel au comité de sécurité et d'hygiène, trouvent leur base légale dans l'article 1er, par. 4, b, alinéa 8, de la loi du 10 juin 1952. (Loi du 10 juin 1952 concernant la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, art. 1er, par. 4, b, modifié par les lois des 17 juillet 1957, 17 février 1971 et 23 janvier 1975; arrêté royal du 18 février 1971 concernant la désignation des délégués du personnel des comités et des comités d'arrondissement de sécurité, d'hygiène et d'embellissement des lieux de travail, art. 1bis et art. 6, alinéa 1er, respectivement inséré et modifié par l'arrêté royal du 24 janvier 1975.)"
+      ],
+      "abstractNL": [
+        "De artikelen 1bis en 6 van het koninklijk besluit van 18 februari 1971 tot vaststelling van de voorwaarden inzake kiesrecht voor de verkiezing van de personeelsafgevaardigden in de comités voor veiligheid, gezondheid en verfraaiing der werkplaatsen vinden hun wettelijke grondslag in artikel 1, par. 4, lid 8, van de wet van 10 juni 1952 ( Art. 1, par. 4, b, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en van de werkplaatsen, gew. bij de wetten van 17 juli 1957, 17 februari 1971 en 23 januari 1975; K.B. van 18 februari 1971 betreffende de aanwijzing van de personeelsafgevaardigden in de comités en arrondissementscomités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, artt. 1bis en 6, lid 1, respectievelijk ingevoegd en gewijzigd bij K.B. van 24 januari 1975. )"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750430.6": {
+      "court": "CASS",
+      "date": "1975-04-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/04/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si l'article 25 de l'arrêté royal du 18 février 1971 concernant la désignation des délégués du personnel des comités et des comités d'arrondissement de sécurité d'hygiène et d'embellissement des lieux de travail ne règle pas la procédure à suivre par le travailleur dans son action contre la décision de l'employeur de refuser l'affichage de sa candidature, ledit travailleur dispose d'un recours contre cette décision selon le droit commun. ( Loi du 10 juin 1952, art. 1er, paragraphe 4, h, al. 2, 3°. )"
+      ],
+      "abstractNL": [
+        "Hoewel artikel 25 van het koninklijk besluit van 18 februari 1971 betreffende de aanwijzing van de personeelsafgevaardigden in de comités en arrondissementscomités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen de procedure niet regelt welke de werknemer moet volgen in zijn rechtsvordering tegen de beslissing van de werkgever de aanplakking van diens kandidatuur te weigeren, kan de werkgever tegen deze beslissing een beroep instellen volgens het gemeen recht. ( Art. 1, par. 4, h, lid 2, 3°, wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740227.4": {
+      "court": "CASS",
+      "date": "1974-02-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le juge n'est pas tenu de répondre à un moyen énoncé dans des conclusions, lorsque ce moyen est devenu sans objet en raison de la solution qu'il a donnée au litige."
+      ],
+      "abstractNL": [
+        "De rechter is niet verplicht te antwoorden op een bij conclusie voorgedragen middel, wanneer dit middel geen reden van bestaan meer heeft wegens de oplossing welke door de rechter aan het geschil is gegeven."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731031.6": {
+      "court": "CASS",
+      "date": "1973-10-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/10/31/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que \"les raisons d'ordre économique qui ont accablé\" une entreprise ne la contraignaient pas à licencier des délégués du personnel puisque \"des activités partielles suffisantes furent poursuivies\", décide légalement que le licenciement de ces délégués n'était pas justifié par des raisons d'ordre économique au sens de l'article 1er de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail."
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat de \" economische redenen die een onderneming in moeilijkheden hebben gebracht \" haar niet dwongen de afgevaardigden van het personeel te ontslaan, daar \" voldoende gedeeltelijke werkzaamheden werden voortgezet \", beslist wettelijk dat het ontslag van deze afgevaardigden niet was gerechtvaardigd door economische redenen in de zin van artikel 1 van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en van de werkplaatsen."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721213.7": {
+      "court": "CASS",
+      "date": "1972-12-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'employeur peut exercer une \"action\" contre la présentation des listes de candidats en vue de l'élection des délégués du personnel aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, même en l'absence de réclamation des travailleurs ou des organisations représentatives intéressées. ( Loi du 10 juin 1952, art. 1er, alinéa 4, h, alinéa 2, 3°. )"
+      ],
+      "abstractNL": [
+        "De werkgever kan een vordering instellen tegen de voordracht van de kandidatenlijsten met het oog op de verkiezing van de afgevaardigden van het personeel bij het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, zelfs indien geen werknemer of geen representatieve werknemersorganisatie een klacht tegen de voordracht van de kandidaten heeft ingediend. ( Wet van 10 juni 1952, art. 1, alinéa 4, h, lid 2, 3°. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721213.8": {
+      "court": "CASS",
+      "date": "1972-12-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'aucune disposition légale ou réglementaire ne détermine le mode de calcul du nombre moyen de travailleurs habituellement occupés, le juge peut légalement décider que n'occupe pas habituellement en moyenne au moins 50 travailleurs et que, dès lors, ne doit pas créer un comité de sécurité, d'hygiène et d'embellissement des lieux de travail, l'entreprise dont l'effectif du personnel n'a cessé de diminuer et comporte moins de 50 travailleurs au moment où les élections des délégués du personnel au comité doivent avoir lieu, ainsi qu'à la fin de l'année précédente. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Wanneer geen wets- of reglementsbepaling de wijze van berekening van het gemiddeld aantal gewoonlijk tewerkgestelde werknemers bepaalt, kan de rechter wettelijk beslissen dat niet gewoonlijk een gemiddelde van ten minste 50 werknemers worden tewerkgesteld en derhalve geen comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen moet worden opgericht in een onderneming, waar de personeelsbezetting bestendig en voortdurend daalt en minder dan 50 werknemers bedraagt op het ogenblik dat de verkiezingen van de werknemersafgevaardigden in het comité moeten worden gehouden alsmede op het einde van het voorgaande jaar. ( Wet van 10 juni 1952, art. 1, alinéa 4, b, lid 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720628.14": {
+      "court": "CASS",
+      "date": "1972-06-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si une association sans but lucratif de travailleurs d'une entreprise n'a pas qualité pour introduire devant le tribunal de travail un recours pour contester les listes électorales établies, par le comité de sécurité, d'hygiène et d'embellissement des lieux de travail, pour les élections des délégués du personnel à ce comité, ladite association peut intervenir volontairement devant ce tribunal, si son intervention est conservatoire. ( Code judic., art. 2, 15, 16 et 812; loi du 10 juin 1952, art. 1er, alinéa 4, b; arrêté royal du 18 février 1971, art. 6 et 10. )"
+      ],
+      "abstractNL": [
+        "Hoewel een vereniging zonder winstoogmerk van werknemers van een onderneming niet bevoegd is om bij de arbeidsrechtbank beroep in te stellen ter betwisting van de kiezerslijsten die door het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen zijn opgemaakt, voor de verkiezing van de personeelsafgevaardigden in dit comité, kan deze vereniging vrijwillig voor deze rechtbank tussenkomen, indien haar tussenkomst conservatoir is. ( G.W., art. 2, 15, 16 en 812; wet van 10 juni 1952, art. 1, alinéa 4 b; K.B. van 18 februari 1971, art. 6 en 10. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720614.7": {
+      "court": "CASS",
+      "date": "1972-06-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La qualité de travailleurs chargés effectivement d'un poste de direction, exclus des listes électorales pour les élections des délégués du personnel au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, ne dépend ni de l'accord du chef d'entreprise et des travailleurs intéressés, ni du fait que, lors des élections précédentes, les organisations représentatives de travailleurs n'ont élevé sur ce point aucune contestation. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b, al. 5; arr. roy. du 18 février 1971, art. 1er et 6. )"
+      ],
+      "abstractNL": [
+        "De hoedanigheid van werknemers die werkelijk met een leidende functie zijn belast en niet zijn opgenomen op de kiezerslijsten voor de verkiezing van de personeelsafgevaardigden in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, hangt niet af van het akkoord tussen het ondernemingshoofd en de betrokken werknemers en evenmin van het feit, dat bij de vroegere verkiezingen, de representatieve organisaties hierover geen enkele betwisting hebben opgeworpen. ( Wet van 10 juni 1952, art. 1, alinéa 4, b, lid 5; K.B. van 18 februari 1971, art. 1 en 6. )"
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710616.11": {
+      "court": "CASS",
+      "date": "1971-06-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/06/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une partie à un contrat de travail, qui invoque un motif grave, articule des faits connus depuis plus de trois jours avant le congé ou qui se seraient produits après le congé, pour préciser ceux qui constituent le motif grave, le juge ne peut pas écarter lesdits faits au seul motif qu'ils ne peuvent être invoqués comme motifs graves."
+      ],
+      "abstractNL": [
+        "Wanneer de partij bij een arbeidsovereenkomst, die een dringende reden inroept, feiten die sedert meer dan drie dagen voor het ontslag gekend zijn of zich na het ontslag hebben voorgedaan, aanhaalt om de feiten die de dringende reden vormen, toe te lichten, mag de rechter de eerstgenoemde feiten niet van de hand wijzen om de enige reden dat zij niet als dringende reden kunnen worden ingeroepen."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710113.4": {
+      "court": "CASS",
+      "date": "1971-01-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La commission paritaire ne doit pas être préalablement consultée concernant l'existence de raisons d'ordre économique, justifiant le licenciement d'un délégué du personnel au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, lorsque le licenciement est donné par le curateur à la faillite, tenu, à l'échéance du délai qui lui a été imparti par le tribunal pour continuer l'exploitation, de cesser complètement celle-ci et de licencier tout le personnel. (Loi du 10 juin 1952, art. 1er, alinéa 4, litt. e, 1°, modifie par la loi du 17 juillet 1957.)"
+      ],
+      "abstractNL": [
+        "Het paritair comité dient niet vooraf te worden geraadpleegd omtrent het bestaan van economische redenen, die het ontslag van een werknemersafgevaardigde in een comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen verantwoorden, wanneer het ontslag wordt gegeven door de curator van het faillissement, die na het verstrijken van de hem door de rechtbank tot voortzetting van de exploitatie toegestane termijn, ertoe verplicht is de exploitatie volledig stop te zetten en al het personeel te ontslaan. (Wet van 10 juni 1952, art. 1, alinéa 4, e, 1°, gewijzigd door de wet van 17 juli 1957.)"
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680503.2": {
+      "court": "CASS",
+      "date": "1968-05-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales qui attribuent à des organisations représentatives des travailleurs, n'ayant pas la personnalité civile, la capacité d'ester en justice en certaines matières sont exceptionnelles et ne peuvent, dès lors, être étendues par analogie. (Loi du 20 septembre 1948, modifiée par celle du 28 janvier 1963, art. 24; loi du 10 juin 1952, modifiée par celles des 17 juillet 1957 et 28 janvier 1963, art. 1er, alinéa 4, litt. h.)"
+      ],
+      "abstractNL": [
+        "De wetsbepalingen die aan representatieve organisaties van de werknemers, welke geen rechtspersoonlijkheid bezitten, de bevoegdheid verlenen om in bepaalde zaken in rechte op te treden, zijn uitzonderlijk en kunnen dientengevolge niet bij wijze van analogie worden uitgebreid. (Wet van 20 september 1948, gewijzigd bij die van 28 januari 1963, art. 24; wet van 10 juni 1952, gewijzigd bij die van 17 juli 1957 en 28 januari 1963, art. 1, alinéa 4, litt. h.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670629.1": {
+      "court": "CASS",
+      "date": "1967-06-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail ou porté sur une liste de candidats en vue des élections à ce comité ne peut, pendant la période précisée par la loi, être licencié pour des raisons économiques ou techniques que lorsque celles-ci ont été préalablement reconnues par la commission paritaire compétente; lorsque la commission paritaire, consultée préalablement au licenciement, n'a pu se prononcer à défaut d'accord entre ses membres, le conseil de prud'hommes est compétent pour apprécier lui-même l'existence ou l'absence de raisons économiques ou techniques; dans ce cas toutefois la loi n'impose pas à l'employeur l'obligation de faire trancher cette question par le conseil de prud'hommes, préalablement au licenciement. (Loi du 10 juin 1952, art. 1er, alinéa 4, lettres e et h.)"
+      ],
+      "abstractNL": [
+        "De werknemer-afgevaardigde bij het comité voor veiligheid, gezondheid en verfraaiing der werkplaatsen of die op een kandidatenlijst voorkomt met het oog op de verkiezingen voor dit comité, mag tijdens de bij de wet vastgestelde periode enkel worden afgedankt om economische of technische redenen als deze redenen vooraf door het bevoegd paritair comité zijn erkend; mocht het paritair comité, dat voor de afdanking geraadpleegd werd, zich niet kunnen uitspreken bij gebreke van overeenstemming tussen zijn leden, is de werkrechtersraad bevoegd om zelf het bestaan of de afwezigheid van economische of technische redenen te beoordelen; in dit geval verplicht de wet de werkgever evenwel niet dit geschil door de werkrechtersraad, vóór de afdanking, te doen beslechten. (Wet van 10 juni 1952, art. 1, alinéa 2, litt. e en h.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670303.2": {
+      "court": "CASS",
+      "date": "1967-03-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ce n'est qu'à défaut de réintégrer le travailleur, délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, ou candidat aux élections pour la désignation des délégués du personnel audit comité, qui a été licencié et qui a régulièrement formulé une demande en réintégration, que le chef d'entreprise est tenu de payer à ce travailleur une indemnité égale au montant de sa rémunération pendant deux ans. (Loi du 10 juin 1952, art. 1er, alinéa 4, e, 3°, modifié et complété par l'article 3 de la loi du 17 juillet 1957.)"
+      ],
+      "abstractNL": [
+        "Alleen bij gebreke van wederopneming van de werknemer, afgevaardigde in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of kandidaat bij de verkiezingen voor de aanduiding van de afgevaardigden van het personeel in dit comité, die is afgedankt en regelmatig een verzoek om wederopneming heeft ingediend, is het hoofd van de onderneming ertoe gehouden een vergoeding uit te betalen, gelijk aan het bedrag van twee jaar loon. (Wet van 10 juni 1952, art. 1, alinéa 4, litt. e, 3°, gewijzigd en bijgewerkt bij art. 3 van de wet van 17 juli 1957)."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670223.2": {
+      "court": "CASS",
+      "date": "1967-02-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le conseil de prud'hommes, n'étant compétent, pour se prononcer sur l'existence ou l'absence de raisons d'ordre économique ou technique justifiant le congédiement du travailleur délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail ou porté sur une liste de candidats en vue des élections à ce comité, qu'en cas de carence de la commission paritaire, ne peut connaître de la demande tendant à faire constater l'existence ou l'absence de ces raisons, lorsque la commission paritaire n'a pas été saisie par l'employeur ou ne l'a pas été régulièrement. (Article 1er, alinéa 4, litt. e et h, de la loi du 10 juin 1952, concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux du travail, complété par la loi du 17 juillet 1957 et modifié par celle du 28 janvier 1963.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De werkrechtersraad is slechts bevoegd om uitspraak te doen over het bestaan of de afwezigheid van redenen van economische of technische aard welke de opzegging van de arbeider die bij het comité voor gezondheid, veiligheid en verfraaiing der werkplaatsen afgevaardigd of op een kandidatenlijst voor de verkiezingen van dit comité vermeld is, in geval van ontstentenis van uitspraak door het paritair comité, zodat hij geen kennis kan nemen van de aanvraag tot vaststelling van het bestaan of van de afwezigheid van die redenen, wanneer bedoelde aanvraag niet of niet regelmatig bij het paritair comité aanhangig werd gemaakt door de werkgever. (Art. 1, alinéa 4, letters e en h, van de wet van 10 juni 1952, betreffende de gezondheid en de veiligheid van de werknemers alsmede de salubriteit van het werk en van de werkplaatsen, zoals aangevuld bij de wet van 17 juli 1957 en gewijzigd bij die van 28 januari 1963.) (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660428.2": {
+      "court": "CASS",
+      "date": "1966-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales qui attribuent à des organisations représentatives des travailleurs, n'ayant pas la personnalité civile, la capacité d'ester en justice en certaines matières, sont exceptionnelles et ne peuvent, dès lors, être étendues par analogie. (Loi du 20 eptembre 1948, modifiée par celle du 28 janvier 1963, art. 24; loi du 10 juin 1952, modifiée par celles des 17 juillet 1957 et 28 janvier 1963, art. 1er, alinéa 4, litt. h.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1966:ARR.19660211.1": {
+      "court": "CASS",
+      "date": "1966-02-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un travailleur, délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, est licencié sur-le-champ, pour motifs graves, et que, contestant ces motifs, il demande, dans les trente jours suivant la date du licenciement, sa réintégration dans l'entreprise, conformément à l'article 1er, alinéa 4, e, 3°, de la loi du 10 juin 1952, modifiée par la loi du 17 juillet 1957, puis, en l'absence de réponse du chef d'entreprise, assigne celui-ci devant le juge aux fins de faire déclarer le licenciement non justifié et aux fins de payement des indemnités fixées par l'article 1er, alinéa 4, e, dernier alinéa, de la loi du 10 juin 1952, le chef d'entreprise, qui reconnaît devant le juge que le licenciement n'est pas justifié, ne peut prétendre avoir la faculté d'attendre néanmoins, avant de répondre à la demande de réintégration, la décision du juge sur la validité du licenciement."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19651022.4": {
+      "court": "CASS",
+      "date": "1965-10-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que le chef d'entreprise, postérieurement au seizième jour précédant la date d'affichage des élections des délégués du personnel au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, a notifié à un travailleur son congédiement, avec un préavis expirant après le jour de la présentation des listes de candidats, ne fait pas obstacle à ce que ce travailleur soit porté sur lesdites listes. (Art. 1er, alinéa 4, litt. e, 1°, alinéas 2 et 3, de la loi du 10 juin 1952 complétée par la loi du 17 juillet 1957; arrêté royal du 22 avril 1958, art. 2 et 13.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19651007.2": {
+      "court": "CASS",
+      "date": "1965-10-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur, délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, qui a été licencié avec un préavis, celui-ci fût-il insuffisant ou non motivé par des raisons d'ordre économique ou technique préalablement reconnues, ne peut prétendre aux indemnités prévues par l'article 1er, alinéa 4, litt. e, dernier alinéa, de la loi du 10 juin 1952 modifiée par la loi du 17 juillet 1957, s'il n'a pas demandé sa réintégration dans l'entreprise dans les trente jours suivant la date du licenciement, c'est-à-dire la date à laquelle l'employeur lui a notifié sa volonté de le congédier."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1964:ARR.19641023.3": {
+      "court": "CASS",
+      "date": "1964-10-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/10/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'action que le travailleur, délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail et renvoyé sur-le-champ pour motifs graves par le chef d'entreprise, intente contre celui-ci aux fins de faire déclarer le renvoi non justifié, n'est pas subordonnée à une demande préalable de réintégration dans l'entreprise."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1984:ARR.19840317.1": {
+      "court": "CASS",
+      "date": "1984-03-17",
+      "roleNumber": "80/7590",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/17/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De werkgever heeft niet het recht te weigeren de tijdig door representatieve werknemersorganisaties ingediende kandidatenlijsten aan te plakken, zelfs wanneer op die lijsten meer kandidaten voorkomen dan er mandaten kunnen worden toegekend. In dit laatste geval kan de werkgever, indien hij tegen de voordracht van de kandidaten wil opkomen, na de aanplakking een beroep instellen bij de arbeidsrechtbank, hetzij op grond van de artt. 24, alinéa 1, 1°, W. 20 sept. 1948, of 1, alinéa 4, b, (4), W. 10 juni 1952, hetzij op grond van art. 38 K.B., 18 oktober 1978 indien de voorwaarden voor de toepassing van dit laatste artikel zijn vervuld."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1984:ARR.19840926.4": {
+      "court": "CASS",
+      "date": "1984-09-26",
+      "roleNumber": "3621",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La mission des fonctionnaires qui dressent des procès-verbaux faisant foi jusqu'à preuve du contraire conformément à l'article 5, alinéa 3, de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, ne se limite pas à la constatation des infractions; elle consiste aussi à recueillir et signaler tous éléments de nature à éclairer et renseigner l'autorité chargée des poursuites."
+      ],
+      "abstractNL": [
+        "De opdracht van de ambtenaren die, overeenkomstig art. 5, derde lid, van de Gezondheids- en Veiligheidswet, processen-verbaal opmaken die behoudens tegenbewijs rechtsgeldig zijn, is niet beperkt tot de vaststelling van de overtredingen; zij omvat ook het inwinnen en vermelden van alle gegevens die de met de vervolging belaste overheid kunnen inlichten."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1972:ARR.19720315.6": {
+      "court": "CASS",
+      "date": "1972-03-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/15/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une réclamation a été introduite contre la liste des candidats aux élections des délégués du personnel au comité de sécurité, d'hygiène et d'embellissement des lieux de travail présentés par une organisation représentative de travailleurs, et que ladite organisation maintient la liste de ses candidats, un recours est ouvert aux travailleurs intéressés et aux organisations représentatives de travailleurs intéressées, comme telles; ce recours est exercé par requête adressée au tribunal du travail. ( Loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux de travail, art. 10, alinéa 4, h, modifié par les lois des 10 octobre 1967 et 17 février 1971; arrêté royal du 18 février 1971, concernant la désignation des délégués du personnel des comités et des comités d'arrondissement de sécurité, d'hygiène et d'embellissement des lieux de travail, art. 25. )"
+      ],
+      "abstractNL": [
+        "Ingeval een klacht is ingediend tegen de lijst van kandidaten voor de verkiezing van de personeelsafgevaardigden in het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, die zijn voorgedragen door een representatieve werknemersorganisatie, en deze organisatie de lijst van haar kandidaten handhaaft, kunnen de betrokken werknemers en de betrokken representatieve werknemersorganisaties, als dusdanig, beroep instellen door aan de arbeidsrechtbank een verzoekschrift te richten. ( Wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en van de werkplaatsen, art. 1, alinéa 4, h, gewijzigd bij de wetten van 10 oktober 1967 en 17 februari 1971; koninklijk besluit van 18 februari 1971 betreffende de aanwijzing van de personeelsafgevaardigden in de comités en arrondissementscomités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, artikel 25. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810105.3": {
+      "court": "CASS",
+      "date": "1981-01-05",
+      "roleNumber": "76/189",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 10, alinéa 2 de l'A.R. du 11 octobre 1978 prévoit que le jugement du tribunal du travail et l'arrêt de la cour du travail sont portés à la connaissance des parties par pli judiciaire. Le même article prévoit que la notification, par pli judiciaire, du jugement du tribunal du travail fait courir le délai d'appel alors que l'article précité ne prévoit aucune règle quant au délai pour se pourvoir en cassation. Par conséquent, la règle générale contenue dans l'article 1073, al. 1er du Code judiciaire _ qui détermine que le délai pour introduire un pourvoi en cassation commence à courir à partir du jour de la signification de la décision attaquée _ reste d'application, à défaut d'une dérogation légale à cette règle."
+      ],
+      "abstractNL": [
+        "Artikel 10, alinéa 2, van het K.B. van 11 oktober 1978 voorziet dat het vonnis van de arbeidsrechtbank en het arrest van het arbeidshof bij gerechtsbrief aan de partijen ter kennis worden gebracht. In hetzelfde artikel 10, alinéa 2, wordt bepaald dat de kennisgeving, bij gerechtsbrief, van het vonnis van de arbeidsrechtbank de termijn voor het instellen van hoger beroep doet lopen terwijl voormeld artikel geen regeling inhoudt betreffende de termijn om zich in cassatie te voorzien. Bijgevolg en bij gebrek aan een wettelijke afwijking hiervan blijft de algemene regel vervat in artikel 1073, eerste lid, van het G.W., dat bepaalt dat de termijn om zich in cassatie te voorzien loopt te rekenen vanaf de dag waarop de bestreden beslissing is betekend, van toepassing."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1988:ARR.19881109.14": {
+      "court": "CASS",
+      "date": "1988-11-09",
+      "roleNumber": "6953",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/11/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 11 de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux du travail, modifié par l'arrêté royal n° 15 du 23 octobre 1978, l'action publique résultant des infractions aux dispositions des arrêtés pris en exécution de cette loi est prescrite après trois ans révolus à compter du jour où l'infraction a été commise; cette règle est absolue et s'applique même si, par admission de circonstances atténuantes, le juge ne prononce qu'une peine de police."
+      ],
+      "abstractNL": [
+        "Luidens art. 11 Gezondheid en Veiligheidswet ( gewijzigd bij K.B. nr. 15 van 23 oktober 1978 ) verjaart de strafvordering voortvloeiend uit overtredingen van de bepalingen van de ter uitvoering van die wet genomen besluiten door verloop van volle drie jaren, te rekenen van de dag waarop de overtreding is gepleegd; zulks is een absolute regel die zelfs van toepassing is, ook al spreekt de rechter, met aanneming van verzachtende omstandigheden, slechts een politiestraf uit."
+      ]
+    }
+  },
+  "2244": {
+    "ECLI:BE:CASS:2003:ARR.20030317.20": {
+      "court": "CASS",
+      "date": "2003-03-17",
+      "roleNumber": "S010182N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/03/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une citation interrompt la prescription pour la demande qu'elle introduit ainsi que pour la demande dont l'objet est virtuellement compris dans la citation; l'interruption de cette dernière demande requiert que l'objet de cette demande soit virtuellement compris dans l'objet de la demande introduite par la citation (1). (1) Voir Cass., 7 mai 2001, RG S.00.0047.N, n° 258."
+      ],
+      "abstractNL": [
+        "Een dagvaarding stuit de verjaring voor de vordering die ze inleidt en voor de vordering die daarin virtueel begrepen is; voor de stuiting van laatstgenoemde vordering is vereist dat het voorwerp van die vordering virtueel begrepen is in het voorwerp van de bij de dagvaarding ingestelde vordering (1). (1) Zie Cass., 7 mei 2001, AR S.00.0047.N, nr 258."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19880215.9": {
       "court": "CASS",
@@ -420,6 +1216,356 @@
       "abstractFR": null,
       "abstractNL": [
         "Art. 475 faillissementswet heeft aan de rechtbank van koophandel de zorg overgelaten, in het belang van de schuldeisers, dus ook in het belang van de werknemers van het failliete bedrijf, te oordelen of er aanleiding toe bestaat om de voortzetting van de handelsverrichtingen van de gefailleerde te bevelen, en de duur van die voortzetting te bepalen. Wanneer de curator, ter uitvoering van zijn gerechtelijke opdracht, na het verstrijken van de hem door de rechtbank tot de voortzetting van de exploitatie toegestane termijn, ertoe verplicht is de exploitatie volledig stop te zetten en al het personeel af te danken, kan een aldus afgedankte werknemer, werknemersafgevaardigde van het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, zijn wederopneming in de wettelijk en definitief stopgezette onderneming niet eisen op grond dat de curator het advies van het paritair comité niet heeft ingewonnen alvorens hem af te danken; de curator kan aan die werknemer geen vergoeding verschuldigd zijn om hem niet te hebben wederopgenomen in een exploitatie die wettelijk heeft opgehouden te bestaan"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730215.15": {
+      "court": "CASS",
+      "date": "1973-02-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/15/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Sauf le cas où l'employé invoque son incapacité de travail, les lois coordonnées relatives au contrat d'emploi n'autorisent ni l'obligent l'employeur à faire procéder à un contrôle médical de l'employé. ( Lois coordonnées le 20 juillet 1955, art. 9, modifié par l'article 39 et la loi du 21 novembre 1969. )"
+      ],
+      "abstractNL": [
+        "De gecoördineerde wetten betreffende het bediendencontract staan de werkgever niet toe of verplichten hem niet de bediende geneeskundig te laten controleren, behoudens in het geval dat de bediende zich op zijn arbeidsongeschiktheid beroept. ( Gecoördineerde wetten van 20 juli 1955, art. 9, gewijzigd bij artikel 39 van de wet van 21 november 1969. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661028.2": {
+      "court": "CASS",
+      "date": "1966-10-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est non recevable, à défaut d'intérêt, le moyen pris de ce que la sentence du conseil de prud'homme d'appel ne contient pas un exposé suffisant des griefs de la partie appelante, demanderesse en cassation, lorsque la sentence a donné une réponse adéquate à tous les griefs proposés par ladite partie."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk, bij gebreke van belang, het middel afgeleid hieruit dat de sententie van de werkrechtersraad van beroep geen genoegzame uiteenzetting van de grieven van appellante, eiseres in cassatie, inhoudt, wanneer de sententie een passend antwoord op alle grieven van die partij heeft verstrekt."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19961125.8": {
+      "court": "CASS",
+      "date": "1996-11-25",
+      "roleNumber": "S960006N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le jugement rendu dans le cadre d'un litige relatif à l'institution d'organes de concertation et à la tenue d'élections sociales est susceptible d'appel lorsque l'employeur n'a pas procédé aux opérations préliminaires à la procédure d'élection qui relèvent de son devoir d'information et de consultation."
+      ],
+      "abstractNL": [
+        "Het vonnis gewezen in het kader van een geschil in verband met het instellen van overlegorganen en het houden van sociale verkiezingen, is vatbaar voor hoger beroep wanneer de werkgever de aan de verkiezingsprocedure voorafgaande handelingen van informatie- en consultatieplicht niet heeft verricht."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951127.3": {
+      "court": "CASS",
+      "date": "1995-11-27",
+      "roleNumber": "S950069F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal du travail compétent pour statuer sur la reconnaissance d'unités techniques d'exploitation et sur l'institution de conseils d'entreprise et de comités de sécurité et d'hygiène est, en règle, celui du lieu du travail."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank van de plaats van het werk is, in de regel, bevoegd om uitspraak te doen over de erkenning van technische bedrijfseenheden en over de instelling van ondernemingsraden en veiligheidscomités."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930125.5": {
+      "court": "CASS",
+      "date": "1993-01-25",
+      "roleNumber": "9357",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/25/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui a été licencié en violation de l'article 1er bis, alinéa 2, de la loi du 10 juin 1952 ne peut être présenté comme candidat aux élections pour le comité de sécurité et d'hygiène que s'il a été licencié pendant la période commencant le trentieme jour qui précède l'affichage de l'avis fixant la date des élections. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b bis, alinéa 4; Voir L. 20 septembre 1948, art. 19, al. 4; voir également L. 20 septembre 1948, art. 19, al. 1er, 3°, et L. 10 juin 1952, art. 1er, alinéa 4, b bis, al. 1er, 3°;"
+      ],
+      "abstractNL": [
+        "De werknemer die in strijd met art. 1bis, alinéa 2, Gezondheid en Veiligheidswet werd ontslagen, mag alleen als kandidaat bij de verkiezingen voor het Comité voor veiligheid en gezondheid worden voorgedragen indien hij werd ontslagen tijdens de periode die begint te lopen van de dertigste dag af voorafgaande aan de aanplakking van het bericht dat de verkiezingsdatum vaststelt. (Art. 1, alinéa 4, b bis, vierde lid, Gezondheid en Veiligheidswet); Zie art. 19, vierde lid, Bedrijfsorganisatiewet; zie ook art. 19, eerste lid, 3°, Bedrijfsorganisatiewet en art. 1, alinéa 4, b bis, eerste lid, 3°, Gezondheid en Veiligheidswet;"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920914.4": {
+      "court": "CASS",
+      "date": "1992-09-14",
+      "roleNumber": "9328",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/09/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour être éligible au conseil d'entreprise ou au comité de sécurité et d'hygiène d'une des unités techniques d'exploitation relevant d'une même entité juridique, le candidat doit être occupé dans l'unité technique d'exploitation où il est présenté. ( Loi du 20 septembre 1948, art. 14, alinéa 1er, alinéa 2, 1°, et Loi du 10 juin 1952, art. 1er, alinéa 4, b, 1, alinéa 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Om verkiesbaar te zijn voor de ondernemingsraad of het veiligheidscomité van één van de technische bedrijfseenheden die ressorteren onder dezelfde juridische entiteit, moet de kandidaat tewerkgesteld zijn in de technische bedrijfseenheid waarin hij wordt voorgedragen. ( Art. 14, alinéa 1, tweede lid, 1°, Bedrijfsorganisatiewet van 20 september 1948; art. 1, alinéa 4, b, 1, tweede lid, 1°, Wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910422.16": {
+      "court": "CASS",
+      "date": "1991-04-22",
+      "roleNumber": "7429",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/22/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "La délégation syndicale exerce les missions du comité de sécurité et d'hygiène dans chaque entreprise occupant moins de cinquante travailleurs, dans la mesure où il n'existe pas d'obligation légale d'instituer un comité (*). ( Loi du 10 juin 1965, art. 1er, alinéa 4, b, 4; A.R. du 18 octobre 1978, art. 80 (**). )"
+      ],
+      "abstractNL": [
+        "De vakbondsafvaardiging oefent de opdrachten van het veiligheidscomité uit in elke onderneming die minder dan vijftig werknemers tewerkstelt, in zoverre er geen wettelijke verplichting tot oprichting van een comité bestaat (*). ( Art. 1, alinéa 4, b, 4, Gezondheid en Veiligheidswet van 10 juni 1952; art. 80, K.B. van 18 oktober 1978 (**). )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900212.8": {
+      "court": "CASS",
+      "date": "1990-02-12",
+      "roleNumber": "6866;6974",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/02/12/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Est tardif et, dès lors, irrecevable le pourvoi formé plus de trois mois après la notification au demandeur, par pli judiciaire, de la décision rendue par une juridiction du travail dans un litige en matière d'élections des conseils d'entreprise et des comités de sécurité et d'hygiène. ( Code judiciaire, art. 57 et 1073, alinéa 1er; loi du 20 septembre 1948, art. 24, alinéa alinéa 1er, 1° et 2; loi du 10 juin 1952, art. 1er, alinéa 4, h, 1° et i; arr. roy. du 31 juillet 1986, art. 81, 5°. )"
+      ],
+      "abstractNL": [
+        "Tardief en derhalve niet ontvankelijk is de voorziening die is ingesteld meer dan drie maanden nadat de beslissing van het arbeidsgerecht over een geschil betreffende verkiezingen voor de ondernemingsraden en de veiligheidscomités bij gerechtsbrief ter kennis van de eiser is gebracht. ( Artt. 57 en 1073, eerste lid, Gerechtelijk Wetboek; art. 24, alinéa alinéa 1, 1°, en 2, Bedrijfsorganisatiewet; art. 1, alinéa 4, h, 1°, en i, Gezondheid en Veiligheidswet; art. 81, 5°, K.B. 31 juli 1986. )"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881109.14": {
+      "court": "CASS",
+      "date": "1988-11-09",
+      "roleNumber": "6953",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/11/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 11 de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux du travail, modifié par l'arrêté royal n° 15 du 23 octobre 1978, l'action publique résultant des infractions aux dispositions des arrêtés pris en exécution de cette loi est prescrite après trois ans révolus à compter du jour où l'infraction a été commise; cette règle est absolue et s'applique même si, par admission de circonstances atténuantes, le juge ne prononce qu'une peine de police."
+      ],
+      "abstractNL": [
+        "Luidens art. 11 Gezondheid en Veiligheidswet ( gewijzigd bij K.B. nr. 15 van 23 oktober 1978 ) verjaart de strafvordering voortvloeiend uit overtredingen van de bepalingen van de ter uitvoering van die wet genomen besluiten door verloop van volle drie jaren, te rekenen van de dag waarop de overtreding is gepleegd; zulks is een absolute regel die zelfs van toepassing is, ook al spreekt de rechter, met aanneming van verzachtende omstandigheden, slechts een politiestraf uit."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860616.13": {
+      "court": "CASS",
+      "date": "1986-06-16",
+      "roleNumber": "5172",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/06/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas une fin de non-recevoir déduite du défaut d'intérêt, l'exception qui équivaut à demander à la Cour l'annulation d'une décision de laquelle devrait ressortir le prétendu défaut d'intérêt."
+      ],
+      "abstractNL": [
+        "Geen grond van niet-ontvankelijkheid afgeleid uit gebrek aan belang, levert een exceptie op die erop neerkomt het Hof om vernietiging te verzoeken van een beslissing waaruit het beweerde gebrek aan belang zou moeten blijken."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860113.16": {
+      "court": "CASS",
+      "date": "1986-01-13",
+      "roleNumber": "4960",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la commission paritaire ne s'est pas prononcée, dans les deux mois, sur la demande de l'employeur tendant à faire reconnaître l'existence de raisons d'ordre économique ou technique permettant de licencier un travailleur, l'employeur n'est pas tenu d'introduire une demande devant les juridictions du travail tendant à faire constater l'existence de telles raisons avant de licencier le travailleur ( Loi du 20 septembre 1948, art. 20, par. 2 et 24, par. 1er, 2°; loi du 10 juin 1952, art. 1er, par. 4, h, 2°, et 1er bis, par. 2; Arr. roy. 18 octobre 1978, art. 74 et 75 )."
+      ],
+      "abstractNL": [
+        "Wanneer het paritair comité zich binnen 2 maanden niet heeft uitgesproken over de aanvraag van de werkgever tot erkenning van economische of technische redenen om een beschermde werknemer te ontslaan, is de werkgever niet verplicht een aanvraag bij de arbeidsgerechten in te dienen om het bestaan van zulke redenen te doen vaststellen alvorens de werknemer te ontslaan. ( Artt. 20, alinéa 2, en 24, alinéa 1, 2°, Bedrijfsorganisatiewet; artt. 1, alinéa 4, h, 2°, en 1bis, alinéa 2, Gezondheid en Veiligheidswet; artt. 74 en 75 K.B. 18 oktober 1978. )"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840116.9": {
+      "court": "CASS",
+      "date": "1984-01-16",
+      "roleNumber": "4140",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/16/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La connaissance du néerlandais ne constitue pas une condition pour être élu, dans la région de langue néerlandaise, en tant que délégué du personnel au sein du conseil d'entreprise. (Loi du 10 juin 1952, art. 1er, par. 4, bbis, alinéa 1er; décret du 19 juillet 1973, art. 2, 3 et 4.)"
+      ],
+      "abstractNL": [
+        "De kennis van het Nederlands is geen voorwaarde om in het Nederlandse taalgebied verkiesbaar te zijn als werknemersafgevaardigde in een veiligheidscomité. ( Art. 1, alinéa 1, b/bis, eerste lid, Gezondheid- en Veiligheidswet; artt. 2, 3 en 4 Taaldecreet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831219.14": {
+      "court": "CASS",
+      "date": "1983-12-19",
+      "roleNumber": "4049",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/19/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "Les services publics qui occupent habituellement au moins cinquante travailleurs sont tenus de créér un ou plusieurs comités de sécurité et d'hygiène, sauf si le personnel est soumis à des dispositions légales fixant leur statut syndical et prévoyant des mesures relatives à la sécurité et à l'hygiène. ( Loi du 10 juin 1952, art. 1er, paragraphes 1er, al. 3, et 4, b, 1, al. 1er, et d, al. 4. )"
+      ],
+      "abstractNL": [
+        "Overheidsdiensten die gewoonlijk ten minste 50 personeelsleden tewerkstellen, zijn verplicht een of meer veiligheidscomités op te richten, tenzij het personeel valt onder wettelijke bepalingen die hun vakbondsstatuut vaststellen en voorzien in gezondheids- en veiligheidsmaatregelen. ( Art. 1, alinéa 1, derde lid, en alinéa 4, b, 1, eerste lid, en d, vierde lid. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831219.17": {
+      "court": "CASS",
+      "date": "1983-12-19",
+      "roleNumber": "4125",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/12/19/sitemap_24.xml"
+      ],
+      "abstractFR": [
+        "Pour décider que deux entités juridiques ne forment pas une unité technique d'exploitation, le juge ne peut se fonder exclusivement sur les critères économiques, sans tenir compte des critères sociaux. ( Loi du 20 septembre 1948, art. 14, paragraphe 1er, al. 2, 1°, et loi du 10 juin 1952, art. 1er, paragraphe 4, b, ( 1 ), al. 2, 1°. )"
+      ],
+      "abstractNL": [
+        "Om te beslissen dat twee juridische entiteiten niet een enkele technische bedrijfseenheid vormen, mag de rechter niet uitsluitend op de economische criteria steunen, zonder de sociale criteria in acht te nemen. ( Artt. 14, alinéa 1, tweede lid, 1°, Bedrijfsorganisatiewet, en 1, alinéa 4, b (1), tweede lid, 1°, Gezondheids- en Veiligheidswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831114.3": {
+      "court": "CASS",
+      "date": "1983-11-14",
+      "roleNumber": "6970",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le jugement ayant statué sur un recours contre la décision d'un employeur prise en vue de la préparation des élections des délégués du personnel au conseil d'entreprise et au comité de sécurité et d'hygiène, n'a pas, à défaut d'identité d'objet, l'autorité de la chose jugée à l'égard du tribunal du travail saisi d'un recours contre la décision du même employeur concernant l'organisation d'élections sociales ultérieures. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 21, par. 1er, al. 1er; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la salubrité du travail et des lieux de travail, art. 1er, par. 4, b, ( 4 ) al. 5, et Code judic., art. 23. )"
+      ],
+      "abstractNL": [
+        "Het vonnis dat uitspraak doet over een beroep tegen de beslissing van een werkgever met het oog op de voorbereiding van de verkiezingen van de afgevaardigden van het personeel voor de ondernemingsraad en het comité voor veiligheid en gezondheid heeft, daar de gevorderde zaak niet dezelfde is, geen gezag van gewijsde ten aanzien van de arbeidsrechtbank waarbij een beroep is ingesteld tegen de beslissing van dezelfde werkgever betreffende de organisatie van latere sociale verkiezingen. ( Art. 21, alinéa 1, eerste lid, Bedrijfsorganisatiewet; art. 1, alinéa 4, b, (4), vijfde lid, Gezondheids en Veiligheidswet en art. 23 Ger.W. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820511.2": {
+      "court": "CASS",
+      "date": "1982-05-11",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une société commerciale a commis une infraction, la responsabilité pénale de celle-ci pèse sur les personnes physiques, organes ou préposés, par lesquelles elle a agi."
+      ],
+      "abstractNL": [
+        "Wanneer een handelsvennootschap een misdrijf heeft gepleegd, zijn de personen, organen of aangestelden, die voor haar zijn opgetreden, hiervoor strafrechtelijk verantwoordelijk <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.8": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision que des entités juridiques distinctes ne constituent pas une seule unité technique d'exploitation le juge qui se fonde sur la circonstance qu'il n'est pas établi que ces entités ont été créées pour éluder l'application de la loi. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 14, par. 2, a; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, par. 4, b, 2. )"
+      ],
+      "abstractNL": [
+        "De rechter verantwoordt niet naar recht zijn beslissing dat de verschillende juridische entiteiten geen technische bedrijfseenheid vormen, wanneer hij die doet steunen op de omstandigheid dat niet is aangetoond dat die entiteiten zijn opgericht om de toepassing van de wet te omzeilen. ( Art. 14, alinéa 2, a, wet van 20 september 1948 houdende organisatie van het bedrijfsleven; art. 1, alinéa 4, b, 2, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.6": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que deux sociétés commerciales disposent de la même usine, ont une même direction, pratiquent entre elles des mutations de personnel relativement fréquentes et se trouvent en état d'interdépendance industrielle et qui déduit de ces éléments que lesdites sociétés constituent en réalité une seule unité technique d'exploitation, ne peut légalement décider que ces sociétés doivent instituer des conseils d'entreprise et des comités de sécurité et d'hygiène distincts aux motifs que, lorsque la seconde société fut créée, un conseil d'entreprise et un comité de sécurité et d'hygiène y furent institués et que depuis lors aucun élément nouveau n'est survenu qui ait modifié les relations entre les sociétés, si bien qu'un changement n'est pas opportun. ( Loi du 20 septembre 1948 portant organisation de l'économie, art. 14, par. 1er, al. 1er et 2; loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, art. 1er, par. 4, b, 1 et 2. )"
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat twee handelsvennootschappen dezelfde fabriek en dezelfde directie hebben, dat zij hun personeel vrij geregeld uitwisselen en industrieel van elkaar afhankelijk zijn en uit die gegevens afleidt dat beide vennootschappen in feite een technische bedrijfseenheid vormen, kan hij niet wettig beslissen dat die vennootschappen afzonderlijke ondernemingsraden en comité's voor veiligheid en gezondheid moeten oprichten, op grond dat vanaf de totstandkoming van de tweede vennootschap een ondernemingsraad en een comité voor veiligheid bij die entiteit is opgericht, en dat sedertdien geen enkel nieuw gegeven aan het licht is gekomen dat de betrekkingen tussen beide vennootschappen heeft gewijzigd, zodat een wijziging niet opportuun is. ( Art. 14, alinéa 1, eerste en tweede lid, van de wet van 20 september 1948 houdende organisatie van het bedrijfsleven; art. 1, alinéa 4, b, 1 en 2, van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800331.7": {
+      "court": "CASS",
+      "date": "1980-03-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/31/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il énonce que des entités juridiques sont, jusqu'à preuve du contraire, présumées former une unité technique d'exploitation quand sont simultanément remplies plusieurs conditions et parmi celles-ci que les activités des entités juridiques qui résultent d'une scission restent liées entre elles, le législateur indique sa volonté de ne pas s'écarter de la signification usuelle du mot \" scission \" et que les activités des nouvelles entités juridiques devaient préalablement avoir été exercées au sein d'un ensemble; justifie, dès lors, légalement sa décision que ladite condition n'est pas remplie le juge qui constate que des entités juridiques ont été successivement créées soit pour répondre à des besoins nouveaux en matière d'assurance, soit pour des activités étrangères à celle-ci. ( Loi du 20 septembre 1948, art. 14, par. 2, b, 4.; loi du 10 juin 1952, art. 1er, par. 4, b, 2, al. 2, 4. )"
+      ],
+      "abstractNL": [
+        "Door te zeggen dat juridische entiteiten, tot het tegendeel wordt bewezen, vermoed worden één technische bedrijfseenheid te vormen wanneer tegelijkertijd verschillende voorwaarden zijn vervuld o.m. dat de activiteiten van de door splitsing ontstane juridische entiteiten op elkaar afgestemd blijven, heeft de wetgever doen blijken dat hij van de gebruikelijke betekenis van het woord \"splitsing\" niet wil afwijken en dat de activiteiten van de nieuwe juridische entiteit reeds vóór de splitsing binnen één geheel moeten hebben bestaan; naar recht verantwoord is dus de beslissing dat die voorwaarde niet is vervuld als vastgesteld is dat de juridische entiteiten achtereenvolgens zijn opgericht om tegemoet te komen aan nieuwe noden van het verzekeringswezen of aan noden die daarmee niets uitstaande hebben. ( Art. 14, alinéa 2, b, 4°, wet van 20 september 1948; art. 1, alinéa 4, b, 2e lid, 4, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791112.4": {
+      "court": "CASS",
+      "date": "1979-11-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Des entités juridiques différentes, ne remplissant pas toutes les conditions prévues aux articles 14, par. 2, b, de la loi du 20 septembre 1948 et 1er, par. 4, b, 2, alinéa 2, de la loi du 10 juin 1952 pour être présumées former une unité technique d'exploitation, peuvent toutefois être considérées comme unités techniques d'exploitation sur la base de critères économiques et sociaux, appréciés en fait. ( Loi du 20 septembre 1948, art. 14, par. 1er, alinéa 2, 1.; loi du 10 juin 1952, art. 1er, par. 4, b, 1, al. 2, 1. )"
+      ],
+      "abstractNL": [
+        "Verschillende juridische entiteiten die niet voldoen aan alle voorwaarden, gesteld door de artt. 14, alinéa 2, b, van de wet van 20 september 1948 en 1, alinéa 4, b, 2, tweede lid, van de wet van 10 juni 1952, om te worden vermoed een technische bedrijfseenheid te vormen, kunnen niettemin op grond van feitelijk te beoordelen economische en sociale criteria als technische bedrijfseenheid worden beschouwd. ( Art. 14, alinéa 1, tweede lid, 1°, wet van 20 september 1948; art. 1, alinéa 4, b, 1, tweede lid, 1°, wet van 10 juni 1952. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791022.7": {
+      "court": "CASS",
+      "date": "1979-10-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/22/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que les différentes unités techniques d'exploitation d'une entreprise disposent d'une autonomie sociale ne peut légalement décider que ces unités techniques ne forment qu'une entité au motif qu'il n'est pas établi qu'elles ont une autonomie économique. ( Loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs ainsi que la sécurité du travail et des lieux de travail, art. 1er, par. 4, b, 1, alinéa 2, 1°, modifié par l'arrêté royal n° 4 du 11 octobre 1978. )"
+      ],
+      "abstractNL": [
+        "De rechter die vaststelt dat verschillende technische bedrijfseenheden van een onderneming over een sociale autonomie beschikken, kan niet wettig beslissen dat de technische eenheden een geheel vormen op grond dat niet bewezen is dat zij over een economische autonomie beschikken. ( Art. 1, alinéa 4, b, 1, tweede lid, 1°, wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en de werkplaatsen, gewijzigd bij K.B. nr. 4 van 11 oktober 1978. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721213.8": {
+      "court": "CASS",
+      "date": "1972-12-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'aucune disposition légale ou réglementaire ne détermine le mode de calcul du nombre moyen de travailleurs habituellement occupés, le juge peut légalement décider que n'occupe pas habituellement en moyenne au moins 50 travailleurs et que, dès lors, ne doit pas créer un comité de sécurité, d'hygiène et d'embellissement des lieux de travail, l'entreprise dont l'effectif du personnel n'a cessé de diminuer et comporte moins de 50 travailleurs au moment où les élections des délégués du personnel au comité doivent avoir lieu, ainsi qu'à la fin de l'année précédente. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Wanneer geen wets- of reglementsbepaling de wijze van berekening van het gemiddeld aantal gewoonlijk tewerkgestelde werknemers bepaalt, kan de rechter wettelijk beslissen dat niet gewoonlijk een gemiddelde van ten minste 50 werknemers worden tewerkgesteld en derhalve geen comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen moet worden opgericht in een onderneming, waar de personeelsbezetting bestendig en voortdurend daalt en minder dan 50 werknemers bedraagt op het ogenblik dat de verkiezingen van de werknemersafgevaardigden in het comité moeten worden gehouden alsmede op het einde van het voorgaande jaar. ( Wet van 10 juni 1952, art. 1, alinéa 4, b, lid 1. )"
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710616.11": {
+      "court": "CASS",
+      "date": "1971-06-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/06/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une partie à un contrat de travail, qui invoque un motif grave, articule des faits connus depuis plus de trois jours avant le congé ou qui se seraient produits après le congé, pour préciser ceux qui constituent le motif grave, le juge ne peut pas écarter lesdits faits au seul motif qu'ils ne peuvent être invoqués comme motifs graves."
+      ],
+      "abstractNL": [
+        "Wanneer de partij bij een arbeidsovereenkomst, die een dringende reden inroept, feiten die sedert meer dan drie dagen voor het ontslag gekend zijn of zich na het ontslag hebben voorgedaan, aanhaalt om de feiten die de dringende reden vormen, toe te lichten, mag de rechter de eerstgenoemde feiten niet van de hand wijzen om de enige reden dat zij niet als dringende reden kunnen worden ingeroepen."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710113.4": {
+      "court": "CASS",
+      "date": "1971-01-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La commission paritaire ne doit pas être préalablement consultée concernant l'existence de raisons d'ordre économique, justifiant le licenciement d'un délégué du personnel au comité de sécurité, d'hygiène et d'embellissement des lieux de travail, lorsque le licenciement est donné par le curateur à la faillite, tenu, à l'échéance du délai qui lui a été imparti par le tribunal pour continuer l'exploitation, de cesser complètement celle-ci et de licencier tout le personnel. (Loi du 10 juin 1952, art. 1er, alinéa 4, litt. e, 1°, modifie par la loi du 17 juillet 1957.)"
+      ],
+      "abstractNL": [
+        "Het paritair comité dient niet vooraf te worden geraadpleegd omtrent het bestaan van economische redenen, die het ontslag van een werknemersafgevaardigde in een comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen verantwoorden, wanneer het ontslag wordt gegeven door de curator van het faillissement, die na het verstrijken van de hem door de rechtbank tot voortzetting van de exploitatie toegestane termijn, ertoe verplicht is de exploitatie volledig stop te zetten en al het personeel te ontslaan. (Wet van 10 juni 1952, art. 1, alinéa 4, e, 1°, gewijzigd door de wet van 17 juli 1957.)"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670629.1": {
+      "court": "CASS",
+      "date": "1967-06-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur délégué au comité de sécurité, d'hygiène et d'embellissement des lieux de travail ou porté sur une liste de candidats en vue des élections à ce comité ne peut, pendant la période précisée par la loi, être licencié pour des raisons économiques ou techniques que lorsque celles-ci ont été préalablement reconnues par la commission paritaire compétente; lorsque la commission paritaire, consultée préalablement au licenciement, n'a pu se prononcer à défaut d'accord entre ses membres, le conseil de prud'hommes est compétent pour apprécier lui-même l'existence ou l'absence de raisons économiques ou techniques; dans ce cas toutefois la loi n'impose pas à l'employeur l'obligation de faire trancher cette question par le conseil de prud'hommes, préalablement au licenciement. (Loi du 10 juin 1952, art. 1er, alinéa 4, lettres e et h.)"
+      ],
+      "abstractNL": [
+        "De werknemer-afgevaardigde bij het comité voor veiligheid, gezondheid en verfraaiing der werkplaatsen of die op een kandidatenlijst voorkomt met het oog op de verkiezingen voor dit comité, mag tijdens de bij de wet vastgestelde periode enkel worden afgedankt om economische of technische redenen als deze redenen vooraf door het bevoegd paritair comité zijn erkend; mocht het paritair comité, dat voor de afdanking geraadpleegd werd, zich niet kunnen uitspreken bij gebreke van overeenstemming tussen zijn leden, is de werkrechtersraad bevoegd om zelf het bestaan of de afwezigheid van economische of technische redenen te beoordelen; in dit geval verplicht de wet de werkgever evenwel niet dit geschil door de werkrechtersraad, vóór de afdanking, te doen beslechten. (Wet van 10 juni 1952, art. 1, alinéa 2, litt. e en h.)"
       ]
     }
   }
