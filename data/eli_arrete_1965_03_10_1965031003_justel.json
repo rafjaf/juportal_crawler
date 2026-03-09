@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810930.6": {
+      "court": "CASS",
+      "date": "1981-09-30",
+      "roleNumber": "1726",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le moyen pris du défaut de réponse à des conclusions prises par une autre partie civile est recevable si la solution de la contestation ainsi soulevée par ces conclusions présente un intérêt pour celle du litige existant entre la partie demanderesse, aussi partie civile, et les prévenus."
+      ],
+      "abstractNL": [
+        "Een middel afgeleid uit het gebrek aan antwoord op een door een andere burgerlijke partij genomen conclusie is ontvankelijk als de oplossing van het derwijze in die conclusie opgeworpen geschil van belang is voor de oplossing van het geschil tussen de eiseres, ook als burgerlijke partij, en de beklaagden."
+      ]
+    }
+  }
+}

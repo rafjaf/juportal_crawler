@@ -1,0 +1,32 @@
+{
+  "9": {
+    "ECLI:BE:CASS:1967:ARR.19670524.7": {
+      "court": "CASS",
+      "date": "1967-05-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'obligation imposée au conducteur par l'article 9 du Code de la route, de \" prendre toute mesure de nature à éviter de causer des dégâts à la voirie ... \" est générale et vise les dégâts qui peuvent être causés soit par des véhicules à l'arrêt ou en stationnement soit par ceux qui sont en mouvement."
+      ],
+      "abstractNL": [
+        "De bij artikel 9 van het wegverkeersreglement aan de bestuurder opgelegde verplichting \" alle maatregelen te treffen waardoor beschadiging van de weg kan vermeden worden ... \" is algemeen en bedoelt zowel de beschadiging die door stilstaande of stationerende voertuigen als die welke door rijdende voertuigen kan veroorzaakt worden."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660221.6": {
+      "court": "CASS",
+      "date": "1966-02-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La décision qui relève qu'un conducteur voulant changer de direction a gêné la marche normale d'un autre conducteur, constate ainsi que ce second conducteur se tenait le plus près possible du bord droit de la chaussée."
+      ],
+      "abstractNL": null
+    }
+  }
+}

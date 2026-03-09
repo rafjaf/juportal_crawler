@@ -1,0 +1,32 @@
+{
+  "12": {
+    "ECLI:BE:CASS:1965:ARR.19651201.3": {
+      "court": "CASS",
+      "date": "1965-12-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/12/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Rejette légalement l'offre de preuve faite par un redevable, dont la cotisation fut établie conformément à l'avis de la commission fiscale, au motif qu'elle n'est pas de nature à faire la preuve, qui lui incombe, du chiffre exact de ses revenus imposables, l'arrêt qui constate, d'une part, que la preuve offerte consiste à faire évaluer à nouveau les revenus imposables par une expertise et, d'autre part, que la comptabilité sur laquelle cette expertise doit être fondée n'est \" ni digne de confiance ni probante \"."
+      ],
+      "abstractNL": null
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1976:ARR.19761012.12": {
+      "court": "CASS",
+      "date": "1976-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 8 novembre 1973 limitant la vitesse des véhicules automoteurs sur la voie publique, modifié par l'arrêté royal du 20 mai 1974, trouve son fondement légal dans l'article 16, 1°, de la loi du 12 mars 1957 portant certaines dispositions en matière financière, économique et sociale."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 8 november 1973 tot beperking van de snelheid van de voertuigen met eigen beweegkracht op de openbare weg, gewijzigd bij koninklijk besluit van 20 mei 1974, vindt zijn rechtsgrond in artikel 16, 1°, van de wet van 12 maart 1957 houdende sommige bepalingen op financieel, economisch en sociaal gebied."
+      ]
+    }
+  }
+}

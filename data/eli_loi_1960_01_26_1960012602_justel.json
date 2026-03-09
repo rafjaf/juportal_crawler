@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19691208.1": {
+      "court": "CASS",
+      "date": "1969-12-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/12/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les infractions aux dispositions de l'alinéa premier de l'article 10 de la loi du 26 janvier 1960 relative aux redevances sur les appareils récepteurs de radio-diffusion ne sont consommées qu'à la date du 1er février de l'année à laquelle se rapportent les redevances."
+      ],
+      "abstractNL": [
+        "De overtredingen van de bepalingen van artikel 10, lid 1, van de wet van 26 januari 1960 betreffende de taksen op de toestellen voor het ontvangen van radio-omroepuitzendingen zijn enkel voltooid op de 1e februari van het jaar waarop deze taksen betrekking hebben."
+      ]
+    }
+  }
+}

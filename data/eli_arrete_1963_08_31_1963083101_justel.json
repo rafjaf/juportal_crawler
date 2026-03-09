@@ -1,0 +1,102 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1974:ARR.19741003.1": {
+      "court": "CASS",
+      "date": "1974-10-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est sans influence sur la légalité de la décision du juge d'appel la nullité de la sentence dont appel, lorsque ce juge met à néant cette sentence et statue par voie de disposition nouvelle en se fondant sur des motifs propres."
+      ],
+      "abstractNL": [
+        "Nietigheid van de beroepen sententie heeft geen invloed op de wettelijkheid van de beslissing van de rechter in hoger beroep, wanneer deze rechter deze sententie teniet doet en bij wege van nieuwe beschikking uitspraak doet op grond van eigen redenen."
+      ]
+    }
+  },
+  "27": {
+    "ECLI:BE:CASS:1968:ARR.19680213.1": {
+      "court": "CASS",
+      "date": "1968-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/02/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans l'article 33 de la loi du 26 juin 1963 créant l'Ordre des architectes, il faut entendre par décisions définitives pouvant faire l'objet d'un pourvoi en cassation, celles que les conseils d'appel rendent non seulement en application de l'article 31 de la même loi, mais aussi en vertu d'autres attributions qui leur sont conférées par un arrêté régulièrement pris en exécution de ladite loi, tel l'arrêté royal du 31 août 1963 dont l'article 27 charge les conseils d'appel de statuer en dernier ressort sur les recours introduits contre les résultats des élections aux conseils de l'Ordre."
+      ],
+      "abstractNL": [
+        "In artikel 33 van de wet van 26 juni 1963 tot instelling van de Orde van architecten moet onder eindbeslissingen, waartegen een voorziening kan worden ingesteld, worden verstaan de beslissingen welke door de raden van beroep gewezen worden niet alleen met toepassing van artikel 31 van dezelfde wet, maar ook krachtens andere ambtsbevoegdheden die hun verleend zijn bij een ter uitvoering van deze wet regelmatig genomen besluit, zoals het koninklijk besluit van 31 augustus 1963 waarvan artikel 27 de raden van beroep gelast in laatste aanleg uitspraak te doen op de beroepen die tegen de uitslagen van de verkiezingen bij de raden van de Orde zijn ingesteld."
+      ]
+    }
+  },
+  "38": {
+    "ECLI:BE:CASS:1979:ARR.19791024.12": {
+      "court": "CASS",
+      "date": "1979-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "40": {
+    "ECLI:BE:CASS:1990:ARR.19901112.17": {
+      "court": "CASS",
+      "date": "1990-11-12",
+      "roleNumber": "7093",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/11/12/sitemap_21.xml"
+      ],
+      "abstractFR": [
+        "Le Conseil de l'Ordre des architectes est compétent pour statuer sur la récusation d'un de ses membres et non le Conseil d'appel de l'Ordre. ( Loi du 26 juin 1963, art. 24, alinéa 2, et 31; arr. roy. du 31 août 1963, art. 40. )"
+      ],
+      "abstractNL": [
+        "Om uitspraak te doen over een vordering tot wraking van een lid van een raad van de Orde van Architecten is deze raad zelf en niet de raad van beroep bevoegd. ( Artt. 24, alinéa 2, en 31, Architectenwet van 26 juni 1963; art. 40, K.B. 31 augustus 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860214.9": {
+      "court": "CASS",
+      "date": "1986-02-14",
+      "roleNumber": "4450",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision rendue par le Conseil national de l'Ordre des architectes sur la récusation d'un membre du Conseil d'appel dudit Ordre n'est pas susceptible de pourvoi en cassation ( Loi du 26 juin 1963 créant un Ordre des architectes, art. 24, alinéa 2, et 33; arr. roy. du 31 août 1963, art. 40 )."
+      ],
+      "abstractNL": [
+        "Geen cassatieberoep kan worden ingesteld tegen de beslissing van de Nationale Raad van de Orde van Architecten over de wraking van een lid van de Raad van beroep van die Orde ( Artt. 24, alinéa 2, et 33 Architectenwet 26 juni 1963; art. 40 K.B. 31 augustus 1963 )."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19791024.12": {
+      "court": "CASS",
+      "date": "1979-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/24/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1974:ARR.19741003.1": {
+      "court": "CASS",
+      "date": "1974-10-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est sans influence sur la légalité de la décision du juge d'appel la nullité de la sentence dont appel, lorsque ce juge met à néant cette sentence et statue par voie de disposition nouvelle en se fondant sur des motifs propres."
+      ],
+      "abstractNL": [
+        "Nietigheid van de beroepen sententie heeft geen invloed op de wettelijkheid van de beslissing van de rechter in hoger beroep, wanneer deze rechter deze sententie teniet doet en bij wege van nieuwe beschikking uitspraak doet op grond van eigen redenen."
+      ]
+    }
+  }
+}

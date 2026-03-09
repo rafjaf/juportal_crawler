@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1964:ARR.19640914.4": {
+      "court": "CASS",
+      "date": "1964-09-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/09/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté-loi du 31 janvier 1946, concernant le contrôle des voyageurs, ne soumet à ses dispositions que les voyageurs et ceux qui font profession de les loger; celles-ci ne s'appliquent pas à la location d'un appartement garni à une personne qui y a sa résidence régulière."
+      ],
+      "abstractNL": null
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19861001.10": {
+      "court": "CASS",
+      "date": "1986-10-01",
+      "roleNumber": "5077",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/01/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Viole les droits de la défense l'arrêt déclarant établie une prévention d'alcoolémie qui, pour considérer que ces droits ont été respectés, se borne à énoncer que le prévenu n'a pas exprimé dans le délai légal son désir de procéder à une contre-expertise concernant l'analyse du sang et que ces droits n'ont en rien été mis en péril, même si ultérieurement la vénule contenant l'échantillon sanguin a été égarée."
+      ],
+      "abstractNL": [
+        "Het recht van verdediging wordt miskend door de rechter die een telastlegging \"alcoholgehalte in het bloed\" bewezen verklaart en, om te beslissen dat dit recht is in acht genomen, enkel vermeldt dat de beklaagde niet binnen de wettelijke termijn zijn wens heeft te kennen gegeven om een tegenexpertise m.b.t. het bloedonderzoek te doen houden en dat dit recht geenszins in het gedrang is gekomen ook al is achteraf de venule met het bloedmonster zoekgeraakt."
+      ]
+    }
+  }
+}

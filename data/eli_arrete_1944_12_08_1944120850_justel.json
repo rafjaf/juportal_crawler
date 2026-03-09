@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760120.4": {
+      "court": "CASS",
+      "date": "1976-01-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à l'arrêté ministériel du 8 décembre 1944, imposant aux tenanciers de débits de boissons l'obligation d'afficher les prix des boissons, sont punies des peines prévues par l'arrêté-loi du 22 janvier 1945 sur la réglementation économique et les prix, et non de celles prévues par l'article 60 de la loi du 14 juillet 1971 sur les pratiques du commerce (2). (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De inbreuken op het ministerieel besluit van 8 december 1944, dat de houders van drankgelegenheden de verplichting oplegt de prijzen van de dranken aan te plakken, zijn strafbaar met de straffen bepaald bij de besluitwet van 22 januari 1945 betreffende de economische reglementering en de prijzen, en niet met de bij artikel 60 van de wet van 14 juli 1971 betreffende de handelspraktijken bepaalde straffen (1). ( Impliciete oplossing. )"
+      ]
+    }
+  }
+}

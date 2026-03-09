@@ -1,0 +1,32 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1966:ARR.19660328.10": {
+      "court": "CASS",
+      "date": "1966-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/03/28/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement la condamnation du chef d'infraction aux articles 1er et 3 de la loi du 11 septembre 1933 sur la protection des titres de l'enseignement supérieur, l'arrêt qui constate non seulement que l'abréviation \"Ing\" utilisée par le prévenu est une abréviation non autorisée du titre d'ingénieur, mais aussi que le prévenu a retranché le mot \"technique\" ou l'abréviation de ce mot à la suite de l'abréviation \"Ing.\"."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1971:ARR.19710215.14": {
+      "court": "CASS",
+      "date": "1971-02-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/15/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, le pourvoi formé par le prévenu contre une décision qui l'acquitte."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk, wegens het ontbreken van belang, is de voorziening van de beklaagde tegen een beslissing die hem vrijspreekt."
+      ]
+    }
+  }
+}

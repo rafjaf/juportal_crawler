@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010129.2": {
+      "court": "CASS",
+      "date": "2001-01-29",
+      "roleNumber": "F990148F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 1097 du Code judiciaire, dans sa version postérieure à sa modification par la loi du 14 novembre 2000, est applicable en matière d'impôts sur les revenus (1)."
+      ],
+      "abstractNL": [
+        "Art. 1097 GerW., gewijzigd bij de wet van 14 november 2000, is van toepassing op belastingzaken (1)."
+      ]
+    }
+  }
+}

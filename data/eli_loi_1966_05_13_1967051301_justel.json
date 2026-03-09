@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20000913.6": {
+      "court": "CASS",
+      "date": "2000-09-13",
+      "roleNumber": "P001007FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Du seul fait que l'arrêt ne contient pas, en l'absence de conclusions sur ce point, la précision que les documents, remis volontairement aux enquêteurs par un fonctionnaire des Communautés européennes dont l'obligation au secret professionnel avait été levée, constituaient ou non des archives des Communautés, ne se déduit pas une violation du Protocole du 8 avril 1965 sur les privilèges et immunités des Communautés européennes, non plus que du règlement n° 259/68 du Conseil du 29 février 1968 fixant le statut des fonctionnaires des Communautés européennes ainsi que le régime applicable aux autres agents de ces Communautés, et instituant des mesures particulières temporairement applicables aux fonctionnaires de la Commission."
+      ],
+      "abstractNL": [
+        "Alleen uit het feit dat het arrest, bij gebrek aan conclusie over dat punt, de verduidelijking niet bevat dat de documenten die aan de onderzoekers vrijwillig zijn overhandigd door een ambtenaar van de Europese Gemeenschappen, wiens verplichting tot beroepsgeheim was opgeheven, al dan niet archieven van de Europese Gemeenschappen vormden, kan geen schending worden afgeleid van het Protocol van 8 april 1965 betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen, noch van de verordening nr. 259/68 van de Raad van 29 februari 1968 tot vaststelling van het Statuut van de ambtenaren van de Europese Gemeenschappen en de regeling welke van toepassing is op de andere personeelsleden van deze Gemeenschappen, alsmede van bijzondere maatregelen welke tijdelijk op de ambtenaren van de Commissie van toepassing zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19871022.6": {
+      "court": "CASS",
+      "date": "1987-10-22",
+      "roleNumber": "F812F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/10/22/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'article 12b du Protocole sur les privilèges et immunités des Communautés européennes que les fonctionnaires et agents des Communautés sont exemptés de toute obligation d'inscription aux registres de la population dans les Etats membres où les institutions des Communautés ont leurs lieux de travail. ( Loi du 13 mai 1966 portant approbation du Traité instituant un Conseil unique et une Commission unique des Communautés européennes et du Protocole sur les privilèges et immunités des Communautés européennes, signés à Bruxelles, le 8 avril 1965. )"
+      ],
+      "abstractNL": [
+        "Uit art. 12b van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen blijkt dat de ambtenaren en personeelsleden zijn vrijgesteld van elke verplichting tot inschrijving in de bevolkingsregisters in de Lid-Staten waar de Gemeenschapsinstellingen werkzaam zijn. ( Wet van 13 mei 1966 houdende goedkeuring van het Verdrag tot instelling van een Raad en een Commissie en van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen, ondertekend te Brussel op 8 april 1965. )"
+      ]
+    }
+  }
+}

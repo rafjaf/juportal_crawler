@@ -1,0 +1,34 @@
+{
+  "93": {
+    "ECLI:BE:CASS:1970:ARR.19700105.6": {
+      "court": "CASS",
+      "date": "1970-01-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Etaient des infractions à la police de la circulation routière les infractions prévues par les articles 24 ( modifié par l'article 4 de l'arrêté royal du 25 février 1959 ) et 93 ( modifié par l'article 2-20° de l'arrêté royal du 18 mars 1958 ) du règlement général déterminant les conditions techniques auxquelles doivent répondre les véhicules comprenant au moins neuf places utilisés pour le transport des personnes et les véhicules utilisés pour le transport de choses, approuvé par l'arrêté du Régent du 22 mai 1947 tel qu'il a été modifié par les arrêtés royaux des 18 mars 1958 et 25 février 1959."
+      ],
+      "abstractNL": [
+        "Overtredingen van de politie op het wegverkeer waren die welke worden bedoeld bij de artikelen 24 ( gewijzigd bij artikel 4 van het koninklijk besluit van 25 februari 1959 ) en 93 ( gewijzigd bij artikel 1-20° van het koninklijk besluit van 18 maart 1958 ) van het algemeen reglement houdende vaststelling van de technische voorwaarden waaraan moet voldaan worden door de voertuigen met ten minste 9 plaatsen voor personenvervoer en de voertuigen voor het goederenvervoer, goedgekeurd bij het besluit van de Regent van 22 mei 1947, zoals het is gewijzigd bij de koninklijke besluiten van 18 maart 1958 en 25 februari 1959."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720121.2": {
+      "court": "CASS",
+      "date": "1972-01-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/01/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'interdit de stipuler dans un contrat relatif à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs que l'assureur a, quant aux indemnités qu'il aura payées à la victime, un droit de recours contre l'assuré si, au moment où il occasionne le dommage, le véhicule n'est pas couvert par le certificat de visite réglementairement prescrit et sans que doive être prouvée, en outre, une autre faute ou une relation causale entre ledit manquement et un dommage. ( Code civil, article 1134; loi du 1er juillet 1956, art. 11, al. 2 et 21. )"
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling verbiedt dat in een overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen wordt bedongen dat de verzekeraar, in verband met de aan de getroffene te betalen vergoedingen, een recht van verhaal heeft op de verzekerde indien, op het ogenblik dat hij de schade veroorzaakt, het voertuig niet gedekt is door het reglementair voorgeschreven schouwingsbewijs en zonder dat bovendien het bestaan moet worden bewezen van een andere fout of van een oorzakelijk verband tussen dit verzuim en de schade. ( B.W., art. 1134; wet van 1 juli 1956, art. 11, lid 2, en 21. )"
+      ]
+    }
+  }
+}

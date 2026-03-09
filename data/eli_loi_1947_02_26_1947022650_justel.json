@@ -1,0 +1,34 @@
+{
+  "32": {
+    "ECLI:BE:CASS:1981:ARR.19810520.4": {
+      "court": "CASS",
+      "date": "1981-05-20",
+      "roleNumber": "M290F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les commissions d'agréation pour prisonniers politiques et ayants droit sont seules compétentes, à l'exclusion des juridictions de milice, pour déterminer les cas où le titre de prisonnier politique ou celui de bénéficiaire du statut peut être attribué. ( Loi du 26 février 1947, art. 32, et loi du 10 mars 1954, ces deux lois incluses dans la coordination, par arrêté royal du 16 octobre 1954, des dispositions légales relatives au statut des prisonniers politiques et de leurs ayants droit; arrêté du Régent du 27 mars 1948 modifiant et remplaçant l'arrêté du Régent du 27 mai 1947 créant les commissions d'agréation et fixant la compétence et la procédure pour l'application de la loi du 26 février 1947, art. 12. )"
+      ],
+      "abstractNL": [
+        "De aanvaardingscommissies voor politieke gevangenen en hun rechtverkrijgenden zijn, met uitsluiting van de militiegerechten, alleen bevoegd om de gevallen te bepalen waarin de politieke gevangenen zich op de titel van politieke gevangene of op die van rechthebbende op het statuut van politieke gevangene kunnen beroepen <3>. (Art. 32 wet van 26 feb. 1947 statuut politieke gevangenen en rechtverkrijgenden en wet van 10 maart 1954, gecoördineerd bij KB van 16 okt. 1954 en opgenomen in de wettelijke bepalingen betreffende het statuut van de politieke gevangenen en rechtverkrijgenden; art. 12 Regentsbesluit van 27 maart 1948 tot wijziging en vervanging van het Regentsbesluit van 27 mei 1947 tot inrichting van de commissie en tot vaststelling van de bevoegdheid en de procedure voor de toepassing van de wet van 26 feb. 1947.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19770126.1": {
+      "court": "CASS",
+      "date": "1977-01-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/01/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les commissions d'agréation pour prisonniers politique et ayants droit sont seules compétentes, à l'exclusion des juridictions de milice, pour déterminer la durée de l'incarcération ou de l'internement subi par un membre de la famille d'un milicien. (Loi du 26 février 1947 organisant le statut des prisonniers politiques et de leurs ayants droit, art. 32; arrêté du Régent du 27 mai 1947 créant les commissions et la procédure pour l'application de la loi du 26 février 1947, art. 13; loi du 10 mars 1954.)"
+      ],
+      "abstractNL": [
+        "De aanvaardingscommissies voor de politieke gevangenen en verkrijgenden zijn, met uitsluiting van de militiegerechten, alleen bevoegd om de duur van de gevangenzitting of van de internering te bepalen welke een gezinslid van de dienstplichtige heeft ondergaan. ( Art. 32 wet van 26 februari 1947 houdende inrichting van het statuut van de politieke gevangenen en van dezer rechtverkrijgenden; art. 13 besluit van de Regent van 27 mei 1947 tot inrichting van de commissies en tot vaststelling van de bevoegdheid en de procedure voor de toepassing van die wet van 26 februari 1947 en wet van 10 maart 1954. )"
+      ]
+    }
+  }
+}

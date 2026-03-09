@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2001:ARR.20010507.5": {
+      "court": "CASS",
+      "date": "2001-05-07",
+      "roleNumber": "C980300NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 1er avril 1976 relative à l'intégration verticale ne s'applique pas lorsque un ou plusieurs règlements n'ont pas été acceptés en ce qui concerne l'achat, la vente, la livraison ou la reprise d'animaux, de produits d'animaux, de matières premières et d'autres biens et services qui sont utilisés ou consommés dans le processus de production."
+      ],
+      "abstractNL": [
+        "De wet van 1 april 1976 betreffende de verticale integratie is niet van toepassing wanneer niet één of meer regelingen zijn overeengekomen in verband met aankoop, verkoop, leveringen of afname van dieren, dierlijke produkten, grondstoffen en andere goederen en diensten die bij het produktieproces gebruikt of verbruikt worden."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1987:ARR.19870921.12": {
+      "court": "CASS",
+      "date": "1987-09-21",
+      "roleNumber": "5462",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le calcul de l'indemnité, due à l'intégré en exécution d'un contrat d'intégration, ne peut avoir pour conséquence que celui-ci doive rembourser plus que ce qui lui a été octroyé, à moins que la preuve de sa faute soit apportée. ( Loi du 1er avril 1976, art. 7, alinéa 3. )"
+      ],
+      "abstractNL": [
+        "De berekening van de vergoeding die ter uitvoering van een integratieovereenkomst aan de geïntegreerde verschuldigd is, kan niet tot gevolg hebben dat deze, behoudens bewijs van zijn schuld, meer moet terugbetalen dan hij reeds ontvangen heeft. ( Art. 7, derde lid, wet 1 april 1976. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19870921.12": {
+      "court": "CASS",
+      "date": "1987-09-21",
+      "roleNumber": "5462",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le calcul de l'indemnité, due à l'intégré en exécution d'un contrat d'intégration, ne peut avoir pour conséquence que celui-ci doive rembourser plus que ce qui lui a été octroyé, à moins que la preuve de sa faute soit apportée. ( Loi du 1er avril 1976, art. 7, alinéa 3. )"
+      ],
+      "abstractNL": [
+        "De berekening van de vergoeding die ter uitvoering van een integratieovereenkomst aan de geïntegreerde verschuldigd is, kan niet tot gevolg hebben dat deze, behoudens bewijs van zijn schuld, meer moet terugbetalen dan hij reeds ontvangen heeft. ( Art. 7, derde lid, wet 1 april 1976. )"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011116.5": {
+      "court": "CASS",
+      "date": "2001-11-16",
+      "roleNumber": "F000038F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/11/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ne s'appliquent pas aux semi-remorques, les conditions qui déterminent la personne qui est assujettie à la redevance de la taxe de circulation pour les voitures, voitures mixtes, minibus, motocyclettes, tels que ces véhicules sont définis par la réglementation relative à l'immatriculation des véhicules à moteur (1)."
+      ],
+      "abstractNL": [
+        "De voorwaarden die bepalen wie onderworpen is aan verkeersbelasting op de personenauto's, auto's voor dubbel gebruik, minibussen, motorfietsen, zoals die voertuigen zijn omschreven in de reglementering betreffende de inschrijving van motorvoertuigen, zijn niet van toepassing op opleggers (1)."
+      ]
+    }
+  }
+}

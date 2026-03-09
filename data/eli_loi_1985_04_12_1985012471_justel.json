@@ -1,0 +1,34 @@
+{
+  "7": {
+    "ECLI:BE:CASS:1997:ARR.19970505.7": {
+      "court": "CASS",
+      "date": "1997-05-05",
+      "roleNumber": "S960086F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/05/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui, engagé par contrat à durée déterminée par son nouvel employeur, ne peut faire valoir à l'égard de celui-ci, pour le calcul de son préavis ou de l'indemnité de rupture, l'ancienneté acquise chez son précédent employeur, n'a pas droit à l'indemnité de transition payable par le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises; il a dès lors droit à l'indemnité de rupture payée par ledit Fonds."
+      ],
+      "abstractNL": [
+        "De werknemer die met een overeenkomst voor een bepaalde tijd door zijn nieuwe werkgever in dienst wordt genomen, kan t.a.v. laatstgenoemde, de anciënniteit die hij bij zijn vroegere werkgever heeft verworven niet doen gelden voor de berekening van zijn opzeggingstermijn of van de vergoeding wegens beëindiging; hij heeft geen recht op de overbruggingsvergoeding die wordt uitbetaald door het genoemde Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers; derhalve heeft hij recht op de door genoemd Fonds uitbetaalde vergoeding wegens beëindiging."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1991:ARR.19911118.16": {
+      "court": "CASS",
+      "date": "1991-11-18",
+      "roleNumber": "7572",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/18/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui remplit les conditions pour prétendre à l'indemnité de transition prévue par la loi du 12 avril 1985 chargeant le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises du paiement d'une indemnité de transition, n'a pas droit à l'indemnité de licenciement visée à l'article 4 de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises. ( Loi du 28 juin 1966, art. 4, alinéa 7.)"
+      ],
+      "abstractNL": [
+        "De werknemer die de voorwaarden vervult om aanspraak te maken op een overbruggingsvergoeding krachtens de Sluitingsfondswet 1985, heeft geen recht op de sluitingsvergoeding wegens ontslag bepaald bij art. 4 sluitingswet. ( Art. 4, zevende lid, Sluitingswet. )"
+      ]
+    }
+  }
+}

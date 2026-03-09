@@ -1,0 +1,62 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1984:ARR.19841022.2": {
+      "court": "CASS",
+      "date": "1984-10-22",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Une université de l'Etat possède la personnalité juridique pour l'administration de son patrimoine propre. (Loi du 5 juillet 1920 accordant la personnalité juridique aux universités de Gand et de Liège, articles 1er, 2, 4 et 5.)"
+      ],
+      "abstractNL": [
+        "Een rijksuniversiteit heeft rechtspersoonlijkheid voor het beheer van haar eigen vermogen. (Wet van 5 juli 1920 tot toekenning van rechtspersoonlijkheid aan de staatsuniversiteiten Gent en Luik, artt. 1, 2, 4 en 5.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840924.6": {
+      "court": "CASS",
+      "date": "1984-09-24",
+      "roleNumber": "4357",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/24/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une université de l'Etat ne jouit de la personnalité civile que pour l'administration de son patrimoine propre; cette limitation de la personnalité civile n'empêche toutefois pas que la loi puisse, en outre, lui accorder certains attributs de la personnalité civile, notamment le pouvoir, en certaines matières, d'accomplir des actes juridiques et d'agir en justice. ( Loi du 5 juillet 1920. )"
+      ],
+      "abstractNL": [
+        "Een rijksuniversiteit heeft alleen rechtspersoonlijkheid voor het beheer van haar eigen vermogen; deze beperking van de rechtspersoonlijkheid belet evenwel niet dat de wet haar daarbuiten bepaalde attributen van de rechtspersoonlijkheid kan toekennen, met name de bevoegdheid om in bepaalde aangelegenheden rechtshandelingen te stellen en in rechte op te treden. ( Wet van 5 juli 1920. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830124.10": {
+      "court": "CASS",
+      "date": "1983-01-24",
+      "roleNumber": "3711",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/24/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le \"Rijksuniversitair Centrum te Antwerpen\" ne jouit de la personnalité civile que pour l'administration de son patrimoine propre. (Loi du 5 juillet 1920.)"
+      ],
+      "abstractNL": [
+        "Het Rijksuniversitair Centrum te Antwerpen heeft alleen rechtspersoonlijkheid voor het beheer van zijn eigen vermogen <2>. (Wet van 5 juli 1920.)"
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841022.2": {
+      "court": "CASS",
+      "date": "1984-10-22",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Une université de l'Etat possède la personnalité juridique pour l'administration de son patrimoine propre. (Loi du 5 juillet 1920 accordant la personnalité juridique aux universités de Gand et de Liège, articles 1er, 2, 4 et 5.)"
+      ],
+      "abstractNL": [
+        "Een rijksuniversiteit heeft rechtspersoonlijkheid voor het beheer van haar eigen vermogen. (Wet van 5 juli 1920 tot toekenning van rechtspersoonlijkheid aan de staatsuniversiteiten Gent en Luik, artt. 1, 2, 4 en 5.)"
+      ]
+    }
+  }
+}

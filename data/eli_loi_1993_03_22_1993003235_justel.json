@@ -1,0 +1,18 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2011:ARR.20110922.6": {
+      "court": "CASS",
+      "date": "2011-09-22",
+      "roleNumber": "F.10.0042.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/09/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'en application de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit, un établissement de crédit exerce ses activités en Belgique n'implique pas qu'il a établi dans chaque province dans laquelle un tiers, agissant en son nom et pour son compte, offre certains services bancaires."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat een kredietinstelling in toepassing van de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen, haar werkzaamheden uitoefent in België impliceert niet dat zij een vestiging heeft in elke provincie waarin een derde, handelend in haar naam en voor haar rekening, bepaalde bankdiensten aanbiedt."
+      ]
+    }
+  }
+}

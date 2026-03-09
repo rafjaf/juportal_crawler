@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690418.1": {
+      "court": "CASS",
+      "date": "1969-04-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, qui abroge et remplace l'arrêté-loi du 2 décembre 1946, en disposant que restent néanmoins en vigueur les plans d'aménagement approuvés, sous l'empire de cet arrêté-loi, maintient ainsi la validité de l'autorisation, qu'emporte l'arrêté royal approuvant le plan, de procéder aux expropriations qui y sont prévues. (Loi du 29 mars 1962, art. 73, litt. a, et 35, alinéa 4, et arrêté-loi du 2 décembre 1946, art. 19.)"
+      ],
+      "abstractNL": [
+        "De wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, waarbij de besluitwet van 2 december 1946 wordt opgeheven en vervangen, stelt vast dat niettemin van kracht blijven de aanlegplannen die onder de gelding van die besluitwet werden goedgekeurd, zodat zij tevens de geldigheid blijft behouden van de toelating gegeven bij het koninklijk besluit tot goedkeuring van het plan om de erin vastgestelde onteigeningen uit te voeren. (Wet van 29 maart 1962, art. 73, letter a, en 35, lid 4, en besluitwet van 2 december 1946, art. 19.)"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661031.3": {
+      "court": "CASS",
+      "date": "1966-10-31",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/10/31/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le droit accordé à l'autorité compétente d'obtenir la remise des lieux en état, lorsqu'une construction a été érigée sans permis de bâtir, est étranger aux dispositions du Code civil qui régissent les rapports entre propriétaires voisins. ( Arrêté-loi du 2 décembre 1946, concernant l'urbanisation, art. 27, al. 3. )"
+      ],
+      "abstractNL": [
+        "Het recht aan de bevoegde overheid toegekend om het herstellen van de plaats in de vorige staat te bekomen, wanneer een gebouw zonder bouwvergunning opgericht werd, is vreemd aan de bepalingen van het Burgerlijk Wetboek die de verhoudingen tussen naburige eigenaars beheersen. ( Besluitwet van 2 december 1946, betreffende de stedebouw, art. 27, lid 3. )"
+      ]
+    }
+  }
+}

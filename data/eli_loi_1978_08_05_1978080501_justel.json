@@ -1,0 +1,50 @@
+{
+  "27": {
+    "ECLI:BE:CASS:1986:ARR.19861118.15": {
+      "court": "CASS",
+      "date": "1986-11-18",
+      "roleNumber": "9974",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/18/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'organisme assureur qui a fourni, au profit de la victime d'un accident, des prestations prévues par la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, est subrogé dans les droits du bénéficiaire à concurrence de l'intégralité des prestations octroyées, même si la responsabilité du dommage couvert par ladite loi ne résulte que partiellement de la faute d'un tiers; dans ce cas la subrogation de l'organisme assureur s'étend à l'intégralité des sommes dues par le tiers responsable en réparation du dommage couvert par la loi, sans pouvoir excéder le montant des prestations octroyées. ( Loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, art. 70, alinéa 2, modifié par l'article 1er, 1°, de l'arrêté royal n° 19 du 4 décembre 1978, pris en exécution de l'article 27, alinéa 7, de la loi du 5 août 1978. )"
+      ],
+      "abstractNL": [
+        "De verzekeringsinstelling die ten voordele van de getroffene van een ongeval de bij de Z.I.V.-wet 9 augustus 1963 bepaalde prestaties heeft verleend is in de rechten van de rechthebbende gesubrogeerd voor het geheel van de verleende prestaties, ook als de aansprakelijkheid voor de bij die wet bedoelde schade slechts ten dele door de fout van een derde is ontstaan; in dat geval strekt de vordering van de verzekeringsinstelling zich uit tot het geheel van de sommen die de aansprakelijke derde ter vergoeding van de door de wet bedoelde schade verschuldigd is, zonder dat ze het bedrag van de door haar verleende prestaties mag overschrijden. ( Art. 70, alinéa 2, Z.I.V.-wet 9 augustus 1983, gewijzigd bij art. 1, 1°, K.B. nr. 19, 4 december 1978 ter uitvoering van art. 27, alinéa 7, wet 5 augustus 1978. )"
+      ]
+    }
+  },
+  "42": {
+    "ECLI:BE:CASS:1990:ARR.19900312.6": {
+      "court": "CASS",
+      "date": "1990-03-12",
+      "roleNumber": "6944",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut être refusé en application de l'article 146, alinéa 1er, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, à une veuve qui bénéficie d'une pension de survie à charge du Trésor, par les motifs que l'article 42 de la loi du 5 août 1978 et l'arrêté royal n° 30 du 30 mars 1982 subordonnent le droit à cette pension à l'interdiction de travailler si ce n'est de manière réduite."
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan met toepassing van art. 146, alinéa 1, Werkloosheidsbesluit niet worden ontzegd aan een weduwe die een overlevingspensioen ten laste van de Schatkist geniet, op grond dat art. 42 wet van 5 augustus 1978 en K.B. nr. 30 van 30 maart 1982 het recht op dat pensioen afhankelijk maken van de voorwaarde geen arbeid of maar in beperkte mate arbeid te verrichten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900312.6": {
+      "court": "CASS",
+      "date": "1990-03-12",
+      "roleNumber": "6944",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut être refusé en application de l'article 146, alinéa 1er, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, à une veuve qui bénéficie d'une pension de survie à charge du Trésor, par les motifs que l'article 42 de la loi du 5 août 1978 et l'arrêté royal n° 30 du 30 mars 1982 subordonnent le droit à cette pension à l'interdiction de travailler si ce n'est de manière réduite."
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan met toepassing van art. 146, alinéa 1, Werkloosheidsbesluit niet worden ontzegd aan een weduwe die een overlevingspensioen ten laste van de Schatkist geniet, op grond dat art. 42 wet van 5 augustus 1978 en K.B. nr. 30 van 30 maart 1982 het recht op dat pensioen afhankelijk maken van de voorwaarde geen arbeid of maar in beperkte mate arbeid te verrichten."
+      ]
+    }
+  }
+}

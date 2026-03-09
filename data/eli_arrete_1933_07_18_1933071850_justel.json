@@ -1,0 +1,46 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1981:ARR.19811218.2": {
+      "court": "CASS",
+      "date": "1981-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1976:ARR.19760122.5": {
+      "court": "CASS",
+      "date": "1976-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si l'agent mis en disponibilité par retrait d'emploi dans l'intérêt du service jouit d'un traitement effectif lorsqu'il est repris en activité, en revanche la mesure de mise en disponibilité prise à son égard n'est pas suspendue pendant la ou les périodes de remise en activité; la mise en disponibilité ne peut dès lors avoir pour effet, lorsqu'il y a remise en activité, d'accorder à l'agent faisant l'objet de cette mise en disponibilité un traitement d'attente qui puisse s'appliquer à une période excédant les deux années ayant pris cours lors de la mise en disponibilité. (Loi du 24 décembre 1953, art. 13, et arr. roy. du 18 juillet 1933, art. 5, al. 2 et 3.)"
+      ],
+      "abstractNL": [
+        "Hoewel de ambtenaar die ter beschikking is gesteld door afdanking in het belang van de dienst, bij zijn wederindienstneming een werkelijke wedde ontvangt, wordt de tegen hem genomen maatregel van terbeschikkingstelling niet opgeschort tijdens de periode of de periodes van wederindiensttreding, zodat de terbeschikkingstelling, ingeval van wederindiensttreding, niet tot gevolg mag hebben dat de ambtenaar, waarop die maatregel van terbeschikkingstelling betrekking heeft, een wachtwedde zou kunnen ontvangen voor een periode welke de twee jaren, die bij de terbeschikkingstelling zijn begonnen, overtreft. ( Art. 13 wet van 24 december 1953, en art. 5, lid 2 en 3, K.B. van 18 juli 1933. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760122.5": {
+      "court": "CASS",
+      "date": "1976-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si l'agent mis en disponibilité par retrait d'emploi dans l'intérêt du service jouit d'un traitement effectif lorsqu'il est repris en activité, en revanche la mesure de mise en disponibilité prise à son égard n'est pas suspendue pendant la ou les périodes de remise en activité; la mise en disponibilité ne peut dès lors avoir pour effet, lorsqu'il y a remise en activité, d'accorder à l'agent faisant l'objet de cette mise en disponibilité un traitement d'attente qui puisse s'appliquer à une période excédant les deux années ayant pris cours lors de la mise en disponibilité. (Loi du 24 décembre 1953, art. 13, et arr. roy. du 18 juillet 1933, art. 5, al. 2 et 3.)"
+      ],
+      "abstractNL": [
+        "Hoewel de ambtenaar die ter beschikking is gesteld door afdanking in het belang van de dienst, bij zijn wederindienstneming een werkelijke wedde ontvangt, wordt de tegen hem genomen maatregel van terbeschikkingstelling niet opgeschort tijdens de periode of de periodes van wederindiensttreding, zodat de terbeschikkingstelling, ingeval van wederindiensttreding, niet tot gevolg mag hebben dat de ambtenaar, waarop die maatregel van terbeschikkingstelling betrekking heeft, een wachtwedde zou kunnen ontvangen voor een periode welke de twee jaren, die bij de terbeschikkingstelling zijn begonnen, overtreft. ( Art. 13 wet van 24 december 1953, en art. 5, lid 2 en 3, K.B. van 18 juli 1933. )"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19701117.4": {
+      "court": "CASS",
+      "date": "1970-11-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions de la convention du 2 juillet 1965 entre la Belgique et la Suède tendant à éviter les doubles impositions ne sont pas applicables aux revenus imposables recueillis avant le 1er janvier 1968. (Article 29-2 de la convention du 2 juillet 1965 entre la Belgique et la Suède, approuvée par l'acte du pouvoir législatif du 5 août 1967.)"
+      ],
+      "abstractNL": [
+        "De bepalingen van de overeenkomst van 2 juli 1965 tussen België en Zweden gesloten ter voorkoming van dubbele belasting zijn niet toepasselijk op de belastbare inkomsten ontvangen voor de 1e januari 1968. (Art. 29-2 van de overeenkomst van 2 juli 1965 tussen België en Zweden, goedgekeurd bij de handeling van de wetgevende macht van 5 augustus 1967.)"
+      ]
+    }
+  }
+}

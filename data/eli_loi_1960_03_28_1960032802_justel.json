@@ -1,0 +1,62 @@
+{
+  "13": {
+    "ECLI:BE:CASS:1965:ARR.19651105.2": {
+      "court": "CASS",
+      "date": "1965-11-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'exception de chose jugée suppose, en matière civile, qu'il y ait identité d'objet, de cause et de parties. (Code civil, art. 1351.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "56": {
+    "ECLI:BE:CASS:1967:ARR.19670309.1": {
+      "court": "CASS",
+      "date": "1967-03-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/03/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La prescription quinquennale du recouvrement des cotisations dues en exécution des lois du 30 juin 1956 et du 28 mars 1960 relatives à la pension de vieillesse des travailleurs indépendants, établie par la loi du 12 avril 1965, prend cours à compter du 1er janvier qui suit l'année pour laquelle les cotisations sont dues et est applicable à toutes les actions, sauf à celles qui, à la date de l'entrée en vigueur de cette dernière loi, ont fait l'objet de décisions qui ne sont plus susceptibles d'un recours ordinaire ou d'un pourvoi en cassation. (Loi du 12 avril 1965, art. 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De vijfjarige verjaring van de invordering van de bijdragen verschuldigd krachtens de wetten van 30 juni 1956 en 28 maart 1960 betreffende het ouderdomspensioen der zelfstandigen, ingesteld bij de wet van 12 april 1965, gaat in op de 1e januari volgend op het jaar waarvoor de bijdragen zijn verschuldigd en is toepasselijk op alle schuldvorderingen, behalve op die welke op de datum van haar inwerkingtreding het voorwerp hebben uitgemaakt van beslissingen waartegen geen gewoon rechtsmiddel of voorziening in cassatie meer openstaat. (Wet van 12 april 1965, art. 1 en 2.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19671006.1": {
+      "court": "CASS",
+      "date": "1967-10-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/10/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 28 mars 1960 relative à la pension de retraite et de survie des travailleurs indépendants ne fait pas obstacle à ce qu'une même personne soit soumise à deux régimes de pension différents, en raison de l'exercice de deux activités professionnelles, d'une part en tant que travailleur indépendant, d'autre part en tant que travailleur salarié, même si ces deux activités relèvent d'un même domaine professionnel."
+      ],
+      "abstractNL": [
+        "De wet van 28 maart 1960 betreffende het rust- en overlevingspensioen van de zelfstandigen belet niet dat éénzelfde persoon aan twee pensioenstelsels onderworpen is voor de uitoefening van twee beroepsbezigheden, enerzijds als zelfstandige, anderzijds als bezoldigde, zelfs indien deze twee bezigheden tot éénzelfde beroepssector behoren."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670908.1": {
+      "court": "CASS",
+      "date": "1967-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La prescription quinquennale pour le recouvrement des cotisations dues en exécution des lois du 30 juin 1956 et du 28 mars 1960 relatives à la pension de vieillesse des travailleurs indépendants, établie par la loi du 12 avril 1965, prend cours à compter du 1er janvier qui suit uit l'année pour laquelle les cotisations sont dues et est applicable à toutes les actions, sauf à celles qui, à la date de l'entrée en vigueur de cette dernière loi, ont fait l'objet de décisions qui ne sont plus susceptibles d'un recours ordinaire ou d'un pourvoi en cassation. ( Loi du 12 avril 1965, art. 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De vijfjarige verjaring voor de invordering van de bijdragen verschuldigd ter uitvoering van de wetten van 30 juni 1956 en 28 maart 1960 betreffende het ouderdomspensioen der zelfstandigen, vastgesteld door de wet van 12 april 1965, loopt vanaf de 1e januari die volgt op het jaar waarvoor de bijdragen verschuldigd zijn en is van toepassing op alle rechtsvorderingen, behalve op die welke, op de datum van het in werking treden van de wet, het voorwerp hebben uitgemaakt van beslissingen waartegen geen gewoon rechtsmiddel meer kan aangevoerd worden of die niet meer vatbaar zijn voor voorziening in cassatie. (Wet van 12 april 1965, art. 1 en 2.)"
+      ]
+    }
+  }
+}

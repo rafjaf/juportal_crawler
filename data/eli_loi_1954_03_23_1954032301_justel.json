@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690722.6": {
+      "court": "CASS",
+      "date": "1969-07-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/07/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le \"camping\", compris dans son sens habituel, est une forme particulière du tourisme qui suppose le séjour d'une personne hors du lieu où elle a son habitation normale."
+      ],
+      "abstractNL": [
+        "Het woord \"kamperen\" zoals het in zijn gewone betekenis wordt gebruikt, is een bijzondere vorm van toerisme die het verblijf van een persoon buiten zijn normale woonplaats onderstelt."
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970206.7": {
+      "court": "CASS",
+      "date": "1997-02-06",
+      "roleNumber": "C960048F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La Convention internationale concernant le transport des voyageurs et des bagages par chemin de fer (CIV), faite à Berne le 7 février 1970, s'applique à tous les transports de voyageurs et de bagages avec des titres de transport internationaux établis pour un parcours empruntant le territoire d'au moins deux des Etats contractants."
+      ],
+      "abstractNL": [
+        "Het Internationaal Verdrag betreffende het vervoer van reizigers en bagages per spoorweg (CIV), opgemaakt te Bern op 7 feb. 1970, is van toepassing op alle vervoer van reizigers en bagage met internationale vervoersdocumenten opgesteld voor trajecten gelegen op het grondgebied van ten minste twee der Verdragsluitende Staten."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890223.15": {
+      "court": "CASS",
+      "date": "1989-02-23",
+      "roleNumber": "8216",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/02/23/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 16 de la Convention internationale concernant le transport des marchandises par chemins de fer du 7 février 1970 approuvée par la loi du 24 janvier 1973, la livraison de la marchandise au destinataire constitue la phase finale de l'opération de transport et équivaut, pour le chemin de fer, à l'exécution du contrat."
+      ],
+      "abstractNL": [
+        "Volgens art. 16 C.I.M.-Verdrag is de aflevering van het goed aan de geadresseerde de eindfase van de uitvoering van het vervoer en staat die aflevering, voor de spoorweg, gelijk met de uitvoering van de overeenkomst."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880408.6": {
+      "court": "CASS",
+      "date": "1988-04-08",
+      "roleNumber": "5615",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/04/08/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La prescription de l'action résultant d'un contrat relatif au transport par chemin de fer n'est suspendue que par une réclamation administrative valable, c'est-à-dire présentée conformément à l'article 41 de la Convention C.I.M.; n'est pas valable la réclamation administrative que le destinataire présente au chemin de fer sans produire en même temps la lettre de voiture, si elle lui a été remise. ( Convention C.I.M. du 7 février 1970, art. 41, alinéa 3, al. 2, et 47, alinéa 3, al. 1er )."
+      ],
+      "abstractNL": [
+        "De verjaring van de rechtsvordering die uit een overeenkomst betreffende vervoer per spoor voortvloeit, wordt slechts geschorst door een rechtsgeldige, d.i. een overeenkomstig art. 41 C.I.M.-Verdrag ingediende vordering buiten rechte; niet rechtsgeldig is de vordering buiten rechte die de geadresseerde bij de spoorweg indient, zonder tevens de vrachtbrief over te leggen, indien deze hem ter hand is gesteld ( art. 41, alinéa 3, tweede lid en 47, alinéa 3, eerste lid C.I.M.-Verdrag van 7 februari 1970 )."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851025.14": {
+      "court": "CASS",
+      "date": "1985-10-25",
+      "roleNumber": "4752",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/25/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Seules les personnes physiques et morales mentionnées dans la lettre de voiture comme expéditeur ou destinataire peuvent réclamer à la Société nationale des Chemins de fer belges la réparation du dommage résultant du contrat de transport ( Artt. 1er, paragraphe 1er, 6, paragraphe 6, c et g, 8, paragraphe 1er, 26 et 42, paragraphe 3, de la convention C.I.M. )"
+      ],
+      "abstractNL": [
+        "Van de Nationale Maatschappij der Belgische Spoorwegen kunnen, op grond van het CIM-Verdrag, alleen de in de vrachtbrief als afzender of geadresseerde vermelde natuurlijke of rechtspersonen vergoeding van de uit de vervoerovereenkomst ontstane schade vorderen. ( Artt. 1, par. 1, 6, par. 6, c en g, 8, par. 1, 26 en 42, par. 3, CIM-Verdrag )."
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2004:ARR.20040909.23": {
+      "court": "CASS",
+      "date": "2004-09-09",
+      "roleNumber": "C030183F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/09/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Méconnaît les articles 2, 3 et 20, ,§ 1er de la loi du 1er avril 1971 portant création d'une Régie des bâtiments l'arrêt qui considère que l'Etat belge doit supporter les charges relatives à l'exécution d'un contrat d'un marché de service passé au nom de l'Etat, au motif que ce contrat a été conclu par le ministre des travaux publics et que ce dernier représente et gère la Régie des bâtiments."
+      ],
+      "abstractNL": [
+        "Het arrest dat oordeelt dat de Belgische Staat de lasten moet dragen betreffende de uitvoering van een aannemingsovereenkomst die in naam van de Staat gesloten is, op grond dat die overeenkomst gesloten is door de Minister van Openbare Werken en deze de Regie der Gebouwen vertegenwoordigt en beheert, schendt de artt. 2, 3 en 20, ,§ 1, van de wet van 1 april 1971 houdende oprichting van een Regie der Gebouwen."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:1991:ARR.19910301.7": {
+      "court": "CASS",
+      "date": "1991-03-01",
+      "roleNumber": "7204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/03/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La Régie des Bâtiments, établissement doté de la personnalité civile suivant l'article premier de la loi du 1er avril 1971, étant représentée et gérée, conformément à l'article 3, alinéa premier, de cette loi, par le ministre qui a les travaux publics dans ses attributions, n'est pas à la cause lorsque l'Etat belge, ministre des travaux publics, est cité en justice sans autre précision."
+      ],
+      "abstractNL": [
+        "De Regie der Gebouwen is bij art. 1 wet van 1 april 1971 als een openbare instelling met rechtspersoonlijkheid opgericht en wordt overeenkomstig art. 3, eerste lid, van die wet vertegenwoordigd en beheerd door de minister tot wiens bevoegdheid de openbare werken behoren; zij is dus geen partij in het geding wanneer de Belgische Staat, vertegenwoordigd door de minister van Openbare Werken, zonder nadere bepaling in rechte wordt gedagvaard."
+      ]
+    }
+  },
+  "17": {
+    "ECLI:BE:CASS:1982:ARR.19820927.4": {
+      "court": "CASS",
+      "date": "1982-09-27",
+      "roleNumber": "3267",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Depuis le 29 décembre 1973, la Régie des Bâtiments n'a plus le pouvoir d'accorder des allocations spéciales au personnel de complément, même avec effet rétroactif pour la période précédant cette date. ( Loi du 1er avril 1971 portant création d'une Régie des Bâtiments, modifiée par la loi du 28 décembre 1973, art. 17, par. 3. )"
+      ],
+      "abstractNL": [
+        "De Regie der Gebouwen is vanaf 29 december 1973 niet meer bevoegd om bijzondere uitkeringen aan het aanvullend personeel toe te kennen, ook niet voor de periode welke die datum voorafgaat. (Art. 17, alinéa 3, wet 1 april 1971, gew. wet 28 dec. 1973)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1991:ARR.19910301.7": {
+      "court": "CASS",
+      "date": "1991-03-01",
+      "roleNumber": "7204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/03/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La Régie des Bâtiments, établissement doté de la personnalité civile suivant l'article premier de la loi du 1er avril 1971, étant représentée et gérée, conformément à l'article 3, alinéa premier, de cette loi, par le ministre qui a les travaux publics dans ses attributions, n'est pas à la cause lorsque l'Etat belge, ministre des travaux publics, est cité en justice sans autre précision."
+      ],
+      "abstractNL": [
+        "De Regie der Gebouwen is bij art. 1 wet van 1 april 1971 als een openbare instelling met rechtspersoonlijkheid opgericht en wordt overeenkomstig art. 3, eerste lid, van die wet vertegenwoordigd en beheerd door de minister tot wiens bevoegdheid de openbare werken behoren; zij is dus geen partij in het geding wanneer de Belgische Staat, vertegenwoordigd door de minister van Openbare Werken, zonder nadere bepaling in rechte wordt gedagvaard."
+      ]
+    }
+  }
+}

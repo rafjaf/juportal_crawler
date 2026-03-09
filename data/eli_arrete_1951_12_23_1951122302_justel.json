@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670519.1": {
+      "court": "CASS",
+      "date": "1967-05-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 23 décembre 1951, pris en exécution de l'article 2, 4°, de la section du Code civil contenant les règles particulières aux baux commerciaux, relatif aux baux qui ne sont pas soumis aux dispositions de cette section, en raison du caractère modique des revenus des immeubles donnés en location, a été modifié par l'arrêté royal du 21 août 1962."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 23 december 1951, genomen ter uitvoering van artikel 2, 4°, van de afdeling van het Burgerlijk Wetboek houdende de regelen betreffende de handelshuur in het bijzonder, dat betrekking heeft op de huren die niet onderworpen zijn aan de bepalingen van deze afdeling, omwille van het gering inkomen van de in huur gegeven onroerende goederen, is bij het koninklijk besluit van 21 augustus 1962 gewijzigd."
+      ]
+    }
+  }
+}

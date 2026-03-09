@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19730412.2": {
+      "court": "CASS",
+      "date": "1973-04-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/04/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité forfaitaire que l'exploitant d'une entreprise agricole obtient, par application de l'article 1778quinquies du Code civil ( loi du 1er février 1963 ), en raison de la méconnaissance de son droit de préemption lors de la vente de biens ruraux qu'il tenait en location, est imposable distinctement au taux de 15 p.c., conformément à l'article 93, alinéa 1er, 2°, litt. b, du Code des impôts sur les revenus."
+      ],
+      "abstractNL": [
+        "De forfaitaire vergoeding die de exploitant van een landbouwbedrijf met toepassing van artikel 1778quinquies van het Burgerlijk Wetboek ( wet van 1 februari 1963 ) verwerft, wegens de miskenning van zijn recht van voorkoop bij de verkoop van landeigendommen die hij in pacht had, is afzonderlijk belastbaar tegen de aanslagvoet van 15 pct., overeenkomstig artikel 93, alinéa 1, 2°, b, van het Wetboek van de inkomstenbelastingen."
+      ]
+    }
+  }
+}

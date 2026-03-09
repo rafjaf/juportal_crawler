@@ -1,0 +1,34 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1972:ARR.19720118.1": {
+      "court": "CASS",
+      "date": "1972-01-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le tribunal siégeant en degré d'appel en matière de vagabondage, a entendu un témoin sous serment, sans que les termes dans lesquels le serment a été prêté soient constatés par le jugement ensuite rendu ou par le procès-verbal d'audience, ce jugement est nul, si le tribunal n'a pas écarté cette déposition illégalement reçue. ( Code d'instr. crim., art. 155 et 176. )"
+      ],
+      "abstractNL": [
+        "Wanneer de rechtbank, zitting houdende in hoger beroep inzake landloperij, een getuige onder ede heeft gehoord, zonder dat de bewoordingen waarin de eed werd afgelegd vastgesteld zijn in het daarop gewezen vonnis of in het zittingsblad, is het vonnis nietig, indien het dit onwettig afgenomen getuigenis niet heeft geweerd. ( Sv., art. 155 en 176. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720118.1": {
+      "court": "CASS",
+      "date": "1972-01-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le tribunal siégeant en degré d'appel en matière de vagabondage, a entendu un témoin sous serment, sans que les termes dans lesquels le serment a été prêté soient constatés par le jugement ensuite rendu ou par le procès-verbal d'audience, ce jugement est nul, si le tribunal n'a pas écarté cette déposition illégalement reçue. ( Code d'instr. crim., art. 155 et 176. )"
+      ],
+      "abstractNL": [
+        "Wanneer de rechtbank, zitting houdende in hoger beroep inzake landloperij, een getuige onder ede heeft gehoord, zonder dat de bewoordingen waarin de eed werd afgelegd vastgesteld zijn in het daarop gewezen vonnis of in het zittingsblad, is het vonnis nietig, indien het dit onwettig afgenomen getuigenis niet heeft geweerd. ( Sv., art. 155 en 176. )"
+      ]
+    }
+  }
+}

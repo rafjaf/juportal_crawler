@@ -1,0 +1,50 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2007:ARR.20070607.1": {
+      "court": "CASS",
+      "date": "2007-06-07",
+      "roleNumber": "C.05.0321.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/06/07/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 2 et 3 du décret de la Communauté française du 7 juin 2001, l'arrêt qui, bien que les classes de dépaysement ne soient pas reprises dans la liste exhaustive du décret, considère que ces classes \"rentrent néanmoins manifestement, a priori, dans la notion générale d'avantages 'supplémentaires' telle que définie par la Cour d'arbitrage.\""
+      ],
+      "abstractNL": [
+        "Het arrest schendt de artikelen 2 en 3 van het decreet van de Franse Gemeenschap van 7 juni 2001, wanneer het, ofschoon de extra muros activiteiten niet opgenomen zijn in de exhaustieve lijst van het decreet, beslist dat die klassen \"niettemin kennelijk a priori onder het algemene begrip bijkomende voordelen vallen, zoals dat door het Arbitragehof is omschreven\"."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2013:ARR.20130627.3": {
+      "court": "CASS",
+      "date": "2013-06-27",
+      "roleNumber": "C.11.0782.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/06/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision prise par une commune d''octroyer un avantage social au bénéfice des élèves fréquentant une école qu''elle organise ouvre au profit du pouvoir organisateur d''une école de même catégorie située dans la même commune et relevant de l''enseignement libre subventionné par la Communauté française le droit d''obtenir de cette commune le même avantage au bénéfice des élèves fréquentant cette école."
+      ],
+      "abstractNL": [
+        "De beslissing van een gemeente om een sociaal voordeel toe te kennen aan leerlingen die onderwijs volgen in de scholen die zij inricht, geeft de inrichtende macht van een school van dezelfde categorie die in dezelfde gemeente gelegen is en die tot het door de Franse Gemeenschap gesubsidieerde vrij onderwijs behoort, het recht om van die gemeente hetzelfde voordeel te verkrijgen voor de leerlingen die in die school onderwijs volgen."
+      ]
+    }
+  },
+  "33": {
+    "ECLI:BE:CASS:2013:ARR.20130627.3": {
+      "court": "CASS",
+      "date": "2013-06-27",
+      "roleNumber": "C.11.0782.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/06/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision prise par une commune d''octroyer un avantage social au bénéfice des élèves fréquentant une école qu''elle organise ouvre au profit du pouvoir organisateur d''une école de même catégorie située dans la même commune et relevant de l''enseignement libre subventionné par la Communauté française le droit d''obtenir de cette commune le même avantage au bénéfice des élèves fréquentant cette école."
+      ],
+      "abstractNL": [
+        "De beslissing van een gemeente om een sociaal voordeel toe te kennen aan leerlingen die onderwijs volgen in de scholen die zij inricht, geeft de inrichtende macht van een school van dezelfde categorie die in dezelfde gemeente gelegen is en die tot het door de Franse Gemeenschap gesubsidieerde vrij onderwijs behoort, het recht om van die gemeente hetzelfde voordeel te verkrijgen voor de leerlingen die in die school onderwijs volgen."
+      ]
+    }
+  }
+}

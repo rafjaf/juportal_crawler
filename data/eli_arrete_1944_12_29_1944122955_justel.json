@@ -1,0 +1,18 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1979:ARR.19790525.5": {
+      "court": "CASS",
+      "date": "1979-05-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/05/25/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée la décision de la députation permanente d'un conseil provincial qui, pour rejeter le demande d'un redevable, décide que la députation est tenue par l'interprétation du règlement-taxe provincial qu'elle aurait donnée antérieurement, la députation permanente étant sans pouvoir pour donner une interprétation authentique d'un règlement provincial."
+      ],
+      "abstractNL": [
+        "Niet wettelijk verantwoord is de beslissing van de bestendige deputatie van een provincieraad die, ter afwijzing van de vordering van een belastingplichtige, beslist dat de bestendige deputatie gebonden was door haar vroegere interpretatie; de bestendige deputatie is immers niet bevoegd om een bindende interpretatie te geven van een provincieverordening <1>."
+      ]
+    }
+  }
+}

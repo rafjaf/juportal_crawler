@@ -1,0 +1,64 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1987:ARR.19871211.12": {
+      "court": "CASS",
+      "date": "1987-12-11",
+      "roleNumber": "5441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/12/11/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les personnes qui assument la gestion journalière d'un établissement où s'exerce une activité professionnelle réglementée conformément aux articles 1er à 4 de la loi du 15 décembre 1970 ou par un arrêté pris en exécution de la loi du 24 décembre 1958 doivent, à moins d'être liées par un contrat de travail, détenir l'attestation visée à l'article 5, alinéa 1er, de la loi du 15 décembre 1970."
+      ],
+      "abstractNL": [
+        "De personen die het dagelijks beheer waarnemen in een inrichting waar een beroepswerkzaamheid wordt uitgeoefend welke overeenkomstig de artt. 1 tot 4 wet 15 december 1970 of door een besluit tot uitvoering van de wet van 24 december 1958 is gereglementeerd, moeten in het bezit zijn van het in art. 5, alinéa 1, van de wet van 15 december 1970 bedoelde getuigschrift tenzij zij verbonden zijn door een arbeidsovereenkomst."
+      ]
+    }
+  },
+  "19": {
+    "ECLI:BE:CASS:1972:ARR.19720523.4": {
+      "court": "CASS",
+      "date": "1972-05-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Tombe sous l'application de la loi du 24 décembre 1958 celui qui exploite une entreprise soumise aux conditions d'exercice de la profession, même si les travaux sont exécutés pour le compte d'un entrepreneur réunissant ces conditions, sont exclusivement matériels, et ne constituent qu'une partie de l'activité inhérente à la profession réglementée. ( Loi du 24 décembre 1958 permettant d'instituer des conditions d'exercice de la profession dans les entreprises de l'artisanat, du petit et du moyen commerce et de la petite industrie, art. 1er, 4 et 14. )"
+      ],
+      "abstractNL": [
+        "De wet van 24 december 1958 is van toepassing op de exploitant van een aan de beroepsuitoefeningsvoorwaarden onderworpen bedrijf, zelfs indien de werken worden uitgevoerd voor rekening van een aannemer die deze voorwaarden vervult, indien het uitsluitend om materiële werken gaat en deze slechts een deel zijn van de aan het gereglementeerd beroep verbonden activiteit. ( Wet van 24 december 1958 waarbij beroepsuitoefeningsvoorwaarden kunnen worden ingevoerd in de ambachtsondernemingen, de kleine en middelgrote handelsondernemingen en kleine nijverheidsondernemingen, art. 1, 4 en 14. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19871211.12": {
+      "court": "CASS",
+      "date": "1987-12-11",
+      "roleNumber": "5441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/12/11/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les personnes qui assument la gestion journalière d'un établissement où s'exerce une activité professionnelle réglementée conformément aux articles 1er à 4 de la loi du 15 décembre 1970 ou par un arrêté pris en exécution de la loi du 24 décembre 1958 doivent, à moins d'être liées par un contrat de travail, détenir l'attestation visée à l'article 5, alinéa 1er, de la loi du 15 décembre 1970."
+      ],
+      "abstractNL": [
+        "De personen die het dagelijks beheer waarnemen in een inrichting waar een beroepswerkzaamheid wordt uitgeoefend welke overeenkomstig de artt. 1 tot 4 wet 15 december 1970 of door een besluit tot uitvoering van de wet van 24 december 1958 is gereglementeerd, moeten in het bezit zijn van het in art. 5, alinéa 1, van de wet van 15 december 1970 bedoelde getuigschrift tenzij zij verbonden zijn door een arbeidsovereenkomst."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720523.4": {
+      "court": "CASS",
+      "date": "1972-05-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Tombe sous l'application de la loi du 24 décembre 1958 celui qui exploite une entreprise soumise aux conditions d'exercice de la profession, même si les travaux sont exécutés pour le compte d'un entrepreneur réunissant ces conditions, sont exclusivement matériels, et ne constituent qu'une partie de l'activité inhérente à la profession réglementée. ( Loi du 24 décembre 1958 permettant d'instituer des conditions d'exercice de la profession dans les entreprises de l'artisanat, du petit et du moyen commerce et de la petite industrie, art. 1er, 4 et 14. )"
+      ],
+      "abstractNL": [
+        "De wet van 24 december 1958 is van toepassing op de exploitant van een aan de beroepsuitoefeningsvoorwaarden onderworpen bedrijf, zelfs indien de werken worden uitgevoerd voor rekening van een aannemer die deze voorwaarden vervult, indien het uitsluitend om materiële werken gaat en deze slechts een deel zijn van de aan het gereglementeerd beroep verbonden activiteit. ( Wet van 24 december 1958 waarbij beroepsuitoefeningsvoorwaarden kunnen worden ingevoerd in de ambachtsondernemingen, de kleine en middelgrote handelsondernemingen en kleine nijverheidsondernemingen, art. 1, 4 en 14. )"
+      ]
+    }
+  }
+}

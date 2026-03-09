@@ -1,0 +1,62 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1985:ARR.19850212.10": {
+      "court": "CASS",
+      "date": "1985-02-12",
+      "roleNumber": "8946",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/02/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue par l'article 3 de l'arrêté royal du 4 avril 1895 contenant règlement concernant les mesures à observer pour le transport des voyageurs sur les chemins de fer de l'Etat et les chemins de fer concédés, aux termes duquel il est défendu de voyager, et même de prendre place dans un train sans être muni de billets réguliers, n'exige pas de dol spécial."
+      ],
+      "abstractNL": [
+        "Overtreding van art.3 K.B. van 4 april 1895 houdende voorschriften betrekkelijk de voor het reizigersvervoer over de Staatsspoorwegen en vergunde spoorwegen na te komen maatregelen, naar luid waarvan het verboden is zonder geldig plaatsbewijs met een trein te reizen of ook maar in een trein plaats te nemen, vereist geen bijzonder opzet."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820519.6": {
+      "court": "CASS",
+      "date": "1982-05-19",
+      "roleNumber": "2176",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue par l'article 3 de l'arrêté royal du 4 avril 1895 contenant règlement concernant les mesures à observer pour le transport des voyageurs sur les chemins de fer de l'Etat et les chemins de fer concédés, aux termes duquel il est défendu de voyager, et même de prendre place dans un train sans être muni de billets réguliers, n'exige pas de dol spécial et notamment la volonté de voyager gratuitement."
+      ],
+      "abstractNL": [
+        "De overtreding van art. 3 K.B. van 4 april 1895 houdende voorschriften betrekkelijk de maatregelen, na te komen voor het reizigersvervoer over Staatsspoorwegen en over de vergunde spoorwegen, naar luid waarvan het verboden is om zonder geldig plaatsbewijs met een trein te reizen en zelfs in een trein plaats te nemen, vereist geen bijzonder opzet en met name niet de bedoeling om kosteloos te reizen <1>."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1974:ARR.19740319.2": {
+      "court": "CASS",
+      "date": "1974-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/03/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue point, au sens de l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, une infraction aux lois et règlements sur la police du roulage, dont connaissent, aux termes de cette disposition légale, les juridictions de droit commun, même lorsqu'elle a été commise par un mineur de plus de seize ans et de moins de dix-huit ans, une infraction visée par les dispositions de l'arrêté royal du 4 avril 1895 contenant règlement concernant les mesures à observer pour le transport des voyageurs sur les chemins de fer de l'Etat. (Solution implicite)."
+      ],
+      "abstractNL": [
+        "In de zin van artikel 36bis van de wet van 8 april 1965 op de jeugdbescherming is geen overtreding van de wetten en verordeningen betreffende de politie over het wegverkeer, waarvan, volgens deze wettelijke bepaling, kennis nemen de krachtens het gemene recht bevoegde gerechten, zelfs indien zij is gepleegd door een minderjarige die meer dan zestien jaar en minder dan volle achttien jaar oud is, een misdrijf als bedoeld in de bepalingen van het koninklijk besluit van 4 april 1895 houdende reglement op het vervoer van de reizigers door de spoorwegen. ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820519.6": {
+      "court": "CASS",
+      "date": "1982-05-19",
+      "roleNumber": "2176",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/05/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'infraction prévue par l'article 3 de l'arrêté royal du 4 avril 1895 contenant règlement concernant les mesures à observer pour le transport des voyageurs sur les chemins de fer de l'Etat et les chemins de fer concédés, aux termes duquel il est défendu de voyager, et même de prendre place dans un train sans être muni de billets réguliers, n'exige pas de dol spécial et notamment la volonté de voyager gratuitement."
+      ],
+      "abstractNL": [
+        "De overtreding van art. 3 K.B. van 4 april 1895 houdende voorschriften betrekkelijk de maatregelen, na te komen voor het reizigersvervoer over Staatsspoorwegen en over de vergunde spoorwegen, naar luid waarvan het verboden is om zonder geldig plaatsbewijs met een trein te reizen en zelfs in een trein plaats te nemen, vereist geen bijzonder opzet en met name niet de bedoeling om kosteloos te reizen <1>."
+      ]
+    }
+  }
+}

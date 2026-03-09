@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1968:ARR.19681028.6": {
+      "court": "CASS",
+      "date": "1968-10-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/10/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 28, 1°, de la loi du 5 septembre 1952 relative à l'expertise et au commerce des viandes, tel qu'il a été modifié par l'article 21 de la loi du 15 avril 1965 interdit le fait de conserver des viandes sans s'être conformé aux dispositions de cette loi et des arrêtés pris en exécution de celle-ci, indépendamment de l'usage pour lequel les viandes sont conservées."
+      ],
+      "abstractNL": [
+        "Artikel 28, 1°, van de wet van 5 september 1952 betreffende de vleeskeuring en de vleeshandel, zoals gewijzigd bij artikel 21 van de wet van 15 april 1965, verbiedt vlees te bewaren zonder zich te schikken naar de bepalingen van deze wet en de besluiten ter uitvoering ervan, ongeacht het gebruik waarvoor dit vlees wordt bewaard."
+      ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680916.1": {
+      "court": "CASS",
+      "date": "1968-09-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/09/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est régulièrement motivé l'arrêt qui décide que l'entreprise du demandeur ne différant, ni par le nombre de marchandises offertes en vente ni par l'ampleur de l'installation des entreprises de détail ordinaires, elle ne peut être considérée comme une grande entreprise de distribution au sens de l'article 2 de l'arrêté royal du 12 décembre 1955, relatif aux débits de viandes et aux ateliers de préparation y annexés, pris en exécution de la loi du 5 septembre 1952 relative à l'expertise et au commerce des viandes."
+      ],
+      "abstractNL": [
+        "Regelmatig gemotiveerd is het arrest dat beslist dat de onderneming van eiser noch door de vele soorten van de te koop aangeboden waren noch door de omvang van de installatie verschilt van de gewone kleinhandelsondernemingen, zodat zij niet kan beschouwd worden als een groot distributiebedrijf in de zin van artikel 2 van het koninklijk besluit vn 12 december 1955 betreffende de vleeswinkels en de daarbij behorende bereidingswerkplaatsen, genomen ter uitvoering van de wet van 5 september 1952 betreffende de vleeskeuring en de vleeshandel."
+      ]
+    }
+  }
+}

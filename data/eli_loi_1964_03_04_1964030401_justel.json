@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851025.14": {
+      "court": "CASS",
+      "date": "1985-10-25",
+      "roleNumber": "4752",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/25/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Seules les personnes physiques et morales mentionnées dans la lettre de voiture comme expéditeur ou destinataire peuvent réclamer à la Société nationale des Chemins de fer belges la réparation du dommage résultant du contrat de transport ( Artt. 1er, paragraphe 1er, 6, paragraphe 6, c et g, 8, paragraphe 1er, 26 et 42, paragraphe 3, de la convention C.I.M. )"
+      ],
+      "abstractNL": [
+        "Van de Nationale Maatschappij der Belgische Spoorwegen kunnen, op grond van het CIM-Verdrag, alleen de in de vrachtbrief als afzender of geadresseerde vermelde natuurlijke of rechtspersonen vergoeding van de uit de vervoerovereenkomst ontstane schade vorderen. ( Artt. 1, par. 1, 6, par. 6, c en g, 8, par. 1, 26 en 42, par. 3, CIM-Verdrag )."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760603.4": {
+      "court": "CASS",
+      "date": "1976-06-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/06/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En cas de transport international par chemin de fer, sous le couvert d'une seule lettre de voiture, sans mention de nature ou de valeur et sans déclaration d'intérêt à la livraison, de divers colis provenant de plusieurs expéditeurs et adressés à plusieurs destinataires, mais groupés par un commissionnaire qui n'a indiqué qu'un poids global et un destinataire unique chargé de la livraison, l'indemnité due par le chemin de fer au destinataire final de l'un des colis, en cas de perte totale ou partielle, lorsque la preuve est apportée de la valeur de la marchandise qu'il contenait, est, en règle, limitée à 100 francs-or par kilo brut manquant de ce colis, quel que soit le poids des autres. (Convention internationale concernant le transport des marchandises par chemin de fer (C.I.M., art. 31), signée à Berne le 25 février 1961 et approuvée par la loi du 4 mars 1964.)"
+      ],
+      "abstractNL": [
+        "Bij internationaal vervoer per spoorweg, met een enkele vrachtbrief, zonder aanwijzing van de aard of de waarde en zonder aangifte van het belang bij de aflevering van verschillende colli's van verscheidene verzenders voor verscheidene bestemmelingen, doch gegroepeerd door een commissionair die slechts een globaal gewicht heeft opgegeven en een enkele bestemmeling die met de levering is belast, is de vergoeding, welke de spoorweg aan de eindbestemmeling van een der colli's moet betalen, bij volledig of gedeeltelijk verlies, na bewijslevering van de waarde van de goederen, in de regel beperkt tot 100 goudfrank per ontbrekend kilogram brutogewicht van deze colli, ongeacht het gewicht van de andere colli's. ( Internationale Overeenkomst betreffende het goederenverkeer per spoorweg ( C.I.M., art. 31 ), op 25 februari 1961 te Bern ondertekend en goedgekeurd bij de wet van 4 maart 1964. )"
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1971:ARR.19710405.11": {
+      "court": "CASS",
+      "date": "1971-04-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/04/05/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "En déléguant un fonctionnaire de la Régie des télégraphes et des téléphones pour représenter celle-ci en personne devant les tribunaux en cas de litiges relatifs aux articles 21 et 22 de la loi du 13 octobre 1930, le ministre ayant les télégraphes et les téléphones dans ses attributions confère à ce fonctionnaire la qualité d'organe de la Régie conformément aux pouvoirs de représentation et de gestion de celle-ci que lui attribue l'article 3 de la loi du 19 juillet 1930."
+      ],
+      "abstractNL": [
+        "Door een ambtenaar van de Regie van Telegrafie en Telefonie te machtigen om persoonlijk de Regie voor het gerecht te vertegenwoordigen in geval van geschillen betreffende de artikelen 21 en 22 van de wet van 13 oktober 1930, verleent de Minister tot wiens bevoegdheid de telegrafie en telefonie behoort, aan deze ambtenaar de hoedanigheid van orgaan van de Regie, overeenkomstig de bevoegdheid hem verleend bij artikel 3 van de wet van 19 juli 1930 om de Regie te vertegenwoordigen en te beheren."
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:1986:ARR.19860214.11": {
+      "court": "CASS",
+      "date": "1986-02-14",
+      "roleNumber": "F1223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision la députation permanente qui décide que, par une application analogique de l'article 25 de l'arrêté royal n° 91 du 11 novembre 1967, sont dispensés de l'impôt poldérien les biens appartenant à la Régie des télégraphes et téléphones par le motif que celle-ci poursuit un but d'utilité générale et utilise dans ce but les biens dont elle dispose."
+      ],
+      "abstractNL": [
+        "De bestendige deputatie verantwoordt haar beslissing niet naar recht, wanneer zij beslist dat, naar analogie van art. 25 van de wet van 19 juli 1930, gewijzigd bij het K.B. nr. 91 van 11 november 1967, de goederen van de Regie van Telegrafie en Telefonie van polderbelasting zijn vrijgesteld, op grond dat de Regie een doel van algemeen nut nastreeft en dat de goederen waarover zij beschikt voor dat doel worden gebruikt."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860214.11": {
+      "court": "CASS",
+      "date": "1986-02-14",
+      "roleNumber": "F1223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/14/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision la députation permanente qui décide que, par une application analogique de l'article 25 de l'arrêté royal n° 91 du 11 novembre 1967, sont dispensés de l'impôt poldérien les biens appartenant à la Régie des télégraphes et téléphones par le motif que celle-ci poursuit un but d'utilité générale et utilise dans ce but les biens dont elle dispose."
+      ],
+      "abstractNL": [
+        "De bestendige deputatie verantwoordt haar beslissing niet naar recht, wanneer zij beslist dat, naar analogie van art. 25 van de wet van 19 juli 1930, gewijzigd bij het K.B. nr. 91 van 11 november 1967, de goederen van de Regie van Telegrafie en Telefonie van polderbelasting zijn vrijgesteld, op grond dat de Regie een doel van algemeen nut nastreeft en dat de goederen waarover zij beschikt voor dat doel worden gebruikt."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840112.9": {
+      "court": "CASS",
+      "date": "1984-01-12",
+      "roleNumber": "6986",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer l'indemnité due du chef d'une expropriation pour cause d'utilité publique, il ne peut être tenu compte de la plus-value du bien exproprié qui résulte de l'expropriation elle-même ou de l'exécution des travaux pour lesquels l'expropriation est autorisée; ne méconnaît ni ne contredit cette règle le juge qui considère qu'il n'y a pas lieu de tenir compte de la moins-value résultant d'un projet de plan de secteur au motif que l'arrêté royal autorisant l'expropriation a, en ce qui concerne le bien exproprié, eu pour conséquence d'arrêter les effets du plan de secteur établi provisoirement, lequel ne sera jamais réalisé et ne sera pas confirmé dans les trois ans."
+      ],
+      "abstractNL": [
+        "Bij de vaststelling van de vergoeding voor een onteigening ten algemenen nutte mag geen rekening worden gehouden met de meerwaarde van het onteigende goed die voortvloeit uit de onteigening zelf of uit de uitvoering van werken waarvoor de onteigening is toegestaan; die regel wordt door de rechter niet miskend en evenmin betwist wanneer hij oordeelt dat geen rekening behoeft te worden gehouden met de minderwaarde ten gevolge van een ontwerp van gewestplan, op grond dat het koninklijk besluit waarbij de onteigening is toegestaan, de gevolgen heeft doen ophouden van het voorlopig vastgesteld gewestplan dat nooit zal worden verwezenlijkt en niet binnen drie jaar zal worden bevestigd."
+      ]
+    }
+  }
+}

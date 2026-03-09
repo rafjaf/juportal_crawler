@@ -1,0 +1,16 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1965:ARR.19650506.2": {
+      "court": "CASS",
+      "date": "1965-05-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En l'absence de toute disposition légale analogue à celle des articles 1er et 4 de la loi du 16 août 1887, en vertu desquels le payement des salaires des ouvriers doit, à peine d'être nul et non avenu, être effectué en monnaie métallique ou fiduciaire ayant cours légal, et, sauf accord des parties, au travailleur lui-même sur le lieu du travail, les rémunérations des employés peuvent, s'il en est convenu expressément ou tacitement, être valablement payées par virement postal."
+      ],
+      "abstractNL": null
+    }
+  }
+}

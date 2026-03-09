@@ -1,0 +1,18 @@
+{
+  "5": {
+    "ECLI:BE:CASS:2003:ARR.20030527.5": {
+      "court": "CASS",
+      "date": "2003-05-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/05/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Manque en droit le moyen qui invoque que seule la vente d'abonnements aux journaux est exclue de l'autorisation préalable s'il s'agit de la déserte d'une clientèle fixe."
+      ],
+      "abstractNL": [
+        "Faalt naar recht het middel dat aanvoert dat enkel de verkoop van abonnementen op kranten uitgesloten is van voorafgaandelijke vergunning indien het de bediening van een vast cliënteel betreft."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1980:ARR.19801002.10": {
+      "court": "CASS",
+      "date": "1980-10-02",
+      "roleNumber": "6115",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si, dans les actes publics et administratifs, les sommes ne peuvent, en vertu de l'article 3 de la loi du 30 décembre 1885, approuvant la Convention monétaire conclue à Paris le 6 novembre 1885, être exprimées qu'en francs et en centimes, cette prescription ne peut trouver application à la partie d'un arrêt de la Cour des comptes qui liquide et arrête des comptes établis en une monnaie étrangère par un comptable envers le Trésor public exerçant ses fonctions en dehors du royaume et dans lesquels figurent les sommes reçues et dépensées par lui en cette monnaie."
+      ],
+      "abstractNL": [
+        "Hoewel, krachtens art. 3 wet van 30 december 1885 tot goedkeuring van de overeenkomst rakende het muntwezen, gesloten te Parijs op 6 november 1885, geldsommen in openbare en bestuurlijke akten slechts in franken en centiemen mogen uitgedrukt worden, is dat voorschrift niet van toepassing op het deel van een arrest van het Rekenhof dat de rekeningen verevent en afsluit die door een buiten het Rijk werkzame rekeningplichtige tegenover de Staatskas in een vreemde munt zijn opgesteld en waarin de door hem in die munt ontvangen en uitgegeven bedragen voorkomen."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661201.1": {
+      "court": "CASS",
+      "date": "1966-12-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/01/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable, à défaut d'intérêt, le moyen critiquant la considération que le débiteur eût pu se libérer en payant à l'étranger, en monnaie étrangère, la pension alimentaire à laquelle il a été condamné et soutenant que la dette était portable au domicile du créancier résidant en Belgique et que, même quérable, elle devait être réglée en francs belges en Belgique, alors que le juge a admis que le créancier pouvait poursuivre l'exécution du jugement en Belgique et obtenir le payement en francs belges des sommes dues en vertu de ce jugement, sauf à tenir compte du taux de change au moment de leur exigibilité."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk bij gebrek aan belang het middel dat opkomt tegen de overweging dat de schuldenaar zijn schuld had kunnen kwijten door in het buitenland, in vreemde munt, het onderhoudsgeld te betalen tot hetwelk hij veroordeeld werd en staande houdend dat de schuld brengbaar was ter woonst van de in België verblijvende schuldeiser en dat, zelfs haalbaar, deze schuld diende betaald te worden in Belgische franken in België, wanneer de rechter aangenomen heeft dat de schuldeiser de tenuitvoerlegging van het vonnis in België kon vervolgen en de betaling van de krachtens het vonnis verschuldigde bedragen in Belgische franken kon verkrijgen, mits rekening te houden met de wisselkoers op de dag van hun opeisbaarheid."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19861103.9": {
+      "court": "CASS",
+      "date": "1986-11-03",
+      "roleNumber": "7513",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/03/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "En matière de chômage, l'application simultanée de l'accord intérimaire européen concernant la sécurité sociale, à l'exclusion des régimes relatifs à la vieillesse, à l'invalidité et aux survivants, et de la Convention générale sur la sécurité sociale entre la Belgique et la Turquie, est possible."
+      ],
+      "abstractNL": [
+        "Inzake werkloosheid kunnen de Europese interimovereenkomst betreffende sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden en het Algemeen Verdrag tussen België en Turkije betreffende de sociale zekerheid gelijktijdig worden toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780612.8": {
+      "court": "CASS",
+      "date": "1978-06-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/12/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les ressortissants turcs ne peuvent prétendre à des allocations pour handicapés par application de la Convention générale sur la sécurité sociale entre le Royaume de Belgique et la République de Turquie, signée à bruxelles le 4 juillet 1966 et approuvée par la loi du 26 février 1968. (Loi du 27 juin 1969, art. 4, 1°)"
+      ],
+      "abstractNL": [
+        "Turkse onderdanen kunnen geen aanspraak op tegemoetkomingen aan minder-validen maken met toepassing van het Algemeen Verdrag tussen het Koninkrijk Belgie en de Republiek Turkije betreffende de sociale zekerheid, ondertekend op 4 juli 1966 te Brussel en goedgekeurd door de handeling van de wetgevende macht van 26 februari 1968. (Wet van 27 juni 1969, art. 4, 1°)"
+      ]
+    }
+  }
+}

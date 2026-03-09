@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670202.2": {
+      "court": "CASS",
+      "date": "1967-02-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, parcourant le trajet normal du lieu de l'exécution du travail à celui de sa résidence, ou inversement, le travailleur est, en venant en aide à une personne exposée à un péril grave, victime d'un accident, le risque ainsi couru est, au sens de l'article 2 de l'arrêté-loi du 13 décembre 1945, un risque inhérent au trajet normal. (Loi du 6 janvier 1961.)"
+      ],
+      "abstractNL": [
+        "Wanneer bij het afleggen van de normale weg van de plaats waar het werk verricht wordt naar die van zijn verblijf, of omgekeerd, de arbeider die ter hulp snelt van een in gevaar zijnde persoon, door een ongeval getroffen wordt, is het aldus opgelopen risico, in de zin van artikel 2 van de besluitwet van 13 december 1945, een aan de normale weg onafscheidelijk verbonden risico. (Wet van 6 januari 1961.)"
+      ]
+    }
+  }
+}

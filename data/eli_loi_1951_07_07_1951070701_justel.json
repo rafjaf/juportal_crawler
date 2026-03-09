@@ -1,0 +1,34 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1971:ARR.19710115.1": {
+      "court": "CASS",
+      "date": "1971-01-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 1742, alinéa 5, du Code civil (loi du 7 juillet 1951, art. 3, alinéa alinéa 1er et 2), qui prévoit que celui d'entre les héritiers ou ayants droit du preneur décédé qui continue l'exploitation du bien loué est tenu seul et pour le tout, vis-à-vis du bailleur, des obligations résultant du bail et postérieures au décès, se fonde, pour libérer de ces obligations ceux des héritiers ou ayants droit qui n'ont pas continué l'exploitation du bien loué, sur la présomption qu'ils ont renoncé tacitement à la continuation du bail."
+      ],
+      "abstractNL": [
+        "Artikel 1742, lid 5, van het Burgerlijk Wetboek (wet van 7 juli 1951, art. 3, alinéa alinéa 1 en 2), waarin wordt bepaald dat degene onder de erfgenamen of rechthebbenden van de overleden pachter die de exploitatie van het gepachte goed voortzet, alleen en voor het geheel tegenover de verpachter gehouden is tot het nakomen van de verbintenissen die voortvloeien uit de pacht en na het overlijden zijn ontstaan, berust, om de erfgenamen of rechthebbenden, die de exploitatie van het gepachte goed niet hebben voortgezet, van deze verbintenissen te bevrijden, op het vermoeden dat zij stilzwijgend van de voortzetting van de pacht hebben afgezien."
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:2008:ARR.20081128.3": {
+      "court": "CASS",
+      "date": "2008-11-28",
+      "roleNumber": "C.07.0358.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux parlementaires de l'article 55 de la loi du 7 juillet 1951 que, selon le législateur, l'aliénation du bien loué ne modifie pas les droits du preneur et que l'acquéreur ne se voit jamais accorder plus de droits que le propriétaire initial; il s'ensuit qu'en cas de vente à la suite d'une saisie exécution d'un bien qui est loué en vertu d'un contrat qui a acquis date certaine avant la transcription de l'exploit de saisie, le contrat de bail peut être opposé à l'acquéreur et celui-ci est tenu de le respecter pour la durée pour laquelle il est conclu."
+      ],
+      "abstractNL": [
+        "Uit de parlementaire voorbereiding van artikel 55 van de Pachtwet blijkt dat de wetgever bedoelt dat de vervreemding van het pachtgoed de rechten van de pachter onverkort laat en dat aan de verkrijger nooit meer rechten worden toegekend dan aan de oorspronkelijke eigenaar; hieruit volgt dat ingeval van de verkoop ingevolge uitvoerend beslag van het pachtgoed, dat is verpacht bij een contract dat een vaste dagtekening heeft verkregen vóór de overschrijving van het beslagexploot, het pachtcontract kan worden ingeroepen tegen de koper en dat deze het moet eerbiedigen voor de duur waarvoor het is gesloten."
+      ]
+    }
+  }
+}

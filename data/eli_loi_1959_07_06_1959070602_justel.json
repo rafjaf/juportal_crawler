@@ -1,0 +1,32 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1971:ARR.19710909.7": {
+      "court": "CASS",
+      "date": "1971-09-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/09/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La loi du 6 juillet 1959 a dissous l'Office des séquestres et transmis ses droits et obligations à l'Etat, qui est substitué de plein droit audit office dans les procédures en cours."
+      ],
+      "abstractNL": [
+        "De wet van 6 juli 1959 heeft de Dienst van het Sekwester ontbonden en zijn rechten en verplichtingen overgedragen aan de Staat, die rechtens in de plaats van de Dienst is gesteld voor de hangende gedingen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1965:ARR.19651113.3": {
+      "court": "CASS",
+      "date": "1965-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si, en vertu de l'article 1er, alinéa 2, de l'arrêté-loi du 23 août 1944, relatif au séquestre des biens, droits et intérêts ennemis, les actes relatifs aux biens séquestrés ne sont pas opposables à l'Office des séquestres, un acte postérieur à la mise sous séquestre, et opposable à l'Etat, ne cesse pas d'être opposable à celui-ci depuis l'entrée en vigueur de la loi du 6 juillet 1959, prononçant la dissolution de l'Office des séquestres, ensuite de laquelle l'Etat exerce lui-même les droits et exécute les obligations de l'Office des séquestres."
+      ],
+      "abstractNL": null
+    }
+  }
+}

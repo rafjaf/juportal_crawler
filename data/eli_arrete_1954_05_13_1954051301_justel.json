@@ -1,0 +1,30 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670418.3": {
+      "court": "CASS",
+      "date": "1967-04-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/04/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La taxe qui a pour assiette, non des faits isolés ou passagers accomplis par le redevable, mais une situation durable par sa nature est une taxe directe."
+      ],
+      "abstractNL": [
+        "Is een directe belasting de belasting die tot grondslag heeft niet alleenstaande of voorbijgaande en door de belastingschuldige gestelde daden, doch een uiteraard duurzame toestand."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650105.1": {
+      "court": "CASS",
+      "date": "1965-01-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/01/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La qualification \" indirecte \" donnée à une taxe communale ou provinciale par le règlement qui la crée ne suffit pas à lui conférer ce caractère; pareille qualification, d'une part, ne lie pas le juge et, d'autre part, ne vicie pas la légalité du règlement, lorsqu'elle ne correspond pas à la réalité."
+      ],
+      "abstractNL": null
+    }
+  }
+}

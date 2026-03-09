@@ -1,0 +1,30 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19701029.3": {
+      "court": "CASS",
+      "date": "1970-10-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/10/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, alinéa 1er, de la convention sur la compétence judiciaire, conclue le 8 juillet 1899 entre la Belgique et la France et approuvée par la loi du 31 mars 1900, aux termes duquel, en matière civile et en matière commerciale, les Belges en France et les Français en Belgique sont régis par les mêmes règles que les nationaux, assimile en ces matières les Belges et les Français pour l'application des règles de compétence et consacre les bases de compétence établies par l'article 25 de la loi du 25 mars 1876; il n'assimile pas, à cet effet, le territoire français au territoire belge."
+      ],
+      "abstractNL": [
+        "Artikel 1, alinéa 1, van de tussen België en Frankrijk op 8 juli 1899 gesloten overeenkomst betreffende de rechterlijke bevoegdheid, goedgekeurd bij de wet van 31 maart 1900, naar luid waarvan, in burgerlijke zaken en in zaken van koophandel, voor de Belgen in Frankrijk en voor de Fransen in België dezelfde bevoegdheidsregelen gelden als voor de landgenoten, stelt de Belgen en Fransen gelijk voor de toepassing van de bevoegdheidsregelen in deze zaken en is een bekrachtiging van de bevoegdheidsgronden, vastgesteld bij artikel 25 van de wet van 25 maart 1876; de overeenkomst stelt het Frans grondgebied niet gelijk met het Belgisch grondgebied."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650422.1": {
+      "court": "CASS",
+      "date": "1965-04-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/04/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Nonobstant la clause d'un contrat conclu entre un Belge et un Français, attribuant juridiction à un tribunal français pour connaître des contestations relatives à ce contrat, le tribunal de première instance belge, compétent pour connaître de la demande en validité d'une saisie-arrêt, l'est aussi pour statuer sur la contestation connexe relative à l'existence de la créance, dont il est seul saisi et qui, en vertu de la loi belge, ne sort pas, en raison de la matière, de sa compétence d'attribution. (Loi du 25 mars 1876, art. 8, 37, 37bis, 37ter et 52; convention franco-belge du 8 juillet 1899 sur la compétence judiciaire, approuvée par la loi du 31 mars 1900, articles 3, alinéa 1er, et 5.)"
+      ],
+      "abstractNL": null
+    }
+  }
+}

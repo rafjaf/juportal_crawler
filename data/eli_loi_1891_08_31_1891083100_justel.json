@@ -1,0 +1,66 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1989:ARR.19891130.4": {
+      "court": "CASS",
+      "date": "1989-11-30",
+      "roleNumber": "8456;8482",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est conforme à l'article 3 de la loi du 31 août 1891, la décision du juge qui déclare irrecevable la demande de paiement d'honoraires d'un notaire, à défaut de taxation préalable par le président du tribunal de première instance, lorsque le juge constate que ces honoraires sont relatifs à des négociations en vue de la vente d'un immeuble, qui ont constitué des actes du ministère du notaire."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de rechter de vordering van een notaris tot betaling van honorarium, bij ontstentenis van voorafgaande begroting door de voorzitter van de rechtbank van eerste aanleg, niet ontvankelijk verklaart, is conform art. 3 wet 31 augustus 1891, wanneer de rechter vaststelt dat dat honorarium betrekking heeft op onderhandelingen met het oog op de verkoop van een gebouw die akten van de ambtsbediening van notaris waren."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1971:ARR.19710625.11": {
+      "court": "CASS",
+      "date": "1971-06-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/06/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 1er à 4 de la loi du 31 août 1891 portant tarification et recouvrement des honoraires des notaires concernent les honoraires, vacations, droits de rôle ou de copie, frais de voyage, de séjour ou de nourriture dus aux notaires pour les actes instrumentaires ou autres de leur ministère, mais sont étrangères aux autres rémunérations ou frais qui seraient dus à ces officiers ministériels."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 1 tot 4 van de wet van 31 augustus 1891 houdende tarifering en invordering der honoraria van notarissen gelden voor \"de honoraria, vacatiën, rol- en kopierechten en reis-, verblijf- of voedingskosten aan de notarissen wegens instrumentaire of andere akten hun betreffende, verschuldigd\", maar hebben geen betrekking op de andere bezoldigingen of kosten die aan deze ministeriële officieren zouden verschuldigd zijn."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1990:ARR.19900419.8": {
+      "court": "CASS",
+      "date": "1990-04-19",
+      "roleNumber": "8479",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/04/19/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de la loi du 31 août 1891 portant tarification et recouvrement des honoraires des notaires, qui dispose que les frais de la taxe seront à charge des parties, se prononce sur l'obligation à la dette, c'est à dire qu'il désigne les personnes a qui le notaire pourra réclamer paiement."
+      ],
+      "abstractNL": [
+        "Art. 5 Wet van 31 augustus 1891 houdende tarificatie en invordering van de honoraria der notarissen, bepaalt dat de kosten van de begroting ten laste vallen van de partijen en zegt wie schuldplichtig is, d.w.z. dat het de personen aanwijst van wie de notaris betaling kan vorderen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19891130.4": {
+      "court": "CASS",
+      "date": "1989-11-30",
+      "roleNumber": "8456;8482",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est conforme à l'article 3 de la loi du 31 août 1891, la décision du juge qui déclare irrecevable la demande de paiement d'honoraires d'un notaire, à défaut de taxation préalable par le président du tribunal de première instance, lorsque le juge constate que ces honoraires sont relatifs à des négociations en vue de la vente d'un immeuble, qui ont constitué des actes du ministère du notaire."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de rechter de vordering van een notaris tot betaling van honorarium, bij ontstentenis van voorafgaande begroting door de voorzitter van de rechtbank van eerste aanleg, niet ontvankelijk verklaart, is conform art. 3 wet 31 augustus 1891, wanneer de rechter vaststelt dat dat honorarium betrekking heeft op onderhandelingen met het oog op de verkoop van een gebouw die akten van de ambtsbediening van notaris waren."
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1968:ARR.19681104.3": {
+      "court": "CASS",
+      "date": "1968-11-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/11/04/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Un médecin vétérinaire n'est pas un pharmacien d'officine, c'est-à-dire une personne autorisée à pratiquer la pharmacie, qui gère effectivement soit une officine ouverte au public, soit une officine installée dans un établissement de soins ou une prison. (Arrêté royal du 6 juin 1960, art. 1er, 6°.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Een dierenarts is geen officina-apotheker, dit wil zeggen een persoon die een vergunning bezit om de farmacie te beoefenen en die werkelijk hetzij een voor het publiek toegankelijke, hetzij een in de verzorgingsinstellingen of in de gevangenissen ingerichte officina beheert. (Koninklijk besluit van 6 juni 1960, art. 1, 6°.) (Impliciete oplossing.)"
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1967:ARR.19671127.3": {
+      "court": "CASS",
+      "date": "1967-11-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/11/27/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Is wettelijk gerechtvaardigd het arrest dat beslist, dat verboden is de rechtstreekse verkoop van geneesmiddelen aan het publiek door een handelaar in geneesmiddelen in het groot, zelfs zo een officina-apotheker voor elke distributie door de handelaar aan het publiek de conformiteit en de deugdelijkheid ervan heeft nagezien, daar de levering van geneesmiddelen aan het publiek ten bezwarende of ten kosteloze titel in de apotheek moet gebeuren en de officina-apotheker zijn diensten niet mag presteren aan een handelaar in geneesmiddelen in het groot. (Koninklijk Besluit van 6 juni 1960, art. 2 en 22.)"
+      ]
+    }
+  },
+  "52": {
+    "ECLI:BE:CASS:1979:ARR.19791204.13": {
+      "court": "CASS",
+      "date": "1979-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/12/04/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19791204.13": {
+      "court": "CASS",
+      "date": "1979-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/12/04/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  }
+}

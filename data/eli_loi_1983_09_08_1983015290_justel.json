@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19951026.7": {
+      "court": "CASS",
+      "date": "1995-10-26",
+      "roleNumber": "C940168N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas une loi, au sens de l'article 608 du Code judiciaire, la loi du 8 septembre 1983 portant approbation de l'accord entre le Royaume de Belgique et la République du Zaïre, conclu par échange de lettres datées à Kinshasa le 19 juin 1971 réglant certaines revendications relatives soit aux conventions du 6 février 1965, soit à des objets non réglés par celles-ci, l'accord n'ayant pas une portée normative."
+      ],
+      "abstractNL": [
+        "Geen wet in de zin van art. 608 Ger.W. is de Wet van 8 september 1983 houdende de goedkeuring van het Akkoord tussen het Koninkrijk België en de Republiek Zaïre, gesloten door wisseling van brieven gedagtekend te Kinshasa op 19 juni 1971, houdende regeling van sommige vorderingen betreffende hetzij de overeenkomsten van 6 februari 1965, hetzij door deze niet geregelde aangelegenheden, nu dat akkoord geen normatieve draagwijdte heeft."
+      ]
+    }
+  }
+}

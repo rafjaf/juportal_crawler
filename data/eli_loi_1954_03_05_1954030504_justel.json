@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851113.2": {
+      "court": "CASS",
+      "date": "1985-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 7.2 du Protocole de Paris sur le statut des quartiers généraux militaires internationaux créés en vertu du Traité de l'Atlantique Nord approuvé par l'acte du Pouvoir législatif du 5 mars 1954 consacre l'existence, au sein du S.H.A.P.E., de membres du personnel civil soumis à un statut international, qui peuvent être ressortissants de l'Etat de séjour."
+      ],
+      "abstractNL": [
+        "Art. 7.2 van het Protocol van Parijs nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag, goedgekeurd bij de wet van 5 maart 1954, legt binnen de S.H.A.P.E. het bestaan vast van burgerpersoneel met een internationaal statuut, dat uit onderdanen van de Staat van verblijf kan zijn samengesteld."
+      ]
+    }
+  }
+}

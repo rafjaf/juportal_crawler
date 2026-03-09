@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990202.8": {
+      "court": "CASS",
+      "date": "1999-02-02",
+      "roleNumber": "P950169N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 1.2, 4 et 24 de la Convention internationale sur la circulation routière, signée à Genève le 19 septembre 1949, ne concernent que les conducteurs en circulation internationale et non les étrangers ayant leur résidence normale dans l'Etat où ils se trouvent : le conducteur établi ici doit dès lors être titulaire et porteur d'un permis de conduire régulièrement délivré en Belgique, valable pour la catégorie à laquelle appartient le véhicule, avant de pouvoir conduire un véhicule à moteur sur la voie publique."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artikelen 1.2, 4 en 24 van het Internationaal Verdrag nopens het wegverkeer, ondertekend te Genève op 19 september 1949 hebben alleen betrekking op bestuurders in het internationaal wegverkeer, en niet op vreemdelingen die normaal verblijven in de Staat waarin zij zich bevinden : de alhier gevestigde bestuurder moet derhalve houder en in het bezit zijn van een regelmatig in België afgegeven rijbewijs, geldig voor de categorie waartoe het voertuig behoort, vooraleer hij een motorvoertuig op de openbare weg mag besturen."
+      ]
+    }
+  }
+}

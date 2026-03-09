@@ -1,0 +1,46 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1978:ARR.19781116.2": {
+      "court": "CASS",
+      "date": "1978-11-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/11/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 25 avril 1933 relative à la pension du personnel communal n'a qu'un caractère subsidiaire et n'a pas privé les communes du droit d'accorder, à leurs agents, par règlement, une pension d'un montant supérieur au montant garanti par cette loi."
+      ],
+      "abstractNL": [
+        "De wet van 25 april 1933 betreffende het pensioen van het gemeentepersoneel is maar van subsidiaire aard en heeft aan de gemeenten het recht niet ontnomen om, krachtens een verordening, aan hun ambtenaren een groter pensioen toe te kennen dan het pensioen dat die wet hun waarborgt."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710121.4": {
+      "court": "CASS",
+      "date": "1971-01-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/01/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er de la loi du 25 avril 1933, relative à la pension du personnel communal, imposait aux communes d'assurer aux personnes âgées d'au moins dix-neuf ans faisant effectivement partie de leur personnel, et aux ayants droit de celles-ci, une pension calculée suivant les règles appliquées aux fonctionnaires et agents de l'administration centrale du Ministère de l'intérieur, ainsi qu'à leurs ayants droit."
+      ],
+      "abstractNL": [
+        "Ingevolge artikel 1 van de wet van 25 april 1933 omtrent de pensioenregeling van het gemeentepersoneel zijn de gemeenten ertoe gehouden aan de personen van minstens negentien jaar, die werkelijk deel uitmaken van hun personeel, en hun rechthebbenden een pensioen te verzekeren berekend volgens de regelen die op de ambtenaren en beambten van het hoofdbestuur van het Ministerie van Binnenlandse Zaken alsmede op hun rechthebbenden wordt toegepast."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1964:ARR.19641210.1": {
+      "court": "CASS",
+      "date": "1964-12-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/12/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Au principe que les fonctionnaires ou agents de l'Etat, d'une province ou d'une commune n'ont de droit acquis à un régime de pension déterminé que lorsqu'ils réunissent les conditions prévues pour être mis à la retraite et obtenir une pension, la loi du 25 avril 1933 relative à la pension du personnel communal ne déroge, en son article 2, qu'en faveur des agents en fonctions au 1er janvier 1934, date de sa mise en vigueur. (Loi du 25 avril 1933, art. 2 et 13; arrêté royal du 30 décembre 1933, art. 2.)"
+      ],
+      "abstractNL": null
+    }
+  }
+}

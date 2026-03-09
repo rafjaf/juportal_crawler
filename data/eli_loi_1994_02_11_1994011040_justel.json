@@ -1,0 +1,18 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2001:ARR.20010214.11": {
+      "court": "CASS",
+      "date": "2001-02-14",
+      "roleNumber": "P001606F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La loi du 11 avril 1994 relative à la publicité de l'administration n'est pas applicable à la copie de l'exploit d'huissier destinée à signifier une décision judiciaire."
+      ],
+      "abstractNL": [
+        "De W. 11 juli 1994 betreffende de openbaarheid van bestuur is niet van toepassing op het afschrift van het deurwaardersexploot waarmee een rechterlijke beslissing betekend moet worden."
+      ]
+    }
+  }
+}

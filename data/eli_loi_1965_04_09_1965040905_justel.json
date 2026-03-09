@@ -1,0 +1,48 @@
+{
+  "49": {
+    "ECLI:BE:CASS:1992:ARR.19920415.7": {
+      "court": "CASS",
+      "date": "1992-04-15",
+      "roleNumber": "9625",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'exercice de la médecine vétérinaire consiste dans la pratique habituelle d'actes que cette profession comporte, sans distinction entre les soins donnés aux animaux d'autrui et ceux donnés à ses propres animaux. (Loi du 4 avril 1890, art. 26, remplacé par art. 49, loi du 9 avril 1965.)"
+      ],
+      "abstractNL": [
+        "De uitoefening van de diergeneeskunde bestaat in daden die doorgaans bij de uitoefening van dat beroep worden verricht, zonder onderscheid tussen de verzorging van andermans dieren en die van zijn eigen dieren. ( Art. 26 Wet van 4 april 1890, vervangen door art. 49 Wet van 9 april 1965. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730625.10": {
+      "court": "CASS",
+      "date": "1973-06-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/25/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'exercice de la médecine vétérinaire consiste dans la pratique habituelle d'actes que cette profession comporte, sans distinction entre les soins donnés aux animaux d'autrui et ceux donnés à ses propres animaux. ( Loi du 4 avril 1890, art. 25, modifié par l'article 49 de la loi du 9 avril 1965. )"
+      ],
+      "abstractNL": [
+        "De uitoefening van de dierengeneeskunde bestaat in daden die doorgaans bij de uitoefening van dit beroep worden verricht, zonder onderscheid tussen de verzorging van andermans dieren en die van zijn eigen dieren. ( Wet van 4 april 1890, art. 25, gewijzigd bij artikel 49 van de wet van 9 april 1965. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1992:ARR.19920415.7": {
+      "court": "CASS",
+      "date": "1992-04-15",
+      "roleNumber": "9625",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'exercice de la médecine vétérinaire consiste dans la pratique habituelle d'actes que cette profession comporte, sans distinction entre les soins donnés aux animaux d'autrui et ceux donnés à ses propres animaux. (Loi du 4 avril 1890, art. 26, remplacé par art. 49, loi du 9 avril 1965.)"
+      ],
+      "abstractNL": [
+        "De uitoefening van de diergeneeskunde bestaat in daden die doorgaans bij de uitoefening van dat beroep worden verricht, zonder onderscheid tussen de verzorging van andermans dieren en die van zijn eigen dieren. ( Art. 26 Wet van 4 april 1890, vervangen door art. 49 Wet van 9 april 1965. )"
+      ]
+    }
+  }
+}

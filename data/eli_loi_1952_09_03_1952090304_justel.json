@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950531.10": {
+      "court": "CASS",
+      "date": "1995-05-31",
+      "roleNumber": "P950678F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/31/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 7 de la loi du 16 juin 1993 attribuant compétence aux juridictions belges pour connaître des infractions graves au droit international humanitaire, indépendamment du lieu où celles-ci ont été commises, ne déroge pas aux autres règles concernant la compétence territoriale des juridictions répressives et du juge d'instruction, lorsque celle-ci est déterminée par le lieu de la résidence du prévenu ou par celui où il pourra être trouvé. (solution implicite)."
+      ],
+      "abstractNL": [
+        "Art. 7 Wet van 16 juni 1993 waarbij aan de Belgische gerechten de bevoegdheid wordt toegekend om kennis te nemen van de ernstige inbreuken op het internationaal humanitair recht, ongeacht de plaats waar die inbreuken zijn gepleegd, wijkt niet af van de overige regels inzake de territoriale bevoegdheid van de strafgerechten en van de onderzoeksrechter, wanneer die bepaald wordt door de plaats waar de verdachte blijft of door de plaats waar de verdachte kan worden gevonden. (Impliciet)."
+      ]
+    }
+  }
+}

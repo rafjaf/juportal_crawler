@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19700908.3": {
+      "court": "CASS",
+      "date": "1970-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/09/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ni la loi du 1er août 1922 autorisant la perception de taxes de vérification en matière de poids et mesures au profit du Trésor, ni l'arrêté royal du 22 décembre 1966 fixant et coordonnant les taxes de vérification des poids et mesures, n'exemptent l'Etat desdites taxes."
+      ],
+      "abstractNL": [
+        "Noch de wet van 1 augustus 1922 houdende machtiging tot het innen van ijkgeld voor maten en gewichten ten bate van de Schatkist, noch het koninklijk besluit van 22 december 1966 houdende vaststelling en coördinatie der ijklonen stelt de Staat van het ijkloon vrij."
+      ]
+    }
+  }
+}

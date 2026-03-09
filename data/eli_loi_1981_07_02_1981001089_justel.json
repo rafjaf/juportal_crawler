@@ -1,0 +1,48 @@
+{
+  "36": {
+    "ECLI:BE:CASS:1982:ARR.19821103.13": {
+      "court": "CASS",
+      "date": "1982-11-03",
+      "roleNumber": "2411",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, pour une infraction commise avant l'entrée en vigueur de l'article 36 de la loi du 2 juillet 1981, publiée au Moniteur belge du 8 juillet 1981, majore de 590 décimes additionnels l'amende à laquelle le prévenu est condamné."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest dat, voor een misdrijf gepleegd vóór de inwerkingtreding van de wet van 2 juli 1981, bekendgemaakt in het Belgisch Staatsblad van 8 juli 1981, de geldboete, waartoe de beklaagde is veroordeeld, met 590 deciemen verhoogt <2>."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19870519.11": {
+      "court": "CASS",
+      "date": "1987-05-19",
+      "roleNumber": "864",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/05/19/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée la décision qui, pour une infraction commise avant l'entrée en vigueur de la loi du 2 juillet 1981, publiée au Moniteur belge du 8 juillet 1981, majore de 590 décimes additionnels l'amende à laquelle le prévenu est condamné."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing waarbij de geldboete, waartoe de beklaagde is veroordeeld, met 590 deciemen wordt verhoogd wegens een misdrijf dat hij heeft gepleegd voor de inwerkingtreding van de wet van 2 juli 1981, bekendgemaakt in het Belgisch Staatsblad van 8 juli 1981."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841211.13": {
+      "court": "CASS",
+      "date": "1984-12-11",
+      "roleNumber": "8160",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/12/11/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié le jugement qui, pour une infraction commise avant l'entrée en vigueur de la loi du 2 juillet 1981, publiée au Moniteur du 8 juillet 1981, majore de 590 décimes additionnels l'amende à laquelle le prévenu est condamné."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het vonnis waarbij de geldboete, waartoe de beklaagde is veroordeeld, met 590 deciemen wordt verhoogd wegens een misdrijf dat hij heeft gepleegd vóór de inwerkingtreding van de wet van 2 juli 1981, bekendgemaakt in het Belgisch Staatsblad van 8 juli 1981."
+      ]
+    }
+  }
+}

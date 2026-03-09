@@ -1,0 +1,46 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940922.4": {
+      "court": "CASS",
+      "date": "1994-09-22",
+      "roleNumber": "C930444F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'Art. 31.3 de la Convention de Vienne sur les relations diplomatiques vise l'immunité personnelle de l'agent diplomatique et non celle de l'Etat accréditant. (Convention de Vienne du 18 avril 1961, approuvée par la loi du 30 mars 1968.)"
+      ],
+      "abstractNL": [
+        "Art. 31.3 van het Verdrag van Wenen inzake diplomatiek verkeer heeft betrekking op de persoonlijke immuniteit van de diplomatieke ambtenaar en niet op die van de zendstaat. (Verdrag van Wenen van 18 april 1961, goedgekeurd bij de wet van 30 maart 1968.)"
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930505.10": {
+      "court": "CASS",
+      "date": "1993-05-05",
+      "roleNumber": "P930497F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les articles 90 et 134 de la Constitution excluent la compétence des juridictions répressives ordinaires à l'égard des ministres en cas de poursuites du chef d'infractions commises pendant le temps et dans l'exercice de leurs fonctions ministérielles; partant l'action publique ne peut être mise en mouvement à leur égard ni par la personne lésée, que ce soit par voie de citation directe ou par la voie de la constitution de partie civile entre les mains du juge d'instruction, ni par le ministère public. (Const., art. 90 et 134)."
+      ],
+      "abstractNL": [
+        "Volgens de artt. 90 en 134 Gw. zijn de gewone strafgerechten niet bevoegd t.a.v. de ministers, als ze vervolgd worden wegens misdrijven, gepleegd tijdens en in de uitoefening van hun ministerieel ambt; derhalve kan de publieke vordering te hunnen aanzien niet aanhangig worden gemaakt door de benadeelde partij door rechtstreekse dagvaarding of door aanstelling als burgerlijke partij in handen van de onderzoeksrechter, noch door het O.M. (Artt. 90 en 134 Gw.)."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900328.11": {
+      "court": "CASS",
+      "date": "1990-03-28",
+      "roleNumber": "8166",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/28/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La notification au ministère des Affaires étrangères de l'Etat accréditaire de l'arrivée d'une personne appartenant à la famille d'un membre de la mission et du fait qu'une personne devient membre de la famille d'un membre de la mission, prévue à l'article 10.1.b. de la Convention de Vienne du 18 avril 1961 sur les relations diplomatiques, n'a pas, à elle seule, pour effet de conférer des privilèges ou immunités à la personne qui en est l'objet."
+      ],
+      "abstractNL": [
+        "Wanneer overeenkomstig art. 10.1.b. van het Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer, aan het Ministerie van Buitenlandse Zaken van de ontvangende staat de mededeling wordt gedaan dat een gezinslid van een lid van de zending is aangekomen en dat een persoon gezinslid wordt van een lid van de zending, heeft die mededeling op zich niet tot gevolg dat aan de betrokken persoon voorrechten en immuniteiten zijn verleend."
+      ]
+    }
+  }
+}

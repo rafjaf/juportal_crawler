@@ -1,0 +1,34 @@
+{
+  "6": {
+    "ECLI:BE:CASS:1969:ARR.19690325.1": {
+      "court": "CASS",
+      "date": "1969-03-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Quoique l'article 6 de l'arrêté ministériel du 12 décembre 1947 n'oblige le contribuable à conserver ses carnets à souche que pendant six ans, celui-ci n'en reste pas moins tenu, à l'expiration de ce délai, d'établir le détail des inscriptions globales qui figurent dans sa comptabilité, notamment pour prouver que les recettes qui ont été constatées y sont comprises."
+      ],
+      "abstractNL": [
+        "Hoewel artikel 6 van het ministerieel besluit van 12 december 1947 de belastingplichtige verplicht zijn stamboekjes slechts gedurende zes jaar te bewaren, toch moet hij na verloop van deze termijn, de samenstelling van de globale inschrijvingen van zijn boekhouding opmaken om te bewijzen dat de erin vastgestelde ontvangsten erin begrepen zijn."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1969:ARR.19690617.1": {
+      "court": "CASS",
+      "date": "1969-06-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/06/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'administration des contributions directes peut, pour évaluer le montant des revenus imposables d'un contribuable exerçant une profession libérale, demander à celui-ci la communication des avis de l'Office des chèques postaux relatifs à sa profession, même si ce contribuable n'est pas dispensé, en vertu de l'article 7 de l'arrêté ministériel du 12 décembre 1947, de délivrer reçu extrait du carnet prévu par l'article 30 des lois relatives aux impôts sur les revenus, coordonnées le 15 janvier 1948."
+      ],
+      "abstractNL": [
+        "De administratie der directe belastingen mag aan een belastingplichtige, die een vrij beroep uitoefent, voor de raming van het bedrag van zijn belastbare inkomsten vragen dat hij inzage zou verlenen van de kennisgevingen van het Bestuur der Postchecks betreffende zijn beroep, zelfs zo hij krachtens artikel 7 van het ministerieel besluit van 12 december 1947 niet vrijgesteld is van de verplichting een ontvangsbewijs-uittreksel uit het boekje af te geven, zoals die voorgeschreven is bij artikel 30 van de wetten betreffende de inkomstenbelastingen, gecoördineerd op 15 januari 1948."
+      ]
+    }
+  }
+}

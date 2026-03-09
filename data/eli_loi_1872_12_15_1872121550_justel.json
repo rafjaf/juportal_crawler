@@ -1,0 +1,74 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1965:ARR.19651022.3": {
+      "court": "CASS",
+      "date": "1965-10-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'alinéa 4 de l'article 2 de la loi du 15 décembre 1872, article modifié par l'article 2 de la loi du 3 juillet 1956, exclut des actes réputés commerciaux la transformation par l'exploitant d'une entreprise agricole, des produits de son propre fonds, lorsque cette transformation relève normalement des entreprises agricoles; ladite disposition n'exclut pourtant point des actes réputés commerciaux la transformation, par des tiers, des produits d'une entreprise agricole."
+      ],
+      "abstractNL": null
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1965:ARR.19650528.3": {
+      "court": "CASS",
+      "date": "1965-05-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les présomptions établies par l'article 10 du Code de commerce (loi du 15 décembre 1872) n'impliquent pas que la femme mariée, qui exerce une activité commerciale, ne peut être considérée comme commerçante que si cette activité a pour objet un commerce distinct de celui de son mari."
+      ],
+      "abstractNL": null
+    }
+  },
+  "17": {
+    "ECLI:BE:CASS:1967:ARR.19670210.1": {
+      "court": "CASS",
+      "date": "1967-02-10",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/10/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De vermeldingen in een notaboekje, dat geen koopmansboek is in de zin van de artikelen 1329, 1330 van het Burgerlijk Wetboek, 16 en 17 van de wet van 15 december 1872, kunnen een begin van schriftelijk bewijs opleveren. (Impliciete oplossing.) (Burgerl. Wetb., art. 1347.)"
+      ]
+    }
+  },
+  "25": {
+    "ECLI:BE:CASS:1967:ARR.19670413.3": {
+      "court": "CASS",
+      "date": "1967-04-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/04/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La preuve d'un engagement commercial ou de son extinction peut être faite par toutes voies de droit, y compris les présomptions. (Code civil, art. 1341; loi du 15 décembre 1872, art. 25.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Het bewijs van een handelsverbintenis of de vernietiging ervan kan door alle rechtsmiddelen, met inbegrip van vermoedens, worden geleverd. (Burgerl. Wetb., art. 1341; wet van 15 december 1872, art. 25.) (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660912.4": {
+      "court": "CASS",
+      "date": "1966-09-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La preuve d'un engagement commercial ou de son extinction peut être faite par toutes voies de droit, même si celui qui aurait souscrit l'engagement a cessé d'être commerçant. (Loi du 15 décembre 1872, art. 25). (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Het bewijs van een commerciële verbintenis of van haar tenietgaan mag door alle rechtsmiddelen geleverd worden, zelfs indien hij die de verbintenis zou aangegaan hebben niet meer koopman is. (Wet van 15 december 1872, art. 25). (Impliciete oplossing.)"
+      ]
+    }
+  }
+}

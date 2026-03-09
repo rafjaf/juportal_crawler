@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1974:ARR.19741220.12": {
+      "court": "CASS",
+      "date": "1974-12-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Peut être proposé pour la première fois devant la Cour de cassation, à l'appui d'un pourvoi en matière civile, le moyen fondé sur des dispositions légales d'ordre public telles les dispositions de la loi du 30 juillet 1971 sur la réglementation économique et les prix."
+      ],
+      "abstractNL": [
+        "Het middel dat stoelt op wettelijke bepalingen van openbare orde, zoals de bepalingen van de wet van 30 juli 1971 betreffende de economische reglementering en de prijzen, kan voor het eerst voor het Hof van cassatie worden opgeworpen."
+      ]
+    }
+  }
+}

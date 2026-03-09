@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19821119.13": {
+      "court": "CASS",
+      "date": "1982-11-19",
+      "roleNumber": "3375",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/19/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "A moins que la loi n'en dispose autrement, l'action exercée par une personne physique ou morale ne peut être admise si le demandeur n'a pas un intérêt personnel et direct, c'est-à-dire un intérêt qui lui est propre; un intérêt général ne constitue pas, en ce sens, un intérêt personnel."
+      ],
+      "abstractNL": [
+        "Tenzij de wet anders bepaalt, kan de rechtsvordering, ingesteld door een natuurlijk of rechtspersoon, niet worden toegelaten indien de eiser geen persoonlijk en rechtstreeks belang heeft, d.w.z. een eigen belang; een algemeen belang is in die zin geen ë eigen belang è <1>."
+      ]
+    }
+  }
+}

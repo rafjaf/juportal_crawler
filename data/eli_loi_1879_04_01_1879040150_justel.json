@@ -1,0 +1,70 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010327.11": {
+      "court": "CASS",
+      "date": "2001-03-27",
+      "roleNumber": "P990995N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La plainte visée à l'article 14 de la loi du 1er avril 1879 concernant les marques de fabrique et de commerce n'est subordonnée à aucune condition de forme; il faut mais il suffit que cette plainte manifeste la volonté de la partie lésée d'exercer la poursuite pénale (1)."
+      ],
+      "abstractNL": [
+        "De klacht bedoeld bij art. 14 Wet van 1 april 1879 is aan geen vormvereiste onderworpen; het is vereist maar het volstaat dat deze klacht de wil van de benadeelde strekkende tot strafvervolging duidelijk maakt (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930615.5": {
+      "court": "CASS",
+      "date": "1993-06-15",
+      "roleNumber": "6130",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/06/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 14 de la loi du 1er avril 1879 qui dispose que l'action publique ne peut être poursuivie que sur la plainte de la partie lésée, ne requiert pas que cette plainte soit antérieure à la constitution de partie civile."
+      ],
+      "abstractNL": [
+        "Art. 14 W. van 1 april 1879 dat de uitoefening van de strafvordering afhankelijk maakt van een klacht van de benadeelde, vereist niet dat die klacht aan de stelling als burgerlijke partij voorafgaat."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880324.12": {
+      "court": "CASS",
+      "date": "1988-03-24",
+      "roleNumber": "7839",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/24/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Si la loi du 1er avril 1879 concernant les marques de fabrique et de commerce créait dans le chef du déposant d'une marque, aux conditions qu'elle précisait, un droit à l'usage exclusif de la marque, elle n'excluait pas que l'inutilisation caractérisée de cette marque pouvait entraîner la perte du droit."
+      ],
+      "abstractNL": [
+        "Hoewel de wet van 1 april 1879 inzake de fabrieks- en handelsmerken aan de deposant van een merk, onder de daarin bepaalde voorwaarden, een alleenrecht op het gebruik van dat merk verleende, sloot zij niet uit dat klaarblijkelijke onbruik van dat merk tot verlies van het recht kon leiden."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801209.4": {
+      "court": "CASS",
+      "date": "1980-12-09",
+      "roleNumber": "6118",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/09/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1975:ARR.19750522.2": {
+      "court": "CASS",
+      "date": "1975-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/05/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge du fond apprécie souverainement en fait quand une marque de fabrique ou de commerce est tombée dans le domaine public. (Loi du 1er avril 1879, art. 1er)."
+      ],
+      "abstractNL": [
+        "De feitenrechter beoordeelt soeverein of een fabrieks- en handelsmerk gemeengoed geworden is. ( Art. 1 wet van 1 april 1879. )"
+      ]
+    }
+  }
+}

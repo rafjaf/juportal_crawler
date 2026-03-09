@@ -1,0 +1,32 @@
+{
+  "7": {
+    "ECLI:BE:CASS:1970:ARR.19700213.1": {
+      "court": "CASS",
+      "date": "1970-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/13/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La décision, par laquelle la chambre mixte du conseil de prud'hommes statue sur un recours en matière de réclamation contre la présentation de candidats délégués du personnel au conseil d'entreprise ou au comité de sécurité , d'hygiène et d'embellissement des lieux de travail, est rendue en dernier ressort. ( Arrêté du Régent du 13 juillet 1949, art. 7, modifié par l'arrêté royal du 31 janvier 1963, et arrêté royal du 22 avril 1958 modifié par celui du 31 janvier 1963. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij de gemengde kamer van de werkrechtersraad beslist over een beroep inzake een klacht tegen de voordracht van kandidaten-afgevaardigden van het personeel bij de ondernemingsraad of het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, wordt in laatste aanleg gewezen. ( Besluit van de Regent van 13 juli 1949, art. 7, gewijzigd bij het koninklijk besluit van 31 januari 1963, en koninklijk besluit van 22 april 1958, gewijzigd bij dat van 31 januari 1963. )"
+      ]
+    }
+  },
+  "30": {
+    "ECLI:BE:CASS:1965:ARR.19650212.2": {
+      "court": "CASS",
+      "date": "1965-02-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La procédure réglée par les articles 30 et 30bis de l'arrêté du Régent du 13 juillet 1949 organisant l'élection des délégués aux conseils d'entreprise, tels que ces articles ont été remplacés par les articles 12 et 13 de l'arrêté royal du 31 janvier 1963, concerne uniquement les recours relatifs à une demande tendant soit à faire annuler l'élection de délégués, soit à faire constater l'existence ou l'absence de raisons d'ordre économique ou technique, visées dans l'article 21 de la loi du 20 septembre 1948 portant organisation de l'économie. Ces dispositions sont étrangères aux recours en matière de réclamation contre la présentation de candidats-délégués du personnel."
+      ],
+      "abstractNL": null
+    }
+  }
+}

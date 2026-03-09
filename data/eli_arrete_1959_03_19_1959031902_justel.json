@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19821122.9": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3608",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le guide-barème médical prévoit que le pourcentage d'incapacité d'un handicap est déterminé \" suivant complications \", il n'y a pas lieu d'allouer un pourcentage d'incapacité lorsque le handicap n'entraîne aucune complication. ( Guide-barème médical, nr. 67, approuvé par l'arrêté ministériel du 19 mars 1959. )"
+      ],
+      "abstractNL": [
+        "Wanneer de Medische Handleiding bepaalt dat de ongeschiktheidsgraad van een aandoening wordt vastgesteld ë volgens de verwikkelingen è, dient geen ongeschiktheidsgraad te worden toegekend, wanneer de aandoening tot geen verwikkelingen leidt. (Medische Handleiding, nr. 67, goedgekeurd bij M.B. 19 maart 1959.)"
+      ]
+    }
+  }
+}

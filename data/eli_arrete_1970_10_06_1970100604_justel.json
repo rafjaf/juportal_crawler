@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19770607.4": {
+      "court": "CASS",
+      "date": "1977-06-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/06/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En imposant des redevances non seulement sur les contrats d'affrètement en vue du transport mais aussi sur les contrats d'affrètement en séjour, l'arrêté ministériel du 6 octobre 1970 a pris une mesure d'exécution excédant les limites de l'arrêté royal du 3 décembre 1968 portant refonte du statut de l'Office régulateur de la Navigation intérieure."
+      ],
+      "abstractNL": [
+        "Door niet alleen op bevrachtingscontracten per reis maar ook op bevrachtingscontracten voor liggen afhoudingen op te leggen heeft het ministerieel besluit van 6 oktober 1970 een uitvoeringsmaatregel getroffen die de perken van het koninklijk besluit van 3 december 1968 houdende omwerking van het Statuut van de Dienst voor Regeling der Binnenvaart te buiten gaat."
+      ]
+    }
+  }
+}

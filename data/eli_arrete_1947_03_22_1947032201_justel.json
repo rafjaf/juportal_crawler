@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660422.2": {
+      "court": "CASS",
+      "date": "1966-04-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le versement à l'Office commercial du ravitaillement du montant du bénéfice sur les marchandises vendues au nouveau prix maximum, qui correspondait au subside attribué aux meuniers en vertu de l'arrêté du Régent du 22 mars 1947, n'excède pas l'effet des mesures que l'autorité réglementaire était autorisée à prendre par application de l'article 3, alinéa 4, de l'arrêté-loi du 22 janvier 1945."
+      ],
+      "abstractNL": null
+    }
+  }
+}

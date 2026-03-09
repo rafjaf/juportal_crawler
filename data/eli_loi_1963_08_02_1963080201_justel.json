@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19701211.1": {
+      "court": "CASS",
+      "date": "1970-12-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/11/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est point susceptible de faire l'objet d'un appel interjeté par \"l'entreprise\", qui n'était pas intervenue dans la procédure, la décision rendue par le juge de paix, par application de l'article 52 de la loi du 2 août 1963 sur l'emploi des langues en matière administrative, sur requête à lui adressée par le service, l'autorité ou la juridiction compétents, et qui ordonne qu'une traduction d'un acte ou d'un document établi par ladite entreprise en contravention aux dispositions de l'article 41 de ladite loi sera établie, aux frais de cette dernière, par un traducteur assermenté et sera jointe audit acte ou document."
+      ],
+      "abstractNL": [
+        "Geen hoger beroep kan worden ingesteld door het bedrijf, dat in het proces niet is tussengekomen, tegen de beslissing van de vrederechter, die met toepassing van artikel 52 van de wet van 2 augustus 1963 op het gebruik van de talen in bestuurszaken is gewezen op het verzoekschrift dat aan hem is gericht door de bevoegde dienst, overheid of rechtscollege, wanneer hij beveelt dat op de kosten van het bedrijf door een beëdigd vertaler een vertaling moet worden gemaakt van een stuk of een bescheid dat door dit bedrijf met overtreding van de bepalingen van artikel 41 van deze wet is opgemaakt, en dat zij bij dit stuk of bescheid zal worden gevoegd."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700206.1": {
+      "court": "CASS",
+      "date": "1970-02-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas motivée la décision qui applique l'article 41,alinéa 1er, de la loi du 2 août 1963 sur l'emploi des langues en matière administrative à des actes ou documents rédigés par une entreprise industrielle, commerciale ou financière, en laissant incertain si le juge a considéré ces actes ou documents comme étant , au sens de ladite disposition, soit des actes ou documents prescrits par une loi ou un règlement soit des actes ou documents destinés au personnel de l'entreprise."
+      ],
+      "abstractNL": [
+        "Niet gemotiveerd is de beslissing waarin artikel 41, alinéa 1, van de wet van 2 augustus 1963 op het gebruik der talen in bestuurszaken wordt toegepast op door een nijverheids-, handels- of financiebedrijf opgestelde akten of bescheiden, en in het onzekere wordt gelaten of de rechter deze akten of bescheiden beschouwd heeft als zijnde, in de zin van deze bepaling, ofwel akten of bescheiden voorgeschreven bij de wetten of reglementen, ofwel akten of bescheiden bestemd voor het personeel van het bedrijf."
+      ]
+    }
+  }
+}

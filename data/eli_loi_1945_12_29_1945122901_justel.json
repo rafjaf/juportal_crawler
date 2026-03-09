@@ -1,0 +1,60 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851009.11": {
+      "court": "CASS",
+      "date": "1985-10-09",
+      "roleNumber": "4319",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/09/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi d'une poursuite du chef d'affichage à un endroit interdit par l'arrêté-loi du 29 décembre 1945 portant interdiction des inscriptions sur la voie publique, n'ayant pas à apprécier le caractère délictueux des pensées exprimées dans les affiches pour déclarer l'infraction établie, ladite infraction ne peut constituer un délit de presse."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter kennis neemt van een vervolging wegens aanplakking op een plaats waar zulks verboden is door de Besluitwet van 29 december 1945 houdende verbod tot het aanbrengen van opschriften op de openbare weg, heeft hij zich niet uit te spreken over het strafbaar karakter van de in de aanplakbiljetten verkondigde gedachten om het misdrijf bewezen te verklaren, zodat dit misdrijf geen persmisdrijf kan opleveren."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750203.3": {
+      "court": "CASS",
+      "date": "1975-02-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/02/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ni l'arrêté-loi du 29 décembre 1945 portant interdiction des inscriptions sur la voie publique, ni l'arrêté royal du 14 décembre 1959 portant réglementation de l'affichage et de la publicité, ni la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, ni l'article 10 de la loi relative à la police de la circulation routière, ni aucune autre disposition légale ne limitent le pouvoir attribué aux conseils communaux par les décrets du 14 décembre 1789 et des 16-24 août 1790 de subordonner, en vue d'assurer la sécurité de la circulation, le placement de panneaux publicitaires sur la voie publique, la surplombant ou pouvant être aperçus de celle-ci, à une autorisation préalable du collège des bourgmestre et échevins."
+      ],
+      "abstractNL": [
+        "Noch de besluitwet van 29 december 1945 houdende verbod tot het aanbrengen van opschriften op de openbare weg, noch het koninklijk besluit van 14 december 1959 waarbij regelen worden gesteld op het aanplakken en reclame maken, noch de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, noch enige andere wettelijke bepaling, noch artikel 10 van de wet betreffende de politie over het wegverkeer, houden een beperking in van de bevoegdheid van de gemeenteraden hun krachtens de decreten van 14 december 1789 en van 16-24 augustus 1790 verleend, om met het oog op de verkeersveiligheid het aanbrengen van reclameborden op of over de openbare weg of daar waar ze van de weg zichtbaar zijn, afhankelijk te stellen van een voorafgaande toelating van het college van burgemeester en schepenen."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710920.6": {
+      "court": "CASS",
+      "date": "1971-09-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/09/20/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté-loi du 29 décembre 1945 portant interdiction des inscriptions sur la voie publique n'a ni aboli ni restreint le pouvoir de l'administration communale de réglementer l'affichage sur la voie publique."
+      ],
+      "abstractNL": [
+        "De besluitwet van 29 december 1945 houdende verbod tot het aanbrengen van opschriften op de openbare weg heeft de bevoegdheid van het gemeentebestuur tot regeling van het aanplakken op de openbare weg niet opgeheven en evenmin beperkt."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710511.1": {
+      "court": "CASS",
+      "date": "1971-05-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ni l'arrêté-loi du 29 décembre 1945 portant interdiction des inscriptions sur la voie publique, ni l'arrêt royal du 14 décembre 1959 portant réglementation de l'affichage et de la publicité, modifié par les arrêtés royaux des 28 juin 1963 et 27 février 1964, ne limitent le pouvoir attribué aux conseils communaux par les décrets du 14 décembre 1789 et des 16-24 août 1790 de subordonner, en vue d'assurer la commodité et la sécurité du passage dans les rues et lieux publics, le placement d'objets, notamment de panneaux publicitaires, empiétant sur la voie publique, à une autorisation préalable du collège des bourgmestre et échevins."
+      ],
+      "abstractNL": [
+        "Noch de besluitwet van 29 december 1945 houdende verbod tot het aanbrengen van opschriften op de openbare weg, noch het koninklijk besluit van 14 december 1959 waarbij regelen worden gesteld op het aanplakken en reclame maken, houden een beperking in van de bevoegdheid van de gemeenteraden om met het oog op het gemak en de veiligheid van het verkeer op de straten en de openbare plaatsen het aanbrengen van voorwerpen, met name van reclameborden die op de openbare weg uitspringen, afhankelijk te stellen van een voorafgaande toelating van het college van burgemeester en schepenen."
+      ]
+    }
+  }
+}

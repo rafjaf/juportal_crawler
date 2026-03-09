@@ -1,0 +1,50 @@
+{
+  "12": {
+    "ECLI:BE:CASS:1969:ARR.19690925.2": {
+      "court": "CASS",
+      "date": "1969-09-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/09/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le conseil d'administration d'une société anonyme n'est l'organe légal habile à représenter cet être moral et à agir pour lui en justice qu'à titre de collège constitué par toutes les personnes qui sont administrateur de ladite société à la date à laquelle le conseil est appelé à la représenter. ( Lois relatives aux sociétés commerciales, coordonnées par arrêté royal du 30 novembre 1935 et formant le titre IX du livre Ier du Code de commerce, art. 11 et 12, ce dernier complété par l'article 1er de la loi du 9 juillet 1935. )"
+      ],
+      "abstractNL": [
+        "De raad van beheer van een naamloze vennootschap is slechts als college, samengesteld uit al de personen die het mandaat van beheerder ontvangen hebben, het wettelijk orgaan dat bevoegdheid heeft om deze rechtspersoon te vertegenwoordigen en om voor deze in rechte op te treden. ( Wetten op de handelsvennootschappen, gecoördineerd bij koninklijk besluit van 30 november 1935 en die titel IX van Boek I van het Wetboek van koophandel vormen, art. 11 en 12, dit laatste aangevuld bij artikel 1 van de wet van 9 juli 1935. )"
+      ]
+    }
+  },
+  "70": {
+    "ECLI:BE:CASS:1970:ARR.19700428.1": {
+      "court": "CASS",
+      "date": "1970-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une société a acheté à l'aide de bénéfices, et conservé, des actions représentatives de son propre capital et qu'elle les a portées à l'actif de son bilan pour leur valeur d'achat, le juge ne peut légalement décider que ces actions sont sans valeur réelle."
+      ],
+      "abstractNL": [
+        "Indien een vennootschap, door middel van winsten, aandelen die haar eigen kapitaal vertegenwoordigen ingekocht heeft en behouden, en zij die aandelen in het actief van haar balans ingeschreven heeft voor hun inkoopwaarde, kan de rechter niet wettelijk beslissen dat die aandelen zonder werkelijke waarde zijn."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19700428.1": {
+      "court": "CASS",
+      "date": "1970-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une société a acheté à l'aide de bénéfices, et conservé, des actions représentatives de son propre capital et qu'elle les a portées à l'actif de son bilan pour leur valeur d'achat, le juge ne peut légalement décider que ces actions sont sans valeur réelle."
+      ],
+      "abstractNL": [
+        "Indien een vennootschap, door middel van winsten, aandelen die haar eigen kapitaal vertegenwoordigen ingekocht heeft en behouden, en zij die aandelen in het actief van haar balans ingeschreven heeft voor hun inkoopwaarde, kan de rechter niet wettelijk beslissen dat die aandelen zonder werkelijke waarde zijn."
+      ]
+    }
+  }
+}
