@@ -98,6 +98,22 @@
       ]
     }
   },
+  "1628": {
+    "ECLI:BE:CASS:2025:ARR.20250411.1N.6": {
+      "court": "CASS",
+      "date": "2025-04-11",
+      "roleNumber": "C.24.0118.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une créance contestée qui n'est pas frappée d'une saisie conservatoire résulte d'un titre, c'est-à-dire d'un écrit la constatant, elle doit être prise en compte dans le procès-verbal de distribution par contribution; un titre exécutoire n'est pas requis (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Met een betwiste schuldvordering waarvoor geen bewarend beslag werd gelegd, moet rekening worden gehouden in het proces-verbaal van evenredige verdeling wanneer deze schuldvordering blijkt uit een titel, dit is een geschrift waarin de schuldvordering is vastgesteld; een uitvoerbare titel is niet vereist (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "1634": {
     "ECLI:BE:CASS:2025:ARR.20250328.1N.9": {
       "court": "CASS",

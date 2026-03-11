@@ -8569,9 +8569,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2786.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2786.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/04/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/04/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/10/sitemap_3.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Une contestation concernant une relation juridique contractuelle constitue une contestation qui a pour objet un droit civil au sens de cette disposition. Est sans incidence à cet égard la circonstance que l'autorité dispose, pour certains aspects de cette relation juridique contractuelle, d'une certaine marge d'appréciation lorsque celle-ci est tirée de la convention même."
+      ],
       "abstractNL": [
         "Een geschil met betrekking tot een contractuele rechtsverhouding is een geschil over een burgerlijk recht in de zin van deze bepaling. De omstandigheid dat de overheid voor bepaalde aspecten van de contractuele rechtsverhouding over enige appreciatiemarge beschikt, doet daaraan geen afbreuk wanneer zij die appreciatie-marge put uit de overeenkomst zelf."
       ]
