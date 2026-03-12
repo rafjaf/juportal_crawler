@@ -656,6 +656,20 @@
       "abstractNL": [
         "De op het Gemeenschappelijk Motorwaarborgfonds rustende verplichting tot het vergoeden van de stoffelijke schade in de gevallen vermeld in art. 17, alinéa 2, K.B. van 16 december 1981 houdende inwerkingstelling en uitvoering van de artt. 49 en 50, Wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen - namelijk wanneer geen erkende verzekeringsonderneming verplicht is tot vergoeding om reden van een toevallig feit waardoor de bestuurder van het voertuig dat het ongeval heeft veroorzaakt vrijuit gaat - verdwijnt niet doordat het ongeval waaruit de schade ontstond ook veroorzaakt werd door een motorrijtuig waarvan de identiteit niet is vastgesteld."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950208.7": {
+      "court": "CASS",
+      "date": "1995-02-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le cas fortuit visé à l'article 50, alinéa 1er, 2°, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances doit être apprécié dans le chef du conducteur du véhicule ayant causé l'accident. Lorsque tous les véhicules impliqués dans l'accident sont identifiés et qu'aucune entreprise d'assurances agréée n'est obligée à la réparation des dommages, ce n'est pas en raison de l'existence d'un cas fortuit exonérant le conducteur du véhicule qui a causé l'accident, mais de l'impossibilité de déterminer les responsabilités."
+      ],
+      "abstractNL": [
+        "Het in artikel 50, alinéa 1, 2°, van de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen bedoelde toevallig feit moet worden beoordeeld in hoofde van de bestuurder van het voertuig dat het ongeval veroorzaakte. Wanneer alle in het ongeval betrokken voertuigen geïdentificeerd zijn en geen enkele toegelaten verzekeringsmaatschappij de schade dient te vergoeden, is dat niet wegens het bestaan van een toevallig feit, waardoor de bestuurder van het voertuig dat het ongeval veroorzaakte van zijn aansprakelijkheid wordt vrijgesteld, maar wel omdat het onmogelijk is de aansprakelijkheden te bepalen."
+      ]
     }
   },
   "79": {
@@ -931,20 +945,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1995:ARR.19950208.7": {
-      "court": "CASS",
-      "date": "1995-02-08",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/08/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "Le cas fortuit visé à l'article 50, alinéa 1er, 2°, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances doit être apprécié dans le chef du conducteur du véhicule ayant causé l'accident. Lorsque tous les véhicules impliqués dans l'accident sont identifiés et qu'aucune entreprise d'assurances agréée n'est obligée à la réparation des dommages, ce n'est pas en raison de l'existence d'un cas fortuit exonérant le conducteur du véhicule qui a causé l'accident, mais de l'impossibilité de déterminer les responsabilités."
-      ],
-      "abstractNL": [
-        "Het in artikel 50, alinéa 1, 2°, van de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen bedoelde toevallig feit moet worden beoordeeld in hoofde van de bestuurder van het voertuig dat het ongeval veroorzaakte. Wanneer alle in het ongeval betrokken voertuigen geïdentificeerd zijn en geen enkele toegelaten verzekeringsmaatschappij de schade dient te vergoeden, is dat niet wegens het bestaan van een toevallig feit, waardoor de bestuurder van het voertuig dat het ongeval veroorzaakte van zijn aansprakelijkheid wordt vrijgesteld, maar wel omdat het onmogelijk is de aansprakelijkheden te bepalen."
-      ]
-    },
     "ECLI:BE:CASS:1984:ARR.19840224.6": {
       "court": "CASS",
       "date": "1984-02-24",

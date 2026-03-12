@@ -1,5 +1,5 @@
 {
-  "general": {
+  "26": {
     "ECLI:BE:CASS:1983:ARR.19830905.2": {
       "court": "CASS",
       "date": "1983-09-05",
@@ -11,7 +11,9 @@
         "L'arrêt décide que jusqu'en 1975 la demanderesse a omis d'indexer la rémunération du défendeur, que si elle accorda néanmoins à différentes reprises une augmentation au défendeur, ces augmentations furent consenties à l'occasion de promotions ou pour récompenser les mérites du défendeur, et non dans l'intention de satisfaire aux exigences légales, à savoir la liaison du salaire aux fluctuations de l'indice des prix à la consommation, et que si, à partir de 1975, l'indexation légale fut appliquée au défendeur, celui-ci continua néanmoins à bénéficier en outre en 1976 et 1977 d'augmentations \"de mérite\". Il résulte que la demanderesse savait bien faire le départ entre ces augmentations \"de mérite\", et les augmentations légales destinées à neutraliser les effets des hausses du coût de la vie, et que ces manquements de la demanderesse constituent une infraction continuée, les faits procédant d'une seule et même intention délictueuse. Ainsi l'arrêt répond aux conclusions de la demanderesse reproduites dans le moyen. Le moyen manque en fait."
       ],
       "abstractNL": null
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1982:ARR.19820318.5": {
       "court": "CASS",
       "date": "1982-03-18",

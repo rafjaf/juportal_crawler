@@ -63,7 +63,7 @@
       ]
     }
   },
-  "general": {
+  "40": {
     "ECLI:BE:CASS:1979:ARR.19791218.4": {
       "court": "CASS",
       "date": "1979-12-18",
@@ -77,7 +77,9 @@
       "abstractNL": [
         "De immuniteiten die met name voor de doorreis op het grondgebied van een derde Staat bij art. 40, alinéa 1, Verdrag van Wenen inzake diplomatiek verkeer d.d. 18 april 1961, goedgekeurd bij de wet van 30 maart 1968, worden verleend aan de diplomatieke ambtenaar die de voorwaarden van die bepaling vervult, gelden voor de gezinsleden van de ambtenaar, die de voorrechten en immuniteiten genieten, alleen dan wanneer zij hem vergezellen of afzonderlijk reizen om zich bij hem te voegen of om naar hun land terug te keren; de echtgenote van de diplomatieke ambtenaar die deze niet vergezelt, die niet op weg is om zich bij hem te voegen of naar haar land niet terugkeert, kan zich niet beroepen op die immuniteiten."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1994:ARR.19940922.4": {
       "court": "CASS",
       "date": "1994-09-22",

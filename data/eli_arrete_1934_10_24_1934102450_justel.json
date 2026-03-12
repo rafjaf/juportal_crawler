@@ -174,6 +174,22 @@
       ]
     }
   },
+  "473": {
+    "ECLI:BE:CASS:1986:ARR.19860131.3": {
+      "court": "CASS",
+      "date": "1986-01-31",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/31/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi d'une requête en extension de faillite déposée par un curateur peut la considérer comme une information qui lui est soumise et déclarer la faillite ouverte d'office."
+      ],
+      "abstractNL": [
+        "De rechter die een \" verzoekschrift tot uitbreiding \" van het faillissement ontvangt kan dit beschouwen als een inlichting gegeven door de curator, en ambtshalve het faillissement uitspreken."
+      ]
+    }
+  },
   "1bis": {
     "ECLI:BE:CASS:2024:ARR.20241015.2N.12": {
       "court": "CASS",
@@ -248,20 +264,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1986:ARR.19860131.3": {
-      "court": "CASS",
-      "date": "1986-01-31",
-      "roleNumber": "1253",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/31/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Le juge saisi d'une requête en extension de faillite déposée par un curateur peut la considérer comme une information qui lui est soumise et déclarer la faillite ouverte d'office."
-      ],
-      "abstractNL": [
-        "De rechter die een \" verzoekschrift tot uitbreiding \" van het faillissement ontvangt kan dit beschouwen als een inlichting gegeven door de curator, en ambtshalve het faillissement uitspreken."
-      ]
-    },
     "ECLI:BE:CASS:1981:ARR.19811209.11": {
       "court": "CASS",
       "date": "1981-12-09",

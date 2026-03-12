@@ -159,6 +159,20 @@
       ]
     }
   },
+  "608": {
+    "ECLI:BE:CASS:1969:ARR.19690814.1": {
+      "court": "CASS",
+      "date": "1969-08-14",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/08/14/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De normatieve bepalingen van een bij koninklijk besluit algemeen verbindend verklaarde C.A.O. vormen een wet in de zin van art. 608 Ger. W., waarvan de schending onderworpen is aan de beoordeling van het Hof van Cassatie."
+      ]
+    }
+  },
   "58bis": {
     "ECLI:BE:CASS:2025:ARR.20250228.1N.1": {
       "court": "CASS",
@@ -313,20 +327,6 @@
         "Overeenkomstig artikel 555/15 Gerechtelijk Wetboek moet de gerechtsdeskundige die is aangesteld zonder in het nationaal register van gerechtsdeskundigen te zijn ingeschreven, op straffe van nietigheid zijn verslag ondertekenen, waarbij hij zijn handtekening laat voorafgaan door de volgende schriftelijke eed: “Ik zweer dat ik mijn opdracht in eer en geweten, nauwgezet en eerlijk vervuld heb.”; uit die tekst blijkt een nauwe band tussen de handtekening en de eed van de deskundige voor wat betreft de regelmatigheid van het deskundigenverslag als bewijs; hieruit volgt dat artikel 407 Wetboek van Strafvordering over het toedekken van een onregelmatigheid betreffende de eed van onder meer deskundigen als gevolg van een rechterlijke beslissing op tegenspraak over een geschilpunt van toepassing is op de nietigheid die voortvloeit uit het niet naleven van de in artikel 555/15 Gerechtelijk Wetboek bepaalde verplichtingen door de gerechtsdeskundige, zowel met betrekking tot de eedaflegging als met betrekking tot de ondertekening van zijn eindverslag (1). (1) Zie concl. OM.",
         "Overeenkomstig artikel 32, eerste streepje, Voorafgaande Titel Wetboek van Strafvordering besluit de strafrechter tot nietigheid van een bewijselement dat is verkregen in strijd met een op straffe van nietigheid voorgeschreven vorm; die bepaling geldt niet voor een deskundigenverslag waarin de eed of de geschreven handtekening van de deskundige ontbreekt, voor zover de nietigheid die artikel 555/15 Gerechtelijk Wetboek daarvoor telkens bepaalt, in de loop van de strafprocedure is opgeheven; evenmin vereist het in artikel 6.1 EVRM gewaarborgde recht op een eerlijk proces dat in het geval van het ontbreken van de eed of de handtekening van de deskundige op diens verslag, dat verslag steeds nietig wordt verklaard of uit het bewijs wordt geweerd (1). (1) Zie concl. OM.",
         "De artikelen 978, § 1 en, § 2, eerste lid, Gerechtelijk Wetboek over het eindverslag van de gerechtsdeskundige en artikel 982 Gerechtelijk Wetboek over het gezamenlijk advies van het college van gerechtsdeskundigen zijn niet voorgeschreven op straffe van nietigheid, behoudens voor wat betreft de in artikel 978, § 1, tweede lid, Gerechtelijk Wetboek bepaalde verplichting van de deskundige om zijn verslag te ondertekenen; die verplichting heeft hier evenwel geen ruimere draagwijdte dan deze die is bepaald in artikel 555/15 Gerechtelijk Wetboek; meer bepaald vereist artikel 978, § 1, tweede lid, Gerechtelijk Wetboek, samengenomen met de artikelen 555/11, § 3, eerste lid, en 555/15 Gerechtelijk Wetboek, niet op straffe van nietigheid dat het verslag wordt ondertekend door een deskundige die is opgenomen in het nationaal register voor gerechtsdeskundigen (1). (1) Zie concl. OM."
-      ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1969:ARR.19690814.1": {
-      "court": "CASS",
-      "date": "1969-08-14",
-      "roleNumber": "74/347",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/08/14/sitemap_1.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De normatieve bepalingen van een bij koninklijk besluit algemeen verbindend verklaarde C.A.O. vormen een wet in de zin van art. 608 Ger. W., waarvan de schending onderworpen is aan de beoordeling van het Hof van Cassatie."
       ]
     }
   }

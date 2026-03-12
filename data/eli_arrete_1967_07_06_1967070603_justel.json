@@ -1,5 +1,19 @@
 {
-  "general": {
+  "2": {
+    "ECLI:BE:CASS:1975:ARR.19751001.5": {
+      "court": "CASS",
+      "date": "1975-10-01",
+      "roleNumber": "1596",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/01/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De verplichting van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers om aan de bedoelde werknemers de lonen verschuldigd krachtens individuele of collectieve arbeidsovereenkomsten te betalen wanneer de werkgever verzuimt dit te doen, slaat op elk loon waarop de werknemer aanspraak heeft ongeacht of de niet-betaling haar oorzaak vindt in de sluiting van de onderneming en onverschillig of voor de periode die aan de beëindiging van de arbeidsovereenkomst onmiddellijk voorafgaat, de werkgever het loon geheel of gedeeltelijk heeft betaald. Artikel 7, lid 1, 2° van het K.B. 6 juli 1967 heeft geen andere draagwijdte dan het bedrag van de door het Fonds verschuldigde betaling te beperken en strekt er niet toe het loon dat meer dan twee maanden vóór de beëindiging van de arbeidsovereenkomst verdiend is uit te sluiten. De werknemer put zijn aanspraak tegen het Fonds uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming van de verbintenissen van de werkgever. Dienvolgens betaalt het Fonds geen loon in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die artikel 2016 B.W. aan de borg oplegt."
+      ]
+    }
+  },
+  "6": {
     "ECLI:BE:CASS:1982:ARR.19821220.6": {
       "court": "CASS",
       "date": "1982-12-20",
@@ -12,18 +26,6 @@
       ],
       "abstractNL": [
         "De rechter kan geen uitspraak doen over de verplichtingen van het Fonds tot Vergoeding van de in Geval van Sluiting van Ondernemingen Ontslagen Werknemers ten aanzien van de betaling van voordelen bepaald in art. 2 wet 30 juni 1967, voordat de werknemer een verzoek tot betaling heeft gedaan in de voorwaarden bepaald door art. 6 van die wet en het ter uitvoering van dit artikel genomen K.B. 6 juli 1967, tenzij het geschil op de naleving van deze voorschriften betrekking heeft; hij kan voordien zijn beslissing over de desbetreffende schuldvordering van de werknemer tegenover de werkgever wel voor het Fonds bindend verklaren <1>."
-      ]
-    },
-    "ECLI:BE:CASS:1975:ARR.19751001.5": {
-      "court": "CASS",
-      "date": "1975-10-01",
-      "roleNumber": "1596",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/01/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De verplichting van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers om aan de bedoelde werknemers de lonen verschuldigd krachtens individuele of collectieve arbeidsovereenkomsten te betalen wanneer de werkgever verzuimt dit te doen, slaat op elk loon waarop de werknemer aanspraak heeft ongeacht of de niet-betaling haar oorzaak vindt in de sluiting van de onderneming en onverschillig of voor de periode die aan de beëindiging van de arbeidsovereenkomst onmiddellijk voorafgaat, de werkgever het loon geheel of gedeeltelijk heeft betaald. Artikel 7, lid 1, 2° van het K.B. 6 juli 1967 heeft geen andere draagwijdte dan het bedrag van de door het Fonds verschuldigde betaling te beperken en strekt er niet toe het loon dat meer dan twee maanden vóór de beëindiging van de arbeidsovereenkomst verdiend is uit te sluiten. De werknemer put zijn aanspraak tegen het Fonds uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming van de verbintenissen van de werkgever. Dienvolgens betaalt het Fonds geen loon in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die artikel 2016 B.W. aan de borg oplegt."
       ]
     }
   }

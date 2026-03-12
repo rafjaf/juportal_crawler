@@ -2876,6 +2876,20 @@
       "abstractNL": [
         "De in artikel 87, alinéa 1, van de Wet van 25 juni 1992 op de landverzekeringsovereenkomst bedoelde schorsing van de overeenkomst, waarbij de overeenkomst met de hieruit voor de verzekeraar en de verzekeringnemer voortspruitende verbintenissen wordt geschorst, hetzij na akkoord van de contractspartijen, hetzij na een beslissing van de rechter, is niet de in de artikelen 14 en 17 bedoelde schorsing van de dekking, welke slechts de schorsing is, na ingebrekestelling van de schuldenaar, van de verbintenis van de verzekeraar om dekking te verlenen."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011019.11": {
+      "court": "CASS",
+      "date": "2001-10-19",
+      "roleNumber": "C010026F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les exceptions ayant pour objet la portée du contrat et la couverture du risque, telle la stipulation d'une franchise, ne sont pas comprises parmi les exceptions inopposables à la personne lésée en vertu de l'article 87, § 1er de la loi sur le contrat d'assurance terrestre (1)."
+      ],
+      "abstractNL": [
+        "De excepties die de draagwijdte van de overeenkomst en de dekking van het risico betreffen, zoals de bepaling van een vrijstelling, behoren niet tot de excepties die krachtens artikel 87, §1 van de wet op de landverzekeringsovereenkomst niet aan de benadeelde kunnen worden tegengeworpen (1)."
+      ]
     }
   },
   "88": {
@@ -3557,20 +3571,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:2001:ARR.20011019.11": {
-      "court": "CASS",
-      "date": "2001-10-19",
-      "roleNumber": "C010026F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/19/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Les exceptions ayant pour objet la portée du contrat et la couverture du risque, telle la stipulation d'une franchise, ne sont pas comprises parmi les exceptions inopposables à la personne lésée en vertu de l'article 87, § 1er de la loi sur le contrat d'assurance terrestre (1)."
-      ],
-      "abstractNL": [
-        "De excepties die de draagwijdte van de overeenkomst en de dekking van het risico betreffen, zoals de bepaling van een vrijstelling, behoren niet tot de excepties die krachtens artikel 87, §1 van de wet op de landverzekeringsovereenkomst niet aan de benadeelde kunnen worden tegengeworpen (1)."
-      ]
-    },
     "ECLI:BE:CASS:2002:ARR.20020607.7": {
       "court": "CASS",
       "date": "2002-06-07",

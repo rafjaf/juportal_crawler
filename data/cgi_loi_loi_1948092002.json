@@ -1,5 +1,5 @@
 {
-  "general": {
+  "24": {
     "ECLI:BE:CASS:1976:ARR.19760218.1": {
       "court": "CASS",
       "date": "1976-02-18",
@@ -13,7 +13,9 @@
       "abstractNL": [
         "Inzake sociale verkiezingen kent de werkgever aan representatieve vakverenigingen van werknemers, zonder rechtspersoonlijkheid, de bevoegdheid toe om in rechte op te treden. Aldus aanvaardt de wetgever impliciet dat die organisaties handelen, alsof zij rechtspersoonlijkheid genoten, door organen vergelijkbaar met die van een gepersonaliseerde vereniging en zonder dat alle leden van die organisatie in de gevallen beoogd door de wetgever een speciaal mandaat moeten geven teneinde in rechte op te treden."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1976:ARR.19760204.7": {
       "court": "CASS",
       "date": "1976-02-04",

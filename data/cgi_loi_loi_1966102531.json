@@ -1,4 +1,20 @@
 {
+  "4": {
+    "ECLI:BE:CASS:1986:ARR.19860220.17": {
+      "court": "CASS",
+      "date": "1986-02-20",
+      "roleNumber": "6991",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/20/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Pour qu'un modèle ait joui d'une notoriété de fait dans le milieu intéressé du territoire Benelux, au sens de l'article 4, début et sous 1 a, de la loi uniforme Benelux en matière de dessins ou modèles, il n'est pas requis que la notoriété se soit étendue à l'ensemble du territoire Benelux; pareille notoriété peut se déduire d'une situation ou d'un fait localisé dans un des pays du Benelux ou en dehors du territoire Benelux, ou non localisé, ou encore des deux circonstances à la fois."
+      ],
+      "abstractNL": [
+        "Om een feitelijke bekendheid te hebben genoten in de belanghebbende kring van het Benelux-gebied, in de zin van art. 4, aanhef, en onder 1, a, van de Eenvormige Benelux-wet inzake Tekeningen of Modellen, is niet vereist dat een model bekend is geweest over het gehele Benelux-gebied; zodanige bekendheid kan worden afgeleid uit een toestand of een feit, gelokaliseerd in een van de Benelux-landen of buiten het Benelux-gebied, of ook niet gelokaliseerd, of uit beide omstandigheden samen."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:1984:ARR.19840112.10": {
       "court": "CASS",
@@ -31,7 +47,7 @@
       ]
     }
   },
-  "general": {
+  "25": {
     "ECLI:BE:CASS:1988:ARR.19880114.5": {
       "court": "CASS",
       "date": "1988-01-14",
@@ -45,21 +61,9 @@
       "abstractNL": [
         "De tekeningen en modellen die ontworpen werden voor het in voege treden van de eenvormige Beneluxwet blijven onder het beschermingsregime van de vroegere nationale wetgeving. De bescherming die werd ingevoerd door K.B. nr. 91 van 29 januari 1935 geldt voor tekeningen en modellen die beantwoorden aan de voorwaarden van artikel 1, nl. nieuw zijn en origineel. Het model van een bouwmateriaal dat nieuw en origineel is valt dus onder deze bescherming."
       ]
-    },
-    "ECLI:BE:CASS:1986:ARR.19860220.17": {
-      "court": "CASS",
-      "date": "1986-02-20",
-      "roleNumber": "6991",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/20/sitemap_14.xml"
-      ],
-      "abstractFR": [
-        "Pour qu'un modèle ait joui d'une notoriété de fait dans le milieu intéressé du territoire Benelux, au sens de l'article 4, début et sous 1 a, de la loi uniforme Benelux en matière de dessins ou modèles, il n'est pas requis que la notoriété se soit étendue à l'ensemble du territoire Benelux; pareille notoriété peut se déduire d'une situation ou d'un fait localisé dans un des pays du Benelux ou en dehors du territoire Benelux, ou non localisé, ou encore des deux circonstances à la fois."
-      ],
-      "abstractNL": [
-        "Om een feitelijke bekendheid te hebben genoten in de belanghebbende kring van het Benelux-gebied, in de zin van art. 4, aanhef, en onder 1, a, van de Eenvormige Benelux-wet inzake Tekeningen of Modellen, is niet vereist dat een model bekend is geweest over het gehele Benelux-gebied; zodanige bekendheid kan worden afgeleid uit een toestand of een feit, gelokaliseerd in een van de Benelux-landen of buiten het Benelux-gebied, of ook niet gelokaliseerd, of uit beide omstandigheden samen."
-      ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1995:ARR.19950224.7": {
       "court": "CASS",
       "date": "1995-02-24",

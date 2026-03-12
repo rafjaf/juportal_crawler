@@ -1,5 +1,5 @@
 {
-  "general": {
+  "1": {
     "ECLI:BE:CASS:1974:ARR.19740313.9": {
       "court": "CASS",
       "date": "1974-03-13",
@@ -23,7 +23,9 @@
         "La Cour du travail de Liège avait confirmé le jugement du tribunal du travail, saisi d'un recours contre la décision de la caisse d'allocations familiales ayant refusé le bénéfice de la majoration d'allocations familiales pour un enfant handicapé. Le tribunal, avant faire droit, avait chargé un expert de dire si cet enfant était, et depuis quand, atteint d'une incapacité de 66 % sur base du barème officiel belge des invalidités. La Cour avait estimé que le tribunal était compétent pour en décider ainsi, l'intervention du juge de paix prévue par la réglementation n'était qu'un simple préliminaire administratif à l'octroi des allocations familiales, en dehors de toute contestation. Pourvoi en cassation. La Cour suprême rejette le pourvoi par les motifs suivants: \"En vertu de l'article 1er de l'arrêté royal du 29 juin 1967, applicable en l'espèce, fixant le mode de constatation de l'incapacité de certaines personnes, pour l'application des lois coordonnées relatives aux allocations familiales pour travailleurs salariés, l'insuffisance ou la diminution de la capacité physique ou mentale d'un enfant visé à l'article 47 desdites lois coordonnées est constatée par le juge de paix sur avis d'un médecin du Service médico-social du Ministère de la Prévoyance sociale ou d'un médecin du service du contrôle médical de l'I.N.A.M.I., désigné par le Ministère de la Prévoyance sociale\"; Cette constatation n'a pour but que de permettre à l'organisme débiteur des allocations familiales de décider du droit du requérant à l'allocation supplémentaire prévue par l'article 47; La décision prise par ledit organisme en suite d'une constatation faite en dehors de tous débats peut faire l'objet d'une contestation qui, par application de l'article 580, 2° du Code judiciaire doit être soumise aux juridictions du travail; Le moyen manque en droit."
       ],
       "abstractNL": null
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1974:ARR.19740918.5": {
       "court": "CASS",
       "date": "1974-09-18",

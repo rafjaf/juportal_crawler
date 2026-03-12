@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1987:ARR.19870612.6": {
+      "court": "CASS",
+      "date": "1987-06-12",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'activité consistant à acheter des poules pondeuses, de les élever avec de la nourriture achetée auprès de tiers pour revendre ensuite le produit de la ponte et les poules elles-mêmes après la période de ponte, est une activité commerciale. L'élevage de petit bétail n'est pas une transformation qui relève normalement des entreprises agricoles, lorsque les poules ne sont pas nourries par les produits d'une exploitation agricole propre à l'éleveur."
+      ],
+      "abstractNL": [
+        "De activiteit die erin bestaat leghennen te kopen, deze op batterijen te fokken met bij derden aangekocht voedsel om de eieren en na de legperiode ook de leghennen voort te verkopen is een handelsactiviteit. Kleinveeteelt is geen verwerking die normaal bij de landbouwbedrijven behoort, indien de kippen niet gevoederd werden met voortbrengselen van een eigen landbouwbedrijf."
+      ]
+    }
+  },
   "4": {
     "ECLI:BE:CASS:2007:ARR.20070618.3": {
       "court": "CASS",
@@ -91,21 +107,7 @@
       ]
     }
   },
-  "general": {
-    "ECLI:BE:CASS:1987:ARR.19870612.6": {
-      "court": "CASS",
-      "date": "1987-06-12",
-      "roleNumber": "1253",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "L'activité consistant à acheter des poules pondeuses, de les élever avec de la nourriture achetée auprès de tiers pour revendre ensuite le produit de la ponte et les poules elles-mêmes après la période de ponte, est une activité commerciale. L'élevage de petit bétail n'est pas une transformation qui relève normalement des entreprises agricoles, lorsque les poules ne sont pas nourries par les produits d'une exploitation agricole propre à l'éleveur."
-      ],
-      "abstractNL": [
-        "De activiteit die erin bestaat leghennen te kopen, deze op batterijen te fokken met bij derden aangekocht voedsel om de eieren en na de legperiode ook de leghennen voort te verkopen is een handelsactiviteit. Kleinveeteelt is geen verwerking die normaal bij de landbouwbedrijven behoort, indien de kippen niet gevoederd werden met voortbrengselen van een eigen landbouwbedrijf."
-      ]
-    },
+  "44": {
     "ECLI:BE:CASS:1973:ARR.19730119.4": {
       "court": "CASS",
       "date": "1973-01-19",

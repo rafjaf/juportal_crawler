@@ -1,17 +1,53 @@
 {
-  "general": {
-    "ECLI:BE:CASS:1984:ARR.19840507.8": {
+  "4": {
+    "ECLI:BE:CASS:1983:ARR.19830502.3": {
       "court": "CASS",
-      "date": "1984-05-07",
-      "roleNumber": "81/8227",
+      "date": "1983-05-02",
+      "roleNumber": "72/2334;72/2394",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/07/sitemap_13.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/02/sitemap_7.xml"
       ],
       "abstractFR": [
-        "L'article 10 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, applicable en l'espèce, dispose que les bases de calcul des commissions sont déterminées par le contrat et qu'en l'absence de dispositions contractuelles, les commissions sont calculées sur le prix figurant au bon de commande ou à l'ordre accepté par l'employeur, à défaut de ceux-ci, sur des prix courants, tarifs ou barèmes et, à défaut de ces derniers, sur le prix fait. L'arrêt constate que le contrat accordait au défendeur \"une part de 10 % sur les commissions ou bénéfices bruts acquis pour les affaires créées et traitées par lui au sein d'Iminco\"; que le défendeur a apporté à la demanderesse un ordre d'une société Karabuk, que cet ordre n'a pas été suivi d'exécution et que la marchandise qui en avait fait l'objet a été revendue par la demanderesse à une société Sidmétal; qu'il ressort du contexte de l'arrêt que ce marché a été conclu sans l'intervention du défendeur. L'arrêt relève que \"l'opération (Karabuk) n'ayant pas été réalisée, il est impossible de dégager un bénéfice brut et donc de calculer le montant de la commission\". Il ressort de cette constatation que le cas ou l'ordre n'a pas été suivi d'exécution, mais ou la commission est due, n'avait pas été prévu au contrat des parties. L'arrêt décide que la commission due au défendeur sur l'ordre de la société Karabuk doit se calculer \"sur (la) base\" du bénéfice réalisé par la demanderesse lors de la revente de la marchandise à la société Sidmétal. En accordant au défendeur une commission calculée sur le bénéfice d'une affaire qu'il n'a pas traitée, l'arrêt viole la force obligatoire du contrat et applique une base de calcul qui n'est pas prévue par la loi."
+        "Peut être considéré comme apport de clientèle dans le chef d'un représentant de commerce (maisons industrialisées) le fait d'avoir amené dans plusieurs cas à la société qui l'emploie, un acquéreur initial qui a passé une seconde commande, soit pour un agrandissement, soit pour un autre immeuble ou qui semble, par ses relations de famille, avoir été à l'origine d'un autre marché.",
+        "L'article 7, b, de la loi du 9 juillet 1971 dispose que les conventions visées à l'article 1er, ainsi que les promesses de pareilles conventions doivent mentionner la date de la délivrance du permis de bâtir et les conditions de ce permis, et aux termes de l'article 13, alinéa 2, l'inobservation de l'une des dispositions de l'article 7 entraîne la nullité de la convention; il résulte toutefois de l'alinéa 3 de l'article 13 que cette nullité est relative, ne pouvant être invoquée que par l'acquéreur ou le maître de l'ouvrage, à l'exclusion de toute autre personne, avant la passation de l'acte authentique ou, s'il s'agit d'un contrat d'entreprise, avant la réception provisoire visée à l'article 9. Les promesses de convention produisent tous leurs effets si les seules personnes qui peuvent en invoquer la nullité ne le font pas dans les conditions précitées. Dès lors, la cour du travail a pu décider légalement que la préconvention signée par le client constitue l'ordre prévu par l'article 4, alinéa 1er, de la loi du 30 juillet 1963."
       ],
       "abstractNL": null
-    },
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1973:ARR.19731212.8": {
+      "court": "CASS",
+      "date": "1973-12-12",
+      "roleNumber": "19310",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/12/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Une société se réserve par convention de changer ou d'imposer tout changement au secteur d'un représentant de commerce. La société réduit le secteur attribué au susdit représentant. La Cour du travail a considéré que la clause était nulle et que dès lors en modifiant unilatéralement les conditions de travail, la société a manifesté son intention de rompre. L'attitude du représentant lequel a cessé toute activité dès la mise en demeure de l'employeur est donc justifiée. Pourvoi en cassation. La Cour motive son arrêt comme suit: \"le défendeur étant entré au service de la demanderesse... le 13 juin 1963, depuis lors, le contrat liant les parties a été modifié à plusieurs reprises; qu'en novembre 1968, la province du Hainaut fut ajoutée au secteur de ventes... attribué au défendeur, mais en fut retirée un an après; \"Dans une lettre du 1er janvier 1964, sur laquelle le défendeur avait marqué son accord, la demanderesse avait stipulé, suivant l'arrêt, qu'\"elle s'était réservé le droit de changer ou d'imposer tout changement au secteur devant être visité par son employé et cela _ sans dédommagement\". \"L'arrêt (de la Cour du travail) déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation.",
+        "déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation."
+      ],
+      "abstractNL": null
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1966:ARR.19661202.3": {
+      "court": "CASS",
+      "date": "1966-12-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être dérogé aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, aux termes desquelles le représentant qui est chargé de visiter seul une clientèle ou un secteur déterminés par le contrat a droit, pendant l'exécution de ce dernier, à la commission sur les affaires que l'employeur conclut avec cette clientèle ou dans ce secteur sans son intervention et, pendant la suspension ou après la cessation du contrat, à la commission sur les affaires ainsi conclues par l'employeur, pour autant que l'ordre ait été passé au cours de l'exécution du contrat. (Loi du 30 juillet 1963, art. 7 et 23.)",
+        "Ne déroge pas aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce et est licite la stipulation de la convention conclue entre l'employeur et le représentant de commerce, qui impose à ce dernier d'avoir rendu visite au client au cours d'une période déterminée ayant précédé la date d'une commande, pour qu'il puisse avoir droit à la commission prévue par cette disposition légale."
+      ],
+      "abstractNL": [
+        "Er mag niet afgeweken worden van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers, luidens welk de handelsvertegenwoordiger die een in de overeenkomst bepaalde cliëntele of sector alleen moet bezoeken, tijdens de uitvoering van zijn overeenkomst, recht heeft op commissielonen voor de zaken die de werkgever zonder zijn tussenkomst met die cliëntele of in die sector afsluit en, tijdens de schorsing of na het einde van de overeenkomst, op het commissieloon op de door de werkgever afgesloten zaken, voor zover de order tijdens de uitvoering van de overeenkomst werd doorgegeven. (Wet van 30 juli 1963, art. 7 en 23.)",
+        "Wijkt niet af van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers en is wettelijk het beding van de overeenkomst aangegaan tussen de werkgever en de handelsvertegenwoordiger waarbij aan laatstgenoemde opgelegd wordt de cliëntele te hebben bezocht tijdens een bepaalde periode die aan de bestelling voorafgaat, om aanspraak te kunnen maken op het bij deze wetsbepaling voorziene commissieloon."
+      ]
+    }
+  },
+  "15": {
     "ECLI:BE:CASS:1983:ARR.19830502.3": {
       "court": "CASS",
       "date": "1983-05-02",
@@ -25,6 +61,20 @@
       ],
       "abstractNL": null
     },
+    "ECLI:BE:CASS:1981:ARR.19810907.7": {
+      "court": "CASS",
+      "date": "1981-09-07",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/07/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer een handelsvertegenwoordiger zelf een opzegging heeft gegeven en de werkgever de overeenkomst onrechtmatig verbreekt één maand voor de beëindiging van de door de handelsvertegenwoordiger gegeven opzeggingstermijn, kan het Arbeidshof oordelen dat het verlies van kliënteel het gevolg is van de opzegging door de handelsvertegenwoordiger, en niet het gevolg van de beëindiging van de overeenkomst door de werkgever."
+      ]
+    }
+  },
+  "16": {
     "ECLI:BE:CASS:1982:ARR.19821018.8": {
       "court": "CASS",
       "date": "1982-10-18",
@@ -34,6 +84,63 @@
       ],
       "abstractFR": [
         "En vertu de l'article 16 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, l'indemnité d'éviction porte intérêt de plein droit à partir de la date de la cessation du contrat."
+      ],
+      "abstractNL": null
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1978:ARR.19780522.10": {
+      "court": "CASS",
+      "date": "1978-05-22",
+      "roleNumber": "19310",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/22/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Aux termes d'une convention conclue entre parties, le représentant renonce à poursuivre contre l'employeur toute autre exigence _ mise à part l'indemnité de licenciement _ née du contrat d'emploi, de l'exécution ou de la rupture de celui-ci. Le représentant a renoncé de la sorte à l'indemnité d'éviction. L'article 23 de la loi du 30 juillet 1963 ne peut être invoqué que relativement à des dérogations qui se seraient produites pendant l'exécution du contrat. Au moment de la renonciation, le contrat avait pris fin."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1973:ARR.19731212.8": {
+      "court": "CASS",
+      "date": "1973-12-12",
+      "roleNumber": "19310",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/12/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Une société se réserve par convention de changer ou d'imposer tout changement au secteur d'un représentant de commerce. La société réduit le secteur attribué au susdit représentant. La Cour du travail a considéré que la clause était nulle et que dès lors en modifiant unilatéralement les conditions de travail, la société a manifesté son intention de rompre. L'attitude du représentant lequel a cessé toute activité dès la mise en demeure de l'employeur est donc justifiée. Pourvoi en cassation. La Cour motive son arrêt comme suit: \"le défendeur étant entré au service de la demanderesse... le 13 juin 1963, depuis lors, le contrat liant les parties a été modifié à plusieurs reprises; qu'en novembre 1968, la province du Hainaut fut ajoutée au secteur de ventes... attribué au défendeur, mais en fut retirée un an après; \"Dans une lettre du 1er janvier 1964, sur laquelle le défendeur avait marqué son accord, la demanderesse avait stipulé, suivant l'arrêt, qu'\"elle s'était réservé le droit de changer ou d'imposer tout changement au secteur devant être visité par son employé et cela _ sans dédommagement\". \"L'arrêt (de la Cour du travail) déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation.",
+        "déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1966:ARR.19661202.3": {
+      "court": "CASS",
+      "date": "1966-12-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne peut être dérogé aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, aux termes desquelles le représentant qui est chargé de visiter seul une clientèle ou un secteur déterminés par le contrat a droit, pendant l'exécution de ce dernier, à la commission sur les affaires que l'employeur conclut avec cette clientèle ou dans ce secteur sans son intervention et, pendant la suspension ou après la cessation du contrat, à la commission sur les affaires ainsi conclues par l'employeur, pour autant que l'ordre ait été passé au cours de l'exécution du contrat. (Loi du 30 juillet 1963, art. 7 et 23.)",
+        "Ne déroge pas aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce et est licite la stipulation de la convention conclue entre l'employeur et le représentant de commerce, qui impose à ce dernier d'avoir rendu visite au client au cours d'une période déterminée ayant précédé la date d'une commande, pour qu'il puisse avoir droit à la commission prévue par cette disposition légale."
+      ],
+      "abstractNL": [
+        "Er mag niet afgeweken worden van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers, luidens welk de handelsvertegenwoordiger die een in de overeenkomst bepaalde cliëntele of sector alleen moet bezoeken, tijdens de uitvoering van zijn overeenkomst, recht heeft op commissielonen voor de zaken die de werkgever zonder zijn tussenkomst met die cliëntele of in die sector afsluit en, tijdens de schorsing of na het einde van de overeenkomst, op het commissieloon op de door de werkgever afgesloten zaken, voor zover de order tijdens de uitvoering van de overeenkomst werd doorgegeven. (Wet van 30 juli 1963, art. 7 en 23.)",
+        "Wijkt niet af van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers en is wettelijk het beding van de overeenkomst aangegaan tussen de werkgever en de handelsvertegenwoordiger waarbij aan laatstgenoemde opgelegd wordt de cliëntele te hebben bezocht tijdens een bepaalde periode die aan de bestelling voorafgaat, om aanspraak te kunnen maken op het bij deze wetsbepaling voorziene commissieloon."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840507.8": {
+      "court": "CASS",
+      "date": "1984-05-07",
+      "roleNumber": "81/8227",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/07/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 10 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, applicable en l'espèce, dispose que les bases de calcul des commissions sont déterminées par le contrat et qu'en l'absence de dispositions contractuelles, les commissions sont calculées sur le prix figurant au bon de commande ou à l'ordre accepté par l'employeur, à défaut de ceux-ci, sur des prix courants, tarifs ou barèmes et, à défaut de ces derniers, sur le prix fait. L'arrêt constate que le contrat accordait au défendeur \"une part de 10 % sur les commissions ou bénéfices bruts acquis pour les affaires créées et traitées par lui au sein d'Iminco\"; que le défendeur a apporté à la demanderesse un ordre d'une société Karabuk, que cet ordre n'a pas été suivi d'exécution et que la marchandise qui en avait fait l'objet a été revendue par la demanderesse à une société Sidmétal; qu'il ressort du contexte de l'arrêt que ce marché a été conclu sans l'intervention du défendeur. L'arrêt relève que \"l'opération (Karabuk) n'ayant pas été réalisée, il est impossible de dégager un bénéfice brut et donc de calculer le montant de la commission\". Il ressort de cette constatation que le cas ou l'ordre n'a pas été suivi d'exécution, mais ou la commission est due, n'avait pas été prévu au contrat des parties. L'arrêt décide que la commission due au défendeur sur l'ordre de la société Karabuk doit se calculer \"sur (la) base\" du bénéfice réalisé par la demanderesse lors de la revente de la marchandise à la société Sidmétal. En accordant au défendeur une commission calculée sur le bénéfice d'une affaire qu'il n'a pas traitée, l'arrêt viole la force obligatoire du contrat et applique une base de calcul qui n'est pas prévue par la loi."
       ],
       "abstractNL": null
     },
@@ -77,18 +184,6 @@
       ],
       "abstractNL": [
         "Wanneer het Arbeidshof beslist dat een handelsvertegenwoordiger zijn clienteel niet heeft verloren ten gevolge van de verbreking van de arbeidsovereenkomst door de werkgever, dan rechtvaardigt het Hof op wettige wijze de beslissing om de uitbetaling van een uitwinningsvergoeding te weigeren. Het Hof nam deze beslissing nadat het had vastgesteld dat de handelsvertegenwoordiger zelf de voortzetting van zijn activiteiten als vertegenwoordiger had opgegeven, namelijk door dat hij opgehouden is zijn cliënteel te benutten na beëindiging van de arbeidsovereenkomst."
-      ]
-    },
-    "ECLI:BE:CASS:1981:ARR.19810907.7": {
-      "court": "CASS",
-      "date": "1981-09-07",
-      "roleNumber": "2644",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/07/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Wanneer een handelsvertegenwoordiger zelf een opzegging heeft gegeven en de werkgever de overeenkomst onrechtmatig verbreekt één maand voor de beëindiging van de door de handelsvertegenwoordiger gegeven opzeggingstermijn, kan het Arbeidshof oordelen dat het verlies van kliënteel het gevolg is van de opzegging door de handelsvertegenwoordiger, en niet het gevolg van de beëindiging van de overeenkomst door de werkgever."
       ]
     },
     "ECLI:BE:CASS:1981:ARR.19810622.3": {
@@ -194,18 +289,6 @@
       "abstractNL": [
         "Afwezigheid van schade kan niet worden afgeleid uit het feit dat de handelsvertegenwoordiger de pensioengerechtigde leeftijd heeft bereikt of zelfs overschreden, zelfs indien hij zijn beroep niet meer uitoefent. Het volstaat vast te stellen dat hij in dit laatste geval geen aktiviteit meer kan uitoefenen uit hoofde van de beëindiging van de overeenkomst zelf, en dat hem aldus uit de gedane betekende opzegging het recht op de voordelen van de door hem aangebrachte kliënteel definitief ontnomen is. Zie Arbeidshof Luik 27.6.1974, J.T.T. 1974, 198 met verwijzing Arbeidshof Luik 8.3.1971, J.L. 1970-1971, 236; Arbeidshof Brussel, 25.11.1975, J.T.T. 1977, 18. De werkgever die enkel het bereiken van de pensioengerechtigde leeftijd door de bediende handelsvertegenwoordiger inroept als bewijs dat deze laatste door de beëindiging van de overeenkomst geen nadeel heeft ondergaan, en aldus niet gerechtigd is tot het bekomen van een uitwinningsvergoeding, voldoet niet aan de bewijslast."
       ]
-    },
-    "ECLI:BE:CASS:1978:ARR.19780522.10": {
-      "court": "CASS",
-      "date": "1978-05-22",
-      "roleNumber": "19310",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/22/sitemap_10.xml"
-      ],
-      "abstractFR": [
-        "Aux termes d'une convention conclue entre parties, le représentant renonce à poursuivre contre l'employeur toute autre exigence _ mise à part l'indemnité de licenciement _ née du contrat d'emploi, de l'exécution ou de la rupture de celui-ci. Le représentant a renoncé de la sorte à l'indemnité d'éviction. L'article 23 de la loi du 30 juillet 1963 ne peut être invoqué que relativement à des dérogations qui se seraient produites pendant l'exécution du contrat. Au moment de la renonciation, le contrat avait pris fin."
-      ],
-      "abstractNL": null
     },
     "ECLI:BE:CASS:1977:ARR.19771214.11": {
       "court": "CASS",
@@ -347,19 +430,6 @@
       ],
       "abstractNL": null
     },
-    "ECLI:BE:CASS:1973:ARR.19731212.8": {
-      "court": "CASS",
-      "date": "1973-12-12",
-      "roleNumber": "19310",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/12/12/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "Une société se réserve par convention de changer ou d'imposer tout changement au secteur d'un représentant de commerce. La société réduit le secteur attribué au susdit représentant. La Cour du travail a considéré que la clause était nulle et que dès lors en modifiant unilatéralement les conditions de travail, la société a manifesté son intention de rompre. L'attitude du représentant lequel a cessé toute activité dès la mise en demeure de l'employeur est donc justifiée. Pourvoi en cassation. La Cour motive son arrêt comme suit: \"le défendeur étant entré au service de la demanderesse... le 13 juin 1963, depuis lors, le contrat liant les parties a été modifié à plusieurs reprises; qu'en novembre 1968, la province du Hainaut fut ajoutée au secteur de ventes... attribué au défendeur, mais en fut retirée un an après; \"Dans une lettre du 1er janvier 1964, sur laquelle le défendeur avait marqué son accord, la demanderesse avait stipulé, suivant l'arrêt, qu'\"elle s'était réservé le droit de changer ou d'imposer tout changement au secteur devant être visité par son employé et cela _ sans dédommagement\". \"L'arrêt (de la Cour du travail) déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation.",
-        "déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse déclare que cette clause est nulle et décide qu'en réduisant le secteur de ventes du défendeur, la demanderesse a rompu unilatéralement le contrat; que pour justifier sa décision, il relève \"qu'il existe en droit du travail, un ordre public virtuel propre à cette matière;... cette notion ressort de l'ensemble des dispositions légales qui concernent la protection des travailleurs salaries et notamment pour les représentants de commerce de l'article 23 de la loi du 30 juillet 1963\" et affirme \"que ce concept permet aux tribunaux d'annuler les clauses qui apparaissent manifestement léonines\". La Cour de Cassation répond à cette argumentation comme suit: \"... Certes que les lois relatives au contrat de travail et au contrat d'emploi contiennent de nombreuses dispositions qui attribuent à la règle qu'elles édictent un caractère impératif et que l'article 23 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce dispose qu'il ne peut être dérogé à celle-ci au détriment du représentant de commerce\". \"Mais... que ces dispositions légales n'impliquent en aucune manière l'existence d'un ordre public virtuel\"; \"... que la thèse consacrée par la décision entreprise méconnaît la volonté du législateur; que, si toutes les dispositions contenues dans les lois relatives au louage de travail reposaient sur un principe d'ordre public ou revêtaient en soi un caractère impératif, le législateur n'aurait pas pris soin d'énoncer, dans les cas qu'il détermine, que, le texte légal est applicable nonobstant toute convention contraire; \"... que la loi du 30 juillet 1963 précitée ne formule aucune règle ayant trait, soit à la détermination du secteur de ventes qui doit être attribué au représentant de commerce, soit à l'évaluation des dommages-intérêts qui pourraient être dus au représentant de commerce lorsque son secteur de ventes est réduit. \"En statuant comme il l'a fait, le juge a violé l'article 1134 du Code civil.\" Cassation."
-      ],
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:1973:ARR.19731031.2": {
       "court": "CASS",
       "date": "1973-10-31",
@@ -458,22 +528,6 @@
       "abstractFR": null,
       "abstractNL": [
         "In artikel 8 van de wet van 3 juli 1963, moet men door gespreide leveringen verstaan, de leveringen voorzien door kontrakten waarvan de uitvoering niet definitief en met zekerheid vastgesteld wordt, dit wil zeggen kontrakten die vooraf de voorwaarden der leveringen bepalen de welke tijdens een zekere periode volgens de gebeurlijke voorschriften van de kliënt moeten uitgevoerd worden. De beperking voorzien door artikel 8 maakt dus geen aantasting uit van de rechten van de vertegenwoordiger, die hij op het einde van het kontrakt verkregen had en die het gevolg zijn van vaste orders uit te voeren binnen bepaalde termijnen of tegen voorwaarden door de werkgever aan de vertegenwoordiger toegestaan."
-      ]
-    },
-    "ECLI:BE:CASS:1966:ARR.19661202.3": {
-      "court": "CASS",
-      "date": "1966-12-02",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/02/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Il ne peut être dérogé aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce, aux termes desquelles le représentant qui est chargé de visiter seul une clientèle ou un secteur déterminés par le contrat a droit, pendant l'exécution de ce dernier, à la commission sur les affaires que l'employeur conclut avec cette clientèle ou dans ce secteur sans son intervention et, pendant la suspension ou après la cessation du contrat, à la commission sur les affaires ainsi conclues par l'employeur, pour autant que l'ordre ait été passé au cours de l'exécution du contrat. (Loi du 30 juillet 1963, art. 7 et 23.)",
-        "Ne déroge pas aux dispositions de l'article 7 de la loi du 30 juillet 1963 fixant le statut des représentants de commerce et est licite la stipulation de la convention conclue entre l'employeur et le représentant de commerce, qui impose à ce dernier d'avoir rendu visite au client au cours d'une période déterminée ayant précédé la date d'une commande, pour qu'il puisse avoir droit à la commission prévue par cette disposition légale."
-      ],
-      "abstractNL": [
-        "Er mag niet afgeweken worden van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers, luidens welk de handelsvertegenwoordiger die een in de overeenkomst bepaalde cliëntele of sector alleen moet bezoeken, tijdens de uitvoering van zijn overeenkomst, recht heeft op commissielonen voor de zaken die de werkgever zonder zijn tussenkomst met die cliëntele of in die sector afsluit en, tijdens de schorsing of na het einde van de overeenkomst, op het commissieloon op de door de werkgever afgesloten zaken, voor zover de order tijdens de uitvoering van de overeenkomst werd doorgegeven. (Wet van 30 juli 1963, art. 7 en 23.)",
-        "Wijkt niet af van de bepalingen van artikel 7 van de wet van 30 juli 1963 tot instelling van het statuut der handelsvertegenwoordigers en is wettelijk het beding van de overeenkomst aangegaan tussen de werkgever en de handelsvertegenwoordiger waarbij aan laatstgenoemde opgelegd wordt de cliëntele te hebben bezocht tijdens een bepaalde periode die aan de bestelling voorafgaat, om aanspraak te kunnen maken op het bij deze wetsbepaling voorziene commissieloon."
       ]
     },
     "ECLI:BE:CASS:1983:ARR.19830613.10": {

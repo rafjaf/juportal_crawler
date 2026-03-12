@@ -13,9 +13,7 @@
       "abstractNL": [
         "Het controleverslag dat door de federale politie is opgesteld en zonder verdere rechtspleging is verzonden naar de FOD Werkgelegenheid, Arbeid en Sociaal Overleg, die het vervolgens aan de R.V.A. heeft medegedeeld, is geen akte van de rechtspleging wanneer op het ogenblik van die mededeling nog geen enkele rechterlijke overheid die wettelijk met de uitoefening van de strafvordering is belast, van dit verslag of van de daarin vermelde feiten kennisgenomen had (1). (1) Het arrest van het Hof doet geen uitspraak over de vraag of een dergelijk controleverslag al dan niet een akte van de rechtspleging is. M.b.t. de machtiging van de procureur-generaal bij het hof van beroep, zie Cass., 23 jan. 1991, AR 8479, nr. 272; 25 maart 2003, AR P.02.1699.N, nr. 202. Vgl. thans art. 96, K.B. 27 april 2007 houdende algemeen reglement op de gerechtskosten in strafzaken, B.S. 25 mei 2007, 2de Ed., p. 28209."
       ]
-    }
-  },
-  "general": {
+    },
     "ECLI:BE:CASS:1984:ARR.19840120.3": {
       "court": "CASS",
       "date": "1984-01-20",
@@ -39,7 +37,9 @@
       "abstractNL": [
         "De inlichtingen nodig om de bijdragen te berekenen voor de sociale-zekerheidsregeling dienen door de sociale inspectie door bemiddeling van de procureur-generaal bij het Hof van Beroep verstrekt, op gevaar van schending van het beroepsgeheim. (toepassing van artikel 125 van het algemeen reglement op de gerechtskosten in strafzaken)."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1994:ARR.19940518.11": {
       "court": "CASS",
       "date": "1994-05-18",

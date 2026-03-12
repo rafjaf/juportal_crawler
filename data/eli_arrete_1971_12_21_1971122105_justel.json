@@ -1,4 +1,22 @@
 {
+  "6": {
+    "ECLI:BE:CASS:1977:ARR.19770302.12": {
+      "court": "CASS",
+      "date": "1977-03-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le salaire de base servant à la fixation des indemnités dues à la suite d'une maladie professionnelle doit, en principe, être calculé de la même manière que l'indemnité servant de base à la fixation des indemnités dues en raison d'un accident du travail ou d'un accident survenu sur le chemin du travail . (Arr. roy. du 3 juin 1970 portant coordination des dispositions légales relatives aux maladies professionnelles, art. 49, al, 1er.)",
+        "La loi qui modifie les dispositions légales fixant le mode de calcul des indemnités dues à la suite d'une maladie professionnelle est, en principe, applicable au calcul de l'indemnité due en raison des conséquences d'une maladie professionnelle antérieure à sa mise en vigueur qui se produisent ou se prolongent après cette date, à moins qu'au momment de celle-ci les indemnités ne soient déjà définitivement fixées . (Code civil, art. 2.)"
+      ],
+      "abstractNL": [
+        "Het basisloon voor de vaststelling van de wegens een beroepsziekte verschuldigde vergoedingen wordt, in principe, op dezelfde wijze bepaald als de vergoeding die tot basis dient voor de vaststelling van de wegens een arbeidsongeval of een ongeval op de weg naar en van het werk verschuldigde vergoedingen. ( Koninklijk besluit van 3 juni 1970 houdende coordinatie van de wetsbepalingen betreffende de beroepsziekten, art. 49, lid 1. )",
+        "De wet tot wijziging van de wettelijke bepalingen inzake de vaststelling van de wijze waarop de wegens een beroepsziekte verschuldigde vergoedingen worden berekend, is, in principe, van toepassing op de berekening van de vergoeding verschuldigd wegens de gevolgen van een voor haar inwerkingtreding gebleken ziekte die zich na deze datum voordoen of voortduren, tenzij de vergoedingen op dat ogenblik reeds definitief waren vastgesteld . ( B.W., art. 2. )"
+      ]
+    }
+  },
   "7": {
     "ECLI:BE:CASS:1989:ARR.19890522.12": {
       "court": "CASS",
@@ -24,6 +42,46 @@
       "abstractFR": null,
       "abstractNL": [
         "De verjaring van de rechtsvordering tot betaling van een aan de getroffene van een arbeidsongeval toegekende bijslag wegens verergering wordt niet geschorst door de administratieve onderzoeksprocedure van de vordering door het Fonds voor Arbeidsongevallen. (Artt. 69, eerste lid, en 70, eerste zin, Arbeidsongevallenwet; art. 7, K.B. van 21 december 1971; artt. 2251 tot 2259, Burgerlijk Wetboek.)"
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1974:ARR.19740206.7": {
+      "court": "CASS",
+      "date": "1974-02-06",
+      "roleNumber": "1596",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/06/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Behoudens andersluidende bepaling moet het kapitaal ter waarborging van de uitbetaling van de rente voor blijvende arbeidsongeschiktheid gevestigd worden overeenkomstig het tarief toepasselijk op het ogenblik dat de vestiging in werkelijkheid geschiedt, ongeacht de termijn binnen welke de vestiging krachtens de wet diende te gebeuren. De berekening van een derde van de waarde der rente in kapitaal dient te geschieden volgens hetzelfde tarief dat voor de vestiging van het kapitaal geldt. Indien het kapitaal op 1 januari 1972 nog niet gevestigd was, behoort het kapitaal overeenstemmend met een derde van de rentewaarde berekend te worden overeenkomstig de tarieven die vanaf 1 januari 1972 op grond van de nieuwe arbeidsongevallenwet van 1971 van toepassing zijn."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:1976:ARR.19760908.2": {
+      "court": "CASS",
+      "date": "1976-09-08",
+      "roleNumber": "5277",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De gemeenrechtelijke schadevergoeding mag niet samengevoegd worden met deze verschuldigd krachtens de Arbeidsongevallenwet. Wanneer aan de getroffene op grond van het gemeen recht rechtstreeks door de aansprakelijke een kapitaal als schadevergoeding wordt uitbetaald, is het barema E K.B. 21 december 1971 vreemd aan dit kapitaal. Ongeacht de methode die aangewend wordt om de krachtens de Arbeidsongevallenwet nog toe te kennen jaarlijkse vergoeding te vergelijken met het in gemeen recht toegekende kapitaal,dient bij die vergelijking toepassing gemaakt te worden van het barema F, waarna op het bekomen saldo van het jaarlijks bedrag toegekend krachtens de Arbeidsongevallenwet de wiskundige reserve op basis van barema E dient berekend te worden."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750618.8": {
+      "court": "CASS",
+      "date": "1975-06-18",
+      "roleNumber": "5277",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/18/sitemap_15.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer na een dodelijk ongeval de ouders van de getroffene op grond van het gemeen recht reeds een schadevergoeding in kapitaal getrokken hebben, moet het bedrag van de wiskundige reserve te vestigen door de gemachtigde verzekeraar arbeidsongevallen overeenstemmen met de rente verschuldigd op grond van de arbeidsongevallenwet, wegens overlijden, doch verminderd met de rente waaraan het gemeenrechtelijk kapitaal volgens barema F beantwoordt. De wiskundige reserve zal worden berekend op het saldo en overeenkomstig barema E."
       ]
     }
   },
@@ -123,20 +181,6 @@
       "abstractNL": [
         "De in art. 39 Arbeidsongevallenwet bedoelde loongrens is gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen; zolang de vergoeding niet definitief is vastgesteld, moet de rechter in beginsel de nieuwe loongrens toepassen, met inachtneming van de aanpassingen die ten tijde van het ongeval en later van kracht zijn, en moet hij voor de renten van een bepaald jaar rekening houden met de aanpassing per 1 januari van dat jaar. ( Artt. 42 en 43 K.B. van 21 december 1971. )"
       ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1983:ARR.19830912.11": {
-      "court": "CASS",
-      "date": "1983-09-12",
-      "roleNumber": "4105",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/12/sitemap_11.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het artikel 58 paragraaf 1, 7 en 8 van de arbeidsongevallenwet draagt het fonds voor arbeidsongevallen op aan de door een arbeidsongeval getroffen werknemers en hun rechthebbenden bijslagen en sociale bijstand te verlenen onder de voorwaarden bepaald door de Koning. De toekenning van deze voordelen wordt geregeld door het K.B. van 21 december 1971 betreffende de bijslagen en de sociale bijstand verleend door het fonds voor arbeidsongevallen. De omstandigheid dat het fonds voor arbeidsongevallen belast is met de toekenning van die voordelen aan de gerechtigden die onder de arbeidsongevallenwet vallen, doet niets af van de verplichting van dit fonds om, met toepassing van artikel 169 van het werkloosheidsbesluit, dezelfde voordelen te verlenen aan de tewerkgestelde werklozen die door een arbeidsongeval zijn getroffen."
-      ]
     },
     "ECLI:BE:CASS:1982:ARR.19820927.8": {
       "court": "CASS",
@@ -149,58 +193,6 @@
       "abstractNL": [
         "De loongrens bedoeld in artikel 39 van de Arbeidsongevallenwet van 10 april 1971 wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen op de wijze bepaald in de artikelen 42 en 43 van het K.B. van 21 december 1971 houdende uitvoering van sommige bepalingen van voormelde wet. De rechter moet de aangepaste loongrens toepassen zolang de vergoeding niet definitief is vastgesteld. Het arrest, dat om het basisloon vast te stellen enkel de loongrens in voege ten tijde van de door artikel 34 van de wet bepaalde referentieperiode in aanmerking neemt en weigert rekening te houden met de latere wijzigingen van die loongrens ingevolge de schommelingen van het indexcijfer van de consumptieprijzen, schendt de artikelen 39 van de Arbeidsongevallenwet, 42 en 43 van het K.B. van 21 december 1971."
       ]
-    },
-    "ECLI:BE:CASS:1977:ARR.19770302.12": {
-      "court": "CASS",
-      "date": "1977-03-02",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/02/sitemap_12.xml"
-      ],
-      "abstractFR": [
-        "Le salaire de base servant à la fixation des indemnités dues à la suite d'une maladie professionnelle doit, en principe, être calculé de la même manière que l'indemnité servant de base à la fixation des indemnités dues en raison d'un accident du travail ou d'un accident survenu sur le chemin du travail . (Arr. roy. du 3 juin 1970 portant coordination des dispositions légales relatives aux maladies professionnelles, art. 49, al, 1er.)",
-        "La loi qui modifie les dispositions légales fixant le mode de calcul des indemnités dues à la suite d'une maladie professionnelle est, en principe, applicable au calcul de l'indemnité due en raison des conséquences d'une maladie professionnelle antérieure à sa mise en vigueur qui se produisent ou se prolongent après cette date, à moins qu'au momment de celle-ci les indemnités ne soient déjà définitivement fixées . (Code civil, art. 2.)"
-      ],
-      "abstractNL": [
-        "Het basisloon voor de vaststelling van de wegens een beroepsziekte verschuldigde vergoedingen wordt, in principe, op dezelfde wijze bepaald als de vergoeding die tot basis dient voor de vaststelling van de wegens een arbeidsongeval of een ongeval op de weg naar en van het werk verschuldigde vergoedingen. ( Koninklijk besluit van 3 juni 1970 houdende coordinatie van de wetsbepalingen betreffende de beroepsziekten, art. 49, lid 1. )",
-        "De wet tot wijziging van de wettelijke bepalingen inzake de vaststelling van de wijze waarop de wegens een beroepsziekte verschuldigde vergoedingen worden berekend, is, in principe, van toepassing op de berekening van de vergoeding verschuldigd wegens de gevolgen van een voor haar inwerkingtreding gebleken ziekte die zich na deze datum voordoen of voortduren, tenzij de vergoedingen op dat ogenblik reeds definitief waren vastgesteld . ( B.W., art. 2. )"
-      ]
-    },
-    "ECLI:BE:CASS:1976:ARR.19760908.2": {
-      "court": "CASS",
-      "date": "1976-09-08",
-      "roleNumber": "5277",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/08/sitemap_2.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De gemeenrechtelijke schadevergoeding mag niet samengevoegd worden met deze verschuldigd krachtens de Arbeidsongevallenwet. Wanneer aan de getroffene op grond van het gemeen recht rechtstreeks door de aansprakelijke een kapitaal als schadevergoeding wordt uitbetaald, is het barema E K.B. 21 december 1971 vreemd aan dit kapitaal. Ongeacht de methode die aangewend wordt om de krachtens de Arbeidsongevallenwet nog toe te kennen jaarlijkse vergoeding te vergelijken met het in gemeen recht toegekende kapitaal,dient bij die vergelijking toepassing gemaakt te worden van het barema F, waarna op het bekomen saldo van het jaarlijks bedrag toegekend krachtens de Arbeidsongevallenwet de wiskundige reserve op basis van barema E dient berekend te worden."
-      ]
-    },
-    "ECLI:BE:CASS:1975:ARR.19750618.8": {
-      "court": "CASS",
-      "date": "1975-06-18",
-      "roleNumber": "5277",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/18/sitemap_15.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Wanneer na een dodelijk ongeval de ouders van de getroffene op grond van het gemeen recht reeds een schadevergoeding in kapitaal getrokken hebben, moet het bedrag van de wiskundige reserve te vestigen door de gemachtigde verzekeraar arbeidsongevallen overeenstemmen met de rente verschuldigd op grond van de arbeidsongevallenwet, wegens overlijden, doch verminderd met de rente waaraan het gemeenrechtelijk kapitaal volgens barema F beantwoordt. De wiskundige reserve zal worden berekend op het saldo en overeenkomstig barema E."
-      ]
-    },
-    "ECLI:BE:CASS:1975:ARR.19750611.4": {
-      "court": "CASS",
-      "date": "1975-06-11",
-      "roleNumber": "5277",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/11/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Sauf disposition contraire, l'organisme assureur doit constituer le capital sur base du tarif applicable au moment de sa constitution effective, quel que soit le délai prévu par la loi pour cette constitution. La valeur de la rente dont un tiers est payé en capital à la victime est calculée sur la base du même tarif que celui qui est appliqué par la constitution du capital. Si le capital de la rente allouée à la victime n'avait pas encore été constitué le 31 décembre 1971, la valeur du capital payable à la victime doit être calculée conformément au tarif applicable depuis le 1er janvier 1972."
-      ],
-      "abstractNL": null
     },
     "ECLI:BE:CASS:1975:ARR.19750325.1": {
       "court": "CASS",
@@ -225,17 +217,51 @@
       "abstractNL": [
         "De loongrens (300.000 Fr.), bedoeld in art. 39, eerste lid, van de arbeidsongevallenwet van 1041971, wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen op de wijze bepaald in de artikelen 42 en 43 van het K.B. van 211271, houdende uitvoering van sommige bepalingen van die wet. Deze bepalingen regelen de berekeningswijze van de vergoedingen uit arbeidsongeval of uit een ongeval op de weg van of naar het werk. De rechter moet derhalve in principe de nieuwere loongrens toepassen, zolang de vergoeding niet definitief is vastgesteld. Noch uit art. 24 van de arbeidsongevallenwet, noch uit welkdanige bepaling van deze wet blijkt dat de wetgever van het voormelde principe heeft willen afwijken. Derhalve moet voor die periode niet enkel de aangepaste loongrens, die geldt op het tijdstip van het ongeval, worden in acht genomen, maar moet tevens rekening gehouden worden met de latere aanpassingen aan de schommelingen van het indexcijfer van de consumptieprijzen. Voor de vergoedingen van een gegeven jaar komt de aanpassing van 1 januari van dit jaar in aanmerking, met dien verstande nochtans dat vanaf de definitieve vaststelling van de vergoedingen verdere aanpassingen van de loongrens geen uitwerking meer hebben. De jaarlijkse vergoeding wegens blijvende arbeidsongeschiktheid vervangt naar luid van art. 24 van de Arbeidsongevallenwet de in art. 22 van deze wet bedoelde dagelijkse vergoeding vanaf de dag waarop de ongeschiktheid een bestendig karakter vertoont en dit vertrekpunt wordt vastgesteld bij overeenkomst of bij in kracht van gewijsde gegane beslissing. Bij ontstentenis van dergelijke overeenkomst of van een in kracht van gewijsde getreden beslissing is de vergoeding wegens blijvende ongeschiktheid dus niet definitief vastgesteld."
       ]
-    },
-    "ECLI:BE:CASS:1974:ARR.19740206.7": {
+    }
+  },
+  "49": {
+    "ECLI:BE:CASS:1977:ARR.19770302.12": {
       "court": "CASS",
-      "date": "1974-02-06",
-      "roleNumber": "1596",
+      "date": "1977-03-02",
+      "roleNumber": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/02/06/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le salaire de base servant à la fixation des indemnités dues à la suite d'une maladie professionnelle doit, en principe, être calculé de la même manière que l'indemnité servant de base à la fixation des indemnités dues en raison d'un accident du travail ou d'un accident survenu sur le chemin du travail . (Arr. roy. du 3 juin 1970 portant coordination des dispositions légales relatives aux maladies professionnelles, art. 49, al, 1er.)",
+        "La loi qui modifie les dispositions légales fixant le mode de calcul des indemnités dues à la suite d'une maladie professionnelle est, en principe, applicable au calcul de l'indemnité due en raison des conséquences d'une maladie professionnelle antérieure à sa mise en vigueur qui se produisent ou se prolongent après cette date, à moins qu'au momment de celle-ci les indemnités ne soient déjà définitivement fixées . (Code civil, art. 2.)"
+      ],
+      "abstractNL": [
+        "Het basisloon voor de vaststelling van de wegens een beroepsziekte verschuldigde vergoedingen wordt, in principe, op dezelfde wijze bepaald als de vergoeding die tot basis dient voor de vaststelling van de wegens een arbeidsongeval of een ongeval op de weg naar en van het werk verschuldigde vergoedingen. ( Koninklijk besluit van 3 juni 1970 houdende coordinatie van de wetsbepalingen betreffende de beroepsziekten, art. 49, lid 1. )",
+        "De wet tot wijziging van de wettelijke bepalingen inzake de vaststelling van de wijze waarop de wegens een beroepsziekte verschuldigde vergoedingen worden berekend, is, in principe, van toepassing op de berekening van de vergoeding verschuldigd wegens de gevolgen van een voor haar inwerkingtreding gebleken ziekte die zich na deze datum voordoen of voortduren, tenzij de vergoedingen op dat ogenblik reeds definitief waren vastgesteld . ( B.W., art. 2. )"
+      ]
+    }
+  },
+  "67": {
+    "ECLI:BE:CASS:1975:ARR.19750611.4": {
+      "court": "CASS",
+      "date": "1975-06-11",
+      "roleNumber": "5277",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/11/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Sauf disposition contraire, l'organisme assureur doit constituer le capital sur base du tarif applicable au moment de sa constitution effective, quel que soit le délai prévu par la loi pour cette constitution. La valeur de la rente dont un tiers est payé en capital à la victime est calculée sur la base du même tarif que celui qui est appliqué par la constitution du capital. Si le capital de la rente allouée à la victime n'avait pas encore été constitué le 31 décembre 1971, la valeur du capital payable à la victime doit être calculée conformément au tarif applicable depuis le 1er janvier 1972."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830912.11": {
+      "court": "CASS",
+      "date": "1983-09-12",
+      "roleNumber": "4105",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/12/sitemap_11.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
-        "Behoudens andersluidende bepaling moet het kapitaal ter waarborging van de uitbetaling van de rente voor blijvende arbeidsongeschiktheid gevestigd worden overeenkomstig het tarief toepasselijk op het ogenblik dat de vestiging in werkelijkheid geschiedt, ongeacht de termijn binnen welke de vestiging krachtens de wet diende te gebeuren. De berekening van een derde van de waarde der rente in kapitaal dient te geschieden volgens hetzelfde tarief dat voor de vestiging van het kapitaal geldt. Indien het kapitaal op 1 januari 1972 nog niet gevestigd was, behoort het kapitaal overeenstemmend met een derde van de rentewaarde berekend te worden overeenkomstig de tarieven die vanaf 1 januari 1972 op grond van de nieuwe arbeidsongevallenwet van 1971 van toepassing zijn."
+        "Het artikel 58 paragraaf 1, 7 en 8 van de arbeidsongevallenwet draagt het fonds voor arbeidsongevallen op aan de door een arbeidsongeval getroffen werknemers en hun rechthebbenden bijslagen en sociale bijstand te verlenen onder de voorwaarden bepaald door de Koning. De toekenning van deze voordelen wordt geregeld door het K.B. van 21 december 1971 betreffende de bijslagen en de sociale bijstand verleend door het fonds voor arbeidsongevallen. De omstandigheid dat het fonds voor arbeidsongevallen belast is met de toekenning van die voordelen aan de gerechtigden die onder de arbeidsongevallenwet vallen, doet niets af van de verplichting van dit fonds om, met toepassing van artikel 169 van het werkloosheidsbesluit, dezelfde voordelen te verlenen aan de tewerkgestelde werklozen die door een arbeidsongeval zijn getroffen."
       ]
     },
     "ECLI:BE:CASS:1983:ARR.19830912.6": {

@@ -5087,6 +5087,20 @@
       "abstractNL": [
         "De wetten waarvan toepassing wordt gevraagd, worden in de regel uitgelegd door de rechter en niet door het Arbitragehof. (Art. 26 Bijzondere Wet Arbitragehof)."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011203.2": {
+      "court": "CASS",
+      "date": "2001-12-03",
+      "roleNumber": "F990081F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, de la réponse de la Cour d'arbitrage à une question préjudicielle proposée par le demandeur en cassation, il ne pourrait en aucun cas se déduire que le moyen serait de nature à entraîner la cassation de la décision contre laquelle le pourvoi est dirigé, parce que la question repose sur une hypothèse erronée, la Cour de cassation n'est pas obligée de poser la question (1)."
+      ],
+      "abstractNL": [
+        "Wanneer uit het antwoord van het Arbitragehof op een door eiser tot cassatie voorgestelde prejudiciële vraag in geen geval zou kunnen worden afgeleid dat het middel kan leiden tot de vernietiging van de beslissing waartegen de voorziening gericht is omdat de vraag uitgaat van een verkeerde veronderstelling, is het Hof van Cassatie niet gehouden de vraag te stellen (1)."
+      ]
     }
   },
   "28": {
@@ -5355,20 +5369,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:2001:ARR.20011203.2": {
-      "court": "CASS",
-      "date": "2001-12-03",
-      "roleNumber": "F990081F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Lorsque, de la réponse de la Cour d'arbitrage à une question préjudicielle proposée par le demandeur en cassation, il ne pourrait en aucun cas se déduire que le moyen serait de nature à entraîner la cassation de la décision contre laquelle le pourvoi est dirigé, parce que la question repose sur une hypothèse erronée, la Cour de cassation n'est pas obligée de poser la question (1)."
-      ],
-      "abstractNL": [
-        "Wanneer uit het antwoord van het Arbitragehof op een door eiser tot cassatie voorgestelde prejudiciële vraag in geen geval zou kunnen worden afgeleid dat het middel kan leiden tot de vernietiging van de beslissing waartegen de voorziening gericht is omdat de vraag uitgaat van een verkeerde veronderstelling, is het Hof van Cassatie niet gehouden de vraag te stellen (1)."
-      ]
-    },
     "ECLI:BE:CASS:2002:ARR.20020510.8": {
       "court": "CASS",
       "date": "2002-05-10",

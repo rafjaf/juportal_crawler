@@ -31,6 +31,20 @@
       ]
     }
   },
+  "4": {
+    "ECLI:BE:CASS:1980:ARR.19801119.2": {
+      "court": "CASS",
+      "date": "1980-11-19",
+      "roleNumber": "88/107",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/19/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "In strafzaken dient de civielrechtelijk aansprakelijke partij haar cassatieberoep te doen betekenen aan de partij tegen wie het gericht is. Ten deze wordt de regelmatigheid van de betekening aan de burgerlijke partij onderzocht : \"Overwegende dat uit de processtukken blijkt dat overeenkomstig artikel IV, lid 2, van het protocol dat de bijlage vormt van het Verdrag tussen de Lid-Staten van de Europese Economische Gemeenschap betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, ondertekend te Brussel op 27 september 1968 en goedgekeurd door de wet van 13 januari 1971, twee afschriften van het exploot van betekening aan L., wonende te Fécamp in Frankrijk, van het uittreksel van het stuk houdende de verklaring tot voorziening van eiser, samen met een afschrift van dit stuk, door gerechtsdeurwaarder S., met woonplaats te Verviers, rechtstreeks werden toegezonden aan gerechtsdeurwaarder D., met woonplaats te Fécamp, met opdracht ze aan degene voor wie ze bestemd waren uit te reiken, maar dat uit de stukken waarop het Hof vermag acht te slaan niet blijkt dat de gerechtsdeurwaarder van de Staat, op wiens grondgebied degenen voor wie gezegde stukken bestemd waren zich bevond, overeenkomstig gezegd artikel IV, lid 2, een getuigschrift houdende vaststelling van de uitreiking van gezegde akten aan degene voor wie ze bestemd waren heeft doen toekomen aan de gerechtsdeurwaarder van de Staat van herkomst; \"Dat de regelmatigheid van die betekening derhalve niet is bewezen; \"Dat de voorziening niet ontvankelijk is.\""
+      ]
+    }
+  },
   "5": {
     "ECLI:BE:CASS:2011:ARR.20110107.8": {
       "court": "CASS",
@@ -129,6 +143,18 @@
       "abstractNL": [
         "In een geschil over de gevolgen van de schending door de concessiegever van een contract van concessie van alleenverkoop, is de verbintenis waarnaar moet worden gezien voor de toepassing van artikel 5, 1°, van het Verdrag van Brussel van 27 september 1968 betreffende de rechterlijke bevoegdheid, de verbintenis die uit het contract voortvloeit ten laste van de concessiegever en waarvan niet-nakoming wordt aangevoerd door de concessiehouder voor zijn vordering tot schadevergoeding of tot ontbinding van het contract."
       ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840119.8": {
+      "court": "CASS",
+      "date": "1984-01-19",
+      "roleNumber": "78/21961",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "En utilisant le terme \"obligation\", l'article 5, 1°, de la Convention du 27 septembre 1968 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, se réfère à l'obligation contractuelle servant de base à l'action judiciaire, c'est-à-dire à l'obligation du concédant correspondant au droit contractuel qui est invoqué pour justifier la demande du concessionnaire. En ce qui concerne les actions en paiement d'indemnités compensatoires, la Cour de justice C.E.E. laisse à la juridiction nationale le soin de vérifier si, d'après le droit applicable au contrat, il s'agit d'une obligation contractuelle autonome ou d'une obligation remplaçant l'obligation contractuelle inexécuté. Si, en cas de résiliation unilatérale d'un contrat de concession de vente exclusive à durée indéterminée, le paiement de l'indemnité prévue par l'article 2 de la loi du 27 juillet 1961 ne constitue pas une obligation contractuelle autonome mais a pour but de compenser la perte des avantages qu'un préavis raisonnable eût assurés à la partie évincée, il n'en est pas de même en ce qui concerne l'indemnité complémentaire prévue par l'article 3 de ladite loi. En effet, celle-ci est accordée au concessionnaire, principalement, en raison des plus-values qui, de toute façon, restent acquises au concédant après la résiliation du contrat. Ayant admis que l'obligation au paiement des indemnités complémentaires et celle qui est relative à l'octroi d'une indemnité compensatoire de préavis étaient indépendantes l'une de l'autre et présentaient des caractères différents, l'arrêt ne pouvait, sans contradiction, décider que toutes les indemnités sollicitées étaient les conséquences d'une seule et même obligation dont l'inexécution était invoquée pour justifier les demandes."
+      ],
+      "abstractNL": null
     }
   },
   "8": {
@@ -219,6 +245,22 @@
       "abstractNL": [
         "Wanneer een vraag over de uitlegging van een bepaling van het EG-Executieverdrag wordt opgeworpen voor het Hof van Cassatie en dit Hof een beslissing op dat punt voor zijn uitspraak noodzakelijk acht, is het in de regel ertoe gehouden het Hof van Justitie van de Europese Gemeenschappen te verzoeken over die vraag, bij wijze van prejudiciele beslissing, uitspraak te doen ( Art. 3 van het door de wet van 18 juli 1973 goedgekeurd Protocol van 3 juni 1971 betreffende de uitlegging van het EG-Executieverdrag door het Hof van Justitie. )."
       ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830714.3": {
+      "court": "CASS",
+      "date": "1983-07-14",
+      "roleNumber": "78/21961",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/07/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 17, premier alinéa, de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens que, dans le cas de contrat d'assurance conclu entre un assureur et un preneur d'assurance, stipulé par ce dernier pour lui-même et en faveur de tiers par rapport au contrat et contenant une clause de prorogation de compétence se référant à des litiges susceptibles d'être soulevés par lesdits tiers, ces derniers, même s'ils n'ont pas expressément souscrit la clause de prorogation de compétence, peuvent s'en prévaloir, dès lors qu'il a été satisfait à la condition de forme écrite, prévue par l'article 17 de la Convention, dans les rapports entre l'assureur et le preneur d'assurance, et que le consentement de l'assureur s'est manifesté clairement à cet égard. Publié avec un sommaire dont un extrait ci-dessus in R.J.C.J 1983, 2503 L'autre partie du sommaire est classée sous IX H, art. 18.",
+        "L'article 18 de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens qu'il permet au défendeur de contester non seulement la compétence, mais de présenter en même temps, à titre subsidiaire, une défense au fond, sans pour autant perdre le droit de soulever l'exception d'incompétence."
+      ],
+      "abstractNL": [
+        "Artikel 17, eerste alinea, van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat indien een verzekeringsovereenkomst tussen een verzekeraar en een verzekeringnemer, door laatstgenoemde gesloten voor zichzelf en ten behoeve van derden, een forumkeuzebeding bevat met betrekking tot door die derden in rechte te vervolgen geschillen, laatstgenoemden, ook al hebben zij het forumkeuzebeding niet uitdrukkelijk ondertekend, zich daarop kunnen beroepen indien aan het in artikel 17 EEG-Executieverdrag gestelde vereiste van schriftelijkheid is voldaan in de betrekking tussen verzekeraar en verzekeringnemer, en de verzekeraar duidelijk zijn instemming heeft betoond.",
+        "Artikel 18 van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat het de verweerder is toegestaan niet enkel de bevoegdheid te betwisten, doch tegelijkertijd ook, subsidiair, verweer ten gronde te voeren zonder daardoor het recht te verliezen een exceptie van onbevoegdheid op te werpen."
+      ]
     }
   },
   "18": {
@@ -234,6 +276,22 @@
       ],
       "abstractNL": [
         "Ook wanneer partijen bij overeenkomst een bevoegde buitenlandse rechter hebben aangewezen in de zin van art. 17 van het Verdrag tussen de Lid-Staten van de Europese Economische Gemeenschap ondertekend te Brussel op 27 september 1968, is de Belgische arbeidsrechtbank bevoegd om van een geschil inzake arbeidsovereenkomsten kennis te nemen, wanneer de verweerder voor die rechtbank verschenen is en de betwisting van bevoegdheid pas heeft opgeworpen in een latere conclusie dan die waarbij hij voordien zijn verweer ten gronde had voorgedragen. ( Art. 18 Executieverdrag van 27 september 1968, goedgekeurd bij de wet van 13 januari 1971. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830714.3": {
+      "court": "CASS",
+      "date": "1983-07-14",
+      "roleNumber": "78/21961",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/07/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 17, premier alinéa, de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens que, dans le cas de contrat d'assurance conclu entre un assureur et un preneur d'assurance, stipulé par ce dernier pour lui-même et en faveur de tiers par rapport au contrat et contenant une clause de prorogation de compétence se référant à des litiges susceptibles d'être soulevés par lesdits tiers, ces derniers, même s'ils n'ont pas expressément souscrit la clause de prorogation de compétence, peuvent s'en prévaloir, dès lors qu'il a été satisfait à la condition de forme écrite, prévue par l'article 17 de la Convention, dans les rapports entre l'assureur et le preneur d'assurance, et que le consentement de l'assureur s'est manifesté clairement à cet égard. Publié avec un sommaire dont un extrait ci-dessus in R.J.C.J 1983, 2503 L'autre partie du sommaire est classée sous IX H, art. 18.",
+        "L'article 18 de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens qu'il permet au défendeur de contester non seulement la compétence, mais de présenter en même temps, à titre subsidiaire, une défense au fond, sans pour autant perdre le droit de soulever l'exception d'incompétence."
+      ],
+      "abstractNL": [
+        "Artikel 17, eerste alinea, van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat indien een verzekeringsovereenkomst tussen een verzekeraar en een verzekeringnemer, door laatstgenoemde gesloten voor zichzelf en ten behoeve van derden, een forumkeuzebeding bevat met betrekking tot door die derden in rechte te vervolgen geschillen, laatstgenoemden, ook al hebben zij het forumkeuzebeding niet uitdrukkelijk ondertekend, zich daarop kunnen beroepen indien aan het in artikel 17 EEG-Executieverdrag gestelde vereiste van schriftelijkheid is voldaan in de betrekking tussen verzekeraar en verzekeringnemer, en de verzekeraar duidelijk zijn instemming heeft betoond.",
+        "Artikel 18 van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat het de verweerder is toegestaan niet enkel de bevoegdheid te betwisten, doch tegelijkertijd ook, subsidiair, verweer ten gronde te voeren zonder daardoor het recht te verliezen een exceptie van onbevoegdheid op te werpen."
       ]
     }
   },
@@ -406,46 +464,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1984:ARR.19840119.8": {
-      "court": "CASS",
-      "date": "1984-01-19",
-      "roleNumber": "78/21961",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "En utilisant le terme \"obligation\", l'article 5, 1°, de la Convention du 27 septembre 1968 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, se réfère à l'obligation contractuelle servant de base à l'action judiciaire, c'est-à-dire à l'obligation du concédant correspondant au droit contractuel qui est invoqué pour justifier la demande du concessionnaire. En ce qui concerne les actions en paiement d'indemnités compensatoires, la Cour de justice C.E.E. laisse à la juridiction nationale le soin de vérifier si, d'après le droit applicable au contrat, il s'agit d'une obligation contractuelle autonome ou d'une obligation remplaçant l'obligation contractuelle inexécuté. Si, en cas de résiliation unilatérale d'un contrat de concession de vente exclusive à durée indéterminée, le paiement de l'indemnité prévue par l'article 2 de la loi du 27 juillet 1961 ne constitue pas une obligation contractuelle autonome mais a pour but de compenser la perte des avantages qu'un préavis raisonnable eût assurés à la partie évincée, il n'en est pas de même en ce qui concerne l'indemnité complémentaire prévue par l'article 3 de ladite loi. En effet, celle-ci est accordée au concessionnaire, principalement, en raison des plus-values qui, de toute façon, restent acquises au concédant après la résiliation du contrat. Ayant admis que l'obligation au paiement des indemnités complémentaires et celle qui est relative à l'octroi d'une indemnité compensatoire de préavis étaient indépendantes l'une de l'autre et présentaient des caractères différents, l'arrêt ne pouvait, sans contradiction, décider que toutes les indemnités sollicitées étaient les conséquences d'une seule et même obligation dont l'inexécution était invoquée pour justifier les demandes."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1983:ARR.19830714.3": {
-      "court": "CASS",
-      "date": "1983-07-14",
-      "roleNumber": "78/21961",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/07/14/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "L'article 17, premier alinéa, de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens que, dans le cas de contrat d'assurance conclu entre un assureur et un preneur d'assurance, stipulé par ce dernier pour lui-même et en faveur de tiers par rapport au contrat et contenant une clause de prorogation de compétence se référant à des litiges susceptibles d'être soulevés par lesdits tiers, ces derniers, même s'ils n'ont pas expressément souscrit la clause de prorogation de compétence, peuvent s'en prévaloir, dès lors qu'il a été satisfait à la condition de forme écrite, prévue par l'article 17 de la Convention, dans les rapports entre l'assureur et le preneur d'assurance, et que le consentement de l'assureur s'est manifesté clairement à cet égard. Publié avec un sommaire dont un extrait ci-dessus in R.J.C.J 1983, 2503 L'autre partie du sommaire est classée sous IX H, art. 18.",
-        "L'article 18 de la Convention du 27 septembre 1968, concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, doit être interprété en ce sens qu'il permet au défendeur de contester non seulement la compétence, mais de présenter en même temps, à titre subsidiaire, une défense au fond, sans pour autant perdre le droit de soulever l'exception d'incompétence."
-      ],
-      "abstractNL": [
-        "Artikel 17, eerste alinea, van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat indien een verzekeringsovereenkomst tussen een verzekeraar en een verzekeringnemer, door laatstgenoemde gesloten voor zichzelf en ten behoeve van derden, een forumkeuzebeding bevat met betrekking tot door die derden in rechte te vervolgen geschillen, laatstgenoemden, ook al hebben zij het forumkeuzebeding niet uitdrukkelijk ondertekend, zich daarop kunnen beroepen indien aan het in artikel 17 EEG-Executieverdrag gestelde vereiste van schriftelijkheid is voldaan in de betrekking tussen verzekeraar en verzekeringnemer, en de verzekeraar duidelijk zijn instemming heeft betoond.",
-        "Artikel 18 van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken moet aldus worden uitgelegd, dat het de verweerder is toegestaan niet enkel de bevoegdheid te betwisten, doch tegelijkertijd ook, subsidiair, verweer ten gronde te voeren zonder daardoor het recht te verliezen een exceptie van onbevoegdheid op te werpen."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19801119.2": {
-      "court": "CASS",
-      "date": "1980-11-19",
-      "roleNumber": "88/107",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/19/sitemap_1.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "In strafzaken dient de civielrechtelijk aansprakelijke partij haar cassatieberoep te doen betekenen aan de partij tegen wie het gericht is. Ten deze wordt de regelmatigheid van de betekening aan de burgerlijke partij onderzocht : \"Overwegende dat uit de processtukken blijkt dat overeenkomstig artikel IV, lid 2, van het protocol dat de bijlage vormt van het Verdrag tussen de Lid-Staten van de Europese Economische Gemeenschap betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, ondertekend te Brussel op 27 september 1968 en goedgekeurd door de wet van 13 januari 1971, twee afschriften van het exploot van betekening aan L., wonende te Fécamp in Frankrijk, van het uittreksel van het stuk houdende de verklaring tot voorziening van eiser, samen met een afschrift van dit stuk, door gerechtsdeurwaarder S., met woonplaats te Verviers, rechtstreeks werden toegezonden aan gerechtsdeurwaarder D., met woonplaats te Fécamp, met opdracht ze aan degene voor wie ze bestemd waren uit te reiken, maar dat uit de stukken waarop het Hof vermag acht te slaan niet blijkt dat de gerechtsdeurwaarder van de Staat, op wiens grondgebied degenen voor wie gezegde stukken bestemd waren zich bevond, overeenkomstig gezegd artikel IV, lid 2, een getuigschrift houdende vaststelling van de uitreiking van gezegde akten aan degene voor wie ze bestemd waren heeft doen toekomen aan de gerechtsdeurwaarder van de Staat van herkomst; \"Dat de regelmatigheid van die betekening derhalve niet is bewezen; \"Dat de voorziening niet ontvankelijk is.\""
-      ]
-    },
     "ECLI:BE:CASS:1997:ARR.19971204.7": {
       "court": "CASS",
       "date": "1997-12-04",

@@ -1,17 +1,21 @@
 {
-  "general": {
-    "ECLI:BE:CASS:1993:ARR.19930315.6": {
+  "1": {
+    "ECLI:BE:CASS:1966:ARR.19661202.2": {
       "court": "CASS",
-      "date": "1993-03-15",
-      "roleNumber": "8243",
+      "date": "1966-12-02",
+      "roleNumber": "2368;2568BIS",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/15/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/02/sitemap_3.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La pesanteur ne constitue pas, par elle-même, la force extérieure dont l'action est requise pour qu'il y ait, au sens de la loi, accident du travail."
+      ],
       "abstractNL": [
-        "De beslissing dat het basisloon voor de berekening van de arbeidsongevallenvergoeding dient te worden bepaald met toepassing van art. 6, derde lid, Gecoördineerde Wetten van 28 september 1931 (thans art. 36, alinéa 3, Arbeidsongevallenwet 1O april 1971) is niet naar recht verantwoord, wanneer niet wordt vastgesteld dat het ongeval is gebeurd in een onderneming waar slechts gedurende een beperkte tijd van het jaar wordt gewerkt."
+        "De zwaartekracht maakt op zichzelf de uitwendige kracht niet uit waarvan de uitwerking vereist wordt tot het bestaan van een arbeidsongeval in de zin van de wet."
       ]
-    },
+    }
+  },
+  "6": {
     "ECLI:BE:CASS:1977:ARR.19770302.12": {
       "court": "CASS",
       "date": "1977-03-02",
@@ -27,7 +31,9 @@
         "Het basisloon voor de vaststelling van de wegens een beroepsziekte verschuldigde vergoedingen wordt, in principe, op dezelfde wijze bepaald als de vergoeding die tot basis dient voor de vaststelling van de wegens een arbeidsongeval of een ongeval op de weg naar en van het werk verschuldigde vergoedingen. ( Koninklijk besluit van 3 juni 1970 houdende coordinatie van de wetsbepalingen betreffende de beroepsziekten, art. 49, lid 1. )",
         "De wet tot wijziging van de wettelijke bepalingen inzake de vaststelling van de wijze waarop de wegens een beroepsziekte verschuldigde vergoedingen worden berekend, is, in principe, van toepassing op de berekening van de vergoeding verschuldigd wegens de gevolgen van een voor haar inwerkingtreding gebleken ziekte die zich na deze datum voordoen of voortduren, tenzij de vergoedingen op dat ogenblik reeds definitief waren vastgesteld . ( B.W., art. 2. )"
       ]
-    },
+    }
+  },
+  "9": {
     "ECLI:BE:CASS:1974:ARR.19740106.1": {
       "court": "CASS",
       "date": "1974-01-06",
@@ -40,6 +46,70 @@
       ],
       "abstractNL": [
         "1° Het arbeidsongeval, in de zin van de gecoordineerde wetten betreffende de vergoeding der schade voortspruitende uit arbeidsongevallen, is een plotselinge gebeurtenis die een lichamelijk letsel doet ontstaan en waarvan de oorzaak of een van de oorzaken buiten het organisme van de getroffene ligt (1). (Art. 1 gecoordineerde wetten van 28 september 1931.) 2° Onder de gelding van artikel 1 van de wetten betreffende de vergoeding der schade voortspruitende uit arbeidsongevallen, gecoordineerd op 28 september 1931, moesten de getroffene of zijn rechthebbenden het bewijs leveren enerzijds dat de oorzaak of een van de oorzaken van het ongeval buiten het organisme van de getroffene lag (2), en anderzijds dat de schade uit dit ongeval voortvloeide (3). 3° Uit de omstandigheid dat een werknemer overleden is ten gevolge van een val wegens de krachtinspanning die hij heeft moeten leveren om tijdens zijn werk een gewicht op te heffen, kan worden afgeleid dat het ongeval te wijten is aan een oorzaak buiten het organisme van de getroffene (4)."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1967:ARR.19670116.6": {
+      "court": "CASS",
+      "date": "1967-01-16",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/16/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Is niet regelmatig met redenen omkleed het arrest dat de derde aansprakelijke voor een arbeidsongeval ertoe veroordeelt aan de verzekeraar tegen arbeidsongevallen de door het arrest vastgestelde som te betalen en hierbij enkel doet gelden dat de verzekeraar tegen arbeidsongevallen, die in de rechten treedt van de weduwe van het slachtoffer, ertoe gerechtigd is de terugbetaling te eisen van de sommen die hij aan deze weduwe krachtens zijn wettelijke verplichtingen heeft betaald, terwijl deze derde in conclusie had doen gelden dat een gedeelte van de gevorderde som om de opgegeven reden geen forfaitaire vergoeding was zoals zij wordt voorzien in de wet op de schadevergoeding wegens arbeidsongevallen en waarvan de verzekeraar tegen arbeidsongevallen het recht heeft de terugbetaling te vorderen. (Grondwet, art. 97.)"
+      ]
+    }
+  },
+  "24": {
+    "ECLI:BE:CASS:1967:ARR.19670113.1": {
+      "court": "CASS",
+      "date": "1967-01-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans l'article 24 des lois coordonnées sur la réparation des dommages résultant des accidents du travail, le risque dérivant desdites lois s'entend, en ce qui concerne l'assurance, de l'éventualité d'un événement à la réalisation duquel est subordonnée l'obligation de l'assureur d'effectuer la prestation convenue au contrat d'assurance.",
+        "Lorsque l'assurance contractée par le chef d'entreprise pour le payement des allocations prévues par la législation sur la réparation des dommages résultant des accidents du travail ou des accidents survenus sur le chemin du travail stipule des avantages complémentaires en faveur de la victime ou de ses ayants droit, l'action en payement tant des indemnités forfaitaires que des avantages complémentaires est de la compétence du juge de paix. (Lois coordonnées sur la réparation des dommages résultant des accidents du travail, art. 24.)"
+      ],
+      "abstractNL": [
+        "In artikel 24 van de gecoördineerde wetten op de vergoeding der schade voortspruitende uit de arbeidsongevallen, moet door \" risico voortspruitende uit deze wet \" verstaan worden, wat de verzekering betreft, de mogelijkheid van een gebeurtenis van de verwezenlijking waarvan de verbintenis van de verzekeraar tot het uitvoeren van de in het contract overeengekomen prestatie afhankelijk is.",
+        "Wanneer de door het bedrijfshoofd overeengekomen verzekering tot betaling van de vergoedingen bedoeld bij de wetgeving op de vergoeding van de schade voortspruitende uit de arbeidsongevallen of uit de ongevallen die zich op de weg naar of van het werk voordoen, aanvullende voordelen ten gunste van het slachtoffer of van zijn rechthebbenden bedingt, behoort de vordering tot betaling zowel van de forfaitaire vergoedingen als van de aanvullende voordelen tot de bevoegdheid van de vrederechter. (Gecoördineerde wetten op de vergoeding van de schade voortspruitende uit de arbeidsongevallen, art. 24.)"
+      ]
+    }
+  },
+  "49": {
+    "ECLI:BE:CASS:1977:ARR.19770302.12": {
+      "court": "CASS",
+      "date": "1977-03-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le salaire de base servant à la fixation des indemnités dues à la suite d'une maladie professionnelle doit, en principe, être calculé de la même manière que l'indemnité servant de base à la fixation des indemnités dues en raison d'un accident du travail ou d'un accident survenu sur le chemin du travail . (Arr. roy. du 3 juin 1970 portant coordination des dispositions légales relatives aux maladies professionnelles, art. 49, al, 1er.)",
+        "La loi qui modifie les dispositions légales fixant le mode de calcul des indemnités dues à la suite d'une maladie professionnelle est, en principe, applicable au calcul de l'indemnité due en raison des conséquences d'une maladie professionnelle antérieure à sa mise en vigueur qui se produisent ou se prolongent après cette date, à moins qu'au momment de celle-ci les indemnités ne soient déjà définitivement fixées . (Code civil, art. 2.)"
+      ],
+      "abstractNL": [
+        "Het basisloon voor de vaststelling van de wegens een beroepsziekte verschuldigde vergoedingen wordt, in principe, op dezelfde wijze bepaald als de vergoeding die tot basis dient voor de vaststelling van de wegens een arbeidsongeval of een ongeval op de weg naar en van het werk verschuldigde vergoedingen. ( Koninklijk besluit van 3 juni 1970 houdende coordinatie van de wetsbepalingen betreffende de beroepsziekten, art. 49, lid 1. )",
+        "De wet tot wijziging van de wettelijke bepalingen inzake de vaststelling van de wijze waarop de wegens een beroepsziekte verschuldigde vergoedingen worden berekend, is, in principe, van toepassing op de berekening van de vergoeding verschuldigd wegens de gevolgen van een voor haar inwerkingtreding gebleken ziekte die zich na deze datum voordoen of voortduren, tenzij de vergoedingen op dat ogenblik reeds definitief waren vastgesteld . ( B.W., art. 2. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1993:ARR.19930315.6": {
+      "court": "CASS",
+      "date": "1993-03-15",
+      "roleNumber": "8243",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/15/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De beslissing dat het basisloon voor de berekening van de arbeidsongevallenvergoeding dient te worden bepaald met toepassing van art. 6, derde lid, Gecoördineerde Wetten van 28 september 1931 (thans art. 36, alinéa 3, Arbeidsongevallenwet 1O april 1971) is niet naar recht verantwoord, wanneer niet wordt vastgesteld dat het ongeval is gebeurd in een onderneming waar slechts gedurende een beperkte tijd van het jaar wordt gewerkt."
       ]
     },
     "ECLI:BE:CASS:1973:ARR.19731219.18": {
@@ -90,34 +160,6 @@
         "Een arbeider nog ongeschikt voor de arbeid wegens een vroeger arbeidsongeval wordt getroffen door een ongeval op het ogenblik dat hij naar huis terugkeert na een bezoek aan de dokter in verband met de gevolgen van het vroegere arbeidsongeval. De omstandigheid dat het raadplegen van de dokter tot doel had de arbeider in staat te stellen de arbeid opnieuw te kunnen verrichten, impliceert niet dat hij op het ogenblik van het ongeval, onder het gezag, de leiding en het toezicht van de werkgever stond. De rechter heeft wettelijk beslist dat de arbeidsongevallenwet niet kan toegepast worden omdat alleen de ongevallen, gebeurd in de loop en door het feit van de uitvoering van de arbeidsovereenkomst in aanmerking komen en er bij het beschouwde ongeval geen spraak kan zijn van de uitvoering van een arbeidsovereenkomst aangezien deze precies in haar uitvoering was geschorst door een arbeidsongeschiktheid van de arbeider. Uit de enkele door de rechter vastgestelde omstandigheid dat het ongeval plaats vond op een ogenblik dat de arbeider naar huis terugkeerde nadat hij een dokter had geraadpleegd in verband met de gevolgen van een vroeger arbeidsongeval, kan niet worden afgeleid dat het ongeval overkomen is op de weg van het werk."
       ]
     },
-    "ECLI:BE:CASS:1967:ARR.19670116.6": {
-      "court": "CASS",
-      "date": "1967-01-16",
-      "roleNumber": "2368;2568BIS",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/16/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Is niet regelmatig met redenen omkleed het arrest dat de derde aansprakelijke voor een arbeidsongeval ertoe veroordeelt aan de verzekeraar tegen arbeidsongevallen de door het arrest vastgestelde som te betalen en hierbij enkel doet gelden dat de verzekeraar tegen arbeidsongevallen, die in de rechten treedt van de weduwe van het slachtoffer, ertoe gerechtigd is de terugbetaling te eisen van de sommen die hij aan deze weduwe krachtens zijn wettelijke verplichtingen heeft betaald, terwijl deze derde in conclusie had doen gelden dat een gedeelte van de gevorderde som om de opgegeven reden geen forfaitaire vergoeding was zoals zij wordt voorzien in de wet op de schadevergoeding wegens arbeidsongevallen en waarvan de verzekeraar tegen arbeidsongevallen het recht heeft de terugbetaling te vorderen. (Grondwet, art. 97.)"
-      ]
-    },
-    "ECLI:BE:CASS:1967:ARR.19670113.1": {
-      "court": "CASS",
-      "date": "1967-01-13",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/13/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Dans l'article 24 des lois coordonnées sur la réparation des dommages résultant des accidents du travail, le risque dérivant desdites lois s'entend, en ce qui concerne l'assurance, de l'éventualité d'un événement à la réalisation duquel est subordonnée l'obligation de l'assureur d'effectuer la prestation convenue au contrat d'assurance.",
-        "Lorsque l'assurance contractée par le chef d'entreprise pour le payement des allocations prévues par la législation sur la réparation des dommages résultant des accidents du travail ou des accidents survenus sur le chemin du travail stipule des avantages complémentaires en faveur de la victime ou de ses ayants droit, l'action en payement tant des indemnités forfaitaires que des avantages complémentaires est de la compétence du juge de paix. (Lois coordonnées sur la réparation des dommages résultant des accidents du travail, art. 24.)"
-      ],
-      "abstractNL": [
-        "In artikel 24 van de gecoördineerde wetten op de vergoeding der schade voortspruitende uit de arbeidsongevallen, moet door \" risico voortspruitende uit deze wet \" verstaan worden, wat de verzekering betreft, de mogelijkheid van een gebeurtenis van de verwezenlijking waarvan de verbintenis van de verzekeraar tot het uitvoeren van de in het contract overeengekomen prestatie afhankelijk is.",
-        "Wanneer de door het bedrijfshoofd overeengekomen verzekering tot betaling van de vergoedingen bedoeld bij de wetgeving op de vergoeding van de schade voortspruitende uit de arbeidsongevallen of uit de ongevallen die zich op de weg naar of van het werk voordoen, aanvullende voordelen ten gunste van het slachtoffer of van zijn rechthebbenden bedingt, behoort de vordering tot betaling zowel van de forfaitaire vergoedingen als van de aanvullende voordelen tot de bevoegdheid van de vrederechter. (Gecoördineerde wetten op de vergoeding van de schade voortspruitende uit de arbeidsongevallen, art. 24.)"
-      ]
-    },
     "ECLI:BE:CASS:1966:ARR.19661209.1": {
       "court": "CASS",
       "date": "1966-12-09",
@@ -130,20 +172,6 @@
       ],
       "abstractNL": [
         "Aangezien artikel 19, lid 4, van de gecoördineerde wetten betreffende de vergoeding der schade voortspruitende uit de arbeidsongevallen, het cumuleren verbiedt van de krachtens bedoelde wetten toegekende forfaitaire vergoedingen met de vergoedingen naar gemeen recht toegekend wegens materiële schade, moet de rechter, die uitspraak dient te doen op een eis tot forfaitaire vergoeding, nagaan of de schade waarvan de correctionele rechter het herstel heeft bevolen onder de benaming van \" morele schade \" niet dezelfde is, althans gedeeltelijk, als die tot herstel waarvan een forfaitaire vergoeding wordt gevorderd."
-      ]
-    },
-    "ECLI:BE:CASS:1966:ARR.19661202.2": {
-      "court": "CASS",
-      "date": "1966-12-02",
-      "roleNumber": "2368;2568BIS",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/02/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "La pesanteur ne constitue pas, par elle-même, la force extérieure dont l'action est requise pour qu'il y ait, au sens de la loi, accident du travail."
-      ],
-      "abstractNL": [
-        "De zwaartekracht maakt op zichzelf de uitwendige kracht niet uit waarvan de uitwerking vereist wordt tot het bestaan van een arbeidsongeval in de zin van de wet."
       ]
     },
     "ECLI:BE:CASS:1966:ARR.19660926.12": {

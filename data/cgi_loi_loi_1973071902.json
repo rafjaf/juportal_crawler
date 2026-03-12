@@ -1,4 +1,18 @@
 {
+  "10": {
+    "ECLI:BE:CASS:1982:ARR.19820208.2": {
+      "court": "CASS",
+      "date": "1982-02-08",
+      "roleNumber": "3038",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/08/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het middel dat ervan uitgaat dat artikel 52,  1, van de wetten op het gebruik van de talen in bestuurszaken toepassing vindt op grond dat de zetel van eiseres te Brussel-Hoofdstad is gevestigd, wordt om volgende redenen niet-ontvankelijk verklaard. Voor de toepassing van de vermelde wetsbepaling is vereist dat de exploitatiezetel van het bedrijf te Brussel-Hoofdstad is gevestigd; uit het arrest blijkt wel dat de maatschappelijke zetel van eiseres te Brussel-Hoofdstad is gevestigd, doch niet dat eiseres aldaar ook een exploitatiezetel heeft; dit feitelijke gegeven waarop het middel steunt, blijkt evenmin uit enig ander stuk waarop het Hof vermag acht te slaan; het onderzoek van het middel zou het Hof ertoe verplichten feitelijke vaststellingen te doen, waartoe het niet bevoegd is."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1985:ARR.19850121.1": {
       "court": "CASS",
@@ -34,18 +48,6 @@
       "abstractFR": null,
       "abstractNL": [
         "Gemeenschapsdecreten betreffende het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en hun personeel, alsmede de door de wet en verordeningen voorgeschreven akten en bescheiden van de ondernemingen, hebben krachtens artikel 59bis, alinéa 4, tweede lid, van de Grondwet, kracht van wet, respectievelijk in het Nederlands taalgebied en in het Frans taalgebied, uitgezonderd, onder meer, wat betreft \"de diensten waarvan de werkkring verder reikt dan het taalgebied waarin zij gevestigd zijn\"; de term \"diensten\" in die grondwetsbepaling heeft dezelfde betekenis en inhoud als in de gecoordineerde wetten op het gebruik van talen in bestuurszaken. Voor de toepassing van deze bepalingen komt de werkkring en niet de lokalisering van de dienst in aanmerking. Het arrest stelt vast dat de dienst waar verweerder was tewerkgesteld, \"de export van goederen door (eiseres) van uit Zaventem, via de lucht, verzorgt\"; het leidt hieruit af dat de dienst \"geen andere pertinente binding met het nationaal grondgebied vertoont dan zijn lokalisering in het Nederlandse taalgebied\". Uit de omstandigheid dat het vervoer \"via de lucht\" geschiedt, volgt evenwel niet dat de werkkring van de dienst niet verder reikt dan de gemeente waar hij gelokaliseerd is, zodat het arbeidshof de in het onderdeel aangevochten beslissing derhalve niet naar recht verantwoordt."
-      ]
-    },
-    "ECLI:BE:CASS:1982:ARR.19820208.2": {
-      "court": "CASS",
-      "date": "1982-02-08",
-      "roleNumber": "3038",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/08/sitemap_4.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het middel dat ervan uitgaat dat artikel 52,  1, van de wetten op het gebruik van de talen in bestuurszaken toepassing vindt op grond dat de zetel van eiseres te Brussel-Hoofdstad is gevestigd, wordt om volgende redenen niet-ontvankelijk verklaard. Voor de toepassing van de vermelde wetsbepaling is vereist dat de exploitatiezetel van het bedrijf te Brussel-Hoofdstad is gevestigd; uit het arrest blijkt wel dat de maatschappelijke zetel van eiseres te Brussel-Hoofdstad is gevestigd, doch niet dat eiseres aldaar ook een exploitatiezetel heeft; dit feitelijke gegeven waarop het middel steunt, blijkt evenmin uit enig ander stuk waarop het Hof vermag acht te slaan; het onderzoek van het middel zou het Hof ertoe verplichten feitelijke vaststellingen te doen, waartoe het niet bevoegd is."
       ]
     },
     "ECLI:BE:CASS:1981:ARR.19810105.7": {

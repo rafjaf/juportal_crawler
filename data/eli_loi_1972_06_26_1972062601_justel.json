@@ -1,17 +1,5 @@
 {
-  "general": {
-    "ECLI:BE:CASS:1982:ARR.19820215.12": {
-      "court": "CASS",
-      "date": "1982-02-15",
-      "roleNumber": "6515",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/15/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "L'article 4, 3° b, de l'arrêté royal n° 50 relatif à la pension de retraite et de survie des travailleurs salariés disposait, dans son texte originaire, que la pension de retraite prend cours le premier jour du mois qui suit celui au cours duquel l'intéressé en fait la demande et au plus tôt le premier jour du mois qui suit celui au cours duquel l'intéressé justifie avoir été occupé habituellement et en ordre principal comme ouvrier mineur au fond des mines de houille pendant trente années. L'article 1er de la loi du 26 juin 1972 portant réduction du nombre d'années de services requis au fond des mines de houille pour l'octroi d'une pension de retraite complète a modifié l'article 4, 3° b, précité, mais uniquement en remplaçant \"trente\" par \"vingt-sept\". L'article 1er de la loi du 28 mars 1975, portant le même intitulé que la loi du 26 juin 1972, a remplacé \"vingt-sept\" par \"vingt-cinq\", sans modifier les autres règles contenues dans ledit article 4, 3° b. L'article 5, alinéa 1er, de ladite loi du 28 mars 1975 prévoit que les dispositions de l'article 1er sont appliquées d'office par l'Office national des pensions pour travailleurs salariés aux personnes dont les droits à la pension n'ont pas encore fait l'objet d'une décision administrative à la date d'entrée en vigueur de la présente loi. Cette disposition se borne, dans les cas ou il n'y a pas encore eu de décision administrative, à prévoir l'application immédiate de l'article 1er réduisant le délai d'occupation exigé de vingt-sept à vingt-cinq années; elle ne modifie pas la règle contenue dans l'article 4, 3° b, précité, suivant laquelle la pension ne prend cours que le premier jour du mois qui suit celui au cours duquel l'intéressé a fait la demande. L'article 5, alinéa 2, qui permet d'obtenir l'application de l'article 1er, réduisant le délai d'occupation exigé de vingt-sept à vingt-cinq années, à la date du 1er avril 1975 si la demande est introduite avant le 1er janvier 1976, ne vise que les personnes dont les droits à la pension ont déjà fait l'objet d'une décision administrative à la date du 1er avril 1975. En décidant que \"le profit de la rétroactivité d'effet de la demande au 1er avril 1975 n'est pas réservé aux seules personnes ayant fait l'objet d'une décision administrative avant le 1er avril 1975\", l'arrêt viole les dispositions légales invoquées au moyen."
-      ],
-      "abstractNL": null
-    },
+  "1": {
     "ECLI:BE:CASS:1977:ARR.19770622.10": {
       "court": "CASS",
       "date": "1977-06-22",
@@ -23,6 +11,20 @@
       "abstractNL": [
         "Art. 145, alinéa 1, lid 2, K.B. van 20 december 1963 bepaalt dat de mannelijke werknemer die aanspraak kan doen gelden op een pensioen vóór zijn 65e jaar, geen recht meer heeft op werkloosheidsuitkering vanaf de eerste dag van de kalendermaand volgend op de datum waarop hij de pensioengerechtigde leeftijd bereikt. De mogelijkheid nuttig de aanvraag te doen volstaat, zodat de werknemer zijn recht op werkloosheidsuitkering niet verder behoudt doordat de wetgeving op het rust- en overlevingspensioen de werknemer de mogelijkheid biedt zijn aanvraag van een volledig rustpensioen niet onmiddellijk in te dienen wanneer hij daartoe gerechtigd wordt."
       ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1982:ARR.19820215.12": {
+      "court": "CASS",
+      "date": "1982-02-15",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 4, 3° b, de l'arrêté royal n° 50 relatif à la pension de retraite et de survie des travailleurs salariés disposait, dans son texte originaire, que la pension de retraite prend cours le premier jour du mois qui suit celui au cours duquel l'intéressé en fait la demande et au plus tôt le premier jour du mois qui suit celui au cours duquel l'intéressé justifie avoir été occupé habituellement et en ordre principal comme ouvrier mineur au fond des mines de houille pendant trente années. L'article 1er de la loi du 26 juin 1972 portant réduction du nombre d'années de services requis au fond des mines de houille pour l'octroi d'une pension de retraite complète a modifié l'article 4, 3° b, précité, mais uniquement en remplaçant \"trente\" par \"vingt-sept\". L'article 1er de la loi du 28 mars 1975, portant le même intitulé que la loi du 26 juin 1972, a remplacé \"vingt-sept\" par \"vingt-cinq\", sans modifier les autres règles contenues dans ledit article 4, 3° b. L'article 5, alinéa 1er, de ladite loi du 28 mars 1975 prévoit que les dispositions de l'article 1er sont appliquées d'office par l'Office national des pensions pour travailleurs salariés aux personnes dont les droits à la pension n'ont pas encore fait l'objet d'une décision administrative à la date d'entrée en vigueur de la présente loi. Cette disposition se borne, dans les cas ou il n'y a pas encore eu de décision administrative, à prévoir l'application immédiate de l'article 1er réduisant le délai d'occupation exigé de vingt-sept à vingt-cinq années; elle ne modifie pas la règle contenue dans l'article 4, 3° b, précité, suivant laquelle la pension ne prend cours que le premier jour du mois qui suit celui au cours duquel l'intéressé a fait la demande. L'article 5, alinéa 2, qui permet d'obtenir l'application de l'article 1er, réduisant le délai d'occupation exigé de vingt-sept à vingt-cinq années, à la date du 1er avril 1975 si la demande est introduite avant le 1er janvier 1976, ne vise que les personnes dont les droits à la pension ont déjà fait l'objet d'une décision administrative à la date du 1er avril 1975. En décidant que \"le profit de la rétroactivité d'effet de la demande au 1er avril 1975 n'est pas réservé aux seules personnes ayant fait l'objet d'une décision administrative avant le 1er avril 1975\", l'arrêt viole les dispositions légales invoquées au moyen."
+      ],
+      "abstractNL": null
     }
   }
 }

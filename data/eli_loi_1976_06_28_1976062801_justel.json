@@ -1,21 +1,20 @@
 {
-  "40": {
-    "ECLI:BE:CASS:1981:ARR.19810915.1": {
+  "1": {
+    "ECLI:BE:CASS:1979:ARR.19791113.13": {
       "court": "CASS",
-      "date": "1981-09-15",
-      "roleNumber": null,
+      "date": "1979-11-13",
+      "roleNumber": "2644",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/13/sitemap_14.xml"
       ],
-      "abstractFR": [
-        "Dans l'article 40, 2° de la loi du 28 juin 1976 portant réglementation provisoire du travail temporaire, du travail intérimaire et de la mise de travailleurs à la disposition d'utilisateurs, aux termes duquel la loi désigne les personnes pénalement responsables, les mots \"préposés ou mandataires\" visent les préposés ou mandataires investis de l'autorité ou des pouvoirs nécessaires pour veiller effectivement au respect de la loi, même si ces pouvoirs sont limités dans le temps ou dans l'espace. Conformément à la volonté du législateur, ne sont, en principe, pas pénalement responsables les préposés ou mandataires qui uniquement exécutent les ordres de l'exploitant de l'entreprise de travail intérimaire agréé ou des personnes susvisées."
-      ],
+      "abstractFR": null,
       "abstractNL": [
-        "In zoverre de wet van 28 juni 1976 de houder van het erkend uitzendbureau, alsmede diens aangestelden of lasthebbers, als strafrechtelijk verantwoordelijke personen aanwijst, betekenen de termen \"aangestelden of lasthebbers\" de aangestelden of lasthebbers die bekleed zijn met het gezag of de nodige bevoegdheid om effectief voor de naleving van de wet te waken, ook al is die bevoegdheid naar de tijd of naar de plaats beperkt. Het misdrijf bedoeld bij art. 40, 2ó, van die wet kan derhalve niet toegerekend worden aan de aangestelden of lasthebbers die louter op bevel van de houder van het uitzendbureau of van de vorenbedoelde aangestelden of lasthebbers handelen."
+        "Het door de wet van 26 januari 1951 georganiseerde toezicht beoogt alleen die werkgevers op wie de verplichting tot het bijhouden van een of meer van de documenten berust. Bedoeld worden de werkgevers die onderworpen zijn aan de wetten welke opgesomd worden in art. 1 van de wet en in art. 1 van het uitvoeringsbesluit van 12 november 1952. De wet van 28 juni 1976 (uitzendarbeid) komt onder de opgesomde wetten niet voor. Sommige van de opgesomde wetten beperken hun werkingssfeer tot de werkgevers die in België gevestigd zijn of in België een exploitatiezetel hebben en werknemers in België tewerkstellen. Zulks is met name het geval voor de wet van 27 juni 1969 betreffende de sociale zekerheid van de arbeiders.",
+        "Daar overtreding van art. 32, 1, van de wet van 28 juni 1976 (uitzendarbeid), hoewel gepleegd m.b.t. verschillende werknemers, krachtens de wet slechts een enkel misdrijf oplevert, waarop slechts één straf kan worden toegepast, kan de rechter, hoewel die straf, wat de geldboete betreft, vastgesteld wordt volgens het aantal werknemers of uitzendkrachten die in strijd met de wet zijn tewerkgesteld (art. 41 van de wet), wettig slechts één enkele vervangende gevangenisstraf uitspreken."
       ]
     }
   },
-  "general": {
+  "32": {
     "ECLI:BE:CASS:1982:ARR.19820415.3": {
       "court": "CASS",
       "date": "1982-04-15",
@@ -29,7 +28,9 @@
       "abstractNL": [
         "Art. 9 wet van 28 juni 1976 volgens hetwelk in de arbeidsovereenkomst voor uitzendarbeid de reden moet worden vermeld waarom de arbeidsovereenkomst van de vervangen bediende is geschorst, is slechts toepasselijk op de overeenkomst voor uitzendarbeid, die in art. 7 van die wet wordt omschreven als de overeenkomst die de uitzendkracht verbindt met het uitzendbureau, en niet de overeenkomst tussen de gebruiker en het uitzendbureau; daaruit volgt dat het ontbreken, in laatst bedoelde overeenkomst, van de reden waarom de overeenkomst van de vervangen bediende is geschorst, geen schending kan opleveren van art. 9 en dat die weglating, bijgevolg, niet kan leiden tot toepassing van art. 32."
       ]
-    },
+    }
+  },
+  "40": {
     "ECLI:BE:CASS:1981:ARR.19810915.1": {
       "court": "CASS",
       "date": "1981-09-15",
@@ -56,7 +57,9 @@
         "Het door de wet van 26 januari 1951 georganiseerde toezicht beoogt alleen die werkgevers op wie de verplichting tot het bijhouden van een of meer van de documenten berust. Bedoeld worden de werkgevers die onderworpen zijn aan de wetten welke opgesomd worden in art. 1 van de wet en in art. 1 van het uitvoeringsbesluit van 12 november 1952. De wet van 28 juni 1976 (uitzendarbeid) komt onder de opgesomde wetten niet voor. Sommige van de opgesomde wetten beperken hun werkingssfeer tot de werkgevers die in België gevestigd zijn of in België een exploitatiezetel hebben en werknemers in België tewerkstellen. Zulks is met name het geval voor de wet van 27 juni 1969 betreffende de sociale zekerheid van de arbeiders.",
         "Daar overtreding van art. 32, 1, van de wet van 28 juni 1976 (uitzendarbeid), hoewel gepleegd m.b.t. verschillende werknemers, krachtens de wet slechts een enkel misdrijf oplevert, waarop slechts één straf kan worden toegepast, kan de rechter, hoewel die straf, wat de geldboete betreft, vastgesteld wordt volgens het aantal werknemers of uitzendkrachten die in strijd met de wet zijn tewerkgesteld (art. 41 van de wet), wettig slechts één enkele vervangende gevangenisstraf uitspreken."
       ]
-    },
+    }
+  },
+  "41": {
     "ECLI:BE:CASS:1979:ARR.19790626.5": {
       "court": "CASS",
       "date": "1979-06-26",

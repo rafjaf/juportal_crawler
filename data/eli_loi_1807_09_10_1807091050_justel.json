@@ -71,6 +71,20 @@
       "abstractNL": [
         "Ook al zijn de makelaarsactiviteiten die bedoeld zijn om kopers op te sporen daden van koophandel, toch zijn ze in de regel niet verboden voor de notaris wiens taak erin bestaat de authentieke koopakte te verlijden; de notaris die genoemde activiteiten verricht, is niet onderworpen aan de verplichtingen van het koninklijk besluit van 6 september 1993 (1). (1) Zie concl. O.M., in Bull., 2010, AR C.09.0526, nr. ..."
       ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870612.6": {
+      "court": "CASS",
+      "date": "1987-06-12",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'activité consistant à acheter des poules pondeuses, de les élever avec de la nourriture achetée auprès de tiers pour revendre ensuite le produit de la ponte et les poules elles-mêmes après la période de ponte, est une activité commerciale. L'élevage de petit bétail n'est pas une transformation qui relève normalement des entreprises agricoles, lorsque les poules ne sont pas nourries par les produits d'une exploitation agricole propre à l'éleveur."
+      ],
+      "abstractNL": [
+        "De activiteit die erin bestaat leghennen te kopen, deze op batterijen te fokken met bij derden aangekocht voedsel om de eieren en na de legperiode ook de leghennen voort te verkopen is een handelsactiviteit. Kleinveeteelt is geen verwerking die normaal bij de landbouwbedrijven behoort, indien de kippen niet gevoederd werden met voortbrengselen van een eigen landbouwbedrijf."
+      ]
     }
   },
   "25": {
@@ -128,6 +142,20 @@
       ],
       "abstractNL": [
         "De regel dat de aanvaarde factuur het bewijs oplevert van de overeenkomst geldt enkel voor de handelskoop; voor andere handelsverrichtingen kan de rechter uit de aanvaarding van de factuur een feitelijk vermoeden putten en er het bewijs in vinden dat de schuldenaar zijn akkoord heeft gegeven met de in de factuur vermelde verbintenis (1). (1) Cass., 1 dec. 1967, A.C., 1968, 471; zie Cass., 7 jan. 2005, AR C.03.0129.N, A.C., 2005, nr 11."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710205.7": {
+      "court": "CASS",
+      "date": "1971-02-05",
+      "roleNumber": "73/7.424",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un rapport d'expertise, qui n'est pas opposable, comme tel, à une partie en raison de ce que l'expertise n'a pas été contradictoire vis-à-vis d'elle, peut valoir comme présomption en raison des circonstances dans lesquelles il a été établi."
+      ],
+      "abstractNL": [
+        "Een deskundig verslag dat als dusdanig niet tegenstelbaar is aan één der partijen omdat de expertise jegens haar niet tegensprekelijk was kan als vermoeden gelden ingevolge de omstandigheden waarin het werd opgesteld."
       ]
     }
   },
@@ -187,20 +215,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1987:ARR.19870612.6": {
-      "court": "CASS",
-      "date": "1987-06-12",
-      "roleNumber": "1253",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/12/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "L'activité consistant à acheter des poules pondeuses, de les élever avec de la nourriture achetée auprès de tiers pour revendre ensuite le produit de la ponte et les poules elles-mêmes après la période de ponte, est une activité commerciale. L'élevage de petit bétail n'est pas une transformation qui relève normalement des entreprises agricoles, lorsque les poules ne sont pas nourries par les produits d'une exploitation agricole propre à l'éleveur."
-      ],
-      "abstractNL": [
-        "De activiteit die erin bestaat leghennen te kopen, deze op batterijen te fokken met bij derden aangekocht voedsel om de eieren en na de legperiode ook de leghennen voort te verkopen is een handelsactiviteit. Kleinveeteelt is geen verwerking die normaal bij de landbouwbedrijven behoort, indien de kippen niet gevoederd werden met voortbrengselen van een eigen landbouwbedrijf."
-      ]
-    },
     "ECLI:BE:CASS:1980:ARR.19800306.13": {
       "court": "CASS",
       "date": "1980-03-06",
@@ -213,20 +227,6 @@
       ],
       "abstractNL": [
         "Lastgeving is van aard kosteloos doch kan ook mits bijzondere overeenkomst op billijke wijze vergoed worden. De auteurs van het Burgerlijk Wetboek hebben niet willen afwijken van het oude recht dat aan de rechter toeliet het loon van de lasthebber te toetsen, doch hebben integendeel dit beginsel bekrachtigd. De rechter kan dan ook de vergoeding van de lasthebber herleiden - ook wanneer de opdracht een handelsaktiviteit uitmaakt in hoofde van de lasthebber - in de mate dat de vergoeding niet evenredig is met de geleverde prestatie."
-      ]
-    },
-    "ECLI:BE:CASS:1971:ARR.19710205.7": {
-      "court": "CASS",
-      "date": "1971-02-05",
-      "roleNumber": "73/7.424",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/05/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "Un rapport d'expertise, qui n'est pas opposable, comme tel, à une partie en raison de ce que l'expertise n'a pas été contradictoire vis-à-vis d'elle, peut valoir comme présomption en raison des circonstances dans lesquelles il a été établi."
-      ],
-      "abstractNL": [
-        "Een deskundig verslag dat als dusdanig niet tegenstelbaar is aan één der partijen omdat de expertise jegens haar niet tegensprekelijk was kan als vermoeden gelden ingevolge de omstandigheden waarin het werd opgesteld."
       ]
     },
     "ECLI:BE:CASS:1987:ARR.19870612.10": {

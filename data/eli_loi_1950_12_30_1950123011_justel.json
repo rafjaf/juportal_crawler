@@ -1,5 +1,5 @@
 {
-  "general": {
+  "1": {
     "ECLI:BE:CASS:1976:ARR.19760114.4": {
       "court": "CASS",
       "date": "1976-01-14",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "De wet van 30 december 1950 tot inrichting van de diamantindustrie en het ministerieel besluit van 12 oktober 1955 tot aangifte van voorraden diamant, die sierdiamant als ruwe diamant beschouwen en niet industriediamant, worden niet geschonden wanneer buiten hun toepassingsveld andere onderscheiden en benamingen worden gebruikt."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1970:ARR.19700223.3": {
       "court": "CASS",
       "date": "1970-02-23",

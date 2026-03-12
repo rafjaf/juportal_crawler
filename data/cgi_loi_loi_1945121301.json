@@ -601,6 +601,22 @@
       "abstractNL": null
     }
   },
+  "24": {
+    "ECLI:BE:CASS:1967:ARR.19670113.1": {
+      "court": "CASS",
+      "date": "1967-01-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans l'article 24 des lois coordonnées sur la réparation des dommages résultant des accidents du travail, le risque dérivant desdites lois s'entend, en ce qui concerne l'assurance, de l'éventualité d'un événement à la réalisation duquel est subordonnée l'obligation de l'assureur d'effectuer la prestation convenue au contrat d'assurance."
+      ],
+      "abstractNL": [
+        "In artikel 24 van de gecoördineerde wetten op de vergoeding der schade voortspruitende uit de arbeidsongevallen, moet door \" risico voortspruitende uit deze wet \" verstaan worden, wat de verzekering betreft, de mogelijkheid van een gebeurtenis van de verwezenlijking waarvan de verbintenis van de verzekeraar tot het uitvoeren van de in het contract overeengekomen prestatie afhankelijk is."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1970:ARR.19700306.5": {
       "court": "CASS",
@@ -628,20 +644,6 @@
       "abstractNL": [
         "De omstandigheden dat een arbeider die de normale weg van de plaats waar het werk wordt gepresteerd naar de plaats waar hij woont heeft afgelegd, pas op het ogenblik waarop hij zijn erf bereikt het verlies, onderweg, vaststelt van een voorwerp dat nodig is voor de uitvoering van de arbeidsovereenkomst, en onmiddellijk een deel van de afgelegde weg in tegenovergestelde richting terug aflegt om dit voorwerp op te zoeken, sluiten niet uit dat het ongeval dat zich tijdens die verlenging van de weg voordoet, een ongeval is op de weg naar of van het werk, in de zin van artikel 1 van de besluitwet van 13 december 1945.",
         "De weg houdt niet op de normale weg te zijn, in de zin van de besluitwet van 13 december 1945 betreffende de vergoeding der schade voortspruitende uit ongevallen die zich op de weg naar of van het werk voordoen, wanneer een arbeider, wegens een op de weg voorgevallen gebeurtenis, die weg om een wettige reden heeft verlengd, door een deel ervan opnieuw af te leggen."
-      ]
-    },
-    "ECLI:BE:CASS:1967:ARR.19670113.1": {
-      "court": "CASS",
-      "date": "1967-01-13",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/13/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Dans l'article 24 des lois coordonnées sur la réparation des dommages résultant des accidents du travail, le risque dérivant desdites lois s'entend, en ce qui concerne l'assurance, de l'éventualité d'un événement à la réalisation duquel est subordonnée l'obligation de l'assureur d'effectuer la prestation convenue au contrat d'assurance."
-      ],
-      "abstractNL": [
-        "In artikel 24 van de gecoördineerde wetten op de vergoeding der schade voortspruitende uit de arbeidsongevallen, moet door \" risico voortspruitende uit deze wet \" verstaan worden, wat de verzekering betreft, de mogelijkheid van een gebeurtenis van de verwezenlijking waarvan de verbintenis van de verzekeraar tot het uitvoeren van de in het contract overeengekomen prestatie afhankelijk is."
       ]
     },
     "ECLI:BE:CASS:1966:ARR.19660923.1": {

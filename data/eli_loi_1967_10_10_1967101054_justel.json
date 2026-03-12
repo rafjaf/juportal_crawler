@@ -1,4 +1,34 @@
 {
+  "9": {
+    "ECLI:BE:CASS:1975:ARR.19750226.9": {
+      "court": "CASS",
+      "date": "1975-02-26",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/02/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi d'un litige concernant le droit aux allocations de chômage, n'a pas le droit de reconnaître ce droit lorsqu'il résulte des éléments du dossier dont les parties ont pu prendre connaissance, que le chômeur ne réunit pas toutes les conditions légales pour prétendre à ces allocations. Il ne statue pas en dehors des limites du litige lorsqu'il rejette la demande sur des moyens tirés de la loi qui n'avaient été invoqués ni par le directeur du bureau régional de l'Office national de l'emploi ni par les parties."
+      ],
+      "abstractNL": [
+        "De rechter bij wie een geschil betreffende het recht op werkloosheidsuitkering aanhangig is, vermag zodanig recht niet te erkennen, wanneer uit de elementen van het dossier waarvan partijen kennis hebben kunnen nemen, blijkt dat de werkloze niet voldoet aan alle wettelijke vereisten om op zulke uitkering recht te hebben. Hij doet niet buiten de perken van het geschil uitspraak wanneer hij de eis afwijst op aan de wet ontleende gronden welke noch door de directeur van het gewestelijk bureau van de Rijksdienst voor arbeidsvoorziening noch door de in de zaak betrokken partijen werden aangevoerd."
+      ]
+    }
+  },
+  "304": {
+    "ECLI:BE:CASS:1975:ARR.19751013.12": {
+      "court": "CASS",
+      "date": "1975-10-13",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/13/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Une personne avait été condamnée par le tribunal correctionnel de Huy, statuant au degré d'appel et comme juridiction de renvoi. Pourvoi en Cassation: La Cour de Cassation, 2° ch., casse l'arrêt attaqué sauf en tant qu'il statue sur l'action publique, et ce notamment par les motifs; \"qu'il ressort des pièces auxquelles la Cour peut avoir égard que madame C.D., avocat, a, en la cause, représenté le demandeur à l'audience du tribunal correctionnel de Huy du 14.11.1974, à laquelle la cause fut remise au 20.12.1974, qu'elle a été assumée comme juge à l'audience tenue à cette dernière date et au cours de laquelle la cause fut instruite et plaidée, qu'enfin, elle a siégé à l'audience du 7.2.1975, à laquelle le jugement a été rendu\"; \"que l'avocat qui a représenté le prévenu ne peut remplir les fonctions de juge dans la même cause\"; \"que cette irrégularité dans la composition du tribunal correctionnel constitue une cause de récusation\"; \"qu'il ne ressort d'aucune des pièces auxquelles la Cour peut avoir égard que le demandeur ait soulevé cette irrégularité devant le juge du fond\"; \"que le moyen fondé sur l'existence d'une cause de récusation du juge ne peut être proposé pour la première fois devant la Cour, à moins que la participation de ce juge à la décision ne viole une règle essentielle de l'administration de la justice\"; \"que le principe général du droit, selon lequel nul ne peut être à la fois juge et partie dans une même cause, consacré notamment par les articles 292, 293, 297 et 304 du Code judiciaire, constitue une telle règle\"; \"que ce principe est d'ordre public; que sa méconnaissance entraîne la nullité du jugement attaque\"; \"que le moyen est fondé\"."
+      ],
+      "abstractNL": null
+    }
+  },
   "557": {
     "ECLI:BE:CASS:2025:ARR.20251028.2N.1": {
       "court": "CASS",
@@ -69,6 +99,18 @@
       "abstractNL": [
         "Uit de artikelen 76, § 2, tweede lid, 78, vijfde lid, 92, § 1, eerste lid en § 1/1 en 578, 78°, Gerechtelijk Wetboek volgt dat van een zaak die de arbeidsreglementering betreft in hoger beroep kennis moet worden genomen door de gespecialiseerde kamer, die moet zijn samengesteld uit twee rechters in de rechtbank van eerste aanleg en een rechter in de arbeidsrechtbank."
       ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790924.3": {
+      "court": "CASS",
+      "date": "1979-09-24",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la demande tend au paiement d'une indemnité de rupture de contrat d'emploi et que la contestation est uniquement relative à la rupture d'un tel contrat, les juridictions du travail sont compétentes pour en connaître. En l'absence de demande relevant de la compétence d'une autre juridiction, il n'y a pas lieu de renvoyer la cause devant un autre juge, même après que la cour du travail eut décidé que le demandeur n'était pas lié à la défenderesse par un contrat de louage de travail. En conséquence en déclarant la demande non fondée, la cour s'est bornée à statuer quant au fond, sur le litige qui lui était soumis, sans verser dans la contradiction et sans violer aucune disposition légale."
+      ],
+      "abstractNL": null
     }
   },
   "580": {
@@ -106,6 +148,18 @@
       "abstractNL": [
         "De betwistingen van de beslissingen betreffende de voorschotten inzake inkomensgarantie voor ouderen zijn betwistingen die betrekking hebben op de toepassing van de Wet Inkomensgarantie Ouderen en die krachtens artikel 580, 8°, e), Gerechtelijk Wetboek bij de arbeidsrechtbank aanhangig moeten worden gemaakt (1). (1) Zie concl. OM.",
         "De betwistingen van de beslissingen betreffende de voorschotten inzake inkomensgarantie voor ouderen zijn betwistingen die betrekking hebben op de toepassing van de Wet Inkomensgarantie Ouderen en die krachtens artikel 580, 8°, e), Gerechtelijk Wetboek bij de arbeidsrechtbank aanhangig moeten worden gemaakt (1). (1) Zie concl. OM in Pas. 2025, nr. 220."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840618.1": {
+      "court": "CASS",
+      "date": "1984-06-18",
+      "roleNumber": "90/388",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De rechter bij wie een geschil betreffende het recht op werkloosheidsuitkeringen aanhangig is, vermag zodanig recht niet te erkennen, wanneer uit de elementen van het dossier waarvan partijen kennis hebben kunnen nemen, blijkt dat de werkloze niet voldoet aan alle wettelijke vereisten om op zulke uitkering recht te hebben. Hij doet niet buiten de perken van het geschil uitspraak wanneer hij de eis afwijst op aan de wet ontleende gronden welke noch door de directeur van het gewestelijk bureau van de Rijksdienst voor Arbeidsvoorziening noch door de in de zaak betrokken partijen werden aangevoerd."
       ]
     }
   },
@@ -213,6 +267,20 @@
       "abstractNL": null
     }
   },
+  "616": {
+    "ECLI:BE:CASS:1984:ARR.19840220.6": {
+      "court": "CASS",
+      "date": "1984-02-20",
+      "roleNumber": "81/8227",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/02/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il ressort des constatations du jugement dont appel que la présentation de la candidature du défendeur n'a pas donné lieu à une réclamation formulée conformément à l'article 37, alinéa 1er, par des travailleurs figurant sur les listes électorales ou par une organisation représentative des travailleurs intéressée, il s'ensuit que le recours exercé devant le tribunal du travail par la défenderesse pour contester la validité de la candidature du défendeur n'est pas celui prévu par l'article 38, alinéa 1er, mais bien l'action dont la défenderesse, en sa qualité d'employeur, dispose en vertu de l'article 24, alinéa 1er, 1°, de la loi du 20 septembre 1948. Dès lors, le jugement dont appel, qui ne statue pas sur un recours prévu à l'article 38 précité, n'est pas visé par l'article 78 bis, 5°, de l'arrêté royal du 18 octobre 1978 et, partant, est susceptible d'appel."
+      ],
+      "abstractNL": null
+    }
+  },
   "617": {
     "ECLI:BE:CASS:2025:ARR.20251028.2N.28": {
       "court": "CASS",
@@ -314,6 +382,22 @@
       "abstractNL": null
     }
   },
+  "658": {
+    "ECLI:BE:CASS:2001:ARR.20011203.3": {
+      "court": "CASS",
+      "date": "2001-12-03",
+      "roleNumber": "C010517F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la Cour de cassation considère que les circonstances invoquées dans une requête en dessaisissement d'une cour d'appel pour cause de suspicion légitime, à savoir que l'une des parties est conseiller à cette cour, sont de nature à inspirer aux parties et aux tiers une suspicion légitime à l'égard de l'impartialité de la décision à intervenir, elle ordonne le renvoi de la cause à une autre cour d'appel (1)."
+      ],
+      "abstractNL": [
+        "Wanneer het Hof van Cassatie oordeelt dat de omstandigheden, die zijn aangevoerd in een verzoekschrift tot onttrekking van de zaak aan een hof van beroep wegens gewettigde verdenking, met name dat een van de partijen raadsheer is in dat hof, bij de partijen en bij derden een gewettigde verdenking kunnen doen ontstaan omtrent de onpartijdigheid van de te wijzen beslissing, beveelt het de verwijzing van de zaak naar een ander hof van beroep (1)."
+      ]
+    }
+  },
   "660": {
     "ECLI:BE:CASS:2025:ARR.20250210.3F.5": {
       "court": "CASS",
@@ -335,6 +419,20 @@
       ]
     }
   },
+  "774": {
+    "ECLI:BE:CASS:1984:ARR.19841029.2": {
+      "court": "CASS",
+      "date": "1984-10-29",
+      "roleNumber": "1724",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/29/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le Code judiciaire prévoit, en son article 1050, que l'appel peut être formé dès la prononciation du jugement, même si celui-ci est une décision avant dire droit et en son article 616, que tout jugement peut être frappé d'appel, sauf si la loi en dispose autrement. Si aux termes de l'article 776 du Code judiciaire, \"la décision du juge sur la demande de réouverture des débats n'est pas susceptible d'appel\", cette disposition ne vise pas le cas ou le juge, conformément à l'article 774 du Code judiciaire, ordonne d'office la réouverture des débats. Partant, l'arrêt qui déclare recevable l'appel dirigé contre une décision du premier juge ordonnant d'office la réouverture des débats, ne viole pas l'article 776 du Code judiciaire."
+      ],
+      "abstractNL": null
+    }
+  },
   "589bis": {
     "ECLI:BE:CASS:2025:ARR.20250228.1N.1": {
       "court": "CASS",
@@ -353,96 +451,6 @@
       "abstractNL": [
         "De rechtsprekende taken van de voorzitter van de ondernemingsrechtbank zijn neergelegd in artikel 584, derde lid, en 588 tot en met 589bis Gerechtelijk Wetboek, alsook in artikel XX.32. WER (1). (1) Zie concl. OM.",
         "De voorzitter van de ondernemingsrechtbank kan met betrekking tot zijn rechtsprekende taken, zoals deze neergelegd in artikel XX.32 WER, worden vervangen door een plaatsvervangende magistraat in de zin van artikel 156bis Gerechtelijk Wetboek, aangewezen met toepassing van artikel 383, §2, Gerechtelijk Wetboek, en derhalve ook na de leeftijd van zeventig jaar, gedurende een tijdspanne van één jaar die viermaal kan worden hernieuwd (1). (1) Zie concl. OM."
-      ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:2001:ARR.20011203.3": {
-      "court": "CASS",
-      "date": "2001-12-03",
-      "roleNumber": "C010517F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/03/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Lorsque la Cour de cassation considère que les circonstances invoquées dans une requête en dessaisissement d'une cour d'appel pour cause de suspicion légitime, à savoir que l'une des parties est conseiller à cette cour, sont de nature à inspirer aux parties et aux tiers une suspicion légitime à l'égard de l'impartialité de la décision à intervenir, elle ordonne le renvoi de la cause à une autre cour d'appel (1)."
-      ],
-      "abstractNL": [
-        "Wanneer het Hof van Cassatie oordeelt dat de omstandigheden, die zijn aangevoerd in een verzoekschrift tot onttrekking van de zaak aan een hof van beroep wegens gewettigde verdenking, met name dat een van de partijen raadsheer is in dat hof, bij de partijen en bij derden een gewettigde verdenking kunnen doen ontstaan omtrent de onpartijdigheid van de te wijzen beslissing, beveelt het de verwijzing van de zaak naar een ander hof van beroep (1)."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19841029.2": {
-      "court": "CASS",
-      "date": "1984-10-29",
-      "roleNumber": "1724",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/29/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "Le Code judiciaire prévoit, en son article 1050, que l'appel peut être formé dès la prononciation du jugement, même si celui-ci est une décision avant dire droit et en son article 616, que tout jugement peut être frappé d'appel, sauf si la loi en dispose autrement. Si aux termes de l'article 776 du Code judiciaire, \"la décision du juge sur la demande de réouverture des débats n'est pas susceptible d'appel\", cette disposition ne vise pas le cas ou le juge, conformément à l'article 774 du Code judiciaire, ordonne d'office la réouverture des débats. Partant, l'arrêt qui déclare recevable l'appel dirigé contre une décision du premier juge ordonnant d'office la réouverture des débats, ne viole pas l'article 776 du Code judiciaire."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1984:ARR.19840618.1": {
-      "court": "CASS",
-      "date": "1984-06-18",
-      "roleNumber": "90/388",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_3.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De rechter bij wie een geschil betreffende het recht op werkloosheidsuitkeringen aanhangig is, vermag zodanig recht niet te erkennen, wanneer uit de elementen van het dossier waarvan partijen kennis hebben kunnen nemen, blijkt dat de werkloze niet voldoet aan alle wettelijke vereisten om op zulke uitkering recht te hebben. Hij doet niet buiten de perken van het geschil uitspraak wanneer hij de eis afwijst op aan de wet ontleende gronden welke noch door de directeur van het gewestelijk bureau van de Rijksdienst voor Arbeidsvoorziening noch door de in de zaak betrokken partijen werden aangevoerd."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19840220.6": {
-      "court": "CASS",
-      "date": "1984-02-20",
-      "roleNumber": "81/8227",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/02/20/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Lorsqu'il ressort des constatations du jugement dont appel que la présentation de la candidature du défendeur n'a pas donné lieu à une réclamation formulée conformément à l'article 37, alinéa 1er, par des travailleurs figurant sur les listes électorales ou par une organisation représentative des travailleurs intéressée, il s'ensuit que le recours exercé devant le tribunal du travail par la défenderesse pour contester la validité de la candidature du défendeur n'est pas celui prévu par l'article 38, alinéa 1er, mais bien l'action dont la défenderesse, en sa qualité d'employeur, dispose en vertu de l'article 24, alinéa 1er, 1°, de la loi du 20 septembre 1948. Dès lors, le jugement dont appel, qui ne statue pas sur un recours prévu à l'article 38 précité, n'est pas visé par l'article 78 bis, 5°, de l'arrêté royal du 18 octobre 1978 et, partant, est susceptible d'appel."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1979:ARR.19790924.3": {
-      "court": "CASS",
-      "date": "1979-09-24",
-      "roleNumber": "6515",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/24/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "Lorsque la demande tend au paiement d'une indemnité de rupture de contrat d'emploi et que la contestation est uniquement relative à la rupture d'un tel contrat, les juridictions du travail sont compétentes pour en connaître. En l'absence de demande relevant de la compétence d'une autre juridiction, il n'y a pas lieu de renvoyer la cause devant un autre juge, même après que la cour du travail eut décidé que le demandeur n'était pas lié à la défenderesse par un contrat de louage de travail. En conséquence en déclarant la demande non fondée, la cour s'est bornée à statuer quant au fond, sur le litige qui lui était soumis, sans verser dans la contradiction et sans violer aucune disposition légale."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1975:ARR.19751013.12": {
-      "court": "CASS",
-      "date": "1975-10-13",
-      "roleNumber": "6515",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/13/sitemap_11.xml"
-      ],
-      "abstractFR": [
-        "Une personne avait été condamnée par le tribunal correctionnel de Huy, statuant au degré d'appel et comme juridiction de renvoi. Pourvoi en Cassation: La Cour de Cassation, 2° ch., casse l'arrêt attaqué sauf en tant qu'il statue sur l'action publique, et ce notamment par les motifs; \"qu'il ressort des pièces auxquelles la Cour peut avoir égard que madame C.D., avocat, a, en la cause, représenté le demandeur à l'audience du tribunal correctionnel de Huy du 14.11.1974, à laquelle la cause fut remise au 20.12.1974, qu'elle a été assumée comme juge à l'audience tenue à cette dernière date et au cours de laquelle la cause fut instruite et plaidée, qu'enfin, elle a siégé à l'audience du 7.2.1975, à laquelle le jugement a été rendu\"; \"que l'avocat qui a représenté le prévenu ne peut remplir les fonctions de juge dans la même cause\"; \"que cette irrégularité dans la composition du tribunal correctionnel constitue une cause de récusation\"; \"qu'il ne ressort d'aucune des pièces auxquelles la Cour peut avoir égard que le demandeur ait soulevé cette irrégularité devant le juge du fond\"; \"que le moyen fondé sur l'existence d'une cause de récusation du juge ne peut être proposé pour la première fois devant la Cour, à moins que la participation de ce juge à la décision ne viole une règle essentielle de l'administration de la justice\"; \"que le principe général du droit, selon lequel nul ne peut être à la fois juge et partie dans une même cause, consacré notamment par les articles 292, 293, 297 et 304 du Code judiciaire, constitue une telle règle\"; \"que ce principe est d'ordre public; que sa méconnaissance entraîne la nullité du jugement attaque\"; \"que le moyen est fondé\"."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1975:ARR.19750226.9": {
-      "court": "CASS",
-      "date": "1975-02-26",
-      "roleNumber": "6515",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/02/26/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "Le juge saisi d'un litige concernant le droit aux allocations de chômage, n'a pas le droit de reconnaître ce droit lorsqu'il résulte des éléments du dossier dont les parties ont pu prendre connaissance, que le chômeur ne réunit pas toutes les conditions légales pour prétendre à ces allocations. Il ne statue pas en dehors des limites du litige lorsqu'il rejette la demande sur des moyens tirés de la loi qui n'avaient été invoqués ni par le directeur du bureau régional de l'Office national de l'emploi ni par les parties."
-      ],
-      "abstractNL": [
-        "De rechter bij wie een geschil betreffende het recht op werkloosheidsuitkering aanhangig is, vermag zodanig recht niet te erkennen, wanneer uit de elementen van het dossier waarvan partijen kennis hebben kunnen nemen, blijkt dat de werkloze niet voldoet aan alle wettelijke vereisten om op zulke uitkering recht te hebben. Hij doet niet buiten de perken van het geschil uitspraak wanneer hij de eis afwijst op aan de wet ontleende gronden welke noch door de directeur van het gewestelijk bureau van de Rijksdienst voor arbeidsvoorziening noch door de in de zaak betrokken partijen werden aangevoerd."
       ]
     }
   }

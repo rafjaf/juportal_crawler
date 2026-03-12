@@ -9105,6 +9105,18 @@
       "abstractNL": [
         "Wanneer ten gevolge van een besluit tot onteigening ten algemenen nutte, bij de vrederechter een vordering tot inbezitneming van de onteigenen goederen aanhangig wordt gemaakt, is de Raad van State niet bevoegd om uitspraak te doen over de beroepen tot nietigverklaring die de eigenaar van de goederen tegen het onteigeningsbesluit heeft ingesteld."
       ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941020.1": {
+      "court": "CASS",
+      "date": "1994-10-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/10/20/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "La contestation portant sur la suspension d'un traitement liée au \"retrait de juridiction\" canonique a pour objet un droit civil au sens de l'article 144 de la Constitution. L'article 21 de la Constitution énonce le principe de l'autonomie organisationnelle de chaque confession. De ce principe, il se déduit que la nomination et la révocation des ministres d'un culte ne peuvent être décidées que par l'autorité religieuse compétente, conformément aux règles du culte, et que la discipline et la juridiction ecclésiastique ne peuvent s'exercer sur ces ministres que par la même autorité et conformément aux mêmes règles. En vertu du principe de non-ingérence de l'Etat dans l'organisation interne des cultes, les tribunaux n'ont pas le pouvoir d'apprécier le caractère équitable des procédures religieuses."
+      ],
+      "abstractNL": null
     }
   },
   "145": {
@@ -15732,6 +15744,20 @@
       "abstractNL": [
         "Wanneer het arrest een beklaagde schuldig verklaart aan feiten van opzettelijke slagen en verwondingen omschreven onder telastleggingen A 1, A 2 en A3 en daarbij aanneemt dat de onder deze telastleggingen omschreven feiten hebben geleid tot een ongeschiktheid tot het verrichten van persoonlijke arbeid van meer dan vier maanden (A 1) en een ongeschiktheid tot het verrichten van persoonlijke arbeid van minder dan vier maanden (A 2 en A3) en het arrest wat betreft de beoordeling van de burgerlijke vordering beslist tot aanstelling van een geneesheer - deskundige maar uit de wijze waarop de deskundigenopdracht wordt gemotiveerd en omschreven volgt dat de appelrechters niet uitsluiten dat de onder de telastleggingen A1, A2 en A3 omschreven feiten niet hebben geleid tot een ongeschiktheid tot het verrichten van persoonlijke arbeid van meer dan vier maanden (A1) en een ongeschiktheid tot het verrichten van persoonlijke arbeid van minder dan vier maanden (A2 en A3), dan bestaat er een tegenstrijdigheid tussen de bewezenverklaring van de feiten onder de telastleggingen A1, A2 en A3 en de beslissing op de burgerlijke rechtsvordering."
       ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990616.8": {
+      "court": "CASS",
+      "date": "1999-06-16",
+      "roleNumber": "P981363F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'acte d'opposition est un acte de procédure par lequel l'opposant, d'une part, notifie son recours à la partie adverse et, d'autre part, saisit le tribunal de la cause, mais ne constitue pas des conclusions prises devant le juge du fond; celui-ci n'est dès lors pas tenu de répondre aux moyens de défense présentés uniquement dans l'acte d'opposition."
+      ],
+      "abstractNL": [
+        "Het exploot van verzet is een proceshandeling waarbij de verzetdoende partij, enerzijds, haar verzet ter kennis brengt van de tegenpartij en, anderzijds, de zaak bij de rechtbank aanhangig maakt, maar is geen conclusie die voor de feitenrechter genomen wordt; laatstgenoemde hoeft bijgevolg niet te antwoorden op verweermiddelen die alleen in het exploot van verzet worden aangevoerd."
+      ]
     }
   },
   "150": {
@@ -19006,32 +19032,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1999:ARR.19990616.8": {
-      "court": "CASS",
-      "date": "1999-06-16",
-      "roleNumber": "P981363F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/16/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "L'acte d'opposition est un acte de procédure par lequel l'opposant, d'une part, notifie son recours à la partie adverse et, d'autre part, saisit le tribunal de la cause, mais ne constitue pas des conclusions prises devant le juge du fond; celui-ci n'est dès lors pas tenu de répondre aux moyens de défense présentés uniquement dans l'acte d'opposition."
-      ],
-      "abstractNL": [
-        "Het exploot van verzet is een proceshandeling waarbij de verzetdoende partij, enerzijds, haar verzet ter kennis brengt van de tegenpartij en, anderzijds, de zaak bij de rechtbank aanhangig maakt, maar is geen conclusie die voor de feitenrechter genomen wordt; laatstgenoemde hoeft bijgevolg niet te antwoorden op verweermiddelen die alleen in het exploot van verzet worden aangevoerd."
-      ]
-    },
-    "ECLI:BE:CASS:1994:ARR.19941020.1": {
-      "court": "CASS",
-      "date": "1994-10-20",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/10/20/sitemap_12.xml"
-      ],
-      "abstractFR": [
-        "La contestation portant sur la suspension d'un traitement liée au \"retrait de juridiction\" canonique a pour objet un droit civil au sens de l'article 144 de la Constitution. L'article 21 de la Constitution énonce le principe de l'autonomie organisationnelle de chaque confession. De ce principe, il se déduit que la nomination et la révocation des ministres d'un culte ne peuvent être décidées que par l'autorité religieuse compétente, conformément aux règles du culte, et que la discipline et la juridiction ecclésiastique ne peuvent s'exercer sur ces ministres que par la même autorité et conformément aux mêmes règles. En vertu du principe de non-ingérence de l'Etat dans l'organisation interne des cultes, les tribunaux n'ont pas le pouvoir d'apprécier le caractère équitable des procédures religieuses."
-      ],
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:2001:ARR.20011022.5": {
       "court": "CASS",
       "date": "2001-10-22",

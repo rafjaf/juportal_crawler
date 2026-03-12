@@ -31,23 +31,7 @@
       ]
     }
   },
-  "15": {
-    "ECLI:BE:CASS:1967:ARR.19670614.1": {
-      "court": "CASS",
-      "date": "1967-06-14",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/14/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Le travailleur, qui n'a pas été occupé au travail pendant au moins un jour dans la période de douze jours ouvrables précédant un jour férié, a néanmoins droit à la rémunération afférente à ce jour, lorsque la non-occupation au travail est due, fût-ce partiellement, à l'application des dispositions légales concernant les vacances des travailleurs salariés."
-      ],
-      "abstractNL": [
-        "De werknemer die niet gedurende minstens één dag gewerkt heeft tijdens de periode van twaalf werkdagen die een feestdag voorafgaan, heeft desniettemin recht op het loon voor deze dag, wanneer de niet-tewerkstelling, al was het ten dele, te wijten is aan de toepassing van de wettelijke voorschriften betreffende het jaarlijks verlof van de loontrekkenden."
-      ]
-    }
-  },
-  "general": {
+  "14": {
     "ECLI:BE:CASS:1966:ARR.19661209.2": {
       "court": "CASS",
       "date": "1966-12-09",
@@ -62,6 +46,22 @@
       "abstractNL": [
         "De arbeider, die de voorwaarden van werkgetrouwheid vervult welke voorzien worden in de artikelen 10, 11 en 12 van het besluit van de Regent van 2 april 1947 tot bepaling van de algemene modaliteiten van uitvoering van de besluitwet van 25 februari 1947, en onder meer de voorwaarde vervult gedurende ten minste één dag gewerkt te hebben in de periode van twaalf werkdagen welke aan de feestdag voorafgingen, heeft een verworven recht op de uitbetaling van het loon voor die feestdag, zelfs zo ondertussen het arbeidscontract een einde heeft genomen.",
         "Noch de schorsing noch het einde van het arbeidscontract, vallende binnen de periode van twaalf werkdagen die de feestdag voorafgaan en tijdens dewelke de arbeider minstens gedurende één dag aan het werk was, stelt de werkgever in wiens dienst hij was vrij van de verplichting het loon voor die feestdag te betalen in zover de arbeider door geen nieuw arbeidscontract verbonden is."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1967:ARR.19670614.1": {
+      "court": "CASS",
+      "date": "1967-06-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur, qui n'a pas été occupé au travail pendant au moins un jour dans la période de douze jours ouvrables précédant un jour férié, a néanmoins droit à la rémunération afférente à ce jour, lorsque la non-occupation au travail est due, fût-ce partiellement, à l'application des dispositions légales concernant les vacances des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "De werknemer die niet gedurende minstens één dag gewerkt heeft tijdens de periode van twaalf werkdagen die een feestdag voorafgaan, heeft desniettemin recht op het loon voor deze dag, wanneer de niet-tewerkstelling, al was het ten dele, te wijten is aan de toepassing van de wettelijke voorschriften betreffende het jaarlijks verlof van de loontrekkenden."
       ]
     }
   }

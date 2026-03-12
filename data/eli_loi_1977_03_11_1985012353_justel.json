@@ -71,9 +71,7 @@
       "abstractNL": [
         "De beperking van de terugvordering van onrechtmatig genoten werkloosheidsuitkeringen die is neergelegd in art. 4 van de met ingang van 1 januari 1989 opgeheven wet 11 maart 1977, vindt geen toepassing op de terugvordering die na de opheffing van de wet is bevolen, ook al betreft zij uitkeringen die vóór de opheffing werden genoten."
       ]
-    }
-  },
-  "general": {
+    },
     "ECLI:BE:CASS:1993:ARR.19930906.1": {
       "court": "CASS",
       "date": "1993-09-06",
@@ -85,7 +83,9 @@
       "abstractNL": [
         "Nu het arrest vaststelt dat eiser op 10 februari 1989 de terugvordering heeft bevolen van werkloosheidsuitkeringen die zowel vóór als na 1 januari 1989 door verweerder onrechtmatig werden genoten, verzoekt het niet die terugvordering met toepassing van artikel 4 van de wet van 11 maart 1977 te beperken."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1990:ARR.19900514.10": {
       "court": "CASS",
       "date": "1990-05-14",

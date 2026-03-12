@@ -29,9 +29,7 @@
       "abstractNL": [
         "Het verbod de termen \"bank\" of \"bankier\" te gebruiken in de maatschappelijke benaming geldt niet enkel voor de ondernemingen die verrichtingen doen als bedoeld in art. 1, eerste lid, van het Bankbesluit, maar ook zonder onderscheid voor alle ondernemingen die niet ingeschreven zijn op de jaarlijks door de Bankcommissie opgemaakte lijst, behoudens voor de ondernemingen die geen bankverrichtingen doen, voor zover het gebruik van de bewoordingen in kwestie geen verwarring kan doen ontstaan omtrent de aard van de verrichtingen van die ondernemingen."
       ]
-    }
-  },
-  "general": {
+    },
     "ECLI:BE:CASS:1983:ARR.19830329.7": {
       "court": "CASS",
       "date": "1983-03-29",
@@ -45,7 +43,9 @@
       "abstractNL": [
         "Gaan over tot de openbare uitgifte van effecten, de leden van het bestuursorgaan van een samenwerkende vennootschap, die bij hun coöperateurs, die meer dan 50 personen bedragen, zelf kasbons van de vennootschap plaatsen. Deze verrichting moet vermoed worden openbaar te zijn, gelet op art. 1, lid 1, 4° K.B. 12 november 1969, daar geen onderscheid moet worden gemaakt naargelang de gesolliciteerde personen al dan niet vennoten zijn van de emittente. Bij gebrek aan voorafgaande kennisgeving aan de Bankcommissie is deze openbare uitgifte ongeoorloofd (art. 26 en 42 K.B. nr 185 van 9 juli 1935)."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1983:ARR.19830329.5": {
       "court": "CASS",
       "date": "1983-03-29",

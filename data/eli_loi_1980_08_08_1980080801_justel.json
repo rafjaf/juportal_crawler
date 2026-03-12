@@ -356,6 +356,18 @@
       "abstractNL": [
         "Wanneer een verweerder tegen een onder meer tegen hem ingestelde vordering tot schadevergoeding enkel aanvoert dat een medeverweerder volledig aansprakelijk is voor die schade, impliceert dat verweer helemaal geen vordering tot vrijwaring van de eerste verweerder tegen de tweede."
       ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930311.6": {
+      "court": "CASS",
+      "date": "1993-03-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les articles 57, alinéa alinéa 2 et 4, et 82, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions disposent que les biens meubles et immeubles de l'Etat qui relèvent des compétences des Régions en vertu notamment de l'article 6, alinéa 1, X, de la loi du 8 août 1980 sont transférés aux Régions depuis le 1er janvier 1989. L'article 57, alinéa 5, alinéa 1, de ladite loi dispose que les Communautés et les Régions succèdent aux droits et obligations de l'Etat qui leur sont transférés en vertu de cet article, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir. L'article 57, alinéa 5, alinéa 2, dispose que l'Etat reste seul tenu des obligations dont le paiement ou l'exécution étaient exigibles avant le transfert de propriété des biens visés par cet article. Les obligations dont l'Etat reste tenu sont donc celles qui avaient fait l'objet d'une décision judiciaire passée en force de chose jugée avant le 1er janvier 1989 et non celles résultant de procédures judiciaires toujours en cours."
+      ],
+      "abstractNL": null
     }
   },
   "7": {
@@ -743,6 +755,18 @@
       "abstractNL": [
         "Luidens artikel 82 bijzondere wet 8 augustus 1980 tot hervorming der instellingen wordt de gemeenschap in rechte vertegenwoordigd en wordt in haar naam cassatieberoep ingesteld door haar Executieve en niet door dezer voorzitter."
       ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840608.7": {
+      "court": "CASS",
+      "date": "1984-06-08",
+      "roleNumber": "78/21961",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La requête en cassation et l'exploit de signification de celle-ci étant rédigés au nom de la communauté flamande \"représentée par M. le président de l'exécutif flamand, en la personne du ministre communautaire de la famille et du bien-être social\" le pourvoi n'est pas exercé par l'organe légalement compétent et, partant, est irrecevable."
+      ],
+      "abstractNL": null
     }
   },
   "87": {
@@ -833,30 +857,6 @@
       ],
       "abstractFR": [
         "Dès lors qu'en vertu de l'article 61, alinéa 1er, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, celles-ci succèdent aux droits et obligations de l'Etat relatifs aux compétences qui leur sont attribuées, notamment en ce qui concerne la protection de la jeunesse, l'arrêt qui condamne l'Etat belge en raison d'obligations transférées à la Communauté française par la loi du 8 août 1980, modifiée par la loi du 8 août 1988, ne justifie pas légalement sa décision. L'article 705, alinéas 1er et 2, du Code judiciaire régit les rapports entre les départements ministériels de l'Etat et est étranger à la succession des Communautés et Régions dans les droits et obligations de l'Etat, en vertu notamment de l'article 61, alinéa 1er, de la loi spéciale du 16 janvier 1989 susvisée."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1993:ARR.19930311.6": {
-      "court": "CASS",
-      "date": "1993-03-11",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/03/11/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Les articles 57, alinéa alinéa 2 et 4, et 82, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions disposent que les biens meubles et immeubles de l'Etat qui relèvent des compétences des Régions en vertu notamment de l'article 6, alinéa 1, X, de la loi du 8 août 1980 sont transférés aux Régions depuis le 1er janvier 1989. L'article 57, alinéa 5, alinéa 1, de ladite loi dispose que les Communautés et les Régions succèdent aux droits et obligations de l'Etat qui leur sont transférés en vertu de cet article, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir. L'article 57, alinéa 5, alinéa 2, dispose que l'Etat reste seul tenu des obligations dont le paiement ou l'exécution étaient exigibles avant le transfert de propriété des biens visés par cet article. Les obligations dont l'Etat reste tenu sont donc celles qui avaient fait l'objet d'une décision judiciaire passée en force de chose jugée avant le 1er janvier 1989 et non celles résultant de procédures judiciaires toujours en cours."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1984:ARR.19840608.7": {
-      "court": "CASS",
-      "date": "1984-06-08",
-      "roleNumber": "78/21961",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/08/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "La requête en cassation et l'exploit de signification de celle-ci étant rédigés au nom de la communauté flamande \"représentée par M. le président de l'exécutif flamand, en la personne du ministre communautaire de la famille et du bien-être social\" le pourvoi n'est pas exercé par l'organe légalement compétent et, partant, est irrecevable."
       ],
       "abstractNL": null
     },

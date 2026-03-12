@@ -266,6 +266,48 @@
         "La majoration de décimes, prévue par la loi du 5 mars 1952, ne s'applique pas aux amendes édictées par l'arrêté royal du 20 août 1957 coordonnant les lois sur l'enseignement primaire."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2001:ARR.20010321.11": {
+      "court": "CASS",
+      "date": "2001-03-21",
+      "roleNumber": "P001626FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, pour une infraction commise avant le 1er janvier 1995, date d'entrée en vigueur de la loi du 24 décembre 1993, majore de 1.990 décimes l'amende à laquelle il condamne le prévenu (1)."
+      ],
+      "abstractNL": [
+        "Het arrest, dat de geldboete met 1.990 deciemen verhoogt die aan een beklaagde worden opgelegd wegens een misdrijf dat gepleegd is vóór 1 januari 1995, datum van inwerkingtreding van de wet van 24 december 1993, is niet naar recht verantwoord (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991109.8": {
+      "court": "CASS",
+      "date": "1999-11-09",
+      "roleNumber": "P971058N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/11/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La décision infligeant une amende pénale doit indiquer le nombre de décimes additionnels majorant cette amende, de même que le chiffre qui résulte de cette majoration."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij een strafrechtelijke geldboete wordt opgelegd dient het aantal opdecimes te vermelden waarmee deze geldboete wordt verhoogd, evenals het uit die verhoging voortvloeiende cijfer."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010619.7": {
+      "court": "CASS",
+      "date": "2001-06-19",
+      "roleNumber": "P991715N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La Cour casse sans renvoi la décision du juge pénal majorant illégalement l'amende de 1990 décimes dans la mesure où cette amende a été majorée de plus de 990 décimes (1)."
+      ],
+      "abstractNL": [
+        "Het Hof vernietigt zonder verwijzing de beslissing van de strafrechter waarbij de geldboete onwettig wordt verhoogd met 1990 deciemen in zoverre die geldboete wordt verhoogd met meer dan 990 deciemen (1)."
+      ]
     }
   },
   "2": {
@@ -343,48 +385,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:2001:ARR.20010619.7": {
-      "court": "CASS",
-      "date": "2001-06-19",
-      "roleNumber": "P991715N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/19/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La Cour casse sans renvoi la décision du juge pénal majorant illégalement l'amende de 1990 décimes dans la mesure où cette amende a été majorée de plus de 990 décimes (1)."
-      ],
-      "abstractNL": [
-        "Het Hof vernietigt zonder verwijzing de beslissing van de strafrechter waarbij de geldboete onwettig wordt verhoogd met 1990 deciemen in zoverre die geldboete wordt verhoogd met meer dan 990 deciemen (1)."
-      ]
-    },
-    "ECLI:BE:CASS:2001:ARR.20010321.11": {
-      "court": "CASS",
-      "date": "2001-03-21",
-      "roleNumber": "P001626FV",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/21/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "N'est pas légalement justifié l'arrêt qui, pour une infraction commise avant le 1er janvier 1995, date d'entrée en vigueur de la loi du 24 décembre 1993, majore de 1.990 décimes l'amende à laquelle il condamne le prévenu (1)."
-      ],
-      "abstractNL": [
-        "Het arrest, dat de geldboete met 1.990 deciemen verhoogt die aan een beklaagde worden opgelegd wegens een misdrijf dat gepleegd is vóór 1 januari 1995, datum van inwerkingtreding van de wet van 24 december 1993, is niet naar recht verantwoord (1)."
-      ]
-    },
-    "ECLI:BE:CASS:1999:ARR.19991109.8": {
-      "court": "CASS",
-      "date": "1999-11-09",
-      "roleNumber": "P971058N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/11/09/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La décision infligeant une amende pénale doit indiquer le nombre de décimes additionnels majorant cette amende, de même que le chiffre qui résulte de cette majoration."
-      ],
-      "abstractNL": [
-        "De beslissing waarbij een strafrechtelijke geldboete wordt opgelegd dient het aantal opdecimes te vermelden waarmee deze geldboete wordt verhoogd, evenals het uit die verhoging voortvloeiende cijfer."
-      ]
-    },
     "ECLI:BE:CASS:1983:ARR.19831004.2": {
       "court": "CASS",
       "date": "1983-10-04",

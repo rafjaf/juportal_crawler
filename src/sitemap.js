@@ -11,7 +11,38 @@ import {
   extractLegalBasisKey,
   extractDateFromBasisText,
   buildBasisTextLookup,
+  extractOldStyleArticleWithEli,
+  extractPublicationCounter,
 } from './utils.js';
+
+/**
+ * Upgrade bare-number "general" entries to specific articles by finding the
+ * publication counter from a two-segment sibling in the same law group.
+ *
+ * The counter is identified via extractPublicationCounter; if the bare number
+ * differs numerically from the counter it must be an article number, not the
+ * publication-series reference.  Only upgrades when a counter is found
+ * (prudent: leaves ambiguous cases as "general").
+ *
+ * Mutates the articles array in-place.
+ * @param {Array<{article: string, rawText: string}>} articles
+ */
+function _disambiguateBareNumbers(articles) {
+  let counter = null;
+  for (const art of articles) {
+    const c = extractPublicationCounter(art.rawText);
+    if (c !== null) { counter = c; break; }
+  }
+  if (counter === null) return;
+  const counterN = parseInt(counter, 10);
+  for (const art of articles) {
+    if (art.article !== 'general') continue;
+    // Match single-segment bare number: "DATE - N" (no trailing text)
+    const m = art.rawText.match(/\d{2}-\d{2}-\d{4}\s*-\s*(\d+)\s*$/);
+    if (!m) continue;
+    if (parseInt(m[1], 10) !== counterN) art.article = m[1];
+  }
+}
 
 // ─── robots.txt Parsing ──────────────────────────────────────────────────────
 
@@ -196,6 +227,7 @@ export async function parseSitemapXml(sitemapUrl) {
           // This is a non-ELI law URL (e.g. ejustice.just.fgov.be/cgi_loi/...)
           // Treat it similarly to an ELI for the pending articles
           if (currentArticles.length > 0) {
+            _disambiguateBareNumbers(currentArticles);
             if (currentLawKey) lawKeyEliCache[currentLawKey] = text;
             for (const art of currentArticles) {
               art.eli = text;
@@ -247,6 +279,7 @@ export async function parseSitemapXml(sitemapUrl) {
             if (currentArticles.length > 0) {
               const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
               if (cachedEli) {
+                _disambiguateBareNumbers(currentArticles);
                 for (const a of currentArticles) { a.eli = cachedEli; }
                 legalBases.push(...currentArticles);
               } else {
@@ -269,12 +302,16 @@ export async function parseSitemapXml(sitemapUrl) {
         //      "Directive 2014/41/UE ... - 03-04-2014"
         if (RE_REF_NO_ART.test(text)) {
           const newLawKey = extractLegalBasisKey(text);
-          logInfo(chalk.gray(`${timestamp()}       No-article law ref (XML) | raw="${text}" | article=general | awaiting ELI`));
+          // Try to detect an article from the old-style format (e.g. "DATE - 39,§1").
+          const detectedArticles = extractOldStyleArticleWithEli(text);
+          const article = (detectedArticles && detectedArticles.length > 0) ? detectedArticles[0] : 'general';
+          logInfo(chalk.gray(`${timestamp()}       No-article law ref (XML) | raw="${text}" | article=${article} | awaiting ELI`));
           // Flush previous articles for a different law group
           if (newLawKey !== currentLawKey) {
             if (currentArticles.length > 0) {
               const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
               if (cachedEli) {
+                _disambiguateBareNumbers(currentArticles);
                 for (const a of currentArticles) { a.eli = cachedEli; }
                 legalBases.push(...currentArticles);
               } else {
@@ -284,8 +321,8 @@ export async function parseSitemapXml(sitemapUrl) {
             currentArticles = [];
             currentLawKey = newLawKey;
           }
-          currentArticles.push({ article: 'general', eli: null, lang: lang || 'fr', rawText: text });
-          allBasisTexts.push({ article: 'general', rawText: text, lang: lang || 'fr' });
+          currentArticles.push({ article, eli: null, lang: lang || 'fr', rawText: text });
+          allBasisTexts.push({ article, rawText: text, lang: lang || 'fr' });
           continue;
         }
       }
@@ -293,6 +330,7 @@ export async function parseSitemapXml(sitemapUrl) {
       if (type === 'ELI') {
         // This ELI applies to all currentArticles
         if (currentArticles.length > 0) {
+          _disambiguateBareNumbers(currentArticles);
           if (currentLawKey) lawKeyEliCache[currentLawKey] = text;
           for (const art of currentArticles) {
             art.eli = text;
@@ -310,6 +348,7 @@ export async function parseSitemapXml(sitemapUrl) {
     if (currentArticles.length > 0) {
       const cachedEli = currentLawKey && lawKeyEliCache[currentLawKey];
       if (cachedEli) {
+        _disambiguateBareNumbers(currentArticles);
         for (const a of currentArticles) { a.eli = cachedEli; }
         legalBases.push(...currentArticles);
       } else {

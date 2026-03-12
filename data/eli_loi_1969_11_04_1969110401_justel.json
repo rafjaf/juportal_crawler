@@ -2130,6 +2130,16 @@
       "abstractNL": [
         "De partij die in burgerlijke zaken een door haar geschreven verklaring heeft overgelegd, welke een bekentenis bevat, kan voor het eerst voor het Hof de bewijskracht ervan niet betwisten, zelfs indien zij zich op het dwingend karakter van de wet beroept."
       ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811030.1": {
+      "court": "CASS",
+      "date": "1981-10-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/30/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   },
   "4": {
@@ -4588,16 +4598,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1981:ARR.19811030.1": {
-      "court": "CASS",
-      "date": "1981-10-30",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/30/sitemap_2.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:1985:ARR.19851122.7": {
       "court": "CASS",
       "date": "1985-11-22",

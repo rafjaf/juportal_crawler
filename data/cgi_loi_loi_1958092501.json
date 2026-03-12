@@ -1,5 +1,5 @@
 {
-  "general": {
+  "3": {
     "ECLI:BE:CASS:1974:ARR.19741002.5": {
       "court": "CASS",
       "date": "1974-10-02",
@@ -12,7 +12,24 @@
         "Si, en vertu de l'article 11, 2 du règlement n° 3 du 25 septembre 1958 de la Communauté Economique Européenne, les clauses de réduction prévues par la législation d'un Etat membre ne sont pas applicables aux cas ou des prestations de même nature sont acquises conformément aux dispositions des articles 26 et 28 dudit règlement, c'est toutefois à la condition que les périodes d'assurances ne se superposent pas. Dès lors, l'arrêt a décidé légalement que le défendeur était fondé à réduire le montant de la pension dont il est redevable, dans la mesure ou sa prestation se rapporte à des périodes ayant servi au calcul du montant des prestations allouées par l'institution compétente de l'Etat italien."
       ],
       "abstractNL": null
-    },
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1974:ARR.19741002.5": {
+      "court": "CASS",
+      "date": "1974-10-02",
+      "roleNumber": "5187",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 13 précité, conçu en termes généraux, s'applique à tout titulaire d'une pension de retraite ou d'invalidité d'ouvrier mineur ou assimilé, qu'il soit de nationalité belge ou étrangère, et s'oppose au cumul de la pension de retraite ou d'invalidité à charge de la Belgique, au delà du montant de la pension de retraite que le travailleur aurait pu obtenir s'il avait effectué une carrière de trente ans comme ouvrier mineur de fond, avec toute pension de retraite ou d'invalidité fût-elle servie par une institution d'un Etat étranger. Si en vertu de l'article 11, 2 du règlement n° 3 du 25 septembre 1958 de la Communauté Economique Européenne, les clauses de réduction prévues par la législation d'un Etat membre ne sont pas applicables aux cas ou les prestations de même nature sont acquises conformément aux dispositions des articles 26 et 28 dudit règlement, c'est toutefois à la condition que les périodes d'assurance ne se superposent pas. Cette disposition ne s'oppose dès lors pas à la réduction du montant de la pension dont le F.N.R.O.M. est redevable, dans la mesure ou sa prestation se rapporte à des périodes ayant servi au calcul du montant des prestations allouées par l'institution compétente de l'Etat italien.",
+        "Si, en vertu de l'article 11, 2 du règlement n° 3 du 25 septembre 1958 de la Communauté Economique Européenne, les clauses de réduction prévues par la législation d'un Etat membre ne sont pas applicables aux cas ou des prestations de même nature sont acquises conformément aux dispositions des articles 26 et 28 dudit règlement, c'est toutefois à la condition que les périodes d'assurances ne se superposent pas. Dès lors, l'arrêt a décidé légalement que le défendeur était fondé à réduire le montant de la pension dont il est redevable, dans la mesure ou sa prestation se rapporte à des périodes ayant servi au calcul du montant des prestations allouées par l'institution compétente de l'Etat italien."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1974:ARR.19740904.1": {
       "court": "CASS",
       "date": "1974-09-04",

@@ -49,6 +49,18 @@
       "abstractNL": [
         "De beslissing van de geneeskundige dienst, die het percentage vaststelt van de blijvende invaliditeit van het personeelslid van de overheid, slachtoffer van een arbeidsongeval of ongeval op de weg van en naar het werk, is bindend voor de overheid inzoverre deze dienst een blijvende invaliditeit erkent, welk percentage door de overheid alleen kan worden verhoogd."
       ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880411.8": {
+      "court": "CASS",
+      "date": "1988-04-11",
+      "roleNumber": "40.670",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/04/11/sitemap_11.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het arrest oordeelt dat de verjaring van verweerders vordering tot herziening van de rente wegens blijvende arbeidsongeschiktheid gestuit is door een schrijven van eiseres van 11 januari 1980. Het arrest stelt vast dat eiseres in dat schrijven meedeelt dat verweerders aanvraag tot herziening wordt overgezonden aan de Sociaal-Medische Dienst en dat deze dienst de herziening zal \" doorvoeren \". Het arrest besluit dat de eiseres aldus heeft erkend dat aan de zijde van verweerder een recht op eventuele vergoeding zou kunnen bestaan wegens de aangevoerde verergering. Dit besluit berust op de enkele grond : dat eiseres, indien zij had geoordeeld dat het door verweerder voorgestelde medische stuk tot staving van zijn aanvraag tot herziening, geen recht op eventuele vergoeding kon doen ontstaan, zij, \" in toepassing van artikel 9 van (het koninklijk besluit van 13 juli 1970), waar dit stelt : \" de overheid gaat na of de voorwaarden tot toekenning van de vergoedingen vervuld zijn \", onmiddellijk de aanvraag tot herziening als zonder voorwerp (had) moeten afwijzen \". Voormelde bepaling van artikel 9 van het koninklijk besluit van 13 juli 1970 legt de overheid enkel een verplichting op ter zake van het te verrichten administratief onderzoek, wanneer de initiële aangifte wordt gedaan van een ongeval dat als een arbeidsongeval of een ongeval op de weg van of naar het werk kan worden beschouwd. De bedoelde bepaling vindt geen toepassing op een aanvraag tot herziening van de rente, waarvan de indiening, het onderzoek en de behandeling geregeld zijn door de artikelen 11 tot 17 van het koninklijk besluit van 13 juli 1970, zodat het arrest de beslissing dat de verjaring van verweerders vordering gestuit was, niet naar recht verantwoordt door het enkele daarvoor gegeven motief."
+      ]
     }
   },
   "10": {
@@ -286,18 +298,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1988:ARR.19880411.8": {
-      "court": "CASS",
-      "date": "1988-04-11",
-      "roleNumber": "40.670",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/04/11/sitemap_11.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het arrest oordeelt dat de verjaring van verweerders vordering tot herziening van de rente wegens blijvende arbeidsongeschiktheid gestuit is door een schrijven van eiseres van 11 januari 1980. Het arrest stelt vast dat eiseres in dat schrijven meedeelt dat verweerders aanvraag tot herziening wordt overgezonden aan de Sociaal-Medische Dienst en dat deze dienst de herziening zal \" doorvoeren \". Het arrest besluit dat de eiseres aldus heeft erkend dat aan de zijde van verweerder een recht op eventuele vergoeding zou kunnen bestaan wegens de aangevoerde verergering. Dit besluit berust op de enkele grond : dat eiseres, indien zij had geoordeeld dat het door verweerder voorgestelde medische stuk tot staving van zijn aanvraag tot herziening, geen recht op eventuele vergoeding kon doen ontstaan, zij, \" in toepassing van artikel 9 van (het koninklijk besluit van 13 juli 1970), waar dit stelt : \" de overheid gaat na of de voorwaarden tot toekenning van de vergoedingen vervuld zijn \", onmiddellijk de aanvraag tot herziening als zonder voorwerp (had) moeten afwijzen \". Voormelde bepaling van artikel 9 van het koninklijk besluit van 13 juli 1970 legt de overheid enkel een verplichting op ter zake van het te verrichten administratief onderzoek, wanneer de initiële aangifte wordt gedaan van een ongeval dat als een arbeidsongeval of een ongeval op de weg van of naar het werk kan worden beschouwd. De bedoelde bepaling vindt geen toepassing op een aanvraag tot herziening van de rente, waarvan de indiening, het onderzoek en de behandeling geregeld zijn door de artikelen 11 tot 17 van het koninklijk besluit van 13 juli 1970, zodat het arrest de beslissing dat de verjaring van verweerders vordering gestuit was, niet naar recht verantwoordt door het enkele daarvoor gegeven motief."
-      ]
-    },
     "ECLI:BE:CASS:1999:ARR.19990329.6": {
       "court": "CASS",
       "date": "1999-03-29",

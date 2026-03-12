@@ -345,6 +345,22 @@
       ]
     }
   },
+  "52": {
+    "ECLI:BE:CASS:1984:ARR.19840618.9": {
+      "court": "CASS",
+      "date": "1984-06-18",
+      "roleNumber": "4359",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'obligation d'un ressortissant d'un pays membre de la CEE, qui exerce une activité indépendante en Belgique et dans son pays, de payer en Belgique des cotisations de sécurité sociale pour travailleurs indépendants, alors qu'il paye déjà des cotisations dans son propre pays, ne peut constituer une limitation de la liberté d'établissement que si un ressortissant belge qui exerce une activité indépendante dans les mêmes pays et qui paie des cotisations dans un autre pays, n'est pas tenu de cotiser en Belgique. (Traité instituant la Communauté économique européenne, art. 52.)"
+      ],
+      "abstractNL": [
+        "De verplichting van een onderdaan van een EEG Lid-Staat die een zelfstandige activiteit in België en in zijn land uitoefent, om in België sociale-zekerheidsbijdragen voor zelfstandigen te betalen, hoewel hij reeds in zijn eigen land bijdragen betaalt, kan de vrijheid van vestiging alleen beperken wanneer een Belgisch onderdaan die in dezelfde landen een zelfstandige activiteit uitoefent en in het andere land bijdragen betaalt, in België niet bijdrageplichtig is. ( Art. 52 EEG Verdrag. )"
+      ]
+    }
+  },
   "56": {
     "ECLI:BE:CASS:2021:ARR.20210122.1N.38": {
       "court": "CASS",
@@ -407,6 +423,34 @@
       ]
     }
   },
+  "66": {
+    "ECLI:BE:CASS:1980:ARR.19800612.7": {
+      "court": "CASS",
+      "date": "1980-06-12",
+      "roleNumber": "6107",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/12/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Si, en vertu de l'article 177 du Traité de Rome, la Cour de cassation est tenue en principe, lorsqu'une question d'interprétation du droit communautaire est soulevée dans une affaire pendante devant elle, d'en saisir la Cour de justice des Communautés européennes, l'autorité de l'interprétation déjà donnée par celle-ci dans une espèce analogue peut, conformément à la jurisprudence de la Cour de justice, priver cette obligation de sa cause et la vider de son contenu et qu'il en est notamment ainsi lorsque la question soulevée est identique à une question ayant déjà fait l'objet d'une décision à titre préjudiciel dans une espèce analogue. L'interprétation de la Cour de justice des Communautés européennes a faite, en son arrêt du 18 mars 1980, nó 5279 des articles 59 et 60 du Traité de Rome, s'étend nécessairement aux articles 62 à 66 de ce Traité, lesquels sont relatifs aux modalités d'application de la suppression progressive, prescrites par l'article 59, des restrictions a la libre prestations des services à l'intérieur de la Communauté."
+      ],
+      "abstractNL": null
+    }
+  },
+  "77": {
+    "ECLI:BE:CASS:1984:ARR.19841001.8": {
+      "court": "CASS",
+      "date": "1984-10-01",
+      "roleNumber": "83/10605",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/01/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Depuis le 1er août 1971, date de son admission à la pension d'invalidité prévue par le régime belge de retraite d'ouvriers mineurs, le défendeur était, en Belgique, attributaire d'allocations familiales pour ses enfants Lucia, Antonietta et Pierro. Il quitta définitivement la Belgique le 09 août pour résider en Italie avec sa famille. Par lettre du 21 septembre 1979, la demanderesse avisa le défendeur que, depuis le 09 août 1979, le paiement des allocations familiales dues à ses enfants incombait à l'Italie par application de l'article 77, ° 2, b), i), du règlement n) 1408/71 du Conseil des ministres des Communautés européennes du 14 juin 1971 et qu'elle ne pouvait envisager de lui payer la différence entre, d'une part, les allocations familiales dues au moment de son départ en vertu de la législation belge et, d'autre part, les allocations versées par les institutions italiennes. L'arrêt relève que l'article 51, alinéa 3, des lois coordonnées relatives aux allocations familiales dispose que les allocations familiales ne sont pas dues en faveur des enfants élevés hors du Royaume. Répondant aux deux questions qui lui ont été soumises par la Cour, la Cour de justice des Communautés européennes a dit pour droit en son arrêt du 12 juillet 1984 : \"Si, dans le cas visé à l'article 77, alinéa 2, b), i), du règlement n) 1408/71, relatif à l'application des régimes de sécurité sociale aux travailleurs salariés et à leur famille qui se déplacent à l'intérieur de la Communauté (J.O. 1971, L. 149), le montant des prestations servies par l'Etat de résidence est inférieur à celui des prestations accordées par l'autre Etat débiteur, le travailleur conserve le bénéfice du montant plus élevé et a le droit de recevoir, à charge de l'institution sociale compétente de cet Etat, un complément de prestations égal à la différence entre les deux montants. L'examen des questions posées n'a pas révélé d'éléments de nature à affecter la validité de l'article 77, alinéa 2, b), i), du règlement n) 1408 précité\". Eu égard à l'interprétation qu'il y a lieu de donner au règlement n) 1048/71 et à sa validité au regard de l'article 51 du Traité de Rome, la cour du travail, en décidant que le défendeur était en droit d'obtenir, à charge de la demanderesse, le paiement d'une somme égale à la différence entre le montant des allocations familiales dues en application de la législation belge, s'il avait maintenu sa résidence en Belgique et le montant des prestations familiales effectivement perçu en Italie depuis le 09 août 1979, n'a pas violé les dispositions légales indiquées au moyen."
+      ],
+      "abstractNL": null
+    }
+  },
   "85": {
     "ECLI:BE:CASS:2012:ARR.20120628.17": {
       "court": "CASS",
@@ -462,6 +506,36 @@
       ],
       "abstractNL": [
         "De verordening nr 17, van 6 februari 1962, van de Ministerraad van de Europese Economische Gemeenschap, opgericht door het verdrag dat te Rome op 25 maart 1957 is ondertekend en goedgekeurd bij de wet van 2 december 1957, is een wet in de zin van de artikelen 17 van de wet van 4 augustus 1832 en 9 van de wet van 25 februari 1925; dientengevolge is ontvankelijk een middel dat tot staving van een voorziening in cassatie afgeleid is uit de schending van de bepalingen van deze verordening. (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700416.5": {
+      "court": "CASS",
+      "date": "1970-04-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, est étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957.",
+        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, étant étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957, et une décision sur l'interprétation dudit article n'étant, dès lors, point nécessaire, la Cour ne renvoie pas à la Cour de justice des Communautés européennes pour statuer à titre préjudiciel sur l'interprétation de l'article 85 du Traité."
+      ],
+      "abstractNL": [
+        "De rechtsvordering om aan een partij te verbieden gebruik te maken van bepaalde vermeldingen, zowel in de officiële telefoongids als in het opschrift van haar brieven en in haar reclame, is vreemd aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957.",
+        "Aangezien de rechtsvordering om aan een partij te verbieden zowel in de officiële telefoongids als in de opschriften van haar brieven en in haar handelsreclame gebruik te maken van bepaalde vermeldingen, vreemd is aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957, en een beslissing over de uitlegging van dit artikel derhalve niet nodig is, verwijst het Hof de zaak niet naar het Hof van justitie van de Europese Gemeenschappen om bij wijze van prejudiciële beslissing uitspraak te doen over de uitlegging van artikel 85 van het Verdrag."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870910.9": {
+      "court": "CASS",
+      "date": "1987-09-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'exclusivité peut être définie soit en fonction du type de matériel, soit en raison de la qualité des clients. Il n'y a pas de faute grave lorsque, en cours de préavis, le concessionnaire commence à distribuer des produits d'une autre marque, une telle distribution n'étant pas interdite par la convention de concession. Il est de l'essence de la faute grave de rendre impossible la poursuite des relations normales, même pendant la durée d'un préavis. Pour être contraire à l'article 85 du Traité de Rome, une convention de distribution doit avoir pour objet d'empêcher, de restreindre ou de fausser le jeu de la concurrence et doit être susceptible d'affecter le commerce entre les Etats membres."
+      ],
+      "abstractNL": [
+        "De exclusiviteit kan gedefinieerd worden, hetzij in functie van de verkochte goederen, hetzij in functie van de cliënteel. Is, in hoofde van de concessionaris, geen zware fout, het verdelen van produkten van een ander merk gedurende de opzeggingstermijn, wanneer de distributieovereenkomst dergelijke verdeling niet verbiedt. Noodzakelijke voorwaarde voor zware fout is het onmogelijk maken om normale handelsrelaties verder te zetten, zelfs tijdens de opzeggingstermijn. Opdat een distributieovereenkomst strijdig zou zijn met artikel 85 van het Verdrag van Rome, moet ze tot voorwerp hebben het verhinderen, beperken of vervalsen van de mededinging en moet zij bovendien de handel tussen de lidstaten kunnen beïnvloeden."
       ]
     }
   },
@@ -702,6 +776,50 @@
       ],
       "abstractNL": [
         "De nationale rechter is gebonden door de uitlegging van de Verdragen tot oprichting van de Europese Gemeenschappen en de verordeningen van de Europese Economische Gemeenschap welke, op zijn verzoek, door het Hof van Justitie van de Gemeenschappen is gegeven (1). (Art. 117 Verdrag tot oprichting van de Europese Economische Gemeenschap, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957.) (Impliciete oplossing.)"
+      ]
+    }
+  },
+  "119": {
+    "ECLI:BE:CASS:1973:ARR.19730502.6": {
+      "court": "CASS",
+      "date": "1973-05-02",
+      "roleNumber": "1596",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt de la Cour du Travail est cassé pour les motifs suivants: \"L'article 6 de la Constitution signifie que tous les Belges sont tenus de se soumettre de la même manière aux prescriptions de la loi tout comme ils ont un droit égal à invoquer leur protection. Les articles 154 et 157 de l'A.R. du 20 décembre 1963 relatif à l'emploi et au chômage, modifié par l'A.R. du 22 décembre 1967 sont applicables en l'espèce jugée; la répartition en catégories visées par ces articles ne repose nullement sur une distinction arbitraire entre hommes et femmes comme telle, mais sur les circonstances que le salaire moyen de la travailleuse se situe à un niveau moins élève que celui des travailleurs du fait que les travailleuses exécutent généralement un travail moins bien rémunéré. Les articles 154 et 157 de l'arrêté royal précité ne sont dès lors pas contraires au principe d'égalité inscrit dans l'article 6 de la Constitution.\""
+      ],
+      "abstractNL": [
+        "Het arrest vernietigt het arrest van het Arbeidshof om de volgende redenen: \"Artikel 6 van de Grondwet betekent dat alle Belgen zich gelijkerwijze aan de voorschriften van de wet moeten onderwerpen, zoals zij allen hetzelfde recht hebben om de bescherming ervan in te roepen. De artikelen 154 en 157 van het K.B. van 20 december 1963 betreffende arbeidsvoorziening en werkloosheid, gewijzigd bij het K.B. van 22 december 1967, ten deze van toepassing zijn; de aldaar bepaalde indeling in categorieën niet berustte op een willekeurige onderscheid tussen mannen en vrouwen als dusdanig, maar op de omstandigheid dat het gemiddelde loon van de werkneemsters lager was dan dat van de werknemers, omdat de werkneemsters doorgaans een minder goed betaald werk verrichtten. De artikelen 154 en 157 van voormeld koninklijk besluit dus niet strijdig zijn met het gelijkheidsbeginsel neergelegd in artikel 6 van de Grondwet.\""
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910415.2": {
+      "court": "CASS",
+      "date": "1991-04-15",
+      "roleNumber": "9076",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/15/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Ni par ses motifs propres ni par ceux du premier juge qu'elle s'approprie, la cour du travail n'a répondu aux conclusions de la demanderesse qui invoquaient l'effet direct de l'article 119 du Traité instituant la Communauté économique européenne pour s'opposer à l'octroi d'une indemnité de fin de carrière aux seuls travailleurs masculins. Dans cette mesure, le moyen, en cette branche, est fondé."
+      ],
+      "abstractNL": null
+    }
+  },
+  "150": {
+    "ECLI:BE:CASS:1971:ARR.19710511.17": {
+      "court": "CASS",
+      "date": "1971-05-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/11/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation des traités instituant les Communautés européennes et par l'interprétation des actes pris par les institutions des Communautés donnée, sur son référé, par la Cour de justice des Communautés. (Traité instituant la Communauté économique européenne, art. 177, et traité instituant la Communauté européenne de l'énergie atomique, art. 150, approuvée par l'acte du pouvoir législatif du 2 décembre 1957.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van de verdragen tot oprichting van de Europese Gemeenschappen en door de uitlegging van de handelingen van de instellingen van de Gemeenschappen, die op zijn aanvraag door het Hof van Justitie van de Gemeenschappen worden gegeven. (Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, en verdrag tot oprichting van de Europese Gemeenschap voor atoomenergie, art. 150, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957.) (Impliciete oplossing.)"
       ]
     }
   },
@@ -1193,6 +1311,48 @@
       "abstractNL": [
         "Wanneer een vraag om uitlegging van het EEG-Verdrag of van een handeling van de instellingen van de Gemeenschap dezelfde is als waarover het Hof van Justitie van de Europese Gemeenschappen o.m. reeds een uitleggingsbeslissing heeft gewezen, behoeven de nationale rechterlijke instanties, waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, zich niet opnieuw, bij wege van een prejudiciële vraag, voor uitlegging tot het Hof te wenden, op voorwaarde echter dat zij zich bij die uitleggingsbeslissing aansluiten (Art. 177 EEG Verdrag) (Impliciet)."
       ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700416.5": {
+      "court": "CASS",
+      "date": "1970-04-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, est étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957.",
+        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, étant étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957, et une décision sur l'interprétation dudit article n'étant, dès lors, point nécessaire, la Cour ne renvoie pas à la Cour de justice des Communautés européennes pour statuer à titre préjudiciel sur l'interprétation de l'article 85 du Traité."
+      ],
+      "abstractNL": [
+        "De rechtsvordering om aan een partij te verbieden gebruik te maken van bepaalde vermeldingen, zowel in de officiële telefoongids als in het opschrift van haar brieven en in haar reclame, is vreemd aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957.",
+        "Aangezien de rechtsvordering om aan een partij te verbieden zowel in de officiële telefoongids als in de opschriften van haar brieven en in haar handelsreclame gebruik te maken van bepaalde vermeldingen, vreemd is aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957, en een beslissing over de uitlegging van dit artikel derhalve niet nodig is, verwijst het Hof de zaak niet naar het Hof van justitie van de Europese Gemeenschappen om bij wijze van prejudiciële beslissing uitspraak te doen over de uitlegging van artikel 85 van het Verdrag."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700216.13": {
+      "court": "CASS",
+      "date": "1970-02-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/16/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge national est lié par l'interprétation des traités instituant les Communautés européennes donnée, sur son référé, par la Cour de justice des Communautés; il lui appartient toutefois de déduire de cette interprétation toute règle, non exprimée, que cette interprétation implique nécessairement. ( Traité instituant la Communauté européenne de l'énergie atomique, art. 150, et traité instituant la Communauté économique européenne, art. 177, approuvée par acte du pouvoir législatif du 2 décembre 1957. )"
+      ],
+      "abstractNL": [
+        "De nationale rechter is gebonden door de uitlegging van de verdragen tot oprichting van de Europese Gemeenschappen, die, op zijn aanvraag, is gegeven door het Hof van justitie van de Europese Gemeenschappen; hij is evenwel bevoegd om uit deze uitlegging enigerlei niet uitgedrukte regel, die deze uitlegging noodzakelijk inhoudt, af te leiden. ( Verdrag tot oprichting van de Europese Gemeenschap voor atoomenergie, art. 150 en Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830615.4": {
+      "court": "CASS",
+      "date": "1983-06-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/15/sitemap_5.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het Hof van Justitie is krachtens art. 177 EEG niet bevoegd om uitspraak te doen op een vraag betreffende de overeenstemming van een Belgische wet met de bepaling van het EEG-Verdrag of de door de instellingen van de Gemeenschap verrichte handelingen."
+      ]
     }
   },
   "189": {
@@ -1209,6 +1369,16 @@
       "abstractNL": [
         "Aan art. 1080 Ger.W., in zoverre dit voorschrijft in het verzoekschrift tot cassatie de wettelijke bepalingen te vermelden waarvan schending wordt aangevoerd, wordt voldaan wanneer weliswaar geen schending wordt aangevoerd van de artt. 100 en 189 EG-Verdrag, maar de aangevoerde schending van de aangehaalde bepalingen van de EG Richtlijn en van het WBTW volstaat om tot vernietiging te leiden van de bestreden beslissing."
       ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811222.9": {
+      "court": "CASS",
+      "date": "1981-12-22",
+      "roleNumber": "6744",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/22/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   },
   "217": {
@@ -1787,106 +1957,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1991:ARR.19910415.2": {
-      "court": "CASS",
-      "date": "1991-04-15",
-      "roleNumber": "9076",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/15/sitemap_14.xml"
-      ],
-      "abstractFR": [
-        "Ni par ses motifs propres ni par ceux du premier juge qu'elle s'approprie, la cour du travail n'a répondu aux conclusions de la demanderesse qui invoquaient l'effet direct de l'article 119 du Traité instituant la Communauté économique européenne pour s'opposer à l'octroi d'une indemnité de fin de carrière aux seuls travailleurs masculins. Dans cette mesure, le moyen, en cette branche, est fondé."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1987:ARR.19870910.9": {
-      "court": "CASS",
-      "date": "1987-09-10",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/10/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "L'exclusivité peut être définie soit en fonction du type de matériel, soit en raison de la qualité des clients. Il n'y a pas de faute grave lorsque, en cours de préavis, le concessionnaire commence à distribuer des produits d'une autre marque, une telle distribution n'étant pas interdite par la convention de concession. Il est de l'essence de la faute grave de rendre impossible la poursuite des relations normales, même pendant la durée d'un préavis. Pour être contraire à l'article 85 du Traité de Rome, une convention de distribution doit avoir pour objet d'empêcher, de restreindre ou de fausser le jeu de la concurrence et doit être susceptible d'affecter le commerce entre les Etats membres."
-      ],
-      "abstractNL": [
-        "De exclusiviteit kan gedefinieerd worden, hetzij in functie van de verkochte goederen, hetzij in functie van de cliënteel. Is, in hoofde van de concessionaris, geen zware fout, het verdelen van produkten van een ander merk gedurende de opzeggingstermijn, wanneer de distributieovereenkomst dergelijke verdeling niet verbiedt. Noodzakelijke voorwaarde voor zware fout is het onmogelijk maken om normale handelsrelaties verder te zetten, zelfs tijdens de opzeggingstermijn. Opdat een distributieovereenkomst strijdig zou zijn met artikel 85 van het Verdrag van Rome, moet ze tot voorwerp hebben het verhinderen, beperken of vervalsen van de mededinging en moet zij bovendien de handel tussen de lidstaten kunnen beïnvloeden."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19841001.8": {
-      "court": "CASS",
-      "date": "1984-10-01",
-      "roleNumber": "83/10605",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/01/sitemap_12.xml"
-      ],
-      "abstractFR": [
-        "Depuis le 1er août 1971, date de son admission à la pension d'invalidité prévue par le régime belge de retraite d'ouvriers mineurs, le défendeur était, en Belgique, attributaire d'allocations familiales pour ses enfants Lucia, Antonietta et Pierro. Il quitta définitivement la Belgique le 09 août pour résider en Italie avec sa famille. Par lettre du 21 septembre 1979, la demanderesse avisa le défendeur que, depuis le 09 août 1979, le paiement des allocations familiales dues à ses enfants incombait à l'Italie par application de l'article 77, ° 2, b), i), du règlement n) 1408/71 du Conseil des ministres des Communautés européennes du 14 juin 1971 et qu'elle ne pouvait envisager de lui payer la différence entre, d'une part, les allocations familiales dues au moment de son départ en vertu de la législation belge et, d'autre part, les allocations versées par les institutions italiennes. L'arrêt relève que l'article 51, alinéa 3, des lois coordonnées relatives aux allocations familiales dispose que les allocations familiales ne sont pas dues en faveur des enfants élevés hors du Royaume. Répondant aux deux questions qui lui ont été soumises par la Cour, la Cour de justice des Communautés européennes a dit pour droit en son arrêt du 12 juillet 1984 : \"Si, dans le cas visé à l'article 77, alinéa 2, b), i), du règlement n) 1408/71, relatif à l'application des régimes de sécurité sociale aux travailleurs salariés et à leur famille qui se déplacent à l'intérieur de la Communauté (J.O. 1971, L. 149), le montant des prestations servies par l'Etat de résidence est inférieur à celui des prestations accordées par l'autre Etat débiteur, le travailleur conserve le bénéfice du montant plus élevé et a le droit de recevoir, à charge de l'institution sociale compétente de cet Etat, un complément de prestations égal à la différence entre les deux montants. L'examen des questions posées n'a pas révélé d'éléments de nature à affecter la validité de l'article 77, alinéa 2, b), i), du règlement n) 1408 précité\". Eu égard à l'interprétation qu'il y a lieu de donner au règlement n) 1048/71 et à sa validité au regard de l'article 51 du Traité de Rome, la cour du travail, en décidant que le défendeur était en droit d'obtenir, à charge de la demanderesse, le paiement d'une somme égale à la différence entre le montant des allocations familiales dues en application de la législation belge, s'il avait maintenu sa résidence en Belgique et le montant des prestations familiales effectivement perçu en Italie depuis le 09 août 1979, n'a pas violé les dispositions légales indiquées au moyen."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1984:ARR.19840618.9": {
-      "court": "CASS",
-      "date": "1984-06-18",
-      "roleNumber": "4359",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/18/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "L'obligation d'un ressortissant d'un pays membre de la CEE, qui exerce une activité indépendante en Belgique et dans son pays, de payer en Belgique des cotisations de sécurité sociale pour travailleurs indépendants, alors qu'il paye déjà des cotisations dans son propre pays, ne peut constituer une limitation de la liberté d'établissement que si un ressortissant belge qui exerce une activité indépendante dans les mêmes pays et qui paie des cotisations dans un autre pays, n'est pas tenu de cotiser en Belgique. (Traité instituant la Communauté économique européenne, art. 52.)"
-      ],
-      "abstractNL": [
-        "De verplichting van een onderdaan van een EEG Lid-Staat die een zelfstandige activiteit in België en in zijn land uitoefent, om in België sociale-zekerheidsbijdragen voor zelfstandigen te betalen, hoewel hij reeds in zijn eigen land bijdragen betaalt, kan de vrijheid van vestiging alleen beperken wanneer een Belgisch onderdaan die in dezelfde landen een zelfstandige activiteit uitoefent en in het andere land bijdragen betaalt, in België niet bijdrageplichtig is. ( Art. 52 EEG Verdrag. )"
-      ]
-    },
-    "ECLI:BE:CASS:1983:ARR.19830615.4": {
-      "court": "CASS",
-      "date": "1983-06-15",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/15/sitemap_5.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het Hof van Justitie is krachtens art. 177 EEG niet bevoegd om uitspraak te doen op een vraag betreffende de overeenstemming van een Belgische wet met de bepaling van het EEG-Verdrag of de door de instellingen van de Gemeenschap verrichte handelingen."
-      ]
-    },
-    "ECLI:BE:CASS:1981:ARR.19811222.9": {
-      "court": "CASS",
-      "date": "1981-12-22",
-      "roleNumber": "6744",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/22/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1980:ARR.19800612.7": {
-      "court": "CASS",
-      "date": "1980-06-12",
-      "roleNumber": "6107",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/12/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "Si, en vertu de l'article 177 du Traité de Rome, la Cour de cassation est tenue en principe, lorsqu'une question d'interprétation du droit communautaire est soulevée dans une affaire pendante devant elle, d'en saisir la Cour de justice des Communautés européennes, l'autorité de l'interprétation déjà donnée par celle-ci dans une espèce analogue peut, conformément à la jurisprudence de la Cour de justice, priver cette obligation de sa cause et la vider de son contenu et qu'il en est notamment ainsi lorsque la question soulevée est identique à une question ayant déjà fait l'objet d'une décision à titre préjudiciel dans une espèce analogue. L'interprétation de la Cour de justice des Communautés européennes a faite, en son arrêt du 18 mars 1980, nó 5279 des articles 59 et 60 du Traité de Rome, s'étend nécessairement aux articles 62 à 66 de ce Traité, lesquels sont relatifs aux modalités d'application de la suppression progressive, prescrites par l'article 59, des restrictions a la libre prestations des services à l'intérieur de la Communauté."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1973:ARR.19730502.6": {
-      "court": "CASS",
-      "date": "1973-05-02",
-      "roleNumber": "1596",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/02/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "L'arrêt de la Cour du Travail est cassé pour les motifs suivants: \"L'article 6 de la Constitution signifie que tous les Belges sont tenus de se soumettre de la même manière aux prescriptions de la loi tout comme ils ont un droit égal à invoquer leur protection. Les articles 154 et 157 de l'A.R. du 20 décembre 1963 relatif à l'emploi et au chômage, modifié par l'A.R. du 22 décembre 1967 sont applicables en l'espèce jugée; la répartition en catégories visées par ces articles ne repose nullement sur une distinction arbitraire entre hommes et femmes comme telle, mais sur les circonstances que le salaire moyen de la travailleuse se situe à un niveau moins élève que celui des travailleurs du fait que les travailleuses exécutent généralement un travail moins bien rémunéré. Les articles 154 et 157 de l'arrêté royal précité ne sont dès lors pas contraires au principe d'égalité inscrit dans l'article 6 de la Constitution.\""
-      ],
-      "abstractNL": [
-        "Het arrest vernietigt het arrest van het Arbeidshof om de volgende redenen: \"Artikel 6 van de Grondwet betekent dat alle Belgen zich gelijkerwijze aan de voorschriften van de wet moeten onderwerpen, zoals zij allen hetzelfde recht hebben om de bescherming ervan in te roepen. De artikelen 154 en 157 van het K.B. van 20 december 1963 betreffende arbeidsvoorziening en werkloosheid, gewijzigd bij het K.B. van 22 december 1967, ten deze van toepassing zijn; de aldaar bepaalde indeling in categorieën niet berustte op een willekeurige onderscheid tussen mannen en vrouwen als dusdanig, maar op de omstandigheid dat het gemiddelde loon van de werkneemsters lager was dan dat van de werknemers, omdat de werkneemsters doorgaans een minder goed betaald werk verrichtten. De artikelen 154 en 157 van voormeld koninklijk besluit dus niet strijdig zijn met het gelijkheidsbeginsel neergelegd in artikel 6 van de Grondwet.\""
-      ]
-    },
     "ECLI:BE:CASS:1972:ARR.19720527.1": {
       "court": "CASS",
       "date": "1972-05-27",
@@ -1899,36 +1969,6 @@
       ],
       "abstractNL": [
         "1° Wanneer er een conflict bestaat tussen een internrechtelijke norm en een bij verdrag bepaalde internationaalrechtelijke norm, die rechtstreekse gevolgen heeft in de interne rechtsorde, doet de door het verdrag bepaalde regel voorgaan, aangezien deze voorrang volgt uit de aard zelf van het bij verdrag bepaald internationaal recht. 2° Bestaat er een conflict tussen een norm van het intern recht en een norm van het gemeenschapsrecht, dan moet deze laatste voorgaan."
-      ]
-    },
-    "ECLI:BE:CASS:1971:ARR.19710511.17": {
-      "court": "CASS",
-      "date": "1971-05-11",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/11/sitemap_14.xml"
-      ],
-      "abstractFR": [
-        "Le juge national est lié par l'interprétation des traités instituant les Communautés européennes et par l'interprétation des actes pris par les institutions des Communautés donnée, sur son référé, par la Cour de justice des Communautés. (Traité instituant la Communauté économique européenne, art. 177, et traité instituant la Communauté européenne de l'énergie atomique, art. 150, approuvée par l'acte du pouvoir législatif du 2 décembre 1957.) (Solution implicite.)"
-      ],
-      "abstractNL": [
-        "De nationale rechter is gebonden door de uitlegging van de verdragen tot oprichting van de Europese Gemeenschappen en door de uitlegging van de handelingen van de instellingen van de Gemeenschappen, die op zijn aanvraag door het Hof van Justitie van de Gemeenschappen worden gegeven. (Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, en verdrag tot oprichting van de Europese Gemeenschap voor atoomenergie, art. 150, goedgekeurd bij de handeling van de wetgevende macht van 2 december 1957.) (Impliciete oplossing.)"
-      ]
-    },
-    "ECLI:BE:CASS:1970:ARR.19700416.5": {
-      "court": "CASS",
-      "date": "1970-04-16",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/16/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, est étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957.",
-        "L'action tendant à voir interdire à une partie d'user de certaines mentions, tant dans l'indicateur officiel de la Régie des téléphones que dans les intitulés de sa correspondance et dans sa publicité commerciale, étant étrangère à l'objet de l'article 85 du traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957 et approuvé par acte du pouvoir législatif du 2 décembre 1957, et une décision sur l'interprétation dudit article n'étant, dès lors, point nécessaire, la Cour ne renvoie pas à la Cour de justice des Communautés européennes pour statuer à titre préjudiciel sur l'interprétation de l'article 85 du Traité."
-      ],
-      "abstractNL": [
-        "De rechtsvordering om aan een partij te verbieden gebruik te maken van bepaalde vermeldingen, zowel in de officiële telefoongids als in het opschrift van haar brieven en in haar reclame, is vreemd aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957.",
-        "Aangezien de rechtsvordering om aan een partij te verbieden zowel in de officiële telefoongids als in de opschriften van haar brieven en in haar handelsreclame gebruik te maken van bepaalde vermeldingen, vreemd is aan het voorwerp van artikel 85 van het Verdrag tot oprichting van de Europese Economische Gemeenschap, getekend te Rome op 25 maart 1957 en goedgekeurd bij handeling van de wetgevende macht van 2 december 1957, en een beslissing over de uitlegging van dit artikel derhalve niet nodig is, verwijst het Hof de zaak niet naar het Hof van justitie van de Europese Gemeenschappen om bij wijze van prejudiciële beslissing uitspraak te doen over de uitlegging van artikel 85 van het Verdrag."
       ]
     },
     "ECLI:BE:CASS:1970:ARR.19700309.11": {
@@ -1945,20 +1985,6 @@
       "abstractNL": [
         "Wanneer een vraag omtrent de uitlegging van de beschikking van 17 juli 1962 van de Commissie van de Europese Economische Gemeenschap tot invoering van bijzondere methodes van administratieve samenwerking met het oog op de toepassing van intracommunautaire heffingen ingesteld in het kader van de gemeenschappelijke landbouwpolitiek en van de verordening nr 13/64 van 5 februari 1964 van de Ministerraad van de Gemeenschap houdende de totstandbrenging van een gemeenschappelijke ordening der markten in de zuivelsector, opgeworpen wordt voor een nationale rechterlijke instantie waarvan de beslissingen volgens het nationaal recht niet vatbaar zijn voor enig rechtsmiddel, met name een cassatieberoep, is de rechterlijke instantie ertoe verplicht de zaak aanhangig te maken bij het Hof van justitie van de Europese Gemeenschappen. ( Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )",
         "Wanneer bij het Hof van cassatie een geschil is aanhangig gemaakt omtrent de uitlegging van de beschikking van 17 juli 1962 van de Commissie van de Europese Economische Gemeenschap tot invoering van bijzondere methodes van administratieve samenwerking met het oog op de toepassing van intracommunautaire heffingen ingesteld in het kader van de gemeenschappelijke landbouwpolitiek en van de verordening nr 13/64 van 5 februari 1964 van de Ministerraad van de Gemeenschap houdende de totstandkoming van een gemeenschappelijke ordening der markten in de zuivelsector, stelt het Hof de uitspraak over de voorziening uit totdat het Hof van justitie van de Europese Gemeenschappen, bij wijze van prejudiciële beslissing, over deze uitlegging uitspraak heeft gedaan. ( Verdrag tot oprichting van de Europese Gemeenschap, art. 177, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )"
-      ]
-    },
-    "ECLI:BE:CASS:1970:ARR.19700216.13": {
-      "court": "CASS",
-      "date": "1970-02-16",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/16/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "Le juge national est lié par l'interprétation des traités instituant les Communautés européennes donnée, sur son référé, par la Cour de justice des Communautés; il lui appartient toutefois de déduire de cette interprétation toute règle, non exprimée, que cette interprétation implique nécessairement. ( Traité instituant la Communauté européenne de l'énergie atomique, art. 150, et traité instituant la Communauté économique européenne, art. 177, approuvée par acte du pouvoir législatif du 2 décembre 1957. )"
-      ],
-      "abstractNL": [
-        "De nationale rechter is gebonden door de uitlegging van de verdragen tot oprichting van de Europese Gemeenschappen, die, op zijn aanvraag, is gegeven door het Hof van justitie van de Europese Gemeenschappen; hij is evenwel bevoegd om uit deze uitlegging enigerlei niet uitgedrukte regel, die deze uitlegging noodzakelijk inhoudt, af te leiden. ( Verdrag tot oprichting van de Europese Gemeenschap voor atoomenergie, art. 150 en Verdrag tot oprichting van de Europese Economische Gemeenschap, art. 177, goedgekeurd bij handeling van de wetgevende macht van 2 december 1957. )"
       ]
     },
     "ECLI:BE:CASS:2002:ARR.20020905.3": {

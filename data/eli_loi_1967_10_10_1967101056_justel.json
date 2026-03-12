@@ -1,4 +1,18 @@
 {
+  "1410": {
+    "ECLI:BE:CASS:1974:ARR.19740522.12": {
+      "court": "CASS",
+      "date": "1974-05-22",
+      "roleNumber": "13115",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_10.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het invaliditeitspensioen van een mijnwerker is hem eigen. De scheiding van tafel en bed of de feitelijke scheiding van de echtgenoten geeft aan de echtgenote geen ander recht dan rechtstreeks een deel van het achterstallig pensioen te innen. In het stelsel van de wettelijke gemeenschap is het pensioen eigen, echter niet de achterstallen. Hieruit volgt dat de gemeenschap die zolang zo bestaat ervan geniet, verplicht is tot teruggave wanneer ze ze onverschuldigd ontving, welk ook de verdeling was tussen de echtgenoten. Anders gezegd, in geval van onverschuldigde betalingen, is de verbintenis tot teruggave ontstaan in hoofde van de tot inning van een deel of het geheel van de achterstallen wettelijk gemachtigde echtgenote, een schuld die niet strikt persoonlijk is aan de echtgenote maar die de gemeenschap en de echtgenoot persoonlijk overeenkomstig de beschikkingen van het Burgerlijk Wetboek verbindt."
+      ]
+    }
+  },
   "1498": {
     "ECLI:BE:CASS:2025:ARR.20250110.1N.8": {
       "court": "CASS",
@@ -267,20 +281,6 @@
       ],
       "abstractNL": [
         "Hoger beroep kan slechts worden ingesteld door iemand die in de procedure in eerste aanleg partij is geweest als eiser, verweerder of tussenkomende partij en door de beroepen beslissing in zijn belang wordt geschaad, wat het geval kan zijn wanneer zijn vordering door de eerste rechter niet werd toegekend; wanneer de rechter op verzoek van een belanghebbende beslist om de schuldbemiddelaar te vervangen, treedt de schuldbemiddelaar ook wanneer hij vooraf wordt opgeroepen om in raadkamer te worden gehoord, hierbij niet op als partij in het geding dat over zijn vervanging uitspraak doet."
-      ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1974:ARR.19740522.12": {
-      "court": "CASS",
-      "date": "1974-05-22",
-      "roleNumber": "13115",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/05/22/sitemap_10.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het invaliditeitspensioen van een mijnwerker is hem eigen. De scheiding van tafel en bed of de feitelijke scheiding van de echtgenoten geeft aan de echtgenote geen ander recht dan rechtstreeks een deel van het achterstallig pensioen te innen. In het stelsel van de wettelijke gemeenschap is het pensioen eigen, echter niet de achterstallen. Hieruit volgt dat de gemeenschap die zolang zo bestaat ervan geniet, verplicht is tot teruggave wanneer ze ze onverschuldigd ontving, welk ook de verdeling was tussen de echtgenoten. Anders gezegd, in geval van onverschuldigde betalingen, is de verbintenis tot teruggave ontstaan in hoofde van de tot inning van een deel of het geheel van de achterstallen wettelijk gemachtigde echtgenote, een schuld die niet strikt persoonlijk is aan de echtgenote maar die de gemeenschap en de echtgenoot persoonlijk overeenkomstig de beschikkingen van het Burgerlijk Wetboek verbindt."
       ]
     }
   },

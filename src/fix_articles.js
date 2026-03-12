@@ -5,7 +5,7 @@ import { logInfo, logSuccess, logWarn, logFatal, timestamp } from './logger.js';
 import { loadSettings, saveSettings, loadMissingEliFile, saveMissingEliFile, loadDataFile, saveDataFile, flushAll } from './storage.js';
 import { progress } from './progress.js';
 import { LOG_FILE } from './constants.js';
-import { extractOldStyleArticle, extractOldStyleArticleWithEli, extractLegalBasisKey, eliToFilename } from './utils.js';
+import { extractOldStyleArticle, extractOldStyleArticleWithEli, extractPublicationCounter, extractLegalBasisKey, eliToFilename } from './utils.js';
 
 /**
  * Prompt the user with a question and return their answer.
@@ -31,6 +31,23 @@ function promptUser(question) {
 }
 
 /**
+ * Find the publication counter from any sibling legalBase entry that shares
+ * the given ELI and has a two-segment raw text (\"DATE - ART - COUNTER\").
+ * Returns the counter string (e.g. \"01\"), or null if none is found.
+ * @param {string} eli
+ * @param {Array<{eli: string, legalBasisFR: string, legalBasisNL: string}>} allBases
+ */
+function _findCounterForEli(eli, allBases) {
+  for (const b of allBases) {
+    if (b.eli !== eli) continue;
+    const rawText = b.legalBasisFR || b.legalBasisNL || '';
+    const counter = extractPublicationCounter(rawText);
+    if (counter !== null) return counter;
+  }
+  return null;
+}
+
+/**
  * Review log.json entries where article="general" was detected, re-analyse
  * using the improved old-style article detection, and apply corrections
  * to data files and missing_eli.json.
@@ -47,6 +64,22 @@ export async function fixArticlesFromLog() {
 
   const logKeys = Object.keys(logData);
   logInfo(`${timestamp()} Found ${logKeys.length} total log entries.`);
+
+  // Build a global index: eli → publication counter.
+  // The counter is a fixed property of the law (not the judgment), so any
+  // two-segment raw text in ANY log entry for a given ELI can supply it —
+  // even when a specific entry only has a single-segment bare number and no
+  // sibling to compare against (e.g. "Loi - DATE - 101" with no "- COUNTER").
+  const globalCounterIndex = new Map();
+  for (const lk of logKeys) {
+    for (const base of (logData[lk].legalBases || [])) {
+      if (!base.eli || globalCounterIndex.has(base.eli)) continue;
+      const rawText = base.legalBasisFR || base.legalBasisNL || '';
+      const counter = extractPublicationCounter(rawText);
+      if (counter !== null) globalCounterIndex.set(base.eli, counter);
+    }
+  }
+  logInfo(`${timestamp()} Built global counter index for ${globalCounterIndex.size} ELI(s).`);
 
   // Collect entries that have "general" articles needing review.
   // - missingEliBases: use extractOldStyleArticle (no ELI, old-style format)
@@ -73,6 +106,8 @@ export async function fixArticlesFromLog() {
     }
     // Check legalBases (ELI entries) for "general" articles that hide an
     // article number before the publication counter: "- ARTICLE - COUNTER Lien ELI".
+    // Also handles single-segment comma-qualified ("DATE - 39,§1") and bare
+    // numbers disambiguated via sibling entries for the same ELI.
     // Deduplicate by ELI: one review item per unique (logKey, eli) pair.
     const eliMap = new Map(); // eli → { rawText, articles: Set }
     for (const base of (entry.legalBases || [])) {
@@ -80,10 +115,28 @@ export async function fixArticlesFromLog() {
         const rawText = base.legalBasisFR || base.legalBasisNL || '';
         const articles = extractOldStyleArticleWithEli(rawText);
         if (articles) {
+          // Two-segment or comma-qualified single-segment detected.
           if (!eliMap.has(base.eli)) {
             eliMap.set(base.eli, { rawText, articles: new Set() });
           }
           for (const a of articles) eliMap.get(base.eli).articles.add(a);
+        } else {
+          // Try single-segment bare number: "DATE - N" (no trailing text).
+          // Disambiguate using the publication counter found in any sibling
+          // legalBase (same ELI) that has a two-segment format.
+          const bareN = (rawText.match(/\d{2}-\d{2}-\d{4}\s*-\s*(\d+)\s*$/) || [])[1] ?? null;
+          if (bareN !== null) {
+            // Local sibling first; fall back to the cross-entry global index.
+            const counter = _findCounterForEli(base.eli, entry.legalBases)
+              ?? globalCounterIndex.get(base.eli)
+              ?? null;
+            if (counter !== null && parseInt(bareN, 10) !== parseInt(counter, 10)) {
+              if (!eliMap.has(base.eli)) {
+                eliMap.set(base.eli, { rawText, articles: new Set() });
+              }
+              eliMap.get(base.eli).articles.add(bareN);
+            }
+          }
         }
       }
     }

@@ -1,4 +1,19 @@
 {
+  "12": {
+    "ECLI:BE:CASS:1980:ARR.19800630.2": {
+      "court": "CASS",
+      "date": "1980-06-30",
+      "roleNumber": "79/41354",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 12, paragraphe 2 du règlement nó 140871 qui apporte des exceptions à l'application des clauses de réduction, de suspension ou de suppression prévues par la législation d'un Etat membre _ telles que l'article 52 de l'arrête royal du 21 décembre 1967 _ ne peut être invoqué utilement par application des arrêts du 13 octobre 1977 (2277) et du 14 mars 1978 (9877 et 10577) de la Cour de Justice lorsque seules les législations nationales en cause ont été appliquées et que l'article 46 du même règlement ne trouve aucune application.",
+        "L'article 15 du règlement nó 140871 déroge, en matière de pension, à la règle générale énoncée par l'article 13 de ce règlement selon laquelle un travailleur n'est en principe soumis, au même moment, qu'à la législation d'un Etat membre, en prévoyant qu'un assuré social peut, en cette matière, être admis à l'assurance volontaire ou facultative continuée d'un Etat membre, même s'il est obligatoirement soumis à la législation d'un autre Etat membre. Cette disposition, qui est relative au double assujettissement d'une même personne, lui ouvrant un droit à des prestations de même nature, est étrangère au cas d'espèce; en effet, la licéité de la réduction de la pension de survie de la demanderesse en application de l'article 52 de l'arrêté royal du 21 décembre 1967 ne dépend pas de la question de savoir si l'intéressée a ou non été assujettie simultanément au régime de pension de retraite et de survie prévu par l'arrêté royal nó 50 du 24.10.1967 et au régime de l'\"Algemene Ouderdomswet\"."
+      ],
+      "abstractNL": null
+    }
+  },
   "14": {
     "ECLI:BE:CASS:2018:ARR.20180619.1": {
       "court": "CASS",
@@ -15,7 +30,7 @@
       ]
     }
   },
-  "general": {
+  "52": {
     "ECLI:BE:CASS:1980:ARR.19800630.2": {
       "court": "CASS",
       "date": "1980-06-30",

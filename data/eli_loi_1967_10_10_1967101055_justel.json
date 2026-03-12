@@ -1,4 +1,19 @@
 {
+  "52": {
+    "ECLI:BE:CASS:1980:ARR.19801208.5": {
+      "court": "CASS",
+      "date": "1980-12-08",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, qui dispose que le Fonds des maladies professionnelles statue sur \"toutes demandes en réparation\", n'énonce pas une règle incompatible avec les articles 807 et 808 du Code judiciaire. Cette disposition se borne, à cet égard, à désigner l'autorité administrative chargée de statuer sur les demandes d'indemnisation introduites par la victime d'une maladie professionnelle, ses ayants droit ou leurs mandataires, sans imposer que toute demande nouvelle formée devant la juridiction du travail saisie d'une contestation sur le droit à l'indemnisation soit soumise à une procédure administrative préalable. L'obligation pour le juge de statuer sur les demandes dont il est saisi, telles qu'elles ont été légalement modifiées conformément aux articles 807 et 808 du Code judiciaire implique la possibilité de tenir compte des faits survenus en cours d'instance et qui ont une incidence sur le litige même si, recevable, la demande originaire n'est pas fondée.",
+        "Si, aux termes de l'article 1068 du Code judiciaire, tout appel d'un jugement définitif ou avant dire droit saisit du fond du litige le juge d'appel, il appartient toutefois aux parties de déterminer par l'appel principal ou incident les limites dans lesquelles le juge d'appel doit statuer sur les contestations dont le premier juge a été saisi. Lorsque tant dans l'acte d'appel que dans ses conclusions devant la cour du travail, le défendeur avait expressément excepté de son appel la décision du premier juge de porter la rémunération de base annuelle du demandeur à 202.872 francs à partir du 1er janvier 1972. Les juges d'appel étaient dès lors sans pouvoir pour réformer sur ce point le jugement entrepris."
+      ],
+      "abstractNL": null
+    }
+  },
   "667": {
     "ECLI:BE:CASS:2025:ARR.20251126.2F.12": {
       "court": "CASS",
@@ -278,6 +293,20 @@
       ],
       "abstractNL": [
         "Vertaling nog niet beschikbaar"
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040203.3": {
+      "court": "CASS",
+      "date": "2004-02-03",
+      "roleNumber": "P031427N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/02/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas requis que le juge qui a participé au délibéré et qui est légitimement empêché au moment de la décision et qui est remplacé ensuite de l'ordonnance du premier président de la cour d'appel, soit présent aux audiences au cours desquelles la cause est remise à une date ultérieure en raison d'un délibéré ultérieur (1). (1) Cass., 18 sept. 2001, RG P.99.1878.N, n° 469; Cass., 2 oct. 2001, RG P.00.0049.N, n° 511."
+      ],
+      "abstractNL": [
+        "Het is niet vereist dat de rechter die mede beraadslaagd heeft en die op het ogenblik van de uitspraak van het arrest wettig verhinderd is en vervangen wordt ingevolge bevelschrift van de eerste voorzitter van het hof van beroep, aanwezig is op de zittingen waarop de zaak wegens verder beraad op een latere datum wordt uitgesteld (1). (1) Cass., 18 sept. 2001, AR P.99.1878.N, nr 469; Cass., 2 okt. 2001, AR P.00.0049.N, nr 511."
       ]
     }
   },
@@ -2925,6 +2954,18 @@
       "abstractNL": [
         "De rechter in hoger beroep kan aan de verplichting om het voorwerp van de vordering in zijn beslissing te vermelden voldoen door te verwijzen naar het beroepen vonnis, voor zover de vorderingen voor de eerste rechter en in hoger beroep dezelfde zijn (1). (1) Zie Cass. 5 december 2022, AR C.22.0216.N, ECLI:BE:CASS:2022:ARR.20221205.3N.3; Cass. 28 mei 2020, AR C.18.0079.N, AC 2020, nr. 329."
       ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800218.10": {
+      "court": "CASS",
+      "date": "1980-02-18",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/18/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La recevabilité d'une nouvelle demande devant le juge d'appel ne peut pas être admise à la seule lumière des articles 807 et 1042 du Code judiciaire, lorsque le défendeur lui oppose également la prescription."
+      ],
+      "abstractNL": null
     }
   },
   "1044": {
@@ -3183,6 +3224,31 @@
       "abstractNL": [
         "Met ‘eindvonnis' in de zin van de artikelen 19, eerste lid en derde lid, 1050, eerste en tweede lid en 1068, eerste lid Gerechtelijk Wetboek doelt de wetgever op een eindbeslissing waarmee de rechter een geschilpunt definitief beslecht, zodat hij zijn rechtsmacht over dat punt uitput (1). (1) Cass 14 juni 2018, AR C.17.0595, AC 2018, nr. 387.",
         "De in artikel 1068, eerste lid, Gerechtelijk Wetboek bedoelde devolutieve werking van het hoger beroep doet geen afbreuk aan de partijautonomie die maakt dat de partijen door principaal en incidenteel hoger beroep de grenzen bepalen waarbinnen de appelrechter uitspraak moet doen over het door de eerste rechter beoordeelde geschil; de appelrechter kan een beroepen vonnis niet opnieuw beoordelen op vorderingen of punten van vorderingen van het door de eerste rechter beoordeelde geschil die niet zijn aangevochten; hij kan zich evenmin buigen over een niet-beroepen vonnis, ook al is dat in dezelfde zaak gewezen; het hoger beroep werkt derhalve relatief in die zin dat de appelrechter enkel uitspraak kan doen over een eindbeslissing of een beslissing alvorens recht te spreken van de eerste rechter indien deze is beroepen."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801208.5": {
+      "court": "CASS",
+      "date": "1980-12-08",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, qui dispose que le Fonds des maladies professionnelles statue sur \"toutes demandes en réparation\", n'énonce pas une règle incompatible avec les articles 807 et 808 du Code judiciaire. Cette disposition se borne, à cet égard, à désigner l'autorité administrative chargée de statuer sur les demandes d'indemnisation introduites par la victime d'une maladie professionnelle, ses ayants droit ou leurs mandataires, sans imposer que toute demande nouvelle formée devant la juridiction du travail saisie d'une contestation sur le droit à l'indemnisation soit soumise à une procédure administrative préalable. L'obligation pour le juge de statuer sur les demandes dont il est saisi, telles qu'elles ont été légalement modifiées conformément aux articles 807 et 808 du Code judiciaire implique la possibilité de tenir compte des faits survenus en cours d'instance et qui ont une incidence sur le litige même si, recevable, la demande originaire n'est pas fondée.",
+        "Si, aux termes de l'article 1068 du Code judiciaire, tout appel d'un jugement définitif ou avant dire droit saisit du fond du litige le juge d'appel, il appartient toutefois aux parties de déterminer par l'appel principal ou incident les limites dans lesquelles le juge d'appel doit statuer sur les contestations dont le premier juge a été saisi. Lorsque tant dans l'acte d'appel que dans ses conclusions devant la cour du travail, le défendeur avait expressément excepté de son appel la décision du premier juge de porter la rémunération de base annuelle du demandeur à 202.872 francs à partir du 1er janvier 1972. Les juges d'appel étaient dès lors sans pouvoir pour réformer sur ce point le jugement entrepris."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1983:ARR.19831003.12": {
+      "court": "CASS",
+      "date": "1983-10-03",
+      "roleNumber": "14684",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/03/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "\"Overwegende dat de beslissing, waarbij de rechter, na uitspraak te hebben gedaan over de ontvankelijkheid van de vorderingen en bepaalde betwistingen in verband met die vorderingen te hebben beslecht, de zaak uitstelt opdat de partijen over de zaak nader zouden concluderen, al betrof het een beslissing tot heropening van de debatten, geen onderzoeksmaatregel is in de zin van artikel 1068 van het Gerechtelijk Wetboek; \"Overwegende dat hieruit volgt dat de rechtbank, bij wie door het hoger beroep van eiser tegen de door de eerste rechter getroffen beslissingen, de zaak zelf _ in zoverre zij eiser aanbelangt _ aanhangig was gemaakt, door na te laten over de d"
       ]
     }
   },
@@ -3462,6 +3528,20 @@
       ]
     }
   },
+  "1133": {
+    "ECLI:BE:CASS:1982:ARR.19820217.8": {
+      "court": "CASS",
+      "date": "1982-02-17",
+      "roleNumber": "83/828;83/829",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/17/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De herroeping van het gewijsde is een buitengewoon rechtsmiddel dat slechts voor diegenen openstaat die de kans niet hebben gehad met de gewone rechtsmiddelen bepaalde middelen te laten gelden die niet waren gebleken of die de eiser niet kon gekend hebben vóór de beslissing waarvan de herroeping wordt gevorderd of vóór het verstrijken van de termijnen der gewone rechtsmiddelen die tegen dit vonnis openstaan."
+      ]
+    }
+  },
   "1135": {
     "ECLI:BE:CASS:2025:ARR.20251010.1F.4": {
       "court": "CASS",
@@ -3513,6 +3593,20 @@
       "abstractNL": [
         "De rechter mag geen uitspraak doen over niet gevorderde zaken of meer toekennen dan er gevraagd was (1). (1) Zie concl. OM.",
         "De rechter mag geen uitspraak doen over niet gevorderde zaken of meer toekennen dan er gevraagd was (1). (1) Zie concl. OM in Pas. 2023, nr. 41."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011019.12": {
+      "court": "CASS",
+      "date": "2001-10-19",
+      "roleNumber": "C990445F;C000678F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne méconnaît pas les principes généraux du droit notamment de l'autonomie des parties et du principe dispositif du droit au respect du contradictoire et des droits de la défense, le juge qui n'a pas retenu des faits ou des fautes que la défenderesse n'avait pas invoqués et dont la demanderesse n'avait pu débattre (1)."
+      ],
+      "abstractNL": [
+        "De rechter die geen feiten of fouten heeft in aanmerking genomen die niet door verweerster waren aangevoerd en waarover eiseres geen debat had kunnen voeren, miskent de volgende algemene rechtsbeginselen niet: de autonomie der procespartijen, het beschikkingsbeginsel, het recht op tegenspraak en dat recht van verdediging (1)."
       ]
     }
   },
@@ -3808,85 +3902,6 @@
       "abstractNL": [
         "Uit artikel 782bis, eerste lid, Gerechtelijk Wetboek volgt dat in strafzaken het vonnis in beginsel wordt uitgesproken in aanwezigheid van het openbaar ministerie en die bepaling is ook van toepassing op de strafuitvoeringsrechtbank; het vonnis dat het werd uitgesproken in openbare rechtszitting in afwezigheid van het openbaar ministerie is dan ook gewezen met schending van de vermelde bepaling (1). (1) Vg. Cass. 10 juni 2025, AR P.25.0702.N, ECLI:BE:CASS:2025:ARR.20250610.2N.14 met concl. van advocaat-generaal A. WINANTS."
       ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:2004:ARR.20040203.3": {
-      "court": "CASS",
-      "date": "2004-02-03",
-      "roleNumber": "P031427N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/02/03/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Il n'est pas requis que le juge qui a participé au délibéré et qui est légitimement empêché au moment de la décision et qui est remplacé ensuite de l'ordonnance du premier président de la cour d'appel, soit présent aux audiences au cours desquelles la cause est remise à une date ultérieure en raison d'un délibéré ultérieur (1). (1) Cass., 18 sept. 2001, RG P.99.1878.N, n° 469; Cass., 2 oct. 2001, RG P.00.0049.N, n° 511."
-      ],
-      "abstractNL": [
-        "Het is niet vereist dat de rechter die mede beraadslaagd heeft en die op het ogenblik van de uitspraak van het arrest wettig verhinderd is en vervangen wordt ingevolge bevelschrift van de eerste voorzitter van het hof van beroep, aanwezig is op de zittingen waarop de zaak wegens verder beraad op een latere datum wordt uitgesteld (1). (1) Cass., 18 sept. 2001, AR P.99.1878.N, nr 469; Cass., 2 okt. 2001, AR P.00.0049.N, nr 511."
-      ]
-    },
-    "ECLI:BE:CASS:2001:ARR.20011019.12": {
-      "court": "CASS",
-      "date": "2001-10-19",
-      "roleNumber": "C990445F;C000678F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/19/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Ne méconnaît pas les principes généraux du droit notamment de l'autonomie des parties et du principe dispositif du droit au respect du contradictoire et des droits de la défense, le juge qui n'a pas retenu des faits ou des fautes que la défenderesse n'avait pas invoqués et dont la demanderesse n'avait pu débattre (1)."
-      ],
-      "abstractNL": [
-        "De rechter die geen feiten of fouten heeft in aanmerking genomen die niet door verweerster waren aangevoerd en waarover eiseres geen debat had kunnen voeren, miskent de volgende algemene rechtsbeginselen niet: de autonomie der procespartijen, het beschikkingsbeginsel, het recht op tegenspraak en dat recht van verdediging (1)."
-      ]
-    },
-    "ECLI:BE:CASS:1983:ARR.19831003.12": {
-      "court": "CASS",
-      "date": "1983-10-03",
-      "roleNumber": "14684",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/03/sitemap_13.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "\"Overwegende dat de beslissing, waarbij de rechter, na uitspraak te hebben gedaan over de ontvankelijkheid van de vorderingen en bepaalde betwistingen in verband met die vorderingen te hebben beslecht, de zaak uitstelt opdat de partijen over de zaak nader zouden concluderen, al betrof het een beslissing tot heropening van de debatten, geen onderzoeksmaatregel is in de zin van artikel 1068 van het Gerechtelijk Wetboek; \"Overwegende dat hieruit volgt dat de rechtbank, bij wie door het hoger beroep van eiser tegen de door de eerste rechter getroffen beslissingen, de zaak zelf _ in zoverre zij eiser aanbelangt _ aanhangig was gemaakt, door na te laten over de d"
-      ]
-    },
-    "ECLI:BE:CASS:1982:ARR.19820217.8": {
-      "court": "CASS",
-      "date": "1982-02-17",
-      "roleNumber": "83/828;83/829",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/17/sitemap_8.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De herroeping van het gewijsde is een buitengewoon rechtsmiddel dat slechts voor diegenen openstaat die de kans niet hebben gehad met de gewone rechtsmiddelen bepaalde middelen te laten gelden die niet waren gebleken of die de eiser niet kon gekend hebben vóór de beslissing waarvan de herroeping wordt gevorderd of vóór het verstrijken van de termijnen der gewone rechtsmiddelen die tegen dit vonnis openstaan."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19801208.5": {
-      "court": "CASS",
-      "date": "1980-12-08",
-      "roleNumber": "74/347",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/08/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "L'article 52 des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, qui dispose que le Fonds des maladies professionnelles statue sur \"toutes demandes en réparation\", n'énonce pas une règle incompatible avec les articles 807 et 808 du Code judiciaire. Cette disposition se borne, à cet égard, à désigner l'autorité administrative chargée de statuer sur les demandes d'indemnisation introduites par la victime d'une maladie professionnelle, ses ayants droit ou leurs mandataires, sans imposer que toute demande nouvelle formée devant la juridiction du travail saisie d'une contestation sur le droit à l'indemnisation soit soumise à une procédure administrative préalable. L'obligation pour le juge de statuer sur les demandes dont il est saisi, telles qu'elles ont été légalement modifiées conformément aux articles 807 et 808 du Code judiciaire implique la possibilité de tenir compte des faits survenus en cours d'instance et qui ont une incidence sur le litige même si, recevable, la demande originaire n'est pas fondée.",
-        "Si, aux termes de l'article 1068 du Code judiciaire, tout appel d'un jugement définitif ou avant dire droit saisit du fond du litige le juge d'appel, il appartient toutefois aux parties de déterminer par l'appel principal ou incident les limites dans lesquelles le juge d'appel doit statuer sur les contestations dont le premier juge a été saisi. Lorsque tant dans l'acte d'appel que dans ses conclusions devant la cour du travail, le défendeur avait expressément excepté de son appel la décision du premier juge de porter la rémunération de base annuelle du demandeur à 202.872 francs à partir du 1er janvier 1972. Les juges d'appel étaient dès lors sans pouvoir pour réformer sur ce point le jugement entrepris."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1980:ARR.19800218.10": {
-      "court": "CASS",
-      "date": "1980-02-18",
-      "roleNumber": "6515",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/18/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "La recevabilité d'une nouvelle demande devant le juge d'appel ne peut pas être admise à la seule lumière des articles 807 et 1042 du Code judiciaire, lorsque le défendeur lui oppose également la prescription."
-      ],
-      "abstractNL": null
     }
   }
 }

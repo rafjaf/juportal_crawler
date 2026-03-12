@@ -15,79 +15,7 @@
       ]
     }
   },
-  "8": {
-    "ECLI:BE:CASS:2000:ARR.20000417.3": {
-      "court": "CASS",
-      "date": "2000-04-17",
-      "roleNumber": "C970181N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/17/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "En cas de concours entre le privilège du fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises pour ses créances fondées sur l'article 8, alinéa 1er de la loi du 30 juin 1967 et le privilège du travailleur salarié pour les rémunérations et les indemnités dues par son employeur, la règle de la proportionnalité doit être appliquée à leurs créances respectives."
-      ],
-      "abstractNL": [
-        "In geval van samenloop van het voorrecht van het sluitingsfonds voor zijn schuldvorderingen gegrond op artikel 8, eerste lid Wet 30 juni 1967 met het voorrecht van de werknemer voor de hem door zijn werkgever verschuldigde lonen en vergoedingen, moet de evenredigheidsregel op hun respectievelijke schuldvorderingen worden toegepast."
-      ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1994:ARR.19940307.13": {
-      "court": "CASS",
-      "date": "1994-03-07",
-      "roleNumber": "S930103N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/07/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises n'est pas tenu de payer les avantages prévus à l'article 2 de la loi du 30 juin 1967 avant que les conditions, visées à l'article 6 de cette loi et à l'arrêté royal du 6 juillet 1967, ne soient remplies.",
-        "La créance du travailleur sur le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises n'est pas exigible avant que les conditions, prévues à l'article 6 de la loi du 30 juin 1967 et à l'arrêté royal du 6 juillet 1967, ne soient remplies et avant l'expiration d'un délai raisonnable pour examiner la demande de paiement, pour prendre une décision et payer les avantages.",
-        "Les intérêts moratoires ne sont dus que lorsque l'obligation de payer une somme déterminée est exécutée en retard; tant que la dette n'est pas exigible, l'obligation n'est pas exécutée en retard. (C. civ., art. 1153 et L. 30 juin 1967, art. 6)."
-      ],
-      "abstractNL": [
-        "Het sluitingsfonds heeft geen verplichting tot betalen van de voordelen bedoeld in art. 2 Sluitingsfondswet voordat is voldaan aan de voorwaarden gesteld bij art. 6 van die wet en het K.B. van 6 juli 1967.",
-        "De werknemer heeft op het sluitingsfonds geen opeisbare vordering voordat is voldaan aan de voorwaarden gesteld bij art. 6 Sluitingsfondswet en het K.B. van 6 juli 1967 en voordat is verstreken een redelijke termijn voor het onderzoek van de aanvraag, het nemen van de beslissing en de uitbetaling van de voordelen.",
-        "Moratoire interest is slechts verschuldigd wanneer de verbintenis tot betaling van een bepaalde geldsom met vertraging is uitgevoerd; zolang de schuld niet opeisbaar is wordt de verbintenis niet met vertraging uitgevoerd (Art. 1153 B.W. en art. 6 W. 30 juni 1967)."
-      ]
-    },
-    "ECLI:BE:CASS:1990:ARR.19901109.6": {
-      "court": "CASS",
-      "date": "1990-11-09",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/11/09/sitemap_5.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1989:ARR.19891016.4": {
-      "court": "CASS",
-      "date": "1989-10-16",
-      "roleNumber": "11749",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/16/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Il se déduit de l'économie de la loi du 30 juin 1967 qu'en cas de concours du privilège conféré à l'Office national de sécurité sociale par l'article 19, 4ter de la loi hypothécaire avec le privilège du Fonds, en tant que subrogé aux droits de cet office, ce dernier peut exercer ses droits, pour ce qui lui reste dû par l'employeur, par préférence au Fonds."
-      ],
-      "abstractNL": [
-        "Uit de economie van de Wet van 30 juni 1967 valt af te leiden dat, in geval van samenloop van het bij artikel 19, 4ter van de Hypotheekwet aan de Rijksdienst voor Sociale Zekerheid verleende voorrecht met het voorrecht van het Fonds, als in de plaats gestelde van de rechten van die dienst, deze zijn rechten voor het hem door de werkgever nog verschuldigde bedrag kan uitoefenen, bij voorrang boven het Fonds."
-      ]
-    },
-    "ECLI:BE:CASS:1989:ARR.19890911.7": {
-      "court": "CASS",
-      "date": "1989-09-11",
-      "roleNumber": "10350",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/11/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "La demande en paiement visée par l'article 6 de la loi du 30 juin 1967 ne peut pas être considérée comme une sommation de payer au sens de l'article 1153 du Code civil, puisqu'elle ne vaut pas mise en demeure. La condamnation du Fonds au paiement du coût de la citation n'est pas légale lorsque l'arrêt ne rencontre pas la défense de celui-ci fondée sur l'article 1382 du Code Civil."
-      ],
-      "abstractNL": [
-        "Het verzoek tot betaling als bedoeld in artikel 6 van de wet van 30 juni 1967 kan niet als een aanmaning tot betaling in de zin van artikel 1153 van het Burgerlijk Wetboek worden aangemerkt, nu het geen ingebrekestelling is. De veroordeling van het Fonds tot betaling van de kosten van de dagvaarding is niet wettig wanneer het arrest diens op artikel 1382 van het Burgerlijk Wetboek gestoeld verweer niet beantwoordt."
-      ]
-    },
+  "2": {
     "ECLI:BE:CASS:1988:ARR.19881205.15": {
       "court": "CASS",
       "date": "1988-12-05",
@@ -102,6 +30,60 @@
         "Het verzoek van de werknemer tot betaling door het Sluitingsfonds van de voordelen bedoeld in art. 2 Sluitingsfondswet is geen aanmaning tot betaling die het recht op moratoire interest doet ingaan. (Art. 1153 B.W.)."
       ]
     },
+    "ECLI:BE:CASS:1983:ARR.19830131.7": {
+      "court": "CASS",
+      "date": "1983-01-31",
+      "roleNumber": "6617",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/31/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Si, en règle, le travailleur ne peut introduire en justice une demande de payement des avantages prévus à l'article 2 de la loi du 30 juin 1967, portant extension de la mission du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, contre ledit Fonds qu'après qu'une demande de payement ait été introduite conformément aux conditions fixées par l'article 6 de ladite loi et par l'arrêté royal du 6 juillet 1967 pris en exécution de cet article, à moins que le litige ne porte sur l'observation de ces dernières dispositions, il en est autrement lorsque, le Fonds ayant introduit une demande en remboursement d'avantages payés par lui au travailleur, celui-ci forme une demande reconventionnelle tendant à la compensation judiciaire en réclamant les avantages prévus par la loi pour une période autre que celle qui a servi de base au calcul des avantages dont le remboursement est demandé.",
+        "Le droit du travailleur au payement de l'indemnité de congé qui lui est due par son employeur, à charge du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, ne prend naissance qu'au jour où l'employeur cesse de s'acquitter de ses obligations en n'observant pas le délai du préavis qu'il a donné à ce travailleur avant la fermeture. (Loi du 30 juin 1967, art. 2.)"
+      ],
+      "abstractNL": [
+        "Hoewel de werknemer, in de regel, geen vordering in rechte strekkende tot betaling van de voordelen waarvan sprake is in art. 2 wet 30 juni 1967 tot verruiming van de opdracht van het Fonds tot Vergoeding van de in Geval van Sluiting van Ondernemingen Ontslagen Werknemers, tegen dat Fonds kan instellen dan nadat een aanvraag tot betaling is ingediend volgens de voorschriften van art. 6 genoemde wet en van het K.B. 6 juli 1967 ter uitvoering van dat artikel, tenzij de betwisting gaat over de nakoming van laatstgenoemde bepalingen <1>, is zulks niet het geval wanneer, ten gevolge van een vordering van het Fonds tot terugbetaling van voordelen die het aan de werknemer heeft betaald, deze een tegenvordering tot gerechtelijke schuldvergelijking instelt door de in de wet bedoelde voordelen te vragen voor een andere periode dan die welke tot grondslag heeft gediend voor de berekening van de voordelen die worden teruggevorderd.",
+        "Het recht van de werknemer op betaling van de opzeggingsvergoeding die hem door zijn werkgever is verschuldigd, ten laste van het Fonds tot Vergoeding van de in Geval van Sluiting van Ondernemingen Ontslagen Werknemers, ontstaat pas op de datum waarop de werkgever zijn verplichtingen niet meer nakomt door geen uitvoering te geven aan de opzeggingstermijn die hij aan die werknemer heeft gegeven vóór de sluiting. (Art. 2 wet 30 juni 1967.)"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850617.6": {
+      "court": "CASS",
+      "date": "1985-06-17",
+      "roleNumber": "37187",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/17/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour qu'il y ait \"fermeture d'entreprise\" donnant lieu à application de la loi du 30 juin 1967, les deux conditions fixées par l'article 2 de la loi du 28 juin 1966 doivent être remplies, que l'entreprise ait cessé toute activité ou seulement son activité principale, que le nombre de travailleurs qu'elle occupait au cours de l'année écoulée fût ou non inférieur au minimum de 20 travailleurs fixé par l'article 1er de la loi du 28 juin 1966. En décidant que l'article 2 de la loi du 28 juin 1966 n'était pas d'application aux motifs, d'une part, que l'entreprise n'aurait pas occupé le nombre minimal de 20 travailleurs et, d'autre part, que l'entreprise avait cessé toute activité, l'arrêt du 9 février 1984 viole l'article 2 de la loi du 28 juin 1966 et l'article 2 de la loi du 30 juin 1967."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1982:ARR.19821206.10": {
+      "court": "CASS",
+      "date": "1982-12-06",
+      "roleNumber": "12201",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Krachtens artikel 4, eerste en tweede lid, van de wet van 30 juni 1967 tot verruiming van de opdracht van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers, zijn de bepalingen van artikel 2 van toepassing voor de bedienden, wanneer de arbeidsovereenkomst beëindigd werd in de loop van achttien maanden die aan sluiting van de onderneming voorafgaan. In die zin van deze bepaling, wordt de arbeidsovereenkomst beëindigd op het ogenblik dat de handeling die de arbeidsovereenkomst doet eindigen, wordt gesteld; wanneer de werkgever opzegging geeft, wordt de arbeidsovereenkomst beëindigd op het ogenblik dat de werkgever het ontslag ter kennis van de werknemer brengt en niet op het ogenblik dat de rechtsbetrekking tussen partijen een einde neemt."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760317.6": {
+      "court": "CASS",
+      "date": "1976-03-17",
+      "roleNumber": "5277",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La Cour du travail de Liège s'était déclarée compétente pour connaître d'une action au paiement d'une indemnité complémentaire de préavis introduite contre le curateur de la faillite de l'employeur. D'autre part, elle avait décidé que le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise pouvait être mis à la cause pour garantir les droits du travailleur afin que la décision à intervenir contre la faillite lui soit opposable. Pourvoi en cassation du curateur et du Fonds susdit. La Cour suprême joint les pourvois. Elle rejette les pourvois du curateur et de l'Office national de l'emploi et casse l'arrêt attaqué en tant seulement qu'il statue sur l'action dirigée contre le Fonds d'indemnisation cité; renvoi de la cause ainsi limitée à la Cour du travail de Mons et ce par les motifs: 1° Pourvoi du curateur: En vertu de l'article 574, 2° du Code judiciaire, tel qu'il était rédigé avant la modification du 24 mars 1975, toutes les contestations qui devaient être vidées pour parvenir à la liquidation d'une faillite, étaient de la compétence du tribunal de commerce. Il en était spécialement ainsi des contestations relatives à la créance d'un employé du chef d'une indemnité de préavis. Ladite loi du 24 mars 1975 a modifié l'article 574, 2°, du Code judiciaire et pareilles contestations ne sont de la compétence du tribunal de commerce que si des éléments de solution du litige résident dans le droit particulier qui concerne le régime des faillites, concordats et sursis de paiement; Aux termes de l'article 3 du Code judiciaire, les lois d'organisation judiciaire, de compétence et de procédure sont applicables aux procès en cours sans désaisissement cependant de la juridiction qui, à son degré, en avait été valablement saisie et sauf les exceptions prévues par la loi; Dès lors, la cassation de l'arrêt fût-elle prononcée pour raison d'incompétence de la Cour du travail, encore la cause devait-elle être renvoyée devant une Cour du travail. Moyen non recevable à défaut d'intérêt. 2° Pourvois du Fonds d'indemnisation cité et de l'Office national de l'emploi. a) Pourvoi de l'Office: L'Office national de l'emploi contre lequel la citation n'a pas été dirigée et à charge duquel aucune condamnation n'a été prononcée n'était pas portée au procès. Pourvoi irrecevable. b) Pourvoi du Fonds susdit: par application de l'article 6, alinéa 1er à 3, de la loi du 30 juin 1967, le Fonds d'indemnisation... n'est tenu au paiement des avantages prévus à l'article 2 de cette loi, qu'après que, à l'initiative du travailleur, une demande a été introduite conformément aux modalités déterminées par le Roi et qu'ont été fournies les informations déterminées par le Roi, que l'employeur, ou, le cas échéant, les mandataires, les curateurs, les liquidateurs, ainsi que le travailleur sont tenus de communiquer; Une contestation ne peut naître entre le Fonds et le travailleur, quant au paiement des avantages susvisés, que lorsqu'une demande de paiement est introduite dans les conditions prévues par la loi ou lorsque la régularité de la demande est contestée. Le travailleur ne peut intenter d'action contre le Fonds avant qu'il ait été satisfait aux disposit ions précitées de l'article 6 et de l'arrêté royal pris en exécution de cet article, à moins que la contestation ne porte sur le respect de ces dispositions. L'arrêt viole celles-ci en décidant, malgré l'inobservation des prescriptions relatives à l'introduction d'une demande en paiement, qu'une action pourrait être introduite contre le Fonds. Moyen fondé."
+      ],
+      "abstractNL": [
+        "Tussen het Fonds voor vergoeding en de werknemer kan in verband met de voordelen, waarvan het Fonds de betaling waarborgt, slechts een betwisting ontstaan zo een verzoek tot betaling werd ingeleid volgens de voorwaarden door de wet bepaald of zo de regelmatigheid van het verzoek betwist wordt. De werknemer kan geen vordering inleiden tegen het Fonds alvorens te voldoen aan voormelde bepalingen van de wet of van het koninklijk besluit uitgevaardigd in uitvoering van die wet, tenzij de betwisting de naleving van die bepalingen beoogt."
+      ]
+    },
     "ECLI:BE:CASS:1988:ARR.19881024.12": {
       "court": "CASS",
       "date": "1988-10-24",
@@ -114,6 +96,45 @@
         "Het verzoek van de werknemer tot betaling door het Sluitingsfonds van de voordelen bedoeld in art. 2 wet 30 juni 1967 is geen aanmaning tot betaling die het recht op moratoire interest doet ingaan (art. 1153 B.W)."
       ]
     },
+    "ECLI:BE:CASS:1986:ARR.19860310.9": {
+      "court": "CASS",
+      "date": "1986-03-10",
+      "roleNumber": "102441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/10/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Artikel 1, eerste lid, van de wet van 12 mei 1975 regelt de verplichtingen van het Fonds ten aanzien van de vergoedingen bepaald in welomschreven collectieve arbeidsovereenkomsten gesloten in de Nationale Arbeidsraad, wanneer de werkgever desaangaande zijn verplichtingen verzuimt, dit artikel overlapt aldus gedeeltelijk de werkingsfeer van artikel 2, alinéa 1, van de wet van 30 juni 1967, nu laatstbedoeld artikel, bij sluiting van ondernemingen, verplichtingen van het Fonds omschrijft ten aanzien van de uitbetaling aan de belanghebbende werknemers van, in het algemeen, de vergoedingen en voordelen verschuldigd krachtens collectieve arbeidsovereenkomsten. Hieruit volgt evenwel niet dat de bepalingen van artikel 2, alinéa 1, van de wet van 30 juni 1967 strijdig zijn met die van artikel 1 van de wet van 12 mei 1975 noch dat het Fonds, ingevolge laatstbedoelde wetsbepaling, geen verplichtingen meer heeft wat betreft de aanvullende vergoedingen ten gunste van bejaarde werknemers die worden ontslagen, bedongen in andere collectieve arbeidsovereenkomsten dan die gesloten in de Nationale Arbeidsraad."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821220.7": {
+      "court": "CASS",
+      "date": "1982-12-20",
+      "roleNumber": "13115",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/20/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Krachtens artikel 6, eerste tot derde lid, van de voormelde wet van 30 juni 1967, kan het Fonds slechts tot betaling van de in artikel 2 van de wet bedoelde lonen en voordelen zijn gehouden nadat, op initiatief van de werknemer, een verzoek daartoe is ingediend op de door de Koning voorgeschreven wijze. Derhalve kan de werknemer, behoudens voor wat de regelmatigheid van het door hem ingediende verzoek aangaat, tegen het Fonds geen op de wet van 30 juni 1967 gefundeerde vordering instellen voordat is voldaan aan de voorwaarden gesteld bij artikel 6 van die wet en van het koninklijk besluit genomen ter uitvoering van dat artikel. Het arrest schendt de ingeroepen bepalingen door te beslissen dat er ten deze sluiting van onderneming is geweest en dat eiser ten onrechte zijn verplichting betwist, zonder vast te stellen dat de voorschriften betreffende het indienen van een verzoek tot betaling waren nageleefd. Zie in dezelfde zin Cass., 30 mei 1973, J.T.T. 1974, 39 en 17 maart 1976, J.T.T. 1976, 274."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751001.5": {
+      "court": "CASS",
+      "date": "1975-10-01",
+      "roleNumber": "1596",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/01/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De aanspraak op betaling van achterstallige lonen die de werknemer bij sluiting van de onderneming tegen het Fonds tot vergoeding van de in geval van sluiting ontslagen werknemers heeft op grond van art. 2 W. 30 juni 1967, vloeit voort uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming door het Fonds van de verbintenissen van de werkgever. Dienvolgens is het Fonds geen loon verschuldigd in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die art. 2016 B.W. aan de borg oplegt.",
+        "De verplichting van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers om aan de bedoelde werknemers de lonen verschuldigd krachtens individuele of collectieve arbeidsovereenkomsten te betalen wanneer de werkgever verzuimt dit te doen, slaat op elk loon waarop de werknemer aanspraak heeft ongeacht of de niet-betaling haar oorzaak vindt in de sluiting van de onderneming en onverschillig of voor de periode die aan de beëindiging van de arbeidsovereenkomst onmiddellijk voorafgaat, de werkgever het loon geheel of gedeeltelijk heeft betaald. Artikel 7, lid 1, 2° van het K.B. 6 juli 1967 heeft geen andere draagwijdte dan het bedrag van de door het Fonds verschuldigde betaling te beperken en strekt er niet toe het loon dat meer dan twee maanden vóór de beëindiging van de arbeidsovereenkomst verdiend is uit te sluiten. De werknemer put zijn aanspraak tegen het Fonds uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming van de verbintenissen van de werkgever. Dienvolgens betaalt het Fonds geen loon in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die artikel 2016 B.W. aan de borg oplegt."
+      ]
+    }
+  },
+  "4": {
     "ECLI:BE:CASS:1987:ARR.19871130.12": {
       "court": "CASS",
       "date": "1987-11-30",
@@ -137,30 +158,38 @@
       "abstractNL": [
         "Krachtens artikel 2, alinéa 2, van de wet van 30 juni 1967 dient het Sluitingsfonds, wanneer een onderneming anders dan door sluiting ophoudt te bestaan, de in alinéa 1,1° en 2°, van dit artikel vermelde geldelijke verplichtingen na te komen ten voordele van de werknemers die niet door een nieuwe werkgever worden overgenomen met behoud van alle rechten die zij ten aanzien van hun gewezen werkgever kunnen doen gelden, wanneer deze laatste zijn verbintenissen niet nakomt. In die bepaling evenals in de bepaling van alinéa 1 wordt met \" onderneming \" bedoeld de onderneming in de zin van de artikelen 2 en 2bis van de wet van 28 juni 1966, dit is de technische bedrijfseenheid bedoeld in artikel 14 van de wet van 20 september 1948. Uit die bepaling en uit de bewoordingen van artikel 4 van de wet van 30 juni 1967 blijkt niettemin dat een onderneming ophoudt te bestaan in de zin van die bepaling wanneer de werkgever die de onderneming exploiteerde, door een nieuwe werkgever wordt vervangen. Wanneer het arrest vaststelt dat de handelszaak van de rechtspersoon die de onderneming waar verweerder was tewerkgesteld, exploiteerde, na faillissement van die rechtspersoon \" met inbegrip van alle materiële en immateriële elementen \" aan een andere rechtspersoon verkocht werd en dat een groot deel van de werknemers van de failliete vennootschap door de kopende vennootschap opnieuw werd tewerkgesteld, stelt het arrest aldus vast dat de werkgever die de onderneming exploiteerde, door een nieuwe werkgever vervangen werd. Nu het op grond daarvan oordeelt dat \" in tegenstelling met de bewering van (eiser) \" die onderneming heeft opgehouden te bestaan in de zin van artikel 2, alinéa 2, van de wet van 30 juni 1967, verwerpt het arrest zodoende eisers verweer, motiveert het de beslissing regelmatig en verantwoordt het ze naar recht."
       ]
-    },
-    "ECLI:BE:CASS:1986:ARR.19860310.9": {
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1990:ARR.19901109.6": {
       "court": "CASS",
-      "date": "1986-03-10",
-      "roleNumber": "102441",
+      "date": "1990-11-09",
+      "roleNumber": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/10/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/11/09/sitemap_5.xml"
       ],
       "abstractFR": null,
-      "abstractNL": [
-        "Artikel 1, eerste lid, van de wet van 12 mei 1975 regelt de verplichtingen van het Fonds ten aanzien van de vergoedingen bepaald in welomschreven collectieve arbeidsovereenkomsten gesloten in de Nationale Arbeidsraad, wanneer de werkgever desaangaande zijn verplichtingen verzuimt, dit artikel overlapt aldus gedeeltelijk de werkingsfeer van artikel 2, alinéa 1, van de wet van 30 juni 1967, nu laatstbedoeld artikel, bij sluiting van ondernemingen, verplichtingen van het Fonds omschrijft ten aanzien van de uitbetaling aan de belanghebbende werknemers van, in het algemeen, de vergoedingen en voordelen verschuldigd krachtens collectieve arbeidsovereenkomsten. Hieruit volgt evenwel niet dat de bepalingen van artikel 2, alinéa 1, van de wet van 30 juni 1967 strijdig zijn met die van artikel 1 van de wet van 12 mei 1975 noch dat het Fonds, ingevolge laatstbedoelde wetsbepaling, geen verplichtingen meer heeft wat betreft de aanvullende vergoedingen ten gunste van bejaarde werknemers die worden ontslagen, bedongen in andere collectieve arbeidsovereenkomsten dan die gesloten in de Nationale Arbeidsraad."
-      ]
-    },
-    "ECLI:BE:CASS:1985:ARR.19850617.6": {
+      "abstractNL": null
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1994:ARR.19940307.13": {
       "court": "CASS",
-      "date": "1985-06-17",
-      "roleNumber": "37187",
+      "date": "1994-03-07",
+      "roleNumber": "S930103N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/17/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/07/sitemap_3.xml"
       ],
       "abstractFR": [
-        "Pour qu'il y ait \"fermeture d'entreprise\" donnant lieu à application de la loi du 30 juin 1967, les deux conditions fixées par l'article 2 de la loi du 28 juin 1966 doivent être remplies, que l'entreprise ait cessé toute activité ou seulement son activité principale, que le nombre de travailleurs qu'elle occupait au cours de l'année écoulée fût ou non inférieur au minimum de 20 travailleurs fixé par l'article 1er de la loi du 28 juin 1966. En décidant que l'article 2 de la loi du 28 juin 1966 n'était pas d'application aux motifs, d'une part, que l'entreprise n'aurait pas occupé le nombre minimal de 20 travailleurs et, d'autre part, que l'entreprise avait cessé toute activité, l'arrêt du 9 février 1984 viole l'article 2 de la loi du 28 juin 1966 et l'article 2 de la loi du 30 juin 1967."
+        "Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises n'est pas tenu de payer les avantages prévus à l'article 2 de la loi du 30 juin 1967 avant que les conditions, visées à l'article 6 de cette loi et à l'arrêté royal du 6 juillet 1967, ne soient remplies.",
+        "La créance du travailleur sur le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises n'est pas exigible avant que les conditions, prévues à l'article 6 de la loi du 30 juin 1967 et à l'arrêté royal du 6 juillet 1967, ne soient remplies et avant l'expiration d'un délai raisonnable pour examiner la demande de paiement, pour prendre une décision et payer les avantages.",
+        "Les intérêts moratoires ne sont dus que lorsque l'obligation de payer une somme déterminée est exécutée en retard; tant que la dette n'est pas exigible, l'obligation n'est pas exécutée en retard. (C. civ., art. 1153 et L. 30 juin 1967, art. 6)."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het sluitingsfonds heeft geen verplichting tot betalen van de voordelen bedoeld in art. 2 Sluitingsfondswet voordat is voldaan aan de voorwaarden gesteld bij art. 6 van die wet en het K.B. van 6 juli 1967.",
+        "De werknemer heeft op het sluitingsfonds geen opeisbare vordering voordat is voldaan aan de voorwaarden gesteld bij art. 6 Sluitingsfondswet en het K.B. van 6 juli 1967 en voordat is verstreken een redelijke termijn voor het onderzoek van de aanvraag, het nemen van de beslissing en de uitbetaling van de voordelen.",
+        "Moratoire interest is slechts verschuldigd wanneer de verbintenis tot betaling van een bepaalde geldsom met vertraging is uitgevoerd; zolang de schuld niet opeisbaar is wordt de verbintenis niet met vertraging uitgevoerd (Art. 1153 B.W. en art. 6 W. 30 juni 1967)."
+      ]
     },
     "ECLI:BE:CASS:1983:ARR.19830131.7": {
       "court": "CASS",
@@ -178,30 +207,6 @@
         "Het recht van de werknemer op betaling van de opzeggingsvergoeding die hem door zijn werkgever is verschuldigd, ten laste van het Fonds tot Vergoeding van de in Geval van Sluiting van Ondernemingen Ontslagen Werknemers, ontstaat pas op de datum waarop de werkgever zijn verplichtingen niet meer nakomt door geen uitvoering te geven aan de opzeggingstermijn die hij aan die werknemer heeft gegeven vóór de sluiting. (Art. 2 wet 30 juni 1967.)"
       ]
     },
-    "ECLI:BE:CASS:1982:ARR.19821223.2": {
-      "court": "CASS",
-      "date": "1982-12-23",
-      "roleNumber": "20.608",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/23/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Le Fonds d'indemnisation, quoique payant en exécution d'une obligation propre qui lui est imposée par la loi des rémunérations, indemnités et avantages dus au travailleur, bénéficie néanmoins à l'encontre de l'employeur d'une subrogation. Cette subrogation, si elle a pour effet de transmettre au subrogé, à concurrence de ce qui a été payé par lui, la créance du subrogeant avec tous ses éléments et accessoires et notamment en l'espèce, avec le privilège conféré au travailleur par l'article 19, 3) bis de la loi hypothécaire, ne peut cependant nuire au créancier originaire pour la partie de sa créance qui n'a pas été payée par le Fonds d'indemnisation et réduire les droits dont il aurait disposé pour obtenir ce reliquat si le paiement partiel avait été fait par le débiteur lui-même. Viole l'article 8 de la loi du 30 juin 1967 portant extension de la mission du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise, l'arrêt qui décide que le travailleur ne bénéficiait pas pour le paiement du reliquat de sa créance d'un droit de préférence par rapport à la créance dont le Fonds réclamait par subrogation le paiement à l'employeur et que, partant, la répartition entre les deux créanciers devait se faire au marc le franc."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1982:ARR.19821220.7": {
-      "court": "CASS",
-      "date": "1982-12-20",
-      "roleNumber": "13115",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/20/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Krachtens artikel 6, eerste tot derde lid, van de voormelde wet van 30 juni 1967, kan het Fonds slechts tot betaling van de in artikel 2 van de wet bedoelde lonen en voordelen zijn gehouden nadat, op initiatief van de werknemer, een verzoek daartoe is ingediend op de door de Koning voorgeschreven wijze. Derhalve kan de werknemer, behoudens voor wat de regelmatigheid van het door hem ingediende verzoek aangaat, tegen het Fonds geen op de wet van 30 juni 1967 gefundeerde vordering instellen voordat is voldaan aan de voorwaarden gesteld bij artikel 6 van die wet en van het koninklijk besluit genomen ter uitvoering van dat artikel. Het arrest schendt de ingeroepen bepalingen door te beslissen dat er ten deze sluiting van onderneming is geweest en dat eiser ten onrechte zijn verplichting betwist, zonder vast te stellen dat de voorschriften betreffende het indienen van een verzoek tot betaling waren nageleefd. Zie in dezelfde zin Cass., 30 mei 1973, J.T.T. 1974, 39 en 17 maart 1976, J.T.T. 1976, 274."
-      ]
-    },
     "ECLI:BE:CASS:1982:ARR.19821220.6": {
       "court": "CASS",
       "date": "1982-12-20",
@@ -216,69 +221,18 @@
         "De rechter kan geen uitspraak doen over de verplichtingen van het Fonds tot Vergoeding van de in Geval van Sluiting van Ondernemingen Ontslagen Werknemers ten aanzien van de betaling van voordelen bepaald in art. 2 wet 30 juni 1967, voordat de werknemer een verzoek tot betaling heeft gedaan in de voorwaarden bepaald door art. 6 van die wet en het ter uitvoering van dit artikel genomen K.B. 6 juli 1967, tenzij het geschil op de naleving van deze voorschriften betrekking heeft; hij kan voordien zijn beslissing over de desbetreffende schuldvordering van de werknemer tegenover de werkgever wel voor het Fonds bindend verklaren <1>."
       ]
     },
-    "ECLI:BE:CASS:1982:ARR.19821206.6": {
+    "ECLI:BE:CASS:1989:ARR.19890911.7": {
       "court": "CASS",
-      "date": "1982-12-06",
-      "roleNumber": "C-68/92;C-69/92",
+      "date": "1989-09-11",
+      "roleNumber": "10350",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/11/sitemap_8.xml"
       ],
       "abstractFR": [
-        "La loi du 30 juin 1967 accroît les garanties du travailleur quant au paiement des sommes dues par l'employeur par le biais de l'obligation imposée au Fonds d'indemnisation de payer le travailleur. En vertu de l'article 8 de cette loi, le fonds est subrogé de plein droit aux droits et actions du travailleur envers l'employeur. L'application de cet article ne peut avoir pour effet de limiter les droits et garanties des travailleurs qui ne seraient payés que partiellement par le fonds : en cas de concours le privilège du travailleur prime celui du fonds quant aux sommes encore dues au travailleur."
+        "La demande en paiement visée par l'article 6 de la loi du 30 juin 1967 ne peut pas être considérée comme une sommation de payer au sens de l'article 1153 du Code civil, puisqu'elle ne vaut pas mise en demeure. La condamnation du Fonds au paiement du coût de la citation n'est pas légale lorsque l'arrêt ne rencontre pas la défense de celui-ci fondée sur l'article 1382 du Code Civil."
       ],
       "abstractNL": [
-        "De wet van 30 juni 1967 strekt ertoe de waarborgen van de werknemer om betaling te bekomen van hetgeen de werkgever hem verschuldigd is te verruimen door middel van een subsidiaire verplichting, aan het Fonds opgelegd, de werknemer te betalen. Krachtens artikel 8 van deze wet treedt het Fonds van rechtswege in de rechten en vorderingen van de werknemer tegenover de werkgever-schuldenaar. De toepassing van dit artikel kan niet leiden tot een beperking van de waarborgen en tot een benadeling van de werknemer die slechts gedeeltelijk door het Fonds betaald is : bij samenloop met het voorrecht van de werknemer kan deze laatste zijn rechten voor wat hem nog verschuldigd blijft, uitoefenen."
-      ]
-    },
-    "ECLI:BE:CASS:1982:ARR.19821206.10": {
-      "court": "CASS",
-      "date": "1982-12-06",
-      "roleNumber": "12201",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Krachtens artikel 4, eerste en tweede lid, van de wet van 30 juni 1967 tot verruiming van de opdracht van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers, zijn de bepalingen van artikel 2 van toepassing voor de bedienden, wanneer de arbeidsovereenkomst beëindigd werd in de loop van achttien maanden die aan sluiting van de onderneming voorafgaan. In die zin van deze bepaling, wordt de arbeidsovereenkomst beëindigd op het ogenblik dat de handeling die de arbeidsovereenkomst doet eindigen, wordt gesteld; wanneer de werkgever opzegging geeft, wordt de arbeidsovereenkomst beëindigd op het ogenblik dat de werkgever het ontslag ter kennis van de werknemer brengt en niet op het ogenblik dat de rechtsbetrekking tussen partijen een einde neemt."
-      ]
-    },
-    "ECLI:BE:CASS:1982:ARR.19820625.11": {
-      "court": "CASS",
-      "date": "1982-06-25",
-      "roleNumber": "75/328",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/25/sitemap_10.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "In het tweede middel werpt eiser op dat het arrest ten onrechte oordeelt dat zijn voorrecht voor de door hem ingehouden en aan de R.S.Z. betaalde werknemersbijdrage slechts rang neemt onder art. 19, 4°ter, van de Hypotheekwet. Ook dit middel faalt naar recht : \"Overwegende dat artikel 8 van de wet van 30 juni 1967 in het eerste lid bepaalt dat het Fonds van rechtswege in de rechten en vorderingen van de werknemer tegenover de werkgever-schuldenaar treedt voor de inning bij deze laatste van de lonen, vergoedingen en voordelen die het bij toepassing van artikel 2 heeft betaald en in het tweede lid dat het Fonds van rechtswege in de rechten en vorderingen van de in artikel 5, 2°, bedoelde instellingen treedt voor de inning bij de werkgever-schuldenaar van de krachtens hetzelfde artikel betaalde bijdragen; \"Overwegende dat, hoewel het tweede lid van artikel 8 van bedoelde wet verwijst naar de in artikel 5, 2°, bedoelde instellingen, het de subrogatie nochtans laat slaan op alle krachtens artikel 5 betaalde bijdragen, derhalve niet alleen op de door artikel 5, 2°, genoemde werkgeversbijdragen, maar ook op de werknemersbijdragen, waarvan artikel 5, 1°, de inhouding en de betaling aan de betrokken instellingen oplegt in de plaats van de normaal op de werkgever rustende verplichting; \"Overwegende dat, hoewel de werknemersbijdrage deel uitmaakt van het loon, zij door het Fonds evenmin als door de werkgever aan de werknemer wordt uitbetaald, en de werknemer noch tegenover de werkgever noch tegenover het Fonds een recht of vordering kan laten gelden tot uitbetaling, in zijn handen, van die bijdrage, die van het loon wordt afgehouden en die door het Fonds zoals door de werkgever aan de bevoegde instelling moet worden overgemaakt; \"Overwegende dat, nu eiser met toepassing van artikel 8 van de wet van 30 juni 1967 enkel gesubrogeerd is in de rechten en vorderingen van de werknemer tegenover de werkgever voor de lonen, vergoedingen en voordelen die hij werkelijk aan de werknemer heeft uitbetaald en in de rechten en vorderingen van de instellingen waaraan hij de werknemers- en werkgeversbijdragen heeft betaald, hij voor de bijdragen geen aanspraak kan maken op het voorrecht bepaald door artikel 19, 3°bis, van de Hypotheekwet; \"Overwegende dat overigens artikel 19, 4°ter, van de Hypotheekwet voor de aan de Rijksdienst voor Sociale Zekerheid verschuldigde bijdragen geen onderscheid maakt tussen de werknemersbijdragen en de patronale bijdragen en derhalve een algemene draagwijdte heeft; dat eiser derhalve slechts op het door artikel 19, 4°ter, bepaalde voorrecht aanspraak kan maken, zowel voor de werknemersbijdragen als voor de werkgeversbijdragen.\""
-      ]
-    },
-    "ECLI:BE:CASS:1976:ARR.19760317.6": {
-      "court": "CASS",
-      "date": "1976-03-17",
-      "roleNumber": "5277",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/17/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La Cour du travail de Liège s'était déclarée compétente pour connaître d'une action au paiement d'une indemnité complémentaire de préavis introduite contre le curateur de la faillite de l'employeur. D'autre part, elle avait décidé que le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise pouvait être mis à la cause pour garantir les droits du travailleur afin que la décision à intervenir contre la faillite lui soit opposable. Pourvoi en cassation du curateur et du Fonds susdit. La Cour suprême joint les pourvois. Elle rejette les pourvois du curateur et de l'Office national de l'emploi et casse l'arrêt attaqué en tant seulement qu'il statue sur l'action dirigée contre le Fonds d'indemnisation cité; renvoi de la cause ainsi limitée à la Cour du travail de Mons et ce par les motifs: 1° Pourvoi du curateur: En vertu de l'article 574, 2° du Code judiciaire, tel qu'il était rédigé avant la modification du 24 mars 1975, toutes les contestations qui devaient être vidées pour parvenir à la liquidation d'une faillite, étaient de la compétence du tribunal de commerce. Il en était spécialement ainsi des contestations relatives à la créance d'un employé du chef d'une indemnité de préavis. Ladite loi du 24 mars 1975 a modifié l'article 574, 2°, du Code judiciaire et pareilles contestations ne sont de la compétence du tribunal de commerce que si des éléments de solution du litige résident dans le droit particulier qui concerne le régime des faillites, concordats et sursis de paiement; Aux termes de l'article 3 du Code judiciaire, les lois d'organisation judiciaire, de compétence et de procédure sont applicables aux procès en cours sans désaisissement cependant de la juridiction qui, à son degré, en avait été valablement saisie et sauf les exceptions prévues par la loi; Dès lors, la cassation de l'arrêt fût-elle prononcée pour raison d'incompétence de la Cour du travail, encore la cause devait-elle être renvoyée devant une Cour du travail. Moyen non recevable à défaut d'intérêt. 2° Pourvois du Fonds d'indemnisation cité et de l'Office national de l'emploi. a) Pourvoi de l'Office: L'Office national de l'emploi contre lequel la citation n'a pas été dirigée et à charge duquel aucune condamnation n'a été prononcée n'était pas portée au procès. Pourvoi irrecevable. b) Pourvoi du Fonds susdit: par application de l'article 6, alinéa 1er à 3, de la loi du 30 juin 1967, le Fonds d'indemnisation... n'est tenu au paiement des avantages prévus à l'article 2 de cette loi, qu'après que, à l'initiative du travailleur, une demande a été introduite conformément aux modalités déterminées par le Roi et qu'ont été fournies les informations déterminées par le Roi, que l'employeur, ou, le cas échéant, les mandataires, les curateurs, les liquidateurs, ainsi que le travailleur sont tenus de communiquer; Une contestation ne peut naître entre le Fonds et le travailleur, quant au paiement des avantages susvisés, que lorsqu'une demande de paiement est introduite dans les conditions prévues par la loi ou lorsque la régularité de la demande est contestée. Le travailleur ne peut intenter d'action contre le Fonds avant qu'il ait été satisfait aux disposit ions précitées de l'article 6 et de l'arrêté royal pris en exécution de cet article, à moins que la contestation ne porte sur le respect de ces dispositions. L'arrêt viole celles-ci en décidant, malgré l'inobservation des prescriptions relatives à l'introduction d'une demande en paiement, qu'une action pourrait être introduite contre le Fonds. Moyen fondé."
-      ],
-      "abstractNL": [
-        "Tussen het Fonds voor vergoeding en de werknemer kan in verband met de voordelen, waarvan het Fonds de betaling waarborgt, slechts een betwisting ontstaan zo een verzoek tot betaling werd ingeleid volgens de voorwaarden door de wet bepaald of zo de regelmatigheid van het verzoek betwist wordt. De werknemer kan geen vordering inleiden tegen het Fonds alvorens te voldoen aan voormelde bepalingen van de wet of van het koninklijk besluit uitgevaardigd in uitvoering van die wet, tenzij de betwisting de naleving van die bepalingen beoogt."
-      ]
-    },
-    "ECLI:BE:CASS:1975:ARR.19751001.5": {
-      "court": "CASS",
-      "date": "1975-10-01",
-      "roleNumber": "1596",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/01/sitemap_6.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De aanspraak op betaling van achterstallige lonen die de werknemer bij sluiting van de onderneming tegen het Fonds tot vergoeding van de in geval van sluiting ontslagen werknemers heeft op grond van art. 2 W. 30 juni 1967, vloeit voort uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming door het Fonds van de verbintenissen van de werkgever. Dienvolgens is het Fonds geen loon verschuldigd in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die art. 2016 B.W. aan de borg oplegt.",
-        "De verplichting van het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers om aan de bedoelde werknemers de lonen verschuldigd krachtens individuele of collectieve arbeidsovereenkomsten te betalen wanneer de werkgever verzuimt dit te doen, slaat op elk loon waarop de werknemer aanspraak heeft ongeacht of de niet-betaling haar oorzaak vindt in de sluiting van de onderneming en onverschillig of voor de periode die aan de beëindiging van de arbeidsovereenkomst onmiddellijk voorafgaat, de werkgever het loon geheel of gedeeltelijk heeft betaald. Artikel 7, lid 1, 2° van het K.B. 6 juli 1967 heeft geen andere draagwijdte dan het bedrag van de door het Fonds verschuldigde betaling te beperken en strekt er niet toe het loon dat meer dan twee maanden vóór de beëindiging van de arbeidsovereenkomst verdiend is uit te sluiten. De werknemer put zijn aanspraak tegen het Fonds uit de wet en niet uit een overeenkomst met het Fonds noch uit een overneming van de verbintenissen van de werkgever. Dienvolgens betaalt het Fonds geen loon in de zin van de wet van 12 april 1965 en is het niet gehouden tot de verplichtingen die artikel 2016 B.W. aan de borg oplegt."
+        "Het verzoek tot betaling als bedoeld in artikel 6 van de wet van 30 juni 1967 kan niet als een aanmaning tot betaling in de zin van artikel 1153 van het Burgerlijk Wetboek worden aangemerkt, nu het geen ingebrekestelling is. De veroordeling van het Fonds tot betaling van de kosten van de dagvaarding is niet wettig wanneer het arrest diens op artikel 1382 van het Burgerlijk Wetboek gestoeld verweer niet beantwoordt."
       ]
     },
     "ECLI:BE:CASS:1973:ARR.19730530.4": {
@@ -293,6 +247,78 @@
       ],
       "abstractNL": [
         "De werknemer kan geen vordering tegen het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers instellen, alvorens is voldaan aan de bepalingen van artikel 6 van de wet van 30/6/67 tenzij het geschil op de naleving van deze voorschriften betrekking heeft."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2000:ARR.20000417.3": {
+      "court": "CASS",
+      "date": "2000-04-17",
+      "roleNumber": "C970181N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En cas de concours entre le privilège du fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises pour ses créances fondées sur l'article 8, alinéa 1er de la loi du 30 juin 1967 et le privilège du travailleur salarié pour les rémunérations et les indemnités dues par son employeur, la règle de la proportionnalité doit être appliquée à leurs créances respectives."
+      ],
+      "abstractNL": [
+        "In geval van samenloop van het voorrecht van het sluitingsfonds voor zijn schuldvorderingen gegrond op artikel 8, eerste lid Wet 30 juni 1967 met het voorrecht van de werknemer voor de hem door zijn werkgever verschuldigde lonen en vergoedingen, moet de evenredigheidsregel op hun respectievelijke schuldvorderingen worden toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821223.2": {
+      "court": "CASS",
+      "date": "1982-12-23",
+      "roleNumber": "20.608",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le Fonds d'indemnisation, quoique payant en exécution d'une obligation propre qui lui est imposée par la loi des rémunérations, indemnités et avantages dus au travailleur, bénéficie néanmoins à l'encontre de l'employeur d'une subrogation. Cette subrogation, si elle a pour effet de transmettre au subrogé, à concurrence de ce qui a été payé par lui, la créance du subrogeant avec tous ses éléments et accessoires et notamment en l'espèce, avec le privilège conféré au travailleur par l'article 19, 3) bis de la loi hypothécaire, ne peut cependant nuire au créancier originaire pour la partie de sa créance qui n'a pas été payée par le Fonds d'indemnisation et réduire les droits dont il aurait disposé pour obtenir ce reliquat si le paiement partiel avait été fait par le débiteur lui-même. Viole l'article 8 de la loi du 30 juin 1967 portant extension de la mission du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprise, l'arrêt qui décide que le travailleur ne bénéficiait pas pour le paiement du reliquat de sa créance d'un droit de préférence par rapport à la créance dont le Fonds réclamait par subrogation le paiement à l'employeur et que, partant, la répartition entre les deux créanciers devait se faire au marc le franc."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1982:ARR.19821206.6": {
+      "court": "CASS",
+      "date": "1982-12-06",
+      "roleNumber": "C-68/92;C-69/92",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/12/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La loi du 30 juin 1967 accroît les garanties du travailleur quant au paiement des sommes dues par l'employeur par le biais de l'obligation imposée au Fonds d'indemnisation de payer le travailleur. En vertu de l'article 8 de cette loi, le fonds est subrogé de plein droit aux droits et actions du travailleur envers l'employeur. L'application de cet article ne peut avoir pour effet de limiter les droits et garanties des travailleurs qui ne seraient payés que partiellement par le fonds : en cas de concours le privilège du travailleur prime celui du fonds quant aux sommes encore dues au travailleur."
+      ],
+      "abstractNL": [
+        "De wet van 30 juni 1967 strekt ertoe de waarborgen van de werknemer om betaling te bekomen van hetgeen de werkgever hem verschuldigd is te verruimen door middel van een subsidiaire verplichting, aan het Fonds opgelegd, de werknemer te betalen. Krachtens artikel 8 van deze wet treedt het Fonds van rechtswege in de rechten en vorderingen van de werknemer tegenover de werkgever-schuldenaar. De toepassing van dit artikel kan niet leiden tot een beperking van de waarborgen en tot een benadeling van de werknemer die slechts gedeeltelijk door het Fonds betaald is : bij samenloop met het voorrecht van de werknemer kan deze laatste zijn rechten voor wat hem nog verschuldigd blijft, uitoefenen."
+      ]
+    }
+  },
+  "19": {
+    "ECLI:BE:CASS:1982:ARR.19820625.11": {
+      "court": "CASS",
+      "date": "1982-06-25",
+      "roleNumber": "75/328",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/25/sitemap_10.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "In het tweede middel werpt eiser op dat het arrest ten onrechte oordeelt dat zijn voorrecht voor de door hem ingehouden en aan de R.S.Z. betaalde werknemersbijdrage slechts rang neemt onder art. 19, 4°ter, van de Hypotheekwet. Ook dit middel faalt naar recht : \"Overwegende dat artikel 8 van de wet van 30 juni 1967 in het eerste lid bepaalt dat het Fonds van rechtswege in de rechten en vorderingen van de werknemer tegenover de werkgever-schuldenaar treedt voor de inning bij deze laatste van de lonen, vergoedingen en voordelen die het bij toepassing van artikel 2 heeft betaald en in het tweede lid dat het Fonds van rechtswege in de rechten en vorderingen van de in artikel 5, 2°, bedoelde instellingen treedt voor de inning bij de werkgever-schuldenaar van de krachtens hetzelfde artikel betaalde bijdragen; \"Overwegende dat, hoewel het tweede lid van artikel 8 van bedoelde wet verwijst naar de in artikel 5, 2°, bedoelde instellingen, het de subrogatie nochtans laat slaan op alle krachtens artikel 5 betaalde bijdragen, derhalve niet alleen op de door artikel 5, 2°, genoemde werkgeversbijdragen, maar ook op de werknemersbijdragen, waarvan artikel 5, 1°, de inhouding en de betaling aan de betrokken instellingen oplegt in de plaats van de normaal op de werkgever rustende verplichting; \"Overwegende dat, hoewel de werknemersbijdrage deel uitmaakt van het loon, zij door het Fonds evenmin als door de werkgever aan de werknemer wordt uitbetaald, en de werknemer noch tegenover de werkgever noch tegenover het Fonds een recht of vordering kan laten gelden tot uitbetaling, in zijn handen, van die bijdrage, die van het loon wordt afgehouden en die door het Fonds zoals door de werkgever aan de bevoegde instelling moet worden overgemaakt; \"Overwegende dat, nu eiser met toepassing van artikel 8 van de wet van 30 juni 1967 enkel gesubrogeerd is in de rechten en vorderingen van de werknemer tegenover de werkgever voor de lonen, vergoedingen en voordelen die hij werkelijk aan de werknemer heeft uitbetaald en in de rechten en vorderingen van de instellingen waaraan hij de werknemers- en werkgeversbijdragen heeft betaald, hij voor de bijdragen geen aanspraak kan maken op het voorrecht bepaald door artikel 19, 3°bis, van de Hypotheekwet; \"Overwegende dat overigens artikel 19, 4°ter, van de Hypotheekwet voor de aan de Rijksdienst voor Sociale Zekerheid verschuldigde bijdragen geen onderscheid maakt tussen de werknemersbijdragen en de patronale bijdragen en derhalve een algemene draagwijdte heeft; dat eiser derhalve slechts op het door artikel 19, 4°ter, bepaalde voorrecht aanspraak kan maken, zowel voor de werknemersbijdragen als voor de werkgeversbijdragen.\""
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19891016.4": {
+      "court": "CASS",
+      "date": "1989-10-16",
+      "roleNumber": "11749",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il se déduit de l'économie de la loi du 30 juin 1967 qu'en cas de concours du privilège conféré à l'Office national de sécurité sociale par l'article 19, 4ter de la loi hypothécaire avec le privilège du Fonds, en tant que subrogé aux droits de cet office, ce dernier peut exercer ses droits, pour ce qui lui reste dû par l'employeur, par préférence au Fonds."
+      ],
+      "abstractNL": [
+        "Uit de economie van de Wet van 30 juni 1967 valt af te leiden dat, in geval van samenloop van het bij artikel 19, 4ter van de Hypotheekwet aan de Rijksdienst voor Sociale Zekerheid verleende voorrecht met het voorrecht van het Fonds, als in de plaats gestelde van de rechten van die dienst, deze zijn rechten voor het hem door de werkgever nog verschuldigde bedrag kan uitoefenen, bij voorrang boven het Fonds."
       ]
     }
   }

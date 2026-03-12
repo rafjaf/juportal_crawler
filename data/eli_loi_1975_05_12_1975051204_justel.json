@@ -1,5 +1,5 @@
 {
-  "general": {
+  "1": {
     "ECLI:BE:CASS:1986:ARR.19860310.9": {
       "court": "CASS",
       "date": "1986-03-10",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "Artikel 1, eerste lid, van de wet van 12 mei 1975 regelt de verplichtingen van het Fonds ten aanzien van de vergoedingen bepaald in welomschreven collectieve arbeidsovereenkomsten gesloten in de Nationale Arbeidsraad, wanneer de werkgever desaangaande zijn verplichtingen verzuimt, dit artikel overlapt aldus gedeeltelijk de werkingssfeer van artikel 2, alinéa 1, van de wet van 30 juni 1967, nu laatstbedoeld artikel, bij sluiting van ondernemingen, verplichtingen van het Fonds omschrijft ten aanzien van de uitbetaling aan de belanghebbende werknemers van, in het algemeen, de vergoedingen en voordelen verschuldigd krachtens collectieve arbeidsovereenkomsten. Hieruit volgt evenwel niet dat de bepalingen van artikel 2, alinéa 1, van de wet van 30 juni 1967 strijdig zijn met die van artikel 1 van de wet van 12 mei 1975 noch dat het Fonds, ingevolge laatstbedoelde wetsbepaling, geen verplichtingen meer heeft wat betreft de aanvullende vergoedingen ten gunste van bejaarde werknemers die worden ontslagen, bedongen in andere collectieve arbeidsovereenkomsten dan die gesloten in de Nationale Arbeidsraad."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1986:ARR.19860310.10": {
       "court": "CASS",
       "date": "1986-03-10",

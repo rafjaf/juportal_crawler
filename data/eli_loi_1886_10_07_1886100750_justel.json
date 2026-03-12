@@ -341,7 +341,7 @@
       ]
     }
   },
-  "general": {
+  "91": {
     "ECLI:BE:CASS:1968:ARR.19681021.4": {
       "court": "CASS",
       "date": "1968-10-21",
@@ -355,7 +355,9 @@
       "abstractNL": [
         "Artikel 91, 1°, van het Veldwetboek, dat de herhaling regelt voor bepaalde bij dit wetboek bedoelde overtredingen, is niet van toepassing op de overtredingen waarvan sprake is in artikel 88."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1995:ARR.19951213.2": {
       "court": "CASS",
       "date": "1995-12-13",

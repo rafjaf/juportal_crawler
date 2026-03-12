@@ -1,19 +1,31 @@
 {
-  "18": {
-    "ECLI:BE:CASS:1993:ARR.19931213.5": {
+  "1": {
+    "ECLI:BE:CASS:1985:ARR.19850617.6": {
       "court": "CASS",
-      "date": "1993-12-13",
-      "roleNumber": "S930033F",
+      "date": "1985-06-17",
+      "roleNumber": "37187",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/13/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/17/sitemap_8.xml"
       ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers betaalt de vergoedingen wegens ontslag ter uitvoering van een wettelijke verplichting; het betaalt derhalve niet de schuld van de werkgever, maar zijn eigen schuld en zijn betaling is geen betaling met indeplaatsstelling, in de zin van art. 1251, 3°, B.W. (Artt. 4 (Art. 4 wet van 28 juni 1966 zoals het luidde vòòr de wijziging ervan bij art. 90 wet van 22 jan. 1985), 9 en 18 Sluitingswet 1966; art. 1251, 3°, B.W.)."
-      ]
+      "abstractFR": [
+        "Pour qu'il y ait \"fermeture d'entreprise\" donnant lieu à application de la loi du 30 juin 1967, les deux conditions fixées par l'article 2 de la loi du 28 juin 1966 doivent être remplies, que l'entreprise ait cessé toute activité ou seulement son activité principale, que le nombre de travailleurs qu'elle occupait au cours de l'année écoulée fût ou non inférieur au minimum de 20 travailleurs fixé par l'article 1er de la loi du 28 juin 1966. En décidant que l'article 2 de la loi du 28 juin 1966 n'était pas d'application aux motifs, d'une part, que l'entreprise n'aurait pas occupé le nombre minimal de 20 travailleurs et, d'autre part, que l'entreprise avait cessé toute activité, l'arrêt du 9 février 1984 viole l'article 2 de la loi du 28 juin 1966 et l'article 2 de la loi du 30 juin 1967."
+      ],
+      "abstractNL": null
     }
   },
-  "general": {
+  "2": {
+    "ECLI:BE:CASS:1985:ARR.19850415.5": {
+      "court": "CASS",
+      "date": "1985-04-15",
+      "roleNumber": "37187",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/15/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 2, alinéa 4, de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, il y a \"fermeture d'entreprise\" lorsque, en cas de cessation définitive de l'activité principale de l'entreprise ou d'une division de celle-ci, le nombre de travailleurs occupés est réduit en deçà du quart du nombre de travailleurs qui étaient occupés en moyenne au cours de l'année civile précédant l'année de la cessation d'activité. Il appartient au juge du fond, en se fondant sur les circonstances de fait de la cause, de décider si l'activité principale de l'entreprise ou d'une division de celle-ci a cessé définitivement. Après avoir relevé que la faillite a mis fin à l'activité de la société anonyme Vanden Borre et que tout son personnel a été congédié et ses avoirs vendus dans le cadre de la liquidation de la faillite, l'arrêt décide que la société faillie et la société acquéreuse, ici seconde défenderesse, ne constituaient pas une seule unité technique d'exploitation au sens de l'article 14 de la loi du 20 septembre 1948 portant organisation de l'économie, que le seul rachat et la mise en exploitation par la nouvelle société d'une partie des moyens de production de la société faillie n'ont fait naître entre elles aucun lien économique qui permettrait de décider que l'une n'est que la continuation de l'autre, pas plus que de liens sociaux puisque la société faillie s'en était complètement dégagée avant la cession. Sur le fondement de ces constatations, la cour du travail a pu décider légalement que l'activité de la société faillie a cessé définitivement et que dès lors il y a eu fermeture d'entreprise; en fondant sa décision sur les éléments de fait énoncés, l'arrêt rejette les circonstances de fait différentes invoquées par le demandeur et répond ainsi à ses conclusions."
+      ],
+      "abstractNL": null
+    },
     "ECLI:BE:CASS:1987:ARR.19871130.12": {
       "court": "CASS",
       "date": "1987-11-30",
@@ -36,42 +48,6 @@
       "abstractFR": null,
       "abstractNL": [
         "Krachtens artikel 2, alinéa 2, van de wet van 30 juni 1967 dient het Sluitingsfonds, wanneer een onderneming anders dan door sluiting ophoudt te bestaan, de in alinéa 1,1° en 2°, van dit artikel vermelde geldelijke verplichtingen na te komen ten voordele van de werknemers die niet door een nieuwe werkgever worden overgenomen met behoud van alle rechten die zij ten aanzien van hun gewezen werkgever kunnen doen gelden, wanneer deze laatste zijn verbintenissen niet nakomt. In die bepaling evenals in de bepaling van alinéa 1 wordt met \" onderneming \" bedoeld de onderneming in de zin van de artikelen 2 en 2bis van de wet van 28 juni 1966, dit is de technische bedrijfseenheid bedoeld in artikel 14 van de wet van 20 september 1948. Uit die bepaling en uit de bewoordingen van artikel 4 van de wet van 30 juni 1967 blijkt niettemin dat een onderneming ophoudt te bestaan in de zin van die bepaling wanneer de werkgever die de onderneming exploiteerde, door een nieuwe werkgever wordt vervangen. Wanneer het arrest vaststelt dat de handelszaak van de rechtspersoon die de onderneming waar verweerder was tewerkgesteld, exploiteerde, na faillissement van die rechtspersoon \" met inbegrip van alle materiële en immateriële elementen \" aan een andere rechtspersoon verkocht werd en dat een groot deel van de werknemers van de failliete vennootschap door de kopende vennootschap opnieuw werd tewerkgesteld, stelt het arrest aldus vast dat de werkgever die de onderneming exploiteerde, door een nieuwe werkgever vervangen werd. Nu het op grond daarvan oordeelt dat \" in tegenstelling met de bewering van (eiser) \" die onderneming heeft opgehouden te bestaan in de zin van artikel 2, alinéa 2, van de wet van 30 juni 1967, verwerpt het arrest zodoende eisers verweer, motiveert het de beslissing regelmatig en verantwoordt het ze naar recht."
-      ]
-    },
-    "ECLI:BE:CASS:1985:ARR.19850617.6": {
-      "court": "CASS",
-      "date": "1985-06-17",
-      "roleNumber": "37187",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/06/17/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "Pour qu'il y ait \"fermeture d'entreprise\" donnant lieu à application de la loi du 30 juin 1967, les deux conditions fixées par l'article 2 de la loi du 28 juin 1966 doivent être remplies, que l'entreprise ait cessé toute activité ou seulement son activité principale, que le nombre de travailleurs qu'elle occupait au cours de l'année écoulée fût ou non inférieur au minimum de 20 travailleurs fixé par l'article 1er de la loi du 28 juin 1966. En décidant que l'article 2 de la loi du 28 juin 1966 n'était pas d'application aux motifs, d'une part, que l'entreprise n'aurait pas occupé le nombre minimal de 20 travailleurs et, d'autre part, que l'entreprise avait cessé toute activité, l'arrêt du 9 février 1984 viole l'article 2 de la loi du 28 juin 1966 et l'article 2 de la loi du 30 juin 1967."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1985:ARR.19850415.5": {
-      "court": "CASS",
-      "date": "1985-04-15",
-      "roleNumber": "37187",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/15/sitemap_10.xml"
-      ],
-      "abstractFR": [
-        "Aux termes de l'article 2, alinéa 4, de la loi du 28 juin 1966 relative à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, il y a \"fermeture d'entreprise\" lorsque, en cas de cessation définitive de l'activité principale de l'entreprise ou d'une division de celle-ci, le nombre de travailleurs occupés est réduit en deçà du quart du nombre de travailleurs qui étaient occupés en moyenne au cours de l'année civile précédant l'année de la cessation d'activité. Il appartient au juge du fond, en se fondant sur les circonstances de fait de la cause, de décider si l'activité principale de l'entreprise ou d'une division de celle-ci a cessé définitivement. Après avoir relevé que la faillite a mis fin à l'activité de la société anonyme Vanden Borre et que tout son personnel a été congédié et ses avoirs vendus dans le cadre de la liquidation de la faillite, l'arrêt décide que la société faillie et la société acquéreuse, ici seconde défenderesse, ne constituaient pas une seule unité technique d'exploitation au sens de l'article 14 de la loi du 20 septembre 1948 portant organisation de l'économie, que le seul rachat et la mise en exploitation par la nouvelle société d'une partie des moyens de production de la société faillie n'ont fait naître entre elles aucun lien économique qui permettrait de décider que l'une n'est que la continuation de l'autre, pas plus que de liens sociaux puisque la société faillie s'en était complètement dégagée avant la cession. Sur le fondement de ces constatations, la cour du travail a pu décider légalement que l'activité de la société faillie a cessé définitivement et que dès lors il y a eu fermeture d'entreprise; en fondant sa décision sur les éléments de fait énoncés, l'arrêt rejette les circonstances de fait différentes invoquées par le demandeur et répond ainsi à ses conclusions."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1985:ARR.19850401.4": {
-      "court": "CASS",
-      "date": "1985-04-01",
-      "roleNumber": "16219",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/01/sitemap_3.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "In artikel 15 van de Sluitingswet 1966 en in het uitvoeringsbesluit van 22/04/1982 betreffende de bijdragen voor het jaar 1982 wordt onder bijdrageplichtige werkgever verstaan de juridische, sociaalrechtelijke werkgever, niet de technische bedrijfseenheid bedoeld in de Bedrijfsorganisatiewet."
       ]
     },
     "ECLI:BE:CASS:1982:ARR.19821025.9": {
@@ -111,7 +87,9 @@
       "abstractNL": [
         "Opdat er sluiting van onderneming zou zijn stelt de wet enkel twee voorwaarden: 1) stopzetting van de hoofdactiviteit van de onderneming of van een afdeling 2) vermindering van het aantal werknemers beneden een bepaald minimum. Het is niet vereist dat de onderneming gedurende het volledig refertekalenderjaar in activiteit is geweest."
       ]
-    },
+    }
+  },
+  "9": {
     "ECLI:BE:CASS:1976:ARR.19760317.6": {
       "court": "CASS",
       "date": "1976-03-17",
@@ -125,7 +103,37 @@
       "abstractNL": [
         "Tussen het Fonds voor vergoeding en de werknemer kan in verband met de voordelen, waarvan het Fonds de betaling waarborgt, slechts een betwisting ontstaan zo een verzoek tot betaling werd ingeleid volgens de voorwaarden door de wet bepaald of zo de regelmatigheid van het verzoek betwist wordt. De werknemer kan geen vordering inleiden tegen het Fonds alvorens te voldoen aan voormelde bepalingen van de wet of van het koninklijk besluit uitgevaardigd in uitvoering van die wet, tenzij de betwisting de naleving van die bepalingen beoogt."
       ]
-    },
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1985:ARR.19850401.4": {
+      "court": "CASS",
+      "date": "1985-04-01",
+      "roleNumber": "16219",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/04/01/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "In artikel 15 van de Sluitingswet 1966 en in het uitvoeringsbesluit van 22/04/1982 betreffende de bijdragen voor het jaar 1982 wordt onder bijdrageplichtige werkgever verstaan de juridische, sociaalrechtelijke werkgever, niet de technische bedrijfseenheid bedoeld in de Bedrijfsorganisatiewet."
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:1993:ARR.19931213.5": {
+      "court": "CASS",
+      "date": "1993-12-13",
+      "roleNumber": "S930033F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/13/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers betaalt de vergoedingen wegens ontslag ter uitvoering van een wettelijke verplichting; het betaalt derhalve niet de schuld van de werkgever, maar zijn eigen schuld en zijn betaling is geen betaling met indeplaatsstelling, in de zin van art. 1251, 3°, B.W. (Artt. 4 (Art. 4 wet van 28 juni 1966 zoals het luidde vòòr de wijziging ervan bij art. 90 wet van 22 jan. 1985), 9 en 18 Sluitingswet 1966; art. 1251, 3°, B.W.)."
+      ]
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1991:ARR.19911118.16": {
       "court": "CASS",
       "date": "1991-11-18",

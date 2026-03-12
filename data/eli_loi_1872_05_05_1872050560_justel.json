@@ -1,4 +1,34 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1975:ARR.19751205.3": {
+      "court": "CASS",
+      "date": "1975-12-05",
+      "roleNumber": "75/5807",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La présomption de solidarité existant de droit entre commerçants tenus d'une même obligation conventionnelle est une exception au principe de la divisibilité des dettes et doit être interprétée restrictivement. Cette présomption n'est pas d'application lorsqu'il s'agit de non-commerçants, tel les gérants-associés d'une société commerciale."
+      ],
+      "abstractNL": [
+        "Het vermoeden van solidariteit dat bestaat tussen schuldenaars - handelaars die door eenzelfde contractuele verbintenis gehouden zijn is een uitzondering op de splitsbaarheid der schulden en moet beperkend uitgelegd worden. Het vermoeden van hoofdelijkheid is niet toepasselijk op niet-handelaars, i.c. zaakvoerders-vennoten van een handelsvennootschap."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900529.4": {
+      "court": "CASS",
+      "date": "1990-05-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les articles 2076 du Code civil et 1er de la loi du 5 mai 1872 énoncent comme condition du gage le dessaisissement du débiteur et la prise de possession du créancier, mais ne déterminent pas les divers modes à l'aide desquels cette condition peut s'accomplir et qui varient d'après la nature de l'objet du gage et d'après les dispositions particulières auxquelles les parties ont la liberté de recourir pour satisfaire à la loi."
+      ],
+      "abstractNL": [
+        "De art. 2076 B.W. en 1 Wet van 5 mei 1872 stellen als voorwaarde voor het pand dat de zaak aan de schuldenaar wordt onttrokken en in het bezit van de schuldeiser komt, maar bepalen niet op welke verschillende wijzen die voorwaarde kan worden vervuld, welke wijzen verschillen naargelang van het voorwerp van het pand en de bijzondere bepalingen die de partijen kunnen hanteren om aan de wet te voldoen."
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2025:ARR.20250908.3N.4": {
       "court": "CASS",
@@ -11,6 +41,36 @@
       "abstractNL": [
         "De Belgische rechter die bevoegd is om kennis te nemen van een vordering aangaande de contractuele verbintenis waaruit de verpande schuldvordering voortvloeit, is ook bevoegd om kennis te nemen van de vordering waarmee de pandhouder de verpande schuldvordering invordert; deze schuldvordering vloeit immers voort uit eenzelfde contractuele verbintenis.",
         "De schuldenaar van de verpande schuldvordering, gaat na kennisgeving of erkenning van de verpanding, ten aanzien van de pandhouder geen contractuele verbintenis tot betaling van de verpande schuldvordering aan die zich onderscheidt van zijn contractuele verbintenis ten aanzien van de pandgever."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1972:ARR.19720526.2": {
+      "court": "CASS",
+      "date": "1972-05-26",
+      "roleNumber": "700",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La mise en gage d'un fonds de commerce est régie par des règles spéciales. Ce gage peut comprendre le mobilier de magasin et l'outillage, même si ceux-ci sont immeubles par destination. La mise en gage est opposable aux tiers lorsque l'acte qui le constate a été inscrit au bureau de la conservation des hypothèques de l'arrondissement judiciaire dans le ressort duquel se trouve le fonds de commerce."
+      ],
+      "abstractNL": [
+        "Het in pand geven van een handelszaak wordt door speciale regels beheerst. Dit pand kan de meubilering van deze zaak en het gereedschap omvatten, al zijn deze goederen onroerend door hun bestemming. Deze in pandgeving is tegenstelbaar aan derden wanneer de akte die ze vaststelt ingeschreven werd in het bureel voor de bewaring der hypotheken van het gerechtelijk arrondissement van de plaats waar het handelsfonds gelegen is."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730518.2": {
+      "court": "CASS",
+      "date": "1973-05-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si le solde débiteur d'un compte courant excède le montant d'un gage lors de la constitution de celui-ci en période suspecte, les remises faites par le débiteur, depuis cette constitution, devant légalement être imputées sur les dettes les plus anciennes, il s'ensuit qu'après ces dernières remises, la sûreté apparaît comme ayant été créée non pour garantir le paiement de dettes déjà échues mais bien pour garantir le remboursement de crédits ultérieurs, de sorte que la constitution de gage est valable."
+      ],
+      "abstractNL": [
+        "Indien op het ogenblik van de pandstelling in de verdachte periode het debetsaldo van een lopende rekening de waarde van het pand overtreft, dan blijkt daaruit, daar de kortingen door de schuldenaar toegestaan sinds de pandstelling wettelijk op de oudste schulden dienen aangerekend, dat, na de laatste kortingen, de zekerheid gesteld werd niet om de betaling van de vervallen schulden, maar wel om de terugbetaling van verdere kredieten te garanderen, zodat de pandstelling geldig is."
       ]
     }
   },
@@ -62,21 +122,7 @@
       ]
     }
   },
-  "general": {
-    "ECLI:BE:CASS:1990:ARR.19900529.4": {
-      "court": "CASS",
-      "date": "1990-05-29",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/29/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "Les articles 2076 du Code civil et 1er de la loi du 5 mai 1872 énoncent comme condition du gage le dessaisissement du débiteur et la prise de possession du créancier, mais ne déterminent pas les divers modes à l'aide desquels cette condition peut s'accomplir et qui varient d'après la nature de l'objet du gage et d'après les dispositions particulières auxquelles les parties ont la liberté de recourir pour satisfaire à la loi."
-      ],
-      "abstractNL": [
-        "De art. 2076 B.W. en 1 Wet van 5 mei 1872 stellen als voorwaarde voor het pand dat de zaak aan de schuldenaar wordt onttrokken en in het bezit van de schuldeiser komt, maar bepalen niet op welke verschillende wijzen die voorwaarde kan worden vervuld, welke wijzen verschillen naargelang van het voorwerp van het pand en de bijzondere bepalingen die de partijen kunnen hanteren om aan de wet te voldoen."
-      ]
-    },
+  "14": {
     "ECLI:BE:CASS:1984:ARR.19840525.4": {
       "court": "CASS",
       "date": "1984-05-25",
@@ -90,49 +136,9 @@
       "abstractNL": [
         "Door te beslissen dat het voorrecht van de commissionair-expediteur voorrang op alle privilegies geniet en \" dat aldus het voorrecht dat (verweerster) als commissionair-verzender bezit, voorrang geniet boven elk recht dat (eiseres) als pandhoudende schuldeiser voorhoudt bij voorrang te mogen uitoefenen \", schendt het arrest de artikelen 13, 20, 3° van de Hypotheekwet, en 1, 11 en 14 van de wet van 5 mei 1872."
       ]
-    },
-    "ECLI:BE:CASS:1975:ARR.19751205.3": {
-      "court": "CASS",
-      "date": "1975-12-05",
-      "roleNumber": "75/5807",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/05/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "La présomption de solidarité existant de droit entre commerçants tenus d'une même obligation conventionnelle est une exception au principe de la divisibilité des dettes et doit être interprétée restrictivement. Cette présomption n'est pas d'application lorsqu'il s'agit de non-commerçants, tel les gérants-associés d'une société commerciale."
-      ],
-      "abstractNL": [
-        "Het vermoeden van solidariteit dat bestaat tussen schuldenaars - handelaars die door eenzelfde contractuele verbintenis gehouden zijn is een uitzondering op de splitsbaarheid der schulden en moet beperkend uitgelegd worden. Het vermoeden van hoofdelijkheid is niet toepasselijk op niet-handelaars, i.c. zaakvoerders-vennoten van een handelsvennootschap."
-      ]
-    },
-    "ECLI:BE:CASS:1973:ARR.19730518.2": {
-      "court": "CASS",
-      "date": "1973-05-18",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/18/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Si le solde débiteur d'un compte courant excède le montant d'un gage lors de la constitution de celui-ci en période suspecte, les remises faites par le débiteur, depuis cette constitution, devant légalement être imputées sur les dettes les plus anciennes, il s'ensuit qu'après ces dernières remises, la sûreté apparaît comme ayant été créée non pour garantir le paiement de dettes déjà échues mais bien pour garantir le remboursement de crédits ultérieurs, de sorte que la constitution de gage est valable."
-      ],
-      "abstractNL": [
-        "Indien op het ogenblik van de pandstelling in de verdachte periode het debetsaldo van een lopende rekening de waarde van het pand overtreft, dan blijkt daaruit, daar de kortingen door de schuldenaar toegestaan sinds de pandstelling wettelijk op de oudste schulden dienen aangerekend, dat, na de laatste kortingen, de zekerheid gesteld werd niet om de betaling van de vervallen schulden, maar wel om de terugbetaling van verdere kredieten te garanderen, zodat de pandstelling geldig is."
-      ]
-    },
-    "ECLI:BE:CASS:1972:ARR.19720526.2": {
-      "court": "CASS",
-      "date": "1972-05-26",
-      "roleNumber": "700",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/26/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La mise en gage d'un fonds de commerce est régie par des règles spéciales. Ce gage peut comprendre le mobilier de magasin et l'outillage, même si ceux-ci sont immeubles par destination. La mise en gage est opposable aux tiers lorsque l'acte qui le constate a été inscrit au bureau de la conservation des hypothèques de l'arrondissement judiciaire dans le ressort duquel se trouve le fonds de commerce."
-      ],
-      "abstractNL": [
-        "Het in pand geven van een handelszaak wordt door speciale regels beheerst. Dit pand kan de meubilering van deze zaak en het gereedschap omvatten, al zijn deze goederen onroerend door hun bestemming. Deze in pandgeving is tegenstelbaar aan derden wanneer de akte die ze vaststelt ingeschreven werd in het bureel voor de bewaring der hypotheken van het gerechtelijk arrondissement van de plaats waar het handelsfonds gelegen is."
-      ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1972:ARR.19720526.7": {
       "court": "CASS",
       "date": "1972-05-26",

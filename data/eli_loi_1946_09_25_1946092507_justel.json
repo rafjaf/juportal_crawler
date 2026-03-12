@@ -1,19 +1,21 @@
 {
-  "general": {
-    "ECLI:BE:CASS:1989:ARR.19890921.11": {
+  "24": {
+    "ECLI:BE:CASS:1974:ARR.19740118.4": {
       "court": "CASS",
-      "date": "1989-09-21",
-      "roleNumber": "11749",
+      "date": "1974-01-18",
+      "roleNumber": "77/11.484",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/21/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/01/18/sitemap_3.xml"
       ],
       "abstractFR": [
-        "Le dépôt de la requête en concordat apparaît comme un acte utile à la société que les administrateurs peuvent accomplir en l'absence de dispositions statutaires contraires. L'article 1865, 2 du Code civil n'est pas applicable en l'espèce. L'octroi d'aides illicites par l'Etat n'implique pas que le bénéficiaire de ces aides soit un débiteur de mauvaise foi, même lorsque l'Etat en est le principal actionnaire."
+        "En vertu de l'article 465 du Code de Commerce, les jugements rendus \" en matière de faillite \", desquels appel doit être interjeté dans les quinze jours de la signification, sont ceux qui statuent sur des problèmes issus de l'état de faillite; ne sont pas visées les contestations qui, bien que naissant en cours de faillite, ont une cause indépendante de la législation sur la faillite ou de l'état de faillite et qui auraient pu également naître en dehors de la faillite."
       ],
       "abstractNL": [
-        "Een verzoekschrift neerleggen is een handeling die dienstig is voor de vennootschap en waarvoor de raad van bestuur bevoegd is behoudens statutaire beperkingen. Artikel 1865, lid 2 B.W. is ter zake niet toepasselijk. Onrechtmatige steunverlening heeft niet tot gevolg dat de beneficiaris van deze steun, ook al is de Staat zijn hoofdaandeelhouder, als schuldenaar te kwader trouw moet aanzien worden."
+        "Luidens artikel 465 van het Wetboek van Koophandel, zijn de vonnissen \" gewezen in zaken van faillissement \" waartegen hoger beroep binnen vijftien dagen na de betekening moet worden ingesteld diegenen die uitspraak doen over vraagstukken die uit het faillissement voortspruiten; niet bedoeld zijn de betwistingen die, hoewel in de loop van het faillissement gerezen, een oorzaak hebben die onafhankelijk is van de faillissementswetgeving of van de staat van faillissement, en die ook buiten het faillissement kunnen ontstaan."
       ]
-    },
+    }
+  },
+  "29": {
     "ECLI:BE:CASS:1981:ARR.19811126.8": {
       "court": "CASS",
       "date": "1981-11-26",
@@ -27,19 +29,21 @@
       "abstractNL": [
         "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen en artikel 29 van de wetten op het akkoord sluiten in dat de schuldvorderingen die hetzij niet bijzonder bevoorrecht zijn hetzij niet gewaarborgd zijn door een zakelijk recht en waarvan de schuldeiser de uitvoering niet kunnen verlangen, deze zijn die ontstaan voor de bekrachtiging van het akkoord of na de invereffeningstelling van de vennootschap. Uit geen enkele wetsbepaling is af te leiden dat de schuldeisers van de boedel op gelijke voet moeten behandeld worden als de schuldeisers in de boedel, noch dat de rechten van eerstgenoemden ten opzichte van de boedel beperkt worden. De schuldeiser die met de vereffenaar een overeenkomst sloot waarbij de boedel ex contractu verbonden werd mag een gerechtelijke beslissing die zijn schuldvordering erkent en bepaalt, uitvoeren en is niet gebonden door de samenloop."
       ]
-    },
-    "ECLI:BE:CASS:1974:ARR.19740118.4": {
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19890921.11": {
       "court": "CASS",
-      "date": "1974-01-18",
-      "roleNumber": "77/11.484",
+      "date": "1989-09-21",
+      "roleNumber": "11749",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/01/18/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/21/sitemap_7.xml"
       ],
       "abstractFR": [
-        "En vertu de l'article 465 du Code de Commerce, les jugements rendus \" en matière de faillite \", desquels appel doit être interjeté dans les quinze jours de la signification, sont ceux qui statuent sur des problèmes issus de l'état de faillite; ne sont pas visées les contestations qui, bien que naissant en cours de faillite, ont une cause indépendante de la législation sur la faillite ou de l'état de faillite et qui auraient pu également naître en dehors de la faillite."
+        "Le dépôt de la requête en concordat apparaît comme un acte utile à la société que les administrateurs peuvent accomplir en l'absence de dispositions statutaires contraires. L'article 1865, 2 du Code civil n'est pas applicable en l'espèce. L'octroi d'aides illicites par l'Etat n'implique pas que le bénéficiaire de ces aides soit un débiteur de mauvaise foi, même lorsque l'Etat en est le principal actionnaire."
       ],
       "abstractNL": [
-        "Luidens artikel 465 van het Wetboek van Koophandel, zijn de vonnissen \" gewezen in zaken van faillissement \" waartegen hoger beroep binnen vijftien dagen na de betekening moet worden ingesteld diegenen die uitspraak doen over vraagstukken die uit het faillissement voortspruiten; niet bedoeld zijn de betwistingen die, hoewel in de loop van het faillissement gerezen, een oorzaak hebben die onafhankelijk is van de faillissementswetgeving of van de staat van faillissement, en die ook buiten het faillissement kunnen ontstaan."
+        "Een verzoekschrift neerleggen is een handeling die dienstig is voor de vennootschap en waarvoor de raad van bestuur bevoegd is behoudens statutaire beperkingen. Artikel 1865, lid 2 B.W. is ter zake niet toepasselijk. Onrechtmatige steunverlening heeft niet tot gevolg dat de beneficiaris van deze steun, ook al is de Staat zijn hoofdaandeelhouder, als schuldenaar te kwader trouw moet aanzien worden."
       ]
     }
   }

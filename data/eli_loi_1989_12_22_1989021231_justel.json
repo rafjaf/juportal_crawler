@@ -31,6 +31,22 @@
       ]
     }
   },
+  "116": {
+    "ECLI:BE:CASS:1996:ARR.19960124.8": {
+      "court": "CASS",
+      "date": "1996-01-24",
+      "roleNumber": "P950190F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La disposition légale, qui permet la limitation des honoraires, en cas d'utilisation d'un appareillage médical lourd ou de services médico-techniques lourds sans autorisation préalable, n'implique ni la licéité du principe de la perception des honoraires ni l'abrogation des sanctions pénales prévues par une loi antérieure, mais se borne à ajouter à celles-ci une sanction complémentaire consistant en la limitation des honoraires."
+      ],
+      "abstractNL": [
+        "De wettelijke bepaling op grond waarvan de honoraria kunnen worden beperkt in geval van gebruik van zware medische apparatuur of zware medisch-technische diensten zonder toestemming impliceert niet dat de inning van de honoraria in beginsel rechtmatig is noch dat de bij een vroegere wet bepaalde straffen zijn opgeheven; zij legt enkel een bijkomende straf op die bestaat in de beperking van de honoraria."
+      ]
+    }
+  },
   "125": {
     "ECLI:BE:CASS:2006:ARR.20061002.3": {
       "court": "CASS",
@@ -172,20 +188,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1996:ARR.19960124.8": {
-      "court": "CASS",
-      "date": "1996-01-24",
-      "roleNumber": "P950190F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/24/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La disposition légale, qui permet la limitation des honoraires, en cas d'utilisation d'un appareillage médical lourd ou de services médico-techniques lourds sans autorisation préalable, n'implique ni la licéité du principe de la perception des honoraires ni l'abrogation des sanctions pénales prévues par une loi antérieure, mais se borne à ajouter à celles-ci une sanction complémentaire consistant en la limitation des honoraires."
-      ],
-      "abstractNL": [
-        "De wettelijke bepaling op grond waarvan de honoraria kunnen worden beperkt in geval van gebruik van zware medische apparatuur of zware medisch-technische diensten zonder toestemming impliceert niet dat de inning van de honoraria in beginsel rechtmatig is noch dat de bij een vroegere wet bepaalde straffen zijn opgeheven; zij legt enkel een bijkomende straf op die bestaat in de beperking van de honoraria."
-      ]
-    },
     "ECLI:BE:CASS:1996:ARR.19960124.7": {
       "court": "CASS",
       "date": "1996-01-24",

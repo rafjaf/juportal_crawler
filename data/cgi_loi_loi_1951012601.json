@@ -1,5 +1,19 @@
 {
-  "general": {
+  "1": {
+    "ECLI:BE:CASS:1979:ARR.19791113.13": {
+      "court": "CASS",
+      "date": "1979-11-13",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/13/sitemap_14.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het door de wet van 26 januari 1951 georganiseerde toezicht beoogt alleen die werkgevers op wie de verplichting tot het bijhouden van een of meer van de documenten berust. Bedoeld worden de werkgevers die onderworpen zijn aan de wetten welke opgesomd worden in art. 1 van de wet en in art. 1 van het uitvoeringsbesluit van 12 november 1952. De wet van 28 juni 1976 (uitzendarbeid) komt onder de opgesomde wetten niet voor. Sommige van de opgesomde wetten beperken hun werkingssfeer tot de werkgevers die in België gevestigd zijn of in België een exploitatiezetel hebben en werknemers in België tewerkstellen. Zulks is met name het geval voor de wet van 27 juni 1969 betreffende de sociale zekerheid van de arbeiders."
+      ]
+    }
+  },
+  "4": {
     "ECLI:BE:CASS:1981:ARR.19810204.4": {
       "court": "CASS",
       "date": "1981-02-04",
@@ -24,18 +38,6 @@
         "L'article 4, alinéa 2, de la loi du 26 janvier 1951 relative à la simplification des documents dont la tenue est imposée par la législation sociale, qui prévoit que \"l'amende sera appliquée autant de fois qu'il y a de travailleurs omis ou pour lesquels les documents sont incomplets ou inexacts\", ne s'applique pas à l'infraction visée à l'alinéa 1er, 2ó, de cet article."
       ],
       "abstractNL": null
-    },
-    "ECLI:BE:CASS:1979:ARR.19791113.13": {
-      "court": "CASS",
-      "date": "1979-11-13",
-      "roleNumber": "2644",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/13/sitemap_14.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het door de wet van 26 januari 1951 georganiseerde toezicht beoogt alleen die werkgevers op wie de verplichting tot het bijhouden van een of meer van de documenten berust. Bedoeld worden de werkgevers die onderworpen zijn aan de wetten welke opgesomd worden in art. 1 van de wet en in art. 1 van het uitvoeringsbesluit van 12 november 1952. De wet van 28 juni 1976 (uitzendarbeid) komt onder de opgesomde wetten niet voor. Sommige van de opgesomde wetten beperken hun werkingssfeer tot de werkgevers die in België gevestigd zijn of in België een exploitatiezetel hebben en werknemers in België tewerkstellen. Zulks is met name het geval voor de wet van 27 juni 1969 betreffende de sociale zekerheid van de arbeiders."
-      ]
     },
     "ECLI:BE:CASS:1974:ARR.19741007.9": {
       "court": "CASS",

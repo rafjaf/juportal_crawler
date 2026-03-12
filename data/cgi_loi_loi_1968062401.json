@@ -1,5 +1,5 @@
 {
-  "general": {
+  "36": {
     "ECLI:BE:CASS:1985:ARR.19851216.1": {
       "court": "CASS",
       "date": "1985-12-16",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "Uit het ontbreken van de administratieve schikking volgt dat de in artikel 36 bedoelde regels nog geen toepassing vinden op Marokkaanse werknemers die in België op werkloosheidsuitkering aanspraak maken. Nu artikel 36 betrekking heeft op alle voorschriften van de Belgische werkloosheidswetgeving die het recht op werkloosheidsuitkering regelen en hieronder ook vallen de bepalingen van hoofdstuk I, afdeling I, van het koninklijk besluit van 20 december 1963 die de voorwaarden vaststellen waaronder de werknemers de hoedanigheid van gerechtigde op werkloosheidsuitkering verkrijgen, kan een Marokkaanse werknemer derhalve de hoedanigheid van gerechtigde met toepassing van het verdrag niet verkrijgen zolang de in artikel 36, tweede lid, bedoelde administratieve schikking niet is uitgevaardigd."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1990:ARR.19900521.16": {
       "court": "CASS",
       "date": "1990-05-21",

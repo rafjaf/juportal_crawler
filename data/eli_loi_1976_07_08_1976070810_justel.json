@@ -851,6 +851,18 @@
       "abstractNL": [
         "Het bevel om het grondgebied te verlaten is definitief, in de zin van art. 57, alinéa 2, OCMW-wet, wanneer daartegen geen schorsend beroep meer bij een administratieve overheid of bij de Raad van State kan worden ingesteld en niet wanneer het niet meer vatbaar is voor enig beroep bij enige overheid of rechterlijke instantie die uitspraak moet doen inzake vreemdelingenrecht."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951204.7": {
+      "court": "CASS",
+      "date": "1995-12-04",
+      "roleNumber": "950038SN",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/04/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het bevel om het grondgebied te verlaten is definitief in de zin van artikel 57, alinéa 2 Wet 8 juli 1976, wanneer het bevel niet meer vatbaar is voor enig verhaal met schorsende werking voor een administratieve overheid of voor de Raad van State. Het beroep tot nietigverklaring bij de Raad van State tegen een bevel het land te verlaten heeft geen schorsende werking."
+      ]
     }
   },
   "58": {
@@ -997,6 +1009,18 @@
       "abstractNL": [
         "Eenieder kan bij de arbeidsrechtbank in beroep gaan tegen een beslissing inzake individuele dienstverlening te zijnen opzichte genomen door de raad van het OCMW of door één van de organen aan wie de raad bevoegdheden heeft overgedragen; niet ontvankelijk is het beroep dat gegrond is op die bepaling en niet gericht is tegen een daarin bedoelde beslissing."
       ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941114.5": {
+      "court": "CASS",
+      "date": "1994-11-14",
+      "roleNumber": "S940039F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt déclare irrecevable le recours formé par le demandeur.Il résulte des énonciations de l'arrêt que la cour du travail a décidé qu'en l'espèce le délai pour introduire le recours, prévu à l'article 71, alinéa 3 , de la loi du 8 juillet 1976, avait pris cours le jour du dépôt à la poste du pli recommandé notifiant la décision du défendeur et que le recours avait été introduit alors que ce délai était écoulé. Il ressort des pieces auxquelles la Cour peut avoir égard que l'acte d'appel du défendeur énonçait que la notification avait été envoyée à une adresse qui n'était plus celle du demandeur et que celui-ci avait fait connaître sa nouvelle adresse au défendeur, le jour même de sa notification. L'arrêt, qui décide sans se prononcer sur ces énonciations de l'acte d'appel, n'est pas régulièrement motivé. Dans cette mesure le moyen, en cette branche, est fondé."
+      ],
+      "abstractNL": null
     }
   },
   "97": {
@@ -1343,30 +1367,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1995:ARR.19951204.7": {
-      "court": "CASS",
-      "date": "1995-12-04",
-      "roleNumber": "950038SN",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/04/sitemap_3.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het bevel om het grondgebied te verlaten is definitief in de zin van artikel 57, alinéa 2 Wet 8 juli 1976, wanneer het bevel niet meer vatbaar is voor enig verhaal met schorsende werking voor een administratieve overheid of voor de Raad van State. Het beroep tot nietigverklaring bij de Raad van State tegen een bevel het land te verlaten heeft geen schorsende werking."
-      ]
-    },
-    "ECLI:BE:CASS:1994:ARR.19941114.5": {
-      "court": "CASS",
-      "date": "1994-11-14",
-      "roleNumber": "S940039F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/14/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "L'arrêt déclare irrecevable le recours formé par le demandeur.Il résulte des énonciations de l'arrêt que la cour du travail a décidé qu'en l'espèce le délai pour introduire le recours, prévu à l'article 71, alinéa 3 , de la loi du 8 juillet 1976, avait pris cours le jour du dépôt à la poste du pli recommandé notifiant la décision du défendeur et que le recours avait été introduit alors que ce délai était écoulé. Il ressort des pieces auxquelles la Cour peut avoir égard que l'acte d'appel du défendeur énonçait que la notification avait été envoyée à une adresse qui n'était plus celle du demandeur et que celui-ci avait fait connaître sa nouvelle adresse au défendeur, le jour même de sa notification. L'arrêt, qui décide sans se prononcer sur ces énonciations de l'acte d'appel, n'est pas régulièrement motivé. Dans cette mesure le moyen, en cette branche, est fondé."
-      ],
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:1987:ARR.19870512.17": {
       "court": "CASS",
       "date": "1987-05-12",

@@ -15,6 +15,20 @@
       ]
     }
   },
+  "14": {
+    "ECLI:BE:CASS:1978:ARR.19780918.7": {
+      "court": "CASS",
+      "date": "1978-09-18",
+      "roleNumber": "71/1906",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les ressources du handicapé sont supérieures au chiffre indiqué à l'article 14, alinéa 2, de l'arrêté royal du 17 décembre 1969 mais inférieures à la limite à partir de laquelle le handicapé n'a droit à aucune allocation (chiffre + montant de l'allocation qui correspond à son degré d'incapacité permanente de travail), le handicapé n'a pas droit à l'allocation complète mais il n'a droit qu'à une allocation réduite, déterminée en tenant compte de la quotité des ressources dépassant ledit chiffre."
+      ],
+      "abstractNL": null
+    }
+  },
   "33": {
     "ECLI:BE:CASS:1988:ARR.19880229.15": {
       "court": "CASS",
@@ -45,6 +59,18 @@
       "abstractNL": [
         "Wanneer een minder-valide, op basis van het gemeen recht, een vergoeding geniet welke hem in kapitaal is toegekend wegens dezelfde arbeidsongeschiktheid als die welke hem recht geeft op de gewone tegemoetkoming, wordt deze verminderd met het totaal bedrag van de hypothetische lijfrente berekend volgens de artikelen 35 tot 38 van het koninklijk besluit van 17 november 1969. (Art. 3, par. 2, wet van 27 juni 1969 betreffende het toekennen van tegemoetkomingen aan minder-validen, en art. 34 K.B. van 17 november 1969 houdende algemeen reglement betreffende het toekennen van tegemoetkomingen aan minder-validen.)"
       ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760317.10": {
+      "court": "CASS",
+      "date": "1976-03-17",
+      "roleNumber": "71/1906",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/17/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le handicapé a été indemnisé en raison d'une même incapacité de travail en vertu des articles 1382 et suivants du Code civil, le montant de la rente viagère allouée pour réparer le dommage résultant de cette incapacité ou le montant de la rente viagère hypothétique évaluée conformément aux articles 35 à 38 de l'arrêté royal du 17 novembre 1969 doit être déduit du montant de l'allocation ordinaire prévue par l'article 33 de cet arrêté. On ne peut dans ce cas limiter la réduction à un tiers par application de l'article 24, 3°."
+      ],
+      "abstractNL": null
     }
   },
   "39": {
@@ -60,6 +86,18 @@
       ],
       "abstractNL": [
         "Voor de vaststelling van het beperkte bedrag van het rustpensioen van de echtgenoot van de minder-valide dat wordt aangerekend voor de berekening van de aanvullende tegemoetkoming aan minder-validen moet onder \"rustpensioen van gehuwd man\", dat wordt toegekend wegens een als werknemer of als zelfstandige uitgeoefende bezigheid, worden verstaan het gezinspensioen bedoeld in art. 10, alinéa 1, a, K.B. nr. 50, van 24 oktober 1967 en art. 9, alinéa 1, 1°, K.B. nr. 72 van 10 november 1967. ( Art. 39, alinéa alinéa 1 en 2, 1°, K.B. 17 november 1969. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890116.14": {
+      "court": "CASS",
+      "date": "1989-01-16",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/16/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het arrest schendt inzonderheid artikel 39, alinéa alinéa 1 en 2, 1°, van het koninklijk besluit van 17 november 1969 door, voor de toepassing van artikel 8, alinéa 1, van de wet van 27 juni 1969, wat betreft de aftrek van het rustpensioen van verweersters echtgenoot, in aanmerking te nemen 1/5 van het rustpensioen van gehuwd man, in het stelsel van de pensioenen voor werknemers, en 1/3 van dat rustpensioen, in het stelsel van de pensioenen voor zelfstandigen, in plaats van het bedrag van het pensioen van alleenstaande dat hij in beide stelsels geniet."
       ]
     }
   },
@@ -91,32 +129,6 @@
       "abstractNL": [
         "De dagen die de minder-valide thuis doorbrengt in de loop van een verblijf in een verpleeginrichting of bejaardenoord, komen in aanmerking voor de vaststelling van het recht op tegemoetkoming voor hulp van derde, met name voor de berekening van het aantal dagen bedoeld in art. 43bis, alinéa 4, eerste lid, K.B. 17 november 1969; voor deze dagen wordt de tegemoetkoming evenwel niet uitbetaald, ook als de minder-valide er recht op heeft met toepassing van art. 43bis, alinéa 1 en alinéa 4, eerste lid. ( Art. 56, tweede lid, K.B. 17 november 1969. )"
       ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1989:ARR.19890116.14": {
-      "court": "CASS",
-      "date": "1989-01-16",
-      "roleNumber": "2644",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/16/sitemap_16.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het arrest schendt inzonderheid artikel 39, alinéa alinéa 1 en 2, 1°, van het koninklijk besluit van 17 november 1969 door, voor de toepassing van artikel 8, alinéa 1, van de wet van 27 juni 1969, wat betreft de aftrek van het rustpensioen van verweersters echtgenoot, in aanmerking te nemen 1/5 van het rustpensioen van gehuwd man, in het stelsel van de pensioenen voor werknemers, en 1/3 van dat rustpensioen, in het stelsel van de pensioenen voor zelfstandigen, in plaats van het bedrag van het pensioen van alleenstaande dat hij in beide stelsels geniet."
-      ]
-    },
-    "ECLI:BE:CASS:1988:ARR.19880229.11": {
-      "court": "CASS",
-      "date": "1988-02-29",
-      "roleNumber": "8056",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/29/sitemap_12.xml"
-      ],
-      "abstractFR": [
-        "L'article 1er de l'arrêté royal du 24 décembre 1974 dispose que cet arrêté est applicable aux handicapés admis au bénéfice des allocations ordinaires ou spéciales à partir du 1er janvier 1975. L'article 33 prévoit que les dispositions de cet arrêté sont appliquées d'office, à partir du 1er janvier 1975, aux personnes dont le droit aux allocations ordinaires ou spéciales n'a pas encore été consacré par une décision administrative. Dès lors, le droit aux allocations ordinaires ou spéciales sur lequel il est statué après le 31 décembre 1974 est, en règle, régi par les dispositions de l'arrêté royal du 24 décembre 1974. L'article 34 de l'arrêté royal du 24 décembre 1974 dispose que les handicapés déjà bénéficiaires au 31 décembre 1974 des allocations ordinaires ou spéciales, peuvent demander l'application de cet arrêté royal dans les formes prescrites par l'article 60 de l'arrêté royal du 17 novembre 1969. Il ressort du rapprochement de cette disposition avec celles des articles 1er et 33 que, à partir du 1er janvier 1975, les droits des handicapés bénéficiaires d'allocations au 31 décembre 1974 demeurent régis par les dispositions antérieures, pour autant qu'il ne s'agit pas de droits nouveaux. Il s'ensuit que, à partir du 1er janvier 1975, aucun droit nouveau ne peut être consacré en application de dispositions antérieures et notamment de l'arrêté royal du 17 novembre 1969. D'autre part, l'article 33 de l'arrêté royal du 24 décembre 1974 se réfère à l'article 36 qui prévoit que les dispositions de cet arrêté ne peuvent avoir pour effet de réduire les droits aux allocations ordinaires ou spéciales acquis par des bénéficiaires en vertu de dispositions légales et réglementaires antérieures. L'article 36 ne confère pas le droit au maintien des conditions d'octroi prévues par les dispositions antérieures, mais a pour seul effet d'assurer le droit au montant des allocations calculées suivant ces dispositions. L'article 38 de l'arrêté royal du 24 décembre 1974, qui abroge certaines dispositions de l'arrêté royal du 17 novembre 1969 ainsi que l'arrêté royal du 22 mars 1971, réserve l'application de ces règles aux fins de l'article 36. Il suit de ces considérations que, depuis le 1er janvier 1975 et conformément aux articles 1er, 3 et 37 de l'arrêté royal du 24 décembre 1974, l'article 33, alinéa 1er, de l'arrêté royal du 17 novembre 1969 n'est applicable que pour déterminer le montant annuel des allocations ordinaires accordées aux handicapés âgés de quatorze à moins de vingt-et-un ans, qui ne sont pas mariés ou qui n'ont pas au moins un enfant à charge. Depuis cette date ledit article 33, alinéa 1er, ne peut établir les droits nouveaux des handicapés majeurs ou considérés comme tels. Si les montants des allocations octroyées avant cette date en vertu de cette disposition ne peuvent être réduits par l'effet des nouvelles règles, ils peuvent l'être par l'effet des anciennes, et notamment, comme en l'espèce, de l'article 33, alinéa 2, de l'arrêté royal du 17 novembre 1969. Le moyen manque en droit."
-      ],
-      "abstractNL": null
     },
     "ECLI:BE:CASS:1988:ARR.19880104.7": {
       "court": "CASS",
@@ -129,7 +141,23 @@
         "L'article 56, alinéa 1er, de l'arrêté royal du 17 novembre 1969 portant règlement général relatif à l'octroi d'allocations aux handicapés, prévoit que l'allocation n'est pas payée, pendant la durée de leur placement, aux handicapés placés aux frais exclusifs des pouvoirs publics en section d'asile d'un établissement public ou privé destiné à recevoir des aliénés ou des malades mentaux. L'arrêt constate que le handicapé est placé dans un centre psychiatrique aux frais de ses parents et de la mutualité de son père et que la part prise par la mutualité dans ces frais est prépondérante. Ainsi l'arrêt ne constate pas que l'intéressé était placé aux frais exclusifs des pouvoirs publics. En se fondant sur le caractère prépondérant de l'intervention financière de la mutualité pour décider que Kiriakos Totolidis ne peut bénéficier pendant la durée de son placement dans un centre psychiatrique \" de l'allocation spéciale et a fortiori de la majoration \", l'arrêt viole l'article 56, alinéa 1er, de l'arrêté royal du 17 novembre 1969."
       ],
       "abstractNL": null
-    },
+    }
+  },
+  "60": {
+    "ECLI:BE:CASS:1988:ARR.19880229.11": {
+      "court": "CASS",
+      "date": "1988-02-29",
+      "roleNumber": "8056",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/29/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er de l'arrêté royal du 24 décembre 1974 dispose que cet arrêté est applicable aux handicapés admis au bénéfice des allocations ordinaires ou spéciales à partir du 1er janvier 1975. L'article 33 prévoit que les dispositions de cet arrêté sont appliquées d'office, à partir du 1er janvier 1975, aux personnes dont le droit aux allocations ordinaires ou spéciales n'a pas encore été consacré par une décision administrative. Dès lors, le droit aux allocations ordinaires ou spéciales sur lequel il est statué après le 31 décembre 1974 est, en règle, régi par les dispositions de l'arrêté royal du 24 décembre 1974. L'article 34 de l'arrêté royal du 24 décembre 1974 dispose que les handicapés déjà bénéficiaires au 31 décembre 1974 des allocations ordinaires ou spéciales, peuvent demander l'application de cet arrêté royal dans les formes prescrites par l'article 60 de l'arrêté royal du 17 novembre 1969. Il ressort du rapprochement de cette disposition avec celles des articles 1er et 33 que, à partir du 1er janvier 1975, les droits des handicapés bénéficiaires d'allocations au 31 décembre 1974 demeurent régis par les dispositions antérieures, pour autant qu'il ne s'agit pas de droits nouveaux. Il s'ensuit que, à partir du 1er janvier 1975, aucun droit nouveau ne peut être consacré en application de dispositions antérieures et notamment de l'arrêté royal du 17 novembre 1969. D'autre part, l'article 33 de l'arrêté royal du 24 décembre 1974 se réfère à l'article 36 qui prévoit que les dispositions de cet arrêté ne peuvent avoir pour effet de réduire les droits aux allocations ordinaires ou spéciales acquis par des bénéficiaires en vertu de dispositions légales et réglementaires antérieures. L'article 36 ne confère pas le droit au maintien des conditions d'octroi prévues par les dispositions antérieures, mais a pour seul effet d'assurer le droit au montant des allocations calculées suivant ces dispositions. L'article 38 de l'arrêté royal du 24 décembre 1974, qui abroge certaines dispositions de l'arrêté royal du 17 novembre 1969 ainsi que l'arrêté royal du 22 mars 1971, réserve l'application de ces règles aux fins de l'article 36. Il suit de ces considérations que, depuis le 1er janvier 1975 et conformément aux articles 1er, 3 et 37 de l'arrêté royal du 24 décembre 1974, l'article 33, alinéa 1er, de l'arrêté royal du 17 novembre 1969 n'est applicable que pour déterminer le montant annuel des allocations ordinaires accordées aux handicapés âgés de quatorze à moins de vingt-et-un ans, qui ne sont pas mariés ou qui n'ont pas au moins un enfant à charge. Depuis cette date ledit article 33, alinéa 1er, ne peut établir les droits nouveaux des handicapés majeurs ou considérés comme tels. Si les montants des allocations octroyées avant cette date en vertu de cette disposition ne peuvent être réduits par l'effet des nouvelles règles, ils peuvent l'être par l'effet des anciennes, et notamment, comme en l'espèce, de l'article 33, alinéa 2, de l'arrêté royal du 17 novembre 1969. Le moyen manque en droit."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1987:ARR.19870413.11": {
       "court": "CASS",
       "date": "1987-04-13",
@@ -141,30 +169,6 @@
       "abstractNL": [
         "Artikel 43bis van het koninklijk besluit van 17 november 1969 houdende algemeen reglement betreffende het toekennen van tegemoetkomingen aan de minder-validen, weigert onder alinéa 1, tweede lid, toekenning van de tegemoetkoming voor hulp van derde wanneer de minder-valide in een inrichting verblijft, belast met het verlenen van hulp of toezicht aan minder-validen. Weliswaar kent hetzelfde artikel, onder alinéa 4, de rechthebbende op de persoonlijke tegemoetkoming, in afwijking van alinéa 1, niettemin het recht op de tegemoetkoming voor hulp van derde toe voor de perioden tijdens welke hij niet in een dergelijke inrichting vertoeft, voor zoverre die perioden een totale duur van vijfenzeventig dagen tijdens een referentieperiode gaande van 1 juli tot 30 juni van het volgend jaar bereiken. Nu artikel 56, tweede lid, van het koninklijk besluit van 17 november 1969 bepaalt: \"De tegemoetkoming voor hulp van derde wordt niet uitbetaald gedurende de perioden tijdens dewelke de rechthebbende in een verplegingsinstelling of in een rusthuis voor bejaarden verblijft\", komen de dagen die de minder-valide thuis doorbrengt in de loop van een verblijf in een inrichting als bedoeld in artikel 56, tweede lid, in aanmerking voor de vaststelling van het recht op tegemoetkoming voor hulp van derde, met name voor de berekening van het aantal dagen bedoeld in artikel 43bis, alinéa 4, eerste lid. De tegemoetkoming wordt krachtens artikel 56, tweede lid, voor deze dagen echter niet uitbetaald, ook als de minder-valide er recht op heeft met toepassing van artikel 43bis, alinéa alinéa 1 en 4, eerste lid. Derhalve schendt het Arbeidshof de voormelde bepalingen in zoverre het beslist dat verweerster aanspraak heeft op de tegemoetkoming voor hulp van derde voor de 79 dagen die Frans Verlinden tijdens de referentieperiode thuis heeft doorgebracht."
       ]
-    },
-    "ECLI:BE:CASS:1978:ARR.19780918.7": {
-      "court": "CASS",
-      "date": "1978-09-18",
-      "roleNumber": "71/1906",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/18/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "Lorsque les ressources du handicapé sont supérieures au chiffre indiqué à l'article 14, alinéa 2, de l'arrêté royal du 17 décembre 1969 mais inférieures à la limite à partir de laquelle le handicapé n'a droit à aucune allocation (chiffre + montant de l'allocation qui correspond à son degré d'incapacité permanente de travail), le handicapé n'a pas droit à l'allocation complète mais il n'a droit qu'à une allocation réduite, déterminée en tenant compte de la quotité des ressources dépassant ledit chiffre."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1976:ARR.19760317.10": {
-      "court": "CASS",
-      "date": "1976-03-17",
-      "roleNumber": "71/1906",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/03/17/sitemap_11.xml"
-      ],
-      "abstractFR": [
-        "Lorsque le handicapé a été indemnisé en raison d'une même incapacité de travail en vertu des articles 1382 et suivants du Code civil, le montant de la rente viagère allouée pour réparer le dommage résultant de cette incapacité ou le montant de la rente viagère hypothétique évaluée conformément aux articles 35 à 38 de l'arrêté royal du 17 novembre 1969 doit être déduit du montant de l'allocation ordinaire prévue par l'article 33 de cet arrêté. On ne peut dans ce cas limiter la réduction à un tiers par application de l'article 24, 3°."
-      ],
-      "abstractNL": null
     },
     "ECLI:BE:CASS:1981:ARR.19810722.1": {
       "court": "CASS",

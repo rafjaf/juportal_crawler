@@ -1,5 +1,5 @@
 {
-  "general": {
+  "27": {
     "ECLI:BE:CASS:1979:ARR.19791107.10": {
       "court": "CASS",
       "date": "1979-11-07",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "Voor het misdrijf bedoeld in art. 27, 1ó, a, van het K.B. nr. 34 van 20 juli 1967 (volgens art. 27, 1ó, aanhef, strafbaar met gevangenisstraf enof geldboete) is slechts één enkele geldboete verantwoord, waarvan, overeenkomstig art. 28, het bedrag bepaald wordt volgens het aantal in het misdrijf betrokken werknemers. Voor die geldboete mag slechts één enkele vervangende gevangenisstraf worden uitgesproken."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1971:ARR.19711206.10": {
       "court": "CASS",
       "date": "1971-12-06",

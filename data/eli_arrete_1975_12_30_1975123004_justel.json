@@ -1,5 +1,5 @@
 {
-  "general": {
+  "10": {
     "ECLI:BE:CASS:1983:ARR.19830411.7": {
       "court": "CASS",
       "date": "1983-04-11",
@@ -13,7 +13,9 @@
       "abstractNL": [
         "De datum bepaald in artikel 10, derde lid, van het koninklijk besluit van 30 december 1975 (tot vaststelling van de voorwaarden waaronder kinderbijslag wordt verleend ten behoeve van het kind dat onderwijs volgt) heeft niets te maken met de vaststelling van het einde van de studies voor de toepassing van artikel 124 van het koninklijk besluit van 20 december 1963."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1982:ARR.19820510.1": {
       "court": "CASS",
       "date": "1982-05-10",

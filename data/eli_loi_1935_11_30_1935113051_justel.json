@@ -13,6 +13,20 @@
       "abstractNL": [
         "De bekwaamheid van de vennootschap en de bevoegdheid van haar organen om haar rechtsgeldig te verbinden zijn beperkt tot de handelingen die de vennoten een rechtstreeks of onrechtstreeks vermogensvoordeel bezorgen."
       ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751205.3": {
+      "court": "CASS",
+      "date": "1975-12-05",
+      "roleNumber": "75/5807",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/05/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La présomption de solidarité existant de droit entre commerçants tenus d'une même obligation conventionnelle est une exception au principe de la divisibilité des dettes et doit être interprétée restrictivement. Cette présomption n'est pas d'application lorsqu'il s'agit de non-commerçants, tel les gérants-associés d'une société commerciale."
+      ],
+      "abstractNL": [
+        "Het vermoeden van solidariteit dat bestaat tussen schuldenaars - handelaars die door eenzelfde contractuele verbintenis gehouden zijn is een uitzondering op de splitsbaarheid der schulden en moet beperkend uitgelegd worden. Het vermoeden van hoofdelijkheid is niet toepasselijk op niet-handelaars, i.c. zaakvoerders-vennoten van een handelsvennootschap."
+      ]
     }
   },
   "2": {
@@ -55,6 +69,18 @@
       "abstractNL": [
         "Een tijdelijke handelsvereniging die geen rechtspersoon is, kan, behalve wanneer de wet dit ondanks het gebrek aan rechtspersoonlijkheid toestaat, geen belastingschuldige zijn; de aanslag in de gemeentebelasting die uitsluitend ten name van een tijdelijke handelsvereniging is gevestigd, is niet nietig en kan niet als uitvoerbare titel gelden voor tenuitvoerlegging tegen de vennoten (1). (1) Zie de conclusie van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770525.4": {
+      "court": "CASS",
+      "date": "1977-05-25",
+      "roleNumber": "19310",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/05/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si les parties n'ont ni expressément ni tacitement choisi la loi applicable à leur convention c'est la loi du lieu d'exécution du contrat qui régit celui-ci. En conséquence, le congé émanant d'un des associés est régulier."
+      ],
+      "abstractNL": null
     }
   },
   "4": {
@@ -69,6 +95,20 @@
         "L'associé d'une société commerciale qui est poursuivi devant une juridiction répressive est en droit, sous réserve des dispositions de l'article 4 des lois coordonnées sur les sociétés commerciales, de se prévaloir, comme moyen de défense, de l'inexistence de la société."
       ],
       "abstractNL": null
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1985:ARR.19851129.3": {
+      "court": "CASS",
+      "date": "1985-11-29",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/29/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bepaling van de vennootschappenwet luidens welke de oprichting van de vennootschap vijf dagen na publicatie tegenwerpelijk was, wordt niet geschonden door het arrest dat oordeelt dat een vennoot door derden als een handelaarster mocht worden aangezien (oud art. 10, vierde lid Venn. W.)."
+      ]
     }
   },
   "11": {
@@ -113,6 +153,30 @@
         "N'est pas régulièrement motivé l'arrêt qui écarte un moyen proposé en conclusions par le demandeur, sans avoir égard aux éléments de preuve précis, invoqués à l'appui du moyen."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1966:ARR.19660414.2": {
+      "court": "CASS",
+      "date": "1966-04-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le pourvoi formé, en matière civile, par une société anonyme, représentée par son conseil d'administration, et l'acte de signification de ce pourvoi ne mentionnent pas le nom, la profession et le domicile d'administrateurs de la société, nommés postérieurement à la décision attaquée mais antérieurement à la signification du pourvoi, et que la société demanderesse ne justifie pas que ces administrateurs n'étaient plus en fonction le jour de la signification, la partie défenderesse est fondée à opposer la non-recevabilité du pourvoi, alors même que la nomination de ces administrateurs n'a été publiée aux annexes du Moniteur qu'après la signification du pourvoi. (Lois coordonnées sur les sociétés commerciales, art. 12.)"
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1965:ARR.19650917.1": {
+      "court": "CASS",
+      "date": "1965-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 12 des lois sur les sociétés commerciales, coordonnées par arrêté royal du 30 novembre 1935, qui dispose que la démission des administrateurs de sociétés commerciales doit être publiée conformément aux formes prescrites par lesdites lois, a pour objet de sauvegarder les droits des tiers dans leurs rapports avec la société et ses représentants."
+      ],
+      "abstractNL": null
     }
   },
   "15": {
@@ -143,6 +207,20 @@
       "abstractNL": [
         "Wanneer twee of meer personen onder een firma handel drijven, in de bij artikel 15 van de gecoördineerde wetten op de handelsvennootschappen bepaalde voorwaarden, vormen zij door de wil van de wetgever een vennootschap onder een gemeenschappelijke naam, hoewel het bestaan van een contract van vennootschap door geen bijzondere akte werd vastgesteld."
       ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891026.8": {
+      "court": "CASS",
+      "date": "1989-10-26",
+      "roleNumber": "8503",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision que deux personnes forment \"à défaut d'acte spécial\" une société en nom collectif, le juge qui relève que ces personnes se sont associées pour faire le commerce et le font d'une manière suivie envers les tiers, dans les conditions requises tant par l'article 15 des lois coordonnées sur les sociétés commerciales que par tout contrat de société, lequel implique la volonté, d'une part, de mettre une chose en commun, d'autre part, de partager les bénéfices produits par cette mise en commun."
+      ],
+      "abstractNL": [
+        "Wanneer een rechter beslist dat twee personen \"bij gebrek aan een bijzondere akte\" een vennootschap onder firma vormen, is zijn beslissing naar recht verantwoord als hij zegt dat die personen zich hebben verenigd om een koopmansbedrijf uit te oefenen en dit jegens derden blijven doen, onder de voorwaarden gesteld bij art. 15 Vennootschappenwet en bij elk vennootschapscontract, wat er enerzijds op wijst dat men iets in gemeenschap wil brengen en anderzijds dat men de eruit voortvloeiende winst onder elkaar wil verdelen."
+      ]
     }
   },
   "35": {
@@ -158,6 +236,36 @@
       ],
       "abstractNL": [
         "Niet regelmatig met redenen omkleed is het arrest dat beslist dat de stichters van een naamloze vennootschap de waarde van de inbrengen, die niet in geld geschieden, niet moeten waarborgen en niet aansprakelijk zijn voor de overschatting van dergelijk inbrengen, zonder een antwoord te verstrekken op de conclusie van de eisende partij, volgens welke de inbreng effectief moet zijn en een waarde moet hebben en dat een waardeloze inbreng niet als een geldige inschrijving, in de zin van artikel 35, 4°, van de gecoördineerde wetten op de handelsvennootschappen, kan worden beschouwd."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780623.5": {
+      "court": "CASS",
+      "date": "1978-06-23",
+      "roleNumber": "2209",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si, aux termes de l'article 13bis inséré dans les lois coordonnées sur les sociétés commerciales par l'article 7 de la loi du 6 mars 1973, ceux qui, au nom d'une société en formation, ont pris avant l'acquisition par cette société de la personnalité juridique un engagement à quelque titre que ce soit, en sont personnellement et solidairement responsables, sauf convention contraire, si ces engagements ne sont pas repris par la société dans les deux mois de sa constitution, ou si la société n'est pas constituée dans les deux ans de la naissance de l'engagement, l'article 35-1° des mêmes lois se borne à disposer que les fondateurs sont tenus solidairement envers les intéressés, malgré toute stipulation contraire, de tous les engagements sociaux contractés jusqu'à ce que la société ait sept membres au moins."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 13bis, in de gecoördineerde wetten op de handelsvennootschappen ingelast bij artikel 7 van de wet van 6 maart 1973, zijn degenen die in naam van een vennootschap in vorming, vooraleer zij de rechtspersoonlijkheid heeft verworven, ten welken titel ook een verbintenis hebben aangegaan, voor deze verbintenis - behoudens andersluidend beding - persoonlijk en solidair aansprakelijk, indien deze verbintenis door de vennootschap niet binnen de twee maanden na haar oprichting wordt overgenomen of indien de vennootschap niet is opgericht binnen de twee jaar vanaf het tot stand komen van de verbintenis. Artikel 35, 1° van de gecoördineerde wetten beperkt er zich toe te bepalen dat, ondanks elk andersluidend beding, de oprichters jegens de belanghebbenden solidair verbonden zijn door de maatschappelijke verbintenissen die werden aangegaan tot op het ogenblik dat de vennootschap minstens zeven leden telt."
+      ]
+    }
+  },
+  "54": {
+    "ECLI:BE:CASS:1987:ARR.19871112.16": {
+      "court": "CASS",
+      "date": "1987-11-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/12/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 63bis des lois coordonnées sur les sociétés commerciales, une société anonyme est liée par les actes accomplis par le conseil d'administration, par les administrateurs ayant qualité pour la représenter ou par le délégué à la gestion journalière, même si ces actes excèdent l'objet social, à moins que la société ne prouve que le tiers savait que l'acte dépassait cet objet et que, compte tenu des circonstances, il ne pouvait l'ignorer. Il résulte de cette disposition légale que, si l'acte est étranger à l'objet social ou dépasse celui-ci, les limites statutaires des pouvoirs des organes ayant qualité pour représenter la société n'ont plus, en principe, qu'un effet purement interne et ne peuvent, dès lors être invoqués par les tiers."
+      ],
+      "abstractNL": [
+        "Volgens artikel 63bis van gecoördineerde wetten op de handelsvennootschappen is de vennootschap verbonden door de handelingen van de raad van bestuur, van de bestuurders die overeenkomstig artikel 54 al. 4 de bevoegdheid hebben om haar te vertegenwoordigen of van de personen aan wie het dagelijks bestuur is opgedragen, zelfs indien die handelingen buiten haar doel liggen, tenzij zij bewijst dat de derde daarvan op de hoogte was of er, gezien de omstandigheden, niet onkundig van kon zijn. Uit die wetsbepaling volgt dat, indien de rechtshandeling vreemd is aan het maatschappelijke doel, of dit doel overschrijdt de beperkingen die in de statuten zijn gesteld aan de bevoegdheden van de organen die de vennootschap rechtsgeldig kunnen vertegenwoordigen, in principe slechts een interne werking hebben, en derhalve niet inroepbaar zijn door derden."
       ]
     }
   },
@@ -221,6 +329,88 @@
       "abstractNL": [
         "De ontvangen en het openen van de aan een vennootschap gerichte briefwisseling is een daad die tot het dagelijks beheer van de vennootschap behoort. (Gecoördineerde wetten op de handelsvennootschappen, art. 63.)"
       ]
+    },
+    "ECLI:BE:CASS:1968:ARR.19680917.3": {
+      "court": "CASS",
+      "date": "1968-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/09/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Constituent, au sens de l'article 63 des lois coordonnées sur les sociétés commerciales, des actes ou opérations de \"gestion journalière des affaires de la société\" ceux qui sont commandés par les besoins de la vie quotidienne de la société et ceux qui tant en raison de leur peu d'importance que la nécessité d'une prompte solution ne justifient pas l'intervention du conseil d'adminstration lui-même."
+      ],
+      "abstractNL": [
+        "Handelingen of verrichtingen betreffende het dagelijks beheer der zaken van de vennootschap, in de zin van artikel 63 van de gecoördineerde wetten op de handelsvennootschappen, zijn die welke door het dagelijks leven van de vennootschap vereist worden of die welke zowel wegens hun gering belang als wegens de noodzakelijkheid van een snelle oplossing de tussenkomst van de raad van beheer zelf niet rechtvaardigen."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650928.3": {
+      "court": "CASS",
+      "date": "1965-09-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ne sont pas compris parmi les actes de gestion journalière, visés par l'article 63 des lois coordonnées sur les sociétés commerciales, la signature de la déclaration des revenus de la société, ni la conclusion de tous contrats d'achat et de vente sans aucune restriction quant à leur montant et à leurs modalités."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1988:ARR.19880530.9": {
+      "court": "CASS",
+      "date": "1988-05-30",
+      "roleNumber": "6099",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/30/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'existence d'un contrat de travail entre un administrateur d'une société anonyme et la société dont il exerce la gestion journalière requiert que l'administrateur exerce la gestion journalière sous l'autorité d'un organe, d'un autre administrateur ou d'un préposé de la société."
+      ],
+      "abstractNL": [
+        "Voor het bestaan van een arbeidsovereenkomst tussen een bestuurder van een naamloze vennootschap en de vennootschap waarvan hij het dagelijks bestuur waarneemt, is vereist dat de bestuurder het dagelijks bestuur waarneemt onder het gezag van een orgaan, een andere bestuurder of een aangestelde van de vennootschap."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831017.10": {
+      "court": "CASS",
+      "date": "1983-10-17",
+      "roleNumber": "6948",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'économie de l'article 26 de l'arrêté royal du 18 octobre 1978 relatif aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail que les personnes exerçant des fonctions de gestion journalière de l'entreprise et ayant le pouvoir de représenter et d'engager l'employeur peuvent ne pas faire partie du personnel de l'unité technique d'exploitation pour laquelle un conseil d'entreprise et un comité de sécurité et d'hygiène doivent être institués."
+      ],
+      "abstractNL": [
+        "Uit de opzet van art. 26 K.B. 18 okt. 1978 blijkt dat de personen die functies van dagelijks beheer van de onderneming uitoefenen en die gemachtigd zijn om de werkgever te vertegenwoordigen en te verbinden, niet noodzakelijk dienen deel uit te maken van het personeel van de technische bedrijfseenheid waarvoor een ondernemingsraad of een comité voor veiligheid en gezondheid moeten worden opgericht."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810122.5": {
+      "court": "CASS",
+      "date": "1981-01-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si, pour les administrateurs de sociétés, la règle d'ordre public énoncée par les articles 53 et 55 des lois coordonnées sur les sociétés commerciales peut s'opposer à ce qu'ils soient, dans leurs fonctions d'administrateur ou d'administrateur-délégué, liés par un contrat d'emploi, il n'en est pas de même pour les personnes qui ne sont pas administrateurs et qui sont déléguées à la gestion journalière des affaires de la société conformément à l'article 63 desdites lois. De la seule circonstance que le directeur d'une société, qui n'est pas administrateur de celle-ci, n'exerce pas d'autres fonctions que celles de délégué à la gestion journalière, il ne peut être déduit que le contrat qui le lie à la société n'est pas un contrat d'emploi."
+      ],
+      "abstractNL": [
+        "Weliswaar kunnen de beheerders van vennootschappen, volgens de bepaling van openbare orde door de artikelen 53 en 55 van de gecoördineerde wetten op de handelsvennootschappen uitgedrukt, in hun hoedanigheid van beheerder of van afgevaardigde-beheerder niet met de vennootschap door een arbeidsovereenkomst zijn verbonden maar dit geldt niet voor personen die geen beheerders zijn die overeenkomstig artikel 63 van hogervermelde wetten met het dagelijks bestuur van de vennootschap werden belast. Uit de omstandigheid dat de directeur van een vennootschap, die geen beheerder is, slechts de werkzaamheden van de afgevaardigde belast met het dagelijks bestuur uitoefent, kan niet worden afgeleid dat hij niet door een arbeidsovereenkomst met de vennootschap is verbonden."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670518.1": {
+      "court": "CASS",
+      "date": "1967-05-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le directeur, gérant ou autre agent à qui est déléguée la gestion journalière des affaires d'une société anonyme, peut être nommément désigné dans les statuts et cette désignation peut être modifiée dans les formes prévues pour les modifications des statuts. (Lois coordonnées sur les sociétés commerciales, art. 63.)"
+      ],
+      "abstractNL": [
+        "De directeur, zaakvoerder of andere agent aan wie het dagelijks beheer van de zaken van een naamloze vennootschap wordt toevertrouwd mag met name in de statuten worden aangewezen en deze aanwijzing kan gewijzigd worden in de vormen bepaald voor de wijziging van de statuten. (Gecoördineerde wetten op de handelsvennootschappen, art. 63.)"
+      ]
     }
   },
   "67": {
@@ -251,6 +441,34 @@
       "abstractNL": [
         "De toekenning om niet van aandelen aan de werknemers van de naamloze vennootschap, bij beslissing van de algemene vergadering van aandeelhouders en op voorstel van de raad van bestuur, is een handeling van de vennootschap."
       ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890921.11": {
+      "court": "CASS",
+      "date": "1989-09-21",
+      "roleNumber": "11749",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le dépôt de la requête en concordat apparaît comme un acte utile à la société que les administrateurs peuvent accomplir en l'absence de dispositions statutaires contraires. L'article 1865, 2 du Code civil n'est pas applicable en l'espèce. L'octroi d'aides illicites par l'Etat n'implique pas que le bénéficiaire de ces aides soit un débiteur de mauvaise foi, même lorsque l'Etat en est le principal actionnaire."
+      ],
+      "abstractNL": [
+        "Een verzoekschrift neerleggen is een handeling die dienstig is voor de vennootschap en waarvoor de raad van bestuur bevoegd is behoudens statutaire beperkingen. Artikel 1865, lid 2 B.W. is ter zake niet toepasselijk. Onrechtmatige steunverlening heeft niet tot gevolg dat de beneficiaris van deze steun, ook al is de Staat zijn hoofdaandeelhouder, als schuldenaar te kwader trouw moet aanzien worden."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880304.8": {
+      "court": "CASS",
+      "date": "1988-03-04",
+      "roleNumber": "6099",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/04/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Une irrégularité commise dans le respect des conditions de forme auxquelles doit répondre la convocation à l'assemblée générale d'une société anonyme en vertu de l'article 70, alinéa 1er, des lois sur les sociétés commerciales coordonnées par l'arrêté royal du 30 novembre 1935 ne peut être soulevée, notamment, par celui qui a approuvé l'opération proposée."
+      ],
+      "abstractNL": [
+        "Een onregelmatigheid in de naleving van de vormvereisten waaraan de oproeping voor de algemene vergadering van een naamloze vennootschap moet beantwoorden, krachtens artikel 70 alinea 1 van de bij K. B. van 30 november 1935 gecoördineerde wetten over de handelsvennootschappen, kan niet worden opgeworpen met name door degene die de aangekondigde verrichting heeft goedgekeurd."
+      ]
     }
   },
   "72": {
@@ -267,6 +485,20 @@
       "abstractNL": [
         "De kapitaalsverminderingen van de vennootschap overeenkomstig artikel 72 van de wetten op de handelsvennootschappen, gecoördineerd bij het koninklijk besluit van 30 november 1935, doen de tijdelijke vrijstellingen voor de meerwaarden waarvan sprake in artikel 27, alinéa 2, van de gecoördineerde wetten van 15 januari 1948 betreffende de inkomstenbelastingen niet vervallen, in zover deze verminderingen betrekking hebben op het vogelstort en gerevaloriseerd kapitaal."
       ]
+    }
+  },
+  "79": {
+    "ECLI:BE:CASS:1981:ARR.19810212.6": {
+      "court": "CASS",
+      "date": "1981-02-12",
+      "roleNumber": "74/347",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/02/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 79 des lois coordonnées sur les sociétés commerciales que la décharge perd toute valeur lorsque le bilan a été dressé de telle manière qu'il dissimule l'état vrai des affaires sociales et que, par suite le vote de l'assemblée qui approuve la gestion n'a pas eu lieu en connaissance de cause. Toutefois, l'article 79 précité dispose en outre que l'assemblée générale entend les rapports des administrateurs et commissaires et discute le bilan et qu'après l'adoption du bilan, l'assemblée générale se prononce par un vote spécial sur la décharge des administrateurs et des commissaires. En conséquence, est légalement justifié l'arrêt qui, se fondant sur un ensemble de constatations et considérations desquelles il résulte que l'assemblée générale informée notamment par les rapports des administrateurs de la situation réelle de la société n'a pas été induite en erreur par les bilans, décide que les fautes des administrateurs étaient couvertes à l'égard de la société, par les décharges successives données par l'assemblée en connaissance de cause."
+      ],
+      "abstractNL": null
     }
   },
   "102": {
@@ -310,6 +542,20 @@
       ],
       "abstractNL": [
         "De wet die een regel inzake aansprakelijkheid wijzigt of een nieuwe aansprakelijkheid invoert, kan de aansprakelijkheid niet regelen van de oprichters van een personenvennootschap met beperkte aansprakelijkheid die vóór de inwerkingtreding van die wet is opgericht, tenzij de wetgever heeft willen afwijken van het in art. 2 B.W. gestelde principe. (Art. 123 Handelsvennootschappenwet 30 nov. 1935, gewijzigd bij art. 22 wet 6 maart 1973.)"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880212.8": {
+      "court": "CASS",
+      "date": "1988-02-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'action en responsabilité instaurée par l'article 123 al. 2, 7° ne peut être introduite que par la suite d'une faillite de la société; elle naît directement de la faillite et ne peut naître hors de la faillite; elle doit être soumise au juge dans le cadre de la procédure de faillite, de sorte que les éléments de solution du litige se retrouvent dans le droit spécial régissant le régime des faillites; le délai d'appel est, dès lors, le délai prévu par l'article 465 de la loi sur les faillites."
+      ],
+      "abstractNL": [
+        "De aansprakelijkheidsvordering ingesteld door artikel 123 al. 2, 7° van de vennootschappenwet kan uitsluitend wegens het faillissement van de vennootschap worden ingesteld; zij ontstaat rechtstreeks uit het faillissement van de vennootschap en kan buiten het faillissement niet ontstaan; zij moet ter kennis gebracht worden van de rechter binnen het kader van de faillissementsprocedure, zodat de gegevens voor de oplossing zich bevinden in het bijzonder recht dat het stelsel van het faillissement beheerst; derhalve is de termijn van hoger beroep de bij artikel 465 Faillissementswet vastgestelde termijn."
       ]
     }
   },
@@ -415,6 +661,42 @@
       "abstractNL": [
         "Het vonnis dat beslist dat de hoedanigheid van zaakvoerder van een b.v.b.a. niet automatisch de hoedanigheid van bijzonder lasthebber insluit met de machtiging om een voorwaardelijke instemming met de hernieuwing van een handelshuur in ontvangst te nemen, behoudens andersluidende bepaling in de statuten, schendt art. 130 Vennootschappenwet, naar luid waarvan \"iedere zaakvoerder van een besloten vennootschap met beperkte aansprakelijkheid alle handelingen kan verrichten die nodig of dienstig zijn tot verwezenlijking van het doel van de vennootschap, behoudens die waarvoor volgens de wet alleen de algemene vergadering bevoegd is; iedere zaakvoerder de vennootschap jegens derden vertegenwoordigt (...); de vennootschap verbonden is door de handelingen van de zaakvoerders (...)\"."
       ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660225.1": {
+      "court": "CASS",
+      "date": "1966-02-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a également la gestion journalière dans ses attributions."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1966:ARR.19660225.2": {
+      "court": "CASS",
+      "date": "1966-02-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a également la gestion journalière dans ses attributions."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1966:ARR.19660114.3": {
+      "court": "CASS",
+      "date": "1966-01-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a aussi la gestion journalière dans ses attributions."
+      ],
+      "abstractNL": null
     }
   },
   "141": {
@@ -490,6 +772,22 @@
       ],
       "abstractNL": [
         "Een tijdelijke handelsvereniging die geen rechtspersoon is, kan, behalve wanneer de wet dit ondanks het gebrek aan rechtspersoonlijkheid toestaat, geen belastingschuldige zijn; de aanslag in de gemeentebelasting die uitsluitend ten name van een tijdelijke handelsvereniging is gevestigd, is niet nietig en kan niet als uitvoerbare titel gelden voor tenuitvoerlegging tegen de vennoten (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  },
+  "178": {
+    "ECLI:BE:CASS:1990:ARR.19900920.3": {
+      "court": "CASS",
+      "date": "1990-09-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Une société commerciale continue d'exister après sa dissolution jusqu'à la clôture de la liquidation. En conséquence, la société conserve son siège social en dépit de la liquidation, de sorte qu'une notification peut valablement être opérée au siège social même si l'assemblée générale a décidé d'établir un \"siège de la liquidation\"."
+      ],
+      "abstractNL": [
+        "Een handelsvennootschap blijft bestaan na haar ontbinding tot aan de sluiting van de vereffening. Bijgevolg behoudt de vennootschap niettegenstaande de vereffening haar maatschappelijke zetel. Een kennisgeving kan geldig worden verricht op de maatschappelijke zetel, zelfs indien de algemene vergadering een \"vereffeningszetel\" vastgesteld heeft."
       ]
     }
   },
@@ -575,6 +873,102 @@
       "abstractNL": [
         "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen sluit in dat, in geval van vereffening van een handelsvennootschap, er gelijkheid moet zijn in de verdeling van het maatschappelijk vermogen tussen de niet-bevoorrechte schuldeisers wier schuldvordering voor de vereffening is ontstaan."
       ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801110.5": {
+      "court": "CASS",
+      "date": "1980-11-10",
+      "roleNumber": "6107",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il ne se déduit pas de l'article 184 des lois coordonnées sur les sociétés commerciales que la liquidation de la société entraîne le paiement immédiat de toutes les dettes à terme."
+      ],
+      "abstractNL": [
+        "Uit artikel 184 van de gecoordineerde wetten betreffende de handelsvennootschappen kan niet afgeleid worden dat de vereffening van een maatschappij de onmiddellijke betaling van alle termijnschulden met zich meebrengt."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880616.10": {
+      "court": "CASS",
+      "date": "1988-06-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/16/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Les articles 8 et 9 de la loi hypothécaire, 184 des lois coordonnées sur les sociétés commerciales, 451 et 561 de la loi sur les faillites consacrent le principe de l'égalité des créanciers. Par application de ces dispositions légales, une dette ne peut être mise à charge de la masse que lorsque le curateur ou le liquidateur a contracté qualitate qua des engagements en vue de l'administration de ladite masse, notamment en poursuivant l'activité commerciale de la société, en exécutant les conventions que celle-ci a conclues ou encore en utilisant les meubles ou les immeubles de la société, aux fins d'assurer l'administration convenable de la liquidation. L'impôt annuel sur les revenus des propriétés foncières est inhérent à la jouissance des biens, fussent-ils ou non donnés en location."
+      ],
+      "abstractNL": [
+        "De artikelen 8 en 9 van de Hypotheekwet, 184 van de Vennootschappenwet, 451 en 561 van de Faillissementswet bevestigen het beginsel van gelijkheid tussen schuldeisers. Bij toepassing van deze bepalingen, kan een schuld slechts ten laste van de boedel gelegd worden wanneer de curator, teneinde de boedel behoorlijk te beheren, q.q. verbintenissen heeft aangegaan om die boedel te beheren, o.m. door de voortzetting van de handelsactiviteiten, door de uitvoering van door de vennootschap aangegane overeenkomsten en door het gebruik van de roerende of onroerende goederen van de vennootschap. De jaarlijkse belasting op de inkomsten van onroerende goederen is verschuldigd door wie het genot heeft van de goederen ongeacht of die goederen al dan niet verhuurd zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840119.6": {
+      "court": "CASS",
+      "date": "1984-01-19",
+      "roleNumber": "P971524N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "En cas de liquidation d'une société commerciale, le principe de l'égalité entre les créanciers, contenu dans l'article 184 des lois coordonnées sur les sociétés commerciales, fait obstacle à ce que les créanciers, bénéficiant d'un privilège général, procèdent individuellement à des actes d'exécution qui auraient pour effet de léser les droits d'autres créanciers."
+      ],
+      "abstractNL": [
+        "Bij de vereffening van een handelsvennootschap, belet het gelijkheidsbeginsel tussen schuldeisers, uitgedrukt door artikel 184 van de gecoördineerde wetten op de handelsvennootschappen, dat schuldeisers, die van een algemeen voorrecht genieten individuele uitvoeringsdaden stellen, die een benadeling van de andere schuldeisers tot gevolg zouden hebben."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840119.7": {
+      "court": "CASS",
+      "date": "1984-01-19",
+      "roleNumber": "1724",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En cas de liquidation d'une société commerciale, le principe de l'égalité entre les créanciers, contenu dans l'article 184 des lois coordonnées sur les sociétés commerciales, fait obstacle à ce que les créanciers, bénéficiant d'un privilège général, procèdent individuellement à des actes d'exécution qui auraient pour effet de léser les droits d'autres créanciers."
+      ],
+      "abstractNL": [
+        "Bij de vereffening van een handelsvennootschap, belet het gelijkheidsbeginsel tussen schuldeisers, uitgedrukt door artikel 184 van de gecoordineerde wetten op de handelsvennootschappen, dat schuldeisers, die van een algemeen voorrecht genieten individuele uitvoeringsdaden stellen, die een benadeling van de andere schuldeisers tot gevolg zouden hebben."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811126.8": {
+      "court": "CASS",
+      "date": "1981-11-26",
+      "roleNumber": "C-68/92;C-69/92",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Tant par application de l'article 184 des lois coordonnées sur les sociétés que de l'article 29 des lois sur le concordat judiciaire, les créances qui ne peuvent donner lieu à des mesures d'exécution exercées individuellement par les créanciers non munis d'un privilège spécial ou d'une sûreté réelle, sont celles qui naissent d'engagements contractés antérieurement à l'homologation du concordat ou à la mise en liquidation de la société. Aucune disposition légale ne soumet les créanciers de la masse au même régime que les créanciers dont les créances font partie de la masse et ne limite pas leurs droits à l'égard de celle-ci. Le créancier qui a traité avec le liquidateur en cette qualité et la masse étant obligée ex contractu peut faire exécuter la décision judiciaire reconnaissant et définissant sa créance et n'est pas soumis à concours."
+      ],
+      "abstractNL": [
+        "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen en artikel 29 van de wetten op het akkoord sluiten in dat de schuldvorderingen die hetzij niet bijzonder bevoorrecht zijn hetzij niet gewaarborgd zijn door een zakelijk recht en waarvan de schuldeiser de uitvoering niet kunnen verlangen, deze zijn die ontstaan voor de bekrachtiging van het akkoord of na de invereffeningstelling van de vennootschap. Uit geen enkele wetsbepaling is af te leiden dat de schuldeisers van de boedel op gelijke voet moeten behandeld worden als de schuldeisers in de boedel, noch dat de rechten van eerstgenoemden ten opzichte van de boedel beperkt worden. De schuldeiser die met de vereffenaar een overeenkomst sloot waarbij de boedel ex contractu verbonden werd mag een gerechtelijke beslissing die zijn schuldvordering erkent en bepaalt, uitvoeren en is niet gebonden door de samenloop."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811126.4": {
+      "court": "CASS",
+      "date": "1981-11-26",
+      "roleNumber": "49357",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Tant par application de l'article 184 des lois coordonnées sur les sociétés que de l'article 29 des lois sur le concordat judiciaire, les créances qui ne peuvent donner lieu à des mesures d'exécution exercées individuellement par les créanciers non munis d'un privilège spécial ou d'une sureté réelle, sont celles qui naissent d'engagements contractés antérieurement à l'homologation du concordat ou à la mise en liquidation de la société. Aucune disposition légale ne soumet les créanciers de la masse au même régime que les créanciers dont les créances font partie de la masse et ne limite pas leurs droits à l'égard de celle-ci. Le créancier qui a traité avec le liquidateur en cette qualité et la masse étant obligée ex contractu peut faire exécuter la décision judiciaire reconnaissant et définissant sa créance et n'est pas soumis à concours."
+      ],
+      "abstractNL": [
+        "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen en artikel 29 van de wetten op het akkoord sluiten in dat de schuldvorderingen die hetzij niet bijzonder bevoorrecht zijn hetzij niet gewaarborgd zijn door een zakelijk recht en waarvan de schuldeiser de uitvoering niet kunnen verlangen, deze zijn die ontstaan voor de bekrachtiging van het akkoord of na de invereffeningstelling van de vennootschap. Uit geen enkele wetsbepaling is af te leiden dat de schuldeisers van de boedel op gelijke voet moeten behandeld worden als de schuldeisers in de boedel, noch dat de rechten van eerstgenoemden ten opzichte van de boedel beperkt worden. De schuldeiser die met de vereffenaar een overeenkomst sloot waarbij de boedel ex contractu verbonden werd mag een gerechtelijke beslissing die zijn schuldvordering erkent en bepaalt, uitvoeren en is niet gebonden door de samenloop."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801212.11": {
+      "court": "CASS",
+      "date": "1980-12-12",
+      "roleNumber": "2644",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/12/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De redenen van een vonnis of arrest moeten de ene door de andere worden uitgelegd en het dispositief moet worden gelezen in het licht van de motieven. Een onnauwkeurigheid waardoor de controle van het Hof van Cassatie over de wettigheid van de beslissing onmogelijk wordt gemaakt, is ook een gebrek van de motivering, dat een schending van artikel 97 Grondwet uitmaakt."
+      ]
     }
   },
   "185": {
@@ -606,6 +1000,22 @@
       ],
       "abstractNL": [
         "Het hof van beroep dat het beroep van de belastingplichtige tegen de beslissing van de directeur der belastingen verwerpt op grond van een middel, dat dit hof ambtshalve heeft afgeleid uit regelmatig aan zijn beoordeling overgelegde elementen, is niet verplicht vooraf de heropening van de debatten te bevelen."
+      ]
+    }
+  },
+  "189": {
+    "ECLI:BE:CASS:1978:ARR.19780320.5": {
+      "court": "CASS",
+      "date": "1978-03-20",
+      "roleNumber": "2179",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/03/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le moyen, invoqué en cassation, que conformément à l'article 189 des lois coordonnées sur les sociétés, une condamnation contre la société en nom collectif doit être prononcée avant que les associés puissent être condamnés individuellement, manque en fait lorsqu'il a été établi devant le juge d'appel que les associés ne pouvaient nullement être rendus responsables et que seule la société pouvait être tenue."
+      ],
+      "abstractNL": [
+        "Het middel, voorgebracht in cassatie, dat overeenkomstig artikel 189 van de Vennootschappenwet eerst een veroordeling tegen de vennootschap onder gemeenschappelijke naam moet worden uitgesproken en dan pas persoonlijke veroordelingen van de vennoten mist feitelijke grondslag nu voor de rechter in hoger beroep gesteld werd dat de vennoten helemaal niet konden worden aangesproken en dat enkel de vennootschap kon gehouden zijn."
       ]
     }
   },
@@ -677,6 +1087,20 @@
         "Par la clôture de la liquidation l'extinction de la société n'est pas absolue, la société continuant d'exister pour répondre des actions que les créanciers sociaux peuvent exercer contre elle, en la personne de ses liquidateurs, aussi longtemps que la prescription n'est pas acquise par l'écoulement de cinq années à partir de la publication de la clôture de la liquidation. (Lois coordonnées sur les sociétés commerciales, art. 178 et 194, alinéa 4.)"
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19800529.4": {
+      "court": "CASS",
+      "date": "1980-05-29",
+      "roleNumber": "6099",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "1. L'action en responsabilité des administrateurs, fondée sur l'article 35-2° des lois coordonnées sur les sociétés commerciales, selon lequel en cas d'augmentation du capital ils sont tenus solidairement de toute la partie du capital qui ne serait pas valablement souscrite, est soumise à la prescription quinquennale de l'article 194, al. 4 des mêmes lois coordonnées. 2. Le manquement à l'obligation de faire en sorte que tout le capital nouveau soit intégralement souscrit constitue un fait de la fonction d'administrateur au sens de l'article 194, al. 4 des lois coordonnées sur les sociétés commerciales. 3. Lorsque la responsabilité d'un administrateur est mise en cause en raison de ce qu'une souscription à une augmentation de capital n'est pas valable, le fait générateur de cette responsabilité est l'admission de la souscription irrégulière par l'assemblée générale de la société. 4. Par conséquent, en ce cas, le point de départ de la prescription quinquennale est la date de l'assemblée générale ou si l'irrégularité a été celée par dol, le moment où cette irrégularité est découverte."
+      ],
+      "abstractNL": [
+        "1. De aansprakelijkheidsvordering tegen de beheerders, gesteund op artikel 35-2° van de gecoördineerde wetten op de handelsvennootschappen, bepalend dat zij, in geval van kapitaalsverhoging, solidair gehouden zijn tot het deel van het kapitaal dat niet regelmatig werd ingeschreven, is onderworpen aan de verjaringstermijn van vijf jaar, bepaald door artikel 194, lid 4 van diezelfde wetten. 2. De tekortkoming aan de verplichting ervoor te zorgen dat gans het nieuwe kapitaal volledig wordt ingeschreven is een daad van het ambt van beheerder in de zin van artikel 194 lid 4 van de gecoördineerde wetten op de handelsvennootschappen. 3. Wanneer de aansprakelijkheid van een beheerder ter sprake komt naar aanleiding van een ongeldige inschrijving van een kapitaalsverhoging, is de aanvaarding van de onregelmatige inschrijving door de algemene vergadering van de vennootschap het feit dat die aansprakelijkheid tot gevolg heeft. 4. In dat geval is het vertrekpunt van de verjaringstermijn van vijf jaar derhalve de datum waarop de algemene vergadering werd gehouden of de datum waarop de onregelmatigheid werd ontdekt, wanneer die onregelmatigheid bedrieglijk werd verborgen."
+      ]
     }
   },
   "200": {
@@ -691,6 +1115,20 @@
         "Les articles 80, 161 et 201, 4°, des lois coordonnées sur les sociétés commerciales n'obligent les administrateurs des sociétés anonymes à faire procéder à la publication du bilan et du compte de profits et pertes que pour autant que ces actes aient été approuvés par l'assemblée générale des actionnaires."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19801212.6": {
+      "court": "CASS",
+      "date": "1980-12-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Un arrêt ajoute à la loi en décidant qu'une société à responsabilité limitée n'a pas le droit de devenir actionnaire d'une société anonyme, en tout cas en défendant à la S.P.R.L. de jouer un rôle prépondérant dans la société anonyme."
+      ],
+      "abstractNL": [
+        "Door een personenvennootschap met beperkte aansprakelijkheid het recht te ontzeggen vennoot te zijn van een naamloze vennootschap, althans zodanig een leidende rol in een naamloze vennootschap te vervullen, voegt een arrest aan de wet toe."
+      ]
     }
   },
   "203": {
@@ -739,6 +1177,18 @@
       "abstractNL": [
         "Wanneer een verzekeringsonderneming verzuimt de financiële steun, die zij aan een verwante onderneming heeft verleend, in haar resultatenrekening op te nemen, met het bedrieglijk opzet de werkelijke toestand van de boekhouding en van het vermogen van beide vennootschappen voor derden verborgen te houden, is dat verzuim een verdraaiing van de waarheid die een valsheid oplevert in de zin van de artt. 207 e.v., Vennootschappenwet, aangezien de jaarrekening, voor het afgesloten boekjaar, de aard en het bedrag van de kosten van de onderneming getrouw en stelselmatig moet weergeven (1)."
       ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650517.1": {
+      "court": "CASS",
+      "date": "1965-05-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/17/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision du juge d'appel qui condamne le prévenu pour une infraction autre que celle sur laquelle le premier juge a statué, sans constater que le fait ainsi retenu est le même que celui qui fondait la poursuite ou était compris dans ceux qui fondaient celle-ci."
+      ],
+      "abstractNL": null
     }
   },
   "208": {
@@ -839,6 +1289,37 @@
       ]
     }
   },
+  "444": {
+    "ECLI:BE:CASS:1968:ARR.19680521.3": {
+      "court": "CASS",
+      "date": "1968-05-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'est déclarée la faillite distincte d'un associé d'une société en nom collectif, cette faillite, distincte de celle de la société, forme une seule masse qui comprend tant le passif de la société que le passif propre de l'associé. (Loi du 18 avril 1851, art. 444; lois sur les sociétés commerciales, coordonnées le 30 novembre 1935, art. 17.)"
+      ],
+      "abstractNL": [
+        "Bij een afzonderlijk faillissement van een vennoot van een vennootschap onder een gemeenschappelijke naam, die zelf failliet verklaard werd, vormt dit faillissement, dat onderscheiden is van dat van de vennootschap, slechts één enkele massa, welke zowel het passief van de vennootschap als het passief van de vennoot omvat. (Wet van 18 april 1851, art. 444; wetten op de handelsvennootschappen, gecoördineerd op 30 november 1935, art. 17.)"
+      ]
+    }
+  },
+  "489": {
+    "ECLI:BE:CASS:1965:ARR.19650920.6": {
+      "court": "CASS",
+      "date": "1965-09-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La banqueroute d'une société de personnes à responsabilité limitée peut avoir comme auteur pénalement responsable celui qui, en fait, est le gérant de la société.",
+        "Le gérant d'une société de personnes à responsabilité limitée peut, en raison de son activité comme organe de la société, être condamné comme auteur de la banqueroute simple ou frauduleuse de celle-ci, quoiqu'il ne soit pas lui-même commerçant."
+      ],
+      "abstractNL": null
+    }
+  },
   "633": {
     "ECLI:BE:CASS:2008:ARR.20080627.8": {
       "court": "CASS",
@@ -926,48 +1407,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1990:ARR.19900920.3": {
-      "court": "CASS",
-      "date": "1990-09-20",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/20/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "Une société commerciale continue d'exister après sa dissolution jusqu'à la clôture de la liquidation. En conséquence, la société conserve son siège social en dépit de la liquidation, de sorte qu'une notification peut valablement être opérée au siège social même si l'assemblée générale a décidé d'établir un \"siège de la liquidation\"."
-      ],
-      "abstractNL": [
-        "Een handelsvennootschap blijft bestaan na haar ontbinding tot aan de sluiting van de vereffening. Bijgevolg behoudt de vennootschap niettegenstaande de vereffening haar maatschappelijke zetel. Een kennisgeving kan geldig worden verricht op de maatschappelijke zetel, zelfs indien de algemene vergadering een \"vereffeningszetel\" vastgesteld heeft."
-      ]
-    },
-    "ECLI:BE:CASS:1989:ARR.19891026.8": {
-      "court": "CASS",
-      "date": "1989-10-26",
-      "roleNumber": "8503",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/26/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "Justifie légalement sa décision que deux personnes forment \"à défaut d'acte spécial\" une société en nom collectif, le juge qui relève que ces personnes se sont associées pour faire le commerce et le font d'une manière suivie envers les tiers, dans les conditions requises tant par l'article 15 des lois coordonnées sur les sociétés commerciales que par tout contrat de société, lequel implique la volonté, d'une part, de mettre une chose en commun, d'autre part, de partager les bénéfices produits par cette mise en commun."
-      ],
-      "abstractNL": [
-        "Wanneer een rechter beslist dat twee personen \"bij gebrek aan een bijzondere akte\" een vennootschap onder firma vormen, is zijn beslissing naar recht verantwoord als hij zegt dat die personen zich hebben verenigd om een koopmansbedrijf uit te oefenen en dit jegens derden blijven doen, onder de voorwaarden gesteld bij art. 15 Vennootschappenwet en bij elk vennootschapscontract, wat er enerzijds op wijst dat men iets in gemeenschap wil brengen en anderzijds dat men de eruit voortvloeiende winst onder elkaar wil verdelen."
-      ]
-    },
-    "ECLI:BE:CASS:1989:ARR.19890921.11": {
-      "court": "CASS",
-      "date": "1989-09-21",
-      "roleNumber": "11749",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/21/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "Le dépôt de la requête en concordat apparaît comme un acte utile à la société que les administrateurs peuvent accomplir en l'absence de dispositions statutaires contraires. L'article 1865, 2 du Code civil n'est pas applicable en l'espèce. L'octroi d'aides illicites par l'Etat n'implique pas que le bénéficiaire de ces aides soit un débiteur de mauvaise foi, même lorsque l'Etat en est le principal actionnaire."
-      ],
-      "abstractNL": [
-        "Een verzoekschrift neerleggen is een handeling die dienstig is voor de vennootschap en waarvoor de raad van bestuur bevoegd is behoudens statutaire beperkingen. Artikel 1865, lid 2 B.W. is ter zake niet toepasselijk. Onrechtmatige steunverlening heeft niet tot gevolg dat de beneficiaris van deze steun, ook al is de Staat zijn hoofdaandeelhouder, als schuldenaar te kwader trouw moet aanzien worden."
-      ]
-    },
     "ECLI:BE:CASS:1989:ARR.19890413.10": {
       "court": "CASS",
       "date": "1989-04-13",
@@ -995,431 +1434,6 @@
       "abstractNL": [
         "De artikelen 8 en 9 van de Hypotheekwet, 184 van de Vennootschappenwet, 451 en 561 van de Faillissementswet bevestigen het beginsel van gelijkheid tussen schuldeisers. Bij toepassing van deze bepalingen, kan een schuld slechts ten laste van de boedel gelegd worden wanneer de curator, teneinde de boedel behoorlijk te beheren, q.q. verbintenissen heeft aangegaan om die boedel te beheren, o.m. door de voortzetting van de handelsactiviteiten, door de uitvoering van door de vennootschap aangegane overeenkomsten en door het gebruik van de roerende of onroerende goederen van de vennootschap."
       ]
-    },
-    "ECLI:BE:CASS:1988:ARR.19880616.10": {
-      "court": "CASS",
-      "date": "1988-06-16",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/16/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "Les articles 8 et 9 de la loi hypothécaire, 184 des lois coordonnées sur les sociétés commerciales, 451 et 561 de la loi sur les faillites consacrent le principe de l'égalité des créanciers. Par application de ces dispositions légales, une dette ne peut être mise à charge de la masse que lorsque le curateur ou le liquidateur a contracté qualitate qua des engagements en vue de l'administration de ladite masse, notamment en poursuivant l'activité commerciale de la société, en exécutant les conventions que celle-ci a conclues ou encore en utilisant les meubles ou les immeubles de la société, aux fins d'assurer l'administration convenable de la liquidation. L'impôt annuel sur les revenus des propriétés foncières est inhérent à la jouissance des biens, fussent-ils ou non donnés en location."
-      ],
-      "abstractNL": [
-        "De artikelen 8 en 9 van de Hypotheekwet, 184 van de Vennootschappenwet, 451 en 561 van de Faillissementswet bevestigen het beginsel van gelijkheid tussen schuldeisers. Bij toepassing van deze bepalingen, kan een schuld slechts ten laste van de boedel gelegd worden wanneer de curator, teneinde de boedel behoorlijk te beheren, q.q. verbintenissen heeft aangegaan om die boedel te beheren, o.m. door de voortzetting van de handelsactiviteiten, door de uitvoering van door de vennootschap aangegane overeenkomsten en door het gebruik van de roerende of onroerende goederen van de vennootschap. De jaarlijkse belasting op de inkomsten van onroerende goederen is verschuldigd door wie het genot heeft van de goederen ongeacht of die goederen al dan niet verhuurd zijn."
-      ]
-    },
-    "ECLI:BE:CASS:1988:ARR.19880530.9": {
-      "court": "CASS",
-      "date": "1988-05-30",
-      "roleNumber": "6099",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/30/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "L'existence d'un contrat de travail entre un administrateur d'une société anonyme et la société dont il exerce la gestion journalière requiert que l'administrateur exerce la gestion journalière sous l'autorité d'un organe, d'un autre administrateur ou d'un préposé de la société."
-      ],
-      "abstractNL": [
-        "Voor het bestaan van een arbeidsovereenkomst tussen een bestuurder van een naamloze vennootschap en de vennootschap waarvan hij het dagelijks bestuur waarneemt, is vereist dat de bestuurder het dagelijks bestuur waarneemt onder het gezag van een orgaan, een andere bestuurder of een aangestelde van de vennootschap."
-      ]
-    },
-    "ECLI:BE:CASS:1988:ARR.19880304.8": {
-      "court": "CASS",
-      "date": "1988-03-04",
-      "roleNumber": "6099",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/04/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Une irrégularité commise dans le respect des conditions de forme auxquelles doit répondre la convocation à l'assemblée générale d'une société anonyme en vertu de l'article 70, alinéa 1er, des lois sur les sociétés commerciales coordonnées par l'arrêté royal du 30 novembre 1935 ne peut être soulevée, notamment, par celui qui a approuvé l'opération proposée."
-      ],
-      "abstractNL": [
-        "Een onregelmatigheid in de naleving van de vormvereisten waaraan de oproeping voor de algemene vergadering van een naamloze vennootschap moet beantwoorden, krachtens artikel 70 alinea 1 van de bij K. B. van 30 november 1935 gecoördineerde wetten over de handelsvennootschappen, kan niet worden opgeworpen met name door degene die de aangekondigde verrichting heeft goedgekeurd."
-      ]
-    },
-    "ECLI:BE:CASS:1988:ARR.19880212.8": {
-      "court": "CASS",
-      "date": "1988-02-12",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/12/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "L'action en responsabilité instaurée par l'article 123 al. 2, 7° ne peut être introduite que par la suite d'une faillite de la société; elle naît directement de la faillite et ne peut naître hors de la faillite; elle doit être soumise au juge dans le cadre de la procédure de faillite, de sorte que les éléments de solution du litige se retrouvent dans le droit spécial régissant le régime des faillites; le délai d'appel est, dès lors, le délai prévu par l'article 465 de la loi sur les faillites."
-      ],
-      "abstractNL": [
-        "De aansprakelijkheidsvordering ingesteld door artikel 123 al. 2, 7° van de vennootschappenwet kan uitsluitend wegens het faillissement van de vennootschap worden ingesteld; zij ontstaat rechtstreeks uit het faillissement van de vennootschap en kan buiten het faillissement niet ontstaan; zij moet ter kennis gebracht worden van de rechter binnen het kader van de faillissementsprocedure, zodat de gegevens voor de oplossing zich bevinden in het bijzonder recht dat het stelsel van het faillissement beheerst; derhalve is de termijn van hoger beroep de bij artikel 465 Faillissementswet vastgestelde termijn."
-      ]
-    },
-    "ECLI:BE:CASS:1987:ARR.19871112.16": {
-      "court": "CASS",
-      "date": "1987-11-12",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/12/sitemap_20.xml"
-      ],
-      "abstractFR": [
-        "En vertu de l'article 63bis des lois coordonnées sur les sociétés commerciales, une société anonyme est liée par les actes accomplis par le conseil d'administration, par les administrateurs ayant qualité pour la représenter ou par le délégué à la gestion journalière, même si ces actes excèdent l'objet social, à moins que la société ne prouve que le tiers savait que l'acte dépassait cet objet et que, compte tenu des circonstances, il ne pouvait l'ignorer. Il résulte de cette disposition légale que, si l'acte est étranger à l'objet social ou dépasse celui-ci, les limites statutaires des pouvoirs des organes ayant qualité pour représenter la société n'ont plus, en principe, qu'un effet purement interne et ne peuvent, dès lors être invoqués par les tiers."
-      ],
-      "abstractNL": [
-        "Volgens artikel 63bis van gecoördineerde wetten op de handelsvennootschappen is de vennootschap verbonden door de handelingen van de raad van bestuur, van de bestuurders die overeenkomstig artikel 54 al. 4 de bevoegdheid hebben om haar te vertegenwoordigen of van de personen aan wie het dagelijks bestuur is opgedragen, zelfs indien die handelingen buiten haar doel liggen, tenzij zij bewijst dat de derde daarvan op de hoogte was of er, gezien de omstandigheden, niet onkundig van kon zijn. Uit die wetsbepaling volgt dat, indien de rechtshandeling vreemd is aan het maatschappelijke doel, of dit doel overschrijdt de beperkingen die in de statuten zijn gesteld aan de bevoegdheden van de organen die de vennootschap rechtsgeldig kunnen vertegenwoordigen, in principe slechts een interne werking hebben, en derhalve niet inroepbaar zijn door derden."
-      ]
-    },
-    "ECLI:BE:CASS:1985:ARR.19851129.3": {
-      "court": "CASS",
-      "date": "1985-11-29",
-      "roleNumber": "1253",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/29/sitemap_4.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De bepaling van de vennootschappenwet luidens welke de oprichting van de vennootschap vijf dagen na publicatie tegenwerpelijk was, wordt niet geschonden door het arrest dat oordeelt dat een vennoot door derden als een handelaarster mocht worden aangezien (oud art. 10, vierde lid Venn. W.)."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19840119.6": {
-      "court": "CASS",
-      "date": "1984-01-19",
-      "roleNumber": "P971524N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "En cas de liquidation d'une société commerciale, le principe de l'égalité entre les créanciers, contenu dans l'article 184 des lois coordonnées sur les sociétés commerciales, fait obstacle à ce que les créanciers, bénéficiant d'un privilège général, procèdent individuellement à des actes d'exécution qui auraient pour effet de léser les droits d'autres créanciers."
-      ],
-      "abstractNL": [
-        "Bij de vereffening van een handelsvennootschap, belet het gelijkheidsbeginsel tussen schuldeisers, uitgedrukt door artikel 184 van de gecoördineerde wetten op de handelsvennootschappen, dat schuldeisers, die van een algemeen voorrecht genieten individuele uitvoeringsdaden stellen, die een benadeling van de andere schuldeisers tot gevolg zouden hebben."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19840119.7": {
-      "court": "CASS",
-      "date": "1984-01-19",
-      "roleNumber": "1724",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/19/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "En cas de liquidation d'une société commerciale, le principe de l'égalité entre les créanciers, contenu dans l'article 184 des lois coordonnées sur les sociétés commerciales, fait obstacle à ce que les créanciers, bénéficiant d'un privilège général, procèdent individuellement à des actes d'exécution qui auraient pour effet de léser les droits d'autres créanciers."
-      ],
-      "abstractNL": [
-        "Bij de vereffening van een handelsvennootschap, belet het gelijkheidsbeginsel tussen schuldeisers, uitgedrukt door artikel 184 van de gecoordineerde wetten op de handelsvennootschappen, dat schuldeisers, die van een algemeen voorrecht genieten individuele uitvoeringsdaden stellen, die een benadeling van de andere schuldeisers tot gevolg zouden hebben."
-      ]
-    },
-    "ECLI:BE:CASS:1983:ARR.19831017.10": {
-      "court": "CASS",
-      "date": "1983-10-17",
-      "roleNumber": "6948",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/17/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Il ressort de l'économie de l'article 26 de l'arrêté royal du 18 octobre 1978 relatif aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail que les personnes exerçant des fonctions de gestion journalière de l'entreprise et ayant le pouvoir de représenter et d'engager l'employeur peuvent ne pas faire partie du personnel de l'unité technique d'exploitation pour laquelle un conseil d'entreprise et un comité de sécurité et d'hygiène doivent être institués."
-      ],
-      "abstractNL": [
-        "Uit de opzet van art. 26 K.B. 18 okt. 1978 blijkt dat de personen die functies van dagelijks beheer van de onderneming uitoefenen en die gemachtigd zijn om de werkgever te vertegenwoordigen en te verbinden, niet noodzakelijk dienen deel uit te maken van het personeel van de technische bedrijfseenheid waarvoor een ondernemingsraad of een comité voor veiligheid en gezondheid moeten worden opgericht."
-      ]
-    },
-    "ECLI:BE:CASS:1981:ARR.19811126.8": {
-      "court": "CASS",
-      "date": "1981-11-26",
-      "roleNumber": "C-68/92;C-69/92",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_12.xml"
-      ],
-      "abstractFR": [
-        "Tant par application de l'article 184 des lois coordonnées sur les sociétés que de l'article 29 des lois sur le concordat judiciaire, les créances qui ne peuvent donner lieu à des mesures d'exécution exercées individuellement par les créanciers non munis d'un privilège spécial ou d'une sûreté réelle, sont celles qui naissent d'engagements contractés antérieurement à l'homologation du concordat ou à la mise en liquidation de la société. Aucune disposition légale ne soumet les créanciers de la masse au même régime que les créanciers dont les créances font partie de la masse et ne limite pas leurs droits à l'égard de celle-ci. Le créancier qui a traité avec le liquidateur en cette qualité et la masse étant obligée ex contractu peut faire exécuter la décision judiciaire reconnaissant et définissant sa créance et n'est pas soumis à concours."
-      ],
-      "abstractNL": [
-        "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen en artikel 29 van de wetten op het akkoord sluiten in dat de schuldvorderingen die hetzij niet bijzonder bevoorrecht zijn hetzij niet gewaarborgd zijn door een zakelijk recht en waarvan de schuldeiser de uitvoering niet kunnen verlangen, deze zijn die ontstaan voor de bekrachtiging van het akkoord of na de invereffeningstelling van de vennootschap. Uit geen enkele wetsbepaling is af te leiden dat de schuldeisers van de boedel op gelijke voet moeten behandeld worden als de schuldeisers in de boedel, noch dat de rechten van eerstgenoemden ten opzichte van de boedel beperkt worden. De schuldeiser die met de vereffenaar een overeenkomst sloot waarbij de boedel ex contractu verbonden werd mag een gerechtelijke beslissing die zijn schuldvordering erkent en bepaalt, uitvoeren en is niet gebonden door de samenloop."
-      ]
-    },
-    "ECLI:BE:CASS:1981:ARR.19811126.4": {
-      "court": "CASS",
-      "date": "1981-11-26",
-      "roleNumber": "49357",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/11/26/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Tant par application de l'article 184 des lois coordonnées sur les sociétés que de l'article 29 des lois sur le concordat judiciaire, les créances qui ne peuvent donner lieu à des mesures d'exécution exercées individuellement par les créanciers non munis d'un privilège spécial ou d'une sureté réelle, sont celles qui naissent d'engagements contractés antérieurement à l'homologation du concordat ou à la mise en liquidation de la société. Aucune disposition légale ne soumet les créanciers de la masse au même régime que les créanciers dont les créances font partie de la masse et ne limite pas leurs droits à l'égard de celle-ci. Le créancier qui a traité avec le liquidateur en cette qualité et la masse étant obligée ex contractu peut faire exécuter la décision judiciaire reconnaissant et définissant sa créance et n'est pas soumis à concours."
-      ],
-      "abstractNL": [
-        "Artikel 184 van de gecoördineerde wetten op de handelsvennootschappen en artikel 29 van de wetten op het akkoord sluiten in dat de schuldvorderingen die hetzij niet bijzonder bevoorrecht zijn hetzij niet gewaarborgd zijn door een zakelijk recht en waarvan de schuldeiser de uitvoering niet kunnen verlangen, deze zijn die ontstaan voor de bekrachtiging van het akkoord of na de invereffeningstelling van de vennootschap. Uit geen enkele wetsbepaling is af te leiden dat de schuldeisers van de boedel op gelijke voet moeten behandeld worden als de schuldeisers in de boedel, noch dat de rechten van eerstgenoemden ten opzichte van de boedel beperkt worden. De schuldeiser die met de vereffenaar een overeenkomst sloot waarbij de boedel ex contractu verbonden werd mag een gerechtelijke beslissing die zijn schuldvordering erkent en bepaalt, uitvoeren en is niet gebonden door de samenloop."
-      ]
-    },
-    "ECLI:BE:CASS:1981:ARR.19810212.6": {
-      "court": "CASS",
-      "date": "1981-02-12",
-      "roleNumber": "74/347",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/02/12/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "Il résulte de l'article 79 des lois coordonnées sur les sociétés commerciales que la décharge perd toute valeur lorsque le bilan a été dressé de telle manière qu'il dissimule l'état vrai des affaires sociales et que, par suite le vote de l'assemblée qui approuve la gestion n'a pas eu lieu en connaissance de cause. Toutefois, l'article 79 précité dispose en outre que l'assemblée générale entend les rapports des administrateurs et commissaires et discute le bilan et qu'après l'adoption du bilan, l'assemblée générale se prononce par un vote spécial sur la décharge des administrateurs et des commissaires. En conséquence, est légalement justifié l'arrêt qui, se fondant sur un ensemble de constatations et considérations desquelles il résulte que l'assemblée générale informée notamment par les rapports des administrateurs de la situation réelle de la société n'a pas été induite en erreur par les bilans, décide que les fautes des administrateurs étaient couvertes à l'égard de la société, par les décharges successives données par l'assemblée en connaissance de cause."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1981:ARR.19810122.5": {
-      "court": "CASS",
-      "date": "1981-01-22",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/22/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Si, pour les administrateurs de sociétés, la règle d'ordre public énoncée par les articles 53 et 55 des lois coordonnées sur les sociétés commerciales peut s'opposer à ce qu'ils soient, dans leurs fonctions d'administrateur ou d'administrateur-délégué, liés par un contrat d'emploi, il n'en est pas de même pour les personnes qui ne sont pas administrateurs et qui sont déléguées à la gestion journalière des affaires de la société conformément à l'article 63 desdites lois. De la seule circonstance que le directeur d'une société, qui n'est pas administrateur de celle-ci, n'exerce pas d'autres fonctions que celles de délégué à la gestion journalière, il ne peut être déduit que le contrat qui le lie à la société n'est pas un contrat d'emploi."
-      ],
-      "abstractNL": [
-        "Weliswaar kunnen de beheerders van vennootschappen, volgens de bepaling van openbare orde door de artikelen 53 en 55 van de gecoördineerde wetten op de handelsvennootschappen uitgedrukt, in hun hoedanigheid van beheerder of van afgevaardigde-beheerder niet met de vennootschap door een arbeidsovereenkomst zijn verbonden maar dit geldt niet voor personen die geen beheerders zijn die overeenkomstig artikel 63 van hogervermelde wetten met het dagelijks bestuur van de vennootschap werden belast. Uit de omstandigheid dat de directeur van een vennootschap, die geen beheerder is, slechts de werkzaamheden van de afgevaardigde belast met het dagelijks bestuur uitoefent, kan niet worden afgeleid dat hij niet door een arbeidsovereenkomst met de vennootschap is verbonden."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19801212.6": {
-      "court": "CASS",
-      "date": "1980-12-12",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/12/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "Un arrêt ajoute à la loi en décidant qu'une société à responsabilité limitée n'a pas le droit de devenir actionnaire d'une société anonyme, en tout cas en défendant à la S.P.R.L. de jouer un rôle prépondérant dans la société anonyme."
-      ],
-      "abstractNL": [
-        "Door een personenvennootschap met beperkte aansprakelijkheid het recht te ontzeggen vennoot te zijn van een naamloze vennootschap, althans zodanig een leidende rol in een naamloze vennootschap te vervullen, voegt een arrest aan de wet toe."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19801212.11": {
-      "court": "CASS",
-      "date": "1980-12-12",
-      "roleNumber": "2644",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/12/sitemap_2.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De redenen van een vonnis of arrest moeten de ene door de andere worden uitgelegd en het dispositief moet worden gelezen in het licht van de motieven. Een onnauwkeurigheid waardoor de controle van het Hof van Cassatie over de wettigheid van de beslissing onmogelijk wordt gemaakt, is ook een gebrek van de motivering, dat een schending van artikel 97 Grondwet uitmaakt."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19801110.5": {
-      "court": "CASS",
-      "date": "1980-11-10",
-      "roleNumber": "6107",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/11/10/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Il ne se déduit pas de l'article 184 des lois coordonnées sur les sociétés commerciales que la liquidation de la société entraîne le paiement immédiat de toutes les dettes à terme."
-      ],
-      "abstractNL": [
-        "Uit artikel 184 van de gecoordineerde wetten betreffende de handelsvennootschappen kan niet afgeleid worden dat de vereffening van een maatschappij de onmiddellijke betaling van alle termijnschulden met zich meebrengt."
-      ]
-    },
-    "ECLI:BE:CASS:1980:ARR.19800529.4": {
-      "court": "CASS",
-      "date": "1980-05-29",
-      "roleNumber": "6099",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/05/29/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "1. L'action en responsabilité des administrateurs, fondée sur l'article 35-2° des lois coordonnées sur les sociétés commerciales, selon lequel en cas d'augmentation du capital ils sont tenus solidairement de toute la partie du capital qui ne serait pas valablement souscrite, est soumise à la prescription quinquennale de l'article 194, al. 4 des mêmes lois coordonnées. 2. Le manquement à l'obligation de faire en sorte que tout le capital nouveau soit intégralement souscrit constitue un fait de la fonction d'administrateur au sens de l'article 194, al. 4 des lois coordonnées sur les sociétés commerciales. 3. Lorsque la responsabilité d'un administrateur est mise en cause en raison de ce qu'une souscription à une augmentation de capital n'est pas valable, le fait générateur de cette responsabilité est l'admission de la souscription irrégulière par l'assemblée générale de la société. 4. Par conséquent, en ce cas, le point de départ de la prescription quinquennale est la date de l'assemblée générale ou si l'irrégularité a été celée par dol, le moment où cette irrégularité est découverte."
-      ],
-      "abstractNL": [
-        "1. De aansprakelijkheidsvordering tegen de beheerders, gesteund op artikel 35-2° van de gecoördineerde wetten op de handelsvennootschappen, bepalend dat zij, in geval van kapitaalsverhoging, solidair gehouden zijn tot het deel van het kapitaal dat niet regelmatig werd ingeschreven, is onderworpen aan de verjaringstermijn van vijf jaar, bepaald door artikel 194, lid 4 van diezelfde wetten. 2. De tekortkoming aan de verplichting ervoor te zorgen dat gans het nieuwe kapitaal volledig wordt ingeschreven is een daad van het ambt van beheerder in de zin van artikel 194 lid 4 van de gecoördineerde wetten op de handelsvennootschappen. 3. Wanneer de aansprakelijkheid van een beheerder ter sprake komt naar aanleiding van een ongeldige inschrijving van een kapitaalsverhoging, is de aanvaarding van de onregelmatige inschrijving door de algemene vergadering van de vennootschap het feit dat die aansprakelijkheid tot gevolg heeft. 4. In dat geval is het vertrekpunt van de verjaringstermijn van vijf jaar derhalve de datum waarop de algemene vergadering werd gehouden of de datum waarop de onregelmatigheid werd ontdekt, wanneer die onregelmatigheid bedrieglijk werd verborgen."
-      ]
-    },
-    "ECLI:BE:CASS:1978:ARR.19780623.5": {
-      "court": "CASS",
-      "date": "1978-06-23",
-      "roleNumber": "2209",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/06/23/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Si, aux termes de l'article 13bis inséré dans les lois coordonnées sur les sociétés commerciales par l'article 7 de la loi du 6 mars 1973, ceux qui, au nom d'une société en formation, ont pris avant l'acquisition par cette société de la personnalité juridique un engagement à quelque titre que ce soit, en sont personnellement et solidairement responsables, sauf convention contraire, si ces engagements ne sont pas repris par la société dans les deux mois de sa constitution, ou si la société n'est pas constituée dans les deux ans de la naissance de l'engagement, l'article 35-1° des mêmes lois se borne à disposer que les fondateurs sont tenus solidairement envers les intéressés, malgré toute stipulation contraire, de tous les engagements sociaux contractés jusqu'à ce que la société ait sept membres au moins."
-      ],
-      "abstractNL": [
-        "Overeenkomstig artikel 13bis, in de gecoördineerde wetten op de handelsvennootschappen ingelast bij artikel 7 van de wet van 6 maart 1973, zijn degenen die in naam van een vennootschap in vorming, vooraleer zij de rechtspersoonlijkheid heeft verworven, ten welken titel ook een verbintenis hebben aangegaan, voor deze verbintenis - behoudens andersluidend beding - persoonlijk en solidair aansprakelijk, indien deze verbintenis door de vennootschap niet binnen de twee maanden na haar oprichting wordt overgenomen of indien de vennootschap niet is opgericht binnen de twee jaar vanaf het tot stand komen van de verbintenis. Artikel 35, 1° van de gecoördineerde wetten beperkt er zich toe te bepalen dat, ondanks elk andersluidend beding, de oprichters jegens de belanghebbenden solidair verbonden zijn door de maatschappelijke verbintenissen die werden aangegaan tot op het ogenblik dat de vennootschap minstens zeven leden telt."
-      ]
-    },
-    "ECLI:BE:CASS:1978:ARR.19780320.5": {
-      "court": "CASS",
-      "date": "1978-03-20",
-      "roleNumber": "2179",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/03/20/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "Le moyen, invoqué en cassation, que conformément à l'article 189 des lois coordonnées sur les sociétés, une condamnation contre la société en nom collectif doit être prononcée avant que les associés puissent être condamnés individuellement, manque en fait lorsqu'il a été établi devant le juge d'appel que les associés ne pouvaient nullement être rendus responsables et que seule la société pouvait être tenue."
-      ],
-      "abstractNL": [
-        "Het middel, voorgebracht in cassatie, dat overeenkomstig artikel 189 van de Vennootschappenwet eerst een veroordeling tegen de vennootschap onder gemeenschappelijke naam moet worden uitgesproken en dan pas persoonlijke veroordelingen van de vennoten mist feitelijke grondslag nu voor de rechter in hoger beroep gesteld werd dat de vennoten helemaal niet konden worden aangesproken en dat enkel de vennootschap kon gehouden zijn."
-      ]
-    },
-    "ECLI:BE:CASS:1977:ARR.19770525.4": {
-      "court": "CASS",
-      "date": "1977-05-25",
-      "roleNumber": "19310",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/05/25/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Si les parties n'ont ni expressément ni tacitement choisi la loi applicable à leur convention c'est la loi du lieu d'exécution du contrat qui régit celui-ci. En conséquence, le congé émanant d'un des associés est régulier."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1975:ARR.19751205.3": {
-      "court": "CASS",
-      "date": "1975-12-05",
-      "roleNumber": "75/5807",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/12/05/sitemap_6.xml"
-      ],
-      "abstractFR": [
-        "La présomption de solidarité existant de droit entre commerçants tenus d'une même obligation conventionnelle est une exception au principe de la divisibilité des dettes et doit être interprétée restrictivement. Cette présomption n'est pas d'application lorsqu'il s'agit de non-commerçants, tel les gérants-associés d'une société commerciale."
-      ],
-      "abstractNL": [
-        "Het vermoeden van solidariteit dat bestaat tussen schuldenaars - handelaars die door eenzelfde contractuele verbintenis gehouden zijn is een uitzondering op de splitsbaarheid der schulden en moet beperkend uitgelegd worden. Het vermoeden van hoofdelijkheid is niet toepasselijk op niet-handelaars, i.c. zaakvoerders-vennoten van een handelsvennootschap."
-      ]
-    },
-    "ECLI:BE:CASS:1968:ARR.19680917.3": {
-      "court": "CASS",
-      "date": "1968-09-17",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/09/17/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Constituent, au sens de l'article 63 des lois coordonnées sur les sociétés commerciales, des actes ou opérations de \"gestion journalière des affaires de la société\" ceux qui sont commandés par les besoins de la vie quotidienne de la société et ceux qui tant en raison de leur peu d'importance que la nécessité d'une prompte solution ne justifient pas l'intervention du conseil d'adminstration lui-même."
-      ],
-      "abstractNL": [
-        "Handelingen of verrichtingen betreffende het dagelijks beheer der zaken van de vennootschap, in de zin van artikel 63 van de gecoördineerde wetten op de handelsvennootschappen, zijn die welke door het dagelijks leven van de vennootschap vereist worden of die welke zowel wegens hun gering belang als wegens de noodzakelijkheid van een snelle oplossing de tussenkomst van de raad van beheer zelf niet rechtvaardigen."
-      ]
-    },
-    "ECLI:BE:CASS:1968:ARR.19680521.3": {
-      "court": "CASS",
-      "date": "1968-05-21",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/21/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "Lorsqu'est déclarée la faillite distincte d'un associé d'une société en nom collectif, cette faillite, distincte de celle de la société, forme une seule masse qui comprend tant le passif de la société que le passif propre de l'associé. (Loi du 18 avril 1851, art. 444; lois sur les sociétés commerciales, coordonnées le 30 novembre 1935, art. 17.)"
-      ],
-      "abstractNL": [
-        "Bij een afzonderlijk faillissement van een vennoot van een vennootschap onder een gemeenschappelijke naam, die zelf failliet verklaard werd, vormt dit faillissement, dat onderscheiden is van dat van de vennootschap, slechts één enkele massa, welke zowel het passief van de vennootschap als het passief van de vennoot omvat. (Wet van 18 april 1851, art. 444; wetten op de handelsvennootschappen, gecoördineerd op 30 november 1935, art. 17.)"
-      ]
-    },
-    "ECLI:BE:CASS:1967:ARR.19670518.1": {
-      "court": "CASS",
-      "date": "1967-05-18",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/18/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Le directeur, gérant ou autre agent à qui est déléguée la gestion journalière des affaires d'une société anonyme, peut être nommément désigné dans les statuts et cette désignation peut être modifiée dans les formes prévues pour les modifications des statuts. (Lois coordonnées sur les sociétés commerciales, art. 63.)"
-      ],
-      "abstractNL": [
-        "De directeur, zaakvoerder of andere agent aan wie het dagelijks beheer van de zaken van een naamloze vennootschap wordt toevertrouwd mag met name in de statuten worden aangewezen en deze aanwijzing kan gewijzigd worden in de vormen bepaald voor de wijziging van de statuten. (Gecoördineerde wetten op de handelsvennootschappen, art. 63.)"
-      ]
-    },
-    "ECLI:BE:CASS:1966:ARR.19660414.2": {
-      "court": "CASS",
-      "date": "1966-04-14",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/14/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Lorsque le pourvoi formé, en matière civile, par une société anonyme, représentée par son conseil d'administration, et l'acte de signification de ce pourvoi ne mentionnent pas le nom, la profession et le domicile d'administrateurs de la société, nommés postérieurement à la décision attaquée mais antérieurement à la signification du pourvoi, et que la société demanderesse ne justifie pas que ces administrateurs n'étaient plus en fonction le jour de la signification, la partie défenderesse est fondée à opposer la non-recevabilité du pourvoi, alors même que la nomination de ces administrateurs n'a été publiée aux annexes du Moniteur qu'après la signification du pourvoi. (Lois coordonnées sur les sociétés commerciales, art. 12.)"
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1966:ARR.19660225.1": {
-      "court": "CASS",
-      "date": "1966-02-25",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/25/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a également la gestion journalière dans ses attributions."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1966:ARR.19660225.2": {
-      "court": "CASS",
-      "date": "1966-02-25",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/02/25/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a également la gestion journalière dans ses attributions."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1966:ARR.19660114.3": {
-      "court": "CASS",
-      "date": "1966-01-14",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/14/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "A défaut de délégation de la gestion journalière d'une société de personnes à responsabilité limitée à un associé ou à un tiers, le gérant, investi de l'administration générale de la société, a aussi la gestion journalière dans ses attributions."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1965:ARR.19650928.3": {
-      "court": "CASS",
-      "date": "1965-09-28",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/28/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Ne sont pas compris parmi les actes de gestion journalière, visés par l'article 63 des lois coordonnées sur les sociétés commerciales, la signature de la déclaration des revenus de la société, ni la conclusion de tous contrats d'achat et de vente sans aucune restriction quant à leur montant et à leurs modalités."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1965:ARR.19650920.6": {
-      "court": "CASS",
-      "date": "1965-09-20",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/20/sitemap_4.xml"
-      ],
-      "abstractFR": [
-        "La banqueroute d'une société de personnes à responsabilité limitée peut avoir comme auteur pénalement responsable celui qui, en fait, est le gérant de la société.",
-        "Le gérant d'une société de personnes à responsabilité limitée peut, en raison de son activité comme organe de la société, être condamné comme auteur de la banqueroute simple ou frauduleuse de celle-ci, quoiqu'il ne soit pas lui-même commerçant."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1965:ARR.19650917.1": {
-      "court": "CASS",
-      "date": "1965-09-17",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/17/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "L'article 12 des lois sur les sociétés commerciales, coordonnées par arrêté royal du 30 novembre 1935, qui dispose que la démission des administrateurs de sociétés commerciales doit être publiée conformément aux formes prescrites par lesdites lois, a pour objet de sauvegarder les droits des tiers dans leurs rapports avec la société et ses représentants."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1965:ARR.19650517.1": {
-      "court": "CASS",
-      "date": "1965-05-17",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/17/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "Est illégale la décision du juge d'appel qui condamne le prévenu pour une infraction autre que celle sur laquelle le premier juge a statué, sans constater que le fait ainsi retenu est le même que celui qui fondait la poursuite ou était compris dans ceux qui fondaient celle-ci."
-      ],
-      "abstractNL": null
     },
     "ECLI:BE:CASS:1999:ARR.19991215.4": {
       "court": "CASS",

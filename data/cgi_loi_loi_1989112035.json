@@ -99,6 +99,22 @@
       ]
     }
   },
+  "8": {
+    "ECLI:BE:CASS:1993:ARR.19931104.5": {
+      "court": "CASS",
+      "date": "1993-11-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/04/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Ni la Convention de sauvegarde des droits de l'homme, ni la Convention relative aux droits de l'enfant n'imposent aux tribunaux l'obligation de donner la prépondérance aux liens du sang."
+      ],
+      "abstractNL": [
+        "Noch her verdrag tot bescherming van de rechten van de mens, noch het Verdrag betreffende de rechten van het kind leggen aan de rechtbanken op de voorkeur te geven aan de bloedband."
+      ]
+    }
+  },
   "9": {
     "ECLI:BE:CASS:2021:ARR.20210928.2N.5": {
       "court": "CASS",
@@ -192,22 +208,6 @@
       ],
       "abstractNL": [
         "Noch de artikelen 40 Kinderrechtenverdrag en 14 IVBPR noch enige andere bepaling verbieden de bij de voormelde verdragen aangesloten Staten te bepalen dat de jeugdrechtbanken vanaf een minimumleeftijd, waaronder minderjarigen niet onder de bevoegdheid van de gemeenrechtelijke rechtbanken kunnen vallen, onder de bij wet gestelde voorwaarden, en met name wanneer ze een beschermingsmaatregel niet geschikt achten, de zaak uit handen kunnen geven en de zaak naar het openbaar ministerie kunnen verwijzen met het oog op vervolging voor de bevoegde strafgerechten."
-      ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1993:ARR.19931104.5": {
-      "court": "CASS",
-      "date": "1993-11-04",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/04/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Ni la Convention de sauvegarde des droits de l'homme, ni la Convention relative aux droits de l'enfant n'imposent aux tribunaux l'obligation de donner la prépondérance aux liens du sang."
-      ],
-      "abstractNL": [
-        "Noch her verdrag tot bescherming van de rechten van de mens, noch het Verdrag betreffende de rechten van het kind leggen aan de rechtbanken op de voorkeur te geven aan de bloedband."
       ]
     }
   }

@@ -1,4 +1,18 @@
 {
+  "6": {
+    "ECLI:BE:CASS:1982:ARR.19820215.5": {
+      "court": "CASS",
+      "date": "1982-02-15",
+      "roleNumber": "79/28138",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/15/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 6,par. 1er, de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé prévoit que, lorsqu'un militaire est rendu à la vie civile, il est censé avoir été assujetti au régime de pension des travailleurs salariés pendant toute la durée de sa présence sous les armes à partir de l'âge de seize ans, s'il ne peut obtenir une pension militaire par ancienneté de services. La preuve de l'occupation en qualité de salarié pendant le période fixée par l'article 6, 1er, précité, résulte de cette disposition elle-même et n'est pas soumise aux conditions édictées pour les salariés par les articles 30 à 37 de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés. L'arrêt, qui constate que le défendeur a été présent sous les armes en 1928, depuis le 12 janvier, décide légalement qu'au cours de cette année, il a été occupé habituellement et en ordre principal, au sens de l'article 29, alinéa 1er, de l'arrêté royal du 21 décembre 1967."
+      ],
+      "abstractNL": null
+    }
+  },
   "8": {
     "ECLI:BE:CASS:1982:ARR.19820215.14": {
       "court": "CASS",
@@ -27,20 +41,6 @@
       "abstractNL": [
         "Wanneer de Rijksdienst voor Werknemerspensioenen een rustpensioen heeft toegekend met inachtneming van een principieel akkoord van de bevoegde instelling tot overdracht van bijdragen met toepassing van de artt. 4 en 8, wet van 5 augustus 1958, is de intrekking van dit akkoord een nieuw feit op grond waarvan de Rijksdienst zijn beslissing kan herzien. (Art. 21, alinéa 3, K.B. van 21 december 1967.)"
       ]
-    }
-  },
-  "general": {
-    "ECLI:BE:CASS:1982:ARR.19820215.5": {
-      "court": "CASS",
-      "date": "1982-02-15",
-      "roleNumber": "79/28138",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/15/sitemap_8.xml"
-      ],
-      "abstractFR": [
-        "L'article 6,par. 1er, de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé prévoit que, lorsqu'un militaire est rendu à la vie civile, il est censé avoir été assujetti au régime de pension des travailleurs salariés pendant toute la durée de sa présence sous les armes à partir de l'âge de seize ans, s'il ne peut obtenir une pension militaire par ancienneté de services. La preuve de l'occupation en qualité de salarié pendant le période fixée par l'article 6, 1er, précité, résulte de cette disposition elle-même et n'est pas soumise aux conditions édictées pour les salariés par les articles 30 à 37 de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés. L'arrêt, qui constate que le défendeur a été présent sous les armes en 1928, depuis le 12 janvier, décide légalement qu'au cours de cette année, il a été occupé habituellement et en ordre principal, au sens de l'article 29, alinéa 1er, de l'arrêté royal du 21 décembre 1967."
-      ],
-      "abstractNL": null
     }
   }
 }

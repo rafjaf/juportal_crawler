@@ -1,5 +1,5 @@
 {
-  "general": {
+  "1": {
     "ECLI:BE:CASS:1983:ARR.19830214.7": {
       "court": "CASS",
       "date": "1983-02-14",
@@ -13,7 +13,9 @@
       "abstractNL": [
         "Door artikel 1 van het koninklijk besluit van 18 mei 1973 wordt een paritair comité voor de stoffering en de houtbewerking opgericht; dit voor de werknemers wier bezigheid in hoofdzaak handenarbeid is, inzonderheid in de sector van de handel in niet-metalen meubelen en de plaatsing, het onderhoud en de herstelling ervan. Het criterium om uit te maken of men van genoemd paritair comité deel uitmaakt, is de activiteit die normaal door de onderneming zelf wordt uitgevoerd. Het arrest dat vaststelt dat wanneer een vennootschap niet-metalen meubelen verkoopt en op vraag van het kliënteel ook zorgt voor de plaatsing, het onderhoud of de herstellingen ervan, maar dit door tussenkomst van derden en door zelf de kosten van deze werkzaamheden te dragen, kan uit deze vaststellingen niet wettig afleiden dat de vennootschap deel uitmaakt van genoemd paritair comité."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1983:ARR.19830214.1": {
       "court": "CASS",
       "date": "1983-02-14",

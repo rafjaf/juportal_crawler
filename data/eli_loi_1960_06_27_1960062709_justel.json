@@ -8,10 +8,10 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/29/sitemap_1.xml"
       ],
       "abstractFR": [
-        "Lorsque deux époux sont de nationalité étrangère et que l'un, possédant la double nationalité britannique et irlandaise, demande le divorce en Belgique, le juge belge ne peut déclarer sa demande recevable en considérant que la loi irlandaise ne s'oppose pas au divorce, alors que cette loi se borne à en reconnaître l'institution et les effets lorsqu'il est autorisé par le tribunal du pays dans lequel l'un des époux est domicilié. (L. 27 juin 1960, art. 1er.)"
+        "Lorsque deux époux sont de nationalité étrangère et que l'un, possédant une double nationalité, demande le divorce en Belgique, le juge belge qui relève que l'une de ces lois nationales ignore le divorce doit déclarer la demande irrecevable, s'il ne constate pas que le demandeur a sa résidence habituelle et principale dans le pays qui autorise le divorce ou se rattache le plus, en fait, à ce pays. (Convention de La Haye du 12 avril 1930, art. 5; L. 27 juin 1960, art. 1er.)"
       ],
       "abstractNL": [
-        "Wanneer beide echtgenoten van vreemde nationaliteit zijn en de ene echtgenoot die twee nationaliteiten, namelijk de Britse en de Ierse nationaliteit bezit, in België echtscheiding vraagt, vermag de Belgische rechter niet diens vordering ontvankelijk te verklaren op grond dat de Ierse wet zich niet tegen echtscheiding verzet, terwijl die wet zich ertoe beperkt het instituut en de gevolgen ervan te erkennen als echtscheiding is toegestaan door de rechter van het land waarin een van de echtgenoten zijn woonplaats heeft. (Art. 1 wet van 27 juni 1960.)"
+        "Wanneer beide echtgenoten van vreemde nationaliteit zijn en de ene echtgenoot die twee nationaliteiten bezit, in België echtscheiding vraagt, moet de Belgische rechter die erop wijst dat een van die nationale wetten de echtscheiding niet kent, de vordering niet-ontvankelijk verklaren, als hij niet vaststelt dat eiser zijn gewone en voornaamste verblijfplaats heeft in het land dat echtscheiding wel toestaat of waaraan hij feitelijk het nauwst verbonden is. (Art. 5, Verdrag van 's-Granenhage; art. I wet van 27 juni 1960.)"
       ]
     }
   },
@@ -27,6 +27,20 @@
         "Les articles 1er et 3 de la loi du 27 juin 1960 sur l'admissibilité du divorce, lorsqu'un des conjoints au moins est étranger, sont des dispositions de droit international privé, qui déterminent, lorsque les époux sont de nationalité étrangère, la loi régissant le divorce, pour cause déterminée, dont le juge belge doit faire application."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1989:ARR.19890420.11": {
+      "court": "CASS",
+      "date": "1989-04-20",
+      "roleNumber": "8477",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu des articles 1er et 3 de la loi du 27 juin 1960 sur l'admissibilité du divorce lorsque l'un des conjoints au moins est étranger, et que la loi nationale de l'époux demandeur ne s'oppose pas à ce mode de dissolution du mariage, la détermination des causes du divorce relève de la loi belge."
+      ],
+      "abstractNL": [
+        "Krachtens de artt. 1 en 3 wet van 27 juni 1960 op de toelaatbaarheid van echtscheiding wanneer ten minste één van de echtgenoten een vreemdeling is en de nationale wet van de echtgenoot, die echtscheiding vraagt, zich niet verzet tegen die wijze van ontbinding van het huwelijk, worden de gronden van echtscheiding bepaald volgens de Belgische wet."
+      ]
     }
   },
   "4": {
@@ -94,34 +108,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1994:ARR.19940929.5": {
-      "court": "CASS",
-      "date": "1994-09-29",
-      "roleNumber": "C930435F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/29/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Lorsque deux époux sont de nationalité étrangère et que l'un, possédant une double nationalité, demande le divorce en Belgique, le juge belge qui relève que l'une de ces lois nationales ignore le divorce doit déclarer la demande irrecevable, s'il ne constate pas que le demandeur a sa résidence habituelle et principale dans le pays qui autorise le divorce ou se rattache le plus, en fait, à ce pays. (Convention de La Haye du 12 avril 1930, art. 5; L. 27 juin 1960, art. 1er.)"
-      ],
-      "abstractNL": [
-        "Wanneer beide echtgenoten van vreemde nationaliteit zijn en de ene echtgenoot die twee nationaliteiten bezit, in België echtscheiding vraagt, moet de Belgische rechter die erop wijst dat een van die nationale wetten de echtscheiding niet kent, de vordering niet-ontvankelijk verklaren, als hij niet vaststelt dat eiser zijn gewone en voornaamste verblijfplaats heeft in het land dat echtscheiding wel toestaat of waaraan hij feitelijk het nauwst verbonden is. (Art. 5, Verdrag van 's-Granenhage; art. I wet van 27 juni 1960.)"
-      ]
-    },
-    "ECLI:BE:CASS:1989:ARR.19890420.11": {
-      "court": "CASS",
-      "date": "1989-04-20",
-      "roleNumber": "8477",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/20/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "En vertu des articles 1er et 3 de la loi du 27 juin 1960 sur l'admissibilité du divorce lorsque l'un des conjoints au moins est étranger, et que la loi nationale de l'époux demandeur ne s'oppose pas à ce mode de dissolution du mariage, la détermination des causes du divorce relève de la loi belge."
-      ],
-      "abstractNL": [
-        "Krachtens de artt. 1 en 3 wet van 27 juni 1960 op de toelaatbaarheid van echtscheiding wanneer ten minste één van de echtgenoten een vreemdeling is en de nationale wet van de echtgenoot, die echtscheiding vraagt, zich niet verzet tegen die wijze van ontbinding van het huwelijk, worden de gronden van echtscheiding bepaald volgens de Belgische wet."
-      ]
-    },
     "ECLI:BE:CASS:1978:ARR.19781214.6": {
       "court": "CASS",
       "date": "1978-12-14",

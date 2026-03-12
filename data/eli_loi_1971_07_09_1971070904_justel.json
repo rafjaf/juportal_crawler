@@ -43,6 +43,18 @@
       "abstractNL": [
         "De omstandigheid dat er nog geen voorlopige oplevering heeft plaatsgevonden, staat niet er aan in de weg dat de eigendom van de grond en de opstallen reeds is overgegaan op de kopers ervan, met inbegrip van de rechten van de verkoper die nauw verbonden zijn met het gebouw (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830502.3": {
+      "court": "CASS",
+      "date": "1983-05-02",
+      "roleNumber": "72/2334;72/2394",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/02/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 7, b, de la loi du 9 juillet 1971 dispose que les conventions visées à l'article 1er, ainsi que les promesses de pareilles conventions doivent mentionner la date de la délivrance du permis de bâtir et les conditions de ce permis, et aux termes de l'article 13, alinéa 2, l'inobservation de l'une des dispositions de l'article 7 entraîne la nullité de la convention; il résulte toutefois de l'alinéa 3 de l'article 13 que cette nullité est relative, ne pouvant être invoquée que par l'acquéreur ou le maître de l'ouvrage, à l'exclusion de toute autre personne, avant la passation de l'acte authentique ou, s'il s'agit d'un contrat d'entreprise, avant la réception provisoire visée à l'article 9. Les promesses de convention produisent tous leurs effets si les seules personnes qui peuvent en invoquer la nullité ne le font pas dans les conditions précitées. Dès lors, la cour du travail a pu décider légalement que la préconvention signée par le client constitue l'ordre prévu par l'article 4, alinéa 1er, de la loi du 30 juillet 1963."
+      ],
+      "abstractNL": null
     }
   },
   "7": {
@@ -138,18 +150,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1983:ARR.19830502.3": {
-      "court": "CASS",
-      "date": "1983-05-02",
-      "roleNumber": "72/2334;72/2394",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/05/02/sitemap_7.xml"
-      ],
-      "abstractFR": [
-        "L'article 7, b, de la loi du 9 juillet 1971 dispose que les conventions visées à l'article 1er, ainsi que les promesses de pareilles conventions doivent mentionner la date de la délivrance du permis de bâtir et les conditions de ce permis, et aux termes de l'article 13, alinéa 2, l'inobservation de l'une des dispositions de l'article 7 entraîne la nullité de la convention; il résulte toutefois de l'alinéa 3 de l'article 13 que cette nullité est relative, ne pouvant être invoquée que par l'acquéreur ou le maître de l'ouvrage, à l'exclusion de toute autre personne, avant la passation de l'acte authentique ou, s'il s'agit d'un contrat d'entreprise, avant la réception provisoire visée à l'article 9. Les promesses de convention produisent tous leurs effets si les seules personnes qui peuvent en invoquer la nullité ne le font pas dans les conditions précitées. Dès lors, la cour du travail a pu décider légalement que la préconvention signée par le client constitue l'ordre prévu par l'article 4, alinéa 1er, de la loi du 30 juillet 1963."
-      ],
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:1979:ARR.19790608.4": {
       "court": "CASS",
       "date": "1979-06-08",

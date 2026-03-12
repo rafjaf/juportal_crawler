@@ -297,6 +297,20 @@
       "abstractNL": [
         "Indien de speciën, waardepapieren en schuldvorderingen over het algemeen geen deel uitmaken van de handelszaak, kunnen zij nochtans, door middel van een beding, begrepen zijn in de in pand gegeven handelszaak, aangezien de in artikel 2 van de wet van 25 oktober 1919 gegeven opsomming niet beperkend is."
       ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701106.3": {
+      "court": "CASS",
+      "date": "1970-11-06",
+      "roleNumber": "700",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les créances, valeurs et espèces ne font généralement pas partie du fonds de commerce. Une clause spéciale peut cependant déroger à cette règle. Le fonds de commerce n'est pas une personne morale et n'a pas un patrimoine distinct. S'il est exact que tous les biens du fonds de commerce font partie du patrimoine du commerçant, ce dernier peut néanmoins inclure certains éléments de ce patrimoine dans le fonds de commerce. L'inclusion des créances dans le fonds de commerce n'implique pas l'inclusion dans le fonds de l'ensemble du passif."
+      ],
+      "abstractNL": [
+        "De schuldvorderingen, waarden en speciën maken meestal geen deel uit van het handelsfonds. Door een bijzondere bepaling mag nochtans van deze regel afgeweken worden. Het handelsfonds bezit geen rechtspersoonlijkheid en dus ook geen afzonderlijk patrimonium. Hoewel al de goederen van het handelsfonds tot het patrimonium van de handelaar behoren, kan deze zekere elementen van dit patrimonium in de handelszaak begrijpen. Het voegen bij het handelsfonds van de schuldvorderingen impliceert niet dat het volledig passief eveneens in het handelsfonds zou begrepen zijn."
+      ]
     }
   },
   "4": {
@@ -312,6 +326,46 @@
       ],
       "abstractNL": [
         "De inpandgeving van de handelszaak ingesteld bij de wet van 25 oktober 1919, zoals deze is gewijzigd bij het koninklijk besluit nr. 282 van 30 maart 1936, is onderworpen aan andere bijzondere regels dan die welke voorzien in de regeling van de panden, omschreven bij de artikelen 2073 tot 2084 van het Burgerlijk Wetboek, en bij de wet van 5 mei 1872 houdende herziening van het Wetboek van koophandel betreffende het pand en de commissielonen."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720526.2": {
+      "court": "CASS",
+      "date": "1972-05-26",
+      "roleNumber": "700",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La mise en gage d'un fonds de commerce est régie par des règles spéciales. Ce gage peut comprendre le mobilier de magasin et l'outillage, même si ceux-ci sont immeubles par destination. La mise en gage est opposable aux tiers lorsque l'acte qui le constate a été inscrit au bureau de la conservation des hypothèques de l'arrondissement judiciaire dans le ressort duquel se trouve le fonds de commerce."
+      ],
+      "abstractNL": [
+        "Het in pand geven van een handelszaak wordt door speciale regels beheerst. Dit pand kan de meubilering van deze zaak en het gereedschap omvatten, al zijn deze goederen onroerend door hun bestemming. Deze in pandgeving is tegenstelbaar aan derden wanneer de akte die ze vaststelt ingeschreven werd in het bureel voor de bewaring der hypotheken van het gerechtelijk arrondissement van de plaats waar het handelsfonds gelegen is."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870326.4": {
+      "court": "CASS",
+      "date": "1987-03-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/03/26/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 2, de la loi du 25 octobre 1919, selon lequel l'omission de l'une ou de plusieurs formalités prescrites ci-dessus n'entraînera la nullité que lorsqu'elle portera préjudice aux tiers, ne vise que l'omission de l'une ou de plusieurs formalités prescrites par la loi pour opérer une inscription valable et non l'absence même d'inscription qui doit être faite en application de l'article 4 de ladite loi; l'absence d'inscription suffit à rendre le gage inexistant à l'égard des tiers."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1986:ARR.19861106.6": {
+      "court": "CASS",
+      "date": "1986-11-06",
+      "roleNumber": "1253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/06/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour que soit rendue publique une clause d'un acte de gage sur fonds de commerce stipulant que le gage comprendra également des créances sur tiers débiteurs il n'est pas nécessaire qu'une indication à ce sujet soit insérée dans le texte des bordereaux mentionnés à l'article 4 de la loi du 25 octobre 1919 concernant le gage sur fonds de commerce. Il suffit que ces bordereaux contiennent l'indication spéciale du fonds de commerce donné en gage ce qui n'implique pas une énumération des diverses composantes de ce fonds de commerce. Quand il a par contre été convenu que le gage comprendra aussi le stock des marchandises il doit en être fait mention dans le texte des bordereaux sus-énoncés."
+      ],
+      "abstractNL": [
+        "Opdat een beding voorkomend in een akte tot vestiging van een pand op een handelsfonds, waarin wordt bepaald dat het pand ook de schuldvorderingen op derden bevat, openbaarheid zou krijgen is niet vereist dat dienaangaande een speciale vermelding wordt opgenomen in de borderellen bedoeld in artikel 4 van de wet van 25 oktober 1919 betreffende het in pand geven van een handelszaak. Het volstaat dat deze borderellen de bijzondere aanwijzing van de in pand gegeven handelszaak bevatten, wat niet impliceert dat daarin een opsomming van de verschillende bestanddelen van de handelszaak zou moeten voorkomen. Wanneer daarentegen bedongen is dat het pand ook de aanwezige voorraad opgeslagen waren bevat, moet daarvan wel melding worden gemaakt in hoger vermelde borderellen."
       ]
     }
   },
@@ -373,6 +427,20 @@
       "abstractNL": [
         "De schuldeiser ten bate van wie een handelszaak werd in pand gegeven heeft geen volgrecht op individuele, onlichamelijke bestanddelen van de handelszaak."
       ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921119.1": {
+      "court": "CASS",
+      "date": "1992-11-19",
+      "roleNumber": "927",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le warrantage de marchandise, tout en impliquant l'intervention d'un tiers dépositaire qui conserve en règle la détention matérielle des marchandises, n'enlève pas à l'exploitant du fonds de commerce la possession de ces marchandises a titre de propriétaire. L'inscription du gage sur fonds de commerce a pour effet de rendre opposable aux tiers la mise en gage du fonds de commerce et de déterminer la préférence, d'après la date de ladite inscription et sans égard à la qualité des créances,en cas de concours entre le gage sur fonds de commerce et le warrant émis postérieurement a l'inscription de ce gage. La circonstance que l'une des sûretés en concours n'est pas soumise à une publicité instrumentaire n'a pas pour effet d'écarter l'application de la règle d'antériorité. Le fait que le fonds de commerce englobe un ensemble de biens n'ôte pas au gage son caractère spécial. L'article 26 de la loi hypothécaire ne trouve pas à s'appliquer.Le warrantage de biens faisant partie d'un fonds de commerce gagé n'a pas pour effet de modifier l'assiette du gage et, partant, de contraindre le créancier à user des droits que lui confère l'article 11 de la loi du 25 octobre 1919."
+      ],
+      "abstractNL": [
+        "Ook al impliceert het in warrant geven van koopwaar de tussenkomst van een derde-bewaarnemer die in regel het materiële houderschap over deze goederen behoudt, toch ontneemt dit de eigenaar van de handelszaak niet het bezit ten titel van eigenaar van deze koopwaar. De inschrijving van het pand of handelszaak heeft voor gevolg dat deze verpanding tegenstelbaar wordt aan derden en dat in geval van samenloop tussen pand op handelszaak en een warrant gevestigd na deze inschrijving de voorrang bepaald wordt volgens de datum van deze inschrijving, zonder acht te slaan op de aard van de gewaarborgde vorderingen. De anterioriteitsregel wordt niet uitgesloten door de omstandigheid dat een van de in samenloop komende zekerheden niet aan instrumentaire publiciteit is onderworpen. Het pand op handelszaak verliest zijn bijzonder karakter niet doordat de handelszaak een geheel van goederen omvat. Artikel 26 van de Hypotheek-wet is dus niet toepasselijk.Het in warrant geven van goederen die deel uitmaken van een verpande handelszaak heeft niet voor gevolg dat het voorwerp van het pand op handelszaak gewijzigd wordt. De pandhouder is dus niet verplicht tot gebruik van de rechten hem geboden door artikel 11 van de Wet van 25 oktober 1919."
+      ]
     }
   },
   "12": {
@@ -388,6 +456,20 @@
       ],
       "abstractNL": [
         "De wet van 5 mei 1872 noch de wet van 25 oktober 1919 staan eraan in de weg dat de inleiding en behandeling van de vordering tot vervanging van degene die werd aangewezen om een pand gegeven handelszaak te verkopen, gebeurt op eenzijdig verzoekschrift overeenkomstig de artt. 1025 tot 1033 Ger. W.; rechtsgeldig is het verzet dat de curator van de failliete schuldenaar op grond van art. 1033 Ger. W. doet tegen de desaangaande gegeven beschikking die zijn rechten benadeelt. (Artt. 4 en 5 wet 5 mei 1872, 12 wet 25 okt. 1919)."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730518.2": {
+      "court": "CASS",
+      "date": "1973-05-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si le solde débiteur d'un compte courant excède le montant d'un gage lors de la constitution de celui-ci en période suspecte, les remises faites par le débiteur, depuis cette constitution, devant légalement être imputées sur les dettes les plus anciennes, il s'ensuit qu'après ces dernières remises, la sûreté apparaît comme ayant été créée non pour garantir le paiement de dettes déjà échues mais bien pour garantir le remboursement de crédits ultérieurs, de sorte que la constitution de gage est valable."
+      ],
+      "abstractNL": [
+        "Indien op het ogenblik van de pandstelling in de verdachte periode het debetsaldo van een lopende rekening de waarde van het pand overtreft, dan blijkt daaruit, daar de kortingen door de schuldenaar toegestaan sinds de pandstelling wettelijk op de oudste schulden dienen aangerekend, dat, na de laatste kortingen, de zekerheid gesteld werd niet om de betaling van de vervallen schulden, maar wel om de terugbetaling van verdere kredieten te garanderen, zodat de pandstelling geldig is."
       ]
     }
   },
@@ -453,6 +535,20 @@
       "abstractNL": [
         "De kennisgeving van de overdracht van een schuldvordering, waarvan sprake is in het tweede lid van art. 16 Wet van 25 oktober 1919, is de betekening die volgens het eerste lid moet worden gedaan door middel van een ter post aangetekend schrijven met ontvangstbewijs, waarin de tekst van voormeld tweede lid uitdrukkelijk is weergegeven."
       ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840927.4": {
+      "court": "CASS",
+      "date": "1984-09-27",
+      "roleNumber": "83/1635;83/2198",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'exception d'inexécution, fondée sur l'interdépendance des obligations réciproques des parties, est inhérente à la nature du contrat synallagmatique, de telle sorte qu'elle préexiste à l'inexécution elle-même et au transport des droits des créanciers et qu'elle peut être opposée par le débiteur cédé au cessionnaire, quel que soit le moment auquel se situe l'inexécution."
+      ],
+      "abstractNL": [
+        "De exceptie van niet-uitvoering, gegrond op de onderlinge afhankelijkheid van de wederzijdse verbintenissen van partijen, is inherent aan de aard van het wederkerige contract, zodat zij bestaat voor de wanprestatie en voor de overdracht van de rechten van de schuldeiser en door de gecedeerde schuldenaar aan de overnemer kan worden tegengeworpen, ongeacht het tijdstip waarop de verbintenis niet wordt uitgevoerd."
+      ]
     }
   },
   "general": {
@@ -468,74 +564,6 @@
       ],
       "abstractNL": null
     },
-    "ECLI:BE:CASS:1992:ARR.19921119.1": {
-      "court": "CASS",
-      "date": "1992-11-19",
-      "roleNumber": "927",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/19/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Le warrantage de marchandise, tout en impliquant l'intervention d'un tiers dépositaire qui conserve en règle la détention matérielle des marchandises, n'enlève pas à l'exploitant du fonds de commerce la possession de ces marchandises a titre de propriétaire. L'inscription du gage sur fonds de commerce a pour effet de rendre opposable aux tiers la mise en gage du fonds de commerce et de déterminer la préférence, d'après la date de ladite inscription et sans égard à la qualité des créances,en cas de concours entre le gage sur fonds de commerce et le warrant émis postérieurement a l'inscription de ce gage. La circonstance que l'une des sûretés en concours n'est pas soumise à une publicité instrumentaire n'a pas pour effet d'écarter l'application de la règle d'antériorité. Le fait que le fonds de commerce englobe un ensemble de biens n'ôte pas au gage son caractère spécial. L'article 26 de la loi hypothécaire ne trouve pas à s'appliquer.Le warrantage de biens faisant partie d'un fonds de commerce gagé n'a pas pour effet de modifier l'assiette du gage et, partant, de contraindre le créancier à user des droits que lui confère l'article 11 de la loi du 25 octobre 1919."
-      ],
-      "abstractNL": [
-        "Ook al impliceert het in warrant geven van koopwaar de tussenkomst van een derde-bewaarnemer die in regel het materiële houderschap over deze goederen behoudt, toch ontneemt dit de eigenaar van de handelszaak niet het bezit ten titel van eigenaar van deze koopwaar. De inschrijving van het pand of handelszaak heeft voor gevolg dat deze verpanding tegenstelbaar wordt aan derden en dat in geval van samenloop tussen pand op handelszaak en een warrant gevestigd na deze inschrijving de voorrang bepaald wordt volgens de datum van deze inschrijving, zonder acht te slaan op de aard van de gewaarborgde vorderingen. De anterioriteitsregel wordt niet uitgesloten door de omstandigheid dat een van de in samenloop komende zekerheden niet aan instrumentaire publiciteit is onderworpen. Het pand op handelszaak verliest zijn bijzonder karakter niet doordat de handelszaak een geheel van goederen omvat. Artikel 26 van de Hypotheek-wet is dus niet toepasselijk.Het in warrant geven van goederen die deel uitmaken van een verpande handelszaak heeft niet voor gevolg dat het voorwerp van het pand op handelszaak gewijzigd wordt. De pandhouder is dus niet verplicht tot gebruik van de rechten hem geboden door artikel 11 van de Wet van 25 oktober 1919."
-      ]
-    },
-    "ECLI:BE:CASS:1987:ARR.19870326.4": {
-      "court": "CASS",
-      "date": "1987-03-26",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/03/26/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "L'article 5, alinéa 2, de la loi du 25 octobre 1919, selon lequel l'omission de l'une ou de plusieurs formalités prescrites ci-dessus n'entraînera la nullité que lorsqu'elle portera préjudice aux tiers, ne vise que l'omission de l'une ou de plusieurs formalités prescrites par la loi pour opérer une inscription valable et non l'absence même d'inscription qui doit être faite en application de l'article 4 de ladite loi; l'absence d'inscription suffit à rendre le gage inexistant à l'égard des tiers."
-      ],
-      "abstractNL": null
-    },
-    "ECLI:BE:CASS:1986:ARR.19861106.6": {
-      "court": "CASS",
-      "date": "1986-11-06",
-      "roleNumber": "1253",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/06/sitemap_9.xml"
-      ],
-      "abstractFR": [
-        "Pour que soit rendue publique une clause d'un acte de gage sur fonds de commerce stipulant que le gage comprendra également des créances sur tiers débiteurs il n'est pas nécessaire qu'une indication à ce sujet soit insérée dans le texte des bordereaux mentionnés à l'article 4 de la loi du 25 octobre 1919 concernant le gage sur fonds de commerce. Il suffit que ces bordereaux contiennent l'indication spéciale du fonds de commerce donné en gage ce qui n'implique pas une énumération des diverses composantes de ce fonds de commerce. Quand il a par contre été convenu que le gage comprendra aussi le stock des marchandises il doit en être fait mention dans le texte des bordereaux sus-énoncés."
-      ],
-      "abstractNL": [
-        "Opdat een beding voorkomend in een akte tot vestiging van een pand op een handelsfonds, waarin wordt bepaald dat het pand ook de schuldvorderingen op derden bevat, openbaarheid zou krijgen is niet vereist dat dienaangaande een speciale vermelding wordt opgenomen in de borderellen bedoeld in artikel 4 van de wet van 25 oktober 1919 betreffende het in pand geven van een handelszaak. Het volstaat dat deze borderellen de bijzondere aanwijzing van de in pand gegeven handelszaak bevatten, wat niet impliceert dat daarin een opsomming van de verschillende bestanddelen van de handelszaak zou moeten voorkomen. Wanneer daarentegen bedongen is dat het pand ook de aanwezige voorraad opgeslagen waren bevat, moet daarvan wel melding worden gemaakt in hoger vermelde borderellen."
-      ]
-    },
-    "ECLI:BE:CASS:1984:ARR.19840927.4": {
-      "court": "CASS",
-      "date": "1984-09-27",
-      "roleNumber": "83/1635;83/2198",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/27/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "L'exception d'inexécution, fondée sur l'interdépendance des obligations réciproques des parties, est inhérente à la nature du contrat synallagmatique, de telle sorte qu'elle préexiste à l'inexécution elle-même et au transport des droits des créanciers et qu'elle peut être opposée par le débiteur cédé au cessionnaire, quel que soit le moment auquel se situe l'inexécution."
-      ],
-      "abstractNL": [
-        "De exceptie van niet-uitvoering, gegrond op de onderlinge afhankelijkheid van de wederzijdse verbintenissen van partijen, is inherent aan de aard van het wederkerige contract, zodat zij bestaat voor de wanprestatie en voor de overdracht van de rechten van de schuldeiser en door de gecedeerde schuldenaar aan de overnemer kan worden tegengeworpen, ongeacht het tijdstip waarop de verbintenis niet wordt uitgevoerd."
-      ]
-    },
-    "ECLI:BE:CASS:1973:ARR.19730518.2": {
-      "court": "CASS",
-      "date": "1973-05-18",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/05/18/sitemap_3.xml"
-      ],
-      "abstractFR": [
-        "Si le solde débiteur d'un compte courant excède le montant d'un gage lors de la constitution de celui-ci en période suspecte, les remises faites par le débiteur, depuis cette constitution, devant légalement être imputées sur les dettes les plus anciennes, il s'ensuit qu'après ces dernières remises, la sûreté apparaît comme ayant été créée non pour garantir le paiement de dettes déjà échues mais bien pour garantir le remboursement de crédits ultérieurs, de sorte que la constitution de gage est valable."
-      ],
-      "abstractNL": [
-        "Indien op het ogenblik van de pandstelling in de verdachte periode het debetsaldo van een lopende rekening de waarde van het pand overtreft, dan blijkt daaruit, daar de kortingen door de schuldenaar toegestaan sinds de pandstelling wettelijk op de oudste schulden dienen aangerekend, dat, na de laatste kortingen, de zekerheid gesteld werd niet om de betaling van de vervallen schulden, maar wel om de terugbetaling van verdere kredieten te garanderen, zodat de pandstelling geldig is."
-      ]
-    },
     "ECLI:BE:CASS:1972:ARR.19720928.4": {
       "court": "CASS",
       "date": "1972-09-28",
@@ -548,34 +576,6 @@
       ],
       "abstractNL": [
         "Het voorrecht van de pandhoudende schuldeiser van een handelszaak wordt geprimeerd door dit van de onbetaalde verkoper van een bedrijfsuitrustingsmachine, wanneer deze laatste het bewijs bijbrengt dat de pandhoudende schuldeiser kennis had der niet-betaling van de prijs van het verkochte goed. Dit bewijs kan voortvloeien uit de nederlegging van het afschrift van de faktuur op de griffie overeenkomstig de bepalingen van het artikel 20, 5° hypotheekwet. Het is onverschillig of de neerlegging vóór of na de inschrijving van het pand geschied is."
-      ]
-    },
-    "ECLI:BE:CASS:1972:ARR.19720526.2": {
-      "court": "CASS",
-      "date": "1972-05-26",
-      "roleNumber": "700",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/05/26/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "La mise en gage d'un fonds de commerce est régie par des règles spéciales. Ce gage peut comprendre le mobilier de magasin et l'outillage, même si ceux-ci sont immeubles par destination. La mise en gage est opposable aux tiers lorsque l'acte qui le constate a été inscrit au bureau de la conservation des hypothèques de l'arrondissement judiciaire dans le ressort duquel se trouve le fonds de commerce."
-      ],
-      "abstractNL": [
-        "Het in pand geven van een handelszaak wordt door speciale regels beheerst. Dit pand kan de meubilering van deze zaak en het gereedschap omvatten, al zijn deze goederen onroerend door hun bestemming. Deze in pandgeving is tegenstelbaar aan derden wanneer de akte die ze vaststelt ingeschreven werd in het bureel voor de bewaring der hypotheken van het gerechtelijk arrondissement van de plaats waar het handelsfonds gelegen is."
-      ]
-    },
-    "ECLI:BE:CASS:1970:ARR.19701106.3": {
-      "court": "CASS",
-      "date": "1970-11-06",
-      "roleNumber": "700",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/06/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Les créances, valeurs et espèces ne font généralement pas partie du fonds de commerce. Une clause spéciale peut cependant déroger à cette règle. Le fonds de commerce n'est pas une personne morale et n'a pas un patrimoine distinct. S'il est exact que tous les biens du fonds de commerce font partie du patrimoine du commerçant, ce dernier peut néanmoins inclure certains éléments de ce patrimoine dans le fonds de commerce. L'inclusion des créances dans le fonds de commerce n'implique pas l'inclusion dans le fonds de l'ensemble du passif."
-      ],
-      "abstractNL": [
-        "De schuldvorderingen, waarden en speciën maken meestal geen deel uit van het handelsfonds. Door een bijzondere bepaling mag nochtans van deze regel afgeweken worden. Het handelsfonds bezit geen rechtspersoonlijkheid en dus ook geen afzonderlijk patrimonium. Hoewel al de goederen van het handelsfonds tot het patrimonium van de handelaar behoren, kan deze zekere elementen van dit patrimonium in de handelszaak begrijpen. Het voegen bij het handelsfonds van de schuldvorderingen impliceert niet dat het volledig passief eveneens in het handelsfonds zou begrepen zijn."
       ]
     },
     "ECLI:BE:CASS:1985:ARR.19851011.4": {

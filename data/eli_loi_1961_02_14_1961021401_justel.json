@@ -213,6 +213,18 @@
       ]
     }
   },
+  "115": {
+    "ECLI:BE:CASS:1981:ARR.19811218.2": {
+      "court": "CASS",
+      "date": "1981-12-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
   "118": {
     "ECLI:BE:CASS:1967:ARR.19670921.1": {
       "court": "CASS",
@@ -262,16 +274,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1981:ARR.19811218.2": {
-      "court": "CASS",
-      "date": "1981-12-18",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/18/sitemap_1.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": null
-    },
     "ECLI:BE:CASS:1994:ARR.19940907.6": {
       "court": "CASS",
       "date": "1994-09-07",

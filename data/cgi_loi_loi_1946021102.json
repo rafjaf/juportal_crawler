@@ -1,5 +1,5 @@
 {
-  "general": {
+  "1": {
     "ECLI:BE:CASS:1983:ARR.19830408.7": {
       "court": "CASS",
       "date": "1983-04-08",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "Elke uitbreiding of verandering van een vergunninghoudende inrichting, wanneer deze de toepassing van een nieuwe rubriek op de lijst van de vergunningsplichtige ondernemingen tot gevolg heeft of van die aard is dat daardoor de aan die ondernemingen eigen zijnde gevaren, ongezondheid of hinderlijkheid, verergerd worden, is aan de bepalingen van artikelen 1 tot 13 van het algemeen reglement voor de arbeidsbescherming onderworpen (art. 14 van dit reglement)."
       ]
-    },
+    }
+  },
+  "14": {
     "ECLI:BE:CASS:1981:ARR.19811020.6": {
       "court": "CASS",
       "date": "1981-10-20",

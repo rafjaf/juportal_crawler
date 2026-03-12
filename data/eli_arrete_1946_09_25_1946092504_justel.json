@@ -1,4 +1,20 @@
 {
+  "9": {
+    "ECLI:BE:CASS:1982:ARR.19820917.6": {
+      "court": "CASS",
+      "date": "1982-09-17",
+      "roleNumber": "C-68/92;C-69/92",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il est possible d'être partie à une procédure de concordat judiciaire sans l'être à la faillite, déclarée ouverte d'office. Celui qui n'était pas partie au jugement de faillite ne peut pas le contester par la voie d'appel."
+      ],
+      "abstractNL": [
+        "Het is mogelijk partij te zijn in de procedure nopens het gerechtelijk akkoord zonder partij te zijn bij het faillissement dat ambtshalve werd openverklaard. Diegene die geen partij was bij het vonnis van faillietverklaring kan het niet bestrijden door middel van hoger beroep."
+      ]
+    }
+  },
   "24": {
     "ECLI:BE:CASS:1996:ARR.19960126.1": {
       "court": "CASS",
@@ -15,33 +31,7 @@
       ]
     }
   },
-  "general": {
-    "ECLI:BE:CASS:1986:ARR.19861013.7": {
-      "court": "CASS",
-      "date": "1986-10-13",
-      "roleNumber": "102441",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/13/sitemap_2.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "Het middel gaat ervan uit dat de arbeidsovereenkomst beëindigd werd door een vereffenaar die met toepassing van artikel 30 van de gecoördineerde wetten op het gerechtelijk akkoord door de rechtbank van koophandel was aangewezen en in die hoedanigheid met de bij artikel 32 van die wetten bepaalde opdracht was belast; Het arrest stelt evenwel vast dat: eiseres op 30 oktober 1979 in vereffening werd gesteld en eiser toen door de aandeelhouders als vereffenaar werd aangesteld, eiseres op 22 november 1979 een gerechtelijk akkoord met boedelafstand aanvroeg, verweerder op 28 november 1979 door eiser ontslagen werd, het gerechtelijk akkoord pas bij vonnis van 13 maart 1980 van de rechtbank van koophandel gehomologeerd werd; Uit die vaststellingen van het arrest blijkt dat eiser de in het middel beweerde hoedanigheid en bevoegdheid niet bezat toen hij de arbeidsovereenkomst van verweerder beëindigde; Het middel mist feitelijke grondslag."
-      ]
-    },
-    "ECLI:BE:CASS:1982:ARR.19820917.6": {
-      "court": "CASS",
-      "date": "1982-09-17",
-      "roleNumber": "C-68/92;C-69/92",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/17/sitemap_5.xml"
-      ],
-      "abstractFR": [
-        "Il est possible d'être partie à une procédure de concordat judiciaire sans l'être à la faillite, déclarée ouverte d'office. Celui qui n'était pas partie au jugement de faillite ne peut pas le contester par la voie d'appel."
-      ],
-      "abstractNL": [
-        "Het is mogelijk partij te zijn in de procedure nopens het gerechtelijk akkoord zonder partij te zijn bij het faillissement dat ambtshalve werd openverklaard. Diegene die geen partij was bij het vonnis van faillietverklaring kan het niet bestrijden door middel van hoger beroep."
-      ]
-    },
+  "29": {
     "ECLI:BE:CASS:1981:ARR.19811126.4": {
       "court": "CASS",
       "date": "1981-11-26",
@@ -93,7 +83,23 @@
       "abstractNL": [
         "De sociale-zekerheidsbijdragen vormen het door de wet verplicht te betalen aandeel van de werkgevers en werknemers in de financiering van een sociale openbare dienst. De bijdrageopslag en de nalatigheidsintrest zijn sancties om de regelmatige betaling van de sociale-zekerheidsbijdragen te verzekeren; de opbrengst ervan behoort tot de geldmiddelen waarover de sociale zekerheid beschikt en dient eveneens om de goede werking van de openbare dienst te waarborgen. Zowel de sociale-zekerheidsbijdragen als de daarop verschuldigde bijdrageopslag en verwijlintrest of nalatigheidsintrest zijn openbare lasten in de zin van artikel 29, derde lid, 1°, van de bij besluit van de Regent van 25 september 1946 gecoordineerde wetten op het gerechtelijk akkoord. Het gerechtelijk akkoord heeft geen uitwerking met betrekking tot de verwijlintresten verschuldigd op de bijdragen voor sociale zekerheid op grond dat zowel de bijdragen als de bijdrageopslagen en de verwijlintresten tot de \"openbare lasten\" behoren."
       ]
-    },
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:1986:ARR.19861013.7": {
+      "court": "CASS",
+      "date": "1986-10-13",
+      "roleNumber": "102441",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/13/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het middel gaat ervan uit dat de arbeidsovereenkomst beëindigd werd door een vereffenaar die met toepassing van artikel 30 van de gecoördineerde wetten op het gerechtelijk akkoord door de rechtbank van koophandel was aangewezen en in die hoedanigheid met de bij artikel 32 van die wetten bepaalde opdracht was belast; Het arrest stelt evenwel vast dat: eiseres op 30 oktober 1979 in vereffening werd gesteld en eiser toen door de aandeelhouders als vereffenaar werd aangesteld, eiseres op 22 november 1979 een gerechtelijk akkoord met boedelafstand aanvroeg, verweerder op 28 november 1979 door eiser ontslagen werd, het gerechtelijk akkoord pas bij vonnis van 13 maart 1980 van de rechtbank van koophandel gehomologeerd werd; Uit die vaststellingen van het arrest blijkt dat eiser de in het middel beweerde hoedanigheid en bevoegdheid niet bezat toen hij de arbeidsovereenkomst van verweerder beëindigde; Het middel mist feitelijke grondslag."
+      ]
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1996:ARR.19960126.1": {
       "court": "CASS",
       "date": "1996-01-26",

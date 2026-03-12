@@ -314,34 +314,58 @@ export function extractOldStyleArticle(text) {
  * Extract article number(s) from a legal-basis text that HAS an ELI link,
  * where the article number precedes the publication counter.
  *
- * Format: LAWNAME - DD-MM-YYYY - ARTICLE[,QUALIFIER] - COUNTER Lien ELI ...
+ * Format: LAWNAME - DD-MM-YYYY - ARTICLE[,QUALIFIER] - COUNTER [Lien ELI ...]
  *
  * Examples:
  *   "Loi - 03-07-1978 - 3 - 01 Lien ELI No pub 1978070303"    → ['3']
  *   "Loi - 03-07-1978 - 20,1$ - 01 Lien ELI No pub 1978070303" → ['20']
- *   "Loi - 18-12-2002 - 36 Lien ELI ..."                        → null (36 is counter, no article segment)
+ *   "Loi - 03-07-1978 - 39 - 01"                               → ['39']
+ *   "Loi - 18-12-2002 - 36 Lien ELI ..."                        → null (only one segment, 36 is counter)
+ *   "A.R. - 18-12-2002 - 36"                                    → null (only one segment)
  *
- * The key structural difference from the no-article case: when an article is
+ * The key structural difference from the counter-only case: when an article is
  * present there are TWO dash-separated segments after the date
- * ("ARTICLE - COUNTER Lien"); when only a counter is present there is just
- * ONE ("COUNTER Lien") and the regex does not match.
+ * ("ARTICLE - COUNTER"); when only a counter is present there is just ONE
+ * segment and the regex cannot match (no second "-" available).
  *
  * Returns an array of article strings, or null if the pattern is not found.
  */
 export function extractOldStyleArticleWithEli(text) {
   if (!text) return null;
-  // Require: DATE - ARTICLE_PART - COUNTER Lien  (two segments after the date)
-  const m = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*(.+?)\s*-\s*\d+\s+Lien\b/i);
-  if (!m) return null;
-  const articlePart = m[1].trim();
-  if (!/^\d/.test(articlePart)) return null;
-  // Comma-qualified: "20,1$" or "17,1°" → article before comma
-  const commaMatch = articlePart.match(/^(\d+)\s*,/);
-  if (commaMatch) return [commaMatch[1]];
-  // Bare number: "3"
-  const bareMatch = articlePart.match(/^(\d+)\s*$/);
-  if (bareMatch) return [bareMatch[1]];
+  // Require: DATE - ARTICLE_PART - COUNTER (two segments after the date).
+  // The counter may be followed by any trailing text (FR: "Lien ELI ...",
+  // NL: "ELI link ...", or nothing at all).
+  const m = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*(.+?)\s*-\s*(\d+)(?:\s.*)?$/i);
+  if (m) {
+    const articlePart = m[1].trim();
+    if (/^\d/.test(articlePart)) {
+      // Comma-qualified: "20,1$" or "17,1°" → article before comma
+      const commaMatch = articlePart.match(/^(\d+)\s*,/);
+      if (commaMatch) return [commaMatch[1]];
+      // Bare number: "3", "39"
+      const bareMatch = articlePart.match(/^(\d+)\s*$/);
+      if (bareMatch) return [bareMatch[1]];
+    }
+  }
+  // Single-segment comma-qualified: "DATE - 39,§1" (no publication counter).
+  // A publication counter is never comma-qualified, so this is unambiguously an article.
+  const singleCommaMatch = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*(\d+)\s*,/);
+  if (singleCommaMatch) return [singleCommaMatch[1]];
   return null;
+}
+
+/**
+ * Extract the publication counter from a two-segment old-style reference:
+ *   "LAWNAME - DD-MM-YYYY - ARTICLE_PART - COUNTER [suffix]"
+ *
+ * Returns the counter as a string (e.g. "01"), or null if not found.
+ * Used to disambiguate bare-number single-segment entries: if the number
+ * differs from the known counter for the same law, it is an article.
+ */
+export function extractPublicationCounter(text) {
+  if (!text) return null;
+  const m = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*.+?\s*-\s*(\d+)(?:\s.*)?$/i);
+  return m ? m[1] : null;
 }
 
 /**

@@ -219,6 +219,18 @@
       "abstractNL": [
         "De arbeidsovereenkomst inzake een bouwkundige opdracht is strijdig met de openbare orde wanneer zij is gesloten met een werknemer die zodanige opdracht niet mag uitvoeren; in dat geval is de overeenkomst volstrekt nietig. ( Art. 5 Architectenwet; art. 6 Burgerlijk Wetboek. )"
       ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910909.2": {
+      "court": "CASS",
+      "date": "1991-09-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/09/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De bepaling van de Wet Orde van Architecten volgens welke niemand het beroep van architect in welke hoedanigheid ook mag uitoefenen zonder ingeschreven te zijn op een van de tabellen van de Orde of op een lijst van stagiairs, raakt de openbare orde. De arbeidsovereenkomst die met schending van die bepaling is gesloten, is volstrekt nietig; zij kan derhalve geen recht op een opzeggingsvergoeding doen ontstaan."
+      ]
     }
   },
   "7": {
@@ -1702,18 +1714,6 @@
     }
   },
   "general": {
-    "ECLI:BE:CASS:1991:ARR.19910909.2": {
-      "court": "CASS",
-      "date": "1991-09-09",
-      "roleNumber": null,
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/09/sitemap_1.xml"
-      ],
-      "abstractFR": null,
-      "abstractNL": [
-        "De bepaling van de Wet Orde van Architecten volgens welke niemand het beroep van architect in welke hoedanigheid ook mag uitoefenen zonder ingeschreven te zijn op een van de tabellen van de Orde of op een lijst van stagiairs, raakt de openbare orde. De arbeidsovereenkomst die met schending van die bepaling is gesloten, is volstrekt nietig; zij kan derhalve geen recht op een opzeggingsvergoeding doen ontstaan."
-      ]
-    },
     "ECLI:BE:CASS:1981:ARR.19811120.13": {
       "court": "CASS",
       "date": "1981-11-20",

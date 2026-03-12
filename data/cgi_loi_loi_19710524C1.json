@@ -1,5 +1,5 @@
 {
-  "general": {
+  "11": {
     "ECLI:BE:CASS:1984:ARR.19840910.13": {
       "court": "CASS",
       "date": "1984-09-10",
@@ -11,7 +11,9 @@
       "abstractNL": [
         "Nu het Arbeidshof oordeelt dat eisers ontslag om de in het arrest vermelde redenen niet willekeurig was, diende het derhalve niet meer te antwoorden op het middel dat betrekking had op de juridische waarde van een overeenkomst waaruit eiser beweerde zijn recht op vergoeding wegens willekeurig ontslag te putten."
       ]
-    },
+    }
+  },
+  "general": {
     "ECLI:BE:CASS:1981:ARR.19810413.6": {
       "court": "CASS",
       "date": "1981-04-13",
