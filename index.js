@@ -13,7 +13,7 @@
 import chalk from 'chalk';
 import readline from 'node:readline';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, loadMissingEliFile, saveMissingEliFile, appendMissingEli, flushAll } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, appendMissingEli, flushAll } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
@@ -22,6 +22,7 @@ import { SITEMAP_CONCURRENCY, LOG_FILE } from './src/constants.js';
 import { Semaphore, SerialQueue } from './src/concurrency.js';
 import { extractOldStyleArticle, extractLegalBasisKey } from './src/utils.js';
 import { findMissingEli } from './src/find_missing_eli.js';
+import { fixArticlesFromLog } from './src/fix_articles.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -72,197 +73,7 @@ function setupQuitListener() {
   stdin.on('keypress', onKeypress);
 }
 
-// ─── Fix Articles From Log ───────────────────────────────────────────────────
-
-/**
- * Prompt the user with a question and return their answer.
- * Supports: yes / no / all / quit.
- * Temporarily exits raw mode so readline can capture a full line.
- */
-function promptUser(question) {
-  return new Promise((resolve) => {
-    const wasRaw = process.stdin.isRaw;
-    if (wasRaw) process.stdin.setRawMode(false);
-    process.stdin.ref(); // keep event loop alive while waiting for input
-
-    const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
-    rl.question(question, (answer) => {
-      rl.close();
-      // readline.close() pauses stdin; re-enable so the keypress quit listener stays active
-      if (wasRaw) process.stdin.resume();
-      process.stdin.unref(); // restore original behaviour
-      if (wasRaw) process.stdin.setRawMode(true);
-      resolve(answer.trim().toLowerCase());
-    });
-  });
-}
-
-/**
- * Review log.json entries where article="general" was detected, re-analyse
- * using the improved old-style article detection, and apply corrections
- * to data files and missing_eli.json.
- */
-async function fixArticlesFromLog() {
-  logInfo(`${timestamp()} Loading log.json...`);
-  let logData;
-  try {
-    logData = JSON.parse(fs.readFileSync(LOG_FILE, 'utf-8'));
-  } catch (err) {
-    logFatal(`Cannot read log.json: ${err.message}`);
-    process.exit(1);
-  }
-
-  const logKeys = Object.keys(logData);
-  logInfo(`${timestamp()} Found ${logKeys.length} total log entries.`);
-
-  // Collect entries that have "general" articles needing review.
-  // Only missingEliBases are considered: when an ELI is present the bare
-  // number after the date is a publication counter, so "general" is correct.
-  const toReview = [];
-  for (const logKey of logKeys) {
-    const entry = logData[logKey];
-    // Check missingEliBases for "general" articles
-    for (const missing of (entry.missingEliBases || [])) {
-      if (missing.article === 'general') {
-        const rawText = missing.legalBasisFR || missing.legalBasisNL || missing.rawLegalBasisText || '';
-        const articles = extractOldStyleArticle(rawText);
-        if (articles) {
-          toReview.push({
-            logKey,
-            entry,
-            base: missing,
-            rawText,
-            newArticles: articles,
-          });
-        }
-      }
-    }
-  }
-
-  if (toReview.length === 0) {
-    logInfo(`${timestamp()} No "general" articles can be improved with the new detection.`);
-    return;
-  }
-
-  logInfo(`${timestamp()} Found ${toReview.length} "general" article(s) that can be corrected.`);
-
-  // Load settings for progress tracking
-  const settings = loadSettings();
-  const lastProcessedKey = settings.fixArticlesLastLogKey || null;
-
-  // If resuming, skip already-processed entries
-  let startIdx = 0;
-  if (lastProcessedKey) {
-    const resumeIdx = toReview.findIndex(r => r.logKey === lastProcessedKey);
-    if (resumeIdx >= 0) {
-      startIdx = resumeIdx + 1;
-      logInfo(`${timestamp()} Resuming from entry ${startIdx + 1}/${toReview.length} (after ${lastProcessedKey})`);
-    }
-  }
-
-  if (startIdx >= toReview.length) {
-    logInfo(`${timestamp()} All entries already processed.`);
-    return;
-  }
-
-  // Configure progress bar
-  const total = toReview.length;
-  const pending = total - startIdx;
-  progress.configure(total, pending);
-  progress.doneIndexes = startIdx;
-
-  let applyAll = false;
-  let correctedCount = 0;
-  let skippedCount = 0;
-
-  for (let i = startIdx; i < toReview.length; i++) {
-    const item = toReview[i];
-    const { logKey, entry, base, rawText, newArticles } = item;
-
-    progress.clear();
-    console.log('');
-    logInfo(chalk.bold(`[${i + 1}/${total}]`) + ` ${entry.ecli} (${entry.date})`);
-    logInfo(`  Raw: ${chalk.cyan(rawText)}`);
-    logInfo(`  Current: article=${chalk.red('general')}  →  New: article=${chalk.green(newArticles.join(', '))}`);
-    logInfo(`  Missing ELI | key: ${base.rawLegalBasisText}`);
-
-    let answer;
-    if (applyAll) {
-      answer = 'yes';
-    } else {
-      progress.clear();
-      const resp = await promptUser(
-        chalk.yellow('  Apply correction? ') + chalk.gray('(yes/no/all/quit) ') + chalk.bold('> ')
-      );
-      answer = resp;
-    }
-
-    if (answer === 'quit' || answer === 'q') {
-      logInfo(`${timestamp()} Quitting. Progress saved.`);
-      settings.fixArticlesLastLogKey = logKey;
-      saveSettings(settings);
-      flushAll();
-      progress.finish();
-      return;
-    }
-
-    if (answer === 'all' || answer === 'a') {
-      applyAll = true;
-      answer = 'yes';
-    }
-
-    if (answer === 'yes' || answer === 'y') {
-      // Fix in missing_eli.json: update article from "general" to specific
-      const missingEli = loadMissingEliFile();
-      const lawKey = extractLegalBasisKey(rawText) || base.rawLegalBasisText;
-      const missingEntry = missingEli[lawKey] || missingEli[base.rawLegalBasisText];
-      if (missingEntry && Array.isArray(missingEntry.elements)) {
-        const elem = missingEntry.elements.find(
-          e => e.ecli === entry.ecli && e.article === 'general'
-        );
-        if (elem) {
-          if (newArticles.length === 1) {
-            elem.article = newArticles[0];
-          } else {
-            // Multiple articles from a range: update the first, add copies for the rest
-            elem.article = newArticles[0];
-            for (let ai = 1; ai < newArticles.length; ai++) {
-              missingEntry.elements.push({ ...elem, article: newArticles[ai] });
-            }
-          }
-          saveMissingEliFile(missingEli);
-          logSuccess(`  ✔ Updated missing_eli.json: general → [${newArticles.join(', ')}]`);
-        } else {
-          logWarn(`  ⚠ Element not found in missing_eli.json for ${entry.ecli} — skipping`);
-        }
-      } else {
-        logWarn(`  ⚠ Key "${lawKey}" not found in missing_eli.json — skipping`);
-      }
-      correctedCount++;
-    } else {
-      skippedCount++;
-    }
-
-    // Record progress
-    settings.fixArticlesLastLogKey = logKey;
-    progress.doneIndexes = i + 1;
-    progress.render();
-  }
-
-  progress.finish();
-
-  // Save settings & missing_eli on completion
-  saveSettings(settings);
-  flushAll();
-
-  console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
-  console.log(chalk.bold.cyan('║      FIX-ARTICLES-FROM-LOG COMPLETE      ║'));
-  console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝'));
-  logSuccess(`  Corrected:   ${correctedCount}`);
-  logInfo(`  Skipped:     ${skippedCount}`);
-  logInfo(`  Total:       ${total}`);
-  logInfo('');
-}
+// ─── Fix Articles From Log ─── see src/fix_articles.js ──────────────────────
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
 

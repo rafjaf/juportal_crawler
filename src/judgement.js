@@ -12,6 +12,7 @@ import {
   extractDateFromBasisText,
   buildBasisTextLookup,
   extractOldStyleArticle,
+  extractOldStyleArticleWithEli,
 } from './utils.js';
 
 /**
@@ -121,16 +122,23 @@ export function parseJudgementHtml(html) {
             logInfo(chalk.gray(`${timestamp()}       Legal principle | raw="${text}" | no ELI`));
             missingEliBases.push({ article: null, rawLegalBasisText: text });
           } else {
-            // Old-style article extraction (no "Art." prefix) is only
-            // applicable when there is NO ELI link.  When an ELI is present
-            // a bare number after the date is a publication counter, not an
-            // article — if a specific article were meant, "Art." would appear.
+            // Old-style article extraction (no "Art." prefix).
+            // Without ELI: the number after the date is the article (e.g. "6,L1").
+            // With ELI: only extract an article if there are TWO segments after the
+            // date ("ARTICLE - COUNTER Lien ELI"); a single segment is a counter.
             const oldStyleArticles = !eliLink ? extractOldStyleArticle(text) : null;
+            const eliStyleArticles = eliLink ? extractOldStyleArticleWithEli(text) : null;
             if (oldStyleArticles) {
               const lawKey = extractLegalBasisKey(text);
               logInfo(chalk.gray(`${timestamp()}       Old-style legal basis | raw="${text}" | articles=[${oldStyleArticles.join(', ')}] | eli=MISSING`));
               for (const art of oldStyleArticles) {
                 missingEliBases.push({ article: art, rawLegalBasisText: lawKey });
+                allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
+              }
+            } else if (eliStyleArticles) {
+              logInfo(chalk.gray(`${timestamp()}       Old-style ELI legal basis | raw="${text}" | articles=[${eliStyleArticles.join(', ')}] | eli=${eliLink}`));
+              for (const art of eliStyleArticles) {
+                basesLegales.push({ article: art, eli: eliLink });
                 allBasisTexts.push({ article: art, rawText: text, lang: basisLang });
               }
             } else if (RE_REF_NO_ART.test(text)) {

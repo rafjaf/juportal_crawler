@@ -311,6 +311,40 @@ export function extractOldStyleArticle(text) {
 }
 
 /**
+ * Extract article number(s) from a legal-basis text that HAS an ELI link,
+ * where the article number precedes the publication counter.
+ *
+ * Format: LAWNAME - DD-MM-YYYY - ARTICLE[,QUALIFIER] - COUNTER Lien ELI ...
+ *
+ * Examples:
+ *   "Loi - 03-07-1978 - 3 - 01 Lien ELI No pub 1978070303"    → ['3']
+ *   "Loi - 03-07-1978 - 20,1$ - 01 Lien ELI No pub 1978070303" → ['20']
+ *   "Loi - 18-12-2002 - 36 Lien ELI ..."                        → null (36 is counter, no article segment)
+ *
+ * The key structural difference from the no-article case: when an article is
+ * present there are TWO dash-separated segments after the date
+ * ("ARTICLE - COUNTER Lien"); when only a counter is present there is just
+ * ONE ("COUNTER Lien") and the regex does not match.
+ *
+ * Returns an array of article strings, or null if the pattern is not found.
+ */
+export function extractOldStyleArticleWithEli(text) {
+  if (!text) return null;
+  // Require: DATE - ARTICLE_PART - COUNTER Lien  (two segments after the date)
+  const m = text.match(/\d{2}-\d{2}-\d{4}\s*-\s*(.+?)\s*-\s*\d+\s+Lien\b/i);
+  if (!m) return null;
+  const articlePart = m[1].trim();
+  if (!/^\d/.test(articlePart)) return null;
+  // Comma-qualified: "20,1$" or "17,1°" → article before comma
+  const commaMatch = articlePart.match(/^(\d+)\s*,/);
+  if (commaMatch) return [commaMatch[1]];
+  // Bare number: "3"
+  const bareMatch = articlePart.match(/^(\d+)\s*$/);
+  if (bareMatch) return [bareMatch[1]];
+  return null;
+}
+
+/**
  * Parse the remainder after "DD-MM-YYYY - " in an old-style legal basis.
  * @private
  */
