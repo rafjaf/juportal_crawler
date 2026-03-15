@@ -21,8 +21,8 @@ import readline from 'node:readline';
 import * as cheerio from 'cheerio';
 import { logInfo, logSuccess, logWarn, logError, timestamp } from './logger.js';
 import {
-  loadMissingEliFile, saveMissingEliFile, loadLogFile,
-  loadDataFile, saveDataFile,
+  loadMissingEliFile, saveMissingEliFile, flushMissingEli, loadLogFile,
+  loadDataFile, saveDataFile, loadSettings, saveSettings,
 } from './storage.js';
 import {
   extractLegalBasisKey, normalizeArticleNumber, eliToFilename,
@@ -36,6 +36,10 @@ import { findSplitText, findEliForArticle } from './split_texts.js';
 const EJUSTICE_SEARCH_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/rech_res.pl';
 const EJUSTICE_ARTICLE_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/article.pl';
 const REQUEST_DELAY_MS = 1500;
+
+const OPENAI_CHAT_URL = 'https://api.openai.com/v1/chat/completions';
+// Default model — can be overridden in settings.json under "openai_model"
+const OPENAI_DEFAULT_MODEL = 'gpt-5-mini';
 
 // Per-run caches – cleared at the start of findMissingEli().
 const _ejusticeSearchCache = new Map();
@@ -218,11 +222,13 @@ function promptUserFn(question) {
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     rl.question(question, (answer) => {
       rl.close();
-      // readline.close() pauses stdin; re-enable so the keypress quit listener stays active
-      if (wasRaw) process.stdin.resume();
-      process.stdin.unref();
-      if (wasRaw) process.stdin.setRawMode(true);
-      resolve(answer.trim().toLowerCase());
+      // rl.close() pauses stdin — always resume so the process doesn't exit
+      process.stdin.resume();
+      if (wasRaw) {
+        process.stdin.setRawMode(true);
+        process.stdin.unref();
+      }
+      resolve(answer.trim());
     });
   });
 }
@@ -455,16 +461,30 @@ async function searchEjustice(dt, date, titleKeywords, language = 'fr') {
     params.set('chercher', 'c');
   }
 
-  const response = await fetch(EJUSTICE_SEARCH_URL, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: params.toString(),
-  });
-  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const body = params.toString();
+  const maxRetries = 3;
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await fetch(EJUSTICE_SEARCH_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body,
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-  const html = await response.text();
-  await sleep(REQUEST_DELAY_MS);
-  return parseSearchResults(html);
+      const html = await response.text();
+      await sleep(REQUEST_DELAY_MS);
+      return parseSearchResults(html);
+    } catch (err) {
+      if (attempt < maxRetries) {
+        const delay = REQUEST_DELAY_MS * attempt;
+        logInfo(chalk.gray(`    ↻ ejustice fetch attempt ${attempt} failed (${err.message}), retrying in ${delay}ms...`));
+        await sleep(delay);
+      } else {
+        throw err;
+      }
+    }
+  }
 }
 
 /** Cached wrapper – no extra sleep on a cache hit. */
@@ -514,13 +534,26 @@ function parseArticleRange(title) {
 
 async function fetchEliFromArticlePage(numac) {
   const url = `${EJUSTICE_ARTICLE_URL}?language=fr&numac_search=${encodeURIComponent(numac)}&page=1&lg_txt=F&caller=list`;
-  const response = await fetch(url);
-  if (!response.ok) return null;
-  const html = await response.text();
-  const $ = cheerio.load(html);
-  const eli = $('a#link-text').attr('href') || null;
-  await sleep(REQUEST_DELAY_MS);
-  return eli;
+  const maxRetries = 3;
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) return null;
+      const html = await response.text();
+      const $ = cheerio.load(html);
+      const eli = $('a#link-text').attr('href') || null;
+      await sleep(REQUEST_DELAY_MS);
+      return eli;
+    } catch (err) {
+      if (attempt < maxRetries) {
+        const delay = REQUEST_DELAY_MS * attempt;
+        logInfo(chalk.gray(`    ↻ ELI fetch attempt ${attempt} failed (${err.message}), retrying in ${delay}ms...`));
+        await sleep(delay);
+      } else {
+        return null;
+      }
+    }
+  }
 }
 
 /** Cached wrapper – no extra sleep on a cache hit. */
@@ -564,25 +597,174 @@ function findCodePartForArticle(results, article) {
 }
 
 /**
+ * Get the OpenAI API key from settings, or prompt the user to enter it.
+ * Persists the key to settings.json for future runs.
+ */
+async function getOrPromptApiKey() {
+  const settings = loadSettings();
+  if (settings.openai_api_key) return settings.openai_api_key;
+
+  progress.clear();
+  console.log('');
+  logWarn('  OpenAI API key not found in settings.json.');
+  const key = await promptUserFn(chalk.yellow('  Enter your OpenAI API key: ') + chalk.bold('> '));
+  const trimmed = key.trim();
+  if (!trimmed) return null;
+
+  settings.openai_api_key = trimmed;
+  saveSettings(settings);
+  return trimmed;
+}
+
+/**
+ * Ask the configured ChatGPT model to choose among ambiguous eJustice results.
+ *
+ * @param {Array<{result:{numac:string,title:string},score:number}>} candidates
+ * @param {string} key  Full legal-basis key (date + type + title).
+ * @param {Array}  elements  Elements from missing_eli.json (each has abstractFR/abstractNL).
+ * @returns {Promise<{numac:string, confidence:'high'|'medium'|'low', reasoning:string}|null>}
+ */
+async function askChatGptToChoose(candidates, key, elements) {
+  const apiKey = await getOrPromptApiKey();
+  if (!apiKey) return null;
+
+  const settings = loadSettings();
+  const model = settings.openai_model || OPENAI_DEFAULT_MODEL;
+
+  // Collect unique abstracts (skip duplicates from the same case cited multiple times)
+  const usedAbstracts = new Set();
+  const abstractLines = [];
+  for (const el of (elements || [])) {
+    for (const lang of ['FR', 'NL']) {
+      const text = el[`abstract${lang}`];
+      if (text && !usedAbstracts.has(text)) {
+        usedAbstracts.add(text);
+        abstractLines.push(`[${lang}] ${text}`);
+      }
+    }
+  }
+  // Cap at 5 abstracts to stay within token limits while giving sufficient context
+  const abstractsBlock = abstractLines.slice(0, 5).join('\n\n') || '(no abstracts available)';
+
+  // Full titles — no truncation
+  const candidateList = candidates
+    .map((c, i) => `${i + 1}. [numac: ${c.result.numac}] ${c.result.title}`)
+    .join('\n');
+
+  const systemPrompt =
+    'You are a Belgian legal expert. You identify official texts published ' +
+    'in the Belgian Official Gazette (Moniteur belge / Belgisch Staatsblad). ' +
+    'You reply exclusively with a JSON object — no markdown, no prose outside the JSON.';
+
+  const userPrompt =
+    `A Belgian court decision cites the following legal basis:\n` +
+    `"${key}"\n\n` +
+    `The Belgian Law website (ejustice.just.fgov.be) returned ${candidates.length} candidate text(s). ` +
+    `Identify which candidate is the correct text being cited.\n\n` +
+    `## Candidates (numac code + full official title):\n${candidateList}\n\n` +
+    `## Abstract(s) of the citing court decision(s):\n${abstractsBlock}\n\n` +
+    `## Rules:\n` +
+    `- Match the legal basis reference (type, date, subject, jurisdiction) to the candidates.\n` +
+    `- Jurisdiction clues: Flemish decrees use \u201cConseille flamand\u201d/\u201cVlaamse\u201d, ` +
+      `Walloon decrees use \u201cR\u00e9gion wallonne\u201d, Brussels texts use \u201cOrdonnance\u201d etc.\n` +
+    `- If two candidates represent the same text (e.g. original vs. coordination copy with a ` +
+      `later numac), prefer the original (earliest numac).\n` +
+    `- Reply with this exact JSON and nothing else:\n` +
+    `{\"choice\": <1-based index>, \"confidence\": \"high\" | \"medium\" | \"low\", \"reasoning\": \"<one concise sentence>\"}`;
+
+  try {
+    const response = await fetch(OPENAI_CHAT_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        messages: [
+          { role: 'system', content: systemPrompt },
+          { role: 'user',   content: userPrompt },
+        ],
+        response_format: { type: 'json_object' },
+      }),
+    });
+
+    if (!response.ok) {
+      const errText = await response.text();
+      logWarn(`  ⚠ ChatGPT API error ${response.status}: ${errText.substring(0, 200)}`);
+      return null;
+    }
+
+    const data = await response.json();
+    const content = data.choices?.[0]?.message?.content;
+    if (!content) {
+      logWarn(`  ⚠ ChatGPT returned empty content (finish_reason: ${data.choices?.[0]?.finish_reason || 'unknown'})`);
+      return null;
+    }
+
+    logInfo(chalk.gray(`    ChatGPT raw response: ${content.substring(0, 300)}`));
+
+    const parsed = JSON.parse(content);
+    const idx = parseInt(parsed.choice, 10);
+    if (!Number.isFinite(idx) || idx < 1 || idx > candidates.length) {
+      logWarn(`  ⚠ ChatGPT returned invalid choice=${JSON.stringify(parsed.choice)} (expected 1–${candidates.length}). Full response: ${content.substring(0, 200)}`);
+      return null;
+    }
+
+    return {
+      numac:      candidates[idx - 1].result.numac,
+      index:      idx,
+      confidence: parsed.confidence || 'low',
+      reasoning:  parsed.reasoning || '',
+    };
+  } catch (err) {
+    logWarn(`  ⚠ ChatGPT call failed: ${err.message}`);
+    return null;
+  }
+}
+
+/**
  * Prompt the user to pick one result from a numbered list, skip, or enter a
  * custom ELI/numac.  Returns { eli } on success or null to skip.
+ * @param {Array}       candidates
+ * @param {string}      key
+ * @param {{numac:string, index:number, confidence:string, reasoning:string}|null} aiSuggestion
  */
-async function promptUserChoice(candidates, key) {
+async function promptUserChoice(candidates, key, aiSuggestion = null) {
   progress.clear();
   console.log('');
   logWarn(`  ⚠ Ambiguous – ${candidates.length} candidates for: ${chalk.cyan(key.substring(0, 100))}`);
   candidates.forEach((c, i) => {
-    const score = typeof c.score === 'number' ? chalk.gray(` [score:${c.score}]`) : '';
-    console.log(`    ${chalk.bold(i + 1)}. [${c.result.numac}] ${c.result.title.substring(0, 120)}${score}`);
+    const score  = typeof c.score === 'number' ? chalk.gray(` [score:${c.score}]`) : '';
+    const aiMark = aiSuggestion?.numac === c.result.numac
+      ? chalk.blue(` ⭐ ChatGPT [${aiSuggestion.confidence}]`) : '';
+    console.log(`    ${chalk.bold(i + 1)}. [${c.result.numac}] ${c.result.title}${score}${aiMark}`);
   });
+  if (aiSuggestion) {
+    console.log(chalk.blue(`  🤖 ChatGPT reasoning: ${aiSuggestion.reasoning}`));
+  }
   console.log(`    ${chalk.bold('s')}. Skip this entry`);
   console.log(`    ${chalk.bold('e')}. Enter ELI or numac manually`);
 
-  const resp = await promptUserFn(chalk.yellow('  Choose: ') + chalk.gray('(1-' + candidates.length + '/s/e) ') + chalk.bold('> '));
+  const defaultHint = aiSuggestion ? chalk.gray(`Enter=${aiSuggestion.index}/`) : '';
+  const resp = await promptUserFn(
+    chalk.yellow('  Choose: ') + defaultHint + chalk.gray('(1-' + candidates.length + '/s/e) ') + chalk.bold('> ')
+  );
+  const respLc = resp.toLowerCase();
 
-  if (resp === 's' || resp === 'skip') return null;
+  // Empty input → accept AI suggestion as default
+  if (resp === '' && aiSuggestion) {
+    try {
+      const eli = await cachedFetchEli(aiSuggestion.numac);
+      return eli ? { eli } : null;
+    } catch {
+      return null;
+    }
+  }
 
-  if (resp === 'e') {
+  if (respLc === 's' || respLc === 'skip') return null;
+
+  if (respLc === 'e') {
     const custom = await promptUserFn(chalk.yellow('  Enter ELI or numac: ') + chalk.bold('> '));
     const trimmed = custom.trim();
     if (!trimmed) return null;
@@ -933,6 +1115,7 @@ export async function findMissingEli() {
             if (primaryEli) entry.eli = primaryEli;
             entry.elements = remainingElements;
             saveMissingEliFile(missingEli);
+            flushMissingEli();
             resolvedCount++;
           } catch (err) {
             logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);
@@ -988,27 +1171,86 @@ export async function findMissingEli() {
           progress.render();
           continue;
 
-        } else if ((reason.includes('ambiguous') || reason === 'code_no_article') && candidates?.length > 0 && !applyAll) {
-          // Interactive disambiguation: prompt user to pick from the candidate list
-          const chosen = await promptUserChoice(candidates, key);
-          if (chosen?.eli) {
-            resolution = { eli: chosen.eli, confidence: 'user' };
-            source = 'user';
-            // fall through to apply logic below
+        } else if ((reason.includes('ambiguous') || reason === 'code_no_article') && candidates?.length > 0) {
+          // ── ChatGPT disambiguation ──────────────────────────────────────────
+          logInfo(chalk.gray(`    Asking ChatGPT (model: ${loadSettings().openai_model || OPENAI_DEFAULT_MODEL}) to disambiguate ${candidates.length} candidates...`));
+          const aiSuggestion = await askChatGptToChoose(candidates, key, entry.elements);
+          if (aiSuggestion) {
+            logInfo(chalk.blue(`    🤖 ChatGPT → #${aiSuggestion.index} [${aiSuggestion.numac}] confidence:${aiSuggestion.confidence} — ${aiSuggestion.reasoning}`));
           } else {
+            logWarn(chalk.gray(`    ChatGPT did not return a usable suggestion`));
+          }
+
+          if (!applyAll && aiSuggestion?.confidence === 'high') {
+            // Interactive + high-confidence AI: auto-accept with notice
+            const eli = await cachedFetchEli(aiSuggestion.numac);
+            if (eli) {
+              progress.clear();
+              logSuccess(`  ✓ ChatGPT auto-selected [${aiSuggestion.confidence}] #${aiSuggestion.index} [${aiSuggestion.numac}]: ${aiSuggestion.reasoning}`);
+              resolution = { eli, confidence: 'ai-high' };
+              source = 'chatgpt';
+              // fall through to apply logic below
+            } else {
+              logWarn(`  ⚠ ChatGPT chose numac ${aiSuggestion.numac} but ELI fetch failed — falling back to manual`);
+              const chosen = await promptUserChoice(candidates, key, aiSuggestion);
+              if (chosen?.eli) {
+                resolution = { eli: chosen.eli, confidence: 'user' };
+                source = 'user';
+              } else {
+                ambiguousCount++;
+                logInfo(`  ↷ [${i + 1}/${total}] Skipped by user: ${chalk.cyan(key.substring(0, 80))}`);
+                progress.doneIndexes = i + 1;
+                progress.render();
+                continue;
+              }
+            }
+          } else if (!applyAll) {
+            // Interactive: no AI or low/medium confidence — show AI suggestion, let user confirm or override
+            const chosen = await promptUserChoice(candidates, key, aiSuggestion);
+            if (chosen?.eli) {
+              resolution = { eli: chosen.eli, confidence: 'user' };
+              source = 'user';
+              // fall through to apply logic below
+            } else {
+              ambiguousCount++;
+              logInfo(`  ↷ [${i + 1}/${total}] Skipped by user: ${chalk.cyan(key.substring(0, 80))}`);
+              progress.doneIndexes = i + 1;
+              progress.render();
+              continue;
+            }
+          } else if (aiSuggestion?.confidence === 'high') {
+            // Non-interactive (applyAll): apply AI choice only when confidence is high
+            const eli = await cachedFetchEli(aiSuggestion.numac);
+            if (eli) {
+              resolution = { eli, confidence: 'ai-high' };
+              source = 'chatgpt';
+              // fall through to apply logic below
+            } else {
+              ambiguousCount++;
+              progress.clear();
+              logWarn(`  ⚠ [${i + 1}/${total}] ChatGPT chose numac ${aiSuggestion.numac} but ELI fetch failed: ${chalk.cyan(key.substring(0, 80))}`);
+              progress.doneIndexes = i + 1;
+              progress.render();
+              continue;
+            }
+          } else {
+            // Non-interactive, confidence not high enough → keep as ambiguous
             ambiguousCount++;
-            logInfo(`  ↷ [${i + 1}/${total}] Skipped by user: ${chalk.cyan(key.substring(0, 80))}`);
+            progress.clear();
+            const confNote = aiSuggestion
+              ? chalk.gray(` (ChatGPT: #${aiSuggestion.index} with ${aiSuggestion.confidence} confidence — run interactively to confirm)`)
+              : chalk.gray(` (${candidates.length} candidate(s); run interactively to choose)`);
+            logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous: ${chalk.cyan(key.substring(0, 80))}${confNote}`);
             progress.doneIndexes = i + 1;
             progress.render();
             continue;
           }
 
         } else if (reason.includes('ambiguous') || reason.includes('multiple') || reason === 'code_no_article') {
+          // Ambiguous but no candidate list returned (can't ask ChatGPT without options)
           ambiguousCount++;
           progress.clear();
-          const candNote = candidates?.length > 0
-            ? chalk.gray(` (${candidates.length} candidate(s) available; run interactively to choose)`) : '';
-          logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous: ${chalk.cyan(key.substring(0, 80))} — ${reason}${candNote}`);
+          logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous (no candidates): ${chalk.cyan(key.substring(0, 80))} — ${reason}`);
           progress.doneIndexes = i + 1;
           progress.render();
           continue;
@@ -1079,7 +1321,10 @@ export async function findMissingEli() {
     logInfo(`  Elements: ${entry.elements.length} (articles: ${articles.join(', ') || 'general'})`);
 
     let answer;
-    if (applyAll) {
+    // When the resolution came from an explicit user or AI choice, the
+    // disambiguation itself was the confirmation — skip the Apply? prompt so
+    // the change is committed immediately and a Ctrl+C doesn't discard it.
+    if (applyAll || source === 'user' || source === 'chatgpt') {
       answer = 'yes';
     } else {
       progress.clear();
@@ -1130,6 +1375,7 @@ export async function findMissingEli() {
           entry.elements = [];
         }
         saveMissingEliFile(missingEli);
+        flushMissingEli();
         resolvedCount++;
       } catch (err) {
         logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);

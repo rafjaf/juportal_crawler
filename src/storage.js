@@ -113,6 +113,17 @@ export function saveMissingEliFile(data) {
   _missingEliCache = data;
 }
 
+/**
+ * Write missing_eli.json to disk immediately (synchronous).
+ * Unlike flushAll(), the in-memory cache is kept alive so future mutations
+ * on the same object reference remain valid.
+ */
+export function flushMissingEli() {
+  if (_missingEliCache !== null) {
+    fs.writeFileSync(MISSING_ELI_FILE, JSON.stringify(_missingEliCache, null, 2), 'utf-8');
+  }
+}
+
 // ─── Parse Error File Management ────────────────────────────────────────────
 
 export function loadErrorsFile() {
