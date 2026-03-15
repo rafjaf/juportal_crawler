@@ -1,4 +1,36 @@
 {
+  "1397": {
+    "ECLI:BE:CASS:2013:ARR.20130624.9": {
+      "court": "CASS",
+      "date": "2013-06-24",
+      "roleNumber": "C.12.0450.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/06/24/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le juge des référés, appelé à interdire provisoirement des actes de contrefaçon, peut raisonnablement, pour établir l'existence de droits apparents d'une partie, avoir égard au brevet européen dont elle est titulaire même s'il a été annulé par une décision du tribunal de commerce, aussi longtemps qu'il n'a pas été statué définitivement sur l'appel dirigé contre cette décision d''annulation (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De rechter in kort geding, aangewezen om de handelingen van namaak voorlopig te verbieden, kan, om het bestaan van ogenschijnlijke rechten van een partij aan te tonen, redelijkerwijs rekening houden met het Europees octrooi waarvan die partij houdster is, ook al heeft een beslissing van de rechtbank van koophandel dat octrooi nietig verklaard, zolang er geen eindbeslissing is over het hoger beroep dat tegen die beslissing tot nietigverklaring werd ingesteld (1). (1) Zie de concl. van het O.M. in Pas. nr. ..."
+      ]
+    }
+  },
+  "1398": {
+    "ECLI:BE:CASS:2016:ARR.20161028.3": {
+      "court": "CASS",
+      "date": "2016-10-28",
+      "roleNumber": "C.15.0515.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/28/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le liquidateur est un organe de la société; la personne qui est désignée comme liquidateur par un jugement qui dissout la société et la met en liquidation, n'est pas elle-même une partie à ce jugement; elle ne peut, dès lors, être tenue responsable pour l'exécution de ce jugement."
+      ],
+      "abstractNL": [
+        "De vereffenaar is een orgaan van de vennootschap; de persoon die als vereffenaar wordt aangesteld bij een vonnis dat de vennootschap ontbindt en in vereffening stelt, is zelf geen partij bij dat vonnis; hij kan bijgevolg niet aansprakelijk worden gesteld voor de tenuitvoerlegging van dat vonnis."
+      ]
+    }
+  },
   "1410": {
     "ECLI:BE:CASS:1974:ARR.19740522.12": {
       "court": "CASS",
@@ -10,6 +42,128 @@
       "abstractFR": null,
       "abstractNL": [
         "Het invaliditeitspensioen van een mijnwerker is hem eigen. De scheiding van tafel en bed of de feitelijke scheiding van de echtgenoten geeft aan de echtgenote geen ander recht dan rechtstreeks een deel van het achterstallig pensioen te innen. In het stelsel van de wettelijke gemeenschap is het pensioen eigen, echter niet de achterstallen. Hieruit volgt dat de gemeenschap die zolang zo bestaat ervan geniet, verplicht is tot teruggave wanneer ze ze onverschuldigd ontving, welk ook de verdeling was tussen de echtgenoten. Anders gezegd, in geval van onverschuldigde betalingen, is de verbintenis tot teruggave ontstaan in hoofde van de tot inning van een deel of het geheel van de achterstallen wettelijk gemachtigde echtgenote, een schuld die niet strikt persoonlijk is aan de echtgenote maar die de gemeenschap en de echtgenoot persoonlijk overeenkomstig de beschikkingen van het Burgerlijk Wetboek verbindt."
+      ]
+    }
+  },
+  "1456": {
+    "ECLI:BE:CASS:2014:ARR.20140515.2": {
+      "court": "CASS",
+      "date": "2014-05-15",
+      "roleNumber": "C.13.0420.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/05/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge des saisies qui est tenu de décider si le tiers saisi, qui ne fait pas sa déclaration dans les quinze jours de la saisie-arrêt ou qui ne l'a pas fait avec exactitude, peut être déclaré débiteur en tout ou en partie des causes de la saisie, ainsi que des frais de celle-ci, dispose d'un pouvoir d'appréciation ou de réduction et peut décider dans des circonstances exceptionnelles, le tiers saisi eût-il omis de faire une déclaration ou eût-il fait une déclaration tardive, soit de ne pas infliger cette sanction soit de la réduire (1). (1) L'arrêt de la Cour a décidé d'une cassation partielle sur la première branche du second moyen non publié en l'espèce, qui invoquait un défaut de motivation et ce, uniquement dans la mesure où l'arrêt attaqué a statué sur les dépens. Le MP a conclu à une cassation totale et a estimé que la seconde branche du premier moyen était fondée. En se référant à l'arrêt de la Cour du 26 avril 2002 (Cass., 26 avril 2002, RG C.01.0253.F, Pas., 2002, n° 255) considérant que le juge des saisies peut décider de ne pas infliger les sanctions, mais uniquement lorsque les circonstances de la cause le justifient, le MP a décidé que le juge des saisies décide en fait et donc de manière souveraine si la sanction doit être infligée et que la Cour doit alors exercer un contrôle marginal pour savoir si le juge a pu légalement fonder sa décision sur ses constatations. Le MP a estimé que cela n'était pas le cas en l'espèce."
+      ],
+      "abstractNL": [
+        "De beslagrechter, die dient te oordelen of de derde-beslagene, die zijn verklaring niet doet binnen vijftien dagen na het derdenbeslag, of ze niet met nauwkeurigheid heeft gedaan, tot schuldenaar kan worden verklaard voor het geheel of voor een gedeelte van de oorzaken van het beslag, alsook voor de kosten ervan, beschikt over een beoordelings- en matigingsbevoegdheid en kan in uitzonderlijke omstandigheden beslissen, ook al heeft de derde-beslagene geen of geen tijdige verklaring afgelegd, hetzij deze sanctie niet op te leggen, hetzij deze te matigen (1). (1) Het arrest van het Hof besliste tot een beperkte vernietiging op het hier niet gepubliceerde eerste onderdeel van het tweede cassatiemiddel, dat een motiveringsgebrek aanvoerde, en dit enkel in zoverre het bestreden arrest oordeelde over de kosten. Het OM concludeerde tot een volledige vernietiging en was van oordeel dat het tweede onderdeel van het eerste middel gegrond was. Met verwijzing naar het arrest van het Hof van 26 april 2002 (Cass. 26 april 2002, AR C.01.0253.F, AC 2002, nr. 255), waarin werd geoordeeld dat de beslagrechter kan beslissen om de sancties niet op te leggen, maar alleen wanneer de omstandigheden van de zaak zulks rechtvaardigen, stelde het OM dat de beslagrechter in feite en dus onaantastbaar oordeelt of de sanctie moet worden opgelegd, en dat het Hof alsdan moet overgaan tot marginale toetsing of de rechter zijn beslissing wettig heeft kunnen gronden op zijn vaststellingen. Het OM was van mening dat dit in deze zaak niet het geval was."
+      ]
+    }
+  },
+  "1467": {
+    "ECLI:BE:CASS:2016:ARR.20160630.20": {
+      "court": "CASS",
+      "date": "2016-06-30",
+      "roleNumber": "C.16.0061.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/06/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 1468 du Code judiciaire, la demande de saisie qui porte sur un navire de mer, ne peut être autorisée que pour garantir une créance maritime; suivant le littera k) de cette disposition il faut entendre par créance maritime notamment les créances qui résultent de fournitures, quel qu'en soit le lieu, de produits ou de matériel faites à un navire en vue de son exploitation ou de son entretien; une créance maritime résultant de fournitures faites à un navire doit être fondée sur une obligation contractée par l'affrêteur ou l'armateur ou sur une obligation qui peut leur être imputée en vertu de la théorie de la confiance (1). (1) Voir E. Dirix et K. Broeckx, Algemene Praktische Rechtsverzameling, Beslag, 336, n° 489."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1468 Gerechtelijk Wetboek kan het verzoek om beslag op een zeeschip slechts worden toegestaan om een zeevordering te waarborgen; volgens littera k) van deze bepaling worden als zeevordering onder meer beschouwd de vorderingen die voortvloeien uit de leveranties, waar ook, van waren of materiaal aan een schip voor het beheer of het onderhoud ervan; een zeevordering voor leveranties aan het schip moet steunen op een verbintenis aangegaan door de bevrachter of de scheepseigenaar of die hen kan worden toegerekend krachtens de vertrouwensleer (1). (1) Zie E. Dirix en K. Broeckx, Algemene Praktische Rechtsverzameling, Beslag, 336, nr.489."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160926.3": {
+      "court": "CASS",
+      "date": "2016-09-26",
+      "roleNumber": "C.16.0107.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/09/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 1468 du Code judiciaire, la demande de saisie qui porte sur un navire de mer ne peut être autorisée que pour garantir une créance maritime; suivant le littéral de cette disposition, il faut entendre par créances maritimes notamment les créances qui résultent de fournitures, quel qu'en soit le lieu, de produits ou de matériel faites à un navire en vue de son exploitation ou de son entretien; une créance maritime résultant de fournitures faites à un navire doit être fondée sur une obligation contractée par l'affréteur ou l'armateur ou sur une obligation qui peut leur être imputée en vertu de la théorie de la confiance; cette confiance légitime du fournisseur doit être appréciée au moment de la naissance de la créance (1). (1) Cass. 30 juin 2016, RG C.16.0061.N, Pas. 2016, n° ...."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1468 Gerechtelijk Wetboek kan het verzoek om beslag op een zeeschip slechts worden toegestaan om een zeevordering te waarborgen; volgens littera k) van deze bepaling worden als zeevordering onder meer beschouwd de vorderingen die voortvloeien uit de leveranties, waar ook, van waren of materiaal aan een schip voor het beheer of het onderhoud ervan; een zeevordering voor leveranties aan het schip moet steunen op een verbintenis aangegaan door de bevrachter of de scheepseigenaar of die hen kan worden toegerekend krachtens de vertrouwensleer; dit gewettigd vertrouwen van de leverancier dient te worden beoordeeld op het ogenblik van het ontstaan van de schuldvordering (1). (1) Cass. 30 juni 2016, AR C.16.0061.N, AC 2016, nr ..."
+      ]
+    }
+  },
+  "1468": {
+    "ECLI:BE:CASS:2016:ARR.20160630.20": {
+      "court": "CASS",
+      "date": "2016-06-30",
+      "roleNumber": "C.16.0061.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/06/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 1468 du Code judiciaire, la demande de saisie qui porte sur un navire de mer, ne peut être autorisée que pour garantir une créance maritime; suivant le littera k) de cette disposition il faut entendre par créance maritime notamment les créances qui résultent de fournitures, quel qu'en soit le lieu, de produits ou de matériel faites à un navire en vue de son exploitation ou de son entretien; une créance maritime résultant de fournitures faites à un navire doit être fondée sur une obligation contractée par l'affrêteur ou l'armateur ou sur une obligation qui peut leur être imputée en vertu de la théorie de la confiance (1). (1) Voir E. Dirix et K. Broeckx, Algemene Praktische Rechtsverzameling, Beslag, 336, n° 489."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1468 Gerechtelijk Wetboek kan het verzoek om beslag op een zeeschip slechts worden toegestaan om een zeevordering te waarborgen; volgens littera k) van deze bepaling worden als zeevordering onder meer beschouwd de vorderingen die voortvloeien uit de leveranties, waar ook, van waren of materiaal aan een schip voor het beheer of het onderhoud ervan; een zeevordering voor leveranties aan het schip moet steunen op een verbintenis aangegaan door de bevrachter of de scheepseigenaar of die hen kan worden toegerekend krachtens de vertrouwensleer (1). (1) Zie E. Dirix en K. Broeckx, Algemene Praktische Rechtsverzameling, Beslag, 336, nr.489."
+      ]
+    },
+    "ECLI:BE:CASS:2016:ARR.20160926.3": {
+      "court": "CASS",
+      "date": "2016-09-26",
+      "roleNumber": "C.16.0107.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/09/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 1468 du Code judiciaire, la demande de saisie qui porte sur un navire de mer ne peut être autorisée que pour garantir une créance maritime; suivant le littéral de cette disposition, il faut entendre par créances maritimes notamment les créances qui résultent de fournitures, quel qu'en soit le lieu, de produits ou de matériel faites à un navire en vue de son exploitation ou de son entretien; une créance maritime résultant de fournitures faites à un navire doit être fondée sur une obligation contractée par l'affréteur ou l'armateur ou sur une obligation qui peut leur être imputée en vertu de la théorie de la confiance; cette confiance légitime du fournisseur doit être appréciée au moment de la naissance de la créance (1). (1) Cass. 30 juin 2016, RG C.16.0061.N, Pas. 2016, n° ...."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1468 Gerechtelijk Wetboek kan het verzoek om beslag op een zeeschip slechts worden toegestaan om een zeevordering te waarborgen; volgens littera k) van deze bepaling worden als zeevordering onder meer beschouwd de vorderingen die voortvloeien uit de leveranties, waar ook, van waren of materiaal aan een schip voor het beheer of het onderhoud ervan; een zeevordering voor leveranties aan het schip moet steunen op een verbintenis aangegaan door de bevrachter of de scheepseigenaar of die hen kan worden toegerekend krachtens de vertrouwensleer; dit gewettigd vertrouwen van de leverancier dient te worden beoordeeld op het ogenblik van het ontstaan van de schuldvordering (1). (1) Cass. 30 juni 2016, AR C.16.0061.N, AC 2016, nr ..."
+      ]
+    }
+  },
+  "1494": {
+    "ECLI:BE:CASS:2017:ARR.20170601.7": {
+      "court": "CASS",
+      "date": "2017-06-01",
+      "roleNumber": "C.16.0479.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/06/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'acte notarié constitue un titre exécutoire lorsqu'il consacre, en la forme authentique, les éléments nécessaires à la détermination de l'existence, de l'exigibilité et du montant de la créance."
+      ],
+      "abstractNL": [
+        "De notariële akte vormt een uitvoerbare titel wanneer ze, in haar authentieke vorm, alle gegevens bekrachtigt die nodig zijn om het bestaan, de opeisbaarheid en het bedrag van de schuldvordering te bepalen."
+      ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20141121.2": {
+      "court": "CASS",
+      "date": "2014-11-21",
+      "roleNumber": "F.12.0033.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/11/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une partie s'oppose à une contrainte en matière de taxe sur la valeur ajoutée et que ce moyen de défense est introduit par requête contradictoire, le juge est saisi de la cause à la date du dépôt de cette requête et l'interruption de l'exécution de la contrainte au sens de l'article 89, alinéa 2, du Code de la taxe sur la valeur ajoutée, devient effective à cette date, sans que la notification de l'acte interruptif à la partie adverse soit requise (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer een partij zich verzet tegen een dwangbevel inzake btw en dit verweer wordt ingeleid met een verzoekschrift op tegenspraak, is de zaak bij de rechter aanhangig gemaakt op datum van de neerlegging van dit verzoekschrift en wordt de stuiting van de tenuitvoerlegging van het dwangbevel in de zin van artikel 89, tweede lid, Btw-wetboek op die datum effectief, zonder dat hiertoe de kennisgeving aan de tegenpartij van de akte houdende stuiting vereist is (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1496": {
+    "ECLI:BE:CASS:2014:ARR.20140130.5": {
+      "court": "CASS",
+      "date": "2014-01-30",
+      "roleNumber": "C.12.0554.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/01/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En cas d'appel formé contre des décisions mixtes telles que visées à l'article 1068 du Code judiciaire, l'obligation de renvoi en cas de confirmation totale ou partielle de la mesure d'instruction ordonnée en première instance ne vaut pas lorsque le juge d'appel déclare fondé en tout ou en partie l'appel contre la décision critiquée ou s'il la modifie sur un quelconque point (1) ; il suit d'un rapprochement entre les articles 963, §2, 973, § 1er et 2, 1068 et 1496 du Code judiciaire que le premier juge conserve un pouvoir de juridiction pour suivre le déroulement de l'expertise qu'il a ordonnée, pour régler les contestations survenant dans ce cadre et pour se prononcer sur les demandes de remplacement de l'expert, tant que le juge d'appel n'a pas rendu de décision qui lui interdit de renvoyer encore la cause devant le premier juge. (1) Voir Cass., 29 janvier 2004, RG C.01.0537.N, Pas., 2004, n° 53, avec les conclusions de l'avocat général D. Thijs publiées à leur date dans AC; Cass., 20 octobre 2000, RG C.99.0440.N, Pas., 2000, n° 566; Cass., 10 janvier 2011, RG S.09.0102.N, Pas., 2011, n° 23, avec les conclusions de l'avocat général R. Mortier publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "In geval van hoger beroep tegen gemengde beslissingen zoals bedoeld in artikel 1068 Gerechtelijk Wetboek geldt de verplichting tot terugverwijzing bij gehele of gedeeltelijke bevestiging van de in eerste aanleg bevolen onderzoeksmaatregel niet wanneer de appelrechter het hoger beroep tegen de bestreden beslissing geheel of gedeeltelijk gegrond verklaart of de bestreden beslissing op enig punt wijzigt (1) ;uit de onderlinge samenhang tussen de artikelen 963, § 2, 973, § 1 en § 2, 1068, 1496 Gerechtelijk Wetboek volgt dat de eerste rechter rechtsmacht behoudt om het door hem bevolen deskundigenonderzoek op te volgen, de in dat kader gerezen betwistingen te beslechten en uitspraak te doen over verzoeken tot vervanging van een deskundige, zolang de appelrechter geen beslissing heeft genomen die hem verbiedt de zaak nog terug te verwijzen naar de eerste rechter. (1) Zie Cass. 29 jan. 2004, AR C.01.0537.N, AC 2004, nr. 53, met concl. van advocaat-generaal D. Thijs; Cass. 20 oktober 2000, AR C.99.0440.N, AC 2000, nr. 566; Cass. 10 jan. 2011, AR S.09.0102.N, AC 2011, nr. 23, met concl. van advocaat-generaal R. Mortier."
       ]
     }
   },
@@ -52,6 +206,54 @@
       ]
     }
   },
+  "1524": {
+    "ECLI:BE:CASS:2019:ARR.20190103.4": {
+      "court": "CASS",
+      "date": "2019-01-03",
+      "roleNumber": "C.18.0175.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2019/01/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Seul le créancier qui fait choix de poursuivre l'exécution de son titre sur la base de la copie certifiée de la saisie pratiquée antérieurement doit signifier au débiteur ladite copie certifiée, mais non le créancier qui procède à la saisie par récolement et extension."
+      ],
+      "abstractNL": [
+        "Enkel de schuldeiser die ervoor gekozen heeft de uitvoering van zijn titel op grond van dat gewaarmerkte afschrift van het eerder gelegde beslag te vervolgen, moet dat gewaarmerkte afschrift aan de schuldenaar betekenen, niet de schuldeiser die beslag bij vergelijking en uitbreiding legt."
+      ]
+    }
+  },
+  "1539": {
+    "ECLI:BE:CASS:2014:ARR.20141121.2": {
+      "court": "CASS",
+      "date": "2014-11-21",
+      "roleNumber": "F.12.0033.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/11/21/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une partie s'oppose à une contrainte en matière de taxe sur la valeur ajoutée et que ce moyen de défense est introduit par requête contradictoire, le juge est saisi de la cause à la date du dépôt de cette requête et l'interruption de l'exécution de la contrainte au sens de l'article 89, alinéa 2, du Code de la taxe sur la valeur ajoutée, devient effective à cette date, sans que la notification de l'acte interruptif à la partie adverse soit requise (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Wanneer een partij zich verzet tegen een dwangbevel inzake btw en dit verweer wordt ingeleid met een verzoekschrift op tegenspraak, is de zaak bij de rechter aanhangig gemaakt op datum van de neerlegging van dit verzoekschrift en wordt de stuiting van de tenuitvoerlegging van het dwangbevel in de zin van artikel 89, tweede lid, Btw-wetboek op die datum effectief, zonder dat hiertoe de kennisgeving aan de tegenpartij van de akte houdende stuiting vereist is (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1542": {
+    "ECLI:BE:CASS:2014:ARR.20140515.2": {
+      "court": "CASS",
+      "date": "2014-05-15",
+      "roleNumber": "C.13.0420.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/05/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge des saisies qui est tenu de décider si le tiers saisi, qui ne fait pas sa déclaration dans les quinze jours de la saisie-arrêt ou qui ne l'a pas fait avec exactitude, peut être déclaré débiteur en tout ou en partie des causes de la saisie, ainsi que des frais de celle-ci, dispose d'un pouvoir d'appréciation ou de réduction et peut décider dans des circonstances exceptionnelles, le tiers saisi eût-il omis de faire une déclaration ou eût-il fait une déclaration tardive, soit de ne pas infliger cette sanction soit de la réduire (1). (1) L'arrêt de la Cour a décidé d'une cassation partielle sur la première branche du second moyen non publié en l'espèce, qui invoquait un défaut de motivation et ce, uniquement dans la mesure où l'arrêt attaqué a statué sur les dépens. Le MP a conclu à une cassation totale et a estimé que la seconde branche du premier moyen était fondée. En se référant à l'arrêt de la Cour du 26 avril 2002 (Cass., 26 avril 2002, RG C.01.0253.F, Pas., 2002, n° 255) considérant que le juge des saisies peut décider de ne pas infliger les sanctions, mais uniquement lorsque les circonstances de la cause le justifient, le MP a décidé que le juge des saisies décide en fait et donc de manière souveraine si la sanction doit être infligée et que la Cour doit alors exercer un contrôle marginal pour savoir si le juge a pu légalement fonder sa décision sur ses constatations. Le MP a estimé que cela n'était pas le cas en l'espèce."
+      ],
+      "abstractNL": [
+        "De beslagrechter, die dient te oordelen of de derde-beslagene, die zijn verklaring niet doet binnen vijftien dagen na het derdenbeslag, of ze niet met nauwkeurigheid heeft gedaan, tot schuldenaar kan worden verklaard voor het geheel of voor een gedeelte van de oorzaken van het beslag, alsook voor de kosten ervan, beschikt over een beoordelings- en matigingsbevoegdheid en kan in uitzonderlijke omstandigheden beslissen, ook al heeft de derde-beslagene geen of geen tijdige verklaring afgelegd, hetzij deze sanctie niet op te leggen, hetzij deze te matigen (1). (1) Het arrest van het Hof besliste tot een beperkte vernietiging op het hier niet gepubliceerde eerste onderdeel van het tweede cassatiemiddel, dat een motiveringsgebrek aanvoerde, en dit enkel in zoverre het bestreden arrest oordeelde over de kosten. Het OM concludeerde tot een volledige vernietiging en was van oordeel dat het tweede onderdeel van het eerste middel gegrond was. Met verwijzing naar het arrest van het Hof van 26 april 2002 (Cass. 26 april 2002, AR C.01.0253.F, AC 2002, nr. 255), waarin werd geoordeeld dat de beslagrechter kan beslissen om de sancties niet op te leggen, maar alleen wanneer de omstandigheden van de zaak zulks rechtvaardigen, stelde het OM dat de beslagrechter in feite en dus onaantastbaar oordeelt of de sanctie moet worden opgelegd, en dat het Hof alsdan moet overgaan tot marginale toetsing of de rechter zijn beslissing wettig heeft kunnen gronden op zijn vaststellingen. Het OM was van mening dat dit in deze zaak niet het geval was."
+      ]
+    }
+  },
   "1580": {
     "ECLI:BE:CASS:2025:ARR.20251024.1F.6": {
       "court": "CASS",
@@ -65,6 +267,34 @@
         "A compter de la décision d'admissibilité du débiteur saisi au règlement collectif de dettes, le juge ne peut plus à nouveau nommer un notaire chargé de procéder à l'adjudication des biens saisis."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2018:ARR.20180330.1": {
+      "court": "CASS",
+      "date": "2018-03-30",
+      "roleNumber": "C.16.0162.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/03/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le notaire est un fonctionnaire public tenu de prêter son ministère lorsqu'il en est requis; ni l'article 10 du règlement pour l'organisation de la comptabilité notariale, rendu obligatoire par l'article 1er de l'arrêté royal du 9 mars 2003, qui a pour objet d'organiser la comptabilité et ne déroge pas à l'obligation imposée au notaire par les articles 1er et 3 de la loi du 25 ventôse an XI contenant organisation du notariat et 1580 du Code judiciaire de procéder à l'adjudication, ni aucune autre disposition n'autorise le notaire à refuser de prêter son ministère si une provision ne lui est pas versée (1). (1) Voir Cass. 24 octobre 2002, RG C.00.0724.F, Pas. 2002, n°506, avec concl. de M. De Riemaecker, avocat général."
+      ],
+      "abstractNL": [
+        "De notaris is een openbaar ambtenaar die verplicht is zijn dienst te verlenen wanneer hij daartoe wordt verzocht; noch artikel 10 van het reglement voor de organisatie van de notariële boekhouding, bindend verklaard door artikel 1 van het koninklijk besluit van 9 maart 2003, dat ertoe strekt de boekhouding te organiseren en dat niet afwijkt van de verplichting die de notaris is opgelegd door de artikelen 1 en 3 Wet Notarisambt en artikel 1580 van het Gerechtelijk Wetboek om tot de veiling over te gaan, noch enige andere bepaling staat de notaris toe zijn dienst te weigeren indien hem geen provisie is overgemaakt (1). (1) Zie Cass. 24 oktober 2002, AR C.00.0724.F, AC 2002, nr. 506, met concl. van advocaat-generaal De Riemaecker in Pas. 2002, nr. 506."
+      ]
+    },
+    "ECLI:BE:CASS:2017:ARR.20170907.3": {
+      "court": "CASS",
+      "date": "2017-09-07",
+      "roleNumber": "C.16.0378.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/09/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Dans le cadre d'une demande de désignation d'un notaire, le juge des saisies est tenu de contrôler la régularité et la légalité de la saisie, en devant entre autres vérifier si le créancier dispose d'un titre exécutoire valide pour une créance certaine, liquide et exigible."
+      ],
+      "abstractNL": [
+        "In het kader van een verzoek tot aanstelling van een notaris dient de beslagrechter de regelmatigheid en de rechtmatigheid van de tenuitvoerlegging te controleren waarbij hij onder meer dient na te gaan of de schuldeiser beschikt over een rechtsgeldige uitvoerbare titel voor een zekere, vaststaande en opeisbare schuldvordering."
+      ]
     }
   },
   "1582": {
@@ -125,6 +355,22 @@
       ],
       "abstractNL": [
         "Met een betwiste schuldvordering waarvoor geen bewarend beslag werd gelegd, moet rekening worden gehouden in het proces-verbaal van evenredige verdeling wanneer deze schuldvordering blijkt uit een titel, dit is een geschrift waarin de schuldvordering is vastgesteld; een uitvoerbare titel is niet vereist (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1629": {
+    "ECLI:BE:CASS:2017:ARR.20170609.2": {
+      "court": "CASS",
+      "date": "2017-06-09",
+      "roleNumber": "C.16.0372.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/06/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 1629, alinéa 3, du Code judiciaire, en vertu duquel les créanciers auxquels le projet de répartition a été adressé peuvent faire un contredit, soit par exploit d'huissier signifié à l'huissier de justice instrumentant, soit par déclaration devant celui-ci, n'exclut pas que le contredit puisse être fait valablement d'une manière différente s'il présente des garanties suffisantes de sécurité juridique (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Artikel 1629, derde lid Gerechtelijk wetboek, krachtens hetwelk de schuldeisers aan wie het ontwerp van verdeling werd toegestuurd tegenspraak kunnen doen, hetzij bij deurwaardersexploot betekend aan de optredende gerechtsdeurwaarder, hetzij bij verklaring vóór deze laatste, sluit niet uit dat een tegenspraak geldig kan worden gedaan op een andere wijze wanneer deze voldoende waarborgen biedt van rechtszekerheid (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -256,6 +502,34 @@
         "A compter de la décision d'admissibilité du débiteur saisi au règlement collectif de dettes, le juge ne peut plus à nouveau nommer un notaire chargé de procéder à l'adjudication des biens saisis."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2018:ARR.20180108.2": {
+      "court": "CASS",
+      "date": "2018-01-08",
+      "roleNumber": "S.16.0031.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/01/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de révocation de la décision d'admissibilité, la suspension de l'effet des sûretés réelles et des privilèges prend fin et le partage des sommes disponibles sur le compte de la médiation entre les créanciers doit être effectué en tenant compte des causes légales ou conventionnelles de préférence (1). (1) Cass. 5 janvier 2015, RG S.14.0038.F, Pas. 2015, n° 3."
+      ],
+      "abstractNL": [
+        "Bij herroeping van de beschikking van toelaatbaarheid wordt de schorsing van de gevolgen van de zakelijke zekerheden en van de voorrechten beëindigd en moeten de bedragen die beschikbaar zijn op de bemiddelingsrekening worden verdeeld rekening houdend met de wettelijke of conventionele redenen van voorrang (1). (1) Cass. 5 januari 2015, AR S.14.0038.F, AC 2015, nr. 3."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150105.7": {
+      "court": "CASS",
+      "date": "2015-01-05",
+      "roleNumber": "S.14.0038.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/01/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de révocation de la décision d'admissibilité, la suspension de l'effet des sûretés réelles et des privilèges prend fin et le partage des sommes disponibles sur le compte de la médiation entre les créanciers doit être effectué en tenant compte des causes légales ou conventionnelles de préférence (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Bij herroeping van de beschikking van toelaatbaarheid wordt de schorsing van de gevolgen van de zakelijke zekerheden en van de voorrechten beëindigd en de verdeling, onder de schuldeisers, van de bedragen die beschikbaar zijn op de bemiddelingsrekening moet geschieden rekening houdend met de wettelijke of conventionele redenen van voorrang (1). (1) Zie de concl. OM in Pas. 2015, nr. ... ."
+      ]
     }
   },
   "1675/15": {
@@ -277,6 +551,34 @@
         "Hoger beroep kan slechts worden ingesteld door iemand die in de procedure in eerste aanleg partij is geweest als eiser, verweerder of tussenkomende partij en door de beroepen beslissing in zijn belang wordt geschaad; wanneer de schuldbemiddelaar het vorderingsrecht uitoefent dat artikel 1675/15, § 1, Gerechtelijk Wetboek hem verleent om de herroeping van de beschikking van toelaatbaarheid of van de aanzuiveringsregeling te vorderen, treedt hij hierbij op als partij in het geding dat over de herroeping uitspraak doet (1). (1) Zie concl. OM.",
         "Wanneer de schuldbemiddelaar het vorderingsrecht uitoefent dat artikel 1675/15, § 1, Gerechtelijk Wetboek hem verleent om de herroeping van de beschikking van toelaatbaarheid of van de aanzuiveringsregeling te vorderen, heeft hij, wanneer zijn verzoek tot herroeping wordt afgewezen, belang bij de hervorming of de vernietiging van die beslissing in hoger beroep (1). (1) Zie concl. OM.",
         "anneer de schuldbemiddelaar het vorderingsrecht uitoefent dat artikel 1675/15, § 1, Gerechtelijk Wetboek hem verleent om de herroeping van de beschikking van toelaatbaarheid of van de aanzuiveringsregeling te vorderen, heeft hij, wanneer zijn verzoek tot herroeping wordt afgewezen, belang bij de hervorming of de vernietiging van die beslissing in hoger beroep (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2018:ARR.20180108.2": {
+      "court": "CASS",
+      "date": "2018-01-08",
+      "roleNumber": "S.16.0031.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/01/08/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de révocation de la décision d'admissibilité, la suspension de l'effet des sûretés réelles et des privilèges prend fin et le partage des sommes disponibles sur le compte de la médiation entre les créanciers doit être effectué en tenant compte des causes légales ou conventionnelles de préférence (1). (1) Cass. 5 janvier 2015, RG S.14.0038.F, Pas. 2015, n° 3."
+      ],
+      "abstractNL": [
+        "Bij herroeping van de beschikking van toelaatbaarheid wordt de schorsing van de gevolgen van de zakelijke zekerheden en van de voorrechten beëindigd en moeten de bedragen die beschikbaar zijn op de bemiddelingsrekening worden verdeeld rekening houdend met de wettelijke of conventionele redenen van voorrang (1). (1) Cass. 5 januari 2015, AR S.14.0038.F, AC 2015, nr. 3."
+      ]
+    },
+    "ECLI:BE:CASS:2015:ARR.20150105.7": {
+      "court": "CASS",
+      "date": "2015-01-05",
+      "roleNumber": "S.14.0038.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/01/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas de révocation de la décision d'admissibilité, la suspension de l'effet des sûretés réelles et des privilèges prend fin et le partage des sommes disponibles sur le compte de la médiation entre les créanciers doit être effectué en tenant compte des causes légales ou conventionnelles de préférence (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Bij herroeping van de beschikking van toelaatbaarheid wordt de schorsing van de gevolgen van de zakelijke zekerheden en van de voorrechten beëindigd en de verdeling, onder de schuldeisers, van de bedragen die beschikbaar zijn op de bemiddelingsrekening moet geschieden rekening houdend met de wettelijke of conventionele redenen van voorrang (1). (1) Zie de concl. OM in Pas. 2015, nr. ... ."
       ]
     }
   },
@@ -310,6 +612,54 @@
       "abstractFR": null,
       "abstractNL": [
         "De rechter mag een vordering tot collectieve schuldenregeling slechts ontoelaatbaar verklaren wegens het bewerkstelligen van het onvermogen wanneer de verzoeker een of meer handelingen heeft verricht met het opzet zich onvermogend te maken (1). (1) Zie andersluidende concl. OM."
+      ]
+    }
+  },
+  "1412quater": {
+    "ECLI:BE:CASS:2019:ARR.20191220.1F.3": {
+      "court": "CASS",
+      "date": "2019-12-20",
+      "roleNumber": "C.19.0071.F-C.19.0072.F-C.19.0194.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2019/12/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il résulte du principe de l'insaisissabilité des avoirs détenus ou gérés par une banque centrale que l'autorisation préalable du juge des saisies constitue une formalité substantielle et que le vice résultant de son défaut ne peut être couvert (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Uit het beginsel volgens hetwelk geen beslag kan worden gelegd op de tegoeden die door een buitenlandse centrale bank worden aangehouden of beheerd, volgt dat de voorafgaande toelating van de beslagrechter een substantiële vormvereiste is en dat het gebrek, voortvloeiend uit het ontbreken van die toelating, niet kan worden geremedieerd (1). (1) Zie concl. OM in Pas. 2019, nr. 684."
+      ]
+    }
+  },
+  "1675/10": {
+    "ECLI:BE:CASS:2015:ARR.20150529.5": {
+      "court": "CASS",
+      "date": "2015-05-29",
+      "roleNumber": "C.14.0275.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/05/29/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Un plan de règlement amiable qui prévoit une remise totale ou partielle entraîne la libération des cautions conformément à l'article 1287, alinéa 1er, du Code civil; si le créancier forme un contredit contre le projet de plan de règlement amiable conformément à l'article 1675/10, § 4, alinéa 2, et que le règlement est homologué par le tribunal nonobstant ce contredit, le plan de règlement amiable ne vaut pas comme remise au sens de l'article 1287, alinéa 1er, du Code civil."
+      ],
+      "abstractNL": [
+        "Een minnelijke aanzuiveringsregeling die voorziet in een gehele of gedeeltelijke kwijtschelding heeft de bevrijding tot gevolg van de borgen overeenkomstig artikel 1287, eerste lid, Burgerlijk Wetboek; indien de schuldeiser tegen het ontwerp van minnelijke aanzuiveringsregeling bezwaar heeft aangetekend overeenkomstig artikel 1675/10, § 4 , tweede lid, en de regeling door de rechtbank werd gehomologeerd niettegenstaande dit bezwaar, dan geldt de minnelijke aanzuiveringsregeling niet als kwijtschelding in de zin van artikel 1287, eerste lid, Burgerlijk wetboek."
+      ]
+    }
+  },
+  "1394/20": {
+    "ECLI:BE:CASS:2017:ARR.20171012.13": {
+      "court": "CASS",
+      "date": "2017-10-12",
+      "roleNumber": "C.17.0120.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/10/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La procédure de recouvrement de dettes d'argent non contestées est facultative et le créancier conserve la possibilité de recouvrer les dettes d'argent par une procédure judiciaire ordinaire."
+      ],
+      "abstractNL": [
+        "De procedure van invordering van onbetwiste geldschulden is facultatief en de schuldeiser behoudt de mogelijkheid om de geldschulden in te vorderen via een gewone gerechtelijke procedure."
       ]
     }
   }

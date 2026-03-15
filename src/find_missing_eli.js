@@ -29,6 +29,7 @@ import {
   normalizeEliToFrench, sleep, isInternationalInstrument,
 } from './utils.js';
 import { progress } from './progress.js';
+import { findSplitText, findEliForArticle } from './split_texts.js';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
 
@@ -77,6 +78,11 @@ const NATURE_JURIDIQUE_PATTERNS = [
   { pattern: /\bCode\s+ferroviaire\b|\bSpoorcodex\b/i, dt: 'CODE FERROVIAIRE' },
   { pattern: /\bCode\s+de\s+la\s+fonction\s+publique\s+wallonne\b|\bWaalse\s+Ambtenarencode\b/i, dt: 'CODE DE LA FONCTION PUBLIQUE WALLONNE' },
 
+  // Brussels codes
+  { pattern: /\bCode\s+bruxellois\s+(?:(?:de\s+l|d)[\u2019\u2018']?)?am[\u00e9e]nagement\s+du\s+territoire\b|\bBrussels\s+Wetboek\s+van\s+Ruimtelijke\s+Ordening\b|\bCoBAT\b/i, dt: "CODE BRUXELLOIS DE L'AMENAGEMENT DU TERRITOIRE" },
+  { pattern: /\bCode\s+bruxellois\s+du\s+logement\b|\bBrusselse?\s+Huisvestingscode\b/i, dt: 'CODE BRUXELLOIS DU LOGEMENT' },
+  { pattern: /\bCode\s+bruxellois\s+de\s+l[\u2019\u2018'']air\b/i, dt: "CODE BRUXELLOIS DE L'AIR, DU CLIMAT ET DE LA MAITRISE DE L'ENERGIE" },
+
   // Constitutions
   { pattern: /\bConstitution\s*1994\b|\bGrondwet\s*1994\b/i, dt: 'CONSTITUTION 1994' },
   { pattern: /\bConstitution\b|\bGrondwet\b/i, dt: 'CONSTITUTION 1994' },
@@ -86,11 +92,12 @@ const NATURE_JURIDIQUE_PATTERNS = [
   { pattern: /\bDecreet\s+(?:van\s+de\s+)?Franse\s+Gemeenschap\b/i, dt: 'DECRET COMMUNAUTE FRANCAISE' },
   { pattern: /\bd[ée]cret\s+(?:de\s+la\s+)?Communaut[ée]\s+germanophone\b|\bDekr(?:eet|\.)\s+(?:van\s+de\s+)?Duitstalige\b/i, dt: 'DECRET COMMUNAUTE GERMANOPHONE' },
   { pattern: /\bd[ée]cret\s+(?:de\s+la\s+)?R[ée]gion\s+wallonne\b|\bDecreet\s+(?:van\s+het\s+)?Waals\s+Gewest\b/i, dt: 'DECRET REGION WALLONNE' },
-  { pattern: /\bDecreet\s+(?:van\s+de\s+)?Vlaamse\s+Raad\b|\bD[ée]cret\s+(?:du\s+)?Conseil\s+flamand\b/i, dt: 'DECRET CONSEIL FLAMAND' },
+  { pattern: /\bDecreet\s+(?:van\s+de\s+)?Vlaamse\s+(?:Raad|Overheid|Gemeenschap)\b|\bD[ée]cret\s+(?:du\s+)?(?:Conseil\s+flamand|(?:de\s+la\s+)?Communaut[ée]\s+flamande|(?:(?:de\s+l|d)[\u2019\u2018']?)Autorit[ée]\s+flamande)\b|\bDecreet\s+(?:van\s+het\s+)?Vlaams\s+Parlement\b/i, dt: 'DECRET CONSEIL FLAMAND' },
+  { pattern: /\bD[ée]cret\s+\(Bruxelles\)|\bD[ée]cret\s+(?:de\s+la\s+)?(?:Commission|Assembl[ée]e)\s+communautaire\s+fran[çc]aise\b|\bDecreet\s+(?:van\s+de\s+)?Franse\s+Gemeenschapscommissie\b/i, dt: 'DECRET (BRUXELLES)' },
   { pattern: /\bD[ée]cret\b|\bDecreet\b/i, dt: 'DECRET COMMUNAUTE FRANCAISE' },
 
   // Arrêtés
-  { pattern: /\bArr[êe]t[ée]\s+royal\b|\bKoninklijk\s+[Bb]esluit\b|\bK\.B\.\b|\bA\.R\.\b/i, dt: 'ARRETE ROYAL' },
+  { pattern: /\bArr[êe]t[ée]\s+royal\b|\bKoninklijk\s+[Bb]esluit\b|\bK\.B\.(?=\s|$)|\bA\.R\.(?=\s|$)/i, dt: 'ARRETE ROYAL' },
   { pattern: /\bArr[êe]t[ée]\s+minist[ée]riel\b|\bMinisterieel\s+[Bb]esluit\b/i, dt: 'ARRETE MINISTERIEL' },
   { pattern: /\bArr[êe]t[ée]\s+(?:du\s+)?Gouv(?:ernement)?.*(?:R[ée]gion\s+wallonne|Waalse?\s+Gewest|Waalse?\s+Regering)\b|\bBesluit\s+.*Waals\b/i, dt: 'ARRETE REGION WALLONNE' },
   { pattern: /\bArr[êe]t[ée]\s+(?:du\s+)?Gouv(?:ernement)?\s+flamand\b|\bBesluit\s+(?:van\s+de\s+)?Vlaamse\s+Regering\b/i, dt: 'ARRETE GOUVERNEMENT FLAMAND' },
@@ -105,6 +112,8 @@ const NATURE_JURIDIQUE_PATTERNS = [
   // Treaties, international conventions, and protocols (non-EU)
   { pattern: /\bTrait[ée]\b(?!.*(?:CEE|CECA|Euratom|CE\b))|\bVerdrag\b(?!.*(?:EEG|EGKS))/i, dt: 'TRAITE' },
   { pattern: /\bProtocole\b|\bProtocol\b/i, dt: 'TRAITE' },
+  { pattern: /\bOvereenkomst\b(?!.*\b(?:arbeids|collectieve))/i, dt: 'TRAITE' },
+  { pattern: /\bAkkoord\b(?!.*\b(?:arbeids|sectorieel|interprofessioneel))/i, dt: 'TRAITE' },
 
   // Conventions collectives
   { pattern: /\bConvention\s+collective\s+de\s+travail\b|\bCollectieve\s+arbeidsovereenkomst\b|\bCAO\b/i, dt: 'CONVENTION COLLECTIVE DE TRAVAIL' },
@@ -151,13 +160,25 @@ function extractPromulgationDate(key) {
   return m ? `${m[3]}-${m[2]}-${m[1]}` : null;
 }
 
+/**
+ * Strip diacritical marks from a string so that keyword searches work
+ * against the ISO-8859-1 ejustice server (which cannot parse UTF-8
+ * percent-encoded accented characters sent by URLSearchParams).
+ */
+function stripAccents(str) {
+  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
 function extractTitleKeywords(key) {
   let text = key.replace(/\s*-\s*\d{2}-\d{2}-\d{4}.*$/, '');
-  text = text.replace(/^(?:L\.\s*(?:du|van)?\s*|Loi\s*(?:du|sur\s+la|relative\s+[àa]\s+la|portant)?\s*|Wet\s*(?:van|betreffende|tot|houdende|op\s+de)?\s*|Arr[êe]t[ée]\s+royal\s*(?:du|van|relatif|portant)?\s*|Koninklijk\s+Besluit\s*(?:van|betreffende|tot|houdende)?\s*|D[ée]cret\s*(?:du|van|relatif|portant)?\s*|Decreet\s*(?:van|betreffende|tot|houdende)?\s*|Ordonnance\s*(?:du|de\s+la|portant)?\s*|Ordonnantie\s*(?:van|betreffende|tot|houdende)?\s*)/i, '');
+  // Strip legal-type prefixes ── long forms first, then abbreviations
+  text = text.replace(/^(?:Arr[êe]t[ée]\s+(?:du\s+)?Gouv(?:ernement)?\s+(?:flamand|(?:de\s+la\s+)?(?:R[ée]gion\s+wallonne|Communaut[ée]\s+(?:fran[çc]aise|germanophone)))\s*(?:du|relatif|portant)?\s*|Besluit\s+(?:van\s+de\s+)?(?:Vlaamse\s+Regering|Waalse\s+Regering)\s*(?:van|betreffende|tot|houdende)?\s*|L\s+interpr[ée]tativ[e]?\s*(?:du)?\s*|L\.\s*(?:du|van)?\s*|Loi\s*(?:du|sur\s+la|relative\s+[àa]\s+la|portant)?\s*|Wet\s*(?:van|betreffende|tot|houdende|op\s+de)?\s*|Arr[êe]t[ée]\s+royal\s*(?:du|van|relatif|portant)?\s*|Koninklijk\s+Besluit\s*(?:van|betreffende|tot|houdende)?\s*|D[ée]cret\s*(?:du|van|de\s+la\s+Vlaamse\s+Overheid\s+van|relatif|portant)?\s*|Decreet\s*(?:van\s+de\s+Vlaamse\s+Overheid\s+van|van|betreffende|tot|houdende)?\s*|Ordonnance\s*(?:du|de\s+la|portant)?\s*|Ordonnantie\s*(?:van|betreffende|tot|houdende)?\s*|A\.R\.\s*(?:du)?\s*|K\.B\.?\s*(?:van)?\s*|M\.B\.?\s*(?:du)?\s*|A\.M\.?\s*(?:du)?\s*)/i, '');
+  // Strip leading date expression: "6 février 2009", "18 januari 2008"
   text = text.replace(/^\d{1,2}\s+\w+\s+\d{4}\s*(?:qui|relative?\s+[àa]|betreffende|tot|portant|sur|inzake|houdende)?\s*/i, '');
   text = text.trim();
   const words = text.split(/\s+/).filter(w => w.length > 3);
-  return words.length > 0 ? words.slice(0, 4).join(' ') : null;
+  if (words.length === 0) return null;
+  return stripAccents(words.slice(0, 4).join(' '));
 }
 
 /**
@@ -339,17 +360,92 @@ function resolveFromLog(basisKey, article, logEliMap, prefixMap) {
   return null;
 }
 
+/**
+ * Remove German-language translations and unofficial coordinations from a result
+ * list so that scoring is done only against primary French/Dutch texts.
+ * Falls back to the full list if everything would be filtered out.
+ */
+function filterSecondaryTexts(results) {
+  const isSecondary = r => {
+    const tl = r.title.toLowerCase();
+    return tl.includes('traduction allemande')
+        || tl.includes('coordination officieuse en langue allemande')
+        || tl.includes('deutsche koordination')
+        // superseded texts: "<Annulé et remplacé...>" or "(Annulée...)"
+        || /[(<]\s*annul/i.test(tl);
+  };
+  const filtered = results.filter(r => !isSecondary(r));
+  return filtered.length > 0 ? filtered : results;
+}
+
+/**
+ * Fallback dt types to try (in order) when a primary-dt search returns 0 results.
+ * Handles cases like a French-language title of a Flemish decree.
+ */
+const DT_FALLBACKS = new Map([
+  ['DECRET COMMUNAUTE FRANCAISE',  ['DECRET CONSEIL FLAMAND', 'DECRET REGION WALLONNE', 'DECRET (BRUXELLES)']],
+  ['DECRET CONSEIL FLAMAND',       ['DECRET COMMUNAUTE FRANCAISE', 'DECRET REGION WALLONNE']],
+  ['DECRET REGION WALLONNE',       ['DECRET COMMUNAUTE FRANCAISE', 'DECRET CONSEIL FLAMAND']],
+  ['DECRET (BRUXELLES)',           ['ORDONNANCE (BRUXELLES)', 'DECRET COMMUNAUTE FRANCAISE']],
+  ['ARRETE COMMUNAUTE FRANCAISE',  ['ARRETE GOUVERNEMENT FLAMAND', 'ARRETE REGION WALLONNE']],
+  ['ARRETE GOUVERNEMENT FLAMAND',  ['ARRETE COMMUNAUTE FRANCAISE', 'ARRETE REGION WALLONNE']],
+  ['ARRETE REGION WALLONNE',       ['ARRETE GOUVERNEMENT FLAMAND', 'ARRETE COMMUNAUTE FRANCAISE']],
+  ['LOI',                          ['DECRET COMMUNAUTE FRANCAISE', 'DECRET CONSEIL FLAMAND']],
+]);
+
+/**
+ * Score each result against the original key text by counting overlapping
+ * significant words.  Secondary texts (German translations, superseded) are
+ * removed first.
+ *
+ * Returns { best, scored } where:
+ *   best   – single best result when it clearly outscores rivals (score ≥ 1
+ *            AND strictly higher than second place), otherwise null.
+ *   scored – array of { result, score } sorted descending, for user display.
+ */
+function scoreResultsByTitle(results, key) {
+  const primary = filterSecondaryTexts(results);
+
+  const keyNorm = stripAccents(key.toLowerCase());
+  const keyWords = keyNorm.split(/\s+/).filter(w => w.length > 3);
+
+  if (keyWords.length === 0) {
+    return { best: null, scored: primary.map(r => ({ result: r, score: 0 })) };
+  }
+
+  const scored = primary.map(r => {
+    const titleNorm = stripAccents(r.title.toLowerCase());
+    const score = keyWords.filter(w => titleNorm.includes(w)).length;
+    return { result: r, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+
+  // Clear winner: any positive score AND strictly better than runner-up
+  const best = (scored[0].score >= 1 && (scored.length === 1 || scored[0].score > scored[1].score))
+    ? scored[0].result
+    : null;
+
+  return { best, scored };
+}
+
+function pickBestResultByTitle(results, key) {
+  return scoreResultsByTitle(results, key).best;
+}
+
 // ─── Ejustice resolution ─────────────────────────────────────────────────────
 
-async function searchEjustice(dt, date, titleKeywords) {
+async function searchEjustice(dt, date, titleKeywords, language = 'fr') {
   const params = new URLSearchParams({
-    language: 'fr',
+    language,
     dt,
-    fr: 'f',
     choix1: 'et',
     choix2: 'et',
     trier: 'promulgation',
   });
+  // fr=f / nl=n control which language texts are searched
+  if (language === 'fr') params.set('fr', 'f');
+  if (language === 'nl') params.set('nl', 'n');
   if (date) {
     params.set('ddd', date);
     params.set('ddf', date);
@@ -372,10 +468,10 @@ async function searchEjustice(dt, date, titleKeywords) {
 }
 
 /** Cached wrapper – no extra sleep on a cache hit. */
-async function cachedSearchEjustice(dt, date, titleKeywords) {
-  const k = `${dt}|${date || ''}|${titleKeywords || ''}`;
+async function cachedSearchEjustice(dt, date, titleKeywords, language = 'fr') {
+  const k = `${dt}|${date || ''}|${titleKeywords || ''}|${language}`;
   if (!_ejusticeSearchCache.has(k)) {
-    _ejusticeSearchCache.set(k, await searchEjustice(dt, date, titleKeywords));
+    _ejusticeSearchCache.set(k, await searchEjustice(dt, date, titleKeywords, language));
   }
   return _ejusticeSearchCache.get(k);
 }
@@ -386,7 +482,8 @@ function parseSearchResults(html) {
 
   $('a.list-item--title').each((_i, el) => {
     const href = $(el).attr('href') || '';
-    const numacMatch = href.match(/numac_search=(\d+)/);
+    // numac codes can contain letters (e.g. 2004A31182 for CoBAT)
+    const numacMatch = href.match(/numac_search=([A-Za-z0-9]+)/);
     if (!numacMatch) return;
 
     // The full title (including article ranges like "(art. 664 à 1385octiesdecies)")
@@ -466,6 +563,49 @@ function findCodePartForArticle(results, article) {
   return null;
 }
 
+/**
+ * Prompt the user to pick one result from a numbered list, skip, or enter a
+ * custom ELI/numac.  Returns { eli } on success or null to skip.
+ */
+async function promptUserChoice(candidates, key) {
+  progress.clear();
+  console.log('');
+  logWarn(`  ⚠ Ambiguous – ${candidates.length} candidates for: ${chalk.cyan(key.substring(0, 100))}`);
+  candidates.forEach((c, i) => {
+    const score = typeof c.score === 'number' ? chalk.gray(` [score:${c.score}]`) : '';
+    console.log(`    ${chalk.bold(i + 1)}. [${c.result.numac}] ${c.result.title.substring(0, 120)}${score}`);
+  });
+  console.log(`    ${chalk.bold('s')}. Skip this entry`);
+  console.log(`    ${chalk.bold('e')}. Enter ELI or numac manually`);
+
+  const resp = await promptUserFn(chalk.yellow('  Choose: ') + chalk.gray('(1-' + candidates.length + '/s/e) ') + chalk.bold('> '));
+
+  if (resp === 's' || resp === 'skip') return null;
+
+  if (resp === 'e') {
+    const custom = await promptUserFn(chalk.yellow('  Enter ELI or numac: ') + chalk.bold('> '));
+    const trimmed = custom.trim();
+    if (!trimmed) return null;
+    // If it looks like a numac, fetch the ELI for it
+    if (/^[A-Za-z0-9]+$/.test(trimmed) && !trimmed.startsWith('http')) {
+      const eli = await cachedFetchEli(trimmed);
+      return eli ? { eli } : null;
+    }
+    return { eli: trimmed };
+  }
+
+  const idx = parseInt(resp, 10);
+  if (Number.isFinite(idx) && idx >= 1 && idx <= candidates.length) {
+    try {
+      const eli = await cachedFetchEli(candidates[idx - 1].result.numac);
+      return eli ? { eli } : null;
+    } catch {
+      return null;
+    }
+  }
+  return null;
+}
+
 async function resolveFromEjustice(key, article) {
   if (isUnfindableOnEjustice(key)) {
     return { eli: null, reason: 'unfindable' };
@@ -477,7 +617,9 @@ async function resolveFromEjustice(key, article) {
   const date = extractPromulgationDate(key);
   const isNamedCode = dt.startsWith('CODE ') || dt.startsWith('CONSTITUTION');
 
+  // ── Step 1: initial search ──────────────────────────────────────────────────
   let results;
+  let effectiveDt = dt;
   try {
     results = isNamedCode
       ? await cachedSearchEjustice(dt, null, null)
@@ -487,9 +629,28 @@ async function resolveFromEjustice(key, article) {
     return { eli: null, reason: `search_error: ${err.message}` };
   }
 
+  // ── Step 2: dt fallback when 0 results ─────────────────────────────────────
+  if (results.length === 0 && !isNamedCode && date) {
+    const fallbacks = DT_FALLBACKS.get(dt) || [];
+    for (const alt of fallbacks) {
+      try {
+        const alt_results = await cachedSearchEjustice(alt, date, null);
+        if (alt_results.length > 0) {
+          logInfo(chalk.gray(`    ↳ Retried with dt=${alt} → ${alt_results.length} result(s)`));
+          results = alt_results;
+          effectiveDt = alt;
+          break;
+        }
+      } catch { /* continue */ }
+    }
+  }
+
   if (results.length === 0) return { eli: null, reason: 'no_results' };
 
-  // Single result → use it directly
+  logInfo(chalk.gray(`    [${effectiveDt}] date:${date || 'any'} → ${results.length} result(s)` +
+    (results.length <= 5 ? ': ' + results.map(r => r.title.substring(0, 60)).join(' | ') : '')));
+
+  // ── Step 3: single result ───────────────────────────────────────────────────
   if (results.length === 1) {
     try {
       const eli = await cachedFetchEli(results[0].numac);
@@ -499,7 +660,7 @@ async function resolveFromEjustice(key, article) {
     }
   }
 
-  // Multiple results for a named code → find article range
+  // ── Step 4: named code → find article range ─────────────────────────────────
   if (isNamedCode) {
     if (!article || article === 'general') {
       return { eli: null, reason: 'code_no_article' };
@@ -516,19 +677,96 @@ async function resolveFromEjustice(key, article) {
     return { eli: null, reason: 'code_article_not_in_range' };
   }
 
-  // Multiple results for generic type → try narrowing by title
+  // ── Step 5: generic type → narrow by FR title keywords ─────────────────────
   const titleKeywords = extractTitleKeywords(key);
+  // Most focused candidate set found so far (prefer narrowed over full for user choice)
+  let bestCandidates = null;
+
   if (titleKeywords) {
+    let narrowed = [];
     try {
-      const narrowed = await cachedSearchEjustice(dt, date, titleKeywords);
-      if (narrowed.length === 1) {
-        const eli = await cachedFetchEli(narrowed[0].numac);
+      narrowed = await cachedSearchEjustice(effectiveDt, date, titleKeywords);
+      logInfo(chalk.gray(`    FR keyword "${titleKeywords}" → ${narrowed.length} result(s)` +
+        (narrowed.length <= 5 ? ': ' + narrowed.map(r => r.title.substring(0, 60)).join(' | ') : '')));
+    } catch { /* fall through */ }
+
+    if (narrowed.length === 1) {
+      const eli = await cachedFetchEli(narrowed[0].numac);
+      return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
+    }
+    if (narrowed.length > 1) {
+      const { best, scored } = scoreResultsByTitle(narrowed, key);
+      logInfo(chalk.gray(`    Scores (FR narrowed): ` +
+        scored.slice(0, 5).map(s => `${s.score}×"${s.result.title.substring(0, 50)}"`).join(' | ')));
+      if (best) {
+        const eli = await cachedFetchEli(best.numac);
         return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
       }
+      bestCandidates = scored;
+    }
+
+    // ── Step 6: NL-language keyword search ────────────────────────────────
+    // Useful when the key text is in Dutch but eJustice FR titles don't match.
+    let narrowedNl = [];
+    try {
+      narrowedNl = await cachedSearchEjustice(effectiveDt, date, titleKeywords, 'nl');
+      if (narrowedNl.length > 0 && narrowedNl.length !== results.length) {
+        logInfo(chalk.gray(`    NL keyword "${titleKeywords}" → ${narrowedNl.length} result(s)` +
+          (narrowedNl.length <= 5 ? ': ' + narrowedNl.map(r => r.title.substring(0, 60)).join(' | ') : '')));
+      }
+    } catch { /* fall through */ }
+
+    if (narrowedNl.length === 1) {
+      const eli = await cachedFetchEli(narrowedNl[0].numac);
+      return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
+    }
+    if (narrowedNl.length > 1 && narrowedNl.length < results.length) {
+      const { best, scored } = scoreResultsByTitle(narrowedNl, key);
+      logInfo(chalk.gray(`    Scores (NL narrowed): ` +
+        scored.slice(0, 5).map(s => `${s.score}×"${s.result.title.substring(0, 50)}"`).join(' | ')));
+      if (best) {
+        const eli = await cachedFetchEli(best.numac);
+        return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
+      }
+      if (!bestCandidates) bestCandidates = scored;
+    }
+
+    // ── Step 6b: NL full search (no-kw) scored — handles truncated Dutch keywords ──
+    // eJustice requires whole-word matches; a truncated key word like "jeugddelinq"
+    // won't match via keyword search. Fetch all NL results and score with includes().
+    if (narrowedNl.length === 0 && date) {
+      let nlAll = [];
+      try {
+        nlAll = await cachedSearchEjustice(effectiveDt, date, null, 'nl');
+      } catch { /* fall through */ }
+      if (nlAll.length > 0) {
+        logInfo(chalk.gray(`    NL full (no-kw) → ${nlAll.length} result(s)`));
+        const { best: bestNlAll, scored: scoredNlAll } = scoreResultsByTitle(nlAll, key);
+        logInfo(chalk.gray(`    Scores (NL full): ` +
+          scoredNlAll.slice(0, 5).map(s => `${s.score}×"${s.result.title.substring(0, 50)}"`).join(' | ')));
+        if (bestNlAll) {
+          const eli = await cachedFetchEli(bestNlAll.numac);
+          return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
+        }
+        if (!bestCandidates) bestCandidates = scoredNlAll;
+      }
+    }
+  }
+
+  // ── Step 7: last-resort scoring on all unnarrowed results ──────────────────
+  const { best: bestAll, scored: scoredAll } = scoreResultsByTitle(results, key);
+  logInfo(chalk.gray(`    Scores (all ${results.length}): ` +
+    scoredAll.slice(0, 5).map(s => `${s.score}×"${s.result.title.substring(0, 50)}"`).join(' | ')));
+  if (bestAll) {
+    try {
+      const eli = await cachedFetchEli(bestAll.numac);
+      return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
     } catch { /* fall through */ }
   }
 
-  return { eli: null, reason: 'ambiguous_multiple_results' };
+  // Return the most focused candidate list available for interactive disambiguation
+  const candidates = (bestCandidates ?? scoredAll).slice(0, 10);
+  return { eli: null, reason: 'ambiguous_multiple_results', candidates };
 }
 
 // ─── Data integration ────────────────────────────────────────────────────────
@@ -630,6 +868,86 @@ export async function findMissingEli() {
     const articles = [...new Set(entry.elements.map(e => e.article).filter(Boolean))];
     const sampleArticle = articles[0] || 'general';
 
+    // 0) Check if this is a split text (codes with multiple ELIs per article range)
+    const splitText = findSplitText(key);
+    if (splitText) {
+      // Build per-article ELI mapping directly from split_texts.json
+      const splitPerArticle = new Map();
+      for (const elem of entry.elements) {
+        const art = elem.article || 'general';
+        if (!splitPerArticle.has(art)) {
+          const artEli = findEliForArticle(splitText, art);
+          if (artEli) splitPerArticle.set(art, artEli);
+        }
+      }
+
+      if (splitPerArticle.size > 0) {
+        // Group elements by their resolved ELI, then write each file once
+        const byEli = new Map();
+        const remainingElements = [];
+        for (const elem of entry.elements) {
+          const artEli = splitPerArticle.get(elem.article || 'general');
+          if (artEli) {
+            if (!byEli.has(artEli)) byEli.set(artEli, []);
+            byEli.get(artEli).push(elem);
+          } else {
+            remainingElements.push(elem);
+          }
+        }
+
+        progress.clear();
+        console.log('');
+        logInfo(chalk.bold(`[${i + 1}/${total}]`) + ` ${key}`);
+        const uniqueElis = [...new Set(splitPerArticle.values())];
+        logInfo(`  Split text: ${uniqueElis.length} part(s) — ${uniqueElis.map(e => chalk.green(e)).join(', ')}`);
+        logInfo(`  Elements: ${entry.elements.length} (${remainingElements.length} without article match)`);
+
+        let answer;
+        if (applyAll) {
+          answer = 'yes';
+        } else {
+          const resp = await promptUserFn(
+            chalk.yellow('  Apply? ') + chalk.gray('(yes/no/all/quit) ') + chalk.bold('> ')
+          );
+          answer = resp;
+        }
+
+        if (answer === 'quit' || answer === 'q') {
+          logInfo(`${timestamp()} Quitting. Changes will be saved.`);
+          break;
+        }
+        if (answer === 'all' || answer === 'a') {
+          applyAll = true;
+          answer = 'yes';
+        }
+
+        if (answer === 'yes' || answer === 'y') {
+          try {
+            for (const [artEli, elems] of byEli) {
+              storeElementsToDataFile(elems, artEli);
+            }
+            // Use the most common ELI as the primary for the entry
+            const eliCounts = new Map();
+            for (const e of splitPerArticle.values()) eliCounts.set(e, (eliCounts.get(e) || 0) + 1);
+            const primaryEli = [...eliCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+            if (primaryEli) entry.eli = primaryEli;
+            entry.elements = remainingElements;
+            saveMissingEliFile(missingEli);
+            resolvedCount++;
+          } catch (err) {
+            logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);
+          }
+        } else {
+          skippedCount++;
+        }
+
+        progress.doneIndexes = i + 1;
+        progress.render();
+        continue;
+      }
+      // If no articles resolved (all 'general'), fall through to normal resolution
+    }
+
     // 1) Try log-based resolution (with prefix-map fallback for date-less keys)
     let resolution = resolveFromLog(key, sampleArticle, logEliMap, logPrefixMap);
     let source = 'log.json';
@@ -660,22 +978,55 @@ export async function findMissingEli() {
 
       if (!resolution?.eli) {
         const reason = resolution?.reason || 'unknown';
+        const candidates = resolution?.candidates;
+
         if (reason === 'unfindable' || reason === 'unknown_nature_juridique') {
           unfindableCount++;
           progress.clear();
           logWarn(`  ✗ [${i + 1}/${total}] Not findable (${reason}): ${chalk.cyan(key.substring(0, 100))}`);
+          progress.doneIndexes = i + 1;
+          progress.render();
+          continue;
+
+        } else if ((reason.includes('ambiguous') || reason === 'code_no_article') && candidates?.length > 0 && !applyAll) {
+          // Interactive disambiguation: prompt user to pick from the candidate list
+          const chosen = await promptUserChoice(candidates, key);
+          if (chosen?.eli) {
+            resolution = { eli: chosen.eli, confidence: 'user' };
+            source = 'user';
+            // fall through to apply logic below
+          } else {
+            ambiguousCount++;
+            logInfo(`  ↷ [${i + 1}/${total}] Skipped by user: ${chalk.cyan(key.substring(0, 80))}`);
+            progress.doneIndexes = i + 1;
+            progress.render();
+            continue;
+          }
+
         } else if (reason.includes('ambiguous') || reason.includes('multiple') || reason === 'code_no_article') {
           ambiguousCount++;
           progress.clear();
-          logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous: ${chalk.cyan(key.substring(0, 80))} — ${reason}`);
+          const candNote = candidates?.length > 0
+            ? chalk.gray(` (${candidates.length} candidate(s) available; run interactively to choose)`) : '';
+          logWarn(`  ⚠ [${i + 1}/${total}] Ambiguous: ${chalk.cyan(key.substring(0, 80))} — ${reason}${candNote}`);
+          progress.doneIndexes = i + 1;
+          progress.render();
+          continue;
+
         } else {
           skippedCount++;
           progress.clear();
           logWarn(`  ✗ [${i + 1}/${total}] Not found (${reason}): ${chalk.cyan(key.substring(0, 100))}`);
+          progress.doneIndexes = i + 1;
+          progress.render();
+          continue;
         }
-        progress.doneIndexes = i + 1;
-        progress.render();
-        continue;
+
+        if (!resolution?.eli) {
+          progress.doneIndexes = i + 1;
+          progress.render();
+          continue;
+        }
       }
     }
 

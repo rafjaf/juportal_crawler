@@ -140,6 +140,38 @@
         "Lorsque les éléments soumis à son appréciation permettent d'exclure la qualification donnée par les parties à la convention qu'elles ont conclue, le juge du fond peut y substituer une qualification différente (1). (1) Cass. 22 mai 2006, RG S.05.0014.F, Pas. 2006, nr. 284."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2009:ARR.20090112.4": {
+      "court": "CASS",
+      "date": "2009-01-12",
+      "roleNumber": "C.07.0269.F-C.07.0284.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/02/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/01/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'organisation par le Code du travail congolais de divers modes de rupture du contrat de travail ne fait pas obstacle à la dissolution de ce contrat par l'un des modes prévus par le droit civil (1). (1) Voir conclusions de M. le Procureur général J.F. LECLERCQ, alors premier Avocat général, avant Cass., 14 février 2005, RG S.03.0135.F, Pas., 2005, I, n° 89."
+      ],
+      "abstractNL": [
+        "De verschillende wijzen waarop een arbeidsovereenkomst volgens het Congolees Arbeidswetboek beëindigd kan worden, staan er niet aan in de weg dat die overeenkomst op één van de wijzen bepaald in het burgerlijk recht beëindigd kan worden (1). (1) Zie concl. eerste adv.-gen. J.F. LECLERCQ, vóór Cass., 14 feb. 2005, AR S.03.0135.F, Pas., 2005, nr. 89."
+      ]
+    }
+  },
+  "5.64": {
+    "ECLI:BE:CASS:2021:ARR.20210923.1N.5": {
+      "court": "CASS",
+      "date": "2021-09-23",
+      "roleNumber": "C.20.0162.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_76.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La jurisprudence Haviltex de droit néerlandais selon laquelle les rapports entre les parties contractantes dans un contrat écrit ne doivent pas être déterminés en se basant exclusivement sur une interprétation de la lettre des dispositions contractuelles, mais plutôt en s'interrogeant sur le sens que les parties contractantes pouvaient, dans les circonstances données, attribuer à ces dispositions contractuelles et sur ce qu'elles pouvaient raisonnablement prévoir l'une l'autre, s'applique également aux contrats de mariage (1). (1) Voir HR, 6 octobre 2006 (ECLI:NL:HR:2006:AX8847); HR, 28 novembre 2003 (ECLI:NL:HR:2003:AK3697); HR, 13 mars 1981 (ECLI:NL:HR:1981:AG4158)."
+      ],
+      "abstractNL": [
+        "De Haviltex-rechtspraak naar Nederlands recht die inhoudt dat de verhouding tussen contractspartijen in een schriftelijke overeenkomst niet alleen op grond van een zuiver taalkundige uitleg van de contractsbepalingen moet bepaald worden maar veeleer op grond van de zin die de contractspartijen in de gegeven omstandigheden aan de contractsbepalingen mochten toekennen en op grond van wat zij redelijkerwijs van elkaar mochten verwachten, geldt ook voor huwelijksovereenkomsten (1). (1) Zie HR, 6 oktober 2006 (ECLI:NL:HR:2006:AX8847); HR, 28 november 2003 (ECLI:NL:HR:2003:AK3697); HR, 13 maart 1981 (ECLI:NL:HR:1981:AG4158)."
+      ]
     }
   }
 }

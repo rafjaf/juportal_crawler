@@ -1,4 +1,82 @@
 {
+  "5": {
+    "ECLI:BE:CASS:2002:ARR.20020910.8": {
+      "court": "CASS",
+      "date": "2002-09-10",
+      "roleNumber": "P010577N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La radiation temporaire du tableau des experts comptables externes pour la durée de la suspension a pour conséquence la perte de la qualité d'expert comptable, ce qui entraîne la déchéance du droit de porter le titre d'expert comptable (1)."
+      ],
+      "abstractNL": [
+        "De tijdelijke schrapping in het register van de externe accountants voor de duur van de schorsing heeft het verlies van hoedanigheid van accountant en als gevolg daarvan het verlies van het recht de titel van accountant te mogen voeren tot gevolg (1)."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2014:ARR.20140626.4": {
+      "court": "CASS",
+      "date": "2014-06-26",
+      "roleNumber": "D.13.0017.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/06/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 7, § 1er, alinéa 4 de la loi du 22 avril 1999 relative à la discipline professionnelle des experts-comptables et des conseils fiscaux requiert qu'en cas de poursuite d'un membre qui est à la fois expert-comptable et conseil fiscal, les deux membres désignés par l'assemblée générale de l'Institut des experts-comptables et des conseils fiscaux ensemble aient les mêmes qualités que le membre poursuivi; elle ne requiert pas que chacun des deux membres soit à la fois expert-comptable et conseil fiscal (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De bepaling van artikel 7, §1, vierde lid, van de wet van 22 april 1999 betreffende de beroepstucht van accountants en belastingconsulenten vereist dat bij de vervolging van een lid dat zowel accountant als belastingconsulent is, de twee leden aangewezen door de algemene vergadering van het Instituut van de accountants en de belastingconsulenten samen genomen dezelfde hoedanigheden hebben als het vervolgde lid; zij vereist niet dat elk van de twee leden zowel accountant als belastingconsulent is (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000224.2": {
+      "court": "CASS",
+      "date": "2000-02-24",
+      "roleNumber": "C000064N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation n'est pas compétente pour connaître de la demande tendant à la récusation d'un membre de la commission d'appel de l'Institut des experts-comptables et des conseils fiscaux."
+      ],
+      "abstractNL": [
+        "Het Hof van Cassatie is niet bevoegd om kennis te nemen van een verzoek tot wraking van een lid van de Commissie van beroep van het Instituut van de accountants en de belastingconsulenten."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2010:ARR.20100416.4": {
+      "court": "CASS",
+      "date": "2010-04-16",
+      "roleNumber": "D.09.0006.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/16/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne permet de se pourvoir contre la décision qui radie le demandeur de la liste des stagiaires de l'Institut des experts-comptables et des conseils fiscaux pour un motif qui n'est pas de nature disciplinaire."
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling geeft de eiser het recht om zich in cassatie te voorzien tegen de beslissing die hem schrapt van de lijst van de stagiairs van het Instituut van de accountants en de belastingconsulenten om een reden die niets met tucht te maken heeft."
+      ]
+    }
+  },
+  "37": {
+    "ECLI:BE:CASS:2012:ARR.20121024.3": {
+      "court": "CASS",
+      "date": "2012-10-24",
+      "roleNumber": "P.12.0805.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/10/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ne se déduit pas de l'article 37 de la loi du 22 avril 1999 relative aux professions comptables et fiscales que les aides et collaborateurs de l'expert judiciaire doivent, comme lui, être inscrits au tableau établi par l'Institut des experts-comptables et des conseils fiscaux; l'aide dont il peut s'entourer ne constitue pas elle-même l'activité d'expertise soumise au monopole légal, puisque l'expert judiciaire ne délègue pas ses fonctions (1). (1) Voir Cass., 3 mai 2005, RG P.04.1700.N, Pas., 2005, n° 256."
+      ],
+      "abstractNL": [
+        "Uit artikel 37 van de wet van 22 april 1999 betreffende de boekhoudkundige en fiscale beroepen, kan niet worden afgeleid dat de assistenten en medewerkers van de gerechtsdeskundige, net als hijzelf, moeten ingeschreven zijn op het tableau van het Instituut van de accountants en belastingconsulenten; de hulp waarmee hij zich omringt maakt als dusdanig geen deel uit van de aan het wettelijk monopolie onderworpen activiteit van deskundige, aangezien de gerechtsdeskundige zijn taken niet delegeert (1). (1) Zie Cass. 3 mei 2005, AR P.04.1700.N, AC 2005, nr. 256."
+      ]
+    }
+  },
   "45": {
     "ECLI:BE:CASS:2015:ARR.20150108.5": {
       "court": "CASS",
@@ -12,6 +90,22 @@
       ],
       "abstractNL": [
         "De kennisgeving van de beslissing aan de betrokkene alleen doet de termijn van beroep ook ingaan t.a.v. de rechtskundige assessor die optreedt als vertegenwoordiger van dat instituut."
+      ]
+    }
+  },
+  "58": {
+    "ECLI:BE:CASS:2011:ARR.20110222.6": {
+      "court": "CASS",
+      "date": "2011-02-22",
+      "roleNumber": "P.10.1386.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/02/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 458 du Code pénal s'applique aux experts-comptables externes, aux conseils fiscaux externes, aux comptables externes, aux comptables-fiscalistes agréés, aux stagiaires et aux personnes dont ils répondent."
+      ],
+      "abstractNL": [
+        "Artikel 458 Strafwetboek is van toepassing op externe accountants, externe belastingconsultenten, externe boekhouders, erkende boekhouders-fiscalisten, stagiairs en de personen voor wie zij instaan."
       ]
     }
   },

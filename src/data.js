@@ -2,6 +2,7 @@ import chalk from 'chalk';
 import { logInfo, logWarn, logSuccess, timestamp } from './logger.js';
 import { loadDataFile, saveDataFile, loadMissingEliFile, saveMissingEliFile, appendMissingEli } from './storage.js';
 import { eliToFilename, normalizeEliToFrench, normalizeCgiUrl, normalizeArticleNumber } from './utils.js';
+import { getAllSplitTextElis, articleBelongsToPart, findEliForArticle, findSplitText } from './split_texts.js';
 
 // ─── Data Assembly & Export ───────────────────────────────────────────────────
 
@@ -73,11 +74,31 @@ export function storeJudgementData(judgement, abstractToBasesMap, sitemapUrl) {
 
 export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) {
   let recorded = 0;
+  let resolved = 0;
 
   for (const entry of abstractToBasesMap) {
     if (!entry.missingEliBases || entry.missingEliBases.length === 0) continue;
 
     for (const missing of entry.missingEliBases) {
+      // If missing_eli.json already has a resolved ELI for this key, use it
+      // directly instead of re-recording the element as missing.
+      const knownEntry = loadMissingEliFile()[missing.rawLegalBasisText];
+      if (knownEntry && knownEntry.eli) {
+        const normalizedEli = normalizeLegalBasisEli(knownEntry.eli);
+        if (normalizedEli) {
+          const article = normalizeArticleNumber(
+            (knownEntry.article != null ? String(knownEntry.article) : null) ?? missing.article ?? ''
+          );
+          storeJudgementData(judgement, [{
+            abstractFR: entry.abstractFR || null,
+            abstractNL: entry.abstractNL || null,
+            legalBases: [{ article, eli: normalizedEli }],
+          }], sitemapUrl);
+          resolved++;
+          continue;
+        }
+      }
+
       appendMissingEli(missing.rawLegalBasisText, {
         ecli: judgement.ecli,
         court: judgement.court,
@@ -94,6 +115,9 @@ export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) 
     }
   }
 
+  if (resolved > 0) {
+    logSuccess(`✔ Resolved ${resolved} previously-missing ELI(s) from missing_eli.json`);
+  }
   if (recorded > 0) {
     logWarn(`⚠ Recorded ${recorded} legal basis element(s) without ELI into missing_eli.json`);
   }
@@ -129,6 +153,11 @@ export function processMissingEliFile() {
       continue;
     }
 
+    const overrideArticle = (item.article != null) ? String(item.article) : null;
+
+    // Check if this entry is a split text — route each element to the correct ELI part
+    const splitText = findSplitText(key);
+
     for (const element of item.elements) {
       const judgement = {
         ecli: element.ecli,
@@ -137,10 +166,19 @@ export function processMissingEliFile() {
         roleNumber: element.roleNumber,
       };
 
+      const article = normalizeArticleNumber(overrideArticle ?? element.article ?? '');
+
+      // For split texts, resolve to the correct part's ELI based on article
+      let eli = normalizedEli;
+      if (splitText) {
+        const correctEli = findEliForArticle(splitText, article);
+        if (correctEli) eli = correctEli;
+      }
+
       storeJudgementData(judgement, [{
         abstractFR: element.abstractFR || null,
         abstractNL: element.abstractNL || null,
-        legalBases: [{ article: normalizeArticleNumber(element.article || ''), eli: normalizedEli }],
+        legalBases: [{ article, eli }],
       }], element.sitemap);
 
       reintegratedElements++;
@@ -152,4 +190,66 @@ export function processMissingEliFile() {
 
   saveMissingEliFile(missing);
   logSuccess(`✔ Processed missing_eli.json: ${processedKeys} key(s), ${reintegratedElements} element(s) reintegrated`);
+
+  // ── Reassign misplaced abstracts in split-text data files ──
+  reassignSplitTextAbstracts();
+}
+
+/**
+ * Scan all data files belonging to split texts (codes with multiple ELIs)
+ * and move any abstracts whose article falls outside the file's declared
+ * range to the correct file.
+ */
+function reassignSplitTextAbstracts() {
+  const allParts = getAllSplitTextElis();
+  let movedCount = 0;
+
+  for (const { splitText, part } of allParts) {
+    const filename = eliToFilename(part.eli);
+    const data = loadDataFile(filename);
+    if (!data || Object.keys(data).length === 0) continue;
+
+    const toRemove = []; // [article] keys to delete from this file
+
+    for (const article of Object.keys(data)) {
+      if (articleBelongsToPart(article, part)) continue;
+
+      // This article doesn't belong here — find the correct ELI
+      const correctEli = findEliForArticle(splitText, article);
+      if (!correctEli || correctEli === part.eli) continue;
+
+      // Move all ECLIs under this article to the correct file
+      const correctFilename = eliToFilename(correctEli);
+      const correctData = loadDataFile(correctFilename);
+      if (!correctData[article]) correctData[article] = {};
+
+      for (const [ecli, entry] of Object.entries(data[article])) {
+        const existing = correctData[article][ecli] || {};
+        correctData[article][ecli] = {
+          court: entry.court ?? existing.court,
+          date: entry.date ?? existing.date,
+          roleNumber: entry.roleNumber ?? existing.roleNumber,
+          sitemap: mergeArrays(existing.sitemap, entry.sitemap),
+          abstractFR: mergeArrays(existing.abstractFR, entry.abstractFR),
+          abstractNL: mergeArrays(existing.abstractNL, entry.abstractNL),
+        };
+        movedCount++;
+      }
+
+      saveDataFile(correctFilename, correctData);
+      toRemove.push(article);
+    }
+
+    if (toRemove.length > 0) {
+      for (const article of toRemove) {
+        delete data[article];
+      }
+      saveDataFile(filename, data);
+      logInfo(`  Moved ${toRemove.length} article(s) from ${filename} to correct split-text file(s)`);
+    }
+  }
+
+  if (movedCount > 0) {
+    logSuccess(`✔ Reassigned ${movedCount} ECLI(s) across split-text data files`);
+  }
 }

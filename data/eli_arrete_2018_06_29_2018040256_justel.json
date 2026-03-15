@@ -1,0 +1,30 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2025:ARR.20251218.1N.9": {
+      "court": "CASS",
+      "date": "2025-12-18",
+      "roleNumber": "D.23.0013.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_20.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De beginselen van eer en waardigheid van het beroep van vastgoedmakelaar kunnen worden aangetast door strafrechtelijke inbreuken die het vertrouwen in dat beroep in het gedrang brengen."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2025:ARR.20251218.1N.6": {
+      "court": "CASS",
+      "date": "2025-12-18",
+      "roleNumber": "D.25.0005.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_28.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Iedere persoon die ingeschreven is op het tableau om het beroep van vastgoedmakelaar uit te oefenen is deontologisch verantwoordelijk voor de tuchtrechtelijke inbreuken die hij persoonlijk begaat in de uitoefening van zijn beroep, ook als hij zijn beroep uitoefent als zelfstandig medewerker in het kader van een rechtspersoon."
+      ]
+    }
+  }
+}

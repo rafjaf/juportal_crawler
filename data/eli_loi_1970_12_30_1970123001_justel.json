@@ -257,5 +257,21 @@
         "Uit het algemeen rechtsbeginsel dat diegene die voor rekening van een ander rechtshandelingen moet stellen daarbij niet mag optreden als tegenpartij van die ander, volgt dat een lasthebber in de uitvoering van zijn mandaat niet mag optreden als tegenpartij van zijn lastgever terzake van de te verrichten rechtshandeling."
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1991:ARR.19910912.7": {
+      "court": "CASS",
+      "date": "1991-09-12",
+      "roleNumber": "9074",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/09/12/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le délai d'un an prévu par l'article 38, alinéa 2, alinéa 1er, de la loi du 30 décembre 1970 sur l'expansion économique, avant l'expiration duquel les bénéficiaires des prêts et interventions peuvent perdre le bénéfice des avantages qu'ils ont obtenus, prend cours à compter du dernier paiement de la subvention-intérêt à l'organisme prêteur."
+      ],
+      "abstractNL": [
+        "De bij art. 38, alinéa 2, eerste lid, wet 30 december 1970 betreffende de economische expansie gestelde termijn van één jaar, vóór het verstrijken waarvan diegenen die de leningen en tussenkomsten hebben genoten, het genot kunnen verliezen van de voordelen die zij hebben bekomen, begint te lopen te rekenen vanaf de laatste betaling van de rentetoelage aan de kredietinstelling."
+      ]
+    }
   }
 }

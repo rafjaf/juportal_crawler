@@ -22,13 +22,44 @@
       "date": "2022-06-21",
       "roleNumber": "P.22.0417.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/22/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/22/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_959.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/06/21/sitemap_4.xml"
       ],
       "abstractFR": [
         "Lorsqu'il ne ressort pas des pièces auxquelles la Cour peut avoir égard que le prévenu a soutenu devant la juridiction d'appel qu'il y avait eu violation, lors de la procédure en première instance, des dispositions relatives à l'audition de témoins prévues par la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, des dispositions du Code d'instruction criminelle concernant la prestation de serment et l'audition de témoins à l'audience en matière répressive ainsi que du droit à l'assistance garanti par l'article 6, § 3, d, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, il ne peut plus, en vertu des articles 40, alinéas 1 et 2, de la loi du 15 juin 1935, 407 du Code d'instruction criminelle et 2 de la loi du 29 avril 1806 qui prescrit des mesures relatives à la procédure en matière criminelle et correctionnelle, invoquer ces violations devant la Cour (1). (1) Cass. 12 juin 2018, RG P.18.0262.N, Pas. 2018, n° 379."
       ],
       "abstractNL": [
         "Wanneer uit de stukken waarop het Hof vermag acht te slaan niet blijkt dat de beklaagde voor het appelgerecht heeft aangevoerd dat tijdens de procedure in eerste aanleg de bepalingen van de Taalwet Gerechtszaken betreffende het horen van getuigen, de bepalingen van het Wetboek van Strafvordering betreffende de eedaflegging en het horen van getuigen op de rechtszitting in strafzaken en het door artikel 6.3.d EVRM gewaarborgde recht op bijstand zijn geschonden, dan kan hij dat op grond van artikel 40, eerste en tweede lid, Taalwet Gerechtszaken, artikel 407 Wetboek van Strafvordering en artikel 2 van de wet van 29 april 1806 waarbij maatregelen worden voorgeschreven met betrekking tot de procedure in criminele en correctionele zaken voor het Hof niet meer aanvoeren (1). (1) Cass. 12 juni 2018, AR P.18.0262.N, AC 2018, nr. 379."
+      ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210601.2N.7": {
+      "court": "CASS",
+      "date": "2021-06-01",
+      "roleNumber": "P.21.0261.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Selon l'article 2 de la loi du 29 avril 1806 qui prescrit des mesures relatives à la procédure en matière criminelle et correctionnelle, le prévenu, en matière correctionnelle, ne sera pas recevable à présenter comme moyen de cassation les nullités commises en première instance, et qu'il n'aurait pas soulevées devant la juridiction d'appel, en exception faite de la nullité pour cause d'incompétence (1). (1) Cass. 17 septembre 2013, RG P.12.1162.N, Pas. 2013, n° 453."
+      ],
+      "abstractNL": [
+        "Volgens artikel 2 van de wet van 29 april 1806 waarbij maatregelen worden voorgeschreven met betrekking tot de procedure in criminele en correctionele zaken kan de beklaagde in correctionele zaken als cassatiemiddel geen nietigheden aanvoeren die in eerste aanleg zijn gepleegd en die hij voor het appelgerecht niet heeft opgeworpen en de enige uitzondering hierop is de nietigheid wegens onbevoegdheid (1). (1) Cass. 17 september 2013, AR P.12.1162.N, AC 2013, nr. 453."
+      ]
+    },
+    "ECLI:BE:CASS:2024:ARR.20240611.2N.17": {
+      "court": "CASS",
+      "date": "2024-06-11",
+      "roleNumber": "P.24.0218.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1766.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1766.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/22/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Volgens artikel 2 van de wet van 29 april 1806 waarbij maatregelen worden voorgeschreven met betrekking tot de procedure in criminele en correctionele zaken, kan de beklaagde, in correctionele zaken, als cassatiemiddel geen nietigheden aanvoeren die in eerste aanleg zijn gepleegd en die hij voor het hof van beroep niet heeft opgeworpen; de enige uitzondering hierop is de nietigheid wegens onbevoegdheid."
       ]
     }
   },

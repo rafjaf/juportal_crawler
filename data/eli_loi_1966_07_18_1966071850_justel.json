@@ -48,6 +48,38 @@
       ]
     }
   },
+  "19": {
+    "ECLI:BE:CASS:1997:ARR.19970327.8": {
+      "court": "CASS",
+      "date": "1997-03-27",
+      "roleNumber": "F960068F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout service local de Bruxelles-capitale emploie, dans ses rapports avec un particulier, la langue que l'intéressé utilise quand celle-ci est le français ou le néerlandais; au sens de cette disposition, la langue que l'intéressé utilise est en règle la langue dans laquelle il choisit de s'adresser au service local concerné et non celle dans laquelle ce service lui répond."
+      ],
+      "abstractNL": [
+        "Iedere plaatselijke dienst van Brussel-Hoofdstad gebruikt in zijn betrekkingen met een particulier de door deze gebruikte taal, voor zover die taal het Nederlands of het Frans is; de door de betrokkene gebruikte taal is, in de zin van die bepaling, in de regel de taal waarin hij zich tot die plaatselijke dienst richt, en niet de taal waarin die dienst hem antwoordt."
+      ]
+    }
+  },
+  "24": {
+    "ECLI:BE:CASS:2005:ARR.20051021.7": {
+      "court": "CASS",
+      "date": "2005-10-21",
+      "roleNumber": "C050067F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, devant une juridiction civile ou commerciale de première instance de l'arrondissement de Bruxelles, le défendeur, personne morale, demande que la procédure soit poursuivie dans la langue autre que celle employée pour la rédaction de l'acte introductif d'instance, le juge, pour déterminer la connaissance de la langue de la procédure, doit prendre en considération la langue qui se déduit de l'activité réelle de la personne morale (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Wanneer verweerder, een rechtspersoon, voor een burgerlijke of handelsrechtbank van eerste aanleg van het arrondissement Brussel vraagt dat de rechtspleging wordt voortgezet in de andere taal dan die van gedinginleidende akte, moet de rechter, om de kennis van de taal van de procedure te bepalen, de taal in aanmerking nemen die blijkt uit de werkelijke activiteit van de rechtspersoon (1). (1) Zie concl. in Pas., 2005, nr ..."
+      ]
+    }
+  },
   "25": {
     "ECLI:BE:CASS:2018:ARR.20181206.11": {
       "court": "CASS",
@@ -241,6 +273,48 @@
       "abstractNL": [
         "Uit de bepalingen van artikel 40, tweede lid, 41, §§ 1 en 2, en 42 Taalwet Bestuurszaken volgt dat de berichten en mededelingen van de centrale diensten, waarvan sprake in artikel 40 Taalwet Bestuurszaken, deze zijn die bestemd zijn voor het publiek in het algemeen, terwijl de akten en overige stukken waarvan sprake in de artikelen 41 en 42 van toepassing zijn op de geïndividualiseerde betrekkingen van de overheid met particulieren en private bedrijven; op grond van de vaststellingen, die inhielden dat de bestreden beslissing te dezen niet enkel gericht was tegen de netbeheerder die het voorstel had ingediend, maar tot elke mogelijke gebruiker in welk taalgebied deze zich ook bevindt, zonder onderscheid des persoons, vermochten de appelrechters te oordelen dat deze beslissing valt onder de categorie \"berichten en mededelingen\" bedoeld in artikel 40, tweede lid, Taalwet Bestuurszaken (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20021127.13": {
+      "court": "CASS",
+      "date": "2002-11-27",
+      "roleNumber": "P021402F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/11/27/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La mesure administrative de privation de liberté prise par le ministre de l'Intérieur ou son délégué par laquelle l'étranger a été écroué à la disposition de l'Office des étrangers en vue de sa remise à la frontière d'un autre Etat, en application de l'article 27, alinéa 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, pour le motif que ledit étranger n'a pas donné suite à l'ordre de quitter le territoire, ne constitue pas la prolongation des mesures de sûreté prises antérieurement à son égard, mais un titre autonome de privation de liberté, à partir duquel commence à courir le délai de cinq mois visé à l'article 29, alinéa 4, de la loi précitée."
+      ],
+      "abstractNL": [
+        "De vrijheidsberovende maatregel, op grond waarvan de vreemdeling is opgesloten en ter beschikking van de Dienst Vreemdelingenzaken is gesteld met het oog op zijn terugleiding naar de grens van een andere Staat, welke door de Minister van Binnenlandse Zaken of zijn gemachtigde is genomen met toepassing van art. 27, derde lid, Vreemdelingenwet, op grond dat die vreemdeling geen gevolg heeft gegeven aan het bevel om het grondgebied te verlaten, is geen verlenging van de eerdere, jegens hem genomen veiligheidsmaatregelen, maar een autonome titel van vrijheidsberoving, die de in art. 29, vierde lid, van de voormelde wet, bedoelde termijn van vijf maanden doet lopen."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990324.9": {
+      "court": "CASS",
+      "date": "1999-03-24",
+      "roleNumber": "P990293F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un étranger, privé de liberté par décision ministérielle en vertu de l'article 27, alinéa 3, de la loi du 15 décembre 1980, a introduit un recours et comparaît en appel devant la chambre des mises en accusation, la légalité de la décision de celle-ci n'est pas entachée par la circonstance que des pièces du dossier administratif qui, d'une part, ne lui étaient pas destinées, et, d'autre part, sont étrangères aux décisions administratives le concernant, sont rédigées dans une langue autre que celle de la procédure."
+      ],
+      "abstractNL": [
+        "Wanneer een krachtens art. 27, derde lid, Vreemdelingenwet, van zijn vrijheid beroofde vreemdeling beroep instelt en in hoger beroep voor de kamer van inbeschuldigingstelling verschijnt, wordt de wettigheid van haar beslissing niet aangetast door de omstandigheid dat stukken van het administratief dossier, die, enerzijds, niet voor die vreemdeling waren bestemd en, anderzijds, niets uitstaande hebben met de administratieve beslissingen die op hem betrekking hadden, in een andere taal dan de taal van de rechtspleging zijn gesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980929.10": {
+      "court": "CASS",
+      "date": "1998-09-29",
+      "roleNumber": "P981189F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision de privation de liberté d'un étranger, rédigée par le délégué du ministre de l'Intérieur dans une langue nationale autre que celle dont l'intéressé a fait usage."
+      ],
+      "abstractNL": [
+        "De beslissing waarbij een vreemdeling van zijn vrijheid wordt benomen, is onwettig, wanneer zij door de afgevaardigde van de Minister van Binnenlandse Zaken in een andere nationale taal is opgemaakt dan die, waarvan de betrokkene gebruik heeft gemaakt."
+      ]
     }
   },
   "42": {
@@ -396,6 +470,48 @@
         "Conformément à l'article 56, alinéa 1er, des lois sur l'emploi des langues en matière administrative, coordonnées par arrêté royal du 18 juillet 1966, les arrêtés royaux et ministériels sont, en règle, publiés intégralement par la voie du Moniteur belge; ils peuvent néanmoins n'être publiés que par extrait ou ne faire l'objet que d'une simple mention au Moniteur belge, lorsqu'ils n'intéressent pas la généralité des citoyens. Par arrêté intéressant la généralité des citoyens, au sens de cette dernière disposition légale, il faut entendre l'arrêté qui intéresse toute une catégorie de citoyens se trouvant dans les mêmes conditions de fait. Il s'ensuit que l'arrêté royal du 30 novembre 1964, qui n'a fait l'objet que d'une simple mention au Moniteur belge, bien qu'il intéresse la généralité des citoyens, n'a pas acquis force obligatoire dans le Royaume."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2014:ARR.20141203.5": {
+      "court": "CASS",
+      "date": "2014-12-03",
+      "roleNumber": "P.14.0429.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/12/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si un arrêté royal doit être publié lorsqu'il crée des obligations dans le chef de la généralité des citoyens, il peut ne pas être publié lorsqu'il n'intéresse pas la généralité de ceux-ci et que sa publicité ne présente aucun caractère d'intérêt public."
+      ],
+      "abstractNL": [
+        "Hoewel een koninklijk besluit moet worden bekendgemaakt wanneer het ten aanzien van de overgrote meerderheid van de burgers verplichtingen doet ontstaan, mag van de bekendmaking worden afgezien wanneer het de overgrote meerderheid van de burgers niet aanbelangt en de bekendmaking ervan geen openbaar nut heeft."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100610.8": {
+      "court": "CASS",
+      "date": "2010-06-10",
+      "roleNumber": "F.09.0014.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/10/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Un arrêté qui vise le fonctionnement interne d'un service public et ne formule pas d'obligations dans le chef des justiciables ne présente pas d'utilité publique de sorte que sa publication au Moniteur belge peut être omise."
+      ],
+      "abstractNL": [
+        "Een besluit dat de inwendige werking van een openbare dienst beoogt en geen plichten formuleert in hoofde van de rechtsonderhorigen, heeft geen openbaar nut zodat van de publicatie ervan in het Belgisch Staatsblad mag worden afgezien (1). (1) Zie de conclusie van het O.M."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080616.3": {
+      "court": "CASS",
+      "date": "2008-06-16",
+      "roleNumber": "S.07.0101.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Un règlement d'ordre intérieur qui ne fixe ni droits ni obligations dans le chef des justiciables n'est en principe pas un arrêté intéressant la généralité des citoyens au sens de l'article 56, § 1er, alinéa 4, des lois sur l'emploi des langues en matière administrative, coordonnées par l'arrêté royal du 18 juillet 1966, un tel arrêté étant un arrêté qui intéresse toute une catégorie de citoyens se trouvant dans les mêmes conditions de fait (1). (1) Voir Cass., 19 mai 1987, RG 793, Pas., 1987, n° 552."
+      ],
+      "abstractNL": [
+        "Een besluit van inwendige orde dat geen rechten of plichten formuleert in hoofde van de rechtsonderhorigen, is in beginsel geen besluit dat de meerderheid van de burgers aanbelangt in de zin van artikel 56, § 1, vierde lid, van het K.B. van 18 juli 1966; nu hieronder moet worden verstaan, een besluit dat een hele categorie van in dezelfde feitelijke omstandigheden verkerende burgers betreft (1). (1) Zie Cass., 19 mei 1987, AR nr 793, A.C., 1986-1987, nr 552."
+      ]
     }
   },
   "58": {

@@ -27,6 +27,22 @@
       ]
     }
   },
+  "80": {
+    "ECLI:BE:CASS:2015:ARR.20150304.2": {
+      "court": "CASS",
+      "date": "2015-03-04",
+      "roleNumber": "P.14.1796.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/03/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'avis du procureur du Roi, préalable à la désignation d'un juge effectif pour remplir les fonction de juge d'instruction si les nécessités du service le justifient, permet d'éclairer le président du tribunal sur l'opportunité de cette désignation et sur le choix d'un magistrat; cet avis ne lie pas le président (1). (1) Doc. parl., Ch., sess. 1995-1996, n° 263/2, p. 2; Doc. parl., Ch., sess. 1995-1996, n° 263/4, p. 4 et 5."
+      ],
+      "abstractNL": [
+        "Het advies van de procureur des Konings, dat aan de aanwijzing van een werkend rechter om het ambt van onderzoeksrechter te vervullen voorafgaat indien de behoeften van de dienst dit rechtvaardigen, licht de voorzitter van de rechtbank in over de wenselijkheid om een onderzoeksrechter aan te wijzen en over de keuze van een magistraat; dat advies is voor de voorzitter niet bindend (1). (1) Parl.st.Kamer, zitting 1995-1996, nr. 263/2, p. 2; Parl.st.Kamer, zitting 1995-1996, nr. 263/4, p. 4 en 5. 1 R."
+      ]
+    }
+  },
   "87": {
     "ECLI:BE:CASS:2025:ARR.20250902.2N.13": {
       "court": "CASS",
@@ -53,6 +69,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Uit de artikelen 76, § 2, tweede lid, 78, vijfde lid, 92, § 1, eerste lid en § 1/1 en 578, 78°, Gerechtelijk Wetboek volgt dat van een zaak die de arbeidsreglementering betreft in hoger beroep kennis moet worden genomen door de gespecialiseerde kamer, die moet zijn samengesteld uit twee rechters in de rechtbank van eerste aanleg en een rechter in de arbeidsrechtbank."
+      ]
+    }
+  },
+  "101": {
+    "ECLI:BE:CASS:2018:ARR.20180911.2": {
+      "court": "CASS",
+      "date": "2018-09-11",
+      "roleNumber": "P.17.1311.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2018/09/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une prévention de faux concerne un document autorisant le remboursement de prestations de santé, visées par la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, la chambre de la cour d'appel qui statue sur l'action publique doit être composée de deux conseillers à la cour d'appel et d'un conseiller à la cour du travail (1). (1) Voir Cass. 20 décembre 2016, RG P.15.1538.N, Pas. 2016, n° 738."
+      ],
+      "abstractNL": [
+        "Wanneer een telastlegging wegens valsheid betrekking heeft op een document dat de terugbetaling toelaat van in de ZIV-Wet bedoelde geneeskundige verstrekkingen, moet de kamer van het hof van beroep die uitspraak doet over de strafvordering, samengesteld zijn uit twee raadsheren in het hof van beroep en uit één raadsheer in het arbeidshof (1). (1) Zie: Cass. 20 december 2016, AR P.15.1538.N, AC 2016, nr. 738."
       ]
     }
   },
@@ -128,6 +160,38 @@
       ]
     }
   },
+  "440": {
+    "ECLI:BE:CASS:2017:ARR.20170904.2": {
+      "court": "CASS",
+      "date": "2017-09-04",
+      "roleNumber": "C.16.0542.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/09/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 1356, alinéa 1er, du Code civil et 440, alinéa 2, et 850 du Code judiciaire que, à défaut de contestation de la partie à laquelle l'aveu est opposé, le juge ne doit pas exiger la production du mandat spécial conféré à son avocat pour retenir l'existence d'un tel aveu."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 1356, eerste lid, Burgerlijk Wetboek en 440, tweede lid, en 850 Gerechtelijk Wetboek volgt dat de rechter, bij gebrek aan betwisting door de partij aan wie de bekentenis wordt tegengeworpen, geen voorlegging moet eisen van de aan zijn advocaat verleende bijzondere lastgeving om rekening te houden met het bestaan van een dergelijke bekentenis."
+      ]
+    }
+  },
+  "460": {
+    "ECLI:BE:CASS:2014:ARR.20140530.5": {
+      "court": "CASS",
+      "date": "2014-05-30",
+      "roleNumber": "D.13.0029.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/05/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation a le pouvoir de contrôler s'il ressort des énonciations de la sentence attaquée que le conseil de discipline d'appel a prononcé une sanction disciplinaire manifestement disproportionnée, en violation des articles 460, alinéas 1er et 2, et 464 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "Het Hof is bevoegd om na te gaan of uit de vermeldingen van de bestreden beslissing blijkt dat de tuchtraad van beroep een kennelijk onevenredige tuchtstraf heeft uitgesproken, met schending van de artikelen 460, eerste en tweede lid, en 464 van het Gerechtelijk Wetboek."
+      ]
+    }
+  },
   "463": {
     "ECLI:BE:CASS:2025:ARR.20250911.1N.3": {
       "court": "CASS",
@@ -140,6 +204,38 @@
       "abstractFR": null,
       "abstractNL": [
         "Het in artikel 463, vierde lid, Gerechtelijk Wetboek bedoelde tegenberoep is niet ontvankelijk wanneer het hoofdberoep laattijdig is; het tegenberoep is geen zelfstandig principaal hoger beroep dat het lot van het laattijdig ingestelde hoger beroep niet volgt."
+      ]
+    }
+  },
+  "464": {
+    "ECLI:BE:CASS:2014:ARR.20140530.5": {
+      "court": "CASS",
+      "date": "2014-05-30",
+      "roleNumber": "D.13.0029.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/05/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation a le pouvoir de contrôler s'il ressort des énonciations de la sentence attaquée que le conseil de discipline d'appel a prononcé une sanction disciplinaire manifestement disproportionnée, en violation des articles 460, alinéas 1er et 2, et 464 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "Het Hof is bevoegd om na te gaan of uit de vermeldingen van de bestreden beslissing blijkt dat de tuchtraad van beroep een kennelijk onevenredige tuchtstraf heeft uitgesproken, met schending van de artikelen 460, eerste en tweede lid, en 464 van het Gerechtelijk Wetboek."
+      ]
+    }
+  },
+  "478": {
+    "ECLI:BE:CASS:2014:ARR.20141215.4": {
+      "court": "CASS",
+      "date": "2014-12-15",
+      "roleNumber": "S.13.0069.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/12/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il se déduit de l'arrêt de la Cour constitutionnelle n° 160/2012 du 20 décembre 2012 qu'en imposant à la partie qui entend déférer à la Cour une décision rejetant son recours contre une amende administrative en matière sociale d'être représentée par un avocat à la Cour de Cassation, les articles 478, alinéa 1er et 1080 du Code judiciaire ne violent pas les articles 10 et 11 de la Constitution (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Uit arrest nr. 160/2012 van 20 december 2012 van het Grondwettelijk Hof kan worden afgeleid dat de artikelen 478, eerste lid, en 1080 van het Gerechtelijk Wetboek de artikelen 10 en 11 van de Grondwet niet schenden wanneer ze de partij die een beslissing tot verwerping van haar beroep tegen een administratieve geldboete in sociale zaken naar het Hof wil verwijzen, verplichten zich door een advocaat bij het Hof van Cassatie te laten vertegenwoordigen/bijstaan (1). (1) Zie de concl. OM in Pas. 2014, nr. ..."
       ]
     }
   },
@@ -289,6 +385,20 @@
         "L'article 138bis, § 1er du Code judiciaire n'altère pas le pouvoir d'appréciation du ministère public."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2015:ARR.20150206.4": {
+      "court": "CASS",
+      "date": "2015-02-06",
+      "roleNumber": "C.14.0181.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2015/02/06/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas de l'article 138bis, § 1er, du Code judiciaire que l'action d'office appartienne au ministère public chaque fois qu'une disposition d'ordre public ou concernant l'ordre public a été violée; les exigences de l'ordre public qui, au sens de cette disposition, peuvent justifier pareille intervention supposent que l'ordre public soit mis en péril par un état de choses auquel il importe de remédier (1); cela n'est pas le cas lorsque l'arrêt justifie sa décision par le motif critiqué dans le pourvoi en cassation suivant lequel une erreur matérielle de nature linguistique s'est glissée dans l'orthographe du nom de famille dans l'acte de naissance. (1) Cass. 7 février 2013, RG C.12.0165.F - C.12.0229.F, Pas. 2014, n° 92 et concl. de M. Genicot, avocat général."
+      ],
+      "abstractNL": [
+        "Uit artikel 138bis, §1, Gerechtelijk Wetboek volgt niet dat het openbaar ministerie ambtshalve een vordering kan instellen telkens als een bepaling van openbare orde of betreffende de openbare orde geschonden werd; de vereisten van de openbare orde die, in de zin van die bepaling, een dergelijk optreden kunnen verantwoorden, veronderstellen dat de openbare orde in gevaar wordt gebracht door een toestand die moet worden verholpen (1); dit is niet het geval wanneer het arrest zijn beslissing verantwoordt met de in het cassatieberoep bekritiseerde reden dat er in de schrijfwijze van de familienaam in de geboorteakte een materiële vergissing van linguïstische aard is gebeurd. (1) Cass. 7 februari 2013, AR C.12.0165.F - C.12.0229.F, AC 2013, nr. 92, met concl. advocaat-generaal Genicot."
+      ]
     }
   },
   "156/1": {
@@ -327,6 +437,22 @@
         "Overeenkomstig artikel 555/15 Gerechtelijk Wetboek moet de gerechtsdeskundige die is aangesteld zonder in het nationaal register van gerechtsdeskundigen te zijn ingeschreven, op straffe van nietigheid zijn verslag ondertekenen, waarbij hij zijn handtekening laat voorafgaan door de volgende schriftelijke eed: “Ik zweer dat ik mijn opdracht in eer en geweten, nauwgezet en eerlijk vervuld heb.”; uit die tekst blijkt een nauwe band tussen de handtekening en de eed van de deskundige voor wat betreft de regelmatigheid van het deskundigenverslag als bewijs; hieruit volgt dat artikel 407 Wetboek van Strafvordering over het toedekken van een onregelmatigheid betreffende de eed van onder meer deskundigen als gevolg van een rechterlijke beslissing op tegenspraak over een geschilpunt van toepassing is op de nietigheid die voortvloeit uit het niet naleven van de in artikel 555/15 Gerechtelijk Wetboek bepaalde verplichtingen door de gerechtsdeskundige, zowel met betrekking tot de eedaflegging als met betrekking tot de ondertekening van zijn eindverslag (1). (1) Zie concl. OM.",
         "Overeenkomstig artikel 32, eerste streepje, Voorafgaande Titel Wetboek van Strafvordering besluit de strafrechter tot nietigheid van een bewijselement dat is verkregen in strijd met een op straffe van nietigheid voorgeschreven vorm; die bepaling geldt niet voor een deskundigenverslag waarin de eed of de geschreven handtekening van de deskundige ontbreekt, voor zover de nietigheid die artikel 555/15 Gerechtelijk Wetboek daarvoor telkens bepaalt, in de loop van de strafprocedure is opgeheven; evenmin vereist het in artikel 6.1 EVRM gewaarborgde recht op een eerlijk proces dat in het geval van het ontbreken van de eed of de handtekening van de deskundige op diens verslag, dat verslag steeds nietig wordt verklaard of uit het bewijs wordt geweerd (1). (1) Zie concl. OM.",
         "De artikelen 978, § 1 en, § 2, eerste lid, Gerechtelijk Wetboek over het eindverslag van de gerechtsdeskundige en artikel 982 Gerechtelijk Wetboek over het gezamenlijk advies van het college van gerechtsdeskundigen zijn niet voorgeschreven op straffe van nietigheid, behoudens voor wat betreft de in artikel 978, § 1, tweede lid, Gerechtelijk Wetboek bepaalde verplichting van de deskundige om zijn verslag te ondertekenen; die verplichting heeft hier evenwel geen ruimere draagwijdte dan deze die is bepaald in artikel 555/15 Gerechtelijk Wetboek; meer bepaald vereist artikel 978, § 1, tweede lid, Gerechtelijk Wetboek, samengenomen met de artikelen 555/11, § 3, eerste lid, en 555/15 Gerechtelijk Wetboek, niet op straffe van nietigheid dat het verslag wordt ondertekend door een deskundige die is opgenomen in het nationaal register voor gerechtsdeskundigen (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "446ter": {
+    "ECLI:BE:CASS:2016:ARR.20160324.14": {
+      "court": "CASS",
+      "date": "2016-03-24",
+      "roleNumber": "C.15.0196.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/03/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le conseil de l'Ordre remplit une fonction d'intérêt général et apprécie si les honoraires ont été fixés avec une juste modération, de sorte qu'il ne doit tenir compte ni de la décision unilatérale de l'avocat ni d'accords ou de conventions éventuels entre l'avocat et son client, quel que soit le moment où cette décision unilatérale a été prise, où ces accords ou conventions ont été conclus et exécutés, sans préjudice du droit de la partie de s'adresser à la justice ou à un arbitre (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De raad van de Orde vervult een functie van algemeen belang en beoordeelt of het ereloon is vastgesteld met billijke gematigdheid, zodat hij geen rekening dient te houden noch met de eenzijdige beslissing van de advocaat, noch met eventuele afspraken of overeenkomsten tussen de advocaat en zijn cliënt, ongeacht het tijdstip waarop deze eenzijdige beslissing werd genomen, deze afspraken werden gemaakt of deze overeenkomsten werden gesloten en uitgevoerd, onverminderd het recht van de partij om zich tot het gerecht of een scheidsrechter te richten (1). (1) Zie concl. OM."
       ]
     }
   }
