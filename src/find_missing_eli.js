@@ -21,7 +21,7 @@ import readline from 'node:readline';
 import * as cheerio from 'cheerio';
 import { logInfo, logSuccess, logWarn, logError, timestamp } from './logger.js';
 import {
-  loadMissingEliFile, saveMissingEliFile, flushMissingEli, loadLogFile,
+  loadMissingEliFile, saveMissingEliFile, loadLogFile,
   loadDataFile, saveDataFile, loadSettings, saveSettings,
 } from './storage.js';
 import {
@@ -538,22 +538,43 @@ async function fetchEliFromArticlePage(numac) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       const response = await fetch(url);
-      if (!response.ok) return null;
+      if (!response.ok) return buildFallbackEli(numac);
       const html = await response.text();
       const $ = cheerio.load(html);
-      const eli = $('a#link-text').attr('href') || null;
+      // Primary selector: standard ELI/cgi_loi link present on most article pages
+      let eli = $('a#link-text').attr('href') || null;
+      // Fallback selectors: some document types (e.g. old TRAITE) omit #link-text
+      // but expose a cgi_loi link via other anchors.
+      if (!eli) {
+        eli = $('a.links-link[href*="cgi_loi"]').first().attr('href') || null;
+      }
+      if (!eli) {
+        eli = $('a[href*="justel"]').first().attr('href') || null;
+      }
       await sleep(REQUEST_DELAY_MS);
-      return eli;
+      // If the page exists but carries no ELI link at all (e.g. very old treaties),
+      // construct a stable cgi_loi URL from the numac so eliToFilename can derive
+      // a correct unique filename (cgi_loi_loi_{numac}.json).
+      return eli || buildFallbackEli(numac);
     } catch (err) {
       if (attempt < maxRetries) {
         const delay = REQUEST_DELAY_MS * attempt;
         logInfo(chalk.gray(`    ↻ ELI fetch attempt ${attempt} failed (${err.message}), retrying in ${delay}ms...`));
         await sleep(delay);
       } else {
-        return null;
+        return buildFallbackEli(numac);
       }
     }
   }
+}
+
+/**
+ * Construct a cgi_loi ELI from a numac code.
+ * Used when the ejustice article page carries no #link-text ELI element.
+ * eliToFilename() will convert this to "cgi_loi_loi_{numac}.json".
+ */
+function buildFallbackEli(numac) {
+  return `https://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn=${encodeURIComponent(numac)}`;
 }
 
 /** Cached wrapper – no extra sleep on a cache hit. */
@@ -754,12 +775,8 @@ async function promptUserChoice(candidates, key, aiSuggestion = null) {
 
   // Empty input → accept AI suggestion as default
   if (resp === '' && aiSuggestion) {
-    try {
-      const eli = await cachedFetchEli(aiSuggestion.numac);
-      return eli ? { eli } : null;
-    } catch {
-      return null;
-    }
+    const eli = await resolveNumacToEli(aiSuggestion.numac);
+    return eli ? { eli } : null;
   }
 
   if (respLc === 's' || respLc === 'skip') return null;
@@ -768,9 +785,9 @@ async function promptUserChoice(candidates, key, aiSuggestion = null) {
     const custom = await promptUserFn(chalk.yellow('  Enter ELI or numac: ') + chalk.bold('> '));
     const trimmed = custom.trim();
     if (!trimmed) return null;
-    // If it looks like a numac, fetch the ELI for it
+    // If it looks like a numac, resolve it (with fallback to manual entry)
     if (/^[A-Za-z0-9]+$/.test(trimmed) && !trimmed.startsWith('http')) {
-      const eli = await cachedFetchEli(trimmed);
+      const eli = await resolveNumacToEli(trimmed);
       return eli ? { eli } : null;
     }
     return { eli: trimmed };
@@ -778,14 +795,28 @@ async function promptUserChoice(candidates, key, aiSuggestion = null) {
 
   const idx = parseInt(resp, 10);
   if (Number.isFinite(idx) && idx >= 1 && idx <= candidates.length) {
-    try {
-      const eli = await cachedFetchEli(candidates[idx - 1].result.numac);
-      return eli ? { eli } : null;
-    } catch {
-      return null;
-    }
+    const eli = await resolveNumacToEli(candidates[idx - 1].result.numac);
+    return eli ? { eli } : null;
   }
   return null;
+}
+
+/**
+ * Resolve a numac to its ELI URL.  fetchEliFromArticlePage now always returns
+ * a non-null value (falling back to a constructed cgi_loi URL when the page
+ * carries no #link-text element).  This wrapper only falls through to the
+ * manual-entry prompt on a true network failure (null return).
+ */
+async function resolveNumacToEli(numac) {
+  const eli = await cachedFetchEli(numac);
+  if (eli) return eli;
+
+  // True network failure — let the user supply the ELI manually.
+  const pageUrl = `${EJUSTICE_ARTICLE_URL}?language=fr&numac_search=${encodeURIComponent(numac)}`;
+  logWarn(`  ⚠ Network error fetching ELI for numac ${numac}.`);
+  logWarn(`    Open to find it manually: ${chalk.cyan(pageUrl)}`);
+  const custom = await promptUserFn(chalk.yellow('  Paste ELI URL (or press Enter to skip): ') + chalk.bold('> '));
+  return custom.trim() || null;
 }
 
 async function resolveFromEjustice(key, article) {
@@ -1115,7 +1146,6 @@ export async function findMissingEli() {
             if (primaryEli) entry.eli = primaryEli;
             entry.elements = remainingElements;
             saveMissingEliFile(missingEli);
-            flushMissingEli();
             resolvedCount++;
           } catch (err) {
             logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);
@@ -1375,7 +1405,6 @@ export async function findMissingEli() {
           entry.elements = [];
         }
         saveMissingEliFile(missingEli);
-        flushMissingEli();
         resolvedCount++;
       } catch (err) {
         logError(`  ✗ Failed to apply change for "${key}": ${err.message}`);

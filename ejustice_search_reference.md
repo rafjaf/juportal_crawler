@@ -83,17 +83,47 @@ Each page contains approximately 20 results.
 
 ### From Article Page
 
-Each result links to an `article.pl` page containing an ELI link:
-```html
-<a id="link-text" class="links-link" href="https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101052/justel">
-  https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101052/justel
-</a>
+Each search result links to an `article.pl` page. The ELI is extracted from that
+page using a cascade of selectors, tried in order:
+
+1. **`<a id="link-text">`** — the standard selector, present on most modern documents:
+   ```html
+   <a id="link-text" class="links-link" href="https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101052/justel">
+     https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101052/justel
+   </a>
+   ```
+
+2. **`<a class="links-link" href*="cgi_loi">`** — fallback for documents whose article
+   page omits `#link-text` but does expose a `cgi_loi` link.
+
+3. **`<a href*="justel">`** — secondary fallback for any anchor pointing to a justel URL.
+
+4. **Constructed `cgi_loi` URL** — if the page is reachable but none of the above
+   selectors match (common for old TRAITE and other pre-ELI-scheme documents), a
+   stable URL is synthesised from the numac:
+   ```
+   https://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn={numac}
+   ```
+   This format is understood by `eliToFilename()` (which looks for `table_name` + `cn`
+   query parameters) and produces a unique, collision-free filename
+   `cgi_loi_loi_{numac}.json`.
+
+The article page is fetched with:
+```
+GET article.pl?language=fr&numac_search={numac}&page=1&lg_txt=F&caller=list
 ```
 
-### ELI Format
+### ELI Formats
 
-- Full ELI: `https://www.ejustice.just.fgov.be/eli/{type}/{yyyy}/{mm}/{dd}/{numac}/justel`
-- cgi_loi format: `https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name={type}&cn={numac}`
+| Format       | Example |
+|--------------|---------|
+| Full ELI     | `https://www.ejustice.just.fgov.be/eli/{type}/{yyyy}/{mm}/{dd}/{numac}/justel` |
+| cgi_loi (change_lg) | `https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name={type}&cn={numac}` |
+| cgi_loi (loi_a1) | `https://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn={numac}` |
+
+`eliToFilename()` handles all three formats:
+- Full ELI → `eli_{type}_{yyyy}_{mm}_{dd}_{numac}_justel.json`
+- cgi_loi (either variant) → `cgi_loi_{table_name}_{cn}.json`
 
 ### Type Mapping (dt → ELI type)
 
@@ -110,7 +140,9 @@ Each result links to an `article.pl` page containing an ELI link:
 | ORDONNANCE (BRUXELLES) | ordonnance    | loi        |
 | TRAITE                 | traite        | loi        |
 
-Note: The actual ELI type is best extracted from the article.pl page's `#link-text` element.
+Note: The actual ELI type is best extracted from the article page. Old TRAITE and
+other pre-ELI documents (roughly pre-1990s) often carry no `/eli/` URL at all; the
+constructed `loi_a1.pl` fallback is used for those.
 
 ## Article Range Parsing for Codes
 
