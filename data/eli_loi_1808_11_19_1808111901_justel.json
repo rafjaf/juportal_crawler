@@ -12607,13 +12607,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_302.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_302.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/15/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/15/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_9.xml"
       ],
       "abstractFR": [
         "L'article 204 du Code d'instruction criminelle ne prive pas le prévenu du droit d'entreprendre l'ensemble du dispositif pénal qui le concerne, quitte à mieux ajuster l'objet de son recours en le limitant à l'audience comme l'article 206, alinéa 6, du code précité le permet; de la seule circonstance qu'un appelant indique que ses griefs concernent toutes les préventions du chef desquelles il a été condamné, il ne peut être déduit que les griefs ne sont pas précis ni, partant, que la saisine de la juridiction d'appel soit impossible à définir.",
         "Lorsqu'il apparaît, des pièces de la procédure, que l'obligation de déposer le formulaire de griefs a été respectée mais que la pièce, pour un motif indépendant de la volonté de l'appelant, ne figure pas au dossier, le juge ne peut le déclarer déchu de son recours en application de l'article 204 du Code d'instruction criminelle, à peine de le priver indûment du droit d'accès à un tribunal; en pareil cas, il appartient à la juridiction d'appel de vérifier s'il lui est possible de déterminer sa saisine sur la base des indications figurant dans l'acte d'appel."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 204 Wetboek van Strafvordering ontzegt de beklaagde het recht niet om het strafrechtelijk dictum dat op hemzelf betrekking heeft in zijn geheel aan te vechten, door desnoods het voorwerp van zijn beroep op de rechtszitting te beperken, zoals artikel 206, zesde lid, Wetboek van Strafvordering dat toestaat; uit de omstandigheid dat een appellant vermeldt dat zijn grieven alle telastleggingen betreffen waarvoor hij werd veroordeeld, kan op zich niet worden afgeleid dat de grieven onnauwkeurig zijn of, bijgevolg, dat onmogelijk kan worden bepaald in welke mate de zaak bij het appelgerecht aanhangig is gemaakt.",
+        "Wanneer uit de rechtspleging blijkt dat de verplichting om het grievenformulier neer te leggen is nageleefd, maar dat het stuk, om een reden buiten de wil van de appellant, niet in het dossier voorkomt, kan de rechter hem met toepassing van artikel 204 Wetboek van Strafvordering niet van zijn beroep vervallen verklaren, met het risico dat hij hem aldus ten onrechte het recht van toegang tot de rechter zou ontzeggen; in dergelijk geval dient het appelgerecht na te gaan of het op grond van de vermeldingen in de akte van hoger beroep kan bepalen in welke mate de zaak bij hem aanhangig is gemaakt."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230228.2N.3": {
       "court": "CASS",

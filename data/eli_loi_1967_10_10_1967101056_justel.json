@@ -760,12 +760,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_373.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_373.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_12.xml"
       ],
       "abstractFR": [
         "Il y a célérité au sens de cette disposition lorsque le créancier peut sérieusement redouter la mise en péril du recouvrement de sa créance en raison de circonstances faisant apparaître que la solvabilité du débiteur est menacée (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Er is sprake van spoed in de zin van die bepaling wanneer de schuldeiser ernstige gronden heeft om te vrezen dat de inning van zijn schuldvordering in het gedrang komt omdat uit omstandigheden blijkt dat de solvabiliteit van de schuldenaar gevaar loopt (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2010:ARR.20101223.3": {
       "court": "CASS",
@@ -912,13 +915,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_373.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_373.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_12.xml"
       ],
       "abstractFR": [
         "La transcription d'une saisie-exécution d'un immeuble au profit d'un créancier ne fait pas obstacle à ce que le juge autorise, pour une autre cause, la saisie conservatoire de cet immeuble par ce même créancier (1). (1) Voir les concl. du MP.",
         "L'indisponibilité affectant un immeuble en raison de la saisie-exécution pratiquée par un créancier pour recouvrer une créance n'exclut pas qu'il puisse justifier de la célérité requise pour saisir conservatoirement cet immeuble pour une autre créance (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De overschrijving van een uitvoerend beslag op een onroerend goed in het voordeel van een schuldeiser verhindert niet dat de rechter diezelfde schuldeiser, om een andere oorzaak, toestaat op dat onroerend goed bewarend beslag te leggen (1). (1) Zie concl. OM.",
+        "De onbeschikbaarheid van een onroerend goed wegens het uitvoerend beslag dat door een schuldeiser met het oog op de inning van een schuldvordering werd gelegd, sluit niet uit dat hij van de vereiste spoed kan doen blijken om, voor een andere schuldvordering, op dat onroerend goed bewarend beslag te leggen (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1436": {
@@ -2793,13 +2800,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_373.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_373.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_12.xml"
       ],
       "abstractFR": [
         "La transcription d'une saisie-exécution d'un immeuble au profit d'un créancier ne fait pas obstacle à ce que le juge autorise, pour une autre cause, la saisie conservatoire de cet immeuble par ce même créancier (1). (1) Voir les concl. du MP.",
         "L'indisponibilité affectant un immeuble en raison de la saisie-exécution pratiquée par un créancier pour recouvrer une créance n'exclut pas qu'il puisse justifier de la célérité requise pour saisir conservatoirement cet immeuble pour une autre créance (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De overschrijving van een uitvoerend beslag op een onroerend goed in het voordeel van een schuldeiser verhindert niet dat de rechter diezelfde schuldeiser, om een andere oorzaak, toestaat op dat onroerend goed bewarend beslag te leggen (1). (1) Zie concl. OM.",
+        "De onbeschikbaarheid van een onroerend goed wegens het uitvoerend beslag dat door een schuldeiser met het oog op de inning van een schuldvordering werd gelegd, sluit niet uit dat hij van de vereiste spoed kan doen blijken om, voor een andere schuldvordering, op dat onroerend goed bewarend beslag te leggen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2009:ARR.20090130.6": {
       "court": "CASS",

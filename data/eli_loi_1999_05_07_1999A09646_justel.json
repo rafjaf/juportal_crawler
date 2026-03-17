@@ -1899,12 +1899,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/10/sitemap_1.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_372.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_372.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/02/16/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_11.xml"
       ],
       "abstractFR": [
         "L'implication d'une personne dans la faillite d'une société entraînant des dettes de cotisations sociales se déduit de sa seule qualité d'administrateur ou de gérant, de droit ou de fait, de cette société, quel que soit son rôle dans la survenance de la situation d'insolvabilité ou des dettes de cotisations sociales (1). (1) L'article 530, § 2, alinéa 1er figure aujourd'hui dans l'article XX.226 du Code de droit économique."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De betrokkenheid van een persoon in een faillissement met RSZ-schulden wordt louter afgeleid uit zijn hoedanigheid van bestuurder of zaakvoerder, de iure of de facto, ongeacht zijn rol in het ontstaan van de toestand van onvermogen of van de RSZ-schulden (1). (1) De bepaling van artikel 530, § 2, eerste lid, is thans opgenomen in artikel XX.226 Wetboek Economisch Recht."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200618.1N.15": {
       "court": "CASS",
