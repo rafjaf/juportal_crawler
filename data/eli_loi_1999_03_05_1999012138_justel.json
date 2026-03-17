@@ -1,0 +1,18 @@
+{
+  "16": {
+    "ECLI:BE:CASS:2000:ARR.20001127.7": {
+      "court": "CASS",
+      "date": "2000-11-27",
+      "roleNumber": "S000076N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il est tenu compte d'une seule unité technique d'exploitation entre plusieurs entités juridiques lorsque l'intéressé qui invoque la présomption légale selon laquelle plusieurs entités juridiques forment une seule unité technique d'exploitation établit l'existence d'un des critères économiques prévus et de seulement quelques éléments en matière de cohésion sociale entre les différentes entités."
+      ],
+      "abstractNL": [
+        "Eén technische bedrijfseenheid tussen verschillende juridische entiteiten, komt in aanmerking, wanneer de belanghebbende die een beroep doet op het vermoeden uit de wet dat meerdere juridische entiteiten één technische bedrijfseenheid vormen, het bewijs levert van het bestaan van één van de bepaalde economische criteria en van slechts enkele elementen inzake de sociale samenhang tussen de verschillende entiteiten."
+      ]
+    }
+  }
+}

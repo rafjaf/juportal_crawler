@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020325.14": {
+      "court": "CASS",
+      "date": "2002-03-25",
+      "roleNumber": "S010091F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/03/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article unique de la loi du 13 décembre 1976 portant approbation des accords bilatéraux relatifs à l'emploi en Belgique de travailleurs étrangers ne déroge pas au principe constitutionnel d'assimilation entre Belges et étrangers et n'habilite pas le Roi à y déroger (1)."
+      ],
+      "abstractNL": [
+        "Het enige artikel van de wet van 13 december 1976 houdende goedkeuring van de bilaterale akkoorden betreffende de tewerkstelling in België van buitenlandse werknemers wijkt niet af van het grondwettelijk beginsel van de gelijkstelling van Belgen en vreemdelingen en machtigt de Koning niet om daarvan af te wijken (1)."
+      ]
+    }
+  }
+}

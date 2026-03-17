@@ -1,0 +1,32 @@
+{
+  "5": {
+    "ECLI:BE:CASS:2005:ARR.20051124.5": {
+      "court": "CASS",
+      "date": "2005-11-24",
+      "roleNumber": "C040015N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/11/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il est satisfait à la condition qu'il ne peut être fait appel au cautionnement du commissionnaire de transport que sur production, par lettre recommandée à la poste, soit de l'accord exprès du titulaire de la licence relatif à l'existence et à l'exigibilité de la créance invoquée, soit d'une décision judiciaire exécutoire en Belgique à charge du titulaire de la licence, lorsque la lettre envoyée par recommandé à la caution fait référence à cet accord ou à cette décision judiciaire, joints à une autre lettre recommandée (1). (1) Voir les conclusions du ministère public publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Aan de voorwaarde dat de borgtocht van de vervoercommissionair alleen kan worden aangesproken na overlegging, bij ter post aangetekende brief, van de uitdrukkelijke instemming van de vergunninghouder met betrekking tot het bestaan en de opeisbaarheid van de aangebrachte schuldvordering, ofwel van een ten laste van de vergunninghouder in België uitvoerbare rechterlijke beslissing, is voldaan wanneer in een aangetekende brief aan de borg wordt verwezen naar die instemming of naar die beslissing, die wordt meegedeeld met een andere aangetekende brief (1). (1) Zie de conclusie O.M."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971205.7": {
+      "court": "CASS",
+      "date": "1997-12-05",
+      "roleNumber": "C960393F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/05/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, alinéa 5, alinéa 2, de l'arrêté royal du 18 juillet 1975 créant la licence de commissionnaire de transport, modifié par l'arrêté royal du 16 novembre 1990, qui dispose que les titulaires des créances visées à l'alinéa 1er dudit article peuvent faire appel au cautionnement, sur production, par lettre recommandée à la poste, de l'accord exprès du titulaire de la licence relatif à l'existence et à l'exigibilité de la créance invoquée, impose que cet accord résulte d'un écrit."
+      ],
+      "abstractNL": [
+        "Art. 5, § 5, tweede lid, KB 18 juli 1975 tot instelling van de vergunning van vervoercommissionair, gewijzigd bij KB van 16 november 1990, dat bepaalt dat de borgtocht door de houders van schuldvorderingen bedoeld in het eerste lid van dat artikel kan worden aangesproken na overlegging, bij ter post aangetekende brief, van de uitdrukkelijke instemming van de vergunninghouder met betrekking tot het bestaan en de opeisbaarheid van de aangebrachte schuldvordering, vereist dat die instemming uit een geschrift volgt."
+      ]
+    }
+  }
+}

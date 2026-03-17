@@ -14,6 +14,36 @@
       "abstractNL": [
         "Het door de Staat van rechtswege treden in de rechten en vorderingen van de begunstigde ten opzichte van de aansprakelijke derde, geldt voor het geheel der bedragen die, krachtens de Belgische of vreemde wetgeving, verschuldigd zijn als gehele of gedeeltelijke vergoeding van de schade die het personeelslid door toedoen van de aansprakelijke derde, opgelopen heeft."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010219.6": {
+      "court": "CASS",
+      "date": "2001-02-19",
+      "roleNumber": "C990014N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Il peut se déduire de la règle en vertu de laquelle les pouvoirs publics versent à l'agent de l'Etat dont l'absence est due à la faute d'un tiers, son traitement d'activité à titre d'avance sur l'indemnité due par le tiers, que la charge de ces dépenses ne reste pas définitivement à charge des pouvoirs publics (1)."
+      ],
+      "abstractNL": [
+        "Uit de regel krachtens dewelke de overheid aan de ambtenaar, wiens afwezigheid te wijten is aan de schuld van een derde, de activiteitswedde enkel betaalt als voorschot op de door de derde verschuldigde vergoeding, kan afgeleid worden dat de last van deze uitgaven niet definitief voor rekening moet blijven van de overheid (1)."
+      ]
+    }
+  },
+  "185": {
+    "ECLI:BE:CASS:2001:ARR.20010119.7": {
+      "court": "CASS",
+      "date": "2001-01-19",
+      "roleNumber": "C960091NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/19/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La modification de l'article 32 de la loi du 24 mars 1987 par l'article 185 de la loi du 21 décembre 1994, plus spécialement en ce qui concerne les modalités de financement du Fonds de la santé et de la production des animaux a introduit un nouveau fondement justifiant l'imposition et a substitué un nouveau régime d'aides à l'ancien (1)."
+      ],
+      "abstractNL": [
+        "De wijziging van artikel 32 van de wet van 24 maart 1987 door artikel 185 van de wet van 21 december 1994, inzonderheid wat betreft de financieringsmodaliteiten van het Fonds voor de gezondheid en de produktie van de dieren, heeft een nieuwe grondslag ingevoerd voor de heffing en een nieuw stelsel van steun in de plaats gesteld (1)."
+      ]
     }
   }
 }

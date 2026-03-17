@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19890130.4": {
+      "court": "CASS",
+      "date": "1989-01-30",
+      "roleNumber": "6400",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 118bis de l'arrêté royal du 20 décembre 1963, il n'était pas requis que le chômeur fût travailleur domestique dans le dernier emploi précédant sa demande d'admission aux allocations."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 118 bis Werkloosheidsbesluit was niet vereist dat de werkloze dienstbode was in de laatste dienstbetrekking die aan zijn aanvraag om werkloosheidsuitkering voorafging."
+      ]
+    }
+  }
+}

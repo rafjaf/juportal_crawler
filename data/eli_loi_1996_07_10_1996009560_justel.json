@@ -1,0 +1,18 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1998:ARR.19980720.1": {
+      "court": "CASS",
+      "date": "1998-07-20",
+      "roleNumber": "P980805F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/07/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La cour d'assises, lorsqu'elle ne prononce que des peines de réclusion de 10 ans ne peut ordonner l'affichage de son arrêt."
+      ],
+      "abstractNL": [
+        "Wanneer het hof van assisen alleen straffen van 10 jaar opsluiting oplegt, kan het de aanplakking van zijn arrest niet bevelen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "43": {
+    "ECLI:BE:CASS:2007:ARR.20070105.1": {
+      "court": "CASS",
+      "date": "2007-01-05",
+      "roleNumber": "C040436N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un comité d'acquisition, agissant comme le notaire déterminé à l'article 48.1 de la loi du 4 novembre 1969, notifie lors de l'aliénation du bien loué au preneur le contenu de l'acte rédigé sous la condition suspensive du non exercice du droit de préemption et dans lequel seule l'identité de l'acquéreur est laissée vierge, afin de permettre au preneur d'exercer son droit de préemption, la \"lettre recommandée à la poste\" est celle déterminée à l'article 71 de l'arrêté ministériel du 12 janvier 1970 et qui est remise au destinataire après constatation de son identité."
+      ],
+      "abstractNL": [
+        "Wanneer een comité tot aankoop, optredend als de in artikel 48.1 Pachtwet bepaalde notaris, bij verkoop van het in pacht gegeven goed aan de pachter de kennisgeving doet van de inhoud van de akte die is opgesteld onder de opschortende voorwaarde van niet-uitoefening van het recht van voorkoop en waarbij enkel de identiteit van de koper opengelaten wordt, teneinde de pachter de gelegenheid te geven om zijn recht van voorkoop uit te oefenen, is de \"ter post aangetekende brief\", deze bepaald in artikel 71 van het M.B. van 12 januari 1970 en die aan de geadresseerde wordt afgegeven na de vaststelling van zijn identiteit."
+      ]
+    }
+  },
+  "86": {
+    "ECLI:BE:CASS:1973:ARR.19730608.7": {
+      "court": "CASS",
+      "date": "1973-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du délai de trois ans au moins, dans lequel le bailleur ne peut donner un nouveau congé d'un bail à ferme, postérieurement à la notification d'un congé non validé, la date de la notification à prendre en considération pour ce précédent congé, donné par lettre recommandée, n'est pas la date à laquelle la lettre avait été déposée à la poste, mais celle à laquelle le destinataire avait été en mesure de prendre connaissance de la lettre, notamment par la présentation de celle-ci à son domicile. ( Code civil, art. 1776, modifié par la loi du 7 juillet 1951. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van de termijn van ten minste drie jaar, binnen welke de verpachter geen nieuwe opzegging van de pachtovereenkomst na de kennisgeving van een niet geldig verklaarde opzegging kan geven, komt als datum van de kennisgeving van een bij ter post aangetekende brief gedane opzegging in aanmerking, niet de datum waarop de brief op de post werd afgegeven, maar die, waarop de geadresseerde kennis van de brief kon krijgen, inzonderheid door het aanbieden ervan te zijnen huize. ( B.W., art. 1776, gewijzigd bij de wet van 7 juli 1951. )"
+      ]
+    }
+  },
+  "126": {
+    "ECLI:BE:CASS:1996:ARR.19960125.9": {
+      "court": "CASS",
+      "date": "1996-01-25",
+      "roleNumber": "C930424N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un chèque volé ainsi que la carte de garantie y afférente sont présentés aux fins de payement dans les conditions fixées par l'article 142ter, alinéa 1er, de l'arrêté ministériel du 12 janvier 1970 portant réglementation du service postal, la responsabilité de La Poste en cas de payement après opposition est réglée d'une manière spécifique et n'est pas soumise à l'obligation de prudence visée en droit commun."
+      ],
+      "abstractNL": [
+        "Wanneer een gestolen postcheque met de bijhorende waarborgkaart ter betaling wordt aangeboden in de door art. 142ter, alinéa 1, M.B. 12 jan. 1970 bepaalde voorwaarden, is de aansprakelijkheid van de Post bij uitbetaling na verzet specifiek geregeld en niet onderworpen aan de gemeenrechtelijke voorzichtigheidsplicht."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19730608.7": {
+      "court": "CASS",
+      "date": "1973-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/06/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul du délai de trois ans au moins, dans lequel le bailleur ne peut donner un nouveau congé d'un bail à ferme, postérieurement à la notification d'un congé non validé, la date de la notification à prendre en considération pour ce précédent congé, donné par lettre recommandée, n'est pas la date à laquelle la lettre avait été déposée à la poste, mais celle à laquelle le destinataire avait été en mesure de prendre connaissance de la lettre, notamment par la présentation de celle-ci à son domicile. ( Code civil, art. 1776, modifié par la loi du 7 juillet 1951. )"
+      ],
+      "abstractNL": [
+        "Voor de berekening van de termijn van ten minste drie jaar, binnen welke de verpachter geen nieuwe opzegging van de pachtovereenkomst na de kennisgeving van een niet geldig verklaarde opzegging kan geven, komt als datum van de kennisgeving van een bij ter post aangetekende brief gedane opzegging in aanmerking, niet de datum waarop de brief op de post werd afgegeven, maar die, waarop de geadresseerde kennis van de brief kon krijgen, inzonderheid door het aanbieden ervan te zijnen huize. ( B.W., art. 1776, gewijzigd bij de wet van 7 juli 1951. )"
+      ]
+    }
+  }
+}

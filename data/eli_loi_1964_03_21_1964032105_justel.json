@@ -1,0 +1,34 @@
+{
+  "15": {
+    "ECLI:BE:CASS:1982:ARR.19820622.2": {
+      "court": "CASS",
+      "date": "1982-06-22",
+      "roleNumber": "3267",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée la décision qui rejette une cause de justification invoquée par le prévenu, poursuivi pour avoir négligé de se conformer aux prescriptions de l'article 15, 5°, de la loi du 21 mars 1964 sur l'inspection médicale scolaire, et déduite du danger grave et imminent que constitue une injection intradermique, sans avoir vérifié si le médecin responsable de l'équipe d'inspection médicale scolaire a déjà constaté une réaction manifestement positive lors d'une épreuve précédente."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing waarbij een rechtvaardigingsgrond wordt verworpen die was aangevoerd door de beklaagde, vervolgd wegens niet-inachtneming van de voorschriften van art. 15, 5°, wet van 21 maart 1964, op het medisch schooltoezicht, en die hieruit werd afgelegd dat een intradermoinjectie een ernstig en dreigend gevaar vormt, wanneer de rechter niet heeft onderzocht of de verantwoordelijke geneesheer van de equipe voor medisch schooltoezicht reeds een duidelijke positieve reactie heeft vastgesteld bij een vorige proef."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820908.17": {
+      "court": "CASS",
+      "date": "1982-09-08",
+      "roleNumber": "2293",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 12 octobre 1964 réglant la fréquence et les modalités des examens médicaux et fixant les conditions d'exercice de l'inspection médicale scolaire a été pris légalement sur la base de la loi du 21 mars 1964 sur l'inspection médicale scolaire."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 12 okt. 1964 waarbij wordt geregeld hoe dikwijls en op welke wijze de geneeskundige onderzoeken worden verricht en onder welke voorwaarden het medisch schooltoezicht wordt uitgeoefend, is op wettige wijze genomen op grond van de wet van 21 maart 1964 op het medisch schooltoezicht."
+      ]
+    }
+  }
+}

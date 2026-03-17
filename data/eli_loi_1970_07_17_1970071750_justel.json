@@ -1,0 +1,46 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020910.7": {
+      "court": "CASS",
+      "date": "2002-09-10",
+      "roleNumber": "P010531N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que les fonctionnaires consulaires qui sont ressortissants ou résidents permanents de l'Etat de résidence ne bénéficient que de l'immunité de juridiction et de l'inviolabilité personnelle pour les actes officiels accomplis dans l'exercice de leurs fonctions, le déplacement vers le consulat aux fins de converser de certaines affaires avec un employé consulaire ne constitue pas un acte officiel dans l'exercice des activités de fonctionnaire consulaire honoraire."
+      ],
+      "abstractNL": [
+        "Nu aan de consulaire ambtenaren die onderdaan zijn van, of duurzaam verblijf houden in de verblijfstaat slechts immuniteit van rechtsmacht en persoonlijke onschendbaarheid wordt verleend met betrekking tot officiële handelingen verricht in de uitoefening van hun werkzaamheden, is geen officiële handeling in de uitoefening van werkzaamheden als consulair ereambtenaar de verplaatsing naar het consulaat ten einde er met een bediende van het consulaat sommige zaken te bespreken."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000613.9": {
+      "court": "CASS",
+      "date": "2000-06-13",
+      "roleNumber": "P000788NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le simple fait qu'un ressortissant étranger qui est arrêté en Belgique suite à une demande d'extradition, ne s'est pas vu communiquer ses droits par les autorités belges conformément à l'article 36b de la Convention de Vienne sur les relations consulaires, faite à Vienne le 24 avril 1963, ne constitue pas une violation des droits de la défense au cours de la procédure d'exequatur du mandat d'arrêt décerné contre lui par l'autorité étrangère, dès lors que les obligations prévues par cette disposition conventionnelle ont uniquement pour but de faciliter les activités consulaires mais sont étrangères à la régularité du mandat d'arrêt étranger."
+      ],
+      "abstractNL": [
+        "Het enkele feit dat een buitenlandse onderdaan, die ingevolge een verzoek tot uitlevering in België aangehouden is, door de Belgische overheid niet in kennis is gesteld van zijn rechten bepaald bij artikel 36b van het Verdrag van 24 april 1963 inzake consulair verkeer, levert geen miskenning op van het recht van verdediging tijdens de procedure van uitvoerbaarverklaring van het bevel tot aanhouding dat door een buitenlandse overheid tegen hem is uitgevaardigd, aangezien de verplichtingen bepaald in deze verdragsbepaling enkel tot doel hebben de consulaire werkzaamheden te vergemakkelijken, maar vreemd zijn aan de regelmatigheid van het buitenlands bevel tot aanhouding."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980325.7": {
+      "court": "CASS",
+      "date": "1998-03-25",
+      "roleNumber": "P971599F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/03/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La garantie d'inviolabilité attachée à tout ce que comprennent les archives consulaires n'interdit pas l'utilisation en justice, notamment à titre de pièces à conviction, des documents librement remis ou délivrés par les autorités consulaires."
+      ],
+      "abstractNL": [
+        "De waarborg van onschendbaarheid, die aan het geheel van de consulaire archieven wordt toegekend, belet niet dat door de consulaire overheden vrijwillig overhandigde of uitgereikte documenten voor het gerecht worden gebruikt, meer bepaald als overtuigingsstuk."
+      ]
+    }
+  }
+}

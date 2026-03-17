@@ -1,0 +1,60 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19750123.1": {
+      "court": "CASS",
+      "date": "1975-01-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 24 octobre 1902 concernant le jeu , complétée par la loi du 19 avril 1963, n'a pour effet ni d'abolir ni de restreindre le pouvoir des autorités communales de prendre en cette matière des règlements de police complémentaires."
+      ],
+      "abstractNL": [
+        "De wet van 24 oktober 1902 op het spel, aangevuld bij die van 19 april 1963, heeft noch opheffing noch beperking tot gevolg van de bevoegdheid der gemeenteoverheid om ter zake gemeenteverordeningen te nemen."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750123.7": {
+      "court": "CASS",
+      "date": "1975-01-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/23/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La loi du 24 octobre 1902 concernant le jeu, complétée par la loi du 19 avril 1963, n'a pour effet ni d'abolir ni de restreindre le pouvoir des autorités communales de prendre en cette matière des règlements de police complémentaires."
+      ],
+      "abstractNL": [
+        "De wet van 24 oktober 1902 op het spel, aangevuld bij die van 19 april 1963, heeft noch opheffing noch beperking tot gevolg van de bevoegdheid der gemeenteoverheid om ter zake gemeenteverordeningen te nemen."
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731113.1": {
+      "court": "CASS",
+      "date": "1973-11-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La remise effective d'un prix ne constitue pas un élément constitutif du délit d'exploitation de jeux de hasard; il suffit que, en participant au jeu, les joueurs puissent obtenir un avantage déterminé, en espèces ou en nature, autre que le droit de continuer à jouer. (Loi du 24 octobre 1902, art. 1er; loi du 19 avril 1963, article unique.)"
+      ],
+      "abstractNL": [
+        "De daadwerkelijke uitbetaling van een prijs is geenzins een bestanddeel van het misdrijf exploitatie van kansspelen; het volstaat dat de spelers, door aan het spel deel te nemen, een bepaald voordeel in specien of in natura kunnen bekomen ander dan het enkel voordeel om te mogen voortspelen. ( Art. 1 wet van 24 oktober 1902; enig artikel wet van 19 april 1963. )"
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710524.2": {
+      "court": "CASS",
+      "date": "1971-05-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/05/24/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Ne sont pas des jeux de hasard, au sens de la loi pénale et spécialement de celle du 24 octobre 1902 qui interdit l'exploitation de tels jeux, ceux qui ne donnent au joueur aucune chance d'enrichissement ou d'avantage matériel autre que le droit de continuer à jouer. (Loi du 19 avril 1963, art. unique.)"
+      ],
+      "abstractNL": [
+        "Geen kansspelen in de betekenis van de strafwet en inzonderheid van de wet van 24 oktober 1902 tot beteugeling van de exploitatie van dergelijke spelen zijn die, welke aan de speler geen andere kans van verrijking of stoffelijk voordeel opleveren dan het recht om gratis verder te spelen. (Wet van 19 april 1963, enig artikel.)"
+      ]
+    }
+  }
+}

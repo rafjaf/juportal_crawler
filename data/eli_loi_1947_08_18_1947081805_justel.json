@@ -1,0 +1,46 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851209.1": {
+      "court": "CASS",
+      "date": "1985-12-09",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le statut des prisonniers de guerre 1940-1945 établi par la loi du 18 août 1947 est un statut de reconnaissance nationale au sens de l'article 34, par. 1er, E, 2°, de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés."
+      ],
+      "abstractNL": [
+        "Het bij de wet van 18 augustus 1947 vastgestelde statuut van krijgsgevangenen van de oorlog 1940-1945 is een statuut van nationale erkentelijkheid in de zin van art. 34, par. 1, E, 2° K.B. van 21 december 1967 tot vaststelling van het algemeen reglement betreffende het rust- en overlevingspensioen voor werknemers."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760204.3": {
+      "court": "CASS",
+      "date": "1976-02-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/02/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Par membre d'une famille ayant la qualité de prisonnier de guerre, au sens de l'article 12, par. 1er, 5°bis, alinéa 3, c, des lois sur la milice, coordonnées le 30 avril 1962, modifiées par la loi du 30 juillet 1974, il faut entendre le membre de la famille qui bénéficie du statut de prisonnier de guerre prévu par la loi du 18 août 1947 (1)."
+      ],
+      "abstractNL": [
+        "Onder gezinslid dat de hoedanigheid van krijgsgevangene heeft in de zin van artikel 12, par. 1, 5°bis, lid 3, c, van de gecoördineerde dienstplichtwetten van 31 april 1962, gewijzigd bij de wet van 30 juli 1974, moet worden verstaan het gezinslid dat het wettelijk statuut van krijgsgevangene heeft als bepaald in de wet van 18 augustus 1947 (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751008.4": {
+      "court": "CASS",
+      "date": "1975-10-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Par membre d'une famille ayant la qualité de prisonnier de guerre, au sens de l'article 12, par.1er, 5e bis, alinéa 3, c, des lois sur la milice, coordonnées le 30 avril 1962, modifié par la loi du 30 juillet 1974, il faut entendre le membre de la famille bénéficiant du statut de prisonnier de guerre prévu par la loi du 18 août 1947 (1)."
+      ],
+      "abstractNL": [
+        "Onder gezinslid dat de hoedanigheid van krijgsgevangene heeft in de zin van artikel 12, par. 1, 5bis, lid 3, c, van de dienstplichtwetten, gewijzigd bij de wet van 30 juli 1974, moet worden verstaan het gezinslid dat het wettelijk statuut van krijgsgevangene heeft als bepaald in de wet van 18 augustus 1947."
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810915.2": {
+      "court": "CASS",
+      "date": "1981-09-15",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/15/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1981:ARR.19810512.3": {
+      "court": "CASS",
+      "date": "1981-05-12",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/12/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1981:ARR.19810428.3": {
+      "court": "CASS",
+      "date": "1981-04-28",
+      "roleNumber": "6168",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/04/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, ayant constaté que les faits procèdent d'une intention unique et que la prescription a pris cour à partir du dernier fait, à savoir le 27 mai 1974, majore de 390 décimes les amendes auxquelles le prévenu est condamné, par application de la loi du 25 juin 1975, cette loi n'étant pas applicable aux amendes prononcées du chef d'infractions commises avant son entrée en vigueur."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest waarin is vastgesteld dat de feiten met een zelfde opzet zijn gepleegd en dat de verjaring is beginnen te lopen vanaf het laatste feit, d.i. de 27e mei 1974, en de geldboeten, waartoe de beklaagde is veroordeeld overeenkomstig de wet van 25 juni 1975, met 390 deciemen worden verhoogd, daar deze wet niet toepasselijk is op de geldboeten wegens misdrijven van vóór haar inwerkingtreding <5>."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19781018.9": {
+      "court": "CASS",
+      "date": "1978-10-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/10/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Viole les droits de la défense le juge d'appel qui, sans avoir averti le prévenu, modifie la date des faits de la prévention de manière à leur rendre applicable la loi du 25 juin 1975 sur les décimes additionnels, alors que le prévenu n'a pas été à même de se défendre contre la qualification ainsi modifiée."
+      ],
+      "abstractNL": [
+        "De rechten van de verdediging worden geschonden door de rechter in hoger beroep die, zonder de beklaagde te verwittigen, de datum van de ten laste gelegde feiten zodanig wijzigt dat deze onder de toepassing vallen van de Wet 25 juni 1975 betreffende de opdecimes, wanneer de beklaagde over de aldus gewijzigde kwalificering geen verweer heeft kunnen voeren <1>."
+      ]
+    }
+  }
+}

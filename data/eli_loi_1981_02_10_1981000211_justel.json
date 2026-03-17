@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940623.14": {
+      "court": "CASS",
+      "date": "1994-06-23",
+      "roleNumber": "C930409F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 294, alinéa 1er, du Code des impôts sur les revenus qui, dans sa version applicable avant sa modification par l'article 21 de la loi du 10 février 1981, disposait que le recouvrement de l'impôt établi au nom du chef de famille pouvait être poursuivi sur tous les biens meubles et immeubles des époux, ne visait que lesdits biens et non les revenus personnels du conjoint."
+      ],
+      "abstractNL": [
+        "Art. 294, alinéa 1, W.I.B., voor de wijziging ervan bij art. 21 wet van 10 feb. 1981, krachtens hetwelk de invordering van de belasting ten name van het gezinshoofd mocht worden vervolgd op alle roerende en onroerende goederen van de echtgenoten, had alleen betrekking op die goederen en niet op de persoonlijke inkomsten van de echtgenoot."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911017.7": {
+      "court": "CASS",
+      "date": "1991-10-17",
+      "roleNumber": "F1146F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 277, alinéa 3, du Code des impôts sur les revenus, qui fixe un délai pour le dégrèvement des excédents de précomptes qu'il détermine, ne s'applique qu'à la condition qu'un impôt ait été enrôlé à charge du redevable. ( Code des impôts sur les revenus, art. 277, alinéa 3; Loi du 27 juin 1966, art. 4, 2°; Loi 10 février 1981, art. 19. )"
+      ],
+      "abstractNL": [
+        "Art. 277, alinéa 3, Wetboek van de Inkomstenbelastingen dat een termijn bepaalt voor de ontheffing van het overschot van de voorheffingen dat het vaststelt, is alleen van toepassing als ten name van de belastingplichtige een belasting ten kohiere is gebracht. ( Art. 277, alinéa 3, Wetboek van de Inkomstenbelastingen; Art. 4, 2°, Wet van 27 juni 1966; art. 19, Wet van 10 februari 1981. )"
+      ]
+    }
+  }
+}

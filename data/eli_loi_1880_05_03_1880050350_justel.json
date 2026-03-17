@@ -18,6 +18,22 @@
       "abstractNL": null
     }
   },
+  "8": {
+    "ECLI:BE:CASS:1993:ARR.19930506.14": {
+      "court": "CASS",
+      "date": "1993-05-06",
+      "roleNumber": "6416",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/06/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 14, alinéa 3, g, du Pacte international relatif aux droits civils et politiques en vertu duquel, lors de la détermination du bien-fondé d'une action publique exercée contre elle, toute personne a droit à ne pas être forcée de témoigner contre elle-même ou de s'avouer coupable, ne fait pas obstacle à ce qu'un témoin soit entendu sous serment par une commission d'enquête parlementaire (L. 3 mai 1880, art. 4, al. 1er, et 8)."
+      ],
+      "abstractNL": [
+        "Art. 14.3.g. I.V.B.P.R., krachtens hetwelk, bij het bepalen van de gegrondheid van een tegen hem ingestelde strafvordering, een ieder recht heeft niet te worden gedwongen tegen zichzelf te getuigen of een bekentenis af te leggen, staat als dusdanig niet in de weg aan het onder ede horen van een getuige door een parlementaire onderzoekscommissie. (Artt. 4, 1° lid, en 8 W. van 3 mei 1880)."
+      ]
+    }
+  },
   "10": {
     "ECLI:BE:CASS:2023:ARR.20230301.2F.12": {
       "court": "CASS",

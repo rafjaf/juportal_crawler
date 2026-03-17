@@ -1,0 +1,32 @@
+{
+  "17": {
+    "ECLI:BE:CASS:1965:ARR.19650514.2": {
+      "court": "CASS",
+      "date": "1965-05-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/05/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 17 du Code de la route du 8 avril 1954, tel qu'il était en vigueur avant sa modification par l'arrêté royal du 4 juin 1958, le conducteur qui voulait exécuter une manoeuvre n'était tenu de céder le passage aux autres conducteurs que si cette manoeuvre était de nature à empêcher ou à entraver la marche normale de ces derniers."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1968:ARR.19681014.5": {
+      "court": "CASS",
+      "date": "1968-10-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/10/14/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Depuis l'entrée en vigueur de l'arrêté royal du 4 juin 1958, le signal routier n° 32 prévu par le Code de la route signifie \"priorité de passage aux conducteurs en sens opposé\"."
+      ],
+      "abstractNL": [
+        "Sinds de inwerkingtreding van het koninklijk besluit van 4 juni 1958, betekent het in het wegverkeersreglement bedoelde verkeersteken nr 32 \"voorrang van doorgang aan de bestuurders die uit tegenovergestelde richting komen\"."
+      ]
+    }
+  }
+}

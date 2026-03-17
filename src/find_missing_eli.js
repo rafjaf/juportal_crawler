@@ -1033,12 +1033,12 @@ function storeElementsToDataFile(elements, eli) {
 
 // ─── Main entry point ────────────────────────────────────────────────────────
 
-export async function findMissingEli() {
+export async function findMissingEli(startFromKey = null) {
   logInfo(`${timestamp()} Loading missing_eli.json...`);
   const missingEli = loadMissingEliFile();
   const allKeys = Object.keys(missingEli);
 
-  const toProcess = allKeys.filter(k =>
+  let toProcess = allKeys.filter(k =>
     !missingEli[k].eli && missingEli[k].elements?.length > 0
   );
 
@@ -1064,6 +1064,26 @@ export async function findMissingEli() {
     logWarn(`⚠ Could not load log.json: ${err.message}. Proceeding without log data.`);
   }
 
+  // Handle --find-missing-eli <key>: skip entries before the given key and
+  // enable auto mode (high-confidence ChatGPT/log proposals applied automatically,
+  // ambiguous ones skipped).
+  let applyAll = false;
+  if (startFromKey) {
+    const foundIdx = toProcess.indexOf(startFromKey);
+    if (foundIdx === -1) {
+      logWarn(`⚠ Key "${startFromKey}" not found among unresolved entries — processing all entries in interactive mode.`);
+    } else {
+      if (foundIdx > 0) {
+        logInfo(`${timestamp()} Skipping ${foundIdx} entr${foundIdx === 1 ? 'y' : 'ies'}. Resuming from: "${startFromKey}".`);
+        toProcess = toProcess.slice(foundIdx);
+      } else {
+        logInfo(`${timestamp()} Starting at first unresolved entry: "${startFromKey}".`);
+      }
+      applyAll = true;
+      logInfo(`${timestamp()} Auto mode enabled — high-confidence proposals applied automatically, ambiguous ones skipped.`);
+    }
+  }
+
   // Phase 2: Process each entry
   const total = toProcess.length;
   progress.configure(total, total);
@@ -1073,7 +1093,6 @@ export async function findMissingEli() {
   let skippedCount = 0;
   let unfindableCount = 0;
   let ambiguousCount = 0;
-  let applyAll = false;
 
   for (let i = 0; i < toProcess.length; i++) {
     const key = toProcess[i];

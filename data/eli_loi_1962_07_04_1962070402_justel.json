@@ -1,0 +1,64 @@
+{
+  "20": {
+    "ECLI:BE:CASS:1973:ARR.19730226.1": {
+      "court": "CASS",
+      "date": "1973-02-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les infractions aux articles 2 et 20 de l'arrêté royal du 5 août 1970 relatif au recensement général de la population et au recensement de l'industrie et du commerce, quoique punies de peines correctionnelles par l'article 22 de la loi du 4 juillet 1962 autorisant le Gouvernement à procéder à des investigations statistiques et autres sur la situation démographique, économique et sociale du pays, sont de la compétence des tribunaux de police, ces infractions concernant le recensement de la population. ( Code d'instr. crim. art. 138, 15°; loi du 2 juin 1856, art. 7. )"
+      ],
+      "abstractNL": [
+        "De overtredingen van de artikelen 2 en 20 van het koninklijk besluit van 5 augustus 1970 betreffende de volkstelling en de nijverheids- en handelstelling, hoewel zij met correctionele straffen worden gestraft krachtens artikel 20 van de wet van 4 juli 1962 waarbij de Regering gemachtigd wordt statistische en andere onderzoekingen te houden betreffende de demografische, economische en sociale toestand van het land, vallen onder de bevoegdheid van de politierechtbanken, daar deze overtredingen betrekking hebben op de volkstelling. ( Sv., art. 138, 15°; wet van 2 juni 1856, art. 7. )"
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1970:ARR.19701215.5": {
+      "court": "CASS",
+      "date": "1970-12-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/15/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi de l'action publique, qui décide que le changement de qualification requis par le ministère public équivaut à l'intentement de nouvelles poursuites, décide implicitement mais nécessairement que les éléments constitutifs de la nouvelle qualification ne sont pas compris dans le fait dont il est saisi."
+      ],
+      "abstractNL": [
+        "De rechter bij wie de strafvordering aanhangig is, die beslist dat de door het openbaar ministerie gevraagde verandering van rechtsbenaming overeenstemt met het instellen van nieuwe vervolgingen, beslist impliciet maar noodzakelijk dat de bestanddelen van de nieuwe rechtsbenaming niet begrepen zijn in het feit waarvan hij kennis heeft genomen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19730226.1": {
+      "court": "CASS",
+      "date": "1973-02-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les infractions aux articles 2 et 20 de l'arrêté royal du 5 août 1970 relatif au recensement général de la population et au recensement de l'industrie et du commerce, quoique punies de peines correctionnelles par l'article 22 de la loi du 4 juillet 1962 autorisant le Gouvernement à procéder à des investigations statistiques et autres sur la situation démographique, économique et sociale du pays, sont de la compétence des tribunaux de police, ces infractions concernant le recensement de la population. ( Code d'instr. crim. art. 138, 15°; loi du 2 juin 1856, art. 7. )"
+      ],
+      "abstractNL": [
+        "De overtredingen van de artikelen 2 en 20 van het koninklijk besluit van 5 augustus 1970 betreffende de volkstelling en de nijverheids- en handelstelling, hoewel zij met correctionele straffen worden gestraft krachtens artikel 20 van de wet van 4 juli 1962 waarbij de Regering gemachtigd wordt statistische en andere onderzoekingen te houden betreffende de demografische, economische en sociale toestand van het land, vallen onder de bevoegdheid van de politierechtbanken, daar deze overtredingen betrekking hebben op de volkstelling. ( Sv., art. 138, 15°; wet van 2 juni 1856, art. 7. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19701215.5": {
+      "court": "CASS",
+      "date": "1970-12-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/15/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi de l'action publique, qui décide que le changement de qualification requis par le ministère public équivaut à l'intentement de nouvelles poursuites, décide implicitement mais nécessairement que les éléments constitutifs de la nouvelle qualification ne sont pas compris dans le fait dont il est saisi."
+      ],
+      "abstractNL": [
+        "De rechter bij wie de strafvordering aanhangig is, die beslist dat de door het openbaar ministerie gevraagde verandering van rechtsbenaming overeenstemt met het instellen van nieuwe vervolgingen, beslist impliciet maar noodzakelijk dat de bestanddelen van de nieuwe rechtsbenaming niet begrepen zijn in het feit waarvan hij kennis heeft genomen."
+      ]
+    }
+  }
+}

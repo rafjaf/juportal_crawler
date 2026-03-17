@@ -1,0 +1,16 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1966:ARR.19660303.2": {
+      "court": "CASS",
+      "date": "1966-03-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/03/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal de commerce est incompétent pour connaître de contestations relatives à un contrat de location d'un immeuble, alors même que cet immeuble est destiné à l'exercice d'un commerce. (Loi du 25 mars 1876, art. 3, 1°, et 12, al. 1er; loi du 15 décembre 1872, art. 2; loi du 3 juillet 1956 portant modification du titre Ier du livre Ier du Code de commerce, art. 2 et 4.)"
+      ],
+      "abstractNL": null
+    }
+  }
+}

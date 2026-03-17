@@ -1,0 +1,50 @@
+{
+  "13": {
+    "ECLI:BE:CASS:1979:ARR.19791005.2": {
+      "court": "CASS",
+      "date": "1979-10-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 13, alinéa 2, de l'arrêté royal du 24 décembre 1966 relatif aux réseaux de distribution d'émissions de radiodiffusion aux habitations de tiers vise le cas où l'abonné d'un réseau de distribution d'émissions de radiodiffusion télévisuelle aux habitations de tiers fait usage, comme appareil récepteur terminal, d'un appareil récepteur acheté dans le commerce et non d'un appareil récepteur terminal fourni par le distributeur."
+      ],
+      "abstractNL": [
+        "Art. 13, tweede lid, K.B. 24 dec. 1966 betreffende de netten voor distributie van radio-omroepuitzendingen in de woningen van derden, bedoelt het geval waarin de abonnee op een net voor distributie van omgeroepen televisieuitzendingen in de woningen van derden als eindontvangtoestel een ontvangtoestel uit de handel gebruikt en niet een door de verdeler geleverd eindontvangtoestel."
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:1981:ARR.19811209.10": {
+      "court": "CASS",
+      "date": "1981-12-09",
+      "roleNumber": "1312",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/09/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La législation et la réglementation belges concernant les émissions de télévision et de télédistribution revêtant un caractère de publicité commerciale, ne contiennent aucune discrimination selon l'origine belge ou étrangère du message, la nationalité du prestataire ou le lieu d'établissement de celui-ci. (Arrêté royal du 24 décembre 1966, art. 21.)"
+      ],
+      "abstractNL": [
+        "De Belgische wetten en verordeningen inzake door televisie en kabeltelevisie uitgezonden handelsreclame houden geen enkele discriminatie in naargelang van de Belgische of buitenlandse herkomst van de boodschap, de nationaliteit van de dienstverrichter of diens vestigingsplaats. (Art. 11 K.B. van 24 dec. 1966.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800612.4": {
+      "court": "CASS",
+      "date": "1980-06-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "De la seule circonstance de la non-application persistante de l'article 21 de l'arrêté royal du 24 décembre 1966 interdisant les émissions de télévision revêtant un caractère de publicité commerciale le juge ne peut légalement déduire que la diffusion de pareilles émissions par des sociétés de télédistribution ne constitue pas, au sens des articles 54 et 55, i, de la loi du 14 juillet 1971 sur les pratiques du commerce, un acte contraire aux usages honnêtes en matière commerciale."
+      ],
+      "abstractNL": [
+        "Uit de enkele omstandigheid dat art. 21 K.B. 24 dec. 1966, waarbij het doorgeven van omgeroepen televisieuitzendingen die het karakter van handelsreclame dragen, verboden is, kan de rechter niet wettig afleiden dat het doorgeven van dergelijke uitzendingen door kabeltelevisiemaatschappijen geen met eerlijk handelsgebruik strijdige handelingen zouden zijn, in de zin van de artt. 54 en 55,i van de wet van 14 juli 1971 betreffende de handelspraktijken."
+      ]
+    }
+  }
+}

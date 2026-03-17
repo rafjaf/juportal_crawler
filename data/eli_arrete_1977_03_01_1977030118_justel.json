@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900129.6": {
+      "court": "CASS",
+      "date": "1990-01-29",
+      "roleNumber": "8482",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/29/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les agents des communes bénéficient, dans les mêmes conditions que le personnel des ministères, des allocations de foyer et de résidence; ces allocations sont liées aux fluctuations de l'indice des prix à la consommation. ( Loi du 14 février 1961, art. 72; arr. roy. du 30 janvier 1967, art. 4; arr. roy. du 1er mars 1977; arr. roy. du 15 avril 1977. )"
+      ],
+      "abstractNL": [
+        "Het gemeentepersoneel ontvangt onder dezelfde voorwaarden als het personeel der ministeries haardtoelagen en standplaatstoelagen; die toelagen worden aan het indexcijfer van de consumptieprijzen gekoppeld. ( Art. 72 wet van 14 februari 1961; art. 4 K.B. van 30 januari 1967; K.B. van 1 maart 1977; K.B. van 15 april 1977. )"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19781201.2": {
+      "court": "CASS",
+      "date": "1978-12-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/12/01/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'assimilation d'une personne non militaire à un certain grade de l'armée, quant à des avantages ou indemnités, est étrangère au grade d'officier déterminant la compétence directe de la Cour militaire. ( Code de proc. pén. milit., art. 104, et arr. roy. du 1er mars 1977. )"
+      ],
+      "abstractNL": [
+        "De gelijkstelling van een niet-militair met een militair van een bepaalde rang in het leger, t.a.v. voordelen en vergoedingen, houdt geen verband met de bepaling van de gewone bevoegdheid van het Militair Gerechtshof naar de officiersrang. (Art. 104, Mil. Sv., en K.B. 1 maart 1977.)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "7": {
+    "ECLI:BE:CASS:1973:ARR.19730918.7": {
+      "court": "CASS",
+      "date": "1973-09-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/09/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque des travaux, visés par la loi du 6 avril 1960 concernant l'exécution de travaux de construction, ont été exécutés aux heures et jours durant lesquels ils ne peuvent l'être, ce sont, aux termes de la même loi, les employeurs, leurs mandataires ou leurs préposés, ayant fait ou laissé exécuter lesdits travaux, qui sont pénalement responsables. (Loi du 6 avril 1960, art. 7.)"
+      ],
+      "abstractNL": [
+        "Wanneer er bouwwerken, zoals bedoeld bij de wet van 6 april 1960 betreffende de uitvoering van bouwwerken, zijn uitgevoerd op de uren en dagen waarop dit verboden is, zijn, krachtens de wet zelf, de werkgevers, hun lasthebbers of aangestelden, die deze werken hebben laten uitvoeren, strafrechtelijk aansprakelijk. ( Art. 7 wet van 6 april 1960. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690127.5": {
+      "court": "CASS",
+      "date": "1969-01-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/01/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La loi du 6 avril 1960, concernant l'exécution de travaux de construction, interdit, sous peine de sanction pénale, aux employeurs, et à leurs mandataires et préposés, de faire ou de laisser exécuter les travaux qu'elle vise, aux jours et heures qu'elle précise."
+      ],
+      "abstractNL": [
+        "De wet van 6 april 1960 op de uitvoering van de bouwwerken, legt onder strafbepaling aan de werkgevers, hun gemachtigden en aangestelden verbod op om de opgegeven werken te doen of te laten uitvoeren op de vastgestelde dagen en uren."
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19641116.5": {
+      "court": "CASS",
+      "date": "1964-11-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/11/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 6 avril 1960 concernant l'exécution de travaux de construction interdit, sous peine de sanctions pénales, aux employeurs, leurs mandataires et préposés de faire ou de laisser exécuter les travaux qu'elle vise, aux heures et jours qu'elle précise."
+      ],
+      "abstractNL": null
+    }
+  }
+}

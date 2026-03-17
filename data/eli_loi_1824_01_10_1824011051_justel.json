@@ -41,6 +41,34 @@
       "abstractNL": [
         "Het recht van opstal dat voor onbepaalde duur wordt bedongen, waardoor in werkelijkheid een zakelijk recht wordt gevestigd voor meer dan vijftig jaar, is niet nietig, maar dient herleid te worden tot deze wettelijk bepaalde maximumtermijn (1). (1) Cass. 15 december 2006, AR C.05.0558.N, AC 2006, nr. 654."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140612.7": {
+      "court": "CASS",
+      "date": "2014-06-12",
+      "roleNumber": "C.13.0413.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/06/12/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le droit de superficie accessoire qui grève le fonds servant en cas de servitude n'est pas lié par la durée maximale de cinquante ans, comme prévue par l'article 4 de la loi du 10 janvier 1824 sur le droit de superficie, mais en tant qu'accessoire de la servitude elle ne disparaît que lorsque la servitude même disparaît."
+      ],
+      "abstractNL": [
+        "Het accessoir opstalrecht dat op het lijdend erf rust bij een erfdienstbaarheid is niet gebonden aan de maximumduur van vijftig jaar, zoals bepaald in artikel 4 van de Opstalwet, maar gaat als accessorium van de erfdienstbaarheid slechts teniet bij het verdwijnen van de erfdienstbaarheid zelf."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100412.4": {
+      "court": "CASS",
+      "date": "2010-04-12",
+      "roleNumber": "C.09.0261.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que le droit d'emphytéose ne confère pas un droit de propriété sur le fonds, les objets que l'emphytéote y place ne peuvent être immeubles par destination (1). (1) Voir concl. du M.P."
+      ],
+      "abstractNL": [
+        "Aangezien het recht van erfpacht geen eigendomsrecht op het erf toekent, kunnen de voorwerpen die de erfpachter daarop plaatst niet onroerend door bestemming zijn (1). (1) Zie concl. O.M. in Pas., 2010, nr. ..."
+      ]
     }
   },
   "2": {
@@ -61,6 +89,20 @@
         "De hypothecaire schuldeiser heeft, door de zakelijke subrogatie, een zakelijk recht waardoor hij rechtstreeks tegen de eigenaar van de grond kan optreden met het oog op diens veroordeling tot betaling van de vergoeding die hij aan de opstalhouder verschuldigd is (1). (1) Zie concl. OM in Pas. 2019, nr. 581.",
         "Wegens de zakelijke subrogatie oefent de hypothecaire schuldeiser, die de veroordeling vordert van de eigenaar van de grond tot betaling van de vergoeding die laatstgenoemde aan de opstalhouder verschuldigd is, de vorderingsrechten van de opstalhouder tegen de eigenaar van de grond niet uit en treedt hij evenmin op in naam en voor rekening van de opstalhouder (1). (1) Zie concl. OM in Pas. 2019, nr. 581."
       ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060330.6": {
+      "court": "CASS",
+      "date": "2006-03-30",
+      "roleNumber": "C040486N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/03/30/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La disposition suivant laquelle l'emphytéose ne peut être établie pour un terme inférieur à vingt-sept ans ne fait pas obstacle à ce que les parties prévoient dans leur bail la clause que l'emphytéose pourra prendre fin, même avant l'expiration du terme minimum de vingt-sept ans, en cas de procédure en constatation d'insolvabilité ou en dissolution de la personne morale-emphytéote."
+      ],
+      "abstractNL": [
+        "De bepaling dat een erfpacht niet mag worden gevestigd voor een termijn korter dan zevenentwintig jaar staat niet in de weg dat de partijen in de erfpachtovereenkomst een beding opnemen waardoor de overeenkomst kan worden beëindigd, ook al is de minimumduur van zevenentwintig jaar niet verstreken, ingeval van een insolventieprocedure of ontbinding van de rechtspersoon-erfpachter."
+      ]
     }
   },
   "6": {
@@ -76,6 +118,22 @@
       "abstractFR": null,
       "abstractNL": [
         "De natrekking van de eventuele opstallen treedt in principe slechts in bij de beëindiging van het opstalrecht; het is slechts op dat ogenblik dat de opstalgever-bedrijfsleider desgevallend van een gunstige natrekking geniet en hem derhalve een voordeel van alle aard wordt toegekend, ongeacht of zulks reeds was bedongen in de opstalovereenkomst (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19850215.5": {
+      "court": "CASS",
+      "date": "1985-02-15",
+      "roleNumber": "4398",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/02/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le loyer d'un bail commercial ne doit pas être précisé; il suffit qu'il soit susceptible d'être déterminé à l'aide dudit contrat de bail."
+      ],
+      "abstractNL": [
+        "In een handelshuurovereenkomst hoeft de huurprijs niet te worden bepaald; het is voldoende dat hij aan de hand van die overeenkomst bepaald kan worden."
       ]
     }
   }

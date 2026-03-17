@@ -1,0 +1,50 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1974:ARR.19740426.8": {
+      "court": "CASS",
+      "date": "1974-04-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/04/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 1351 du Code civil ayant été abrogé et remplacé par l'article 23 du Code judiciaire à dater du 1er janvier 1969, cette dernière disposition est applicable à l'exclusion de la première, lorsque l'action nouvelle a été intentée depuis le 1er janvier 1969. (Code civil, art. 2; loi du 10 octobre 1967, art. 2-22; arrêté royal du 4 novembre 1968, articles 1-1. et 3-26.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Artikel 1351 van het Burgerlijk Wetboek werd vanaf 1 januari 1969 opgeheven en vervangen door artikel 23 van het Gerechtelijk Wetboek, zodat deze laatste bepaling van toepassing is met uitsluiting van de eerste wanneer de nieuwe rechtsvordering sinds 1 januari 1969 werd ingesteld. ( Art. 2 B.W.; art. 2-22 wet van 10 oktober 1967; artt. 1-1. en 3-26. k.b. van 4 november 1968. ) ( Impliciete oplossing. )"
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:1970:ARR.19700601.5": {
+      "court": "CASS",
+      "date": "1970-06-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/01/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque plusieurs parties se sont pourvues en cassation contre plusieurs décisions et que les causes sont connexes, la Cour en ordonne la jonction dans l'intérêt d'une bonne administration de la justice."
+      ],
+      "abstractNL": [
+        "Wanneer verschillende partijen zich in cassatie voorzien tegen verschillende beslissingen en de zaken samenhangend zijn, beveelt het Hof de voeging ervan in het belang van een goede rechtsbedeling."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19700319.3": {
+      "court": "CASS",
+      "date": "1970-03-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la victime d'un accident du travail introduit contre l'assureur-loi une action en payement d'un complément de l'indemnité légale et invoque, pour justifier l'interruption de la prescription opposée à son action, le dernier payement d'indemnité fait par l'assureur-loi, le juge qui constate que ce payement a été effectué par l'envoi d'un titre postal adressé à la victime à l'intervention de son employeur peut déduire légalement des faits ainsi constatés que le payement interruptif de la prescription ne s'est réalisé que postérieurement à la date du titre ayant servi au payement."
+      ],
+      "abstractNL": [
+        "Stelt de door een arbeidsongeval getroffene tegen de verzekeraar-arbeidsongevallen een rechtsvordering in tot betaling van een aanvullende wettelijke vergoeding en voert hij ter rechtvaardiging van de stuiting van de tegen zijn rechtsvordering opgeworpen verjaring de laatste vergoedingsbetaling van de verzekeraar-arbeidsongevallen aan, dan kan de rechter, die vaststelt dat deze betaling is geschied door verzending van een poststuk aan de getroffene door bemiddeling van diens werkgever, uit de aldus vastgestelde feiten wettelijk afleiden dat de verjaring stuitende betaling eerst heeft plaatsgehad na de datum van het stuk dat voor de betaling heeft gediend."
+      ]
+    }
+  }
+}

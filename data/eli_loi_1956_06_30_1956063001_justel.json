@@ -1,0 +1,34 @@
+{
+  "8": {
+    "ECLI:BE:CASS:1967:ARR.19670309.1": {
+      "court": "CASS",
+      "date": "1967-03-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/03/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La prescription quinquennale du recouvrement des cotisations dues en exécution des lois du 30 juin 1956 et du 28 mars 1960 relatives à la pension de vieillesse des travailleurs indépendants, établie par la loi du 12 avril 1965, prend cours à compter du 1er janvier qui suit l'année pour laquelle les cotisations sont dues et est applicable à toutes les actions, sauf à celles qui, à la date de l'entrée en vigueur de cette dernière loi, ont fait l'objet de décisions qui ne sont plus susceptibles d'un recours ordinaire ou d'un pourvoi en cassation. (Loi du 12 avril 1965, art. 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De vijfjarige verjaring van de invordering van de bijdragen verschuldigd krachtens de wetten van 30 juni 1956 en 28 maart 1960 betreffende het ouderdomspensioen der zelfstandigen, ingesteld bij de wet van 12 april 1965, gaat in op de 1e januari volgend op het jaar waarvoor de bijdragen zijn verschuldigd en is toepasselijk op alle schuldvorderingen, behalve op die welke op de datum van haar inwerkingtreding het voorwerp hebben uitgemaakt van beslissingen waartegen geen gewoon rechtsmiddel of voorziening in cassatie meer openstaat. (Wet van 12 april 1965, art. 1 en 2.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670908.1": {
+      "court": "CASS",
+      "date": "1967-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La prescription quinquennale pour le recouvrement des cotisations dues en exécution des lois du 30 juin 1956 et du 28 mars 1960 relatives à la pension de vieillesse des travailleurs indépendants, établie par la loi du 12 avril 1965, prend cours à compter du 1er janvier qui suit uit l'année pour laquelle les cotisations sont dues et est applicable à toutes les actions, sauf à celles qui, à la date de l'entrée en vigueur de cette dernière loi, ont fait l'objet de décisions qui ne sont plus susceptibles d'un recours ordinaire ou d'un pourvoi en cassation. ( Loi du 12 avril 1965, art. 1er et 2.)"
+      ],
+      "abstractNL": [
+        "De vijfjarige verjaring voor de invordering van de bijdragen verschuldigd ter uitvoering van de wetten van 30 juni 1956 en 28 maart 1960 betreffende het ouderdomspensioen der zelfstandigen, vastgesteld door de wet van 12 april 1965, loopt vanaf de 1e januari die volgt op het jaar waarvoor de bijdragen verschuldigd zijn en is van toepassing op alle rechtsvorderingen, behalve op die welke, op de datum van het in werking treden van de wet, het voorwerp hebben uitgemaakt van beslissingen waartegen geen gewoon rechtsmiddel meer kan aangevoerd worden of die niet meer vatbaar zijn voor voorziening in cassatie. (Wet van 12 april 1965, art. 1 en 2.)"
+      ]
+    }
+  }
+}

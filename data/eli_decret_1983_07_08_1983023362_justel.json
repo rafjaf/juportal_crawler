@@ -1,0 +1,32 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1993:ARR.19931223.5": {
+      "court": "CASS",
+      "date": "1993-12-23",
+      "roleNumber": "C930173F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/23/sitemap_6.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Art. 5 van het decreet van 8 juli 1983 van de Franse Gemeenschap \"tot reglementering van de niet-commerciële publiciteit op radio en televisie\", dat straffen bepaalde voor diegenen die per radio of televisie reclame uitzonden die niet overeenstemde met de voorschriften van dat decreet, was van toepassing zowel op de commerciële als op de niet-commerciële reclame."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950202.13": {
+      "court": "CASS",
+      "date": "1995-02-02",
+      "roleNumber": "C930173F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 du décret du 8 juillet 1983 du Conseil de la Communauté française réglementant la publicité non commerciale à la radio et à la télévision, qui violait l'article 59bis, alinéa 2, 1° de la Constitution et l'article 4, 6°, de la loi spéciale de réformes institutionnelles avant sa modification par la loi spéciale du 8 août 1988 ne rendait dès lors, pas illégale une convention prévoyant l'émission télévisée de publicité commerciale."
+      ],
+      "abstractNL": [
+        "Art. 5 van het decreet van 8 juli 1983 van de Franse Gemeenschap tot \"reglementering van de niet-commerciële publiciteit op radio en televisie\", dat een schending inhield van art. 59bis, alinéa 2, 1°, Gw. en van art. 4, 6°, van de bijzondere wet tot hervorming der instellingen, voor zijn wijziging bij de bijzondere wet van 8 augustus 1988, had dus niet tot gevolg dat een overeenkomst over commerciële reclame op televisie onwettig was."
+      ]
+    }
+  }
+}

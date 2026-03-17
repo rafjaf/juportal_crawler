@@ -14,5 +14,21 @@
         "Een decreet waarbij de verplichtingen van het Waalse Gewest inzake de handhaving van de kwaliteit van de oppervlaktewateren worden beperkt, sluit niet uit dat genoemd gewest aansprakelijk kan worden gesteld op grond van andere wettelijke bepalingen."
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970306.12": {
+      "court": "CASS",
+      "date": "1997-03-06",
+      "roleNumber": "C960132F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Un décret limitant les obligations de la Région wallonne quant au maintien de la qualité des eaux de surface n'exclut pas que la responsabilité de cette région puisse être engagée sur la base d'autres dispositions légales."
+      ],
+      "abstractNL": [
+        "Een decreet waarbij de verplichtingen van het Waalse Gewest inzake de handhaving van de kwaliteit van de oppervlaktewateren worden beperkt, sluit niet uit dat genoemd gewest aansprakelijk kan worden gesteld op grond van andere wettelijke bepalingen."
+      ]
+    }
   }
 }

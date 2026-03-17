@@ -1,0 +1,34 @@
+{
+  "22": {
+    "ECLI:BE:CASS:1988:ARR.19880128.9": {
+      "court": "CASS",
+      "date": "1988-01-28",
+      "roleNumber": "8034",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les montants que sont tenus de payer, par application des articles 11 de la loi du 30 juillet 1979, relative aux radio-communications et 22 de l'arrêté royal du 15 octobre 1979 relatif aux communications privées, les titulaires d'une autorisation ministérielle ne peuvent être que des redevances destinées à couvrir les frais de contrôle des stations et réseaux de radio-communication et de surveillance des émissions."
+      ],
+      "abstractNL": [
+        "De bedragen die, met toepassing van artt. 11 Wet van 30 juli 1979 betreffende de radioberichtgeving en 22 K.B. 15 oktober 1979 betreffende de private radioverbindingen, moeten worden betaald door de titularissen van een ministeriële vergunning, kunnen alleen maar retributies zijn die bestemd zijn om de kosten voor de controle van de stations en netten voor radioverbinding en het toezicht op de uitzendingen te dekken."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19891130.11": {
+      "court": "CASS",
+      "date": "1989-11-30",
+      "roleNumber": "8461",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/11/30/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "En cas de fusion de sociétés, le droit aux primes d'adaptation et de réadaptation reconnu par l'arrêté royal du 15 octobre 1979 en faveur de l'entreprise absorbée, qui a engagé certains travailleurs, peut être transmis à l'entreprise absorbante en vertu de la convention collective de travail n° 32 du 28 février 1978 relative au maintien des droits des travailleurs en cas de changement d'employeur du fait d'un transfert conventionnel d'entreprise."
+      ],
+      "abstractNL": [
+        "Bij fusie van vennootschappen kan het recht op de aanpassingspremies en wederaanpassingspremies, erkend bij K.B. 15 oktober 1979 ten voordele van de overgenomen onderneming die bepaalde werknemers in dienst heeft, genomen krachtens de collectieve arbeidsovereenkomst nr. 32 van 28 februari 1978 betreffende het behoud van de rechten van de werknemers bij wijziging van werkgever ingevolge de overgang van ondernemingen krachtens overeenkomst, aan de overnemende onderneming worden overgedragen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1981:ARR.19811008.13": {
+      "court": "CASS",
+      "date": "1981-10-08",
+      "roleNumber": "6346",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A défaut d'arrêté royal déterminant la forme dans laquelle doivent être constatés le fait et la date de la publication des règlements communaux, la preuve de ces éléments peut être faite par tous moyens de droit."
+      ],
+      "abstractNL": [
+        "Bij gebrek aan koninklijk besluit waarbij de wijze wordt bepaald waarop het feit en de datum van de bekendmaking van de gemeentereglementen moeten worden vastgesteld, mag het bewijs van deze bekendmaking door alle wettelijke bewijsmiddelen worden geleverd."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810227.9": {
+      "court": "CASS",
+      "date": "1981-02-27",
+      "roleNumber": "F852N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/02/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En matière de contributions directes et de taxes communales directes, l'avertissement-extrait du rôle doit contenir toutes les mentions nécessaires pour révéler l'existence d'une dette d'impôt liquide et exigible et pour mettre le redevable en mesure d'introduire une réclamation."
+      ],
+      "abstractNL": [
+        "Voor de directe belastingen moet het aanslagbiljet alle nuttige gegevens vermelden ten einde het bestaan van een vaststaande zekere schuld kenbaar te maken, zodat de belastingplichtige desnoods een bezwaarschrift kan indienen <1>."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840906.7": {
+      "court": "CASS",
+      "date": "1984-09-06",
+      "roleNumber": "4233",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/09/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En matière de surveillance des établissements dangereux et insalubres, le bourgmestre n'exerce la mission générale d'exécution des lois et règlements de police, que lui confère l'article 90 de la loi communale, que dans la mesure où l'arrêté du Régent du 11 février 1946 l'y autorise."
+      ],
+      "abstractNL": [
+        "Inzake politie over de gevaarlijke, ongezonde en hinderlijke bedrijven vervult de burgemeester de hem bij art. 90 Gemeentewet verleende algemene opdracht om de politiewetten en politieverordeningen uit te voeren enkel in zoverre het Regentsbesluit van 11 feb. 1946 hem dat toestaat."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811008.13": {
+      "court": "CASS",
+      "date": "1981-10-08",
+      "roleNumber": "6346",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A défaut d'arrêté royal déterminant la forme dans laquelle doivent être constatés le fait et la date de la publication des règlements communaux, la preuve de ces éléments peut être faite par tous moyens de droit."
+      ],
+      "abstractNL": [
+        "Bij gebrek aan koninklijk besluit waarbij de wijze wordt bepaald waarop het feit en de datum van de bekendmaking van de gemeentereglementen moeten worden vastgesteld, mag het bewijs van deze bekendmaking door alle wettelijke bewijsmiddelen worden geleverd."
+      ]
+    }
+  }
+}

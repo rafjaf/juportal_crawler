@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990223.6": {
+      "court": "CASS",
+      "date": "1999-02-23",
+      "roleNumber": "P970049N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/23/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les sanctions en cas d'infraction à l'arrêté royal du 23 septembre 1992 portant règlement de navigation du Canal de Gand à Terneuzen, pris en exécution de la loi du 24 novembre 1975 portant approbation et exécution de la Convention sur le règlement international de 1972 pour prévenir les abordages en mer, Règlement y annexé et ses Annexes, faits à Londres le 20 octobre 1972, sont fixées à l'article 3 de ladite loi."
+      ],
+      "abstractNL": [
+        "De strafbepalingen voor de inbreuken op het KB van 23 september 1992 houdende scheepvaartreglement voor het kanaal van Gent naar Terneuzen, genomen in uitvoering van de wet van 24 november 1975 houdende goedkeuring en uitvoering van het Verdrag inzake de internationale bepalingen ter voorkoming van aanvaringen op zee, 1972, bijgevoegd Reglement en zijn Bijlagen, opgemaakt te Londen op 20 oktober 1972, zijn bepaald in art. 3 van de vermelde wet."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810915.7": {
+      "court": "CASS",
+      "date": "1981-09-15",
+      "roleNumber": "6586",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/15/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le règle 10, b, 1, du règlement international de 1972 en vue de prévenir les abordages en mer, annexé à la convention faite à Londres, le 20 octobre 1972 et approuvée par la loi du 24 novembre 1975, qui impose aux navires navigant à l'intérieur d'un dispositif de séparation de trafic de suivre la voie de circulation appropriée dans la direction générale du trafic pour cette voie, concerne tout navire qui correspond à la définition de la règle 3 et, dès lors, aussi les navires en train de pêcher, aucune exception n'ayant été prévue pour ces derniers."
+      ],
+      "abstractNL": [
+        "Krachtens art. 10, b, 1, van het internationaal reglement van 1972 ter voorkoming van ongevallen op zee, gevoegd bij het verdrag, opgemaakt te Londen op 20 oktober 1972 en goedgekeurd bij de wet van 24 november 1975, moet een vaartuig dat gebruik maakt van een verkeersscheidingsstelsel in de passende verkeersbaan varen in de algemene richting van de verkeersstroom voor die baan; dat voorschrift geldt voor elk vaartuig dat aan de begripsomschrijving van voorschrift 3 beantwoordt en omvat dus ook de vissende vaartuigen, nu daarvoor geen uitzondering wordt gemaakt."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1977:ARR.19770315.2": {
+      "court": "CASS",
+      "date": "1977-03-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans le cas de récidive visé à l'article 5 de l'arrêté-loi du 24 février 1947 étendant l'obligation du contrôle techniques aux véhicules automobiles servant au transport de choses pour le compte propre de leur propriétaire, l'emprisonnement subsidiaire est d'une durée de trois à six mois au maximum si la peine d'amende prononcée, qui en vertu de cette disposition légale doit être portée au double de la peine prononcée antérieurement, est supérieure au maximum de l'amende mais cette durée ne peut excéder trois mois si la peine ainsi doublée n'excède pas ledit maximum. (Code pénal, art. 40, 56 et 100.)"
+      ],
+      "abstractNL": [
+        "In geval van bijzondere herhaling bedoeld bij artikel 5 van de besluitwet van 24 februari 1947, waarbij de verplichting van de technische controle uitgebreid wordt tot de automobielen dienende tot het vervoer van zaken voor eigen rekening van hun eigenaar, bedraagt de vervangende gevangenisstraf drie tot maximum zes maanden wanneer de opgelegde geldboete, welke krachtens die wettelijke bepaling op het dubbele van de vroeger uitgesproken straf moet worden gebracht, meer bedraagt dan het maximum van de geldboete, doch mag drie maanden niet te boven gaan wanneer die verdubbeling het genoemd maximum niet overschrijdt. ( S.W., art. 40, 56 en 100. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660128.1": {
+      "court": "CASS",
+      "date": "1966-01-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La disposition finale de l'article 23 de la loi du 1er juillet 1956, aux termes de laquelle la réglementation prise en vertu de l'arrêté royal du 5 mars 1936 et des arrêtés-lois prévus par le même article reste provisoirement d'application, a pour but de maintenir provisoirement les modalités de cette réglementation et non de rendre possible à l'assureur, moyennant une notification et après l'expiration d'un délai, de se libérer des obligations qui lui incombent en vertu de la loi."
+      ],
+      "abstractNL": null
+    }
+  }
+}

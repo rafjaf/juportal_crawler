@@ -1,0 +1,46 @@
+{
+  "10": {
+    "ECLI:BE:CASS:2008:ARR.20081114.5": {
+      "court": "CASS",
+      "date": "2008-11-14",
+      "roleNumber": "C.07.0417.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/11/14/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le législateur a voulu que le tribunal ne puisse décharger que les personnes physiques qui se sont constituées sûreté personnelle et qui sont tenues en raison de leur obligeance d'apurer les dettes du failli, alors qu'elles n'ont aucun intérêt personnel dans le paiement de ces dettes."
+      ],
+      "abstractNL": [
+        "Het is de bedoeling van de wetgever dat de rechtbank enkel de natuurlijke personen die zich persoonlijk zeker stelden voor de gefailleerde kan bevrijden, die door hun bereidwilligheid verplicht zijn om de schulden van de gefailleerde te delgen, terwijl zij geen persoonlijk belang hebben bij de betaling van die schulden."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080626.9": {
+      "court": "CASS",
+      "date": "2008-06-26",
+      "roleNumber": "C.07.0596.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/26/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'intention du législateur est de décharger uniquement les personnes physiques qui se sont constituées sûreté personnelle et qui, par leur obligeance, sont tenues de payer les dettes du failli, alors qu'elles n'ont aucun intérêt personnel dans le paiement de ces dettes (1). (1) Cass., 26 juin 2008, RG C.07.0546.N, supra, n° ..."
+      ],
+      "abstractNL": [
+        "Het is de bedoeling van de wetgever dat de rechtbank enkel de natuurlijke personen die zich persoonlijk zeker stelden voor de gefailleerde zou bevrijden die door hun bereidwilligheid verplicht zijn om diens schulden te delgen, terwijl zij geen persoonlijk belang hebben bij de betaling van die schulden (1). (1) Cass., 26 juni 2008, AR C.07.0546.N, supra, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2008:ARR.20080626.8": {
+      "court": "CASS",
+      "date": "2008-06-26",
+      "roleNumber": "C.07.0546.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/06/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'intention du législateur est de décharger uniquement les personnes physiques qui se sont constituées sûreté personnelle et qui, par leur obligeance, sont tenues de payer les dettes du failli, alors qu'elles n'ont aucun intérêt personnel dans le paiement de ces dettes."
+      ],
+      "abstractNL": [
+        "Het is de bedoeling van de wetgever dat de rechtbank enkel de natuurlijke personen die zich persoonlijk zeker stelden voor de gefailleerde zou bevrijden die door hun bereidwilligheid verplicht zijn om diens schulden te delgen, terwijl zij geen persoonlijk belang hebben bij de betaling van die schulden."
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19771215.2": {
+      "court": "CASS",
+      "date": "1977-12-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/12/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 4 juillet 1972, approuvant la Convention européenne en matière d'arbitrage, est entrée en vigueur le 18 août 1972; dès son entrée en vigueur elle est applicable au procès en cours, c'est-à-dire, devant encore être jugés lors de l'entrée en vigueur des dispositions nouvelles (1). (Code judic., art. 3,.) (Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De wet van 4 juli 1972 tot goedkeuring van het Europees Verdrag inzake arbitrage is in werking getreden op 18 augustus 1972; vanaf haar inwerkingtreding is zij van toepassing op de hangende gedingen, d.w.z. op de gedingen die nog moeten berecht worden bij de inwerkingtreding van de nieuwe bepalingen. ( Art. 3 G. W. ) ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19771027.2": {
+      "court": "CASS",
+      "date": "1977-10-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt qui constate, fût-ce implicitement, qu'une sentence arbitrale a été prise, rendue exécutoire et signifiée avant l'entrée en vigueur de la loi du 4 juillet 1972, approuvant la Convention européenne portant loi uniforme en matière d'arbitrage et introduisant dans le Code judiciaire une sixième partie concernant l'arbitrage, ne peut légalement faire application de cette loi à un recours en annulation contre cette sentence, même si celle-ci était susceptible, en vertu de la législation antérieure à cette loi, d'un recours en annulation par la voie d'un appel, le délai et les conditions de ce recours ayant été modifiés par ladite loi."
+      ],
+      "abstractNL": [
+        "Het arrest dat, al was het impliciet, vaststelt dat een scheidsrechterlijke uitspraak is gewezen, uitvoerbaar verklaard en betekend voor de inwerkingtreding van de wet van 4 juli 1972 tot goedkeuring van de Europese Overeenkomst houdende een eenvormige wet inzake arbitrage en tot invoering in het Gerechtelijk Wetboek van een zesde deel betreffende de arbitrage, kan deze wet niet wettig toepassen op een vordering tot nietigverklaring van deze uitspraak, zelfs indien krachtens de vroegere wetgeving nietigverklaring van de uitspraak bij wege van hoger beroep kon gevorderd worden, nu zowel de termijn als de voorwaarden voor dit rechtsmiddel bij die wet zijn gewijzigd."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19771027.6": {
+      "court": "CASS",
+      "date": "1977-10-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le directeur des contributions directes, saisi d'une réclamation recevable,a le pouvoir et le devoir, non seulement de statuer sur les contestations qui lui ont été soumises par la réclamation, mais encore de rectifier d'office cette cotisation dans tous ses éléments, tant au profit du contribuable qu'au profit de l'Etat (1)."
+      ],
+      "abstractNL": [
+        "De directeur der belastingen, bij wie een geschil inzake een aanslag aanhangig is gemaakt, is niet alleen bevoegd en heeft niet alleen tot plicht om over de betwistingen uitspraak te doen die hem worden onderworpen bij een ontvankelijk bezwaarschrift, doch eveneens om van ambtswege elk onderdeel van de aanslag die bij hem aanhangig is gemaakt te wijzigen zowel in het voordeel van de belastingplichtige als van de Staat (1)."
+      ]
+    }
+  }
+}

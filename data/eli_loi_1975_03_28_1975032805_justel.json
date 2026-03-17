@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010529.6": {
+      "court": "CASS",
+      "date": "2001-05-29",
+      "roleNumber": "P001434N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/29/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La tolérance dans les estimations des quantités en kilogrammes de poissons détenues à bord pour lesquels un TAC (Total Allowable Catches ou taux maximum de captures autorisé), est fixé vise l'uniformité des journaux de bord afin de veiller , au niveau de la Communauté, au respect des mesures de conservation fixées et contribuer à un contrôle plus efficace du respect des prescriptions en vigueur comme les taux maximum admissibles de captures et ne concerne pas les taux maximum de capture imposés."
+      ],
+      "abstractNL": [
+        "De tolerantiegrens voor ramingen inzake de hoeveelheden in kilogram aan boord gehouden vis waarvoor een TAC (Total Allowable Catches of totaal toegestane vangsten) is vastgesteld beoogt de eenvormigheid van de logboeken om alzo op het niveau van de Gemeenschap voor de naleving van de vastgestelde instandhoudingsmaatregelen zorg te dragen en bij te dragen tot een doeltreffender controle op de naleving van de geldende voorschriften zoals de toegelaten maximumvangsten en heeft geen betrekking op de opgelegde maximumvangsten zelf."
+      ]
+    }
+  }
+}

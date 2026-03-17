@@ -27,6 +27,20 @@
       "abstractNL": [
         "Niet wettelijk verantwoord is de beslissing van de bestendige deputatie van een provincieraad die, ter afwijzing van de vordering van een belastingplichtige, beslist dat de bestendige deputatie gebonden was door haar vroegere interpretatie; de bestendige deputatie is immers niet bevoegd om een bindende interpretatie te geven van een provincieverordening <1>."
       ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19690218.2": {
+      "court": "CASS",
+      "date": "1969-02-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/02/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les conseils provinciaux ont, en raison de leur autonomie, et sauf les exceptions prévues par la loi, le pouvoir de fixer librement, sous le seul contrôle de l'autorité supérieure, l'assiette et le montant de leurs taxes, ainsi que les exonérations. (Constit. art. 108; loi provinciale, art. 65 et 66.)"
+      ],
+      "abstractNL": [
+        "De provincieraden hebben, wegens hun autonomie, en behoudens de bij de wet bepaalde uitzonderingen, de macht om vrij, onder het toezicht van de hogere overheid, de zetting en het bedrag van hun belastingen alsmede de vrijstellingen vast te stellen. (Grondwet, art. 108; provinciale wet, art. 65 en 66)."
+      ]
     }
   },
   "78": {
@@ -168,6 +182,92 @@
       "abstractNL": [
         "De provinciegouverneur treedt in zijn opdracht van algemeen bestuurlijk toezicht op de gemeenten in het Vlaamse Gewest op als orgaan van het Vlaamse Gewest en niet als orgaan van de provincie (1). (1) Zie Cass., 13 feb. 1970, A.C., 1970, 541.",
         "De provinciegouverneur die in zijn opdracht van algemeen bestuurlijk toezicht op de gemeenten van het Vlaamse Gewest een fout begaat, brengt de aansprakelijkheid van de provincie niet in het gedrang (1). (1) Zie Cass., 13 feb. 1970, A.C., 1970, 541."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700213.2": {
+      "court": "CASS",
+      "date": "1970-02-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/02/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les actions en justice de la province, en demandant ou en défendant, sont exercées au nom de la députation permanente, poursuites et diligences du gouverneur. ( Loi provinciale, art. 124. )"
+      ],
+      "abstractNL": [
+        "De rechtsvorderingen van de provincie, als eiseres of als verweerster, worden gevoegd namens de bestendige deputatie, op vervolging en ten verzoeke van de gouverneur. ( Provinciewet, art. 124. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20000928.4": {
+      "court": "CASS",
+      "date": "2000-09-28",
+      "roleNumber": "C990542FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale n'impose à la députation permanente de joindre à son pourvoi un extrait conforme de la délibération par laquelle elle décide, sur la base de l'article 106, alinéa 5, de la loi provinciale, d'introduire son recours (1)."
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling legt de bestendige deputatie de verplichting op om bij haar voorziening een eensluidend uittreksel te voegen uit het door haar op grond van art. 106, vijfde lid, Provinciewet getroffen besluit om haar vordering in te stellen (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841025.5": {
+      "court": "CASS",
+      "date": "1984-10-25",
+      "roleNumber": "F673F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/25/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La décision de la députation permanente d'un conseil provincial qui rejette la réclamation d'un redevable contre la cotisation à une taxe provinciale directe, en se fondant sur une \"décision\" de la même députation permanente qui ne se trouve pas au nombre des pièces de la procédure, ne permet pas à la Cour de cassation d'en contrôler la légalité et n'est, dès lors, par régulièrement motivée."
+      ],
+      "abstractNL": [
+        "Het Hof kan geen toezicht uitoefenen op de wettigheid van de beslissing van de bestendige deputatie van een provincieraad en die beslissing is derhalve niet regelmatig met redenen omkleed, wanneer zij het bezwaarschrift van een belastingplichtige tegen de aanslag in een directe provinciebelasting verwerpt op grond van een ë beslissing è van dezelfde bestendige deputatie die niet onder de stukken van de rechtspleging voorkomt."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790917.7": {
+      "court": "CASS",
+      "date": "1979-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/17/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La députation permanente ne peut rejeter la réclamation contre les décimes additionnels communaux à une taxe provinciale au seul motif que la réclamation contre ladite imposition provinciale a été rejetée, même si les deux impositions ont fait l'objet des mêmes griefs."
+      ],
+      "abstractNL": [
+        "De bestendige deputatie kan het bezwaar tegen gemeentelijke opcentiemen op een provinciebelasting niet verwerpen om de enkele reden dat het bezwaar tegen die provinciebelasting verworpen werd, ook al werden tegen beide belastingen dezelfde grieven aangevoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790525.5": {
+      "court": "CASS",
+      "date": "1979-05-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/05/25/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifiée la décision de la députation permanente d'un conseil provincial qui, pour rejeter le demande d'un redevable, décide que la députation est tenue par l'interprétation du règlement-taxe provincial qu'elle aurait donnée antérieurement, la députation permanente étant sans pouvoir pour donner une interprétation authentique d'un règlement provincial."
+      ],
+      "abstractNL": [
+        "Niet wettelijk verantwoord is de beslissing van de bestendige deputatie van een provincieraad die, ter afwijzing van de vordering van een belastingplichtige, beslist dat de bestendige deputatie gebonden was door haar vroegere interpretatie; de bestendige deputatie is immers niet bevoegd om een bindende interpretatie te geven van een provincieverordening <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750604.7": {
+      "court": "CASS",
+      "date": "1975-06-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La députation permanente est sans pouvoir pour donner une interprétation par voie d'autorité d'un règlement-taxe édicté par le conseil provincial. ( Constitution , article 110; loi provinciale, article 66 et 107. )"
+      ],
+      "abstractNL": [
+        "De bestendige deputatie is niet bevoegd om een bindende interpretatie van een door de provincieraad uitgevaardigde belastingverordening te geven. ( Art. 110 Grondwet; artt. 66 en 107 Provinciewet. )"
       ]
     }
   }

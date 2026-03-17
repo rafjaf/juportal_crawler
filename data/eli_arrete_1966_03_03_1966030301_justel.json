@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19700601.5": {
+      "court": "CASS",
+      "date": "1970-06-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/01/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 1er août 1960 relative au transport rémunéré de choses par véhicules automobiles ne subordonnant à une délibération du Conseil des ministres que le règlement général pris pour son exécution, l'arrêté royal du 3 mars 1966 fixant un contrat-type pour le transport rémunéré de certains produits et matières en vrac par véhicules à benne a été valablement pris sans avoir fait l'objet de pareille délibération, les prescriptions qu'il édicte en exécution de l'article 8 de ladite loi étant distinctes par leur objet de celles que le règlement général doit ou peut déterminer suivant les articles 6 et 7, notamment des prescriptions en matière de documents de transport."
+      ],
+      "abstractNL": [
+        "De wet van 1 augustus 1960 betreffende het vervoer van zaken met motorvoertuigen tegen vergoeding onderwerpt aan een besluit van de Raad van ministers enkel het algemeen uitvoeringsreglement, zodat het koninklijk besluit van 3 maart 1966 tot vaststelling van een type-overeenkomst voor het vervoer van bepaalde stortgoederen en -produkten met kipwagens tegen vergoeding geldig werd genomen zonder zulk besluit, daar de voorschriften ter uitvoering van artikel 8 van genoemde wet, wat hun voorwerp betreft, verschillen van die welke het algemeen reglement moet of kan vaststellen, aan de hand van de artikelen 6 en 7, met name voorschriften inzake bescheiden voor het vervoer."
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700420.3": {
+      "court": "CASS",
+      "date": "1970-04-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/20/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La loi du 1er août 1960 relative au transport rémunéré de choses par véhicules automobiles ne subordonnant à une délibération du conseil des ministres que le règlement général pris pour son exécution, l'arrêté royal du 3 mars 1966 qui établit un contrat-type pour le transport rémunéré de certains produits et matières en vrac par véhicules à benne a été valablement pris sans avoir fait l'objet de pareille délibération, les prescriptions qu'il édicte en exécution de l'article 8 de ladite loi étant distinctes par leur objet de celles que le règlement général doit ou peut déterminer suivant les articles 6 et 7, notamment des prescriptions en matière de documents de transport."
+      ],
+      "abstractNL": [
+        "De wet van 1 augustus 1960 betreffende het vervoer van zaken met motorvoertuigen tegen vergoeding stelt alleen het algemeen reglement, dat voor zijn uitvoering wordt genomen, afhankelijk van een overleg in de ministerraad zodat het koninklijk besluit van 3 maart 1966 dat een type-overeenkomst vaststelt voor het vervoer van bepaalde stortgoederen en -produkten met kipwagens tegen vergoeding, geldig werd genomen zonder het voorwerp geweest te zijn van dergelijk overleg, vermits de voorschriften bepaald ter uitvoering van artikel 8 van bedoelde wet door hun voorwerp verschillend zijn van die welke het algemeen reglement moet of kan vaststellen volgens de artikelen 6 en 7, met name de voorschriften betreffende bescheiden voor het vervoer."
+      ]
+    }
+  }
+}

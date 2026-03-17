@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660124.3": {
+      "court": "CASS",
+      "date": "1966-01-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 31 mars 1954 relatif au commerce du lait de vache, pris en exécution de l'article 1er de l'arrêté royal n° 19 du 27 juillet 1939, confirmé par la loi du 16 juin 1947, trouve, depuis l'entrée en vigueur de la loi du 20 juillet 1962, dont l'article 8 a abrogé l'arrêté royal n° 19 susdit, mais dont l'article 1er a repris les dispositions de l'article 1er de cet arrêté royal, son fondement légal dans les dispositions de la loi nouvelle et est, partant, maintenu en vigueur sauf pour la partie que cette législation a rendue sans objet."
+      ],
+      "abstractNL": null
+    }
+  }
+}

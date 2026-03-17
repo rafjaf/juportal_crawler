@@ -13,6 +13,22 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:1999:ARR.19990614.3": {
+      "court": "CASS",
+      "date": "1999-06-14",
+      "roleNumber": "S980072N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le Fonds de fermeture est subrogé de plein droit aux droits et actions du travailleur vis-à-vis de l'employeur-débiteur non seulement pour le recouvrement auprès de ce dernier des rémunérations, indemnités et avantages qu'il a payés en application de l'article 2, mais aussi pour le recouvrement des indemnités de prépension complémentaires qu'il a payées en application de l'article 1er de la loi du 12 mai 1975."
+      ],
+      "abstractNL": [
+        "Het sluitingsfonds treedt niet alleen van rechtswege in de rechten en vorderingen van de werknemer tegenover de werkgever-schuldenaar voor de inning bij deze laatste van de lonen, vergoedingen en voordelen die het bij toepassing van artikel 2 van de Sluitingsfondswet heeft betaald, doch eveneens voor de inning van de aanvullende brugpensioenvergoedingen die het in uitvoering van artikel 1 van de wet van 12 mei 1975 heeft betaald."
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1986:ARR.19860310.10": {
       "court": "CASS",

@@ -41,6 +41,20 @@
       "abstractNL": [
         "De feitenrechter kan uit een geheel van gegevens een feitelijk vermoeden afleiden, ook indien die gegevens, afzonderlijk genomen, geen voldoende zekerheid geven."
       ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870223.14": {
+      "court": "CASS",
+      "date": "1987-02-23",
+      "roleNumber": "7723",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/23/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Décide légalement que ne ressortit pas à la commission paritaire de l'industrie textile et de la bonneterie l'entreprise dont l'activité consiste à réaliser, sur commande, des oeuvres d'art tissées, au départ de cartons remis par l'artiste, le juge qui relève que cette activité n'est pas comprise dans le secteur \"tapis et tissus d'ameublement, tapis noués main, tapis dénommés chenille, Axminster, Mourzouck et Coco\". ( Arrêté royal du 5 février 1974 instituant certaines commissions paritaires et fixant leur dénomination et leur compétence, art. 1er, alinéa 1er, 1, a. )"
+      ],
+      "abstractNL": [
+        "De rechter beslist wettig dat de onderneming die, op bestelling, geweven kunstwerken vervaardigt aan de hand van kartons van de kunstenaar, niet ressorteert onder het paritair comité voor de textielnijverheid en het breiwerk, wanneer hij vaststelt dat die activiteit niet behoort tot de sector \"tapijten en stoffen voor stoffering, met de hand geknoopte tapijten, chenilletapijten, Axminstertapijten, mourzoucktapijten en cocotapijten\". ( Art. 1, alinéa 1, 1, a, K.B. 5 februari 1974 tot oprichting van sommige paritaire comités en tot vaststelling van hun benaming en hun bevoegdheid. )"
+      ]
     }
   }
 }

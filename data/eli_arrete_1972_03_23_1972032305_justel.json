@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19821122.6": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3565",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer la rémunération minimum, prévue par les conventions collectives de travail il faut, en principe, sans préjudice de l'application de l'article 6 de la loi du 12 avril 1965 concernant la protection de la rémunération, tenir compte de la valeur réelle des avantages en nature et non de leur valeur fixée conventionnellement."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van het door collectieve arbeidsovereenkomsten voorgeschreven minimumloon moet, onverminderd de toepassing van art. 6 Wet Bescherming Loon, als regel rekening worden gehouden met de werkelijke waarde van de voordelen in natura en niet met hun conventioneel vastgestelde waarde."
+      ]
+    }
+  }
+}

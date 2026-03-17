@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950220.15": {
+      "court": "CASS",
+      "date": "1995-02-20",
+      "roleNumber": "S940042F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Viole l'article 130, alinéa 1er, alinéas 2 et 3, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, dans sa version postérieure à l'arrêté royal du 22 mars 1982 et antérieure à l'arrêté royal du 3 juillet 1985, la décision qui considére qu'un emploi est réputé à temps plein lorsque le travailleur a été occupé pendant vingt-quatre heures par semaine."
+      ],
+      "abstractNL": [
+        "Art. 130, alinéa 1, tweede en derde lid, Werkloosheidsbesluit, zoals het luidde na het KB van 22 maart 1982 en voor het KB van 3 juli 1985, wordt geschonden door de beslissing dat de arbeidsbetrekking wordt geacht voltijds te zijn, wanneer de werknemer gedurende vierentwintig uren per week is tewerkgesteld."
+      ]
+    }
+  }
+}

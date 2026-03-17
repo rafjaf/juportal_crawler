@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1968:ARR.19680507.1": {
+      "court": "CASS",
+      "date": "1968-05-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 12 des lois coordonnées, relatives à la taxe de circulation sur les véhicules automobiles, tel qu'il était en vigueur avant la loi du 13 février 1963, soumettait la réduction de ladite taxe, pour les véhicules exclusivement ou principalement affectés à des transports internationaux, à la condition notamment que ces véhicules ne soient pas utilisés en Belgique pendant plus de nonante jours par an."
+      ],
+      "abstractNL": [
+        "Artikel 12 van de gecoördineerde wetten betreffende de verkeersbelasting op de autovoertuigen, zoals het van kracht was vóór de wet van 13 februari 1963, stelde de vermindering van deze belasting betreffende de voertuigen die uitsluitend of hoofdzakelijk aangewend zijn voor het internationaal vervoer, onder meer afhankelijk van de voorwaarde dat die voertuigen gedurende niet meer dan 90 dagen in België worden gebruikt."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "36": {
+    "ECLI:BE:CASS:2011:ARR.20110325.3": {
+      "court": "CASS",
+      "date": "2011-03-25",
+      "roleNumber": "C.09.0639.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/03/25/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le non-respect de l'obligation de mettre l'acquéreur d'un bien immeuble au courant de la pollution ou non des terrains dès la phase des négociations préalables et de reprendre le contenu de l'attestation du sol demandée à l'OVAM dans l'acte sous seing privé, peut être sanctionné, à la demande de l'acquéreur ou de l'OVAM, par l'annulation de la cession; il s'agit d'une nullité relative susceptible par conséquent de faire l'objet d'une confirmation expresse ou tacite; le désistement de la demande en annulation en dehors de l'hypothèse et de la formalité prévues par l'article 36, §4, du décret relatif à l'assainissement du sol du 22 février 1995 n'est, dès lors, pas exclu."
+      ],
+      "abstractNL": [
+        "De niet-naleving van de verplichting om de verwerver van een onroerend goed reeds in de fase van de voorafgaande onderhandelingen op de hoogte te stellen van de al dan niet verontreiniging van de gronden en om in de onderhandse akte de inhoud van het door de overdrager bij OVAM aangevraagd bodemattest op te nemen kan op vordering van de verwerver of van OVAM worden gesanctioneerd door een nietigverklaring van de overdracht; het betreft een betrekkelijke en derhalve voor uitdrukkelijke of stilzwijgende bevestiging vatbare nietigheid; een verzaking aan de nietigheidsvordering buiten de hypothese en de vorm bepaald door artikel 36, §4, Bodemsaneringsdecreet is derhalve niet uitgesloten."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100624.3": {
+      "court": "CASS",
+      "date": "2010-06-24",
+      "roleNumber": "C.09.0065.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/06/24/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas nécessairement de la circonstance que, lors de la cession des terrains, le vendeur délivre l'attestation du sol requise par le décret du Conseil flamand du 22 février 1995 relatif à l'assainissement du sol, après la signature de l'acte sous seing privé et avant la passation de l'acte authentique, que l'acquéreur abuse de son droit de réclamer la nullité de la convention sous seing privé, même si l'attestation délivrée démontre une absence de pollution."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de verkoper bij de overdracht van gronden het door het Bodemsaneringsdecreet vereiste bodemattest aflevert na het ondertekenen van de onderhandse akte en voor dat de authentieke akte wordt verleden, heeft niet noodzakelijk tot gevolg dat de verwerver misbruik maakt van zijn recht de nietigheid te vorderen van de onderhandse overeenkomst, ook al wijst het afgeleverd attest op een afwezigheid van verontreiniging."
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "41": {
+    "ECLI:BE:CASS:1979:ARR.19790628.1": {
+      "court": "CASS",
+      "date": "1979-06-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/06/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que l'infraction aux articles 25 de l'arrêté royal du 8 septembre 1969 relatif à la lutte contre la brucellose bovine, modifié par l'arrêté royal du 20 septembre 1972, et 41 de l'arrêté royal du 10 mai 1963 portant des mesures en vue de la lutte contre la tuberculose bovine n'exclut pas l'octroi des indemnités dues, en vertu de l'article 20 dudit arrêté royal du 8 septembre 1969, pour l'abattage de bovins atteints de brucellose ou appartenant à un foyer de brucellose, est illégale la décision qui, après avoir condamné le prévenu du chef d'infraction aux articles 25 dudit arrêté royal du 8 septembre 1969 et 41 dudit arrêté royal du 10 mai 1963, accueille l'action civile tendant à la condamnation du prévenu à payer lesdites indemnités, en raison de ce que les infractions commises par celui-ci auraient eu pour effet de priver la partie civile de ces indemnités."
+      ],
+      "abstractNL": [
+        "Vermits overtreding van artt. 25 K.B. van 8 september 1969 betreffende de bestrijding van de runderbrucellose, zoals dat gewijzigd werd bij K.B. van 20 september 1972 (*), en 41 K.B. van 10 mei 1963 houdende maatregelen tot bestrijding van de rundertuberculose, niet uitsluit dat de overeenkomstig art. 20 van voormeld K.B. van 8 september 1969 verschuldigde vergoedingen voor het slachten van door brucellose aangetaste of tot een brucellosehaard behorende runderen worden toegekend, is elke beslissing onwettelijk die, na de beklaagde wegens overtreding van de artt. 25 van voormeld K.B. van 8 september 1969 en 41 van voormeld K.B. van 10 mei 1963 te hebben veroordeeld, de burgerlijke rechtsvordering die erop gericht is de beklaagde tot betaling van die vergoedingen te doen veroordelen, toewijst op grond dat de door hem gepleegde misdrijven tot gevolg zouden hebben gehad dat de burgerlijke partij die vergoedingen heeft moeten derven."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19691107.3": {
+      "court": "CASS",
+      "date": "1969-11-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/11/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, pour se conformer aux dispositions de l'arrêté royal du 10 mai 1963 portant des mesures en vue de la lutte contre la tuberculose bovine, un détenteur de bêtes bovines charge, en s'engageant à le rétribuer, un docteur en médecine vétérinaire, qui accepte, de procéder à l'intradermotuberculination desdits animaux, un lien contractuel se noue entre ces deux parties."
+      ],
+      "abstractNL": [
+        "Indien ter voldoening aan de bepalingen van het koninklijk besluit van 10 mei 1963 houdende maatregelen tot bestrijding van de rundertuberculose, een rundveehouder tegen vergoeding opdracht geeft aan een doctor in de diergeneeskunde, die ze aanvaardt, op bedoelde dieren de intradermotuberculinatie toe te passen, ontstaat er tussen deze beide partijen een contract."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1986:ARR.19861001.11": {
+      "court": "CASS",
+      "date": "1986-10-01",
+      "roleNumber": "5084",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/01/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La nullité soit d'une intervention ou d'un acte de la gendarmerie, soit d'une information ou d'une instruction fondée sur cette intervention ou cet acte, ne saurait se déduire des seules circonstances qu'au moment de son intervention ou de son acte, le membre de la gendarmerie était en habits civils et n'a pas justifié de sa qualité. ( Arr. royal du 14 mars 1963 portant organisation du service général de la gendarmerie, art. 1er. )"
+      ],
+      "abstractNL": [
+        "Nietigheid hetzij van een optreden of van een handeling van de rijkswacht hetzij van een opsporingsonderzoek of van een onderzoek op grond van dat optreden of van die handeling valt niet af te leiden uit de enkele omstandigheid dat het lid van de rijkswacht ten tijde van zijn optreden of van zijn handeling in burgerkledij was en niet van zijn hoedanigheid heeft doen blijken. ( Art. 1 K.B. van 14 maart 1963 houdende inrichting van de Algemene Dienst van de rijkswacht. )"
+      ]
+    }
+  }
+}

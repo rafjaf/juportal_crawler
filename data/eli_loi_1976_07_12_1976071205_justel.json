@@ -1,4 +1,48 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2007:ARR.20070118.2": {
+      "court": "CASS",
+      "date": "2007-01-18",
+      "roleNumber": "C060110F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La notion de dommage direct implique entre le fait dommageable et le dommage lui-même, un lien de cause à effet sans autre intermédiaire; il n'est pas requis, en outre, que la calamité naturelle soit la cause unique du dommage (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Het begrip rechtstreekse schade impliceert het bestaan van een oorzakelijk verband zonder verdere tussenschakel tussen het schadeveroorzakend feit en de schade zelf; het is niet bovendien vereist dat de natuurramp de enige oorzaak is van de schade (1). (1) Zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060302.9": {
+      "court": "CASS",
+      "date": "2006-03-02",
+      "roleNumber": "C040567N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/03/02/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut refuser sur la base d'un principe de confiance d'appliquer la réglementation du Code judiciaire relative à l'appel au recours dirigé contre la décision du gouverneur de province rendue en vertu des dispositions de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles."
+      ],
+      "abstractNL": [
+        "De rechter kan niet weigeren op grond van een vertrouwensbeginsel de regeling van het Gerechtelijk Wetboek betreffende het hoger beroep toe te passen op de voorziening gericht tegen de beslissing van de provinciegouverneur gewezen op grond van de bepalingen van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen."
+      ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20041210.4": {
+      "court": "CASS",
+      "date": "2004-12-10",
+      "roleNumber": "C030155N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/12/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas un dommage direct, matériel et certain qui, causé par une calamité naturelle, donne lieu à une intervention financière de l'Etat, le dommage relatif à des animaux à naître (1). (1) Voir Cass., 5 octobre 2000, RG C.98.0448.F, n° 521 et les conclusions de M. l'avocat général HENKES; 7 juin 2002, RG C.00.0630.F, n° 346."
+      ],
+      "abstractNL": [
+        "Schade met betrekking tot ongeboren dieren is niet de rechtstreekse, materiële en zekere schade die, veroorzaakt door een natuurramp, aanleiding geeft tot een financiële tegemoetkoming van de Staat (1). (1) Zie Cass., 5 okt. 2000, AR C.98.0448.F, nr 521 en de conclusie van adv.-gen. Henkes; 7 juni 2002, AR C.00.0630.F, nr 346."
+      ]
+    }
+  },
   "2": {
     "ECLI:BE:CASS:2026:ARR.20260112.3N.10": {
       "court": "CASS",
@@ -10,6 +54,314 @@
       "abstractFR": null,
       "abstractNL": [
         "Bij de beoordeling of een natuurverschijnsel als landbouwramp kan worden erkend, moet het uitzonderlijke karakter van dit natuurverschijnsel zelf worden beoordeeld, onafhankelijk van de specifieke kenmerken van een welbepaalde teelt of oogst; het natuurverschijnsel dient op zichzelf en in zijn geheel te worden onderzocht, zonder dat dit onderzoek mag worden beperkt tot de groeiperiode van een welbepaalde teelt."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:1993:ARR.19930603.17": {
+      "court": "CASS",
+      "date": "1993-06-03",
+      "roleNumber": "9607",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/06/03/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement sa décision, le juge qui condamne l'etat, envers la victime d'une calamité naturelle, au remboursement du prix de certains achats et location, bien qu'il n'apparaisse pas que ce prix ait été payé pour la réparation, la reconstruction ou la reconstitution de biens corporels. (L. 12 juillet 1976, art. 8, alinéa 1er, A.)."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing van de rechter die de Staat veroordeelt om aan de getroffene van een natuurramp het bedrag van bepaalde aankopen en huur terug te betalen, hoewel niet blijkt dat dit bedrag werd betaald voor de herstelling, de wederopbouw of de wedersamenstelling van lichamelijke goederen. (Art. 8, alinéa 1, A. W. 12 juli 1976)."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1990:ARR.19900927.13": {
+      "court": "CASS",
+      "date": "1990-09-27",
+      "roleNumber": "8790",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/27/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles est de stricte interprétation; les dommages auxquels elle s'applique ne peuvent, dès lors, être réparés que par les indemnités qu'elle prévoit, sans majoration aucune, fût-ce par l'adjonction d'intérêts compensatoires. ( Loi du 12 juillet 1976, art. 8 et 10. )"
+      ],
+      "abstractNL": [
+        "De wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen moet strikt worden uitgelegd; de schade waarop zij van toepassing is, kan derhalve enkel worden hersteld door de erin voorgeschreven vergoedingen, zonder enige verhoging, al was het door toekenning van compensatoire interest. ( Artt. 8 en 10 wet van 12 juli 1976. )"
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900601.9": {
+      "court": "CASS",
+      "date": "1990-06-01",
+      "roleNumber": "6576",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles est d'ordre public."
+      ],
+      "abstractNL": [
+        "De wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen, raakt de openbare orde."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880519.14": {
+      "court": "CASS",
+      "date": "1988-05-19",
+      "roleNumber": "8053",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/19/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 8 et 10 de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, le juge qui, pour déterminer l'indemnité de réparation, ajoute des intérêts compensatoires et un montant destiné à actualiser cette indemnité, au coût normal, à la date du fait dommageable, de la réparation, de la reconstruction ou de la reconstitution des biens sinistrés."
+      ],
+      "abstractNL": [
+        "De artt. 8 en 10 van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen worden geschonden door de rechter die, bij het vaststellen van de herstelvergoeding, aan het - ten tijde van het schadelijke feit normale - bedrag van de kosten voor herstelling, wederopbouw of wedersamenstelling van de geteisterde goederen compensatoire rente en een bedrag ter actualisering van die vergoeding toevoegt."
+      ]
+    }
+  },
+  "17": {
+    "ECLI:BE:CASS:2010:ARR.20100201.3": {
+      "court": "CASS",
+      "date": "2010-02-01",
+      "roleNumber": "C.09.0069.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/02/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La possibilité offerte à l'intéressé par l'article 5, § 2, de l'arrêté royal du 18 août 1976 fixant les conditions de forme et de délai d'introduction des demandes d'intervention financière du chef de dommages causés à des biens privés par des calamités naturelles d'introduire la demande en dehors du délai prévu sous peine de forclusion à l'article 5, § 1er, de l'arrêté royal ne s'applique qu'à la seule demande d'intervention introduite par l'intéressé pour l'ensemble de ses biens sinistrés. Cette possibilité d'introduire une demande en dehors des délais n'est pas applicable si une première demande d'intervention a déjà été rejetée par le gouverneur. Conformément à l'article 21 de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, l'intéressé peut introduire un recours contre cette décision devant la cour d'appel."
+      ],
+      "abstractNL": [
+        "De door artikel 5, § 2 van het koninklijk besluit van 18 augustus 1976 aan de belanghebbende geboden mogelijkheid om de aanvraag tot tegemoetkoming nog in te dienen buiten de termijn van artikel 5, § 1, bepaald op straf van uitsluiting, geldt alleen voor de door de belanghebbende ingediende enige aanvraag tot tegemoetkoming voor het geheel van zijn geteisterde goederen. Deze mogelijkheid tot aanvraag buiten termijn geldt niet indien de aanvraag tot tegemoetkoming reeds door de gouverneur werd afgewezen. Tegen die beslissing moet de belanghebbende op grond van artikel 21 van de wet van 12 juli 1976 voorziening instellen bij het hof van beroep."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le procureur général près la Cour de cassation peut se pourvoir dans l'intérêt de la loi contre un jugement contradictoire rendu par un juge de paix statuant en matière de remembrement de biens ruraux contre lequel la loi n'a ouvert aucun recours (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De procureur-generaal bij het Hof van Cassatie kan zich in het belang van de wet in cassatie voorzien tegen een vonnis op tegenspraak van de vrederechter inzake ruilverkaveling van landeigendommen, wanneer de wet in geen enkel rechtsmiddel heeft voorzien (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:1991:ARR.19911024.12": {
+      "court": "CASS",
+      "date": "1991-10-24",
+      "roleNumber": "9078",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/10/24/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'obligation de payer les indemnités prévues par la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, qui suppose nécessairement la reconnaissance du droit subjectif à ces indemnités, qu'il soit civil ou politique, n'en constitute pas moins une obligation qui, au sens de l'article 1153 du Code civil, se borne au payement d'une certaine somme et entraîne, dès lors, en cas de retard dans l'exécution, les intérêts légaux prévus à cette disposition."
+      ],
+      "abstractNL": [
+        "De verplichting tot betaling van de vergoedingen bepaald bij de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen, in welke verplichting noodzakelijkkerwijze de erkenning ligt van het subjectieve - hetzij burgerlijk hetzij politieke - recht op die vergoeding, is niettemin een verbintenis die, in de zin van art. 1153 Burgerlijk Wetboek, enkel betrekking heeft op de betaling van een zekere geldsom, zodat bij vertraging in de uitvoering, de bij die bepaling vastgestelde wettelijke interest verschuldigd is."
+      ]
+    }
+  },
+  "24": {
+    "ECLI:BE:CASS:2001:ARR.20011214.7": {
+      "court": "CASS",
+      "date": "2001-12-14",
+      "roleNumber": "C010162F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'Etat qui, n'étant pas partie à la procédure d'indemnisation contradictoire en première instance devant le gouverneur de province, n'a pas soumis ses observations à l'expert désigné par le gouverneur, est recevable de contester le rapport d'expertise devant la cour d'appel."
+      ],
+      "abstractNL": [
+        "De Staat is geen partij in de procedure tot vergoeding op tegenspraak die in eerste aanleg voor de provinciegouverneur wordt gevoerd en heeft dus zijn opmerkingen niet aan de door de provinciegouverneur aangewezen deskundige voorgelegd maar mag het deskundigenverslag voor het hof van beroep betwisten."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950119.12": {
+      "court": "CASS",
+      "date": "1995-01-19",
+      "roleNumber": "C940224F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le recours devant la cour d'appel remet en question la décision du gouverneur de la province déclarant la demande d'intervention financière du chef de dommages causés à des biens privés par des calamités naturelles irrecevable suite à la non-production de certaines pièces justificatives; la cour d'appel peut décider, si elle constate que ces pièces ont été produites entre-temps, que la demande initiale, introduite avant l'expiration du délai prescrit à peine de forclusion, est recevable."
+      ],
+      "abstractNL": [
+        "Door de voorziening voor het hof van beroep wordt de beslissing van de provinciegouverneur, waarbij de aanvraag tot financiële tegemoetkoming voor door natuurrampen aan private goederen veroorzaakte schade niet-ontvankelijk werd verklaard wegens niet-overlegging van bepaalde bewijsstukken, opnieuw in het geding gebracht; wanneer het hof van beroep vaststelt dat die stukken intussen zijn overgelegd, kan het de oorspronkelijke aanvraag, die is ingediend voor het verstrijken van de op straffe van uitsluiting voorgeschreven termijn, ontvankelijk verklaren."
+      ]
+    }
+  },
+  "28": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:1990:ARR.19900322.12": {
+      "court": "CASS",
+      "date": "1990-03-22",
+      "roleNumber": "8467",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les droits résultant de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, ne peuvent être valablement cédés que dans les cas expressément et limitativement prévus par l'article 31 de ladite loi."
+      ],
+      "abstractNL": [
+        "De rechten voortvloeiende uit de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen, kunnen niet rechtsgeldig worden afgestaan behalve in de bij art. 31 van die wet uitdrukkelijk en op beperkende wijze opgesomde gevallen."
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "36": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "41": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "47": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "51": {
+    "ECLI:BE:CASS:2009:ARR.20091002.1": {
+      "court": "CASS",
+      "date": "2009-10-02",
+      "roleNumber": "C.09.0383.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout en réservant les moins-values ou les plus-values qui peuvent résulter de la présence dans ou sur les terres échangées d'éléments de nature à présenter une valeur propre, le législateur a entendu que, dans le cadre d'opérations de remembrement, qui sont liées au seul intérêt de l'agriculture, la valeur de ces terres elles-mêmes, qui n'ont d'autre affectation qu'agricole, soit estimée sur la base de critères liés à cette affectation et a exclu que puisse être prise en considération leur valeur vénale ou patrimoniale (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Onder voorbehoud van de minder- of meerwaarden die het gevolg kunnen zijn van het feit dat er in of op de geruilde gronden elementen met een eigen waarde kunnen voorkomen, heeft de wetgever gewild dat bij ruilverkavelingsverrichtingen, die enkel in het belang van de landbouw geschieden, de waarde van die uitsluitend voor landbouwdoeleinden bestemde gronden zelf zou worden geraamd op grond van criteria die met deze bestemming samenhangen en uitgesloten heeft dat de verkoops- of vermogenswaarde ervan in aanmerking zou kunnen worden genomen (1). (1) Zie concl. O.M."
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:2010:ARR.20100201.1": {
+      "court": "CASS",
+      "date": "2010-02-01",
+      "roleNumber": "C.09.0248.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/02/01/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux préparatoires de l'article 55, alinéa 1er, de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles que, pour le règlement des dépens des contestations relatives aux dommages causés par des calamités naturelles, le législateur a essentiellement repris les textes d'autres lois d'indemnisation, telle que la loi du 1er octobre 1947 relative à la réparation des dommages de guerre aux biens privés et il ressort des travaux préparatoires des articles 40 et 41 de la loi du 1er octobre 1947 précitée que le législateur a voulu mettre les frais des actes de procédure intentés par les pouvoirs publics à charge des pouvoirs publics, fussent-ils victorieux. Les frais des avocats personnels du sinistré étaient expressément exclus de ce règlement."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis van artikel 55, eerste lid van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen blijkt dat de wetgever voor de regeling van de kosten van het geding in geschillen met betrekking tot de schade veroorzaakt door natuurrampen grotendeels de tekst overnam die werd gebruikt in andere vergoedingswetten, zoals de wet van 1 oktober 1947 betreffende de herstelling der oorlogsschade aan private goederen, en het uit de wetsgeschiedenis van de artikelen 40 en 41 van die wet blijkt dat het de bedoeling van de wetgever was dat het bestuur de kosten zou dragen van de door hem gedane proceshandelingen, zelfs als het bestuur in het gelijk werd gesteld. De kosten van de eigen raadslieden van de schadelijder werden hierbij uitdrukkelijk uitgesloten van deze regeling."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19831118.7": {
+      "court": "CASS",
+      "date": "1983-11-18",
+      "roleNumber": "3850",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 52 de la loi du 22 juillet 1970 relative au remembrement, qui donne au juge de paix compétence pour déterminer, à la demande des intéressés, sur quelles nouvelles parcelles ou parties de celles-ci sont reportés les droits que possédaient ces personnes sur d'anciennes parcelles et dont il n'a pas été tenu compte dans l'acte de remembrement à la suite des circonstances précisées dans cet article, est également applicable aux cas dans lesquels le comité de remembrement a, dans les mêmes circonstances, établi sur les nouvelles parcelles des droits réels ou personnels qui n'existaient pas sur les anciennes parcelles."
+      ],
+      "abstractNL": [
+        "Art. 52 wet van 22 juli 1970, dat aan de vrederechter de bevoegdheid verleent om op verzoek van de belanghebbenden te bepalen op welke nieuwe kavels of gedeelten hiervan de rechten overgaan die personen op vroegere kavels bezaten en waarmee in de ruilverkavelingsakte geen rekening is gehouden ten gevolge van in dat artikel nader vermelde omstandigheden, is eveneens toepasselijk op de gevallen waarin het ruilverkavelingscomité onder dezelfde omstandigheden op de nieuwe kavels zakelijke of persoonlijke rechten heeft gevestigd die op de vroegere kavels niet rustten."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011214.7": {
+      "court": "CASS",
+      "date": "2001-12-14",
+      "roleNumber": "C010162F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'Etat qui, n'étant pas partie à la procédure d'indemnisation contradictoire en première instance devant le gouverneur de province, n'a pas soumis ses observations à l'expert désigné par le gouverneur, est recevable de contester le rapport d'expertise devant la cour d'appel."
+      ],
+      "abstractNL": [
+        "De Staat is geen partij in de procedure tot vergoeding op tegenspraak die in eerste aanleg voor de provinciegouverneur wordt gevoerd en heeft dus zijn opmerkingen niet aan de door de provinciegouverneur aangewezen deskundige voorgelegd maar mag het deskundigenverslag voor het hof van beroep betwisten."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880519.14": {
+      "court": "CASS",
+      "date": "1988-05-19",
+      "roleNumber": "8053",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/19/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 8 et 10 de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, le juge qui, pour déterminer l'indemnité de réparation, ajoute des intérêts compensatoires et un montant destiné à actualiser cette indemnité, au coût normal, à la date du fait dommageable, de la réparation, de la reconstruction ou de la reconstitution des biens sinistrés."
+      ],
+      "abstractNL": [
+        "De artt. 8 en 10 van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen worden geschonden door de rechter die, bij het vaststellen van de herstelvergoeding, aan het - ten tijde van het schadelijke feit normale - bedrag van de kosten voor herstelling, wederopbouw of wedersamenstelling van de geteisterde goederen compensatoire rente en een bedrag ter actualisering van die vergoeding toevoegt."
       ]
     }
   }

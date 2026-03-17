@@ -1,0 +1,48 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1982:ARR.19821122.8": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3527",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les rémunérations payées en vertu d'une convention collective de travail sont liées à l'indice des prix à la consommation, les indexations sont applicables aux rémunérations effectivement payées, sans déduction des augmentations de rémunérations qui sont étrangères à l'évolution de l'indice des prix à la consommation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitbetaalde lonen ingevolge een collectieve arbeidsovereenkomst gekoppeld zijn aan het indexcijfer van de consumptieprijzen, dienen de indexaanpassingen te worden toegepast op de werkelijk uitbetaalde lonen zonder dat de toegekende loonsverhogingen die niets te maken hebben met de evolutie van het indexcijfer, in mindering mogen worden gebracht."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19890116.18": {
+      "court": "CASS",
+      "date": "1989-01-16",
+      "roleNumber": "6394",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/16/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Les employés ne ressortissant pas à une des catégories professionnelles visées aux articles 2 et 3 des conventions collectives du travail du 29 avril 1977 et du 19 mars 1979, conclues au sein de la commission paritaire nationale auxiliaire pour employés, rendue obligatoire par les arrêtés royaux du 5 janvier 1978 et du 26 juin 1979, ne peuvent prétendre à la prime octroyée en vertu des articles 9 de la convention collective de travail du 29 avril 1977 ou 8 de la convention collective de travail du 19 mars 1979."
+      ],
+      "abstractNL": [
+        "De bedienden die niet behoren tot een van de beroepscategorieën omschreven in de artt. 2 en 3 C.A.O.'s 29 april 1977 en 19 maart 1979, gesloten in het Aanvullend Nationaal Paritair Comité voor de Bedienden en algemeen verbindend verklaard bij K.B.'s 5 januari 1978 en 26 juni 1979, hebben geen aanspraak op de premie toegekend krachtens de artt. 9 C.A.O. 29 april 1977 of 8 C.A.O. 19 maart 1979."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821122.8": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3527",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les rémunérations payées en vertu d'une convention collective de travail sont liées à l'indice des prix à la consommation, les indexations sont applicables aux rémunérations effectivement payées, sans déduction des augmentations de rémunérations qui sont étrangères à l'évolution de l'indice des prix à la consommation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitbetaalde lonen ingevolge een collectieve arbeidsovereenkomst gekoppeld zijn aan het indexcijfer van de consumptieprijzen, dienen de indexaanpassingen te worden toegepast op de werkelijk uitbetaalde lonen zonder dat de toegekende loonsverhogingen die niets te maken hebben met de evolutie van het indexcijfer, in mindering mogen worden gebracht."
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "35": {
+    "ECLI:BE:CASS:1972:ARR.19720904.6": {
+      "court": "CASS",
+      "date": "1972-09-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La prescription de l'action publique résultant d'une infraction à l'article 35 de l'arrêté royal du 9 septembre 1967 portant le règlement général relatif au transport rémunéré de choses par véhicules automobiles, pris en exécution de la loi du 1er août 1960, est régie par les articles 21 et suivants de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale."
+      ],
+      "abstractNL": [
+        "De verjaring van de strafvordering voortvloeiend uit een overtreding van artikel 35 van het koninklijk besluit van 9 september 1967 houdende algemeen reglement betreffende het vervoer van zaken met motorvoertuigen tegen vergoeding, genomen ter uitvoering van de wet van 1 augustus 1960, wordt geregeld bij de artikelen 21 en volgende van de wet van 17 april 1878 houdende de voorafgaande titel van het Wetboek van strafvordering."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840619.16": {
+      "court": "CASS",
+      "date": "1984-06-19",
+      "roleNumber": "8618",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/06/19/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui condamne un prévenu du chef de transport rémunéré de choses sans certificat de transport ni autorisation de transport national sur la base de la loi du 1er août 1960 et de l'arrêté royal du 9 septembre 1967, l'autorisation de transport précédemment accordée au prévenu ayant été retirée par décision administrative, ne fait pas application de cette décision en statuant sur l'infraction, et ne peut, dès lors, contrôler la légalité de ce retrait."
+      ],
+      "abstractNL": [
+        "De strafrechtelijke veroordeling op de basis van de wet van 1 augustus 1960 en van het K.B. van 9 september 1967, wegens vervoer van zaken tegen vergoeding waarvoor geen vervoerbewijs of vervoervergunning voor nationaal vervoer werd afgegeven, maakt geen toepassing uit van de administratieve beslissing, waarbij de vroeger aan de verdachte toegekende vervoervergunning werd ingetrokken; de rechter kan derhalve de wettigheid van die intrekking niet toetsen."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720904.6": {
+      "court": "CASS",
+      "date": "1972-09-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/09/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La prescription de l'action publique résultant d'une infraction à l'article 35 de l'arrêté royal du 9 septembre 1967 portant le règlement général relatif au transport rémunéré de choses par véhicules automobiles, pris en exécution de la loi du 1er août 1960, est régie par les articles 21 et suivants de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale."
+      ],
+      "abstractNL": [
+        "De verjaring van de strafvordering voortvloeiend uit een overtreding van artikel 35 van het koninklijk besluit van 9 september 1967 houdende algemeen reglement betreffende het vervoer van zaken met motorvoertuigen tegen vergoeding, genomen ter uitvoering van de wet van 1 augustus 1960, wordt geregeld bij de artikelen 21 en volgende van de wet van 17 april 1878 houdende de voorafgaande titel van het Wetboek van strafvordering."
+      ]
+    }
+  }
+}

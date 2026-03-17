@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19881004.9": {
+      "court": "CASS",
+      "date": "1988-10-04",
+      "roleNumber": "1404",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/04/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le fait que le préjudicié, qui subit une perte potentielle de revenus, bénéficie d'un statut propre ne suffit pas à exclure tout lien de causalité entre une faute et cette perte potentielle."
+      ],
+      "abstractNL": [
+        "Dat de schadelijder, die een potentieel verlies aan inkomsten lijdt, een eigen statuut geniet, biedt geen grond om het oorzakelijk verband tussen een fout en dat potentieel verlies te ontkennen."
+      ]
+    }
+  }
+}

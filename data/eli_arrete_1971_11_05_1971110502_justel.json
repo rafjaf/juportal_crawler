@@ -1,0 +1,76 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1994:ARR.19940606.11": {
+      "court": "CASS",
+      "date": "1994-06-06",
+      "roleNumber": "M940008F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en vertu du tableau annexé à l'arrêté royal du 5 novembre 1971, une affection n'entraîne l'inaptitude au service militaire qu'en fonction d'un certain degré ou caractère de gravité, le conseil de révision apprécie en fait et partant souverainement celui-ci. (L. coord. 30 avril 1962, art. 14, alinéa 3; A.R. 5 novembre 1971, art. 1er)."
+      ],
+      "abstractNL": [
+        "Wanneer een aandoening, krachtens de tabel bij K.B. 5 nov. 1971, enkel bij een bepaalde graad of ernst ongeschiktheid voor de militaire dienst tot gevolg heeft, beoordeelt de herkeuringsraad zulks in feite en derhalve op onaantastbare wijze. (Art. 14, alinéa 3, Dienstplichtwet; art. 1 K.B. 5 nov. 1971.)"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851028.14": {
+      "court": "CASS",
+      "date": "1985-10-28",
+      "roleNumber": "M577N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/28/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Sauf disposition particulière figurant au tableau des maladies et infirmités, le conseil de revision n'apprécie pas de manière souveraine si l'infirmité ou la maladie entraîne l'inaptitude au service ( Arr. roy. du 5 novembre 1971, art. 1er et tableau I, 3 et 5 )."
+      ],
+      "abstractNL": [
+        "Behoudens afwijkende aanwijzing in de tabel van lichaamsgebreken en ziekten oordeelt de herkeuringsraad niet vrij of het gebrek of de ziekte ongeschiktheid voor de dienst tot gevolg heeft ( K.B. 5 nov. 1971, art. 1 en tabel I, 3 en 5 )."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1978:ARR.19780908.3": {
+      "court": "CASS",
+      "date": "1978-09-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Suivant le point 3 de la première partie du tableau joint comme annexe no 1 à l'arrêté royal du 5 novembre 1971 modifiant la réglementation relative aux critères d'aptitude physique au service militaire, aux engagements et rengagements, le contenu de ce tableau aussi bien que ses précisions et instructions complémentaires ont un caractère impératif."
+      ],
+      "abstractNL": [
+        "Ingevolge punt 3 van het eerste deel van de tabel, die als bijlage 1 is gevoegd bij K.B. van 5 november 1971 tot wijziging van de reglementering betreffende de keuringscriteria inzake lichamelijke geschiktheid van de militaire dienst, de dienstnemingen en wederdienstnemingen, vertonen zowel de inhoud van die tabel als de bijkomende preciseringen en onderrichtingen een dwingend karakter."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940606.11": {
+      "court": "CASS",
+      "date": "1994-06-06",
+      "roleNumber": "M940008F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/06/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'en vertu du tableau annexé à l'arrêté royal du 5 novembre 1971, une affection n'entraîne l'inaptitude au service militaire qu'en fonction d'un certain degré ou caractère de gravité, le conseil de révision apprécie en fait et partant souverainement celui-ci. (L. coord. 30 avril 1962, art. 14, alinéa 3; A.R. 5 novembre 1971, art. 1er)."
+      ],
+      "abstractNL": [
+        "Wanneer een aandoening, krachtens de tabel bij K.B. 5 nov. 1971, enkel bij een bepaalde graad of ernst ongeschiktheid voor de militaire dienst tot gevolg heeft, beoordeelt de herkeuringsraad zulks in feite en derhalve op onaantastbare wijze. (Art. 14, alinéa 3, Dienstplichtwet; art. 1 K.B. 5 nov. 1971.)"
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851028.14": {
+      "court": "CASS",
+      "date": "1985-10-28",
+      "roleNumber": "M577N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/10/28/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Sauf disposition particulière figurant au tableau des maladies et infirmités, le conseil de revision n'apprécie pas de manière souveraine si l'infirmité ou la maladie entraîne l'inaptitude au service ( Arr. roy. du 5 novembre 1971, art. 1er et tableau I, 3 et 5 )."
+      ],
+      "abstractNL": [
+        "Behoudens afwijkende aanwijzing in de tabel van lichaamsgebreken en ziekten oordeelt de herkeuringsraad niet vrij of het gebrek of de ziekte ongeschiktheid voor de dienst tot gevolg heeft ( K.B. 5 nov. 1971, art. 1 en tabel I, 3 en 5 )."
+      ]
+    }
+  }
+}

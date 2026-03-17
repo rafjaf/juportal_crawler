@@ -1,0 +1,46 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1971:ARR.19710928.7": {
+      "court": "CASS",
+      "date": "1971-09-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/09/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La valeur relative de chacune des prestations de santé mentionnées dans la nomenclature est exprimée par le nombre-coefficient qui suit la lettre-clé. ( Arrêté royal du 24 décembre 1963 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire contre la maladie et l'invalidité, art. 1er. )"
+      ],
+      "abstractNL": [
+        "De betrekkelijke waarde van elke geneeskundige verstrekking die in de nomenclatuur van die verstrekkingen is vermeld, wordt aangegeven door het coëfficiëntgetal dat op de sleutelletter volgt. ( Koninklijk besluit van 24 december 1963 tot vaststelling van de nomenclatuur der geneeskundige verstrekkingen van de verplichte ziekte- en invaliditeitsverzekering, art. 1. )"
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1968:ARR.19680610.9": {
+      "court": "CASS",
+      "date": "1968-06-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/06/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le comité de gestion du service des soins de santé de l'Institut national d'assurance maladie-invalidité, chargé par l'article 12-4° de la loi du 9 août 1963 modifié par l'article 5-1 de la loi du 8 avril 1965 d'élaborer les règlements visés par lesdites lois concernant les conditions d'ouverture du droit aux prestations de l'assurance soins de santé et de fixer, sur proposition ou avis des conseils techniques compétents, les conditions auxquelles est subordonné le remboursement de certaines prestations de santé, avait le pouvoir de modifier, par son règlement du 20 décembre 1966, la réglementation provisoire établie par l'arrêté royal du 24 décembre 1963 portant règlement des prestations de santé en matière d'assurance obligatoire contre la maladie et l'invalidité, et puisait, dans l'article 152, alinéa 1er, de la loi du 9 août 1963 et l'article 10 de cet arrêté royal, le pouvoir de réaliser cette modification en complétant ledit arrêté royal, celui-ci contenant un règlement que le Roi avait établi provisoirement en ses lieu et place."
+      ],
+      "abstractNL": [
+        "Het beheerscomité van de Dienst voor geneeskundige verzorging van het Rijksinstituut voor ziekte- en invaliditeitsverzekering dat door artikel 12-4° van de wet van 9 augustus 1963, gewijzigd bij artikel 5-1 van de wet van 8 augustus 1965, belast is met de uitwerking van de bij deze wetten bedoelde verordeningen betreffende de voorwaarden voor het verkrijgen van het recht op de verstrekkingen van de verzekering voor geneeskundige verzorging, en, op voorstel of advies van de bevoegde technische raden, de voorwaarden vast te stellen waarvan de vergoeding van de bij artikel 23 bedoelde geneeskundige verstrekkingen afhangt, had het recht door zijn verordening van 20 december 1966 wijzigingen aan te brengen aan de voorlopige reglementering ingesteld bij koninklijk besluit van 24 december 1963, houdende reglementering betreffende de geneeskundige verzorging inzake verplichte ziekte- en invaliditeitsverzekering, en krachtens artikel 152, alinéa 1, van de wet van 9 augustus 1965 en artikel 10 van dit koninklijk besluit was het bevoegd om deze wijziging aan te brengen bij wijze van aanvulling van dit koninklijk besluit hetwelk een reglementering inhield die de Koning voorlopig en in zijn plaats opgemaakt had."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800311.8": {
+      "court": "CASS",
+      "date": "1980-03-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/11/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  }
+}

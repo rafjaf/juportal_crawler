@@ -1,0 +1,50 @@
+{
+  "10": {
+    "ECLI:BE:CASS:1995:ARR.19950327.10": {
+      "court": "CASS",
+      "date": "1995-03-27",
+      "roleNumber": "P930263N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition de l'arrêté royal du 3 août 1976 portant le règlement général relatif aux déversements des eaux usées dans les eaux de surface ordinaires, dans les égouts publics et dans les voies artificielles d'écoulement des eaux pluviales ne requiert que les conditions locales prises en considération par l'autorité compétente soient expressément énoncées dans l'autorisation de déversement."
+      ],
+      "abstractNL": [
+        "Geen bepaling van het KB van 3 aug. 1976, houdende algemeen reglement voor het lozen van afvalwater in de gewone oppervlaktewateren, in de openbare riolen en in de kunstmatige afvoerwegen voor regenwater vereist dat de door de bevoegde overheid in aanmerking genomen plaatselijke omstandigheden expressis verbis in de lozingsvergunning zelf worden vermeld."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1998:ARR.19980512.9": {
+      "court": "CASS",
+      "date": "1998-05-12",
+      "roleNumber": "P960584N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/05/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 4bis de l'arrêté royal du 3 août 1976, aux termes duquel les conditions générales et sectorielles fixées en vertu des articles 9 et 20 de cet arrêté sont des valeurs maximales à respecter à tout moment, à moins qu'elles ne soient transformées dans l'autorisation de déversement en valeur moyenne pour une période de 24 heures, est aussi applicable aux conditions associées, conformément aux articles 9, § 5, a, et 20, § 5, a, du même arrêté, à un volume sectoriel de référence ou calculées en fonction de celui-ci, en application de l'avant-dernier alinéa des paragraphes précités, sur la base du volume de déversement spécifique de l'entreprise."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 4bis KB 3 augustus 1976 luidens dewelke de overeenkomstig de artt. 9 en 20 van dit besluit bepaalde algemene en sectoriële voorwaarden maximale waarden zijn die op elk ogenblik dienen te worden nagekomen, tenzij zij in de lozingsvergunning werden omgezet in gemiddelde waarden voor een periode van 24 uur, geldt ook voor de voorwaarden die, overeenkomstig de artt. 9, § 5, a, en 20, § 5, a, van hetzelfde besluit zijn gekoppeld aan een sectoriëel referentievolume of die op grond hiervan, met toepassing van het voorlaatste lid van de vermelde paragrafen, vanuit het specifiek lozingsvolume van de onderneming worden berekend."
+      ]
+    }
+  },
+  "35": {
+    "ECLI:BE:CASS:1979:ARR.19790410.2": {
+      "court": "CASS",
+      "date": "1979-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/04/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le délai de quarante mois visé aux articles 14 de l'arrêté royal du 23 janvier 1974 et 35 de l'arrêté royal du 3 août 1976, dont les entreprises disposent pour respecter les conditions prévues dans les actes d'autorisation, ne concerne que les conditions imposées lors de l'octroi des nouvelles autorisations conformément aux règlements généraux pris en exécution de la loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution."
+      ],
+      "abstractNL": [
+        "De termijn van veertig maanden bedoeld in de artt. 14, K.B. van 23 januari 1974 en 35, K.B. van 3 augustus 1976, waarover de bedrijven beschikken om de bij de vergunningen opgelegde voorwaarden in acht te nemen, heeft enkel betrekking op de voorwaarden die zijn opgelegd bij de nieuwe vergunningen o.g.v. de algemene verordeningen ter uitvoering van de Wet Bescherming Verontreiniging Oppervlaktewateren 26 maart 1971."
+      ]
+    }
+  }
+}

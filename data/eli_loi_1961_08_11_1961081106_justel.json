@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19791025.5": {
+      "court": "CASS",
+      "date": "1979-10-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/25/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 2.5 de la Convention de La Haye du 15 avril 1958 concernant la reconnaissance et l'exécution des décisions en matière d'obligations alimentaires envers les enfants, Convention approuvée par la loi du 11 août 1961, l'ordre public de l'Etat où la décision étrangère est invoquée n'est pas l'ordre public interne de cet Etat mais son ordre public international."
+      ],
+      "abstractNL": [
+        "In de zin van art. 2.5 van het Verdrag van Den Haag d.d. 15 april 1958 nopens de erkenning en de tenuitvoerlegging van beslissingen ter zake van onderhoudsverplichtingen jegens kinderen, goedgekeurd bij de wet van 11 augustus 1961, is de openbare orde van een Staat, waar een beroep op de vreemde beslissing wordt gedaan, niet de interne openbare orde doch de internationale openbare orde van die Staat."
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19751024.2": {
+      "court": "CASS",
+      "date": "1975-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/10/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légal l'arrêt qui, sur la base de l'article 2 de la Convention concernant la reconnaissance et l'exécution des décisions en matière d'obligations alimentaires envers les enfants, signée à La Haye le 15 avril 1958 et approuvée par l'acte du pouvoir législatif du 11 août 1961, refuse d'accorder l'exécution d'un jugement rendu par un tribunal de la République fédérale d'Allemagne contre un défendeur défaillant domicilié en Belgique, aux motifs que les actes de la procédure transmis à ce défendeur étaient rédigés en allemand sans être accompagnés d'une traduction néerlandaise et qu'il n'est pas apparu que ce défendeur connaissait suffisamment la langue allemande."
+      ],
+      "abstractNL": [
+        "Wettelijk is het arrest dat, op grond van artikel 2 van het Verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen ter zake van onderhoudsverplichtingen jegens kinderen, ondertekend te 's Gravenhage op 15 april 1958 en goedgekeurd bij de handeling van de wetgevende macht van 11 augustus 1961, weigert uitvoerbaar te verklaren een vonnis van een rechtbank van de Bondsrepubliek Duitsland tegen een in Belgie gedomicilieerde verstekdoende verweerder, op grond dat de aan deze verweerder afgegeven processtukken in het Duits waren gesteld zonder Nederlandse vertaling en dat niet gebleken is dat deze verweerder voldoende Duits kende."
+      ]
+    }
+  }
+}

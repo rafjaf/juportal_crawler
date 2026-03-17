@@ -1,0 +1,32 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1965:ARR.19650104.6": {
+      "court": "CASS",
+      "date": "1965-01-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/01/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est puni des peines prévues par l'article 31 de la loi du 5 septembre 1952 relative à l'expertise et au commerce des viandes et par l'article 4 de l'arrêté royal du 23 mars 1961, celui qui fabrique des saumures, destinées à la préparation des viandes, qui contiennent des produits autres que ceux qui sont précisés par l'article 1er dudit arrêté royal et qui n'ont pas fait l'objet d'une autorisation préalable du ministre compétent. (Arrêté royal du 23 mars 1961 pris en exécution de l'article 13 de la loi du 5 septembre 1952 complétée par celle du 3 août 1955.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670605.2": {
+      "court": "CASS",
+      "date": "1967-06-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La falsification des denrées et boissons destinées à la consommation, notamment de la viande, tombe sous l'application de l'article 500 du Code pénal qui réprime la falsification même, et non sous l'application des dispositions de la loi du 5 septembre 1952 et de l'arrêté du 23 mars 1961, pris en exécution de ladite loi, qui ont pour but de réglementer le commerce des viandes et de prévenir la falsification."
+      ],
+      "abstractNL": [
+        "De vervalsing van voor de voeding bestemde waren en dranken, namelijk vlees, valt onder de toepassing van artikel 500 van het Strafwetboek waarbij de vervalsing zelf strafbaar wordt gesteld, en niet onder de toepassing van de bepalingen van de wet van 5 september 1952 en van het besluit van 23 maart 1961, genomen ter uitvoering van deze wet, die tot doel hebben de vleeshandel te reglementeren en de vervalsing te voorkomen."
+      ]
+    }
+  }
+}

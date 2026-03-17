@@ -1,0 +1,60 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1965:ARR.19651129.1": {
+      "court": "CASS",
+      "date": "1965-11-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/29/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Est motivé en droit l'arrêt condamnant du chef d'une infraction, commise en 1963, à l'arrêté royal n° 89 du 30 novembre 1939 complétant et coordonnant la réglementation du commerce des semences, des plants de toutes espèces, des engrais et des substances destinées à l'alimentation des animaux, qui indique, comme disposition légale appliquée, l'article 5 dudit arrêté royal, bien qu'il ne mentionne pas aussi l'article 1er de la loi du 16 juin 1947, par lequel cet arrêté a été confirmé."
+      ],
+      "abstractNL": null
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1975:ARR.19750320.1": {
+      "court": "CASS",
+      "date": "1975-03-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les procès-verbaux des préposés de l'administration de l'enregistrement qui constatent l'existence d'infractions, commises lors d'une vente publique de meubles et sanctionnées par l'article 232 du Code des droits d'enregistrement, font foi jusqu'à preuve contraire; les énonciations contenues dans le procès-verbal de vente dressé par le notaire ou l'huissier de justice ne peuvent être opposées à l'administration et celle-ci ne doit pas s'inscrire en faux contre le procès-verbal de l'officier public qui a procédé à la vente. ( Code des droits d'enregistrement, d'hypothèque et de greffe, art. 185 et 234; Code civil, articles 1317, 1319, 1320 et 1322. )"
+      ],
+      "abstractNL": [
+        "De processen-verbaal van de aangestelden van het bestuur waarin wordt vastgesteld dat tijdens een openbare verkoping van roerende goederen overtredingen werden gepleegd die bij artikel 232 van het Wetboek van de registratierechten worden gesanctioneerd, gelden als bewijs tot het tegendeel bewezen is; de vermeldingen in het door de notaris of de gerechtsdeurwaarder opgemaakt proces-verbaal van de verkoping kunnen als dusdanig niet tegen het bestuur aangevoerd worden en dit is niet verplicht het proces-verbaal van de openbare ambtenaar die de verkoping heeft gehouden van valsheid te betichten. ( Artt. 185 en 234 Wetboek van de registratie-, hypotheek- en griffierechten; artt. 1317, 1319, 1320 en 1322 B.W. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1973:ARR.19731205.7": {
+      "court": "CASS",
+      "date": "1973-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/12/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions du chapitre XIV du Code des droits d'enregistrement, d'hypothèque et de greffe relatives à la prescription ne sont pas applicables aux poursuites exercées par l'Administration de l'enregistrement et des domaines aux fins de récupérer des allocations de chômage indûment perçues. (Arrêté du Régent du 26 mai 1945, art. 106bis) (Actuellement l'arrèté royal du 20 décembre 1963, art. 211, modifié par l'arrèté royal du 10 mars 1971)."
+      ],
+      "abstractNL": [
+        "De bepalingen van hoofdstuk XIV van het Wetboek der registratie-, hypotheek- en griffierechten betreffende de verjaring zijn niet toepasselijk op de vervolging door het Bestuur van registratie- en domeinen van de terugbetaling van onrechtmatig ontvangen werkloosheidsuitkering. ( Besluit van de Regent van 26 mei 1945, art. 106bis) (Thans het Koninklijk besluit van 20 december 1963, art. 211, gewijzigd bij Koninklijk besluit van 10 maart 1971)."
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660124.3": {
+      "court": "CASS",
+      "date": "1966-01-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 31 mars 1954 relatif au commerce du lait de vache, pris en exécution de l'article 1er de l'arrêté royal n° 19 du 27 juillet 1939, confirmé par la loi du 16 juin 1947, trouve, depuis l'entrée en vigueur de la loi du 20 juillet 1962, dont l'article 8 a abrogé l'arrêté royal n° 19 susdit, mais dont l'article 1er a repris les dispositions de l'article 1er de cet arrêté royal, son fondement légal dans les dispositions de la loi nouvelle et est, partant, maintenu en vigueur sauf pour la partie que cette législation a rendue sans objet."
+      ],
+      "abstractNL": null
+    }
+  }
+}

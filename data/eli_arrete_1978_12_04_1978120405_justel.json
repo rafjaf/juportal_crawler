@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2004:ARR.20040503.20": {
+      "court": "CASS",
+      "date": "2004-05-03",
+      "roleNumber": "C020223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal n° 19 du 4 décembre 1978 n'était pas une disposition légale interprétative ayant un effet rétroactif."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit nr 19 van 4 dec. 1978 was geen interpretatieve wettelijke bepaling waaraan terugwerkende kracht werd verleend."
+      ]
+    }
+  }
+}

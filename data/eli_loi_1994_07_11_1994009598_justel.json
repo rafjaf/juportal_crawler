@@ -12,5 +12,49 @@
       ],
       "abstractNL": null
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1998:ARR.19981103.7": {
+      "court": "CASS",
+      "date": "1998-11-03",
+      "roleNumber": "P960916N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/11/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La notion \"accident de la circulation\" vise aussi bien un accident de la circulation routière impliquant des piétons, des moyens de transport par terre, des animaux ou des moyens de transport par rail empruntant la voie publique, que l'accident survenu sur les terrains ouverts au public et les terrains non publics mais ouverts à un certain nombre de personnes."
+      ],
+      "abstractNL": [
+        "Het begrip \"verkeersongeval\" betreft zowel een ongeval bij het wegverkeer waarbij voetgangers, middelen van vervoer te land, dieren of middelen van vervoer per spoor die de openbare weg gebruiken, betrokken zijn, als dergelijk ongeval dat plaatsgrijpt op een terrein toegankelijk voor het publiek of op een niet openbaar terrein dat voor een zeker aantal personen toegankelijk is."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981020.3": {
+      "court": "CASS",
+      "date": "1998-10-20",
+      "roleNumber": "P970851F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La notion \"accident de la circulation\" vise aussi bien un accident de la circulation routière impliquant des piétons et des animaux ou des moyens de transport par terre empruntant la voie publique, que l'accident survenu sur les terrains ouverts au public et les terrains non publics mais ouverts à un certain nombre de personnes."
+      ],
+      "abstractNL": [
+        "Het begrip \"verkeersongeval\" heeft zowel betrekking op een wegverkeersongeval waarbij voetgangers en dieren of middelen van vervoer te land betrokken zijn, die de openbare weg gebruiken, als op een ongeval dat zich heeft voorgedaan op terreinen die openstaan voor het publiek en niet-openbare terreinen die evenwel openstaan voor een bepaald aantal personen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980616.9": {
+      "court": "CASS",
+      "date": "1998-06-16",
+      "roleNumber": "P970624N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/16/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que le tribunal correctionnel saisi conformément à l'article 216quater du Code d'instruction criminelle et le tribunal de police réservent d'office les intérêts civils, même en l'absence de constitution de partie civile, si la cause n'est pas en état d'être jugée quant à ces intérêts, ne porte pas atteinte au caractère de jugement définitif revêtu par les autres décisions."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat de correctionele rechtbank waarbij de zaak overeenkomstig artikel 216quater Wetboek van Strafvordering aanhangig is gemaakt en de politierechtbanken ambtshalve de burgerlijke belangen aanhouden, zelfs bij ontstentenis van burgerlijke partijstelling, wanneer de zaak wat die belangen betreft niet in staat van wijzen is, doet geen afbreuk aan het karakter van eindvonnis van de overige beslissingen."
+      ]
+    }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "24": {
+    "ECLI:BE:CASS:1966:ARR.19660603.1": {
+      "court": "CASS",
+      "date": "1966-06-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/06/03/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Une loi nouvelle d'ordre public ou relative à un service public est, comme toute autre loi, immédiatement applicable à tous les effets futurs de situations nées sous l'empire de la loi ancienne, son caractère spécial étant impuissant à la rendre applicable aux situations antérieures définitivement accomplies, à moins cependant qu'elle n'ait été expressément déclarée applicable avec effet rétroactif auxdites situations."
+      ],
+      "abstractNL": null
+    }
+  }
+}

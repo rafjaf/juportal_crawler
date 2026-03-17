@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990223.8": {
+      "court": "CASS",
+      "date": "1999-02-23",
+      "roleNumber": "P970813N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/23/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "N'est pas effacée la condamnation pour faux en écritures et usage de faux qui comporte des déchéances ou des interdictions dont les effets dépassent une durée de trois ans."
+      ],
+      "abstractNL": [
+        "Er is geen uitwissing bij veroordeling wegens valsheid in geschrifte en gebruik van vals stuk die vervallenverklaringen of ontzettingen inhoudt waarvan de gevolgen zich over meer dan drie jaar uitstrekken."
+      ]
+    }
+  }
+}

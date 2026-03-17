@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860211.12": {
+      "court": "CASS",
+      "date": "1986-02-11",
+      "roleNumber": "8815",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/11/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les disposition des articles 848, 849 et 850 du Code judiciaire, relatives au désaveu, ne s'appliquent pas en matière pénale."
+      ],
+      "abstractNL": [
+        "De artt. 848, 849 en 850 Gerechtelijk Wetboek betreffende de ontkentenis van proceshandelingen zijn niet van toepassing in strafzaken."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741118.6": {
+      "court": "CASS",
+      "date": "1974-11-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/11/18/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "la Cour ne peut avoir égard à la déclaration, faite antérieurement à l'entrée en vigueur de la loi du 20 décembre 1974, par laquelle un avocat, agissant en sa qualité de conseil du demandeur, s'est désisté d'un pourvoi, sans indiquer qu'il est porteur des pièces. (Loi du 16 février 1961, art. 6.)"
+      ],
+      "abstractNL": [
+        "Het Hof kan geen acht slaan op de verklaring welke een advocaat, die als raadsman van de eiser optreedt, voor de inwerkingtreding van de wet van 20 december 1974 heeft afgelegd en waarbij hij van een voorziening afstand heeft gedaan zonder te vermelden dat hij houder is van de stukken. (Art. 6 wet van 16 februari 1961.)"
+      ]
+    }
+  }
+}

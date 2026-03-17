@@ -1,0 +1,34 @@
+{
+  "4": {
+    "ECLI:BE:CASS:1967:ARR.19670309.2": {
+      "court": "CASS",
+      "date": "1967-03-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/03/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les demandes d'indemnisation formées par des groupements de résistance ou par leurs créanciers n'étaient pas subordonnées à la reconnaissance préalable de ces groupements en qualité de groupements de résistance armée. (Arrêté-loi du 19 septembre 1945, art. 1er et 3; loi du 31 mai 1948, art. 1er, 3 et 4.)"
+      ],
+      "abstractNL": [
+        "De door de weerstandsgroeperingen of hun schuldeisers gedane aanvragen om vergoeding waren niet onderworpen aan de voorafgaande erkenning van deze groeperingen als gewapende weerstandsgroeperingen. (Besluitwet van 19 september 1945, art. 1 en 3; wet van 31 mei 1948, art. 1, 3 en 4.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19811203.9": {
+      "court": "CASS",
+      "date": "1981-12-03",
+      "roleNumber": "6312",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/12/03/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription établi par la loi du 31 mai 1948 fixant une date limite pour l'introduction des demandes en indemnisation du chef de réquisitions effectuées par les troupes belges, est applicable aux créances résultant de réquisitions opérées en Belgique par l'armée belge, que ces réquisitions tombent ou non sous l'application de la loi du 12 mai 1927 sur les réquisitions militaires."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn, ingesteld bij de wet van 31 mei 1948 tot vaststelling van een einddatum voor het indienen van de aanvragen om vergoeding wegens opeisingen gedaan door Belgische troepen, is toepasselijk op de schuldvorderingen uit opeisingen door Belgische troepen in België gedaan, ongeacht of die opeisingen al dan niet vallen onder de toepassing van de wet van 12 mei 1927 op de militaire opeisingen."
+      ]
+    }
+  }
+}

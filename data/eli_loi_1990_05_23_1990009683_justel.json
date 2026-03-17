@@ -1,0 +1,34 @@
+{
+  "10": {
+    "ECLI:BE:CASS:2004:ARR.20040224.20": {
+      "court": "CASS",
+      "date": "2004-02-24",
+      "roleNumber": "P031652N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/02/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui, conformément à l'article 10 de la loi du 23 mai 1990 sur le transfèrement inter-étatique des personnes condamnées, est requis par le procureur du Roi d'adapter la peine ou la mesure prononcée à l'étranger, examine uniquement si la peine ou la mesure correspond, par sa nature et sa durée, à celle qui est prévue par la loi belge pour une infraction de même nature; la circonstance qu'il qualifie les mêmes faits déjà constatés dans le jugement rendu par un Etat étranger, comme des faits ayant été commis avec une circonstance aggravante selon la loi belge, n'implique pas qu'il statue sur une accusation en Belgique en raisons d'infractions commises à l'étranger (1). (1) Voir L. Declercq, Overbrenging tussen staten van gevonniste personen, Comm. Straf."
+      ],
+      "abstractNL": [
+        "De rechter die overeenkomstig artikel 10 van de Wet van 23 mei 1990 inzake de overbrenging tussen Staten van de gevonniste personen, door de procureur des Konings gevorderd wordt de in het buitenland uitgesproken straf of maatregel aan te passen, gaat alleen na of de aard en de duur van deze straf of maatregel overeenstemt met die welke voor dezelfde feiten in de Belgische wet voor een misdrijf van dezelfde aard zijn bepaald; de omstandigheid dat hij daarbij dezelfde feiten, reeds vastgesteld door het vonnis van de vreemde Staat, naar Belgisch recht als zijnde gepleegd met een verzwarende omstandigheid omschrijft, houdt niet in dat hij over een strafvervolging in België wegens in het buitenland gepleegde misdrijven uitspraak doet (1). (1) Zie L. Declercq, Overbrenging tussen Staten van gevonniste personen, Comm. Straf."
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:2006:ARR.20061018.10": {
+      "court": "CASS",
+      "date": "2006-10-18",
+      "roleNumber": "P061316F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La décision judiciaire de refuser l'exécution d'un mandat d'arrêt européen délivré en vue de l'exécution d'une peine lorsque la personne concernée est belge ou réside en Belgique et que les autorités compétentes s'engagent à exécuter cette peine conformément à la loi belge, emporte la reprise de l'exécution de la peine visée dans ladite décision judiciaire conformément aux dispositions de la loi du 23 mai 1990; dans ce cas, la peine prononcée à l'étranger est directement et immédiatement exécutoire en Belgique (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De gerechtelijke beslissing tot weigering van de tenuitvoerlegging van een Europees aanhoudingsbevel, uitgevaardigd met het oog op de tenuitvoerlegging van een straf ingeval de betrokken persoon Belg is of in België verblijft, en de bevoegde autoriteiten zich ertoe verbinden om die straf overeenkomstig de Belgische wetgeving ten uitvoer te leggen, brengt de overname van de tenuitvoerlegging mee van de straf waarop die gerechtelijke beslissing betrekking heeft, overeenkomstig de bepalingen van de wet van 23 mei 1990; in dat geval is de in het buitenland uitgesproken straf in België rechtstreeks en onmiddellijk uitvoerbaar (1). (1) Zie concl. O.M."
+      ]
+    }
+  }
+}

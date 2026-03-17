@@ -1,0 +1,32 @@
+{
+  "45": {
+    "ECLI:BE:CASS:1964:ARR.19641217.2": {
+      "court": "CASS",
+      "date": "1964-12-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/12/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les articles 30, dernier alinéa, et 45 de la loi du 25 juin 1956 sur le remembrement légal des biens ruraux permettent au juge d'apprécier, en tenant compte de tous les intérêts en présence, la durée des droits locatifs reconnus sur les parcelles nouvelles en raison de ceux dont le preneur de ces nouvelles parcelles était titulaire sur les anciennes avant la transcription de l'acte de remembrement."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820226.8": {
+      "court": "CASS",
+      "date": "1982-02-26",
+      "roleNumber": "2942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/26/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'article 591, 11°, du Code judiciaire, aux termes duquel le juge de paix connaît, quel que soit le montant de la demande, des contestations en matière de remembrement de biens ruraux, vise uniquement les contestations prévues d'une manière expresse par la loi du 22 juillet 1970 et qui étaient, aussi, déjà visées par les dispositions de la loi du 25 juin 1956."
+      ],
+      "abstractNL": [
+        "Artikel 591, 11°, van het Gerechtelijk Wetboek, luidens hetwelk de vrederechter kennis neemt, ongeacht het bedrag van de vordering, van de geschillen inzake ruilverkavelingen van landeigendommen, doelt alleen op de betwistingen die uitdrukkelijk zijn bepaald bij de wet van 22 juli 1970 en die ook reeds door de bepalingen van de wet van 25 juni 1956 waren bedoeld."
+      ]
+    }
+  }
+}

@@ -1,4 +1,84 @@
 {
+  "5": {
+    "ECLI:BE:CASS:2007:ARR.20070921.2": {
+      "court": "CASS",
+      "date": "2007-09-21",
+      "roleNumber": "C.05.0422.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/09/21/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le pilote qui, en vertu de l'article 5, alinéa 1er, de la loi du 3 novembre 1967, opère comme le conseiller du capitaine, seul maître, aux termes de la même disposition, de la conduite et des manoeuvres du bâtiment, n'est pas sous l'autorité et la surveillance de ce dernier (1). (1) L. du 3 novembre 1967, art. 3 et 5, avant sa modification par la loi du 30 août 1988; voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "De loods die, krachtens artikel 5, eerste lid, van de wet van 3 november 1967, optreedt als de raadgever van de kapitein, die, naar luid van dezelfde bepaling, alleen meester is over de leiding en de manoeuvres van het vaartuig, staat niet onder diens gezag en toezicht (1). (1) Artt. 3 en 5, W. 3 nov. 1967, vóór de wijziging ervan bij W. 20 aug. 1988; zie concl. O.M. in Pas., 2007, nr ..."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1988:ARR.19880222.8": {
+      "court": "CASS",
+      "date": "1988-02-22",
+      "roleNumber": "6011",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/02/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le contrat d'engagement maritime concerne le service à bord d'un navire déterminé, même si le contrat a été conclu pour une durée indéterminée. ( Loi du 5 juin 1928 portant réglementation du contrat d'engagement maritime, art. 15. )"
+      ],
+      "abstractNL": [
+        "De arbeidsovereenkomst wegens scheepsdienst betreft dienst aan boord van een bepaald schip, zelfs wanneer de overeenkomst voor onbepaalde tijd is aangegaan. ( Art. 15 wet 5 juni 1928. )"
+      ]
+    }
+  },
+  "77": {
+    "ECLI:BE:CASS:1972:ARR.19720229.1": {
+      "court": "CASS",
+      "date": "1972-02-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/02/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 77 de la loi du 5 juin 1928 portant revision du Code disciplinaire et pénal pour la marine marchande et la pêche maritime, les procès-verbaux établis du chef de crimes ou de délits commis pendant le voyage ne font foi jusqu'à preuve du contraire que si, dressés sur le rapport et avec l'assistance d'un officier, ils sont signés par celui-ci et le capitaine."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 77 van de wet van 5 juni 1928 houdende herziening van het Tucht- en Strafwetboek voor de koopvaardij en de zeevisserij, zijn de processen-verbaal opgesteld wegens tijdens de reis gepleegde misdaden of wanbedrijven slechts rechtsgeldig tot het bewijs van het tegendeel, voor zover zij, opgemaakt op het verslag en met de bijstand van een officier, ondertekend zijn door de kapitein en bedoelde officier."
+      ]
+    }
+  },
+  "85": {
+    "ECLI:BE:CASS:1977:ARR.19771004.7": {
+      "court": "CASS",
+      "date": "1977-10-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le capitaine d'un navire ne peut congédier un marin sans préavis ni exiger son débarquement immédiat que si une telle mesure est justifiée par un motif grave et après enquête par le commissaire maritime ou le consul; dans ce cas des dommages-intérêts peuvent être réclamés au marin, si la rupture du contrat d'engagement a causé un préjudice à l'armateur (1). ( Loi du 5 juin 1928 portant réglementation du contrat d'engagement maritime, art. 93 et 85. )"
+      ],
+      "abstractNL": [
+        "De kapitein van een zeeschip mag een zeeman slechts zonder opzeggingstermijn afdanken en hem onmiddellijk doen ontschepen, indien zodanige maatregel wegens een ernstige reden gerechtvaardigd is en na onderzoek door de waterschout of de consul; in zodanig geval kan van de zeeman schadevergoeding worden gevorderd indien de reder door de verbreking van de arbeidsovereenkomst nadeel heeft geleden (1). ( Wet van 5 juni 1928, houdende regeling van de arbeidsovereenkomst wegens scheepsdienst, artt. 93 en 85. )"
+      ]
+    }
+  },
+  "89": {
+    "ECLI:BE:CASS:1992:ARR.19920504.18": {
+      "court": "CASS",
+      "date": "1992-05-04",
+      "roleNumber": "7012",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/05/04/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'art. 89, 2°, de la loi du 5 juin 1928, en vertu duquel le contrat d'engagement maritime prend fin par l'innavigabilité officiellement constatée du navire, n'est pas applicable à un navire ne battant pas pavillon belge. ( Loi du 5 juin 1928, art. 17. )"
+      ],
+      "abstractNL": [
+        "Art. 89, 2°, wet van 5 juni 1928, krachtens hetwelk de arbeidsovereenkomst wegens scheepsdienst eindigt door de officieel vastgestelde onzeewaardigheid van het schip, vindt geen toepassing op een vaartuig dat niet onder Belgische vlag is uitgerust. ( Art. 17, wet van 5 juni 1928. )"
+      ]
+    }
+  },
   "93": {
     "ECLI:BE:CASS:1977:ARR.19771004.4": {
       "court": "CASS",

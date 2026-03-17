@@ -1,0 +1,18 @@
+{
+  "3": {
+    "ECLI:BE:CASS:2003:ARR.20030414.8": {
+      "court": "CASS",
+      "date": "2003-04-14",
+      "roleNumber": "S010187N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/04/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Dans le régime des pensions, le fait d'atteindre l'âge de la pension constitue une condition pour bénéficier d'une pension de retraite non anticipée."
+      ],
+      "abstractNL": [
+        "In de pensioenregeling is het bereiken van de pensioenleeftijd een voorwaarde om recht te hebben op een niet vervroegd rustpensioen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1998:ARR.19981210.20": {
+      "court": "CASS",
+      "date": "1998-12-10",
+      "roleNumber": "C950284N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/12/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une oeuvre ne bénéficie de la protection de la loi du 22 mars 1886 sur le droit d'auteur et de la Convention de Berne du 9 septembre 1886, qu'à la condition qu'elle soit l'expression de l'effort intellectuel de son auteur, condition indispensable pour donner à l'oeuvre le caractère d'individualité nécessaire pour qu'il y ait création."
+      ],
+      "abstractNL": [
+        "Een werk geniet de bescherming van de Auteurswet en van het Verdrag van Bern van 9 september 1886 enkel op voorwaarde dat het de uitdrukking is van de intellectuele inspanning van de maker ervan, welke voorwaarde onontbeerlijk is om aan het werk het vereiste individuele karakter te geven waardoor een schepping ontstaat."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820625.21": {
+      "court": "CASS",
+      "date": "1982-06-25",
+      "roleNumber": "3394;3401",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/25/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "Les articles 15 et 16 de la loi du 22 mars 1886 et 11bis de la Convention de Berne du 9 septembre 1886 pour la protection des oeuvres littéraires et artistiques, revisée en dernier lieu à Bruxelles le 26 juin 1948 et, comme telle, approuvée par la loi du 26 juin 1951, ne créent aucune présomption que l'auteur qui autorise une exécution ou une communication publique, donne par là son consentement pour la communication publique de la même oeuvre par un autre organisme que celui d'origine."
+      ],
+      "abstractNL": [
+        "De openbare uitvoering of opvoering van een muzikaal of literair kunstwerk zonder toestemming van de auteur is verboden; alleen de auteur heeft het recht om toestemming te geven tot, enerzijds, een radio-uitzending of openbare mededeling van zijn werk en, anderzijds, elke openbare mededeling, hetzij telegrafisch, hetzij draadloos gedaan door een ander dan het oorspronkelijk lichaam. (Artt. 15 en 16 wet op het auteursrecht 22 maart 1886; art. 11bis Verdrag van Bern van 9 sept. 1886 voor de bescherming van werken van letterkunde en kunst, laatstelijk herzien te Brussel op 26 juni 1948 en goedgekeurd bij de wet van 16 juni 1951)."
+      ]
+    }
+  }
+}

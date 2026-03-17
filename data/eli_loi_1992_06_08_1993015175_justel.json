@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011218.9": {
+      "court": "CASS",
+      "date": "2001-12-18",
+      "roleNumber": "P991548N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les obligations de l'article 6 de la Convention européenne du 3 octobre 1985 pour la sauvegarde du patrimoine architectural de l'Europe n'ont pas d'effet direct dans le droit interne."
+      ],
+      "abstractNL": [
+        "De verplichtingen van artikel 6 van het Europees Verdrag ter bescherming van het bouwkundig erfgoed van Europa hebben geen rechtstreese werking in het interne recht."
+      ]
+    }
+  }
+}

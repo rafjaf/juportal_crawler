@@ -1,0 +1,60 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010122.3": {
+      "court": "CASS",
+      "date": "2001-01-22",
+      "roleNumber": "S000037NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il n'existe pas de délégation syndicale ou de délégation du personnel dans l'entreprise, l'employeur n'est pas tenu de fournir des renseignements à propos d'un licenciement résultant de faits qui peuvent être reprochés au travailleur en raison de son comportement."
+      ],
+      "abstractNL": [
+        "Wanneer er geen syndicale of personeelsafvaardiging in de onderneming bestaat, is de werkgever niet gehouden inlichtingen te verstrekken aangaande de afdanking wegens feiten die de werknemer ten laste kunnen worden gelegd als gevolg van zijn handelswijze."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990419.5": {
+      "court": "CASS",
+      "date": "1999-04-19",
+      "roleNumber": "S970140F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité forfaitaire de sécurité d'emploi qu'une entreprise d'assurance est tenue de payer à titre de sanction au travailleur licencié pour cause d'ordre économique ou technique, est due, non en l'absence de raisons économiques ou techniques, mais lorsque le licenciement a été effectué sans que les procédures prévues aient été suivies par l'entreprise d'assurance."
+      ],
+      "abstractNL": [
+        "De forfaitaire vergoeding van vastheid van betrekking, die de verzekeringsinstelling als boete moet betalen aan de om economische of technische redenen ontslagen werknemer, is niet verschuldigd wegens het ontbreken van economische of technische redenen, maar wel omdat de werknemer is ontslagen zonder dat de verzekeringsinstelling de voorgeschreven procedures heeft nageleefd."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970630.9": {
+      "court": "CASS",
+      "date": "1997-06-30",
+      "roleNumber": "S950029N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal du travail qui connaît tant des contestations relatives aux contrats de louage de travail que des contestations d'ordre individuel relatives à l'application des conventions collectives de travail est compétent pour examiner, à la demande du travailleur licencié pour motif grave, s'il a ou non droit à l'indemnité de protection forfaitaire prévue à l'article 15 de la convention collective de travail du 9 novembre 1987 conclue au sein de la commission paritaire des entreprises d'assurance relativement à la sécurité de l'emploi et, partant, si les procédures fixées par les articles 4 et 5 de cette convention collective du travail ont été suivies."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank die kennis neemt zowel van geschillen inzake arbeidsovereenkomsten als van de individuele geschillen betreffende de toepassing van de collectieve arbeidsovereenkomsten is bevoegd om op vordering van de werknemer die ontslagen wordt om dringende reden na te gaan of hij al dan niet recht heeft op de forfaitaire beschermingsvergoeding bepaald bij art. 15 van de CAO van 9 nov. 1987, gesloten in het paritair comité voor het verzekeringswezen, betreffende de vastheid van betrekking en of de in artt. 4 en 5 van deze CAO bepaalde procedures zijn vervuld."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960429.1": {
+      "court": "CASS",
+      "date": "1996-04-29",
+      "roleNumber": "S950059N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/04/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'employeur qui a l'intention de licencier un travailleur dans un cas prévu par l'article 4, b, alinéa 2, 3°, de la convention collective de travail du 9 novembre 1987, conclue au sein de la commission paritaire des entreprises d'assurances et rendue obligatoire par l'arrêté royal du 30 mars 1988, concernant la sécurité d'emploi, est exonéré de l'obligation d'informer la délégation syndicale à ce propos si le travailleur s'est opposé par écrit à ce que les informations soient communiquées à la délégation syndicale."
+      ],
+      "abstractNL": [
+        "De werkgever die het voornemen heeft een werknemer te ontslaan in een geval als bedoeld in art. 4, b, 2e lid, 3° van de in het paritair comité voor het verzekeringswezen gesloten en bij K.B. van 30 maart 1988 algemeen verbindend verklaarde CAO van 9 nov. 1987 betreffende de vastheid van betrekking, is vrijgesteld van de verplichting de syndicale afvaardiging dienaangaande in te lichten, wanneer de werknemer zich schriftelijk heeft verzet tegen het verstrekken van inlichtingen aan de syndicale afvaardiging."
+      ]
+    }
+  }
+}

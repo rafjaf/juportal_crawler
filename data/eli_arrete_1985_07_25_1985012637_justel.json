@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990222.8": {
+      "court": "CASS",
+      "date": "1999-02-22",
+      "roleNumber": "S980076N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En principe, un jugement déclaratif de faillite implique la cessation immédiate de toutes les opérations commerciales; lorsque, sur la base de l'article 447 de la loi du 18 avril 1851 qui revise la législation sur les faillites banqueroutes et sursis, le juge-commissaire permet une continuation limitée ou lorsque, sur la base de l'article 475 de cette loi, le tribunal de commerce ordonne la continuation des activités commerciales, la fin de la période de cette continuation implique en principe immédiatement aussi que l'activité du failli cesse et qu'ensuite de ces décisions judiciaires, le curateur mette fin aux contrats de travail encore en cours; la circonstance que l'actif est vendu à un tiers qui continue aussi une partie de l'activité économique n'exclut pas que l'activité du failli soit cessée au sens de l'article 1er, § 2, de la loi du 19 mars 1991, sans préjudice des droits que le travailleur pourrait faire valoir sur la base de la convention collective n° 32bis."
+      ],
+      "abstractNL": [
+        "In beginsel impliceert een vonnis tot faillietverklaring de onmiddellijke stopzetting van alle handelsverrichtingen; wanneer de rechter-commissaris op grond van artikel 477 Faillissementswet een beperkte voortzetting toelaat of de rechtbank van koophandel op grond van artikel 475 van die wet de voortzetting van de handelsactiviteit beveelt, impliceert het bereiken van het einde van de periode van de voortzetting, in beginsel meteen ook dat de activiteit van de gefailleerde wordt stopgezet en dat de curator ingevolge die rechterlijke beslissingen de nog lopende arbeidsovereenkomsten moet beëindigen; de omstandigheid dat het actief wordt verkocht aan een derde die ook een deel van de economische activiteit voortzet sluit niet uit dat de activiteit van de gefailleerde wordt stopgezet in de zin van artikel 1, § 2, van de wet van 19 maart 1991, onverminderd de rechten die de werknemer op grond van de collectieve arbeidsovereenkomst 32bis zou kunnen doen gelden."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900917.10": {
+      "court": "CASS",
+      "date": "1990-09-17",
+      "roleNumber": "7127",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/09/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui est licencié par le curateur après la faillite a droit à un préavis, le cas échéant à une indemnité de congé, même lorsque, en cas de reprise de l'actif de l'entreprise faillie, il est repris par le nouvel employeur avec maintien des conditions de travail conclues collectivement ou appliquées collectivement qui existaient chez l'ancien employeur. ( Loi du 13 juillet 1978, art. 37 et 39, alinéa 1er; convention collective de travail n° 32bis du 7 juin 1985 conclue au sein du Conseil national du travail, rendue obligatoire par l'A.R. du 25 juillet 1985, art. 11, 13 et 14. )"
+      ],
+      "abstractNL": [
+        "De werknemer die na een faillissement door de curator wordt ontslagen, heeft recht op opzegging c.q. opzeggingsvergoeding, ook wanneer hij, in geval van overname van de activa van de failliete onderneming, door de nieuwe werkgever wordt overgenomen met behoud van bij de vorige werkgever bestaande collectief bedongen of collectief toegepaste arbeidsvoorwaarden. ( Artt. 37 en 39, alinéa 1, Arbeidsovereenkomstenwet; artt. 11, 13 en 14 C.A.O. nr. 32bis van 7 juni 1985, gesloten in de Nationale Arbeidsraad, algemeen verbindend verklaard bij K.B. van 25 juli 1985. )"
+      ]
+    }
+  }
+}

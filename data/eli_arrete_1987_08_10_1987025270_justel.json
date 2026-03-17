@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2002:ARR.20020408.5": {
+      "court": "CASS",
+      "date": "2002-04-08",
+      "roleNumber": "C000118N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les hôpitaux ont l'obligation, d'une part, d'élaborer une réglementation générale régissant les rapports juridiques entre l'hôpital et les médecins, d'autre part, de fixer par écrit dans une convention individuelle les droits et devoirs respectifs du médecin hospitalier individuel et du gestionnaire; la réglementation générale et la réglementation individuelle écrite, qui doit se référer à la réglementation générale, doivent traiter au moins des catégories de cas, des motifs et des procédures selon lesquels il peut être mis fin aux rapports juridiques. Les hôpitaux doivent satisfaire à ces dispositions pour le 6 mai 1988. Aucune sanction n'est liée au dépassement de cette limite dans le temps."
+      ],
+      "abstractNL": [
+        "Aan de ziekenhuizen wordt de verplichting opgelegd enerzijds een algemene regeling betreffende de rechtsverhoudingen tussen het ziekenhuis en de geneesheren uit te werken, anderzijds in een individuele overeenkomst de respectieve rechten en plichten van de individuele geneesheer en de beheerder schriftelijk vast te stellen; in de algemene regeling en de schriftelijke individuele regeling, die naar de algemene regeling moet verwijzen, dienen ten minste de soort gevallen waarin, de redenen waarom en de procedures volgens welke een einde kan worden gemaakt aan de rechtsverhouding behandeld te worden. De ziekenhuizen dienen aan deze bepalingen te voldoen tegen 6 mei 1988. Aan de overschrijding van de tijdslimiet wordt geen sanctie verbonden."
+      ]
+    }
+  },
+  "29": {
+    "ECLI:BE:CASS:2005:ARR.20050124.4": {
+      "court": "CASS",
+      "date": "2005-01-24",
+      "roleNumber": "C030360N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/01/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le Conseil médical ne peut émettre un avis favorable qu'à la majorité absolue des membres présents; le membre qui s'abstient de voter est néanmoins un membre présent qui, en tant que tel, entre en ligne de compte pour le calcul des présences et de la majorité absolue des membres présents."
+      ],
+      "abstractNL": [
+        "De medische raad kan slechts een gunstig advies geven met een volstrekte meerderheid van de aanwezige leden; een lid dat zich bij de stemming onthoudt, is niettemin een aanwezig lid en moet als dusdanig in aanmerking worden genomen voor het bepalen van het aantal aanwezigen en van de volstrekte meerderheid van de aanwezige leden."
+      ]
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:2004:ARR.20040909.25": {
+      "court": "CASS",
+      "date": "2004-09-09",
+      "roleNumber": "C030410F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/09/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort pas des dispositions légales que pour donner valablement l'avis prévu à l'article 125 de la loi sur les hôpitaux coordonnée par l'arrêté royal du 7 août 1987 le conseil médical doit entendre le médecin hospitalier ou permettre à celui-ci de demander son audition; de la circonstance que ce médecin n'a pas été entendu ou n'a pas été averti de la demande d'avis adressée au conseil médical il ne saurait se déduire une violation de ses droits de la défense."
+      ],
+      "abstractNL": [
+        "Uit de wettelijke bepalingen volgt niet dat de medische raad de ziekenhuisgeneesheer moet horen of hem de gelegenheid moet bieden om gehoord te worden, teneinde rechtsgeldig het in art. 125 Ziekenhuiswet bedoelde advies te verstrekken; uit de omstandigheid dat de medische raad die geneesheer niet heeft gehoord of dat hem niet is gemeld dat de medische raad om advies werd gevraagd, kan niet worden afgeleid dat zijn recht van verdediging miskend is."
+      ]
+    }
+  }
+}

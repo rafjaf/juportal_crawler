@@ -1,0 +1,34 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1999:ARR.19990315.4": {
+      "court": "CASS",
+      "date": "1999-03-15",
+      "roleNumber": "S970135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La période pendant laquelle l'exécution du contrat de travail de la travailleuse a été suspendue pour cause d'incapacité de travail n'est pas assimilée à une période de travail en vue de la prolongation de la période d'interruption du travail au-delà de la huitième semaine après l'accouchement."
+      ],
+      "abstractNL": [
+        "De periode tijdens welke de uitvoering van de arbeidsovereenkomst van de werkneemster wegens arbeidsongeschiktheid is geschorst, wordt niet gelijkgesteld met een periode van arbeid met het oog op de verlenging van de periode van arbeidsonderbreking na de achtste week na de bevalling."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990315.4": {
+      "court": "CASS",
+      "date": "1999-03-15",
+      "roleNumber": "S970135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La période pendant laquelle l'exécution du contrat de travail de la travailleuse a été suspendue pour cause d'incapacité de travail n'est pas assimilée à une période de travail en vue de la prolongation de la période d'interruption du travail au-delà de la huitième semaine après l'accouchement."
+      ],
+      "abstractNL": [
+        "De periode tijdens welke de uitvoering van de arbeidsovereenkomst van de werkneemster wegens arbeidsongeschiktheid is geschorst, wordt niet gelijkgesteld met een periode van arbeid met het oog op de verlenging van de periode van arbeidsonderbreking na de achtste week na de bevalling."
+      ]
+    }
+  }
+}

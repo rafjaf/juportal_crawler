@@ -95,6 +95,64 @@
         "De minister van Justitie beslist over de vergoeding voor onwerkzame hechtenis of de toerekening van de dagen van de onwerkzame voorlopige hechtenis op de nog lopende vrijheidsstraffen met, in geval van weigering, de mogelijkheid om beroep in te stellen bij de door de Wet Onwerkzame Hechtenis opgerichte commissie.",
         "Het aan de strafuitvoeringsrechtbank opgedragen toezicht is beperkt tot de strafuitvoeringsvoorwaarden en -modaliteiten en strekt zich niet uit tot de bevoegdheid die de Wet Onwerkzame Hechtenis, aangevuld door de wet van 25 december 2016, aan de minister van Justitie en, in geval van beroep, aan de door die wet opgerichte commissie toekent."
       ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110627.4": {
+      "court": "CASS",
+      "date": "2011-06-27",
+      "roleNumber": "C.10.0065.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/27/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "La personne qui a été détenue légalement et qui, dès lors, ne peut faire valoir un droit à réparation devant les cours et tribunaux, peut prétendre, mais sur la base du recours prévu devant les autorités légalement désignées, à obtenir, à charge du Trésor, l'indemnisation équitable du dommage qu'elle a subi du fait d'une détention qui s'est révélée inopérante (1). (1) L. du 13 mars 1973, art. 28 avant sa modification par la L. du 30 décembre 2009; voir Cass. 10 avril 1992, RG 7397, Pas., 1992, n° 431, avec concl. de M. du JARDIN, avocat général, publiées dans AC 1991-1992."
+      ],
+      "abstractNL": [
+        "Een persoon die wettig in hechtenis werd genomen en die, derhalve, geen recht op vergoeding voor de hoven en de rechtbanken kan doen gelden, heeft via een rechtsmiddel dat hij voor de bij wet aangewezen overheid kan instellen evenwel de mogelijkheid om ten laste van de Schatkist de billijke vergoeding te verkrijgen van de schade die hij geleden heeft door een onwerkzaam gebleken hechtenis (1). (1) Art. 28, Wet Onwerkzame Hechtenis, vóór de wijziging ervan bij W. 30 dec. 2009; zie Cass. 10 april 1992, AR 7397, AC, 1991-92, nr. 431, met concl. adv.-gen. du Jardin."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920410.16": {
+      "court": "CASS",
+      "date": "1992-04-10",
+      "roleNumber": "7397",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne prévoit la possibilité d'introduire un pourvoi en cassation contre la décision par laquelle, en application de l'article 28, alinéa 5, de la loi relative à l'indemnité en cas de détention préventive inopérante, la commission ad hoc statue sur une action en indemnisation du chef de détention inopérante."
+      ],
+      "abstractNL": [
+        "Geen wetsbepaling voorziet in de mogelijkheid om cassatieberoep in te stellen tegen de beslissing waarbij de commissie ad hoc, met toepassing van art. 28, alinéa 5, Wet van 13 maart 1973 betreffende de vergoeding voor onwerkzame voorlopige hechtenis, uitspraak doet over een vordering tot vergoeding wegens onwerkzame hechtenis."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19791010.16": {
+      "court": "CASS",
+      "date": "1979-10-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/10/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "En matière de détention préventive, la loi ne permet la communication du dossier au conseil de l'inculpé, et non à l'inculpé lui-même, que dans le cas prévu par l'article 5 de la loi du 20 avril 1874; il ne ressort ni de la loi du 13 mars 1973, modifiant la loi relative à la détention préventive, ni d'aucune autre disposition légale que le législateur ait entendu étendre la communication du dossier en dehors de ce cas."
+      ],
+      "abstractNL": [
+        "Volgens de wet kan inzake voorlopige hechtenis de raadsman van de verdachte, en niet de verdachte zelf, van het dossier enkel inzage nemen in het geval van art. 5 wet van 20 april 1874; noch uit de wet van 13 maart 1973 tot wijziging van de wet betreffende de voorlopige hechtenis, noch uit enige andere wettelijke bepaling blijkt dat er buiten dat geval van enige mededeling van het dossier sprake is."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920410.16": {
+      "court": "CASS",
+      "date": "1992-04-10",
+      "roleNumber": "7397",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne prévoit la possibilité d'introduire un pourvoi en cassation contre la décision par laquelle, en application de l'article 28, alinéa 5, de la loi relative à l'indemnité en cas de détention préventive inopérante, la commission ad hoc statue sur une action en indemnisation du chef de détention inopérante."
+      ],
+      "abstractNL": [
+        "Geen wetsbepaling voorziet in de mogelijkheid om cassatieberoep in te stellen tegen de beslissing waarbij de commissie ad hoc, met toepassing van art. 28, alinéa 5, Wet van 13 maart 1973 betreffende de vergoeding voor onwerkzame voorlopige hechtenis, uitspraak doet over een vordering tot vergoeding wegens onwerkzame hechtenis."
+      ]
     }
   }
 }

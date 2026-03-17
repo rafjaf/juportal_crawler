@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720328.7": {
+      "court": "CASS",
+      "date": "1972-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/28/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La convention collective de travail de la commission paritaire nationale de l'industrie hôtelière du 27 mars 1968, rendue obligatoire par l'arrêté royal du 7 mai 1968, impose le payement, à titre de rémunération, aux serveurs et serveuses des débits de boissons, du pourcentage de service prévu par cette convention, soit 15 p.c. du prix."
+      ],
+      "abstractNL": [
+        "De collectieve arbeidsovereenkomst van het nationaal paritair comité voor het hotelbedrijf van 27 maart 1968, algemeen verbindend verklaard bij het koninklijk besluit van 7 mei 1968, legt de betaling op als loon aan kelners en kelnerinnen in drankslijterijen van het bij deze overeenkomst vastgestelde bedieningsgeld, dit is 15 p.c. van de prijs."
+      ]
+    }
+  }
+}

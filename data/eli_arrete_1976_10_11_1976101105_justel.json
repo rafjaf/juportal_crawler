@@ -15,5 +15,35 @@
         "Uit de samenlezing van de artikelen 65.4 en 65.6 Wegverkeersreglement, en de artikelen 6.8 en 9.9.3° MB van 11 oktober 1976, volgt dat artikel 9.9.3° MB 11 oktober 1976 dat voorziet in de verplichting een onderbord type I a (blauw onderbord met witte cijfers/letters dat een afstand aangeeft) aan te brengen, niet van toepassing is als de snelheidsbeperking ingevolge de aanwezige verkeersborden enkel betrekking heeft op de uitrit die rechts van de rijbaan ligt."
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830323.7": {
+      "court": "CASS",
+      "date": "1983-03-23",
+      "roleNumber": "2441;2442;2443;2444",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge qui constate que, en l'absence de disposition réglementaire fixant les conditions métrologiques et techniques susceptibles de s'appliquer à la vérification des parcomètres, ceux-ci ne sont pas vérifiés au sens de la loi du 16 juin 1970 sur les unités, étalons et instruments de mesure, décide légalement que cette circonstance est sans effet sur le caractère obligatoire des indications que fournissent les parcomètres sur la durée du stationnement qui est autorisé en raison de la redevance payée. ( Code de la route du 1er décembre 1975, art. 5 et 27.3.1.; arrêté ministériel du 11 octobre 1976 fixant les dimensions minimales et les conditions particulières de placement de la signalisation routière, art. 11.7. )"
+      ],
+      "abstractNL": [
+        "Wanneer de rechter vaststelt dat de parkeermeters, bij afwezigheid van verordenende bepaling houdende vaststelling van de meetkundige en technische voorwaarden die kunnen worden toegepast op de ijk van parkeermeters, niet geijkt zijn, in de zin van de wet van 16 juni 1970 op de meeteenheden, de meetstandaarden en de meetwerktuigen, beslist hij wettig dat die omstandigheid niets afdoet aan het verbindend karakter van de aanduidingen van de parkeermeters betreffende de parkeertijd die naar gelang van de betaalde som is toegestaan. ( Artt. 5 en 27.3.1 Wegverkeersreglement 1 dec. 1975; art. 11.7 M.B. van 11 okt. 1976 waarbij de minimumafmetingen en de bijzondere plaatsingsvoorwaarden van de verkeerstekens worden bepaald. )"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780104.8": {
+      "court": "CASS",
+      "date": "1978-01-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/01/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Les prescriptions de l'article 19.1,2° de l'arrêté ministériel du 11 octobre 1976, aux termes desquelles , \" chaque fois que la disposition des lieux le permet , trois flèches successives en moins doivent être tracées avant le carrefour\", ne sont relatives qu'aux flèches de sélection prévues par l'article 77.1,alinéa 1, du Code de la route du 1er décembre 1975"
+      ],
+      "abstractNL": [
+        "De voorschriften van artikel 19.1, 2°, van het ministerieel besluit van 11 oktober 1976 luidens hetwelk, \" telkens wanneer de plaatsgesteldheid het toelaat, ten minste drie opeenvolgende voorsorteringspijlen voor het kruispunt moeten worden aangebracht \" , hebben enkel betrekking op de voorsorteringspijlen waarvan sprake is in artikel 77.1, eerste lid, van het Wegverkeersreglement van 1 december 1975."
+      ]
+    }
   }
 }

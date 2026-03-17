@@ -1,0 +1,18 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1976:ARR.19761012.12": {
+      "court": "CASS",
+      "date": "1976-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 8 novembre 1973 limitant la vitesse des véhicules automoteurs sur la voie publique, modifié par l'arrêté royal du 20 mai 1974, trouve son fondement légal dans l'article 16, 1°, de la loi du 12 mars 1957 portant certaines dispositions en matière financière, économique et sociale."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 8 november 1973 tot beperking van de snelheid van de voertuigen met eigen beweegkracht op de openbare weg, gewijzigd bij koninklijk besluit van 20 mei 1974, vindt zijn rechtsgrond in artikel 16, 1°, van de wet van 12 maart 1957 houdende sommige bepalingen op financieel, economisch en sociaal gebied."
+      ]
+    }
+  }
+}

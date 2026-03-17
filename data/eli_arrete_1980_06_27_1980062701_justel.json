@@ -1,0 +1,34 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1984:ARR.19841219.3": {
+      "court": "CASS",
+      "date": "1984-12-19",
+      "roleNumber": "7136",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est illégal l'arrêt qui décide de rendre une peine d'emprisonnement exécutoire en révoquant le sursis probatoire accordé au condamné par une décision de condamnation antérieure, alors que celui-ci avait entretemps bénéficié de la remise de sa peine d'emprisonnement en application d'un arrêté royal de grâce collective."
+      ],
+      "abstractNL": [
+        "Onwettig is het arrest dat beslist een gevangenisstraf uitvoerbaar te maken door het probatieuitstel dat de veroordeelde bij een vroegere veroordeling had verkregen, te herroepen, wanneer hij intussen kwijtschelding van zijn gevangenisstraf heeft genoten met toepassing van een K.B. van collectieve gratie."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19841219.3": {
+      "court": "CASS",
+      "date": "1984-12-19",
+      "roleNumber": "7136",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/12/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est illégal l'arrêt qui décide de rendre une peine d'emprisonnement exécutoire en révoquant le sursis probatoire accordé au condamné par une décision de condamnation antérieure, alors que celui-ci avait entretemps bénéficié de la remise de sa peine d'emprisonnement en application d'un arrêté royal de grâce collective."
+      ],
+      "abstractNL": [
+        "Onwettig is het arrest dat beslist een gevangenisstraf uitvoerbaar te maken door het probatieuitstel dat de veroordeelde bij een vroegere veroordeling had verkregen, te herroepen, wanneer hij intussen kwijtschelding van zijn gevangenisstraf heeft genoten met toepassing van een K.B. van collectieve gratie."
+      ]
+    }
+  }
+}

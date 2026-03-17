@@ -300,6 +300,20 @@
       "abstractNL": [
         "De beheerder moet, in het kader van het door de wet beoogde doel, het advies van de medische raad inwinnen over de afzetting van ziekenhuisgeneesheren, behalve in geval van afzetting om dringende reden; die regel is een dwingende bepaling in het voordeel van de ziekenhuisgeneesheren (1). (1) Zie concl. O.M. in Pas., 2009, nr ..."
       ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061002.3": {
+      "court": "CASS",
+      "date": "2006-10-02",
+      "roleNumber": "C040596N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le motif grave justifiant la révocation sans préavis d'un médecin hospitalier doit être énoncé dans la notification de manière à ce que le médecin hospitalier révoqué soit informé des faits mis à sa charge et que le juge puisse apprécier la gravité du motif invoqué et examiner si le motif invoqué devant lui est identique à celui qui a été notifié au médecin révoqué; la notification peut toutefois être complétée par référence à d'autres éléments, pour autant que l'ensemble de ces éléments permette d'apprécier avec certitude et précision les motifs qui ont donné lieu à la révocation (1). (1) Cass., 27 février 1978, Bull. et Pas., 1978, I, 738, première espèce; Cass., 24 mars 1980, Bull. et Pas., 1980, I, 900."
+      ],
+      "abstractNL": [
+        "De dringende reden ter verantwoording van de afzetting zonder opzegging van een ziekenhuisgeneesheer, moet in de kennisgeving derwijze worden omschreven dat de ontslagen ziekenhuisgeneesheer op de hoogte wordt gebracht van de feiten die hem ten laste worden gelegd en dat de rechter het ernstige karakter van de aangevoerde reden kan beoordelen en kan nagaan of de voor hem ingeroepen redenen dezelfde zijn als die welke medegedeeld werden aan de ontslagen geneesheer; de kennisgeving mag evenwel worden aangevuld met verwijzing naar andere gegevens, voor zover het geheel de mogelijkheid biedt met zekerheid en nauwkeurigheid de motieven die aanleiding gaven tot het ontslag te beoordelen (1). (1) Cass., 27 feb. 1987, A.C., 1978, 757, eerste zaak; Cass., 24 maart 1980, A.C., 1979-80, 912."
+      ]
     }
   },
   "126": {
@@ -484,6 +498,22 @@
       ],
       "abstractNL": [
         "Alle kosten die voortvloeien uit het verblijf in een gemeenschappelijke kamer en het verstrekken van zorgen aan de patiënten in het ziekenhuis en die niet zijn opgesomd in artikel 95 van de wet van 7 augustus 1987 op de ziekenhuizen, zijn gedekt door het budget van de aan het ziekenhuis toegekende financiële middelen en kunnen niet leiden tot een financiële tussenkomst van de patiënt (1). (1) Zie concl. OM. in Pas. 2017, nr. ..."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990422.9": {
+      "court": "CASS",
+      "date": "1999-04-22",
+      "roleNumber": "C980176F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifié l'arrêt qui applique à la cessation des relations contractuelles entre un gestionnaire d'une clinique et un médecin titulaire dans un de ses services, les dispositions de la loi du 7 août 1987 sur les hôpitaux qui sont relatives à la réglementation générale régissant les rapports juridiques entre l'hôpital et les médecins hospitaliers et non le règlement d'ordre intérieur du service concerné."
+      ],
+      "abstractNL": [
+        "Het arrest dat op de beëindiging van de contractuele verhouding tussen de ziekenhuisbeheerder en een geneesheer benoemd in een van zijn diensten, de bepalingen toepast van de Ziekenhuiswet die verband houden met de algemene reglementering van de rechtsverhouding tussen het ziekenhuis en de ziekenhuisgeneesheren en niet het huishoudelijk reglement van de betrokken dienst, is naar recht verantwoord."
       ]
     }
   }

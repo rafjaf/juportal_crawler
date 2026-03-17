@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19771011.16": {
+      "court": "CASS",
+      "date": "1977-10-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/11/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Les arrêtés royaux fixant les conditions d'agréation des médecins spécialistes en vue de l'application de la législation en matière d'assurance maladie-invalidité, notamment l'arrêté royal du 19 octobre 1971 modifié par l'arrêté royal du 19 avril 1972, trouvent leur fondement légal dans la loi du 9 août 1963, spécialement l'article 153, par. 4, et non dans l'article 47 de l'arrêté royal nr. 78 du 10 novembre 1967."
+      ],
+      "abstractNL": [
+        "De koninklijke besluiten tot vaststelling van de voorwaarden voor de erkenning van de geneesheren-specialisten voor de toepassing van de wetgeving op de ziekte- en invaliditeitsverzekering, inzonderheid het koninklijk besluit van 19 oktober 1971, gewijzigd bij koninklijk besluit van 19 april 1972, vinden hun rechtsgrond uitsluitend in de wet van 9 augustus 1963, inzonderheid artikel 153, par. 4, en niet in artikel 47 van het koninklijk besluit nr. 78 van 10 november 1967."
+      ]
+    }
+  }
+}

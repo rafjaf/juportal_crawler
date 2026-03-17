@@ -1,0 +1,18 @@
+{
+  "3": {
+    "ECLI:BE:CASS:2001:ARR.20010102.6": {
+      "court": "CASS",
+      "date": "2001-01-02",
+      "roleNumber": "P981511N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Par 'commerçant', l'article 3, alinéa 2, de l'arrêté royal du 16 septembre 1991 relatif au transport des marchandises dangereuses par route, à l'exception des matières explosives et radioactives, ne vise pas le commerçant dans la signification usuelle du mot, mais uniquement le commerçant en matières dangereuses qui sont chargées chez lui (solution implicite) (1)."
+      ],
+      "abstractNL": [
+        "Met 'handelaar' is in artikel 3, tweede lid KB 16 sept. 1991 niet de handelaar in de gebruikelijke betekenis van het woord bedoeld, maar enkel de handelaar in de gevaarlijke stoffen die bij hem worden verladen. (Impliciet). (1)."
+      ]
+    }
+  }
+}

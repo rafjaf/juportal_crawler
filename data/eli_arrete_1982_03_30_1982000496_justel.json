@@ -1,0 +1,62 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2003:ARR.20030310.2": {
+      "court": "CASS",
+      "date": "2003-03-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/03/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité complémentaire au sens de l'article 1er, alinéa 1er, 3°, de l'arrêté royal n° 33 du 30 mars 1982 relatif à une retenue sur des indemnités d'invalidité et des prépensions, est l'indemnité visée par la convention collective de travail n° 17 conclue le 19 décembre 1974 au sein du Conseil national du travail instituant un régime d'indemnité complémentaire pour certains travailleurs âgés, en cas de licenciement, rendue obligatoire par l'arrêté royal du 16 janvier 1975, ou l'indemnité visée soit dans une convention collective de travail, soit dans un accord collectif approuvé par le ministre de l'Emploi et du travail, pour autant qu'ils accordent des avantages au moins équivalents à ceux prévus par la convention collective de travail n° 17 (1). (1) Voir A.R. du 7 décembre 1992 relatif à l'octroi d'allocations de chômage en cas de prépension conventionnelle, art. 2, ,§ 1er."
+      ],
+      "abstractNL": [
+        "De aanvullende vergoeding in de zin van artikel 1, eerste lid, 3°, van het koninklijk besluit nr. 33 van 30 maart 1982 betreffende een inhouding op invaliditeitsuitkeringen en brugpensioenen, is de vergoeding bedoeld in de op 19 december 1974 in de Nationale Arbeidsraad gesloten collectieve arbeidsovereenkomst nr. 17 tot invoering van een regeling van aanvullende vergoeding ten gunste van sommige bejaarde werknemers indien zij worden ontslagen, die algemeen verbindend is verklaard bij het koninklijk besluit van 16 januari 1975, of de vergoeding bedoeld ofwel in een collectieve arbeidsovereenkomst ofwel in een door de Minister voor Arbeidsvoorziening en Tewerkstelling goedgekeurd collectief akkoord, voor zover zij voordelen toekennen die op zijn minst gelijkwaardig zijn aan die bepaald in de collectieve arbeidsovereenkomst nr. 17."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891023.9": {
+      "court": "CASS",
+      "date": "1989-10-23",
+      "roleNumber": "6695",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/23/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les allocations annuelles pour accident du travail en cas d'incapacité permanente de travail portent intérêt à compter de la date de consolidation et non à compter de la décision judiciaire statuant sur une contestation relative à la nature et au degré de l'incapacité de travail. ( Loi du 10 avril 1971, articles 24, alinéa 2, 42, alinéa 2, et 63, alinéa 1er; arrêté royal du 30 mars 1982, article 1er. )"
+      ],
+      "abstractNL": [
+        "Op de jaarlijkse arbeidsongevallenvergoedingen voor blijvende arbeidsongeschiktheid is interest verschuldigd vanaf de consolidatiedatum en niet vanaf de rechterlijke beslissing die uitspraak doet over een betwisting omtrent de aard en de graad van de arbeidsongeschiktheid. ( Artt. 24, tweede lid, 42, tweede lid, en 63, alinéa 1, Arbeidsongevallenwet; art. 1 K.B. 30 maart 1982. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19881010.13": {
+      "court": "CASS",
+      "date": "1988-10-10",
+      "roleNumber": "6236",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/10/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les allocations d'attente octroyées, en vertu de l'arrêté royal du 30 mars 1982, ne constituent pas des allocations de chômage pour l'application de l'article 160, alinéa 3, alinéa 3, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, modifié par l'arrêté royal du 27 avril 1984, qui accorde une majoration de l'allocation de chômage aux chômeurs mariés."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 160, alinéa 3, derde lid, Werkloosheidsbesluit, als gewijzigd bij K.B. 27 april 1984, dat een verhoging van de werkloosheidsuitkering toekent aan gehuwde werklozen, zijn wachtuitkeringen, verleend krachtens K.B. 30 maart 1982, geen werkloosheidsuitkeringen."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891023.9": {
+      "court": "CASS",
+      "date": "1989-10-23",
+      "roleNumber": "6695",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/23/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les allocations annuelles pour accident du travail en cas d'incapacité permanente de travail portent intérêt à compter de la date de consolidation et non à compter de la décision judiciaire statuant sur une contestation relative à la nature et au degré de l'incapacité de travail. ( Loi du 10 avril 1971, articles 24, alinéa 2, 42, alinéa 2, et 63, alinéa 1er; arrêté royal du 30 mars 1982, article 1er. )"
+      ],
+      "abstractNL": [
+        "Op de jaarlijkse arbeidsongevallenvergoedingen voor blijvende arbeidsongeschiktheid is interest verschuldigd vanaf de consolidatiedatum en niet vanaf de rechterlijke beslissing die uitspraak doet over een betwisting omtrent de aard en de graad van de arbeidsongeschiktheid. ( Artt. 24, tweede lid, 42, tweede lid, en 63, alinéa 1, Arbeidsongevallenwet; art. 1 K.B. 30 maart 1982. )"
+      ]
+    }
+  }
+}

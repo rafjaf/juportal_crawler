@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2007:ARR.20070205.2": {
+      "court": "CASS",
+      "date": "2007-02-05",
+      "roleNumber": "S060030N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/02/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le législateur vise à garantir un revenu au délégué ou au candidat-délégué pendant la suspension du contrat de travail en lui permettant de recevoir, outre les allocations de chômage, une indemnité complémentaire, payée par l'employeur, la somme des deux étant égale à la rémunération nette gagnée antérieurement; par rémunération nette, on vise non pas le revenu fiscal net, c'est-à-dire après déduction de l'impôt, étant donné que l'impôt dépend d'un certain nombre de facteurs étrangers à l'engagement."
+      ],
+      "abstractNL": [
+        "De wetgever beoogt de afgevaardigde of de kandidaat-afgevaardigde tijdens de schorsing van de arbeidsovereenkomst een inkomen te waarborgen doordat hij naast de werkloosheidsuitrusting een bijkomende vergoeding ontvangt, betaald door de werkgever, die samen gelijk zijn aan het voorheen verdiende nettoloon; met nettoloon wordt niet bedoeld het fiscaal netto-inkomen, te weten na aftrek van de belastingen, gezien de belastingen afhankelijk zijn van een aantal factoren die vreemd zijn aan de dienstbetrekking."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2000:ARR.20000306.6": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990079N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les droits résultant du régime des pensions des travailleurs salariés instauré par l'arrêté royal n° 50 du 24 octobre 1967 et qui sont transférés en vertu de la loi du 21 mai 1991 aux institutions de droit international public par un fonctionnaire, ne sont plus pris en compte pour l'octroi ou le calcul d'une autre pension de retraite; ce régime s'applique exclusivement à celui qui opère le transfert et non pas à l'octroi d'une pension de retraite de l'épouse divorcée non remariée de ce fonctionnaire. Le fonctionnaire ne peut que transférer la contrevaleur de ses propres droits à la pension mais pas la contrevaleur de la pension de retraite à laquelle son exconjoint a droit."
+      ],
+      "abstractNL": [
+        "De rechten die voortvloeien uit de pensioenregeling voor werknemers ingesteld bij KB nr. 50 van 24 oktober 1967 en worden overgedragen krachtens de wet van 21 mei 1991 aan instellingen van internationaal publiek recht door een ambtenaar, komen niet meer in aanmerking voor de toekenning of berekening van een ander rustpensioen; deze regeling geldt uitsluitend voor de overdrager en niet voor de toekenning van het rustpensioen van de niet hertrouwde uit de echt gescheiden echtgenote van die ambtenaar. De ambtenaar kan slechts de tegenwaarde van zijn eigen rechten op pensioen overdragen maar niet de tegenwaarde van het rustpensioen waarop zijn gewezen echtgenote persoonlijk gerechtigd is."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20000306.6": {
+      "court": "CASS",
+      "date": "2000-03-06",
+      "roleNumber": "S990079N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/03/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les droits résultant du régime des pensions des travailleurs salariés instauré par l'arrêté royal n° 50 du 24 octobre 1967 et qui sont transférés en vertu de la loi du 21 mai 1991 aux institutions de droit international public par un fonctionnaire, ne sont plus pris en compte pour l'octroi ou le calcul d'une autre pension de retraite; ce régime s'applique exclusivement à celui qui opère le transfert et non pas à l'octroi d'une pension de retraite de l'épouse divorcée non remariée de ce fonctionnaire. Le fonctionnaire ne peut que transférer la contrevaleur de ses propres droits à la pension mais pas la contrevaleur de la pension de retraite à laquelle son exconjoint a droit."
+      ],
+      "abstractNL": [
+        "De rechten die voortvloeien uit de pensioenregeling voor werknemers ingesteld bij KB nr. 50 van 24 oktober 1967 en worden overgedragen krachtens de wet van 21 mei 1991 aan instellingen van internationaal publiek recht door een ambtenaar, komen niet meer in aanmerking voor de toekenning of berekening van een ander rustpensioen; deze regeling geldt uitsluitend voor de overdrager en niet voor de toekenning van het rustpensioen van de niet hertrouwde uit de echt gescheiden echtgenote van die ambtenaar. De ambtenaar kan slechts de tegenwaarde van zijn eigen rechten op pensioen overdragen maar niet de tegenwaarde van het rustpensioen waarop zijn gewezen echtgenote persoonlijk gerechtigd is."
+      ]
+    }
+  }
+}

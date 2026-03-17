@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19991206.4": {
+      "court": "CASS",
+      "date": "1999-12-06",
+      "roleNumber": "S980084F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Tout entrepreneur principal a l'obligation de tenir sur chaque chantier une liste journalière de tous les travailleurs qui y sont occupés; cette liste journalière doit être établie en temps utile pour que les fonctionnaires et agents compétents puissent à tout moment de la journée en vérifier la concordance avec la situation constatée sur le chantier et, pour être valable, elle doit respecter toutes les exigences réglementaires prévues."
+      ],
+      "abstractNL": [
+        "Iedere hoofdaannemer heeft de verplichting op elke bouwplaats een dagelijkse lijst bij te houden van alle werknemers die er tewerkgesteld zijn; die dagelijkse lijst moet tijdig opgemaakt zijn opdat de bevoegde ambtenaren op elk ogenblik van de dag kunnen nagaan of die lijst overeenstemt met de toestand die ze op de bouwplaats vaststellen; om geldig te zijn moet ook die lijst alle reglementaire vereisten in acht nemen."
+      ]
+    }
+  }
+}

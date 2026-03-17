@@ -1,0 +1,48 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1992:ARR.19920213.6": {
+      "court": "CASS",
+      "date": "1992-02-13",
+      "roleNumber": "9241",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/02/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'administration des domaines ne peut recouvrer par voie de contrainte, en vertu de l'article 3 de la loi domaniale du 22 décembre 1949, que les sommes, dues à l'Etat ou à un organisme d'Etat, qui ont le caractère d'une créance certaine."
+      ],
+      "abstractNL": [
+        "Het bestuur der domeinen kan, ingevolge art. 3 Domaniale Wet van 22 december 1949, bij dwangbevel alleen die aan de Staat of aan de \"Staatsorganismen\" verschuldigde sommen invorderen die het kenmerk van een vaststaande schuldvordering vertonen."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760914.1": {
+      "court": "CASS",
+      "date": "1976-09-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La faculté pour l'Etat ou pour un organisme d'Etat de recouvrer au moyen d'une contrainte, par application de l'article 3 de la loi domaniale du 22 décembre 1949, une somme qui lui est due n'empêche pas l'exercice d'une action civile, lorsque le non-payement de la somme constitue une infraction (1)."
+      ],
+      "abstractNL": [
+        "De mogelijkheid voor de Staat of een staatsinstelling om een verschuldigde som met toepassing van artikel 3 van de domaniale wet van 22 december1949 door middel van een dwangbevel in te vorderen, is geen beletsel om een burgerlijke rechtsvordering in te stellen, wanneer het niet betalen van de som een misdrijf is (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760914.1": {
+      "court": "CASS",
+      "date": "1976-09-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/09/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La faculté pour l'Etat ou pour un organisme d'Etat de recouvrer au moyen d'une contrainte, par application de l'article 3 de la loi domaniale du 22 décembre 1949, une somme qui lui est due n'empêche pas l'exercice d'une action civile, lorsque le non-payement de la somme constitue une infraction (1)."
+      ],
+      "abstractNL": [
+        "De mogelijkheid voor de Staat of een staatsinstelling om een verschuldigde som met toepassing van artikel 3 van de domaniale wet van 22 december1949 door middel van een dwangbevel in te vorderen, is geen beletsel om een burgerlijke rechtsvordering in te stellen, wanneer het niet betalen van de som een misdrijf is (1)."
+      ]
+    }
+  }
+}

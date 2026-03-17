@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950130.7": {
+      "court": "CASS",
+      "date": "1995-01-30",
+      "roleNumber": "S940010N;S940116N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les allocations qui sont dues en vertu de l'article 58, alinéa 1er, 7°, de la loi du 10 avril 1971 sur les accidents du travail, tel qu'il était applicable avant sa modification par l'arrêté royal n° 530 du 31 mars 1987, constituent des indemnités prévues par cette loi qui portent intérêt de plein droit à partir de leur exigibilité, en vertu de l'article 42, alinéa 3, de cette loi."
+      ],
+      "abstractNL": [
+        "De bijslagen die verschuldigd zijn krachtens art. 58, alinéa 1, 7° Arbeidsongevallenwet, zoals die bepaling van toepassing was voor de wijziging ervan bij K.B. nr. 530 van 31 maart 1987, zijn uitkeringen bedoeld in de Arbeidsongevallenwet waarop krachtens art. 42, 3e lid, van die wet van rechtswege interest verschuldigd is vanaf het ogenblik dat ze eisbaar worden."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820419.1": {
+      "court": "CASS",
+      "date": "1982-04-19",
+      "roleNumber": "6465",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/04/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 15 décembre 1981 relatif à l'octroi d'allocations d'études aux élèves des conservatoires royaux de musique et de l'institut de musique d'église et de pédagogie musicale, n'a pas pour but de classer ces institutions dans les établissements d'enseignement supérieur organisé par l'Etat dont le cycle d'études comporte trois ans au moins, au sens de l'article 10, par. 2,1°, des lois coordonnées sur la milice."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 15 dec. 1981 betreffende de toekenning van studietoelagen aan de leerlingen van de Koninklijke Muziekconservatoria en van het \"Institut de musique d'Eglise et de pédagogie musicale\" heeft niet tot doel die instellingen te doen rekenen tot de instellingen van het door de Staat georganiseerde hoger onderwijs waarvan de cyclus ten minste drie jaar omvat, in de zin van art. 10, alinéa 2, 1°, Dienstplichtwet."
+      ]
+    }
+  }
+}

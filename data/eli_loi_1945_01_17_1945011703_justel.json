@@ -1,0 +1,34 @@
+{
+  "6": {
+    "ECLI:BE:CASS:1974:ARR.19741205.10": {
+      "court": "CASS",
+      "date": "1974-12-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 1er de l'arrêté-loi du 23 aout 1944, aux termes de laquelle par le fait du séquestre tous actes relatifs aux biens séquestrés ne sont pas opposables à l'Office des séquestres, est applicable au séquestre des biens, droits et intérêts ennemis, et non au séquestre des biens des inculpés de crimes ou délits contre la sûreté extérieure de l'Etat et des biens des suspects. ( Arrêté-loi du 23 aout 1944, art. 1er , alinéa 2, et arrêté-loi du 17 janvier 1945, art. 6 , modifié par l'arrêté-loi du 10 janvier 1946, art. 1er. )"
+      ],
+      "abstractNL": [
+        "De bepaling van artikel 1 van de besluitwet van 23 augustus 1944, naar luid waarvan door het feit van het sekwester alle akten betreffende de onder sekwester gestelde goederen aan de Dienst van het sekwester niet kunnen worden tegengeworpen, is van toepassing op het sekwester van goederen, rechten en belangen van de vijand en niet op het sekwester van de goederen van degenen aan wie misdaden of wanbedrijven tegen de uitwendige veiligheid van de Staat worden ten laste gelegd noch op dat van de goederen van verdachten. ( Art. 1, tweede lid, besluitwet van 23 augustus 1944; art. 6 besluitwet van 17 januari 1945, zoals het is gewijzigd bij art. 1 van de besluitwet van 10 januari 1946. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720629.17": {
+      "court": "CASS",
+      "date": "1972-06-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/29/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "La mise sous séquestre organisée par l'arrêté-loi du 17 janvier 1945 est une mesure ayant pour seul objet de sauvegarder les droits de l'Etat et des autres créanciers du séquestré; cette mesure n'est, en principe, pas d'ordre public."
+      ],
+      "abstractNL": [
+        "De bij de besluitwet van 17 januari 1945 geregelde stelling onder sekwester is een maatregel die alleen tot voorwerp heeft de rechten van de Staat en van de andere schuldeisers van de gesekwestreerde te beschermen; deze maatregel is in beginsel niet van openbare orde."
+      ]
+    }
+  }
+}

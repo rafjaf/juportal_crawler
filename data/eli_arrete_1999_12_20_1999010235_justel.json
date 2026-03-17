@@ -1,0 +1,18 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2004:ARR.20040419.9": {
+      "court": "CASS",
+      "date": "2004-04-19",
+      "roleNumber": "S030064N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer la limite de revenus pour pouvoir bénéficier partiellement ou entièrement de la gratuité de l'aide juridique, il y a lieu d'entendre par le revenu mensuel net moyen du ménage, le revenu mensuel net moyen de l'ensemble des membres de la famille et pas l'ensemble des revenus mensuels nets moyens de chaque membre de la famille considéré individuellement et qui est ensuite divisé par le nombre des membres de la famille."
+      ],
+      "abstractNL": [
+        "Voor de vaststelling van de inkomensgrens voor het genot van gedeeltelijke of volledige kosteloosheid van de juridische bijstand, dient onder het gemiddeld maandelijks netto-inkomen van het gezin te worden verstaan, het gemiddeld maandelijks netto-inkomen van alle gezinsleden samen en niet het gemiddeld maandelijks netto-inkomen van de individuele gezinsleden samen dat vervolgens gedeeld wordt door het aantal familieleden."
+      ]
+    }
+  }
+}

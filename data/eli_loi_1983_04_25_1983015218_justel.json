@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950105.8": {
+      "court": "CASS",
+      "date": "1995-01-05",
+      "roleNumber": "C940002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La présomption de responsabilité pesant sur le transporteur ferroviaire (chemin de fer) pour les accidents survenus aux voyageurs, n'implique pas que les déclarations du transporteur ou de ses préposés et agents ne puissent être prises en considération pour apprécier l'existence d'une cause étrangère invoquée par le transporteur pour s'exonérer de sa responsabilité."
+      ],
+      "abstractNL": [
+        "Het op de spoorwegvervoerder rustend vermoeden van aansprakelijkheid voor de aan reizigers overkomen ongevallen, houdt niet in dat de verklaringen van de vervoerder of van zijn aangestelden of beambten niet in aanmerking kunnen komen bij de beoordeling van het bestaan van een door de vervoerder aangevoerde vreemde oorzaak waardoor hij van aansprakelijkheid wordt vrijgesteld."
+      ]
+    }
+  }
+}

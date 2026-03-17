@@ -56,5 +56,35 @@
       ],
       "abstractNL": null
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010126.5": {
+      "court": "CASS",
+      "date": "2001-01-26",
+      "roleNumber": "C990273NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/26/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La taxe sur la valeur ajoutée est établie au taux de 6% pour des travaux immobiliers effectués à des logements privés pour autant que la facture délivrée par le prestataire de service et le double qu'il conserve constatent, sur la base d'une attestation formelle et précise du client, l'existence des divers éléments justificatifs de l'application du taux réduit : dès lors, lorsque le client ne mentionne pas le fait qu'il peut bénéficier du tarif réduit, la facturation est effectuée au taux ordinaire de la TVA."
+      ],
+      "abstractNL": [
+        "De belasting over de toegevoegde waarde wordt geheven tegen het tarief van 6% voor werk in onroerende staat met betrekking tot privé-woningen voor zover de door de dienstverrichter uitgereikte factuur en het dubbel dat hij bewaart, op basis van een duidelijk en nauwkeurig attest van de afnemer, melding maken van de elementen die de toepassing van het verlaagd tarief rechtvaardigen : wanneer de afnemer derhalve niet kenbaar maakt dat hij kan genieten van het verlaagd tarief, wordt bij de facturatie het normaal BTW-tarief toegepast."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880516.1": {
+      "court": "CASS",
+      "date": "1988-05-16",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 28 juin 1969 qui institue un régime de soins de santé pour les personnes non encore protégées exclut de son champ d'application les personnes qui sont ou peuvent être bénéficiaires d'un régime de soins de santé en vertu de l'article 22, al. 1er, 1° à 6°, de la loi du 9 août 1963; tel est le cas d'un handicapé qui peut être bénéficiaire du régime créé par l'arrêté royal du 20 juillet 1970, même s'il est exclu des prestations prévues par ce régime en raison de son placement dans un établissement psychiatrique fermé. ( Loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, art. 22, 1° à 6°, et 7°; Arrêté royal du 20 juillet 1970, étendant le champ d'application de l'assurance soins de santé obligatoire aux handicapés, art. 1er, al. 1er, 1°; Arrêté royal du 28 juin 1969 étendant le champ d'application de l'assurance soins de santé obligatoire aux personnes non encore protégées, art. 1er, al. 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "In K.B. van 28 juni 1969 tot regeling van geneeskundige verzorging voor de nog niet beschermde personen worden van de werkingssfeer uitgesloten de personen die krachtens art. 22, eerste lid, 1° tot 6°, Z.I.V.-wet 9 augustus 1963 aanspraak hebben of kunnen hebben op een regeling voor geneeskundige verzorging; aldus de minder-valide die volgens K.B. van 20 juli 1970 gerechtigde kan zijn, zelfs al is hij van de geneeskundige verstrekkingen van die regeling uitgesloten, doordat hij in een gesloten psychiatrische instelling is geplaatst. ( Art. 22, 1° tot 6° en 7° Z.I.V.-wet 9 augustus 1963; art. 1, eerste lid, 1°, K.B. van 20 juli 1970 tot verruiming van de werkingssfeer van de verplichte verzekering voor geneeskundige verzorging tot de minder-validen; art. 1, eerste lid, 1°, K.B. van 28 juni 1969 tot verruiming van de werkingsfeer van de verplichte verzekering voor geneeskundige verzorging voor nog niet beschermde personen. )"
+      ]
+    }
   }
 }

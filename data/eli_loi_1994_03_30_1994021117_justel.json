@@ -1,0 +1,50 @@
+{
+  "31": {
+    "ECLI:BE:CASS:2009:ARR.20090428.5": {
+      "court": "CASS",
+      "date": "2009-04-28",
+      "roleNumber": "P.08.1738.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/04/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les fonctionnaires des administrations fiscales mis à la disposition de la police fédérale qui sont chargés de la recherche et de la constatation des infractions ont la qualité d'officier de police judiciaire auxiliaire du procureur du Roi et de l'auditeur du travail durant la période de la mise à disposition et peuvent être chargés d'appliquer des méthodes particulières de recherche, même pour les recherches relatives aux infractions en matière de douanes et accises."
+      ],
+      "abstractNL": [
+        "De ter beschikking van de federale politie gestelde ambtenaren van de fiscale administraties die belast zijn met het opsporen en vaststellen van strafbare feiten, hebben gedurende de periode van terbeschikkingstelling de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings en van de arbeidsauditeur, en kunnen belast worden met de aanwending van bijzondere opsporingsmethoden, ook voor onderzoeken inzake douane- en accijnsmisdrijven."
+      ]
+    }
+  },
+  "68": {
+    "ECLI:BE:CASS:1997:ARR.19971208.5": {
+      "court": "CASS",
+      "date": "1997-12-08",
+      "roleNumber": "S970032F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La retenue de solidarité prévue par la loi du 30 mars 1994 portant des dispositions sociales dans sa version antérieure à sa modification par la loi du 21 décembre 1994, doit, conformément aux règles spécifiques fixées par le Roi, être opérée à chaque paiement des pensions ou autres avantages légalement définis, par le débiteur qui en est civilement responsable; le Roi ne trouve pas, dans cette disposition, un pouvoir réglementaire d'attribution mais un simple pouvoir réglementaire d'exécution."
+      ],
+      "abstractNL": [
+        "De solidariteitsbijdrage, bedoeld in de wet van 30 maart 1994 houdende sociale bepalingen, vóór de wijziging ervan bij de wet van 21 december 1994, moet, overeenkomstig de door de Koning bepaalde nadere regelen, worden afgehouden bij iedere betaling van de pensioenen of andere, wettelijk omschreven voordelen, door de schuldenaar die daarvoor burgerlijk aansprakelijk is; de Koning bezit op grond van die bepaling geen volstrekte verordenende bevoegdheid maar een gewone uitvoerende verordenende bevoegdheid."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19971208.5": {
+      "court": "CASS",
+      "date": "1997-12-08",
+      "roleNumber": "S970032F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/12/08/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La retenue de solidarité prévue par la loi du 30 mars 1994 portant des dispositions sociales dans sa version antérieure à sa modification par la loi du 21 décembre 1994, doit, conformément aux règles spécifiques fixées par le Roi, être opérée à chaque paiement des pensions ou autres avantages légalement définis, par le débiteur qui en est civilement responsable; le Roi ne trouve pas, dans cette disposition, un pouvoir réglementaire d'attribution mais un simple pouvoir réglementaire d'exécution."
+      ],
+      "abstractNL": [
+        "De solidariteitsbijdrage, bedoeld in de wet van 30 maart 1994 houdende sociale bepalingen, vóór de wijziging ervan bij de wet van 21 december 1994, moet, overeenkomstig de door de Koning bepaalde nadere regelen, worden afgehouden bij iedere betaling van de pensioenen of andere, wettelijk omschreven voordelen, door de schuldenaar die daarvoor burgerlijk aansprakelijk is; de Koning bezit op grond van die bepaling geen volstrekte verordenende bevoegdheid maar een gewone uitvoerende verordenende bevoegdheid."
+      ]
+    }
+  }
+}

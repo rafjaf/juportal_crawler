@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19760428.5": {
+      "court": "CASS",
+      "date": "1976-04-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/04/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les travailleurs dont l'inscription sur les listes électorales pour l'élection des délégués du personnel au conseil d'entreprise et au comité de sécurité et d'hygiène est contestée ne sont pas parties à l'instance introduite par une organisation représentative des travailleurs contre la décision relative à leur inscription, à moins que ces travailleurs ne soient volontairement intervenus dans l'instance ou n'aient été appelés en intervention forcée. (Arrêtés royaux du 18 février 1971, art. 11.)"
+      ],
+      "abstractNL": [
+        "De werknemers wier inschrijving op de kiezerslijsten voor de verkiezing van de personeelsafgevaardigden in de ondernemingsraad en het veiligheidscomité wordt betwist, zijn geen partij in het geding ingeleid door een representatieve werknemersorganisatie tegen de beslissing over hun inschrijving tenzij die werknemers vrijwillig in het geding tussenkomen of in gedwongen tussenkomst worden opgeroepen. ( Art. 11 van de koninklijke besluiten van 18 februari 1971. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721213.8": {
+      "court": "CASS",
+      "date": "1972-12-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'aucune disposition légale ou réglementaire ne détermine le mode de calcul du nombre moyen de travailleurs habituellement occupés, le juge peut légalement décider que n'occupe pas habituellement en moyenne au moins 50 travailleurs et que, dès lors, ne doit pas créer un comité de sécurité, d'hygiène et d'embellissement des lieux de travail, l'entreprise dont l'effectif du personnel n'a cessé de diminuer et comporte moins de 50 travailleurs au moment où les élections des délégués du personnel au comité doivent avoir lieu, ainsi qu'à la fin de l'année précédente. ( Loi du 10 juin 1952, art. 1er, alinéa 4, b, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Wanneer geen wets- of reglementsbepaling de wijze van berekening van het gemiddeld aantal gewoonlijk tewerkgestelde werknemers bepaalt, kan de rechter wettelijk beslissen dat niet gewoonlijk een gemiddelde van ten minste 50 werknemers worden tewerkgesteld en derhalve geen comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen moet worden opgericht in een onderneming, waar de personeelsbezetting bestendig en voortdurend daalt en minder dan 50 werknemers bedraagt op het ogenblik dat de verkiezingen van de werknemersafgevaardigden in het comité moeten worden gehouden alsmede op het einde van het voorgaande jaar. ( Wet van 10 juni 1952, art. 1, alinéa 4, b, lid 1. )"
+      ]
+    }
+  }
+}

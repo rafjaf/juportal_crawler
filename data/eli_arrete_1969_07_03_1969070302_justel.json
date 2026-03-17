@@ -1,0 +1,56 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2002:ARR.20020920.6": {
+      "court": "CASS",
+      "date": "2002-09-20",
+      "roleNumber": "C000197N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Sans préjudice du droit du ministre compétent pour prendre des mesures, en ce compris celui d'exiger le dépôt d'échantillons s'il l'estime nécessaire dans l'intérêt de la santé publique, il y a lieu d'entendre les articles 6bis et 6quater de l'arrêté royal du 3 juillet 1969 relatif à l'enregistrement des médicaments en ce sens que, lorsqu'un enregistrement remplissant les conditions requises par l'Etat de référence et conforme à l'implémentation de la directive que celui-ci a prévue a été antérieurement accordé dans cet Etat de référence, le ministre n'est pas obligé de rejeter une demande fondée sur un dossier identique, même si aucun échantillon n'a été déposé lors de l'introduction ultérieure de la demande en Belgique."
+      ],
+      "abstractNL": [
+        "Onverminderd het recht van de minister om maatregelen te nemen met inbegrip het verzoek monsters neer te leggen indien hij meent dat de volksgezondheid dit vereist, moeten de artikelen 6 bis en 6quater K.B. 3 juli 1969 in die zin worden begrepen dat, wanneer een registratie van een geneesmiddel in de referentiestaat werd verkregen, die aan de vereisten van dat land en aan de implementatie door dat land gegeven aan de richtlijn beantwoordt, de minister niet verplicht is een aanvraag gebaseerd op een gelijk dossier te weigeren ook al ontbreken er monsters bij de navolgende aanvraag in België."
+      ]
+    }
+  },
+  "30": {
+    "ECLI:BE:CASS:1979:ARR.19791204.13": {
+      "court": "CASS",
+      "date": "1979-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/12/04/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020115.7": {
+      "court": "CASS",
+      "date": "2002-01-15",
+      "roleNumber": "P000806N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/01/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance que des médicaments soient enregistrés dans leur pays d'origine ne fait pas obstacle au fait qu'en application de l'article 30 du Traité du 25 mars 1957 instituant la Communauté européenne, la Belgique impose des restrictions à leur commercialisation (1)."
+      ],
+      "abstractNL": [
+        "De omstandigheid dat geneesmiddelen in hun land van herkomst geregistreerd zijn, staat niet eraan in de weg dat België met toepassing van artikel 30 E.G.-Verdrag, voor het verhandelen ervan beperkingen oplegt (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791204.13": {
+      "court": "CASS",
+      "date": "1979-12-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/12/04/sitemap_12.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  }
+}

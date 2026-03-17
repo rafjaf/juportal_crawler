@@ -1,0 +1,46 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2012:ARR.20120216.7": {
+      "court": "CASS",
+      "date": "2012-02-16",
+      "roleNumber": "C.10.0309.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/16/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Si le règlement de stationnement communal réserve des emplacements pour une catégorie déterminée de véhicules et exclut une autre catégorie de véhicules du droit de stationner à ces endroits, la commune ne peut prétendre à une redevance pour les véhicules qui sont stationnés à un endroit où il leur est interdit de le faire sur la base de ce règlement, même si d'autres véhicules peuvent y stationner moyennant une redevance (1). (1) Voir Cass. 5 novembre 2010, RG C.10.0028.N, Pas. 2010, n° 659."
+      ],
+      "abstractNL": [
+        "Indien het gemeentelijk parkeerreglement parkeerplaatsen voorbehoudt voor een bepaalde categorie van voertuigen en een andere categorie voertuigen uitsluit van het recht op die plaatsen te parkeren, kan de gemeente geen aanspraak maken op een parkeerretributie voor de voertuigen die geparkeerd staan waar dit hen op grond van dit reglement verboden is, ook al mogen andere voertuigen aldaar wel parkeren tegen retributie (1). (1) Zie Cass. 5 nov. 2010, AR C.10.0028.N, AC 2010, nr 659."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830323.7": {
+      "court": "CASS",
+      "date": "1983-03-23",
+      "roleNumber": "2441;2442;2443;2444",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'ils arrêtent des règlements en matière de stationnement, conformément à la loi et aux règlements sur la police de la circulation routière, les conseils communaux ont, en vertu de l'article unique de la loi du 22 février 1965, le pouvoir d'établir des redevances de stationnement applicables aux véhicules à moteur, redevances dont la perception peut s'effectuer au moyen d'appareils dits \" parcomètres \" au sens de l'article 2.29 du code de la route du 1er décembre 1975, modifié par l'article 1er de l'arrêté royal du 8 juin 1979."
+      ],
+      "abstractNL": [
+        "Wanneer de gemeenteraad, overeenkomstig de wet en de verordeningen op de politie over het wegverkeer, verordeningen voor het parkeren vaststelt, is hij krachtens het enige artikel van de wet van 22 feb. 1965, bevoegd om parkeergeld op motorrijtuigen in te voeren door middel van zogenaamde \" parkeermeters \", in de zin van art. 2.29 Wegverkeersreglement 1 dec. 1975, gew. bij art. 1 K.B. van 8 juni 1979."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19721120.13": {
+      "court": "CASS",
+      "date": "1972-11-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/11/20/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Sont légaux les règlements communaux de la ville de Liège, des 12 novembre 1968, 27 juin 1969 et 5 octobre 1970, qui imposent le payement d'une redevance aux conducteurs de voitures automobiles mettant leurs véhicules en stationnement aux endroits où sont installés des compteurs de stationnement et sanctionnent de peines ceux qui ne les utilisent pas suivant les prescriptions inscrites sur chaque appareil. ( Loi du 22 février 1965, article unique. )"
+      ],
+      "abstractNL": [
+        "Wettelijk zijn de gemeenteverordeningen van de Stad Luik van 12 november 1968, 27 juni 1969 en 5 oktober 1970, die de betaling van parkeergeld opleggen aan de bestuurders van autovoertuigen die hun voertuigen parkeren op plaatsen waar parkeermeters zijn aangebracht en diegenen straffen die deze niet gebruiken volgens de op elke meter voorkomende voorschriften. ( Wet van 22 februari 1965, enig artikel. )"
+      ]
+    }
+  }
+}

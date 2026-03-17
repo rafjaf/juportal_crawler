@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970102.4": {
+      "court": "CASS",
+      "date": "1997-01-02",
+      "roleNumber": "F960056F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/01/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour le calcul de la progressivité du taux de l'impôt belge des personnes physiques sur le revenu imposable du contribuable, il ne peut être tenu compte des traitements et salaires versés par l'Organisation internationale \"Eurocontrol\" au redevable de cet impôt, qui est membre du personnel de ladite organisation."
+      ],
+      "abstractNL": [
+        "Voor de berekening van de progressiviteit van de aanslagvoet van de Belgische personenbelasting op het belastbaar inkomen van de belastingplichtige, mag geen rekening worden gehouden met de salarissen en lonen die door de internationale Organisatie \"Eurocontrol\" worden betaald aan de belastingschuldige die deel uitmaakt van het personeel van die organisatie."
+      ]
+    }
+  }
+}

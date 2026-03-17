@@ -1,0 +1,18 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1982:ARR.19820923.5": {
+      "court": "CASS",
+      "date": "1982-09-23",
+      "roleNumber": "6654",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le débiteur entend payer sa dette par un chèque, ce n'est pas la remise de ce titre au banquier du créancier qui éteint sa dette, mais la mise à la disposition de ce dernier du montant de sa créance."
+      ],
+      "abstractNL": [
+        "Indien de schuldenaar zijn schuld per cheque wenst te betalen, gaat de schuld niet teniet door het overhandigen van de cheque aan de bankier van de schuldeiser, maar door het ter beschikking stellen van de schuldeiser van het bedrag van zijn schuldvordering <1>."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "6": {
+    "ECLI:BE:CASS:1967:ARR.19670220.1": {
+      "court": "CASS",
+      "date": "1967-02-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/02/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La juridiction répressive n'a compétence pour connaître de l'action de la partie civile que si cette action se fonde sur l'infraction poursuivie et si celle-ci est la cause du dommage."
+      ],
+      "abstractNL": [
+        "Het strafgerecht is slechts dan bevoegd om kennis te nemen van de rechtsvordering van de burgerlijke partij zo deze vordering gegrond is op het vervolgde misdrijf en indien dit misdrijf de schade heeft veroorzaakt."
+      ]
+    }
+  }
+}

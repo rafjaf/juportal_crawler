@@ -33,5 +33,37 @@
         "Er is sprake van een overtreding waarop de gemeenrechtelijke verjaringstermijn inzake misdrijven van toepassing is wanneer de luchtvaartmaatschappij ten onrechte weigert in te gaan op een door de passagier tijdig ingediend verzoek tot compensatie van de annulering of vertraging van de vlucht."
       ]
     }
+  },
+  "36": {
+    "ECLI:BE:CASS:1991:ARR.19910424.10": {
+      "court": "CASS",
+      "date": "1991-04-24",
+      "roleNumber": "9040",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/04/24/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Les mesures de contrainte prises pour des motifs de sécurité par le commandant de bord de l'avion qui transporte en Belgique un inculpé livré par un Etat étranger en dehors de toute procédure d'extradition, sont étrangères aux circonstances régies par la loi du 20 juillet 1990 relative à la détention préventive et par les articles 10 et 36 de la loi du 27 juin 1937 relative à la réglementation de la navigation aérienne."
+      ],
+      "abstractNL": [
+        "De dwangmaatregelen die in het belang van de veiligheid worden getroffen door de gezagvoerder van het vliegtuig dat een door een vreemde Staat buiten elke uitleveringsprocedure overgeleverde verdachte naar België overbrengt, vallen niet onder de toepassing van de Wet Voorlopige Hechtenis van 20 juli 1990, noch van de artt. 10 en 36, Wet van 27 juni 1937 betreffende de regeling der luchtvaart."
+      ]
+    }
+  },
+  "37": {
+    "ECLI:BE:CASS:1979:ARR.19790622.4": {
+      "court": "CASS",
+      "date": "1979-06-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/06/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 37, alinéa 2, de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne, les autorités chargées de la surveillance et de la police de la navigation aérienne peuvent retenir, dans les conditions fixées par les règlements, les aéronefs pour lesquels les péages, taxes, redevances ou droits réglementaires n'ont pas été liquidés, jusqu'à ce que ces prescriptions soient exécutées; l'article 21 de l'arrêté royal du 24 octobre 1972 fixant les redevances à percevoir par la Régie des voies aériennes, pris en vertu de ladite loi, permet au commandant d'aérodrome ou à son délégué d'interdire l'envol de l'aéronef pour lequel les redevances n'ont pas été acquittées dans les délais prescrits."
+      ],
+      "abstractNL": [
+        "Krachtens art. 37, tweede lid, wet 27 juni 1937, houdende herziening van de wet van 16 november 1919 betreffende de regeling van de luchtvaart, kunnen de overheden belast met het toezicht op de politie van de luchtvaart, de luchtvaartuigen waarvoor de bij de reglementen bepaalde rechten, taksen, vergoedingen of gelden niet werden betaald, onder de bij de reglementen bepaalde voorwaarden aanhouden totdat die voorschriften zijn nagekomen; krachtens artikel 21 K.B. 24 oktober 1972, houdende vaststelling van de vergoedingen te heffen door de Regie der Luchtwegen, genomen op grond van de genoemde wet, kan de luchthavenmeester of zijn gemachtigde het starten verbieden van het luchtvaartuig waarvoor de vergoedingen niet binnen de gestelde termijnen werden vereffend."
+      ]
+    }
   }
 }

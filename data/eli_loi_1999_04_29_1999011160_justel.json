@@ -48,6 +48,22 @@
       ]
     }
   },
+  "31": {
+    "ECLI:BE:CASS:2011:ARR.20110519.5": {
+      "court": "CASS",
+      "date": "2011-05-19",
+      "roleNumber": "C.10.0199.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/19/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 11 juillet 2002, qui a valeur de loi, n'est pas un arrêté d'exécution visé à l'article 31, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 11 juli 2002, dat kracht van wet heeft, is geen uitvoeringsbesluit als bedoeld in artikel 31 van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  },
   "12bis": {
     "ECLI:BE:CASS:2022:ARR.20221222.1F.1": {
       "court": "CASS",

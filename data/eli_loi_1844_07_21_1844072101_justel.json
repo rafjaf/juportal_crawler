@@ -1,4 +1,36 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2010:ARR.20100319.5": {
+      "court": "CASS",
+      "date": "2010-03-19",
+      "roleNumber": "C.08.0113.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La pension octroyée, en vertu des articles 1er, 2 et 3 de la loi du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, à la personne admise à la retraite, fût-elle reconnue hors d'état de continuer l'exercice de ses fonctions, est due en raison des prestations qu'elle a accomplies en sa qualité d'agent nommé au sein de la fonction publique et ne constitue pas la réparation d'un dommage; ainsi, lorsqu'une telle personne, victime d'un accident causé par un tiers, son droit à l'indemnité réparant le préjudice subi et son droit à la pension n'ont ni la même cause, ni leur même objet et leur cumul est, partant, autorisé (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Het pensioen dat krachtens de artikelen 1, 2 en 3 van de wet van 21 juli 1844 op de burgerlijke en kerkelijke pensioenen wordt toegekend aan de tot het pensioen toegelaten persoon, ook al blijkt hij niet in staat te zijn zijn ambt te blijven uitoefenen, is verschuldigd wegens zijn dienstprestaties als bij de overheid benoemde ambtenaar en vormt geen herstel van schade; wanneer een dergelijke persoon aldus het slachtoffer is van een door een derde veroorzaakt ongeval, hebben zijn recht op de vergoeding van de geleden schade en zijn recht op het pensioen noch dezelfde oorzaak, noch hetzelfde voorwerp en is de cumulatie ervan bijgevolg geoorloofd (1). (1) Zie concl. O.M. in Pas., 2010, nr ..."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1987:ARR.19871123.14": {
+      "court": "CASS",
+      "date": "1987-11-23",
+      "roleNumber": "7938;7942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/23/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "A l'égard, notamment, des personnes au service de l'Etat et pourvues d'une nomination à titre définitif, le droit à la pension est conféré par le fait même des services rendus, par suite de cette nomination, et rétribués par le trésor public, aux termes de l'article 6 de la loi du 21 juillet 1844 sur les pensions civiles et ecclésiastiques."
+      ],
+      "abstractNL": [
+        "T.a.v. personen die in staatsdienst werken en in vast verband zijn benoemd, wordt het recht op een rustpensioen erkend op grond zelf van de diensten welke ingevolge die benoeming worden volbracht en door's Rijks Schatkist worden bezoldigd, overeenkomstig art. 6 wet van 21 juli 1844 op de burgerlijke en kerkelijke pensioenen."
+      ]
+    }
+  },
   "8": {
     "ECLI:BE:CASS:2015:ARR.20150615.1": {
       "court": "CASS",
@@ -12,6 +44,82 @@
       ],
       "abstractNL": [
         "Artikel 11 van de wet van 9 juli 1969 tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector, zoals in deze van toepassing, vindt toepassing wanneer een nieuwe bezoldigingsregeling in werking treedt in de loop van de laatste vijf jaar van de loopbaan of erna, tot de datum waarop het pensioen ingaat, en ertoe strekt het personeelslid ook te laten genieten van een uit de nieuwe bezoldigingsregeling voortvloeiende weddeschaalverhoging in het gedeelte van de referentieperiode dat voorafgaat aan de inwerkingtreding van de nieuwe bezoldingsregeling; wanneer de bezoldigingsregeling die geldt op het tijdstip van de ingenottreding van het pensioen een overgangsregeling bevat die toeliet dat een personeelslid de weddeschaal van de vorige bezoldigingsregeling behield, dan maakt die behouden weddeschaal integraal deel uit van de op het tijdstip van de ingenottreding van het pensioen geldende bezoldigingsregeling in de zin van artikel 11 van de voormelde wet van 9 juli 1969 (1). (1) Artt. 11 en 12 van de wet van 9 juli 1969 tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector, zoals van toepassing voor de vervanging ervan door de wet van 25 april 2007 betreffende de pensioenen van de openbare sector"
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950206.13": {
+      "court": "CASS",
+      "date": "1995-02-06",
+      "roleNumber": "C940135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/06/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 19 de l'arrêté royal du 26 décembre 1938 relatif au régime des pensions du personnel communal est implicitement abrogé."
+      ],
+      "abstractNL": [
+        "Art. 19 KB betreffende de pensioenregeling van het gemeentepersoneel is impliciet opgeheven."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1987:ARR.19870611.16": {
+      "court": "CASS",
+      "date": "1987-06-11",
+      "roleNumber": "7661",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La pension de l'administrateur d'un internat d'athénée de l'Etat, qui a bénéficié d'un logement gratuit sans assumer de sujétions spéciales au sens de l'arrêté royal du 30 novembre 1950, doit être calculée en tenant compte des émoluments que constituent le logement, le chauffage et l'éclairage. ( Loi du 21 juillet 1844, art. 10. )"
+      ],
+      "abstractNL": [
+        "Bij de berekening van het pensioen van de internaatbeheerder van een atheneum van de Staat die kosteloze inwoning geniet zonder onderworpen te zijn aan bijzondere dienstverplichtingen in de zin van het K.B. 30 november 1950, moeten de baten zoals inwoning, verwarming en verlichting in aanmerking genomen worden. ( Art. 10 wet 21 juli 1844. )"
+      ]
+    }
+  },
+  "45": {
+    "ECLI:BE:CASS:1969:ARR.19690324.7": {
+      "court": "CASS",
+      "date": "1969-03-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/24/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le juge, appelé à statuer sur l'action civile de la communauté religieuse à laquelle appartenaient les victimes d'un accident du roulage, peut décider, sur la base d'éléments de fait qu'il constate, que dans le passé ces victimes ont régulièrement abandonné leur pension de vieillesse à ladite communauté, et en déduire, à titre de présomption, que si elles étaient demeurées en vie, les victimes auraient continué à abandonner lesdites pensions à leur communauté, même si ces pensions ne pouvaient valablement être cédées à l'avance."
+      ],
+      "abstractNL": [
+        "De rechter die uitspraak moet doen op de burgerlijke rechtsvordering van de kloostergemeenschap, waartoe de slachtoffers van een verkeersongeval behoorden, kan op grond van door hem vastgestelde feitelijke elementen beslissen dat deze slachtoffers in het verleden regelmatig hun ouderdomspensioen aan deze gemeenschap afstonden, en er als vermoeden uit afleiden dat zo deze slachtoffers in leven waren gebleven, zij verder bedoelde pensioenen aan hun gemeenschap zouden blijven afstaan hebben, zelfs zo deze pensioenen niet geldig vooraf konden overgedragen worden."
+      ]
+    }
+  },
+  "50": {
+    "ECLI:BE:CASS:1988:ARR.19880421.8": {
+      "court": "CASS",
+      "date": "1988-04-21",
+      "roleNumber": "7535",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/04/21/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est recevable le moyen pris de la violation de la foi due à un arrêté royal pris en exécution de l'article 50 de la loi du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, et admettant un fonctionnaire révoqué à faire valoir ses droits à une pension réduite, cet arrêté n'étant pas une loi au sens de l'article 608 du Code judiciaire. ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "Ontvankelijk is het middel afgeleid uit miskenning van de bewijskracht van een koninklijk besluit ter uitvoering van art. 50 wet van 21 juli 1844 op de burgerlijke en kerkelijke pensioenen, waarbij aan een afgezet ambtenaar aanspraak op verminderd pensioen wordt verleend, vermits dat besluit geen wet is, in de zin van art. 608 Gerechtelijk Wetboek."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720413.13": {
+      "court": "CASS",
+      "date": "1972-04-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/04/13/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions légales relatives à la pension des fonctionnaires intéressent l'ordre public. ( Loi du 21 juillet 1844, art. 41, 49 et 50. ) ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De wetsbepalingen betreffende het pensioen van de ambtenaren raken de openbare orde. ( Wet van 21 juli 1844, art. 41, 49 en 50. ) ( Impliciete oplossing. )"
       ]
     }
   },

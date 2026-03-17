@@ -1,0 +1,34 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1977:ARR.19770201.5": {
+      "court": "CASS",
+      "date": "1977-02-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/02/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Des rassemblements en plein air et des démonstrations individuelles dans la zone dite neutre de la capitale ne constituent pas par eux-mêmes des délits politiques, justiciables de la cour d'assises; ils ne constituent de tels délits que lorsqu'ils sont dirigés contre et portent atteinte à l'existence et au fonctionnement des institutions politiques . (Constit., art. 98; loi du 2 mars 1954, art. 3.)"
+      ],
+      "abstractNL": [
+        "Samenscholingen in de open lucht en individuele demonstraties in de zogeheten neutrale zone van de hoofdstad zijn op zichzelf geen politieke misdrijven welke door het hof van assisen worden berecht; zij zijn slechts politieke misdrijven wanneer zij het bestaan zelf en de werking van de politieke instellingen in het gedrang brengen . ( Art. 98 Grondwet; art. 3 wet van 2 maart 1954. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1976:ARR.19761221.12": {
+      "court": "CASS",
+      "date": "1976-12-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/12/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à la loi du 2 mars 1954 tendant à prévenir et réprimer les atteintes au libre exercice des pouvoirs souverains établis par la Constitution ne constituent pas, en soi, des délits politiques. (Const., article 98)."
+      ],
+      "abstractNL": [
+        "Overtredingen van de wet van 2 maart 1954 tot voorkoming en beteugeling der aanslagen op de vrije uitoefening van de door de Grondwet ingestelde soevereine machten zijn op zichzelf geen politieke misdrijven ( Art. 98 Grondwet. )"
+      ]
+    }
+  }
+}

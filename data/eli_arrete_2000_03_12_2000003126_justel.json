@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2009:ARR.20090508.1": {
+      "court": "CASS",
+      "date": "2009-05-08",
+      "roleNumber": "F.07.0111.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/05/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une déclaration à l'impôt des personnes physiques dans laquelle le contribuable n'a pas mentionné \"nihil\" dans la rubrique prévue à cet effet si lui et/ou des membres de la famille n'ont pas été titulaires d'un compte à l'étranger, n'est de ce fait pas irrégulière."
+      ],
+      "abstractNL": [
+        "Een aangifte in de personenbelasting waarin de belastingplichtige in de daartoe bestemde rubriek niet de vermelding \"nihil\" heeft aangebracht indien hij en/of zijn gezinsleden geen titularis is geweest van een buitenlandse rekening, is hierdoor niet onregelmatig."
+      ]
+    }
+  }
+}

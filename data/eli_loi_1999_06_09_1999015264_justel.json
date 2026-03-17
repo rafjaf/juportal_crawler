@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010118.5": {
+      "court": "CASS",
+      "date": "2001-01-18",
+      "roleNumber": "C990313F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 21.2 de la Convention du 10 mars 1964 entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique en matière d'impôts sur les revenus, impose au juge d'appel de s'assurer de la production d'une copie officielle des titres sur la base desquels les poursuites ont été engagées et de vérifier si, comme le soutenait le demandeur, les titres étrangers ne sont pas privés d'effet en raison de la prescription selon la loi de l'Etat requérant et n'ont pas perdu leur caractère exécutoire (1)."
+      ],
+      "abstractNL": [
+        "Krachtens art. 21.2 overeenkomst 10 maart 1964 tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen is de appèlrechter verplicht zich ervan te vergewissen of er een officieel afschrift is overgelegd van de bescheiden op grond waarvan de vervolging is ingesteld en na te gaan of, zoals eiser aanvoerde, de buitenlandse bescheiden geen uitwerking meer hebben omdat ze volgens de voorschriften van de verzoekende Staat verjaard zijn en of ze hun executoir karakter niet verloren hebben (1)."
+      ]
+    }
+  }
+}

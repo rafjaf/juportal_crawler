@@ -1,0 +1,34 @@
+{
+  "6": {
+    "ECLI:BE:CASS:1969:ARR.19690425.2": {
+      "court": "CASS",
+      "date": "1969-04-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne doit pas motiver le rejet implicite d'un moyen, fût-il d'ordre public, qui n'est pas soulevé."
+      ],
+      "abstractNL": [
+        "De rechter moet de stilzwijgende verwerping niet motiveren van een middel dat, al raakt het de openbare orde, niet wordt opgeworpen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19701022.2": {
+      "court": "CASS",
+      "date": "1970-10-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/10/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La mission de construire des habitations sociales et de les mettre en location à un loyer inférieur au taux des loyers normaux au bénéfice de \"personnes de revenus modestes\", confiée par la loi à la Société nationale du logement ainsi qu'aux sociétés agréées, constitue un service public. (Loi du 11 octobre 1919, modifiée par celle du 27 juin 1956.)"
+      ],
+      "abstractNL": [
+        "De taak waarmee de wet de Nationale Maatschappij voor de Huisvesting alsmede de door haar erkende vennootschappen belast, namelijk volkswoningen te bouwen en tegen lagere huurprijs dan de gewone te verhuren aan \"personen met bescheiden inkomen\", maakt een openbare dienst uit. (Wet van 11 oktober 1919, gewijzigd bij die van 27 juni 1956.)"
+      ]
+    }
+  }
+}

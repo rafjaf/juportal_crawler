@@ -1,0 +1,18 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2004:ARR.20040304.7": {
+      "court": "CASS",
+      "date": "2004-03-04",
+      "roleNumber": "C010322N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/03/04/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer si un titre contient les éléments constitutifs d'une lettre de change, il y a lieu de se porter à la date à laquelle son paiement est demandé, notamment au jour de la citation en paiement; il ne peut être suppléé ultérieurement au défaut de signature du tireur (1). (1) Voir les conclusions du M.P."
+      ],
+      "abstractNL": [
+        "Om te beoordelen of een titel de voor een wisselbrief vereiste bestanddelen bevat, moet worden teruggegaan tot het tijdstip waarop betaling ervan wordt gevraagd, o.m. op de dag van de dagvaarding tot betaling; het ontbreken van de handtekening van de trekker kan nadien niet worden hersteld (1). (1) Zie concl. O.M."
+      ]
+    }
+  }
+}

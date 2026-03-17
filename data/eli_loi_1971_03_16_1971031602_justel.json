@@ -16,6 +16,20 @@
       "abstractNL": [
         "De bevoegdheid om de onderneming te verbinden tegenover derden bekleedt een persoon enkel met een vertrouwenspost, een hoedanigheid die de toepassing uitsluit van die wetsbepalingen die de maximale arbeidsduur en de nachtarbeid beperken en die dagelijkse en wekelijkse rusttijden opleggen, indien ze betrekking heeft op verbintenissen van een bepaalde omvang (1). (1) Zie concl. OM in Pas. 2022, nr. 453."
       ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000110.17": {
+      "court": "CASS",
+      "date": "2000-01-10",
+      "roleNumber": "S990127",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/01/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La disposition de l'article 3, § 3, 1o de la loi du 16 mars 1971 sur le travail qui, en ce qui concerne les durées du travail et de repos, plus spécialement la durée du travail, exclut les travailleurs désignés par le Roi comme investis d'un poste de direction ou de confiance du champ d'application de la loi, constitue une disposition impérative au sens de l'article 51 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires qui établit la hiérarchie des sources des obligations dans les relaitions de travail entre employeurs et travailleurs."
+      ],
+      "abstractNL": [
+        "De bepaling van art. 3, § 3, 1o van de Arbeidswet van 16 maart 1971, die met betrekking tot de arbeidstijden en rusttijden, meer bepaald de arbeidsduur, de door de Koning aangewezen werknemers die een leidende functie uitoefenen of een vertrouwenspost bekleden uit het toepassingsgebied van de wet uitsluit is een dwingende wetsbepaling in de zin van art. 51 CAO-wet, die de bronnen van de verbintenissen in de arbeidsbetrekkingen tussen werkgevers en werknemers regelt."
+      ]
     }
   },
   "5": {
@@ -30,6 +44,50 @@
         "En décidant, en l'absence de disposition légale dérogatoire, applicable en l'espèce, que les prestations de travail effectuées par le travailleur entre le 9 septembre 1970 et le 2 novembre 1970, alors qu'il était âgé de moins de quatorze ans, devaient être prises en considération pour le calcul des septante cinq journées de travail nécessaires à l'ouverture du droit aux allocations de chômage, l'arrêt a méconnu l'article 118 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, et l'article 3 des lois sur le travail des enfants coordonnées le 28 février 1919 qui étaient en vigueur à l'époque des faits."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2013:ARR.20130204.3": {
+      "court": "CASS",
+      "date": "2013-02-04",
+      "roleNumber": "S110051F-S110154F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/02/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 5, 2° de la loi du 16 mars 1971 sur le travail et l'article 14 de la loi du 3 juillet 1978 n'interdisent pas d'opposer aux travailleurs, autres que les jeunes travailleurs, la nullité de l'engagement ou du contrat de travail lorsque des prestations de travail sont fournies, en dehors des salles de jeux, en vertu d'un engagement ou d'un contrat frappé de nullité pour des motifs autres que ceux ayant pour objet la réglementation des relations du travail."
+      ],
+      "abstractNL": [
+        "Artikel 5, 2°, van de Arbeidswet van 16 maart 1971 en artikel 14 van de wet van 3 juli 1978 verbieden niet om aan andere dan jeugdige werknemers de nietigheid van de dienstbetrekking of van de arbeidsovereenkomst tegen te stellen, wanneer arbeid wordt verricht, buiten speelzalen, ingevolge een dienstbetrekking of overeenkomst die nietig is om andere redenen dan diegene die de reglementering van de arbeidsverhoudingen betreffen."
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741010.9": {
+      "court": "CASS",
+      "date": "1974-10-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "En l'absence de disposition légale dérogatoire, applicable en la cause, les prestations de travail effectuées par un mineur d'age de moins de quatorze ans ne peuvent pas être prises en considération pour le calcul des septante-cinq journées de travail nécessaires à l'ouverture du droit aux allocations de chomage. ( Arrêté royal du 20 décembre 1963, art. 118, et lois sur le travail des enfants coordonnées le 28 février 1919, art. 3. )"
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van een afwijkende wettelijke bepaling die ten deze van toepassing is, kan de arbeid van een minderjarige die nog geen veertien jaar oud is, niet in aanmerking komen voor de berekening van de vijfenzeventig arbeidsdagen die nodig zijn om recht te geven op de werkloosheidsuitkeringen. ( Art. 118 k.b. van 20 december 1963 en art. 3 wetten betreffende de kinderarbeid, gecoördineerd op 28 februari 1919. )"
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1991:ARR.19911125.18": {
+      "court": "CASS",
+      "date": "1991-11-25",
+      "roleNumber": "9167",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/25/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "En règle, le statut personnel du mineur de nationalité étrangère s'applique en matière d'obligation scolaire et, partant, en matière de travail et de chômage. ( Loi du 29 juin 1983, art. 1er; A.R. du 20 décembre 1963, art. 144; Loi du 16 mars 1971, art. 6. )"
+      ],
+      "abstractNL": [
+        "In de regel is het personeel statuut van de minderjarige met vreemde nationaliteit van toepassing inzake leerplicht en derhalve inzake arbeid en werkloosheid. ( Art. 1, Wet van 29 juni 1983; art. 144, Werkloosheidsbesluit; art. 6, Arbeidswet. )"
+      ]
     }
   },
   "14": {
@@ -100,6 +158,64 @@
       "abstractNL": [
         "Wat betreft de arbeiders tewerkgesteld in mijnen en steengroeven gaat de arbeidsduur normaal van het dalingsuur tot het stijgingsuur der werknemers (art. 4, lid 5 van de wet van 15 juli 1964 en art. 6, 1°, lid 3 van de wet van 8 april 1965. Dergelijk bijzonder voorschrift maakt geen afwijking uit op het algemeen beginsel dat de arbeidsduur overeenstemt met de duur van het terbeschikking zijn van de werknemer voor zijn werkgever. Het arbeidsreglement bepaalde dat de mijnwerkers zich tien minuten vóór de daling bij de put moesten bevinden; het aangevochten vonnis oordeelde terecht dat bewuste tien minuten in de arbeidsduur begrepen zijn."
       ]
+    },
+    "ECLI:BE:CASS:2014:ARR.20140310.3": {
+      "court": "CASS",
+      "date": "2014-03-10",
+      "roleNumber": "S.12.0094.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2014/03/10/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la loi du 10 avril 1971 sur les accidents du travail, il y a lieu de considérer un travailleur comme un travailleur à temps plein lorsqu'au jour de l'accident, il était lié par un contrat journalier stipulant une durée de travail de huit heures (1). (1) Voir les concl. du MP publiées avant cet arrêt dans AC."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de Arbeidsongevallenwet moet een werknemer als voltijdse werknemer worden beschouwd indien hij op de dag van het ongeval verbonden is door een dagcontract, waarbij de contractuele arbeidsduur is bepaald op acht uren (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930906.15": {
+      "court": "CASS",
+      "date": "1993-09-06",
+      "roleNumber": "8394",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/06/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Un travailleur d'une maison d'éducation ou d'hébergement qui accompagne des enfants ou des handicapés et séjourne avec ceux-ci pendant une partie limitée de la journée hors de l'établissement, a droit à un rémunération comptabilisée à concurrence de huit heures, même si ces enfants ou handicapés sont accompagnés par d'autres travailleurs pendant le reste de la journée (A.R. 9 novembre 1979, art. 3)."
+      ],
+      "abstractNL": [
+        "Een werknemer van een opvoedings- of huisvestingsinrichting die gedurende een beperkt deel van de dag kinderen of gehandicapten buiten de inrichting begeleidt en er met hen verblijft, heeft recht op loon voor 8 uur, ook al worden die kinderen of gehandicapten voor het overige deel van de dag door andere werknemers begeleid (Art. 3 K.B., 9 nov. 1979)."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920316.10": {
+      "court": "CASS",
+      "date": "1992-03-16",
+      "roleNumber": "7703",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/16/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'employé n'est pas à la disposition de l'employeur pendant les jours et les heures excédant son régime des temps de travail, même si l'employeur n'établit ce régime que quelques jours auparavant. ( Loi du 16 mars 1971, art. 19, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "De werknemer is niet ter beschikking van de werkgever gedurende de dagen en uren die buiten de voor hem geldende werktijdregeling vallen, ook al wordt die regeling pas enkele dagen te voren door de werkgever vastgesteld. ( Art. 19, eerste lid, Arbeidswet. )"
+      ]
+    }
+  },
+  "21": {
+    "ECLI:BE:CASS:1999:ARR.19990531.3": {
+      "court": "CASS",
+      "date": "1999-05-31",
+      "roleNumber": "S980057N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le travailleur à temps partiel doit fournir des prestations de travail qui sont inférieures à une période continue de trois heures, minimum prévu par l'article 21 de la loi du 16 mars 1971 sauf les exceptions autorisées, le travail ne perd pas son caractère de travail à temps partiel; l'employeur risque uniquement de se voir infliger des sanctions pénales ou une amende administrative."
+      ],
+      "abstractNL": [
+        "Wanneer de deeltijdse werknemer arbeidsprestaties moet leveren die korter zijn dan een aaneengesloten periode van drie uren, behoudens de toegelaten uitzonderingen als minimum gesteld in artikel 21 van de Arbeidswet, verliest de arbeid haar karakter van deeltijdse arbeid niet; de werkgever stelt zich alleen bloot aan strafsancties of aan de oplegging van een administratieve geldboete."
+      ]
     }
   },
   "22": {
@@ -113,6 +229,20 @@
       "abstractFR": null,
       "abstractNL": [
         "Het feit dat een uit te voeren werk dringend was en belemmerd werd door de afwezigheid van een gedeelte van het personeel houdt niet in dat dit werk door zijn aard dag en nacht gedurende alle dagen van de week zonder onderbreking moest worden uitgevoerd. Het opmaken van een verkoopsbudget kan niet gelijkgesteld worden met het uitvoeren van werken van balansen en inventarissen."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19771206.2": {
+      "court": "CASS",
+      "date": "1977-12-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/12/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les travaux qui en raison de leur nature ne peuvent être interrompus, au sens de l'article 22, 2°, de la loi sur le travail du 16 mars 1971, sont des travaux qui en raison de leur nature doivent être effectués sans interruption, jour et nuit, tous les jours de la semaine (1)."
+      ],
+      "abstractNL": [
+        "Werken die wegens hun aard niet mogen worden onderbroken, in de zin van artikel 22, 2°, van de arbeidswet van 16 maart 1971, zijn werken die uit hun aard dag en nacht gedurende alle dagen van de week zonder onderbreking moeten worden uitgevoerd."
       ]
     }
   },
@@ -154,6 +284,20 @@
         "I. Il résulte de la loi du 16 mars 1971 et plus spécialement de son article 29, dont l'objet essentiel est de protéger le travailleur contre certaines lésions de ses intérêts matériels et moraux pouvant résulter d'un travail d'une durée exagérée, que le travailleur qui, en dépit des prescriptions légales, a consenti à travailler au-delà des limites de la durée du travail, a droit aux majorations de salaire prévues par la loi alors même que l'employeur n'a pas été autorisé _ comme le veut la loi _ à faire prester des heures supplémentaires; s'il est en effet d'ordre public que les majorations de salaire soient payées au travailleur, il en résulte uniquement que toute stipulation du contrat de travail exonérant l'employeur de l'obligation de payer ces majorations est nulle de plein droit. Par contre, la rémunération ordinaire à laquelle le travailleur a droit pour les heures supplémentaires qu'il a consenti à accomplir et à laquelle ces majorations ne font que s'ajouter, constitue la rémunération contractuelle librement fixée par les parties sous réserve du respect des minima prévus par les conventions collectives. Il s'ensuit que par les motifs critiqués, l'arrêt du 2 mars 1979 ne méconnaît pas le caractère d'ordre public des dispositions légales relatives à la durée du travail et à la rémunération du travail suppléméntaire. II. Lorsque les heures supplémentaires accomplies dépassent à la fois les limites journalière et hebdomadaire de la durée du travail fixées par la loi, le travailleur a droit aux majorations de la rémunération calculées sur la base du dépassement donnant lieu à la majoration la plus élevée."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1984:ARR.19840109.3": {
+      "court": "CASS",
+      "date": "1984-01-09",
+      "roleNumber": "6881",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur qui a consenti à travailler au-delà des limites de la durée du travail fixées par la loi, a droit aux majorations de rémunération prévues par celle-ci, alors même que l'employeur n'a pas été autorisé à faire accomplir par son personnel des heures supplémentaires. ( Loi du 15 juillet 1964 sur la durée du travail dans les secteurs publics et privés de l'économie nationale, article 21. )"
+      ],
+      "abstractNL": [
+        "Wanneer de werknemer akkoord is gegaan om meer te werken dan de voorgeschreven arbeidstijd, heeft hij recht op de bij de wet bepaalde loonsverhoging, zelfs als de werkgever niet de door de wet opgelegde vergunning heeft verkregen om overuren te laten verrichten ( Art. 21 wet van 15 juli 1964 betreffende de arbeidsduur in de openbare en particuliere sector van 's lands bedrijfsleven. )"
+      ]
     }
   },
   "35": {
@@ -210,6 +354,20 @@
         "La Cour du travail de Liège a décidé le 24 février 1972 que lorsqu'une travailleuse n'a effectivement cessé son activité professionnelle que moins de six semaines avant son accouchement, les jours de chômage occasionnel subi par elle au cours de ladite période fictive de repos prénatal peuvent être, au point de vue du calcul des indemnités auxquelles elle a droit de ce chef, reportés après la période postnatale de huit semaines qui suivent la date de son accouchement. Pourvoi _ La Cour a rejeté le pourvoi par les motifs \"que l'arrêt constate que la première défenderesse a accouché le 7 septembre 1969, que pendant les six semaines précédant cette date elle a été admise pendant quelques jours au bénéfice des allocations de chômage et qu'elle n'a effectivement cessé son activité professionnelle que le jour de son accouchement;... qu'au sens de l'alinéa 5 de l'article 56, alinéa 1er, de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, la période pendant laquelle la travailleuse a continué à travailler se prolonge jusqu'à la cessation effective de son activité professionnelle et comprend les jours de chômage partiel; qu'en cette branche, le moyen manque en droit\". Un second moyen est déclaré irrecevable parce que le motif critiqué est surabondant."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1999:ARR.19990315.4": {
+      "court": "CASS",
+      "date": "1999-03-15",
+      "roleNumber": "S970135F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La période pendant laquelle l'exécution du contrat de travail de la travailleuse a été suspendue pour cause d'incapacité de travail n'est pas assimilée à une période de travail en vue de la prolongation de la période d'interruption du travail au-delà de la huitième semaine après l'accouchement."
+      ],
+      "abstractNL": [
+        "De periode tijdens welke de uitvoering van de arbeidsovereenkomst van de werkneemster wegens arbeidsongeschiktheid is geschorst, wordt niet gelijkgesteld met een periode van arbeid met het oog op de verlenging van de periode van arbeidsonderbreking na de achtste week na de bevalling."
+      ]
     }
   },
   "40": {
@@ -251,6 +409,20 @@
         "L'article 8 de l'arrêté royal no 40 du 24 octobre 1967 sur le travail des femmes en vertu duquel l'employeur qui occupe une travailleuse enceinte ne peut faire un acte tendant à mettre fin unilatéralement à la relation de travail en raison de son état de grossesse ou de son accouchement est applicable pendant la période d'essai."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1973:ARR.19730221.5": {
+      "court": "CASS",
+      "date": "1973-02-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/02/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'employeur à qui une travailleuse a remis un certificat attestant qu'elle est enceinte ne peut, même pendant la période d'essai fixée par le contrat liant les parties, faire un acte tendant à mettre fin unilatéralement audit contrat, sauf pour des motifs étrangers à l'état physique résultant de la grossesse de l'intéressée. ( Arrêté royal n° 40 du 24 octobre 1967, art. 8. )"
+      ],
+      "abstractNL": [
+        "De werkgever aan wie een werkneemster een geneeskundig getuigschrift heeft afgegeven ten bewijze dat zij zwanger is, mag, zelfs tijdens de door de partijen in de overeenkomst bepaalde proeftijd, geen handeling verrichten die ertoe strekt aan de overeenkomst eenzijdig een einde te maken, behalve om redenen die vreemd zijn aan de lichamelijke toestand als gevolg van de zwangerschap van de betrokkene. ( K.B. nr. 40 van 24 oktober 1967, art. 8. )"
+      ]
     }
   },
   "43": {
@@ -281,6 +453,34 @@
       "abstractNL": [
         "Wanneer het niet-betalen van loon voor overwerk een misdrijf is, kan de werknemer een rechtsvordering instellen, tot herstel van de schade door dit misdrijf veroorzaakt, ook al vormt het niet-betalen van dat loon tevens het niet-nakomen van een verbintenis die uit de arbeidsovereenkomst voortspruit; die rechtsvordering verjaart volgens de bij de VTSv. voorgeschreven bepalingen."
       ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891204.18": {
+      "court": "CASS",
+      "date": "1989-12-04",
+      "roleNumber": "6869",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/04/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'infraction consistant dans le fait que la rémunération pour les heures supplémentaires n'a pas été payée ou n'a pas été payée dans le délai prescrit, est consommée par le fait d'un seul manquement au moment prévu pour le payement; une telle infraction est une infraction instantanée et non une infraction continue. ( Loi du 16 mars 1971, art. 29, alinéa 1er, 53; Loi du 12 avril 1965, art. 9 et 42, 1°. )"
+      ],
+      "abstractNL": [
+        "Het misdrijf dat erin bestaat niet of niet binnen de voorgeschreven termijn loon voor overwerk te betalen, is voltrokken door één enkel verzuim, op het ogenblik waarop moet worden betaald; zodanig misdrijf is aflopend, niet voortdurend. ( Artt. 29, alinéa 1, 53 Arbeidswet, 9 en 42, 1°, Wet Bescherming Loon. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890131.14": {
+      "court": "CASS",
+      "date": "1989-01-31",
+      "roleNumber": "2484",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/31/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'article 53, 2°, de la loi du 16 mars 1971 sur le travail ne requiert pas, pour que le fait de faire ou laisser travailler soit punissable, que l'auteur ait agi intentionnellement."
+      ],
+      "abstractNL": [
+        "Art. 53, 2° Arbeidswet 16 maart 1971 stelt niet als vereiste voor het strafbaar doen of laten verrichten van arbeid dat de dader opzettelijk heeft gehandeld."
+      ]
     }
   },
   "126": {
@@ -296,6 +496,22 @@
       ],
       "abstractNL": [
         "De werknemer verliest zijn recht op werkloosheidsuitkering niet om de enige reden dat hij aanspraak kan maken op een uitkering ingevolge de ziekte- of invaliditeitsverzekering."
+      ]
+    }
+  },
+  "1134": {
+    "ECLI:BE:CASS:2002:ARR.20021202.4": {
+      "court": "CASS",
+      "date": "2002-12-02",
+      "roleNumber": "S010116N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/12/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La clause qui exclut le droit du représentant de commerce à une commission lorsque le chiffre d'affaires ne dépasse une certaine limite, n'impose pas au représentant de commerce une obligation de résultat entraînant des conséquences en cas de manquement contractuel."
+      ],
+      "abstractNL": [
+        "Het beding dat het recht op commissieloon van de handelsvertegenwoordiger uitsluit wanneer de omzet beneden een bepaalde grens blijft, legt aan de handelsvertegenwoordiger geen resultaatsverbintenis op waarbij gevolgen verbonden worden aan een contractuele tekortkoming."
       ]
     }
   },
@@ -410,6 +626,20 @@
       ],
       "abstractNL": [
         "De werkgever aan wie een werkneemster een geneeskundig getuigschrift heeft afgegeven ten bewijze dat zij zwanger is, mag, zelfs tijdens de door de partijen in de overeenkomst bepaalde proeftijd, geen handeling verrichten die ertoe strekt aan de overeenkomst eenzijdig een einde te maken, behalve om redenen die vreemd zijn aan de lichamelijke toestand als gevolg van de zwangerschap van de betrokkene. ( K.B. nr. 40 van 24 oktober 1967, art. 8. )"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791017.8": {
+      "court": "CASS",
+      "date": "1979-10-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/10/17/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application des lois des 15 juillet 1964 sur la durée du travail dans les secteurs publics et privés de l'économie nationale et 16 mars 1971 sur le travail, on entend par durée du travail le temps pendant lequel le personnel est à la disposition de l'employeur. ( Loi du 15 juillet 1964, article 4, al. 2; loi du 16 mars 1971, art. 19, al. 2. )"
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de wet van 15 juli 1964 betreffende de arbeidsduur in de openbare en particuliere sectors van 's Lands bedrijfsleven en de Arbeidswet van 1971 wordt onder arbeidsduur verstaan de tijd gedurende welke het personeel ter beschikking is van de werkgever. (Art. 4, tweede lid, wet 15 juli 1964; art. 19, tweede lid, wet 16 maart 1971.)"
       ]
     }
   }

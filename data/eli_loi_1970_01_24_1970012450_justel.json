@@ -1,0 +1,56 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010327.14": {
+      "court": "CASS",
+      "date": "2001-03-27",
+      "roleNumber": "P990956N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La signification du pourvoi en cassation par la partie civile au défendeur résidant à l'étranger ne peut se faire conformément à la Convention du 15 novembre 1965 relative à la signification et à la notification à l'étranger de pièces judiciaires et extrajudiciaires en matière civile et commerciale; elle doit se faire conformément à l'article 40 du Code judiciaire (1)."
+      ],
+      "abstractNL": [
+        "De betekening van de voorziening in cassatie door de burgerlijke partij aan de verweerder die in het buitenland verblijft, kan niet gebeuren overeenkomstig het Verdrag van 15 nov. 1965 inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke zaken en in handelszaken; zij dient overeenkomstig art. 40, Ger. W. te gebeuren (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941020.11": {
+      "court": "CASS",
+      "date": "1994-10-20",
+      "roleNumber": "C930143F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/10/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le défaut de production de l'attestation prévue par l'art. 6 de la Convention de La Haye du 15 novembre 1965 n'est pas de nature à entraîner la nullité de la signification."
+      ],
+      "abstractNL": [
+        "Niet-overlegging van de in art. 6 van het Verdrag van 's Gravenhage van 15 november 1965 bedoelde verklaring kan niet tot nietigheid van de betekening leiden. (Artt. 3 en 6 Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke stukken in burgerlijke zaken en in handelszaken, opgemaakt te 's-Gravenshage en goedgekeurd bij wet van 24 januari 1970)."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19850930.5": {
+      "court": "CASS",
+      "date": "1985-09-30",
+      "roleNumber": "4778",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/09/30/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La Convention relative à la signification et à la notification à l'étranger des actes juridiques en matière civile et commerciale, faite à La Haye le 15 novembre 1965 et approuvée par la loi du 24 janvier 1970, ne fait pas obstacle à ce que, en matière civile, des actes judiciaires soient, conformément à l'article 40, alinéa 1er, du Code judiciaire, adressés directement, par la voie de la poste, à des personnes se trouvant aux Pays-Bas. ( Convention du 15 novembre 1965, art. 10, a )."
+      ],
+      "abstractNL": [
+        "Het Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke stukken in burgerlijke zaken en in handelszaken, ondertekend te 's-Gravenhage op 15 november 1965 en goedgekeurd bij de wet van 24 januari 1970, belet niet dat in burgerlijke zaken gerechtelijke stukken aan personen die zich in Nederland bevinden, worden betekend door rechtstreekse toezending over de post, overeenkomstig art. 40, eerste lid, Ger.W. ( Verdrag van 15 november 1965, art. 10, a )."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790928.6": {
+      "court": "CASS",
+      "date": "1979-09-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/28/sitemap_2.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  }
+}

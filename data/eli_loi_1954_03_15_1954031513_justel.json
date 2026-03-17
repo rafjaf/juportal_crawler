@@ -1,0 +1,64 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1982:ARR.19820309.9": {
+      "court": "CASS",
+      "date": "1982-03-09",
+      "roleNumber": "F891N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/09/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un fait de guerre constitue aussi un accident du travail, la victime n'a droit à une pension de dédommagement en qualité de victime civile de la guerre que dans la mesure où le montant de cette pension dépasse celui des indemnités allouées du chef d'accident du travail; la pension de dédommagement n'est immunisée d'impôt que dans la mesure où elle dépasse ce montant."
+      ],
+      "abstractNL": [
+        "Wanneer een oorlogsfeit tevens een arbeidsongeval is, heeft de getroffene geen aanspraak op een pensioen als burgerlijk oorlogsslachtoffer dan in zoverre dit pensioen de arbeidsongevallenvergoedingen overtreft; het herstelpensioen is slechts belastingvrij in zoverre het het bedrag van die arbeidsongevallenvergoeding overtreft."
+      ]
+    }
+  },
+  "36": {
+    "ECLI:BE:CASS:1984:ARR.19841116.3": {
+      "court": "CASS",
+      "date": "1984-11-16",
+      "roleNumber": "F1144N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/11/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un fait de guerre constitue aussi un accident du travail, la victime n'a droit à une pension de dédommagement en qualité de victime civile de la guerre que dans la mesure où le montant de cette pension dépasse celui des indemnités allouées du chef d'accident du travail; la pension de dédommagement n'est immunisée d'impôt que dans la mesure où elle dépasse ce montant."
+      ],
+      "abstractNL": [
+        "Wanneer een oorlogsfeit tevens een arbeidsongeval is, heeft de getroffene geen aanspraak op een pensioen als burgerlijk oorlogsslachtoffer dan in zoverre dit pensioen de arbeidsongevallenvergoedingen overschrijdt; het herstelpensioen is slechts belastingvrij in zoverre dat pensioen het bedrag van die arbeidsongevallenvergoeding overschrijdt."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19841116.3": {
+      "court": "CASS",
+      "date": "1984-11-16",
+      "roleNumber": "F1144N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/11/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un fait de guerre constitue aussi un accident du travail, la victime n'a droit à une pension de dédommagement en qualité de victime civile de la guerre que dans la mesure où le montant de cette pension dépasse celui des indemnités allouées du chef d'accident du travail; la pension de dédommagement n'est immunisée d'impôt que dans la mesure où elle dépasse ce montant."
+      ],
+      "abstractNL": [
+        "Wanneer een oorlogsfeit tevens een arbeidsongeval is, heeft de getroffene geen aanspraak op een pensioen als burgerlijk oorlogsslachtoffer dan in zoverre dit pensioen de arbeidsongevallenvergoedingen overschrijdt; het herstelpensioen is slechts belastingvrij in zoverre dat pensioen het bedrag van die arbeidsongevallenvergoeding overschrijdt."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820309.9": {
+      "court": "CASS",
+      "date": "1982-03-09",
+      "roleNumber": "F891N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/09/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un fait de guerre constitue aussi un accident du travail, la victime n'a droit à une pension de dédommagement en qualité de victime civile de la guerre que dans la mesure où le montant de cette pension dépasse celui des indemnités allouées du chef d'accident du travail; la pension de dédommagement n'est immunisée d'impôt que dans la mesure où elle dépasse ce montant."
+      ],
+      "abstractNL": [
+        "Wanneer een oorlogsfeit tevens een arbeidsongeval is, heeft de getroffene geen aanspraak op een pensioen als burgerlijk oorlogsslachtoffer dan in zoverre dit pensioen de arbeidsongevallenvergoedingen overtreft; het herstelpensioen is slechts belastingvrij in zoverre het het bedrag van die arbeidsongevallenvergoeding overtreft."
+      ]
+    }
+  }
+}

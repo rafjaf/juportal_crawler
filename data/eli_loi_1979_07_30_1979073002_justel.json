@@ -204,5 +204,21 @@
         "Krachtens art. 15 Wet 30 juli 1979 betreffende de radioberichtgeving worden alle, zonder vergunning gehouden zendtoestellen of ontvangtoestellen voor radioverbinding verbeurdverklaard, zelfs als ze niet de eigendom zijn van de veroordeelde."
       ]
     }
+  },
+  "8bis": {
+    "ECLI:BE:CASS:2021:ARR.20210107.1F.6": {
+      "court": "CASS",
+      "date": "2021-01-07",
+      "roleNumber": "C.20.0306.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/01/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les échanges entre le personne lésée et l'entreprise d'assurances qui font suite à la demande d'intervention constituent des pourparlers, à moins que la personne lésée ne doive inférer des déclarations de l'entreprise d'assurances qu'elle exclut tout règlement du sinistre."
+      ],
+      "abstractNL": [
+        "De besprekingen tussen de benadeelde en de verzekeringsonderneming naar aanleiding van het verzoek om bijstand vormen onderhandelingen, tenzij de benadeelde uit de verklaringen van de verzekeringsonderneming moet afleiden dat ze elke regeling van het schadegeval uitsluit."
+      ]
+    }
   }
 }

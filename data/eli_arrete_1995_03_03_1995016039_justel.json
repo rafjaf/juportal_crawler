@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990427.9": {
+      "court": "CASS",
+      "date": "1999-04-27",
+      "roleNumber": "P971284N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/04/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dans l'arrêté royal du 3 mars 1995, le terme \"vol-au-vent\" n'a pas de sens plus étendu que son sens usuel."
+      ],
+      "abstractNL": [
+        "De term \"vol-au-vent\" heeft in het KB van 3 maart 1995 geen ruimere betekenis dan de gebruikelijke."
+      ]
+    }
+  }
+}

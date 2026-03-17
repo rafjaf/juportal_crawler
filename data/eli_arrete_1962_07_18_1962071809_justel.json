@@ -1,0 +1,16 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660425.1": {
+      "court": "CASS",
+      "date": "1966-04-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les affections prévues au tableau C de l'arrêté royal du 18 juillet 1962 déterminant les infirmités et les maladies qui entraînent l'exemption de service ou l'ajournement des miliciens, ne pouvant entraîner l'exemption définitive pour cause physique du service militaire qu'après un ajournement préalable pour le même motif, viole cet arrêté royal et l'article 14, alinéa 1er, alinéa 2, des lois sur la milice, coordonnées le 30 avril 1962, la décision du conseil de revision qui, pour exempter définitivement du service militaire le milicien atteint de pareille affection, assimile la décision de non-admission au devancement d'appel à une décision d'ajournement."
+      ],
+      "abstractNL": null
+    }
+  }
+}

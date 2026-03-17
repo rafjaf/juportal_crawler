@@ -1,4 +1,20 @@
 {
+  "6": {
+    "ECLI:BE:CASS:1970:ARR.19701106.2": {
+      "court": "CASS",
+      "date": "1970-11-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 6 de la loi du 5 mai 1936 sur l'affrètement fluvial imposant au batelier l'obligation d'amener le bateau à l'endroit désigné pour le chargement ou le déchargement, la désignation de l'emplacement par le chargeur ou le destinataire équivaut à un ordre; les termes \"désigner\" et \"ordonner\", insérés respectivement dans les 1er et 2è alinéas et dans l'alinéa 3 de ladite disposition, ont dès lors le même sens."
+      ],
+      "abstractNL": [
+        "Daar artikel 6 van de wet van 5 mei 1936 op de rivierbevrachting aan de schipper de verplichting oplegt het schip op de voor het laden of lossen aangewezen plaats te brengen, stemt de aanwijzing van de plaats door de inlader of de geadresseerde overeen met een order of bevel; de woorden \"aangewezen\" en \"bevelen\" die respectievelijk in het 1e, 2e en 3e lid van deze bepaling voorkomen, hebben bijgevolg dezelfde betekenis."
+      ]
+    }
+  },
   "8": {
     "ECLI:BE:CASS:2022:ARR.20221209.1N.7": {
       "court": "CASS",
@@ -13,6 +29,52 @@
       "abstractFR": null,
       "abstractNL": [
         "Het werkelijk toezicht op het laden, stuwen en lossen waartoe de schipper gehouden is, heeft niet alleen de veiligheid van het schip maar ook die van de lading tot voorwerp."
+      ]
+    },
+    "ECLI:BE:CASS:1971:ARR.19710205.3": {
+      "court": "CASS",
+      "date": "1971-02-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/02/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La surveillance des opérations de chargement et d'arrimage, que l'article 8 de la loi du 5 mai 1936 sur l'affrètement fluvial impose au batelier, a pour objet d'assurer non seulement la sécurité du bateau, mais aussi celle de la cargaison."
+      ],
+      "abstractNL": [
+        "Het toezicht op het laden en stuwen, waartoe de schipper ingevolge artikel 8 van de wet van 5 mei 1936 op de rivierbevrachting is gehouden, geldt niet alleen voor de veiligheid van het schip maar ook voor die van de lading."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:1980:ARR.19800104.4": {
+      "court": "CASS",
+      "date": "1980-01-04",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/01/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en vue de l'établissement d'un connaissement, en matière d'affrètement fluvial, le poids des marchandises embarquées a été déterminé exclusivement au moyen des indications fournies par des bascules automatiques, si le batelier peut, en vertu de l'article 12, dernier alinéa, de la loi du 5 mai 1936 sur l'affrètement fluvial, contester l'exactitude desdites indications, il doit le faire au plus tard au moment du chargement ou du déchargement."
+      ],
+      "abstractNL": [
+        "Wanneer bij het opmaken van een cognossement inzake binnenbevrachting het gewicht van de ingeladen goederen uitsluitend bepaald is door automatische weegtoestellen, moet de schipper, die krachtens art. 12, laatste lid, wet van 5 mei 1936 op de \" binnenbevrachting \" het gewichtscijfer kan betwisten, zulks doen ten laatste bij het laden of lossen van het schip."
+      ]
+    }
+  },
+  "19": {
+    "ECLI:BE:CASS:1995:ARR.19950616.5": {
+      "court": "CASS",
+      "date": "1995-06-16",
+      "roleNumber": "C930293N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/16/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "En règle, la rétention d'un navire ne confère pas à celui qui exerce le droit de rétention le droit d'être préféré au créancier hypothécaire du navire."
+      ],
+      "abstractNL": [
+        "In de regel verleent de retentie van een schip aan degene die het recht uitoefent geen voorrang op de hypotheekhouder op dat schip."
       ]
     }
   },
@@ -30,6 +92,152 @@
       "abstractFR": null,
       "abstractNL": [
         "De verbintenis van de schipper om de goederen van hun laadplaats naar hun bestemming te vervoeren is een resultaatverbintenis, zodat bij niet-nakoming ervan een weerlegbaar vermoeden van fout geldt aan de zijde van de schipper; deze bepaling houdt geen beperking in van de aansprakelijkheid van de schipper voor andere schade dan verlies of beschadiging van de goederen; de verbintenis kan niet met het oog op de schade door beschadiging of verlies van de goederen een resultaatverbintenis zijn, en met het oog op andere schadeposten een middelenverbintenis (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "32": {
+    "ECLI:BE:CASS:1987:ARR.19870220.20": {
+      "court": "CASS",
+      "date": "1987-02-20",
+      "roleNumber": "5158",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/20/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "L'exonération de responsabilité pour le dommage occasionné à la cargaison par un accident de navigation, prévue au profit du batelier par l'article 32 de la loi du 5 mai 1936 sur l'affrètement fluvial, est applicable non seulement à l'égard de fautes de navigation proprement dites mais également à l'égard de fautes dans la gestion technique du bateau."
+      ],
+      "abstractNL": [
+        "De in art. 32 van de wet van 5 mei 1936 op de rivierbevrachting ten gunste van de schipper bepaalde ontheffing van aansprakelijkheid voor de schade aan de lading teweeggebracht door een scheepvaartongeval, is van toepassing niet alleen t.a.v. fouten in de eigenlijke navigatie maar ook t.a.v. fouten in het technisch beheer van het schip."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780113.5": {
+      "court": "CASS",
+      "date": "1978-01-13",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/01/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la cargaison d'un bateau a été perdue à la suite du naufrage de celui-ci et que le propriétaire du bateau fait l'objet d'une demande en indemnisation du dommage causé par cette perte - demande fondée sur ce que, le naufrage s'étant produit par temps orageux, avec écoutilles ouvertes, le batelier est responsable sur la base de l'article 31 de la loi du 5 mai 1936 sur l'affrètement fluvial, de ladite perte pour n'avoir pas, le bateau étant en état d'innavigabilité, pris les mesures nécessaires pour mettre celui-ci en état de navigabilité et ses cales en bon état -, le juge justifie légalement le rejet de cette demande en constatant, d'une part, qu'en l'espèce, étant donné la nature de la marchandise, l'ouverture des écoutilles ne constituait en soi aucun danger pour la cargaison, en relevant, d'autre part, que la considération que le fait d'avoir navigué avec les écoutilles ouvertes a entraîné le naufrage du bateau ne suffit pas pour que l'on puisse invoquer l'innavigabilité de celui-ci, et en décidant que le naufrage du bateau, et donc la perte de la cargaison, est dû à un accident de navigation imputable à une faute de navigation du batelier, de sorte que, les autres conditions énoncées à l'article 32 de ladite loi étant réunies, le batelier n'est pas responsable, en vertu de cette disposition légale, du dommage causé par la perte de la cargaison (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de lading van een schip verloren is gegaan doordat het schip is gezonken en wanneer de eigenaar van het schip is gedagvaard om de door het verlies van de lading veroorzaakte schade te vergoeden omdat het schip gezonken is door het varen met openliggende luiken bij stormachtig weder, zodat de schipper, wegens de onzeewaardigheid van het schip en het niet-treffen van de nodige maatregelen om het schip bruikbaar te maken en om de scheepsruimen in orde te brengen, op grond van artikel 31 van de wet van 5 mei 1936 op de rivierbevrachting voor het verlies van de lading aansprakelijk is, verantwoordt de rechter, die de vordering afwijst, wettelijk zijn beslissing door vast te stellen dat ten deze, gezien de aard van de lading, de openliggende luiken op zichzelf geen gevaar voor deze lading uitmaakten, door te oordelen dat de beschouwing dat het varen met openliggende luiken in feite het schip ten ondergang heeft gebracht, niet volstaat om de onzeewaardigheid van het schip in te roepen en door te beslissen dat het vergaan van het schip, derhalve van de lading, te wijten is aan een scheepvaartongeval, met name een navigatiefout van de schipper, zodat, nu de overige bij artikel 32 van genoemde wet bepaalde voorwaarden zijn vervuld, de schipper op grond van deze wetsbepaling niet aansprakelijk is voor de door het verlies van de lading veroorzaakte schade (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650903.1": {
+      "court": "CASS",
+      "date": "1965-09-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si le batelier répond, en principe, des avaries à la marchandise transportée, à moins qu'il ne prouve que l'avarie est due à un fait qui ne peut lui être imputé, il est toutefois dérogé à cette règle lorsque le dommage résulte de l'état d'innavigabilité du bateau ou d'un accident de navigation; le batelier est exonéré de responsabilité, dans le premier cas, s'il prouve qu'il a pris toutes les mesures nécessaires pour mettre le bateau en état de navigabilité et les cales en bon état, dans le second cas, s'il produit un certificat de classification dans les conditions fixées par l'arrêté royal du 18 juillet 1936 et s'il établit qu'au moment de l'accident il était à bord et y avait à son service, d'une façon permanente, un aide-batelier âgé de 18 ans au moins. (Loi du 5 mai 1936, art. 30, 31 et 32.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "33": {
+    "ECLI:BE:CASS:1983:ARR.19830225.6": {
+      "court": "CASS",
+      "date": "1983-02-25",
+      "roleNumber": "3656",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/25/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qui accueille la demande formée contre le batelier et tendant à l'indemnisation du dommage causé à la marchandise par l'infiltration d'eau pendant le transport par bateau et qui rejette la défense du batelier invoquant l'exonération de responsabilité parce que le dommage était imputable à une fausse manoeuvre dans la conduite du bateau, au motif que le dommage a été causé par l'infiltration d'eau dans la soute, conséquence d'une négligence commise lors de la vérification de la fermeture de la vanne d'adduction d'eau à la soute à ballast, et que cette négligence n'a pas constitué une fausse manoeuvre dans la conduite du bateau mais une négligence relative aux soins à donner à la marchandise. (Loi du 5 mai 1936, art. 32 et 33.)"
+      ],
+      "abstractNL": [
+        "Wettelijk verantwoord is de beslissing die de vordering inwilligt tegen de schipper ingesteld tot vergoeding van de schade teweeggebracht aan de koopwaar door het indringen van water tijdens het vervoer per schip en het verweer verwerpt van de schipper die zich beriep op ontheffing van aansprakelijkheid omdat de schade te wijten was aan een verkeerde bediening van het schip, op grond dat de schade is ontstaan door het indringen van water in het ruim, als gevolg van de nalatigheid vast te stellen of de kraan van de watertoevoer voor de ballastruimte al dan niet behoorlijk was gesloten en dat die nalatigheid geen verkeerde bediening van het schip uitmaakt maar in verband te brengen is met de zorgen die aan de koopwaar dienen besteed te worden <2>. (Artt. 32 en 33 wet 5 mei 1936.)"
+      ]
+    }
+  },
+  "59": {
+    "ECLI:BE:CASS:2010:ARR.20101025.1": {
+      "court": "CASS",
+      "date": "2010-10-25",
+      "roleNumber": "C.09.0615.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/10/25/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Une citation en justice, qui n'est pas suivie d'une inscription de la cause au rôle général, n'interrompt pas la prescription applicable à une action dérivant du contrat régi par la loi sur l'affrètement fluvial (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Een dagvaarding voor het gerecht zonder inschrijving van de zaak op de algemene rol, stuit de verjaring niet die van toepassing is op de overeenkomst die valt onder de wet op de binnenbevrachting (1). (1) Zie concl. O.M. in A.C., 2010, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811016.13": {
+      "court": "CASS",
+      "date": "1981-10-16",
+      "roleNumber": "3156",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En matière de navigation intérieure, les actions qui concernent les contrats d'affrètement en séjour sont soumises à la prescription prévue à l'article 59 de la loi du 5 mai 1936 sur l'affrètement fluvial."
+      ],
+      "abstractNL": [
+        "Inzake binnenvaart zijn de verjaringstermijnen van art. 59 van de Wet op de Rivierbevrachting 5 mei 1936 toepasselijk op de rechtsvorderingen voortvloeiende uit de overeenkomsten op de bevrachting voor liggen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950616.5": {
+      "court": "CASS",
+      "date": "1995-06-16",
+      "roleNumber": "C930293N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/06/16/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "En règle, la rétention d'un navire ne confère pas à celui qui exerce le droit de rétention le droit d'être préféré au créancier hypothécaire du navire."
+      ],
+      "abstractNL": [
+        "In de regel verleent de retentie van een schip aan degene die het recht uitoefent geen voorrang op de hypotheekhouder op dat schip."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870220.20": {
+      "court": "CASS",
+      "date": "1987-02-20",
+      "roleNumber": "5158",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/20/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "L'exonération de responsabilité pour le dommage occasionné à la cargaison par un accident de navigation, prévue au profit du batelier par l'article 32 de la loi du 5 mai 1936 sur l'affrètement fluvial, est applicable non seulement à l'égard de fautes de navigation proprement dites mais également à l'égard de fautes dans la gestion technique du bateau."
+      ],
+      "abstractNL": [
+        "De in art. 32 van de wet van 5 mei 1936 op de rivierbevrachting ten gunste van de schipper bepaalde ontheffing van aansprakelijkheid voor de schade aan de lading teweeggebracht door een scheepvaartongeval, is van toepassing niet alleen t.a.v. fouten in de eigenlijke navigatie maar ook t.a.v. fouten in het technisch beheer van het schip."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19811016.13": {
+      "court": "CASS",
+      "date": "1981-10-16",
+      "roleNumber": "3156",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/10/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "En matière de navigation intérieure, les actions qui concernent les contrats d'affrètement en séjour sont soumises à la prescription prévue à l'article 59 de la loi du 5 mai 1936 sur l'affrètement fluvial."
+      ],
+      "abstractNL": [
+        "Inzake binnenvaart zijn de verjaringstermijnen van art. 59 van de Wet op de Rivierbevrachting 5 mei 1936 toepasselijk op de rechtsvorderingen voortvloeiende uit de overeenkomsten op de bevrachting voor liggen."
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780113.5": {
+      "court": "CASS",
+      "date": "1978-01-13",
+      "roleNumber": "197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/01/13/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la cargaison d'un bateau a été perdue à la suite du naufrage de celui-ci et que le propriétaire du bateau fait l'objet d'une demande en indemnisation du dommage causé par cette perte - demande fondée sur ce que, le naufrage s'étant produit par temps orageux, avec écoutilles ouvertes, le batelier est responsable sur la base de l'article 31 de la loi du 5 mai 1936 sur l'affrètement fluvial, de ladite perte pour n'avoir pas, le bateau étant en état d'innavigabilité, pris les mesures nécessaires pour mettre celui-ci en état de navigabilité et ses cales en bon état -, le juge justifie légalement le rejet de cette demande en constatant, d'une part, qu'en l'espèce, étant donné la nature de la marchandise, l'ouverture des écoutilles ne constituait en soi aucun danger pour la cargaison, en relevant, d'autre part, que la considération que le fait d'avoir navigué avec les écoutilles ouvertes a entraîné le naufrage du bateau ne suffit pas pour que l'on puisse invoquer l'innavigabilité de celui-ci, et en décidant que le naufrage du bateau, et donc la perte de la cargaison, est dû à un accident de navigation imputable à une faute de navigation du batelier, de sorte que, les autres conditions énoncées à l'article 32 de ladite loi étant réunies, le batelier n'est pas responsable, en vertu de cette disposition légale, du dommage causé par la perte de la cargaison (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de lading van een schip verloren is gegaan doordat het schip is gezonken en wanneer de eigenaar van het schip is gedagvaard om de door het verlies van de lading veroorzaakte schade te vergoeden omdat het schip gezonken is door het varen met openliggende luiken bij stormachtig weder, zodat de schipper, wegens de onzeewaardigheid van het schip en het niet-treffen van de nodige maatregelen om het schip bruikbaar te maken en om de scheepsruimen in orde te brengen, op grond van artikel 31 van de wet van 5 mei 1936 op de rivierbevrachting voor het verlies van de lading aansprakelijk is, verantwoordt de rechter, die de vordering afwijst, wettelijk zijn beslissing door vast te stellen dat ten deze, gezien de aard van de lading, de openliggende luiken op zichzelf geen gevaar voor deze lading uitmaakten, door te oordelen dat de beschouwing dat het varen met openliggende luiken in feite het schip ten ondergang heeft gebracht, niet volstaat om de onzeewaardigheid van het schip in te roepen en door te beslissen dat het vergaan van het schip, derhalve van de lading, te wijten is aan een scheepvaartongeval, met name een navigatiefout van de schipper, zodat, nu de overige bij artikel 32 van genoemde wet bepaalde voorwaarden zijn vervuld, de schipper op grond van deze wetsbepaling niet aansprakelijk is voor de door het verlies van de lading veroorzaakte schade (1)."
       ]
     }
   }

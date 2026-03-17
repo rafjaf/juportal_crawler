@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001109.29": {
+      "court": "CASS",
+      "date": "2000-11-09",
+      "roleNumber": "D990005F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/11/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision qu'un accord relatif à l'organisation d'un service de garde n'est pas de nature à empêcher, restreindre ou fausser le jeu de la concurrence dans une partie substantielle du marché belge concerné, le Conseil de discipline d'appel de l'Ordre des pharmaciens qui considère que tel est le cas de l'accord qui ne porte que sur un service de garde limité à une seule localité et que ce territoire limité ne peut être retenu isolément (1)."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de beslissing dat een akkoord over de organisatie van een wachtdienst niet van dien aard is dat het de vrije mededinging op een wezenlijk deel van de betrokken Belgische markt verhindert, beperkt of vervalst, wanneer de tuchtraad in hoger beroep van de Orde van apothekers beslist dat zulks het geval is met het akkoord dat enkel slaat op een wachtdienst die beperkt is tot één enkele gemeente en dat dit beperkte grondgebied niet afzonderlijk kan worden beschouwd (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000609.3": {
+      "court": "CASS",
+      "date": "2000-06-09",
+      "roleNumber": "C980458FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour apprécier l'existence d'une position dominante, le juge doit déterminer avec précision le marché en cause; le marché à prendre en considération comprend l'ensemble des produits qui, en fonction de leurs caractéristiques, sont particulièrement aptes à satisfaire des besoins constants et sont peu interchangeables avec d'autres produits; il appartient ainsi au juge de vérifier si le marché de référence comportait ou non des produits interchangeables."
+      ],
+      "abstractNL": [
+        "Om het bestaan van een machtspositie te beoordelen, moet de rechter nauwkeurig de betrokken markt afbakenen; de in aanmerking te nemen markt omvat alle producten die door hun eigenschappen bijzonder geschikt zijn om in constante behoeften te voorzien en die slechts in geringe mate door andere producten kunnen worden gesubstitueerd; de rechter dient aldus na te gaan of de betrokken markt al dan niet substitueerbare producten omvatte."
+      ]
+    }
+  }
+}

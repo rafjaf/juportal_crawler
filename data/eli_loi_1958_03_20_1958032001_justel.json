@@ -1,0 +1,48 @@
+{
+  "7": {
+    "ECLI:BE:CASS:1988:ARR.19880311.6": {
+      "court": "CASS",
+      "date": "1988-03-11",
+      "roleNumber": "5319",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La limitation du cumul des pensions et des traitements prévue par les articles 5, 6, et 7, 1°, d, de la loi du 20 mars 1958 est applicable en cas de cumul d'une pension militaire d'ancienneté avec un traitement à charge d'un établissement d'enseignement subventionné par l'Etat, même si ce traitement est dû en raison d'une mission qui ne constitue pas une mission d'enseignement, subsidiée ou non par l'Etat."
+      ],
+      "abstractNL": [
+        "De cumulatiebeperking van pensioenen en wedden, bepaald bij de artt. 5, 6, 7, 1°, d, wet 20 maart 1958, is van toepassing in geval van cumulatie van een militair anciënniteitspensioen met een wedde die door een door de Staat gesubsidieerde onderwijsinrichting wordt betaald, zelfs indien die wedde wordt betaald wegens een taak die geen onderwijstaak, al dan niet door de staat gesubsidieerd, is."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1966:ARR.19660623.2": {
+      "court": "CASS",
+      "date": "1966-06-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/06/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la loi du 20 mars 1958, relative au cumul des pensions et des traitements et au régime des pensions de retraite afférentes à des fonctions multiples, les pensions visées par la loi du 14 mars 1960 portant garantie par l'Etat belge des pensions, rentes, allocations et autres avantages à charge du Congo belge, ne sont pas considérées comme des pensions à charge du Trésor public. (Loi du 20 mars 1958 relative au cumul des pensions et des traitements et au régime des pensions de retraite afférentes à des fonctions multiples, art. 7, 9 et 11; loi du 14 mars 1960 portant garantie par l'Etat belge des pensions, rentes, allocations et autres avantages à charge du Congo belge et du Ruanda-Urundi, art. 1er; loi du 27 juillet 1961 portant certaines mesures en faveur du personnel de carrière des cadres d'Afrique, art. 21, alinéa 2.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880311.6": {
+      "court": "CASS",
+      "date": "1988-03-11",
+      "roleNumber": "5319",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/03/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La limitation du cumul des pensions et des traitements prévue par les articles 5, 6, et 7, 1°, d, de la loi du 20 mars 1958 est applicable en cas de cumul d'une pension militaire d'ancienneté avec un traitement à charge d'un établissement d'enseignement subventionné par l'Etat, même si ce traitement est dû en raison d'une mission qui ne constitue pas une mission d'enseignement, subsidiée ou non par l'Etat."
+      ],
+      "abstractNL": [
+        "De cumulatiebeperking van pensioenen en wedden, bepaald bij de artt. 5, 6, 7, 1°, d, wet 20 maart 1958, is van toepassing in geval van cumulatie van een militair anciënniteitspensioen met een wedde die door een door de Staat gesubsidieerde onderwijsinrichting wordt betaald, zelfs indien die wedde wordt betaald wegens een taak die geen onderwijstaak, al dan niet door de staat gesubsidieerd, is."
+      ]
+    }
+  }
+}

@@ -15,6 +15,36 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:2004:ARR.20040521.3": {
+      "court": "CASS",
+      "date": "2004-05-21",
+      "roleNumber": "C030151F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En ce qui concerne les dessins et modèles artistiques, le législateur n'a pas dérogé à la règle selon laquelle lorsque la loi réduit la durée de protection d'une oeuvre par le droit d'auteur, le nouveau délai s'applique aux oeuvres créées avant l'entrée en vigueur de la loi qui, n'appartenant pas encore au domaine public, bénéficiaient de cette protection au jour de cette entrée en vigueur, et ce, à partir de celle-ci."
+      ],
+      "abstractNL": [
+        "Betreffende kunstzinnige tekeningen en modellen heeft de wetgever niet van de regel afgeweken dat, wanneer de wet de auteursrechterlijke beschermingsduur van een werk beperkt, de nieuwe termijn geldt voor werken die vóór de inwerkingtreding van de wet ontworpen zijn en die, aangezien ze nog niet tot het openbaar domein behoorden, die bescherming genoten op de dag van die inwerkingtreding, en zulks met ingang van die inwerkingtreding."
+      ]
+    }
+  },
+  "91": {
+    "ECLI:BE:CASS:1965:ARR.19650315.7": {
+      "court": "CASS",
+      "date": "1965-03-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/03/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'un fabricant d'un produit s'est efforcé d'imiter aussi fidèlement que possible un produit naturel ne fait pas obstacle à ce que ce produit bénéficie de la protection organisée par l'arrêté royal n° 91 du 29 janvier 1935, lorsqu'il présente le caractère de nouveauté et d'originalité requis par cette disposition légale."
+      ],
+      "abstractNL": null
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1988:ARR.19880114.5": {
       "court": "CASS",

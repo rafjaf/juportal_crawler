@@ -1,0 +1,48 @@
+{
+  "14": {
+    "ECLI:BE:CASS:2003:ARR.20031103.14": {
+      "court": "CASS",
+      "date": "2003-11-03",
+      "roleNumber": "S030030N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/11/03/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'inscription au Pool des marins de la marine marchande du marin qui ne se présente pas au Pool après l'expiration du délai de suspension, est retirée d'office par le directeur qui ne dispose d'aucun espace de décision suite à une compétence liée et ce retrait est fondé sur un fait objectif qui n'est pas qualifié d'acte fautif ou de négligence de la part de l'intéressé; le retrait de l'inscription n'est soumis à aucune condition autre que la simple constatation que le marin ne s'est pas présenté après l'expiration du délai de suspension."
+      ],
+      "abstractNL": [
+        "De ambtshalve intrekking van de inschrijving in de Pool der zeelieden, van de zeeman die zich bij het verstrijken van de schorsingstermijn niet bij de Pool aanbiedt, geschiedt door de directeur zonder enige beleidsruimte ingevolge een gebonden bevoegdheid en is gegrond op een objectief feit dat niet gekwalificeerd wordt als een foutieve handeling of nalatigheid van de betrokkene; de intrekking is aan geen andere vereiste onderworpen dan de loutere vaststelling te weten: het niet aanbieden bij het verstrijken van de schorsingstermijn."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920120.11": {
+      "court": "CASS",
+      "date": "1992-01-20",
+      "roleNumber": "7648",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/01/20/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'inscription au pool des marins de la marine marchande peut être retirée au marin lorsqu'il est physiquement ou mentalement temporairement inapte à exercer sa profession. ( A.R. du 9 avril 1965, art. 14, alinéa 2, 1°; A.M. du 17 janvier 1980, art. 1er, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "De inschrijving van de zeeman in de Pool van de Zeelieden ter Koopvaardij kan worden ingetrokken, wanneer hij tijdelijk lichamelijk of geestelijk niet geschikt is voor het uitoefenen van zijn beroep. ( Art. 14, alinéa 2, 1°, K.B. van 9 april 1965; art. 1, alinéa 1, M.B. van 17 januari 1980. )"
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1987:ARR.19870202.11": {
+      "court": "CASS",
+      "date": "1987-02-02",
+      "roleNumber": "5492",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/02/02/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le comité de gestion du Pool des marins de la marine marchande n'est pas tenu d'entendre le marin, ou à tout le moins de le convoquer à cette fin, avant de retirer son inscription au Pool. ( Arr. roy. du 9 avril 1965, art. 15. )"
+      ],
+      "abstractNL": [
+        "Het beheerscomité van de Pool van de Zeelieden ter Koopvaardij is niet verplicht de zeeman te horen, althans daartoe op te roepen, alvorens zijn inschrijving in de Pool in te trekken. ( Art. 15 K.B. 9 april 1965. )"
+      ]
+    }
+  }
+}

@@ -25,6 +25,66 @@
       "abstractNL": [
         "Uit de artikelen 1, eerste lid, en 5 van de wet van 28 mei 1956 betreffende ontplofbare en voor de deflatratie vatbare stoffen en mengsels en de daarmee geladen tuigen en de artikelen 6.A, 1°, en 7, eerste lid, Springstoffenbesluit noch uit hun wetsgeschiedenis blijkt dat de fabricatie van munitie voor eigen gebruik, uit het toepassingsgebied ervan is uitgesloten; daaruit volgt dat de fabricatie van munitie voor eigen gebruik zonder de vereiste administratieve vergunning strafbaar is met de in voormeld artikel 5 Springstoffenwet bepaalde straffen."
       ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000411.9": {
+      "court": "CASS",
+      "date": "2000-04-11",
+      "roleNumber": "P000407N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/11/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les actes définis aux articles 1er et 5 de la loi du 28 mai 1956 doivent avoir été exécutés sciemment pour être punissables en raison de leur nature. Ils ne peuvent résulter de la négligence."
+      ],
+      "abstractNL": [
+        "De in art. 1 en 5 van de wet van 28 mei 1956 omschreven handelingen moeten om strafbaar te zijn wegens hun aard wetens en willens worden uitgevoerd. Zij mogen niet het gevolg zijn van onachtzaamheid."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1998:ARR.19980616.10": {
+      "court": "CASS",
+      "date": "1998-06-16",
+      "roleNumber": "P960747N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Une infraction à la législation relative aux substances explosives est commise avec la circonstance aggravante que l'infraction a entraîné des lésions corporelles, lorsque sans cette infraction la lésion ne se serait pas réalisée de la manière dont elle s'est produite. La circonstance que le dommage peut aussi naître lorsque l'acheteur du feu d'artifice n'agit pas fautivement, alors que la victime est imprudente, n'exclut pas que sans la vente la lésion ne se serait pas réalisée de la manière dont elle s'est produite."
+      ],
+      "abstractNL": [
+        "Een overtreding van de Springstoffenwet wordt gepleegd met de verzwarende omstandigheid dat de overtreding lichamelijke letsels tot gevolg heeft gehad, wanneer het letsel zich zonder die inbreuk niet zou hebben voorgedaan zoals het in werkelijkheid is ontstaan. De omstandigheid dat de schade ook kan ontstaan wanneer de koper van het vuurwerk niet foutief handelt terwijl het slachtoffer onvoorzichtig is, sluit niet uit dat zonder verkoop het letsel zich niet zou hebben voorgedaan zoals het in werkelijkheid is ontstaan."
+      ]
+    },
+    "ECLI:BE:CASS:1976:ARR.19760106.8": {
+      "court": "CASS",
+      "date": "1976-01-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Une infraction à la législation relative aux substances explosives est commise avec la circonstance aggravante que l'infraction a entraîné une lésion corporelle, lorsque sans cette infraction cette lésion ne se serait pas réalisée de la manière dont elle s'est produite (1). (Loi du 28 mai 1956, art. 7.)"
+      ],
+      "abstractNL": [
+        "Een inbreuk op de springstoffenwetgeving is gepleegd met de verzwarende omstandigheid dat de overtreding lichamelijk letsel tot gevolg heeft gehad, wanneer het letsel zich zonder die inbreuk niet zou hebben voorgedaan, zoals het in werkelijkheid is ontstaan (3). ( Art. 7 wet van 28 mei 1956. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1998:ARR.19980616.10": {
+      "court": "CASS",
+      "date": "1998-06-16",
+      "roleNumber": "P960747N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/16/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Une infraction à la législation relative aux substances explosives est commise avec la circonstance aggravante que l'infraction a entraîné des lésions corporelles, lorsque sans cette infraction la lésion ne se serait pas réalisée de la manière dont elle s'est produite. La circonstance que le dommage peut aussi naître lorsque l'acheteur du feu d'artifice n'agit pas fautivement, alors que la victime est imprudente, n'exclut pas que sans la vente la lésion ne se serait pas réalisée de la manière dont elle s'est produite."
+      ],
+      "abstractNL": [
+        "Een overtreding van de Springstoffenwet wordt gepleegd met de verzwarende omstandigheid dat de overtreding lichamelijke letsels tot gevolg heeft gehad, wanneer het letsel zich zonder die inbreuk niet zou hebben voorgedaan zoals het in werkelijkheid is ontstaan. De omstandigheid dat de schade ook kan ontstaan wanneer de koper van het vuurwerk niet foutief handelt terwijl het slachtoffer onvoorzichtig is, sluit niet uit dat zonder verkoop het letsel zich niet zou hebben voorgedaan zoals het in werkelijkheid is ontstaan."
+      ]
     }
   }
 }

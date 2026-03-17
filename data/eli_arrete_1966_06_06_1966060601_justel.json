@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1971:ARR.19710928.7": {
+      "court": "CASS",
+      "date": "1971-09-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1971/09/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est illégal l'arrêté royal du 6 juin 1966 en tant qu'il fixe les tarifs maximums d'honoraires pour les prestations de santé faisant l'objet de la lettre-clé N en attribuant, en l'absence d'une proposition de modification de la nomenclature de ces prestations par le conseil technique compétent, différentes valeurs à ladite lettre-clé, modifiant ainsi la valeur relative de ces prestations et, partant, la nomenclature même de celles-ci."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 6 juni 1966 is onwettelijk in zover het de maximumtarieven van honoraria voor de geneeskundige verstrekkingen waarop de sleutelletter N betrekking heeft, vaststelt door, bij ontstentenis van een voorstel van de bevoegde technische raad tot wijziging van de nomenclatuur van deze verstrekkingen, aan deze sleutelletter verschillende waarden toe te kennen en aldus een wijziging te brengen in de betrekkelijke waarde van deze verstrekkingen en, derhalve, in de nomenclatuur zelf van deze verstrekkingen."
+      ]
+    }
+  }
+}

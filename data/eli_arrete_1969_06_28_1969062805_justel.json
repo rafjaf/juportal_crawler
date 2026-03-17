@@ -11,6 +11,50 @@
         "En décidant que les personnes placées dans un établissement psychiatrique fermé ne sont pas et ne peuvent pas être bénéficiaires de l'assurance soins de santé organisée par la loi du 9 août 1963, au sens de l'article 1er, 1° de l'arrêté royal du 28 juin 1969 et qu'elles ne sont pas exclues du régime prévu par cet arrêté royal, l'arrêt viole les articles 22, alinéa 1er, 5°, 7°, de la loi du 9 août 1963, 1er, alinéa 1er, 1°, 6, 15 de l'arrêté royal du 20 juillet 1970, 1er, alinéa 1er, 1°, de l'arrêté royal du 28 juin 1969."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1993:ARR.19930621.14": {
+      "court": "CASS",
+      "date": "1993-06-21",
+      "roleNumber": "8291",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/06/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Sont exclues de l'extension de la loi du 9 août 1963 aux personnes non encore protégées, celles qui sont soumises à un régime étranger d'assurance-soins de santé en vertu duquel, en Belgique, les soins de santé ne sont pas accordés et, à l'étranger, toutes les prestations de santé visées à l'article 23 de la loi du 9 août 1963 en sont pas couvertes. (AR 28 juin 1969, art. 1er, 1°)"
+      ],
+      "abstractNL": [
+        "Zijn uitgesloten van de verruiming van de ZIV-wet tot de nog niet beschermde personen degenen die onder een buitenlandse ziektekostenverzekering vallen krachtens welke de geneeskundige verzorging niet in België wordt verleend en in het buitenland niet alle in art. 23 ZIV-wet bedoelde geneeskundige verstrekkingen worden gedekt."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880516.1": {
+      "court": "CASS",
+      "date": "1988-05-16",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 28 juin 1969 qui institue un régime de soins de santé pour les personnes non encore protégées exclut de son champ d'application les personnes qui sont ou peuvent être bénéficiaires d'un régime de soins de santé en vertu de l'article 22, al. 1er, 1° à 6°, de la loi du 9 août 1963; tel est le cas d'un handicapé qui peut être bénéficiaire du régime créé par l'arrêté royal du 20 juillet 1970, même s'il est exclu des prestations prévues par ce régime en raison de son placement dans un établissement psychiatrique fermé. ( Loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, art. 22, 1° à 6°, et 7°; Arrêté royal du 20 juillet 1970, étendant le champ d'application de l'assurance soins de santé obligatoire aux handicapés, art. 1er, al. 1er, 1°; Arrêté royal du 28 juin 1969 étendant le champ d'application de l'assurance soins de santé obligatoire aux personnes non encore protégées, art. 1er, al. 1er, 1°. )"
+      ],
+      "abstractNL": [
+        "In K.B. van 28 juni 1969 tot regeling van geneeskundige verzorging voor de nog niet beschermde personen worden van de werkingssfeer uitgesloten de personen die krachtens art. 22, eerste lid, 1° tot 6°, Z.I.V.-wet 9 augustus 1963 aanspraak hebben of kunnen hebben op een regeling voor geneeskundige verzorging; aldus de minder-valide die volgens K.B. van 20 juli 1970 gerechtigde kan zijn, zelfs al is hij van de geneeskundige verstrekkingen van die regeling uitgesloten, doordat hij in een gesloten psychiatrische instelling is geplaatst. ( Art. 22, 1° tot 6° en 7° Z.I.V.-wet 9 augustus 1963; art. 1, eerste lid, 1°, K.B. van 20 juli 1970 tot verruiming van de werkingssfeer van de verplichte verzekering voor geneeskundige verzorging tot de minder-validen; art. 1, eerste lid, 1°, K.B. van 28 juni 1969 tot verruiming van de werkingsfeer van de verplichte verzekering voor geneeskundige verzorging voor nog niet beschermde personen. )"
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2003:ARR.20031208.10": {
+      "court": "CASS",
+      "date": "2003-12-08",
+      "roleNumber": "S990123F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/12/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "A défaut de la déclaration que la personne non encore protégée doit remettre à l'occasion de son affiliation à une mutualité ou de son inscription à un office régional de la caisse auxiliaire d'assurance maladie-invalidité, le stage de six mois que cette personne doit accomplir pour que s'ouvre le droit aux prestations, ne peut prendre cours (1). (1) Voir Cass., 1er mars 1993, RG 9595, n° 121, avec concl. M.P.; A.R. du 28 juin 1969 avant sa modification par l'A.R. du 4 avril 1985."
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van de verklaring die de nog niet beschermde persoon dient te overhandigen ter gelegenheid van zijn aansluiting bij een ziekenfonds of zijn inschrijving bij een gewestelijke dienst van de hulpkas voor ziekte- en invaliditeitsverzekering, kan de wachttijd van zes maanden die hij moet volbrengen om recht op verstrekkingen te verkrijgen, niet ingaan (1). (1) Zie Cass., 1 maart 1993, AR 9595, nr 121, met concl. O.M., in Bull. en Pas., I, 1993, nr 121; K.B. 28 juni 1969 vóór de wijziging ervan bij K.B. 4 april 1985."
+      ]
     }
   }
 }

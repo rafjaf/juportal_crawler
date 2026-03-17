@@ -843,6 +843,22 @@
       "abstractNL": null
     }
   },
+  "443": {
+    "ECLI:BE:CASS:1972:ARR.19720619.5": {
+      "court": "CASS",
+      "date": "1972-06-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable la demande en revision fondée sur une circonstance que le condamné n'aurait pas été à même d'établir lors du procès, lorsque ce condamné ne justifie pas de l'impossibilité dans laquelle il se serait trouvé, lors des poursuites exercées à sa charge, d'invoquer cette circonstance ou de produire le certificat médical qu'il invoque à l'appui de sa requête. ( Code d'instr. crim., art. 443, 3° ( loi du 18 juin 1894 ). )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de aanvraag tot herziening gegrond op een omstandigheid die de veroordeelde ten tijde van het geding niet heeft kunnen aantonen, wanneer deze veroordeelde niet laat blijken van de onmogelijkheid, waarin hij zich zou bevonden hebben, om bij de vervolgingen te zijnen laste deze omstandigheid aan te voeren of het medisch attest over te leggen dat hij tot staving van zijn aanvraag heeft ingeroepen. ( Sv., art. 443, 3° ( wet van 18 juni 1894. ) )"
+      ]
+    }
+  },
   "545": {
     "ECLI:BE:CASS:2025:ARR.20251008.2F.5": {
       "court": "CASS",

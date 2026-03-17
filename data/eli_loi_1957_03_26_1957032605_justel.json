@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1987:ARR.19870105.7": {
+      "court": "CASS",
+      "date": "1987-01-05",
+      "roleNumber": "5416",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/01/05/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 83 quater, alinéa 5, de l'arrêté ministériel du 4 juin 1964, qui détermine la rémunération journalière moyenne sur la base de laquelle est calculé le montant de l'allocation de chômage des chômeurs ressortissants d'un Etat membre des Communautés européennes et qui ont été occupés en-dehors de la Belgique, n'est pas applicable à un ressortissant d'un Etat qui est partie à l'Accord intérimaire européen concernant la sécurité sociale, mais qui n'est pas ressortissant d'un Etat membre des Communautés européennes."
+      ],
+      "abstractNL": [
+        "Art. 83quater, alinéa 5 ( voetnoot 02 ), M.B. 4 juni 1964, dat het gemiddeld dagloon voor de berekening van het bedrag van de werkloosheidsuitkering regelt voor werklozen die onderdaan zijn van een Lid-Staat van de E.E.G. en buiten België tewerkgesteld zijn geweest, vindt geen toepassing op een onderdaan van een Staat die Partij is bij de Europese Interimovereenkomst betreffende sociale zekerheid ( voetnoot 03 ), maar die geen onderdaan van een Lid-Staat van de E.E.G. is."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861103.9": {
+      "court": "CASS",
+      "date": "1986-11-03",
+      "roleNumber": "7513",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/11/03/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "En matière de chômage, l'application simultanée de l'accord intérimaire européen concernant la sécurité sociale, à l'exclusion des régimes relatifs à la vieillesse, à l'invalidité et aux survivants, et de la Convention générale sur la sécurité sociale entre la Belgique et la Turquie, est possible."
+      ],
+      "abstractNL": [
+        "Inzake werkloosheid kunnen de Europese interimovereenkomst betreffende sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden en het Algemeen Verdrag tussen België en Turkije betreffende de sociale zekerheid gelijktijdig worden toegepast."
+      ]
+    }
+  }
+}

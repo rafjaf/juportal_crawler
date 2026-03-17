@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19750307.11": {
+      "court": "CASS",
+      "date": "1975-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction d'exercer une contrainte sur la personne et de pénétrer dans le domaine de sa personnalité constitue un principe général de droit; cette interdiction signifie que, hormis les cas prévus par la loi, toute contrainte physique sur la personne, notamment en vue de la contraindre à accomplir un acte ou de la soumettre à un examen physique ou psychique, est interdite."
+      ],
+      "abstractNL": [
+        "Het verbod op iemand dwang uit te oefenen en zijn persoonlijkheid te doorgronden is een algemeen rechtsbeginsel; dit verbod houdt in dat, buiten de door de wet bepaalde gevallen, elke lichamelijke dwang op een persoon, o.m. om hem tot een daad te dwingen of zich aan een lichamelijk of een geestesonderzoek te onderwerpen verboden is."
+      ]
+    }
+  }
+}

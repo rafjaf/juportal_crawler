@@ -1,0 +1,50 @@
+{
+  "64": {
+    "ECLI:BE:CASS:1997:ARR.19971107.3": {
+      "court": "CASS",
+      "date": "1997-11-07",
+      "roleNumber": "C960276F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de l'action des prestataires de soins pour les prestations, biens et services médicaux qu'ils ont fournis, prévu par l'article 2277bis du Code civil inséré dans ce code par l'article 64 de la loi du 6 août 1993, prend cours au plus tôt lors de l'entrée en vigueur de cette loi, soit le 19 août 1993."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van de vordering van zorgenverstrekkers m.b.t. de door hen geleverde geneeskundige verstrekkingen, diensten en goederen, als bepaald bij art. 2277bis BW, ingevoegd in dat wetboek bij art. 64, W. 6 augustus 1993, begint ten vroegste te lopen met de inwerkingtreding van die wet, dus op 19 augustus 1993."
+      ]
+    }
+  },
+  "74": {
+    "ECLI:BE:CASS:2009:ARR.20091005.3": {
+      "court": "CASS",
+      "date": "2009-10-05",
+      "roleNumber": "S.07.0080.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux préparatoires qu'il y a lieu d'entendre par les missions exercées par l'Institut pour l'encouragement de la recherche scientifique dans l'industrie et l'agriculture (I.R.S.I.A.) comme \"mandataire\" d'une Communauté ou d'une Région: les missions statutaires, notamment l'octroi de subsides ou de bourses, dont l'Institut a poursuivi l'exercice postérieurement à la régionalisation des politiques scientifique et technologique concernant la recherche scientifique dans les matières relevant des compétences des Communautés ou des Régions et ce, grâce aux moyens financiers mis à sa disposition par les Communautés ou les Régions. Ainsi, par le mandat précité, le législateur entendait une délégation de compétence."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis blijkt dat met opdrachten die het Instituut tot Aanmoediging van het Wetenschappelijk Onderzoek in Nijverheid en Landbouw (IWONL) als \"lasthebber\" van een Gemeenschap of Gewest heeft uitgevoerd, worden bedoeld: de statutaire opdrachten, zoals het verlenen van toelagen of beurzen, die het Instituut na de regionalisering van het wetenschapsbeleid en het technologiebeleid verder heeft uitgevoerd met betrekking tot wetenschappelijk onderzoek in aangelegenheden die tot de bevoegdheid van de Gemeenschappen of Gewesten behoren, en dit met financiële middelen ter beschikking gesteld door de Gemeenschappen en Gewesten. Met lastgeving heeft de wetgever aldus een bevoegdheidsdelegatie bedoeld."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020226.29": {
+      "court": "CASS",
+      "date": "2002-02-26",
+      "roleNumber": "P011473N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 71.1 de la Convention du 19 juin 1990 d'application de l'Accord de Schengen du 14 juin 1985, la Convention des Nations Unies du 20 décembre 1988 contre le trafic illicite de stupéfiants et de substances psychotropes reste également totalement en vigueur dans les relations entre les Etats signataires de l'Accord de Schengen."
+      ],
+      "abstractNL": [
+        "Krachtens art. 71.1 van de Schengenuitvoeringsovereenkomst blijft het Sluikhandelverdrag van 20 december 1988 ook in relatie tussen de Schengenstaten geheel van kracht."
+      ]
+    }
+  }
+}

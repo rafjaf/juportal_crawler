@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900312.6": {
+      "court": "CASS",
+      "date": "1990-03-12",
+      "roleNumber": "6944",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/03/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit aux allocations de chômage ne peut être refusé en application de l'article 146, alinéa 1er, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, à une veuve qui bénéficie d'une pension de survie à charge du Trésor, par les motifs que l'article 42 de la loi du 5 août 1978 et l'arrêté royal n° 30 du 30 mars 1982 subordonnent le droit à cette pension à l'interdiction de travailler si ce n'est de manière réduite."
+      ],
+      "abstractNL": [
+        "Het recht op werkloosheidsuitkering kan met toepassing van art. 146, alinéa 1, Werkloosheidsbesluit niet worden ontzegd aan een weduwe die een overlevingspensioen ten laste van de Schatkist geniet, op grond dat art. 42 wet van 5 augustus 1978 en K.B. nr. 30 van 30 maart 1982 het recht op dat pensioen afhankelijk maken van de voorwaarde geen arbeid of maar in beperkte mate arbeid te verrichten."
+      ]
+    }
+  }
+}

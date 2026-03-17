@@ -1,0 +1,18 @@
+{
+  "4": {
+    "ECLI:BE:CASS:2012:ARR.20120504.4": {
+      "court": "CASS",
+      "date": "2012-05-04",
+      "roleNumber": "C.11.0680.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/05/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le vendeur d'un véhicule déjà immatriculé en Belgique ne satisfait à son obligation de délivrance du document qui comprend toutes les données concernant le kilométrage du véhicule concerné qu'en transmettant ledit document à l'acheteur qui, en cas de manquement, dispose d'une action en résolution."
+      ],
+      "abstractNL": [
+        "De verkoper van een reeds in België ingeschreven voertuig komt zijn verplichting om het document te overhandigen dat alle gegevens bevat betreffende de kilometerstand van het betrokken voertuig, slechts na als hij dat document afgeeft aan de koper die, wanneer dat niet gebeurt, een vordering tot ontbinding van de verkoop kan instellen."
+      ]
+    }
+  }
+}

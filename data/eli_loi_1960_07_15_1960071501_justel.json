@@ -1,0 +1,60 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1986:ARR.19861021.21": {
+      "court": "CASS",
+      "date": "1986-10-21",
+      "roleNumber": "652",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/21/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivée la décision qui condamne le tenancier ou l'exploitant d'une salle de danse ou d'un débit de boissons où, pendant qu'on y dansait, étaient présents des mineurs de moins de seize ans, non accompagnés de leur père, de leur mère, de leur tuteur ou de la personne à la garde de laquelle ils avaient été confiés, lorsqu'il n'est pas constaté que ces mineurs n'étaient pas mariés. ( Loi du 15 juillet 1960, art. 1 et 3. )"
+      ],
+      "abstractNL": [
+        "Niet regelmatig met redenen omkleed is de beslissing houdende veroordeling van de houder of de exploitant van een danszaal of een drankgelegenheid waarin, terwijl er gedanst word, minderjarigen beneden de zestien jaar aanwezig waren, welke niet vergezeld waren van hun vader, moeder, voogd of een persoon aan wiens bewaking ze waren toevertrouwd, wanneer niet wordt vastgesteld dat die minderjarigen ongehuwd waren. ( Artt. 1 en 3, wet van 15 juli 1960. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661219.1": {
+      "court": "CASS",
+      "date": "1966-12-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas régulièrement motivé l'arrêt qui, statuant sur l'appel interjeté par le ministère public d'un jugement qui avait condamné le prévenu pour quatre des infractions mises à sa charge et l'avait acquitté des autres infractions, le condamne pour toutes les infractions à un nombre de peines égal au nombre de celles-ci, en se bornant à constater, d'une part, que les faits mis à charge du prévenu, déclarés constants par le premier juge, sont demeurés établis et, d'autre part, que la loi exige qu'il soit prononcé une peine pour chacune des infractions commises."
+      ],
+      "abstractNL": [
+        "Is niet regelmatig gemotiveerd het arrest dat, rechtdoende op het hoger beroep, door het openbaar ministerie ingesteld tegen een vonnis dat de verdachte veroordeelt wegens vier van de te zijnen laste gelegde misdrijven en hem van de andere misdrijven vrijspreekt, hem veroordeelt wegens al de misdrijven tot een daaraan gelijk aantal straffen, door zich ertoe te beperken vast te stellen, enerzijds, dat de ten laste van de verdachte gelegde feiten, die door de eerste rechter bewezen werden verklaard, bewezen zijn gebleven en, anderzijds, dat de wet vereist dat voor ieder van de gepleegde misdrijven een straf uitgesproken wordt."
+      ]
+    },
+    "ECLI:BE:CASS:1964:ARR.19641005.1": {
+      "court": "CASS",
+      "date": "1964-10-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1964/10/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En disposant qu'en cas d'infraction à l'article 1er de la loi du 15 juillet 1960 sur la préservation morale de la jeunesse, le tenancier ou l'exploitant est puni des peines prévues par l'article 3 de ladite loi, pour chaque mineur \"trouvé\" dans les lieux ou l'établissement interdits, même s'il était absent au momen t où l'infraction est \"constaté\", le législateur n'a pas entendu décider qu'il n'y a infraction que dans le cas de flagrant délit; les termes \"mineur trouvé\" signifient \"mineur qui s'est trouvé\" et les termes \"au moment où l'infraction est constatée\" ont le sens de \"au moment où l'infraction, constatée même éventuellement plus tard, a été commise\"."
+      ],
+      "abstractNL": null
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:1967:ARR.19670503.1": {
+      "court": "CASS",
+      "date": "1967-05-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/03/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'écriteau, prescrit par l'article 8 de la loi du 15 juillet 1960, doit être affiché par tout tenancier ou exploitant d'un établissement où la danse est permise indépendamment du fait que des mineurs dansent ou non dans cet établissement ou y sont surpris en train de danser."
+      ],
+      "abstractNL": [
+        "Het bij artikel 8 van de wet van 15 juli 1960 voorgeschreven plakkaat moet uitgehangen worden door elke houder of exploitant van een inrichting waar het dansen toegelaten is, ongeacht of minderjarigen al dan niet in die inrichting dansen of er op heterdaad al dansende betrapt worden."
+      ]
+    }
+  }
+}

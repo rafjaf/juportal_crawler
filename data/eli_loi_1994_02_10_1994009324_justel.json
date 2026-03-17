@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990929.5": {
+      "court": "CASS",
+      "date": "1999-09-29",
+      "roleNumber": "P990374F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le refus par le tribunal correctionnel statuant en degré d'appel d'une suspension de la condamnation, demandée par le prévenu, doit être motivé."
+      ],
+      "abstractNL": [
+        "De weigering van de correctionele rechtbank, die in hoger beroep uitspraak doet, om de opschorting van de uitspraak toe te staan moet met redenen omkleed worden."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951206.4": {
+      "court": "CASS",
+      "date": "1995-12-06",
+      "roleNumber": "P950691F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La suspension du prononcé de la condamnation étant une mesure affectant celle-ci, l'illégalité qui entache la décision prise quant à la suspension entraîne l'annulation de la condamnation elle-même."
+      ],
+      "abstractNL": [
+        "Nu de opschorting van de uitspraak van de veroordeling de veroordeling zelf raakt, heeft de onwettigheid van de beslissing i.v.m. de opschorting de vernietiging van de veroordeling zelf tot gevolg."
+      ]
+    }
+  }
+}

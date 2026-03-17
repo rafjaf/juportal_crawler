@@ -1,0 +1,48 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1998:ARR.19980611.7": {
+      "court": "CASS",
+      "date": "1998-06-11",
+      "roleNumber": "C950114N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La désignation de zone de dunes protégée ou de zone agricole ayant une importance pour les dunes impliquant, dès la publication à la date du 17 septembre 1993 de l'arrêté du gouvernement flamand du 15 septembre 1993 relatif à la désignation des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes, une interdiction totale de bâtir, aucun bâtiment ne peut être érigé, même s'il a fait l'objet d'un permis de bâtir."
+      ],
+      "abstractNL": [
+        "De aanduiding als beschermd duingebied of als voor het duingebied belangrijk landbouwgebied houdt vanaf de publicatie op 17 september 1993 van het besluit van 15 september 1993 tot aanduiding van de beschermde gebieden een volledig bouwverbod in zodat geen gebouw mag worden opgericht, ook al werd hiertoe een bouwvergunning verleend."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951005.3": {
+      "court": "CASS",
+      "date": "1995-10-05",
+      "roleNumber": "C950073N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La désignation de zone de dunes protégée ou de zone agricole ayant une importance pour les dunes impliquant, dès la publication de l'arrêté du Gouvernement flamand du 15 septembre 1993 relatif à la désignation de ces zones protégées, une interdiction totale de bâtir, aucun bâtiment ne peut y être érigé même s'il a fait l'objet d'un permis de bâtir."
+      ],
+      "abstractNL": [
+        "De aanduiding als beschermd duingebied of als voor het duingebied belangrijk landbouwgebied houdt vanaf de publikatie van het besluit van 15 september 1993 tot aanduiding van de beschermde gebieden een volledig bouwverbod in zodat geen gebouw mag worden opgericht, ook al werd hiertoe een bouwvergunning verleend."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19951005.3": {
+      "court": "CASS",
+      "date": "1995-10-05",
+      "roleNumber": "C950073N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La désignation de zone de dunes protégée ou de zone agricole ayant une importance pour les dunes impliquant, dès la publication de l'arrêté du Gouvernement flamand du 15 septembre 1993 relatif à la désignation de ces zones protégées, une interdiction totale de bâtir, aucun bâtiment ne peut y être érigé même s'il a fait l'objet d'un permis de bâtir."
+      ],
+      "abstractNL": [
+        "De aanduiding als beschermd duingebied of als voor het duingebied belangrijk landbouwgebied houdt vanaf de publikatie van het besluit van 15 september 1993 tot aanduiding van de beschermde gebieden een volledig bouwverbod in zodat geen gebouw mag worden opgericht, ook al werd hiertoe een bouwvergunning verleend."
+      ]
+    }
+  }
+}

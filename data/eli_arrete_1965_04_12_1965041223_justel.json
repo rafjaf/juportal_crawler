@@ -1,0 +1,32 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2008:ARR.20080408.2": {
+      "court": "CASS",
+      "date": "2008-04-08",
+      "roleNumber": "P.07.0631.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/08/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le commettant qui, sous son autorité juridique, mandate des personnes pour fournir des prestations de travail est l'employeur des personnes concernées."
+      ],
+      "abstractNL": [
+        "De opdrachtgever die personen onder zijn juridisch gezag arbeidsprestaties laat verrichten is werkgever van de betrokken personen."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050517.3": {
+      "court": "CASS",
+      "date": "2005-05-17",
+      "roleNumber": "P041617N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/05/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le fait qu'un journaliste professionnel est en possession des documents et insignes d'identification, qui ont pour seul objet de faciliter l'identification des journalistes dans l'exercice de leur profession et de permettre aux autorités publiques de prêter aux représentants de la presse tout le concours compatible avec les circonstances, ne lui octroie pas l'immunité pénale pour la commission d'infractions à la législation en matière de roulage."
+      ],
+      "abstractNL": [
+        "Het feit dat een beroepsjournalist in het bezit is van identificatiedocumenten en -kentekens, die alleen dienen om de identificatie van de journalisten bij het uitoefenen van hun beroep te vergemakkelijken en om de openbare overheid in staat te stellen de vertegenwoordigers van de pers alle medewerking te verlenen die met de omstandigheden overeen te brengen is, verleent hem geen strafrechtelijke immuniteit voor het plegen van verkeersinbreuken."
+      ]
+    }
+  }
+}

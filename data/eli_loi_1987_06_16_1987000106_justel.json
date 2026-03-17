@@ -1,0 +1,32 @@
+{
+  "42": {
+    "ECLI:BE:CASS:1994:ARR.19940502.6": {
+      "court": "CASS",
+      "date": "1994-05-02",
+      "roleNumber": "M940003F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 16 juin 1987 modifiant les lois coordonnées sur la milice est, en ce qui concerne le sursis et la dispense, applicable la première fois aux miliciens de la levée de 1988. (Art. 42, al. 2, L. 16 juin 1987)."
+      ],
+      "abstractNL": [
+        "De wet van 16 juni 1987 houdende wijziging van de Dienstplichtwet is, wat het uitstel en de vrijlating van dienst betreft, voor de eerste keer van toepassing op de dienstplichtigen van de lichting 1988. (Art. 42, tweede lid, W. 16 juni 1987)"
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880509.2": {
+      "court": "CASS",
+      "date": "1988-05-09",
+      "roleNumber": "5599BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/05/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La loi du 16 juin 1987, modifiant les lois coordonnées sur la milice, n'a pas d'effet rétroactif, en ce qui concerne la dispense du service des miliciens de la levée 1988, mais est applicable aux opérations en cours pour la levée de 1988 (Loi du 16 juin 1987, article 42, alinéa 2)."
+      ],
+      "abstractNL": [
+        "De wet van 16 juni 1987, die de Dienstplichtwet wijzigt, heeft geen terugwerkende kracht ten aanzien van de vrijlating van de dienstplichtigen van de lichting 1988, maar vindt toepassing op de lopende verrichtingen voor die lichting. ( Art. 42, tweede lid, wet 16 juni 1987. )"
+      ]
+    }
+  }
+}

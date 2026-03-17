@@ -1,0 +1,34 @@
+{
+  "4": {
+    "ECLI:BE:CASS:2010:ARR.20100222.6": {
+      "court": "CASS",
+      "date": "2010-02-22",
+      "roleNumber": "S.08.0138.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/02/22/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Est un délai d'ordre le délai de 45 jours fixé par l'article 4, § 1er, de l'arrêté royal du 11 octobre 1985 portant exécution du chapitre VI de la loi du 1er août 1985 portant des mesures fiscales et autres, relatif à la protection des personnes créancières et débitrices de certains pouvoir publics et organismes d'intérêt public (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De termijn van 45 dagen die bepaald wordt in artikel 4, § 1, K.B. 11 oktober 1985, is een ordetermijn (1) (1) Zie concl O.M. in Pas., 2010, nr. ...."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:1992:ARR.19920430.4": {
+      "court": "CASS",
+      "date": "1992-04-30",
+      "roleNumber": "9221",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'article 5 de l'arrêté royal du 11 octobre 1985 concernant les eaux minérales naturelles et les eaux de source qui interdit de mettre dans le commerce des eaux minérales naturelles et des eaux de source ne répondant pas aux conditions prescrites, est dépourvu de force obligatoire dès lors que cet arrêté royal ne porte pas qu'il a fait l'objet d'une délibération en Conseil des ministres ainsi que l'exigeait l'article 20, § 1er, de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits."
+      ],
+      "abstractNL": [
+        "Art. 5 K.B. van 11 oktober 1985 betreffende natuurlijk mineraal water en bronwater krachtens hetwelk het verboden is natuurlijk mineraal water of bronwater in de handel te brengen dat niet aan de gestelde vereisten voldoet, heeft geen verbindende kracht, nu dat koninklijk besluit niet vermeldt dat het in Ministerraad werd overlegd als voorgeschreven bij art. 20, alinéa 1, wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de verbruikers op het stuk van de voedingsmiddelen en andere produkten."
+      ]
+    }
+  }
+}

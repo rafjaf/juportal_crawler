@@ -1,0 +1,18 @@
+{
+  "448bis": {
+    "ECLI:BE:CASS:2005:ARR.20050317.6": {
+      "court": "CASS",
+      "date": "2005-03-17",
+      "roleNumber": "C040398F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/03/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Même si elle a été entendue par le juge du paix, la personne majeure dont il est demandé qu'elle soit pourvue d'un administrateur provisoire n'est pas une partie à la cause et n'a donc pas qualité pour interjeter appel (1). (1) Cass., 24 avril 2003, RG C.00.0567.F - C.01.0004.F, n° 261."
+      ],
+      "abstractNL": [
+        "Wanneer ten aanzien van een meerderjarige de aanwijzing van een voorlopig bewindvoerder wordt gevorderd, is die meerderjarige geen partij in het geding en heeft hij dus geen hoedanigheid om hoger beroep in te stellen, zelfs als hij door de vrederechter is gehoord (1). (1) Cass., 24 april 2003, AR C.00.0567.F-C.01.0004.F, nr 261."
+      ]
+    }
+  }
+}

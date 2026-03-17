@@ -1,0 +1,50 @@
+{
+  "5": {
+    "ECLI:BE:CASS:1992:ARR.19921029.8": {
+      "court": "CASS",
+      "date": "1992-10-29",
+      "roleNumber": "9449",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/10/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un état des lieux a été fait entre le bailleur et le preneur, la présomption établie en faveur du preneur par l'article 1731 du Code civil, avant sa modification par l'article 5 de la loi du 29 décembre 1983, ne peut être invoquée par ce dernier que si l'état des lieux a été établi de telle manière qu'il doive être assimilé à l'absence d'un état des lieux. ( Code civil, art. 1730 et 1731, avant leur modification par la loi du 29 décembre 1983. )"
+      ],
+      "abstractNL": [
+        "Indien tussen verhuurder en huurder een plaatsbeschrijving is opgemaakt, kan het bij art. 1731 Burgerlijk Wetboek, voor zijn wijziging bij art. 5, Wet van 29 december 1983, ten voordele van de huurder ingestelde vermoeden, door laatstgenoemde alleen worden aangevoerd als de plaatsbeschrijving derwijze is opgemaakt dat zij met het ontbreken ervan moet worden gelijkgesteld. ( Art. 1730 en 1731, Burgerlijk Wetboek, voor hun wijziging bij Wet van 29 december 1983. )"
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1989:ARR.19890406.6": {
+      "court": "CASS",
+      "date": "1989-04-06",
+      "roleNumber": "6253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La prescription d'un an prévue par l'article 2273 du Code civil ne s'applique qu'à l'action du bailleur pour le paiement du montant résultant de l'adaptation du loyer au coût de la vie dans les conditions prévues à l'article 1728 bis du même code, elle n'a pas pour effet de priver le bailleur du droit de tenir compte des augmentations de loyer autorisées par les lois antérieures d'indexation, pour fixer, conformément à l'article 10 de la loi du 29 décembre 1983 relative aux contrats de louage de biens immeubles, le montant du loyer de base servant au calcul du loyer adapté."
+      ],
+      "abstractNL": [
+        "De éénjarige verjaring waarvan sprake is in art. 2273 Burgerlijk Wetboek, is enkel toepasselijk op de rechtsvordering van de verhuurder tot betaling van het bedrag dat volgt uit de aanpassing van de huurprijs aan de kosten van levensonderhoud, onder de voorwaarden van art. 1728bis van hetzelfde wetboek; zij doet geen afbreuk aan het recht van de verhuurder rekening te houden met de door de vroegere indexeringswetten toegelaten verhogingen van de huurprijs teneinde, overeenkomstig art. 10 wet van 29 december 1983 betreffende de huur van onroerende goederen, het bedrag vast te stellen van de basishuurprijs die bij de berekening van de aangepaste huurprijs in aanmerking wordt genomen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1989:ARR.19890406.6": {
+      "court": "CASS",
+      "date": "1989-04-06",
+      "roleNumber": "6253",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/04/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La prescription d'un an prévue par l'article 2273 du Code civil ne s'applique qu'à l'action du bailleur pour le paiement du montant résultant de l'adaptation du loyer au coût de la vie dans les conditions prévues à l'article 1728 bis du même code, elle n'a pas pour effet de priver le bailleur du droit de tenir compte des augmentations de loyer autorisées par les lois antérieures d'indexation, pour fixer, conformément à l'article 10 de la loi du 29 décembre 1983 relative aux contrats de louage de biens immeubles, le montant du loyer de base servant au calcul du loyer adapté."
+      ],
+      "abstractNL": [
+        "De éénjarige verjaring waarvan sprake is in art. 2273 Burgerlijk Wetboek, is enkel toepasselijk op de rechtsvordering van de verhuurder tot betaling van het bedrag dat volgt uit de aanpassing van de huurprijs aan de kosten van levensonderhoud, onder de voorwaarden van art. 1728bis van hetzelfde wetboek; zij doet geen afbreuk aan het recht van de verhuurder rekening te houden met de door de vroegere indexeringswetten toegelaten verhogingen van de huurprijs teneinde, overeenkomstig art. 10 wet van 29 december 1983 betreffende de huur van onroerende goederen, het bedrag vast te stellen van de basishuurprijs die bij de berekening van de aangepaste huurprijs in aanmerking wordt genomen."
+      ]
+    }
+  }
+}

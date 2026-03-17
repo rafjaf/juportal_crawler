@@ -1,0 +1,64 @@
+{
+  "3": {
+    "ECLI:BE:CASS:1975:ARR.19750416.8": {
+      "court": "CASS",
+      "date": "1975-04-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/04/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation a compétence pour vérifier si le juge a pu légalement déduire des faits qu'il constate l'existence du lien de subordination caractéristique du contrat d'emploi."
+      ],
+      "abstractNL": [
+        "Het Hof is bevoegd om na te gaan of de rechter uit de door hem vastgestelde feiten het bestaan heeft kunnen afleiden van de gezagsverhouding, waardoor de arbeidsovereenkomst voor bedienden wordt gekenmerkt."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:1996:ARR.19960916.6": {
+      "court": "CASS",
+      "date": "1996-09-16",
+      "roleNumber": "S950121F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/09/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si la réglementation relative à l'occupation de la main-d'oeuvre étrangère prévoit, aux conditions qu'elle détermine, la délivrance d'un permis de travail et la mise au travail à titre provisoire avant l'obtention d'un permis de travail, en revanche, elle ne prévoit pas la possibilité d'octroyer à un travailleur étranger ou apatride, un permis de travail à titre provisoire."
+      ],
+      "abstractNL": [
+        "De reglementering betreffende de tewerkstelling van werknemers van vreemde nationaliteit voorziet weliswaar, onder de voorwaarden die zij vaststelt, in de aflevering van een arbeidskaart en in de voorlopige tewerkstelling vóór het verkrijgen van een arbeidskaart; ze voorziet daarentegen niet in de mogelijkheid om aan een vreemde of staatloze werknemer een voorlopige arbeidskaart toe te kennen."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960617.10": {
+      "court": "CASS",
+      "date": "1996-06-17",
+      "roleNumber": "S950145N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le travailleur étranger, candidat réfugié politique, qui est en possession d'un permis de travail provisoire ne remplit pas les conditions prévues par l'article 43 de l'arrêté royal du 25 novembre 1991 pour être admis au bénéfice des allocations de chômage, s'il ne respecte pas la législation relative aux étrangers et celle relative à l'emploi des travailleurs étrangers."
+      ],
+      "abstractNL": [
+        "De vreemde arbeider, kandidaat-politiek vluchteling, in het bezit van een voorlopige toelating tot tewerkstelling voldoet niet aan de in art. 43 van het Werkloosheidsbesluit van 25 nov. 1991, om toegelaten te worden tot het recht op werkloosheidsuitkeringen, indien hij niet voldoet aan de wetgeving met betrekking op de vreemdelingen en op deze die betrekking heeft op de tewerkstelling van vreemde arbeidskrachten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19750416.8": {
+      "court": "CASS",
+      "date": "1975-04-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/04/16/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation a compétence pour vérifier si le juge a pu légalement déduire des faits qu'il constate l'existence du lien de subordination caractéristique du contrat d'emploi."
+      ],
+      "abstractNL": [
+        "Het Hof is bevoegd om na te gaan of de rechter uit de door hem vastgestelde feiten het bestaan heeft kunnen afleiden van de gezagsverhouding, waardoor de arbeidsovereenkomst voor bedienden wordt gekenmerkt."
+      ]
+    }
+  }
+}

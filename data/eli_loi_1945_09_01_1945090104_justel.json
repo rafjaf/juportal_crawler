@@ -35,6 +35,36 @@
         "De bepalingen die de inenting tegen poliomyelitis verplicht stellen, doen enigszins afbreuk aan de beginselen van onschendbaarheid en integriteit van het menselijk lichaam; ze worden alleen aangewend ter bescherming van de gezondheid en staan in verhouding tot hun doel.",
         "Het recht op eerbiediging van het privé-, familie- en gezinsleven, bepaald in artikel 8.1 van het Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, is geen absoluut recht; ook al dient artikel 8.2 in de enge zin te worden geïnterpreteerd, toch blijkt daaruit dat de overheid beperkingen kan stellen aan de uitoefening van dat recht, voor zover die inmenging bij wet is bepaald en een maatregel met zich meebrengt die in een democratische samenleving noodzakelijk is om met name de bescherming van de gezondheid te vrijwaren; het arrest dat vermeldt dat de verplichting tot inenting bij wet is ingesteld, dat ze op evenredige wijze aan een legitieme doelstelling van bescherming van de volksgezondheid beantwoordt en bijgevolg niet als een willekeurige inmenging in het privéleven van het kind kan worden beschouwd, schendt het in artikel 8 vastgelegde recht niet (1). (1) Zie Cass. 1 okt. 1997, op.cit."
       ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971001.3": {
+      "court": "CASS",
+      "date": "1997-10-01",
+      "roleNumber": "P970506F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/01/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 26 octobre 1966 rendant obligatoire la vaccination antipoliomyélitique a été pris en exécution de la loi sanitaire du 1er septembre 1945 après avis conforme du conseil supérieur d'hygiène publique."
+      ],
+      "abstractNL": [
+        "Het KB 26 okt. 1966 waarbij de inenting tegen poliomyelitis verplicht wordt gesteld, is genomen ter uitvoering van de Gezondheidswet van 1 sept. 1945 na eensluidend advies van de hoge gezondheidsraad."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19750307.11": {
+      "court": "CASS",
+      "date": "1975-03-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/03/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'interdiction d'exercer une contrainte sur la personne et de pénétrer dans le domaine de sa personnalité constitue un principe général de droit; cette interdiction signifie que, hormis les cas prévus par la loi, toute contrainte physique sur la personne, notamment en vue de la contraindre à accomplir un acte ou de la soumettre à un examen physique ou psychique, est interdite."
+      ],
+      "abstractNL": [
+        "Het verbod op iemand dwang uit te oefenen en zijn persoonlijkheid te doorgronden is een algemeen rechtsbeginsel; dit verbod houdt in dat, buiten de door de wet bepaalde gevallen, elke lichamelijke dwang op een persoon, o.m. om hem tot een daad te dwingen of zich aan een lichamelijk of een geestesonderzoek te onderwerpen verboden is."
+      ]
     }
   }
 }

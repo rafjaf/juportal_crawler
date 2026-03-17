@@ -1,0 +1,50 @@
+{
+  "23": {
+    "ECLI:BE:CASS:2011:ARR.20110120.2": {
+      "court": "CASS",
+      "date": "2011-01-20",
+      "roleNumber": "C.09.0230.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 23, §3, de l'arrêté royal du 6 décembre 1978 relatif à la lutte contre la brucellose bovine, qui dispose que, sans préjudice de l'application des dispositions pénales, l'ayant droit perd tout bénéfice de l'indemnité s'il enfreint les dispositions de l'arrêté ou s'il enfreint les instructions données pas l'inspecteur vétérinaire en exécution de l'arrêté n'est, sur le principe, pas incompatible avec l'article 1er du Premier protocole additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales."
+      ],
+      "abstractNL": [
+        "Artikel 23, §3, van het koninklijk besluit van 6 december 1978 betreffende de bestrijding van de runderbrucellose luidens hetwelk de rechthebbende, onverminderd de toepassing van strafbepalingen, elk recht op schadeloosstelling verliest indien hij de bepalingen van het besluit niet naleeft of de instructies gegeven door de inspecteur-dierenarts in uitvoering van het besluit niet nakomt, is in beginsel, niet onverenigbaar met artikel 1 van het Eerste Aanvullende Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden."
+      ]
+    }
+  },
+  "55": {
+    "ECLI:BE:CASS:1982:ARR.19820310.8": {
+      "court": "CASS",
+      "date": "1982-03-10",
+      "roleNumber": "1876",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/10/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie par légalement sa décision l'arrêt qui renvoie un prévenu des poursuites intentées à sa charge du chef d'infraction aux articles 54 et 55 de l'arrêté royal du 6 décembre 1978 relatif à la lutte contre la brucellose bovine pour avoir refusé d'observer les prescriptions de l'inspecteur vétérinaire relatives aux prises de sang sur les bovins de son cheptel, au motif que les dispositions des articles 31, 54 et 55 dudit arrêté royal sont inconciliables avec celles des articles 1er et 3 de la loi du 30 décembre 1882 sur la police sanitaire des animaux domestiques et les insectes nuisibles."
+      ],
+      "abstractNL": [
+        "Het arrest waarbij een beklaagde wordt ontslagen van rechtsvervolging wegens overtreding van de artt. 54 en 55 K.B. van 6 dec. 1978 betreffende de bestrijding van de runderbrucellose, door niet-naleving van de voorschriften van de inspecteur-dierenarts met betrekking tot het afnemen van bloed van de runderen van hun veestapel, is niet naar recht verantwoord op grond dat de bepalingen van de artt. 31, 54 en 55 van genoemd koninklijk besluit, onverenigbaar zijn met die van de artt. 1 en 3 wet van 30 dec. 1882 op de gezondheidspolitie der huisdieren en schadelijke insecten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820310.8": {
+      "court": "CASS",
+      "date": "1982-03-10",
+      "roleNumber": "1876",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/03/10/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie par légalement sa décision l'arrêt qui renvoie un prévenu des poursuites intentées à sa charge du chef d'infraction aux articles 54 et 55 de l'arrêté royal du 6 décembre 1978 relatif à la lutte contre la brucellose bovine pour avoir refusé d'observer les prescriptions de l'inspecteur vétérinaire relatives aux prises de sang sur les bovins de son cheptel, au motif que les dispositions des articles 31, 54 et 55 dudit arrêté royal sont inconciliables avec celles des articles 1er et 3 de la loi du 30 décembre 1882 sur la police sanitaire des animaux domestiques et les insectes nuisibles."
+      ],
+      "abstractNL": [
+        "Het arrest waarbij een beklaagde wordt ontslagen van rechtsvervolging wegens overtreding van de artt. 54 en 55 K.B. van 6 dec. 1978 betreffende de bestrijding van de runderbrucellose, door niet-naleving van de voorschriften van de inspecteur-dierenarts met betrekking tot het afnemen van bloed van de runderen van hun veestapel, is niet naar recht verantwoord op grond dat de bepalingen van de artt. 31, 54 en 55 van genoemd koninklijk besluit, onverenigbaar zijn met die van de artt. 1 en 3 wet van 30 dec. 1882 op de gezondheidspolitie der huisdieren en schadelijke insecten."
+      ]
+    }
+  }
+}

@@ -27,6 +27,64 @@
       "abstractNL": null
     }
   },
+  "13": {
+    "ECLI:BE:CASS:2005:ARR.20050606.9": {
+      "court": "CASS",
+      "date": "2005-06-06",
+      "roleNumber": "C030249F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/06/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Un élément qui, combiné à d'autres éléments, constitue une marque, peut disposer d'un pouvoir distinctif; le fait que cet élément distinctif n'ait pas été déposé ne prive pas son titulaire du droit exclusif à la marque (1). (1) Voir Cass., 9 février 2001, RG C.95.0148.N, n° 81; 22 décembre 2000, RG C.00.0135.N, n° 721."
+      ],
+      "abstractNL": [
+        "Een onderdeel dat, samen met andere onderdelen, een merk vormt, kan een onderscheidende kracht hebben; het feit dat dit onderscheidende onderdeel niet is gedeponeerd, ontneemt de merkhouder niet het uitsluitende recht op het merk (1). (1) Zie Cass., 9 feb. 2001, AR C.95.0148.N, nr 81; 22 dec. 2000, AR C.00.0135.N, nr 721."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010405.4": {
+      "court": "CASS",
+      "date": "2001-04-05",
+      "roleNumber": "C980563F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/04/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de son droit exclusif, le titulaire de la marque ne peut s'opposer à l'emploi d'un signe ressemblant à sa marque pour les produits pour lesquels la marque est enregistrée our pour les produits similaires que s'il existe, dans l'esprit du public, un risque de confusion qui comprend le risque d'association avec la marque antérieure (1)."
+      ],
+      "abstractNL": [
+        "De merkhouder kan zich op grond van zijn uitsluitend recht slechts verzetten tegen het gebruik van een met zijn merk overeenstemmend teken voor de waren waarvoor het merk is ingeschreven of voor soortgelijke waren indien daardoor bij het publiek verwarring kan ontstaan, inhoudende de mogelijkheid van associatiegevaar met het oudere merk (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010209.6": {
+      "court": "CASS",
+      "date": "2001-02-09",
+      "roleNumber": "C950148NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation d'une règle juridique commune à la Belgique, au Luxembourg et aux Pays-Bas, désignée comme telle en vertu de l'article 1er du Traité relatif à l'institution et au statut d'une Cour de justice Benelux, telle qu'une question concernant l'article 13, A, alinéa 1er, 1°, de la loi uniforme Benelux sur les marques, instaurée et approuvée par la loi du 30 juin 1969, est soulevée dans une affaire pendante devant la Cour de cassation, celle-ci doit, en règle, saisir la Cour de justice Benelux."
+      ],
+      "abstractNL": [
+        "Wanneer in een voor het Hof van Cassatie aanhangige zaak een vraag rijst om uitlegging van een voor België, Luxemburg en Nederland gemeenschappelijke rechtsregel die als dusdanig is aangewezen krachtens art. 1 Verdrag Benelux-Gerechtshof, zoals een vraag omtrent art. 13, A, eerste lid, 1°, Benelux-Merkenwet, moet het Hof in de regel de vraag voorleggen aan het Benelux-Gerechtshof."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930125.7": {
+      "court": "CASS",
+      "date": "1993-01-25",
+      "roleNumber": "9454",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/25/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation d'une règle juridique commune à la Belgique, au Luxembourg et aux Pays-Bas, désignée comme telle en vertu de l'article 1er du Traité relatif à l'institution et au statut d'une Cour de justice Benelux, telle une question sur l'étendue de la protection d'une marque visée par la loi uniforme, est soulevée dans une affaire pendante devant la Cour de cassation, celle-ci doit , en règle , saisir la Cour de justice Benelux. ( Traité relatif à l'institution et au statut d'une Cour de Benelux, signé à Bruxelles le 31 mars 1965 et approuvé par la Loi du 18 juillet 1969, art. 6; Loi uniforme Benelux sur les marques , art. 5, 4°, et 13 A. )"
+      ],
+      "abstractNL": [
+        "Wanneer een vraag om uitlegging van een voor België, Luxemburg en Nederland gemeenschappelijke rechtsregel, die als dusdanig is aangewezen krachtens art. 1 Verdrag Benelux-Gerechtshof, zoals een vraag omtrent de omvang van de bescherming van een merk bedoeld bij de Benelux Merkenwet, voor het Hof van Cassatie is gerezen, moet het Hof in de regel die vraag aan het Benelux-Gerechtshof voorleggen. (Art. 6, Verdrag Benelux-Gerechtshof; Art. 5, 4°, en 13A, Benelux-Merkenwet)."
+      ]
+    }
+  },
   "14": {
     "ECLI:BE:CASS:2001:ARR.20010327.11": {
       "court": "CASS",
@@ -126,6 +184,268 @@
       ],
       "abstractNL": [
         "Hoewel de wet van 1 april 1879 inzake de fabrieks- en handelsmerken aan de deposant van een merk, onder de daarin bepaalde voorwaarden, een alleenrecht op het gebruik van dat merk verleende, sloot zij niet uit dat klaarblijkelijke onbruik van dat merk tot verlies van het recht kon leiden."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20001222.3": {
+      "court": "CASS",
+      "date": "2000-12-22",
+      "roleNumber": "C000135NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Afin d'être protégé à titre de marque, un signe doit être susceptible de constituer une marque et être pourvu d'un caractère distinctif; à ces deux conditions, une couleur peut constituer une marque (1) (2)."
+      ],
+      "abstractNL": [
+        "Om als merk te worden beschermd moet een teken geschikt zijn om een merk te vormen en een onderscheidend vermogen hebben; een kleur kan onder die beide voorwaarden als merk fungeren (1) (2)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000414.7": {
+      "court": "CASS",
+      "date": "2000-04-14",
+      "roleNumber": "C980383F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/04/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La marque est un signe servant à distinguer les produits d'une entreprise, ce qui implique que le signe soit apte à être perçu et reconnu comme tel par le public (1)."
+      ],
+      "abstractNL": [
+        "Het merk is een teken dat dient om de producten van een onderneming te onderscheiden, wat impliceert dat het teken zich ertoe moet lenen om als zodanig door het publiek waargenomen en herkend te worden (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19981029.4": {
+      "court": "CASS",
+      "date": "1998-10-29",
+      "roleNumber": "C950148N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/29/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation d'une règle juridique commune à la Belgique, au Luxembourg et aux Pays-Bas, désignée comme telle en vertu de l'article 1er du Traité relatif à l'institution et au statut d'une Cour de justice Benelux, telle qu'une question concernant l'article 13, A, alinéa 1er, 1, de la loi uniforme Benelux sur les marques, instaurée et approuvée par la loi du 30 juin 1969, est soulevée dans une affaire pendante devant la Cour de cassation, celle-ci doit, en règle, saisir la Cour de justice Benelux."
+      ],
+      "abstractNL": [
+        "Wanneer in een voor het Hof van Cassatie aanhangige zaak een vraag rijst om uitlegging van een voor België, Luxemburg en Nederland gemeenschappelijke rechtsregel die als dusdanig is aangewezen krachtens art. 1 Verdrag Benelux-Gerechtshof, zoals een vraag omtrent art. 13, A, eerste lid, 1°, Benelux-Merkenwet, moet het Hof in de regel de vraag voorleggen aan het Benelux-Gerechtshof."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971128.3": {
+      "court": "CASS",
+      "date": "1997-11-28",
+      "roleNumber": "C960190F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le titulaire d'une marque peut s'opposer à tout emploi qui, dans la vie des affaires et sans juste motif, serait fait de la marque ou d'un signe ressemblant, dans des conditions susceptibles de causer un préjudice au titulaire de la marque, même si le préjudice ne s'est pas réalisé."
+      ],
+      "abstractNL": [
+        "De merkhouder kan zich verzetten tegen elk gebruik, dat zonder geldige reden in het economisch verkeer van het merk of van een overeenstemmend teken wordt gemaakt, in zodanige omstandigheden dat aan de merkhouder schade kan worden toegebracht, zelfs als de schade zich niet heeft voorgedaan."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971107.6": {
+      "court": "CASS",
+      "date": "1997-11-07",
+      "roleNumber": "C960408F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/07/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le caractère distinctif d'une marque constitue une valeur non pas constante mais variable, à laquelle il faut avoir égard sous deux rapports; il importe de déterminer, d'une part, si le signe est apte à permettre au public concerné de reconnaître le produit comme. provenant d'une entreprise déterminée, d'autre part, dans quelle mesure le signe remplit effectivement cette fonction auprès du public au moment à considérer."
+      ],
+      "abstractNL": [
+        "Het onderscheidend vermogen van een merk is geen constante grootheid, maar een veranderlijke, die in twee opzichten van belang is; er moet worden bepaald, enerzijds, of het teken zich ertoe leent het in aanmerking komende publiek in staat te stellen de waar als afkomstig uit een bepaalde onderneming te herkennen, anderzijds in welke mate op het relevante tijdstip het teken die functie daadwerkelijk bij het publiek vervult."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970529.5": {
+      "court": "CASS",
+      "date": "1997-05-29",
+      "roleNumber": "C960233F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/05/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut annuler le dépôt d'une marque pour le seul motif qu'elle n'est pas suffisamment distinctive."
+      ],
+      "abstractNL": [
+        "De rechter kan het depot van een merk vernietigen op de enige grond dat het geen voldoende onderscheidend kenmerk vertoont."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960530.4": {
+      "court": "CASS",
+      "date": "1996-05-30",
+      "roleNumber": "C940017N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/05/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La limite de l'étendue de la protection du droit exclusif à une marque doit à chaque fois être déterminée in concreto par le juge qui, appliquant le critère déterminé à cet égard par la Cour de justice Benelux, apprécie si le signe querellé doit ou non être considéré comme un signe ressemblant et peut, en conséquence, tenir compte de toutes les particularités pertinentes de l'espèce."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1995:ARR.19951030.1": {
+      "court": "CASS",
+      "date": "1995-10-30",
+      "roleNumber": "C929454F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il est nécessaire, pour savoir s'il y a atteinte à la marque, de déterminer l'étendue de la protection de la marque du demandeur en fonction du pouvoir distinctif de celle-ci, il faut toujours avoir égard à la conception du public concerné au moment où a commencé l'emploi de la marque ou du signe ressemblant, incriminé comme atteinte à la marque et lorsque, par application de ce critère, le juge constate l'atteinte à la marque, il est justifié en règle qu'il ordonne la cessation de l'emploi du signe constitutif d'atteinte; il peut cependant en être autrement si la marque du demandeur a perdu son pouvoir distinctif en tout ou en partie après le moment où a commencé l'emploi constitutif d'atteinte, mais uniquement dans les cas où cette perte est due en tout ou en partie au fait ou à la carence du titulaire de cette marque."
+      ],
+      "abstractNL": [
+        "Wanneer, in het kader van de vraag of er sprake is van merkinbreuk, de beschermingsomvang van het aanvallende merk moet worden bepaald aan de hand van zijn onderscheidend vermogen, valt daarvoor steeds te letten op de opvattingen van het in aanmerking komende publiek ten tijde waarop het inbreuk makend aangevallen gebruik van het merk of een overeenstemmend teken een aanvang nam, en wanneer, met inachtneming van de hierboven vermelde maatstaf, wordt geoordeeld dat sprake is van merkinbreuk, dan wettigt zulks in de regel een verbod van verder gebruik van het inbreukmakend teken; dit laatste kan echter anders zijn indien, nadat een aanvang is gemaakt met het inbreukmakend gebruik, het aanvallende merk zijn onderscheidend vermogen geheel of ten dele heeft verloren, doch uitsluitend in die gevallen waarin dit verlies geheel of ten dele valt toe te rekenen aan toedoen of nalaten van de houder van dat merk."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891222.11": {
+      "court": "CASS",
+      "date": "1989-12-22",
+      "roleNumber": "5332",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/22/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'article 13, c, alinéa 1er, de la loi uniforme Benelux sur les marques de produits n'est pas applicable à une marque verbale n'appartenant pas au vocabulaire d'une des langues nationales ou régionales du territoire Benelux et dont un des éléments constitutifs ne fait pas partie, de manière autonome, de ce vocabulaire."
+      ],
+      "abstractNL": [
+        "Art. 13, c, eerste lid, Benelux-Merkenwet vindt geen toepassing ter zake van een woordmerk dat niet tot de woordenschat van een der nationale of streektalen van het Benelux-gebied behoort en waarvan een van de samenstellende onderdelen niet als een zelfstandig woord van die woordenschat deel uitmaakt."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891208.9": {
+      "court": "CASS",
+      "date": "1989-12-08",
+      "roleNumber": "5553",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/12/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 13, A, 1° de la loi uniforme Benelux sur les marques de produits, il n'est pas requis que la marque ou le signe y ressemblant soient apposés sur le produit, sur l'emballage ou sur leurs étiquettes."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 13, A, 1° Benelux-Merkenwet is niet vereist dat het merk of het daarmee overeenstemmend teken op de waren, hun verpakking of etiketten wordt aangebracht."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880929.5": {
+      "court": "CASS",
+      "date": "1988-09-29",
+      "roleNumber": "7992",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il y a, au sens de l'article 13.A de la loi uniforme Benelux sur les marques de produits, ressemblance entre une marque et un signe, lorsque, compte tenu des particularités de l'espèce, notamment du pouvoir distinctif de la marque, celle-ci et le signe, considérés en soi et dans leurs rapports mutuels, présentent sur le plan auditif, visuel ou conceptuel, une similitude de nature à établir une association entre le signe et la marque."
+      ],
+      "abstractNL": [
+        "Er is, in de zin van art. 13.A Benelux-Merkenwet van 30 juni 1969, sprake van overeenstemming tussen een merk en een teken, wanneer, mede gezien de bijzonderheden van het gegeven geval, en met name de onderscheidende kracht van het merk, merk en teken, elk in zijn geheel en in onderling verband beschouwd, auditief, visueel of begripsmatig zodanige gelijkenis vertonen dat daardoor associaties tussen het teken en het merk worden gewekt."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880121.8": {
+      "court": "CASS",
+      "date": "1988-01-21",
+      "roleNumber": "7957",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/01/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Pour apprécier la ressemblance, au sens des articles 3, alinéa 2, 13, A, 1°, et 14, B, 1°, de la loi uniforme Benelux sur les marques, entre une marque et un signe, le juge doit les examiner globalement."
+      ],
+      "abstractNL": [
+        "Bij het onderzoek naar de overeenstemming, in de zin van de artt. 3, tweede lid, 13, A, 1°, en 14, B, 1° van de Benelux-Merkenwet, tussen een merk en een teken, moet de rechter die in hun geheel onderzoeken."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870911.8": {
+      "court": "CASS",
+      "date": "1987-09-11",
+      "roleNumber": "5332",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/09/11/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation d'une règle juridique commune à la Belgique, au Luxembourg et aux Pays-Bas, désignée comme telle ainsi que le précise l'art. 1er du Traité relatif à l'institution d'une Cour de justice Benelux, notamment celle relative à l'interprétation de l'art. 13, C, alinéa 1er, de la loi uniforme Benelux sur les marques, est soulevée devant la Cour de cassation, celle-ci doit, en règle, saisir la Cour de justice Benelux."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag betreffende de uitlegging van een voor België, Luxemburg en Nederland gemeenschappelijke rechtsregel, die als dusdanig is aangewezen overeenkomstig art. 1 Verdrag Benelux-Gerechtshof, met name een vraag om uitlegging van art. 13, C, eerste lid, Benelux-merkenwet, voor het Hof van Cassatie is opgeworpen, moet dat Hof, in de regel, de zaak aan het Benelux-Gerechtshof voorleggen."
+      ]
+    },
+    "ECLI:BE:CASS:1987:ARR.19870313.6": {
+      "court": "CASS",
+      "date": "1987-03-13",
+      "roleNumber": "5553",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/03/13/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation de l'article 13, A, 1°, de la loi uniforme Benelux sur les marques de produits est soulevée devant la Cour de cassation, en l'espèce la question si cette disposition s'applique à l'emploi d'une marque comme dénomination commerciale et non pour des produits, la Cour doit, en règle, saisir la Cour de justice Benelux."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag van uitlegging van art. 13, A, 1°, Benelux-Merkenwet voor het Hof van Cassatie wordt opgeworpen, met name de vraag of die bepaling toepasselijk is op het gebruik van een merk als handelsbenaming en niet voor waren, moet het Hof, in de regel, de zaak bij het Benelux-Gerechtshof aanhangig maken."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860307.9": {
+      "court": "CASS",
+      "date": "1986-03-07",
+      "roleNumber": "4836",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/07/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le critère qui permet d'apprécier si un signe doit être considéré comme marque individuelle, la Cour de cassation doit, en règle, soumettre la question d'interprétation à la Cour de justice Benelux, sauf si elle se rallie à la solution précédemment donnée par cette Cour à la même question ( Traité relatif à l'institution et au statut d'une Cour de justice Benelux, signé le 31 mars 1965 et approuvé par la loi du 18 juillet 1969, article 6, alinéa alinéa 3 et 4, in fine )."
+      ],
+      "abstractNL": [
+        "Om de maatstaf te bepalen waarnaar een teken als individueel merk kan worden beschouwd, dient het Hof van Cassatie in beginsel de vraag van uitleg aan het Benelux-Gerechtshof voor te leggen, tenzij het zich verenigt met het tevoren door dat Hof op dezelfde vraag in een andere zaak gegeven antwoord ( art. 6, alinéa alinéa 3 en 4, in fine, Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, ondertekend op 31 maart 1965 en goedgekeurd bij de wet van 18 juli 1969 )."
+      ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19841005.8": {
+      "court": "CASS",
+      "date": "1984-10-05",
+      "roleNumber": "4318",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, en matière civile, élever une contestation non contraire à l'ordre public, dont les conclusions des parties excluent l'existence. (Principe dispositif.)"
+      ],
+      "abstractNL": [
+        "In burgerlijke zaken mag de rechter geen met de openbare orde niet strijdige betwisting opwerpen waarvan de conclusies van de partijen het bestaan uitsluiten.(Beschikkingsbeginsel.)"
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830930.3": {
+      "court": "CASS",
+      "date": "1983-09-30",
+      "roleNumber": "3204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour apprécier la ressemblance au sens des articles 3, 13, A, et 14, B, de la loi uniforme Benelux sur les marques de produits, le juge doit observer la règle suivant laquelle il y a ressemblance entre une marque et un signe, lorsque compte tenu des particularités de l'espèce, notamment du caractère distinctif de la marque, la marque et le signe, considérés en eux-mêmes, et dans leurs rapports mutuels, présentent sur le plan auditif, visuel ou comme tels une similitude de nature à établir une association entre le signe et la marque; il ne suffit pas qu'une marque verbale qui, de l'avis du juge, est distinctive, soit combinée avec un mot, une figure ou un graphisme, pour qu'il n'y ait plus ressemblance entre les deux marques."
+      ],
+      "abstractNL": [
+        "Bij het onderzoek naar de overeenstemming, in de zin van de artt. 3, 13, A, en 14, B, van de Benelux-Merkenwet, moet de rechter de regel in acht nemen dat van overeenstemming tussen een merk en een teken sprake is wanneer _ mede gezien de bijzonderheden van het gegeven geval en met name de onderscheidende kracht van het merk _ merk en teken, elk in zijn geheel en in onderling verband beschouwd, auditief, visueel of begripsmatig zodanig gelijkenis vertonen dat reeds daardoor de mogelijkheid bestaat dat bij iemand die met het teken wordt geconfronteerd, associaties tussen het teken en het merk worden gewekt; het volstaat niet dat een woordmerk, dat naar het oordeel van de rechter onderscheidend is, gecombineerd wordt met een woord, een afbeelding of een grafiek, opdat er geen overeenstemming tussen beide merken meer zou bestaan."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820611.9": {
+      "court": "CASS",
+      "date": "1982-06-11",
+      "roleNumber": "3204",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/11/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une question relative à l'interprétation d'une règle juridique commune à la Belgique, au Luxembourg et aux Pays-Bas, désignée comme telle ainsi que le précise l'article 1er du Traité relatif à l'institution d'une Cour de justice Benelux, notamment celle relative à l'interprétation des articles 3, 13.A et 14.B de la loi uniforme Benelux sur les marques de produits, est soulevée devant la Cour de cassation, celle-ci doit, en règle, saisir la Cour de justice Benelux."
+      ],
+      "abstractNL": [
+        "Wanneer een vraag betreffende de uitlegging van een voor België, Luxemburg en Nederland gemeenschappelijke rechtsregel, die als dusdanig is aangewezen, zoals bepaald is in art. 1 Verdrag Benelux-Gerechtshof, met name een vraag om uitlegging van de artt. 3, 13.A, en 14.B, Warenmerkenwet, voor het Hof van Cassatie is opgeworpen, moet dat Hof, in de regel, de zaak aan het Benelux-Gerechtshof voorleggen."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931202.9": {
+      "court": "CASS",
+      "date": "1993-12-02",
+      "roleNumber": "C930254F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/12/02/sitemap_9.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Om de overeenstemming, in de zin van de artt. 3, 13, A en 14, B van de Eenvormige Benelux Merkenwet, te beoordelen, moet de rechter de regel in acht nemen volgens welke er van overeenstemming tussen een merk en een teken sprake is wanneer - mede gezien de bijzonderheden van het gegeven geval, en met name de onderscheidende kracht van het merk - merk en teken, elk in zijn geheel en in onderling verband beschouwd, aditief, visueel of begripsmatig zodanige gelijkenis vertonen dat associaties tussen een merk en een teken worden gewekt; bij de beoordeling van de overeenstemming tussen merk en teken, dient hij deze globaal, d.w.z. in hun geheel te onderzoeken."
       ]
     }
   }

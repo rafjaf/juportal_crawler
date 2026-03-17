@@ -30,5 +30,21 @@
         "Artikel 51 van het Koninklijk Besluit van 28 juni 1971, over de veiligheidsmaatregelen die moeten genomen worden door degenen die in de nabijheid van gasleidingen werken, doelt slechts op de gasdistributiediensten en gasdistributieïnstallaties zoals bepaald bij artikel 1 van dit Besluit, met uitzondering van de gasvervoerders."
       ]
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800618.7": {
+      "court": "CASS",
+      "date": "1980-06-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si le distributeur de gaz doit, pendant la durée de l'exploitation, établir et tenir à jour des plans conformes aux canalisations qu'il a établies, il n'a pas l'obligation de dresser et de conserver des plans conformes aux branchements. ( Arrêté royal du 28 juin 1971 déterminant les mesures de sécurité à prendre lors de l'établissement et dans l'exploitation des installations de distribution de gaz par canalisations, art. 1er, 5. et 8., et 42, d. )"
+      ],
+      "abstractNL": [
+        "Zo de gasverdeler tijdens de duur van de exploitatie de met de leidingen overeenkomende plans moet opmaken en bijhouden, behoeft hij evenwel geen plans op te maken en te bewaren van de dienstleidingen. (Artt. 1, 5o en 8o, en 42, d, K.B. van 28 juni 1971 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van installaties voor gasdistributie door middel van leidingen.)"
+      ]
+    }
   }
 }

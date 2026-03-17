@@ -1,0 +1,48 @@
+{
+  "3": {
+    "ECLI:BE:CASS:2012:ARR.20120330.3": {
+      "court": "CASS",
+      "date": "2012-03-30",
+      "roleNumber": "F.11.0011.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/03/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que la notion de lunapark, qui apparaît à l'article 3 de l'arrêté royal du 13 janvier 1975, n'est pas définie plus spécifiquement, elle doit s'entendre au sens usuel."
+      ],
+      "abstractNL": [
+        "Aangezien het begrip lunapark in artikel 3 van het koninklijk besluit van 13 januari 1975 niet nader omschreven is, moet het in de gewone betekenis van het woord worden opgevat."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19901218.12": {
+      "court": "CASS",
+      "date": "1990-12-18",
+      "roleNumber": "4032",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/12/18/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les billards électriques à mise variable, généralement dénommés \"Bingo\", ne peuvent être exploités que lorsque, notamment, l'enjeu se limite à cinq francs le jeu. ( A.R. du 13 janvier 1975, art. 2, a. )"
+      ],
+      "abstractNL": [
+        "De elektrische biljart met veranderlijke inzet, gewoonlijk genaamd \"Bingo\", mag slechts worden geëxploiteerd wanneer, ondermeer, de inzet beperkt is tot vijf frank per spel. ( K.B. 13 januari 1975, art. 2, a. )"
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890124.8": {
+      "court": "CASS",
+      "date": "1989-01-24",
+      "roleNumber": "2529",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/01/24/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision qui condamne le prévenu pour exploitation de jeux de hasard, lorsqu'il s'agit d'appareils de jeux qui peuvent être autorisés et dont il appartient au Roi d'arrêter la liste et lorsque la décision ne constate pas que les appareils ne satisfont pas aux prescriptions de l'article 2 de l'arrêté royal du 13 janvier 1975. ( Loi du 24 octobre 1902 concernant le jeu, art. 1er, alinéa 5, interprété par la loi du 14 août 1978. )"
+      ],
+      "abstractNL": [
+        "Onwettig is de beslissing waarbij de beklaagde veroordeeld wordt wegens exploitatie van kansspelen, wanneer het gaat om speelapparaten waarvan de exploitatie toegestaan kan zijn en waarvan de lijst door de Koning wordt vastgesteld, en wanneer de beslissing niet vaststelt dat de apparaten niet voldoen aan het bepaalde in art. 2 K.B. 13 januari 1975. ( Art. 1, vijfde lid, wet 24 oktober 1902 op het spel, uitgelegd door de wet 14 augustus 1978. )"
+      ]
+    }
+  }
+}

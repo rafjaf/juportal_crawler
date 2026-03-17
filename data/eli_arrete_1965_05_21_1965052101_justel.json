@@ -1,0 +1,50 @@
+{
+  "24": {
+    "ECLI:BE:CASS:1977:ARR.19770512.7": {
+      "court": "CASS",
+      "date": "1977-05-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/05/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Si la correspondance échangée entre un avocat et un détenu concernant la défense de celui-ci n'est point soumise au contrôle du directeur de la prison, ce dernier, en cas de doute justifié sur la qualité d'avocat de l'expéditeur ou sur le contenu d'une lettre adressée à un détenu, sans qu'il existe d'indices d'infraction pénale, a le pouvoir de transmettre cette lettre au bâtonnier de l'Ordre des avocats aux fins de vérification. (Constit., art. 22; Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 et approuvée par la loi du 13 mai 1955, article 8; arr. roy. du 21 mai 1965 portant réglement général des établissements pénitentiaires, art. 18, 20, 22 et 24, par. 2 et 3.)"
+      ],
+      "abstractNL": [
+        "Hoewel de briefwisseling tussen een advocaat en een gedetineerde betrekkelijk diens verdediging niet onderworpen is aan het toezicht van de directeur van de gevangenis kan deze, zo er gewettigde twijfel bestaat over de hoedanigheid van advocaat van de afzender of over de inhoud van een brief aan een gedetineerde, zonder dat er aanwijzingen zijn voor een strafrechtelijk misdrijf, deze brief aan de stafhouder van de Orde van Advocaten overzenden voor onderzoek. ( Art. 22 Grondwet; art. 8 Verdrag tot Bescherming van de Rechten van de Mens en de fundamentele Vrijheden, ondertekend te Rome op 4 november 1950 en goedgekeurd bij de wet van 13 mei 1955; artt. 18, 20, 22 en 24, par. 2 en 3, K.B. van 21 mei 1965 houdende algemeen reglement van de strafinrichtingen. )"
+      ]
+    }
+  },
+  "107": {
+    "ECLI:BE:CASS:1996:ARR.19961121.24": {
+      "court": "CASS",
+      "date": "1996-11-21",
+      "roleNumber": "C950313F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'usage d'instruments de contrainte, tels que des menottes ou entraves, n'est pas une mesure de sécurité normale à l'égard d'un détenu hospitalisé, mais une mesure exceptionnelle qui ne peut être utilisée que dans les conditions strictes énumérées à l'article 107 de l'arrêté royal du 21 mai 1965 portant règlement général des établissements pénitentiaires."
+      ],
+      "abstractNL": [
+        "Het gebruik van dwangtuigen, zoals handboeien of voetkluisters, is geen normale veiligheidsmaatregel t.a.v. een gehospitaliseerde gedetineerde, maar een uitzonderingsmaatregel die slechts onder de strikte, in art. 107, KB houdende algemeen reglement van de strafinrichtingen, opgesomde voorwaarden kan worden toegepast."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1996:ARR.19961121.24": {
+      "court": "CASS",
+      "date": "1996-11-21",
+      "roleNumber": "C950313F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/11/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'usage d'instruments de contrainte, tels que des menottes ou entraves, n'est pas une mesure de sécurité normale à l'égard d'un détenu hospitalisé, mais une mesure exceptionnelle qui ne peut être utilisée que dans les conditions strictes énumérées à l'article 107 de l'arrêté royal du 21 mai 1965 portant règlement général des établissements pénitentiaires."
+      ],
+      "abstractNL": [
+        "Het gebruik van dwangtuigen, zoals handboeien of voetkluisters, is geen normale veiligheidsmaatregel t.a.v. een gehospitaliseerde gedetineerde, maar een uitzonderingsmaatregel die slechts onder de strikte, in art. 107, KB houdende algemeen reglement van de strafinrichtingen, opgesomde voorwaarden kan worden toegepast."
+      ]
+    }
+  }
+}

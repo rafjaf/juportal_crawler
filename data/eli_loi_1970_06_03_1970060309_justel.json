@@ -467,6 +467,48 @@
       "abstractNL": [
         "Wanneer een door een beroepsziekte getroffen werknemer na een arbeidsongeval niet gewerkt heeft gedurende een deel van het refertejaar, d.w.z. van het jaar voor de dag waarop de arbeidsongeschiktheid ten gevolge van deze ziekte is begonnen, moet de vergoeding waarop hij kan aanspraak maken berekend worden op basis van het werkelijke loon van dit jaar, vermeerderd met een op basis van dit loon berekend hypothetisch loon en niet op basis van het bedrag dat hij werkelijk had kunnen verdienen gedurende deze periode en dat overeenstemt met het basisloon van het jaar voor het refertejaar (1). (Art. 49, eerste lid, gecoörd. wetten betreffende schadeloosstelling voor beroepsziekten, van 3 juni 1970.)"
       ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980202.6": {
+      "court": "CASS",
+      "date": "1998-02-02",
+      "roleNumber": "S970109N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/02/02/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dans la réglementation de la législation relative aux maladies professionnelles, il n'est pas requis, relativement au lien de causalité direct et déterminant entre le risque professionnel et la maladie, que l'exercice de la profession constitue la cause exclusive de la maladie; la prédisposition n'est pas exclue et la charge de la preuve relative à l'importance de l'influence de la prédisposition n'est pas davantage imposée au bénéficiaire."
+      ],
+      "abstractNL": [
+        "In de regeling van de wetgeving op de beroepsziekte wordt met betrekking tot het rechtstreeks en determinerend causaliteitsverband tussen het professioneel risico en de ziekte niet vereist dat de uitoefening van het beroep de uitsluitende oorzaak van de ziekte moet zijn; de voorbeschiktheid wordt niet uitgesloten noch wordt aan de gerechtigde de bewijslast opgelegd aangaande de hoegrootheid van de invloed van de voorbeschiktheid."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950424.4": {
+      "court": "CASS",
+      "date": "1995-04-24",
+      "roleNumber": "S940119F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/04/24/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La législation concernant la réparation des dommages résultant des maladies professionnelles est applicable aux travailleurs assujettis à la législation concernant la sécurité sociale des travailleurs salariés; en règle, elle n'est pas applicable aux travailleurs occupés dans les pays désignés par le Roi en exécution de l'article 12 de la loi relative à la sécurité sociale d'outre-mer."
+      ],
+      "abstractNL": [
+        "De wetgeving betreffende de schadeloosstelling voor beroepsziekten is van toepassing op de werknemers die onderworpen zijn aan de wetgeving betreffende de sociale zekerheid der werknemers; zij is, in de regel, niet toepasselijk op de werknemers die zijn tewerkgesteld in de landen door de Koning aangewezen, ter uitvoering van artikel 12 van de wet betreffende de overzeese sociale zekerheid."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950124.10": {
+      "court": "CASS",
+      "date": "1995-01-24",
+      "roleNumber": "P930724N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La victime d'une maladie professionnelle ou ses ayants droit ne peuvent réclamer de réparation, à l'employeur, ses ouvriers ou préposés hormis pour le dommage causé aux biens, que si l'employeur, ses ouvriers ou préposés ont intentionnellement causé la maladie."
+      ],
+      "abstractNL": [
+        "De getroffene van een beroepsziekte of diens rechthebbenden kunnen van de werkgever of van diens werklieden of aangestelden, geen schadevergoeding vorderen, op de schade aan goederen na, tenzij de werkgever, diens werklieden of aangestelden de beroepsziekte opzettelijk hebben veroorzaakt."
+      ]
     }
   },
   "48quater": {

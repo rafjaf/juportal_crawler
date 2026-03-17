@@ -1,4 +1,48 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2011:ARR.20110105.2": {
+      "court": "CASS",
+      "date": "2011-01-05",
+      "roleNumber": "P.10.1322.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/01/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "S'il est exact que l'anormalité du prix peut se déduire, entre autres, de l'anormalité du bénéfice réalisé par la vente du produit ou la réalisation de la prestation, il ne s'en déduit pas que la pratique des prix anormaux visée par la loi ne doive s'entendre que des prix dont l'agent économique a obtenu le paiement."
+      ],
+      "abstractNL": [
+        "Uit het feit dat een abnormale prijs onder meer kan blijken uit de abnormale winst die met de verkoop van het product of door de uitvoering van de prestatie wordt geboekt, volgt nog niet dat onder de bij de wet bedoelde verkoop tegen abnormale prijzen alleen prijzen moeten worden verstaan die aan het economisch subject werden uitbetaald."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011206.4": {
+      "court": "CASS",
+      "date": "2001-12-06",
+      "roleNumber": "C990119N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En règle, les dispositions de la loi du 22 janvier 1945 sur la réglementation économique et les prix intéressent l'ordre public (1). (2)."
+      ],
+      "abstractNL": [
+        "De bepalingen van de wet van 22 januari 1945 betreffende de economische reglementering en de prijzen raken in beginsel de openbare orde (1). (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971125.9": {
+      "court": "CASS",
+      "date": "1997-11-25",
+      "roleNumber": "P961187N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/25/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La disposition suivant laquelle, à défaut de conclusion d'un contrat-programme ou de fixation d'un prix maximum, il est interdit de pratiquer des prix supérieurs aux prix normaux, s'applique aux agents économiques et leur permet de déterminer si un prix est illicite parce qu'entraînant la réalisation d'un bénéfice anormal."
+      ],
+      "abstractNL": [
+        "De bepaling dat het, bij ontstentenis van een programma-overeenkomst of van stelling van een maximumprijs, verboden is te verkopen aan prijzen die hoger zijn dan normale prijzen, richt zich tot de economische operatoren en laat hen toe te weten wanneer een prijs ongeoorloofd is omdat hij een abnormale winst oplevert."
+      ]
+    }
+  },
   "6": {
     "ECLI:BE:CASS:2024:ARR.20240109.2N.13": {
       "court": "CASS",
@@ -28,6 +72,38 @@
       "abstractFR": null,
       "abstractNL": [
         "Artikel 252, eerste lid, van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst gestructureerd op twee niveaus, bepaalt dat de opdrachten en bevoegdheden die de wetten en reglementaire besluiten toekennen aan de gemeentepolitie of aan haar personeelsleden worden uitgeoefend door de lokale politie of haar personeelsleden; derhalve kunnen de lokale politie en haar personeelsleden de opdrachten en bevoegdheden uitoefenen die de Wet Economische Reglementering toekent aan de gemeentepolitie."
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:1976:ARR.19761012.12": {
+      "court": "CASS",
+      "date": "1976-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/10/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à l'arrêté royal du 8 novembre 1973 limitant la vitesse des véhicules automoteurs sur la voie publique sont punies des peines prévues à l'article 9 de la loi du 22 janvier 1945 sur la réglementation économique et les prix. ( Loi du 12 mars 1957, art.16, 1°, al. 2; arrêté royal du 8 novembre 1973, art. 5. )"
+      ],
+      "abstractNL": [
+        "Inbreuken op het koninklijk besluit van 8 november 1973 tot beperking van de snelheid van de voertuigen met eigen beweegkracht op de openbare weg worden gestraft met de straffen bepaald in artikel 9 van de wet van 22 januari 1945 betreffende de economische reglementering en de prijzen. ( Art. 16, 1°, lid 2, wet van 12 maart 1957; art. 5 K.B. van 8 november 1973. )"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660916.3": {
+      "court": "CASS",
+      "date": "1966-09-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté du Régent du 19 juillet 1947 trouve son fondement légal dans l'article 3 de l'arrêté-loi du 22 janvier 1945, concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays, dans l'article 1er de l'arrêté-loi du 14 mai 1946, renforçant le contrôle des prix, et dans l'article 1er, alinéa 2, de l'arrêté-loi du 29 juin 1946, concernant l'intervention injustifiée d'intermédiaires dans la distribution des produits et matières et modifiant l'arrêté-loi du 22 janvier 1945."
+      ],
+      "abstractNL": [
+        "Het besluit van de Regent van 19 juli 1947 vindt zijn wettelijke grondslag in de artikelen 3 van de besluitwet van 22 januari 1945 betreffende het beteugelen van elke inbreuk op de reglementering betreffende de bevoorrading van het land, 1 van de besluitwet van 14 mei 1946 houdende verscherping van de controle der prijzen, en 1, tweede lid, van de besluitwet van 29 juni 1946 betreffende het niet verantwoord optreden van tussenpersonen in de verdeling van producten en grondstoffen dat de besluitwet van 22 januari 1945 wijzigt."
       ]
     }
   }

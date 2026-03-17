@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19850523.12": {
+      "court": "CASS",
+      "date": "1985-05-23",
+      "roleNumber": "7197",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/05/23/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt par lequel le Conseil d'Etat déclare illégale une décision de l'autorité administrative retirant une licence de pilote d'avion entraîne rétroactivement l'annulation de la décision; il s'ensuit que le titulaire de la licence doit être replacé dans la situation où il se trouvait au moment de ladite décision."
+      ],
+      "abstractNL": [
+        "Het arrest van de Raad van State houdende onwettigverklaring van een beslissing waarbij de administratieve overheid een vergunning van een vliegtuigbestuurder intrekt, brengt mede dat de beslissing met terugwerkende kracht nietig wordt verklaard, waaruit volgt dat de houder van de vergunning opnieuw in de toestand moet worden geplaatst waarin hij ten tijde van die beslissing verkeerde."
+      ]
+    }
+  }
+}

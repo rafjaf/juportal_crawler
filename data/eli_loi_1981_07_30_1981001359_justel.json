@@ -1,4 +1,34 @@
 {
+  "1": {
+    "ECLI:BE:CASS:2000:ARR.20000628.19": {
+      "court": "CASS",
+      "date": "2000-06-28",
+      "roleNumber": "P000243FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/28/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "De la seule énonciation que l'aspect physique du prévenu correspond à l'information donnée par le témoin non identifié qui a précisé que les auteurs étaient d'origine maghrébine, il ne peut se déduire que l'arrêt qui condamne le prévenu aurait violé l'article 1er de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie (1)."
+      ],
+      "abstractNL": [
+        "Uit de vermelding alleen dat het uiterlijk van de beklaagde overeenkomt met de informatie verstrekt door een niet geïdentificeerde getuige, die erop gewezen heeft dat de daders Maghrebijnen waren, kan niet worden afgeleid dat het arrest dat de beklaagde veroordeelt, art. 1 Racismewet schendt (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930519.13": {
+      "court": "CASS",
+      "date": "1993-05-19",
+      "roleNumber": "P930110F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour que soit punissable l'incitation à la discrimination, à la ségrégation, à la haine ou à la violence, n'est pas requise la volonté manifeste d'amener un public ou tel individu à commettre des actes concrets, déterminés ou déterminables (L. 30 juillet 1981, art. 1er, 2°)."
+      ],
+      "abstractNL": [
+        "Voor de strafbaarheid van de aanzetting tot discriminatie, rassenscheiding, haat of geweld is niet de openlijke wil vereist om een publiek of individu aan te zetten tot concrete, bepaalde of bepaalbare daden (Art. 1, 2°, W. 30 juli 1981)."
+      ]
+    }
+  },
   "4": {
     "ECLI:BE:CASS:2023:ARR.20231004.2F.3": {
       "court": "CASS",
@@ -14,6 +44,20 @@
         "En énonçant qu'en assurant une publicité, sans la moindre nuance, à un discours haineux et violent à l'égard du peuple juif, le prévenu a adopté intentionnellement et en pleine connaissance de cause un comportement qui incite à la haine, alors qu'il était en mesure, notamment par sa formation et sa parfaite maîtrise de l'arabe, de percevoir toutes les nuances des propos incriminés, l'arrêt attaqué répond à la contestation du prévenu soutenant l'absence de tout élément intentionnel, sans confondre l'intention de rendre la vidéo publique et le caractère intentionnel de l'infraction d'incitation à la haine."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1996:ARR.19960123.7": {
+      "court": "CASS",
+      "date": "1996-01-23",
+      "roleNumber": "P960090N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ne commet pas de discrimination, au sens de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, le juge qui constate en fait que notamment l'élément objectif de la nationalité du prévenu constitue une raison sérieuse de craindre qu'il se soustraie à l'intervention de la justice."
+      ],
+      "abstractNL": [
+        "Geen discriminatie, in de zin van de Racismewet 30 juli 1981, bedrijft de rechter die in feite vaststelt dat, onder meer, het objectief gegeven van de nationaliteit van de beklaagde mede een ernstige reden is om te vrezen dat hij zich aan het optreden van het gerecht zal onttrekken."
+      ]
     }
   },
   "20": {
@@ -77,6 +121,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Het versturen van een bericht binnen een afgeschermde of slechts beperkte toegankelijke groep van een communicatie of socialemediaplatform aan de leden van de groep, moet worden beschouwd als het versturen van een geschrift in de zin van artikel 444, laatste lid, Strafwetboek; het betreft dan immers een geschrift dat weliswaar niet openbaar is gemaakt, maar toch aan verschillende personen wordt toegestuurd of medegedeeld."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1993:ARR.19930519.13": {
+      "court": "CASS",
+      "date": "1993-05-19",
+      "roleNumber": "P930110F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/05/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Pour que soit punissable l'incitation à la discrimination, à la ségrégation, à la haine ou à la violence, n'est pas requise la volonté manifeste d'amener un public ou tel individu à commettre des actes concrets, déterminés ou déterminables (L. 30 juillet 1981, art. 1er, 2°)."
+      ],
+      "abstractNL": [
+        "Voor de strafbaarheid van de aanzetting tot discriminatie, rassenscheiding, haat of geweld is niet de openlijke wil vereist om een publiek of individu aan te zetten tot concrete, bepaalde of bepaalbare daden (Art. 1, 2°, W. 30 juli 1981)."
       ]
     }
   }

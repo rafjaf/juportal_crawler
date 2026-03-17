@@ -1,0 +1,32 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1965:ARR.19650202.1": {
+      "court": "CASS",
+      "date": "1965-02-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/02/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'article 2 de l'arrêté ministériel du 23 décembre 1950 déterminant les mesures de contrôle, en ce qui concerne la réduction de la taxe de circulation accordée pour certains véhicules utilisés pour les transports internationaux, oblige les personnes, ayant droit à la réduction, à tenir pour chaque véhicule un carnet de contrôle, dans lequel doivent être inscrits, au jour le jour, à chaque usage en Belgique, l'indication exacte du véhicule, la date du voyage, en toutes lettres, le but du voyage et le lieu de destination."
+      ],
+      "abstractNL": null
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1968:ARR.19680507.1": {
+      "court": "CASS",
+      "date": "1968-05-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'absence du carnet de contrôle, prescrit par l'article 2 de l'arrêté ministériel du 23 décembre 1950, ou la tenue irrégulière de ce carnet exposent l'intéressé non seulement aux sanctions pénales, prévues par l'article 6 dudit arrêté ministériel, mais le privent aussi du droit à la réduction prévue par l'article 12 des lois coordonnées relatives à la taxe de circulation sur les véhicules automobiles, à défaut de preuve légale du nombre de jours pendant lesquels les véhicules ont été utilisés en Belgique."
+      ],
+      "abstractNL": [
+        "Het ontbreken van het controleboekje, voorgeschreven bij artikel 2 van het ministerieel besluit van 23 december 1950, of het onregelmatig bijhouden ervan stelt de betrokkene niet alleen bloot aan de strafrechtelijke sancties bepaald bij artikel 6 van bedoeld ministerieel besluit, maar berooft hem tevens van het recht op de vermindering, vastgesteld bij artikel 12 van de gecoördineerde wetten betreffende de verkeersbelasting op de autovoertuigen, bij gebrek aan een wettelijk bewijs van het aantal dagen gedurende welke de voertuigen in België werden gebruikt."
+      ]
+    }
+  }
+}

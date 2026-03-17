@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1996:ARR.19960617.9": {
+      "court": "CASS",
+      "date": "1996-06-17",
+      "roleNumber": "S950105N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/06/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Une entreprise relevant du secteur d'activité concernant les parfums, les extraits d'eau de toilette, les produits cosmétiques, d'hygiène et de toilette ressortit à la compétence de la CP n° 207, dès qu'une ou plusieurs des activités énumérées à l'article 1er, alinéa 1er, 2, de l'arrêté royal du 5 juillet 1978 constitue l'activité principale de l'entreprise."
+      ],
+      "abstractNL": [
+        "Een onderneming van de bedrijfssector in verband met reukwerk, extracten van toiletwater, kosmetische producten, hygiëne en toiletproducten behoort tot de bevoegdheid van het PC nr 207, zodra één of meerdere van de in artikel 1, § 2, 2, K.B. 5 juli 1978 opgesomde activiteiten de hoofdactiviteit van de onderneming uitmaakt."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2001:ARR.20010924.5": {
+      "court": "CASS",
+      "date": "2001-09-24",
+      "roleNumber": "S000053F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/09/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est légal l'arrêt qui décide que n'est pas du ressort de la commission paritaire de l'industrie chimique ni de celui de la commission paritaire pour employés de l'industrie chimique, l'entreprise qui assure le façonnage de produits synthétiques lorsque celui-ci nécessite des techniques ou une connaissance d'un métier propres à d'autres branches d'activité, et qui, partant, sur la base d'une appréciation qui gît en fait, décide que n'est pas du ressort des commissions paritaires précitées l'entreprise dont l'activité consiste à découper et à souder des gaines de matières plastiques pour en faire des sacs d'emballage lorsque le découpage et la thermosoudure relèvent de la connaissance manuelle de métiers qui, quand bien même ceux-ci seraient extrêmement simples et répandus, sont propres à d'autres branches d'activité que celle de l'industrie chimique (1)."
+      ],
+      "abstractNL": [
+        "Wettig is het arrest dat beslist dat de onderneming die zorgt voor de bewerking van synthetische producten niet ressorteert onder het paritair comité voor de werklieden van de scheikundige nijverheid en evenmin onder het paritair comité voor de bedienden van de scheikundige nijverheid, wanneer voor de bewerking van die producten een aan een andere bedrijfstak eigen techniek of vakkundigheid noodzakelijk is, en dat derhalve, op grond van een feitelijke beoordeling, beslist dat de onderneming die zorgt voor het snijden en lassen van plastic kokers om er verpakkingszakken van te maken niet onder de bovenvermelde paritaire comités ressorteert wanneer het snijden en lassen vakkundige kennis vereisen van procédés, die, ook al zijn ze uiterst eenvoudig en verspreid, eigen zijn aan andere bedrijfstakken dan die van de scheikundige nijverheid (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010924.5": {
+      "court": "CASS",
+      "date": "2001-09-24",
+      "roleNumber": "S000053F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/09/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Est légal l'arrêt qui décide que n'est pas du ressort de la commission paritaire de l'industrie chimique ni de celui de la commission paritaire pour employés de l'industrie chimique, l'entreprise qui assure le façonnage de produits synthétiques lorsque celui-ci nécessite des techniques ou une connaissance d'un métier propres à d'autres branches d'activité, et qui, partant, sur la base d'une appréciation qui gît en fait, décide que n'est pas du ressort des commissions paritaires précitées l'entreprise dont l'activité consiste à découper et à souder des gaines de matières plastiques pour en faire des sacs d'emballage lorsque le découpage et la thermosoudure relèvent de la connaissance manuelle de métiers qui, quand bien même ceux-ci seraient extrêmement simples et répandus, sont propres à d'autres branches d'activité que celle de l'industrie chimique (1)."
+      ],
+      "abstractNL": [
+        "Wettig is het arrest dat beslist dat de onderneming die zorgt voor de bewerking van synthetische producten niet ressorteert onder het paritair comité voor de werklieden van de scheikundige nijverheid en evenmin onder het paritair comité voor de bedienden van de scheikundige nijverheid, wanneer voor de bewerking van die producten een aan een andere bedrijfstak eigen techniek of vakkundigheid noodzakelijk is, en dat derhalve, op grond van een feitelijke beoordeling, beslist dat de onderneming die zorgt voor het snijden en lassen van plastic kokers om er verpakkingszakken van te maken niet onder de bovenvermelde paritaire comités ressorteert wanneer het snijden en lassen vakkundige kennis vereisen van procédés, die, ook al zijn ze uiterst eenvoudig en verspreid, eigen zijn aan andere bedrijfstakken dan die van de scheikundige nijverheid (1)."
+      ]
+    }
+  }
+}

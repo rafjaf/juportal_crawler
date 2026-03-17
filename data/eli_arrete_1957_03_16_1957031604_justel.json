@@ -1,0 +1,64 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2000:ARR.20000525.7": {
+      "court": "CASS",
+      "date": "2000-05-25",
+      "roleNumber": "F970019N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La Société flamande de distribution d'eau est exempte de toute contribution au profit de l'Etat ainsi que de toutes impositions provinciales et communales, à raison des immeubles, des objets et du personnel affectés à l'établissement ou à l'exploitation des services de distribution d'eau. Pour bénéficier de l'exemption en matière de précompte immobilier, il n'est pas requis que l'immeuble soit exclusivement affecté, tant en sous-sol qu'en surface, aux services de distribution d'eau."
+      ],
+      "abstractNL": [
+        "De Vlaamse Maatschappij voor Watervoorziening is vrijgesteld van elke belasting ten behoeve van de Staat, zomede van elke provincie- en gemeentebelasting, wegens de voor het oprichten of exploiteren van watervoorzieningsdiensten bestemde immobiliën, voorwerpen en personeel. Om terzake van de onroerende voorheffing te kunnen worden vrijgesteld, is het niet vereist dat zowel de bovengrond als de ondergrond van een onroerend goed uitsluitend voor watervoorziening moeten bestemd zijn."
+      ]
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1981:ARR.19810122.8": {
+      "court": "CASS",
+      "date": "1981-01-22",
+      "roleNumber": "6212",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 16 du règlement de discipline établi par l'arrêté royal du 16 mars 1957 prescrit au conseil de l'Institut des reviseurs d'entreprises de faire connaître au membre de cet institut à charge de qui une instruction disciplinaire est ouverte les faits mis à sa charge; ne méconnaît pas la portée de cette disposition le conseil de l'Institut ou la commission d'appel de cet Institut qui donnent aux faits une qualification autre que celle qui figurait dans l'acte introductif des poursuites, après avoir invité l'inculpé à se défendre sur les mêmes faits autrement qualifiés."
+      ],
+      "abstractNL": [
+        "Art. 16 van het bij K.B. van 16 maart 1957 vastgestelde tuchtreglement schrijft voor dat de raad van het Instituut der Bedrijfsrevisoren aan het lid van dat Instituut tegen wie een tuchtrechtelijk onderzoek wordt ingesteld, de hem ten laste gelegde feiten meedeelt; de draagwijdte van die beslissing wordt niet miskend door de raad van het Instituut of door de commissie van beroep van dat Instituut die aan de feiten een andere kwalificering geeft dan die welke voorkwam in de akte tot inleiding van de vervolging, nadat de verdachte was verzocht verweer te voeren tegen dezelfde, anders gekwalificeerde feiten."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950324.17": {
+      "court": "CASS",
+      "date": "1995-03-24",
+      "roleNumber": "D930012N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/03/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans la mesure où il établit les règles relatives à la procédure disciplinaire, l'arrêté royal du 16 mars 1957 établissant le règlement de discipline de l'Institut des reviseurs d'entreprise ne peut plus être appliqué après l'entrée en vigueur de la loi du 21 février 1985 relative à la réforme du revisorat d'entreprise."
+      ],
+      "abstractNL": [
+        "In zoverre het regels betreffende de tuchtprocedure vaststelt, kan het K.B. van 16 maart 1957 tot vaststelling van het tuchtreglement van het Instituut der Bedrijfsrevisoren niet meer worden toegepast na de inwerkingtreding van de wet van 21 februari 1985 tot hervorming van het Bedrijfsrevisoraat."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000525.7": {
+      "court": "CASS",
+      "date": "2000-05-25",
+      "roleNumber": "F970019N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/05/25/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La Société flamande de distribution d'eau est exempte de toute contribution au profit de l'Etat ainsi que de toutes impositions provinciales et communales, à raison des immeubles, des objets et du personnel affectés à l'établissement ou à l'exploitation des services de distribution d'eau. Pour bénéficier de l'exemption en matière de précompte immobilier, il n'est pas requis que l'immeuble soit exclusivement affecté, tant en sous-sol qu'en surface, aux services de distribution d'eau."
+      ],
+      "abstractNL": [
+        "De Vlaamse Maatschappij voor Watervoorziening is vrijgesteld van elke belasting ten behoeve van de Staat, zomede van elke provincie- en gemeentebelasting, wegens de voor het oprichten of exploiteren van watervoorzieningsdiensten bestemde immobiliën, voorwerpen en personeel. Om terzake van de onroerende voorheffing te kunnen worden vrijgesteld, is het niet vereist dat zowel de bovengrond als de ondergrond van een onroerend goed uitsluitend voor watervoorziening moeten bestemd zijn."
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2012:ARR.20120206.2": {
+      "court": "CASS",
+      "date": "2012-02-06",
+      "roleNumber": "C.10.0432.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/02/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La radiation de l'enregistrement de l'entrepreneur prévu par l'article 9, §1er, 4°, de l'arrêté royal du 26 décembre 1998, tel qu'il était applicable aux faits, ne constitue pas une peine mais est la conséquence de la disparition d'une des conditions d'octroi de cet enregistrement, la mesure de radiation s'inscrivant dans la continuité du souci initial de prévention et de sûreté publique (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De schrapping van de registratie als aannemer, bepaald in artikel 9, §1, 4°, van het koninklijk besluit van 26 december 1998, zoals het van toepassing was op de feiten, is geen straf maar het gevolg van de verdwijning van een van de toekenningsvoorwaarden van die registratie; die schrapping is een maatregel die is genomen om het oorspronkelijke doel van preventie en openbare veiligheid te blijven verwezenlijken (1). (1) Zie concl. O.M. in Pas. 2012, nr. ..."
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2009:ARR.20091126.15": {
+      "court": "CASS",
+      "date": "2009-11-26",
+      "roleNumber": "C.08.0619.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/26/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La commission d'enregistrement qui statue, par province, sur les demandes d'enregistrement et les requêtes en radiation des entrepreneurs a la personnalité juridique et peut agir seule en justice."
+      ],
+      "abstractNL": [
+        "De registratiecommissie die per provincie beslist over de aanvragen tot registratie en de verzoekschriften tot schrapping van de aannemers heeft rechtspersoonlijkheid en kan alleen in rechte optreden."
+      ]
+    }
+  },
+  "30bis": {
+    "ECLI:BE:CASS:2010:ARR.20101115.3": {
+      "court": "CASS",
+      "date": "2010-11-15",
+      "roleNumber": "S.09.0106.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/11/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une loi nouvelle qui, tout en abrogeant la loi antérieure, ne renonce pas au but de celle-ci ou qui incrimine un fait dans les mêmes conditions que la loi abrogée peut être appliquée aux faits commis sous l'empire de la loi antérieure; si la loi nouvelle, sans renoncer au but de la loi abrogée, incrimine le fait dans d'autres conditions que celle-ci, elle ne peut toutefois être appliquée aux faits commis sous l'empire de la loi antérieure qu'aux conditions les plus favorables à l'assujetti."
+      ],
+      "abstractNL": [
+        "Een nieuwe wet die de oude wet wel opheft maar nog steeds hetzelfde doel nastreeft of een feit onder dezelfde voorwaarden als de oude wet strafbaar stelt, kan worden toegepast op de feiten die onder vigeur van de oude wet zijn gepleegd; indien de nieuwe wet nog steeds hetzelfde doel als de opgeheven wet nastreeft maar het feit onder andere voorwaarden dan die wet strafbaar stelt, kan zij evenwel slechts worden toegepast op de feiten die onder vigeur van de oude wet zijn gepleegd, als dat onder de voor de rechtszoekende meest gunstige voorwaarden geschiedt."
+      ]
+    }
+  }
+}

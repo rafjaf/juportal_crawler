@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1998:ARR.19980204.9": {
+      "court": "CASS",
+      "date": "1998-02-04",
+      "roleNumber": "P980084F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/02/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne prévoit qu'une chambre de la Cour de cassation statuera sur le règlement de la procédure en cause des personnes poursuivies comme coauteurs ou complices d'un ministre mis en accusation devant cette Cour; celle-ci est sans pouvoir pour modifier l'organisation judiciaire et, dès lors, pour créer une juridiction d'instruction qui fonctionnerait avec les pouvoirs et les règles d'une chambre des mises en accusation."
+      ],
+      "abstractNL": [
+        "Geen enkele wetsbepaling schrijft voor dat een kamer van het Hof van Cassatie moet beslissen over de regeling van de rechtspleging terzake van personen die worden vervolgd als mededaders of medeplichtigen van een minister die voor dat Hof in beschuldiging is gesteld; het Hof is niet bevoegd om de rechterlijke organisatie te wijzigen, en bijgevolg ook niet om een onderzoeksgerecht in te stellen dat zou werken met de bevoegdheden en volgens de regels van een kamer van inbeschuldigingstelling."
+      ]
+    }
+  }
+}

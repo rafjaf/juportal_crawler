@@ -1,0 +1,64 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1983:ARR.19831027.3": {
+      "court": "CASS",
+      "date": "1983-10-27",
+      "roleNumber": "6917",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La victime de dommages causés à des biens privés par des calamités naturelles, qui sollicite l'intervention financière de l'Etat, doit établir une seule demande pour l'ensemble de ses biens sinistrés. ( Arr. roy. du 18 août 1976, art. 2, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Wegens schade aan private goederen, veroorzaakt door een natuurramp, mag door de getroffene bij de Staat slechts een enkele aanvraag om financiële tegemoetkoming worden ingediend, voor het geheel van zijn geteisterde goederen. ( Art. 2, eerste lid, K.B. van 18 augustus 1976. )"
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2010:ARR.20100201.3": {
+      "court": "CASS",
+      "date": "2010-02-01",
+      "roleNumber": "C.09.0069.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/02/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La possibilité offerte à l'intéressé par l'article 5, § 2, de l'arrêté royal du 18 août 1976 fixant les conditions de forme et de délai d'introduction des demandes d'intervention financière du chef de dommages causés à des biens privés par des calamités naturelles d'introduire la demande en dehors du délai prévu sous peine de forclusion à l'article 5, § 1er, de l'arrêté royal ne s'applique qu'à la seule demande d'intervention introduite par l'intéressé pour l'ensemble de ses biens sinistrés. Cette possibilité d'introduire une demande en dehors des délais n'est pas applicable si une première demande d'intervention a déjà été rejetée par le gouverneur. Conformément à l'article 21 de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles, l'intéressé peut introduire un recours contre cette décision devant la cour d'appel."
+      ],
+      "abstractNL": [
+        "De door artikel 5, § 2 van het koninklijk besluit van 18 augustus 1976 aan de belanghebbende geboden mogelijkheid om de aanvraag tot tegemoetkoming nog in te dienen buiten de termijn van artikel 5, § 1, bepaald op straf van uitsluiting, geldt alleen voor de door de belanghebbende ingediende enige aanvraag tot tegemoetkoming voor het geheel van zijn geteisterde goederen. Deze mogelijkheid tot aanvraag buiten termijn geldt niet indien de aanvraag tot tegemoetkoming reeds door de gouverneur werd afgewezen. Tegen die beslissing moet de belanghebbende op grond van artikel 21 van de wet van 12 juli 1976 voorziening instellen bij het hof van beroep."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950119.12": {
+      "court": "CASS",
+      "date": "1995-01-19",
+      "roleNumber": "C940224F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/01/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le recours devant la cour d'appel remet en question la décision du gouverneur de la province déclarant la demande d'intervention financière du chef de dommages causés à des biens privés par des calamités naturelles irrecevable suite à la non-production de certaines pièces justificatives; la cour d'appel peut décider, si elle constate que ces pièces ont été produites entre-temps, que la demande initiale, introduite avant l'expiration du délai prescrit à peine de forclusion, est recevable."
+      ],
+      "abstractNL": [
+        "Door de voorziening voor het hof van beroep wordt de beslissing van de provinciegouverneur, waarbij de aanvraag tot financiële tegemoetkoming voor door natuurrampen aan private goederen veroorzaakte schade niet-ontvankelijk werd verklaard wegens niet-overlegging van bepaalde bewijsstukken, opnieuw in het geding gebracht; wanneer het hof van beroep vaststelt dat die stukken intussen zijn overgelegd, kan het de oorspronkelijke aanvraag, die is ingediend voor het verstrijken van de op straffe van uitsluiting voorgeschreven termijn, ontvankelijk verklaren."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19831027.3": {
+      "court": "CASS",
+      "date": "1983-10-27",
+      "roleNumber": "6917",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/10/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La victime de dommages causés à des biens privés par des calamités naturelles, qui sollicite l'intervention financière de l'Etat, doit établir une seule demande pour l'ensemble de ses biens sinistrés. ( Arr. roy. du 18 août 1976, art. 2, al. 1er. )"
+      ],
+      "abstractNL": [
+        "Wegens schade aan private goederen, veroorzaakt door een natuurramp, mag door de getroffene bij de Staat slechts een enkele aanvraag om financiële tegemoetkoming worden ingediend, voor het geheel van zijn geteisterde goederen. ( Art. 2, eerste lid, K.B. van 18 augustus 1976. )"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19900129.6": {
+      "court": "CASS",
+      "date": "1990-01-29",
+      "roleNumber": "8482",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/01/29/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'allocation de foyer ou de résidence, octroyée aux agents des communes, est régie par l'arrêté royal du 30 janvier 1967, modifié par les arrêtés royaux des 29 juin 1973, 1er septembre et 14 décembre 1981, ainsi que par la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume, dont l'application a été étendue aux communes par l'arrêté royal du 15 avril 1977; l'arrêté royal n° 260 du 31 décembre 1983 ne permet pas aux communes de fixer l'allocation de résidence ou de foyer dont bénéficient leurs agents à des conditions différentes de celles prévues pour le personnel des ministères."
+      ],
+      "abstractNL": [
+        "De aan het gemeentepersoneel toegekende haardtoelage of standplaatstoelage valt onder de toepassing van K.B. van 30 januari 1967, gewijzigd bij K.B. van 29 juni 1973, 1 september en 14 december 1981, alsmede van de wet van 1 maart 1977 houdende inrichting van een stelsel tot koppeling aan het indexcijfer van de consumptieprijzen van het Rijk, waarvan de toepassing bij K.B. van 15 april 1977 tot de gemeenten is uitgebreid; ingevolge K.B. nr. 260 van 31 december 1983 hebben de gemeenten niet het recht om de standplaatstoelage of haardtoelage voor hun personeel onder andere voorwaarden vast te stellen dan die voor het personeel der ministeries."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890904.4": {
+      "court": "CASS",
+      "date": "1989-09-04",
+      "roleNumber": "8555",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/09/04/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La rente pour invalidité permanente, résultant d'un accident du travail survenu dans le secteur public, est établie sur la base de la rémunération annuelle à laquelle la victime a droit au moment de l'accident; cette rente est augmentée ou diminuée conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation. ( Loi du 3 juillet 1967, art. 4 et 13; arr. roy. du 13 juillet 1970, art. 18. )"
+      ],
+      "abstractNL": [
+        "De rente wegens blijvende arbeidsongeschiktheid ten gevolge van een in de overheidssector overkomen arbeidsongeval wordt vastgesteld op basis van het jaarloon waarop de getroffene recht had ten tijde van het ongeval; die rente wordt vermeerderd of verminderd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel tot koppeling van de consumptieprijzen aan het indexcijfer. ( Artt. 4 en 13, Arbeidsongevallenwet Overheidspersoneel; art. 18 K.B. 13 juli 1970. )"
+      ]
+    }
+  }
+}

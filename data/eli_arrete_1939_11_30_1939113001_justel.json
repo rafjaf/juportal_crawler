@@ -1,0 +1,48 @@
+{
+  "203": {
+    "ECLI:BE:CASS:1972:ARR.19720303.1": {
+      "court": "CASS",
+      "date": "1972-03-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La sanction fiscale applicable, en vertu de l'article 203 de l'arrêté royal n° 64 du 30 novembre 1939 modifié par l'article 1er de la loi du 14 août 1947, à la dissimulation du prix lors de la passation d'un acte de vente n'a pas pour effet de rendre inexistant l'acte de prêt procédant de la novation d'une partie du prix de vente, pour autant que les obligations contractées lors de l'emprunt n'aient pas de cause illicite."
+      ],
+      "abstractNL": [
+        "De fiscale sanctie, welke, overeenkomstig artikel 203 van het koninklijk besluit nr. 64 van 30 november 1939, gewijzigd door artikel 1 van de wet van 14 augustus 1947, de prijsbewimpeling bij het verlijden van een verkoopakte treft, heeft niet tot gevolg de leningsakte ongedaan te maken die door het noveren van een deel van de koopprijs zou zijn ontstaan, voor zover de bij de lening aangegane verbintenissen geen ongeoorloofde oorzaak hebben."
+      ]
+    }
+  },
+  "280": {
+    "ECLI:BE:CASS:1975:ARR.19750121.12": {
+      "court": "CASS",
+      "date": "1975-01-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/01/21/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Le pourvoi formé contre une décision relative à l'exécution de la loi de défense sociale n'entraîne pas de frais taxables. ( Code des droits d'enregistrement , d'hypothèque et de greffe , article 162, 6°bis, 279/1, 1er, 279/2, 1er, et 280, 1er ). ( Solution implicite. )"
+      ],
+      "abstractNL": [
+        "De voorziening tegen een beslissing betreffende de toepassing van de wet tot bescherming van de maatschappij brengt geen begrootbare kosten mee. ( Artt. 162, 6°bis, 279/1, 1°, 279/2, 1°, en 280, 1°, Wetb. van registratie-, hypotheek- en griffierechten. ) ( Impliciete oplossing. )"
+      ]
+    },
+    "ECLI:BE:CASS:1970:ARR.19700309.7": {
+      "court": "CASS",
+      "date": "1970-03-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/03/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le condamné, mis à la disposition du gouvernement à l'expiration de sa peine, qui demande d'être relevé des effets de cette décision, est légalement condamné aux frais lorsque sa requête, bien que recevable, est déclarée non fondée. ( Code d'instr. crim., art.194 et 211; loi de défense sociale du 9 avril 1930 remplacée par la loi du 1er juillet 1964, art. 31. )"
+      ],
+      "abstractNL": [
+        "De veroordeelde, die bij het einde van zijn straf ter beschikking van de Regering wordt gesteld en die vraagt te worden ontheven van de gevolgen van deze beslissing, wordt regelmatig in de kosten veroordeeld wanneer zijn verzoek, hoewel het ontvankelijk is, ongegrond wordt verklaard. ( Wetb. van strafv., artikel 194 en 211; wet tot bescherming van de maatschappij van 9 april 1930, vervangen door de wet van 1 juli 1964, art. 31. )"
+      ]
+    }
+  }
+}

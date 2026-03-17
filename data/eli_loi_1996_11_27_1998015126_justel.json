@@ -1,0 +1,34 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2010:ARR.20100325.6": {
+      "court": "CASS",
+      "date": "2010-03-25",
+      "roleNumber": "C.09.0542.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/03/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Bien que la juste indemnité du chef de la résiliation d'une concession de vente exclusive sans délai de préavis raisonnable et l'indemnité complémentaire équitable lorsque cette concession de vente est résiliée par le concédant pour d'autres motifs que la faute grave du concessionnaire concernent d'autres types de dommage, elles résultent de l'inexécution des obligations contractuelles du concédant, qui sont localisées au lieu où le contrat de concession doit être exécuté, notamment l'obligation de ne pas résilier le contrat sans respecter un délai de préavis raisonnable et l'obligation de ne pas priver le concessionnaire, à la fin du contrat, des fruits de la clientèle qu'il s'est constituée et des investissements qu'il a réalisés, de sorte que le juge du lieu où doivent être exécutées lesdites obligations du concédant qui servent de fondement à la demande peut admettre légalement sa compétence pour connaître de la demande en paiement d'une indemnité complémentaire équitable."
+      ],
+      "abstractNL": [
+        "Ofschoon de billijke vergoeding wegens beëindiging van een concessie van alleenverkoop zonder redelijke opzeggingstermijn en de billijke bijkomende vergoeding wanneer deze verkoopconcessie door de concessiegever wordt beëindigd op andere gronden dan een grove tekortkoming van de concessiehouder betrekking hebben op andere soorten van schade, vloeien zij voort uit de niet-nakoming van de contractuele verplichtingen van de concessiegever, die gelokaliseerd worden op de plaats waar de concessieovereenkomst moet worden uitgevoerd, namelijk de verplichting om de overeenkomst niet te beëindigen zonder de inachtneming van een redelijke opzeggingstermijn en de verplichting om de concessiehouder bij de beëindiging van de overeenkomst niet de vruchten te ontnemen van het door hem opgebouwde cliëntèle en de door hem gedane investeringen, zodat de rechter van de plaats waar die verbintenissen van de concessiegever die aan de eis ten grondslag liggen moeten worden uitgevoerd, naar recht zijn bevoegdheid kan aannemen om kennis te nemen van de vordering tot billijke bijkomende vergoeding."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010510.5": {
+      "court": "CASS",
+      "date": "2001-05-10",
+      "roleNumber": "C990355F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "De l'incertitude, fût-elle prolongée, sur l'assiette de la voie, sa réalisation et les expropriations nécessaires, il ne peut se déduire que le percement de cette voie à travers un bien foncier ne poursuive un but d'intérêt général et ne se contiendrait pas dans les limites du juste équilibre recherché par l'égalité devant les charges publiques et la proportionnalité entre l'intérêt général et les moyens employés."
+      ],
+      "abstractNL": [
+        "Uit de, zelfs langdurige, onzekerheid over de ligging van de weg, de aanleg ervan en de noodzakelijke onteigeningen, kan niet worden afgeleid dat het doortrekken van die weg door een onroerend goed geen doel van algemeen belang nastreeft en niet zou passen binnen de perken van het billijke evenwicht dat wordt nagestreefd door de gelijkheid voor de openbare lasten en de verhouding tussen het algemeen belang en de aangewende middelen."
+      ]
+    }
+  }
+}

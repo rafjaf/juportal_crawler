@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2000:ARR.20001201.6": {
+      "court": "CASS",
+      "date": "2000-12-01",
+      "roleNumber": "C980102N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/12/01/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, dès lors, irrecevable le moyen invoquant l'illégalité de l'expropriation par le motif que l'autorisation d'exproprier a été délivrée par un ministre non compétent."
+      ],
+      "abstractNL": [
+        "Nieuw, mitsdien niet ontvankelijk is het middel dat aanvoert dat de onteigening onwettig is daar de machtiging tot onteigening verleend werd door een daartoe niet bevoegde minister."
+      ]
+    }
+  }
+}

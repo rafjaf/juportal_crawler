@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950921.6": {
+      "court": "CASS",
+      "date": "1995-09-21",
+      "roleNumber": "D940020N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le conseil d'appel de l'Ordre des médecins peut déroger à la règle de la publicité des débats et de la prononciation lorsque telle est la volonté du médecin intéressé, que celui-ci a renoncé de son plein gré et d'une manière non équivoque à la publicité et que ceci est compatible avec le droit national."
+      ],
+      "abstractNL": [
+        "Van de regel van de openbaarheid van de behandeling en van de uitspraak door de raad van beroep van de orde der geneesheren kan worden afgeweken indien dit de wil is van de arts en wanneer deze vrijwillig en ondubbelzinnig van die openbaarheid afziet en zulks verenigbaar is met het nationale recht."
+      ]
+    }
+  }
+}

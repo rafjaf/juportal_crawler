@@ -1,4 +1,20 @@
 {
+  "2": {
+    "ECLI:BE:CASS:2011:ARR.20111222.10": {
+      "court": "CASS",
+      "date": "2011-12-22",
+      "roleNumber": "C.11.0005.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/12/22/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de modification de la destination des sites d'activité économique ensuite d'une autorisation urbanistique, la nature du bâtiment désaffecté ou abandonné doit être appréciée en fonction de la destination modifiée (1). (1) Voir les conclusions contraires du M.P., publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Bij wijziging van de bestemming van bedrijfsruimten ingevolge een stedenbouwkundige vergunning dient de aard van de leegstaande of verwaarloosde gebouwen te worden beoordeeld naar de gewijzigde bestemming (1). (1) Zie de andersluidende concl. van het OM."
+      ]
+    }
+  },
   "12": {
     "ECLI:BE:CASS:2015:ARR.20150924.12": {
       "court": "CASS",

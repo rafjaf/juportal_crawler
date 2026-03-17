@@ -15,6 +15,22 @@
       ]
     }
   },
+  "2": {
+    "ECLI:BE:CASS:1990:ARR.19901026.12": {
+      "court": "CASS",
+      "date": "1990-10-26",
+      "roleNumber": "6744",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qu'est sans faute celui qui entreprend des travaux de terrassement, de pavage ou autres dans le voisinage d'un câble électrique souterrain sans consultation préalable du propriétaire du sous-sol ou du câble et sans localisation préalable, lorsqu'il est établi que des plans ont été communiqués et que rien n'indiquait ou laissait supposer la présence du câble. ( Règlement général sur les installations électriques, approuvé par A.R. du 10 mars 1981, art. 192.02; Règlement général pour la protection du travail, art. 260bis. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij degene die grondwerken, bestratingswerken of andere werken in de nabijheid van een ondergrondse elektrische kabel uitvoert zonder voorafgaande raadpleging van de eigenaar van de ondergrond of van de kabel en zonder voorafgaande lokalisering van de kabel vrij van schuld wordt verklaard, is naar recht verantwoord wanneer bewezen is dat plannen medegedeeld werden en dat geen enkel gegeven op de aanwezigheid van de kabel wees of deze liet vermoeden. ( Art. 192.02, Algemeen Reglement op de Elektrische Installaties, goedgekeurd bij K.B. 10 maart 1981; art. 260bis, Algemeen Reglement Arbeidsbescherming. )"
+      ]
+    }
+  },
   "3": {
     "ECLI:BE:CASS:2024:ARR.20240913.1N.7": {
       "court": "CASS",
@@ -28,6 +44,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Uit de samenhang van de artikelen 1,01, 3, eerste en zesde lid, 270, eerste tot en met derde lid, 273, 275,01 en 275,02 van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties volgt dat, alvorens een elektrische laagspanningsinstallatie in gebruik kan worden genomen, deze installatie in zijn geheel, zijnde de machines, toestellen en leidingen samen, waaronder zowel het AC-gedeelte als DC-gedeelte van de installatie, aan een gelijkvormigheidsonderzoek moet worden onderworpen, hetgeen vereist dat de installatie in zijn geheel is geplaatst en de verscheidende onderdelen ervan aan elkaar aangesloten zijn (1) (2). (1) Zie concl. OM. (2) Artt. 1.01 en 3, eerste lid Algemeen Reglement van 10 maart 1981, zoals van toepassing vóór de wijziging ervan bij KB van 25 april 2013."
+      ]
+    }
+  },
+  "187": {
+    "ECLI:BE:CASS:1999:ARR.19990107.9": {
+      "court": "CASS",
+      "date": "1999-01-07",
+      "roleNumber": "C980006F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/01/07/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'installation d'un câble souterrain à haute tension à une profondeur insuffisante peut engager la responsabilité de l'installateur, même s'il a respecté la profondeur minimale réglementaire."
+      ],
+      "abstractNL": [
+        "De aanleg van een ondergrondse hoogspanningskabel op een onvoldoende diepte kan de aansprakelijkheid van de installateur in het gedrang brengen, zelfs als hij de minimale reglementaire diepte in acht heeft genomen."
       ]
     }
   },
@@ -122,6 +154,22 @@
       "abstractFR": null,
       "abstractNL": [
         "Uit de samenhang van de artikelen 1,01, 3, eerste en zesde lid, 270, eerste tot en met derde lid, 273, 275,01 en 275,02 van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties volgt dat, alvorens een elektrische laagspanningsinstallatie in gebruik kan worden genomen, deze installatie in zijn geheel, zijnde de machines, toestellen en leidingen samen, waaronder zowel het AC-gedeelte als DC-gedeelte van de installatie, aan een gelijkvormigheidsonderzoek moet worden onderworpen, hetgeen vereist dat de installatie in zijn geheel is geplaatst en de verscheidende onderdelen ervan aan elkaar aangesloten zijn (1) (2). (1) Zie concl. OM. (2) Artt. 1.01 en 3, eerste lid Algemeen Reglement van 10 maart 1981, zoals van toepassing vóór de wijziging ervan bij KB van 25 april 2013."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1990:ARR.19901026.12": {
+      "court": "CASS",
+      "date": "1990-10-26",
+      "roleNumber": "6744",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/26/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifiée la décision qu'est sans faute celui qui entreprend des travaux de terrassement, de pavage ou autres dans le voisinage d'un câble électrique souterrain sans consultation préalable du propriétaire du sous-sol ou du câble et sans localisation préalable, lorsqu'il est établi que des plans ont été communiqués et que rien n'indiquait ou laissait supposer la présence du câble. ( Règlement général sur les installations électriques, approuvé par A.R. du 10 mars 1981, art. 192.02; Règlement général pour la protection du travail, art. 260bis. )"
+      ],
+      "abstractNL": [
+        "De beslissing waarbij degene die grondwerken, bestratingswerken of andere werken in de nabijheid van een ondergrondse elektrische kabel uitvoert zonder voorafgaande raadpleging van de eigenaar van de ondergrond of van de kabel en zonder voorafgaande lokalisering van de kabel vrij van schuld wordt verklaard, is naar recht verantwoord wanneer bewezen is dat plannen medegedeeld werden en dat geen enkel gegeven op de aanwezigheid van de kabel wees of deze liet vermoeden. ( Art. 192.02, Algemeen Reglement op de Elektrische Installaties, goedgekeurd bij K.B. 10 maart 1981; art. 260bis, Algemeen Reglement Arbeidsbescherming. )"
       ]
     }
   }

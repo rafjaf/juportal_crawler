@@ -1,0 +1,72 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1965:ARR.19650325.1": {
+      "court": "CASS",
+      "date": "1965-03-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/03/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'homme de lettres est assujetti au régime des allocations familiales, instauré par la loi du 10 juin 1937 et organisé par l'arrêté royal du 22 décembre 1938 à la double condition qu'il exerce, comme tel, une profession en Belgique, fût-ce à titre accessoire, et qu'il le fasse pendant au moins dix-huit jours par an. (Loi du 10 juin 1937, art. 1er et 9; arrêté royal du 22 décembre 1938, art. 3, al. 1er et 2.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:1966:ARR.19660127.1": {
+      "court": "CASS",
+      "date": "1966-01-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/01/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de la législation relative aux allocation familiales, les représentants de commerce doivent être considérés comme étant occupés au travail en vertu d'un contrat de louage de services, à la condition que les prestations fournies constituent leur profession exclusive ou principale, sauf si cette présomption est renversée. (Loi du 10 juin 1937, art. 1er et 9; arr. roy. organique du 22 décembre 1938, art. 3, al. 3; lois coordonnées le 19 décembre 1939, art. 3, al. 3 et 10.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1968:ARR.19680509.2": {
+      "court": "CASS",
+      "date": "1968-05-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/05/09/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les administrateurs et commissaires d'une société ayant un siège en Belgique résident exclusivement ou principalement à l'étranger, la société est tenue de verser les cotisations dont ces administrateurs et commissaires sont redevables par application de la loi du 10 juin 1937 étendant les allocations familiales aux employeurs et aux non-salariés et de l'arrêté royal organique du 22 décembre 1938 prévu par ladite loi, sauf le droit de se faire rembourser par eux. (Arrêté royal du 22 décembre 1938, art. 23, 214 et 215.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Wanneer de beheerders en commissarissen van een vennootschap, die in België een maatschappelijke zetel heeft, uitsluitend en hoofdzakelijk in het buitenland verblijf houden, is de vennootschap verplicht de bijdragen te betalen welke deze beheerders en commissarissen verschuldigd zijn, bij toepassing van de wet van 10 juni 1937 waarbij de kinderbijslagen uitgebreid worden tot de werkgevers en niet-loontrekkenden en van het organiek koninklijk besluit van 22 december 1938, bij deze wet voorzien, maar heeft zij het recht zich door hen te laten terugbetalen. (Koninklijk besluit van 22 december 1938, art. 23, 214 en 215.) (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19661117.2": {
+      "court": "CASS",
+      "date": "1966-11-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/11/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 9bis, inséré par l'arrêté royal du 2 septembre 1939 dans l'arrêt royal organique du 22 décembre 1938, pris en exécution de la loi du 10 juin 1937 qui étend les allocations familiales aux employeurs et aux travailleurs non salariés, n'est pas, pour l'application de cet arrêté organique, considéré comme travailleur indépendant l'agent d'assurances qui ne prête son activité d'agent qu'à un seul assureur, lorsqu'il exerce, en ordre principal, une profession en qualité de travailleur salarié; à défaut de cette dernière condition, ledit article 9bis est sans application."
+      ],
+      "abstractNL": [
+        "Luidens artikel 9bis, ingelast bij koninklijk besluit van 2 september 1939 in het organiek besluit van 22 december 1938, ter uitvoering van de wet van 10 juni 1937, welke de kinderbijslagen uitbreidt tot de werkgevers en de niet loontrekkende arbeiders, wordt, voor de toepassing van dit organiek besluit, niet beschouwd als buiten dienstverband staande arbeider de verzekeringsagent die zijn bedrijvigheid slechts ten dienste van een enkele verzekeraar stelt, wanneer hij, in hoofdorde, een beroep in hoedanigheid van loontrekkende arbeider uitoefent; bij gemis van die laatste voorwaarde is voormeld artikel 9bis niet toepasselijk."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19651021.3": {
+      "court": "CASS",
+      "date": "1965-10-21",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/21/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le gérant chargé de l'administration journalière d'une société de personnes à responsabilité limitée, dont les prestations constituent la profession exclusive ou principale, est soumis au régime des allocations familiales pour travailleurs salariés. (Lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939, art. 5 et 6, 2°; arrêté royal du 22 décembre 1938, prévu par la loi du 10 juin 1937 étendant les allocations familiales aux employeurs et aux travailleurs non salariés, art. 25, al. 1er, litt. a.)"
+      ],
+      "abstractNL": null
+    }
+  }
+}

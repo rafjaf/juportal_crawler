@@ -1,0 +1,18 @@
+{
+  "10": {
+    "ECLI:BE:CASS:1995:ARR.19951110.2": {
+      "court": "CASS",
+      "date": "1995-11-10",
+      "roleNumber": "C940377F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aussi longtemps que le receveur des douanes juge insuffisant le cautionnement garantissant le paiement des droits de douane afférents à des marchandises déposées dans un entrepôt fictif, le débiteur des droits de douane n'est pas déchargé de cette dette, même si les marchandises sont inscrites en charge dans le compte d'entrepôt tenu par le receveur."
+      ],
+      "abstractNL": [
+        "Zolang de ontvanger van douane de borgtocht voor de betaling van de douanerechten op in een fictief entrepot opgeslagen goederen ontoereikend acht, is degene die de douanerechten verschuldigd is niet van die schuld bevrijd, ook al zijn die de goederen opgenomen in de door de ontvanger gehouden entrepotrekening."
+      ]
+    }
+  }
+}

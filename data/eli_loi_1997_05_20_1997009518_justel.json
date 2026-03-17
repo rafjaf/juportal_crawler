@@ -1,0 +1,32 @@
+{
+  "10": {
+    "ECLI:BE:CASS:2001:ARR.20010618.7": {
+      "court": "CASS",
+      "date": "2001-06-18",
+      "roleNumber": "S990183F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/18/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La règle suivant laquelle les actions en paiement des indemnités se prescrivent par trois ans à dater de la notification de l'acte juridique administratif contesté, est applicable aux accidents du travail et aux maladies professionnelles dans le secteur public, déclarés avant le 1er août 1997 et qui n'ont pas fait l'objet d'une décision judiciaire coulée en force de chose jugée; l'effet rétroactif ainsi imprimé à cette règle par le législateur n'est pas soumis à la condition que l'accident du travail ou la maladie professionnelle ait fait l'objet d'une action en justice intentée avant que la prescription n'en fût acquise par application de la disposition antérieure à la règle précitée (1)."
+      ],
+      "abstractNL": [
+        "De regel volgens welke de vorderingen tot betaling van de vergoedingen verjaren na drie jaar te rekenen van de kennisgeving van de betwiste administratieve rechtshandeling, is van toepassing op de arbeidsongevallen en de beroepsziekten in de overheidssector, waarvan aangifte is gedaan voor 1 augustus 1997 en waarover de rechter geen beslissing heeft gewezen die in kracht van gewijsde is gegaan; de terugwerkende kracht die de wetgever aldus aan die regel verleent is niet onderworpen aan de voorwaarde dat er naar aanleiding van het arbeidsongeval of de beroepsziekte een vordering in rechte is ingesteld vooraleer de verjaring verkregen was met toepassing van de bepaling, die aan voornoemde regel voorafgaat (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010515.10": {
+      "court": "CASS",
+      "date": "2001-05-15",
+      "roleNumber": "P010013N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le pourvoi en cassation formé par la partie intervenante contre un arrêt rendu par la chambre des mises en accusation, par lequel est déclaré non fondé son appel interjeté contre l'ordonnance d'exequatur rendue par la chambre du conseil d'une demande d'entraide tendant à l'exécution de mesures provisoires ou d'une saisie en application de la loi du 20 mai 1997 sur la coopération internationale en ce qui concerne l'exécution de saisies et de confiscations, dès lors que cette décision constitue une décision préparatoire contre laquelle un pourvoi en cassation ne sera ouvert qu'après la décision définitive (1)."
+      ],
+      "abstractNL": [
+        "Het cassatieberoep dat de tussenkomende partij instelt tegen een arrest van de kamer van inbeschuldigingstelling, waarbij zijn beroep tegen de beschikking tot uitvoerbaarverklaring door de raadkamer van een verzoek tot rechtshulp strekkende tot het nemen van voorlopige maatregelen of tot inbeslagneming in toepassing van de wet van 20 mei 1997 ongegrond wordt verklaard, is niet ontvankelijk, aangezien die beslissing een voorbereidende beslissing is waartegen eerst cassatieberoep openstaat na de eindbeslissing (1)."
+      ]
+    }
+  }
+}

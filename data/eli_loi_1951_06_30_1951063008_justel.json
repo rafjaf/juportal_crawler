@@ -1,0 +1,64 @@
+{
+  "7": {
+    "ECLI:BE:CASS:1984:ARR.19840515.3": {
+      "court": "CASS",
+      "date": "1984-05-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/15/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, après avoir relevé que des documents de douane n'ont pas été apurés ou représentés conformément au prescrit de l'article 257, alinéa 1er, de la loi générale sur les douanes et accises, décide que les prévenus, titulaires de ces documents, ne se sont pas rendus coupables d'infraction à cette disposition, et fonde cette décision sur la seule constatation que des tiers ont donné aux marchandises faisant l'objet des documents de douane une destination autre que celle qui y est expressément indiquée et qu'il n'est pas établi que les prévenus ont participé à cette infraction. ( Loi générale, art. 217, alinéa 3. )"
+      ],
+      "abstractNL": [
+        "Niet wettelijk verantwoord is het arrest dat, na te hebben vastgesteld dat de douanedocumenten niet overeenkomstig het voorschrift van artikel 257, alinéa 1, van de algemene wet inzake douane en accijnzen werden aangezuiverd of wederovergelegd, beslist dat de beklaagden _ titularissen dezer documenten _ zich niet aan overtreding van evenvermelde bepaling schuldig hebben gemaakt, en die beslissing laat steunen op de enkele vaststelling dat derden aan de goederen, vermeld in de douanedocumenten, een andere bestemming hebben gegeven dan daarin uitdrukkelijk is vermeld en dat het bewijs niet is geleverd dat de beklaagden aan dat misdrijf hebben deelgenomen. ( Algemene wet inzake douane en accijnzen, art. 217, alinéa 3. )"
+      ]
+    }
+  },
+  "9": {
+    "ECLI:BE:CASS:1967:ARR.19670529.1": {
+      "court": "CASS",
+      "date": "1967-05-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le moyen fondé sur la nullité de la citation devant le premier juge, lorsqu'il n'a pas été soumis au juge d'appel et que le demandeur s'est défendu au fond."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk het middel dat gegrond is op de nietigheid van de dagvaarding voor de eerste rechter, wanneer het voor de rechter in hoger beroep niet is aangevoerd en eiser zich ten gronde heeft verdedigd."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840515.3": {
+      "court": "CASS",
+      "date": "1984-05-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/05/15/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, après avoir relevé que des documents de douane n'ont pas été apurés ou représentés conformément au prescrit de l'article 257, alinéa 1er, de la loi générale sur les douanes et accises, décide que les prévenus, titulaires de ces documents, ne se sont pas rendus coupables d'infraction à cette disposition, et fonde cette décision sur la seule constatation que des tiers ont donné aux marchandises faisant l'objet des documents de douane une destination autre que celle qui y est expressément indiquée et qu'il n'est pas établi que les prévenus ont participé à cette infraction. ( Loi générale, art. 217, alinéa 3. )"
+      ],
+      "abstractNL": [
+        "Niet wettelijk verantwoord is het arrest dat, na te hebben vastgesteld dat de douanedocumenten niet overeenkomstig het voorschrift van artikel 257, alinéa 1, van de algemene wet inzake douane en accijnzen werden aangezuiverd of wederovergelegd, beslist dat de beklaagden _ titularissen dezer documenten _ zich niet aan overtreding van evenvermelde bepaling schuldig hebben gemaakt, en die beslissing laat steunen op de enkele vaststelling dat derden aan de goederen, vermeld in de douanedocumenten, een andere bestemming hebben gegeven dan daarin uitdrukkelijk is vermeld en dat het bewijs niet is geleverd dat de beklaagden aan dat misdrijf hebben deelgenomen. ( Algemene wet inzake douane en accijnzen, art. 217, alinéa 3. )"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670529.1": {
+      "court": "CASS",
+      "date": "1967-05-29",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le moyen fondé sur la nullité de la citation devant le premier juge, lorsqu'il n'a pas été soumis au juge d'appel et que le demandeur s'est défendu au fond."
+      ],
+      "abstractNL": [
+        "Is niet ontvankelijk het middel dat gegrond is op de nietigheid van de dagvaarding voor de eerste rechter, wanneer het voor de rechter in hoger beroep niet is aangevoerd en eiser zich ten gronde heeft verdedigd."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690512.4": {
+      "court": "CASS",
+      "date": "1969-05-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/05/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'analyse et la seconde analyse du prélèvement sanguin opéré en vertu de l'article 44bis du Code d'instruction criminelle ou de la loi relative à la police de la circulation routière doivent, pour être valables, être effectuées suivant la méthode décrite à l'annexe II de l'arrêté royal relatif au prélèvement sanguin en vue du dosage de l'alcool. (Arr. roy. du 10 juin 1959, art. 8 et 10, al. 3, et arr. roy. du 4 avril 1961 relatif à la méthode de dosage de l'alcool dans le sang.)"
+      ],
+      "abstractNL": [
+        "De bloedanalyse en de tweede analyse na de bloedproef verricht met toepassing van artikel 44bis van het Wetboek van strafvordering of van de wet op de politie van het wegverkeer moeten, om geldig te zijn, uitgevoerd worden volgens de methode omschreven in bijlage II van het koninklijk besluit betreffende de bloedproef met het oog op het bepalen van het alcoholgehalte in het bloed. (Koninklijk besluit van 10 juni 1959, artikelen 8 en 10, lid 3, en koninklijk besluit van 4 april 1961 betreffende de methode om het alcohol in bloed te bepalen.)"
+      ]
+    }
+  }
+}

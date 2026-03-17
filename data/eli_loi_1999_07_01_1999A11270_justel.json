@@ -1,0 +1,50 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2005:ARR.20051222.10": {
+      "court": "CASS",
+      "date": "2005-12-22",
+      "roleNumber": "C040434N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/12/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les avocats membres des barreaux relevant de l'Orde van Vlaamse balies, sont des entreprises au sens de l'article 2 de la loi du 1er juillet 1999 sur la protection de la concurrence économique et le règlement établi par l'Orde van Vlaamse balies doit être considéré comme une décision d'une association d'entreprises (1). (1) Voir Cass., 25 septembre 2003, RG C.03.0139.N, n° 456 et les conclusions du M.P.; Y. Montangie, \"Het reglement van de Orde van Vlaamse balies inzake beroepsmatige samenwerking met niet-advocaten: een mededingingsrechtelijke brug te ver\", R.W. 2003-2004, 961, n° 7-17."
+      ],
+      "abstractNL": [
+        "De advocaten, leden van de balies aangesloten bij de Orde van Vlaamse balies, zijn ondernemingen in de zin van art. 2, Mededingingswet, en het reglement vastgesteld door de Orde van Vlaamse balies dient te worden aangemerkt als een besluit van een ondernemingsvereniging (1). (1) Zie Cass., 25 sept. 2003, AR C.03.0139.N, nr 456, met concl. O.M.; Y. Montangie, \"Het reglement van de Orde van Vlaamse balies inzake beroepsmatige samenwerking met niet-advocaten: een mededingingsrechtelijke brug te ver\", R.W. 2003-2004, 961, nr 7-17."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:2005:ARR.20051110.12": {
+      "court": "CASS",
+      "date": "2005-11-10",
+      "roleNumber": "C040263N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/11/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Une entreprise dominante n'agit pas de façon discriminatoire lorsqu'elle applique à l'égard de ses partenaires commerciaux des conditions égales à des prestations équivalentes."
+      ],
+      "abstractNL": [
+        "Een dominante onderneming treedt niet discriminatoir op wanneer zij haar handelspartners gelijkwaardige prestaties aanbiedt tegen gelijke voorwaarden."
+      ]
+    }
+  },
+  "42bis": {
+    "ECLI:BE:CASS:2004:ARR.20040624.13": {
+      "court": "CASS",
+      "date": "2004-06-24",
+      "roleNumber": "D020022N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/06/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le Conseil de discipline d'appel qui constate qu'il faut examiner si des mesures éventuelles de limitation de la concurrence peuvent être admises parce qu'elles sont nécessaires au bon exercice de la profession d'avocat et qu'un même résultat ne peut être atteint par une mesure moins limitative n'est pas tenu de remettre le prononcé et de consulter la cour d'appel de Bruxelles."
+      ],
+      "abstractNL": [
+        "De tuchtraad van beroep die vaststelt dat moet worden nagegaan of eventuele concurrentiebeperkende maatregelen kunnen aanvaard worden omdat die noodzakelijk zijn voor de goede uitoefening van het beroep van advocaat en een zelfde resultaat niet kan worden bereikt door een minder beperkende maatregel is niet gehouden om de uitspraak uit te stellen en het hof van beroep te Brussel te raadplegen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "31": {
+    "ECLI:BE:CASS:1983:ARR.19830210.1": {
+      "court": "CASS",
+      "date": "1983-02-10",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'économie du Code du logement et des règles générales contenues en son article 31 que le bail d'une habitation sociale comporte pour le locataire l'obligation d'occuper effectivement le logement qui lui a été attribué en application de ladite législation. (Arr. roy. du 10 décembre 1970, art. 31; loi du 2 juillet 1971, art. 1er.)"
+      ],
+      "abstractNL": [
+        "Uit de opzet van de Huisvestingscode en uit de algemene regels van art. 31 ervan blijkt dat de huur van een volkswoning voor de huurder de verplichting inhoudt de hem krachtens die wetgeving toegekende woning effectief te bewonen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1975:ARR.19751120.6": {
+      "court": "CASS",
+      "date": "1975-11-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/11/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La dispense de taxe que l'article 70bis de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, introduit dans ladite loi par l'article 26 de la loi du 22 décembre 1970, établit en faveur des sociétés nationales et locales ayant pour objet la construction de logements sociaux ne vise que les sociétés nationales et locales prévues au chapitre II du Code du logement contenu dans l'arrêté royal du 10 décembre 1970 confirmé par la loi du 2 juillet 1971 (3)."
+      ],
+      "abstractNL": [
+        "De belastingontheffing welke artikel 70bis van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en de stedebouw, in deze wet ingevoegd bij artikel 26 van de wet van 22 december 1970, invoert ten gunste van de nationale en plaatselijke maatschappijen voor volkswoningbouw, heeft slechts betrekking op de nationale en plaatselijke maatschappijen waarvan sprake in hoofdstuk II van de Huisvestingscode vervat in het koninklijk besluit van 10 december 1970, bevestigd bij de wet van 2 juli 1971 (2)."
+      ]
+    }
+  }
+}

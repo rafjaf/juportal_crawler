@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670627.1": {
+      "court": "CASS",
+      "date": "1967-06-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/06/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La taxe directe est celle qui a pour assiette, non des faits isolés ou passagers accomplis par le redevable, mais une situation durable de sa nature."
+      ],
+      "abstractNL": [
+        "De directe belasting is die welke geen afzonderlijke of voorbijgaande door de belastingschuldige gepleegde feiten tot grondslag heeft, doch wel een uiteraard duurzame toestand."
+      ]
+    }
+  }
+}

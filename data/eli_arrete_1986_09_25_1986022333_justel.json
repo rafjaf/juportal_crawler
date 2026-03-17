@@ -1,0 +1,18 @@
+{
+  "11": {
+    "ECLI:BE:CASS:2003:ARR.20030922.8": {
+      "court": "CASS",
+      "date": "2003-09-22",
+      "roleNumber": "S030014N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/09/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de l'action en recouvrement des cotisations de consolidation est valablement interrompu par la lettre recommandée de l'Institut national réclamant les cotisations dont l'intéressé est redevable, qui doit être signée par une personne compétente, sans avoir égard au fait qu'il apparaît que l'organisme ou l'institut est l'expéditeur (1). (1) Voir Cass., 25 mars 1993, RG 9581, n° 160."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van de rechtsvordering tot invordering van consolideringsbijdragen wordt rechtsgeldig gestuit door een aangetekend schrijven van het Rijksinstituut waarbij de door de betrokkene verschuldigde bijdragen worden gevraagd, dat dient ondertekend te zijn door een hiertoe bevoegd persoon, ongeacht het feit dat blijkt dat het organisme of het instituut de afzender is."
+      ]
+    }
+  }
+}

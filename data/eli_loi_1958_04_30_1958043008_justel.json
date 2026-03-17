@@ -1,0 +1,80 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1980:ARR.19800410.2": {
+      "court": "CASS",
+      "date": "1980-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le régime matrimonial d'époux dont le mariage a été célébré à l'étranger sans qu'ils aient conclu de conventions au sujet de leurs biens leur est imposé par la loi qui leur est applicable et ne peut être déterminé par une volonté commune présumée des époux."
+      ],
+      "abstractNL": [
+        "Het huwelijksstelsel van de echtgenoten wier huwelijk in het buitenland is voltrokken zonder dat zij een overeenkomst nopens hun goederen hebben gesloten, wordt hun opgelegd bij de op hen toepasselijke wet en kan niet worden bepaald naar de vermoedelijke gemeenschappelijke wil van de echtgenoten <1>."
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670522.2": {
+      "court": "CASS",
+      "date": "1967-05-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er, alinéa 4, de la loi du 30 avril 1958 concernant les douanes et les accises punit de la même peine le propriétaire, le détenteur et le conducteur d'un véhicule à moteur dont la situation régulière dans le pays n'est pas établie."
+      ],
+      "abstractNL": [
+        "Artikel 1, alinéa 4, van de wet van 30 april 1958 inzake douane en accijnzen straft met dezelfde straf de eigenaar, de houder en de bestuurder van een motorvoertuig waarvan de regelmatige aanwezigheid in het land niet is bewezen."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1997:ARR.19970625.8": {
+      "court": "CASS",
+      "date": "1997-06-25",
+      "roleNumber": "P960780F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/25/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté ministériel du 17 février 1960 réglant les franchises en matière de droits d'accises à l'importation est demeuré en vigueur nonobstant l'abrogation de l'article 2 de la loi du 30 avril 1958 concernant les douanes et accises."
+      ],
+      "abstractNL": [
+        "Het MB 17 feb. 1960 tot regeling van de vrijstellingen inzake accijns op de invoer is van kracht gebleven, niettegenstaande de opheffing van art. 2, Douane en Accijnzenwet."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:1966:ARR.19661215.3": {
+      "court": "CASS",
+      "date": "1966-12-15",
+      "roleNumber": "4081;4084",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/12/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, en matière civile, la défenderesse en cassation est une femme mariée, dont le régime matrimonial n'est pas régulièrement porté à la connaissance de la cour et qui n'est pas autorisée par son mari à ester en justice, la cour lui accorde, pour autant que de besoin, l'autorisation d'ester devant elle. (Code civil, art. 226ter; loi du 30 avril 1958, art. 8, 2°.)"
+      ],
+      "abstractNL": [
+        "Wanneer, in burgerlijke zaken, de verweerster in cassatie een gehuwde vrouw is, van wie het huwelijksstelsel niet regelmatig ter kennis van het Hof is gebracht en die door haar man niet gemachtigd is om in rechte op te treden, verleent het Hof haar, voor zoveel als nodig, machtiging om voor het Hof in rechte op te treden. (Burgerl. Wetb., art. 226ter; wet van 30 april 1958, art. 8, 2°.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690324.8": {
+      "court": "CASS",
+      "date": "1969-03-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/03/24/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "la loi du 30 avril 1958 accordant les mêmes droits aux deux époux, le consentement de l'un d'eux suffit pour qu'une visite domiciliaire puisse être légalement effectuée sans mandat à la résidence conjugale."
+      ],
+      "abstractNL": [
+        "Nu de wet van 30 april 1958 aan beide echtgenoten dezelfde rechten toekent, volstaat de toestemming van een van beiden opdat er wettelijk, zonder bevel, in de echtelijke verblijfplaats een huiszoeking kan gedaan worden."
+      ]
+    }
+  }
+}

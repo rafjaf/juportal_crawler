@@ -1,0 +1,72 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1979:ARR.19790918.10": {
+      "court": "CASS",
+      "date": "1979-09-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/18/sitemap_9.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1972:ARR.19720622.12": {
+      "court": "CASS",
+      "date": "1972-06-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'événement qui donne ouverture à l'action de l'assuré, auteur responsable d'un dommage causé à autrui, contre l'assureur qui couvre sa responsabilité civile, événement à partir duquel, aux termes de l'article 32 de la loi du 11 juin 1874 sur les assurances, la prescription de trois ans de cette action prend cours, n'est point, tant sous le régime antérieur à l'entrée en vigueur de l'article 2 de la loi du 30 mai 1961 qui a complété ledit article 32 que sous l'empire de cette dernière loi, l'accident qui a causé le dommage."
+      ],
+      "abstractNL": [
+        "De gebeurtenis waarop gegrond is de rechtsvordering van de verzekerde, aansprakelijke dader van de aan een ander veroorzaakte schade, tegen de verzekeraar die zijn burgerrechtelijke aansprakelijkheid dekt en te rekenen waarvan krachtens artikel 32 van de wet van 11 juni 1874 op de verzekeringen de driejarige verjaring van deze rechtsvordering begint te lopen, is geenszins, zowel onder het stelsel van voor de inwerkingtreding van artikel 2 van de wet van 30 mei 1961, dat genoemd artikel 32 heeft aangevuld, als onder het stelsel dat voortvloeit uit deze laatste wet, het ongeval waardoor de schade is veroorzaakt."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:1965:ARR.19651214.3": {
+      "court": "CASS",
+      "date": "1965-12-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/12/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 6 de la loi du 30 mai 1961, portant certaines mesures exceptionnelles en matière de délais et de sursis en raison de troubles sociaux survenus en Belgique, n'est applicable qu'aux prescriptions, forclusions, péremptions et déchéances acquises, en matière fiscale, entre le 20 décembre 1960 et le 23 janvier 1961."
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1996:ARR.19960405.7": {
+      "court": "CASS",
+      "date": "1996-04-05",
+      "roleNumber": "A940002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/04/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 21 de la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale, tel qu'il a été modifié par les lois des 30 mai 1961 et 24 décembre 1993, l'action publique est prescrite après dix ans à compter du jour où l'infraction a été commise, lorsque cette infraction constitue un crime, et après cinq ans à compter du jour où l'infraction a été commise, lorsque cette infraction constitue un délit."
+      ],
+      "abstractNL": [
+        "Krachtens art. 21, V.T.Sv., gewijzigd bij de wetten van 30 mei 1961 en 24 december 1993, verjaart de strafvordering door verloop van tien jaren, te rekenen van de dag waarop het misdrijf is gepleegd, wanneer dit misdrijf een misdaad is, en door verloop van vijf jaren te rekenen van de dag waarop het misdrijf is gepleegd, wanneer dit misdrijf een wanbedrijf is."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19650925.3": {
+      "court": "CASS",
+      "date": "1965-09-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Sous l'empire de la loi du 17 avril 1878, avant sa modification par la loi du 30 mai 1961, la circonstance que le dommage résultant d'un délit ne s'était manifesté qu'après l'expiration du délai de prescription de l'action publique, n'entraînait pas dérogation à la règle d'ordre public, selon laquelle le délai de prescription de l'action civile résultant de ce délit était de trois ans. (Loi du 17 avril 1878, art. 22.)"
+      ],
+      "abstractNL": null
+    }
+  }
+}

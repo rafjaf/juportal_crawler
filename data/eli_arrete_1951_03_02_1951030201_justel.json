@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19700420.1": {
+      "court": "CASS",
+      "date": "1970-04-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/04/20/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La condition mise par la remarque 3 du chapitre VII de l'arrêté ministériel du 2 mars 1951, fixant les tarifs des soins de santé en matière d'assurance obligatoire en cas de maladie, au remboursement des honoraires du médecin physiothérapeute, que les examens et traitements physiothérapeutiques aient été effectués par ce dernier, implique pour celui-ci l'obligation, lorsqu'il se fait assister par des auxiliaires, sinon de se trouver constamment sur les lieux mêmes, du moins de pouvoir ètre joint à tout moment."
+      ],
+      "abstractNL": [
+        "De voorwaarde gesteld door de opmerking 3 van hoofdstuk VII van het ministerieel besluit van 2 maart 1951 tot vaststelling van de tarieven der gezondheidszorgen inzake verplichte ziekte- en invaliditeitsverzekering, voor de terugbetaling van het honorarium van de arts-fysiotherapeut, dat de fysiotherapeutische onderzoeken en behandelingen door deze laatste verricht worden, sluit voor hem de verplichting in, wanneer hij zich laat bijstaan door helpers, zo niet zich steeds ter plaatse te bevinden dan toch op elk ogenblik bereikt te kunnen worden."
+      ]
+    }
+  }
+}

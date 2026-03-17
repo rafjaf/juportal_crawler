@@ -1,0 +1,18 @@
+{
+  "1181": {
+    "ECLI:BE:CASS:2005:ARR.20050908.9": {
+      "court": "CASS",
+      "date": "2005-09-08",
+      "roleNumber": "C040407N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/09/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Une obligation est contractée sous condition suspensive lorsqu'elle dépend d'un événement futur et incertain ou d'un événement qui s'est déjà réalisé mais que les parties ignorent; le respect ou le non-respect d'une des obligations auxquelles les parties se sont engagées ne peut être considéré comme une condition suspensive (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Een verbintenis is onder een opschortende voorwaarde aangegaan als zij afhangt van een toekomstige en onzekere gebeurtenis ofwel van een gebeurtenis die reeds heeft plaatsgehad maar aan partijen nog onbekend is; de nakoming of de niet-nakoming van een van de verbintenissen waartoe partijen zich hebben verbonden, kan niet worden beschouwd als een opschortende voorwaarde (1). (1) Zie de conclusie van het O.M."
+      ]
+    }
+  }
+}

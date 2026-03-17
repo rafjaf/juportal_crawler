@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1984:ARR.19840118.11": {
+      "court": "CASS",
+      "date": "1984-01-18",
+      "roleNumber": "3190",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/01/18/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Ni la rente destinée à remplacer la pension de retraite ni celle qui doit permettre de recourir à l'aide d'une tierce personne et ne constitue nullement la rémunération de celle-ci, ne sont des revenus soumis à l'arrêté royal n°11 du 26 février 1982 portant certaines modifications temporaires aux règles relatives à la liaison des salaires et rémunérations à l'indice des prix à la consommation du Royaume."
+      ],
+      "abstractNL": [
+        "Noch de ter vervanging van een rustpensioen toegekende rente, noch de rente die een beroep op de hulp van een derde mogelijk moet maken en die geenszins als het loon van die derde kan worden beschouwd, zijn inkomsten die onderworpen zijn aan het K.B. n°11 van 26 feb. 1982 houdende bepaalde tijdelijke wijzigingen in de regeling inzake de koppeling van de lonen en bezoldigingen aan het indexcijfer van de consumptieprijzen van het Rijk."
+      ]
+    }
+  }
+}

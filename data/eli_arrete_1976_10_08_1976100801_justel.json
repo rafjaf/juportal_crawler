@@ -1,4 +1,20 @@
 {
+  "9": {
+    "ECLI:BE:CASS:2003:ARR.20031002.9": {
+      "court": "CASS",
+      "date": "2003-10-02",
+      "roleNumber": "F010084N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/10/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "En vue de déterminer le bénéfice imposable des entreprises, il peut être procédé, en matière de terrains, à une correction du prix d'acquisition; cette correction consistant à déduire les frais d'acquisition des terrains inclus dans le prix d'acquisition du prix d'acquisition auquel les terrains ont été évalués, n'est pas contraire aux règles comptables fixées aux articles 9, alinéa 1er, 12, alinéa 2, 20, 21, et 28, ,§ 3, de l'arrêté royal du 8 octobre 1976 relatif aux comptes annuels des entreprises, pour autant que ces frais ne représentent plus aucune valeur lors de la clôture de l'exercice comptable; il ne suit pas nécessairement de ces règles que la dévalorisation doive résulter d'un événement postérieur à l'acquisition et à la comptabilisation des terrains pour leur valeur comptable globale (1). (1) Cass., 22 juin 2000, RG F.99.0141.N, n° 393."
+      ],
+      "abstractNL": [
+        "Om de belastbare winst van de ondernemingen vast te stellen, kan, inzake gronden, een correctie op de aanschaffingsprijs in aanmerking worden genomen; een correctie, die hierin bestaat dat de kosten die gepaard gaan met de aankoop van gronden en in de aanschaffingsprijs begrepen zijn, in mindering worden gebracht van de aanschaffingsprijs waartegen de gronden gewaardeerd werden, strijdt niet met de boekhoudkundige regels vastgesteld in de artt. 9, eerste lid, 12, tweede lid, 20, 21, en 28, ,§ 3, K.B. 8 oktober 1976 met betrekking tot de jaarrekening van de ondernemingen, voor zover die kosten bij het afsluiten van het boekjaar geen waarde meer vertegenwoordigen; uit die regels volgt niet noodzakelijk dat de ontwaarding het gevolg moet zijn van een gebeurtenis die na de aankoop en de boeking van de grond voor zijn totale boekhoudwaarde plaatsvindt (1). (1) Cass., 22 juni 2000, AR F.99.0141.N, A.C., 2000, nr 393."
+      ]
+    }
+  },
   "13": {
     "ECLI:BE:CASS:2009:ARR.20090319.21": {
       "court": "CASS",
@@ -31,6 +47,20 @@
       "abstractNL": [
         "Het enige doel van de boekhoudkundige aanpassingen bestaat erin aan elk opeenvolgend boekjaar van dezelfde onderneming de desbetreffende opbrengsten te verbinden; ze laten niet toe om in de rekeningen van de overnemende onderneming de aanschaffingsprijs van vastrentende effecten te corrigeren wanneer die prijs werd vastgesteld op basis van de reeds sinds de voorgaande vervaldag verlopen interest en kunnen evenmin ertoe leiden dat het gedeelte van de verkoopprijs dat de tegenwaarde van de verlopen interest vertegenwoordigt in de rekeningen van de overdragende onderneming worden gekwalificeerd als financiële opbrengsten (1). (1) Art. 27bis, § 3, KB 8 oktober 1976, vóór de wijziging ervan door het KB van 6 november 1987.",
         "De onderneming die tussen twee vervaldagen vastrentende effecten koopt, niet op grond van artikel 19, vierde lid, van het koninklijk besluit van 8 oktober 1976 verplicht is om uit de aankoopprijs van die effecten, die op de actiefzijde van de balans worden geboekt, een bedrag te halen gelijk aan de reeds verlopen interest en het te debiteren op een resultatenrekening van klasse 75 “Financiële opbrengsten”, zodat het creditsaldo van die rekening op de volgende vervaldag kan samenvallen met het bedrag van de sinds de koop verlopen interest (1). (1) Art. 27bis, § 3, KB 8 oktober 1976, vóór de wijziging ervan door het KB van 6 november 1987."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970220.13": {
+      "court": "CASS",
+      "date": "1997-02-20",
+      "roleNumber": "F950097F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la société tient une comptabilité autrement que par année civile et que la période imposable coïncide dès lors avec l'exercice social clôturé pendant l'année dont le millésime désigne l'exercice d'imposition, l'impôt dû pour cet exercice d'imposition est établi sur les bénéfices qui proviennent de toutes les opérations traitées, qui sont réalisés ou recueillis pendant la période de l'exercice social précité, qui résultent de la comptabilité et qui sont déterminés conformément aux règles du droit comptable."
+      ],
+      "abstractNL": [
+        "Wanneer een vennootschap anders dan per kalenderjaar boekhoudt en het belastbare tijdperk derhalve samenvalt met het boekjaar afgesloten in het jaar waarnaar het aanslagjaar wordt genoemd, wordt de voor dat aanslagjaar verschuldigde belasting vastgesteld op grond van de winsten die voortkomen uit alle gedane verrichtingen, die verwezenlijkt of verkregen zijn tijdens het tijdperk van het voornoemde boekjaar, zoals ze uit de boekhouding blijken en vastgesteld worden overeenkomstig de regels van het boekhoudrecht."
       ]
     }
   },
@@ -70,6 +100,22 @@
       ]
     }
   },
+  "28": {
+    "ECLI:BE:CASS:2000:ARR.20000622.7": {
+      "court": "CASS",
+      "date": "2000-06-22",
+      "roleNumber": "F990141N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/06/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En vue de déterminer le bénéfice imposable des sociétés, il peut être procédé, en matière de terrains à une correction du prix d'acquisition; une correction consistant à déduire les frais accompagnant l'acquisition des terrains et inclus dans le prix d'acquisition du prix d'acquisition auquel les terrains ont été évalués, n'est pas contraire aux règles comptables fixées aux articles 20, 21, 28, §§ 3 et 12, alinéa 2, de l'arrêté royal du 8 octobre 1976 relatif aux comptes annuels des entreprises, pour autant que ces frais ne représentent plus aucune valeur lors de la clôture de l'exercice comptable."
+      ],
+      "abstractNL": [
+        "Om de belastbare winst van de ondernemingen vast te stellen, kan, inzake gronden, een correctie op de aanschaffingsprijs in aanmerking worden genomen; een correctie, die hierin bestaat dat de kosten die gepaard gaan met de aankoop van gronden en in de aanschaffingsprijs begrepen zijn, in mindering worden gebracht van de aanschaffingsprijs waartegen de gronden gewaardeerd werden, strijdt niet met de boekhoudkundige regels vastgesteld in de artt. 20, 21, 28, § 3 en 12, tweede lid, KB 8 oktober 1976 met betrekking tot de jaarrekening van de ondernemingen, voor zover die kosten bij het afsluiten van het boekjaar geen waarde meer vertegenwoordigen."
+      ]
+    }
+  },
   "27bis": {
     "ECLI:BE:CASS:2021:ARR.20210506.1F.5": {
       "court": "CASS",
@@ -85,6 +131,22 @@
       "abstractNL": [
         "Het enige doel van de boekhoudkundige aanpassingen bestaat erin aan elk opeenvolgend boekjaar van dezelfde onderneming de desbetreffende opbrengsten te verbinden; ze laten niet toe om in de rekeningen van de overnemende onderneming de aanschaffingsprijs van vastrentende effecten te corrigeren wanneer die prijs werd vastgesteld op basis van de reeds sinds de voorgaande vervaldag verlopen interest en kunnen evenmin ertoe leiden dat het gedeelte van de verkoopprijs dat de tegenwaarde van de verlopen interest vertegenwoordigt in de rekeningen van de overdragende onderneming worden gekwalificeerd als financiële opbrengsten (1). (1) Art. 27bis, § 3, KB 8 oktober 1976, vóór de wijziging ervan door het KB van 6 november 1987.",
         "De onderneming die tussen twee vervaldagen vastrentende effecten koopt, niet op grond van artikel 19, vierde lid, van het koninklijk besluit van 8 oktober 1976 verplicht is om uit de aankoopprijs van die effecten, die op de actiefzijde van de balans worden geboekt, een bedrag te halen gelijk aan de reeds verlopen interest en het te debiteren op een resultatenrekening van klasse 75 “Financiële opbrengsten”, zodat het creditsaldo van die rekening op de volgende vervaldag kan samenvallen met het bedrag van de sinds de koop verlopen interest (1). (1) Art. 27bis, § 3, KB 8 oktober 1976, vóór de wijziging ervan door het KB van 6 november 1987."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970220.13": {
+      "court": "CASS",
+      "date": "1997-02-20",
+      "roleNumber": "F950097F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la société tient une comptabilité autrement que par année civile et que la période imposable coïncide dès lors avec l'exercice social clôturé pendant l'année dont le millésime désigne l'exercice d'imposition, l'impôt dû pour cet exercice d'imposition est établi sur les bénéfices qui proviennent de toutes les opérations traitées, qui sont réalisés ou recueillis pendant la période de l'exercice social précité, qui résultent de la comptabilité et qui sont déterminés conformément aux règles du droit comptable."
+      ],
+      "abstractNL": [
+        "Wanneer een vennootschap anders dan per kalenderjaar boekhoudt en het belastbare tijdperk derhalve samenvalt met het boekjaar afgesloten in het jaar waarnaar het aanslagjaar wordt genoemd, wordt de voor dat aanslagjaar verschuldigde belasting vastgesteld op grond van de winsten die voortkomen uit alle gedane verrichtingen, die verwezenlijkt of verkregen zijn tijdens het tijdperk van het voornoemde boekjaar, zoals ze uit de boekhouding blijken en vastgesteld worden overeenkomstig de regels van het boekhoudrecht."
       ]
     }
   }

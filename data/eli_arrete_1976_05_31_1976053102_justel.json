@@ -1,0 +1,40 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1980:ARR.19800415.1": {
+      "court": "CASS",
+      "date": "1980-04-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1979:ARR.19790817.3": {
+      "court": "CASS",
+      "date": "1979-08-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/08/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les infractions aux dispositions des arrêtés royaux pris en exécution de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, commises postérieurement à l'entrée en vigueur de la loi du 9 juillet 1975 modifiant ladite loi du 24 février 1921, sont punies des peines prévues par la loi modificative du 9 juillet 1975 et non par celles que prévoyait la loi modifiée du 24 février 1921, même si les arrêtés royaux enfreints ont été pris avant les modifications introduites dans la loi du 24 février 1921 par celle du 9 juillet 1975."
+      ],
+      "abstractNL": [
+        "De overtredingen van de bepalingen van de koninklijke besluiten ter uitvoering van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica, die zijn gepleegd na de inwerkingtreding van de wet van 9 juli 1975 tot wijziging van de wet van 24 februari 1921, worden gestraft met de straffen gesteld bij de wijzigende wet van 9 juli 1975 en niet bij die van de gewijzigde wet van 24 februari 1921, ook al zijn de overtreden koninklijke besluiten genomen vóór de wijziging van de wet van 24 februari 1921 door de wet van 9 juli 1975."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800415.1": {
+      "court": "CASS",
+      "date": "1980-04-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    }
+  }
+}

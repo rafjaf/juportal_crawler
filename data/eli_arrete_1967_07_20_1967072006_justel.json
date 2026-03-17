@@ -11,6 +11,50 @@
       "abstractNL": [
         "De adviserend geneesheer is met de verzekeringsinstelling verbonden door een arbeidsovereenkomst. Hij wordt derhalve door deze laatste ontslagen, tenzij een bijzondere regeling haar deze bevoegdheid ontzegt. Het feit dat artikel 88 vierde lid, van de wet van 9 augustus 1963 en artikel 30 van het Koninklijk besluit nr. 35 van 20 juli 1967 _ dit ontslag afhankelijk maakt van de intrekking van de erkenning van de adviserend geneesheer door het comité van de Dienst voor Geneeskundige Controle, doet geen afbreuk aan de regel dat de werknemer ontslagen wordt door zijn werkgever. Aangezien krachtens het tweede lid van voormeld artikel 30 de rechtbanken het recht behouden de door de verzekeringsinstelling ingeroepen \"ernstige tekortkoming\" te beoordelen \"op grond van artikel 18 van de wetten inzake het bediendencontract\" doet de voorgeschreven tussenkomst van de administratieve overheid geen afbreuk aan de bevoegdheid van de rechtbanken om te oordelen over het geschil tussen de partijen bij de arbeidsovereenkomst."
       ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20051024.5": {
+      "court": "CASS",
+      "date": "2005-10-24",
+      "roleNumber": "S040175N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La protection particulière en cas de licenciement prévue au bénéfice des médecins-conseils tend, dans l'intérêt du régime de l'assurance maladie-invalidité obligatoire, à garantir leur indépendance à l'égard des organismes assureurs qui les ont engagés."
+      ],
+      "abstractNL": [
+        "De bijzondere ontslagbescherming ten behoeve van de adviserend geneesheren strekt ertoe in het belang van de organisatie van de verplichte ziekte- en invaliditeitsverzekering, hun onafhankelijkheid te waarborgen ten opzichte van de verzekeringsinstelling die hen in dienst heeft genomen."
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810907.9": {
+      "court": "CASS",
+      "date": "1981-09-07",
+      "roleNumber": "2895",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/09/07/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Le médecin-conseil d'un organisme assureur qui est licencié sur-le-champ, par application de l'article 30 de l'arrêté royal nr. 35 du 20 juillet 1967, peut exercer contre l'organisme assureur une action en payement d'une indemnité de congé."
+      ],
+      "abstractNL": [
+        "De adviserend geneesheer van een verzekeringsinstelling die op staande voet is ontslagen, met toepassing van art. 30 K.B. nr. 35 van 20 juli 1967, kan tegen de verzekeringsinstelling een vordering tot betaling van een opzeggingsvergoeding instellen."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:2005:ARR.20051024.5": {
+      "court": "CASS",
+      "date": "2005-10-24",
+      "roleNumber": "S040175N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/10/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le droit de priorité accordé au médecin-conseil est explicitement restreint au licenciement en raison de la suppression d'un emploi de médecin-conseil et, en conséquence, n'est pas applicable aux autres cas de licenciement."
+      ],
+      "abstractNL": [
+        "Het voorkeurrecht van de adviserend geneesheer is uitdrukkelijk beperkt tot het ontslag nopens ambtsopheffing en geldt derhalve niet in andere gevallen van ontslag."
+      ]
     }
   },
   "general": {

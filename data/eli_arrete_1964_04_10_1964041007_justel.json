@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830126.8": {
+      "court": "CASS",
+      "date": "1983-01-26",
+      "roleNumber": "2711",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/01/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Une violation des droits de la défense ne saurait être déduite de la seule circonstance que le juge a, par une appréciation en fait et pour les raisons qu'il précise, décidé qu'il n'y avait pas lieu de joindre au dossier de la procédure à charge du prévenu des pièces qu'il considérait comme ne concernant qu'une autre procédure."
+      ],
+      "abstractNL": [
+        "Miskenning van het recht van verdediging kan niet worden afgeleid uit de enkele omstandigheid dat de rechter, op grond van een feitelijke beoordeling en om de redenen die hij vermeldt, beslist dat bij het dossier over de procedure ten laste van de beklaagde, geen stukken behoeven te worden gevoegd die, naar zijn oordeel, verband hielden met een andere procedure <1>."
+      ]
+    }
+  }
+}

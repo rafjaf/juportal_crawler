@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1970:ARR.19701130.3": {
+      "court": "CASS",
+      "date": "1970-11-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/11/30/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 1er décembre 1969 portant réglementation en matière de viandes surgelées, pris en exécution de la loi du 5 septembre 1952 relative à l'expertise et au commerce des viandes, soumet les viandes surgelées à une réglementation spéciale complétant la réglementation organisée par ladite loi, laquelle réglemente le commerce des viandes de boucherie sans distinction entre les viandes fraîches et les viandes surgelées."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 1 december 1969 houdende reglementering betreffende het diepvriesvlees, ter uitvoering van de wet van 5 september 1952 betreffende de vleeskeuring en de vleeshandel, onderwerpt het diepvriesvlees aan een speciale reglementering ter aanvulling van hoger genoemde wet die een reglementering vaststelt van de handel in vlees in het algemeen, zonder onderscheid tussen het vers vlees en het diepvriesvlees."
+      ]
+    }
+  }
+}

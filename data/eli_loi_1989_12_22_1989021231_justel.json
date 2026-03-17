@@ -1,4 +1,48 @@
 {
+  "2": {
+    "ECLI:BE:CASS:1992:ARR.19920611.15": {
+      "court": "CASS",
+      "date": "1992-06-11",
+      "roleNumber": "9262",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/11/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Un bail visé par l'article 1er de la loi du 22 décembre 1989 relative à la protection du logement familial, qui est venu à échéance avant le 1er janvier 1991 mais après l'entrée en vigueur de ladite loi, est prorogé d'un an en vertu de l'article 2 de cette loi, même si le preneur a déja bénéficié d'une prorogation judiciaire passée en force de chose jugée avant l'entrée en vigueur de la même loi."
+      ],
+      "abstractNL": [
+        "Een huurovereenkomst als bedoeld in art. 1, wet van 22 december 1989 op de bescherming van de gezinswoning, die voor 1 januari 1991 maar na de inwerkingtreding van de genoemde wet is vervallen, wordt ingevolge art. 2 van die wet met één jaar verlengd, ook al heeft de huurder reeds een gerechtelijke verlenging genoten, die voor de inwerkingtreding van dezelfde wet kracht van gewijsde heeft verkregen."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1993:ARR.19930917.12": {
+      "court": "CASS",
+      "date": "1993-09-17",
+      "roleNumber": "7942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/17/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Une personne morale peut être bailleur ou acquéreur du bien loué visé à l'article 4, alinéa 1er, a, de la loi du 22 décembre 1989 relative à la protection du logement familial."
+      ],
+      "abstractNL": [
+        "Een rechtspersoon kan verhuurder of verkrijger van het verhuurde goed zijn de zin art. 4, alinéa 1, a, W. 22 december 1989 op de bescherming van de gezinswoning."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931125.13": {
+      "court": "CASS",
+      "date": "1993-11-25",
+      "roleNumber": "9571",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/11/25/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Art. 4, alinéa 1, Wet van 22 dec. 1989 op de bescherming van de gezinswoning, volgens hetwelk de verhuurder van het verhuurde goed op de vastgestelde vervaldatum of gedurende de verlenging de overeenkomst kan beëindigen om persoonlijk het goed te bewonen, vereist enkel dat de verhuurder zijn voornemen om de huurovereenkomst te beëindigen heeft te kennen gegeven en dat tussen de kennisgeving van de opzegging en het vertrek van de huurder zes maanden zijn verlopen."
+      ]
+    }
+  },
   "37": {
     "ECLI:BE:CASS:1996:ARR.19960124.8": {
       "court": "CASS",
@@ -12,6 +56,50 @@
       ],
       "abstractNL": [
         "Wettig is de beslissing dat de magnetische resonantie tomograaf een zwaar medisch apparaat is, wanneer de rechter die beslissing grondt hetzij op de aankoopprijs van die tomograaf hetzij op het feit dat de bediening ervan hooggespecialiseerd personeel vergt."
+      ]
+    }
+  },
+  "38": {
+    "ECLI:BE:CASS:1999:ARR.19991220.7": {
+      "court": "CASS",
+      "date": "1999-12-20",
+      "roleNumber": "S980094F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 24, alinéa 4, de la loi du 10 avril 1971 sur les accidents du travail, qui fixe l'allocation complémentaire à laquelle la victime d'un accident du travail entraînant une incapacité permanente de travail a droit si son état exige l'assistance nécessaire d'une tierce personne, tel qu'il a été modifié par l'article 38 de la loi-programme du 22 décembre 1989, entrée en vigueur le 9 janvier 1990, sans effet rétroactif, n'est pas applicable aux conséquences d'un accident du travail qui surviennent avant le 9 janvier 1990, même si cet accident du travail a encore des effets après cette date."
+      ],
+      "abstractNL": [
+        "Art. 24, vierde lid, Arbeidsongevallenwet, zoals gewijzigd bij art. 38 Programmawet 22 december 1989, die op 9 januari 1990, zonder terugwerkende kracht, in werking is getreden, dat de bijkomende vergoeding bepaalt waarop de getroffene van een arbeidsongeval met blijvende arbeidsongeschiktheid recht heeft als zijn toestand de noodzakelijke hulp van een derde persoon vergt, is niet van toepassing op de gevolgen van een arbeidsongeval die zich vóór 9 januari 1990 voordoen, ook al zijn er na die datum nog gevolgen van dat arbeidsongeval."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990510.6": {
+      "court": "CASS",
+      "date": "1999-05-10",
+      "roleNumber": "S980133N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 24, alinéa 4, de la loi du 10 avril 1971 sur les accidents du travail qui fixe l'allocation complémentaire à laquelle la victime d'un accident du travail entraînant une incapacité permanente de travail a droit si son état exige l'assistance nécessaire d'une tierce personne, tel qu'il a été modifié par l'article 38 de la loi-programme du 22 décembre 1989, entrée en vigueur le 9 janvier 1990, sans effet rétroactif, n'est pas applicable aux conséquences d'un accident du travail qui surviennent avant le 9 janvier 1990, même si cet accident du travail a encore des effets après cette date."
+      ],
+      "abstractNL": [
+        "Artikel 24, vierde lid van de Arbeidsongevallenwet van 10 april 1971 dat de bijkomende vergoeding bepaalt waarop het slachtoffer van een arbeidsongeval met blijvende arbeidsongeschiktheid kan aanspraak maken voor noodzakelijke hulp van derden, zoals gewijzigd bij art. 38 van de Programmawet van 22 december 1989, in voege getreden op 9 januari 1990 zonder terugwerkende kracht, is niet van toepassing op de gevolgen van een arbeidsongeval die zich voor 9 januari 1990 voordoen, ook al zijn er na die datum nog gevolgen van dit arbeidsongeval."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910610.15": {
+      "court": "CASS",
+      "date": "1991-06-10",
+      "roleNumber": "7413",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/10/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'allocation octroyée à la victime d'un accident du travail dont l'incapacité permanente de travail nécessite l'assistance d'une tierce personne peut être déterminée sur la base du prix de revient de l'aide requise et par comparaison entre ce prix et la rémunération de base (*). ( Loi du 10 avril 1971, art. 24, alinéa 4 (**). )"
+      ],
+      "abstractNL": [
+        "De vergoeding voor hulp van een derde aan een door een arbeidsongeval getroffene die blijvend arbeidsongeschikt is, mag worden bepaald op grond van de kostprijs van de vereiste hulp en door vergelijking van die kostprijs met het basisloon (*). ( Art. 24, vierde lid, Arbeidsongevallenwet van 10 april 1971 (**). )"
       ]
     }
   },
@@ -165,6 +253,124 @@
       "abstractNL": [
         "Uit de artikelen 22ter, tweede lid RSZ-wet, 157 Wet Deeltijdse Arbeid en 15, eerste en tweede lid Arbeidsreglementenwet volgt dat een afschrift van de arbeidsovereenkomst van de deeltijdse werknemer of een uittreksel van die arbeidsovereenkomst met de werkroosters bedoeld in artikel 157 Wet Deeltijdse Arbeid moet worden bewaard op elke plaats waar de werknemers worden tewerkgesteld en bijgevolg ook op de plaatsen van tewerkstelling die niet de bedrijfszetel of exploitatiezetel van de werkgever zijn; uit die bepalingen volgt evenwel niet dat een afschrift van de arbeidsovereenkomst van de deeltijdse werknemer of een uittreksel van die arbeidsovereenkomst met de werkroosters ook moet worden bewaard buiten de plaats van tewerkstelling waar het arbeidsreglement geraadpleegd moet kunnen worden, noch dat elke plaats waar de werknemer werkend wordt aangetroffen een plaats van tewerkstelling is waar het arbeidsreglement geraadpleegd moet kunnen worden."
       ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020218.3": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010093N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerk (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020218.5": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010133N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerkers (1)."
+      ]
+    }
+  },
+  "158": {
+    "ECLI:BE:CASS:2002:ARR.20020218.3": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010093N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerk (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020218.5": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010133N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerkers (1)."
+      ]
+    }
+  },
+  "159": {
+    "ECLI:BE:CASS:2002:ARR.20020218.3": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010093N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerk (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020218.5": {
+      "court": "CASS",
+      "date": "2002-02-18",
+      "roleNumber": "S010133N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/02/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les obligations imposées aux employeurs en ce qui concerne la publicité des horaires des travailleurs à temps partiel et la constatation des dérogations aux horaires de travail normaux tendent à permettre un contrôle efficace des prestations réellement effectuées, en vue de prévenir et de réprimer le travail clandestin (1)."
+      ],
+      "abstractNL": [
+        "De verplichtingen opgelegd aan de werkgevers met betrekking tot de bekendmaking van de werkroosters van de deeltijdse werknemers en met betrekking tot de vaststelling van de afwijkingen op de normale werkroosters strekken ertoe een efficiënte controle mogelijk te maken op de werkelijk verrichte prestaties, met het oog op de voorkoming en de bestrijding van zwartwerkers (1)."
+      ]
+    }
+  },
+  "171": {
+    "ECLI:BE:CASS:2001:ARR.20010605.6": {
+      "court": "CASS",
+      "date": "2001-06-05",
+      "roleNumber": "P991501N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le caractère redevable des cotisations de sécurité sociale sur la rémunération d'un emploi à temps plein en raison de l'application de la présomption légale prévue par l'article 171 de la loi-programme du 22 décembre 1989 n'est pas une peine (1)."
+      ],
+      "abstractNL": [
+        "Het verschuldigd zijn van de sociale zekerheidsbijdragen op het loon voor een voltijdse tewerkstelling ten gevolge van de toepassing van het wettelijk vermoeden bepaald in artikel 171 van de Programmawet van 22 december 1989 is geen straf (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970428.5": {
+      "court": "CASS",
+      "date": "1997-04-28",
+      "roleNumber": "S960040N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'obligation de l'employeur relative à la publicité des contrats de travail conclus pour un travail à temps partiel aux horaires de travail variables est aussi applicable aux contrats dans lesquels l'employeur accorde au travailleur le droit de déterminer lui-même les heures de travail."
+      ],
+      "abstractNL": [
+        "De verplichting van de werkgever tot openbaarmaking van de arbeidsovereenkomsten voor deeltijdse arbeid met variabele werkroosters geldt eveneens voor deze overeenkomsten waarin de werkgever aan de werknemer het recht toekent zelf de werkuren te bepalen."
+      ]
     }
   },
   "172": {
@@ -185,6 +391,50 @@
         "Niettemin ontlenen deze ambtshalve veroordelingen aan de strafrechtelijke sanctie die zij vervolledigen, een repressief en afschrikwekkend karakter dat vooral tot uiting komt in het bedrag ervan, vastgesteld op het drievoud van de bedoelde bijdragen. Deze maatregelen beogen aldus niet enkel het herstel van de schade die de Rijksdienst voor Sociale Zekerheid door het misdrijf werkelijk heeft geleden maar vertonen hierdoor ook het karakter van een strafrechtelijke sanctie in de zin van artikel 7.1 E.V.R.M., wat enkel meebrengt dat de waarborgen van de bepalingen van het E.V.R.M. moeten in acht genomen worden, maar niet tot gevolg heeft dat die maatregelen van strafrechtelijke aard zijn in de zin van het Belgisch Strafwetboek zodat de algemene bepalingen van het Belgisch strafrecht en strafprocesrecht erop toepassing moeten vinden (1). (1) Zie de conclusie van het openbaar ministerie.",
         "De tenuitvoerlegging van de ambtshalve veroordeling die geen straf is in de zin van het Strafwetboek, maar een maatregel van burgerlijke aard, verjaart overeenkomstig de regels van het burgerlijk recht (1). (1) Zie de conclusie van het openbaar ministerie."
       ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991004.6": {
+      "court": "CASS",
+      "date": "1999-10-04",
+      "roleNumber": "S970153F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "A défaut de la publicité des horaires de travail des travailleurs à temps partiel, prévue dans la loi-programme du 22 décembre 1989, les travailleurs sont présumés avoir effectué leurs prestations dans le cadre d'un contrat de travail à temps plein sans que la preuve du contraire puisse être apportée; cette présomption a toutefois été établie au profit des institutions et des fonctionnaires compétents pour prévenir et réprimer le travail clandestin et non au profit des travailleurs."
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van, in de programmawet van 22 december 1989 bepaalde, openbaarmaking van de werkroosters van de deeltijdse werknemers, worden de werknemers vermoed hun arbeidsprestaties voltijds te hebben verricht zonder dat het bewijs van het tegendeel kan worden aangebracht; dat vermoeden is evenwel ingesteld ten voordele van de instellingen en ambtenaren die bevoegd zijn om zwartwerk te voorkomen en te bestrijden en niet ten voordele van de werknemers."
+      ]
+    }
+  },
+  "326": {
+    "ECLI:BE:CASS:1994:ARR.19941212.4": {
+      "court": "CASS",
+      "date": "1994-12-12",
+      "roleNumber": "P940742N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, pour une infraction commise avant le 9 janvier 1990,date d'entrée en vigueur de la loi-programme du 22 décembre 1989, publiée au Moniteur belge du 30 décembre 1989, majore de 790 décimes l'amende à laquelle il condamne le prévenu."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest waarbij de aan beklaagde opgelegde geldboete met 790 deciemen wordt verhoogd wegens een misdrijf dat hij heeft gepleegd voor 9 jan. 1990, d.i. de dag van de inwerkingtreding van de programmawet van 22 dec. 1989, bekendgemaakt in het Belgisch Staatsblad van 30 dec. 1989. (Art. 1 wet 5 maart 1952; art. 326 Programmawet 22 dec. 1989)."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910626.15": {
+      "court": "CASS",
+      "date": "1991-06-26",
+      "roleNumber": "8994",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/26/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "L'article 326 de la loi-programme du 22 décembre 1989, qui majore de 790 décimes les amendes pénales, est applicable aux amendes prononcées pour les infractions commises depuis le 9 janvier 1990."
+      ],
+      "abstractNL": [
+        "Art. 326 Programmawet van 22 december 1989, waarbij de strafrechtelijke geldboeten worden verhoogd tot 790 deciemen, is van toepassing op de geldboeten die worden uitgesproken voor de na 9 januari 1990 gepleegde misdrijven."
+      ]
     }
   },
   "general": {
@@ -200,6 +450,132 @@
       ],
       "abstractNL": [
         "De wetten waarvan toepassing wordt gevraagd, worden in de regel uitgelegd door de rechter en niet door het Arbitragehof; aldus staat het aan het Hof van Cassatie en niet aan het Arbitragehof te beslissen of de gec. Ziekenhuiswet 7 aug. 1987 een organieke wet is die o.a. hun financiering regelt."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990617.12": {
+      "court": "CASS",
+      "date": "1999-06-17",
+      "roleNumber": "C970300N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "L'article 93quaterdecies, § 1er, alinéa 3, du code de la taxe sur la valeur ajoutée, inséré par la loi du 22 décembre 1989, prévoit que les actes, pièces, registres et documents ou renseignements relatifs à des procédures judiciaires, ne peuvent être communiqués sans l'autorisation expresse du procureur général ou de l'auditeur général; dans cette disposition légale, les termes procureur général ou auditeur général désignent la fonction de procureur général ou d'auditeur général."
+      ],
+      "abstractNL": [
+        "Artikel 93quaterdecies, § 1, derde lid, van het BTW-wetboek, dat ingevoerd werd bij de Wet van 22 december 1989, bepaalt dat geen inzage mag worden verleend van de akten, stukken, registers en bescheiden of inlichtingen in verband met gerechtelijke procedures zonder uitdrukkelijke machtiging van de procureur-generaal of de auditeur-generaal; in die wetsbepaling bedoelen de termen procureur-generaal of auditeur-generaal de functie van procureur-generaal of auditeur-generaal."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010605.6": {
+      "court": "CASS",
+      "date": "2001-06-05",
+      "roleNumber": "P991501N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/05/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le caractère redevable des cotisations de sécurité sociale sur la rémunération d'un emploi à temps plein en raison de l'application de la présomption légale prévue par l'article 171 de la loi-programme du 22 décembre 1989 n'est pas une peine (1)."
+      ],
+      "abstractNL": [
+        "Het verschuldigd zijn van de sociale zekerheidsbijdragen op het loon voor een voltijdse tewerkstelling ten gevolge van de toepassing van het wettelijk vermoeden bepaald in artikel 171 van de Programmawet van 22 december 1989 is geen straf (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991220.7": {
+      "court": "CASS",
+      "date": "1999-12-20",
+      "roleNumber": "S980094F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 24, alinéa 4, de la loi du 10 avril 1971 sur les accidents du travail, qui fixe l'allocation complémentaire à laquelle la victime d'un accident du travail entraînant une incapacité permanente de travail a droit si son état exige l'assistance nécessaire d'une tierce personne, tel qu'il a été modifié par l'article 38 de la loi-programme du 22 décembre 1989, entrée en vigueur le 9 janvier 1990, sans effet rétroactif, n'est pas applicable aux conséquences d'un accident du travail qui surviennent avant le 9 janvier 1990, même si cet accident du travail a encore des effets après cette date."
+      ],
+      "abstractNL": [
+        "Art. 24, vierde lid, Arbeidsongevallenwet, zoals gewijzigd bij art. 38 Programmawet 22 december 1989, die op 9 januari 1990, zonder terugwerkende kracht, in werking is getreden, dat de bijkomende vergoeding bepaalt waarop de getroffene van een arbeidsongeval met blijvende arbeidsongeschiktheid recht heeft als zijn toestand de noodzakelijke hulp van een derde persoon vergt, is niet van toepassing op de gevolgen van een arbeidsongeval die zich vóór 9 januari 1990 voordoen, ook al zijn er na die datum nog gevolgen van dat arbeidsongeval."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991004.6": {
+      "court": "CASS",
+      "date": "1999-10-04",
+      "roleNumber": "S970153F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/04/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "A défaut de la publicité des horaires de travail des travailleurs à temps partiel, prévue dans la loi-programme du 22 décembre 1989, les travailleurs sont présumés avoir effectué leurs prestations dans le cadre d'un contrat de travail à temps plein sans que la preuve du contraire puisse être apportée; cette présomption a toutefois été établie au profit des institutions et des fonctionnaires compétents pour prévenir et réprimer le travail clandestin et non au profit des travailleurs."
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van, in de programmawet van 22 december 1989 bepaalde, openbaarmaking van de werkroosters van de deeltijdse werknemers, worden de werknemers vermoed hun arbeidsprestaties voltijds te hebben verricht zonder dat het bewijs van het tegendeel kan worden aangebracht; dat vermoeden is evenwel ingesteld ten voordele van de instellingen en ambtenaren die bevoegd zijn om zwartwerk te voorkomen en te bestrijden en niet ten voordele van de werknemers."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970428.5": {
+      "court": "CASS",
+      "date": "1997-04-28",
+      "roleNumber": "S960040N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'obligation de l'employeur relative à la publicité des contrats de travail conclus pour un travail à temps partiel aux horaires de travail variables est aussi applicable aux contrats dans lesquels l'employeur accorde au travailleur le droit de déterminer lui-même les heures de travail."
+      ],
+      "abstractNL": [
+        "De verplichting van de werkgever tot openbaarmaking van de arbeidsovereenkomsten voor deeltijdse arbeid met variabele werkroosters geldt eveneens voor deze overeenkomsten waarin de werkgever aan de werknemer het recht toekent zelf de werkuren te bepalen."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941212.4": {
+      "court": "CASS",
+      "date": "1994-12-12",
+      "roleNumber": "P940742N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/12/12/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "N'est pas légalement justifié l'arrêt qui, pour une infraction commise avant le 9 janvier 1990,date d'entrée en vigueur de la loi-programme du 22 décembre 1989, publiée au Moniteur belge du 30 décembre 1989, majore de 790 décimes l'amende à laquelle il condamne le prévenu."
+      ],
+      "abstractNL": [
+        "Niet naar recht verantwoord is het arrest waarbij de aan beklaagde opgelegde geldboete met 790 deciemen wordt verhoogd wegens een misdrijf dat hij heeft gepleegd voor 9 jan. 1990, d.i. de dag van de inwerkingtreding van de programmawet van 22 dec. 1989, bekendgemaakt in het Belgisch Staatsblad van 30 dec. 1989. (Art. 1 wet 5 maart 1952; art. 326 Programmawet 22 dec. 1989)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930917.12": {
+      "court": "CASS",
+      "date": "1993-09-17",
+      "roleNumber": "7942",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/09/17/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Une personne morale peut être bailleur ou acquéreur du bien loué visé à l'article 4, alinéa 1er, a, de la loi du 22 décembre 1989 relative à la protection du logement familial."
+      ],
+      "abstractNL": [
+        "Een rechtspersoon kan verhuurder of verkrijger van het verhuurde goed zijn de zin art. 4, alinéa 1, a, W. 22 december 1989 op de bescherming van de gezinswoning."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920611.15": {
+      "court": "CASS",
+      "date": "1992-06-11",
+      "roleNumber": "9262",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/11/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Un bail visé par l'article 1er de la loi du 22 décembre 1989 relative à la protection du logement familial, qui est venu à échéance avant le 1er janvier 1991 mais après l'entrée en vigueur de ladite loi, est prorogé d'un an en vertu de l'article 2 de cette loi, même si le preneur a déja bénéficié d'une prorogation judiciaire passée en force de chose jugée avant l'entrée en vigueur de la même loi."
+      ],
+      "abstractNL": [
+        "Een huurovereenkomst als bedoeld in art. 1, wet van 22 december 1989 op de bescherming van de gezinswoning, die voor 1 januari 1991 maar na de inwerkingtreding van de genoemde wet is vervallen, wordt ingevolge art. 2 van die wet met één jaar verlengd, ook al heeft de huurder reeds een gerechtelijke verlenging genoten, die voor de inwerkingtreding van dezelfde wet kracht van gewijsde heeft verkregen."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910610.15": {
+      "court": "CASS",
+      "date": "1991-06-10",
+      "roleNumber": "7413",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/06/10/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'allocation octroyée à la victime d'un accident du travail dont l'incapacité permanente de travail nécessite l'assistance d'une tierce personne peut être déterminée sur la base du prix de revient de l'aide requise et par comparaison entre ce prix et la rémunération de base (*). ( Loi du 10 avril 1971, art. 24, alinéa 4 (**). )"
+      ],
+      "abstractNL": [
+        "De vergoeding voor hulp van een derde aan een door een arbeidsongeval getroffene die blijvend arbeidsongeschikt is, mag worden bepaald op grond van de kostprijs van de vereiste hulp en door vergelijking van die kostprijs met het basisloon (*). ( Art. 24, vierde lid, Arbeidsongevallenwet van 10 april 1971 (**). )"
       ]
     }
   }

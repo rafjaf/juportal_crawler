@@ -1,0 +1,46 @@
+{
+  "21": {
+    "ECLI:BE:CASS:1997:ARR.19970905.6": {
+      "court": "CASS",
+      "date": "1997-09-05",
+      "roleNumber": "C960296F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Avant l'entrée en vigueur de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, le contrat d'assurance pouvait, sans porter atteinte à l'équivalence entre les engagements de l'assureur et ceux du preneur d'assurance, prévoir une action récursoire de l'assureur lorsqu'au moment du sinistre, le véhicule assuré était conduit par une personne ne satisfaisant pas aux conditions légales, par exemple un mineur transportant un passager sur un cyclomoteur."
+      ],
+      "abstractNL": [
+        "Vóór de inwerkingtreding van de Verzekeringswet kon de verzekeringsovereenkomst zonder de gelijkwaardigheid tussen de verbintenissen van de verzekeraar en die van de verzekeringnemer aan te tasten, bepalen dat de verzekeraar een regresvordering kon instellen, wanneer het verzekerde motorrijtuig op het ogenblik van het ongeval bestuurd werd door een persoon die niet voldeed aan de wettelijke voorwaarden, bijvoorbeeld een minderjarige die een duorijder vervoerde op een bromfiets."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920409.14": {
+      "court": "CASS",
+      "date": "1992-04-09",
+      "roleNumber": "9315",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/09/sitemap_15.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer een clausule van een verzekeringscontract in zoverre onduidelijk is gesteld dat de contracterende partij in dwaling kan worden gebracht, wordt zij, overeenkomstig art. 19, alinéa 2, wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen en art. 21 K.B. van 12 maart 1976 houdende het algemeen reglement betreffende de controle van de verzekeringsondernemingen, als nietig aangemerkt, op grond dat zij niet in duidelijke en nauwkeurige bewoordingen is opgesteld."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970905.6": {
+      "court": "CASS",
+      "date": "1997-09-05",
+      "roleNumber": "C960296F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/09/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Avant l'entrée en vigueur de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, le contrat d'assurance pouvait, sans porter atteinte à l'équivalence entre les engagements de l'assureur et ceux du preneur d'assurance, prévoir une action récursoire de l'assureur lorsqu'au moment du sinistre, le véhicule assuré était conduit par une personne ne satisfaisant pas aux conditions légales, par exemple un mineur transportant un passager sur un cyclomoteur."
+      ],
+      "abstractNL": [
+        "Vóór de inwerkingtreding van de Verzekeringswet kon de verzekeringsovereenkomst zonder de gelijkwaardigheid tussen de verbintenissen van de verzekeraar en die van de verzekeringnemer aan te tasten, bepalen dat de verzekeraar een regresvordering kon instellen, wanneer het verzekerde motorrijtuig op het ogenblik van het ongeval bestuurd werd door een persoon die niet voldeed aan de wettelijke voorwaarden, bijvoorbeeld een minderjarige die een duorijder vervoerde op een bromfiets."
+      ]
+    }
+  }
+}

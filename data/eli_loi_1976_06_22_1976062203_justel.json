@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1977:ARR.19771012.7": {
+      "court": "CASS",
+      "date": "1977-10-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/10/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Seuls les jugements et arrêts rendus après l'entrée en vigueur de la loi du 22 juin 1976 concernant le serment en matière pénale peuvent avoir l'effet nouveau que celle-ci leur attribue (2)."
+      ],
+      "abstractNL": [
+        "Alleen vonnissen welke na de inwerkingtreding van de wet van 22 juni 1976 betreffende de eed in strafzaken zijn gewezen kunnen het nieuw gevolg hebben dat deze wet eraan toekent (2)."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770117.10": {
+      "court": "CASS",
+      "date": "1977-01-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/01/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Seuls les jugements rendus après l'entrée en vigueur de la loi du 22 juin 1976 concernant le serment en matière pénale peuvent avoir l'effet nouveau que celle-ci leur attribue (4). (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Alleen vonnissen welke na de inwerkingtreding van de wet van 22 juni 1976 betreffende de eed in strafzaken zijn gewezen kunnen het nieuw gevolg hebben dat deze wet eraan toekent (3). ( Impliciete oplossing. )"
+      ]
+    }
+  }
+}

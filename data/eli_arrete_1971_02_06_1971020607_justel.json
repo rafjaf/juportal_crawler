@@ -1,0 +1,48 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1986:ARR.19860918.10": {
+      "court": "CASS",
+      "date": "1986-09-18",
+      "roleNumber": "7469",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/09/18/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La juridiction de renvoi n'a à connaître d'un litige que dans les limites précisées par l'arrêt de la Cour et ne peut statuer sur des chefs de la cause déjà résolus qui ne lui ont pas été soumis par cet arrêt."
+      ],
+      "abstractNL": [
+        "De rechter op verwijzing neemt slechts kennis van een geschil binnen de grenzen die het Hof in zijn arrest heeft vastgelegd en kan geen uitspraak doen over de reeds beslechte punten van de zaak, die hem door dat arrest niet zijn voorgelegd."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1988:ARR.19880927.6": {
+      "court": "CASS",
+      "date": "1988-09-27",
+      "roleNumber": "1650",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les éléments qui, en vertu de l'arrêté ministériel du 6 février 1971 déterminant la composition du dossier de demande de permis de bâtir, doivent être mentionnés sur le plan de construction joint à la demande de permis de bâtir, font preuve dans une certaine mesure; l'omission intentionnelle d'y porter certaines mentions peut être de nature à causer un préjudice. ( Code pénal, art. 193 et 196. )"
+      ],
+      "abstractNL": [
+        "De gegevens die krachtens het ministerieel besluit van 6 februari 1971 tot vaststelling van de samenstelling van het dossier van de aanvraag om bouwvergunning moeten worden vermeld in het bouwplan dat wordt gevoegd bij de bouwaanvraag, strekken in een zekere mate tot bewijs; opzettelijk nalaten daarop bepaalde vermeldingen te doen kan van dien aard zijn dat het nadeel berokkent. ( Artt. 193 en 196 Strafwetboek. )"
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860918.10": {
+      "court": "CASS",
+      "date": "1986-09-18",
+      "roleNumber": "7469",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/09/18/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La juridiction de renvoi n'a à connaître d'un litige que dans les limites précisées par l'arrêt de la Cour et ne peut statuer sur des chefs de la cause déjà résolus qui ne lui ont pas été soumis par cet arrêt."
+      ],
+      "abstractNL": [
+        "De rechter op verwijzing neemt slechts kennis van een geschil binnen de grenzen die het Hof in zijn arrest heeft vastgelegd en kan geen uitspraak doen over de reeds beslechte punten van de zaak, die hem door dat arrest niet zijn voorgelegd."
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1982:ARR.19821122.8": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3527",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les rémunérations payées en vertu d'une convention collective de travail sont liées à l'indice des prix à la consommation, les indexations sont applicables aux rémunérations effectivement payées, sans déduction des augmentations de rémunérations qui sont étrangères à l'évolution de l'indice des prix à la consommation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitbetaalde lonen ingevolge een collectieve arbeidsovereenkomst gekoppeld zijn aan het indexcijfer van de consumptieprijzen, dienen de indexaanpassingen te worden toegepast op de werkelijk uitbetaalde lonen zonder dat de toegekende loonsverhogingen die niets te maken hebben met de evolutie van het indexcijfer, in mindering mogen worden gebracht."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820211.5": {
+      "court": "CASS",
+      "date": "1982-02-11",
+      "roleNumber": "6446",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/02/11/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1982:ARR.19821122.8": {
+      "court": "CASS",
+      "date": "1982-11-22",
+      "roleNumber": "3527",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/22/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les rémunérations payées en vertu d'une convention collective de travail sont liées à l'indice des prix à la consommation, les indexations sont applicables aux rémunérations effectivement payées, sans déduction des augmentations de rémunérations qui sont étrangères à l'évolution de l'indice des prix à la consommation."
+      ],
+      "abstractNL": [
+        "Wanneer de uitbetaalde lonen ingevolge een collectieve arbeidsovereenkomst gekoppeld zijn aan het indexcijfer van de consumptieprijzen, dienen de indexaanpassingen te worden toegepast op de werkelijk uitbetaalde lonen zonder dat de toegekende loonsverhogingen die niets te maken hebben met de evolutie van het indexcijfer, in mindering mogen worden gebracht."
+      ]
+    }
+  }
+}

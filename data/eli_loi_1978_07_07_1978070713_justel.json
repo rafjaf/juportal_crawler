@@ -1,0 +1,50 @@
+{
+  "8": {
+    "ECLI:BE:CASS:1993:ARR.19930112.9": {
+      "court": "CASS",
+      "date": "1993-01-12",
+      "roleNumber": "5785",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La question, posée devant la juridiction répressive, de savoir si un accident du roulage est un accident du travail stricto sensu ou un accident survenu sur le chemin du travail, est une question préjudicielle, au sens de l'article 74, alinéa 2, de la loi sur les accidents du travail, complétée par l'article 8 de la loi du 7 juillet 1978."
+      ],
+      "abstractNL": [
+        "De voor de strafrechter gestelde vraag of een verkeersongeval een arbeidsongeval sensu stricto dan wel een ongeval op de weg naar en van het werk is, levert een prejudicieel geschil op in de zin van art. 74, tweede lid, Arbeidsongevallenwet, als aangevuld bij art. 8 Wet van 7 juli 1978."
+      ]
+    }
+  },
+  "47": {
+    "ECLI:BE:CASS:1981:ARR.19810106.15": {
+      "court": "CASS",
+      "date": "1981-01-06",
+      "roleNumber": "6094",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/01/06/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'assureur-loi qui exerce son recours contre le tiers responsable de l'accident est subrogé dans les droits que l'ayant droit de la victime aurait pu exercer en droit commun; partant, lorsque le dommage résultant de l'accident a été causé par les fautes concurrentes du prévenu et de la victime, l'assureur-loi n'est subrogé aux droits dudit ayant droit que dans la mesure de la part de responsabilité du prévenu dans l'accident. ( Loi du 7 juillet 1978, art. 47; loi du 10 avril 1971 sur les accidents du travail, art. 5. )"
+      ],
+      "abstractNL": [
+        "Wanneer de arbeidsongevallenverzekeraar zich verhaalt op de voor het ongeval aansprakelijke derde, treedt hij in de rechten die de rechthebbende van de getroffene naar gemeen recht had kunnen uitoefenen, zodat, ingeval de schade is veroorzaakt door de samenlopende fouten van de beklaagde en van de getroffene, de arbeidsongevallenverzekeraar in de rechten van de rechthebbende treedt in evenredigheid met de aansprakelijkheid van de beklaagde voor het ongeval. (Art. 47 wet 7 juli 1978; art. 5 Arbeidsongevallenwet.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1993:ARR.19930112.9": {
+      "court": "CASS",
+      "date": "1993-01-12",
+      "roleNumber": "5785",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/12/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La question, posée devant la juridiction répressive, de savoir si un accident du roulage est un accident du travail stricto sensu ou un accident survenu sur le chemin du travail, est une question préjudicielle, au sens de l'article 74, alinéa 2, de la loi sur les accidents du travail, complétée par l'article 8 de la loi du 7 juillet 1978."
+      ],
+      "abstractNL": [
+        "De voor de strafrechter gestelde vraag of een verkeersongeval een arbeidsongeval sensu stricto dan wel een ongeval op de weg naar en van het werk is, levert een prejudicieel geschil op in de zin van art. 74, tweede lid, Arbeidsongevallenwet, als aangevuld bij art. 8 Wet van 7 juli 1978."
+      ]
+    }
+  }
+}

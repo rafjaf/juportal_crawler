@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19971103.4": {
+      "court": "CASS",
+      "date": "1997-11-03",
+      "roleNumber": "S970078N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/03/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité compensatoire forfaitaire due par l'employeur au travailleur quittant l'entreprise, ensuite d'une clause de non-concurrence faisant partie du contrat de travail, constitue une indemnité obtenue en raison ou à l'occasion de la cessation de travail ou de la rupture d'un contrat de travail, sur laquelle le précompte professionnel est dû."
+      ],
+      "abstractNL": [
+        "De forfaitaire compensatoire vergoeding die door de werkgever aan de werknemer, die het bedrijf verlaat, verschuldigd is ingevolge een niet-concurrentiebeding dat deel uitmaakt van een arbeidsovereenkomst is een vergoeding verkregen uit hoofde of naar aanleiding van het stopzetten van de arbeid of het beëindigen van een arbeidsovereenkomst waarop bedrijfsvoorheffing verschuldigd is."
+      ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960523.9": {
+      "court": "CASS",
+      "date": "1996-05-23",
+      "roleNumber": "C950392N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/05/23/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le privilège établi par l'article 19, 3°bis, de la loi hypothécaire n'étant, en règle, pas applicable aux cotisations à la sécurité sociale du travailleur et au précompte professionnel relatifs à la rémunération à laquelle le travailleur a droit ensuite de prestations effectuées avant la faillite, le curateur est tenu de calculer la créance du travailleur relative aux créances nées avant la faillite sur la base de la rémunération brute, diminuée de la cotisation à la sécurité sociale du travailleur et du précompte professionnel forfaitaire, déterminé sur la base des revenus bruts diminués des retenues sociales obligatoires."
+      ],
+      "abstractNL": [
+        "Nu in de regel het bij art. 19, 3°bis, Hypotheekwet gevestigde voorrecht niet van toepassing is op de sociale zekerheidsbijdragen van de werknemer en de bedrijfsvoorheffing die betrekking hebben op het loon waarop de werknemer recht had ingevolge prestaties geleverd vóór het faillissement, volgt hieruit dat de curator de schuldvordering van de werknemer met betrekking tot vóór het faillissement ontstane vorderingen dient te berekenen op grond van het bruto-loon, verminderd met de sociale zekerheidsbijdrage van de werknemer en met de forfaitair berekende bedrijfsvoorheffing, vastgesteld op grondslag van de bruto-inkomsten verminderd met de verplichte sociale inhoudingen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1977:ARR.19770419.2": {
+      "court": "CASS",
+      "date": "1977-04-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/04/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A l'article 1er de la loi du 17 décembre 1963 organisant le contrôle des voyageurs dans les maisons d'hébergement, les termes \" le jour de l'arrivée du voyageur dans l'établissement \" signifient le jour civil de son arrivée et non la période de 24 heures suivant cette arrivée."
+      ],
+      "abstractNL": [
+        "In artikel 1 van de wet van 17 december 1963 tot inrichting van de controle op reizigers in logementshuizen wordt onder de woorden \" de dag waarop de reiziger in de gelegenheid aankomt \" verstaan de kalenderdag waarop hij aankomt en niet een tijdsruimte van vierentwintig uur na de aankomst."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:1978:ARR.19780530.4": {
+      "court": "CASS",
+      "date": "1978-05-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à l'article 1er de la loi du 17 décembre 1963 organisant le contrôle des voyageurs dans les maisons d'hébergement ainsi qu'aux arrêtés royaux pris en exécution dudit article étant punissables de peines correctionnelles, l'action publique née desdites infractions est prescrite après trois ans à compter du jour où l'infraction a été commise. (Loi du 17 décembre 1963, art. 2; loi du 17 avril 1878, art. 21 et 25.)"
+      ],
+      "abstractNL": [
+        "De overtredingen van artikel 1 van de wet van 17 december 1963 tot inrichting van de controle op de reizigers in logementhuizen, alsmede van de koninklijke besluiten tot uitvoering ervan, zijn strafbaar met correctionele straffen, zodat de strafvordering ontstaan uit die misdrijven vervalt door verloop van drie jaren te rekenen van de dag dat het misdrijf is gepleegd. (Wet van 17 december 1963, art. 2; wet van 17 april 1878, artt. 21 en 25.)"
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1978:ARR.19780530.4": {
+      "court": "CASS",
+      "date": "1978-05-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/05/30/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à l'article 1er de la loi du 17 décembre 1963 organisant le contrôle des voyageurs dans les maisons d'hébergement ainsi qu'aux arrêtés royaux pris en exécution dudit article étant punissables de peines correctionnelles, l'action publique née desdites infractions est prescrite après trois ans à compter du jour où l'infraction a été commise. (Loi du 17 décembre 1963, art. 2; loi du 17 avril 1878, art. 21 et 25.)"
+      ],
+      "abstractNL": [
+        "De overtredingen van artikel 1 van de wet van 17 december 1963 tot inrichting van de controle op de reizigers in logementhuizen, alsmede van de koninklijke besluiten tot uitvoering ervan, zijn strafbaar met correctionele straffen, zodat de strafvordering ontstaan uit die misdrijven vervalt door verloop van drie jaren te rekenen van de dag dat het misdrijf is gepleegd. (Wet van 17 december 1963, art. 2; wet van 17 april 1878, artt. 21 en 25.)"
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770419.2": {
+      "court": "CASS",
+      "date": "1977-04-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/04/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "A l'article 1er de la loi du 17 décembre 1963 organisant le contrôle des voyageurs dans les maisons d'hébergement, les termes \" le jour de l'arrivée du voyageur dans l'établissement \" signifient le jour civil de son arrivée et non la période de 24 heures suivant cette arrivée."
+      ],
+      "abstractNL": [
+        "In artikel 1 van de wet van 17 december 1963 tot inrichting van de controle op reizigers in logementshuizen wordt onder de woorden \" de dag waarop de reiziger in de gelegenheid aankomt \" verstaan de kalenderdag waarop hij aankomt en niet een tijdsruimte van vierentwintig uur na de aankomst."
+      ]
+    }
+  }
+}

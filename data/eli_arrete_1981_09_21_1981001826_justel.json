@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990531.3": {
+      "court": "CASS",
+      "date": "1999-05-31",
+      "roleNumber": "S980057N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/31/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le travail à temps partiel est le travail effectué de façon régulière et volontaire pendant une durée plus courte que la normale et qui doit être distingué du travail occasionnel, du travail saisonnier et du travail temporaire."
+      ],
+      "abstractNL": [
+        "De deeltijdse arbeid is de arbeid die regelmatig en vrijwillig gedurende een kortere periode dan de normale periode wordt verricht en die te onderscheiden is van occasionele arbeid, seizoenarbeid en tijdelijke arbeid."
+      ]
+    }
+  }
+}

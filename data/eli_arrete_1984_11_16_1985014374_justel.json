@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860304.11": {
+      "court": "CASS",
+      "date": "1986-03-04",
+      "roleNumber": "164",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/03/04/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Ne doit être ni titulaire ni porteur d'un permis de conduire le conducteur d'un tracteur agricole, véhicule lent au sens de l'article 1.11 de l'arrêté royal du 15 mars 1968 portant règlement général sur les conditions techniques auxquelles doivent répondre les véhicules automobiles et leurs remorques ( arrêté royal du 1er février 1977, art. 3, 4° )."
+      ],
+      "abstractNL": [
+        "De bestuurder van een landbouwtractor, voertuig voor traag vervoer als omschreven in art. 1.11 van het K.B. van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's en hun aanhangwagens moeten voldoen, hoeft noch houder noch drager te zijn van een rijbewijs. ( Art. 3, 4°, K.B. van 1 februari 1977 )."
+      ]
+    }
+  }
+}

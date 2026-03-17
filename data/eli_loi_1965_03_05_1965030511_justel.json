@@ -1,0 +1,50 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1970:ARR.19701207.3": {
+      "court": "CASS",
+      "date": "1970-12-07",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/12/07/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement la décision que l'activité du prévenu tombe sous l'application de la loi du 5 mars 1965 sur l'enseignement par correspondance, l'arrêt qui relève que l'institution dirigée par le prévenu dispense des cours par correspondance au niveau de l'enseignement moyen, normal ou technique et que ces cours préparent les élèves à des examens prévus par l'article 2 de ladite loi."
+      ],
+      "abstractNL": [
+        "De beslissing dat de bedrijvigheid van de beklaagde onder de toepassing valt van de wet van 5 maart 1965 op het schriftelijk onderwijs wordt wettelijk gerechtvaardigd door het arrest dat erop wijst dat de instelling onder de leiding van de beklaagde schriftelijke leergangen geeft op het niveau van het middelbaar, het normaal en het technisch onderwijs en dat deze leergangen de leerlingen voorbereiden voor de examens waarvan sprake in artikel 2 van bedoelde wet."
+      ]
+    }
+  },
+  "40": {
+    "ECLI:BE:CASS:1972:ARR.19720306.1": {
+      "court": "CASS",
+      "date": "1972-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les contrats ayant pour objet des cours payants d'enseignement par correspondance ne doivent contenir les mentions indiquées à l'article 23, alinéa 2, 1°, de la loi du 5 mars 1965 sur l'enseignement par correspondance que si ces cours préparent soit à un des examens ou concours visés à l'article 2 de ladite loi, c'est-à-dire les épreuves à subir devant les jurys d'examens institués par le Roi en exécution des lois d'enseignement, à l'exception de ceux prévus à l'article 40 des lois sur la collation des grades académiques et le programme des examens universitaires, soit aux examens et concours administratifs organisés par l'Etat, les provinces, les communes ou des organismes d'intérêt public."
+      ],
+      "abstractNL": [
+        "De contracten betreffende schriftelijke leergangen tegen betaling moeten slechts dan de vermeldingen voorkomende in artikel 23, alinéa 2, 1°, van de wet van 5 maart 1965 op het schriftelijk onderwijs bevatten, wanneer die leergangen voorbereiden op één van de al dan niet vergelijkende examens in artikel 2 van deze wet, dit wil zeggen de examens voor de examencommissies die de Koning ter uitvoering van de onderwijswetten instelt, met uitzondering van de commissies bedoeld in artikel 40 van de gecoördineerde wetten op het toekennen van de academische graden en het programma van de universitaire examens uitgeschreven door de Staat, de provincies, de gemeenten of instellingen van openbaar nut."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720306.1": {
+      "court": "CASS",
+      "date": "1972-03-06",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les contrats ayant pour objet des cours payants d'enseignement par correspondance ne doivent contenir les mentions indiquées à l'article 23, alinéa 2, 1°, de la loi du 5 mars 1965 sur l'enseignement par correspondance que si ces cours préparent soit à un des examens ou concours visés à l'article 2 de ladite loi, c'est-à-dire les épreuves à subir devant les jurys d'examens institués par le Roi en exécution des lois d'enseignement, à l'exception de ceux prévus à l'article 40 des lois sur la collation des grades académiques et le programme des examens universitaires, soit aux examens et concours administratifs organisés par l'Etat, les provinces, les communes ou des organismes d'intérêt public."
+      ],
+      "abstractNL": [
+        "De contracten betreffende schriftelijke leergangen tegen betaling moeten slechts dan de vermeldingen voorkomende in artikel 23, alinéa 2, 1°, van de wet van 5 maart 1965 op het schriftelijk onderwijs bevatten, wanneer die leergangen voorbereiden op één van de al dan niet vergelijkende examens in artikel 2 van deze wet, dit wil zeggen de examens voor de examencommissies die de Koning ter uitvoering van de onderwijswetten instelt, met uitzondering van de commissies bedoeld in artikel 40 van de gecoördineerde wetten op het toekennen van de academische graden en het programma van de universitaire examens uitgeschreven door de Staat, de provincies, de gemeenten of instellingen van openbaar nut."
+      ]
+    }
+  }
+}

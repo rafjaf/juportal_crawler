@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2002:ARR.20021108.6": {
+      "court": "CASS",
+      "date": "2002-11-08",
+      "roleNumber": "C000374N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/11/08/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne viole pas la nature du contrat de location-financement au sens de l'arrêté royal n° 55 du 10 novembre 1967 organisant le statut juridique des entreprises pratiquant la location-financement, le juge qui prononce la résiliation du contrat et impute le produit de la chose donnée en leasing sur les indemnités revenant au bailleur en vertu des stipulations du contrat et sur les arriérés dus par le locataire."
+      ],
+      "abstractNL": [
+        "Het is niet strijdig met de aard van een leasingovereenkomst in de zin van het Koninklijk Besluit nr 55 van 10 november 1967, dat de rechter die de overeenkomst ontbonden verklaart, de opbrengst van de geleasde zaak toerekent op de contractueel bedongen vergoedingen die aan de leasinggever toekomen en op de door de leasingnemer verschuldigde achterstallen."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1977:ARR.19770425.5": {
+      "court": "CASS",
+      "date": "1977-04-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/04/25/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La question de savoir si une partie a soulevé une exception d'incompétence devant la chambre des mises en accusation dépend, non pas de la qualification qu'elle a donnée à son moyen de défense, mais de l'objet réel de la contestation (1)."
+      ],
+      "abstractNL": [
+        "De vraag of een partij voor de kamer van inbeschuldigingstelling een exceptie van onbevoegdheid heeft opgeworpen, hangt niet af van de kwalificatie die zij aan haar verweermiddel heeft gegeven, maar van het werkelijke voorwerp van de betwisting (1)."
+      ]
+    }
+  },
+  "1994": {
+    "ECLI:BE:CASS:2006:ARR.20060206.1": {
+      "court": "CASS",
+      "date": "2006-02-06",
+      "roleNumber": "S050030N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/06/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le mandant peut autoriser le mandataire à se faire représenter ou assister dans l'exécution du mandat; cette autorisation peut même être tacite."
+      ],
+      "abstractNL": [
+        "De lastgever kan aan de lasthebber de toelating verlenen zich voor de uitvoering van het mandaat te laten vertegenwoordigen of bijstaan; deze toelating kan zelfs stilzwijgend zijn."
+      ]
+    }
+  }
+}

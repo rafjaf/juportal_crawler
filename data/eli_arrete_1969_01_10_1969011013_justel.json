@@ -1,4 +1,48 @@
 {
+  "2": {
+    "ECLI:BE:CASS:1992:ARR.19921019.10": {
+      "court": "CASS",
+      "date": "1992-10-19",
+      "roleNumber": "7952",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/10/19/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'exclusion du droit aux indemnités d'incapacité de travail prévue à l'article 2, 6°, de l'arrêté royal du 10 janvier 1969, est applicable lorsque le titulaire n'a pas informé son organisme assureur de la reprise d'un travail qui n'est pas effectué au service d'un employeur."
+      ],
+      "abstractNL": [
+        "De uitsluiting van het recht op uitkeringen wegens arbeidsongeschiktheid bepaald in art. 2, 6°, K.B. van 10 januari 1969, vindt ook toepassing, wanneer de gerechtigde zijn verzekeringsinstelling ervan niet in kennis heeft gesteld dat hij arbeid die niet in dienst van een werkgever wordt verricht, heeft hervat."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19900423.11": {
+      "court": "CASS",
+      "date": "1990-04-23",
+      "roleNumber": "8720;8854",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/04/23/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le législateur n'a pas défini l'activité et le travail en matière d'assurance maladie-invalidité, notamment au sens de l'article 56 de la loi du 9 août 1963; suivant leur sens usuel, le mot \"activité\" ne doit pas être confondu avec les mots \"travail\" et \"activité professionnelle\". ( Loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, art. 56, alinéa 1er, al. 1er, et alinéa 2; Arrêté royal du 4 novembre 1963 portant exécution de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, art. 232, alinéa 2; Arrêté royal du 31 décembre 1963 portant réglement des indemnités en matière d'assurance obligatoire contre la maladie et l'invalidité, art. 14; Arrêté royal du 10 janvier 1969 déterminant les sanctions administratives applicables aux bénéficiaires du régime d'assurance obligatoire contre la maladie et l'invalidité, art. 2, 4°. )"
+      ],
+      "abstractNL": [
+        "De wetgever heeft geen omschrijving gegeven van de begrippen \"werkzaamheid\" en \"werk\" in verband met de ziekte- en invaliditeitsverzekering, onder meer in de zin van art. 56, Z.I.V.-wet; volgens de gewone betekenis van die woorden mag \"werkzaamheid\" niet worden verward met \"werk\" en \"beroepsarbeid\". ( Art. 56, alinéa 1, eerste lid, en alinéa 2, Z.I.V.-wet; art. 232, alinéa 2, K.B. 4 november 1963 tot uitvoering van de Z.I.V.-wet; art. 14 K.B. van 31 december 1963 houdende verordening op de uitkeringen inzake verplichte ziekteverzekering en invaliditeitsverzekering; art. 2, 4°, K.B. van 10 januari 1969 tot vaststelling van de administratieve sancties die toepasselijk zijn op de rechthebbenden van de regeling voor verplichte ziekteverzekering en invaliditeitsverzekering. )"
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820121.10": {
+      "court": "CASS",
+      "date": "1982-01-21",
+      "roleNumber": "6338",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/01/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Des constatations qu'un travailleur indemnisé du chef d'incapacité de travail a travaillé personnellement à son habitation, aidé par des membres de sa famille, que cette activité, qui lui a permis de se passer des services d'un entrepreneur et de son personnel ou des services d'un ouvrier de sa qualification, lui a fait obtenir une augmentation considérable de son patrimoine par l'acquisition d'un bien immobilier, sans devoir payer la main-d'oeuvre, ni les charges sociales et fiscales qui la grèvent, et que cette activité ne peut en aucune manière être assimilée à des travaux quotidiens consistant dans l'entretien d'une maison ou dans des tâches ménagères, le juge déduit légalement que ce travailleur n'a pas cessé toute activité au sens de l'article 56 de la loi du 9 avril 1963 et qu'il a contrevenu à l'article 2, 4°, de l'arrêté royal du 10 janvier 1969, qui soumet la reprise d'une activité à l'autorisation préalable du médecin-conseil de l'organisme assureur."
+      ],
+      "abstractNL": [
+        "Uit de vaststellingen dat een werknemer, die wegens arbeidsongeschiktheid is vergoed, zelf aan de bouw van zijn woning heeft gewerkt met de hulp van familieleden, dat die werkzaamheid, waardoor hij de diensten van een aannemer en van diens personeel of de diensten van een werkman met zijn vakbekwaamheid kon missen, zijn vermogen aanzienlijk heeft doen toenemen, daar hij een onroerend goed heeft verkregen zonder de arbeidskrachten of de sociale en fiscale lasten daarvan te moeten betalen, en dat die werkzaamheid geenszins kan worden gelijkgesteld met dagelijkse werkzaamheden die bestaan in het onderhoud van een woning of in huishoudelijke taken, leidt de rechter wettig af dat die werknemer niet alle werkzaamheid heeft onderbroken, in de zin van artikel 56 van de wet van 9 april 1963, en dat hij inbreuk heeft gemaakt op artikel 2, 4°, van het koninklijk besluit van 10 januari 1969, dat de hervatting van een arbeid onderwerpt aan de voorafgaande toestemming van de adviserend geneesheer van zijn verzekeringsinstelling."
+      ]
+    }
+  },
   "12": {
     "ECLI:BE:CASS:1980:ARR.19801201.12": {
       "court": "CASS",
@@ -10,6 +54,20 @@
       "abstractFR": null,
       "abstractNL": [
         "Luidens artikel 67,2ó, b, van het koninklijk besluit van 20 juli 1971, wordt van het recht op arbeidsongeschiktheidsuitkering voor ten hoogste 75 dagen uitgesloten de gerechtigde die nalaat zijn verzekeringsinstelling kennis te geven van elk element tot wijziging van het in artikel 63 bedoelde inlichtingsblad dat op het recht op uitkering een weerslag heeft ; deze kennisgeving moet krachtens artikel 66,1ó, binnen twee dagen gebeuren. Artikel 69 van hetzelfde besluit verklaart onder meer artikel 12 van het koninklijk besluit van 10 januari 1969 toepasselijk op de in voornoemd artikel 67 bedoelde sancties ; luidens dit artikel 12 kan een sanctie niet weer worde uitgesproken vanaf de dag dat er twee jaar verlopen zijn sinds het vergrijp is begaan. Het vergrijp bedoeld in artikel 67,2ó, b, van het koninklijk besluit van 20 juli 1971, wordt begaan vanaf het verstrijken van de in artikel 66 bepaalde termijn tot op het ogenblik dat de gerechtigde zijn verplichting tot kennisgeving nakomt ; de verjaringstermijn van twee jaar begint derhalve te lopen vanaf de dag waarop de vereiste kennisgeving wordt gedaan. Het arbeidshof, dat oordeelt dat de verjaringstermijn begint te lopen bij het verstrijken van de termijn van twee dagen bedoeld in artikel 66 van het koninklijk besluit van 20 juli 1971 schendt aldus de voormelde bepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801201.9": {
+      "court": "CASS",
+      "date": "1980-12-01",
+      "roleNumber": "2952",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/12/01/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription par deux ans prévu par l'article 12 de l'arrêté royal du 10 janvier 1969, pendant lequel peut être prononcée une sanction administrative dans le cas spécifié à l'article 67, 2., b, de l'arrêté royal du 20 juillet 1971 instituant un régime d'assurance contre l'incapacité de travail en faveur des travailleurs indépendants, ne court qu'à partir du jour où le titulaire en défaut de le faire dans les délais prescrits notifie à son organisme assureur l'élément modifiant la feuille de renseignements visée à l'article 63 et ayant une incidence sur le droit aux prestations."
+      ],
+      "abstractNL": [
+        "De bij art. 12 K.B. 10 jan. 1969 bepaalde verjaringstermijn van twee jaar, tijdens welke een administratieve sanctie mag worden uitgesproken in het bij art. 67, 2°, b, Arbeidsongeschiktheidsbesluit Zelfstandigen van 20 juli 1971 bepaalde geval, begint pas te lopen vanaf de dag waarop de gerechtigde, die nagelaten heeft zulks te doen binnen de voorgeschreven tijd, zijn verzekeringsinstelling kennis heeft gegeven van het element dat het in art. 63 bedoelde inlichtingsblad wijzigt en een weerslag heeft op het recht op uitkering <1>."
       ]
     }
   },

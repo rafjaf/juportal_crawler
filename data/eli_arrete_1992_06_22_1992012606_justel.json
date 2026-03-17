@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970210.6": {
+      "court": "CASS",
+      "date": "1997-02-10",
+      "roleNumber": "S960100N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/10/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Lors de la détermination, postérieurement au 1er juillet 1992, soit la date d'entrée en vigueur de l'arrêté royal du 22 juin 1992, du caractère de longue durée du chômage, il y a lieu de prendre en compte les périodes de chômage antérieures à cette date afin de déterminer si le double de la durée moyenne régionale du chômage est atteint."
+      ],
+      "abstractNL": [
+        "Bij de vaststelling na 1 juli 1992, zijnde de datum van de inwerkingtreding van het KB van 22 juni 1992, van het langdurig karakter van de werkloosheid, dienen de periodes van werkloosheid gelegen voor deze datum mee in rekening gebracht te worden om uit te maken of het dubbele van de gewestelijke gemiddelde werkloosheidsduur werd bereikt."
+      ]
+    }
+  }
+}

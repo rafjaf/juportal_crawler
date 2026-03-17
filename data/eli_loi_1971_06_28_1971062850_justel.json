@@ -41,6 +41,22 @@
       ]
     }
   },
+  "5": {
+    "ECLI:BE:CASS:2000:ARR.20000904.4": {
+      "court": "CASS",
+      "date": "2000-09-04",
+      "roleNumber": "S000003NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/09/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'octroi d'un pécule supplémentaire de vacances aux jeunes employés, la période de première occupation peut déjà prendre cours avant la fin des études ou de l'apprentissage."
+      ],
+      "abstractNL": [
+        "Voor de toekenning van het aanvullend vakantiegeld voor de jeugdige bedienden mag de periode van eerste tewerkstelling reeds vóór het einde van de studies of leertijd aanvangen."
+      ]
+    }
+  },
   "9": {
     "ECLI:BE:CASS:1974:ARR.19741218.8": {
       "court": "CASS",
@@ -258,6 +274,20 @@
       ],
       "abstractNL": [
         "De rechtsvordering, voortvloeiend uit overtreding van art. 54 wet jaarlijkse vakantie van de werknemers van 28 juni 1971, verjaart door verloop van vijf jaar te rekenen vanaf het feit dat de rechtsvordering heeft doen ontstaan <3>. (Art. 26 wet 17 april 1878, gew. bij de wet van 30 mei 1961.)"
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941116.16": {
+      "court": "CASS",
+      "date": "1994-11-16",
+      "roleNumber": "P940044F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions pénales relatives au paiement du pécule de vacances et à la tenue des documents sociaux sont des lois de police et de sûreté applicables aux faits commis en Belgique même si elles concernent la protection de travailleurs exerçant au moins partiellement leurs activités à l'étranger."
+      ],
+      "abstractNL": [
+        "De strafbepalingen i.v.m. de betaling van het vakantiegeld en het bijhouden van de sociale documenten zijn wetten van politie en veiligheid, die van toepassing zijn op de in België gepleegde feiten, zelfs als ze strekken tot bescherming van werknemers die ten minste gedeeltelijk hun werkzaamheden in het buitenland uitoefenen. (Art. 3 B.W.; art 54, 2°, Vakantiewet; art. 11, 1°, Sociale-Documentenwet)."
       ]
     }
   },

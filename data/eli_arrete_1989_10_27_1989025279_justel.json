@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1996:ARR.19960124.8": {
+      "court": "CASS",
+      "date": "1996-01-24",
+      "roleNumber": "P950190F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Décide légalement que le tomographe à résonance magnétique est un appareillage lourd, le juge qui fonde cette décision, soit sur le prix d'achat de ce tomographe, soit sur sa manipulation par un personnel hautement spécialisé."
+      ],
+      "abstractNL": [
+        "Wettig is de beslissing dat de magnetische resonantie tomograaf een zwaar medisch apparaat is, wanneer de rechter die beslissing grondt hetzij op de aankoopprijs van die tomograaf hetzij op het feit dat de bediening ervan hooggespecialiseerd personeel vergt."
+      ]
+    }
+  }
+}

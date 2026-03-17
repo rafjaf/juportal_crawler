@@ -1,4 +1,36 @@
 {
+  "13": {
+    "ECLI:BE:CASS:1987:ARR.19870611.18": {
+      "court": "CASS",
+      "date": "1987-06-11",
+      "roleNumber": "F857F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/11/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "Saisie d'un pourvoi qui nécessite une décision relative à la conformité, aux lois de réformes institutionnelles des 8 août 1980 (art. 6, alinéa 1er, VIII) et 9 août 1980 (art. 13), du décret du Conseil régional wallon du 29 juin 1985 établissant une taxe qui frappe les agences qui recueillent les paris sur les courses de chevaux courues à l'extérieur de la Région wallonne, la Cour saisit la Cour d'arbitrage d'une question préjudicielle (Loi du 28 juin 1983, art. 15)."
+      ],
+      "abstractNL": [
+        "Wanneer bij het Hof een voorziening is ingesteld die een beslissing noodzakelijk maakt over de vraag of het decreet van 29 juni 1985 van de Waalse Gewestraad tot invoering van een belasting op de agentschappen die weddenschappen voor de buiten het Waalse Gewest gelopen paardenwedrennen aannemen, in overeenstemming is met de wetten tot hervorming der instellingen van 8 augustus 1980 ( Art. 6, alinéa 1, VIII ) en 9 augustus 1980 ( art. 13 ), legt het Hof een prejudiciële vraag voor aan het Arbitragehof ( Art. 15 Wet 28 juni 1983 )."
+      ]
+    }
+  },
+  "16": {
+    "ECLI:BE:CASS:1986:ARR.19860109.13": {
+      "court": "CASS",
+      "date": "1986-01-09",
+      "roleNumber": "F729F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le règlement provincial établissant pour l'exercice 1982 une taxe \" sur \" la protection de l'environnement, adopté par le conseil provincial de Liège le 20 novembre 1981, bien qu'il rétroagisse au 1er juillet 1981, viole l'article 16 de la loi ordinaire de réformes institutionnelles du 9 août 1980, qui ne permettait aux provinces d'établir et de percevoir des impositions en 1982 qu'en vertu de la prorogation des règlements provinciaux existant au 31 juillet 1981."
+      ],
+      "abstractNL": [
+        "Het op 20 november 1981 door de provincieraad van Luik goedgekeurde provinciaal reglement waarbij voor het belastingjaar 1982 een belasting \" op \" de bescherming van het leefmilieu wordt ingevoerd, schendt, hoewel het terugwerkt tot 1 juli 1981, art. 16 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen, volgens hetwelk de provincies in 1982 enkel krachtens de verlenging van de op 31 juli 1981 bestaande provinciale reglementen belastingen konden heffen en invorderen."
+      ]
+    }
+  },
   "36": {
     "ECLI:BE:CASS:2018:ARR.20181206.11": {
       "court": "CASS",
@@ -12,6 +44,22 @@
       ],
       "abstractNL": [
         "In afwijking van de taaleenheid die de gecoördineerde wetten op het gebruik van de talen in bestuurszaken willen verwezenlijken in de twee grote Belgische taalgebieden, heeft de inwoner van een randgemeente die deze te kennen geeft dat hij gebruikmaakt van het Frans, het recht dat zowel de plaatselijke diensten van die gemeente als de diensten van de Vlaamse Executieve voortaan die taal gebruiken in al hun administratieve betrekkingen met hem, zonder dat hij zijn keuze moet verduidelijken naar aanleiding van een concrete administratieve betrekking of dat hij die keuze moet herhalen, hetzij in elke latere betrekking, hetzij met regelmatige tussenpozen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860109.13": {
+      "court": "CASS",
+      "date": "1986-01-09",
+      "roleNumber": "F729F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le règlement provincial établissant pour l'exercice 1982 une taxe \" sur \" la protection de l'environnement, adopté par le conseil provincial de Liège le 20 novembre 1981, bien qu'il rétroagisse au 1er juillet 1981, viole l'article 16 de la loi ordinaire de réformes institutionnelles du 9 août 1980, qui ne permettait aux provinces d'établir et de percevoir des impositions en 1982 qu'en vertu de la prorogation des règlements provinciaux existant au 31 juillet 1981."
+      ],
+      "abstractNL": [
+        "Het op 20 november 1981 door de provincieraad van Luik goedgekeurde provinciaal reglement waarbij voor het belastingjaar 1982 een belasting \" op \" de bescherming van het leefmilieu wordt ingevoerd, schendt, hoewel het terugwerkt tot 1 juli 1981, art. 16 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen, volgens hetwelk de provincies in 1982 enkel krachtens de verlenging van de op 31 juli 1981 bestaande provinciale reglementen belastingen konden heffen en invorderen."
       ]
     }
   }

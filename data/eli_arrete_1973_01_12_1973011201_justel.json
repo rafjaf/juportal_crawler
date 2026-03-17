@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1986:ARR.19860204.2": {
+      "court": "CASS",
+      "date": "1986-02-04",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue point une violation de la foi due à l'acte le fait que le juge donne une interprétation erronée d'un plan annexé au règlement communal du 19 décembre 1966 de la ville de Gand et délimitant la région portuaire, plan auquel se réfère l'article 1, 4, alinéa 2, de l'arrêté royal du 12 janvier 1973 instituant la Commission paritaire des ports."
+      ],
+      "abstractNL": [
+        "De bewijskracht van een akte wordt niet miskend door de rechter, als hij een onjuiste uitlegging geeft aan een plan bij een gemeenteverordening van de Stad Gent dd. 19 december 1966 waarin de begrenzing van het havengebied wordt vastgesteld en waarnaar art. 1, 4, tweede lid, K.B. van 12 januari 1973 tot oprichting van het Paritair Comité van het havenbedrijf verwijst."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1996:ARR.19960122.6": {
+      "court": "CASS",
+      "date": "1996-01-22",
+      "roleNumber": "S950080F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/01/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Avant la notification à l'autorité de sa décision motivée relative à la détermination du pourcentage d'invalidité résultant de la maladie professionnelle, le service médical peut porter à la connaissance de l'autorité et de la victime sa décision concernant la reconnaissance, comme maladie professionnelle, de la maladie déclarée; cette communication peut prendre la forme d'une lettre s'appropriant les constatations du Fonds des maladies professionnelles."
+      ],
+      "abstractNL": [
+        "De geneeskundige dienst kan, vóór de kennisgeving aan de overheid van zijn met redenen omklede beslissing omtrent de vaststelling van het invaliditeitspercentage ten gevolge van de beroepsziekte, aan de overheid en aan de getroffene zijn beslissing meedelen over de erkenning van de aangegeven ziekte als beroepsziekte; die mededeling kan gebeuren door een brief waarin de vaststellingen van het Fonds voor de Beroepsziekten worden overgenomen."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860204.2": {
+      "court": "CASS",
+      "date": "1986-02-04",
+      "roleNumber": "3696",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/04/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue point une violation de la foi due à l'acte le fait que le juge donne une interprétation erronée d'un plan annexé au règlement communal du 19 décembre 1966 de la ville de Gand et délimitant la région portuaire, plan auquel se réfère l'article 1, 4, alinéa 2, de l'arrêté royal du 12 janvier 1973 instituant la Commission paritaire des ports."
+      ],
+      "abstractNL": [
+        "De bewijskracht van een akte wordt niet miskend door de rechter, als hij een onjuiste uitlegging geeft aan een plan bij een gemeenteverordening van de Stad Gent dd. 19 december 1966 waarin de begrenzing van het havengebied wordt vastgesteld en waarnaar art. 1, 4, tweede lid, K.B. van 12 januari 1973 tot oprichting van het Paritair Comité van het havenbedrijf verwijst."
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1997:ARR.19970217.7": {
+      "court": "CASS",
+      "date": "1997-02-17",
+      "roleNumber": "S960083F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Par aide médicale urgente au sens de l'article 57, alinéa 2, alinéa 5, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, on entend les secours apportés à un étranger dont l'état de santé requiert des soins immédiats, par suite d'accident ou de maladie, ainsi que le transport de cette personne et son admission dans un établissement de soins."
+      ],
+      "abstractNL": [
+        "Onder dringende medische hulp in de zin van art. 57, alinéa 2, vijfde lid, OCMW-wet, wordt verstaan de hulp die wordt verstrekt aan een vreemdeling die onmiddellijke verzorging behoeft ten gevolge van een ongeval of ziekte, alsook het transport van die persoon en zijn opname in een verzorgingsinstelling."
+      ]
+    }
+  },
+  "4": {
+    "ECLI:BE:CASS:1972:ARR.19720328.3": {
+      "court": "CASS",
+      "date": "1972-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/03/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Ne constitue pas un \"devoir professionnel plus urgent ou un autre motif exceptionnellement grave\" justifiant, aux termes de l'article 4 de la loi du 8 juillet 1964 relative à l'aide médicale urgente, l'abstention de se rendre auprès d'un blessé grave ayant un besoin immédiat des soins d'un chirurgien, l'éventualité pour un chirurgien de garde dans un hôpital de devoir donner des soins à des patients séjournant à l'hôpital ou à des blessés qui y seraient amenés."
+      ],
+      "abstractNL": [
+        "Geen dringender beroepsplicht of enige andere reden van uitzonderlijk ernstige aard, waardoor naar luid van artikel 4 van de wet van 8 juli 1964 betreffende de dringende geneeskundige hulpverlening het verzuim wordt gerechtvaardigd om zich naar een zwaar gekwetste te begeven die onmiddellijke verzorging door een chirurg nodig heeft, is de mogelijkheid voor een wachthebbend chirurg in een ziekenhuis zorgen te moeten toedienen aan patiënten die in het ziekenhuis verblijven of aan gekwetsten die er zouden binnengebracht worden."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970217.7": {
+      "court": "CASS",
+      "date": "1997-02-17",
+      "roleNumber": "S960083F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/17/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Par aide médicale urgente au sens de l'article 57, alinéa 2, alinéa 5, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, on entend les secours apportés à un étranger dont l'état de santé requiert des soins immédiats, par suite d'accident ou de maladie, ainsi que le transport de cette personne et son admission dans un établissement de soins."
+      ],
+      "abstractNL": [
+        "Onder dringende medische hulp in de zin van art. 57, alinéa 2, vijfde lid, OCMW-wet, wordt verstaan de hulp die wordt verstrekt aan een vreemdeling die onmiddellijke verzorging behoeft ten gevolge van een ongeval of ziekte, alsook het transport van die persoon en zijn opname in een verzorgingsinstelling."
+      ]
+    }
+  }
+}

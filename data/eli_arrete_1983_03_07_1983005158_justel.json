@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851205.9": {
+      "court": "CASS",
+      "date": "1985-12-05",
+      "roleNumber": "4508;4561",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/05/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut légalement déduire qu'une autoroute n'était pas affectée d'un vice, de la constatation qu'une nappe d'eau qui la recouvrait n'était pas due à une obstruction des égouts eux-mêmes mais au fait que l'eau provenait d'une pluie exceptionnellement violente et s'écoulait difficilement à cause des détritus recouvrant les grilles des avaloirs."
+      ],
+      "abstractNL": [
+        "Dat een autoweg geen gebrek vertoonde, kan de rechter wettig afleiden uit de vaststellingen dat een plas water op die weg niet te wijten was aan een verstopping van de riolen zelf, maar wel aan een uitzonderlijk hevige regenval en aan de omstandigheid dat het water moeilijk kon wegvloeien wegens het vuil dat op de roosters van de rioolkolken was blijven liggen."
+      ]
+    }
+  }
+}

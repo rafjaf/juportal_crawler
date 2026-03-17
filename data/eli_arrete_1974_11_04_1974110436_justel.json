@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810302.11": {
+      "court": "CASS",
+      "date": "1981-03-02",
+      "roleNumber": "3121",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/03/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne ressort ni des dispositions du décret impérial du 30 décembre 1809 concernant les fabriques d'église ni d'autres dispositions légales ou réglementaires que le ministre de la justice a le pouvoir de prendre des règlements fixant les rémunérations du personnel séculier des églises."
+      ],
+      "abstractNL": [
+        "Noch uit de bepalingen van het keizerlijk decreet van 30 dec. 1809 op de kerkfabrieken, noch uit andere wettelijke of reglementaire bepalingen blijkt dat de minister van Justitie de reglementaire bevoegdheid bezit de wedden van het wereldlijke kerkpersoneel vast te stellen."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19770323.7": {
+      "court": "CASS",
+      "date": "1977-03-23",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/03/23/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions de l'arrêté royal du 4 novembre 1974 fixant certaines modalités du calcul du salaire de base en matière de réparation des dommages résultant des maladies professionnelles ne modifient pas une règle de responsabilité."
+      ],
+      "abstractNL": [
+        "De bepalingen van het koninklijk besluit van 4 november 1974 tot vaststelling van sommige nadere regelen voor de berekening van het basisloon inzake schadeloosstelling voor beroepsziekten wijzigen geen regel inzake de aansprakelijkheid."
+      ]
+    }
+  }
+}

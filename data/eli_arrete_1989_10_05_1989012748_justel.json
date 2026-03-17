@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19970630.9": {
+      "court": "CASS",
+      "date": "1997-06-30",
+      "roleNumber": "S950029N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/30/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal du travail qui connaît tant des contestations relatives aux contrats de louage de travail que des contestations d'ordre individuel relatives à l'application des conventions collectives de travail est compétent pour examiner, à la demande du travailleur licencié pour motif grave, s'il a ou non droit à l'indemnité de protection forfaitaire prévue à l'article 15 de la convention collective de travail du 9 novembre 1987 conclue au sein de la commission paritaire des entreprises d'assurance relativement à la sécurité de l'emploi et, partant, si les procédures fixées par les articles 4 et 5 de cette convention collective du travail ont été suivies."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank die kennis neemt zowel van geschillen inzake arbeidsovereenkomsten als van de individuele geschillen betreffende de toepassing van de collectieve arbeidsovereenkomsten is bevoegd om op vordering van de werknemer die ontslagen wordt om dringende reden na te gaan of hij al dan niet recht heeft op de forfaitaire beschermingsvergoeding bepaald bij art. 15 van de CAO van 9 nov. 1987, gesloten in het paritair comité voor het verzekeringswezen, betreffende de vastheid van betrekking en of de in artt. 4 en 5 van deze CAO bepaalde procedures zijn vervuld."
+      ]
+    }
+  }
+}

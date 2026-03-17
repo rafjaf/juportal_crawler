@@ -1,0 +1,64 @@
+{
+  "21": {
+    "ECLI:BE:CASS:2008:ARR.20080424.11": {
+      "court": "CASS",
+      "date": "2008-04-24",
+      "roleNumber": "C.06.0353.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/04/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par les activités exercées par une entreprise de transport national et international de biens par route donnant lieu à des dettes garanties par le cautionnement, tout transport rémunéré de biens exécuté pour le compte de tiers; l'obligation du transporteur à l'égard du transporteur sous-traitant auquel il a fait appel ne résulte pas d'un transport exécuté par le transporteur (1) (2). (1) Cass., 27 avril 2007, RG C.06.0363.N, Pas., 2007, n°.... (2) L'arrêté royal du 18 mars 1991 a été abrogé par l'article 68, 4°, de l'arrêté royal du 7 mai 2002 (M.B. 30 mai 2002)."
+      ],
+      "abstractNL": [
+        "Onder de door een onderneming van nationaal en internationaal goederenvervoer over de weg uitgeoefende werkzaamheden waaruit schulden voortspruiten die door de borgtocht gewaarborgd zijn, wordt elk vervoer van zaken voor rekening van derden tegen vergoeding bedoeld; de verbintenis van de vervoerder jegens de ondervervoerder op wie hij beroep doet is niet het gevolg van een door de vervoerder verricht vervoer (1) (2). (1) Cass., 27 april 2007, AR C.06.0363.N, A.C., 2007, nr. ... . (2) Het K.B. van 18 maart 1991 werd opgeheven bij art. 68, 4° van het K.B. van 7 mei 2002 (B.S., 30 mei 2002)."
+      ]
+    },
+    "ECLI:BE:CASS:2007:ARR.20070427.4": {
+      "court": "CASS",
+      "date": "2007-04-27",
+      "roleNumber": "C.06.0363.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2007/04/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu d'entendre par les activités exercées par une entreprise de transport national et international de marchandises par route donnant lieu à des dettes garanties par le cautionnement, tout transport rémunéré de choses exécuté pour le compte de tiers; l'obligation du transporteur à l'égard du transporteur sous-traitant auquel il a fait appel ne résulte pas d'un transport exécuté par le transporteur (1). (1) Cass., 24 novembre 2005, RG C.04.0015.N, n° 624, et les conclusions du M.P. publiées à leur date dans A.C. L'arrêté royal du 18 mars 1991 a été abrogé par l'article 68, 4°, de l'arrêté royal du 7 mai 2002 (M.B. du 30 mai 2002)."
+      ],
+      "abstractNL": [
+        "Onder de door een onderneming van nationaal en internationaal goederenvervoer over de weg uitgeoefende werkzaamheden waaruit schulden voortspruiten die door de borgtocht gewaarborgd zijn, wordt elk vervoer van zaken voor rekening van derden tegen vergoeding bedoeld; de verbintenis van de vervoerder jegens de ondervervoerder op wie hij beroep doet zijn niet het gevolg van een door de vervoerder verricht vervoer (1). (1) Cass., 24 nov. 2005, AR C.04.0015, www.cass.be, met concl. O.M. Het K.B. van 18 maart 1991 werd opgeheven bij art. 68, 4° van het K.B. van 7 mei 2002 (B.S., 30 mei 2002)."
+      ]
+    }
+  },
+  "22": {
+    "ECLI:BE:CASS:2001:ARR.20010329.18": {
+      "court": "CASS",
+      "date": "2001-03-29",
+      "roleNumber": "C990544FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/29/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La créance née de prestations effectuées par le créancier en qualité de garagiste n'est pas garantie par le cautionnement exigé des entreprises de transport pour sûreté des créances qui naissent directement de l'exécution d'un transport rémunéré de choses (1)."
+      ],
+      "abstractNL": [
+        "De schuldvordering die ontstaat uit werkzaamheden die de schuldeiser als garagehouder heeft uitgevoerd, is niet gewaarborgd door de borgtocht die van de vervoerondernemingen wordt geëist als zekerheid voor de schuldvorderingen die rechtstreeks uit de uitoefening van een bezoldigd vervoer van zaken ontstaan (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010329.18": {
+      "court": "CASS",
+      "date": "2001-03-29",
+      "roleNumber": "C990544FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/29/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "La créance née de prestations effectuées par le créancier en qualité de garagiste n'est pas garantie par le cautionnement exigé des entreprises de transport pour sûreté des créances qui naissent directement de l'exécution d'un transport rémunéré de choses (1)."
+      ],
+      "abstractNL": [
+        "De schuldvordering die ontstaat uit werkzaamheden die de schuldeiser als garagehouder heeft uitgevoerd, is niet gewaarborgd door de borgtocht die van de vervoerondernemingen wordt geëist als zekerheid voor de schuldvorderingen die rechtstreeks uit de uitoefening van een bezoldigd vervoer van zaken ontstaan (1)."
+      ]
+    }
+  }
+}

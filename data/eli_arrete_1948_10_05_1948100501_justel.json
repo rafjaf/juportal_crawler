@@ -1,0 +1,46 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1965:ARR.19651025.9": {
+      "court": "CASS",
+      "date": "1965-10-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/25/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "L'attribution d'une pension ou d'une allocation par application des lois sur les pensions de réparation, coordonnées par l'arrêté du Régent du 5 octobre 1948, ou de l'article 4 de la loi du 9 mars 1953 qui exclut l'attribution, pour le même fait dommageable, de toute autre indemnisation à charge de l'Etat ou de son organe, est celle qui est faite \" en exécution de ces lois \", c'est-à-dire qui résulte d'une procédure impliquant que les intéressés ont fait valoir leurs titres à l'obtention de la pension ou de l'allocation prévue par ces lois. (Arrêté du Régent du 5 octobre 1948, art. 1er, dernier alinéa.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1978:ARR.19781024.4": {
+      "court": "CASS",
+      "date": "1978-10-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/10/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'indemnité due à la victime par l'auteur d'un accident, non organe de l'Etat, n'est pas influencée par la circonstance que cette victime bénéficie, ensuite de cet accident, par application des lois sur les pensions de réparation, coordonnées par l'arrêté du Régent du 5 octobre 1948 , et des articles 1er et 4 de la loi du 9 mars 1953, d'une pension de réparation pour l'incapacité permanente de travail dont elle reste atteinte. ( Code civil, art. 1382 et 1383. )"
+      ],
+      "abstractNL": [
+        "De vergoeding aan het slachtoffer verschuldigd door de materiële dader van een ongeval, die geen staatsorgaan is, wordt niet beþ nvloed door de omstandigheid dat het slachtoffer van het ongeval, ten gevolge hiervan, met toepassing van de bij Regentsbesluit van 5 oktober 1948 gecoördineerde wetten op de vergoedingspensioenen, en de artt. 1 en 4, Wet van 9 maart 1953, wegens de blijvende arbeidsongeschiktheid waardoor het aangetast blijft een vergoedingspensioen geniet. ( Artt. 1382 en 1383, Burgerlijk Wetboek. )"
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720211.4": {
+      "court": "CASS",
+      "date": "1972-02-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/02/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les lois sur les pensions de réparation, coordonnées par l'arrêté du Régent du 5 octobre 1948, et les articles 1er et 4 de la loi du 9 mars 1953 excluent l'attribution simultanée, pour le même fait dommageable, d'une pension ou d'une allocation, prévue par lesdites lois, et de toute autre indemnisation à charge de l'Etat ou de son organe, même à une personne autre que le bénéficiaire de la pension ou de l'allocation."
+      ],
+      "abstractNL": [
+        "De wetten op de vergoedingspensioenen, gecoördineerd bij het besluit van de Regent van 5 oktober 1948, en de artikelen 1 en 4 van de wet van 9 maart 1953 sluiten voor hetzelfde schadelijk feit de toekenning uit van een pensioen of van een toelage, waarvan in deze wetten sprake is, en van iedere andere schadevergoeding ten laste van de Staat of van een Staatsorgaan, zelfs aan een andere persoon dan degene die op het pensioen of de toelage recht heeft."
+      ]
+    }
+  }
+}

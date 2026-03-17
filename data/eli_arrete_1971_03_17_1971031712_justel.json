@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1974:ARR.19740312.10": {
+      "court": "CASS",
+      "date": "1974-03-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/03/12/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté ministériel du 17 mars 1971 relatif à l'importation des vins tend uniquement à régler les formalités douanières concernant cette importation, dans le cadre du traité instituant l'Union économique Benelux, signé à La Haye le 3 janvier 1958 et approuvé par l'acte du pouvoir législatif du 20 juin 1960."
+      ],
+      "abstractNL": [
+        "Het ministerieel besluit van 17 maart 1971 betreffende de invoer van wijn strekt enkel tot regeling van de douaneformaliteiten aangaande deze invoer in het kader van het verdrag tot instelling van de Economische Benelux-Unie, op 3 januari 1958 ondertekend in Den Haag en goedgekeurd bij akte van de wetgevende macht van 20 juni 1960."
+      ]
+    }
+  }
+}

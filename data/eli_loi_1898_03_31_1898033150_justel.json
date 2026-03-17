@@ -15,6 +15,20 @@
       ]
     }
   },
+  "4": {
+    "ECLI:BE:CASS:1967:ARR.19670110.1": {
+      "court": "CASS",
+      "date": "1967-01-10",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/01/10/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Uit het feit dat de bijdrage van de leden van een beroepsvereniging bepaald wordt in verhouding tot hun omzetcijfer, en uit het feit dat de vereniging de produkten van het beroep van haar leden koopt om ze weder te verkopen, kan de rechter niet afleiden dat de vereniging in feite een winstgevende werkzaamheid uitoefent, indien hij bovendien niet vaststelt dat de geldmiddelen welke zij aldus onrechtstreeks bekomt meer bedragen dan wat zij nodig heeft om haar maatschappelijk doel te bereiken. (Wet van 31 maart 1898, art. 2.)"
+      ]
+    }
+  },
   "6": {
     "ECLI:BE:CASS:1979:ARR.19790510.4": {
       "court": "CASS",
@@ -85,6 +99,18 @@
         "L'union professionnelle légalement reconnue peut, par voie de constitution de partie civile, réclamer la répartition du préjudice causé par l'atteinte portée, par une infraction, aux intérêts pour la protection desquels elle est constituée et agir aussi pour la défense des droits individuels que ses membres tiennent de leur qualité d'associé. (Loi du 31 mars 1898, art. 2 et 10.)"
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1967:ARR.19671218.2": {
+      "court": "CASS",
+      "date": "1967-12-18",
+      "roleNumber": "2368;2568BIS",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/12/18/sitemap_1.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De wettelijk erkende beroepsvereniging kan, door zich burgerlijke partij te stellen, het herstel vorderen van de schade veroorzaakt door aantasting van de belangen ter bescherming waarvan ze is opgericht en ook in rechte optreden ter verdediging van de individuele rechten die haar leden in hun hoedanigheid van vennoten bezitten. (Wet van 31 maart 1898, art. 2 en 10.)"
+      ]
     }
   },
   "general": {
@@ -128,6 +154,20 @@
       ],
       "abstractNL": [
         "Een \" vereniging \" onderworpen aan het Schots recht die bij toepassing van de \" Company Act 1948 \" het statuut van een handelsvennootschap bezit, is niet gelijk te stellen met een beroepsvereniging beheerst door de wet van 31 maart 1898."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790510.4": {
+      "court": "CASS",
+      "date": "1979-05-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/05/10/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une convention est conclue avec un tiers par les membres d'une association qui n'a pas la personnalité juridique, ce sont les associés seuls qui deviennent créanciers et débiteurs des droits et obligations qui en découlent, lesquels se divisent en règle entre eux et se fixent dans leurs patrimoines."
+      ],
+      "abstractNL": [
+        "Wanneer de leden van een vereniging zonder rechtspersoonlijkheid een overeenkomst aangaan met een derde worden alleen de vennoten schuldeiser en schuldenaar van de eruit voortvloeiende rechten en verplichtingen, die in de regel onder hen verdeeld en in hun vermogen opgenomen worden <1>."
       ]
     }
   }

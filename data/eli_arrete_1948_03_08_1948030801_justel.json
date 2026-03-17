@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1969:ARR.19690410.2": {
+      "court": "CASS",
+      "date": "1969-04-10",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/04/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La majoration de salaire afférente aux prestations efectuées le jour de Noël dans les entreprises dépendant de la Commission nationale mixte des mines, déterminée par l'arrêté du régent du 8 mars 1948 fixant, pour diverses branches d'industrie, des modalités particulières d'application de l'arrêté-loi du 25 février 1947, est applicable aux prestations effectuées le jour remplaçant celui de Noël, lorsque le jour de Noël coïncide avec un dimanche."
+      ],
+      "abstractNL": [
+        "De loonsverhoging voor het werk verricht op Kerstdag in een onderneming, die afhangt van de Nationale gemengde mijncommissie, bepaald bij het besluit van de Regent van 8 maart 1948 tot vaststelling van bijzondere toepassingsmodaliteiten van de besluitwet van 25 februari 1947 voor verschillende nijverheidstakken, is van toepassing op de arbeid verricht op de dag die Kerstdag vervangt, wanneer Kerstdag op een zondag valt."
+      ]
+    }
+  }
+}

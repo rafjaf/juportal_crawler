@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2004:ARR.20040524.21": {
+      "court": "CASS",
+      "date": "2004-05-24",
+      "roleNumber": "S020119F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/05/24/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Dans sa version postérieure à la loi du 1er août 1985, l'article 24, alinéa 1er, de la loi du 10 avril 1971 sur les accidents du travail dispose que s'il déclare la victime guérie sans incapacité permanente de travail, l'assureur-loi lui notifie cette décision selon les modalités définies par le Roi; l'article 1er de l'arrêté royal du 16 décembre 1987 portant exécution de cette disposition légale ne saurait, dès lors, avoir pour effet, lorsque l'incapacité temporaire de travail ne dépasse pas sept jours, qu'aucune notification de la déclaration de guérison sans incapacité permanente de travail ne devrait être faite à la victime et que l'action en justice contre cette décision de l'assureur-loi ne devrait pas être formée dans les trois ans de la notification de pareille décision (1). (1) Voir Cass. 30 septembre 1996, RG S.95.0055.F, n° 337; 17 décembre 2001, RG S.00.0048.F, n° 708; 13 mai 2002, RG S.01.0145.F, n° 291; L. du 10 avril 1971, art. 24, al. 1er, et 72, al. 2, après leur modification par les art. 91 et 111 de la L. du 1er août 1985; comp. L. du 10 avril 1971, art. 24, al. 1er, après sa modification par l'art. 135 de la L.-progr. (I) du 24 décembre 2002; A.R. du 9 octobre 2003 portant exécution de l'article 24, al. 1er, de la L. du 10 avril 1971 sur les accidents du travail."
+      ],
+      "abstractNL": [
+        "Artikel 24, eerste lid, Arbeidsongevallenwet, na de wijziging ervan bij de wet van 1 augustus 1985, bepaalt dat de verzekeringsonderneming, indien zij de getroffene genezen verklaart zonder blijvende arbeidsongeschiktheid, hem van deze beslissing kennis geeft volgens de modaliteiten bepaald door de Koning; artikel 1 van het koninklijk besluit van 16 december 1987 tot uitvoering van die wetsbepaling kan derhalve niet tot gevolg hebben dat, wanneer de tijdelijke arbeidsongeschiktheid zeven dagen niet overschrijdt, geen kennisgeving van de beslissing tot genezenverklaring zonder blijvende arbeidsongeschiktheid zou dienen te geschieden aan de getroffene en dat de rechtsvordering tegen die beslissing van de arbeidsongevallenverzekeraar niet binnen drie jaar na de kennisgeving van die beslissing zou moeten worden ingesteld (1). (1) Zie Cass., 30 sept. 1996, AR S.95.0055.F, nr 337; 17 dec. 2001, AR S.00.0048.F, nr 708; 13 mei 2002, AR S.01.0145.F, nr 291; artt. 24, eerste lid, en 72, tweede lid, Arbeidsongevallenwet, na de wijziging ervan bij de artt. 91 en 111 W. 1 aug. 1985; vgl. art. 24, eerste lid, Arbeidsongevallenwet, na de wijziging ervan bij art. 135 programmawet (I) 24 dec. 2002; K.B. 9 okt. 2003 tot uitvoering van art. 24, eerste lid, Arbeidsongevallenwet."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2001:ARR.20011217.9": {
+      "court": "CASS",
+      "date": "2001-12-17",
+      "roleNumber": "S000048F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La victime d'un accident du travail, dont l'incapacité temporaire de travail est de plus de sept jours, peut intenter une action en justice contre la décisiondéclarant la guérison sans incapacité permanente de travail, dans les trois ans qui suivent la date de la notification de ladite décision par l'assureur-loi;la date de cette notification est la date figurant sur la lettre de l'assureur-loi."
+      ],
+      "abstractNL": [
+        "De getroffene door een arbeidsongeval die meer dan zeven dagen tijdelijk arbeidsongeschikt is, kan een rechtsvordering instellen tegen de beslissing tot genezenverklaring zonder blijvende arbeidsongeschiktheid, binnen de drie jaar die volgen op de dag van de kennisgeving van die beslissing door de arbeidsongevallenverzekeraar;de datum van die kennisgeving is de datum die voorkomt op de brief van de arbeidsongevallenverzekeraar."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011217.9": {
+      "court": "CASS",
+      "date": "2001-12-17",
+      "roleNumber": "S000048F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La victime d'un accident du travail, dont l'incapacité temporaire de travail est de plus de sept jours, peut intenter une action en justice contre la décisiondéclarant la guérison sans incapacité permanente de travail, dans les trois ans qui suivent la date de la notification de ladite décision par l'assureur-loi;la date de cette notification est la date figurant sur la lettre de l'assureur-loi."
+      ],
+      "abstractNL": [
+        "De getroffene door een arbeidsongeval die meer dan zeven dagen tijdelijk arbeidsongeschikt is, kan een rechtsvordering instellen tegen de beslissing tot genezenverklaring zonder blijvende arbeidsongeschiktheid, binnen de drie jaar die volgen op de dag van de kennisgeving van die beslissing door de arbeidsongevallenverzekeraar;de datum van die kennisgeving is de datum die voorkomt op de brief van de arbeidsongevallenverzekeraar."
+      ]
+    }
+  }
+}

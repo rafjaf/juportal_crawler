@@ -1,4 +1,36 @@
 {
+  "10": {
+    "ECLI:BE:CASS:2008:ARR.20081013.3": {
+      "court": "CASS",
+      "date": "2008-10-13",
+      "roleNumber": "S.06.0086.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les prestation d'un médecin agréé au titre de spécialiste qui sont prises en charge par l'assurance sont celles qui relèvent de sa propre spécialité ainsi que celles qui sont connexes à la pratique de celle-ci. Cette connexité ne peut exister que si une prestation relevant de la spécialité du médecin agréé est également effectuée. L'article 20, §2 de l'annexe à l'arrêté royal du 16 novembre 1973, ne déroge pas à ce principe dès lors qu'il précise seulement les prestations qui, tout en relevant d'une autre spécialité, sont toujours admises comme connexes à celle effectuées par le médecin dans le cadre de sa spécialité."
+      ],
+      "abstractNL": [
+        "De verstrekkingen van een als specialist erkend geneesheer die door de verzekering ten laste genomen worden, zijn die welke tot zijn eigen specialisme behoren, alsook die welke verwant zijn met de uitoefening van dat specialisme. Die verwantschap kan alleen bestaan indien er ook een verstrekking verricht wordt die tot het specialisme van de erkend geneesheer behoort. Artikel 20, § 2, van de bijlage bij K.B., 16 nov. 1973, wijkt van dat beginsel niet af, daar het alleen de verstrekkingen vermeldt die wel tot een ander specialisme behoren, maar waarvan nog steeds erkend wordt dat zij verwant zijn met de verstrekkingen die de geneesheer in het kader van zijn specialisme verricht."
+      ]
+    }
+  },
+  "20": {
+    "ECLI:BE:CASS:2008:ARR.20081013.3": {
+      "court": "CASS",
+      "date": "2008-10-13",
+      "roleNumber": "S.06.0086.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/10/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les prestation d'un médecin agréé au titre de spécialiste qui sont prises en charge par l'assurance sont celles qui relèvent de sa propre spécialité ainsi que celles qui sont connexes à la pratique de celle-ci. Cette connexité ne peut exister que si une prestation relevant de la spécialité du médecin agréé est également effectuée. L'article 20, §2 de l'annexe à l'arrêté royal du 16 novembre 1973, ne déroge pas à ce principe dès lors qu'il précise seulement les prestations qui, tout en relevant d'une autre spécialité, sont toujours admises comme connexes à celle effectuées par le médecin dans le cadre de sa spécialité."
+      ],
+      "abstractNL": [
+        "De verstrekkingen van een als specialist erkend geneesheer die door de verzekering ten laste genomen worden, zijn die welke tot zijn eigen specialisme behoren, alsook die welke verwant zijn met de uitoefening van dat specialisme. Die verwantschap kan alleen bestaan indien er ook een verstrekking verricht wordt die tot het specialisme van de erkend geneesheer behoort. Artikel 20, § 2, van de bijlage bij K.B., 16 nov. 1973, wijkt van dat beginsel niet af, daar het alleen de verstrekkingen vermeldt die wel tot een ander specialisme behoren, maar waarvan nog steeds erkend wordt dat zij verwant zijn met de verstrekkingen die de geneesheer in het kader van zijn specialisme verricht."
+      ]
+    }
+  },
   "28": {
     "ECLI:BE:CASS:1984:ARR.19841015.9": {
       "court": "CASS",
@@ -11,6 +43,60 @@
         "L'article 28, alinéa 6, 8°, de la nomenclature des soins de santé prévoit que l'intervention dans le coût d'une voiturette électrique est accordée lorsqu'elle permet au titulaire la poursuite d'une profession qui l'assujettit soit à la sécurité sociale des travailleurs, soit au statut social des travailleurs indépendants. Il résulte de l'économie de cette disposition que le titulaire des soins de santé peut obtenir l'intervention de l'assurance pendant une période d'incapacité de travail, si ladite voiturette lui permet de reprendre son activité professionnelle en poursuivant ainsi sa carrière de salarié ou de travailleur indépendant."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1984:ARR.19841015.2": {
+      "court": "CASS",
+      "date": "1984-10-15",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si l'intervention de l'assurance dans le coût d'une voiturette électrique est subordonnée à la condition que ladite voiturette permette au titulaire la poursuite d'une profession, qui l'assujettit à la sécurité sociale, l'article 28, alinéa 6, 8°, de l'annexe à l'arrêté royal du 16 novembre 1973 établissant la nomenclature des soins de santé, n'exclut pas l'octroi de cette prestation à un titulaire qui en fait la demande pendant une période d'incapacité de travail si cette fourniture lui permet de reprendre ses activités professionnelles."
+      ],
+      "abstractNL": [
+        "De verzekeringstegemoetkoming in de kosten van een elektrisch wagentje is weliswaar onderworpen aan de voorwaarde dat dit wagentje de gerechtigde in staat stelt een beroep voort te zetten waardoor hij onder de sociale zekerheid valt, doch art. 28, alinéa 6, 8o, van de bijlage bij K.B. van 16 nov. 1973 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen sluit niet uit dat die verstrekking wordt toegekend aan een gerechtigde die zulks aanvraagt tijdens een periode van arbeidsongeschiktheid, als die levering hem in staat stelt zijn beroepswerkzaamheden te hervatten."
+      ]
+    }
+  },
+  "29": {
+    "ECLI:BE:CASS:1993:ARR.19931004.13": {
+      "court": "CASS",
+      "date": "1993-10-04",
+      "roleNumber": "8398",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/04/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Om vergoed te kunnen worden moeten de uitvoering en de aflevering van de prestaties van een orthopedist noodzakelijk voorafgegaan worden van een voorschrift van de bevoegde arts."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1980:ARR.19800311.8": {
+      "court": "CASS",
+      "date": "1980-03-11",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/03/11/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1984:ARR.19841015.2": {
+      "court": "CASS",
+      "date": "1984-10-15",
+      "roleNumber": "6763",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/15/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Si l'intervention de l'assurance dans le coût d'une voiturette électrique est subordonnée à la condition que ladite voiturette permette au titulaire la poursuite d'une profession, qui l'assujettit à la sécurité sociale, l'article 28, alinéa 6, 8°, de l'annexe à l'arrêté royal du 16 novembre 1973 établissant la nomenclature des soins de santé, n'exclut pas l'octroi de cette prestation à un titulaire qui en fait la demande pendant une période d'incapacité de travail si cette fourniture lui permet de reprendre ses activités professionnelles."
+      ],
+      "abstractNL": [
+        "De verzekeringstegemoetkoming in de kosten van een elektrisch wagentje is weliswaar onderworpen aan de voorwaarde dat dit wagentje de gerechtigde in staat stelt een beroep voort te zetten waardoor hij onder de sociale zekerheid valt, doch art. 28, alinéa 6, 8o, van de bijlage bij K.B. van 16 nov. 1973 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen sluit niet uit dat die verstrekking wordt toegekend aan een gerechtigde die zulks aanvraagt tijdens een periode van arbeidsongeschiktheid, als die levering hem in staat stelt zijn beroepswerkzaamheden te hervatten."
+      ]
     }
   }
 }

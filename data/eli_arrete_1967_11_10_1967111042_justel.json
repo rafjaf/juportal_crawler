@@ -1,4 +1,20 @@
 {
+  "1": {
+    "ECLI:BE:CASS:1999:ARR.19991220.4": {
+      "court": "CASS",
+      "date": "1999-12-20",
+      "roleNumber": "F990075F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'y a ni simulation prohibée à l'égard du fisc ni partant fraude fiscale lorsque, en vue de bénéficier d'un régime fiscal plus favorable, les parties, usant de la liberté des conventions sans toutefois violer aucune obligation légale, établissent des actes dont elles acceptent toutes les conséquences, même si ces actes sont accomplis à seule fin de réduire la charge fiscale; ne justifie pas légalement sa décision qu'une opération \"sale and lease back\" est constitutive de simulation, l'arrêt qui, tout en admettant le respect par les parties de la règle qui précède, est fondé sur la considération que l'opération \"sale and lease back\" repose sur l'évaluation du matériel à une valeur vénale d'utilisation, critiquable, et non à sa valeur de liquidation."
+      ],
+      "abstractNL": [
+        "Er is geen sprake van verboden veinzing t.a.v. de fiscus en dus evenmin van belastingontduiking, als de partijen de vrijheid van overeenkomst benutten om een voordeliger belastingregeling te genieten, zonder evenwel enige wettelijke verplichting te miskennen, en daarbij handelingen verrichten waarvan zij alle gevolgen aanvaarden, ook al worden die enkel en alleen verricht om de belastingdruk te verminderen; het arrest is niet naar recht verantwoord wanneer het oordeelt dat een verrichting \"sale and lease back\" veinzing oplevert, hoewel het aanneemt dat de partijen voornoemde regel in acht hebben genomen, en die beslissing steunt op de overweging dat de verrichting \"sale and lease back\" berust op de geraamde, betwistbare, gebruikswaarde van het materiaal en niet op de vereffeningswaarde ervan."
+      ]
+    }
+  },
   "2": {
     "ECLI:BE:CASS:2018:ARR.20180607.13": {
       "court": "CASS",
@@ -12,6 +28,48 @@
       ],
       "abstractNL": [
         "De Orde van apothekers is een beroepsvereniging waarbij alle beroepsbeoefenaars wettelijk moeten aansluiten (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20060202.7": {
+      "court": "CASS",
+      "date": "2006-02-02",
+      "roleNumber": "D040020N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'Ordre des pharmaciens est une union professionnelle à laquelle tous ceux qui exercent la profession doivent être légalement inscrits (1). (1) Cass., 7 mai 1999, RG D.98.0013.N, n° 270, et les conclusions du M.P.; Cass., 3 janvier 2002, RG D.00.0024.N, n° 6; voir Cass., 2 mai 2002, RG D.01.0011.N, n° 267 (médecin)."
+      ],
+      "abstractNL": [
+        "De Orde der apothekers is een beroepsvereniging waarbij alle beroepsoefenaars wettelijk moeten aansluiten (1). (1) Cass., 7 mei 1999, AR D.98.0013.N, nr 270; met concl. O.M.; Cass., 3 jan. 2002, AR D.00.0024.N, nr 6; zie Cass., 2 mei 2002, AR D.01.0011.N, nr 267 (arts)."
+      ]
+    },
+    "ECLI:BE:CASS:2003:ARR.20031030.3": {
+      "court": "CASS",
+      "date": "2003-10-30",
+      "roleNumber": "D030001N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2003/10/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La compétence du conseil provincial de l'Ordre des médecins pour se prononcer sur les actes d'un médecin inscrit au tableau accomplis en dehors de la province dans laquelle il est inscrit n'est ni menacée ni réduite à néant par le transfert du domicile du médecin en dehors de la province dans laquelle celui-ci est inscrit, effectué sans demande ni obtention de la régularisation d'inscription requise."
+      ],
+      "abstractNL": [
+        "De bevoegdheid van de provinciale raad van de Orde der geneesheren om zich uit te spreken over handelingen gesteld door een op haar lijst ingeschreven arts buiten de provincie waarin hij is ingeschreven wordt niet aangetast en blijft onverminderd gelden in het geval de arts zijn woonplaats buiten de provincie waar hij is ingeschreven verplaatst zonder hiervoor de nodige regularisatie van inschrijving te hebben aangevraagd en verkregen."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990507.10": {
+      "court": "CASS",
+      "date": "1999-05-07",
+      "roleNumber": "D980013N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/07/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'Ordre des pharmaciens est une union professionnelle à laquelle tous ceux qui exercent la profession doivent être légalement inscrits."
+      ],
+      "abstractNL": [
+        "De Orde van apothekers is een beroepsvereniging waarbij alle beroepsbeoefenaars wettelijk moeten aansluiten."
       ]
     }
   },
@@ -74,6 +132,20 @@
       "abstractNL": [
         "Hoewel de Raad van beroep van de Orde van apothekers ten laste van een apotheker het bestaan van een inbreuk op de regels inzake de plichtenleer niet kan afleiden uit het enkel feit van de niet-naleving, door deze beoefenaar, van een regeling ingevoerd door een representatieve beroepsvereniging, waarvan hij geen lid is, kan hij evenwel een tuchtsanctie gronden op de vaststellingen dat deze beoefenaar ofwel opzettelijk de inrichting of de werking van een door deze beroepsvereniging ingestelde wachtdienst belemmert ofwel, misbruik makende van zijn recht om zijn beroep op vrije wijze uit te oefenen, zonder wettige reden voor zijn confraters, die lid zijn van deze vereniging, de toepassing onmogelijk of moeilijk maakt van de bepalingen van deze regeling met betrekking tot de sluitingsuren van de officina en de vacantieperiodes. ( K.B. nr. 80 van 10 november 1967, art. 6-2°. )"
       ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050519.6": {
+      "court": "CASS",
+      "date": "2005-05-19",
+      "roleNumber": "D040009F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/05/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le Roi n'ayant point donné force obligatoire à la septième norme déontologique par un arrêté royal délibéré en conseil des ministres, viole l'article 15, ,§1er, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens la décision qui applique comme telle les dispositions de cette norme déontologique (1). (1) Voir Cass., 2 décembre 1993, RG D.93.0020.F, n° 500."
+      ],
+      "abstractNL": [
+        "Aangezien de Koning aan de zevende plichtenleerregel geen bindende kracht heeft verleend door een in ministerraad overlegd K.B., wordt art. 15, eerste lid, K.B. nr 80 10 nov. 1967 betreffende de Orde der apothekers, geschonden door de beslissing die de bepalingen van die deontologische norm als dusdanig toepast (1). (1) Zie Cass., 2 dec. 1993, AR D.93.0020.F, nr 500."
+      ]
     }
   },
   "13": {
@@ -120,6 +192,36 @@
       ],
       "abstractNL": [
         "De raad van beroep van de Orde der apothekers die in eerste en laatste aanleg uitspraak doet nadat de zaak aanhangig werd omdat de provinciale raad geen enkele beslissing heeft genomen binnen zes maanden vanaf de ontvangst van de klacht en daarbij een sanctie oplegt, dient dat te doen met tweederde meerderheid van stemmen (1). (1) Zie Cass. 21 december 2012, AR D.12.0011.N, AC 2012, nr. 706."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050519.6": {
+      "court": "CASS",
+      "date": "2005-05-19",
+      "roleNumber": "D040009F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/05/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le Roi n'ayant point donné force obligatoire à la septième norme déontologique par un arrêté royal délibéré en conseil des ministres, viole l'article 15, ,§1er, de l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens la décision qui applique comme telle les dispositions de cette norme déontologique (1). (1) Voir Cass., 2 décembre 1993, RG D.93.0020.F, n° 500."
+      ],
+      "abstractNL": [
+        "Aangezien de Koning aan de zevende plichtenleerregel geen bindende kracht heeft verleend door een in ministerraad overlegd K.B., wordt art. 15, eerste lid, K.B. nr 80 10 nov. 1967 betreffende de Orde der apothekers, geschonden door de beslissing die de bepalingen van die deontologische norm als dusdanig toepast (1). (1) Zie Cass., 2 dec. 1993, AR D.93.0020.F, nr 500."
+      ]
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1999:ARR.19991018.5": {
+      "court": "CASS",
+      "date": "1999-10-18",
+      "roleNumber": "S980046F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/10/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Au sens de la réglementation organisant le statut social des travailleurs indépendants, le service militaire met, en règle, fin à l'activité professionnelle; la reprise d'activité en qualité de travailleur indépendant après la période d'appel sous les armes constitue dès lors un début d'activité professionnelle au sens de la réglementation précitée."
+      ],
+      "abstractNL": [
+        "In de zin van de sociale-zekerheidsregeling voor zelfstandigen maakt de militaire dienst in de regel een einde aan de beroepsbezigheid; de hervatting van de bezigheid als zelfstandige na de periode van oproeping onder de wapens is derhalve een hervatting van beroepsbezigheid in de zin van voornoemde regeling."
       ]
     }
   },
@@ -205,6 +307,20 @@
       ],
       "abstractFR": null,
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2006:ARR.20060202.7": {
+      "court": "CASS",
+      "date": "2006-02-02",
+      "roleNumber": "D040020N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/02/02/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Les autorités ont confié certaines tâches à l'Ordre des pharmaciens, notamment celle de veiller au respect de la déontologie et au maintien de l'honneur, de la discrétion, de la probité et de la dignité de ses membres; l'Ordre ne poursuit pas ainsi un but économique mais remplit ces tâches légales pour lesquelles il s'est d'ailleurs vu accorder une compétence réglementaire par ces autorités; cela n'empêche toutefois pas qu'il constitue une association d'entreprises au sens de l'article 2, ,§ 1er, de la loi du 5 août 1991 dont les décisions, dans la mesure où elles ont pour objet ou pour effet de porter atteinte à la concurrence, doivent être examinées par les organes disciplinaires de l'Ordre eu égard aux exigences de la présente loi (1). (1) Cass., 7 mai 1999, RG D.98.0013.N, n° 270, et les conclusions du M.P.; Cass., 3 janvier 2002, RG D.00.0024.N, n° 6; voir Cass., 2 mai 2002, RG D.01.0011.N, n° 267 (médecin)."
+      ],
+      "abstractNL": [
+        "De overheid heeft aan de Orde der apothekers bepaalde taken opgedragen, inzonderheid toe te zien op het eerbiedigen van de deontologie en de handhaving van de eer, de bescheidenheid, de eerlijkheid en de waardigheid van zijn leden; de Orde streeft hierbij geen economisch doel na maar vervult die wettelijke taak waarvoor zij overigens van die overheid een regulerende bevoegdheid heeft gekregen; dit belet evenwel niet dat zij een ondernemingsvereniging is, in de zin van artikel 2, ,§ 1, van de Mededingingswet, waarvan de besluiten, in de mate zij ertoe strekken of ten gevolge hebben dat de mededinging wordt aangetast, door de tuchtorganen van de Orde getoetst moeten worden aan de eisen van die wet (1). (1) Cass., 7 mei 1999, AR D.98.0013.N, nr 270; met concl. O.M.; Cass., 3 jan. 2002, AR D.00.0024.N, nr 6; zie Cass., 2 mei 2002, AR D.01.0011.N, nr 267 (arts)."
+      ]
     }
   },
   "16": {
@@ -320,6 +436,20 @@
       "abstractNL": [
         "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
       ]
+    },
+    "ECLI:BE:CASS:2004:ARR.20040413.17": {
+      "court": "CASS",
+      "date": "2004-04-13",
+      "roleNumber": "C040147F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/04/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Ni le droit d'interjeter appel des décisions du conseil provincial de l'Ordre des médecins, ni les autres attributions que la loi lui octroie, ni son statut spécifique ne permettent d'assimiler l'assesseur de ce conseil au ministère public en vue de lui reconnaître, dans des cas similaires, le droit de former une demande en dessaisissement."
+      ],
+      "abstractNL": [
+        "Noch het recht om hoger beroep in te stellen tegen de beslissingen van de provinciale raad van de Orde der Geneesheren, noch de andere bevoegdheden die de wet aan de bijzitter toekent, noch zijn specifiek statuut maken het mogelijk de bijzitter van die raad gelijk te stellen met het openbaar ministerie, teneinde hem, in soortgelijke gevallen, het recht toe te kennen een vordering tot onttrekking in te stellen."
+      ]
     }
   },
   "22": {
@@ -347,6 +477,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    },
+    "ECLI:BE:CASS:2005:ARR.20050603.31": {
+      "court": "CASS",
+      "date": "2005-06-03",
+      "roleNumber": "D040019N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/06/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le conseil d'appel de l'Ordre des médecins devant lequel l'affaire devrait être renvoyée est tenu de se conformer à l'arrêt de la Cour en ce qui concerne le point de droit que la Cour a jugé et que la cassation prononcée ne laisse plus rien à juger, il n'y a pas lieu de renvoyer (1). (1) Voir Cass., 2 février 1978, Bull. et Pas., 1978, I, 638, avec les concl. de M. le procureur général Delange (en cause l'Ordre des médecins vétérinaires)."
+      ],
+      "abstractNL": [
+        "Wanneer de raad van beroep van de Orde der Geneesheren waarnaar de zaak zou moeten verwezen worden zich zou moeten voegen naar het arrest van het Hof wat de rechtsvraag betreft waarover het Hof uitspraak heeft gedaan en de uitgesproken cassatie niets meer te vonnissen overlaat, is er geen grond tot verwijzing (1). (1) Zie Cass., 2 feb. 1978, A.C., 1978, 658, met concl. P.G. Delange in Bull., 1978, 638 (inzake Orde der dierenartsen)."
       ]
     }
   },
@@ -389,6 +533,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De bestraffing van een deontologische fout in verband met de wachtdienst van de apothekers behoort tot de exclusieve bevoegdheid van de provinciale raad van de Orde der apothekers en dient te geschieden volgens de procedureregels bepaald bij de Apothekerswet. (Art. 9, alinéa 1, Geneeskundewet; artt. 6, 2°, en 20 e.v. Apothekerswet)."
+      ]
+    },
+    "ECLI:BE:CASS:1977:ARR.19771209.5": {
+      "court": "CASS",
+      "date": "1977-12-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/12/09/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La continuité du service public est un principe général du droit qui trouve sa justification dans la nécessité de la poursuite et de la permanence sans interruption des services publics; cette nécessité n'existe pas seulement en cas d'urgence (1)."
+      ],
+      "abstractNL": [
+        "De continuïteit van de openbare dienst is een algemeen rechtsbeginsel dat zijn rechtvaardiging vindt in de noodzakelijkheid van een ononderbroken voortzetting en bestendigheid van de openbare dienst; die noodzakelijkheid bestaat niet slechte in geval van hoogdringendheid (1)."
       ]
     }
   },
@@ -600,6 +758,22 @@
       ]
     }
   },
+  "36": {
+    "ECLI:BE:CASS:1994:ARR.19940425.8": {
+      "court": "CASS",
+      "date": "1994-04-25",
+      "roleNumber": "S930095N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de prescription de cinq ans prévu pour la répétition des prestations payées indûment à titre de pension des travailleurs salariés et des travailleurs indépendants est applicable chaque fois que le payement indû a eu lieu avant la production de la déclaration à laquelle le débiteur est obligatoirement tenu et que les éléments de cette déclaration auraient permis à l'Office national des pensions de ne pas effectuer ce payement indû. (L. du 13 juin 1966, art. 21, alinéa 3 et Arr. roy. n° 72 du 10 novembre 1967, art. 36, alinéa 2)."
+      ],
+      "abstractNL": [
+        "De verjaringstermijn van 5 jaar voor de terugvordering van ten onrechte uitbetaalde werknemers- en zelfstandigenpensioenen vindt toepassing telkens als de onverschuldigde betaling plaatsvindt voor het indienen van de verklaring waartoe de schuldenaar verplicht is, en de gegevens van die verklaring de Rijksdienst voor Pensioenen de mogelijkheid zouden hebben geboden geen onverschuldigde betaling te doen. (Art. 21, alinéa 3, Wet van 13 juni 1966 en art. 36, alinéa 2 K.B. nr. 72 van 10 nov. 1967)"
+      ]
+    }
+  },
   "general": {
     "ECLI:BE:CASS:1978:ARR.19780915.3": {
       "court": "CASS",
@@ -773,6 +947,20 @@
       ],
       "abstractNL": [
         "Niet ontvankelijk is het cassatieberoep ingesteld onder de gelding van het koninklijk besluit nr. 80 van 10 november 1967 betreffende de Orde van apothekers, tegen een beslissing van de gemengde raad van beroep van die Orde die niet ter kennis is gebracht van de minister tot wiens bevoegdheid Volksgezondheid behoort. (Kon. besluit nr. 80 van 10 november 1967, art. 26, 2°.)"
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19991220.4": {
+      "court": "CASS",
+      "date": "1999-12-20",
+      "roleNumber": "F990075F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/12/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il n'y a ni simulation prohibée à l'égard du fisc ni partant fraude fiscale lorsque, en vue de bénéficier d'un régime fiscal plus favorable, les parties, usant de la liberté des conventions sans toutefois violer aucune obligation légale, établissent des actes dont elles acceptent toutes les conséquences, même si ces actes sont accomplis à seule fin de réduire la charge fiscale; ne justifie pas légalement sa décision qu'une opération \"sale and lease back\" est constitutive de simulation, l'arrêt qui, tout en admettant le respect par les parties de la règle qui précède, est fondé sur la considération que l'opération \"sale and lease back\" repose sur l'évaluation du matériel à une valeur vénale d'utilisation, critiquable, et non à sa valeur de liquidation."
+      ],
+      "abstractNL": [
+        "Er is geen sprake van verboden veinzing t.a.v. de fiscus en dus evenmin van belastingontduiking, als de partijen de vrijheid van overeenkomst benutten om een voordeliger belastingregeling te genieten, zonder evenwel enige wettelijke verplichting te miskennen, en daarbij handelingen verrichten waarvan zij alle gevolgen aanvaarden, ook al worden die enkel en alleen verricht om de belastingdruk te verminderen; het arrest is niet naar recht verantwoord wanneer het oordeelt dat een verrichting \"sale and lease back\" veinzing oplevert, hoewel het aanneemt dat de partijen voornoemde regel in acht hebben genomen, en die beslissing steunt op de overweging dat de verrichting \"sale and lease back\" berust op de geraamde, betwistbare, gebruikswaarde van het materiaal en niet op de vereffeningswaarde ervan."
       ]
     }
   }

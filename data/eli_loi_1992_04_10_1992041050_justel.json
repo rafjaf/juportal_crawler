@@ -14,5 +14,37 @@
         "De roerende voorheffing die wegens niet-betaling binnen de gestelde termijn is ingekohierd, maar die het bestuur dient terug te betalen ten gevolge van een fout die het heeft begaan, is een belasting in de zin van artikel 308, eerste lid, W.I.B. (1964); de terugbetaling van die voorheffing leidt tot het toekennen van moratoriuminterest (1)."
       ]
     }
+  },
+  "376": {
+    "ECLI:BE:CASS:1999:ARR.19990114.15": {
+      "court": "CASS",
+      "date": "1999-01-14",
+      "roleNumber": "F980067F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/01/14/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Il y a double imposition lorsqu'un même revenu fait l'objet de plusieurs impositions alors que cela est légalement exclu."
+      ],
+      "abstractNL": [
+        "Er is sprake van dubbele belasting wanneer op dezelfde inkomsten verscheidene aanslagen worden vastgesteld terwijl zulks wettelijk uitgesloten is."
+      ]
+    }
+  },
+  "388": {
+    "ECLI:BE:CASS:1999:ARR.19990118.6": {
+      "court": "CASS",
+      "date": "1999-01-18",
+      "roleNumber": "F980036F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/01/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le pourvoi en cassation en matière d'impôts directs étant formé par une requête, celle-ci doit nécessairement être signée par le demandeur, par un avocat ou par un fondé de pouvoir spécial."
+      ],
+      "abstractNL": [
+        "Aangezien cassatieberoep inzake directe belastingen bij wege van een verzoekschrift wordt ingesteld moet het noodzakelijkerwijs ondertekend zijn door de eiser, door een advocaat of door een bijzondere volmachtdrager."
+      ]
+    }
   }
 }

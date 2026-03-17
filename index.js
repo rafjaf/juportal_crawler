@@ -102,6 +102,12 @@ async function main() {
     console.log(`  ${chalk.cyan('--find-missing-eli')}      Search for the correct ELI of each entry in`);
     console.log(`                            missing_eli.json by consulting log.json and the`);
     console.log(`                            ejustice.be website. Interactive (yes/no/all/quit).`);
+    console.log(`  ${chalk.cyan('--find-missing-eli <key>')} Same as above, but skips all entries before`);
+    console.log(`                            <key> and runs in auto mode (high-confidence proposals`);
+    console.log(`                            are applied automatically, others are skipped).`);
+    console.log(`                            The key is the main key in missing_eli.json, e.g.:`);
+    console.log(`                            ${chalk.gray('"Traité ou Convention internationale - 26-10-1973"')}`);
+    console.log(`                            (quotes are optional in most shells).`);
     console.log(`  ${chalk.cyan('--fix-articles-from-log')} Review log.json entries where article="general" was`);
     console.log(`                            detected, and re-analyse them using the improved`);
     console.log(`                            old-style article detection. Corrections are applied`);
@@ -272,7 +278,13 @@ async function main() {
   }
 
   if (process.argv.includes('--find-missing-eli')) {
-    await findMissingEli();
+    const flagIdx = process.argv.indexOf('--find-missing-eli');
+    const nextArg = process.argv[flagIdx + 1];
+    // Accept an optional key argument (with or without surrounding quotes)
+    const startKey = (nextArg && !nextArg.startsWith('--'))
+      ? nextArg.replace(/^["']|["']$/g, '')
+      : null;
+    await findMissingEli(startKey);
     flushAll();
     return;
   }

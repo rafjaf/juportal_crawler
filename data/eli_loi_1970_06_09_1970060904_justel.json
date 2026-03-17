@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810527.16": {
+      "court": "CASS",
+      "date": "1981-05-27",
+      "roleNumber": "6274",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/05/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La loi du 10 avril 1971 sur les accidents du travail ne prévoit pas de dérogation aux règles de son article 38 relatives au cas où la victime est un apprenti ou un mineur d'âge, lorsque le mineur d'âge était, au moment de l'accident, engagé dans les liens d'un contrat d'occupation d'étudiant régi par la loi du 9 juin 1970; les caractéristiques propres que présente un tel contrat ne sont pas de nature à faire écarter l'application de ces règles."
+      ],
+      "abstractNL": [
+        "De Arbeidsongevallenwet van 10 april 1971 wijkt niet af van de regels van art. 38 wanneer de minderjarige op het ogenblik van het ongeval tewerkgesteld was krachtens een overeenkomst voor tewerkstelling van studenten op wie de wet van 9 juni 1970 van toepassing is; de kenmerken van zodanige overeenkomst kunnen de toepassing van die regels niet uitsluiten."
+      ]
+    }
+  }
+}

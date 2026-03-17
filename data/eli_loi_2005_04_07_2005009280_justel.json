@@ -1,0 +1,18 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2008:ARR.20080206.8": {
+      "court": "CASS",
+      "date": "2008-02-06",
+      "roleNumber": "P.07.1466.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/02/06/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La loi du 7 avril 2005 relative à la protection des sources journalistiques n'interdit pas de procéder à des mesures d'enquête pénale visant une personne qui n'a pas la qualité de bénéficiaire de la protection des sources et qui est soupçonnée d'avoir commis une infraction en transmettant des informations à l'un de ces bénéficiaires."
+      ],
+      "abstractNL": [
+        "De Wet van 7 april 2005 tot bescherming van de journalistieke bronnen verbiedt geen strafrechtelijke onderzoeksmaatregelen tegen iemand die geen bescherming van de bronnen geniet en die ervan verdacht wordt een misdrijf te hebben gepleegd door informatie door te geven aan iemand waarvan de bronnen wel zijn beschermd."
+      ]
+    }
+  }
+}

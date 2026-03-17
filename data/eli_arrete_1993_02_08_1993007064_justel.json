@@ -14,5 +14,37 @@
         "Het personeelslid van de Centrale Dienst voor sociale en culturele actie ten behoeve van de leden van de militaire gemeenschap in de Bondsrepubliek Duitsland heeft geen recht op een afdankingsvergoeding, wanneer hij aanspraak kan maken op pensioenrechten op de pensioengerechtigde leeftijd, die in de regel 60 jaar voor de vrouwen en 65 jaar voor de mannen blijft (1). (1) Zie concl. O.M."
       ]
     }
+  },
+  "5": {
+    "ECLI:BE:CASS:2001:ARR.20010115.7": {
+      "court": "CASS",
+      "date": "2001-01-15",
+      "roleNumber": "S990140FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'a pas droit à l'indemnité de licenciement, le membre du personnel de l'Office central d'action sociale et culturelle au profit des membres de la communauté militaire en République fédérale d'Allemagne, qui peut faire valoir ses droits à la retraite ouverts à l'bge de celle-ci, lequel reste, en règle, fixé à 60 ans pour les femmes et 65 ans pour les hommes (1)."
+      ],
+      "abstractNL": [
+        "Het personeelslid van de Centrale Dienst voor sociale en culturele actie ten behoeve van de leden van de militaire gemeenschap in de Bondsrepubliek Duitsland heeft geen recht op een afdankingsvergoeding, wanneer hij aanspraak kan maken op pensioenrechten op de pensioengerechtigde leeftijd, die in de regel 60 jaar voor de vrouwen en 65 jaar voor de mannen blijft (1)."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20010115.7": {
+      "court": "CASS",
+      "date": "2001-01-15",
+      "roleNumber": "S990140FV",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/01/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "N'a pas droit à l'indemnité de licenciement, le membre du personnel de l'Office central d'action sociale et culturelle au profit des membres de la communauté militaire en République fédérale d'Allemagne, qui peut faire valoir ses droits à la retraite ouverts à l'bge de celle-ci, lequel reste, en règle, fixé à 60 ans pour les femmes et 65 ans pour les hommes (1)."
+      ],
+      "abstractNL": [
+        "Het personeelslid van de Centrale Dienst voor sociale en culturele actie ten behoeve van de leden van de militaire gemeenschap in de Bondsrepubliek Duitsland heeft geen recht op een afdankingsvergoeding, wanneer hij aanspraak kan maken op pensioenrechten op de pensioengerechtigde leeftijd, die in de regel 60 jaar voor de vrouwen en 65 jaar voor de mannen blijft (1)."
+      ]
+    }
   }
 }

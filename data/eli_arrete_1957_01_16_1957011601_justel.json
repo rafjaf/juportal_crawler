@@ -1,0 +1,32 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1965:ARR.19650412.11": {
+      "court": "CASS",
+      "date": "1965-04-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/04/12/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable, s'il n'a pas été notifié à la partie contre laquelle il est dirigé, le pourvoi formé par le Bureau belge des assureurs automobiles, condamné solidairement avec le prévenu à réparer, conformément à l'article 2 de l'arrêté royal du 16 janvier 1957, le dommage causé par un véhicule automobile. (Code d'instr. crim., art. 418.)"
+      ],
+      "abstractNL": null
+    }
+  },
+  "14": {
+    "ECLI:BE:CASS:1968:ARR.19680201.1": {
+      "court": "CASS",
+      "date": "1968-02-01",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/02/01/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si le certificat international d'assurance délivré par le Bureau belge des assureurs automobiles, pour couvrir un véhicule automoteur ayant son stationnement habituel à l'étranger, peut suffire à établir, en ce qui concerne la personne lésée, l'existence d'une assurance entre le titulaire du certificat et l'assureur qui y est mentionné, il n'en est pas nécessairement ainsi lorsque la remise de ce document au titulaire constitue un abus au préjudice de l'assureur. (Loi du 1er juillet 1956, art. 2, alinéa 2, et arrêté royal du 16 janvier 1957, art. 1er.) (Solution implicite.)"
+      ],
+      "abstractNL": [
+        "Al kan het internationaal bewijs van verzekering, afgeleverd door het Belgisch Bureau van de autoverzekeraars tot dekking van een motorrijtuig, dat gewoonlijk in het buitenland is gestald, ten aanzien van de benadeelde volstaan om het bestaan te bewijzen van een verzekering tussen de houder van het bewijs en de verzekeraar die erin vermeld wordt, is zulks niet noodzakelijk het geval wanneer de afgifte van dit bescheid aan de houder een misbruik uitmaakt ten nadele van de verzekeraar. (Wet van 1 juli 1956, art. 2, alinéa 2, en kon. besl. van 16 januari 1957, art. 14.) (Impliciete oplossing.)"
+      ]
+    }
+  }
+}

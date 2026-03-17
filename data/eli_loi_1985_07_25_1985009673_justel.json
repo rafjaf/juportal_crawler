@@ -1,0 +1,32 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1997:ARR.19971020.9": {
+      "court": "CASS",
+      "date": "1997-10-20",
+      "roleNumber": "S970006N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/20/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'obligation de payer des dommages-intérêts réclamés sur la base de l'infraction qualifiée \"non-paiement de la rémunération due\", relative à la période antérieure au transfert de l'entreprise, ne constitue pas une obligation résultant du contrat de travail ou de la relation de travail cédée au cessionnaire de l'entreprise."
+      ],
+      "abstractNL": [
+        "De verplichting tot betaling van schadevergoeding, gevorderd op grond van het misdrijf \"niet-betaling van het verschuldigd loon\", betrekking hebbend op de periode voor de overdracht van de onderneming, maakt geen verplichting uit voortvloeiend uit de arbeidsovereenkomst of de arbeidsrelatie die op de overnemer van de onderneming overgaat."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19881027.6": {
+      "court": "CASS",
+      "date": "1988-10-27",
+      "roleNumber": "8076",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/10/27/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "A défaut de disposition transitoire de la loi du 25 juillet 1985, l'article 91, alinéa 3 du Code judiciaire, tel qu'il a été modifié par ladite loi et selon lequel les appels des jugements rendus par les juges de paix sont , en règle, attribués à une chambre du tribunal de première instance ne comprenant qu'un juge, est d'application immédiate aux causes régulièrement introduites sous l'empire de la loi ancienne. ( Code judiciaire, art. 3, 91 et 92. )"
+      ],
+      "abstractNL": [
+        "Bij ontstentenis van een overgangsbepaling in de wet van 25 juli 1985, is art. 91, derde lid, Gerechtelijk Wetboek, als gewijzigd bij die wet, volgens hetwelk de hogere beroepen tegen vonnissen van de vrederechter, in de regel, worden toegewezen aan een kamer van de rechtbank van eerste aanleg met één rechter, dadelijk van toepassing op de zaken die onder vigeur van de oude wet regelmatig aanhangig zijn gemaakt. ( Artt. 3, 91 en 92 Gerechtelijk Wetboek. )"
+      ]
+    }
+  }
+}

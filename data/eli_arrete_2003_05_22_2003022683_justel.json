@@ -1,0 +1,32 @@
+{
+  "23": {
+    "ECLI:BE:CASS:2013:ARR.20131202.1": {
+      "court": "CASS",
+      "date": "2013-12-02",
+      "roleNumber": "S.12.0043.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2013/12/02/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Les montants, jusqu'à concurrence desquels certaines parties des revenus sont immunisés, à prendre en considération pour le calcul de l'allocation d'intégration sont ceux en vigueur à la date à laquelle la décision de révision d'office produit ses effets, qui est le premier jour du mois qui suit la notification de la décision de révision d'office est non le montant où la procédure de révision d'office et entamée."
+      ],
+      "abstractNL": [
+        "De bedragen tot beloop waarvan sommige gedeelten van de inkomens worden vrijgesteld voor de berekening van de integratietegemoetkoming, zijn de bedragen die gelden op de datum van uitwerking van de beslissing tot ambtshalve herziening, namelijk de eerste dag van de maand volgend op de kennisgeving van de beslissing tot ambtshalve herziening en niet het bedrag bij de aanvang van de procedure van de ambtshalve herziening."
+      ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061120.4": {
+      "court": "CASS",
+      "date": "2006-11-20",
+      "roleNumber": "S060042F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/11/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La prise de cours de la nouvelle décision sur l'allocation d'intégration dépend de la circonstance que cette décision est prise d'office ou sur une nouvelle demande sans que ce critère soit influencé par le fait que l'examen de la nouvelle demande qui peut être introduite lorsque, selon le demandeur de l'allocation, des modifications sont intervenues qui justifient l'octroi ou l'augmentation des allocations, entraîne la réduction de l'allocation d'intégration."
+      ],
+      "abstractNL": [
+        "De ingangsdatum van de nieuwe beslissing over de integratietegemoetkoming hangt af van de omstandigheid of die beslissing ambtshalve dan wel op een nieuwe aanvraag is genomen; dit criterium wordt niet beïnvloed door het feit dat het onderzoek van de nieuwe aanvraag die ingediend kan worden wanneer zich volgens de aanvrager van de tegemoetkoming wijzigingen hebben voorgedaan die de toekenning of de verhoging van de tegemoetkomingen rechtvaardigen, de vermindering van de integratietegemoetkoming tot gevolg heeft."
+      ]
+    }
+  }
+}

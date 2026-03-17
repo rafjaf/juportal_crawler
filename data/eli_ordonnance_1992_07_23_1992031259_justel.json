@@ -1,0 +1,64 @@
+{
+  "3": {
+    "ECLI:BE:CASS:2010:ARR.20100514.4": {
+      "court": "CASS",
+      "date": "2010-05-14",
+      "roleNumber": "F.09.0018.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/05/14/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est légalement justifié, l'arrêt, qui après avoir énoncé que, contrairement à une seigneurie, les personnes hébergées collectivement dans l'immeuble de la partie demanderesse ne vivent pas seules dans des résidences séparées au sein de l'immeuble et qu'elles ne sont pas non plus des personnes ayant une vie commune dans un même logement sous l'autorité d'un chef de ménage, considère ainsi que, compte tenu du caractère collectif de leur hébergement, les personnes résidant dans ledit immeuble ne constituent pas des ménages au sens de l'article 3, § 1er, a), de l'ordonnance du 23 juillet 1992 de la Région de Bruxelles-Capitale relative à la taxe régionale à charge des occupants d'immeubles bâtis et de titulaires de droits réels sur certains immeubles (1). (1) Voir les conclusions du ministère public."
+      ],
+      "abstractNL": [
+        "Het arrest dat eerst vermeldt dat, anders dan in een seniorie, de personen die collectief gehuisvest zijn in het gebouw van de eiseres niet als alleenstaanden leven in aparte verblijfruimtes binnen het gebouw en dat zij evenmin in gemeenschap leven in dezelfde woning onder het gezag van een gezinshoofd en dat vervolgens aldus beslist dat de personen die in dat gebouw verblijven, gelet op het collectief karakter van hun huisvesting, geen gezinnen zijn in de zin van artikel 3, § 1, a), van de ordonnantie van 23 juli 1992 van het Brussels Hoofdstedelijk Gewest betreffende de gewestelijke belasting ten laste van de bezetters van bebouwde eigendommen en houders van een zakelijk recht op sommige onroerende goederen is naar recht verantwoord (1). (1) Zie concl. O.M., AR F.09.0018.F, Pas., 2010, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990211.17": {
+      "court": "CASS",
+      "date": "1999-02-11",
+      "roleNumber": "C970320F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même si une organisation internationale bénéficie d'une immunité fiscale, elle ne peut refuser le remboursement au propriétaire d'un immeuble qu'elle loue, d'une taxe régionale imposée aux propriétaires d'immeubles non affectés à la résidence, lorsque le bail prévoit le paiement par le preneur de toutes contributions, taxes ou impositions quelconques mises ou à mettre sur les lieux loués."
+      ],
+      "abstractNL": [
+        "Ook al geniet een internationale organisatie belastingvrijstelling, zij kan aan de eigenaar van een pand dat ze huurt, de terugbetaling niet weigeren van een gewestbelasting die opgelegd is aan eigenaars van niet voor bewoning bestemde panden, wanneer de huurovereenkomst bepaalt dat de huurder alle belastingen, heffingen of aanslagen van welke aard ook betaalt die op de gehuurde ruimten rusten of zullen rusten."
+      ]
+    }
+  },
+  "2bis": {
+    "ECLI:BE:CASS:2012:ARR.20120621.2": {
+      "court": "CASS",
+      "date": "2012-06-21",
+      "roleNumber": "F.11.0073.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/06/21/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Les immeubles qui ne sont pas affectés au logement n'entrent pas en ligne de compte pour la remise ou modération proportionnelle du précompte immobilier visée à l'article 2bis de l'ordonnance de la Région de Bruxelles-Capitale du 23 juillet 1992 relative au précompte immobilier."
+      ],
+      "abstractNL": [
+        "Gebouwen die niet voor bewoning zijn bestemd, komen niet in aanmerking voor de kwijtschelding of proportionele vermindering van de onroerende voorheffing waarin artikel 2bis van de ordonnantie van het Brussels Hoofdstedelijk Gewest van 23 juli 1992 voorziet."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1999:ARR.19990211.17": {
+      "court": "CASS",
+      "date": "1999-02-11",
+      "roleNumber": "C970320F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/02/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Même si une organisation internationale bénéficie d'une immunité fiscale, elle ne peut refuser le remboursement au propriétaire d'un immeuble qu'elle loue, d'une taxe régionale imposée aux propriétaires d'immeubles non affectés à la résidence, lorsque le bail prévoit le paiement par le preneur de toutes contributions, taxes ou impositions quelconques mises ou à mettre sur les lieux loués."
+      ],
+      "abstractNL": [
+        "Ook al geniet een internationale organisatie belastingvrijstelling, zij kan aan de eigenaar van een pand dat ze huurt, de terugbetaling niet weigeren van een gewestbelasting die opgelegd is aan eigenaars van niet voor bewoning bestemde panden, wanneer de huurovereenkomst bepaalt dat de huurder alle belastingen, heffingen of aanslagen van welke aard ook betaalt die op de gehuurde ruimten rusten of zullen rusten."
+      ]
+    }
+  }
+}

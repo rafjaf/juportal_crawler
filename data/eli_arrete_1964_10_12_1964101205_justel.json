@@ -1,0 +1,50 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1982:ARR.19820622.2": {
+      "court": "CASS",
+      "date": "1982-06-22",
+      "roleNumber": "3267",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/06/22/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les membres du personnel d'un établissement d'enseignement ne peuvent être dispensés de l'épreuve de la sensibilité cutanée à la tuberculine par injection intradermique, prévue à l'article 2 de l'arrêté royal du 12 octobre 1964, modifié par l'arrêté royal du 31 janvier 1977, que par la production de la preuve qu'ils ont subi dans le courant de la même année scolaire une exploration radiologique du thorax permettant d'exclure une tuberculose active ou lorsque le médecin responsable de l'équipe d'inspection médicale scolaire a déjà constaté une réaction manifestement positive lors d'une épreuve précédente."
+      ],
+      "abstractNL": [
+        "De personeelsleden van een onderwijsinrichting kunnen niet worden vrijgesteld van de huidproef op tuberculinegevoeligheid door intradermoinjectie, voorgeschreven bij art. 2 K.B. van 12 okt. 1964, gew. bij K.B. van 31 jan. 1977, tenzij zij het bewijs voorleggen dat zij in hetzelfde schooljaar een radiologisch onderzoek van de borstkas hebben ondergaan waarbij de aanwezigheid van actieve tuberculose is uitgesloten, of dat de verantwoordelijke geneesheer van de equipe voor medisch schooltoezicht reeds een duidelijke positieve reactie heeft vastgesteld bij een vorige proef."
+      ]
+    }
+  },
+  "15": {
+    "ECLI:BE:CASS:1968:ARR.19681002.1": {
+      "court": "CASS",
+      "date": "1968-10-02",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1968/10/02/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne permettait, avant l'entrée en vigueur de la loi du 24 décembre 1968, au Fonds des maladies professionnelles de modifier une décision définitive, ayant attribué une indemnisation en application de l'article 15 de la loi du 24 juillet 1927 ou de l'article 49 de la loi du 24 décembre 1936, relatives à la réparation des dommages résultant des maladies professionnelles, et des articles 2 et 4 de l'arrêté du Régent du 22 novembre 1945 ou des articles 4 et 15 de l'arrêté royal du 12 octobre 1964."
+      ],
+      "abstractNL": [
+        "Het Fonds voor de beroepsziekten kon krachtens geen enkele wetsbepaling, voor de inwerkingtreding van de wet van 24 december 1968, een wijziging aanbrengen in een eindbeslissing die een vergoeding had toegekend, met toepassing van de artikelen 15 van de wet van 24 juli 1927 en 49 van de wet van 24 december 1963 betreffende de vergoeding van de schade voortvloeiende uit beroepsziekten en van de artikelen 2 en 4 van het besluit van de Regent van 22 november 1945 of van de artikelen 4 en 15 van het koninklijk besluit van 12 oktober 1964."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1982:ARR.19820908.17": {
+      "court": "CASS",
+      "date": "1982-09-08",
+      "roleNumber": "2293",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/09/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 12 octobre 1964 réglant la fréquence et les modalités des examens médicaux et fixant les conditions d'exercice de l'inspection médicale scolaire a été pris légalement sur la base de la loi du 21 mars 1964 sur l'inspection médicale scolaire."
+      ],
+      "abstractNL": [
+        "Het koninklijk besluit van 12 okt. 1964 waarbij wordt geregeld hoe dikwijls en op welke wijze de geneeskundige onderzoeken worden verricht en onder welke voorwaarden het medisch schooltoezicht wordt uitgeoefend, is op wettige wijze genomen op grond van de wet van 21 maart 1964 op het medisch schooltoezicht."
+      ]
+    }
+  }
+}

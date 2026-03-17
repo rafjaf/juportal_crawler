@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2001:ARR.20011004.7": {
+      "court": "CASS",
+      "date": "2001-10-04",
+      "roleNumber": "C990086N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/04/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il ressort de la volonté des fondateurs d'une société civile constituée sous forme de société commerciale que l'objet réel de la société revêt un caractère commercial et que les fondateurs ont mentionné un objet à caractère civil dans les statuts dans un seul esprit de simulation et dans la seule intention d'éluder une loi d'ordre public, la société acquiert la qualité de commerçant et est susceptible d'être déclarée en état de faillite (1) (2)."
+      ],
+      "abstractNL": [
+        "Wanneer uit de wil van de oprichters van een burgerlijke vennootschap die de vorm van een handelsvennootschap heeft aangenomen blijkt dat het werkelijke doel van de venootschap een handelsdoel is en de oprichters slechts door veinzing en om een wet van openbare orde te omzeilen een burgerlijk doel in de statuten hebben ingeschreven, krijgt de vennootschap de hoedanigheid van koopman en kan zij worden failliet verklaard (1) (2)."
+      ]
+    }
+  }
+}

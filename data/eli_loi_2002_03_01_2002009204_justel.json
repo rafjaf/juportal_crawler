@@ -1,0 +1,50 @@
+{
+  "4": {
+    "ECLI:BE:CASS:2002:ARR.20020716.5": {
+      "court": "CASS",
+      "date": "2002-07-16",
+      "roleNumber": "P021032F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/07/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Jusqu'au jour de la décision de dessaisissement prononcée par le tribunal de la jeunesse, la régularité de la privation de liberté imposée à un mineur d'âge doit s'apprécier au regard des dispositions légales particulières; les règles concernant le mandat d'arrêt et notamment le délai de sa signification ne s'appliquent qu'à sa privation de liberté prostérieure au dessaisissement (1)."
+      ],
+      "abstractNL": [
+        "Tot op de datum van de door de jeugdrechtbank uitgesproken beslissing tot uit handen geven, moet de regelmatigheid van de aan een minderjarige opgelegde vrijheidsberoving beoordeeld worden t.a.v. de bijzondere wetsbepalingen; de regels betreffende het aanhoudingsbevel, en meer bepaald de termijn van de betekening ervan, hebben alleen betrekking op zijn vrijheidsberoving na de beslissing tot uit handen geven (1)."
+      ]
+    }
+  },
+  "5": {
+    "ECLI:BE:CASS:2012:ARR.20120717.1": {
+      "court": "CASS",
+      "date": "2012-07-17",
+      "roleNumber": "P.12.1144.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2012/07/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si, au cours des deux mois et cinq jours constituant le délai total maximum du placement dans le centre fédéral fermé de mineurs ayant commis un fait qualifié infraction, il est décidé d'appliquer la mesure provisoire prévue à l'article 52quater de la loi du 8 avril 1965, la période écoulée est déduite de la première période visée à cet article 52quater, alinéa 1er; lorsqu'en raison de cette déduction, la durée du séjour en institution de protection de la jeunesse est insuffisante pour permettre l'établissement par celle-ci d'un rapport médico-psychologique, le tribunal de la jeunesse peut se fonder, pour apprécier s'il y a lieu de renouveler la mesure de placement, sur les rapports d'évaluation établis par le centre fédéral fermé et par l'institution."
+      ],
+      "abstractNL": [
+        "Wanneer in de loop van de twee maanden en vijf dagen, i.e. de maximale duur van de plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd in het federaal gesloten centrum, besloten wordt tot het nemen van de voorlopige maatregel bepaald in artikel 52quater van de wet van 8 april 1965, wordt de verlopen termijn in mindering gebracht van de eerste termijn bedoeld in het eerste lid van artikel 52quater; wanneer door die aftrek het verblijf in een jeugdbeschermingsinstelling te kort is om een medisch-psychisch verslag op te stellen, kan de jeugdrechtbank, om te oordelen of er grond is om de plaatsingsmaatregel te verlengen, zich baseren op de evaluatieverslagen van het gesloten federaal centrum en van de instelling."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020716.5": {
+      "court": "CASS",
+      "date": "2002-07-16",
+      "roleNumber": "P021032F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/07/16/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Jusqu'au jour de la décision de dessaisissement prononcée par le tribunal de la jeunesse, la régularité de la privation de liberté imposée à un mineur d'âge doit s'apprécier au regard des dispositions légales particulières; les règles concernant le mandat d'arrêt et notamment le délai de sa signification ne s'appliquent qu'à sa privation de liberté prostérieure au dessaisissement (1)."
+      ],
+      "abstractNL": [
+        "Tot op de datum van de door de jeugdrechtbank uitgesproken beslissing tot uit handen geven, moet de regelmatigheid van de aan een minderjarige opgelegde vrijheidsberoving beoordeeld worden t.a.v. de bijzondere wetsbepalingen; de regels betreffende het aanhoudingsbevel, en meer bepaald de termijn van de betekening ervan, hebben alleen betrekking op zijn vrijheidsberoving na de beslissing tot uit handen geven (1)."
+      ]
+    }
+  }
+}

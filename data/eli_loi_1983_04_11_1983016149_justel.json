@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1994:ARR.19940920.10": {
+      "court": "CASS",
+      "date": "1994-09-20",
+      "roleNumber": "P927208N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/20/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La cotisation obligatoire, prévue par l'art. 4, c, de la loi du 27 décembre 1938 relative à la création d'un Office national des débouchés agricoles et horticoles, modifié par la loi du 11 avril 1983, n'a pas le caractère d'un impôt ou d'une rétribution."
+      ],
+      "abstractNL": [
+        "De verplichte bijdrage bepaald bij art. 4, c, wet van 27 dec. 1938, betreffende de oprichting van een nationale dienst voor de afzet van land- en tuinbouwprodukten, als gewijzigd bij de wet van 11 april 1983, heeft niet het karakter van een belasting of van een retributie."
+      ]
+    }
+  }
+}

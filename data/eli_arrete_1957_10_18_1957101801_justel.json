@@ -1,0 +1,62 @@
+{
+  "14": {
+    "ECLI:BE:CASS:1965:ARR.19651019.4": {
+      "court": "CASS",
+      "date": "1965-10-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/10/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "La priorité de passage sur les voies ferrées établies dans la chaussée, reconnue aux véhicules sur rails par les articles 18 du Code de la route du 10 décembre 1958 et 14 de l'arrêté royal du 18 octobre 1957 implique pour les autres usagers l'obligation de ne pas se placer sur ces voies à l'approche d'un véhicule sur rails, fût-ce pour se porter à gauche et pour faciliter la circulation générale en permettant leur dépassement par la droite."
+      ],
+      "abstractNL": null
+    }
+  },
+  "17": {
+    "ECLI:BE:CASS:1966:ARR.19660926.6": {
+      "court": "CASS",
+      "date": "1966-09-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est régulièrement motivée la décision du juge d'appel qui, par des motifs propres et par référence aux motifs non contraires du premier juge, rencontre, d'une manière adéquate et sans ambiguïté, les conclusions prises devant lui. (Constit., art. 97.)"
+      ],
+      "abstractNL": [
+        "Is regelmatig met redenen omkleed de beslissing van de rechter in hoger beroep, die op grond van eigen redenen en bij verwijzing naar de niet strijdige redenen van de eerste rechter, aldus passend en zonder dubbelzinnigheid de voor hem genomen conclusie beantwoordt. (Grondwet, art. 97.)"
+      ]
+    }
+  },
+  "18": {
+    "ECLI:BE:CASS:1965:ARR.19650913.5": {
+      "court": "CASS",
+      "date": "1965-09-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/09/13/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La priorité de passage sur les voies ferrées, reconnue aux véhicules sur rails par les articles 18 du Code de la route et 14 de l'arrêté royal du 18 octobre 1957, implique, pour les autres usagers, l'obligation de céder le passage à ces véhicules, sauf circonstances de fait constituant une cause de justification."
+      ],
+      "abstractNL": null
+    }
+  },
+  "26": {
+    "ECLI:BE:CASS:1974:ARR.19741030.5": {
+      "court": "CASS",
+      "date": "1974-10-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/10/30/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Manque en fait le moyen qui repose sur une interprétation inexacte de la décision attaquée."
+      ],
+      "abstractNL": [
+        "Feitelijke grondslag mist het middel dat op een onjuiste uitlegging van de bestreden beslissing berust."
+      ]
+    }
+  }
+}

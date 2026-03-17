@@ -17,6 +17,38 @@
       ]
     }
   },
+  "3": {
+    "ECLI:BE:CASS:1994:ARR.19940525.9": {
+      "court": "CASS",
+      "date": "1994-05-25",
+      "roleNumber": "P940068F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Si la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire range expressément \"la prescription de médicaments pour animaux\" parmi les actes vétérinaires autorisés,en revanche,aucune disposition de cette loi n'autorise le vétérinaire à fabriquer lui-même des médicaments."
+      ],
+      "abstractNL": [
+        "Ook al rangschikt de wet van 28 aug. 1991 op het uitoefenen van de diergeneeskunde \"het voorschrijven van geneesmiddelen voor dieren\" uitdrukkelijk onder de toegestane diergeneeskundige handelingen, toch machtigt geen enkele bepaling van die wet de dierenarts ertoe om zelf geneesmiddelen te vervaardigen. (Art. 3, alinéa 1, 5°, wet 28 aug. 1991)."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:2002:ARR.20020115.7": {
+      "court": "CASS",
+      "date": "2002-01-15",
+      "roleNumber": "P000806N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/01/15/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un vétérinaire fournit des médicaments en vue de l'utilisation chez des animaux de substances à action hormonale et anti-hormonale, sans que ces médicaments soient enregistrés ou aient été achetés en pharmacie, celui-ci n'agit pas dans les limites de ses fonctions légales et n'est pas exempté de l'autorisation générale ministérielle requise."
+      ],
+      "abstractNL": [
+        "Wanneer een dierenarts geneesmiddelen verschaft teneinde gebruik bij dieren van stoffen met hormonale en anti-hormonale werking zonder dat deze geneesmiddelen geregistreerd zijn en zonder dat zij bij een apotheker worden aangekocht, handelt hij niet binnen de perken van zijn wettelijke bevoegdheid en geniet hij geen vrijstelling van de vereiste ministeriële algemene vergunning."
+      ]
+    }
+  },
   "20": {
     "ECLI:BE:CASS:2020:ARR.20201209.2F.3": {
       "court": "CASS",

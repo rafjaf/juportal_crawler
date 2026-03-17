@@ -1,0 +1,64 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1983:ARR.19830210.1": {
+      "court": "CASS",
+      "date": "1983-02-10",
+      "roleNumber": "3143",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/02/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ressort de l'économie du Code du logement et des règles générales contenues en son article 31 que le bail d'une habitation sociale comporte pour le locataire l'obligation d'occuper effectivement le logement qui lui a été attribué en application de ladite législation. (Arr. roy. du 10 décembre 1970, art. 31; loi du 2 juillet 1971, art. 1er.)"
+      ],
+      "abstractNL": [
+        "Uit de opzet van de Huisvestingscode en uit de algemene regels van art. 31 ervan blijkt dat de huur van een volkswoning voor de huurder de verplichting inhoudt de hem krachtens die wetgeving toegekende woning effectief te bewonen."
+      ]
+    }
+  },
+  "31": {
+    "ECLI:BE:CASS:1988:ARR.19880915.15": {
+      "court": "CASS",
+      "date": "1988-09-15",
+      "roleNumber": "8079",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/15/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision d'une juridiction judiciaire qui, sur la base d'une disposition d'un arrêté réglementaire annulée par le conseil d'Etat, condamne une des parties."
+      ],
+      "abstractNL": [
+        "Het arrest waarbij de Raad van State een bepaling uit een verordeningsbesluit onwettig verklaart, leidt met terugwerkende kracht erga omnes tot vernietiging van die bepaling; zulks heeft onwettigheid ten gevolge van de beslissing van een gewoon gerecht waarbij een der partijen op basis van die bepaling wordt veroordeeld."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1983:ARR.19830609.5": {
+      "court": "CASS",
+      "date": "1983-06-09",
+      "roleNumber": "3837",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/06/09/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La rupture de l'équilibre existant entre fonds voisins par des travaux excédant les inconvénients ordinaires du voisinage oblige à compensation celui qui a causé la rupture de cet équilibre, qu'il soit le propriétaire du fonds ayant entraîné le trouble ou que en raison d'un droit réel ou personnel, il dispose à l'égard de ce fonds d'un des attributs du droit de propriété; il est indifférent que ce droit réel ou personnel trouve son origine dans une convention ou dans une disposition légale."
+      ],
+      "abstractNL": [
+        "Het verbreken van het evenwicht door een stoornis die de grens van de gewone ongemakken van nabuurschap overschrijd, verplicht tot compensatie, niet alleen de eigenaar van het erf waar die stoornis ontstaat, doch ook diegene die ten aanzien van dat erf als houder van een zakelijk of persoonlijk recht over een van de attributen van het eigendomsrecht beschikt; daarbij is het onverschillig of de houder van dat zakelijk of persoonlijk recht dit verkregen heeft ingevolge een overeenkomst of ingevolge een wettelijke bepaling."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880915.15": {
+      "court": "CASS",
+      "date": "1988-09-15",
+      "roleNumber": "8079",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/09/15/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Est illégale la décision d'une juridiction judiciaire qui, sur la base d'une disposition d'un arrêté réglementaire annulée par le conseil d'Etat, condamne une des parties."
+      ],
+      "abstractNL": [
+        "Het arrest waarbij de Raad van State een bepaling uit een verordeningsbesluit onwettig verklaart, leidt met terugwerkende kracht erga omnes tot vernietiging van die bepaling; zulks heeft onwettigheid ten gevolge van de beslissing van een gewoon gerecht waarbij een der partijen op basis van die bepaling wordt veroordeeld."
+      ]
+    }
+  }
+}

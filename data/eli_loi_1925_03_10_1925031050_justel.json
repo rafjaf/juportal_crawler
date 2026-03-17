@@ -129,6 +129,18 @@
       "abstractNL": [
         "Wanneer de Staat, de provincie of de gemeente op hun respectief domein de schikkingen of het plan ener electrische inrichting alsmede de werken daarmee in verbant heeft doen wijzigen en die wijzigingen noodzakelijk zijn in het belang van de wegen, vallen de kosten der werken ten laste van de onderneming die de geleiding heeft aangelegd. ( Wet van 10 maart 1925 op de electriciteitsvoorziening, art. 13, derde lid. )"
       ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920625.19": {
+      "court": "CASS",
+      "date": "1992-06-25",
+      "roleNumber": "9366",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/25/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Niet naar recht verantwoord is de beslissing van de rechter, waarin deze oordeelt dat de door het Wegenfonds opgelegde wijzigingen aan de electrische installaties van een intercommunale vereniging noodzakelijk zijn voor de openbare veiligheid en in het belang van de wegen, en niettemin beslist dat de kosten van die werken niet ten laste vallen van die vereniging, op grond dat, als die kosten door een \"zuivere intercommunale\" dienden te worden betaald, zulks hierop zou neerkomen dat de kosten ten laste komen van de inwoners van de gemeenten op wier grondgebied de werken zijn uitgevoerd; die motivering voegt aan art. 13, derde lid, Wet van 10 maart 1925, een voorwaarde toe die er niet in voorkomt en maakt, in verband met de rechtsvorm van de onderneming die de installatie heeft aangebracht, een onderscheid waarvan in die tekst geen sprake is."
+      ]
     }
   },
   "15": {
@@ -381,6 +393,18 @@
       "abstractNL": [
         "De beslissing van de strafrechter, die de beklaagde vrijspreekt van inbreuk op artikel 27, lid 2, van de wet van 10 maart 1925 op de elektriciteitsvoorziening, op grond hiervan dat het gebrek aan de bij deze bepaling vereiste voorzorg niet bewezen is, sluit in dat beklaagde geen fout heeft begaan, al was het ook de lichtste."
       ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920409.14": {
+      "court": "CASS",
+      "date": "1992-04-09",
+      "roleNumber": "9315",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/04/09/sitemap_15.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het gezag van gewijsde van een beslissing van de correctionele rechtbank waarbij een aangestelde en zijn opdrachtgever, als burgerrechtelijk aansprakelijke partij, op grond van art. 27, tweede lid, wet van 10 maart 1925 op de electriciteitsvoorziening, worden veroordeeld, staat niet eraan in de weg dat de burgerlijke rechter op een vordering van de opdrachtgever tegen zijn verzekeraar, onderzoekt of die opdrachtgever ook geen fout heeft begaan waardoor het schadegeval mede is ontstaan."
+      ]
     }
   },
   "1384": {
@@ -412,6 +436,32 @@
       ],
       "abstractNL": [
         "De voorwaarden voor de levering van elektriciteit zijn van reglementaire aard, zodat zij onmiddellijk kunnen worden tegengeworpen aan de eigenaar van een op het distributienet aangesloten pand, zonder dat hij zich persoonlijk dient te verbinden jegens de elektriciteitsdistributeur (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19931008.13": {
+      "court": "CASS",
+      "date": "1993-10-08",
+      "roleNumber": "8015",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/10/08/sitemap_3.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De wet van 10 maart 1925 op de elektriciteitsvoorziening is niet toepasselijk op de teledistributienetten."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19891027.7": {
+      "court": "CASS",
+      "date": "1989-10-27",
+      "roleNumber": "6484",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/10/27/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'endommagement d'un cable d'un réseau de télédistribution ne tombe pas sous l'application des dispositions pénales de l'article 27, alinéa 2, de la loi du 10 mars 1925 sur les distributions d'énergie électrique."
+      ],
+      "abstractNL": [
+        "Beschadiging van een kabel van een teledistributienet valt niet onder de strafbepaling van artikel 27, tweede lid, van de wet van 10 maart 1925 op de electriciteitsvoorziening."
       ]
     }
   }

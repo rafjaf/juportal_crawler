@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1972:ARR.19720619.27": {
+      "court": "CASS",
+      "date": "1972-06-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/06/19/sitemap_27.xml"
+      ],
+      "abstractFR": [
+        "Le payement de la redevance pour un appareil récepteur d'émissions radiodiffusées de télévision ne couvre pas la détention simultanée d'un appareil portatif de réception d'émissions sonores de radiodiffusion. ( Loi du 26 janvier 1960, art. 3 et 4. )"
+      ],
+      "abstractNL": [
+        "De betaling van de taks op een toestel voor het ontvangen van omgeroepen televisieuitzendingen geldt niet voor het gelijktijdig bezit van een draagbaar toestel voor het ontvangen van klankuitzendingen van de radio-omroep. ( Wet van 26 januari 1960, art. 3 en 4. )"
+      ]
+    }
+  }
+}

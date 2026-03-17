@@ -1,0 +1,64 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1966:ARR.19660422.2": {
+      "court": "CASS",
+      "date": "1966-04-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté du Régent du 19 juillet 1947, relatif à la déclaration de stocks et au remboursement de diverses interventions gouvernementales en matière de ravitaillement, trouve son fondement légal dans l'article 3 de l'arrêté-loi du 22 janvier 1945, concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays, dans l'article 1er de l'arrêté-loi du 14 mai 1946 renforçant le contrôle des prix et dans l'article 1er, alinéa 2, de l'arrêté-loi du 29 juin 1946, concernant l'intervention injustifiée d'intermédiaires dans la distribution des produits et matières, et modifiant l'arrêté-loi du 22 janvier 1945."
+      ],
+      "abstractNL": null
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:1997:ARR.19971125.9": {
+      "court": "CASS",
+      "date": "1997-11-25",
+      "roleNumber": "P961187N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/25/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Est punissable celui qui, personnellement ou en tant qu'intermédiaire, vend des biens ou exécute des prestations à prix illicite."
+      ],
+      "abstractNL": [
+        "Is strafbaar hij die zelf of als tussenpersoon waren verkoopt of prestaties levert aan een ongeoorloofde prijs."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1972:ARR.19721212.8": {
+      "court": "CASS",
+      "date": "1972-12-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/12/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les infractions à l'article 498 du Code pénal, relatif à la tromperie en matière de vente, sont, depuis l'entrée en vigueur de l'arrêté-loi du 14 mai 1946, renforçant le contrôle des prix ( art. 10 ), punies conformément au chapitre III de l'arrêté-loi du 22 janvier 1945 concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays."
+      ],
+      "abstractNL": [
+        "De overtredingen van artikel 498 van het Strafwetboek betreffende het bedrog inzake koop en verkoop worden, sinds de inwerkingtreding van de besluitwet van 14 mei 1946 houdende verscherping van de controle der prijzen ( art. 10 ), gestraft overeenkomstig hoofdstuk III van de besluitwet van 22 januari 1945 betreffende het beteugelen van elke inbreuk op de reglementering betreffende de bevoorrading van het land."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1966:ARR.19660916.3": {
+      "court": "CASS",
+      "date": "1966-09-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/09/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté du Régent du 19 juillet 1947 trouve son fondement légal dans l'article 3 de l'arrêté-loi du 22 janvier 1945, concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays, dans l'article 1er de l'arrêté-loi du 14 mai 1946, renforçant le contrôle des prix, et dans l'article 1er, alinéa 2, de l'arrêté-loi du 29 juin 1946, concernant l'intervention injustifiée d'intermédiaires dans la distribution des produits et matières et modifiant l'arrêté-loi du 22 janvier 1945."
+      ],
+      "abstractNL": [
+        "Het besluit van de Regent van 19 juli 1947 vindt zijn wettelijke grondslag in de artikelen 3 van de besluitwet van 22 januari 1945 betreffende het beteugelen van elke inbreuk op de reglementering betreffende de bevoorrading van het land, 1 van de besluitwet van 14 mei 1946 houdende verscherping van de controle der prijzen, en 1, tweede lid, van de besluitwet van 29 juni 1946 betreffende het niet verantwoord optreden van tussenpersonen in de verdeling van producten en grondstoffen dat de besluitwet van 22 januari 1945 wijzigt."
+      ]
+    }
+  }
+}

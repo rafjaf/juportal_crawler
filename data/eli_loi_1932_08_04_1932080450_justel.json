@@ -1,0 +1,16 @@
+{
+  "15": {
+    "ECLI:BE:CASS:1966:ARR.19660328.11": {
+      "court": "CASS",
+      "date": "1966-03-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/03/28/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable le pourvoi formé contre un jugement rendu en premier ressort par le tribunal correctionnel."
+      ],
+      "abstractNL": null
+    }
+  }
+}

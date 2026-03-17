@@ -1,0 +1,34 @@
+{
+  "2": {
+    "ECLI:BE:CASS:1984:ARR.19841210.3": {
+      "court": "CASS",
+      "date": "1984-12-10",
+      "roleNumber": "6892",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/12/10/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "La Cour de cassation a compétence pour vérifier si le juge du fond a pu légalement déduire des faits qu'il constate l'existence d'un lien de subordination entre les parties contractantes et si celles-ci sont, dès lors, engagées dans les liens d'un contrat de travail."
+      ],
+      "abstractNL": [
+        "Het Hof van Cassatie is bevoegd om na te gaan of de feitenrechter uit de door hem vastgestelde feiten wettig heeft kunnen afleiden of er al dan niet een gezagsverhouding tussen de contracterende partijen bestaat en deze derhalve al dan niet door een arbeidsovereenkomst verbonden zijn."
+      ]
+    }
+  },
+  "23": {
+    "ECLI:BE:CASS:1987:ARR.19871120.16": {
+      "court": "CASS",
+      "date": "1987-11-20",
+      "roleNumber": "5487",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/20/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 23 de l'arrêté royal du 9 juin 1981 accueillant une requête relative aux contrats conclus entre fournisseurs et détaillants en carburants, les dommages et intérêts forfaitaires fixés en fonction de quantités minimales de produits à enlever par période de référence ne peuvent être appliqués qu'en cas d'inexécution d'une clause d'exclusivité d'approvisionnement ou de rupture du contrat aux torts et griefs du détaillant-revendeur; viole cette disposition la décision qui limite la réparation forfaitaire au seul cas où le contrat est résilié aux torts du détaillant-revendeur pour d'autres motifs que le seul fait que la quantité minimale convenue n'est pas atteinte."
+      ],
+      "abstractNL": [
+        "Krachtens art. 23 K.B. van 9 juni 1981 tot inwilliging van een verzoekschrift betreffende de tussen de leveranciers en kleinhandelaars in brandstoffen gesloten contracten, mogen de forfaitaire schadevergoedingen vastgesteld in verhouding tot de per referentieperiode af te nemen minimumhoeveelheden slechts worden toegepast in geval van niet-uitvoering van een exclusiviteitsclausule inzake bevoorrading of in elk geval van verbreking van het contract ten laste en ten nadele van de kleinhandelaar-wederverkoper; die bepaling wordt geschonden wanneer de beslissing de forfaitaire vergoeding beperkt tot het enkele geval dat het contract ten laste en ten nadele van de kleinhandelaar-wederverkoper wordt verbroken om andere redenen dan het loutere feit dat de bedongen minimumhoeveelheid niet is bereikt."
+      ]
+    }
+  }
+}

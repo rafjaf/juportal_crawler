@@ -1,0 +1,48 @@
+{
+  "44": {
+    "ECLI:BE:CASS:1998:ARR.19980511.8": {
+      "court": "CASS",
+      "date": "1998-05-11",
+      "roleNumber": "F970091F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/05/11/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer l'exonération de l'impôt qui est liée à l'engagement de personnel supplémentaire et qui s'applique aux bénéfices et aux profits visés à l'article 44 de la loi du 27 décembre 1984 portant des dispositions fiscales, il n'est pas tenu compte des membres du personnel qui étaient occupés antérieurement dans des entreprises avec lesquelles le contribuable se trouve directement ou indirectement dans des liens quelconques d'interdépendance ou dont il continue l'activité en tout ou en partie; le juge du fond apprécie en fait si le contribuable se trouve directement ou indirectement dans des liens d'interdépendance avec les entreprises précitées ou s'il continue en tout ou en partie l'activité de celles-ci."
+      ],
+      "abstractNL": [
+        "Bij de vaststelling van de belastingvrijstelling die wordt verleend wegens de indienstneming van bijkomend personeel en die van toepassing is op de winsten en baten, bedoeld in art. 44 W. 27 december 1984 houdende fiscale bepalingen wordt er geen rekening gehouden met de personeelsleden die voorheen waren tewerkgesteld in ondernemingen waarmee de belastingplichtige zich rechtstreeks of onrechtstreeks in enigerlei band van wederzijdse afhankelijkheid bevindt of waarvan hij de beroepswerkzaamheid geheel of gedeeltelijk voortzet; de feitenrechter oordeelt in feite of de belastingplichtige zich rechtstreeks of onrechtstreeks bevindt in een band van wederzijdse afhankelijkheid met de bovenbedoelde ondernemingen dan wel of hij de beroepswerkzaamheid van die ondernemingen geheel of gedeeltelijk voortzet."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950519.11": {
+      "court": "CASS",
+      "date": "1995-05-19",
+      "roleNumber": "F930067N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 44, alinéa 1er, de la loi du 27 décembre 1984 portant des dispositions fiscales qui dispose que les bénéfices des exploitations industrielles, commerciales ou agricoles qui, au 31 décembre 1984 ou à la fin de l'année au cours de laquelle a commencé l'exploitation lorsque celle-ci et débuté à une date ultérieure, occupent moins de cinquante travailleurs, sont exonérés de l'impôt des personnes physiques, de l'impôt des sociétés ou de l'impôt des non-résidents à concurrence d'un montant égal à 150.000 francs par unité de personnel supplémentaire occupé en Belgique, ne fait pas de distinction, en ce qui concerne le calcul de l'effectif du personnel occupé, entre les travailleurs occupés à temps plein et les travailleurs occupés à temps partiel."
+      ],
+      "abstractNL": [
+        "Art. 44, alinéa 1, van de wet van 27 december 1984 houdende fiscale bepalingen, dat van de personenbelasting, van de vennootschapsbelasting of van de belasting der niet-verblijfhouders tot een bedrag gelijk aan 150.000 fr per in België bijkomend tewerkgestelde personeelseenheid vrijstelling bepaalt op de winst van nijverheids-, handels- of landbouwbedrijven die op 31 december 1984 of op het einde van het jaar waarin het bedrijf is aangevangen als die aanvang op een latere datum valt, minder dan vijftig werknemers tewerkstellen, maakt voor de vaststelling van het aantal in dienst zijnde personeelsleden, geen onderscheid tussen voltijdse en deeltijdse werknemers."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1995:ARR.19950519.11": {
+      "court": "CASS",
+      "date": "1995-05-19",
+      "roleNumber": "F930067N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/05/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'article 44, alinéa 1er, de la loi du 27 décembre 1984 portant des dispositions fiscales qui dispose que les bénéfices des exploitations industrielles, commerciales ou agricoles qui, au 31 décembre 1984 ou à la fin de l'année au cours de laquelle a commencé l'exploitation lorsque celle-ci et débuté à une date ultérieure, occupent moins de cinquante travailleurs, sont exonérés de l'impôt des personnes physiques, de l'impôt des sociétés ou de l'impôt des non-résidents à concurrence d'un montant égal à 150.000 francs par unité de personnel supplémentaire occupé en Belgique, ne fait pas de distinction, en ce qui concerne le calcul de l'effectif du personnel occupé, entre les travailleurs occupés à temps plein et les travailleurs occupés à temps partiel."
+      ],
+      "abstractNL": [
+        "Art. 44, alinéa 1, van de wet van 27 december 1984 houdende fiscale bepalingen, dat van de personenbelasting, van de vennootschapsbelasting of van de belasting der niet-verblijfhouders tot een bedrag gelijk aan 150.000 fr per in België bijkomend tewerkgestelde personeelseenheid vrijstelling bepaalt op de winst van nijverheids-, handels- of landbouwbedrijven die op 31 december 1984 of op het einde van het jaar waarin het bedrijf is aangevangen als die aanvang op een latere datum valt, minder dan vijftig werknemers tewerkstellen, maakt voor de vaststelling van het aantal in dienst zijnde personeelsleden, geen onderscheid tussen voltijdse en deeltijdse werknemers."
+      ]
+    }
+  }
+}

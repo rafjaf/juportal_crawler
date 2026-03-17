@@ -11,6 +11,48 @@
       "abstractNL": [
         "Met deze termen wordt bedoeld : een persoon die met 1 of meer personen onder hetzelfde dak samenleeft en met hen een gemeenschappelijke huishouding heeft."
       ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960513.4": {
+      "court": "CASS",
+      "date": "1996-05-13",
+      "roleNumber": "S950119N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/05/13/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "En matière d'assistance et de secours public tendant à pourvoir aux aliments, l'égalité de traitement entre les réfugiés résidant régulièrement sur le territoire et les ressortissants belges et ce, éventuellement avec effet rétroactif, ne vaut qu'à l'égard de la personne qui possède la qualité de réfugié et qui est reconnue en tant que telle en vertu des dispositions légales applicables."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1984:ARR.19841008.18": {
+      "court": "CASS",
+      "date": "1984-10-08",
+      "roleNumber": "4416",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/10/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 2, alinéa 1.3, de la loi du 7 août 1974 qui détermine le montant du minimum des moyens d'existence d'une personne cohabitant avec une ou plusieurs personnes, il faut entendre par cohabitation le fait pour deux ou plusieurs personnes de vivre ensemble, sous le même toit, en faisant ménage commun."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 2. alinéa 1.3, Bestaansminimumwet, dat het bedrag van het bestaansminimum bepaalt van een persoon die met één of meer personen samenwoont, wordt onder samenwonen verstaan het onder hetzelfde dak samenleven van twee of meer personen die een gemeenschappelijke huishouding hebben."
+      ]
+    }
+  },
+  "3": {
+    "ECLI:BE:CASS:1999:ARR.19990927.6": {
+      "court": "CASS",
+      "date": "1999-09-27",
+      "roleNumber": "S980138N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le centre public d'aide sociale refuse le minimum de moyens d'existence par le motif qu'il existe suffisamment de ressources en raison de la cohabitation avec un ascendant et que l'intéressé le conteste, il naît une contestation entre le demandeur et le défendeur quant au droit au minimum de moyens d'existence; le jugement de cette contestaion relève de la compétence du tribunal du travail dès lors que celui-ci connaît des contestations relatives à l'application de la loi instituant un minimum de moyens d'existence en ce qui concerne les contestations relatives à l'octroi, à la révision, au refus et au remboursement par le bénéficiaire du minimum de moyens d'existence et à l'application des sanctions administratives prévues par la législation précitée."
+      ],
+      "abstractNL": [
+        "Wanneer het openbaar centrum voor maatschappelijk welzijn het bestaansminimum intrekt op grond dat er voldoende inkomsten zijn wegens het samenwonen met een ascendent en de betrokkene dit betwist, ontstaat er een geschil tussen eiser en verweerder over het recht op het bestaansminimum; de berechting van dit geschil behoort tot de bevoegdheid van de arbeidsrechtbank daar deze kennis neemt van de geschillen betreffende de toepassing van de wet tot instelling van het recht op een bestaansminimum, wat betreft de geschillen betreffende de toekenning, de herziening, de weigering en de terugbetaling door de gerechtigde van het bestaansminimum alsmede betreffende de toepassing van de administratieve sancties bepaald in de desbetreffende wetgeving."
+      ]
     }
   },
   "5": {
@@ -52,6 +94,200 @@
       ],
       "abstractNL": [
         "Voor de vaststelling van het recht op bestaansminimum wordt ook rekening gehouden met de in aanmerking te nemen inkomsten waarop beslag is gelegd wegens onderhoudsverplichtingen als bedoeld in art. 1412 Ger. W. (Art. 5 Bestaansminimumwet; artt. 12 e.v. K.B. 30 okt. 1974)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980914.3": {
+      "court": "CASS",
+      "date": "1998-09-14",
+      "roleNumber": "S970074F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/09/14/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Pour déterminer le droit au minimum de moyens d'existence, il y a lieu de prendre en considération tous les revenus, quelle qu'en soit la nature ou l'origine, et ce avant toute saisie opérée en raison d'obligations alimentaires."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1988:ARR.19880620.9": {
+      "court": "CASS",
+      "date": "1988-06-20",
+      "roleNumber": "8344",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/20/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le paragraphe 2 de l'article 5 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence, exclut du calcul des ressources les allocations familiales au profit des enfants auxquelles l'époux qui les élève a droit en application de la législation belge ou d'une autre législation sociale étrangère, mais non la contribution de l'autre époux à leur entretien."
+      ],
+      "abstractNL": [
+        "Paragraaf 2 van art. 5, Bestaansminimumwet 7 augustus 1974 bepaalt dat bij het berekenen van de bestaansmiddelen geen rekening wordt gehouden met de gezinsbijslag ten voordele van de kinderen, waarop de echtgenoot die ze opvoedt, recht heeft met toepassing van de Belgische of een vreemde sociale wetgeving, maar wel met de bijdrage van de andere echtgenoot voor hun onderhoud."
+      ]
+    }
+  },
+  "6": {
+    "ECLI:BE:CASS:2001:ARR.20010618.6": {
+      "court": "CASS",
+      "date": "2001-06-18",
+      "roleNumber": "S990170F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal du travail exerce un contrôle de pleine juridiction sur la décision du centre public d'aide sociale d'imposer à l'intéressé qui demande le minimum de moyens d'existence, de faire valoir ses droits à l'égard des personnes légalement déterminées qui lui doivent des aliments (1)."
+      ],
+      "abstractNL": [
+        "De arbeidsrechtbank oefent een toezicht van volle rechtsmacht uit op de beslissing van het openbaar centrum voor maatschappelijk welzijn waarbij aan de betrokkene die het bestaanminimum vraagt de verplichting wordt opgelegd zijn rechten te doen gelden op de personen die in de wet worden genoemd en hem onderhoudsgeld verschuldigd zijn (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010528.4": {
+      "court": "CASS",
+      "date": "2001-05-28",
+      "roleNumber": "S000030F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'octroi et le maintien du minimum de moyens d'existence, chacun des conjoints vivant sous le même toit doit faire la preuve qu'il est disposé à être mis au travail à moins que cela s'avère impossible pour des raisons de santé ou d'équité; cette règle est applicable même dans le cas où les conjoints vivant sous le même toit cohabitent avec un enfant (1)."
+      ],
+      "abstractNL": [
+        "Voor de toekenning en het behoud van het bestaansminimum moet ieder van de samenwonende echtgenoten blijk hebben gegeven van zijn bereidheid tot tewerkstelling tenzij dit om gezondheids- of billijkheidsredenen onmogelijk is; die regel geldt zelfs in het geval dat die echtgenoten samenwonen met een kind (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010226.2": {
+      "court": "CASS",
+      "date": "2001-02-26",
+      "roleNumber": "S990112F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Pour l'octroi et le maintien du minimum de moyens d'existence, l'intéressé doit faire la preuve qu'il est disposé à être mis au travail à moins que cela s'avère impossible pour des raisons de santé ou d'équité; pour pouvoir bénéficier de cette dispense de preuve pour des raisons d'équité, l'intéressé doit établir que l'intervention du centre public d'aide sociale est nécessaire pour lui permettre de mener une vie conforme à la dignité humaine (1)."
+      ],
+      "abstractNL": [
+        "Voor de toekenning en het behoud van het bestaansminimum moet de betrokkene blijk hebben gegeven van zijn bereidheid tot tewerkstelling tenzij dit om gezondheids- of billijkheidsredenen onmogelijk is; teneinde die vrijstelling om billijkheidsredenen te kunnen genieten, moet de betrokkene bewijzen dat de bijstand van het openbaar centrum voor maatschappelijk welzijn nodig is om hem in staat te stellen een leven te leiden dat aan de menselijke waardigheid beantwoordt (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2000:ARR.20000228.5": {
+      "court": "CASS",
+      "date": "2000-02-28",
+      "roleNumber": "S990160F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2000/02/28/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'aide sociale financière peut être liée par décision du centre public d'aide sociale à la condition que la personne fasse la preuve qu'elle est disposée à être mise au travail à moins que cela s'avère impossible pour des raisons de santé ou d'équité."
+      ],
+      "abstractNL": [
+        "Het OCMW kan de toekenning van financiële maatschappelijke hulp koppelen aan de voorwaarde dat de persoon bewijst bereid te zijn om te werken, tenzij dat onmogelijk blijkt te zijn om gezondheidsredenen of om redenen van billijkheid."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:1995:ARR.19950227.16": {
+      "court": "CASS",
+      "date": "1995-02-27",
+      "roleNumber": "S940132N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/02/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'obligation de déclaration prévue à l'article 7, alinéa 2, de la loi du 7 août 1974 ne constitue pas une condition d'octroi ou de maintien du minimum de moyens d'existence mais une condition imposée à l'intéressé afin que le centre d'aide sociale puisse examiner s'il y a lieu ou non à révision ou à retrait du minimum de moyens d'existence."
+      ],
+      "abstractNL": [
+        "De aangifteverplichting bedoeld in art. 7, alinéa 2 Bestaansminimumwet is geen voorwaarde voor toekenning of behoud van het bestaansminimum, maar een verplichting die de betrokkene wordt opgelegd opdat het centrum voor maatschappelijk welzijn kan nagaan of er al dan niet grond is tot herziening of intrekking van het bestaansminimum."
+      ]
+    },
+    "ECLI:BE:CASS:1990:ARR.19901008.11": {
+      "court": "CASS",
+      "date": "1990-10-08",
+      "roleNumber": "8907",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/10/08/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Il n'existe pas de droit immuable au bénéfice du minimum de moyens d'existence. ( Loi du 7 août 1974, art. 1er, alinéa 1er, et 7, alinéa 1er; Arrêté royal du 30 octobre 1974, art. 26, al. 1er, tel qu'il a été modifié par l'arrêté royal du 27 mars 1987. )"
+      ],
+      "abstractNL": [
+        "Er bestaat geen onveranderlijk recht op het bestaansminimum. ( Artt. 1, alinéa 1 en 7, alinéa 1 Bestaansminimumwet; art. 26, eerste lid, K.B. van 30 oktober 1974, gewijzigd bij K.B. van 27 maart 1987. )"
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:1995:ARR.19951124.7": {
+      "court": "CASS",
+      "date": "1995-11-24",
+      "roleNumber": "C950028F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'action du centre public d'aide sociale, au nom et en faveur du bénéficiaire d'un minimum de moyens d'existence, afin de faire valoir les droits de l'intéressé à une pension alimentaire, est subordonnée à la condition que de tels droits existent au moment où la demande est introduite."
+      ],
+      "abstractNL": [
+        "De rechtsvordering die het OCMW in naam en ten voordele van de rechthebbende op een bestaansminimum kan instellen om de rechten van de betrokkene op een onderhoudsuitkering te laten gelden is onderworpen aan de voorwaarde dat zodanige rechten bestaan ten tijde van de indiening van de aanvraag."
+      ]
+    }
+  },
+  "10": {
+    "ECLI:BE:CASS:1994:ARR.19940418.8": {
+      "court": "CASS",
+      "date": "1994-04-18",
+      "roleNumber": "S930124F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/04/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le délai dans lequel le recours contre une décision administrative du centre public d'aide sociale concernant le droit au minimum de moyens d'existence doit être formé, est prescrit à peine de déchéance. (L. 7 août 1974, art. 10, alinéa 1er; C. jud., art. 860, al. 3)."
+      ],
+      "abstractNL": [
+        "De termijn waarbinnen het beroep tegen een administratieve beslissing van het openbaar centrum voor maatschappelijk welzijn betreffende het recht op een bestaansminimum moet worden ingesteld, is voorgeschreven op straffe van verval. (Art; 10, alinéa 1, Bestaansminimumwet; art. 860, derde lid, Ger. W.)."
+      ]
+    }
+  },
+  "11": {
+    "ECLI:BE:CASS:1987:ARR.19870617.14": {
+      "court": "CASS",
+      "date": "1987-06-17",
+      "roleNumber": "5679",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/06/17/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Le minimum de moyens d'existence consiste en un montant en argent, et non en un montant en nature. ( Loi du 7 août 1974, art. 2 et 11. )"
+      ],
+      "abstractNL": [
+        "Het bestaansminimum bestaat in een bedrag in geld, niet in nature. ( Art. 2 en 11 Bestaansminimumwet. )"
+      ]
+    }
+  },
+  "12": {
+    "ECLI:BE:CASS:2001:ARR.20010516.9": {
+      "court": "CASS",
+      "date": "2001-05-16",
+      "roleNumber": "P000792F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/05/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une personne vient à disposer de ressources en vertu de droits qu'elle possédait pendant la période pour laquelle un minimum de moyens d'existence lui a été payé, le centre public d'aide social est subrogé de plein droit dans les droits que le bénéficiaire peut faire valoir aux ressources précitées, à concurrence du montant des ressources qui auraient dû être prises en considération pour le calcul du minimum de moyens d'existence à payer si l'intéressé en avait déjà disposé à ce moment."
+      ],
+      "abstractNL": [
+        "Wanneer een persoon de beschikking krijgt over inkomsten krachtens rechten die hij bezat tijdens de periode waarvoor hem een bestaansminimum werd uitbetaald, treedt het openbaar centrum voor maatschappelijk welzijn van rechtswege en tot beloop van het bedoelde bedrag in de rechten die de begunstigde op die inkomsten kan doen gelden, tot beloop van het bedrag waarvoor die inkomsten bij de berekening van het uitbetaalde bestaansminimum in aanmerking hadden moeten worden genomen indien de betrokkene er op dat ogenblik reeds over zou hebben beschikt."
+      ]
+    }
+  },
+  "13": {
+    "ECLI:BE:CASS:1990:ARR.19901217.8": {
+      "court": "CASS",
+      "date": "1990-12-17",
+      "roleNumber": "8841",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/12/17/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les débiteurs d'aliments peuvent opposer au centre public d'aide sociale agissant en recouvrement du minimum de moyens d'existence, les exceptions qu'ils auraient été en droit d'opposer au créancier d'aliments dans une action alimentaire exercée par ce dernier contre eux pour la période durant laquelle a été octroyé le minimum de moyens d'existence. ( Loi du 7 août 1974, art. 13, alinéa 2, 1°. )"
+      ],
+      "abstractNL": [
+        "De onderhoudsplichtigen kunnen aan het openbaar centrum voor maatschappelijk welzijn dat het bestaansminimum terugvordert, de excepties tegenwerpen die zij hadden kunnen tegenwerpen aan de onderhoudvragende partij in een rechtsvordering tot levensonderhoud die laatstgenoemde tegen hen zou hebben ingesteld voor de periode tijdens welke het bestaansminimum is uitgekeerd. ( Art. 13, tweede lid, 1°, Bestaansminimumwet van 7 augustus 1974. )"
       ]
     }
   },

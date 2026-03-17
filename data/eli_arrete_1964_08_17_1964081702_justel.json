@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1985:ARR.19851211.16": {
+      "court": "CASS",
+      "date": "1985-12-11",
+      "roleNumber": "4402",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/12/11/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "L'arrêté royal du 17 août 1964, réglementant l'emploi des miradors en vue de l'exercice de la chasse, prohibe, dans les limites qu'il indique, l'utilisation ou l'occupation avec une arme de chasse, en vue de l'exercice de la chasse, d'un mirador, d'une construction ou aménagement quelconque y assimilé, dès lors qu'ils permettent le tir du gibier d'un point situé au-dessus du niveau normal du sol."
+      ],
+      "abstractNL": [
+        "Het K.B. van 17 augustus 1964 verbiedt, binnen de grenzen die het aangeeft, zich met het oog op de uitoefening van de jacht, met een jachtwapen te bevinden op of gebruik te maken van een jachtkansel of daarmee gelijkgestelde constructie of inrichting, nu het hierdoor mogelijk wordt het wild te schieten vanaf een punt gelegen boven het normaal niveau van de grond."
+      ]
+    }
+  }
+}

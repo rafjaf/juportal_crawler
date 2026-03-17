@@ -1,0 +1,48 @@
+{
+  "1": {
+    "ECLI:BE:CASS:1977:ARR.19770214.1": {
+      "court": "CASS",
+      "date": "1977-02-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/02/14/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le vol à l'aide de violences ou de menaces, commis avec l'une des circonstances aggravantes prévues par l'article 473 du Code pénal et puni des travaux forcés de quinze à vingt ans, n'est pas l'un des crimes dont la loi autorise la correctionnalisation, en raison de circonstances atténuantes, par les juridictions d'instruction . (Loi du 4 octobre 1867, art. 2; loi du 19 mars 1956, art. unique.)"
+      ],
+      "abstractNL": [
+        "Diefstal met behulp van geweld of bedreiging, gepleegd met een van de verzachtende omstandigheden, als bedoeld in artikel 473 van het Strafwetboek, en gestraft met vijftien tot twintig jaar dwangarbeid, is niet een van de misdaden waarvoor de wet in de mogelijkheid voorziet dat zij door de onderzoeksgerechten wegens verzachtende omstandigheden gecorrectionaliseerd worden . ( Art. 2 wet van 4 oktober 1867; enig artikel wet van 19 maart 1956. )"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670503.7": {
+      "court": "CASS",
+      "date": "1967-05-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la chambre du conseil a renvoyé un inculpé devant le tribunal correctionnel du chef d'un crime et d'un délit connexe, sans indiquer de circonstances atténuantes relativement au crime, et que la juridiction de jugement s'est déclarée incompétente pour connaître de la cause, la cour, réglant de juges, annule l'ordonnance de la chambre du conseil et renvoie la cause devant une chambre des mises en accusation."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer een verdachte wegens een misdaad en een samenhangend wanbedrijf naar de correctionele rechtbank verwijst, zonder verzachtende omstandigheden te vermelden ten aanzien van de misdaad, en het vonnisgerecht zich onbevoegd heeft verklaard om kennis te nemen van de zaak, vernietigt het Hof, dat het rechtsgebied regelt, de beschikking van de raadkamer en verwijst de zaak naar een kamer van inbeschuldigingstelling."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:1967:ARR.19670503.7": {
+      "court": "CASS",
+      "date": "1967-05-03",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/05/03/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la chambre du conseil a renvoyé un inculpé devant le tribunal correctionnel du chef d'un crime et d'un délit connexe, sans indiquer de circonstances atténuantes relativement au crime, et que la juridiction de jugement s'est déclarée incompétente pour connaître de la cause, la cour, réglant de juges, annule l'ordonnance de la chambre du conseil et renvoie la cause devant une chambre des mises en accusation."
+      ],
+      "abstractNL": [
+        "Wanneer de raadkamer een verdachte wegens een misdaad en een samenhangend wanbedrijf naar de correctionele rechtbank verwijst, zonder verzachtende omstandigheden te vermelden ten aanzien van de misdaad, en het vonnisgerecht zich onbevoegd heeft verklaard om kennis te nemen van de zaak, vernietigt het Hof, dat het rechtsgebied regelt, de beschikking van de raadkamer en verwijst de zaak naar een kamer van inbeschuldigingstelling."
+      ]
+    }
+  }
+}

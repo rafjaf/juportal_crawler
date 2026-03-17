@@ -1,4 +1,82 @@
 {
+  "205": {
+    "ECLI:BE:CASS:2001:ARR.20011017.4": {
+      "court": "CASS",
+      "date": "2001-10-17",
+      "roleNumber": "P011021F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/10/17/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Dès lors que le prévenu, poursuivi en matière de douanes et accises, a eu la possibilité, devant la juridiction de jugement, de combattre librement les éléments apportés contre lui dans le cadre de l'exercice partagé et simultané de l'action publique par l'administration des finances et par le ministère public, il ne saurait prétendre qu'il n'a pas eu droit à un procès équitable au sens de la Convention ni que le principe de l'égalité des armes a été violé (1)."
+      ],
+      "abstractNL": [
+        "Wanneer de beklaagde, die inzake douane en accijnzen vervolgd wordt, voor het vonnisgerecht vrij de gegevens heeft kunnen tegenspreken die door de administratie van financiën en door het openbaar ministerie tegen hem zijn aangevoerd in het kader van een gezamenlijke en gelijktijdige uitgeoefende strafvordering, kan hij niet beweren dat hij geen recht heeft gehad op een eerlijke behandeling van zijn zaak in de zin van het Verdrag of dat het beginsel van de gelijkheid der wapens is miskend (1)."
+      ]
+    }
+  },
+  "210": {
+    "ECLI:BE:CASS:1995:ARR.19951020.2": {
+      "court": "CASS",
+      "date": "1995-10-20",
+      "roleNumber": "F950002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/20/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le douanier, qui, ayant constaté à l'occasion d'un contrôle qu'une personne tentait de dissimuler un paquet, la soupçonne de transporter des marchandises et examine dès lors ce paquet, agit dans le cadre de sa mission quand, l'objet contenu dans le paquet s'étant avéré n'être que des documents, il prend connaissance de ceux-ci."
+      ],
+      "abstractNL": [
+        "Een douaneambtenaar die, naar aanleiding van een controle vaststelt dat iemand poogde een pakje te verbergen, hem ervan verdenkt goederen te vervoeren en dan het pakje onderzoekt, treedt op binnen het kader van zijn opdracht als hij, nadat is gebleken dat het pakje alleen uit documenten bestond, kennis neemt van de inhoud van die documenten."
+      ]
+    }
+  },
+  "220": {
+    "ECLI:BE:CASS:1998:ARR.19980217.9": {
+      "court": "CASS",
+      "date": "1998-02-17",
+      "roleNumber": "P961401N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/02/17/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les lois relatives aux douanes et accises punissent, en règle, la simple violation matérielle de leurs dispositions, abstraction faite de l'intention du contrevenant."
+      ],
+      "abstractNL": [
+        "De wetten inzake douane en accijnzen straffen in de regel de enkele overtreding van de desbetreffende voorschriften en houden geen rekening met de bedoeling van de overtreder."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971119.8": {
+      "court": "CASS",
+      "date": "1997-11-19",
+      "roleNumber": "P971077F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/11/19/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Bien que, sauf les cas de force majeure ou d'erreur invincible, la simple violation des règlements en matière de douanes et accises soit punissable abstraction faite de l'intention de l'auteur, encore l'infraction requiert-elle, comme toute autre, un élément moral, à savoir la connaissance de ce qu'elle est commise."
+      ],
+      "abstractNL": [
+        "Ook al is de gewone schending van de reglementen inzake douane en accijnzen strafbaar, behalve in geval van overmacht of onoverkomelijke dwaling, toch moet dat misdrijf, zoals elk ander misdrijf, een moreel bestanddeel bevatten, namelijk de wetenschap dat dit misdrijf wordt gepleegd."
+      ]
+    }
+  },
+  "222": {
+    "ECLI:BE:CASS:1994:ARR.19941122.18": {
+      "court": "CASS",
+      "date": "1994-11-22",
+      "roleNumber": "P930803N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute marchandise importée devant être déclarée à la douane, même si elle peut être admise en franchise de droits, la tentative d'éviter de faire, lors de l'importation, les déclarations requises et de frauder ainsi les droits du Trésor est punissable."
+      ],
+      "abstractNL": [
+        "Van iedere ingevoerde koopwaar moet bij de douane aangifte worden gedaan, zelfs indien zij vrij van invoerrecht kan worden toegelaten, zodat de poging om bij invoer de vereiste aangiften te ontgaan en aldus de rechten van de Schatkist te ontduiken, strafbaar is gesteld. (Artt. 220, 221 en 222 Douane en accijnzenwet)."
+      ]
+    }
+  },
   "265": {
     "ECLI:BE:CASS:1981:ARR.19810324.1": {
       "court": "CASS",
@@ -10,6 +88,280 @@
       "abstractFR": null,
       "abstractNL": [
         "Het bestreden arrest stelt vast dat verweersters (twee vennootschappen) genoodzaakt zijn geweest op grond van artikel 231 van de wet van 26 augustus 1822 een minnelijke schikking met het Bestuur van Douane en Accijnzen aan te gaan. Het stelt aldus impliciet vast dat aan verweersters, althans aan niet nader geïdentificeerde organen of aangestelden van verweersters, een misdrijf van fiscale aard ten laste werd gelegd, en neemt aldus aan dat tussen dat misdrijf en de betaling van de transactionele som een oorzakelijk verband bestaat. Door te oordelen dat de betaling van de transactionele som uitsluitend te wijten is aan de gedraging van eiser (een orgaan of aangestelde van verweersters), zonder te onderzoeken, binnen het kader van de civielrechtelijke vordering, of het feit dat tot toepassing van voornoemd wetsartikel zou hebben geleid, werkelijk bestond en aan eiser of mede aan eiser was te wijten, heeft het bestreden arrest het begrip oorzaak in de zin van de artikelen 1382 en 1383 B.W. miskend."
+      ]
+    }
+  },
+  "267": {
+    "ECLI:BE:CASS:1999:ARR.19990921.8": {
+      "court": "CASS",
+      "date": "1999-09-21",
+      "roleNumber": "P981346N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/09/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La seule circonstance qu'un procès-verbal constatant des infractions en matière de douanes et accises a été établi tardivement, n'implique pas automatiquement une violation des droits de la défense; il appartient au juge de statuer sur ce point en fait."
+      ],
+      "abstractNL": [
+        "De enkele omstandigheid dat een proces-verbaal tot vaststelling van de overtredingen inzake douane en accijzen laattijdig werd opgesteld, houdt niet automatisch een miskenning van het recht van verdediging in; het staat aan de rechter daarover in feite te oordelen."
+      ]
+    }
+  },
+  "272": {
+    "ECLI:BE:CASS:1997:ARR.19970415.9": {
+      "court": "CASS",
+      "date": "1997-04-15",
+      "roleNumber": "P961399N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les procès-verbaux établis par les agents de l'administration des douanes et accises, relatifs à leurs opérations et à l'exercice de leurs fonctions, ont force probante jusqu'à preuve du contraire en ce qui concerne les constatations matérielles faites personnellement par ces agents."
+      ],
+      "abstractNL": [
+        "De processen-verbaal opgemaakt door ambtenaren van de administratie van douane en accijnzen wegens hun handelingen en ambtsverrichtingen, hebben wettelijke bewijswaarde tot bewijs van het tegendeel voor de door die ambtenaren persoonlijk gedane materiële vaststellingen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830322.1": {
+      "court": "CASS",
+      "date": "1983-03-22",
+      "roleNumber": "6546",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le procès-verbal régulièrement dressé par les agents des douanes fait foi en justice, jusqu'à ce que la fausseté en soit prouvée, des constatations matérielles faites par ces agents dans les limites de leur compétence; le juge du fond ne peut, dès lors, acquitter un prévenu, au seul motif que la prévention n'est pas demeurée établie à suffisance de droit à la suite de l'instruction faite devant lui, sans constater que la fausseté de la constatation des agents est prouvée."
+      ],
+      "abstractNL": [
+        "Wat de materiële vaststellingen betreft die erin vermeld staan en die de bekeurders binnen de perken van hun bevoegdheid hebben gedaan, verdienen de regelmatige processen-verbaal van de tolbeambten volle geloof in rechte tot de valsheid ervan bewezen wordt; de feitenrechter mag derhalve de beklaagde niet vrijspreken op de enkele grond dat de telastlegging bij het voor hem gedane onderzoek niet ten genoegen van rechte bewezen is gebleven, zonder te constateren dat de valsheid van de vaststelling van de beambten bewezen is."
+      ]
+    }
+  },
+  "281": {
+    "ECLI:BE:CASS:1998:ARR.19980630.10": {
+      "court": "CASS",
+      "date": "1998-06-30",
+      "roleNumber": "P970281N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/30/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le ministre des Affaires économiques est compétent pour recouvrer, en application des règlements et directives de la CEE, un prélèvement éludé dû à l'importation."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1997:ARR.19970311.6": {
+      "court": "CASS",
+      "date": "1997-03-11",
+      "roleNumber": "P960223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Tant l'action publique exercée du chef de fraudes et délits contre lesquels les lois en matière de douanes et accises prononcent des peines que l'action civile tendant au paiement des droits et accises sont intentées par l'administration des douanes et accises devant le juge pénal."
+      ],
+      "abstractNL": [
+        "Zowel de strafvordering wegens fraudes en misdrijven, waartegen bij de wetten inzake douane en accijnzen straffen zijn bepaald, als de burgerlijke rechtsvordering strekkende tot betaling van de rechten en accijnzen worden voor de strafrechter door de administratie van douane en accijnzen ingesteld."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970211.3": {
+      "court": "CASS",
+      "date": "1997-02-11",
+      "roleNumber": "P961031N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/02/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En matière de douanes et accises, l'administration des Finances exerce, notamment, l'action publique tendant à l'application de l'amende et de la confiscation, mais non celle tendant à l'application de l'emprisonnement principal."
+      ],
+      "abstractNL": [
+        "Inzake douane en accijnzen oefent de administratie van Financiën de strafvordering uit onder meer betreffende de geldboete en de verbeurdverklaring, maar niet betreffende de hoofdgevangenisstraf."
+      ]
+    }
+  },
+  "282": {
+    "ECLI:BE:CASS:1998:ARR.19980630.10": {
+      "court": "CASS",
+      "date": "1998-06-30",
+      "roleNumber": "P970281N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/30/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le ministre des Affaires économiques est compétent pour recouvrer, en application des règlements et directives de la CEE, un prélèvement éludé dû à l'importation."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1997:ARR.19970311.6": {
+      "court": "CASS",
+      "date": "1997-03-11",
+      "roleNumber": "P960223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Tant l'action publique exercée du chef de fraudes et délits contre lesquels les lois en matière de douanes et accises prononcent des peines que l'action civile tendant au paiement des droits et accises sont intentées par l'administration des douanes et accises devant le juge pénal."
+      ],
+      "abstractNL": [
+        "Zowel de strafvordering wegens fraudes en misdrijven, waartegen bij de wetten inzake douane en accijnzen straffen zijn bepaald, als de burgerlijke rechtsvordering strekkende tot betaling van de rechten en accijnzen worden voor de strafrechter door de administratie van douane en accijnzen ingesteld."
+      ]
+    }
+  },
+  "283": {
+    "ECLI:BE:CASS:1997:ARR.19970625.10": {
+      "court": "CASS",
+      "date": "1997-06-25",
+      "roleNumber": "P970187F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de douanes et accises, la juridiction répressive qui acquitte le prévenu doit néanmoins statuer sur l'action civile en paiement des droits éludés, notamment des droits d'entrée dont le propriétaire d'un véhicule importé est solidairement tenu avec l'importateur."
+      ],
+      "abstractNL": [
+        "Inzake douane en accijnzen is de strafrechter die de beklaagde vrijspreekt, niettemin verplicht uitspraak te doen op de burgerlijke rechtsvordering tot betaling van de ontdoken rechten, inz. van het invoerrecht dat de eigenaar van het ingevoerde voertuig, hoofdelijk met de invoerder ervan, moet betalen."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980630.10": {
+      "court": "CASS",
+      "date": "1998-06-30",
+      "roleNumber": "P970281N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/30/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le ministre des Affaires économiques est compétent pour recouvrer, en application des règlements et directives de la CEE, un prélèvement éludé dû à l'importation."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1997:ARR.19970311.6": {
+      "court": "CASS",
+      "date": "1997-03-11",
+      "roleNumber": "P960223N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/03/11/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Tant l'action publique exercée du chef de fraudes et délits contre lesquels les lois en matière de douanes et accises prononcent des peines que l'action civile tendant au paiement des droits et accises sont intentées par l'administration des douanes et accises devant le juge pénal."
+      ],
+      "abstractNL": [
+        "Zowel de strafvordering wegens fraudes en misdrijven, waartegen bij de wetten inzake douane en accijnzen straffen zijn bepaald, als de burgerlijke rechtsvordering strekkende tot betaling van de rechten en accijnzen worden voor de strafrechter door de administratie van douane en accijnzen ingesteld."
+      ]
+    }
+  },
+  "286": {
+    "ECLI:BE:CASS:1995:ARR.19951110.2": {
+      "court": "CASS",
+      "date": "1995-11-10",
+      "roleNumber": "C940377F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/10/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aussi longtemps que le receveur des douanes juge insuffisant le cautionnement garantissant le paiement des droits de douane afférents à des marchandises déposées dans un entrepôt fictif, le débiteur des droits de douane n'est pas déchargé de cette dette, même si les marchandises sont inscrites en charge dans le compte d'entrepôt tenu par le receveur."
+      ],
+      "abstractNL": [
+        "Zolang de ontvanger van douane de borgtocht voor de betaling van de douanerechten op in een fictief entrepot opgeslagen goederen ontoereikend acht, is degene die de douanerechten verschuldigd is niet van die schuld bevrijd, ook al zijn die de goederen opgenomen in de door de ontvanger gehouden entrepotrekening."
+      ]
+    }
+  },
+  "general": {
+    "ECLI:BE:CASS:2002:ARR.20020416.21": {
+      "court": "CASS",
+      "date": "2002-04-16",
+      "roleNumber": "P010156N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/16/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "La fraude étant établie à charge du client, la mise hors de cause de l'agence en douane doit également être prononcée en faveur de la personne physique poursuivie en tant que personne responsable pénalement pour l'agence en douane qui est une personne morale."
+      ],
+      "abstractNL": [
+        "Het ontslag van rechtsvervolging van de douane-expediteur, eens de sluikerij ten laste van de klant is bewezen, dient ook te worden uitgesproken ten voordele van de natuurlijke persoon die wordt vervolgd als strafrechtelijk verantwoordelijke voor de douane-expediteur die een rechtspersoon is."
+      ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020409.3": {
+      "court": "CASS",
+      "date": "2002-04-09",
+      "roleNumber": "P001537N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/09/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les agents des douanes et accises constatent que les livres comptables, les écritures commerciales ou les documents commerciaux d'un commerçant contiennent des données qui ne sont pas concordantes concernant l'achat et la vente de marchandises soumises à des droits ou à des accises pour lesquels des montants à octroyer à l'importation ou à l'exportation, ces pièces ont valeur de preuve d'une fraude des droits jusqu'à preuve du contraire."
+      ],
+      "abstractNL": [
+        "Wanneer ambtenaren der douane en accijnzen vaststellen dat de handelsboeken, de handelsgeschriften of de handelsdocumenten van een handelaar gegevens bevatten die niet overeenstemmen wat betreft de aankoop en de verkoop van met rechten of met accijnzen belaste goederen waarvoor bedragen bij invoer of bij uitvoer kunnen worden toegekend, gelden die stukken tot bewijs van een fraude der rechten, zolang het tegendeel niet is bewezen."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970625.10": {
+      "court": "CASS",
+      "date": "1997-06-25",
+      "roleNumber": "P970187F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/06/25/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En matière de douanes et accises, la juridiction répressive qui acquitte le prévenu doit néanmoins statuer sur l'action civile en paiement des droits éludés, notamment des droits d'entrée dont le propriétaire d'un véhicule importé est solidairement tenu avec l'importateur."
+      ],
+      "abstractNL": [
+        "Inzake douane en accijnzen is de strafrechter die de beklaagde vrijspreekt, niettemin verplicht uitspraak te doen op de burgerlijke rechtsvordering tot betaling van de ontdoken rechten, inz. van het invoerrecht dat de eigenaar van het ingevoerde voertuig, hoofdelijk met de invoerder ervan, moet betalen."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19970415.9": {
+      "court": "CASS",
+      "date": "1997-04-15",
+      "roleNumber": "P961399N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/04/15/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Les procès-verbaux établis par les agents de l'administration des douanes et accises, relatifs à leurs opérations et à l'exercice de leurs fonctions, ont force probante jusqu'à preuve du contraire en ce qui concerne les constatations matérielles faites personnellement par ces agents."
+      ],
+      "abstractNL": [
+        "De processen-verbaal opgemaakt door ambtenaren van de administratie van douane en accijnzen wegens hun handelingen en ambtsverrichtingen, hebben wettelijke bewijswaarde tot bewijs van het tegendeel voor de door die ambtenaren persoonlijk gedane materiële vaststellingen."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951020.2": {
+      "court": "CASS",
+      "date": "1995-10-20",
+      "roleNumber": "F950002F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/10/20/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le douanier, qui, ayant constaté à l'occasion d'un contrôle qu'une personne tentait de dissimuler un paquet, la soupçonne de transporter des marchandises et examine dès lors ce paquet, agit dans le cadre de sa mission quand, l'objet contenu dans le paquet s'étant avéré n'être que des documents, il prend connaissance de ceux-ci."
+      ],
+      "abstractNL": [
+        "Een douaneambtenaar die, naar aanleiding van een controle vaststelt dat iemand poogde een pakje te verbergen, hem ervan verdenkt goederen te vervoeren en dan het pakje onderzoekt, treedt op binnen het kader van zijn opdracht als hij, nadat is gebleken dat het pakje alleen uit documenten bestond, kennis neemt van de inhoud van die documenten."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941122.18": {
+      "court": "CASS",
+      "date": "1994-11-22",
+      "roleNumber": "P930803N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Toute marchandise importée devant être déclarée à la douane, même si elle peut être admise en franchise de droits, la tentative d'éviter de faire, lors de l'importation, les déclarations requises et de frauder ainsi les droits du Trésor est punissable."
+      ],
+      "abstractNL": [
+        "Van iedere ingevoerde koopwaar moet bij de douane aangifte worden gedaan, zelfs indien zij vrij van invoerrecht kan worden toegelaten, zodat de poging om bij invoer de vereiste aangiften te ontgaan en aldus de rechten van de Schatkist te ontduiken, strafbaar is gesteld. (Artt. 220, 221 en 222 Douane en accijnzenwet)."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830322.1": {
+      "court": "CASS",
+      "date": "1983-03-22",
+      "roleNumber": "6546",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/22/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le procès-verbal régulièrement dressé par les agents des douanes fait foi en justice, jusqu'à ce que la fausseté en soit prouvée, des constatations matérielles faites par ces agents dans les limites de leur compétence; le juge du fond ne peut, dès lors, acquitter un prévenu, au seul motif que la prévention n'est pas demeurée établie à suffisance de droit à la suite de l'instruction faite devant lui, sans constater que la fausseté de la constatation des agents est prouvée."
+      ],
+      "abstractNL": [
+        "Wat de materiële vaststellingen betreft die erin vermeld staan en die de bekeurders binnen de perken van hun bevoegdheid hebben gedaan, verdienen de regelmatige processen-verbaal van de tolbeambten volle geloof in rechte tot de valsheid ervan bewezen wordt; de feitenrechter mag derhalve de beklaagde niet vrijspreken op de enkele grond dat de telastlegging bij het voor hem gedane onderzoek niet ten genoegen van rechte bewezen is gebleven, zonder te constateren dat de valsheid van de vaststelling van de beambten bewezen is."
       ]
     }
   }

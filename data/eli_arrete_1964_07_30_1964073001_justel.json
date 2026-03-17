@@ -56,5 +56,21 @@
       ],
       "abstractNL": null
     }
+  },
+  "general": {
+    "ECLI:BE:CASS:1986:ARR.19860210.10": {
+      "court": "CASS",
+      "date": "1986-02-10",
+      "roleNumber": "5033",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/02/10/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'ancien travailleur indépendant qui, en application de l'article 38 de l'arrêté royal du 22 décembre 1967, peut, pendant deux ans, préserver ses droits au régime de pension pour travailleurs indépendants, ne peut, pendant cette période, être assujetti à l'assurance soins de santé comme \"personne non encore protégée\". ( Arr. roy. du 28 juin 1962, art. 1er, 1°; arr. roy. du 30 juillet 1964, art. 3, 3° )."
+      ],
+      "abstractNL": [
+        "De gewezen zelfstandige die na het stopzetten van zijn beroepsarbeid met toepassing van art. 38 K.B. 22 december 1967 nog gedurende twee jaar zijn rechten in de pensioenregeling voor zelfstandigen kan vrijwaren, kan gedurende die periode niet als \"nog niet beschermde persoon\" onder de ziektekostenverzekering vallen. ( Art. 1, 1°, K.B. 28 juni 1962; art. 3, 3°, K.B. 30 juli 1964. )"
+      ]
+    }
   }
 }

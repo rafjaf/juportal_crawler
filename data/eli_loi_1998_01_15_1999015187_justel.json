@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:2009:ARR.20091221.5": {
+      "court": "CASS",
+      "date": "2009-12-21",
+      "roleNumber": "C.03.0328.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/12/21/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable, à défaut d'intérêt, le moyen qui, pour critiquer la régularité d'une saisie-arrêt-exécution invoque la violation d'un accord de siège qui, entré en vigueur dans l'ordre juridique interne belge dix jours après la publication au Moniteur de la loi d'assentiment, est postérieur à l'acte de saisie contesté."
+      ],
+      "abstractNL": [
+        "Het middel is niet ontvankelijk bij gebrek aan belang, wanneer het, om de regelmatigheid van een uitvoerend beslag onder derden te bekritiseren, de schending aanvoert van een zetelakkoord dat in de Belgische rechtsorde tien dagen na de bekendmaking van de goedkeuringswet in het Belgisch Staatsblad, maar na het betwiste beslag, in werking is getreden."
+      ]
+    }
+  }
+}

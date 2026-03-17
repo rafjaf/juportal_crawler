@@ -215,6 +215,34 @@
       "abstractNL": [
         "Artikel 71, § 1, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten maakt het geheel van de bepalingen inzake de Rijkscomptabiliteit van toepassing op de Gemeenschappen en de Gewesten, met inbegrip van die van de wet van 15 mei 1846 gewijzigd bij de wet van 6 februari 1970, zodat de rechtsvorderingen tot betaling van bepaalde schuldvorderingen ten laste van gemeenschappen en gewesten verjaren door verloop van vijf jaar."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010326.8": {
+      "court": "CASS",
+      "date": "2001-03-26",
+      "roleNumber": "C990327F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/03/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le moyen de cassation qui, à propos de la créance d'un membre du personnel statutaire d'un établissement d'enseignement de l'Etat pour obtenir la réparation du dommage causé par l'atteinte fautive de l'Etat aux règles statutaires de ce personnel, soutient que cette créance est de même nature que celle qui résulte d'une relation de travail statutaire existant entre une province et des membres de son personnel pour laquelle la Cour d'arbitrage a décidé que l'article 1er édictée par la loi du 6 février 1970 relative à la prescription des créances à charge ou au profit de l'Etat et des provinces ne viole pas les articles 10 et 11 de la Constitution en ce qu'il soumet à la prescription quinquennale les créances d'indemnité à l'égard d'une province, alors qu'une telle créance serait soumise à la prescription trentenaire lorsque le préjudice est imputable à un employeur privé, soulève la question de la conformité de l'article 1er, alinéa 1er, a), de la loi du 6 février 1970 aux règles de l'égalité des belges devant la loi et de la non-discrimination dans la jouissance des droits et libertés qui leur sont reconnus, consacrées par les articles 10 et 11 de la Constitution, la Cour de cassation pose une question préjudicielle à la Cour d'arbitrage (1)."
+      ],
+      "abstractNL": [
+        "Wanneer het cassatiemiddel, dat in verband met de schuldvordering van een lid van het statutair personeel van een instelling van het rijksonderwijs, teneinde vergoeding te krijgen voor de schade ten gevolge van de inbreuk van de Staat op de statutaire regels van dat personeel, betoogt dat die schuldvordering van dezelfde aard is als die welke voortvloeit uit een statutaire arbeidsverhouding tussen een provincie en leden van haar personeel, waaromtrent het Arbitragehof heeft beslist dat artikel 1 van de wet van 6 februari 1970 betreffende de verjaring van schuldvorderingen ten laste of ten voordele van de Staat en de provinciën de artikelen 10 en 11 van de Grondwet niet schendt, in zoverre het de schuldvorderingen betreffende een vergoeding ten aanzien van een provincie aan de vijfjarige verjaring onderwerpt, terwijl een dergelijke schuldvordering aan de dertigjarige verjaring onderworpen is wanneer de schade te wijten is aan een privé-werkgever, de vraag opwerpt of artikel 1, eerste lid, a), van de wet van 6 februari 1970 in overeenstemming is met de in de artikelen 10 en 11 van de Grondwet vastgelegde regels volgens welke de Belgen gelijk zijn voor de wet en het genot van de hun toegekende rechten en vrijheden zonder discriminatie wordt verzekerd, stelt het Hof van Cassatie een prejudiciële vraag aan het Arbitragehof (1)."
+      ]
+    },
+    "ECLI:BE:CASS:1998:ARR.19980612.14": {
+      "court": "CASS",
+      "date": "1998-06-12",
+      "roleNumber": "C950289F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/06/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Une action en responsabilité contractuelle contre l'Etat se prescrit par cinq ans et il appartient au débiteur d'ordonnancer ou non pareille créance, avec effet sur la prescription de celle-ci."
+      ],
+      "abstractNL": [
+        "Een vordering van contractuele aansprakelijkheid tegen de Staat verjaart na verloop van vijf jaar en het staat aan de schuldenaar een dergelijke schuldvordering al dan niet te ordonnanceren, wat gevolgen heeft voor de verjaring ervan."
+      ]
     }
   }
 }

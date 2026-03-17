@@ -1,0 +1,18 @@
+{
+  "general": {
+    "ECLI:BE:CASS:1981:ARR.19810601.7": {
+      "court": "CASS",
+      "date": "1981-06-01",
+      "roleNumber": "1186",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour l'application de l'article 3, par. 4, de la Convention du 29 août 1947 entre la Belgique et les Pays-Bas relative à l'application de la législation des deux pays en ce qui concerne les assurances sociales, approuvée par la loi du 2 juin 1949, article indiquant le pays à la législation en matière de sécurité sociale duquel sont assujettis les ressortissants belges et néerlandais qui sont des travailleurs indépendants , il n'est pas tenu compte du fait que l'activité du travailleur indépendant, exercée dans les deux pays, est ou non identique."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van art. 3, alinéa 4, Verdrag van 29 augustus 1947 tussen België en Nederland betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering, goedgekeurd bij de wet van 2 juni 1949, dat bepaalt onder de sociale-zekerheidswetgeving van welk land de Belgische en Nederlandse onderdanen vallen die zelfstandigen zijn, komt niet in aanmerking of de zelfstandige activiteit, die in beide landen wordt uitgeoefend, al dan niet dezelfde is."
+      ]
+    }
+  }
+}
