@@ -524,7 +524,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.25.1344.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_398.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -1517,7 +1518,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/07/sitemap_6.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2546.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2546.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/24/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/24/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_179.xml"
       ],
       "abstractFR": [
         "Il résulte de l'arrêt rendu le 17 juillet 2008 par la Cour de justice de l'Union européenne dans l'affaire C-66/08 que, même si sont réunies les deux conditions prévues par l'article 4, § 6, de la décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre États membres et par l'article 6, 4°, de la loi du 19 décembre 2003 relative au mandat d'arrêt européen, la juridiction d'instruction n'est pas tenue d'appliquer la cause de refus visée et de refuser l'exécution du mandat d'arrêt européen, de sorte que la juridiction d'instruction peut considérer que l'exécution de la peine infligée dans l'État membre d'émission sur le territoire de l'État membre d'exécution n'est justifiée par aucun intérêt légitime ; il s'ensuit que, même lorsqu'elle constate que la personne faisant l'objet du mandat d'arrêt européen est ressortissante belge, la juridiction d'instruction peut néanmoins autoriser l'exécution du mandat si elle considère que l'exécution de la peine infligée dans l'État d'émission sur le territoire de l'État d'exécution n'est justifiée par aucun intérêt légitime (1). (1) C.J., arrêt Szymon Kozlowski, 17 juillet 2008, C-66/08, www.curia.europa.eu ; Cass. 31 mars 2020, RG P.20.0350.N, Pas. 2020, nº 221 ; Cass. 27 février 2018, RG P.18.0186.N, Pas. 2018, nº 132 ; Cass. 1er décembre 2015, RG P.15.1501.N, Pas. 2015, nº 719. Voy. égal. H. SANDERS, Handboek Overleveringsrecht, Intersentia, 2011, p. 196 ; J. VAN GAEVER, Het Europees aanhoudingsbevel in de praktijk, Mechelen, Kluwer, 2013, p. 115-116, nº 216-217 et S. DEWULF, Overlevering, coll. A.P.R., Mechelen, Kluwer, 2020, p. 117-120, nº 132."
@@ -3311,7 +3313,8 @@
       "date": "2025-11-12",
       "roleNumber": "P.25.1468.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_445.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -3435,6 +3438,19 @@
         "Lorsque l'exécution d'un mandat d'arrêt européen est accordée, la décision qui l'ordonne constitue le titre de détention de la personne concernée, sauf la faculté reconnue au juge de laisser ou de mettre celle-ci en liberté sous conditions ou moyennant le paiement d'un cautionnement; à défaut de conclusions sur ce point, la chambre des mises en accusation qui confirme l'ordonnance de la chambre du conseil décidant l'exécution d'un mandat d'arrêt européen ne doit pas motiver spécialement sa décision de ne pas user de cette faculté (1). (1) Voir les conclusions du M.P."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260203.2N.12": {
+      "court": "CASS",
+      "date": "2026-02-03",
+      "roleNumber": "P.26.0129.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_9.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Overeenkomstig artikel 20, § 4, Wet Europees Aanhoudingsbevel levert enkel de definitieve beslissing van het onderzoeksgerecht om het Europees aanhoudingsbevel ten uitvoer te leggen de titel van vrijheidsbeneming van de over te leveren persoon op tot de daadwerkelijke overlevering van de persoon aan de uitvaardigende Staat.",
+        "De beslissing van het openbaar ministerie om het uitstel van de overlevering te beëindigen levert geen nieuwe titel van vrijheidsberoving op en evenmin dient die beslissing te zijn gemotiveerd of staat een rechtsmiddel ertegen open; dat de betrokkene met het oog op zijn fysieke overlevering aan de gerechtelijke autoriteiten van de uitvaardigende lidstaat van zijn vrijheid wordt benomen, terwijl hij zich in de periode daarvoor bevond in een hechtenisvervangende toestand ingevolge een beslissing in die zin van het onderzoeksgerecht dat zich over de tenuitvoerlegging van het Europees aanhoudingsbevel heeft uitgesproken, doet daaraan geen afbreuk; dit houdt geen schending in van artikel 47 Handvest Grondrechten EU, noch een miskenning van de in de middelen bedoelde grondrechten vermits deze worden gevrijwaard door, eensdeels, de rechten die de betrokkene kan uitoefenen voor het onderzoeksgerecht naar aanleiding van de procedure tot tenuitvoerlegging van het Europees aanhoudingsbevel, en, anderdeels, de mogelijkheid voor degene die zich in een overleveringsdetentie bevindt op grond van een definitieve beslissing over de tenuitvoerlegging van een Europees aanhoudingsbevel, een verzoek in te dienen tot voorwaardelijke invrijheidstelling, invrijheidstelling tegen borgstelling of omzetting van een hechtenis in de gevangenis in een hechtenis onder elektronisch toezicht, met name wanneer de overlevering is uitgesteld overeenkomstig artikel 24, § 1, eerste lid, Wet Europees Aanhoudingsbevel en dit tot het uitstel is beëindigd."
+      ]
     }
   },
   "23": {
@@ -3597,6 +3613,19 @@
       "abstractNL": [
         "Wanneer een persoon is aangehouden ingevolge een uitvoerbaar verklaard Europees aanhoudingsbevel, zijn overlevering aan de gerechtelijke autoriteit van de uitvaardigende Staat werd uitgesteld in toepassing van artikel 24 Wet Europees Aanhoudingsbevel en hij een verzoekschrift tot invrijheidstelling heeft neergelegd waarin hij vraagt om zijn hechtenis onder elektronisch toezicht te mogen voortzetten, dienen de onderzoeksgerechten die van een dergelijk verzoekschrift kennisnemen, hierover uitspraak te doen 1) met inachtneming van de bepalingen betreffende de voorlopige hechtenis, met inbegrip van artikel 211bis Wetboek van Strafvordering, dat hierop de regel toepast dat het gerecht in hoger beroep met eenparigheid van stemmen uitspraak moet doen wanneer het een voor de vervolgde persoon gunstige beslissing wenst te hervormen; een arrest dat de vrijheidsberoving in de gevangenis handhaaft door een beschikking te hervormen die het elektronisch toezicht toestaat, verzwaart de toestand van de inverdenkinggestelde en moet derhalve met eenparigheid van stemmen gewezen worden (2). (1) Zie GwH 28 mei 2019, nr. 90/201; Cass. 26 juni 2019, AR P.18.1095.F, arrest niet gepubliceerd. (2) Het Hof oordeelt daarentegen dat \"het voorschrift van artikel 211bis, Wetboek van Strafvordering niet van toepassing is op de beslissing van de kamer van inbeschuldigingstelling die in toepassing van artikel 17, §4, Wet Europees Aanhoudingsbevel uitspraak moet doen in hoger beroep over de tenuitvoerlegging van het Europees aanhoudingsbevel en daarbij alleen het toezicht bepaald bij artikel 16, §1, tweede lid, van voormelde wet dient uit te oefenen\", welk artikel geen equivalent heeft in de Voorlopige Hechteniswet\" (Cass. 4 november 2008, AR P.08.1548.N, AC 2008, nr. 610).",
         "Wanneer een persoon is aangehouden ingevolge een uitvoerbaar verklaard Europees aanhoudingsbevel, zijn overlevering aan de gerechtelijke autoriteit van de uitvaardigende Staat werd uitgesteld in toepassing van artikel 24 Wet Europees Aanhoudingsbevel en hij een verzoekschrift tot invrijheidstelling heeft neergelegd waarin hij vraagt om zijn hechtenis onder elektronisch toezicht te mogen voortzetten, dienen de onderzoeksgerechten die van een dergelijk verzoekschrift kennisnemen, hierover uitspraak te doen (1) met inachtneming van de bepalingen betreffende de voorlopige hechtenis, met inbegrip van artikel 211bis Wetboek van Strafvordering, dat hierop de regel toepast dat het gerecht in hoger beroep met eenparigheid van stemmen uitspraak moet doen wanneer het een voor de vervolgde persoon gunstige beslissing wenst te hervormen; een arrest dat de vrijheidsberoving in de gevangenis handhaaft door een beschikking te hervormen die het elektronisch toezicht toestaat, verzwaart de toestand van de inverdenkinggestelde en moet derhalve met eenparigheid van stemmen gewezen worden (2). (1) Zie GwH 28 mei 2019, nr. 90/201; Cass. 26 juni 2019, AR P.18.1095.F, arrest niet gepubliceerd. (2) Het Hof oordeelt daarentegen dat \"het voorschrift van artikel 211bis, Wetboek van Strafvordering niet van toepassing is op de beslissing van de kamer van inbeschuldigingstelling die in toepassing van artikel 17, §4, Wet Europees Aanhoudingsbevel uitspraak moet doen in hoger beroep over de tenuitvoerlegging van het Europees aanhoudingsbevel en daarbij alleen het toezicht bepaald bij artikel 16, §1, tweede lid, van voormelde wet dient uit te oefenen\", welk artikel geen equivalent heeft in de Voorlopige Hechteniswet\" (Cass. 4 november 2008, AR P.08.1548.N, AC 2008, nr. 610)."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260203.2N.12": {
+      "court": "CASS",
+      "date": "2026-02-03",
+      "roleNumber": "P.26.0129.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_9.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De beslissingen van het openbaar ministerie om de overlevering van de betrokkene uit te stellen en het uitstel van de overlevering te beëindigen omdat de redenen ervoor niet meer bestaan, zijn slechts uitvoeringsmodaliteiten van de overlevering waartoe reeds door het onderzoeksgerecht definitief en na een procedure op tegenspraak werd beslist; voor het nemen van die beslissingen is enkel het openbaar ministerie en niet het onderzoeksgerecht bevoegd (1). (1) Zie Cass. 30 januari 2024, AR P.24.0112.N, ECLI:BE:CASS:2024:ARR.20240130.2N.16; Cass. 27 juni 2023, AR P.23.0898.N, ECLI:BE:CASS:2023:ARR.20230627.2N.41.",
+        "De beslissing van het openbaar ministerie om het uitstel van de overlevering te beëindigen levert geen nieuwe titel van vrijheidsberoving op en evenmin dient die beslissing te zijn gemotiveerd of staat een rechtsmiddel ertegen open; dat de betrokkene met het oog op zijn fysieke overlevering aan de gerechtelijke autoriteiten van de uitvaardigende lidstaat van zijn vrijheid wordt benomen, terwijl hij zich in de periode daarvoor bevond in een hechtenisvervangende toestand ingevolge een beslissing in die zin van het onderzoeksgerecht dat zich over de tenuitvoerlegging van het Europees aanhoudingsbevel heeft uitgesproken, doet daaraan geen afbreuk; dit houdt geen schending in van artikel 47 Handvest Grondrechten EU, noch een miskenning van de in de middelen bedoelde grondrechten vermits deze worden gevrijwaard door, eensdeels, de rechten die de betrokkene kan uitoefenen voor het onderzoeksgerecht naar aanleiding van de procedure tot tenuitvoerlegging van het Europees aanhoudingsbevel, en, anderdeels, de mogelijkheid voor degene die zich in een overleveringsdetentie bevindt op grond van een definitieve beslissing over de tenuitvoerlegging van een Europees aanhoudingsbevel, een verzoek in te dienen tot voorwaardelijke invrijheidstelling, invrijheidstelling tegen borgstelling of omzetting van een hechtenis in de gevangenis in een hechtenis onder elektronisch toezicht, met name wanneer de overlevering is uitgesteld overeenkomstig artikel 24, § 1, eerste lid, Wet Europees Aanhoudingsbevel en dit tot het uitstel is beëindigd."
       ]
     }
   },

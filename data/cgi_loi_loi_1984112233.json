@@ -5,7 +5,8 @@
       "date": "2025-10-28",
       "roleNumber": "P.25.0928.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_431.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -159,10 +160,11 @@
     "ECLI:BE:CASS:2026:ARR.20260113.2N.12": {
       "court": "CASS",
       "date": "2026-01-13",
-      "roleNumber": "P.25.1055.N",
+      "roleNumber": "P.25.1357.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/20/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_15.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_15.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_837.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -174,7 +176,8 @@
       "date": "2025-11-25",
       "roleNumber": "P.25.0935.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_517.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -186,7 +189,8 @@
       "date": "2025-11-03",
       "roleNumber": "S.24.0064.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_19.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_19.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_500.xml"
       ],
       "abstractFR": [
         "L'extinction de l'action publique moyennant l'exécution de mesures et le respect des conditions est une mesure proposée par une autorité appelée à participer à l'administration de la justice, requiert une appréciation de la responsabilité pénale de l'intéressé et sanctionne le comportement illicite de ce dernier; il s'ensuit qu'elle constitue une condamnation par un jugement définitif qui commande l'application du principe non bis in idem, qui a pour objet de prohiber la répétition de poursuites revêtant un caractère répressif définitivement clôturées (1). (1) Voir les concl. du MP."
@@ -198,7 +202,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.25.1275.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_396.xml"
       ],
       "abstractFR": null,
       "abstractNL": [

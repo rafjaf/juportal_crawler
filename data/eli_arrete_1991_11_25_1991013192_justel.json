@@ -493,7 +493,8 @@
       "date": "2025-12-16",
       "roleNumber": "P.25.0410.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_608.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -509,7 +510,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/07/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_56.xml"
       ],
       "abstractFR": [
         "Il suit des articles 44, 45, alinéa 1er, 48bis, 130, § 1er et 2, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage que les revenus tirés de l'activité artistique à prendre en considération pour l'allocation de chômage sont calculés par année civile sur la base du revenu net annuel et, en conséquence, que les allocations de chômage octroyées et payées à un chômeur qui revendique des revenus tirés d'une activité artistique sont toujours octroyées et versées à titre provisoire."
@@ -617,6 +619,32 @@
       "abstractNL": [
         "De werknemer die verlof zonder wedde opneemt en een andere dienstbetrekking uitoefent, doet geen afstand van arbeid of loon."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260216.3N.6": {
+      "court": "CASS",
+      "date": "2026-02-16",
+      "roleNumber": "S.24.0046.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_17.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De werknemer die zelf een einde aan de arbeidsovereenkomst maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren (1). (1) Zie concl. OM.",
+        "Dat een bedrijfs-cao in het kader van een herstructurering de mogelijkheid biedt om het bedrijf te verlaten, is op zich geen omstandigheid die de werkloze verplicht om zijn arbeidsovereenkomst te beëindigen, tenzij wanneer aan de hand van de feiten wordt aangetoond dat de werknemer geen andere keuze had dan de arbeidsovereenkomst te beëindigen (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260216.3N.8": {
+      "court": "CASS",
+      "date": "2026-02-16",
+      "roleNumber": "S.25.0017.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het verlies van het recht op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit is niet gegrond op de loutere herhaling van de gebeurtenis, maar op de herhaling van de gebeurtenis na een vroegere gebeurtenis die aanleiding heeft gegeven tot een beslissing waarbij artikel 52bis, § 1, werd toegepast (1). (1) Zie concl. OM.",
+        "Het verlies van de aanspraak op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit kan niet worden gegrond op een vroegere gebeurtenis waarover op het ogenblik van de tweede te nemen beslissing nog geen in kracht van gewijsde gegane beslissing is gewezen en aldus voor de werknemer niet definitief is geworden (1). (1) Zie concl. OM."
+      ]
     }
   },
   "45": {
@@ -625,7 +653,8 @@
       "date": "2025-12-16",
       "roleNumber": "P.25.0410.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_608.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -641,7 +670,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/07/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_56.xml"
       ],
       "abstractFR": [
         "Il suit des articles 44, 45, alinéa 1er, 48bis, 130, § 1er et 2, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage que les revenus tirés de l'activité artistique à prendre en considération pour l'allocation de chômage sont calculés par année civile sur la base du revenu net annuel et, en conséquence, que les allocations de chômage octroyées et payées à un chômeur qui revendique des revenus tirés d'une activité artistique sont toujours octroyées et versées à titre provisoire."
@@ -1125,6 +1155,32 @@
       "abstractNL": [
         "De wettige grond waardoor het verlaten van een dienstbetrekking verantwoord is, die gegrond is op de lichamelijke of mentale ongeschiktheid van de werknemer om die dienstbetrekking uit te oefenen, hangt af van de vaststelling van die ongeschiktheid en niet van de overtuiging van de werknemer, ook al is ze terecht, dat hij ongeschikt is."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260216.3N.6": {
+      "court": "CASS",
+      "date": "2026-02-16",
+      "roleNumber": "S.24.0046.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_17.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De werknemer die zelf een einde aan de arbeidsovereenkomst maakt, is niet werkloos wegens omstandigheden onafhankelijk van zijn wil, tenzij zijn ontslag het gevolg is van omstandigheden welke van die aard zijn dat van hem redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren (1). (1) Zie concl. OM.",
+        "Dat een bedrijfs-cao in het kader van een herstructurering de mogelijkheid biedt om het bedrijf te verlaten, is op zich geen omstandigheid die de werkloze verplicht om zijn arbeidsovereenkomst te beëindigen, tenzij wanneer aan de hand van de feiten wordt aangetoond dat de werknemer geen andere keuze had dan de arbeidsovereenkomst te beëindigen (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260216.3N.8": {
+      "court": "CASS",
+      "date": "2026-02-16",
+      "roleNumber": "S.25.0017.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het verlies van het recht op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit is niet gegrond op de loutere herhaling van de gebeurtenis, maar op de herhaling van de gebeurtenis na een vroegere gebeurtenis die aanleiding heeft gegeven tot een beslissing waarbij artikel 52bis, § 1, werd toegepast (1). (1) Zie concl. OM.",
+        "Het verlies van de aanspraak op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit kan niet worden gegrond op een vroegere gebeurtenis waarover op het ogenblik van de tweede te nemen beslissing nog geen in kracht van gewijsde gegane beslissing is gewezen en aldus voor de werknemer niet definitief is geworden (1). (1) Zie concl. OM."
+      ]
     }
   },
   "52": {
@@ -1315,7 +1371,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.20.0037.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_573.xml"
       ],
       "abstractFR": [
         "Le travailleur qui ne se trouve pas dans les cas d'exclusion du droit aux allocations prévus par l'article 61, §§ 1er, 2 et 3, de l'arrêté royal du 25 novembre 1991 et n'indique pas sur sa carte de contrôle la lettre « M » par laquelle il déclare ne pas demander l'allocation, ne peut être exclu du droit aux allocations de chômage pour défaut d'aptitude au travail que sur avis du médecin affecté au bureau du chômage, la décision du directeur sortissant ses effets pour l'avenir (1). (1) Voir les concl. du MP."
@@ -1357,7 +1414,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.20.0037.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_573.xml"
       ],
       "abstractFR": [
         "Le travailleur qui ne se trouve pas dans les cas d'exclusion du droit aux allocations prévus par l'article 61, §§ 1er, 2 et 3, de l'arrêté royal du 25 novembre 1991 et n'indique pas sur sa carte de contrôle la lettre « M » par laquelle il déclare ne pas demander l'allocation, ne peut être exclu du droit aux allocations de chômage pour défaut d'aptitude au travail que sur avis du médecin affecté au bureau du chômage, la décision du directeur sortissant ses effets pour l'avenir (1). (1) Voir les concl. du MP."
@@ -1413,7 +1471,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.20.0037.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_573.xml"
       ],
       "abstractFR": [
         "Le travailleur qui ne se trouve pas dans les cas d'exclusion du droit aux allocations prévus par l'article 61, §§ 1er, 2 et 3, de l'arrêté royal du 25 novembre 1991 et n'indique pas sur sa carte de contrôle la lettre « M » par laquelle il déclare ne pas demander l'allocation, ne peut être exclu du droit aux allocations de chômage pour défaut d'aptitude au travail que sur avis du médecin affecté au bureau du chômage, la décision du directeur sortissant ses effets pour l'avenir (1). (1) Voir les concl. du MP."
@@ -1554,7 +1613,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.20.0037.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_573.xml"
       ],
       "abstractFR": [
         "Le travailleur qui ne se trouve pas dans les cas d'exclusion du droit aux allocations prévus par l'article 61, §§ 1er, 2 et 3, de l'arrêté royal du 25 novembre 1991 et n'indique pas sur sa carte de contrôle la lettre « M » par laquelle il déclare ne pas demander l'allocation, ne peut être exclu du droit aux allocations de chômage pour défaut d'aptitude au travail que sur avis du médecin affecté au bureau du chômage, la décision du directeur sortissant ses effets pour l'avenir (1). (1) Voir les concl. du MP."
@@ -2233,7 +2293,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/07/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_56.xml"
       ],
       "abstractFR": [
         "Il suit des articles 44, 45, alinéa 1er, 48bis, 130, § 1er et 2, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage que les revenus tirés de l'activité artistique à prendre en considération pour l'allocation de chômage sont calculés par année civile sur la base du revenu net annuel et, en conséquence, que les allocations de chômage octroyées et payées à un chômeur qui revendique des revenus tirés d'une activité artistique sont toujours octroyées et versées à titre provisoire.",
@@ -2476,7 +2537,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.20.0037.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_573.xml"
       ],
       "abstractFR": [
         "Le travailleur qui ne se trouve pas dans les cas d'exclusion du droit aux allocations prévus par l'article 61, §§ 1er, 2 et 3, de l'arrêté royal du 25 novembre 1991 et n'indique pas sur sa carte de contrôle la lettre « M » par laquelle il déclare ne pas demander l'allocation, ne peut être exclu du droit aux allocations de chômage pour défaut d'aptitude au travail que sur avis du médecin affecté au bureau du chômage, la décision du directeur sortissant ses effets pour l'avenir (1). (1) Voir les concl. du MP."
@@ -3029,7 +3091,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/07/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_56.xml"
       ],
       "abstractFR": [
         "Une allocation qui a été octroyée et payée sous réserve d'une révision incluant les revenus qui doivent encore être pris en considération conformément à l'article 130 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage n'a pas été perçue indûment par le chômeur mais sous réserve de révision ; il s'ensuit que l'article 169 de l'arrêté royal du 25 novembre 1991 ne s'applique pas à ces allocations octroyées et payées sous réserve."
@@ -3268,7 +3331,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_203.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/07/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_56.xml"
       ],
       "abstractFR": [
         "Il suit des articles 44, 45, alinéa 1er, 48bis, 130, § 1er et 2, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage que les revenus tirés de l'activité artistique à prendre en considération pour l'allocation de chômage sont calculés par année civile sur la base du revenu net annuel et, en conséquence, que les allocations de chômage octroyées et payées à un chômeur qui revendique des revenus tirés d'une activité artistique sont toujours octroyées et versées à titre provisoire."
@@ -3290,6 +3354,19 @@
       "abstractNL": [
         "Wanneer de controledienst van de VDAB een werkloze met toepassing van artikel 52bis, § 1, 2°, Werkloosheidsbesluit uitsluit van het genot van de uitkeringen en de werkloze deze beslissing betwist, ontstaat er tussen de VDAB en de werkloze een betwisting over het recht op uitkeringen gedurende het tijdvak van de uitsluiting; de arbeidsrechtbank die over een dergelijk geschil moet beslissen, oefent, met naleving van het recht van verdediging en binnen het kader van het geding zoals de partijen dat hebben bepaald, een toetsing met volle rechtsmacht uit over de beslissing die de controledienst van de VDAB heeft genomen, die de keuze omvat tussen uitsluiting van het recht op uitkeringen zonder uitstel, uitsluiting met uitstel of verwittiging en, desgevallend, de keuze van de duur en de modaliteiten van die maatregel (1). (1) Zie concl. OM.",
         "Bij de beoordeling van de gepaste sanctie voor de door de werkloze begane tekortkoming kan de arbeidsrechtbank alle elementen in acht nemen die ter zake relevant zijn en kan zij ook rekening houden met feitelijke elementen die zich hebben voorgedaan na de bestreden administratieve beslissing (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260216.3N.8": {
+      "court": "CASS",
+      "date": "2026-02-16",
+      "roleNumber": "S.25.0017.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_18.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het verlies van het recht op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit is niet gegrond op de loutere herhaling van de gebeurtenis, maar op de herhaling van de gebeurtenis na een vroegere gebeurtenis die aanleiding heeft gegeven tot een beslissing waarbij artikel 52bis, § 1, werd toegepast (1). (1) Zie concl. OM.",
+        "Het verlies van de aanspraak op werkloosheidsuitkering in de zin van artikel 52bis, § 2, tweede lid, Werkloosheidsbesluit kan niet worden gegrond op een vroegere gebeurtenis waarover op het ogenblik van de tweede te nemen beslissing nog geen in kracht van gewijsde gegane beslissing is gewezen en aldus voor de werknemer niet definitief is geworden (1). (1) Zie concl. OM."
       ]
     }
   },
