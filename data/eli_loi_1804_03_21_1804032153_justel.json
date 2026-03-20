@@ -175,7 +175,8 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_1.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_483.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/05/14/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/05/14/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_14.xml"
       ],
       "abstractFR": [
         "Pour être liée par les conditions générales d'un contrat, il faut que l'autre partie ait eu connaissance de ces conditions avant ou au moment de la conclusion du contrat ou qu'elle ait eu au moins la possibilité d'en prendre effectivement connaissance et qu'elle y ait consenti. de sorte que le simple renvoi à ces conditions contractuelles avant ou lors de la conclusion du contrat est, en principe, insuffisante à cette fin (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -953,7 +954,8 @@
       "date": "2025-11-03",
       "roleNumber": "C.23.0109.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_498.xml"
       ],
       "abstractFR": [
         "Le preneur d'assurance, copropriétaire indivis du bien assuré, qui souscrit une assurance contre le péril d'incendie dont les primes sont calculées sur la valeur totale du bien, agit pour le compte des autres copropriétaires (1). (1) Cass. 12 avril 2021, RG C.20.0201.N, Juportal, avec les concl. de M. Vanderlinden, avocat général."
@@ -1248,6 +1250,18 @@
       "abstractNL": [
         "Het feit dat een begunstigde van een beding ten behoeve van een derde een eigen en rechtstreekse vordering tegenover de belover verkrijgt, die ontstaat uit deze afzonderlijke juridische handeling, belet niet dat dit beding er toe kan strekken een voorafbestaande schuld van de bedinger ten aanzien van de derde-begunstigde door de belover te doen vereffenen (1). (1) Zie de conclusie van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260213.1F.4": {
+      "court": "CASS",
+      "date": "2026-02-13",
+      "roleNumber": "F.24.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La stipulation pour autrui suppose que la convention fasse naître un droit propre au bénéfice d'un tiers; lorsqu'un donateur consent une donation en avance d'hoirie à l'un de ses héritiers à charge pour ce dernier de remettre au décès du donateur une partie de cette donation à un tiers, la circonstance que ce tiers ait la qualité d'héritier du donateur et que la part qui lui est ainsi remise par le donataire est équivalente à celle qu'il recueillerait en sa qualité d'héritier ne fait pas obstacle à ce que le donateur puisse stipuler à son profit un droit propre et distinct du droit résultant de sa qualité d'héritier (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "1122": {
@@ -1256,7 +1270,8 @@
       "date": "2025-11-03",
       "roleNumber": "C.23.0109.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_498.xml"
       ],
       "abstractFR": [
         "L'assurance contre le péril d'incendie souscrite en nom personnel par un copropriétaire indivis du bien assuré ne couvre que sa part de copropriété et ne profite pas aux autres copropriétaires, sauf s'il résulte de l'assurance que le preneur a agi pour leur compte (1). (1) Cass. 12 avril 2021, RG C.20.0201.N, Juportal, avec les concl. de M. Vanderlinden, avocat général."
@@ -1323,6 +1338,18 @@
       "abstractNL": [
         "De brandverzekering die in eigen naam is gesloten door de onverdeelde mede-eigenaar van het verzekerd goed dekt enkel zijn deel van de eigendom en komt niet ten goede aan de andere mede-eigenaars, tenzij uit de verzekering volgt dat de verzekeringnemer voor hun rekening heeft gehandeld."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260213.1F.4": {
+      "court": "CASS",
+      "date": "2026-02-13",
+      "roleNumber": "F.24.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La stipulation pour autrui suppose que la convention fasse naître un droit propre au bénéfice d'un tiers; lorsqu'un donateur consent une donation en avance d'hoirie à l'un de ses héritiers à charge pour ce dernier de remettre au décès du donateur une partie de cette donation à un tiers, la circonstance que ce tiers ait la qualité d'héritier du donateur et que la part qui lui est ainsi remise par le donataire est équivalente à celle qu'il recueillerait en sa qualité d'héritier ne fait pas obstacle à ce que le donateur puisse stipuler à son profit un droit propre et distinct du droit résultant de sa qualité d'héritier (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "1126": {
@@ -1865,7 +1892,8 @@
       "date": "2025-12-05",
       "roleNumber": "C.24.0156.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_28.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_28.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_645.xml"
       ],
       "abstractFR": [
         "Lorsque les parties soumettent par une promesse bilatérale de contrat la naissance de ce contrat à l'accomplissement par elles d'une formalité solennelle, le juge ne peut y substituer sa propre décision pour faire advenir ledit contrat."
@@ -3274,7 +3302,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.19.0064.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_15.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_15.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_572.xml"
       ],
       "abstractFR": [
         "Constitue un usage au sens des articles 1135 et 1160 de l'ancien Code civil, celui qui est généralement reconnu applicable dans une région déterminée ou dans un milieu professionnel déterminé, de telle sorte que les parties sont présumées en avoir connaissance et qu'en ne l'excluant pas de leur contrat, elles sont réputées l'incorporer dans celui-ci; l'arrêt qui vérifie qu'une pratique est reconnue applicable, non dans une région ou un milieu professionnel déterminés, mais dans une seule entreprise ne justifie pas légalement sa décision qu'il s'agit d'un usage au sens des articles précités (1). (1) Voir les concl. du MP."
@@ -3286,7 +3315,8 @@
       "date": "2025-11-27",
       "roleNumber": "C.24.0213.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_41.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_41.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_570.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -3298,7 +3328,8 @@
       "date": "2025-10-20",
       "roleNumber": "S.24.0038.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_33.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_33.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_473.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -3552,7 +3583,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1798.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/25/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/27/sitemap_22.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/02/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/02/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_121.xml"
       ],
       "abstractFR": [
         "Le juge peut accorder une réparation pour la perte d'une chance d'obtenir un avantage ou d'éviter un préjudice si la perte de cette chance est imputable à une faute; la perte d'une chance peut donner lieu à indemnisation s'il existe une condition sine qua non entre la faute et la perte de cette chance et s'il s'agit d'une chance réelle (1). (1) Voir les concl. du MP publiées à leur date dans AC.",
@@ -3750,7 +3782,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -3947,7 +3980,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -4260,7 +4294,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -4379,7 +4414,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -4773,7 +4809,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -4917,7 +4954,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -5091,7 +5129,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -5110,7 +5149,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/12/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_172.xml"
       ],
       "abstractFR": [
         "Les frais de défense nécessaires ne concernant pas l'assistance par un avocat mais l'assistance par un conseil technique peuvent, en vertu de ces dispositions, faire l'objet d'une indemnisation en cas de responsabilité contractuelle (1). (1)Voir les concl. du MP."
@@ -5660,7 +5700,8 @@
       "date": "2025-12-08",
       "roleNumber": "S.19.0064.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_15.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_15.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_572.xml"
       ],
       "abstractFR": [
         "Constitue un usage au sens des articles 1135 et 1160 de l'ancien Code civil, celui qui est généralement reconnu applicable dans une région déterminée ou dans un milieu professionnel déterminé, de telle sorte que les parties sont présumées en avoir connaissance et qu'en ne l'excluant pas de leur contrat, elles sont réputées l'incorporer dans celui-ci; l'arrêt qui vérifie qu'une pratique est reconnue applicable, non dans une région ou un milieu professionnel déterminés, mais dans une seule entreprise ne justifie pas légalement sa décision qu'il s'agit d'un usage au sens des articles précités (1). (1) Voir les concl. du MP."
@@ -5764,7 +5805,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/26/sitemap_11.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2620.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2620.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/02/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/02/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_207.xml"
       ],
       "abstractFR": [
         "La relativité des conventions n'empêche pas qu'un tiers qui soutient qu'une convention résulte d'une décision illégale des autorités qui lui a occasionné un dommage, a l'intérêt pour réclamer l'annulation de la convention à titre de réparation du dommage qu'il prétend avoir subi (1). (1) Voir les concl. du MP."
@@ -5778,7 +5820,8 @@
       "date": "2025-11-03",
       "roleNumber": "C.23.0109.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_498.xml"
       ],
       "abstractFR": [
         "L'assurance contre le péril d'incendie souscrite en nom personnel par un copropriétaire indivis du bien assuré ne couvre que sa part de copropriété et ne profite pas aux autres copropriétaires, sauf s'il résulte de l'assurance que le preneur a agi pour leur compte (1). (1) Cass. 12 avril 2021, RG C.20.0201.N, Juportal, avec les concl. de M. Vanderlinden, avocat général.",
@@ -7017,7 +7060,8 @@
       "date": "2025-12-19",
       "roleNumber": "C.25.0153.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_683.xml"
       ],
       "abstractFR": [
         "Le juge qui doit se prononcer sur la demande de résolution d'un contrat synallagmatique est tenu d'examiner l'étendue et la portée des engagements pris par les parties et, à la lumière des circonstances de fait, d'apprécier si le manquement invoqué est suffisamment grave pour prononcer la résolution; la gravité du manquement invoqué n'est pas établie du seul fait que ce manquement constitue la violation d'une disposition légale d'ordre public (1). (1) Voir les concl. du MP."
@@ -8561,7 +8605,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/26/sitemap_10.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2619.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2619.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/26/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/26/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_206.xml"
       ],
       "abstractFR": [
         "Le créancier peut satisfaire à la condition selon laquelle la subrogation doit être faite en même temps que le paiement en indiquant, fût-ce dans un document antérieur au paiement, son intention de subroger la tierce personne dans ses droits, actions, privilèges ou hypothèques au moment du paiement par cette personne (1). (1) Voir les concl. du MP."
@@ -11851,7 +11896,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -12307,7 +12353,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -12611,7 +12658,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -12803,7 +12851,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -13632,7 +13681,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -13645,7 +13695,8 @@
       "date": "2025-11-21",
       "roleNumber": "C.25.0145.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_51.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_51.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_598.xml"
       ],
       "abstractFR": [
         "L'aveu ne peut porter que sur des faits matériels ou juridiques, mais non sur des questions de droit (1). (1) Voir les concl. du MP."
@@ -13774,7 +13825,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0422.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_626.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14306,7 +14358,8 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_23.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_15.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_31.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_31.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_939.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14320,7 +14373,8 @@
       "date": "2025-10-07",
       "roleNumber": "P.25.0842.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_383.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14335,7 +14389,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_16.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1837.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1837.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/20/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/20/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_125.xml"
       ],
       "abstractFR": [
         "Le juge peut allouer une indemnité pour la perte d'une chance d'obtenir un avantage ou d'éviter un désavantage pour autant que la perte de cette chance résulte d'une faute (1). (1) Voir les concl. du MP.",
@@ -14351,7 +14406,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/24/sitemap_7.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/27/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/07/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/07/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_18.xml"
       ],
       "abstractFR": [
         "En vertu des articles 1382 et 1383 de l'ancien Code civil, la personne lésée a droit à une réparation intégrale du dommage subi; sur la base de ces dispositions, les frais de défense nécessaires qui ne concernent pas l'assistance d'un avocat mais l'assistance d'un conseil technique peuvent faire l'objet d'une indemnisation en cas de responsabilité extracontractuelle (1). (1) Cass. 1er mars 2012, RG C.10.0425.N, Pas. 2012, n° 142 ; Cass. 16 novembre 2006, RG C.05.0124.F, Pas. 2006, n° 568 ; Cass. 2 septembre 2004, RG C.01.0186.F, Pas. 2004, n° 375, avec les concl. de M. HENKES, procureur général alors avocat général.",
@@ -14367,7 +14423,8 @@
       "date": "2025-11-26",
       "roleNumber": "P.25.0610.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_14.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_14.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_502.xml"
       ],
       "abstractFR": [
         "L'existence d'un lien causal entre une faute et un dommage se déduit de la constatation que, sans la faute, le dommage ne se serait pas réalisé tel qu'il s'est produit; la faute n'est donc pas causale s'il apparaît que, sans elle, le dommage se serait néanmoins produit, et de la même manière; le jugement qui ne déduit le lien causal que de la faute elle-même ne justifie pas légalement sa décision (1). (1) Cass. 27 mars 2024, RG P.23.0688.F, ECLI:BE:CASS:2024:ARR.20240327.2F.2 www.juportal.be."
@@ -14379,7 +14436,8 @@
       "date": "2025-11-26",
       "roleNumber": "P.25.0932.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_19.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_19.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_507.xml"
       ],
       "abstractFR": [
         "Dans l'évaluation de l'indemnité à allouer pour le préjudice causé par une infraction, le juge ne peut pas tenir compte des événements postérieurs, étrangers à la faute et au dommage, qui auraient amélioré ou aggravé la situation de la personne lésée (1). (1) Voir Cass. 28 mars 2017, RG P.16.0751.N, Pas. 2017, n° 221.",
@@ -14392,7 +14450,8 @@
       "date": "2025-11-17",
       "roleNumber": "C.22.0444.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_553.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14404,7 +14463,8 @@
       "date": "2025-11-04",
       "roleNumber": "P.23.1685.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_433.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14418,7 +14478,8 @@
       "date": "2025-10-28",
       "roleNumber": "P.25.0797.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_421.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14438,7 +14499,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/26/sitemap_26.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/04/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/26/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/26/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_117.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14450,7 +14512,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.25.0356.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_15.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_15.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_388.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14462,7 +14525,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.23.0785.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_13.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_13.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_386.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -15548,7 +15612,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1073.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/27/sitemap_24.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2023/01/12/sitemap_10.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_68.xml"
       ],
       "abstractFR": [
         "Si les cours et tribunaux ont, en vertu de l'article 159 de la Constitution, le pouvoir et le devoir de vérifier, avant de lui donner effet, la légalité interne et la légalité externe de tout acte administratif sur lequel est fondée une demande, une défense ou une exception, il leur incombe aussi, lorsqu'ils sont saisis d'une demande en indemnisation fondée sur l'illégalité de l'acte d'attribution du marché, de statuer sur les conditions d'application des articles 15, alinéa 1er, de la loi du 24 décembre 1993, et 1382 et 1383 de l'ancien Code civil (1). (1) Voir les concl. du MP."
@@ -20218,7 +20283,8 @@
       "date": "2026-01-27",
       "roleNumber": "P.25.1149.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_1020.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20246,7 +20312,8 @@
       "date": "2025-10-07",
       "roleNumber": "P.25.0842.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_383.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20261,7 +20328,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_16.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1837.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1837.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/20/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/20/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_125.xml"
       ],
       "abstractFR": [
         "Le juge peut allouer une indemnité pour la perte d'une chance d'obtenir un avantage ou d'éviter un désavantage pour autant que la perte de cette chance résulte d'une faute (1). (1) Voir les concl. du MP.",
@@ -20277,7 +20345,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/24/sitemap_7.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/27/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/07/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/07/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_18.xml"
       ],
       "abstractFR": [
         "En vertu des articles 1382 et 1383 de l'ancien Code civil, la personne lésée a droit à une réparation intégrale du dommage subi; sur la base de ces dispositions, les frais de défense nécessaires qui ne concernent pas l'assistance d'un avocat mais l'assistance d'un conseil technique peuvent faire l'objet d'une indemnisation en cas de responsabilité extracontractuelle (1). (1) Cass. 1er mars 2012, RG C.10.0425.N, Pas. 2012, n° 142 ; Cass. 16 novembre 2006, RG C.05.0124.F, Pas. 2006, n° 568 ; Cass. 2 septembre 2004, RG C.01.0186.F, Pas. 2004, n° 375, avec les concl. de M. HENKES, procureur général alors avocat général.",
@@ -20293,7 +20362,8 @@
       "date": "2025-11-26",
       "roleNumber": "P.25.0610.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_14.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_14.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_502.xml"
       ],
       "abstractFR": [
         "L'existence d'un lien causal entre une faute et un dommage se déduit de la constatation que, sans la faute, le dommage ne se serait pas réalisé tel qu'il s'est produit; la faute n'est donc pas causale s'il apparaît que, sans elle, le dommage se serait néanmoins produit, et de la même manière; le jugement qui ne déduit le lien causal que de la faute elle-même ne justifie pas légalement sa décision (1). (1) Cass. 27 mars 2024, RG P.23.0688.F, ECLI:BE:CASS:2024:ARR.20240327.2F.2 www.juportal.be."
@@ -20305,7 +20375,8 @@
       "date": "2025-11-04",
       "roleNumber": "P.23.1685.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_433.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20319,7 +20390,8 @@
       "date": "2025-10-28",
       "roleNumber": "P.25.0797.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_421.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20339,7 +20411,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/26/sitemap_26.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_44.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/04/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/26/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/26/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_117.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20351,7 +20424,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.25.0356.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_15.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_15.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_388.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -20363,7 +20437,8 @@
       "date": "2025-10-21",
       "roleNumber": "P.23.0785.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_13.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_13.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_386.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -21141,7 +21216,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1073.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/27/sitemap_24.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2023/01/12/sitemap_10.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_68.xml"
       ],
       "abstractFR": [
         "Si les cours et tribunaux ont, en vertu de l'article 159 de la Constitution, le pouvoir et le devoir de vérifier, avant de lui donner effet, la légalité interne et la légalité externe de tout acte administratif sur lequel est fondée une demande, une défense ou une exception, il leur incombe aussi, lorsqu'ils sont saisis d'une demande en indemnisation fondée sur l'illégalité de l'acte d'attribution du marché, de statuer sur les conditions d'application des articles 15, alinéa 1er, de la loi du 24 décembre 1993, et 1382 et 1383 de l'ancien Code civil (1). (1) Voir les concl. du MP."
@@ -24595,7 +24671,8 @@
       "date": "2026-01-27",
       "roleNumber": "P.25.1149.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_1020.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -24609,7 +24686,8 @@
       "date": "2025-11-27",
       "roleNumber": "C.24.0252.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/06/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/06/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_557.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -24673,7 +24751,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1071.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/27/sitemap_22.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2023/01/12/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_65.xml"
       ],
       "abstractFR": [
         "Le juge décide souverainement en fait qui est le gardien de la chose, pour autant qu'il ne viole pas la notion de gardien de la chose."
@@ -25553,12 +25632,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_265.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_265.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/01/19/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/01/19/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_63.xml"
       ],
       "abstractFR": [
         "L'article 1385 de l'ancien Code civil implique qu'au moment du fait dommageable, le gardien de l'animal ait la maîtrise de celui-ci, comportant un pouvoir de direction et de surveillance, non subordonné, sans intervention du propriétaire, et un pouvoir d'usage égal à celui du propriétaire (1). (1) Voir concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 1385 Oud Burgerlijk Wetboek impliceert dat de bewaarder van het dier op het ogenblik van het schadelijk feit niet alleen het meesterschap erover had, maar ook een niet-ondergeschikt recht van leiding en toezicht, zonder medewerking van de eigenaar, en van gebruik, zoals de eigenaar (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220204.1F.6": {
       "court": "CASS",
@@ -25646,7 +25729,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1326.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_37.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/29/sitemap_12.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_114.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -25811,7 +25895,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1326.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_37.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/29/sitemap_12.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_114.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -25982,7 +26067,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2656.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2656.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_240.xml"
       ],
       "abstractFR": [
         "Le gain résultant du tirage gagnant d'un billet de loterie qui est un bien propre à l'un des époux, n'est pas un fruit, un revenu ou un intérêt au sens de l'article 1405.2 de l'ancien Code civil, mais, étant la contrepartie de ce billet, il est un bien propre conformément à l'article 1400.5 (1). (1) Voir concl MP."
@@ -26226,7 +26312,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0110.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_622.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -26272,7 +26359,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0110.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_622.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -26315,7 +26403,8 @@
       "date": "2025-12-01",
       "roleNumber": "C.24.0110.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_22.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_622.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -26363,7 +26452,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1326.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_37.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/29/sitemap_12.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_114.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -26425,7 +26515,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1326.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/11/sitemap_37.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/29/sitemap_12.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_114.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -26578,7 +26669,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2656.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2656.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_240.xml"
       ],
       "abstractFR": [
         "Il ne suit pas de l'article 1434 de l'ancien Code civil qu'il n'est dû récompense par le patrimoine commun que s'il a tiré profit des biens propres d'un des époux (1). (1) Voir concl MP."
@@ -26793,7 +26885,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2656.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2656.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_240.xml"
       ],
       "abstractFR": [
         "Les articles 1446 et 1447, alinéa 1er, de l'ancien Code civil ne font pas obstacle à ce que le juge puisse attribuer à l'époux qui en fait la demande l'immeuble servant au logement de la famille sans les meubles meublants qui le garnissent (1). (1) Voir concl MP.",
@@ -26842,7 +26935,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2656.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2656.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_240.xml"
       ],
       "abstractFR": [
         "Les articles 1446 et 1447, alinéa 1er, de l'ancien Code civil ne font pas obstacle à ce que le juge puisse attribuer à l'époux qui en fait la demande l'immeuble servant au logement de la famille sans les meubles meublants qui le garnissent (1). (1) Voir concl MP.",
@@ -27281,7 +27375,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2656.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2656.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/27/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_240.xml"
       ],
       "abstractFR": [
         "Le gain résultant du tirage gagnant d'un billet de loterie qui est un bien propre à l'un des époux, n'est pas un fruit, un revenu ou un intérêt au sens de l'article 1405.2 de l'ancien Code civil, mais, étant la contrepartie de ce billet, il est un bien propre conformément à l'article 1400.5 (1). (1) Voir concl MP."
