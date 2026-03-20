@@ -4147,6 +4147,20 @@
       "abstractNL": null
     }
   },
+  "1121": {
+    "ECLI:BE:CASS:2026:ARR.20260213.1F.4": {
+      "court": "CASS",
+      "date": "2026-02-13",
+      "roleNumber": "F.24.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La stipulation pour autrui suppose que la convention fasse naître un droit propre au bénéfice d'un tiers; lorsqu'un donateur consent une donation en avance d'hoirie à l'un de ses héritiers à charge pour ce dernier de remettre au décès du donateur une partie de cette donation à un tiers, la circonstance que ce tiers ait la qualité d'héritier du donateur et que la part qui lui est ainsi remise par le donataire est équivalente à celle qu'il recueillerait en sa qualité d'héritier ne fait pas obstacle à ce que le donateur puisse stipuler à son profit un droit propre et distinct du droit résultant de sa qualité d'héritier (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    }
+  },
   "1122": {
     "ECLI:BE:CASS:2025:ARR.20251103.3F.1": {
       "court": "CASS",
@@ -4157,6 +4171,18 @@
       ],
       "abstractFR": [
         "L'assurance contre le péril d'incendie souscrite en nom personnel par un copropriétaire indivis du bien assuré ne couvre que sa part de copropriété et ne profite pas aux autres copropriétaires, sauf s'il résulte de l'assurance que le preneur a agi pour leur compte (1). (1) Cass. 12 avril 2021, RG C.20.0201.N, Juportal, avec les concl. de M. Vanderlinden, avocat général."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260213.1F.4": {
+      "court": "CASS",
+      "date": "2026-02-13",
+      "roleNumber": "F.24.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "La stipulation pour autrui suppose que la convention fasse naître un droit propre au bénéfice d'un tiers; lorsqu'un donateur consent une donation en avance d'hoirie à l'un de ses héritiers à charge pour ce dernier de remettre au décès du donateur une partie de cette donation à un tiers, la circonstance que ce tiers ait la qualité d'héritier du donateur et que la part qui lui est ainsi remise par le donataire est équivalente à celle qu'il recueillerait en sa qualité d'héritier ne fait pas obstacle à ce que le donateur puisse stipuler à son profit un droit propre et distinct du droit résultant de sa qualité d'héritier (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
     }

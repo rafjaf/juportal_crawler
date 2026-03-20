@@ -624,12 +624,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2811.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2811.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_2.xml"
       ],
       "abstractFR": [
         "Si le jugement déclaratif de faillite entraîne le dessaisissement du débiteur et fait naître un concours entre les créanciers, seuls les droits des créanciers chirographaires et privilégiés généraux sont cristallisés au jour de la faillite (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Hoewel het vonnis van faillietverklaring de buitenbezitstelling van de schuldenaar tot gevolg heeft en een samenloop van de schuldeisers doet ontstaan, zijn enkel de rechten van de gewone en de algemene bevoorrechte schuldeisers gekristalliseerd op de datum van het faillissement (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200914.3F.8": {
       "court": "CASS",
@@ -973,6 +976,20 @@
       ],
       "abstractNL": [
         "Een schuld komt ten laste van de faillissementsboedel wanneer ze na het faillissement is ontstaan en door de curator werd aangegaan als beheerder van die boedel, dit is ook wanneer ze ontstaat door handelingen die hij voor dit beheer dient te stellen maar niet stelt; hieruit volgt dat wanneer reglementaire bepalingen of door de overheid krachtens deze bepalingen genomen individuele beslissingen hem opleggen na het faillissement bepaalde handelingen te stellen of zich daarvan te onthouden en hij dit niet doet, zodat voor hem een vergoedings- of teruggaveplicht ontstaat, de aldus ontstane schuld een schuld van de boedel is (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250428.3F.3": {
+      "court": "CASS",
+      "date": "2025-04-28",
+      "roleNumber": "C.22.0419.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Si le jugement déclaratif de faillite entraîne le dessaisissement du débiteur et fait naître un concours entre les créanciers, seuls les droits des créanciers chirographaires et privilégiés généraux sont cristallisés au jour de la faillite (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Hoewel het vonnis van faillietverklaring de buitenbezitstelling van de schuldenaar tot gevolg heeft en een samenloop van de schuldeisers doet ontstaan, zijn enkel de rechten van de gewone en de algemene bevoorrechte schuldeisers gekristalliseerd op de datum van het faillissement (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -2421,12 +2438,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2811.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2811.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_2.xml"
       ],
       "abstractFR": [
         "Lorsque le délai de validité de l'inscription hypothécaire prise par un créancier expire après le jugement déclaratif de la faillite du débiteur, ce créancier est tenu de procéder au renouvellement de son inscription pour conserver son droit de préférence jusqu'à ce qu'il soit reporté sur le prix du bien hypothéqué (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de geldigheidstermijn van de hypothecaire inschrijving van een schuldeiser verstrijkt na het vonnis van faillietverklaring van de schuldenaar, moet die schuldeiser zijn inschrijving vernieuwen om zijn recht van voorrang te behouden tot het wordt overgedragen op de prijs van het gehypothekeerde goed (1). Zie concl. OM."
+      ]
     }
   },
   "84": {
@@ -2501,12 +2521,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2811.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2811.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/23/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/19/sitemap_2.xml"
       ],
       "abstractFR": [
         "Lorsque le délai de validité de l'inscription hypothécaire prise par un créancier expire après le jugement déclaratif de la faillite du débiteur, ce créancier est tenu de procéder au renouvellement de son inscription pour conserver son droit de préférence jusqu'à ce qu'il soit reporté sur le prix du bien hypothéqué (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de geldigheidstermijn van de hypothecaire inschrijving van een schuldeiser verstrijkt na het vonnis van faillietverklaring van de schuldenaar, moet die schuldeiser zijn inschrijving vernieuwen om zijn recht van voorrang te behouden tot het wordt overgedragen op de prijs van het gehypothekeerde goed (1). Zie concl. OM."
+      ]
     }
   },
   "92": {
