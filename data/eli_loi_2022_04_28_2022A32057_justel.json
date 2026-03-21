@@ -209,5 +209,16 @@
         "Rechtsmisbruik bestaat in de uitoefening van een recht op een wijze die kennelijk de grenzen te buiten gaat van de uitoefening van dat recht door een bedachtzaam en voorzichtig persoon, wat onder meer het geval is wanneer het veroorzaakte nadeel buiten verhouding staat tot het voordeel dat de houder van het recht nastreeft of heeft verkregen (1). (1) Cass. 7 september 2020, AR C.19.0034.N-C.19.0118.N, AC 2020, nr. 495; Cass. 27 april 2020, AR C.19.0435.N, AC 2020, nr. 247; Cass. 27 januari 2020, AR C.19.0020.N, AC 2020, nr. 75; Cass. 20 december 2019, AR C.19.0289.N, AC 2019, nr. 685; Cass. 19 december 2019, AR C.19.0127.N, AC 2019, nr. 682; Cass. 18 oktober 2019, AR C.19.0136.N, AC 2019, nr. 534."
       ]
     }
-  }
+  },
+  "related": [
+    {
+      "from": "ancien Code civil",
+      "fromELI": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+      "articles": {
+        "1.2": [
+          "1"
+        ]
+      }
+    }
+  ]
 }

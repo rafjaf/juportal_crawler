@@ -23,6 +23,7 @@ import { Semaphore, SerialQueue } from './src/concurrency.js';
 import { extractOldStyleArticle, extractLegalBasisKey } from './src/utils.js';
 import { findMissingEli } from './src/find_missing_eli.js';
 import { fixArticlesFromLog } from './src/fix_articles.js';
+import { addRelated } from './src/add_related.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -112,6 +113,10 @@ async function main() {
     console.log(`                            detected, and re-analyse them using the improved`);
     console.log(`                            old-style article detection. Corrections are applied`);
     console.log(`                            to data files and missing_eli.json interactively.`);
+    console.log(`  ${chalk.cyan('--add-related <file>')}    Read an article-mapping JSON file and inject`);
+    console.log(`                            cross-references into the target ELI data files.`);
+    console.log(`                            The mapping file must have "from", "to" and "articles"`);
+    console.log(`                            keys (see old_to_new_civil_code_mapping.full.json).`);
     console.log(`  ${chalk.cyan('--log')}                    Log each saved judgement to log.json with full detail`);
     console.log(`                            (for debugging / auditing the crawl logic).`);
     console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
@@ -291,6 +296,17 @@ async function main() {
 
   if (process.argv.includes('--fix-articles-from-log')) {
     await fixArticlesFromLog();
+    return;
+  }
+
+  if (process.argv.includes('--add-related')) {
+    const flagIdx = process.argv.indexOf('--add-related');
+    const filePath = process.argv[flagIdx + 1];
+    if (!filePath || filePath.startsWith('--')) {
+      logError('--add-related requires a mapping file path as argument.');
+      process.exit(1);
+    }
+    addRelated(filePath);
     return;
   }
 

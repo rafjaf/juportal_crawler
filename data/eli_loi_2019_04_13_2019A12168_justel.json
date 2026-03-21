@@ -781,5 +781,109 @@
         "Waar in de regel enkel betwiste feiten moeten worden bewezen, mag de rechter, behoudens in geval van een procedureakkoord, niet-betwiste feiten ambtshalve in twijfel trekken; Indien de uitspraak zou indruisen tegen een wetsbepaling van openbare orde, laat een procedureakkoord de vrijheid van de rechter onverlet."
       ]
     }
-  }
+  },
+  "related": [
+    {
+      "from": "ancien Code civil",
+      "fromELI": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032153/justel",
+      "articles": {
+        "8.27": [
+          "1282",
+          "1283"
+        ],
+        "8.4": [
+          "1315"
+        ],
+        "8.15": [
+          "1317"
+        ],
+        "8.16": [
+          "1318"
+        ],
+        "8.17": [
+          "1319",
+          "1320"
+        ],
+        "8.1": [
+          "1322",
+          "1349",
+          "1357"
+        ],
+        "8.19": [
+          "1323",
+          "1324"
+        ],
+        "8.20": [
+          "1325"
+        ],
+        "8.21": [
+          "1326"
+        ],
+        "8.22": [
+          "1328"
+        ],
+        "8.11": [
+          "1329",
+          "1330",
+          "1348bis"
+        ],
+        "8.24": [
+          "1332"
+        ],
+        "8.25": [
+          "1334"
+        ],
+        "8.26": [
+          "1335",
+          "1336"
+        ],
+        "8.9": [
+          "1341"
+        ],
+        "8.13": [
+          "1347"
+        ],
+        "8.12": [
+          "1348"
+        ],
+        "8.7": [
+          "1352"
+        ],
+        "8.29": [
+          "1353"
+        ],
+        "8.30": [
+          "1354"
+        ],
+        "8.31": [
+          "1355"
+        ],
+        "8.32": [
+          "1356"
+        ],
+        "8.34": [
+          "1358",
+          "1360",
+          "1361"
+        ],
+        "8.35": [
+          "1359",
+          "1362"
+        ],
+        "8.36": [
+          "1364"
+        ],
+        "8.37": [
+          "1365"
+        ],
+        "8.38": [
+          "1366",
+          "1368"
+        ],
+        "8.39": [
+          "1367"
+        ]
+      }
+    }
+  ]
 }
