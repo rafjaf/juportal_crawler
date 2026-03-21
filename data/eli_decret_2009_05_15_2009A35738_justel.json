@@ -276,9 +276,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_51.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_51.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_1.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En vue de la remise de l'avis que visant l'article 6.1.7 du Code flamand de l'aménagement du territoire, et que vise, actuellement son article 6.3.10, § 1er, le Conseil supérieur de la Politique du Maintien peut requérir des renseignements auprès des administrations chargées de l'administration du territoire et fonder son avis sur ceux-ci."
+      ],
       "abstractNL": [
         "Met het oog op het verlenen van het advies, bedoeld in artikel 6.1.7 Vlaamse Codex Ruimtelijke Ordening zoals hier van toepassing, thans artikel 6.3.10, § 1, Vlaamse Codex Ruimtelijke Ordening, kan de Hoge Raad inlichtingen opvragen bij de handhavende besturen en zijn advies op die inlichtingen baseren."
       ]
@@ -1099,6 +1102,22 @@
       "abstractNL": [
         "De ruimtelijke structuurplannen richten zich tot het bestuur en niet tot de burger; ze vormen een beleidskader aan de hand waarvan de ruimtelijke uitvoeringsplannen worden opgesteld, maar ze bevatten, in tegenstelling tot die laatste, geen bindende en verordenende bestemmingsvoorschriften (1). (1) Zie GwH 22 december 2016, nr. 164/2016.",
         "Bij de beoordeling of voor het toekennen van planschadevergoeding is voldaan aan de voorwaarde dat het perceel in aanmerking komt voor een vergunning om te bouwen of voor het verkavelen van gronden, kan niet worden verwezen naar ruimtelijke structuurplannen aangezien deze uit zichzelf geen rechtsgevolgen hebben voor de burger en zij geen afbreuk kunnen doen aan de bindende en verordenende voorschriften van de bestemmingsplannen, zoals die bestonden de dag voorafgaand aan de inwerkingtreding van het definitief ruimtelijk uitvoeringsplan en waaraan de burger rechtmatige verwachtingen kan ontlenen (1). (1) Zie GwH 22 december 2016, nr. 164/2016."
+      ]
+    }
+  },
+  "6.3.10": {
+    "ECLI:BE:CASS:2022:ARR.20220906.2N.3": {
+      "court": "CASS",
+      "date": "2022-09-06",
+      "roleNumber": "P.22.0008.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vue de la remise de l'avis que visant l'article 6.1.7 du Code flamand de l'aménagement du territoire, et que vise, actuellement son article 6.3.10, § 1er, le Conseil supérieur de la Politique du Maintien peut requérir des renseignements auprès des administrations chargées de l'administration du territoire et fonder son avis sur ceux-ci."
+      ],
+      "abstractNL": [
+        "Met het oog op het verlenen van het advies, bedoeld in artikel 6.1.7 Vlaamse Codex Ruimtelijke Ordening zoals hier van toepassing, thans artikel 6.3.10, § 1, Vlaamse Codex Ruimtelijke Ordening, kan de Hoge Raad inlichtingen opvragen bij de handhavende besturen en zijn advies op die inlichtingen baseren."
       ]
     }
   }

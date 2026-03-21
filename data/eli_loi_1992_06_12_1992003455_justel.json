@@ -3608,6 +3608,24 @@
       ]
     }
   },
+  "99": {
+    "ECLI:BE:CASS:2023:ARR.20230223.1F.6": {
+      "court": "CASS",
+      "date": "2023-02-23",
+      "roleNumber": "C.21.0522.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'arrêt, qui pour fixer le montant brut du secours alimentaire retient le montant net jusqu'à concurrence de quatre-vingts pour cent, alors que ce taux s'applique au montant brut du secours alimentaire pour déterminer la mesure dans laquelle il est imposable, viole l'article 99 du Code des impôts sur les revenus 1992.",
+        "L'arrêt, qui pour fixer le montant brut de la pension après divorce retient le montant net jusqu'à concurrence de quatre-vingts pour cent, alors que cette quotité s'applique au montant brut de la pension après divorce pour déterminer la mesure dans laquelle elle est imposable, viole l'article 99 du Code des impôts sur les revenus 1992."
+      ],
+      "abstractNL": [
+        "Het arrest dat voor het vaststellen van het brutobedrag van de onderhoudsuitkering een nettobedrag tot beloop van tachtig pct. in aanmerking neemt, terwijl dit percentage moet worden toegepast op het brutobedrag van de onderhoudsuitkering om te bepalen tot op welke hoogte deze belastbaar is, schendt artikel 99 WIB92.",
+        "Het arrest dat voor het vaststellen van het brutobedrag van de uitkering na echtscheiding een nettobedrag tot beloop van tachtig pct. in aanmerking neemt, terwijl dit percentage moet worden toegepast op het brutobedrag van de uitkering na echtscheiding om te bepalen tot op welke hoogte deze belastbaar is, schendt artikel 99 WIB92."
+      ]
+    }
+  },
   "104": {
     "ECLI:BE:CASS:2017:ARR.20170616.1": {
       "court": "CASS",
@@ -6800,7 +6818,8 @@
       "roleNumber": "F.23.0040.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_29.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_1486.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_1486.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_25.xml"
       ],
       "abstractFR": null,
       "abstractNL": [

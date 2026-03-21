@@ -8,9 +8,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_53.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_53.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_3.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En principe, l'illégalité éventuelle de l'arrestation d'un suspect est étrangère à l'appréciation du fondement de l'action publique exercée contre lui ou à la régularité de la recherche ou de l'enquête portant sur le fait pour lequel l'intéressé a été arrêté (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "In beginsel houdt de eventuele onwettigheid van de arrestatie van een verdachte geen verband met de beoordeling van de gegrondheid van de tegen hem ingestelde strafvordering of met de regelmatigheid van de opsporing van of het onderzoek naar het feit waarvoor de betrokkene werd gearresteerd (1). (1) Zie concl. OM."
       ]
@@ -380,6 +383,20 @@
       ],
       "abstractNL": [
         "De huiszoeking is een dwangmaatregel op de woonplaats, maar niet op de persoon van degene die de woonplaats betrekt; de enkele omstandigheid dat in de woonplaats van een verdachte in zijn aanwezigheid een huiszoeking plaatsvindt, houdt niet in dat die verdachte geen vrijheid van komen en gaan meer geniet (1). (1) Zie Cass., 18 maart 1998, AR P.98.0339.N, nr 153; 21 nov. 2001, AR P.01.1538.F, nr 636."
+      ]
+    },
+    "ECLI:BE:CASS:2022:ARR.20220906.2N.12": {
+      "court": "CASS",
+      "date": "2022-09-06",
+      "roleNumber": "P.22.0440.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "En principe, l'illégalité éventuelle de l'arrestation d'un suspect est étrangère à l'appréciation du fondement de l'action publique exercée contre lui ou à la régularité de la recherche ou de l'enquête portant sur le fait pour lequel l'intéressé a été arrêté (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "In beginsel houdt de eventuele onwettigheid van de arrestatie van een verdachte geen verband met de beoordeling van de gegrondheid van de tegen hem ingestelde strafvordering of met de regelmatigheid van de opsporing van of het onderzoek naar het feit waarvoor de betrokkene werd gearresteerd (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -1010,9 +1027,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_9.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_58.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_58.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_8.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La juridiction d'instruction peut répondre, en les rejetant, aux contestations étayées par des éléments de fait en ce qui concerne le risque de récidive et de collusion en constatant, par référence à des éléments concrets du dossier de l'instruction judiciaire, que ces risques existent effectivement; les motifs admis pour appuyer le caractère actuel du risque de récidive et de collusion ne peuvent être généraux au point de pouvoir justifier toute détention préventive."
+      ],
       "abstractNL": [
         "Het onderzoeksgerecht kan de met feitelijke gegevens gestaafde betwistingen betreffende het gevaar voor recidive en collusie beantwoorden en verwerpen door met verwijzing naar concrete dossiergegevens uit het gerechtelijk onderzoek vast te stellen dat die gevaren wel degelijk bestaan; de redenen die worden aangenomen ter staving van het actueel karakter van het recidive- en collusiegevaar mogen niet dermate algemeen zijn dat ze kunnen gelden ter verantwoording van om het even welke voorlopige hechtenis."
       ]
@@ -7474,9 +7494,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_9.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_58.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_58.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_8.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La juridiction d'instruction peut répondre, en les rejetant, aux contestations étayées par des éléments de fait en ce qui concerne le risque de récidive et de collusion en constatant, par référence à des éléments concrets du dossier de l'instruction judiciaire, que ces risques existent effectivement; les motifs admis pour appuyer le caractère actuel du risque de récidive et de collusion ne peuvent être généraux au point de pouvoir justifier toute détention préventive."
+      ],
       "abstractNL": [
         "Het onderzoeksgerecht kan de met feitelijke gegevens gestaafde betwistingen betreffende het gevaar voor recidive en collusie beantwoorden en verwerpen door met verwijzing naar concrete dossiergegevens uit het gerechtelijk onderzoek vast te stellen dat die gevaren wel degelijk bestaan; de redenen die worden aangenomen ter staving van het actueel karakter van het recidive- en collusiegevaar mogen niet dermate algemeen zijn dat ze kunnen gelden ter verantwoording van om het even welke voorlopige hechtenis."
       ]
@@ -11462,9 +11485,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_9.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_58.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_58.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_8.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La juridiction d'instruction peut répondre, en les rejetant, aux contestations étayées par des éléments de fait en ce qui concerne le risque de récidive et de collusion en constatant, par référence à des éléments concrets du dossier de l'instruction judiciaire, que ces risques existent effectivement; les motifs admis pour appuyer le caractère actuel du risque de récidive et de collusion ne peuvent être généraux au point de pouvoir justifier toute détention préventive."
+      ],
       "abstractNL": [
         "Het onderzoeksgerecht kan de met feitelijke gegevens gestaafde betwistingen betreffende het gevaar voor recidive en collusie beantwoorden en verwerpen door met verwijzing naar concrete dossiergegevens uit het gerechtelijk onderzoek vast te stellen dat die gevaren wel degelijk bestaan; de redenen die worden aangenomen ter staving van het actueel karakter van het recidive- en collusiegevaar mogen niet dermate algemeen zijn dat ze kunnen gelden ter verantwoording van om het even welke voorlopige hechtenis."
       ]

@@ -3895,12 +3895,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_358.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_358.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/01/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/01/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_16.xml"
       ],
       "abstractFR": [
         "L'article 19 du Code judiciaire, en vertu duquel le jugement est définitif dans la mesure où il épuise la juridiction du juge sur une question litigieuse, est étranger aux conditions de recevabilité du pourvoi formé contre les décisions rendues en matière répressive."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 19 Gerechtelijk Wetboek, krachtens hetwelk het vonnis een eindvonnis is in zoverre de rechter hiermee zijn rechtsmacht over een geschilpunt volledig heeft uitgeoefend, houdt geen verband met de voorwaarden voor de ontvankelijkheid van het cassatieberoep dat tegen de beslissingen in strafzaken wordt ingesteld."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230511.1F.7": {
       "court": "CASS",
@@ -8477,6 +8480,54 @@
       ],
       "abstractNL": [
         "Wanneer een afwijking van artikel 57 Gerechtelijk Wetboek niet voortvloeit uit een uitdrukkelijke bepaling, heeft de kennisgeving per gerechtsbrief slechts als gevolg dat de beroepstermijn begint te lopen voor zover die de mogelijkheden van beroep en de termijnen ervan vermeldt (1). (1) Zie andersluidende concl. OM. in Pas. 2016, nr. ***"
+      ]
+    }
+  },
+  "624": {
+    "ECLI:BE:CASS:2023:ARR.20230223.1F.2": {
+      "court": "CASS",
+      "date": "2023-02-23",
+      "roleNumber": "C.22.0106.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "En l'absence d'une clause d'élection de for, le demandeur n'est pas tenu de porter sa demande devant le juge du domicile du défendeur."
+      ],
+      "abstractNL": [
+        "Bij gebrek aan een forumkeuzebeding is de eiser niet gehouden zijn vordering in te stellen voor de rechter van de woonplaats van de verweerder."
+      ]
+    }
+  },
+  "837": {
+    "ECLI:BE:CASS:2023:ARR.20230223.1F.9": {
+      "court": "CASS",
+      "date": "2023-02-23",
+      "roleNumber": "C.21.0068.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 837, alinéa 1er, et 841, alinéa 1er, du Code judiciaire que, dès qu'il reçoit la communication d'une demande de récusation, le juge est provisoirement tenu de s'abstenir de juger en la cause et que, s'il est fait droit à la récusation, il est définitivement tenu de s'abstenir de tout jugement en la cause, sous peine de nullité; il ne s'ensuit pas que les décisions que ce juge a rendues en la cause avant la demande en récusation sont frappées de nullité ou privées d'effet."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 837, eerste lid, en 841, eerste lid, Gerechtelijk Wetboek volgt dat de rechter, zodra hem een vordering tot wraking wordt meegedeeld, zich voorlopig van de berechting van de zaak dient te onthouden en dat hij, indien de wraking wordt ingewilligd, zich op straffe van nietigheid definitief van elke berechting van de zaak dient te onthouden; hieruit volgt niet dat de beslissingen die deze rechter in de zaak heeft gewezen vóór de vordering tot wraking nietig zouden zijn of geen uitwerking zouden hebben."
+      ]
+    }
+  },
+  "841": {
+    "ECLI:BE:CASS:2023:ARR.20230223.1F.9": {
+      "court": "CASS",
+      "date": "2023-02-23",
+      "roleNumber": "C.21.0068.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "Il suit des articles 837, alinéa 1er, et 841, alinéa 1er, du Code judiciaire que, dès qu'il reçoit la communication d'une demande de récusation, le juge est provisoirement tenu de s'abstenir de juger en la cause et que, s'il est fait droit à la récusation, il est définitivement tenu de s'abstenir de tout jugement en la cause, sous peine de nullité; il ne s'ensuit pas que les décisions que ce juge a rendues en la cause avant la demande en récusation sont frappées de nullité ou privées d'effet."
+      ],
+      "abstractNL": [
+        "Uit de artikelen 837, eerste lid, en 841, eerste lid, Gerechtelijk Wetboek volgt dat de rechter, zodra hem een vordering tot wraking wordt meegedeeld, zich voorlopig van de berechting van de zaak dient te onthouden en dat hij, indien de wraking wordt ingewilligd, zich op straffe van nietigheid definitief van elke berechting van de zaak dient te onthouden; hieruit volgt niet dat de beslissingen die deze rechter in de zaak heeft gewezen vóór de vordering tot wraking nietig zouden zijn of geen uitwerking zouden hebben."
       ]
     }
   },

@@ -19581,9 +19581,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_5.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_54.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En matière pénale, l'allocation d'une indemnité de procédure ne requiert pas nécessairement une demande de la partie qui a droit à cette indemnité."
+      ],
       "abstractNL": [
         "In strafzaken vereist de toekenning van een rechtsplegingsvergoeding niet noodzakelijk een vordering van de partij die op die vergoeding is gerechtigd."
       ]
@@ -30378,6 +30381,19 @@
       "abstractNL": [
         "De omstandigheid dat een schuldeiser slechts over een algemeen voorrecht beschikt en aldus geen bevoorrechte schuldeiser is voor de toepassing van de Wet Continuïteit Ondernemingen, ontneemt hem niet de mogelijkheid om derdenverzet aan te tekenen tegen het vonnis dat oordeelt over de homologatie van het reorganisatieplan in de procedure van gerechtelijke reorganisatie (1). (1) Zie de conclusie van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260220.1F.3": {
+      "court": "CASS",
+      "date": "2026-02-20",
+      "roleNumber": "C.22.0286.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_24.xml"
+      ],
+      "abstractFR": [
+        "En ce qui concerne la position du tiers, le juge saisi de la tierce opposition exerce sa pleine juridiction sur ce qui a été décidé dans la décision litigieuse. Dans ces limites, le tiers peut invoquer tous moyens de droit et de fait sans être lié par l'attitude procédurale qui a été adoptée par le requérant dans l'instance initiale (1). (1) Cass. 2 mai 2013, RG C.12.0150.F, Pas 2013, n°274, avec les concl. de Monsieur Genicot, avocat général.",
+        "Si le juge saisi d'une tierce opposition doit contrôler la régularité de la procédure sur requête et le bien-fondé des mesures ordonnées par le premier juge dans les mêmes conditions que celui-ci, il lui appartient également d'examiner si, à la date à laquelle il statue, ces mesurent se justifient encore."
+      ],
+      "abstractNL": null
     }
   },
   "1124": {
@@ -31024,9 +31040,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_7.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_56.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_56.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_6.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Les conclusions doivent être lues dans leur ensemble; une demande insérée dans les motifs d'un écrit de conclusions est régulièrement soumise au juge, même si elle n'est pas reproduite dans le dispositif de cet écrit (1). (1) Cass. 5 février 2004, RG C.01.0372.N, Pas. 2004, n° 59 ; Cass. 30 septembre 1996, RG S.95.0055.F, Pas. 1996, n° 337."
+      ],
       "abstractNL": [
         "Een conclusie moet in haar geheel worden gelezen; een vordering die is opgenomen in de motieven van een conclusie is regelmatig aan de rechter voorgelegd, zelfs wanneer zij niet herhaald wordt in het dictum van de conclusie (1). (1) Cass. 5 februari 2004, AR C.01.0372.N, AC 2004, nr. 59; Cass. 30 september 1996, AR S.95.0055.F, AC 1996, nr. 337."
       ]

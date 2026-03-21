@@ -62,9 +62,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/04/sitemap_5.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_54.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/06/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En matière pénale, l'allocation d'une indemnité de procédure ne requiert pas nécessairement une demande de la partie qui a droit à cette indemnité."
+      ],
       "abstractNL": [
         "In strafzaken vereist de toekenning van een rechtsplegingsvergoeding niet noodzakelijk een vordering van de partij die op die vergoeding is gerechtigd."
       ]
