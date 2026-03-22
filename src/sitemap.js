@@ -193,6 +193,17 @@ export async function parseSitemapXml(sitemapUrl) {
     }
   }
 
+  // ─── Descriptions (ecli:description — correspond to "Mots libres" / "Vrije woorden" on the page) ───
+  let hasXmlDescriptions = false;
+  const rawDescriptions = meta.description;
+  if (rawDescriptions) {
+    const descs = Array.isArray(rawDescriptions) ? rawDescriptions : [rawDescriptions];
+    hasXmlDescriptions = descs.some(d => {
+      const text = normalizeWhitespace(d?._ || d || '');
+      return !!text;
+    });
+  }
+
   // ─── References: role number, legal bases with ELI ───
   let roleNumber = null;
   const legalBases = []; // { article, eli } — resolved
@@ -425,6 +436,7 @@ export async function parseSitemapXml(sitemapUrl) {
     roleNumber,
     abstractsFR,
     abstractsNL,
+    hasXmlDescriptions,
     legalBases: uniqueBases,
     legalBasesWithoutEli,
   };

@@ -81,44 +81,54 @@ export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {})
     let resolvedBases = [...judgement.legalBases];
     let stillMissingEliBases = [...xmlMissingEli];
 
-    // Download the HTML page when the XML is missing ELI links — the HTML
-    // often carries them as proper hyperlinks.
-    if (xmlMissingEli.length > 0) {
-      logInfo(`${timestamp()}     ${chalk.yellow('Missing ELI(s) in XML')} → downloading judgement page to resolve...`);
+    // Download the HTML page when: (a) XML is missing ELI links (HTML often carries
+    // proper hyperlinks), or (b) no XML abstract found but the XML has description
+    // elements (ecli:description) — those correspond to "Mots libres"/"Vrije woorden"
+    // on the page and can serve as a fallback abstract for old-format judgements.
+    const hasNoXmlAbstract = judgement.abstractsFR.length === 0 && judgement.abstractsNL.length === 0;
+    const fetchForMotsLibres = hasNoXmlAbstract && judgement.hasXmlDescriptions;
+    let htmlFiche = null;
+    if (xmlMissingEli.length > 0 || fetchForMotsLibres) {
+      const reason = xmlMissingEli.length > 0 ? 'Missing ELI(s) in XML' : 'No XML abstract';
+      logInfo(`${timestamp()}     ${chalk.yellow(reason)} → downloading judgement page...`);
       try {
         const html = await fetchJudgementHtml(judgement.judgementUrl);
         const { fiches, unextractable: ux1 } = parseJudgementHtml(html);
         allUnextractable.push(...ux1);
-        const htmlBases = fiches.flatMap(f => f.legalBases);
-        const resolvedFromHtml = [];
-        const stillMissing = [];
+        htmlFiche = fiches[0] || null;
 
-        for (const missing of xmlMissingEli) {
-          const htmlMatch = htmlBases.find(hb =>
-            hb.eli && hb.article === missing.article
-          );
-          if (htmlMatch) {
-            resolvedFromHtml.push({ article: missing.article, eli: htmlMatch.eli });
-            logInfo(chalk.gray(`${timestamp()}       Resolved ELI from HTML | article="${missing.article}" | eli=${htmlMatch.eli}`));
-          } else {
-            stillMissing.push(missing);
+        if (xmlMissingEli.length > 0) {
+          const htmlBases = fiches.flatMap(f => f.legalBases);
+          const resolvedFromHtml = [];
+          const stillMissing = [];
+
+          for (const missing of xmlMissingEli) {
+            const htmlMatch = htmlBases.find(hb =>
+              hb.eli && hb.article === missing.article
+            );
+            if (htmlMatch) {
+              resolvedFromHtml.push({ article: missing.article, eli: htmlMatch.eli });
+              logInfo(chalk.gray(`${timestamp()}       Resolved ELI from HTML | article="${missing.article}" | eli=${htmlMatch.eli}`));
+            } else {
+              stillMissing.push(missing);
+            }
+          }
+
+          resolvedBases = [...resolvedBases, ...resolvedFromHtml];
+          stillMissingEliBases = stillMissing;
+
+          if (resolvedFromHtml.length > 0) {
+            logInfo(`${timestamp()}     Resolved ${resolvedFromHtml.length} missing ELI(s) from judgement page`);
           }
         }
-
-        resolvedBases = [...resolvedBases, ...resolvedFromHtml];
-        stillMissingEliBases = stillMissing;
-
-        if (resolvedFromHtml.length > 0) {
-          logInfo(`${timestamp()}     Resolved ${resolvedFromHtml.length} missing ELI(s) from judgement page`);
-        }
       } catch (err) {
-        logWarn(`⚠ Failed to download judgement page for ELI resolution (${judgement.ecli}): ${err.message}`);
+        logWarn(`⚠ Failed to download judgement page (${judgement.ecli}): ${err.message}`);
       }
     }
 
     abstractToBasesMap = [{
-      abstractFR: judgement.abstractsFR[0] || null,
-      abstractNL: judgement.abstractsNL[0] || null,
+      abstractFR: judgement.abstractsFR[0] || htmlFiche?.motsLibresFR || null,
+      abstractNL: judgement.abstractsNL[0] || htmlFiche?.motsLibresNL || null,
       legalBases: resolvedBases,
       missingEliBases: stillMissingEliBases,
     }];

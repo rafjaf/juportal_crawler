@@ -48,20 +48,33 @@ export function parseJudgementHtml(html) {
     // Check if this is a "Fiche" or "Fiches" fieldset
     if (!legend.startsWith('Fiche')) return;
 
-    // Extract abstract text from the div inside the fieldset  
+    // Extract abstract text from the div inside the fieldset (new-format pages)
     const abstractDiv = $fieldset.children('div').first();
     const abstractText = normalizeWhitespace(abstractDiv.text());
-    if (!abstractText) return;
 
-    // Extract legal bases from "Bases légales:" / "Wettelijke bepalingen:" rows
+    // Extract legal bases from "Bases légales:" / "Wettelijke bepalingen:" rows.
+    // Also capture "Mots libres:" / "Vrije woorden:" as fallback abstract for
+    // old-format pages that have a table structure instead of a leading div.
     const basesLegales = [];
     const missingEliBases = [];
     const allBasisTexts = []; // { article, rawText, lang } — for FR/NL correlation
+    let motsLibresFR = null;
+    let motsLibresNL = null;
     $fieldset.find('tr').each((_, tr) => {
       const $tr = $(tr);
       const $labelTd = $tr.find('td').first();
       const label = $labelTd.find('p').text().trim();
-      
+
+      // Capture fallback abstract text from Mots libres / Vrije woorden rows
+      if (label === 'Mots libres:') {
+        motsLibresFR = normalizeWhitespace($labelTd.next('td').find('p.description-notice-table').text()) || motsLibresFR;
+        return;
+      }
+      if (label === 'Vrije woorden:') {
+        motsLibresNL = normalizeWhitespace($labelTd.next('td').find('p.description-notice-table').text()) || motsLibresNL;
+        return;
+      }
+
       // Check if this row contains legal bases (FR or NL label)
       if (!LEGAL_BASES_LABELS.includes(label)) return;
       const basisLang = label === 'Bases légales:' ? 'fr' : 'nl';
@@ -160,6 +173,9 @@ export function parseJudgementHtml(html) {
       }
     });
 
+    // Skip fieldsets with no useful content at all
+    if (!abstractText && !motsLibresFR && !motsLibresNL && basesLegales.length === 0 && missingEliBases.length === 0) return;
+
     // Enrich legal bases with FR/NL raw texts
     const basisTextLookup = buildBasisTextLookup(allBasisTexts);
     for (const b of basesLegales) {
@@ -179,6 +195,8 @@ export function parseJudgementHtml(html) {
 
     fiches.push({
       abstract: abstractText,
+      motsLibresFR,
+      motsLibresNL,
       legalBases: basesLegales,
       missingEliBases,
     });
