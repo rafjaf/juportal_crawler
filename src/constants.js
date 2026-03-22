@@ -11,6 +11,7 @@ export const MISSING_ELI_FILE = path.join(ROOT_DIR, 'missing_eli.json');
 export const ERRORS_FILE = path.join(ROOT_DIR, 'errors.json');
 export const LOG_FILE = path.join(ROOT_DIR, 'log.json');
 export const DATA_DIR = path.join(ROOT_DIR, 'data');
+export const NO_LEGAL_BASIS_FILE = path.join(ROOT_DIR, 'no_legal_basis.json');
 export const MAX_RETRIES = 10;
 export const RETRY_DELAY_MS = 5000;
 export const PROGRESS_INTERVAL_MS = 5000;

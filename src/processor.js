@@ -5,7 +5,7 @@ import { textSimilarity } from './utils.js';
 import { parseSitemapXml } from './sitemap.js';
 import { fetchJudgementHtml, parseJudgementHtml } from './judgement.js';
 import { storeJudgementData, recordMissingEliData } from './data.js';
-import { appendParseError, appendLogEntry } from './storage.js';
+import { appendParseError, appendLogEntry, appendNoLegalBasis } from './storage.js';
 
 // ─── Phase 1 – Network fetch ─────────────────────────────────────────────────
 
@@ -59,6 +59,14 @@ export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {})
   const xmlMissingEli = judgement.legalBasesWithoutEli || [];
   if (judgement.legalBases.length === 0 && xmlMissingEli.length === 0) {
     logWarn(`⚠ No legal bases found for ${judgement.ecli} — skipping data export`);
+    appendNoLegalBasis({
+      ecli: judgement.ecli,
+      court: judgement.court,
+      date: judgement.judgementDate,
+      url: judgement.judgementUrl,
+      roleNumber: judgement.roleNumber || null,
+      sitemap: sitemapUrl,
+    });
     return { type: 'no-bases', judgement };
   }
   if (judgement.legalBases.length === 0) {

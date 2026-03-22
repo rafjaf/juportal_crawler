@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE, LOG_FILE } from './constants.js';
+import { DATA_DIR, SETTINGS_FILE, MISSING_ELI_FILE, ERRORS_FILE, LOG_FILE, NO_LEGAL_BASIS_FILE } from './constants.js';
 import { logInfo, logWarn, timestamp } from './logger.js';
 
 // ─── In-memory caches (deferred writes) ──────────────────────────────────────
@@ -12,6 +12,7 @@ let _settingsCache = null;
 let _errorsCache = null;
 let _missingEliCache = null;
 let _logCache = null;
+let _noLegalBasisCache = null;
 
 /**
  * Write all deferred in-memory stores to disk.
@@ -38,6 +39,11 @@ export function flushAll() {
     fs.writeFileSync(LOG_FILE, JSON.stringify(_logCache, null, 2), 'utf-8');
     written.push('log.json');
     _logCache = null;
+  }
+  if (_noLegalBasisCache !== null) {
+    fs.writeFileSync(NO_LEGAL_BASIS_FILE, JSON.stringify(_noLegalBasisCache, null, 2), 'utf-8');
+    written.push('no_legal_basis.json');
+    _noLegalBasisCache = null;
   }
   if (written.length > 0) {
     console.log(`\u2714 Saved to disk: ${written.join(', ')}`);
@@ -230,4 +236,29 @@ export function appendLogEntry(entry) {
   const key = new Date().toISOString();
   data[key] = entry;
   saveLogFile(data);
+}
+
+// ─── No Legal Basis File Management ─────────────────────────────────────────
+
+export function loadNoLegalBasisFile() {
+  if (_noLegalBasisCache !== null) return _noLegalBasisCache;
+  try {
+    if (fs.existsSync(NO_LEGAL_BASIS_FILE)) {
+      _noLegalBasisCache = JSON.parse(fs.readFileSync(NO_LEGAL_BASIS_FILE, 'utf-8'));
+      return _noLegalBasisCache;
+    }
+  } catch { /* start fresh */ }
+  _noLegalBasisCache = [];
+  return _noLegalBasisCache;
+}
+
+/**
+ * Append a judgement with no legal bases found to no_legal_basis.json.
+ * Duplicates (same ECLI) are silently ignored.
+ */
+export function appendNoLegalBasis(entry) {
+  const data = loadNoLegalBasisFile();
+  if (!data.some(e => e.ecli === entry.ecli)) {
+    data.push(entry);
+  }
 }
