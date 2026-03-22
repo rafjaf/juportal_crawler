@@ -13,7 +13,7 @@
 import chalk from 'chalk';
 import readline from 'node:readline';
 import { logInfo, logSuccess, logWarn, logError, logFatal, timestamp } from './src/logger.js';
-import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, appendMissingEli, flushAll } from './src/storage.js';
+import { ensureDataDir, loadSettings, saveSettings, loadErrorsFile, saveErrorsFile, appendMissingEli, flushAll, buildProcessedEcliSet } from './src/storage.js';
 import { fetchSitemapIndexUrls, extractDateFromUrl, fetchSitemapUrls } from './src/sitemap.js';
 import { processSingleSitemapUrl, fetchSitemapResult, commitSitemapResult } from './src/processor.js';
 import { processMissingEliFile } from './src/data.js';
@@ -117,6 +117,12 @@ async function main() {
     console.log(`                            cross-references into the target ELI data files.`);
     console.log(`                            The mapping file must have "from", "to" and "articles"`);
     console.log(`                            keys (see old_to_new_civil_code_mapping.full.json).`);
+    console.log(`  ${chalk.cyan('--redo')}                   Re-crawl all sitemaps from robots.txt, ignoring the list`);
+    console.log(`                            of already-processed entries in settings.json.`);
+    console.log(`                            Judgements that already have data in data/ (detected by`);
+    console.log(`                            their ECLI) are skipped automatically.  Use this to`);
+    console.log(`                            backfill judgements previously missed due to detection`);
+    console.log(`                            bugs (e.g. old-style legal bases).`);
     console.log(`  ${chalk.cyan('--log')}                    Log each saved judgement to log.json with full detail`);
     console.log(`                            (for debugging / auditing the crawl logic).`);
     console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
@@ -346,6 +352,107 @@ async function main() {
 
   const settings = loadSettings();
   const logEnabled = process.argv.includes('--log');
+
+  // ─── --redo mode ──────────────────────────────────────────────────────────
+  if (process.argv.includes('--redo')) {
+    logInfo(`${timestamp()} ${chalk.bold('Redo mode:')} scanning data/ for already-processed ECLIs...`);
+    const knownEclis = buildProcessedEcliSet();
+    logInfo(`${timestamp()} Found ${knownEclis.size} ECLIs already saved in data/ — these will be skipped.`);
+
+    let sitemapIndexUrls;
+    try {
+      sitemapIndexUrls = await fetchSitemapIndexUrls();
+    } catch (err) {
+      logFatal(`Cannot fetch robots.txt: ${err.message}`);
+      process.exit(1);
+    }
+
+    const totalSitemapIndexes = sitemapIndexUrls.length;
+    progress.configure(totalSitemapIndexes, totalSitemapIndexes, SITEMAP_CONCURRENCY);
+
+    let processedCount = 0;
+    let skippedCourt = 0;
+    let savedJudgements = 0;
+    let errorCount = 0;
+
+    for (const sitemapIndexUrl of sitemapIndexUrls) {
+      processedCount++;
+      const dateStr = extractDateFromUrl(sitemapIndexUrl);
+      logInfo(`\n${timestamp()} ${chalk.bold(`[${processedCount}/${totalSitemapIndexes}]`)} Processing sitemap index: ${chalk.cyan(dateStr)}`);
+
+      let sitemapUrls;
+      try {
+        sitemapUrls = await fetchSitemapUrls(sitemapIndexUrl);
+      } catch (err) {
+        logError(`✖ Failed to fetch sitemap index ${sitemapIndexUrl}: ${err.message}`);
+        errorCount++;
+        progress.endIndex();
+        continue;
+      }
+
+      logInfo(`${timestamp()}   Found ${sitemapUrls.length} sitemaps for ${dateStr}`);
+      progress.beginIndex(sitemapUrls.length);
+
+      const sem = new Semaphore(SITEMAP_CONCURRENCY);
+      const serialQ = new SerialQueue();
+      const sitemapPromises = [];
+
+      for (let i = 0; i < sitemapUrls.length; i++) {
+        const sitemapUrl = sitemapUrls[i];
+        const sitemapIdx = i;
+
+        const p = (async () => {
+          await sem.acquire();
+          logInfo(`${timestamp()}   [${sitemapIdx + 1}/${sitemapUrls.length}] Fetching: ${sitemapUrl}`);
+          let result;
+          const fetchStart = Date.now();
+          try {
+            result = await fetchSitemapResult(sitemapUrl, { knownEclis });
+          } finally {
+            sem.release();
+          }
+          const fetchMs = Date.now() - fetchStart;
+
+          await serialQ.enqueue(() => {
+            const count = { skippedCourt, savedJudgements, errorCount };
+            // markProcessed: false — don't update settings.json during redo
+            commitSitemapResult(result, sitemapUrl, settings, count, { markProcessed: false, log: logEnabled });
+            skippedCourt = count.skippedCourt;
+            savedJudgements = count.savedJudgements;
+            errorCount = count.errorCount;
+            progress.currentIndexDone++;
+            progress.recordSitemapTime(fetchMs);
+          });
+        })();
+
+        sitemapPromises.push(p);
+      }
+
+      await Promise.all(sitemapPromises);
+      logSuccess(`✔ Completed sitemap index: ${dateStr}`);
+      progress.endIndex();
+    }
+
+    progress.finish();
+    console.log(chalk.bold.cyan('\n╔══════════════════════════════════════════╗'));
+    console.log(chalk.bold.cyan('║          REDO CRAWL COMPLETE             ║'));
+    console.log(chalk.bold.cyan('╚══════════════════════════════════════════╝'));
+    logSuccess(`  Judgements saved:   ${savedJudgements}`);
+    logInfo(`  Non-CASS skipped:   ${skippedCourt}`);
+    if (errorCount > 0) logError(`  Errors:             ${errorCount}`);
+    logInfo('');
+    const summaryLine = savedJudgements === 0
+      ? 'Nothing new found.'
+      : `Redo: ${savedJudgements} judgement(s) saved${errorCount > 0 ? `, ${errorCount} error(s)` : ''}.`;
+    console.log(`SUMMARY: ${summaryLine}`);
+    progress.showQuitPrompt();
+    if (process.stdin && process.stdin.isTTY) {
+      await new Promise(() => {});
+    } else {
+      flushAll();
+    }
+    return;
+  }
 
   // Step 1: Fetch all sitemap index URLs from robots.txt
   let sitemapIndexUrls;

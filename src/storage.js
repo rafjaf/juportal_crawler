@@ -75,6 +75,32 @@ export function ensureDataDir() {
   }
 }
 
+/**
+ * Scan all data/*.json files and collect every ECLI key that appears in them.
+ * Returns a Set<string> of known ECLI identifiers.
+ * Used by --redo to skip judgements that already have data saved.
+ */
+export function buildProcessedEcliSet() {
+  const ecliSet = new Set();
+  if (!fs.existsSync(DATA_DIR)) return ecliSet;
+  const files = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
+  for (const file of files) {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), 'utf-8'));
+      for (const article of Object.values(data)) {
+        if (article && typeof article === 'object') {
+          for (const ecli of Object.keys(article)) {
+            ecliSet.add(ecli);
+          }
+        }
+      }
+    } catch {
+      // Silently skip unreadable files
+    }
+  }
+  return ecliSet;
+}
+
 export function loadDataFile(filename) {
   const filePath = path.join(DATA_DIR, filename);
   try {

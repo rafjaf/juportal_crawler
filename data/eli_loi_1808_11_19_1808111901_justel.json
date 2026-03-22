@@ -14562,6 +14562,20 @@
       "abstractNL": [
         "De procureur des Konings oefent het ambt van openbaar ministerie uit bij zowel de rechtbank van eerste aanleg als bij de politierechtbanken van het gerechtelijk arrondissement; wanneer hoger beroep werd ingesteld in de vormen en binnen de termijn die bij artikel 203, § 1, Wetboek van Strafvordering zijn bepaald, dient het hoger beroep van de procureur des Konings tegen een vonnis van de politierechtbank, niet aan de beklaagde te worden betekend."
       ]
+    },
+    "ECLI:BE:CASS:1984:ARR.19840328.10": {
+      "court": "CASS",
+      "date": "1984-03-28",
+      "roleNumber": "3387",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/03/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable l'appel du procureur du Roi contre un jugement du tribunal de police, par application de l'article 205 du Code d'instruction criminelle, lorsque l'exploit de signification de l'appel au prévenu ne porte pas l'indication de la date à laquelle ladite signification a été faite."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het, met toepassing van art. 205 Sv., ingestelde hoger beroep van de procureur des Konings tegen een vonnis van de politierechtbank, wanneer het exploot van betekening van het hoger beroep aan de beklaagde de datum niet vermeldt waarop die betekening is gedaan."
+      ]
     }
   },
   "206": {

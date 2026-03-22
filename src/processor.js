@@ -22,7 +22,7 @@ import { appendParseError, appendLogEntry } from './storage.js';
  *
  * Multiple calls can run concurrently — there is no shared mutable state here.
  */
-export async function fetchSitemapResult(sitemapUrl) {
+export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {}) {
   // ── 1. Parse the sitemap XML (one network round-trip) ─────────────────────
   const allUnextractable = [];
   let judgement;
@@ -43,6 +43,12 @@ export async function fetchSitemapResult(sitemapUrl) {
       ? `court: ${judgement.court}, not CASS`
       : `ECLI: ${judgement.ecli}, not ARR`;
     logInfo(chalk.gray(`${timestamp()}     Skipped (${reason})`));
+    return { type: 'skip', judgement };
+  }
+
+  // ── --redo: skip if ECLI already has data saved ───────────────────────────
+  if (knownEclis && judgement.ecli && knownEclis.has(judgement.ecli)) {
+    logInfo(chalk.gray(`${timestamp()}     Skipped (already has data): ${judgement.ecli}`));
     return { type: 'skip', judgement };
   }
 
@@ -276,8 +282,8 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
  * Updates counters in-place. Returns true on success, false on error.
  * When markProcessed is true the URL is added to settings.processedSitemaps.
  */
-export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true, log = false } = {}) {
-  const result = await fetchSitemapResult(sitemapUrl);
+export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { markProcessed = true, log = false, knownEclis = null } = {}) {
+  const result = await fetchSitemapResult(sitemapUrl, { knownEclis });
   return commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed, log });
 }
 
