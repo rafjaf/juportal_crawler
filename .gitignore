@@ -1,6 +1,7 @@
 .playwright-mcp/
 data.old/
 node_modules/
+related/
 .DS_Store
 scheduled_run.log
 scheduled_run.sh

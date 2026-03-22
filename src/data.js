@@ -74,13 +74,34 @@ export function storeJudgementData(judgement, abstractToBasesMap, sitemapUrl) {
 
 export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) {
   let recorded = 0;
-  let resolved = 0;
+  let resolvedSplitTexts = 0;
+  let resolvedMissingEli = 0;
 
   for (const entry of abstractToBasesMap) {
     if (!entry.missingEliBases || entry.missingEliBases.length === 0) continue;
 
     for (const missing of entry.missingEliBases) {
-      // If missing_eli.json already has a resolved ELI for this key, use it
+      // ── 1. Try split_texts.json first ──────────────────────────────────────
+      // Many split codes (ancien Code civil, Gerechtelijk Wetboek, …) have
+      // their ELIs broken down by article range; resolve directly when possible.
+      if (missing.article && missing.article !== 'general') {
+        const splitText = findSplitText(missing.rawLegalBasisText || '');
+        if (splitText) {
+          const resolvedEli = findEliForArticle(splitText, missing.article);
+          if (resolvedEli) {
+            logInfo(chalk.gray(`${timestamp()}       Resolved from split_texts | article="${missing.article}" | eli=${resolvedEli}`));
+            storeJudgementData(judgement, [{
+              abstractFR: entry.abstractFR || null,
+              abstractNL: entry.abstractNL || null,
+              legalBases: [{ article: missing.article, eli: resolvedEli }],
+            }], sitemapUrl);
+            resolvedSplitTexts++;
+            continue;
+          }
+        }
+      }
+
+      // ── 2. If missing_eli.json already has a resolved ELI for this key, use it
       // directly instead of re-recording the element as missing.
       const knownEntry = loadMissingEliFile()[missing.rawLegalBasisText];
       if (knownEntry && knownEntry.eli) {
@@ -94,7 +115,7 @@ export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) 
             abstractNL: entry.abstractNL || null,
             legalBases: [{ article, eli: normalizedEli }],
           }], sitemapUrl);
-          resolved++;
+          resolvedMissingEli++;
           continue;
         }
       }
@@ -115,8 +136,11 @@ export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) 
     }
   }
 
-  if (resolved > 0) {
-    logSuccess(`✔ Resolved ${resolved} previously-missing ELI(s) from missing_eli.json`);
+  if (resolvedSplitTexts > 0) {
+    logSuccess(`✔ Resolved ${resolvedSplitTexts} missing ELI(s) via split_texts.json`);
+  }
+  if (resolvedMissingEli > 0) {
+    logSuccess(`✔ Resolved ${resolvedMissingEli} previously-missing ELI(s) from missing_eli.json`);
   }
   if (recorded > 0) {
     logWarn(`⚠ Recorded ${recorded} legal basis element(s) without ELI into missing_eli.json`);

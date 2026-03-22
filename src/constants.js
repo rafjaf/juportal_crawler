@@ -88,6 +88,25 @@ export const RE_LEGAL_PRINCIPLE =
   /^(Principe général du droit|(?:\w+\s+)?\w*beginsel)\b/i;
 
 /**
+ * Matches a publication journal cross-reference whose "article" column is
+ * empty: "JOURNAL NAME - - YEAR(pages)".  The double dash pattern " - - " is
+ * a reliable indicator that this is a journal citation, not a legal basis.
+ * e.g. "ARRESTEN VAN HET HOF VAN CASSATIE - - 1972(P.31-43)"
+ *      "PASICRISIE BELGE - - 1972(I,P.28-38)"
+ */
+export const RE_PUBLICATION_REF = /\s-\s-\s/;
+
+/**
+ * Matches an old-style legal-basis reference used in older Belgian judgements:
+ *   "Law Name - ArticleNumber"
+ * No DD-MM-YYYY date, no "Art." prefix — just a bare (possibly multi-part)
+ * integer article number at the end.
+ * e.g. "ancien Code Civil - 544", "oud Burgerlijk Wetboek - 1382"
+ * Capture group 1: the article number(s).
+ */
+export const RE_OLD_STYLE_ART_REF = /^.+\s*-\s*(\d+\w*(?:\s*,\s*\d+\w*)*)\s*$/
+
+/**
  * Map Dutch document type names in Belgian ELI paths to their French equivalents.
  * Used to canonicalize all ELI references to the French form.
  */

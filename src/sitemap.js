@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import xml2js from 'xml2js';
-import { ROBOTS_TXT_URL, RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_ART_REF_NO_DATE, RE_REF_NO_ART, RE_LEGAL_PRINCIPLE } from './constants.js';
+import { ROBOTS_TXT_URL, RE_ART_REF_WITH_COUNTER, RE_ART_REF_NO_COUNTER, RE_ART_REF_NO_DATE, RE_REF_NO_ART, RE_LEGAL_PRINCIPLE, RE_PUBLICATION_REF, RE_OLD_STYLE_ART_REF } from './constants.js';
 import { logInfo, logWarn, logSuccess, timestamp } from './logger.js';
 import { fetchWithRetry } from './fetch.js';
 import {
@@ -323,6 +323,28 @@ export async function parseSitemapXml(sitemapUrl) {
           }
           currentArticles.push({ article, eli: null, lang: lang || 'fr', rawText: text });
           allBasisTexts.push({ article, rawText: text, lang: lang || 'fr' });
+          continue;
+        }
+
+        // Skip publication journal cross-references (e.g. "ARRESTEN VAN HET HOF VAN CASSATIE - - 1972(P.31-43)").
+        // These are not legal bases — the double dash marks an empty article column.
+        if (RE_PUBLICATION_REF.test(text)) {
+          logInfo(chalk.gray(`${timestamp()}       Publication ref skipped (XML) | raw="${text}"`));
+          continue;
+        }
+
+        // Old-style legal basis: "Law Name - ArticleNumber" (no date, no "Art.").
+        // Used in older Belgian judgements, e.g. "ancien Code Civil - 544".
+        // No ELI is available for these, so they go directly to legalBasesWithoutEli.
+        const oldStyleMatch = text.match(RE_OLD_STYLE_ART_REF);
+        if (oldStyleMatch) {
+          const articles = parseArticleNumbers(oldStyleMatch[1].trim(), text);
+          const lawKey = extractLegalBasisKey(text);
+          logInfo(chalk.gray(`${timestamp()}       Old-style legal basis (XML) | raw="${text}" | articles=[${articles.join(', ')}]`));
+          for (const art of articles) {
+            legalBasesWithoutEli.push({ article: art, rawLegalBasisText: lawKey });
+            allBasisTexts.push({ article: art, rawText: text, lang: lang || 'fr' });
+          }
           continue;
         }
       }

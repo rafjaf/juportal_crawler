@@ -50,34 +50,6 @@
       ]
     }
   },
-  "5.68": {
-    "ECLI:BE:CASS:2025:ARR.20250926.1F.3": {
-      "court": "CASS",
-      "date": "2025-09-26",
-      "roleNumber": "C.25.0070.F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3207.xml"
-      ],
-      "abstractFR": [
-        "Lorsque les éléments soumis à son appréciation permettent d'exclure la qualification donnée par les parties à la convention qu'elles ont conclue, le juge du fond peut y substituer une qualification différente (1). (1) Cass. 22 mai 2006, RG S.05.0014.F, Pas. 2006, nr. 284."
-      ],
-      "abstractNL": null
-    }
-  },
-  "5.69": {
-    "ECLI:BE:CASS:2025:ARR.20250926.1F.3": {
-      "court": "CASS",
-      "date": "2025-09-26",
-      "roleNumber": "C.25.0070.F",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3207.xml"
-      ],
-      "abstractFR": [
-        "Lorsque les éléments soumis à son appréciation permettent d'exclure la qualification donnée par les parties à la convention qu'elles ont conclue, le juge du fond peut y substituer une qualification différente (1). (1) Cass. 22 mai 2006, RG S.05.0014.F, Pas. 2006, nr. 284."
-      ],
-      "abstractNL": null
-    }
-  },
   "related": [
     {
       "from": "ancien Code civil",

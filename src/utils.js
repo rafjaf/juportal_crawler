@@ -284,7 +284,8 @@ export function buildBasisTextLookup(entries) {
  *
  *   "Loi - 30-04-1951 - 6,L1"                → article 6
  *   "Loi - 08-08-1997 - 17,L2"               → article 17
- *   "ancien Code Civil - 2279,L1"             → article 2279 (no date)
+ *   "ancien Code Civil - 2279,L1"             → article 2279 (no date, comma-qualified)
+ *   "ancien Code Civil - 544"                 → article 544  (no date, bare number)
  *   "Loi - 12-03-1919 - 1,§XV"               → article 1
  *   "Constitution 1994 - 17-02-1994 - 10-11"  → articles 10, 11 (small range)
  *   "Constitution 1994 - 17-02-1994 - 1-99"   → null (range > MAX_ARTICLE_RANGE)
@@ -300,11 +301,15 @@ export function extractOldStyleArticle(text) {
     return _parseOldStyleRemainder(withDateMatch[1].trim());
   }
 
-  // ── Without date: ... - <number>,<qualifier> ───────────────────────────
+  // ── Without date: ... - <number>[,<qualifier>] or bare number ──────────
   // Only when text contains no date at all (avoids false positives).
   if (!/\d{2}-\d{2}-\d{4}/.test(text)) {
-    const noDateMatch = text.match(/-\s*(\d+)\s*,/);
-    if (noDateMatch) return [noDateMatch[1]];
+    // Comma-qualified: "ancien Code Civil - 2279,L1"
+    const commaMatch = text.match(/-\s*(\d+)\s*,/);
+    if (commaMatch) return [commaMatch[1]];
+    // Bare number at end: "ancien Code Civil - 544"
+    const bareMatch = text.match(/-\s*(\d+\w*)\s*$/);
+    if (bareMatch) return [bareMatch[1]];
   }
 
   return null;
