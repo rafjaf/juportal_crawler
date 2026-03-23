@@ -1400,6 +1400,16 @@
       "abstractNL": [
         "De beslissing van de gemengde raad van beroep van de Orde van geneesheren, rechtdoende over een vervolging tegen een geneesheer wegens verscheidene overtredingen van de regels betreffende de beroepsplichtenleer zonder uitspraak te doen over een bevoegdheidsgeschil, dat de zaak wordt gesplitst ten aanzien van een van deze overtredingen, omdat zij aanleiding geeft tot een aanvullend onderzoek, is geen eindbeslissing in de zin van artikel 23, lid 2, van het koninklijk besluit nr. 79 van 10 november 1967 betreffende de Orde der geneesheren zodat er niet dadelijk een cassatieberoep kan worden tegen ingesteld."
       ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19800613.8": {
+      "court": "CASS",
+      "date": "1980-06-13",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/06/13/sitemap_7.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": null
     }
   },
   "24": {
@@ -3103,6 +3113,22 @@
       ],
       "abstractNL": [
         "De geneesheren met vergunning om een geneesmiddelendepot te hebben zijn niet verplicht artsenijspecialiteiten te kopen bij een apotheker van het arrondissement waarin zij hun beroep uitoefenen, daar artikel 9ter, in de wet betreffende de medisch-farmaceutische cumulatie, ingelast bij artikel 48, alinéa 1, van het koninklijk besluit nr. 78 van 10 november 1967, alleen van toepassing is op de artsenijbereidingen en niet op de artsenijspecialiteiten."
+      ]
+    }
+  },
+  "4BIS": {
+    "ECLI:BE:CASS:1993:ARR.19930122.9": {
+      "court": "CASS",
+      "date": "1993-01-22",
+      "roleNumber": "7984",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/22/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le fait d'être inscrit en même temps sur le tableau de l'Ordre des médecins et sur le tableau de l'Ordre des pharmaciens a pour conséquence qu'un détenteur des diplômes conférant le droit d'exercer les deux professions obtient, en violation de l'article 4bis de l'arrêté royal n° 78 du 10 novembre 1967, le droit d'exercer simultanément les deux professions."
+      ],
+      "abstractNL": [
+        "Het gelijktijdig ingeschreven zijn op de lijst van de Orde van Geneesheren en van de Orde van Apothekers leidt ertoe dat een houder van de diploma's die het recht verlenen de beide beroepen uit te oefenen, in strijd met art. 4bis Geneeskundewet het recht verkrijgt om de twee beroepen gelijktijdig uit te oefenen."
       ]
     }
   }

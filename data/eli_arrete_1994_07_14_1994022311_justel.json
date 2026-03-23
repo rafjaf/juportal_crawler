@@ -92,5 +92,21 @@
         "De verzekeringsinstelling die prestaties heeft verleend aan de persoon die schade heeft geleden waarvoor een derde ten dele aansprakelijk is, treedt in de plaats van de rechthebbende tot beloop van het geheel van de sommen die krachtens het gemeen recht aan de getroffene verschuldigd zijn ter vergoeding van dezelfde schade, ongeacht de mate waarin de getroffene aansprakelijk is verklaard."
       ]
     }
+  },
+  "": {
+    "ECLI:BE:CASS:2002:ARR.20020909.10": {
+      "court": "CASS",
+      "date": "2002-09-09",
+      "roleNumber": "S010034F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/09/09/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "En cas d'erreur ou de fraude, le paiement effectui par l'organisme assureur ouvre, par lui-mjme, le droit au remboursement des prestations; dhs lors, lorsque l'erreur ou la fraude concerne la cessation effective des tbches affirentes « l'activiti que le travailleur indipendant assumait avant le dibut de son incapaciti de travail, le droit de ricupirer l'indu n'est pas subordonni « la condition qu'une dicision rectifiant, retirant ou annulant celle ayant reconnu l'itat d'incapaciti ait iti prise (1)."
+      ],
+      "abstractNL": [
+        "In geval van vergissing of bedrog doet de door de verzekeringsinstelling gedane betaling op zich het recht op terugbetaling van de prestaties ontstaan; wanneer de vergissing of het bedrog betrekking heeft op de werkelijke stopzetting van de taken die verband houden met de beroepsbezigheden van de zelfstandige voor de aanvang van zijn arbeidsongeschiktheid, is het recht om het onverschuldigd betaalde terug te vorderen niet onderworpen aan de voorwaarde dat een beslissing is getroffen tot verbetering, intrekking of nietigverklaring van de beslissing waarbij de staat van arbeidsongeschiktheid is erkend (1)."
+      ]
+    }
   }
 }

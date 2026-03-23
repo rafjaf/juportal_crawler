@@ -647,5 +647,37 @@
         "Uit de omstandigheid dat artikel 42bis, eerste lid, van de samengeordende wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders de artikelen 10 en 11 van de Grondwet schendt doordat het kinderen die zich in dezelfde situatie als de begunstigden bevinden uitsluit van het voordeel dat het verleent, kan niet worden afgeleid dat het artikel een leemte vertoont die moet verholpen worden om de ongrondwettelijkheid ervan op te heffen (1). (1) Zie de concl. van het openbaar ministerie onder Cass. 5 maart 2012, AR S.11.0057.F, Pas. 2012, nr. ..."
       ]
     }
+  },
+  "01": {
+    "ECLI:BE:CASS:1979:ARR.19790917.3": {
+      "court": "CASS",
+      "date": "1979-09-17",
+      "roleNumber": "2179",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La Cour rejette le pourvoi en cassation dirigé contre un arrêt (Cour du travail de Gand, Section Bruges, 10 mars 1977) lequel, après avoir établi que la partie défenderesse formait avec un certain M., de janvier 1967 à décembre 1973, un ménage, au sens de l'article 56 bis alinéa 2 des lois coordonnées par l'A.R. du 19 décembre 1939 relatives aux allocations familiales pour travailleurs salariés et qu'elle avait sur ce point fait des déclarations inexactes, décide que la preuve n'a pas été apportée que la défenderesse se soit rendue coupable de manoeuvres frauduleuses ou aurait déposé des déclarations fausses ou sciemment incomplètes, entraînant la non-application de la prescription telle que prévue par l'article 120 bis, ce en raison du fait que l'affirmation de la partie défenderesse paraissait digne de foi lorsqu'elle invoqua qu'elle ne savait ni lire ni écrire. \"Attendu que ledit article 120 bis, dernier alinéa, exclut la prescription dont il y est question, lorsque les prestations payées indûment ont été obtenues à la suite de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes\"; \"Attendu qu'il ressort du contexte et de sa place dans cette disposition, que l'expression \"déclarations fausses\" est utilisée dans le sens de déclarations qui sont sciemment contraires à la vérité; Attendu que la Cour du travail, après avoir constaté que la partie défenderesse, qui ne sait ni lire ni écrire, a déposé des déclarations inexactes, décide qu'il n'a pas été demontré que la défenderesse se soit rendue coupable de manoeuvres frauduleuses ou ait remis des déclarations fausses au sens dudit article 120 bis, et que l'application de l'article relatif à la prescription ne peut être exclue\"."
+      ],
+      "abstractNL": [
+        "Het Hof verwerpt het cassatieberoep tegen een arrest (Arbeidshof Gent, afdeling Brugge, 10 maart 1977) dat, na te hebben aangenomen dat verweerster van januari 1967 tot december 1973 met een zekere M. een gezin vormde, zoals bedoeld in art. 56bis, alinéa 2, van de bij K.B. van 19 december 1939 gecoordineerde wetten betreffende de kinderbijslag voor loonarbeiders, en dat zij dienaangaande onjuiste verklaringen had afgelegd, beslist dat het bewijs niet is aangebracht dat door verweerster bedrieglijke handelingen werden verricht of valse of opzettelijk onvolledige verklaringen werden afgelegd die tot gevolg zouden hebben de toepassing uit te sluiten van de verjaring bepaald door art. 120bis, op grond dat de bewering van verweerster als geloofwaardig voorkwam toen zij opwierp dat zij lezen noch schrijven kon. \"Overwegende dat voormeld artikel 120bis, laatste lid, de daarbij ingestelde verjaring uitsluit, 'indien de ten onrechte uitbetaalde uitkeringen werden bekomen door bedrieglijke handelingen of door valse of opzettelijk onvolledige verklaringen'; Overwegende dat uit de context en haar plaats in deze bepaling blijkt dat de uitdrukking 'valse verklaringen' wordt gebruikt in de betekenis van verklaringen die opzettelijk in strijd zijn met de waarheid; Overwegende dat het arbeidshof derhalve, na te hebben geconstateerd dat verweerster die lezen noch schrijven kan, onjuiste verklaringen heeft afgelegd, wettelijk beslist dat het bewijs niet is geleverd dat verweerster bedrieglijke handelingen heeft verricht of valse of opzettelijk onvolledige verklaringen heeft afgelegd, in de zin van genoemd artikel 120bis, en dat de toepassing van de in dit artikel bepaalde verjaring niet kan worden uitgesloten.\""
+      ]
+    }
+  },
+  "120BIS": {
+    "ECLI:BE:CASS:1979:ARR.19790917.1": {
+      "court": "CASS",
+      "date": "1979-09-17",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Aux termes de l'article 120bis des lois coordonnées relatives aux allocations familiales pour travailleurs salariés, la prescription par cinq ans de l'action en répétition des prestations payées indûment n'est pas applicable si ces prestations ont été obtenues à la suite de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes; constituent des déclarations fausses les déclarations sciemment contraires à la vérité."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 120 bis van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, luidens hetwelk de verjaringstermijn van vijf jaar voor de terugvordering van ten onrechte ontvangen uitkeringen niet toepasselijk is wanneer deze uitkeringen bekomen werden door bedrieglijke handelingen of door valse of opzettelijk onvolledige verklaringen, zijn valse verklaringen opzettelijk onjuiste verklaringen."
+      ]
+    }
   }
 }

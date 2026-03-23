@@ -31,6 +31,20 @@
       ]
     }
   },
+  "30": {
+    "ECLI:BE:CASS:1979:ARR.19790906.5": {
+      "court": "CASS",
+      "date": "1979-09-06",
+      "roleNumber": "6515",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/09/06/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 23 du règlement général sur les frais de justice en matière répressive annexé à l'arrêté royal du 28 décembre 1950 est seul applicable pour le calcul des frais de transport des huissiers de justice en matière répressive. L'article 520 du Code judiciaire vise les frais de transport des huissiers de justice. Conformément à la règle prescrite par l'article 2 du même code, les dispositions légales non expressément abrogées par ce code comme l'article 23 précité restent d'application pour les matières qu'elles envisagent."
+      ],
+      "abstractNL": null
+    }
+  },
   "43": {
     "ECLI:BE:CASS:1985:ARR.19850321.15": {
       "court": "CASS",

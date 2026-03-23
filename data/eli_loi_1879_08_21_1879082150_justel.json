@@ -47,6 +47,22 @@
       ]
     }
   },
+  "30": {
+    "ECLI:BE:CASS:1983:ARR.19830926.5": {
+      "court": "CASS",
+      "date": "1983-09-26",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/09/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Pour satisfaire aux exigences de l'article 91, alinéa 3, 1° de la loi maritime, il suffit que le capitaine ait pris les précautions d'usage, ce qui est le cas si le capitaine s'est fondé sur un certificat d'inspection, si les résidus d'un chargement antérieur sont minimes et si le danger de contamination ne fut pas expressément signalé au transporteur."
+      ],
+      "abstractNL": [
+        "Ter voldoening aan artikel 91A, alinéa 3, 1e, van de Zeewet volstaat het dat de zeevervoerder de \" gebruikelijke voorzorgen \" heeft genomen, te weten dat hij steunde op een inspectiecertificaat en uit het gerechtelijk expertiseverslag gebleken is dat de overblijfselen van een vorige lading gering waren, terwijl de zeevervoerder door de inlader niet uitdrukkelijk gewezen werd op het gevaar voor bezoedeling."
+      ]
+    }
+  },
   "46": {
     "ECLI:BE:CASS:2007:ARR.20070921.2": {
       "court": "CASS",

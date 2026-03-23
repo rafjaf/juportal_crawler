@@ -1977,5 +1977,37 @@
         "Wanneer in naam van de vennootschap een vennootschapsvordering tegen een bestuurder voor de rechtbank wordt gebracht, en ook al wordt die vennootschap vertegenwoordigd door een orgaan dat daartoe de bevoegdheid heeft, kan de bestuurder de afwijzing van die vordering vragen indien geen beslissing van de algemene vergadering voorligt (1). (1) K. Geens, M. Denef, F. Hellemans, R. Tas en J. Vananroye, \"Overzicht van rechtspraak Vennootschappen 1992-1998\", T.P.R., 2000, (99) 305; B. Tilleman, Bestuur van vennootschappen, Biblo 1996, 561 nr 983; B. Van Bruystegem, \"Over de bekrachtiging van een actio madati\", noot onder Kh. Hasselt, 8 en 27 maart 2000, T.R.V., 2000 (188) 189. Het arrest wijst nog erop dat de vraag of, na de faillietverklaring van de vennootschap, de curator een voordien onterecht gestelde rechtshandeling kan bekrachtigen, niet aan de orde was."
       ]
     }
+  },
+  "63TER": {
+    "ECLI:BE:CASS:1994:ARR.19940519.20": {
+      "court": "CASS",
+      "date": "1994-05-19",
+      "roleNumber": "C930296F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/05/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge saisi d'une demande tendant à faire déclarer un administrateur d'une société faillie personnellement obligé des dettes sociales, sur la base d'une faute grave et caractérisée, n'est pas nécessairement lié par l'autorité de chose jugée d'un jugement prononçant une interdiction professionnelle temporaire à charge de cet administrateur. (L. coord. sur les sociétés commerciales, art. 63ter; A.R. n° 22 du 24 octobre 1934, art. 3bis, alinéa 3)."
+      ],
+      "abstractNL": [
+        "De rechter bij wie een vordering aanhangig is om een bestuurder van een failliete vennootschap, op basis van een kennelijk grove fout, persoonlijk de schulden van de vennootschap te doen betalen, is niet noodzakelijk gebonden door het gezag van gewijsde van een vonnis waarbij aan die bestuurder voorlopig verbod wordt opgelegd een beroep uit te oefenen. (Art. 63ter, Vennootschappenwet; art. 3bis, alinéa 3, K.B. nr. 22 van 24 okt. 1934)"
+      ]
+    }
+  },
+  "63BIS": {
+    "ECLI:BE:CASS:1987:ARR.19871112.22": {
+      "court": "CASS",
+      "date": "1987-11-12",
+      "roleNumber": "7720",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1987/11/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque l'acte accompli par les organes d'une société anonyme est étranger à l'objet social de cette société ou excède celui-ci, les limites statutaires des pouvoirs des organes ayant qualité pour représenter la société n'ont, en principe, qu'un effet purement interne et ne peuvent, dès lors, être invoquées par les tiers. ( Lois coordonnées sur les sociétés commerciales, art. 63bis. )"
+      ],
+      "abstractNL": [
+        "Wanneer een handeling van een orgaan van een naamloze vennootschap geen betrekking heeft op het doel van die vennootschap of buiten haar doel ligt, geldt de statutaire beperking van de bevoegdheid der organen die de vennootschap kunnen vertegenwoordigen in beginsel enkel en alleen binnen de vennootschap en kan zij dus niet door derden worden aangevoerd. ( Art. 63bis Vennootschappenwet, gecoördineerde wetten van 30 november 1935. )"
+      ]
+    }
   }
 }

@@ -290,5 +290,21 @@
         "Van de verplichting tot inschrijving in België zijn alleen die voertuigen vrijgesteld welke tijdelijk in België worden ingevoerd door niet in het land verblijvende personen en die voorzien zijn van een inschrijvingsteken dat werd uitgereikt door de autoriteiten van een bij art. 3, alinéa 1, tweede lid, K.B. 31 december 1953 aangewezen ander land dan België, alsmede van het daarmee overeenkomend kenteken. ( Art. 3, alinéa 1, eerste en tweede lid, K.B. 31 december 1953 houdende regeling nopens de inschrijving van voertuigen met eigen beweegkracht. )"
       ]
     }
+  },
+  "25bis": {
+    "ECLI:BE:CASS:1995:ARR.19951106.2": {
+      "court": "CASS",
+      "date": "1995-11-06",
+      "roleNumber": "C950041N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/06/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "L'assureur qui revêt une demande d'immatriculation d'un véhicule automoteur de son sceau et de sa signature et qui envoie cette demande à la direction pour l'immatriculation des véhicules, contracte envers les tiers l'obligation de couvrir la responsabilité civile à laquelle ce véhicule peut donner lieu à partir de la date à laquelle il envoie la demande à ladite direction (1), nonobstant le fait que l'assureur et l'assuré ont convenu ensemble que le contrat d'assurance entrerait en vigueur à une date ultérieure (2)."
+      ],
+      "abstractNL": [
+        "De verzekeraar die op een aanvraag om inschrijving van een motorvoertuig zijn zegel en handtekening aanbrengt en die aanvraag naar de Dienst voor de Inschrijving van de voertuigen zendt, gaat tegenover derden de verbintenis aan de burgerrechtelijke aansprakelijkheid waartoe het betreffende voertuig aanleiding kan geven te dekken vanaf de datum waarop hij die aanvraag naar voornoemde dienst verzendt, ongeacht het feit dat de verzekeraar en de verzekerde onderling overeenkomen dat de verzekeringsovereenkomst op een latere datum uitwerking zal hebben."
+      ]
+    }
   }
 }

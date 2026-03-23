@@ -119,6 +119,20 @@
         "Il ne résulte pas des articles 19, § 5, de la loi du 20 juillet 1990 relative à la détention préventive et 611 du Code d'instruction criminelle qu'un mandat d'arrêt doive être tenu pour nul du seul fait que l'inculpé, conduit dans la maison d'arrêt indiquée par le mandat, a été transféré ensuite par l'administration pénitentiaire dans un établissement situé dans un autre arrondissement."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1994:ARR.19940322.20": {
+      "court": "CASS",
+      "date": "1994-03-22",
+      "roleNumber": "P940202N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/03/22/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Aucune disposition légale ne confère au juge d'instruction un pouvoir général d'appréciation de la légalité des décisions des juridictions d'instruction en matière de détention préventive."
+      ],
+      "abstractNL": [
+        "Geen wetsbepaling kent de onderzoeksrechter een algemeen beoordelingsrecht toe over de wettigheid van de beslissingen van de onderzoeksgerechten inzake voorlopige hechtenis."
+      ]
     }
   },
   "619": {
@@ -180,6 +194,76 @@
         "Les juges d'appel qui ont fondé la fixation de la peine infligée sur une condamnation effacée n'ont pas justifié légalement leur décision."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1994:ARR.19941122.19": {
+      "court": "CASS",
+      "date": "1994-11-22",
+      "roleNumber": "P940017N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour retenir la circonstance de récidive et déterminer le taux de la peine, tenir compte d'une condamnation antérieure qui est effacée."
+      ],
+      "abstractNL": [
+        "De rechter mag, om het bestaan van herhaling aan te nemen en de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling die uitgewist is. (Artt. 195, 619, 620 en 634 Sv.)."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19940928.6": {
+      "court": "CASS",
+      "date": "1994-09-28",
+      "roleNumber": "P9402032F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/09/28/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour déterminer la peine, tenir compte d'une condamnation antérieure qui est effacée en vertu de l'art. 619 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "De rechter mag, om de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling, die uitgewist is krachtens art. 619 Sv."
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19921117.16": {
+      "court": "CASS",
+      "date": "1992-11-17",
+      "roleNumber": "5654",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/11/17/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut tenir compte de condamnations effacées. ( Code d'instruction criminelle, art. 619. )"
+      ],
+      "abstractNL": [
+        "De strafrechter mag geen rekening houden met uitgewiste veroordelingen. ( Art. 619 Wetboek van Strafvordering. )"
+      ]
+    },
+    "ECLI:BE:CASS:1992:ARR.19920331.7": {
+      "court": "CASS",
+      "date": "1992-03-31",
+      "roleNumber": "6193",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/31/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour retenir la circonstance de récidive et déterminer le taux de la peine, tenir compte d'une condamnation antérieure qui est effacée en vertu de l'article 619 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "De rechter mag, om het bestaan van herhaling aan te nemen en de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling die uitgewist is krachtens art. 619 Wetboek van Strafvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19911113.8": {
+      "court": "CASS",
+      "date": "1991-11-13",
+      "roleNumber": "9141",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/11/13/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour retenir la circonstance de récidive et déterminer le taux de la peine, tenir compte d'une condamnation antérieure qui est effacée en vertu de l'article 619 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "De rechter mag, om het bestaan van herhaling aan te nemen en de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling die uitgewist is krachtens art. 619 Wetboek van Strafvordering."
+      ]
     }
   },
   "620": {
@@ -194,6 +278,34 @@
         "Les juges d'appel qui ont fondé la fixation de la peine infligée sur une condamnation effacée n'ont pas justifié légalement leur décision."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1999:ARR.19990623.10": {
+      "court": "CASS",
+      "date": "1999-06-23",
+      "roleNumber": "P990020F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/06/23/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Viole les articles 619 et 620 du code d'instruction criminelle et ne motive pas légalement sa décision, le jugement qui fait référence à une condamnation effacée pour justifier la condamnation du prévenu."
+      ],
+      "abstractNL": [
+        "Het vonnis dat naar een uitgewiste veroordeling verwijst om de veroordeling van de beklaagde te verantwoorden, schendt de art. 619 en 620 Sv. en verantwoordt zijn beslissing niet naar recht."
+      ]
+    },
+    "ECLI:BE:CASS:1994:ARR.19941122.19": {
+      "court": "CASS",
+      "date": "1994-11-22",
+      "roleNumber": "P940017N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour retenir la circonstance de récidive et déterminer le taux de la peine, tenir compte d'une condamnation antérieure qui est effacée."
+      ],
+      "abstractNL": [
+        "De rechter mag, om het bestaan van herhaling aan te nemen en de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling die uitgewist is. (Artt. 195, 619, 620 en 634 Sv.)."
+      ]
     }
   },
   "621": {
@@ -297,6 +409,34 @@
       ],
       "abstractNL": [
         "Uit de wetgeschiedenis blijkt dat het, met de invoering bij wet van 7 april 1964 van de laatste zin van artikel 622 Wetboek van Strafvordering luidens dewelke de veroordeelde, indien de straf is verjaard, alleen in eer en rechten hersteld kan worden wanneer de niet-uitvoering niet aan hem te wijten is, de uitdrukkelijke wil van de wetgever was om de bestaande mogelijkheden van herstel in eer en rechten uit te breiden tot de gevallen waar de strafuitvoering verjaard is door het eenvoudig verloop van de verjaringstermijn, zonder dat de veroordeelde zich hieraan heeft onttrokken, maar slechts een afwachtende houding had aangenomen."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880622.7": {
+      "court": "CASS",
+      "date": "1988-06-22",
+      "roleNumber": "6730",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/22/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Justifie légalement sa décision de rejeter une demande en réhabilitation l'arrêt de la chambre des mises en accusation qui relève que la prescription de la peine d'amende était acquise avant le paiement effectué par le requérant en réhabilitation, que ce paiement n'avait aucune incidence sur la prescription et qu'il ne ressortait d'aucun élément de la cause que le défaut d'exécution de ladite peine n'était pas imputable au requérant, de sorte qu'il n'avait pas été satisfait aux conditions légales en la matière, notamment à l'article 622 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "Naar recht verantwoord is de verwerping van de aanvraag tot herstel in eer en rechten, wanneer het arrest van de kamer van inbeschuldigingstelling erop wijst dat de geldboete verjaard was vóór de door de verzoeker verrichte betaling, dat die betaling geen enkele invloed had op de verjaring en uit geen enkel gegeven van de zaak bleek dat de niet-uitvoering van die straf niet aan een fout van verzoeker te wijten was, zodat niet was voldaan aan de wettelijke vereisten terzake, meer bepaald aan art. 622 Wetboek van Strafvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880622.12": {
+      "court": "CASS",
+      "date": "1988-06-22",
+      "roleNumber": "6731",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/22/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le moyen proposé à l'appui du pourvoi formé par le requérant en réhabilitation contre l'arrêt de la chambre des mises en accusation qui rejette sa demande lorsque les griefs invoqués, concernant uniquement les peines d'emprisonnement principal et non les peines d'amende auxquelles le requérant avait été condamné, sont sans incidence sur la légalité de l'arrêt attaqué."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het middel dat door de verzoeker tot herstel in eer en rechten wordt aangevoerd tot staving van het cassatieberoep tegen het arrest van de kamer van inbeschuldigingstelling dat zijn aanvraag verwerpt, wanneer de aangevoerde grieven die enkel betrekking hebben op de hoofdgevangenisstraffen en niet op de geldboeten waartoe verzoeker was veroordeeld geen invloed hebben op de wettigheid van het bestreden arrest."
       ]
     }
   },
@@ -493,6 +633,20 @@
       "abstractNL": [
         "De kamer van inbeschuldigingstelling die beslist over een verzoek tot herstel in eer en rechten oordeelt op onaantastbare wijze over de moeite, door de veroordeelde gedaan om de uit de misdrijven voortvloeiende schade die niet gerechtelijk mocht zijn vastgesteld, te herstellen (1). (1) Zie Cass., 28 feb. 1978, A.C., 1977-78, 763 betreffende de onaantastbare beoordeling door de kamer van inbeschuldigingstelling van de door de veroordeelde tijdens de proeftijd gegeven blijk van verbetering en goed gedrag."
       ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780228.6": {
+      "court": "CASS",
+      "date": "1978-02-28",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/02/28/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation, statuant sur une demande de réhabilitation, apprécie souverainement si le condamné a ou n'a pas fait preuve d'amendement et de bonne conduite pendant le temps d'épreuve (1). (Code d'instr. crim., art. 624, modifié par l'article 7 de la loi du 7 avril 1964.)"
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling die beslist over een verzoek tot herstel in eer en rechten, oordeelt op onaantastbare wijze of de veroordeelde tijdens de proeftijd blijkt heeft gegeven van verbetering en van goed gedrag is geweest (1). ( Art. 624 Sv., gewijzigd bij art. 7 wet van 7 april 1964 )."
+      ]
     }
   },
   "625": {
@@ -679,6 +833,46 @@
       "abstractNL": [
         "Buiten het geval waarin de procureur-generaal bij het hof van beroep oordeelt dat de verschijning van de verzoeker tot herstel in eer en rechten niet onontbeerlijk is en de aanvraag moet worden ingewilligd, moet de verzoeker op elke rechtszitting van de kamer van inbeschuldigingstelling in persoon verschijnen, behalve op die waarop het arrest wordt uitgesproken; indien hij niet verschijnt zonder een wettige reden van verschoning aan te voeren, wordt zijn aanvraag afgewezen; indien hij aanwezig is, moet hij worden gehoord (1). (1) Zie Cass., 19 jan. 1986, AR 4561, A.C., 1985-1986, nr. 337."
       ]
+    },
+    "ECLI:BE:CASS:1988:ARR.19880622.7": {
+      "court": "CASS",
+      "date": "1988-06-22",
+      "roleNumber": "6730",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1988/06/22/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Est nouveau et, partant, irrecevable, le moyen qui est proposé à l'appui du pourvoi formé par le requérant en réhabilitation contre l'arrêt de la chambre des mises en accusation rejetant sa demande et qui soutient qu'il n'a pas été satisfait aux dispositions de l'article 630, alinéas 4 et 5, du Code d'instruction criminelle, lorsqu'il n'apparaît pas des pièces de la procédure que le requérant qui a comparu, assisté de son conseil, à l'audience où la cause a été instruite et la décision prononcée ait invoqué la violation de ces dispositions."
+      ],
+      "abstractNL": [
+        "Nieuw en derhalve niet ontvankelijk is het middel dat door de verzoeker tot herstel in eer en rechten wordt aangevoerd tot staving van zijn voorziening tegen het arrest van de kamer van inbeschuldigingstelling waarbij zijn aanvraag wordt verworpen, en dat betoogt dat niet aan de vereisten van art. 630, vierde en vijfde lid, Wetboek van Strafvordering is voldaan, wanneer uit de gedingstukken niet blijkt dat de verzoeker die, door zijn raadsman bijgestaan, verschenen is op de terechtzitting waarop de zaak is behandeld en de beslissing gewezen, de schending van die bepalingen heeft aangevoerd."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19860129.10": {
+      "court": "CASS",
+      "date": "1986-01-29",
+      "roleNumber": "4561",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/01/29/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "La chambre des mises en accusation ne peut rejeter une requête en réhabilitation qu'après que le dossier a été mis pendant cinq jours au moins à la disposition du requérant et de son conseil et que ceux-ci ont été entendus ( Code d'instruction criminelle, art. 630 )."
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling kan een aanvraag tot herstel in eer en rechten pas verwerpen nadat het dossier gedurende ten minste vijf dagen ter beschikking is gesteld van de verzoeker en zijn raadsman en nadat dezen zijn gehoord ( Art. 630 Wetboek van Strafvordering )."
+      ]
+    },
+    "ECLI:BE:CASS:1965:ARR.19651122.9": {
+      "court": "CASS",
+      "date": "1965-11-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1965/11/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le délai pour se pourvoir en cassation contre un arrêt de la chambre des mises en accusation qui rejette une demande en réhabilitation est de dix jours francs à partir de la prononciation de l'arrêt. (Code d'instr. crim., art. 373 et 630.)"
+      ],
+      "abstractNL": null
     }
   },
   "634": {
@@ -709,6 +903,20 @@
         "Les juges d'appel qui ont fondé la fixation de la peine infligée sur une condamnation effacée n'ont pas justifié légalement leur décision."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1994:ARR.19941122.19": {
+      "court": "CASS",
+      "date": "1994-11-22",
+      "roleNumber": "P940017N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1994/11/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le juge ne peut, pour retenir la circonstance de récidive et déterminer le taux de la peine, tenir compte d'une condamnation antérieure qui est effacée."
+      ],
+      "abstractNL": [
+        "De rechter mag, om het bestaan van herhaling aan te nemen en de strafmaat te bepalen, geen rekening houden met een vroegere veroordeling die uitgewist is. (Artt. 195, 619, 620 en 634 Sv.)."
+      ]
     }
   },
   "644": {
@@ -767,6 +975,186 @@
       "abstractNL": [
         "Uit de artikelen 203, eerste lid, en 644, tweede lid, Wetboek van Strafvordering en artikel 52, tweede lid, Gerechtelijk Wetboek, volgt dat hoger beroep alleen op geldige wijze ter griffie kan worden ingesteld op de dagen en uren waarop de griffie overeenkomstig de wettelijke voorschriften voor het publiek toegankelijk is; de sluiting van de griffie buiten deze uren geeft geen aanleiding tot verlenging van de beroepstermijn."
       ]
+    },
+    "ECLI:BE:CASS:1996:ARR.19960723.1": {
+      "court": "CASS",
+      "date": "1996-07-23",
+      "roleNumber": "P960831F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1996/07/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le mémoire déposé par le demandeur à l'appui d'un pourvoi en matière répressive, moins de huit jours avant l'audience, même si les neuvième et dixième jours avant l'audience sont un dimanche et un samedi."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de memorie die de eiser tot staving van een cassatieberoep in strafzaken minder dan acht dagen vóór de terechtzitting heeft neergelegd, zelfs zo de negende en de tiende dag vóór de terechtzitting een zondag en een zaterdag zijn."
+      ]
+    },
+    "ECLI:BE:CASS:1991:ARR.19910213.8": {
+      "court": "CASS",
+      "date": "1991-02-13",
+      "roleNumber": "8900;8901",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1991/02/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'inculpé qui s'est pourvu en cassation contre un arrêt de la chambre des mises en accusation ordonnant le maintien de la détention peut déposer un mémoire au plus tard le cinquième jour après la date du pourvoi, ce délai étant éventuellement prorogé conformément à l'article 644 du Code d'instruction criminelle."
+      ],
+      "abstractNL": [
+        "De verdachte, die zich in cassatie heeft voorzien tegen een arrest van de kamer van inbeschuldigingstelling dat de handhaving van de hechtenis beveelt, mag uiterlijk vijf dagen na de dagtekening van de voorziening een memorie indienen; die termijn wordt eventueel verlengd overeenkomstig art. 644 Wetboek van Strafvordering."
+      ]
+    },
+    "ECLI:BE:CASS:1986:ARR.19861017.6": {
+      "court": "CASS",
+      "date": "1986-10-17",
+      "roleNumber": "120",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1986/10/17/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le délai de deux mois, prévu à l'article 420bis, alinéa 2, du Code d'instruction criminelle, expire un jour où le greffe est fermé, il est prorogé jusqu'au prochain jour d'ouverture de ce greffe. (Code d'instruction criminelle, art. 644.)Est irrecevable le mémoire déposé par le demandeur à l'appui d'un pourvoi en matière répressive moins de huit jours avant l'audience, même si les neuvième et dixième jours avant l'audience sont un samedi, un dimanche ou un autre jour férié légal."
+      ],
+      "abstractNL": [
+        "Wanneer de bij art. 420bis, tweede lid, Wetboek van Strafvordering bepaalde termijn van twee maanden eindigt op een dag dat de griffie gesloten is, wordt hij verlengd tot de eerstvolgende dag dat de griffie open is. ( Art. 644 Wetboek van Strafvordering. )Niet ontvankelijk is de memorie die de eiser tot staving van een voorziening in strafzaken minder dan acht dagen vóór de terechtzitting heeft ingediend, zelfs indien de negende en de tiende dag vóór de terechtzitting een zaterdag, een zondag of een andere wettelijke feestdag waren."
+      ]
+    },
+    "ECLI:BE:CASS:1985:ARR.19851113.4": {
+      "court": "CASS",
+      "date": "1985-11-13",
+      "roleNumber": "6114",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/11/13/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable l'appel du procureur du Roi contre un jugement du tribunal de police, s'il a été signifié après l'expiration du délai prévu à l'article 205 du Code d'instruction criminelle, le cas échéant prorogé conformément à l'article 644, alinéa 1er, de ce code, à compter de la prononciation du jugement."
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het hoger beroep van de procureur des Konings tegen een vonnis van de politierechtbank, wanneer het is betekend buiten de bij art. 205 Sv. gestelde termijn, in voorkomend geval verlengd overeenkomstig art. 644, eerste lid, van dat wetboek, te rekenen van de uitspraak van het vonnis."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19820720.5": {
+      "court": "CASS",
+      "date": "1982-07-20",
+      "roleNumber": "2449",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/07/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le mémoire déposé par le demandeur à l'appui d'un pourvoi en matière répressive, moins de huit jours avant l'audience, même si les neuvième et dixième jours avant l'audience sont un samedi, un dimanche ou un autre jour férié légal. (Code d'instr. crim., art. 420bis et 644.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de memorie die de eiser, tot staving van een voorziening in strafzaken, minder dan acht dagen vóór de terechtzitting heeft ingediend, zelfs als de negende en de tiende dag vóór de zitting een zaterdag, een zondag of een andere wettelijke feestdag is <1>. (Artt. 420bis en 644 Sv.)"
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801008.11": {
+      "court": "CASS",
+      "date": "1980-10-08",
+      "roleNumber": "1086",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/08/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable l'appel du procureur du Roi contre un jugement du tribunal de police, s'il a été notifié après l'expiration du délai de quinze jours prévu par l'article 205 du Code d'instruction criminelle, le cas échéant prorogé conformément à l'article 644, alinéa 1er, de ce Code, à compter de la prononciation du jugement. ( Code d'instr. crim., art. 205; loi du 1er mai 1849, art. 8. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het hoger beroep van de procureur des Konings dat gericht is tegen een vonnis van de politierechtbank, wanneer het is betekend buiten de bij art. 205 Sv. gestelde termijn van veertien dagen, in voorkomend geval verlengd overeenkomstig art. 644, eerste lid, van dit wetboek, te rekenen van de uitspraak van het vonnis <3>. (Art. 205 Sv.; art. 8 wet van 1 mei 1849.)"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750630.1": {
+      "court": "CASS",
+      "date": "1975-06-30",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/06/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le délai de quinze jours, dans lequel le ministère public près le tribunal ou la cour qui connaîtra de l'appel doit notifier son recours au prévenu, expire un samedi, un dimanche ou un autre jour férié légal, le délai est prorogé jusqu'au plus prochain jour ouvrable. (Code d'instr. crim., art. 644, alinéa 1er. )"
+      ],
+      "abstractNL": [
+        "Wanneer de wettelijke termijn van vijftien dagen waarin het openbaar ministerie bij het hof of de rechtbank die van het beroep kennis moet nemen, zijn beroep aan de beklaagde moet betekenen, eindigt op een zaterdag, op een zondag of een andere wettelijke feestdag, wordt hij verlengd tot de eerstvolgende werkdag. ( Art. 644, lid 1, Sv. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741119.16": {
+      "court": "CASS",
+      "date": "1974-11-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/11/19/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le mémoire déposé par le demandeur à l'appui d'un pourvoi en matière répressive, moins de huit jours avant l'audience, même si les neuvième et dixième jours avant l'audience sont un samedi, un dimanche ou un autre jour férié légal. (Code d'instr. crim., art. 420 bis et 644.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de memorie die de eiser tot staving van een voorziening in strafzaken minder dan acht voor de terechtzitting heeft neergelegd, zelfs zo de negende en tiende dag voor de terechtzitting een zaterdag, een zondag of andere wettelijke feestdag zijn. (Art. 420bis en 644 Sv.)"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19731016.11": {
+      "court": "CASS",
+      "date": "1973-10-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/10/16/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Est dénué d'intérêt et, partant, irrecevable, le moyen pris par le ministère public de ce que l'appel interjeté par lui d'un jugement du tribunal de police a été illégalement déclaré irrecevable par le tribunal correctionnel, alors que, statuant sur l'appel du prévenu, le jugement attaqué a acquitté celui-ci."
+      ],
+      "abstractNL": [
+        "Van belang ontbloot en derhalve niet ontvankelijk is het middel door het openbaar ministerie hieruit afgeleid dat het het door hem ingestelde hoger beroep tegen een vonnis van de politierechtbank door de correctionele rechtbank onwettelijk niet ontvankelijk is verklaard, wanneer het bestreden vonnis, rechtdoende op het hoger beroep van de beklaagde, deze vrijgesproken heeft."
+      ]
+    },
+    "ECLI:BE:CASS:1972:ARR.19720214.5": {
+      "court": "CASS",
+      "date": "1972-02-14",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1972/02/14/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Est irrecevable le mémoire déposé par le demandeur, à l'appui d'un pourvoi en matière répressive, moins de huit jours avant l'audience, même si le neuvième jour avant l'audience est un samedi, un dimanche ou un autre jour férié légal. ( Code d'instr. crim., art. 420bis et 644. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is de memorie, die de eiser tot staving van een voorziening in strafzaken minder dan acht dagen voor de terechtzitting heeft neergelegd, zelfs zo de negende dag voor de terechtzitting een zaterdag, een zondag of een andere wettelijke feestdag is. ( Sv., art. 420bis en 644. )"
+      ]
+    },
+    "ECLI:BE:CASS:1969:ARR.19691027.2": {
+      "court": "CASS",
+      "date": "1969-10-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1969/10/27/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable l'appel du procureur du Roi, contre un jugement du tribunal de police, s'il a été notifié après l'expiration du délai de quinze jours prévu par l'article 205 du Code d'instruction criminelle,le cas échéant prorogé conformément à l'article 644, alinéa 1er, de ce code, à compter de la prononciation du jugement. ( Code d'instr. crim., art. 205; loi du 1er mai 1849, art. 8. )"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het hoger beroep van de procureur des Konings tegen een vonnis van de politierechtbank, wanneer het betekend is na het verstrijken van de termijn van vijftien dagen gesteld bij artikel 205 van het Wetboek van strafvordering, eventueel verlengd overeenkomstig artikel 644, lid 1, van dit wetboek, te rekenen van de uitspraak van het vonnis. ( Wetb. van strafv., art. 205; wet van 1 mei 1849, art. 88. )"
+      ]
+    },
+    "ECLI:BE:CASS:1967:ARR.19670424.4": {
+      "court": "CASS",
+      "date": "1967-04-24",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1967/04/24/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "N'est pas recevable l'appel du procureur du roi, contre un jugement du tribunal de police, s'il a été notifié après l'expiration du délai de quinze jours, le cas échéant prorogé conformément à l'article 644, alinéa 1er, du Code d'instruction criminelle, à compter de la prononciation du jugement. (Code d'instr. crim., art. 205; loi du 1er mai 1849, art. 8.)"
+      ],
+      "abstractNL": [
+        "Niet ontvankelijk is het hoger beroep van de procureur des konings, tegen een vonnis van de politierechtbank, zo het betekend is na het verstrijken van de termijn van vijftien dagen, die desgevallend wordt verlengd overeenkomstig artikel 644, lid 1, van het Wetboek van strafvordering, te rekenen vanaf de uitspraak van het vonnis. ( Wetboek van Strafvordering, art. 205; wet van 1 mei 1849, art. 8. )"
+      ]
+    },
+    "ECLI:BE:CASS:1966:ARR.19660418.9": {
+      "court": "CASS",
+      "date": "1966-04-18",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1966/04/18/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le prévenu s'est pourvu tant contre la décision sur l'action publique, qui déclare son appel tardif, et partant non recevable, et le condamne aux frais dudit appel, que contre la décision, relative à l'action civile dirigée contre lui et déclarant l'appel non recevable pour le même motif, la condamnation prononée pr le premier juge étant ainsi devenue définitve, la cassation, même sur un moyen pris d'office, de la décision déclarant l'appel non recevable et condamnant l'appelant aux frais de l'acte d'appel entraîne la cassation de la décision, fondée sur le même motif illégal, sur l'action civile."
+      ],
+      "abstractNL": null
     }
   },
   "645": {

@@ -5618,6 +5618,36 @@
       "abstractNL": [
         "De verzekeringsinstelling die aan de rechthebbende op de ziekte- en invaliditeitsverzekering bepaalde prestaties heeft toegekend, treedt rechtens in de plaats van de rechthebbende tot beloop van het bedrag van de verleende prestaties, voor het geheel van de sommen die onder meer krachtens het gemeen recht verschuldigd zijn en die dezelfde schade geheel of gedeeltelijk vergoeden (1)(2). (1) Cass., 11 okt. 1999 AR C.97.0201.N, nr 524. (2) Thans art. 136, ,§ 2, vierde lid, gecoörd. wet 14 juli 1994."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950929.6": {
+      "court": "CASS",
+      "date": "1995-09-29",
+      "roleNumber": "C950003F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/29/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la responsabilité d'un accident est partagée entre la personne lésée par un accident et un tiers conduisant un véhicule non identifié ou non couvert par une assurance, l'exercice par l'organisme assureur de la maladie-invalidité, du droit propre que lui reconnaît, à l'égard du Fonds commun de garantie automobile, l'article 76quater de la loi du 9 août 1963 est limité, d'une part, au montant des prestations octroyées par l'organisme assureur à la personne lésée et d'autre part, à l'indemnisation maximale à laquelle le tiers, auteur du dommage, est tenu à l'égard de la victime en matière de réparation du préjudice corporel de nature patrimoniale."
+      ],
+      "abstractNL": [
+        "Wanneer de aansprakelijkheid voor een ongeval wordt verdeeld tussen de door het ongeval benadeelde persoon en een derde die een niet geïdentificeerd of niet verzekerd voertuig bestuurde, is het eigen recht, waarover de ZIV-instelling krachtens art. 76quater ZIV-wet tegenover het Gemeenschappelijk Motorwaarborgfonds beschikt, beperkt, enerzijds, tot het bedrag van de door de verzekeringstelling aan de benadeelde verleende prestaties, anderzijds, tot het maximumbedrag van de schadeloosstelling waartoe de derde, die de schade heeft veroorzaakt, jegens het slachtoffer gehouden is inzake vergoeding van de geldelijke lichamelijke schade."
+      ]
+    }
+  },
+  "76BIS": {
+    "ECLI:BE:CASS:1992:ARR.19920302.12": {
+      "court": "CASS",
+      "date": "1992-03-02",
+      "roleNumber": "7714",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/02/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Les prestations de l'assurance indemnités doivent être refusées lorsque la faute qui est la cause de l'incapacité de travail a été commise intentionnellement par le titulaire, même s'il n'en a pas voulu les conséquences. ( Loi du 9 août 1963, art. 76bis. )"
+      ],
+      "abstractNL": [
+        "De arbeidsongeschiktheidsuitkeringen moeten worden geweigerd wanneer de gerechtigde de fout die de arbeidsongeschiktheid heeft veroorzaakt, willens heeft begaan, ook al heeft hij de gevolgen ervan niet gewild. ( Art. 76bis Z.I.V.-wet. )"
+      ]
     }
   }
 }

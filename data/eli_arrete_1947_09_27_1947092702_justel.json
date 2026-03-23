@@ -244,5 +244,37 @@
         "De beslissing waarbij degene die grondwerken, bestratingswerken of andere werken in de nabijheid van een ondergrondse elektrische kabel uitvoert zonder voorafgaande raadpleging van de eigenaar van de ondergrond of van de kabel en zonder voorafgaande lokalisering van de kabel vrij van schuld wordt verklaard, is naar recht verantwoord wanneer bewezen is dat plannen medegedeeld werden en dat geen enkel gegeven op de aanwezigheid van de kabel wees of deze liet vermoeden. ( Art. 192.02, Algemeen Reglement op de Elektrische Installaties, goedgekeurd bij K.B. 10 maart 1981; art. 260bis, Algemeen Reglement Arbeidsbescherming. )"
       ]
     }
+  },
+  "02": {
+    "ECLI:BE:CASS:1979:ARR.19791219.4": {
+      "court": "CASS",
+      "date": "1979-12-19",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/12/19/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Aucun travail de terrassement, de pavage ou autre ne peut être entrepris dans le voisinage d'un câble électrique souterrain sans consultation préalable, notamment, des propriétaires du sous-sol et du câble, ou, si la consultation n'a pu avoir lieu, sans localisation préalable du câble; aucune disposition légale n'impose cependant à l'entrepreneur l'obligation de procéder lui-même, dans tous les cas, à la localisation du câble au moyen de sondages propres. ( Règlement général pour la protection du travail, art. 260bis, inséré par l'arrêté royal du 5 août 1974. )"
+      ],
+      "abstractNL": [
+        "Geen enkel grondwerk, bestratingswerk of ander werk mag worden uitgevoerd in de nabijheid van een ondergrondse elektrische kabel zonder o.m. voorafgaande raadpleging van de eigenaars van de ondergrond en van de kabel, of, als de raadpleging niet heeft kunnen plaatshebben, zonder voorafgaande lokalisering van de kabel; geen enkele wettelijke bepaling legt aan de aannemer de verplichting op om zelf, in ieder geval, de kabel te lokaliseren door middel van eigen peilingen. ( Art. 260bis Algemeen Reglement Arbeidsbescherming, ingevoerd bij K.B. van 5 augustus 1974. )"
+      ]
+    }
+  },
+  "260BIS": {
+    "ECLI:BE:CASS:1976:ARR.19760105.2": {
+      "court": "CASS",
+      "date": "1976-01-05",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1976/01/05/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Ne justifie pas légalement la décision par laquelle il acquitte l'auteur de la dégradation d'un câble électrique souterrain et se déclare incompétent pour statuer sur l'action civile dirigée contre le prévenu par le propriétaire du câble, le juge qui ne constate pas que la continuité du service requérait l'urgente exécution de travaux dans le voisinage de câbles électriques souterrains sans consultation préalable du propriétaire du sous-sol, de l'autorité qui a la gestion de la voie publique empruntée et du propriétaire du câble. (Règlement général pour la protection du travail, approuvé par l'arrêté du Régent du 27 septembre 1947, art. 260bis inséré par l'arrêté royal du 5 août 1974.)"
+      ],
+      "abstractNL": [
+        "Niet wettelijk verantwoord is de beslissing waarbij hij die een ondergrondse electrische kabel beschadigd heeft wordt vrijgesproken en de rechter zich onbevoegd verklaart om uitspraak te doen over de burgerlijke rechtsvordering van de eigenaar van de kabel tegen de beklaagde, wanneer de rechter niet vaststelt dat om onderbreking van de dienst te vermijden dringende werken moesten worden uitgevoerd in de nabijheid van ondergrondse electrische kabels zonder voorafgaande raadpleging van de eigenaar van de ondergrond, van de overheid die de gebruikte openbare weg beheert en van de eigenaar van de kabel. ( Algemeen reglement voor de arbeidsbescherming, goedgekeurd bij het besluit van de Regent van 27 september 1947, art. 260bis, ingevoegd bij K.B. van 5 augustus 1974. )"
+      ]
+    }
   }
 }

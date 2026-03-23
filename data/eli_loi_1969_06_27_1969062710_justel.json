@@ -3766,5 +3766,59 @@
         "Artikel 30ter, §6, B, eerste lid, R.S.Z.-wet, voor de opheffing ervan bij koninklijk besluit van 26 december 1998, legde een sanctie op aan de hoofdaannemer die de bij de wet opgelegde inlichtingen niet verstrekte, teneinde aldus de onwettige activiteiten van de koppelbazen te bestrijden en strekte er toe via bestraffing een ontradende werking te hebben."
       ]
     }
+  },
+  "30BIS": {
+    "ECLI:BE:CASS:1992:ARR.19920622.5": {
+      "court": "CASS",
+      "date": "1992-06-22",
+      "roleNumber": "1659",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/06/22/sitemap_5.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Wanneer uit de motivering van het arrest niet duidelijk blijkt of, naar het oordeel van de rechters, de koeltoonbank onroerend is door haar aard of geworden is door bestemming, verhindert het arrest door deze onduidelijkheid het Hof de wettigheid van de beslissing na te gaan en schendt het derhalve art. 97 van de Grondwet."
+      ]
+    },
+    "ECLI:BE:CASS:1989:ARR.19890313.13": {
+      "court": "CASS",
+      "date": "1989-03-13",
+      "roleNumber": "6528",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1989/03/13/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Pour être dispensé de ses obligations imposées par l'article 30bis de la loi du 27 juin 1969, le maître de l'ouvrage qui fait appel pour l'exécution de travaux à un entrepreneur qui n'est pas enregistré, ne peut invoquer l'erreur invincible en raison du seul fait qu'il a été trompé par l'entrepreneur quant à son enregistrement."
+      ],
+      "abstractNL": [
+        "Om ontslagen te zijn van zijn verplichtingen opgelegd door art. 30bis Sociale-zekerheidswet 1969 kan de opdrachtgever die werken laat uitvoeren door een niet geregistreerde aannemer, zich niet beroepen op onoverkomelijke dwaling, wanneer hij door de aannemer omtrent diens registratie is misleid."
+      ]
+    }
+  },
+  "04": {
+    "ECLI:BE:CASS:1990:ARR.19900521.10": {
+      "court": "CASS",
+      "date": "1990-05-21",
+      "roleNumber": "20.608",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/05/21/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "L'exception de l'article 30 Bis, alinéa 6 , étant de stricte interprétation, ne concerne que l'habitation individuelle prise au sens usuel du terme soit l'immeuble affecté uniquement au logement."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1985:ARR.19850325.7": {
+      "court": "CASS",
+      "date": "1985-03-25",
+      "roleNumber": "7105",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1985/03/25/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "En application de l'article 30 bis, alinéa 1er, de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, celui qui fait appel, pour l'exécution d'activités déterminées par l'arrêté royal du 5 octobre 1978, à quelqu'un qui n'est pas enregistré comme entrepreneur pour l'application de cet article et de l'article 299 bis du Code des impôts sur les revenus, est solidairement responsable du paiement des cotisations, des majorations de cotisations et des intérêts dus à l'Office National de Sécurité Sociale, par son contractant. L'article 30 bis, alinéa 1er, précité limite cette responsabilité solidaire \"à 50 p.c. du prix total des travaux, non compris la taxe sur la valeur ajoutée\". La loi ne distingue pas suivant que les cotisations se rapportent ou non à la période pendant laquelle le maître de l'ouvrage et l'entrepreneur ont été en rapports contractuels."
+      ],
+      "abstractNL": null
+    }
   }
 }

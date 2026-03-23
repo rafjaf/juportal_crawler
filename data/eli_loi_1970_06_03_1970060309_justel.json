@@ -541,6 +541,34 @@
       "abstractNL": [
         "Art. 35bis, tweede lid, Beroepsziektenwet strekt ertoe aan de personen die voor 1 januari 1994 de leeftijd van vijfenzestig jaar hebben bereikt dezelfde graad van blijvende arbeidsongeschiktheid toe te kennen als die welke hun voor die datum was toegekend, tenzij hun lichamelijke ongeschiktheid verminderd is, en niet de graad te bevestigen die hun voor die datum was toegekend ter vergoeding van de socio-economische factoren (1). (1) Zie Cass., 14 april 2003, AR S.01.0187.N, nr ...; zie ook de verwijzingen, aangehaald in de andersluidende concl. O.M. in Bull. en Pas., I, nr."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19950904.5": {
+      "court": "CASS",
+      "date": "1995-09-04",
+      "roleNumber": "S950012F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/09/04/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En cas d'aggravation du taux incapacité de travail permanente, il faut, pour que s'applique l'article 35bis, alinéa 1er, des lois coordonnées relatives à la réparation des dommages résultant des maladies professionnelles, d'une part, que cette aggravation soit constatée par un examen médical pratiqué par les services du Fonds des maladies professionnelles ou par l'expert désigné par le juge, alors que la victime a atteint l'âge de 65 ans et, d'autre part, que le début de cette aggravation se situe également après que la victime a atteint l'âge de 65 ans."
+      ],
+      "abstractNL": [
+        "Ingeval de graad van blijvende arbeidsongeschiktheid stijgt, is voor de toepassing van art. 35bis, eerste lid, Beroepsziektenwet, vereist, enerzijds, dat die stijging is vastgesteld door een geneeskundig onderzoek dat is gedaan door de diensten van het Fonds voor Beroepsziekten of door een door de echter aangestelde deskundige terwijl de getroffene de leeftijd van 65 jaar heeft bereikt en, anderzijds, dat die stijging is begonnen nadat de getroffene de leeftijd van 65 jaar heeft bereikt."
+      ]
+    }
+  },
+  "35BIS": {
+    "ECLI:BE:CASS:1990:ARR.19900611.3": {
+      "court": "CASS",
+      "date": "1990-06-11",
+      "roleNumber": "2179",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1990/06/11/sitemap_11.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De vaststelling of de herziening van de graad van blijvende arbeidsongeschiktheid na de leeftijd van 65 jaar, in de zin van artikel 35bis Beroepsziektenwet, geschiedt bij het medisch onderzoek dat het Fonds voor de beroepsziekten doet verrichten."
+      ]
     }
   }
 }

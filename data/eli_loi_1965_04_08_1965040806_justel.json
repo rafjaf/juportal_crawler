@@ -3798,6 +3798,34 @@
       "abstractNL": [
         "Wanneer, enerzijds, een beschikking van de raadkamer een inverdenkinggestelde wegens verschillende misdrijven, die niet in artikel 36bis Jeugdbeschermingswet zijn opgesomd, naar de correctionele rechtbank heeft verwezen, en gezegd heeft dat er geen grond is om hem wegens een ander misdrijf te vervolgen, zonder voorafgaande toepassing van artikel 57bis van deze wet, terwijl de inverdenkinggestelde op het ogenblik van de feiten de volle leeftijd van achttien jaar niet had bereikt en, anderzijds, de correctionele rechtbank zich onbevoegd heeft verklaard om van de strafvordering tegen die inverdenkinggestelde kennis te nemen, gaat het Hof na of tegen de beschikking van de raadkamer alsnog een rechtsmiddel openstaat, of het vonnis kracht van gewijsde heeft en of de vaststelling van de correctionele rechtbank juist lijkt; in bevestigend geval, vernietigt het de beschikking van de raadkamer in zoverre zij uitspraak doet inzake die inverdenkinggestelde en verwijst het de aldus beperkte zaak naar de bevoegde procureur des Konings (1). (1) Zie Cass., 13 sept. 2000, AR P.00.1122.F, A.C., 2000, nr. 467; Cass., 21 mei 2003, AR P.03.0493.F, A.C., 2003, nr. 311; Cass., 2 aug. 2005, AR P.05.0932.N, A.C., 2005, nr. 392. Er dient op gewezen dat het Hof, door de beschikking van de raadkamer te vernietigen \"in zoverre zij uitspraak doet in zake van de minderjarige \", tevens de beslissing tot buitenvervolgingstelling heeft vernietigd die nochtans in zijn voordeel was."
       ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951213.1": {
+      "court": "CASS",
+      "date": "1995-12-13",
+      "roleNumber": "P950867F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/12/13/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "La personne qui se prétend lésée par des actes qu'elle estime constitutifs d'infraction aux dispositions des lois et règlements sur la police du roulage ne peut citer directement devant la juridiction compétente en vertu du droit commun un mineur de plus de seize ans et de moins de dix-huit ans accomplis au moment des faits du chef d'infraction aux susdites dispositions."
+      ],
+      "abstractNL": [
+        "De persoon die zich benadeeld acht door daden die volgens hem een overtreding zijn van de bepalingen van de wetten en verordeningen betreffende het wegverkeer, kan een minderjarige, die ten tijde van de feiten meer dan zestien en minder dan volle achttien jaar oud was, niet rechtstreeks voor het op grond van het gemene recht bevoegde gerecht dagvaarden wegens overtreding van voormelde bepalingen."
+      ]
+    },
+    "ECLI:BE:CASS:1980:ARR.19801015.5": {
+      "court": "CASS",
+      "date": "1980-10-15",
+      "roleNumber": "1109",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/10/15/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le jugement rendu sur appel, en matière répressive, sans qu'un rapport ait été fait par l'un des juges, est nul, même si, conformément à l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, l'instruction à l'audience à charge du prévenu, mineur de plus de seize ans et de moins de dix-huit ans accomplis au moment des faits, a eu lieu en chambre du conseil. ( Code d'instr. crim., art. 172 et 209. )"
+      ],
+      "abstractNL": [
+        "In strafzaken is nietig het vonnis dat in hoger beroep is gewezen zonder dat door een van de rechters verslag is uitgebracht, <2>, ook al heeft, overeenkomstig artikel 36 bis Jeugdbeschermingswet, het onderzoek ter terechtzitting ten laste van de beklaagde, die op het ogenblik van de feiten meer dan zestien jaar en minder dan volle achttien jaar oud was, in raadkamer plaatsgehad. (Artt. 172 en 209 Sv.)"
+      ]
     }
   },
   "36-4": {
@@ -4749,6 +4777,146 @@
       ],
       "abstractNL": [
         "Op de voorziening van de procureur-generaal, ingesteld op bevel van de Minister van justitie, vernietigt het Hof het vonnis van de politierechtbank dat een beklaagde veroordeelt tot een geldboete van 26 frank wegens overtreding van artikel 84 van de wet van 8 april 1965 betreffende de jeugdbescherming, en verwijst de zaak naar een andere politierechtbank. ( Wetb. van strafv., art. 441 en 427. )"
+      ]
+    }
+  },
+  "36BIS": {
+    "ECLI:BE:CASS:1992:ARR.19920304.10": {
+      "court": "CASS",
+      "date": "1992-03-04",
+      "roleNumber": "9534",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1992/03/04/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées, du chef d'infractions prévues à l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, à charge de mineurs de plus de seize ans et de moins de dix-huit ans accomplis au moment des faits devant les juridictions compétentes en vertu du droit commun, a lieu en chambre du conseil; la loi ne prévoit pas d'exception à cette formalité substantielle pour le cas où celles-ci, tout en connaissant des réquisitions du ministère public à l'égard desdits mineurs, connaissent en même temps d'actions civiles exercées contre eux."
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolging die, wegens de in art. 36bis Jeugdbeschermingswet bedoelde misdrijven, voor de op grond van het gemene recht bevoegde gerechten zijn ingesteld tegen minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar oud op het ogenblik van de feiten, geschiedt in raadkamer; de wet voorziet niet in enige afwijking van die substantiële rechtsvorm voor het geval dat die gerechten, benevens van de vorderingen van het O.M. jegens die minderjarigen, ook kennis nemen van de tegen hen ingestelde burgerlijke rechtsvorderingen."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19831130.8": {
+      "court": "CASS",
+      "date": "1983-11-30",
+      "roleNumber": "3060",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/11/30/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La personne qui se prétend lésée par des actes qu'elle estime constitutifs d'infraction aux dispositions des lois et règlements sur la police du roulage ne peut citer directement devant la juridiction compétente en vertu du droit commun un mineur de plus de seize ans et de moins de dix-huit ans accomplis au moment des faits du chef d'infraction aux susdites dispositions. ( Loi du 8 avril 1965 relative à la protection de la jeunesse, art. 36bis. )"
+      ],
+      "abstractNL": [
+        "De persoon die zich benadeeld acht door daden die volgens haar een overtreding zijn van de bepalingen van de wetten en verordeningen betreffende het wegverkeer, kan een minderjarige, die meer dan zestien jaar en minder dan volle achttien jaar oud was op het ogenblik van de feiten, niet rechtstreeks voor het op grond van het gemene recht bevoegde gerecht dagvaarden wegens overtreding van voormelde bepalingen. ( Art. 36bis Jeugdbeschermingswet. )"
+      ]
+    },
+    "ECLI:BE:CASS:1981:ARR.19810617.17": {
+      "court": "CASS",
+      "date": "1981-06-17",
+      "roleNumber": "1660",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1981/06/17/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "PROTECTION DE LA JEUNESSE. - Poursuites exercées devant le tribunal correctionnel contre un mineur âgé de plus de 16 ans et de moins de 18 ans au moment des faits du chef d'infractions à la police du roulage. - Débats devant le tribunal correctionnel devant avoir lieu en chambre du conseil."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:1980:ARR.19800212.10": {
+      "court": "CASS",
+      "date": "1980-02-12",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1980/02/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge d'un prévenu de nationalité étrangère, âgé de plus de seize ans et de moins de dix-huit ans accomplis au moment des faits, devant les juridictions de droit commun, dans les cas prévus à l'article 36bis de la loi du 8 avril 1965, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil, même si, au moment des débats, ce prévenu a plus de dix-huit ans accomplis et est majeur suivant sa législation nationale. ( Loi du 8 avril 1965, article 36bis. )"
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen welke ten laste van een beklaagde van vreemde nationaliteit, die meer dan zestien jaar en minder dan volle achttien jaar oud was op het ogenblik van de feiten, voor de gemeenrechtelijke gerechten worden ingesteld in de bij artikel 36 bis Jeugdbeschermingswet bepaalde gevallen, o.a. in geval van overtreding van de wetten en verordeningen betreffende het wegverkeer, heeft plaats in raadkamer, zelfs indien de beklaagde op het tijdstip van de debatten meer dan volle achttien jaar oud en volgens zijn nationale wet meerderjarig is <1>. (Art. 36bis Jeugdbeschermingswet.)"
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791127.3": {
+      "court": "CASS",
+      "date": "1979-11-27",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/27/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge d'appel qui considère que les éléments régulièrement soumis suffisent à asseoir sa conviction ne viole pas les droits de la défense du prévenu par le seul fait que, après avoir déclaré nulle l'instruction faite devant le premier juge, il a statué sans avoir mis les parties à même de déposer de nouvelles conclusions ou de présenter de nouveaux moyens de preuve."
+      ],
+      "abstractNL": [
+        "De rechter in hoger beroep, die oordeelt dat de regelmatig aangebrachte gegevens volstaan om zijn overtuiging te vormen, schendt het recht van verdediging van de beklaagde niet op grond alleen dat hij, na nietigverklaring van het voor de eerste rechter gevoerde onderzoek, uitspraak heeft gedaan zonder aan de partijen de gelegenheid te hebben geboden opnieuw te concluderen of nieuwe bewijsmiddelen bij te brengen <3>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19791120.3": {
+      "court": "CASS",
+      "date": "1979-11-20",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/11/20/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge d'un mineur âgé de plus de seize ans et de moins de dix-huit ans devant les juridictions de droit commun, dans les cas prévus par l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil."
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen ten laste van minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar, voor de krachtens het gemeen recht bevoegde gerechten ingesteld in de gevallen van art. 36 bis Jeugdbeschermingswet, onder meer in geval van overtreding van de wetten en verordeningen betreffende de politie over het wegverkeer, heeft plaats in raadkamer <3>."
+      ]
+    },
+    "ECLI:BE:CASS:1979:ARR.19790425.11": {
+      "court": "CASS",
+      "date": "1979-04-25",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1979/04/25/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge de mineurs de plus de seize ans et de moins de dix-huit ans devant les juridictions de droit commun, dans les cas prévus par l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil; cette procédure ne peut être étendue à d'autres personnes poursuivies en même temps devant la même juridiction. ( Constit., article 96; loi du 8 avril 1965, modifiée par celle du 9 mai 1972, art. 36bis. )"
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen die ten laste van minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar voor de krachtens het gemeen recht bevoegde gerechten zijn ingesteld in de gevallen bij art. 36 bis Jeugdbeschermingswet bepaald, onder meer in geval van overtreding van de wetten en verordeningen betreffende de politie over het wegverkeer, heeft plaats in raadkamer; deze rechtspleging mag niet worden uitgebreid tot andere personen die tegelijkertijd voor datzelfde gerecht worden vervolgd, ook al zijn de laatstgenoemden en de minderjarigen bij hetzelfde exploot gedagvaard <1>. (Art. 96 Gw.; art. 36bis Jeugdbeschermingswet 8 april 1965, gew. bij wet 9 mei 1972.)"
+      ]
+    },
+    "ECLI:BE:CASS:1975:ARR.19750922.12": {
+      "court": "CASS",
+      "date": "1975-09-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1975/09/22/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge de mineurs de plus de seize ans et de moins de dix-huit ans devant les juridictions de droit commun, dans les cas prévus par l'article 36 bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil; cette procédure ne peut être étendue à d'autres personnes poursuivies en même temps devant la même juridiction, même si ces personnes et les mineurs sont cités par un même exploit (1).(Constit., article 96 ; loi du 8 avril 1965, modifiée par celle du 9 mai 1972, art. 36 bis.)"
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen ten laste van minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar voor de krachtens het gemeen recht bevoegde gerechten ingesteld in de gevallen bij artikel 36bis van de wet van 8 april 1965 bepaald, onder meer in geval van overtredingen van de wetten en verordeningen betreffende de politie over het wegverkeer, heeft plaats in raadkamer; deze rechtspleging mag niet worden uitgebreid tot andere personen die tegelijkertijd voor datzelfde gerecht worden gebracht, zelfs al zijn de laatstgenoemden en de minderjarigen bij hetzelfde exploot gedagvaard (1). ( Art. 96 Grondwet; art. 36bis wet van 8 april 1965 gew. bij de wet van 9 mei 1972. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19741216.9": {
+      "court": "CASS",
+      "date": "1974-12-16",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/12/16/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge de mineurs de plus de seize ans et de moins dedix-huit ans devant les juridictions de droit commun, dans les cas prévus par l'article 36bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil; cette procédure ne peut être étendue à d'autres personnes poursuivies en même temps devant la même juridiction, même si ces personnes et les mineurs sont cités par un même exploit. ( Constit., art. 96; loi du 8 avril 1965, modifiée par celle du 9 mai 1972, article 36bis. )"
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen ten laste van minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar voor de krachtens het gemeen recht bevoegde gerechten ingesteld in de gevallen bij artikel 36bis van de wet van 8 april 1965 bepaald, onder meer in geval van overtredingen van de wetten en verordeningen betreffende de politie over het wegverkeer, heeft plaats in raadkamer; deze rechtspleging mag niet worden uitgebreid tot andere personen die tegelijkertijd voor datzelfde gerecht worden gebracht, zelfs al zijn de laatstgenoemden en de minderjarigen bij hetzelfde exploot gedagvaard. ( Art. 96 Grondwet; art. 36bis wet van 8 april 1965 gewijzigd bij die van 9 mei 1972. )"
+      ]
+    },
+    "ECLI:BE:CASS:1974:ARR.19740722.9": {
+      "court": "CASS",
+      "date": "1974-07-22",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1974/07/22/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'instruction des poursuites exercées à charge de mineurs de plus de seize ans et de moins de dix-huit ans devant les juridictions de droit commun, dans les cas prévus par l'article 36bis de la loi du 8 avril 1965, notamment en cas d'infractions aux lois et règlements sur la police du roulage, a lieu en chambre du conseil. (Constit., art. 96; loi du 8 avril 1965, modifiée par celle du 9 mai 1972, art. 36bis.)"
+      ],
+      "abstractNL": [
+        "Het onderzoek van de vervolgingen ten laste van minderjarigen van meer dan zestien jaar en minder dan volle achttien jaar voor de krachtens het gemeen recht bevoegde gerechten ingesteld in de gevallen bij artikel 36bis van de wet van 8 april 1965 bepaald, onder meer in geval van overtredingen van de wetten en verordeningen betreffende de politie over het wegverkeer, heeft plaats in raadkamer. (Art. 96 Grondwet; art. 36bis wet van 8 april 1965 gewijzigd bij die van 9 mei 1972.)"
       ]
     }
   }

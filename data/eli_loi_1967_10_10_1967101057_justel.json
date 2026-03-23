@@ -42,6 +42,22 @@
         "MOTIFS DES JUGEMENTS ET ARRETS. - Matière répressive. - Conclusions énonçant une défense motivée. - Décision se bornant à contredire cette défense, sans répondre aux motifs qui la justifient. - Décision non régulièrement motivée."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:1998:ARR.19981013.8": {
+      "court": "CASS",
+      "date": "1998-10-13",
+      "roleNumber": "P970368N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les parties conviennent que tout différend déjà né ou qui pourrait naître d'un rapport de droit déterminé et sur lequel il est permis de transiger peut faire l'objet d'une convention d'arbitrage, il en résulte, certes, que, suivant les termes de la loi elle-même et dans les conditions que celle-ci détermine, le juge est obligé, à la demande d'une partie, de se déclarer \"incompétent\" pour connaître du différend soumis à l'arbitrage, mais sa décision à cet égard concerne l'applicabilité d'une clause arbitrale comprise dans le contrat et non une attribution de compétence susceptible d'engendrer un conflit de juridiction auquel seul un règlement de juges peut mettre fin.",
+        "Est irrecevable, le pourvoi en cassation formé avant la décision définitive dirigé contre une décision relative à l'applicabilité d'une clause arbitrale, dès lors que celle-ci ne tranche aucune contestation de compétence."
+      ],
+      "abstractNL": [
+        "Wanneer partijen overeenkomen dat elk geschil dat reeds is ontstaan of nog kan ontstaan uit een bepaalde rechtsbetrekking en waarover een dading mag worden aangegaan, aan arbitrage wordt onderworpen, volgt hieruit weliswaar dat, naar de woorden van de wet zelf en in de door haar bepaalde voorwaarden, de rechter zich, op verzoek van een partij, \"onbevoegd\" moet verklaren om kennis te nemen van het aan arbitrage onderworpen geschil, doch zijn beslissing dienaangaande betreft de toepasselijkheid van een arbitrage-clausule begrepen in de overeenkomst en niet een bevoegdheidsaanwijzing die een geschil van rechtsmacht kan doen ontstaan waaraan enkel door een regeling van rechtsgebied een einde kan worden gesteld.",
+        "Niet ontvankelijk is het cassatieberoep, ingesteld voor de eindbeslissing, tegen een beslissing nopens de toepasselijkheid van een arbitragebeding, omdat ze geen geschil inzake bevoegdheid beslecht."
+      ]
     }
   },
   "1677": {
@@ -58,6 +74,20 @@
       "abstractNL": [
         "Uit de artikelen 1677, §1, 2°, 1678 en 1717, §4, eerste lid Gerechtelijk Wetboek zoals van toepassing, volgt dat de modaliteiten van de mededeling algemene bepalingen zijn die, behoudens andersluidende overeenkomst tussen partijen, steeds van toepassing zijn op het arbitraal geschil en de rechtsmiddelen tegen de arbitrale beslissing, zodat de uitsluitende verwijzing in artikel 1717, §4, Gerechtelijk Wetboek, in de hier toepasselijke versie, naar artikel 1678, §1, a niet belet dat ook artikel 1678, §2, omtrent de berekening van de termijnen als algemene bepaling toepassing krijgt."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20011213.5": {
+      "court": "CASS",
+      "date": "2001-12-13",
+      "roleNumber": "C990198N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/12/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En cas de concession de vente écrite contenant une clause d'arbitrage et renouvelée conformément à l'article 3bis de la loi du 27 juillet 1961 relative à la résiliation unilatérale des concessions de vente exclusive à durée indéterminée, le juge ne peut décider que la clause d'arbitrage n'est pas applicable à la coopération prolongée par le motif qu'elle ne serait pas reproduite dans un écrit signé par les parties (1)."
+      ],
+      "abstractNL": [
+        "Wanneer een distributieovereenkomst, die schriftelijk werd aangegaan en een arbitragebeding bevat, krachtens art. 3bis Alleenverkoopwet voor onbepaalde duur vernieuwd is, vermag de rechter niet te beslissen dat op de verlengde samenwerking het arbitragebeding niet van toepassing is omdat het niet vervat zou zijn in een door partijen ondertekend geschrift (1)."
+      ]
     }
   },
   "1678": {
@@ -73,6 +103,52 @@
       ],
       "abstractNL": [
         "Uit de artikelen 1677, §1, 2°, 1678 en 1717, §4, eerste lid Gerechtelijk Wetboek zoals van toepassing, volgt dat de modaliteiten van de mededeling algemene bepalingen zijn die, behoudens andersluidende overeenkomst tussen partijen, steeds van toepassing zijn op het arbitraal geschil en de rechtsmiddelen tegen de arbitrale beslissing, zodat de uitsluitende verwijzing in artikel 1717, §4, Gerechtelijk Wetboek, in de hier toepasselijke versie, naar artikel 1678, §1, a niet belet dat ook artikel 1678, §2, omtrent de berekening van de termijnen als algemene bepaling toepassing krijgt."
+      ]
+    }
+  },
+  "1679": {
+    "ECLI:BE:CASS:1998:ARR.19981013.8": {
+      "court": "CASS",
+      "date": "1998-10-13",
+      "roleNumber": "P970368N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/13/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque les parties conviennent que tout différend déjà né ou qui pourrait naître d'un rapport de droit déterminé et sur lequel il est permis de transiger peut faire l'objet d'une convention d'arbitrage, il en résulte, certes, que, suivant les termes de la loi elle-même et dans les conditions que celle-ci détermine, le juge est obligé, à la demande d'une partie, de se déclarer \"incompétent\" pour connaître du différend soumis à l'arbitrage, mais sa décision à cet égard concerne l'applicabilité d'une clause arbitrale comprise dans le contrat et non une attribution de compétence susceptible d'engendrer un conflit de juridiction auquel seul un règlement de juges peut mettre fin.",
+        "Est irrecevable, le pourvoi en cassation formé avant la décision définitive dirigé contre une décision relative à l'applicabilité d'une clause arbitrale, dès lors que celle-ci ne tranche aucune contestation de compétence."
+      ],
+      "abstractNL": [
+        "Wanneer partijen overeenkomen dat elk geschil dat reeds is ontstaan of nog kan ontstaan uit een bepaalde rechtsbetrekking en waarover een dading mag worden aangegaan, aan arbitrage wordt onderworpen, volgt hieruit weliswaar dat, naar de woorden van de wet zelf en in de door haar bepaalde voorwaarden, de rechter zich, op verzoek van een partij, \"onbevoegd\" moet verklaren om kennis te nemen van het aan arbitrage onderworpen geschil, doch zijn beslissing dienaangaande betreft de toepasselijkheid van een arbitrage-clausule begrepen in de overeenkomst en niet een bevoegdheidsaanwijzing die een geschil van rechtsmacht kan doen ontstaan waaraan enkel door een regeling van rechtsgebied een einde kan worden gesteld.",
+        "Niet ontvankelijk is het cassatieberoep, ingesteld voor de eindbeslissing, tegen een beslissing nopens de toepasselijkheid van een arbitragebeding, omdat ze geen geschil inzake bevoegdheid beslecht."
+      ]
+    },
+    "ECLI:BE:CASS:1995:ARR.19951109.10": {
+      "court": "CASS",
+      "date": "1995-11-09",
+      "roleNumber": "C930235N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1995/11/09/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Le tribunal saisi d'une demande est compétent pour connaître de la demande en intervention; ne s'y oppose pas, le fait qu'une convention d'arbitrage valable existe entre la partie qui cite en intervention et la partie qui est citée en intervention forcée."
+      ],
+      "abstractNL": [
+        "De rechtbank waarbij een vordering aanhangig is gemaakt, is bevoegd om kennis te nemen van de vordering tot tussenkomst; hieraan staat niet in de weg dat tussen de partij die tot tussenkomst oproept en de partij die tot gedwongen tussenkomst is opgeroepen, een geldige overeenkomst tot arbitrage bestaat."
+      ]
+    },
+    "ECLI:BE:CASS:1983:ARR.19830318.9": {
+      "court": "CASS",
+      "date": "1983-03-18",
+      "roleNumber": "3592",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1983/03/18/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Constituent une défense au fond, au sens de l'article 1679, alinéa 1er, du Code judiciaire, des conclusions par lesquelles une partie énonce divers points litigieux concernant le fond du litige."
+      ],
+      "abstractNL": [
+        "De conclusie waarin een partij allerlei geschilpunten uiteenzet betreffende de zaak zelf, is een verweer over de zaak zelf, in de zin van art. 1679, eerste lid, Gerechtelijk Wetboek."
       ]
     }
   },
@@ -153,6 +229,36 @@
       "abstractNL": [
         "Een geldige arbitrageovereenkomst verleent het scheidsgerecht een exclusieve bevoegdheid om over het in de overeenkomst bedoelde geschil te oordelen en het scheidsgerecht beoordeelt op autonome wijze zijn eigen rechtsmacht, met inbegrip van het bestaan, de geldigheid en de draagwijdte van de arbitrageovereenkomst; de verweerder in een arbitrageprocedure die de rechtsmacht van het scheidsgerecht betwist, moet de exceptie voor het scheidsgerecht opwerpen, waarna het scheidsgerecht zelf zijn rechtsmacht moet beoordelen; de overheidsrechter kan de arbitrale uitspraak achteraf nietig verklaren dan wel de erkenning of de uitvoerbaarverklaring ervan weigeren in geval van bewijs van de nietigheid van de arbitrageovereenkomst (1). (1) Zie concl. OM.",
         "Voorlopige of bewarende maatregelen zijn mogelijk zowel voor het scheidsgerecht als voor de overheidsrechter als kortgedingrechter, maar deze laatste heeft, evenmin als de overheidsrechter ten gronde, geen rechtsmacht om de schorsing of stopzetting van een lopende arbitrageprocedure te bevelen (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:1982:ARR.19821112.6": {
+      "court": "CASS",
+      "date": "1982-11-12",
+      "roleNumber": "3526",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'aux termes d'une convention d'arbitrage, un tiers est chargé de désigner les arbitres, ni l'article 1683 ni l'article 1684 du Code judiciaire n'imposent, en règle, à ce tiers de communiquer aux parties les noms de ces arbitres."
+      ],
+      "abstractNL": [
+        "Wanneer in een overeenkomst tot arbitrage een derde belast is met de aanwijzing van de scheidslieden leggen noch art. 1683, noch art. 1684 van het Gerechtelijk Wetboek hem de verplichting op de namen van die scheidslieden mede te delen aan de partijen, ook wanneer deze er om verzoeken."
+      ]
+    }
+  },
+  "1684": {
+    "ECLI:BE:CASS:1982:ARR.19821112.6": {
+      "court": "CASS",
+      "date": "1982-11-12",
+      "roleNumber": "3526",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1982/11/12/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'aux termes d'une convention d'arbitrage, un tiers est chargé de désigner les arbitres, ni l'article 1683 ni l'article 1684 du Code judiciaire n'imposent, en règle, à ce tiers de communiquer aux parties les noms de ces arbitres."
+      ],
+      "abstractNL": [
+        "Wanneer in een overeenkomst tot arbitrage een derde belast is met de aanwijzing van de scheidslieden leggen noch art. 1683, noch art. 1684 van het Gerechtelijk Wetboek hem de verplichting op de namen van die scheidslieden mede te delen aan de partijen, ook wanneer deze er om verzoeken."
       ]
     }
   },
@@ -388,6 +494,20 @@
       ],
       "abstractNL": [
         "De rechter legt een arbitrale uitspraak op onaantastbare wijze uit tenzij zijn uitlegging onverenigbaar is met de bewoordingen ervan (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:1993:ARR.19930129.5": {
+      "court": "CASS",
+      "date": "1993-01-29",
+      "roleNumber": "7862",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1993/01/29/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Bien que la demande d'annulation d'une sentence arbitrale fondée sur l'article 1704 du Code judiciaire ne peut, en règle, être intentée que par les parties mises en cause dans une procédure arbitrale, un tiers peut attaquer une sentence arbitrale pour cause de fraude si cette sentence résulte d'un litige simulé dont le seul but est de porter atteinte aux droits de ce tiers."
+      ],
+      "abstractNL": [
+        "Ofschoon de vordering tot vernietiging van een scheidsrechterlijke uitspraak op grond van art. 1704 Gerechtelijk Wetboek in de regel slechts door de in het arbitrage geding betrokken partijen kan worden ingesteld, kan een derde op grond van bedrog een scheidsrechterlijke uitspraak bestrijden als die volgt op een gefingeerd geschil dat enkel tot doel heeft de rechten van die derde te schaden."
       ]
     }
   },

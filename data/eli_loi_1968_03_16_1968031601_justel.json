@@ -7857,6 +7857,48 @@
       "abstractNL": [
         "Artikel 67ter, Wegverkeerswet knoopt geen bepaalde sanctie vast aan het feit dat de vraag om inlichtingen niet bij het proces-verbaal wordt gevoegd maar nadien wordt verstuurd, zodat in zulk geval de termijn van 15 dagen binnen dewelke de mededeling zoals bedoeld in dat artikel moet gebeuren slechts een aanvang neemt vanaf de datum waarop ook de vraag om inlichtingen wordt verstuurd."
       ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010612.6": {
+      "court": "CASS",
+      "date": "2001-06-12",
+      "roleNumber": "P991704N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/06/12/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une infraction à la loi relative à la police de la circulation routière du 16 mars 1968 et à ses arrêtés d'exécution est commise avec un véhicule à moteur immatriculé au nom d'une personne morale, le représentant de la personne morale est punissable tant lorsqu'il n'a pas communiqué l'identité du conducteur ou de la personne responsable du véhicule, que lorsqu'il a omis de prendre les mesures nécessaires en vue d'assurer le respect de cette obligation (1)."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van de Wegverkeerswet en haar uitvoeringsbesluiten begaan is met een motorvoertuig ingeschreven op naam van een rechtspersoon, wordt de verantwoordelijke van de rechtspersoon strafbaar gesteld zowel wanneer hij de identiteit van de bestuurder of van degene die voor het voertuig aansprakelijk is, niet heeft medegedeeld, als wanneer hij nagelaten heeft maatregelen te nemen om die mededeling alsnog mogelijk te maken (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010206.8": {
+      "court": "CASS",
+      "date": "2001-02-06",
+      "roleNumber": "P990774N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/06/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "La personne physique représentant une personne morale, n'étant pas poursuivie et n'ayant pas non plus comparu volontairement devant le juge pénal du chef d'une infraction à l'article 67ter de la loi du 16 mars 1968 relative à la police de la circulation routière, et au sujet de laquelle il n'est pas établi qu'elle était en personne le conducteur du véhicule avec lequel a été commis un excès de vitesse, ne peut légalement être condamnée du chef de cette infraction (1)."
+      ],
+      "abstractNL": [
+        "De natuurlijke persoon die een rechtspersoon vertegenwoordigt en niet vervolgd wordt noch vrijwillig voor de strafrechter is verschenen wegens inbreuk op art. 67ter Wegverkeerswet en waarvan niet is vastgesteld dat hij in persoon de bestuurder was van het voertuig waarmee een snelheidsovertreding is gepleegd, kan niet wettig veroordeeld worden voor die overtreding (1)."
+      ]
+    },
+    "ECLI:BE:CASS:2001:ARR.20010206.4": {
+      "court": "CASS",
+      "date": "2001-02-06",
+      "roleNumber": "P990498NT",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2001/02/06/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Contrairement à ce qui est prévu pour les véhicules à moteur immatriculés au nom d'une personne physique, le représentant de la personne morale n'est pas présumé avoir commis une infraction à la loi du 16 mars 1968 relative à la police de la circulation routière et à ses arrêtés d'exécution avec le véhicule à moteur immatriculé au nom de la personne morale."
+      ],
+      "abstractNL": [
+        "Anders dan is bepaald voor motorvoertuigen ingeschreven op naam van een natuurlijke persoon, wordt de vertegenwoordiger van de rechtspersoon niet vermoed dan hij de overtreding op de Wegverkeerswet en haar uitvoeringsbesluiten met het motorvoertuig ingeschreven op naam van de rechtspersoon heeft begaan."
+      ]
     }
   },
   "65/1": {
@@ -8888,6 +8930,20 @@
       ],
       "abstractNL": [
         "Noch art. 67bis, Wegverkeerswet, noch enig andere wettelijke bepaling verplichten de titularis van de nummerplaat ertoe om, als hij het voertuig op het ogenblik van de feiten niet bestuurde, de identiteit van de bestuurder kenbaar te maken."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990317.9": {
+      "court": "CASS",
+      "date": "1999-03-17",
+      "roleNumber": "P980753F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/03/17/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une infraction aux lois coordonnées sur la police de la circulation routière a été constatée par un appareil radar et que le conducteur du véhicule n'a pas été identifié, elle est censée avoir été commise par le titulaire de la plaque d'immatriculation dudit véhicule; il appartient à ce dernier d'apporter des éléments de preuve permettant de le disculper ou de créer un doute raisonnable quant à l'identification du conducteur."
+      ],
+      "abstractNL": [
+        "Wanneer een overtreding van de Wegverkeerswet is vastgesteld door middel van een radar en de bestuurder van het voertuig niet is geïdentificeerd, wordt die overtreding geacht te zijn begaan door de titularis van de nummerplaat van dat voertuig; het staat aan laatstgenoemde gegevens aan te brengen die zijn onschuld kunnen bewijzen of een redelijke twijfel kunnen wekken aangaande de identiteit van de bestuurder."
       ]
     }
   },

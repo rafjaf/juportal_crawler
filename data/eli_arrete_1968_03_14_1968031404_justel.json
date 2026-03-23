@@ -1356,5 +1356,37 @@
         "Door geen tegenstrijdigheid aangetast is het arrest dat, enerzijds, de beklaagde veroordeelt wegens overtreding van de artikelen 15-1 en 27-1 van het wegverkeersreglement van 10 december 1958 en onopzettelijk toebrengen van verwondingen aan een voetganger, die zich op een trottoir bevond en, anderzijds, de beklaagde vrijspreekt van de telastlegging, gegrond op artikel 10bis van hetzelfde wegverkeersreglement, ter zake dat hij als bestuurder de voetgangers op een trottoir in gevaar heeft gebracht."
       ]
     }
+  },
+  "17BIS": {
+    "ECLI:BE:CASS:1977:ARR.19770915.1": {
+      "court": "CASS",
+      "date": "1977-09-15",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1977/09/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si, en l'absence de définition légale de cette notion, le juge du fond apprécie en fait le point d'arrêt d'un autobus par rapport au signal indiquant l'arrêt, il appartient à la Cour de contrôler si ce juge ne s'est pas inspiré d'une notion inexacte de l'article 17bis du Code de la route du 14 mars 1968 (1)."
+      ],
+      "abstractNL": [
+        "Bij gebrek aan een wettelijke omschrijving van het begrip \" autobushalte \", beoordeelt de rechter die plaats in feite met inachtneming van het teken ter aanduiding van de halte; bijgevolg dient het Hof na te gaan of de rechter zich niet heeft laten leiden door een onjuist begrip van artikel 17bis van het Wegverkeersreglement van 14 maart 1968 (1)."
+      ]
+    }
+  },
+  "34BIS": {
+    "ECLI:BE:CASS:1970:ARR.19700608.2": {
+      "court": "CASS",
+      "date": "1970-06-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1970/06/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsque, conformément à la disposition de l'article 34bis, 4, du Code de la route du 14 mars 1968, le signal n° 35 figurant à l'annexe 2 de ce code ne porte aucune autre indication que \" disque obligatoire \", il interdit de stationner du côté du chiffre I les jours à date impaire, du côté du chiffre II les jours à date paire et, du côté où il autorise le stationnement, un temps plus long que la durée de stationnement indiquée par le disque-contrôle."
+      ],
+      "abstractNL": [
+        "Wanneer overeenkomstig de bepaling van artikel 34bis, 4, van het wegverkeersreglement van 14 maart 1968, het in bijlage 2 van dit wegverkeersreglement vermelde teken nr 35 geen andere aanwijzing draagt dan \" schijf verplicht \", verbiedt het te stationeren aan de zijde van het cijfer I op oneven dagen en aan de zijde van het cijfer II op even dagen, en aan de zijde door het teken toegelaten, gedurende een langere tijd dan de stationeringsduur door de controleschijf aangegeven."
+      ]
+    }
   }
 }

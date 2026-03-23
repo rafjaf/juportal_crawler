@@ -136,5 +136,49 @@
         "De politierechtbank, die de internering van een landloper in een toevluchtshuis beveelt, is niet bevoegd om de duur van deze internering vast te stellen; dat staat aan de minister van justitie. ( Artt. 16, 17 en 18 wet van 27 november 1891. )"
       ]
     }
+  },
+  "16BIS": {
+    "ECLI:BE:CASS:1984:ARR.19840718.1": {
+      "court": "CASS",
+      "date": "1984-07-18",
+      "roleNumber": "3711",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1984/07/18/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "En cas de rejet du pourvoi formé par un vagabond contre un jugement du tribunal correctionnel ordonnant son internement, les frais de l'instance en cassation doivent être mis à charge du demandeur. (Loi du 27 novembre 1891, art. 16bis; Code d'instr. crim., art. 162 et 176.)"
+      ],
+      "abstractNL": [
+        "In geval van verwerping van het cassatieberoep van een landloper tegen een vonnis van de correctionele rechtbank, waarbij zijn internering wordt bevolen, moeten de kosten van het geding in cassatie ten laste worden gelegd van de eiser. (Art. 16bis wet van 27 nov. 1891; artt. 162 en 176 Sv.)"
+      ]
+    },
+    "ECLI:BE:CASS:1978:ARR.19780308.1": {
+      "court": "CASS",
+      "date": "1978-03-08",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1978/03/08/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "En cas de rejet du pourvoi formé par un vagabond contre un jugement du tribunal correctionnel ordonnant sa mise à la disposition du gouvernement, les frais de l'instance en cassation doivent être mis à charge du demandeur (1). (Loi du 27 novembre 1891, modifiée le 6 août 1971, article 16bis; Code d'instr. crim., article 162 et 176.)"
+      ],
+      "abstractNL": [
+        "In geval van verwerping van de voorziening van een landloper tegen een vonnis van een correctionele rechtbank waarbij zijn terbeschikkingstelling van de Regering wordt bevolen, moeten de kosten van het cassatiegeding ten laste van de eiser blijven (1). ( Art. 16bis wet van 27 november 1891, gewijzigd op 6 augustus 1971; artt. 162 en 176 Sv. )"
+      ]
+    },
+    "ECLI:BE:CASS:1973:ARR.19730109.1": {
+      "court": "CASS",
+      "date": "1973-01-09",
+      "roleNumber": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1973/01/09/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le délai de huit jours imparti au tribunal correctionnel par l'article 16bis de la loi du 27 novembre 1891 modifiée par celle du 6 août 1971, pour statuer sur l'appel formé contre un jugement mettant un vagabond à la disposition du gouvernement, n'est pas prescrit à peine de nullité; aucune disposition légale n'impose, en cas d'inobservation de ce délai, que le tribunal soit dessaisi de l'affaire ni qu'il soit mis fin à la privation de liberté de l'intéressé."
+      ],
+      "abstractNL": [
+        "De termijn van acht dagen die bij artikel 16bis van de wet van 27 november 1891, gewijzigd bij die van 6 augustus 1971, aan de correctionele rechtbank is opgelegd om uitspraak te doen over het hoger beroep tegen een vonnis waarbij een landloper ter beschikking van de Regering wordt gesteld, is niet voorgeschreven op straffe van nietigheid; geen enkele wettelijke bepaling beveelt dat bij niet-inachtneming van die termijn de kennisneming van de zaak aan de rechtbank onttrokken wordt of dat er een einde wordt gemaakt aan de vrijheidsberoving van de betrokkene."
+      ]
+    }
   }
 }
