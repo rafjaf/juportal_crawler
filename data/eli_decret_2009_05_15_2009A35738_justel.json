@@ -122,10 +122,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_638.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/16/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/23/sitemap_2.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "Lorsqu'une infraction urbanistique consiste à utiliser habituellement, sans autorisation préalable, à aménager ou à équiper un terrain pour le parcage de véhicules, de voitures ou de remorques, tels que visés à l'article 4.2.1, 5°, b), du Code flamand de l'aménagement du territoire, la remise des lieux en leur pristin état peut être ordonnée, en application de l'article 6.3.1 du même code, sur le fondement de cette infraction, ainsi que l'enlèvement de tout élément ayant servi à l'aménagement du terrain destiné à cette utilisation habituelle, en ce compris un revêtement ; le fait qu'un revêtement était déjà présent sur le lieu en question avant le 22 avril 1962, n'a, à cet égard, aucune incidence."
       ],
       "abstractNL": [
         "Wanneer een stedenbouwkundig misdrijf bestaat in het zonder voorafgaande vergunning gewoonlijk gebruiken, aanleggen of inrichten van een grond voor het parkeren van voertuigen, wagens of aanhangwagens zoals bedoeld in artikel 4.2.1, 5°, b), Vlaamse Codex Ruimtelijke Ordening, kan het herstel van de plaats in de oorspronkelijke toestand dat bij toepassing van artikel 6.3.1 Vlaamse Codex Ruimtelijke Ordening op grond van dat misdrijf wordt bevolen, ook strekken tot het verwijderen van alles waarmee de grond voor dat gewoonlijk gebruik werd ingericht, met inbegrip van een verharding; de omstandigheid dat er op de desbetreffende plaats reeds vóór 22 april 1962 een verharding aanwezig was, doet hieraan geen afbreuk.",
@@ -411,10 +413,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_638.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/16/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/23/sitemap_2.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "Les critères de l'article 6.3.1 du Code flamand de l'aménagement du territoire ne sont pas applicables à l'action en réparation introduite par la partie civile."
       ],
       "abstractNL": [
         "De criteria van artikel 6.3.1 Vlaamse Codex Ruimtelijke Ordening zijn niet van toepassing op de herstelvordering van de burgerlijke partij.",
@@ -732,6 +736,20 @@
       "abstractNL": [
         "De toepasselijkheid van het door artikel 4.2.14, § 1, Vlaamse Codex Ruimtelijke Ordening ingevoerde vermoeden van vergunning vereist dat hij die zich erop beroept aantoont dat de constructie werd gebouwd vóór de referentiedatum van 22 april 1962 en dat het nog steeds gaat om dezelfde constructie, zodat indien de constructie zodanig is gewijzigd of aangepast dat ze niet langer kan worden beschouwd als een bestaande constructie, het vermoeden van vergunning niet kan worden ingeroepen; het staat aan de rechter te oordelen of de constructie zodanig is gewijzigd of aangepast dat die niet langer te beschouwen is als een bestaande constructie en bij die beoordeling kan de rechter rekening houden met verbouwingen aan of uitbreidingen van de constructie en kan hij in aanmerking nemen of de werken aan de constructie gelet op hun aard en hun omvang niet louter het onderhoud of de instandhouding ervan beogen."
       ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20211019.2N.27": {
+      "court": "CASS",
+      "date": "2021-10-19",
+      "roleNumber": "P.21.0246.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/23/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'une infraction urbanistique consiste à utiliser habituellement, sans autorisation préalable, à aménager ou à équiper un terrain pour le parcage de véhicules, de voitures ou de remorques, tels que visés à l'article 4.2.1, 5°, b), du Code flamand de l'aménagement du territoire, la remise des lieux en leur pristin état peut être ordonnée, en application de l'article 6.3.1 du même code, sur le fondement de cette infraction, ainsi que l'enlèvement de tout élément ayant servi à l'aménagement du terrain destiné à cette utilisation habituelle, en ce compris un revêtement ; le fait qu'un revêtement était déjà présent sur le lieu en question avant le 22 avril 1962, n'a, à cet égard, aucune incidence."
+      ],
+      "abstractNL": [
+        "Wanneer een stedenbouwkundig misdrijf bestaat in het zonder voorafgaande vergunning gewoonlijk gebruiken, aanleggen of inrichten van een grond voor het parkeren van voertuigen, wagens of aanhangwagens zoals bedoeld in artikel 4.2.1, 5°, b), Vlaamse Codex Ruimtelijke Ordening, kan het herstel van de plaats in de oorspronkelijke toestand dat bij toepassing van artikel 6.3.1 Vlaamse Codex Ruimtelijke Ordening op grond van dat misdrijf wordt bevolen, ook strekken tot het verwijderen van alles waarmee de grond voor dat gewoonlijk gebruik werd ingericht, met inbegrip van een verharding; de omstandigheid dat er op de desbetreffende plaats reeds vóór 22 april 1962 een verharding aanwezig was, doet hieraan geen afbreuk."
+      ]
     }
   },
   "5.1.3": {
@@ -790,10 +808,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_638.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/16/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/19/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/23/sitemap_2.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "Constitue une infraction intentionnelle le fait d'utiliser habituellement, d'aménager ou d'équiper, sans autorisation urbanistique préalable, à savoir le permis d'environnement pour des actes urbanistiques, un terrain pour le parcage de véhicules, de voitures ou de remorques, puni par l'article 6.1.1, alinéa 1er, du Code flamand de l'aménagement du territoire, tel qu'applicable avant le 1er mars 2018, actuellement article 6.2.1, alinéa 1er, du même code dans sa version applicable à partir du 1er mars 2018."
       ],
       "abstractNL": [
         "Het zonder voorafgaande stedenbouwkundige vergunning, thans omgevingsvergunning voor stedenbouwkundige handelingen, gewoonlijk gebruiken, aanleggen of inrichten van een grond voor het parkeren van voertuigen, wagens of aanhangwagens, strafbaar gesteld door artikel 6.1.1, eerste lid, 1°, Vlaamse Codex Ruimtelijke Ordening zoals van toepassing voor 1 maart 2018, thans artikel 6.2.1, eerste lid, 1°, Vlaamse Codex Ruimtelijke Ordening zoals van toepassing vanaf 1 maart 2018, is een opzettelijk misdrijf.",
