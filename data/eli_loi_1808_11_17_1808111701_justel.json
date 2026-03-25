@@ -533,6 +533,20 @@
       "abstractNL": [
         "Hij die kan beweren persoonlijk te zijn benadeeld door het misdrijf, dat het voorwerp is van de strafvordering, dit wil zeggen hij die bewijst dat hij het slachtoffer kon geweest zijn van het misdrijf, is ontvankelijk om voor het strafgerecht een burgerlijke rechtsvordering in te stellen; de feitelijke beoordeling van deze voorwaarde door de rechter is onaantastbaar. (Wet van 17 april 1878, art. 3; Sv., art. 63.)"
       ]
+    },
+    "ECLI:BE:CASS:2002:ARR.20020529.5": {
+      "court": "CASS",
+      "date": "2002-05-29",
+      "roleNumber": "P.02.0323.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/24/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge pénal ne peut allouer des dommages à la partie civile que dans la mesure où l'action exercée par celle-ci a pour objet la réparation du dommage causé par une infraction (1)."
+      ],
+      "abstractNL": [
+        "De strafrechter kan slechts schadevergoeding aan een burgerlijke partij toekennen, in zoverre de door die partij ingestelde rechtsvordering strekt tot vergoeding van de door een misdrijf veroorzaakte schade (1)."
+      ]
     }
   },
   "4": {
@@ -553,9 +567,10 @@
     "ECLI:BE:CASS:2002:ARR.20020529.5": {
       "court": "CASS",
       "date": "2002-05-29",
-      "roleNumber": "P020323F",
+      "roleNumber": "P.02.0323.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/05/29/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/05/29/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/24/sitemap_1.xml"
       ],
       "abstractFR": [
         "Le juge pénal ne peut allouer des dommages à la partie civile que dans la mesure où l'action exercée par celle-ci a pour objet la réparation du dommage causé par une infraction (1)."
