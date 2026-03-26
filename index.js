@@ -24,6 +24,7 @@ import { extractOldStyleArticle, extractLegalBasisKey } from './src/utils.js';
 import { findMissingEli } from './src/find_missing_eli.js';
 import { fixArticlesFromLog } from './src/fix_articles.js';
 import { addRelated } from './src/add_related.js';
+import { fixTpcpp } from './src/fix_tpcpp.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -117,6 +118,10 @@ async function main() {
     console.log(`                            cross-references into the target ELI data files.`);
     console.log(`                            The mapping file must have "from", "to" and "articles"`);
     console.log(`                            keys (see old_to_new_civil_code_mapping.full.json).`);
+    console.log(`  ${chalk.cyan('--fix-tpcpp')}              Re-examine CIC first-part data (1808111701) for`);
+    console.log(`                            articles 8–32 and move entries that actually belong`);
+    console.log(`                            to the TPCPP (1878041750) based on the law date`);
+    console.log(`                            in the original sitemap.`);
     console.log(`  ${chalk.cyan('--redo')}                   Re-crawl all sitemaps from robots.txt, ignoring the list`);
     console.log(`                            of already-processed entries in settings.json.`);
     console.log(`                            Judgements that already have data in data/ (detected by`);
@@ -302,6 +307,12 @@ async function main() {
 
   if (process.argv.includes('--fix-articles-from-log')) {
     await fixArticlesFromLog();
+    return;
+  }
+
+  if (process.argv.includes('--fix-tpcpp')) {
+    await fixTpcpp();
+    flushAll();
     return;
   }
 

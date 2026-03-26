@@ -14,6 +14,7 @@ import {
   extractOldStyleArticle,
   extractOldStyleArticleWithEli,
 } from './utils.js';
+import { correctEliByDate } from './split_texts.js';
 
 /**
  * Labels used for legal bases in different languages.
@@ -176,15 +177,17 @@ export function parseJudgementHtml(html) {
     // Skip fieldsets with no useful content at all
     if (!abstractText && !motsLibresFR && !motsLibresNL && basesLegales.length === 0 && missingEliBases.length === 0) return;
 
-    // Enrich legal bases with FR/NL raw texts
+    // Enrich legal bases with FR/NL raw texts and correct ELI by date
     const basisTextLookup = buildBasisTextLookup(allBasisTexts);
     for (const b of basesLegales) {
-      const date = extractDateFromBasisText(
+      const rawDate = extractDateFromBasisText(
         (allBasisTexts.find(t => t.article === b.article) || {}).rawText || ''
-      ) || 'no-date';
+      );
+      const date = rawDate || 'no-date';
       const texts = basisTextLookup[`${b.article}|${date}`] || {};
       b.legalBasisFR = texts.fr || null;
       b.legalBasisNL = texts.nl || null;
+      if (rawDate) b.eli = correctEliByDate(b.eli, b.article, rawDate);
     }
     for (const m of missingEliBases) {
       const date = extractDateFromBasisText(m.rawLegalBasisText || '') || 'no-date';

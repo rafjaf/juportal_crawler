@@ -1,7 +1,7 @@
 import chalk from 'chalk';
 import { logInfo, logWarn, logSuccess, timestamp } from './logger.js';
 import { loadDataFile, saveDataFile, loadMissingEliFile, saveMissingEliFile, appendMissingEli } from './storage.js';
-import { eliToFilename, normalizeEliToFrench, normalizeCgiUrl, normalizeArticleNumber } from './utils.js';
+import { eliToFilename, normalizeEliToFrench, normalizeCgiUrl, normalizeArticleNumber, extractDateFromBasisText } from './utils.js';
 import { getAllSplitTextElis, articleBelongsToPart, findEliForArticle, findSplitText } from './split_texts.js';
 
 // ─── Data Assembly & Export ───────────────────────────────────────────────────
@@ -87,7 +87,8 @@ export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) 
       if (missing.article && missing.article !== 'general') {
         const splitText = findSplitText(missing.rawLegalBasisText || '');
         if (splitText) {
-          const resolvedEli = findEliForArticle(splitText, missing.article);
+          const dateHint = extractDateFromBasisText(missing.rawLegalBasisText || '') || undefined;
+          const resolvedEli = findEliForArticle(splitText, missing.article, dateHint);
           if (resolvedEli) {
             logInfo(chalk.gray(`${timestamp()}       Resolved from split_texts | article="${missing.article}" | eli=${resolvedEli}`));
             storeJudgementData(judgement, [{
@@ -195,7 +196,8 @@ export function processMissingEliFile() {
       // For split texts, resolve to the correct part's ELI based on article
       let eli = normalizedEli;
       if (splitText) {
-        const correctEli = findEliForArticle(splitText, article);
+        const dateHint = extractDateFromBasisText(key) || undefined;
+        const correctEli = findEliForArticle(splitText, article, dateHint);
         if (correctEli) eli = correctEli;
       }
 

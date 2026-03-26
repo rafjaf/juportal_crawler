@@ -14,6 +14,7 @@ import {
   extractOldStyleArticleWithEli,
   extractPublicationCounter,
 } from './utils.js';
+import { correctEliByDate } from './split_texts.js';
 
 /**
  * Upgrade bare-number "general" entries to specific articles by finding the
@@ -410,10 +411,17 @@ export async function parseSitemapXml(sitemapUrl) {
       continue;
     }
 
+    // Correct ELI based on the date in the raw legal-basis text when the
+    // ELI belongs to a split text with overlapping parts (e.g. TPCPP / CIC).
+    const rawDate = extractDateFromBasisText(lb.rawText || '');
+    if (rawDate) {
+      eli = correctEliByDate(eli, lb.article, rawDate);
+    }
+
     const key = `${lb.article}|${eli}`;
     if (!seenBases.has(key)) {
       seenBases.add(key);
-      const date = extractDateFromBasisText(lb.rawText || '') || 'no-date';
+      const date = rawDate || 'no-date';
       const texts = basisTextLookup[`${lb.article}|${date}`] || {};
       uniqueBases.push({ ...lb, eli, legalBasisFR: texts.fr || null, legalBasisNL: texts.nl || null });
     }
