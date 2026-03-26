@@ -11,6 +11,7 @@ import {
   extractLegalBasisKey,
   extractDateFromBasisText,
   buildBasisTextLookup,
+  extractOldStyleArticle,
   extractOldStyleArticleWithEli,
   extractPublicationCounter,
 } from './utils.js';
@@ -314,8 +315,13 @@ export async function parseSitemapXml(sitemapUrl) {
         //      "Directive 2014/41/UE ... - 03-04-2014"
         if (RE_REF_NO_ART.test(text)) {
           const newLawKey = extractLegalBasisKey(text);
-          // Try to detect an article from the old-style format (e.g. "DATE - 39,§1").
-          const detectedArticles = extractOldStyleArticleWithEli(text);
+          // Try to detect an article: first try two-segment format (DATE - ART - COUNTER)
+          // used in modern sitemaps with ELI; then fall back to single-segment old format
+          // (DATE - ART) used in pre-ELI sitemaps, e.g. "Titre préliminaire - 17-04-1878 - 26".
+          let detectedArticles = extractOldStyleArticleWithEli(text);
+          if (!detectedArticles || detectedArticles.length === 0) {
+            detectedArticles = extractOldStyleArticle(text);
+          }
           const article = (detectedArticles && detectedArticles.length > 0) ? detectedArticles[0] : 'general';
           logInfo(chalk.gray(`${timestamp()}       No-article law ref (XML) | raw="${text}" | article=${article} | awaiting ELI`));
           // Flush previous articles for a different law group
