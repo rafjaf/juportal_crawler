@@ -8,16 +8,18 @@
  */
 
 import chalk from 'chalk';
-import { logInfo, logSuccess, logWarn, logError, timestamp } from './logger.js';
+import { logInfo, logSuccess, logWarn, timestamp } from './logger.js';
 import { loadDataFile, saveDataFile } from './storage.js';
 import { eliToFilename, extractDateFromBasisText } from './utils.js';
-import { correctEliByDate } from './split_texts.js';
 import { parseSitemapXml } from './sitemap.js';
-import { fetchJudgementHtml, parseJudgementHtml } from './judgement.js';
-import { progress } from './progress.js';
 
-const CIC_ELI  = 'https://www.ejustice.just.fgov.be/eli/loi/1808/11/17/1808111701/justel';
-const TPCPP_ELI = 'https://www.ejustice.just.fgov.be/eli/loi/1878/04/17/1878041750/justel';
+const CIC_ELI   = 'https://www.ejustice.just.fgov.be/eli/loi/1808/11/17/1808111701/justel';
+const TPCPP_ELI  = 'https://www.ejustice.just.fgov.be/eli/loi/1878/04/17/1878041750/justel';
+
+/** Normalise http:// → https:// for comparison purposes. */
+function normalizeProtocol(url) {
+  return (url || '').replace(/^http:\/\//, 'https://');
+}
 const CIC_FILE   = eliToFilename(CIC_ELI);
 const TPCPP_FILE = eliToFilename(TPCPP_ELI);
 
@@ -104,12 +106,17 @@ export async function fixTpcpp() {
 
     if (!judgement || judgement.skipped) continue;
 
-    // Check each legal basis in the parsed sitemap for date-based correction.
-    // After the root-cause fix, parseSitemapXml already applies correctEliByDate,
-    // so any legal basis that now points to TPCPP ELI was corrected.
+    // A legal basis belongs to TPCPP when:
+    //   (a) parseSitemapXml resolved its ELI to TPCPP (covers both the case
+    //       where the XML already had the TPCPP ELI and the case where
+    //       correctEliByDate redirected a wrong CIC ELI), OR
+    //   (b) the entry has no ELI but the raw text date is 17-04-1878.
+    //
+    // Note: ELIs from the XML use http://, normalizeEliToFrench does not
+    // upgrade the protocol, so we compare after normalising.
     const correctedArticles = new Set();
     for (const lb of judgement.legalBases) {
-      if (lb.eli === TPCPP_ELI && isInOverlapRange(lb.article)) {
+      if (normalizeProtocol(lb.eli) === TPCPP_ELI && isInOverlapRange(lb.article)) {
         correctedArticles.add(lb.article);
       }
     }
