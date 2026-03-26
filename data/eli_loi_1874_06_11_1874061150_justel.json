@@ -2160,6 +2160,21 @@
       ]
     }
   },
+  "62": {
+    "ECLI:BE:CASS:2026:ARR.20260115.1N.10": {
+      "court": "CASS",
+      "date": "2026-01-15",
+      "roleNumber": "C.24.0470.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_35.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Opdat de verzekeraar van dekking is bevrijd, is het noodzakelijk maar voldoende dat de verzekerde door zijn handelen of nalaten vrijwillig en bewust schade heeft willen veroorzaken; de omstandigheid dat de verzekerde niet de aard of de omvang van het schadegeval heeft beoogd, doet niet ter zake.",
+        "Het feit dat de verzekerde brand sticht met de intentie om zelfmoord te plegen verhindert niet dat hij het schadegeval opzettelijk heeft veroorzaakt."
+      ]
+    }
+  },
   "69": {
     "ECLI:BE:CASS:2022:ARR.20220524.2N.1": {
       "court": "CASS",

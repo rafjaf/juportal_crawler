@@ -2041,7 +2041,8 @@
       "date": "2021-02-10",
       "roleNumber": "P.21.0163.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/02/10/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/02/10/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_5.xml"
       ],
       "abstractFR": [
         "L'interdiction du recours à la détention préventive comme moyen de contrainte est la conséquence du droit au silence reconnu à tout inculpé, lequel découle lui-même de l'obligation, à laquelle sont tenues les autorités judiciaires, de respecter la présomption d'innocence de ce dernier; la méconnaissance de cette interdiction affecte une condition de fond du titre de détention et non seulement sa formulation, de sorte que les juridictions d'instruction ne sont pas habilitées à y apporter remède (1). (1) Voir M.-A. BEERNAERT, H.-D. BOSLY et D. VANDERMEERSCH, Droit de la procédure pénale, La Charte, Bruges, 9ème éd., 2021, t. I, pp. 1071-1072 ; B. DEJEMEPPE, « La loi du 20 juillet 1990 relative à la détention préventive », J.T., 1990, p. 587, qui distingue la double condition négative édictée à l'art. 16, § 1er, al. 3, de la loi relative à la détention préventive et les conditions « positives » énumérées aux al. 1er et 4 ; P. MARCHAL, « Principes généraux du droit », R.P.D.B., Bruylant, 2014, nos 145 à 149 ; concl. partiellement contraires du MP, qui a conclu en l'espèce, à titre principal, à la cassation avec renvoi.",
@@ -2049,7 +2050,8 @@
       ],
       "abstractNL": [
         "Het verbod om de voorlopige hechtenis als dwangmiddel te gebruiken, is het gevolg van het aan elke inverdenkinggestelde toegekende zwijgrecht, dat op zijn beurt voortvloeit uit de verplichting, voor de gerechtelijke autoriteiten, om het vermoeden van onschuld van laatstgenoemde te eerbiedigen; de miskenning van dat verbod raakt aan een grondvoorwaarde van de hechtenistitel en niet louter aan de formulering ervan, zodat de onderzoeksgerechten niet bevoegd zijn om deze te verhelpen (1). (1) Zie M.-A. BEERNAERT, H.-D. BOSLY en D. VANDERMEERSCH, Droit de la procédure pénale, La Charte, Brugge, 9e uitg., 2021, dl. I, p. 1071-1072; B. DEJEMEPPE, \"La loi du 20 juillet 1990 relative à la détention préventive\", J.T., 1990, p. 587, dat een onderscheid maakt tussen de dubbele negatieve voorwaarde opgelegd in art. 16, § 1, derde lid, Voorlopige Hechteniswet, en de “positieve” voorwaarden opgesomd in het eerste en het vierde lid; P. MARCHAL, “Principes généraux du droit”, R.P.D.B., Bruylant, 2014, nrs. 145 tot 149; gedeeltelijk andersluidende concl. van het OM dat in dit geval, in hoofdzaak, heeft geconcludeerd tot vernietiging met verwijzing.",
-        "De onderzoeksrechter kan niet, zonder miskenning van het vermoeden van onschuld, de inhechtenisneming van de inverdenkinggestelde bevelen door vast te stellen dat de openbare veiligheid zich verzet tegen zijn invrijheidsstelling onder voorwaarden en tegen zijn hechtenis onder elektronisch toezicht, en dat die voorwaarde, bepaald in artikel 16, § 1, eerste lid, Voorlopige Hechteniswet, is vervuld wegens kennelijk gebrek aan samenwerking van de inverdenkinggestelde (1). (1) Zie concl. OM in Pas. 2021, nr. 110."
+        "De onderzoeksrechter kan niet, zonder miskenning van het vermoeden van onschuld, de inhechtenisneming van de inverdenkinggestelde bevelen door vast te stellen dat de openbare veiligheid zich verzet tegen zijn invrijheidsstelling onder voorwaarden en tegen zijn hechtenis onder elektronisch toezicht, en dat die voorwaarde, bepaald in artikel 16, § 1, eerste lid, Voorlopige Hechteniswet, is vervuld wegens kennelijk gebrek aan samenwerking van de inverdenkinggestelde (1). (1) Zie concl. OM in Pas. 2021, nr. 110.",
+        "De onderzoeksrechter kan niet, zonder miskenning van het vermoeden van onschuld, de inhechtenisneming van de inverdenkinggestelde bevelen door vast te stellen dat de openbare veiligheid zich verzet tegen zijn invrijheidsstelling onder voorwaarden en tegen zijn hechtenis onder elektronisch toezicht, en dat die voorwaarde, bepaald in artikel 16, § 1, eerste lid, Voorlopige Hechteniswet, is vervuld wegens kennelijk gebrek aan samenwerking van de inverdenkinggestelde (1). (1) Zie concl. OM."
       ]
     },
     "ECLI:BE:CASS:2021:ARR.20210105.2N.11": {
@@ -3695,6 +3697,18 @@
       "abstractNL": [
         "De onderzoeksgerechten die geroepen zijn om een bevel tot aanhouding op zijn wettigheid te toetsen, vermogen niet te verhelpen aan de onregelmatigheid ervan wegens het ontbreken van elke vermelding van de feitelijke omstandigheden van de zaak of eigen aan de persoonlijkheid van de verdachte. (Voorlopige-Hechteniswet, art. 16, alinéa 5.)"
       ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251119.2F.14": {
+      "court": "CASS",
+      "date": "2025-11-19",
+      "roleNumber": "P.25.1479.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_29.xml"
+      ],
+      "abstractFR": [
+        "Impliquant la poursuite de la privation de liberté de l'inculpé, la détention préventive sous la modalité de la surveillance électronique est une mesure plus coercitive que sa mise en liberté sous conditions; dès lors, lorsque la juridiction d'instruction considère que l'absolue nécessité pour la sécurité publique de maintenir l'inculpé en détention préventive ne peut s'accommoder de la modalité de la surveillance électronique et que son exécution doit se poursuivre en prison, cette décision exclut qu'une alternative à la détention préventive elle-même puisse être accordée."
+      ],
+      "abstractNL": null
     }
   },
   "17": {
@@ -7397,6 +7411,18 @@
       "abstractNL": [
         "Noch het algemeen rechtsbeginsel van het recht van verdediging noch art. 22 Wet Voorlopige Hechtenis 1990 worden geschonden, wanneer de verdachte, die de taal van de rechtspleging niet verstaat, de bijstand van een tolk krijgt binnen de in art. 184bis Sv. aangegeven grenzen."
       ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251119.2F.14": {
+      "court": "CASS",
+      "date": "2025-11-19",
+      "roleNumber": "P.25.1479.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_29.xml"
+      ],
+      "abstractFR": [
+        "Impliquant la poursuite de la privation de liberté de l'inculpé, la détention préventive sous la modalité de la surveillance électronique est une mesure plus coercitive que sa mise en liberté sous conditions; dès lors, lorsque la juridiction d'instruction considère que l'absolue nécessité pour la sécurité publique de maintenir l'inculpé en détention préventive ne peut s'accommoder de la modalité de la surveillance électronique et que son exécution doit se poursuivre en prison, cette décision exclut qu'une alternative à la détention préventive elle-même puisse être accordée."
+      ],
+      "abstractNL": null
     }
   },
   "23": {
@@ -17631,6 +17657,18 @@
       "abstractNL": [
         "Een verzoeker tot terugbetaling van de door hem betaalde borgsom moet zijn cassatieberoep aan het openbaar ministerie betekenen (1)."
       ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251119.2F.14": {
+      "court": "CASS",
+      "date": "2025-11-19",
+      "roleNumber": "P.25.1479.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_29.xml"
+      ],
+      "abstractFR": [
+        "Impliquant la poursuite de la privation de liberté de l'inculpé, la détention préventive sous la modalité de la surveillance électronique est une mesure plus coercitive que sa mise en liberté sous conditions; dès lors, lorsque la juridiction d'instruction considère que l'absolue nécessité pour la sécurité publique de maintenir l'inculpé en détention préventive ne peut s'accommoder de la modalité de la surveillance électronique et que son exécution doit se poursuivre en prison, cette décision exclut qu'une alternative à la détention préventive elle-même puisse être accordée."
+      ],
+      "abstractNL": null
     }
   },
   "36": {
