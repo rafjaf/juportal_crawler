@@ -296,9 +296,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_1.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_77.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_77.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_18.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'aveu peut porter tant sur des faits juridiques que sur des faits matériels, mais pas sur la solution à donner en droit au litige."
+      ],
       "abstractNL": [
         "De bekentenis kan slaan op zowel rechtsfeiten als materiële feiten, maar niet op de oplossing die, naar recht, aan een betwisting moet worden gegeven."
       ]
@@ -375,6 +378,20 @@
       "abstractFR": null,
       "abstractNL": [
         "Uit de regel dat een samengestelde bekentenis niet mag worden gesplitst volgt dat het voor de rechter in beginsel niet mogelijk is om rekening te houden met een van de onderdelen van die bekentenis en om het tweede onderdeel, dat de gevolgen van het eerste teniet doet of beperkt, buiten beschouwing te laten; deze regel geldt echter niet indien de onjuistheid van dit tweede onderdeel van de bekentenis wordt bewezen. In dat geval mag de rechter enkel het eerste onderdeel in aanmerking nemen, onafhankelijk van het tweede onderdeel (1). (1) Zie betreffende de toepassing van artikel 1356, derde lid Oud Burgerlijk Cass. 3 september 1992, AR 9393, AC 1991-92, 1061."
+      ]
+    },
+    "ECLI:BE:CASS:2022:ARR.20221007.1N.5": {
+      "court": "CASS",
+      "date": "2022-10-07",
+      "roleNumber": "C.21.0221.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_18.xml"
+      ],
+      "abstractFR": [
+        "L'aveu peut porter tant sur des faits juridiques que sur des faits matériels, mais pas sur la solution à donner en droit au litige."
+      ],
+      "abstractNL": [
+        "De bekentenis kan slaan op zowel rechtsfeiten als materiële feiten, maar niet op de oplossing die, naar recht, aan een betwisting moet worden gegeven."
       ]
     }
   },

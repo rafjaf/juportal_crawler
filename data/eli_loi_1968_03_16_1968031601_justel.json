@@ -354,6 +354,22 @@
       ]
     }
   },
+  "26": {
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.9": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0673.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 45, alinéa 1er, de la loi du 16 mars 1968 relative à la police de la circulation routière prévoit que le juge peut limiter la déchéance du droit de conduire aux catégories de véhicules qu'il indique conformément aux dispositions arrêtées par le Roi en vertu de l'article 26 de la loi, sauf si la réintégration dans le droit de conduire est subordonnée à la condition d'avoir satisfait à un ou plusieurs des examens visés à l'article 38, § 3, de cette même loi (1). (1) Cass. 15 janvier 2019, RG P.18.1187.N, Pas. 2019, n° 24."
+      ],
+      "abstractNL": [
+        "Artikel 45, eerste lid, Wegverkeerswet bepaalt dat de rechter het verval van het recht tot sturen kan beperken tot de categorieën van voertuigen die hij aangeeft overeenkomstig de bepalingen vastgesteld door de Koning krachtens artikel 26 van de wet, maar dat dit niet kan als het herstel in het recht tot sturen afhankelijk wordt gemaakt van het slagen voor een of meer van de in artikel 38, § 3, Wegverkeerswet vermelde examens en onderzoeken (1). (1) Cass. 15 januari 2019, AR P.18.1187.N, AC 2019, nr. 24."
+      ]
+    }
+  },
   "28": {
     "ECLI:BE:CASS:2023:ARR.20230912.2N.8": {
       "court": "CASS",
@@ -954,6 +970,20 @@
       ],
       "abstractNL": [
         "Het bewijs van het in art. 30, ,§ 1, 1°, Wegverkeerswet, bedoelde misdrijf, is niet afhankelijk van de voorwaarde dat de pleger geïdentificeerd werd op het ogenblik dat hij het voertuig bestuurde waarmee hij het misdrijf heeft gepleegd."
+      ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.15": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0685.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 38 de la loi du 16 mars 1968 relative à la police de la circulation routière ne permet pas, hormis en cas d'application des paragraphes 1er, 4°, et 6, de prononcer une déchéance du droit de conduire à titre de peine accessoire pour une infraction punie par l'article 30, § 2, de cette même loi."
+      ],
+      "abstractNL": [
+        "Artikel 38 Wegverkeerswet laat, behoudens ingeval van toepassing van paragraaf 1, 4°, en van paragraaf 6, niet toe om voor een overtreding strafbaar gesteld door artikel 30, § 2, Wegverkeerswet een verval van het recht tot sturen als bijkomende straf uit te spreken."
       ]
     }
   },
@@ -3361,6 +3391,34 @@
       "abstractNL": [
         "Uit artikel 6.1 EVRM, artikel 149 Grondwet en de algemene rechtsbeginselen houdende eerbiediging van het recht van verdediging en het recht op een eerlijk proces kan niet worden afgeleid dat de rechter de beveiligingsmaatregel van het afhankelijk maken van het herstel van het recht tot sturen van een motorvoertuig van het slagen in één of meerdere examens en onderzoeken slechts kan opleggen indien het opleggen van die maatregel werd gevorderd door het openbaar ministerie of indien over die maatregel een tegensprekelijk debat wordt gehouden; de beklaagde dient er bij zijn verdediging rekening mee te houden dat deze bij wet bepaalde en dus voorzienbare maatregel door de rechter kan worden opgelegd."
       ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.9": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0673.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 45, alinéa 1er, de la loi du 16 mars 1968 relative à la police de la circulation routière prévoit que le juge peut limiter la déchéance du droit de conduire aux catégories de véhicules qu'il indique conformément aux dispositions arrêtées par le Roi en vertu de l'article 26 de la loi, sauf si la réintégration dans le droit de conduire est subordonnée à la condition d'avoir satisfait à un ou plusieurs des examens visés à l'article 38, § 3, de cette même loi (1). (1) Cass. 15 janvier 2019, RG P.18.1187.N, Pas. 2019, n° 24."
+      ],
+      "abstractNL": [
+        "Artikel 45, eerste lid, Wegverkeerswet bepaalt dat de rechter het verval van het recht tot sturen kan beperken tot de categorieën van voertuigen die hij aangeeft overeenkomstig de bepalingen vastgesteld door de Koning krachtens artikel 26 van de wet, maar dat dit niet kan als het herstel in het recht tot sturen afhankelijk wordt gemaakt van het slagen voor een of meer van de in artikel 38, § 3, Wegverkeerswet vermelde examens en onderzoeken (1). (1) Cass. 15 januari 2019, AR P.18.1187.N, AC 2019, nr. 24."
+      ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.15": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0685.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "L'article 38 de la loi du 16 mars 1968 relative à la police de la circulation routière ne permet pas, hormis en cas d'application des paragraphes 1er, 4°, et 6, de prononcer une déchéance du droit de conduire à titre de peine accessoire pour une infraction punie par l'article 30, § 2, de cette même loi."
+      ],
+      "abstractNL": [
+        "Artikel 38 Wegverkeerswet laat, behoudens ingeval van toepassing van paragraaf 1, 4°, en van paragraaf 6, niet toe om voor een overtreding strafbaar gesteld door artikel 30, § 2, Wegverkeerswet een verval van het recht tot sturen als bijkomende straf uit te spreken."
+      ]
     }
   },
   "39": {
@@ -4468,6 +4526,24 @@
         "Het bevelen van de door artikel 42 Wegverkeerswet bedoelde beveiligingsmaatregel vereist dat de rechter vaststelt dat de veroordeelde op het ogenblik van zijn beslissing lichamelijk of geestelijk ongeschikt is om een motorvoertuig te besturen; bovendien moet de rechter de gegevens vermelden waaruit hij de lichamelijke of geestelijke ongeschiktheid om een motorvoertuig te besturen afleidt (1). (1) Cass. 30 januari 2024, AR P.23.1697.N, ECLI:BE:CASS:2024:ARR.20240130.2N.13, met concl. van advocaat-generaal A. WINANTS, RW 2024-25, 65; Cass. 9 januari 2024, AR P.23.1375.N, ECLI:BE:CASS:2024:ARR.20240109.2N.3; Cass. 28 november 2023, AR P.23.1274.N, ECLI:BE:CASS:2023:ARR.20231128.2N.17; Cass. 11 oktober 2022, AR P.22.0793.N, ECLI:BE:CASS:2022:ARR.20221011.2N.8; Cass. 31 mei 2022, AR P.22.0211.N, ECLI:BE:CASS:2022:ARR.20220531.2N.8, RW 2022-23, 418.",
         "De rechter beoordeelt onaantastbaar of een beklaagde lichamelijk of geestelijk ongeschikt is om een motorvoertuig te besturen; bij die beoordeling: - kan de rechter alle hem regelmatig overgelegde en aan tegenspraak onderworpen gegevens in aanmerking nemen, zoals de aard van de overtreding van de Wegverkeerswet waarvoor de beklaagde wordt vervolgd; -dient de rechter niet noodzakelijk een deskundigenonderzoek te bevelen of de beschikking te hebben over een medisch verslag, ook al kan zulks aangewezen zijn; en - kan de rechter rekening houden met een eerder uitgesproken vervallenverklaring van het recht een motorvoertuig te besturen wegens lichamelijke of geestelijke ongeschiktheid; dit belet niet dat de beklaagde elk door hem gewenst verweer kan voeren over de door artikel 42 Wegverkeerswet bedoelde maatregel; het Hof gaat wel na of de rechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord (1). (1) Cass. 30 januari 2024, AR P.23.1697.N, ECLI:BE:CASS:2024:ARR.20240130.2N.13, met concl. advocaat-generaal A. WINANTS, RW 2024-25, 65; GwH 20 maart 2025, arrest 47/2025, www.const-court.be; F. VAN VOLSEM, Het verval van het recht tot sturen uitgesproken wegens lichamelijke of geestelijke ongeschiktheid, in En passant. Liber amicorum Philip Traest, Gompel & Svacina 2025, 179-220; J. MICHIELS, “Het verval van het recht tot sturen wegens lichamelijke of geestelijke ongeschiktheid”, RW 2023-24, 962-976."
       ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.4": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0109.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La déchéance du droit de conduire en raison d'une incapacité physique ou psychique, visée à l'article 42 de la loi du 16 mars 1968 relative à la police de la circulation routière, ne constitue pas une peine, mais une mesure de sûreté.",
+        "Selon l'article 42, alinéa 2, de la loi du 16 mars 1968 relative à la police de la circulation routière, cette déchéance peut être prononcée à chaque degré de juridiction, quelle que soit la personne qui a introduit le recours ; elle peut donc également être prononcée pour la première fois en degré d'appel.",
+        "Le juge apprécie souverainement l'existence d'une incapacité physique ou psychique de conduire un véhicule à moteur et imposer cette mesure de sûreté ne requiert pas nécessairement d'ordonner une expertise ; dans le cadre de cette appréciation, le juge peut prendre en considération le fait que le prévenu consomme ou consommait des stupéfiants, mais il ne résulte pas de la circonstance qu'un prévenu présente les résultats d'analyses négatifs quant à l'usage de stupéfiants ou qu'il allègue ne plus en consommer que le juge doit présumer qu'il n'existe pas d'incapacité physique ou psychique au sens de l'article 42 de la loi du 16 mars 1968."
+      ],
+      "abstractNL": [
+        "Het door artikel 42 Wegverkeerswet bedoelde verval van het recht tot sturen wegens lichamelijke of geestelijke ongeschiktheid is geen straf, maar een beveiligingsmaatregel.",
+        "Volgens artikel 42, tweede lid, Wegverkeerswet is het opleggen van dit verval mogelijk in elke aanleg en dit ongeacht wie het rechtsmiddel heeft ingesteld; het kan dus ook voor het eerst in hoger beroep worden opgelegd.",
+        "De rechter beoordeelt onaantastbaar of er een lichamelijke of geestelijke ongeschiktheid is tot het besturen van een motorvoertuig en het opleggen van deze beveiligingsmaatregel vereist niet noodzakelijk het bevelen van een deskundigenonderzoek; de rechter kan bij die beoordeling het gegeven betrekken dat de beklaagde verdovende middelen gebruikt of heeft gebruikt maar uit de omstandigheid dat een beklaagde analyses overlegt die negatief zijn voor het gebruik van verdovende middelen of dat hij voorhoudt niet langer meer te gebruiken volgt niet dat de rechter moet aannemen dat er geen lichamelijke of geestelijke ongeschiktheid is in de zin van artikel 42 Wegverkeerswet."
+      ]
     }
   },
   "43": {
@@ -4757,6 +4833,20 @@
       ],
       "abstractNL": [
         "Vertaling nog niet beschikbaar"
+      ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.9": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0673.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "L'article 45, alinéa 1er, de la loi du 16 mars 1968 relative à la police de la circulation routière prévoit que le juge peut limiter la déchéance du droit de conduire aux catégories de véhicules qu'il indique conformément aux dispositions arrêtées par le Roi en vertu de l'article 26 de la loi, sauf si la réintégration dans le droit de conduire est subordonnée à la condition d'avoir satisfait à un ou plusieurs des examens visés à l'article 38, § 3, de cette même loi (1). (1) Cass. 15 janvier 2019, RG P.18.1187.N, Pas. 2019, n° 24."
+      ],
+      "abstractNL": [
+        "Artikel 45, eerste lid, Wegverkeerswet bepaalt dat de rechter het verval van het recht tot sturen kan beperken tot de categorieën van voertuigen die hij aangeeft overeenkomstig de bepalingen vastgesteld door de Koning krachtens artikel 26 van de wet, maar dat dit niet kan als het herstel in het recht tot sturen afhankelijk wordt gemaakt van het slagen voor een of meer van de in artikel 38, § 3, Wegverkeerswet vermelde examens en onderzoeken (1). (1) Cass. 15 januari 2019, AR P.18.1187.N, AC 2019, nr. 24."
       ]
     }
   },
@@ -6279,10 +6369,12 @@
       "roleNumber": "P.21.0882.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/06/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_13.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "La mention dans le procès-verbal dressé conformément à l'article 62, alinéa 1er, de la loi du 16 mars 1968 relative à la police de la circulation routière, que l'article 26 de l'arrêté royal du 21 avril 2007 relatif aux appareils de test et aux appareils d'analyse de l'haleine a été respecté, atteste le fait et le contenu de l'avertissement à la personne concernée de son droit à demander une deuxième analyse de l'haleine, à moins qu'elle rende le contraire admissible."
       ],
       "abstractNL": [
         "De vermelding in het overeenkomstig artikel 62, eerste lid, Wegverkeerswet opgesteld proces-verbaal dat artikel 26 KB Ademtest- en Ademanalysetoestellen werd geëerbiedigd, geldt als bewijs van het feit en de inhoud van de aan de betrokkene gedane verwittiging van zijn recht om een tweede ademanalyse te vragen, tenzij hij het tegendeel aannemelijk maakt."
@@ -6294,9 +6386,12 @@
       "roleNumber": "P.21.1091.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/06/sitemap_5.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_15.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "À moins que, ce qui n'est pas le cas en l'espèce, le procès-verbal faisant état des infractions constatées en matière de roulage mentionne la date d'envoi, le juge apprécie aussi souverainement, sur la base des pièces du dossier répressif soumises au juge et à la contradiction des parties, si ledit procès-verbal a été envoyé au titulaire de la plaque d'immatriculation et à quel moment (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Tenzij in het hier niet toepasselijke geval dat het proces-verbaal met de vastgestelde verkeersinbreuken zelf vermeldt wanneer het werd verzonden, beoordeelt de rechter eveneens onaantastbaar op basis van de stukken van het strafdossier, die aan de rechter werden voorgelegd en vatbaar zijn voor tegenspraak, of en wanneer dit proces-verbaal naar de titularis van de nummerplaat werd verzonden (1). (1) Zie concl. OM."
       ]
@@ -8321,6 +8416,20 @@
       "abstractNL": [
         "Er hoeft geen prejudiciële vraag te worden gesteld aan het Grondwettelijk Hof wanneer de vraag geen kritiek uitoefent op een door de wet gemaakt onderscheid tussen personen die zich in dezelfde juridische toestand bevinden maar op wie verschillende regels van toepassing zouden zijn (1); aangezien de wegens rijden in staat van alcoholintoxicatie of staat van dronkenschap in staat van bijzondere herhaling veroordeelde bestuurders een andere categorie vormen dan die waartoe de andere in artikel 38, §6, eerste lid, Wegverkeerswet bedoelde bestuurders behoren, zoals zij die een snelheidsovertreding hebben begaan, zodat ten aanzien van eerstgenoemden passender maatregelen konden worden genomen, hoeft de voorgestelde prejudiciële vraag over de in dat artikel bepaalde uitzondering niet te worden gesteld (2). (1) Zie Cass. 23 september 2015, AR P.14.0238.F, AC 2015, nr. 546, met concl. van advocaat-generaal D. VANDERMEERSCH; Cass. 15 februari 2011, AR P.10.1665.N, AC 2011, nr. 134, met concl. van M. DUINSLAEGER, toen advocaat-generaal. (2) Geen van de drie, tot nog toe, door het Grondwettelijk Hof over die bepaling gewezen arresten heeft die uitzondering als voorwerp (GwH, nr. 168/2016, 51/2017 en 76/2017). Weliswaar verantwoorden de samenvatting en de memorie van toelichting van de wet dat verschil in behandeling niet echt ... maar hoeft dat? Het onderling verband tussen de specifieke modaliteit van het alcoholslot bedoeld in artikel 37.1, eerste lid, Wegverkeerswet, waarnaar de uitzondering verwijst, en de telastleggingen van rijden in staat van alcoholintoxicatie of staat van dronkenschap is duidelijk, in tegenstelling tot de andere in artikel 38.6 Wegverkeerswet bedoelde overtredingen, waaronder de aan eiser ten laste gelegde snelheidsovertreding (zie Gedr.st., Kamer, 2012-2013, DOC 53K2880/001, pp. 4, 8 en 10). (M.N.B.)"
       ]
+    },
+    "ECLI:BE:CASS:2021:ARR.20210914.2N.5": {
+      "court": "CASS",
+      "date": "2021-09-14",
+      "roleNumber": "P.21.0560.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "L'application de l'article 37/1, § 1er, de la loi du 16 mars 1968 relative à la police de la circulation routière ne requiert pas que la personne condamnée soit alcoolique."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van artikel 37/1, § 2, Wegverkeerswet is niet vereist dat de veroordeelde alcoholverslaafd zou zijn."
+      ]
     }
   },
   "49/1": {
@@ -8721,10 +8830,12 @@
       "roleNumber": "P.21.1091.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/06/sitemap_5.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/12/07/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_15.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "Le juge apprécie souverainement si le titulaire de la plaque d'immatriculation du véhicule à moteur avec lequel l'infraction a été commise parvient à renverser la présomption pesant sur lui en vertu de l'article 67bis de la loi du 16 mars 1968 relative à la police de la circulation routière, dans sa version applicable en l'espèce; à cette fin, il peut prendre en considération l'ensemble des éléments de fait dont il apprécie souverainement la valeur probante, parmi lesquels la circonstance que le titulaire de la plaque d'immatriculation n'a pas été informé avant la citation des infractions en matière de roulage mises à sa charge, qu'il n'était dès lors pas en mesure de communiquer l'identité du conducteur incontestable au moment des faits, et que, compte tenu du temps qui s'est écoulé, il n'est désormais plus raisonnable d'attendre de lui qu'il l'indique (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": [
         "De rechter oordeelt onaantastbaar of de titularis van de nummerplaat van het motorvoertuig waarmee de overtreding werd begaan, erin slaagt het op hem op grond van het hier toepasselijke artikel 67bis Wegverkeerswet rustende vermoeden te weerleggen; hij kan daartoe alle feitelijke gegevens in aanmerking nemen waarvan hij de bewijswaarde onaantastbaar beoordeelt, waaronder de omstandigheid dat de titularis van de nummerplaat vóór de dagvaarding niet in kennis werd gesteld van de hem ten laste gelegde verkeersinbreuken, hij aldus niet in staat was de identiteit van de onmiskenbare bestuurder op het ogenblik van de feiten kenbaar te maken en dit, gelet op het tijdsverloop, thans niet meer redelijkerwijze van hem kan worden verwacht (1). (1) Zie concl. OM."

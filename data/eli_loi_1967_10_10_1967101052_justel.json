@@ -7159,10 +7159,12 @@
       "roleNumber": "P.20.0199.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/06/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/14/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/14/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_3.xml"
       ],
       "abstractFR": [
-        "Traduction pas encore disponible"
+        "Traduction pas encore disponible",
+        "L'article 19, alinéa 2, du Code judiciaire ne s'oppose pas au fait que la chambre des mises en accusation appelée à statuer sur l'appel dirigé par la partie civile contre une décision de non-lieu rendue par la chambre du conseil, considère que les mesures d'instruction complémentaires ordonnées par cette même chambre des mises en accusation en application des articles 61quinquies et 127, § 3, du Code d'instruction criminelle, ne sont plus nécessaires en vue de la manifestation de la vérité les circonstances ayant changé ; la chambre des mises en accusation apprécie souverainement si les circonstances ont changé de telle sorte que les actes d'instruction ordonnés en application des articles 61quinquies et 127, § 3, du Code d'instruction criminelle ne sont plus nécessaires en vue de la manifestation de la vérité, mais la Cour vérifie cependant si la juridiction d'instruction ne tire pas de ses constatations des conséquences qu'elles ne sauraient justifier."
       ],
       "abstractNL": [
         "Artikel 19, tweede lid, Gerechtelijk Wetboek verzet zich niet ertegen dat de kamer van inbeschuldigingstelling die moet beslissen over het hoger beroep van een burgerlijke partij tegen een beslissing tot buitenvervolgingstelling van de raadkamer, oordeelt dat de aanvullende onderzoeksmaatregelen die diezelfde kamer van inbeschuldigingstelling heeft bevolen bij toepassing van de artikelen 61quinquies en 127, § 3, Wetboek van Strafvordering, gelet op gewijzigde omstandigheden, niet langer noodzakelijk zijn voor de waarheidsvinding; de kamer van inbeschuldigingstelling oordeelt onaantastbaar of er gewijzigde omstandigheden zijn die maken dat de bij toepassing van de artikelen 61quinquies en 127, § 3, Wetboek van Strafvordering bevolen onderzoekshandelingen niet langer noodzakelijk zijn voor de waarheidsvinding, maar het Hof gaat wel na of het onderzoeksgerecht uit zijn vaststellingen geen gevolgen trekt die op grond daarvan onmogelijk kunnen worden verantwoord."
@@ -18716,6 +18718,54 @@
       ]
     }
   },
+  "1413": {
+    "ECLI:BE:CASS:2016:ARR.20160218.15": {
+      "court": "CASS",
+      "date": "2016-02-18",
+      "roleNumber": "C.15.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de laarticle 1413 du Code judiciaire, une saisie conservatoire ne peut être pratiquée que dans un cas qui requiert la célérité; cette condition est remplie lorsque la solvabilité du débiteur est ébranlée de sorte que laéviction ultérieure est mise en péril (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 1413 Gerechtelijk Wetboek kan een bewarend beslag slechts worden gelegd wanneer er sprake is van hoogdringendheid; aan dit vereiste is voldaan wanneer de solvabiliteit van de schuldenaar in het gedrang komt, zodat de latere uitwinning gevaar loopt (1). (1) Zie concl. OM"
+      ]
+    }
+  },
+  "1415": {
+    "ECLI:BE:CASS:2016:ARR.20160218.15": {
+      "court": "CASS",
+      "date": "2016-02-18",
+      "roleNumber": "C.15.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des dispositions des articles 1415, alinéa 1er, et 1423 du Code judiciaire que la saisie conservatoire ne peut être autorisée que pour une créance certaine et exigible à concurrence daun montant certain ou susceptible daune estimation provisoire; lorsque le juge constate que la créance naest partiellement pas exigible, il peut ne pas autoriser la saisie pour cette partie (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van artikel 1415, eerste lid, en 1423 Gerechtelijk Wetboek volgt dat slechts machtiging tot bewarend beslag kan worden verleend voor een schuldvordering die zeker en opeisbaar is tot beloop van een bepaald bedrag of vatbaar is voor een voorlopige raming; wanneer de rechter vaststelt dat de schuldvordering voor een gedeelte niet opeisbaar is, kan hij voor dat deel geen toelating verlenen tot beslag (1). (1) Zie concl. OM"
+      ]
+    }
+  },
+  "1423": {
+    "ECLI:BE:CASS:2016:ARR.20160218.15": {
+      "court": "CASS",
+      "date": "2016-02-18",
+      "roleNumber": "C.15.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des dispositions des articles 1415, alinéa 1er, et 1423 du Code judiciaire que la saisie conservatoire ne peut être autorisée que pour une créance certaine et exigible à concurrence daun montant certain ou susceptible daune estimation provisoire; lorsque le juge constate que la créance naest partiellement pas exigible, il peut ne pas autoriser la saisie pour cette partie (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van artikel 1415, eerste lid, en 1423 Gerechtelijk Wetboek volgt dat slechts machtiging tot bewarend beslag kan worden verleend voor een schuldvordering die zeker en opeisbaar is tot beloop van een bepaald bedrag of vatbaar is voor een voorlopige raming; wanneer de rechter vaststelt dat de schuldvordering voor een gedeelte niet opeisbaar is, kan hij voor dat deel geen toelating verlenen tot beslag (1). (1) Zie concl. OM"
+      ]
+    }
+  },
   "28bis": {
     "ECLI:BE:CASS:2022:ARR.20220906.2N.12": {
       "court": "CASS",
@@ -19042,6 +19092,22 @@
       "abstractNL": [
         "Een hof van beroep kan geen kennis nemen van het hoger beroep tegen een beslissing van een arbeidsrechtbank die gevestigd is in het rechtsgebied van een ander arbeidshof (1). ( Artt. 103, lid 1, en 607 G.W., alsmede art. 5 van de bijlage bij dit wetboek. )",
         "De bepalingen tot vaststelling van het rechtsgebied van een arbeidshof raken de openbare orde; schending van deze bepalingen inzake rechterlijke organisatie brengt de openbare orde in gevaar en doet een toestand ontstaan die verholpen moet worden. ( Art. 104 Grondwet; artt. 103, lid 1, en 607, G.W., alsmede art. 5 van de bijlage bij dit wetboek. )"
+      ]
+    }
+  },
+  "109bis": {
+    "ECLI:BE:CASS:2016:ARR.20160218.15": {
+      "court": "CASS",
+      "date": "2016-02-18",
+      "roleNumber": "C.15.0168.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Dans la mesure où laarticle 109bis, § 2, alinéa 2, du Code judiciaire, tel quail est applicable en laespèce, permet à laappelant, dans le cadre daune procédure sur requête unilatérale, de choisir si une cause sera attribuée à un ou à trois conseillers et quail subordonne, dès lors, la composition du siège à la déclaration de volonté de cette partie, elle ne constitue pas une règle daorganisation judiciaire touchant laordre public; il saensuit que lorsquaune cause est instruite par un conseiller alors que laappelant avait demandé quaelle soit attribuée à trois conseillers, seul laappelant peut réclamer la cassation de laarrêt ainsi rendu (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "In zoverre artikel 109bis, §2, tweede lid, Gerechtelijk Wetboek, zoals hier van toepassing, in het kader van een procedure op eenzijdig verzoekschrift de keuze laat aan de appellant om een zaak te laten behandelen door één dan wel door drie raadsheren en zij bijgevolg de samenstelling van de zetel afhankelijk maakt van een wilsverklaring van die partij, is zij geen regel van rechterlijke organisatie die de openbare orde aanbelangt; hieruit volgt dat wanneer een zaak wordt behandeld door een raadsheer terwijl de appellant om een behandeling van de zaak door drie raadsheren had verzocht, alleen de appellant de vernietiging van het aldus gewezen arrest kan vorderen (1). (1) Zie concl. OM"
       ]
     }
   }

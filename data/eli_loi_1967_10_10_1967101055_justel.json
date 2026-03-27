@@ -13561,9 +13561,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_1.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_77.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_77.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_18.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge, qui interprète la signification réelle des termes d'une décision sur la base de son contexte, n'étend, ne restreint ni ne modifie les droits des parties (1). (1) Cass. 14 juin 2019, RG C.18.0517.N, Pas. 2019, n° 373."
+      ],
       "abstractNL": [
         "De rechter die de werkelijke betekenis van de termen van een beslissing aan de hand van de context uitlegt, breidt de rechten van de partijen niet uit, noch wijzigt of beperkt hij deze (1). (1) Cass. 14 juni 2019, AR C.18.0517.N, AC 2019, nr. 373."
       ]
@@ -38645,9 +38648,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_1.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_77.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_77.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_18.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le critère précis de la complexité de l'affaire, dont le juge peut tenir compte pour apprécier s'il y a lieu de réduire ou d'augmenter l'indemnité de procédure, se rapporte au niveau de dépenses, en partant de l'idée que les affaires complexes occasionnent, en règle, davantage de dépenses que les affaires simples."
+      ],
       "abstractNL": [
         "Het precieze criterium van de complexiteit van de zaak, waarmee de rechter rekening kan houden bij zijn beoordeling om de rechtsplegingsvergoeding te verminderen of te verhogen, houdt verband met het uitgavenniveau, vanuit de idee dat complexe zaken in de regel meer uitgaven vereisen dan eenvoudige zaken."
       ]
