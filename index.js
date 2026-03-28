@@ -25,6 +25,7 @@ import { findMissingEli } from './src/find_missing_eli.js';
 import { fixArticlesFromLog } from './src/fix_articles.js';
 import { addRelated } from './src/add_related.js';
 import { fixTpcpp } from './src/fix_tpcpp.js';
+import { sortRelated } from './src/sort_related.js';
 import fs from 'fs';
 
 // ─── Graceful shutdown ───────────────────────────────────────────────────────
@@ -118,7 +119,14 @@ async function main() {
     console.log(`                            cross-references into the target ELI data files.`);
     console.log(`                            The mapping file must have "from", "to" and "articles"`);
     console.log(`                            keys (see old_to_new_civil_code_mapping.full.json).`);
-    console.log(`  ${chalk.cyan('--fix-tpcpp')}              Re-examine CIC first-part data (1808111701) for`);
+    console.log(`  ${chalk.cyan('--sort-related <ELI> <art>')} For each judgement mapped to <art> via the equivalence`);
+    console.log(`                            table of <ELI>, ask the LLM whether the judgement truly`);
+    console.log(`                            pertains to that article or should be reclassified, then`);
+    console.log(`                            write a "relatedArticle" key on the judgement record.`);
+    console.log(`                            Only the ELI ${chalk.gray('https://…/eli/loi/2024/02/27/2024A01600/justel')}`);
+    console.log(`                            is currently supported. Example:`);
+    console.log(`                            ${chalk.gray('node index.js --sort-related https://…/2024A01600/justel 6.5')}`);
+  console.log(`  ${chalk.cyan('--fix-tpcpp')}              Re-examine CIC first-part data (1808111701) for`);
     console.log(`                            articles 8–32 and move entries that actually belong`);
     console.log(`                            to the TPCPP (1878041750) based on the law date`);
     console.log(`                            in the original sitemap.`);
@@ -307,6 +315,19 @@ async function main() {
 
   if (process.argv.includes('--fix-articles-from-log')) {
     await fixArticlesFromLog();
+    return;
+  }
+
+  if (process.argv.includes('--sort-related')) {
+    const flagIdx = process.argv.indexOf('--sort-related');
+    const eli = process.argv[flagIdx + 1];
+    const article = process.argv[flagIdx + 2];
+    if (!eli || eli.startsWith('--') || !article || article.startsWith('--')) {
+      logError('--sort-related requires two arguments: <ELI> <article>');
+      logError('  Example: node index.js --sort-related https://www.ejustice.just.fgov.be/eli/loi/2024/02/27/2024A01600/justel 6.5');
+      process.exit(1);
+    }
+    await sortRelated(eli, article);
     return;
   }
 
