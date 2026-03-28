@@ -62,6 +62,14 @@ function isEliUrl(str) {
 }
 
 /**
+ * Strip a leading "Art. " prefix (case-insensitive) from an article identifier.
+ * No-op when the prefix is absent, so it is safe to apply unconditionally.
+ */
+function stripArtPrefix(s) {
+  return s.replace(/^Art\.\s*/i, '');
+}
+
+/**
  * Process a single mapping object and update the target ELI data files.
  * Supports name-based, mixed, and pure-ELI modes (see module JSDoc).
  */
@@ -108,8 +116,11 @@ function processSingleMapping(mapping) {
   let processedCount = 0;
   let skippedCount = 0;
 
-  for (const [sourceArticle, targetArticles] of Object.entries(articles)) {
-    if (!targetArticles || targetArticles.length === 0) {
+  for (const [rawSourceArticle, rawTargetArticles] of Object.entries(articles)) {
+    const sourceArticle = stripArtPrefix(rawSourceArticle);
+    const targetArticles = (rawTargetArticles || []).map(stripArtPrefix);
+
+    if (targetArticles.length === 0) {
       skippedCount++;
       continue;
     }
