@@ -407,7 +407,7 @@ export async function sortRelated(targetEli, targetArticle) {
   }
 
   logInfo(`\n${timestamp()} ${chalk.bold(`${toProcess.length} judgement(s) to analyse`)}`);
-  logInfo(`  Model: ${chalk.cyan(SORT_RELATED_MODEL)}, batch size: ${BATCH_SIZE}`);
+  logInfo(`  Model: ${chalk.cyan(SORT_RELATED_DEFAULT_MODEL)}, batch size: ${BATCH_SIZE}`);
 
   // ── 6. Get API key and model ──────────────────────────────────────────────────
   const apiKey = await getOrPromptApiKey();
