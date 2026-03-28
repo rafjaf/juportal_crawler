@@ -523,7 +523,7 @@ export async function sortRelated(targetEli, targetArticle) {
       const resp = await promptUserFn(
         chalk.yellow('  Appliquer? ') +
         defaultHint +
-        chalk.gray('(y=oui/a=auto/q=quitter ou saisir les articles séparés par ;) ') +
+        chalk.gray('(y=oui/s=ignorer/a=auto/q=quitter ou saisir les articles séparés par ;) ') +
         chalk.bold('> ')
       );
 
@@ -568,6 +568,13 @@ export async function sortRelated(targetEli, targetArticle) {
           logSuccess(`  ✔ Appliqué : ${llmArticles.join(', ')}`);
           appliedCount++;
         }
+        continue;
+      }
+
+      // 's' → skip explicitly
+      if (respLc === 's' || respLc === 'skip') {
+        logWarn(`  ↷ Ignoré`);
+        skippedCount++;
         continue;
       }
 
