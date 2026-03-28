@@ -79,7 +79,7 @@ const ELI_ARTICLE_INSTRUCTIONS = new Map([
       { article: '6.20',  description: 'partage de responsabilité en cas de faute de la victime' },
       { article: '6.21',  description: 'action récursoire entre coresponsables' },
       { article: '6.22',  description: 'perte d\'une chance' },
-      { article: '6.24',  description: 'notion de base du dommage et caractère légitime; dommage consistant pour la victime à devoir verser une indemnité à un tiers (obligation propre de réparation)' },
+      { article: '6.24',  description: 'notion de dommage réparable; lésion d\'un intérêt; caractère légitime du dommage ou de l\'intérêt lésé; dommage consistant pour la victime à devoir verser une indemnité à un tiers (obligation propre de réparation)' },
       { article: '6.25',  description: 'caractère certain du dommage' },
       { article: '6.26',  description: 'dommage moral' },
       { article: '6.27',  description: 'dommage par ricochet' },
