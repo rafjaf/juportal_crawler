@@ -79,9 +79,9 @@ const ELI_ARTICLE_INSTRUCTIONS = new Map([
       { article: '6.20',  description: 'partage de responsabilité en cas de faute de la victime' },
       { article: '6.21',  description: 'action récursoire entre coresponsables' },
       { article: '6.22',  description: 'perte d\'une chance' },
-      { article: '6.24',  description: 'notion de base du dommage et caractère légitime' },
+      { article: '6.24',  description: 'notion de base du dommage et caractère légitime; dommage consistant pour la victime à devoir verser une indemnité à un tiers (obligation propre de réparation)' },
       { article: '6.25',  description: 'caractère certain du dommage' },
-      { article: '6.26',  description: 'dommage patrimonial ou extrapatrimonial' },
+      { article: '6.26',  description: 'dommage moral' },
       { article: '6.27',  description: 'dommage par ricochet' },
       { article: '6.28',  description: 'mesure à prendre par la victime ou le responsable pour prévenir le dommage ou son aggravation' },
       { article: '6.29',  description: 'prédispositions pathologiques de la victime à subir le dommage et état antérieur de la victime' },
@@ -176,9 +176,9 @@ function buildSystemPrompt(instructions) {
     'Articles pertinents (avec leur portée principale) :\n' +
     articleLines + '\n\n' +
     'Règles importantes :\n' +
-    '1. L\'article 6.5 est subsidiaire : ne le retiens que si aucun autre article ne convient. Ne l\'inclus jamais dans ta réponse si tu retiens un ou plusieurs autres articles.\n' +
+    '1. L\'article 6.5 est la solution de l\'article de base : retiens-le par défaut ou en cas de doute.\n' +
     '2. Pour qu\'un article autre que 6.5 soit attribué, il doit être au cœur du résumé, pas seulement mentionné en passant.\n' +
-    '3. Si le résumé porte sur plusieurs sujets distincts couverts par des articles différents (autres que 6.5), tu peux attribuer plusieurs articles.\n' +
+    '3. Si le résumé porte sur plusieurs sujets distincts couverts par des articles différents, tu peux attribuer plusieurs articles.\n' +
     '4. Tu réponds exclusivement par un objet JSON — sans markdown ni prose en dehors du JSON.\n' +
     '5. Champ "confidence" : "high" = tu es certain(e), "medium" = probable, "low" = incertain(e).'
   );
@@ -459,11 +459,7 @@ export async function sortRelated(targetEli, targetArticle) {
 
       const classification = classMap.get(i + 1) || null;
       const isHighConfidence = classification?.confidence === 'high';
-      // 6.5 is subsidiary: drop it when the LLM also identified more specific articles
-      const rawLlmArticles = classification?.articles || null;
-      const llmArticles = rawLlmArticles && rawLlmArticles.length > 1
-        ? rawLlmArticles.filter(a => a !== '6.5')
-        : rawLlmArticles;
+      const llmArticles = classification?.articles || null;
       const llmReasoning = classification?.reasoning || null;
 
       // ── Display ────────────────────────────────────────────────────────────
@@ -521,8 +517,8 @@ export async function sortRelated(targetEli, targetArticle) {
       }
 
       // ── Interactive prompt ─────────────────────────────────────────────────
-      const defaultHint = llmArticles?.length > 0
-        ? chalk.gray(`Enter/y=${llmArticles.join(';')}/`)
+      const defaultHint = (isHighConfidence && llmArticles?.length > 0)
+        ? chalk.gray(`Enter=${llmArticles.join(';')}/`)
         : '';
       const resp = await promptUserFn(
         chalk.yellow('  Appliquer? ') +
@@ -555,8 +551,18 @@ export async function sortRelated(targetEli, targetArticle) {
         continue;
       }
 
-      // Empty input or 'y' → accept LLM recommendation
-      if ((resp === '' || respLc === 'y' || respLc === 'yes') && llmArticles?.length > 0) {
+      // Empty input → accept LLM recommendation if high confidence
+      if (resp === '' && isHighConfidence && llmArticles?.length > 0) {
+        const ok = applyRelatedArticle(item.sourceFilename, item.oldArticle, item.ecli, llmArticles);
+        if (ok) {
+          logSuccess(`  ✔ Appliqué : ${llmArticles.join(', ')}`);
+          appliedCount++;
+        }
+        continue;
+      }
+
+      // 'y' → accept LLM recommendation
+      if ((respLc === 'y' || respLc === 'yes') && llmArticles?.length > 0) {
         const ok = applyRelatedArticle(item.sourceFilename, item.oldArticle, item.ecli, llmArticles);
         if (ok) {
           logSuccess(`  ✔ Appliqué : ${llmArticles.join(', ')}`);
