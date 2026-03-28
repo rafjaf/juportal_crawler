@@ -216,9 +216,13 @@ export function eliToFilename(eli) {
   try {
     const url = new URL(eli);
     if (url.pathname.includes('cgi_loi')) {
-      // Use table_name + cn to create a unique filename
+      // Use table_name + cn to create a unique filename.
+      // article.pl URLs use numac_search (or numac) instead of cn — fall back to those.
       const tableName = url.searchParams.get('table_name') || 'loi';
-      const cn = url.searchParams.get('cn') || 'unknown';
+      const cn = url.searchParams.get('cn')
+        || url.searchParams.get('numac')
+        || url.searchParams.get('numac_search')
+        || 'unknown';
       return `cgi_loi_${tableName}_${cn}.json`;
     }
     // ELI URL: take the path, remove leading slash, replace / with _

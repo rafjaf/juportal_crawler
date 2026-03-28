@@ -551,6 +551,29 @@ async function fetchEliFromArticlePage(numac) {
       if (!eli) {
         eli = $('a[href*="justel"]').first().attr('href') || null;
       }
+      // For treaties and similar documents whose "Liens" section points back to
+      // the same article.pl?numac_search= URL (not a canonical change_lg/loi_a1
+      // URL with a 'cn' parameter), derive the canonical document numac from the
+      // "Dossier numéro: YYYY-MM-DD/NN" field on the page.  This ensures the
+      // data file is stored under the treaty's original numac (e.g. 1984112233)
+      // rather than the publication-approval numac (e.g. 2007A15042), consistent
+      // with the Better Justel extension.
+      if (eli) {
+        try {
+          const eliUrl = new URL(eli, 'https://www.ejustice.just.fgov.be');
+          const eliNumacSearch = eliUrl.searchParams.get('numac_search');
+          if (eliNumacSearch && eliNumacSearch.toUpperCase() === numac.toUpperCase()
+              && !eliUrl.searchParams.get('cn')) {
+            const dossierMatch = html.match(/Dossier\s+num[^:]*:\s*(\d{4})-(\d{2})-(\d{2})\/(\d+)/i);
+            if (dossierMatch) {
+              const canonicalNumac = dossierMatch[1] + dossierMatch[2] + dossierMatch[3] + dossierMatch[4];
+              if (canonicalNumac !== numac) {
+                eli = buildFallbackEli(canonicalNumac);
+              }
+            }
+          }
+        } catch { /* malformed URL – leave eli unchanged */ }
+      }
       await sleep(REQUEST_DELAY_MS);
       // If the page exists but carries no ELI link at all (e.g. very old treaties),
       // construct a stable cgi_loi URL from the numac so eliToFilename can derive

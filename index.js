@@ -146,7 +146,7 @@ async function main() {
   }
 
   if (process.argv.includes('--process-missing-eli')) {
-    processMissingEliFile();
+    await processMissingEliFile();
     flushAll();
     return;
   }

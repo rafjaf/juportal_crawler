@@ -155,7 +155,53 @@ function normalizeLegalBasisEli(eli) {
   return null;
 }
 
-export function processMissingEliFile() {
+/**
+ * Return true when an ELI is a non-canonical article.pl?numac_search= URL
+ * that lacks a 'cn' parameter.  These need online resolution to derive the
+ * genuine document numac before the filename can be determined.
+ *
+ * E.g. "…/cgi_loi/article.pl?language=fr&numac_search=2007A15042" is
+ * non-canonical; "…/cgi_loi/loi_a1.pl?…&cn=1984112233" is canonical.
+ */
+function isNonCanonicalArticlePl(eli) {
+  if (!eli) return false;
+  try {
+    const url = new URL(eli);
+    return url.pathname.includes('cgi_loi')
+        && url.pathname.includes('article.pl')
+        && url.searchParams.has('numac_search')
+        && !url.searchParams.has('cn');
+  } catch { return false; }
+}
+
+/**
+ * Resolve a non-canonical article.pl?numac_search=XXXX ELI to the canonical
+ * document numac by fetching the article page and extracting the
+ * "Dossier numéro: YYYY-MM-DD/NN" field.
+ *
+ * Returns a loi_a1.pl?cn=<canonical_numac> URL understood by eliToFilename(),
+ * or the original ELI unchanged when resolution fails.
+ */
+async function resolveNonCanonicalEli(eli) {
+  try {
+    const url = new URL(eli);
+    const numac = url.searchParams.get('numac_search');
+    if (!numac) return eli;
+    const pageUrl = `https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=${encodeURIComponent(numac)}&page=1&lg_txt=F&caller=list`;
+    const response = await fetch(pageUrl);
+    if (!response.ok) return eli;
+    const html = await response.text();
+    const dossierMatch = html.match(/Dossier\s+num[^:]*:\s*(\d{4})-(\d{2})-(\d{2})\/(\d+)/i);
+    if (!dossierMatch) return eli;
+    const canonicalNumac = dossierMatch[1] + dossierMatch[2] + dossierMatch[3] + dossierMatch[4];
+    if (canonicalNumac === numac) return eli;
+    return `https://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&la=F&table_name=loi&cn=${encodeURIComponent(canonicalNumac)}`;
+  } catch {
+    return eli;
+  }
+}
+
+export async function processMissingEliFile() {
   const missing = loadMissingEliFile();
   const keys = Object.keys(missing);
 
@@ -172,7 +218,14 @@ export function processMissingEliFile() {
     if (!item || !Array.isArray(item.elements) || item.elements.length === 0) continue;
     if (!item.eli) continue;
 
-    const normalizedEli = normalizeLegalBasisEli(item.eli);
+    // Resolve non-canonical article.pl?numac_search= ELIs (e.g. treaty approval
+    // numacs) to the canonical document numac by fetching the dossier number.
+    let itemEli = item.eli;
+    if (isNonCanonicalArticlePl(itemEli)) {
+      itemEli = await resolveNonCanonicalEli(itemEli);
+    }
+
+    const normalizedEli = normalizeLegalBasisEli(itemEli);
     if (!normalizedEli) {
       logWarn(`⚠ Invalid ELI/URL for missing key "${key}": ${item.eli}`);
       continue;
