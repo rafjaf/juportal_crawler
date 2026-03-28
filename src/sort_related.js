@@ -176,9 +176,9 @@ function buildSystemPrompt(instructions) {
     'Articles pertinents (avec leur portée principale) :\n' +
     articleLines + '\n\n' +
     'Règles importantes :\n' +
-    '1. L\'article 6.5 est la solution de l\'article de base : retiens-le par défaut ou en cas de doute.\n' +
+    '1. L\'article 6.5 est subsidiaire : ne le retiens que si aucun autre article ne convient mieux. Ne l\'inclus JAMAIS dans ta réponse si tu retiens un ou plusieurs autres articles.\n' +
     '2. Pour qu\'un article autre que 6.5 soit attribué, il doit être au cœur du résumé, pas seulement mentionné en passant.\n' +
-    '3. Si le résumé porte sur plusieurs sujets distincts couverts par des articles différents, tu peux attribuer plusieurs articles.\n' +
+    '3. Si le résumé porte sur plusieurs sujets distincts couverts par des articles différents (autres que 6.5), tu peux attribuer plusieurs articles.\n' +
     '4. Tu réponds exclusivement par un objet JSON — sans markdown ni prose en dehors du JSON.\n' +
     '5. Champ "confidence" : "high" = tu es certain(e), "medium" = probable, "low" = incertain(e).'
   );
@@ -459,7 +459,12 @@ export async function sortRelated(targetEli, targetArticle) {
 
       const classification = classMap.get(i + 1) || null;
       const isHighConfidence = classification?.confidence === 'high';
-      const llmArticles = classification?.articles || null;
+      const isUsableConfidence = classification?.confidence === 'high' || classification?.confidence === 'medium';
+      // 6.5 is subsidiary: drop it when the LLM also identified more specific articles
+      const rawLlmArticles = classification?.articles || null;
+      const llmArticles = rawLlmArticles && rawLlmArticles.length > 1
+        ? rawLlmArticles.filter(a => a !== '6.5')
+        : rawLlmArticles;
       const llmReasoning = classification?.reasoning || null;
 
       // ── Display ────────────────────────────────────────────────────────────
@@ -501,12 +506,12 @@ export async function sortRelated(targetEli, targetArticle) {
         console.log(chalk.gray('  (pas de classification LLM disponible)'));
       }
 
-      // In auto-apply mode, only apply high-confidence results
+      // In auto-apply mode, apply high and medium confidence results; skip low
       if (autoApply) {
-        if (isHighConfidence && llmArticles?.length > 0) {
+        if (isUsableConfidence && llmArticles?.length > 0) {
           const ok = applyRelatedArticle(item.sourceFilename, item.oldArticle, item.ecli, llmArticles);
           if (ok) {
-            logSuccess(`  ✔ Auto-applied: ${llmArticles.join(', ')}`);
+            logSuccess(`  ✔ Auto-applied (${classification.confidence}): ${llmArticles.join(', ')}`);
             appliedCount++;
           }
         } else {
@@ -517,8 +522,8 @@ export async function sortRelated(targetEli, targetArticle) {
       }
 
       // ── Interactive prompt ─────────────────────────────────────────────────
-      const defaultHint = (isHighConfidence && llmArticles?.length > 0)
-        ? chalk.gray(`Enter=${llmArticles.join(';')}/`)
+      const defaultHint = llmArticles?.length > 0
+        ? chalk.gray(`Enter/y=${llmArticles.join(';')}/`)
         : '';
       const resp = await promptUserFn(
         chalk.yellow('  Appliquer? ') +
