@@ -2,15 +2,28 @@
  * --add-related: Inject cross-reference ("related") information into ELI
  * data files based on an article-mapping JSON file.
  *
- * A mapping file (e.g. old_to_new_civil_code_mapping.full.json) contains:
- *   { "from": "<source code name>", "to": "<target code name>",
- *     "articles": { "<sourceArticle>": ["<targetArticle>", …], … } }
+ * Three mapping file formats are supported:
  *
- * For each mapping the command:
- *  1. Resolves which ELI covers the source article  (via split_texts.json)
- *  2. Resolves which ELI covers the target article  (via split_texts.json)
- *  3. Opens the target ELI data file and adds/merges a top-level "related"
- *     array entry with { from, fromELI, articles: { targetArt: [sourceArt…] } }
+ * 1. Name-based (e.g. old_to_new_civil_code_mapping.full.json):
+ *    { "from": "<source code name>", "to": "<target code name>",
+ *      "articles": { "<sourceArticle>": ["<targetArticle>", …], … } }
+ *    Both "from" and "to" are looked up in split_texts.json by name to resolve
+ *    which specific ELI covers each article.
+ *
+ * 2. Mixed (e.g. Book20CDE.json) — preferred for ELI-based files:
+ *    [{ "from": "<source law name>", "fromELI": "<sourceELI>", "to": "<targetELI>",
+ *       "articles": { "<sourceArticle>": ["<targetArticle>", …], … } }]
+ *    "from" provides the human-readable label; "fromELI" and "to" are used directly
+ *    as ELIs without any split_texts.json lookup.
+ *
+ * 3. Pure-ELI (legacy):
+ *    [{ "from": "<sourceELI>", "to": "<targetELI>", … }]
+ *    Detected when "from" itself is a URL. Behaves like format 2 but the label
+ *    and ELI are the same string.
+ *
+ * For each mapping the command opens the target ELI data file and adds/merges
+ * a top-level "related" array entry:
+ *   { from, fromELI, articles: { targetArt: [sourceArt…] } }
  */
 
 import fs from 'fs';
@@ -42,36 +55,48 @@ function findSplitTextByName(name) {
 }
 
 /**
- * Process an article-mapping file and update the target ELI data files
- * with cross-reference information in a "related" key.
+ * Return true if the string looks like an ELI/HTTP URL rather than a code name.
  */
-export function addRelated(mappingFilePath) {
-  // Load mapping file
-  let mapping;
-  try {
-    mapping = JSON.parse(fs.readFileSync(mappingFilePath, 'utf8'));
-  } catch (err) {
-    logError(`Cannot read mapping file ${mappingFilePath}: ${err.message}`);
-    return;
-  }
+function isEliUrl(str) {
+  return typeof str === 'string' && /^https?:\/\//.test(str);
+}
 
-  const { from, to, articles } = mapping;
+/**
+ * Process a single mapping object and update the target ELI data files.
+ * Supports name-based, mixed, and pure-ELI modes (see module JSDoc).
+ */
+function processSingleMapping(mapping) {
+  const { from, fromELI, to, articles } = mapping;
   if (!from || !to || !articles) {
-    logError('Mapping file must have "from", "to", and "articles" keys.');
+    logError('Each mapping must have "from", "to", and "articles" keys.');
     return;
   }
 
-  // Find split text definitions for source and target codes
-  const fromSplitText = findSplitTextByName(from);
-  const toSplitText = findSplitTextByName(to);
+  // Source ELI resolution (in priority order):
+  //   1. Explicit `fromELI` field (mixed format)
+  //   2. `from` itself is a URL (pure-ELI legacy format)
+  //   3. Look up `from` as a name in split_texts.json (name-based format)
+  const sourceEliDirect = fromELI ?? (isEliUrl(from) ? from : null);
 
-  if (!fromSplitText) {
-    logError(`Cannot find split text definition for "${from}" in split_texts.json`);
-    return;
+  // Target ELI resolution:
+  //   1. `to` is a URL  →  use directly
+  //   2. Look up `to` as a name in split_texts.json
+  const targetEliDirect = isEliUrl(to) ? to : null;
+
+  let fromSplitText, toSplitText;
+  if (!sourceEliDirect) {
+    fromSplitText = findSplitTextByName(from);
+    if (!fromSplitText) {
+      logError(`Cannot find split text definition for "${from}" in split_texts.json`);
+      return;
+    }
   }
-  if (!toSplitText) {
-    logError(`Cannot find split text definition for "${to}" in split_texts.json`);
-    return;
+  if (!targetEliDirect) {
+    toSplitText = findSplitTextByName(to);
+    if (!toSplitText) {
+      logError(`Cannot find split text definition for "${to}" in split_texts.json`);
+      return;
+    }
   }
 
   logInfo(`${timestamp()} Processing mapping: ${chalk.cyan(from)} → ${chalk.cyan(to)}`);
@@ -89,21 +114,31 @@ export function addRelated(mappingFilePath) {
       continue;
     }
 
-    // Find the ELI that covers this source article
-    const sourceEli = findEliForArticle(fromSplitText, sourceArticle);
-    if (!sourceEli) {
-      logWarn(`  ⚠ Cannot find ELI for source article ${sourceArticle} in "${from}"`);
-      skippedCount++;
-      continue;
+    // Resolve the source ELI
+    let sourceEli;
+    if (sourceEliDirect) {
+      sourceEli = sourceEliDirect;
+    } else {
+      sourceEli = findEliForArticle(fromSplitText, sourceArticle);
+      if (!sourceEli) {
+        logWarn(`  ⚠ Cannot find ELI for source article ${sourceArticle} in "${from}"`);
+        skippedCount++;
+        continue;
+      }
     }
 
     for (const targetArticle of targetArticles) {
-      // Find the ELI that covers this target article
-      const targetEli = findEliForArticle(toSplitText, targetArticle);
-      if (!targetEli) {
-        logWarn(`  ⚠ Cannot find ELI for target article ${targetArticle} in "${to}"`);
-        skippedCount++;
-        continue;
+      // Resolve the target ELI
+      let targetEli;
+      if (targetEliDirect) {
+        targetEli = targetEliDirect;
+      } else {
+        targetEli = findEliForArticle(toSplitText, targetArticle);
+        if (!targetEli) {
+          logWarn(`  ⚠ Cannot find ELI for target article ${targetArticle} in "${to}"`);
+          skippedCount++;
+          continue;
+        }
       }
 
       const targetFilename = eliToFilename(targetEli);
@@ -140,8 +175,8 @@ export function addRelated(mappingFilePath) {
 
     // Build the new related entries for this file
     const newEntries = [];
-    for (const [fromELI, arts] of eliMap) {
-      newEntries.push({ from, fromELI, articles: arts });
+    for (const [fromELIkey, arts] of eliMap) {
+      newEntries.push({ from, fromELI: fromELIkey, articles: arts });
     }
 
     // Merge with any existing "related" array
@@ -177,4 +212,25 @@ export function addRelated(mappingFilePath) {
   }
 
   logSuccess(`\n${timestamp()} Done — updated ${filesUpdated} file(s)`);
+}
+
+/**
+ * Process an article-mapping file (or array of mapping objects) and update
+ * the target ELI data files with cross-reference information in a "related" key.
+ */
+export function addRelated(mappingFilePath) {
+  // Load mapping file
+  let mapping;
+  try {
+    mapping = JSON.parse(fs.readFileSync(mappingFilePath, 'utf8'));
+  } catch (err) {
+    logError(`Cannot read mapping file ${mappingFilePath}: ${err.message}`);
+    return;
+  }
+
+  // Support both a single mapping object and an array of mapping objects
+  const mappings = Array.isArray(mapping) ? mapping : [mapping];
+  for (const m of mappings) {
+    processSingleMapping(m);
+  }
 }
