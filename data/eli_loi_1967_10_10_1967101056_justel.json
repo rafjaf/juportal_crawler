@@ -3024,9 +3024,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_79.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_79.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_10.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge des saisies qui est tenu de statuer sur la régularité et la licéité de la saisie examine le calcul de la créance dont l'exécution est poursuivie et tranche les points litigieux à cet égard, au besoin après interprétation du titre (1). (1) Cass. 14 juin 2019, RG C.18.0517.N, Pas. 2019, n° 373."
+      ],
       "abstractNL": [
         "De beslagrechter die dient te oordelen over de regelmatigheid en de rechtmatigheid van het beslag, onderzoekt de becijfering van de schuldvordering waarvan de tenuitvoerlegging wordt nagestreefd en beslecht de geschilpunten dienaangaande, desnoods na interpretatie van de titel (1). (1) Cass. 14 juni 2019, AR C.18.0517.N, AC 2019, nr. 373."
       ]

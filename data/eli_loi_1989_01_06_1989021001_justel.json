@@ -492,9 +492,12 @@
       "roleNumber": "C.21.0525.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1253.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1253.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1253.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_14.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La Cour de cassation est en principe tenue de poser elle-même une question préjudicielle à la Cour constitutionnelle sur la violation par la loi des articles 10 et 11 de la Constitution, lorsque les juges d'appel y ont opposé un refus et que, dans son moyen de cassation, le demandeur non seulement conteste le rejet de sa demande mais critique également la décision relative au litige même, qui le fonde à soulever une question préjudicielle."
+      ],
       "abstractNL": [
         "Het Hof van Cassatie is in beginsel gehouden zelf een prejudiciële vraag te stellen aan het Grondwettelijk Hof over de schending, door de wet, van de artikelen 10 en 11 van de Grondwet, wanneer de appelrechters dit hebben geweigerd en de eiser in zijn cassatiemiddel niet alleen de afwijzing van zijn vraag aanvecht maar tevens de beslissing bekritiseert over het geschil zelf dat voor hem de grond oplevert tot het opwerpen van een prejudiciële vraag."
       ]

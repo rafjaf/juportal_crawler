@@ -13838,9 +13838,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_79.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_79.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/07/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_10.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge des saisies qui est tenu de statuer sur la régularité et la licéité de la saisie examine le calcul de la créance dont l'exécution est poursuivie et tranche les points litigieux à cet égard, au besoin après interprétation du titre (1). (1) Cass. 14 juin 2019, RG C.18.0517.N, Pas. 2019, n° 373."
+      ],
       "abstractNL": [
         "De beslagrechter die dient te oordelen over de regelmatigheid en de rechtmatigheid van het beslag, onderzoekt de becijfering van de schuldvordering waarvan de tenuitvoerlegging wordt nagestreefd en beslecht de geschilpunten dienaangaande, desnoods na interpretatie van de titel (1). (1) Cass. 14 juni 2019, AR C.18.0517.N, AC 2019, nr. 373."
       ]
@@ -14277,6 +14280,18 @@
       ],
       "abstractNL": [
         "De rechter die een onduidelijke of dubbelzinnige beslissing heeft gewezen, kan die uitleggen, zonder evenwel de daarin bevestigde rechten uit te breiden, te beperken of te wijzigen. (Gerecht. Wetb., art. 793) (Impliciete oplossing.)"
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260219.1N.15": {
+      "court": "CASS",
+      "date": "2026-02-19",
+      "roleNumber": "C.25.0093.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_20.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het instellen van vordering tot uitlegging van een vonnis als bedoeld in artikel 793 Gerechtelijk Wetboek heeft niet tot gevolg dat de uitvoerbare kracht van de uit te leggen beslissing wordt geschorst; dit is evenmin het geval voor de tenuitvoerlegging van de aan de uit te leggen beslissing verbonden dwangsom (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -21230,12 +21245,18 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_63.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_63.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_6.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Il y a suspicion légitime au sens de l'article 828, 1°, du Code judiciaire lorsque les faits invoqués peuvent éveiller chez le demandeur en récusation, les parties et des tiers, la suspicion que le magistrat n'est plus en mesure de statuer de manière indépendante et impartiale, mais cette suspicion doit être objectivement justifiée et, jusqu'à preuve du contraire, le juge est présumé statuer de manière impartiale, indépendante et sans préjugé (1). (1) Cass. 15 juin 2021, RG P.21.0145.N, ECLI:BE:CASS:2021:ARR.20210615.2N.11 ; Cass. 27 avril 2016, RG P.16.0509.F, Pas. 2016, n° 288 ; Cass. 10 avril 2012, RG P.12.0593.N, Pas. 2012, n° 223 ; M.-A. BEERNAERT, H.D. BOSLY et D. VANDERMEERSCH, Droit de la procédure pénale, la Charte, 2021, 9e éd., t. II, pp. 1917-1922.",
+        "Ni le fait que le juge n'accorde pas de délais supplémentaires pour conclure à la partie désireuse de répliquer à son tour à une réplique orale du ministère public à sa défense exposée par écrit, ni la circonstance que le juge n'accorde à une partie qui souhaite un autre règlement, seulement la possibilité de développer sa plaidoirie à la même audience que celle à laquelle le ministère public a présenté oralement son réquisitoire et limite la durée de la plaidoirie de cette partie à une audience suivante au temps jugé raisonnablement suffisant pour opposer une réplique complémentaire audit réquisitoire, ni le fait que le juge ne motive pas au fond sa décision ou ne délibère que brièvement à ce propos, ne permettent de présumer un manque d'impartialité dans le chef de ce juge ; le juge de la récusation apprécie souverainement en fait s'il peut se déduire de l'attitude et des décisions du juge récusé un manque d'impartialité objective ou subjective après qu'une partie a demandé à bénéficier de facilités supplémentaires afin de répliquer, à l'audience, au réquisitoire oral du ministère public (1). (1) Cass. 28 juin 2022, RG P.22.0729.N, ECLI:BE:CASS:2022:ARR.20220628.2N.26."
+      ],
       "abstractNL": [
         "Er is gewettigde verdenking in de zin van artikel 828, 1°, Gerechtelijk Wetboek indien de aangevoerde feiten bij de verzoeker tot wraking, de partijen en derden de verdenking kunnen wekken dat de magistraat niet langer op een onafhankelijke en onpartijdige wijze uitspraak kan doen, maar die verdenking moet objectief gerechtvaardigd zijn en tot bewijs van het tegendeel wordt de rechter vermoed onpartijdig, onafhankelijk en onbevangen te oordelen (1). (1) Cass. 15 juni 2021, AR P.21.0145.N, AC 2021, nr. 442; Cass. 27 april 2016, AR P.16.0509.F, AC 2016, nr. 288; Cass. 10 april 2012, AR P.12.0593.N, AC 2012, nr. 223; M.-A. BEERNAERT, H.D. BOSLY en D. VANDERMEERSCH, Droit de la procédure pénale, la Charte, 2021, 9de ed., t. II, pp. 1917-1922.",
-        "Noch het feit dat de rechter geen bijkomende conclusietermijn verleent aan de partij die op haar beurt wil repliceren op een mondelinge repliek van het openbaar ministerie op haar schriftelijk verweer, noch de omstandigheid dat de rechter een partij die een andere regeling wenst enkel de gelegenheid geeft haar pleidooi te voeren op dezelfde rechtszitting als deze waarop het openbaar ministerie mondeling heeft gevorderd en hij de pleitduur van die partij op een volgende rechtszitting beperkt tot wat redelijkerwijze moet volstaan voor een bijkomende repliek op die vordering, noch het feit dat de rechter zijn beslissing inhoudelijk niet motiveert of zich daarover slechts kort beraadt, laten toe bij die rechter een gebrek aan onpartijdigheid te vermoeden; de wrakingsrechter oordeelt onaantastbaar in feite of een gebrek aan objectieve of subjectieve onpartijdigheid van de gewraakte rechter kan worden afgeleid uit zijn houding en zijn beslissingen na een verzoek van een partij om te beschikken over bijkomende faciliteiten met het oog op een repliek op de mondelinge vordering van het openbaar ministerie ter rechtszitting (1). (1) Cass. 28 juni 2022, AR P.22.0729.N, AC 2022, nr. 475."
+        "Noch het feit dat de rechter geen bijkomende conclusietermijn verleent aan de partij die op haar beurt wil repliceren op een mondelinge repliek van het openbaar ministerie op haar schriftelijk verweer, noch de omstandigheid dat de rechter een partij die een andere regeling wenst enkel de gelegenheid geeft haar pleidooi te voeren op dezelfde rechtszitting als deze waarop het openbaar ministerie mondeling heeft gevorderd en hij de pleitduur van die partij op een volgende rechtszitting beperkt tot wat redelijkerwijze moet volstaan voor een bijkomende repliek op die vordering, noch het feit dat de rechter zijn beslissing inhoudelijk niet motiveert of zich daarover slechts kort beraadt, laten toe bij die rechter een gebrek aan onpartijdigheid te vermoeden; de wrakingsrechter oordeelt onaantastbaar in feite of een gebrek aan objectieve of subjectieve onpartijdigheid van de gewraakte rechter kan worden afgeleid uit zijn houding en zijn beslissingen na een verzoek van een partij om te beschikken over bijkomende faciliteiten met het oog op een repliek op de mondelinge vordering van het openbaar ministerie ter rechtszitting (1). (1) Cass. 28 juni 2022, AR P.22.0729.N, AC 2022, nr. 475.",
+        "Er is gewettigde verdenking in de zin van artikel 828, 1°, Gerechtelijk Wetboek indien de aangevoerde feiten bij de verzoeker tot wraking, de partijen en derden de verdenking kunnen wekken dat de magistraat niet langer op een onafhankelijke en onpartijdige wijze uitspraak kan doen, maar die verdenking moet objectief gerechtvaardigd zijn en tot bewijs van het tegendeel wordt de rechter vermoed onpartijdig, onafhankelijk en onbevangen te oordelen (1). (1) Cass. 15 juni 2021, AR P.21.0145.N, ECLI:BE:CASS:2021:ARR.20210615.2N.11; Cass. 27 april 2016, AR P.16.0509.F, AC 2016, nr. 288; Cass. 10 april 2012, AR P.12.0593.N, AC 2012, nr. 223; M.-A. BEERNAERT, H.D. BOSLY en D. VANDERMEERSCH, Droit de la procédure pénale, la Charte, 2021, 9de ed., t. II, pp. 1917-1922.",
+        "Noch het feit dat de rechter geen bijkomende conclusietermijn verleent aan de partij die op haar beurt wil repliceren op een mondelinge repliek van het openbaar ministerie op haar schriftelijk verweer, noch de omstandigheid dat de rechter een partij die een andere regeling wenst enkel de gelegenheid geeft haar pleidooi te voeren op dezelfde rechtszitting als deze waarop het openbaar ministerie mondeling heeft gevorderd en hij de pleitduur van die partij op een volgende rechtszitting beperkt tot wat redelijkerwijze moet volstaan voor een bijkomende repliek op die vordering, noch het feit dat de rechter zijn beslissing inhoudelijk niet motiveert of zich daarover slechts kort beraadt, laten toe bij die rechter een gebrek aan onpartijdigheid te vermoeden; de wrakingsrechter oordeelt onaantastbaar in feite of een gebrek aan objectieve of subjectieve onpartijdigheid van de gewraakte rechter kan worden afgeleid uit zijn houding en zijn beslissingen na een verzoek van een partij om te beschikken over bijkomende faciliteiten met het oog op een repliek op de mondelinge vordering van het openbaar ministerie ter rechtszitting (1). (1) Cass. 28 juni 2022, AR P.22.0729.N, ECLI:BE:CASS:2022:ARR.20220628.2N.26."
       ]
     },
     "ECLI:BE:CASS:2023:ARR.20230919.2N.11": {
@@ -24950,9 +24971,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_63.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_63.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_6.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 838, alinéa 2, du Code judiciaire tend à organiser devant le juge qui doit statuer sur la récusation une procédure contradictoire tant à l'égard de la partie qui demande la récusation qu'à l'égard des autres parties à l'instance principale qui doivent être dûment convoquées et qui ont le droit de faire, à l'audience, devant le juge qui se prononce sur la demande de récusation, des remarques orales ou écrites à propos des moyens invoqués dans l'acte de récusation, à propos des réponses données par le magistrat récusé au bas de l'acte de récusation et à propos des conclusions du ministère public ; il ne résulte toutefois pas de cette disposition que les parties n'ayant pas demandé la récusation, prévenues dans la procédure au fond, puissent introduire un pourvoi en cassation contre la décision rejetant la demande de récusation d'un autre prévenu (1). (1) Cass. 6 mai 2014, RG P.14.0654.N, Pas. 2014, n° 322."
+      ],
       "abstractNL": [
         "Artikel 838, tweede lid, Gerechtelijk Wetboek beoogt voor de rechter die over de wraking uitspraak moet doen een tegensprekelijke procedure te organiseren zowel ten aanzien van de wrakende partij als ten aanzien van de overige partijen in het hoofdgeding, welke behoorlijk dienen te worden opgeroepen en die het recht hebben om voor de rechter die over het wrakingsverzoek uitspraak doet, mondeling of door geschriften opmerkingen te maken over de in de wrakingakte aangevoerde middelen, over de antwoorden van de gewraakte magistraat onderaan de wrakingsakte en over de conclusie van het openbaar ministerie; uit die bepaling volgt evenwel niet dat niet-wrakende partijen, beklaagden in de procedure te gronde, cassatieberoep kunnen instellen tegen de beslissing waarbij het wrakingsverzoek van een andere beklaagde wordt afgewezen (1). (1) Cass. 6 mei 2014, AR P.14.0654.N, AC 2014, nr. 322."
       ]
@@ -61086,6 +61110,20 @@
       "abstractFR": null,
       "abstractNL": [
         "In geval van Cassatie in burgerlijke zaken met verwijzing naar een hof van beroep moest voor de inwerkingtreding van art. 1110 gerechtelijk wetboek de zaak berecht worden door twee kamers samen van het hof waarnaar de zaak werd verwezen.Inzake verwijzing na Cassatie heeft dat art. 1110 een stelsel tot stand gebracht waarvan de twee bepalingen, de eerste dat de zaak voor het rechtscollege van verwijzing wordt aanhangig gemaakt zoals een gewone zaak, de tweede dat bedoeld gerecht alleen dan zitting houdt met verenigde kamers wanneer het hof van Cassatie zulks om uitzonderlijke redenen heeft voorgeschreven, niet kunnen gescheiden worden zonder het stelsel zelf dat bij art. 1110 in werking is getreden te schenden.Dit stelsel kan niet van toepassing zijn op de zaken waarvan het hof van beroepskennis heeft als rechtscollege van verwijzing, na 1 januari 1969, datum van de inwerkingtreding van art. 1110 ten gevolge van een arrest van cassatie dat voor die datum gewezen is."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260219.1N.1": {
+      "court": "CASS",
+      "date": "2026-02-19",
+      "roleNumber": "C.25.0125.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_22.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De algemene bevoegdheid van het hof van beroep te Brussel om kennis te nemen van het hoger beroep tegen beslissingen van de ondernemingsrechtbank te Brussel belet geenszins de verwijzing door het Hof naar een ander rechtscollege van een ander rechtsgebied met toepassing van artikel 1110, eerste lid, Gerechtelijk Wetboek (1). (1) Zie concl. OM.",
+        "De rechter is slechts bevoegd binnen de grenzen van het rechtsgebied dat hem door de wet is toegekend, behalve in de gevallen waarin de wet anders bepaalt; artikel 1110 Gerechtelijk Wetboek aangaande de verwijzing na cassatie vormt dergelijke andere wetsbepaling (1). (1) Zie concl. OM.",
+        "De in artikel XI.337 WER bedoelde exclusieve bevoegdheid van de ondernemingsrechtbank te Brussel blijft niet derwijze gelden in hoger beroep dat het Hof zou verplicht zijn in geval van cassatie van een arrest van het hof van beroep te Brussel inzake een octrooigeschil, de zaak met toepassing van artikel 1110, eerste lid, Gerechtelijk Wetboek te verwijzen naar het hof van beroep te Brussel, anders samengesteld; het Hof kan in geval van cassatie van een arrest van het hof van beroep te Brussel inzake een octrooigeschil, de zaak met toepassing van artikel 1110, eerste lid, Gerechtelijk Wetboek ook verwijzen naar een ander hof van beroep (1). (1) Zie concl. OM."
       ]
     }
   },

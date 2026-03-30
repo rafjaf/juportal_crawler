@@ -11378,6 +11378,50 @@
       ]
     }
   },
+  "1382": {
+    "ECLI:BE:CASS:2022:ARR.20220927.2N.6": {
+      "court": "CASS",
+      "date": "2022-09-27",
+      "roleNumber": "P.22.0251.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les personnes condamnées pour des infractions distinctes sont solidairement tenues des dommages et intérêts lorsque ces infractions constituent une faute commune ayant donné lieu au dommage ; elles peuvent également être condamnées in solidum lorsque ces infractions distinctes constituent des fautes concurrentes ayant contribué à l'ensemble d'un même dommage et le juge apprécie souverainement l'existence d'un lien de causalité entre les différentes infractions et le dommage et la question de savoir si ces différentes infractions constituent une faute commune ou des fautes concurrentes (1). (1) Cass. 4 novembre 2014, RG P.13.1253.N, Pas. 2014, nº 659."
+      ],
+      "abstractNL": [
+        "Personen die zijn veroordeeld wegens afzonderlijke misdrijven, zijn hoofdelijk gehouden tot schadevergoeding wanneer die misdrijven een gemeenschappelijke fout opleveren die tot schade aanleiding heeft gegeven; zij kunnen ook in solidum worden veroordeeld wanneer deze afzonderlijke misdrijven samenlopende fouten opleveren die bijdragen tot de totaliteit van eenzelfde schade en de rechter oordeelt onaantastbaar over het oorzakelijk verband tussen de verschillende misdrijven en de schade en of deze verschillende misdrijven een gemeenschappelijke fout of samenlopende fouten opleveren (1). (1) Cass. 4 november 2014, AR P.13.1253.N, AC 2014, nr. 659."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260219.1N.16": {
+      "court": "CASS",
+      "date": "2026-02-19",
+      "roleNumber": "C.25.0091.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_19.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Een inmenging in de uitoefening van het recht op het ongestoord genot van de eigendom is toegelaten voor zover daarvoor een wettelijke basis bestaat, de inmenging het algemeen belang beoogt en ze een redelijk verband van evenredigheid heeft tot het nagestreefde doel, dit wil zeggen indien ze het billijke evenwicht tussen de vereisten van het algemeen belang en die van de bescherming van dat recht niet verbreekt (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1383": {
+    "ECLI:BE:CASS:2022:ARR.20220927.2N.6": {
+      "court": "CASS",
+      "date": "2022-09-27",
+      "roleNumber": "P.22.0251.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Les personnes condamnées pour des infractions distinctes sont solidairement tenues des dommages et intérêts lorsque ces infractions constituent une faute commune ayant donné lieu au dommage ; elles peuvent également être condamnées in solidum lorsque ces infractions distinctes constituent des fautes concurrentes ayant contribué à l'ensemble d'un même dommage et le juge apprécie souverainement l'existence d'un lien de causalité entre les différentes infractions et le dommage et la question de savoir si ces différentes infractions constituent une faute commune ou des fautes concurrentes (1). (1) Cass. 4 novembre 2014, RG P.13.1253.N, Pas. 2014, nº 659."
+      ],
+      "abstractNL": [
+        "Personen die zijn veroordeeld wegens afzonderlijke misdrijven, zijn hoofdelijk gehouden tot schadevergoeding wanneer die misdrijven een gemeenschappelijke fout opleveren die tot schade aanleiding heeft gegeven; zij kunnen ook in solidum worden veroordeeld wanneer deze afzonderlijke misdrijven samenlopende fouten opleveren die bijdragen tot de totaliteit van eenzelfde schade en de rechter oordeelt onaantastbaar over het oorzakelijk verband tussen de verschillende misdrijven en de schade en of deze verschillende misdrijven een gemeenschappelijke fout of samenlopende fouten opleveren (1). (1) Cass. 4 november 2014, AR P.13.1253.N, AC 2014, nr. 659."
+      ]
+    }
+  },
   "2777": {
     "ECLI:BE:CASS:2022:ARR.20220218.1F.4": {
       "court": "CASS",

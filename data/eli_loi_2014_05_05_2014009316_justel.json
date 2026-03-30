@@ -1533,9 +1533,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_64.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_64.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/27/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_7.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 29, § 2, alinéa 1er, de la loi du 5 mai 2014 sur l'internement prévoit que l'examen de l'affaire a lieu à la première audience utile de la chambre de protection sociale, laquelle doit avoir lieu au plus tard trois mois après que le jugement ou l'arrêt d'internement est passé en force de chose jugée ; ladite loi ne prévoit pas de sanction en cas de non-respect de ce délai et il ne résulte pas du simple dépassement de ce délai qu'il ait été porté une atteinte inadmissible au droit d'accès au juge."
+      ],
       "abstractNL": [
         "Artikel 29, § 2, eerste lid, Interneringswet bepaalt dat de zaak wordt behandeld op de eerst nuttige zitting van de kamer voor de bescherming van de maatschappij, welke plaats moet vinden uiterlijk drie maanden nadat het vonnis of het arrest tot internering in kracht van gewijsde is gegaan; de Interneringswet voorziet niet in een sanctie bij de niet-naleving van deze termijn en uit het enkele feit dat die termijn werd overschreden, volgt niet dat op een niet-toelaatbare manier afbreuk is gedaan aan het recht op toegang tot de rechter."
       ]
