@@ -11115,6 +11115,21 @@
       ]
     }
   },
+  "261": {
+    "ECLI:BE:CASS:2024:ARR.20241112.2N.10": {
+      "court": "CASS",
+      "date": "2024-11-12",
+      "roleNumber": "P.24.0880.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_29.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De in artikel 261 Wetboek van Strafvordering bedoelde akte van beschuldiging houdt slechts een uiteenzetting in door het openbaar ministerie van de feiten en omstandigheden van de zaak; een onjuiste of onvolledige uiteenzetting in de akte van beschuldiging, die bij toepassing van artikel 275, eerste lid, Wetboek van Strafvordering aan de beschuldigde wordt betekend, kan tijdens het debat voor het hof van assisen steeds worden verbeterd, zodat een onjuistheid of onvolledigheid in de akte van beschuldiging niet de nietigheid van de rechtspleging tot gevolg kan hebben (1). (1) Cass. 1 december 1993, AR P.93.1381.F, AC 1993, nr. 496, ECLI:BE:CASS:1993:ARR.19931201.14; Cass. 22 december 1987, AR nr. 1749, AC 1987, nr. 254, ECLI:BE:CASS:1987:ARR.19871222.12, RW 1987-88, 954, noot A. VANDEPLAS.",
+        "De procureur-generaal kan tijdens het debat voor het hof van assisen, hetzij tijdens, hetzij onmiddellijk na de voorlezing van de akte van beschuldiging, hetzij op een ander tijdstip, fouten of onvolledigheden van die akte mondeling verbeteren, zonder ertoe gehouden te zijn die verbeteringen ook op te nemen in een geschrift."
+      ]
+    }
+  },
   "407": {
     "ECLI:BE:CASS:2023:ARR.20230627.2N.3": {
       "court": "CASS",
@@ -13274,12 +13289,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_608.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_19.xml"
       ],
       "abstractFR": [
         "Il résulte des travaux parlementaires relatifs à l'article 47bis du Code d'instruction criminelle qui prévoit de manière générale l'assistance possible d'un avocat lors d'une audition, que la notion d' « audition » doit s'entendre d'un interrogatoire guidé, concernant des infractions qui peuvent être mises à charge, par une personne habilitée à cet effet et acté dans un procès-verbal, dans le cadre d'une information ou d'une instruction judiciaire, en vue de la manifestation de la vérité (1) ; les questionnaires standardisés dans lesquels des informations succinctes sont demandées au moyen de réponses à cocher ou de rubriques à compléter, comme lors de l'interpellation d'un étranger en séjour illégal, ne constituent pas une audition au sens de l'article 47bis du Code d'instruction criminelle (2). (1) Cass. 5 novembre 2019, RG P.19.0384.N, Pas. 2019, n° 566. (2) Voir Cass. 6 novembre 2018, RG P.18.0299.N, Pas. 2018, n° 609."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de wetsgeschiedenis van artikel 47bis Wetboek van Strafvordering, dat op algemene wijze voorziet in de mogelijkheid om tijdens een verhoor te worden bijgestaan door een advocaat, volgt dat het begrip “verhoor” moet worden verstaan als een geleide ondervraging over misdrijven die ten laste kunnen worden gelegd en die door een daartoe bevoegde persoon wordt opgetekend in een proces-verbaal in het kader van een opsporingsonderzoek of een gerechtelijk onderzoek, met als doel de waarheid te vinden (1); de gestandaardiseerde vragenlijsten waarin beperkte informatie wordt gevraagd door middel van aan te kruisen keuzemogelijkheden of aan te vullen rubrieken, zoals in geval van de interpellatie van een illegaal verblijvende vreemdeling, zijn geen verhoor in de zin van artikel 47bis Wetboek van Strafvordering (2). (1) Cass. 5 november 2019, AR P.19.0384.N, AC 2019, nr. 566. (2) Zie Cass. 6 november 2018, AR P.18.0299.N, AC 2018, nr. 609."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230926.2N.4": {
       "court": "CASS",

@@ -11398,7 +11398,8 @@
       "date": "2026-02-19",
       "roleNumber": "C.25.0091.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_19.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_19.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_30.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -11419,6 +11420,24 @@
       ],
       "abstractNL": [
         "Personen die zijn veroordeeld wegens afzonderlijke misdrijven, zijn hoofdelijk gehouden tot schadevergoeding wanneer die misdrijven een gemeenschappelijke fout opleveren die tot schade aanleiding heeft gegeven; zij kunnen ook in solidum worden veroordeeld wanneer deze afzonderlijke misdrijven samenlopende fouten opleveren die bijdragen tot de totaliteit van eenzelfde schade en de rechter oordeelt onaantastbaar over het oorzakelijk verband tussen de verschillende misdrijven en de schade en of deze verschillende misdrijven een gemeenschappelijke fout of samenlopende fouten opleveren (1). (1) Cass. 4 november 2014, AR P.13.1253.N, AC 2014, nr. 659."
+      ]
+    }
+  },
+  "2244": {
+    "ECLI:BE:CASS:2023:ARR.20230601.1F.2": {
+      "court": "CASS",
+      "date": "2023-06-01",
+      "roleNumber": "C.22.0346.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Lorsque la prescription de l'astreinte est interrompue par un commandement auquel le débiteur forme opposition devant le juge des saisies, l'interruption se prolonge jusqu'à la prononciation d'une décision définitive statuant sur la difficulté d'exécution; il ne suffit donc pas que le débiteur forme opposition au commandement ; encore faut-il que cette opposition porte sur une difficulté d'exécution relative à l'astreinte (1). (1) Voir les concl. du MP.",
+        "Lorsque l'opposition devant le juge des saisies porte sur la condamnation même à l'astreinte dont le débiteur demande la suppression, la suspension ou la réduction, l'effet interruptif ne se prolonge pas jusqu'à la prononciation d'une décision définitive sur cette demande (3). (3)Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
+        "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -12983,6 +13002,22 @@
         "Le juge de paix saisi, par une femme mariée, d'une demande de pension alimentaire, après le jugement prononçant aux torts du mari la séparation de corps, est sans compétence pour décider dans quelle mesure il devra, lors de la liquidation et du partage de la communauté entre les époux, être tenu compte des sommes qui seront payées par le mari en exécution du jugement le condamnant à verser une pension alimentaire."
       ],
       "abstractNL": null
+    }
+  },
+  "577-9": {
+    "ECLI:BE:CASS:2023:ARR.20230601.1F.4": {
+      "court": "CASS",
+      "date": "2023-06-01",
+      "roleNumber": "C.22.0155.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "L'article 577-9, § 1er, alinéa 2, de l'ancien Code civil (1), dans la version applicable issue de la loi du 2 juin 2010 modifiant le Code civil afin de moderniser le fonctionnement des copropriétés et d'accroître la transparence de leur gestion, s'applique aux demandes tendant à rectifier le mode de répartition des charges visées à l'article 577-9, § 6, 2°, en sorte que ces demandes peuvent être dirigées contre l'association des copropriétaires qui a la qualité et l'intérêt requis pour s'en défendre (1). (1) Dans sa version applicable issue de la loi du 2 juin 2010 modifiant le Code civil afin de moderniser le fonctionnement des copropriétés et d'accroître la transparence de leur gestion. (2) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 577-9, § 1, tweede lid, Oud Burgerlijk Wetboek (1), in de toepasselijke versie voortvloeiend uit de wet van 2 juni 2010 tot wijziging van het Burgerlijk Wetboek teneinde de werking van de mede-eigendom te moderniseren en transparanter te maken, is van toepassing op de vorderingen tot wijziging van de wijze van verdeling van de lasten, bedoeld in artikel 577-9, § 6, 2°, zodat die vorderingen gericht kunnen worden tegen de vereniging van mede-eigenaars die de vereiste hoedanigheid en het vereiste belang heeft om zichzelf daartegen te verdedigen (2). (1) In de toepasselijke versie voortvloeiend uit de wet van 2 juni 2010 tot wijziging van het Burgerlijk Wetboek teneinde de werking van de mede-eigendom te moderniseren en transparanter te maken. (2) Zie concl. OM."
+      ]
     }
   }
 }

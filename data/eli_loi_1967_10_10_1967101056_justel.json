@@ -3431,13 +3431,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_603.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_603.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_14.xml"
       ],
       "abstractFR": [
         "Lorsque la prescription de l'astreinte est interrompue par un commandement auquel le débiteur forme opposition devant le juge des saisies, l'interruption se prolonge jusqu'à la prononciation d'une décision définitive statuant sur la difficulté d'exécution; il ne suffit donc pas que le débiteur forme opposition au commandement ; encore faut-il que cette opposition porte sur une difficulté d'exécution relative à l'astreinte (1). (1) Voir les concl. du MP.",
         "Lorsque l'opposition devant le juge des saisies porte sur la condamnation même à l'astreinte dont le débiteur demande la suppression, la suspension ou la réduction, l'effet interruptif ne se prolonge pas jusqu'à la prononciation d'une décision définitive sur cette demande (3). (3)Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
+        "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230609.1N.1": {
       "court": "CASS",

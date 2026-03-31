@@ -11054,12 +11054,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_608.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_19.xml"
       ],
       "abstractFR": [
         "L'article 780, alinéa 1er, 2°, du Code judiciaire ne s'applique pas en matière répressive, la loi ne prescrivant pas d'une manière expresse ni à peine de nullité l'énonciation dans la décision des nom, prénom et domicile d'une partie pourvu qu'elle y soit désignée d'une manière permettant de déterminer à qui elle s'applique (1). (1) Cass. 10 mai 2017, RG P.17.0179.F, Pas 2017, n° 32."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 780, eerste lid, 2°, Gerechtelijk Wetboek is niet van toepassing in strafzaken, aangezien de wet noch uitdrukkelijk noch op straffe van nietigheid voorschrijft dat de beslissing de naam, de voornaam en de woonplaats van een partij moet vermelden; het is voldoende dat uit de aanduiding van de partij in de beslissing kan worden opgemaakt op wie ze van toepassing is (1). (1) Cass. 10 mei 2017, AR P.17.0179.F, AC 2017, nr. 32."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200914.3F.5": {
       "court": "CASS",
@@ -14287,11 +14290,13 @@
       "date": "2026-02-19",
       "roleNumber": "C.25.0093.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_20.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_20.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_31.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
-        "Het instellen van vordering tot uitlegging van een vonnis als bedoeld in artikel 793 Gerechtelijk Wetboek heeft niet tot gevolg dat de uitvoerbare kracht van de uit te leggen beslissing wordt geschorst; dit is evenmin het geval voor de tenuitvoerlegging van de aan de uit te leggen beslissing verbonden dwangsom (1). (1) Zie concl. OM."
+        "Het instellen van vordering tot uitlegging van een vonnis als bedoeld in artikel 793 Gerechtelijk Wetboek heeft niet tot gevolg dat de uitvoerbare kracht van de uit te leggen beslissing wordt geschorst; dit is evenmin het geval voor de tenuitvoerlegging van de aan de uit te leggen beslissing verbonden dwangsom (1). (1) Zie concl. OM.",
+        "De interpretatie die het uitleggend vonnis geeft, wordt geacht terug te werken tot op het ogenblik van de uitspraak van het uitgelegde vonnis (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -14354,13 +14359,17 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/01/sitemap_3.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_340.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_340.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/01/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/01/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_2.xml"
       ],
       "abstractFR": [
         "Le cumul de fonctions n'est prohibé par l'article 292 du Code judiciaire que si l'intervention précédente du magistrat en une autre qualité se situe dans la même cause, c'est-à-dire le même litige (1); la rectification d'un arrêt n'implique pas de connaître de la cause tranchée par lui; ainsi, le magistrat qui a statué sur la détention préventive en chambre du conseil peut siéger dans l'instance en rectification d'un arrêt de la chambre des mises en accusation qui a statué sur la détention préventive dans la même cause, sans avoir à se prononcer sur aucune des conditions mises par la loi au maintien ou à la levée de la détention préventive, puisque l'objet de la rectification se borne au redressement d'une erreur matérielle, sans pouvoir modifier, étendre ou restreindre les droits consacrés par la décision à rectifier (2). (1) Voir Cass. 23 février 2005, RG P.05.1685.F, Pas. 2005, n° 113 ; Cass. 13 janvier 1986, RG 4965, Pas. 1986, n° 308 (« pour l'application du principe général du droit suivant lequel personne ne peut être à la fois juge et partie dans une même cause ») ; concl. de M. le procureur général KRINGS, alors avocat général, précédant Cass. 8 novembre 1979, Pas. 1980, p. 310 [314] (qui définit la (même) cause comme les « actes de procédure qui forment un ensemble soumis à l'appréciation du juge et qui constituent le même différend opposant les parties »). (2) Voir les concl. contraires « dit en substance » du MP.",
         "Lorsqu'un arrêt de la chambre des mises en accusation dit fondé l'appel de l'inculpé contre une ordonnance de la chambre du conseil qui maintient la détention préventive, alors qu'il résulte manifestement de la motivation dudit arrêt qu'elle considère que cet appel n'est pas fondé, la chambre des mises en accusation peut rectifier cette erreur matérielle (1). (Solution implicite). (1) Voir les concl. contraires « dit en substance » du MP. La Cour a constaté la tardiveté du mémoire en tant que relatif au pourvoi visant cet arrêt et, procédant au contrôle d'office, n'a pas pris le moyen d'office suggéré par le MP mais a considéré que « les formalités substantielles ou prescrites à peine de nullité ont été observées et la décision est conforme à la loi »."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 292 Gerechtelijk Wetboek verbiedt cumulatie van ambten enkel als de magistraat eerder in een andere hoedanigheid in dezelfde zaak, dus in hetzelfde geschil, is tussengekomen (1); de verbetering van een arrest houdt niet in dat wordt kennisgenomen van de zaak die hierin wordt beslecht; aldus kan de magistraat die uitspraak heeft gedaan over de voorlopige hechtenis in de raadkamer zitting houden in het geding tot verbetering van het arrest van de kamer van inbeschuldigingstelling dat uitspraak heeft gedaan over de voorlopige hechtenis in dezelfde zaak, zonder dat hij zich hoeft uit te spreken over enige in de wet bepaalde voorwaarde tot opheffing of handhaving van de voorlopige hechtenis, aangezien de verbetering enkel betrekking heeft op de rechtzetting van een verschrijving, zonder dat de in de te verbeteren beslissing vastgelegde rechten kunnen worden gewijzigd, uitgebreid of beperkt (2). (1) Zie Cass. 23 februari 2005, AR P.05.1685.F, AC 2005, nr. 113; Cass. 13 januari 1986, AR 4965, AC 1986, nr. 308 (“Voor de toepassing van het algemeen rechtsbeginsel dat niemand in dezelfde zaak rechter en partij mag zijn\"); concl. van procureur-generaal KRINGS, toen advocaat-generaal, Cass. 8 november 1979, Pas. 1980, I, p. 310 [314] (die (dezelfde) zaak definieert als de “actes de procédure qui forment un ensemble soumis à l'appréciation du juge et qui constituent le même différend opposant les parties”). (2) Zie andersluidende conclusie “in hoofdzaak” OM.",
+        "Wanneer een arrest van de kamer van inbeschuldigingstelling het hoger beroep van de inverdenkinggestelde tegen een beschikking van de raadkamer tot handhaving van de voorlopige hechtenis gegrond verklaart, terwijl uit de redengeving van dat arrest duidelijk blijkt dat het oordeelt dat het beroep niet gegrond is, kan de kamer van inbeschuldigingstelling die verschrijving verbeteren (1). (Impliciete oplossing). (1) Zie andersluidende conclusie “in hoofdzaak” OM. Het Hof heeft de laattijdigheid van de memorie vastgesteld in zoverre die betrekking heeft op het cassatieberoep tegen dit arrest en heeft bij het ambtshalve onderzoek het door het OM gesuggereerde ambtshalve middel niet aangenomen, maar vastgesteld dat “de substantiële of op straffe van nietigheid voorgeschreven rechtsvormen in acht zijn genomen en de beslissing overeenkomstig de wet is gewezen”."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231121.2N.15": {
       "court": "CASS",
@@ -54078,12 +54087,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_606.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_606.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_17.xml"
       ],
       "abstractFR": [
         "Le moyen, qui fait grief à la décision de violer la foi due à une pièce du dossier et invoque la violation du principe de la foi due aux actes, qui n'est pas un principe général du droit, mais n'indique aucune disposition légale qui serait violée, est irrecevable (1). (1) Il n'existe pas de principe général du droit de la violation de la foi due aux actes (en ce sens, Cass. 29 avril 1994, Bull. et Pas. 1994, I, n° 209). Sa teneur résulte de dispositions légales par lesquelles il est possible de saisir la Cour de cassation (articles 8.16, 8.17 et 8.18 du Code civil)."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het middel dat de beslissing verwijt de bewijskracht van een stuk uit het dossier te miskennen en de miskenning van de bewijskracht van de akten aanvoert, dat geen algemeen rechtsbeginsel is, maar geen enkele wettelijke bepaling als geschonden aanwijst, is niet ontvankelijk (1). (1) Er bestaat geen algemeen rechtsbeginsel van de miskenning van de bewijskracht van de akten (zie, in die zin, Cass. 29 april 1994, AC 1994, nr. 209). De inhoud ervan volgt uit de wettelijke bepalingen op grond waarvan de zaak bij het Hof van Cassatie aanhangig kan worden gemaakt (artt. 8.16, 8.17 en 8.18 Burgerlijk Wetboek)."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231006.1F.3": {
       "court": "CASS",
@@ -61117,7 +61129,8 @@
       "date": "2026-02-19",
       "roleNumber": "C.25.0125.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_22.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_22.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_32.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -73850,13 +73863,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_603.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_603.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_14.xml"
       ],
       "abstractFR": [
         "Lorsque la prescription de l'astreinte est interrompue par un commandement auquel le débiteur forme opposition devant le juge des saisies, l'interruption se prolonge jusqu'à la prononciation d'une décision définitive statuant sur la difficulté d'exécution; il ne suffit donc pas que le débiteur forme opposition au commandement ; encore faut-il que cette opposition porte sur une difficulté d'exécution relative à l'astreinte (1). (1) Voir les concl. du MP.",
         "Lorsque l'opposition devant le juge des saisies porte sur la condamnation même à l'astreinte dont le débiteur demande la suppression, la suspension ou la réduction, l'effet interruptif ne se prolonge pas jusqu'à la prononciation d'une décision définitive sur cette demande (3). (3)Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
+        "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2011:ARR.20110603.2": {
       "court": "CASS",
@@ -74402,13 +74419,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_603.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_603.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_14.xml"
       ],
       "abstractFR": [
         "La demande du débiteur de supprimer, suspendre ou réduire l'astreinte ne relève pas d'une difficulté d'exécution relative à l'astreinte (2). (2) Voir les concl. du MP.",
         "Lorsque l'opposition devant le juge des saisies porte sur la condamnation même à l'astreinte dont le débiteur demande la suppression, la suspension ou la réduction, l'effet interruptif ne se prolonge pas jusqu'à la prononciation d'une décision définitive sur cette demande (3). (3)Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vordering van de schuldenaar tot opheffing, opschorting of vermindering van de dwangsom houdt geen verband met een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
+        "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200907.3N.3": {
       "court": "CASS",

@@ -756,12 +756,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_611.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_611.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_22.xml"
       ],
       "abstractFR": [
         "Si la persistance d'un trouble mental au moment de la décision et altérant gravement les capacités de discernement du prévenu est une condition prévue par l'article 9, § 1er, 2°, de la loi du 5 mai 2014 relative à l'internement pour pouvoir interner la personne qui en est affectée, la stabilisation d'une pathologie mentale grâce aux soins prodigués à la personne internée n'implique pas nécessairement la disparition du trouble altérant gravement ses capacités et n'exclut dès lors pas sa résurgence du fait de la cessation des soins."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Hoewel het voortduren, op het ogenblik van de uitspraak, van een geestesstoornis die het oordeelsvermogen van de beklaagde ernstig aantast een in artikel 9, § 1, 2°, Interneringswet bepaalde voorwaarde is om de persoon die hieraan lijdt te kunnen interneren, leidt de stabilisering van een psychische aandoening dankzij de aan de geïnterneerde verstrekte zorg niet noodzakelijkerwijs tot de verdwijning van de stoornis die zijn oordeelsvermogen ernstig aantast en sluit ze bijgevolg de heropflakkering ervan wegens het stopzetten van de zorg niet uit."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230627.2N.11": {
       "court": "CASS",
