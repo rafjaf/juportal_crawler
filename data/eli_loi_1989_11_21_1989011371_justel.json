@@ -1401,12 +1401,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_440.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_440.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/09/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/09/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_25.xml"
       ],
       "abstractFR": [
         "Pour déterminer l'indemnité relative à un dommage évalué en équité, le juge doit se placer au moment où il statue."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Bij het vaststellen van de vergoeding van naar billijkheid geraamde schade moet de rechter zich plaatsen op het tijdstip van zijn uitspraak."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230508.3N.3": {
       "court": "CASS",

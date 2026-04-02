@@ -211,9 +211,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_153.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_153.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/25/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/11/25/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_9.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En cas d'annulation d'une cotisation primitive établie au nom d'une société dont la liquidation était déjà clôturée à l'époque, une cotisation subsidiaire à charge du liquidateur qualitate qua est possible à condition que la cotisation primitive ait été établie dans les cinq ans de la clôture de la liquidation de la société."
+      ],
       "abstractNL": [
         "In geval van vernietiging van een aanvankelijke aanslag gevestigd op naam van een vennootschap waarvan de vereffening op dat ogenblik reeds was afgesloten, is een subsidiaire aanslag tegen de vereffenaar qualitate qua mogelijk op voorwaarde dat de aanvankelijke aanslag werd gevestigd binnen vijf jaar na de sluiting van de vereffening van de vennootschap."
       ]
