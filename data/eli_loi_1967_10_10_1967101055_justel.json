@@ -72412,13 +72412,17 @@
       "date": "2025-03-06",
       "roleNumber": "C.24.0157.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_24.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_24.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_31.xml"
       ],
       "abstractFR": [
         "Lorsque le tribunal de la famille est saisi d'une demande de condamnation du parent, qui refuse d'exécuter une décision judiciaire relative à l'hébergement des enfants ou au droit aux relations personnelles, au paiement d'une astreinte tendant à assurer le respect de cette décision, ce parent peut introduire une demande reconventionnelle de modification de la décision relative à l'autorité parentale ou à l'hébergement de l'enfant.",
         "Lorsque le tribunal de la famille est saisi d'une demande de condamnation du parent, qui refuse d'exécuter une décision judiciaire relative à l'hébergement des enfants ou au droit aux relations personnelles, au paiement d'une astreinte tendant à assurer le respect de cette décision, ce parent peut introduire une demande reconventionnelle de modification de la décision relative à l'autorité parentale ou à l'hébergement de l'enfant; cette demande peut être introduite pour la première fois en degré d'appel."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de familierechtbank kennisneemt van een vordering waarin gevraagd wordt de ouder die weigert een rechterlijke beslissing betreffende de verblijfsregeling van de kinderen of het recht op persoonlijk contact tot betaling van een dwangsom die ertoe strekt de naleving van deze beslissing te waarborgen, kan die ouder een tegenvordering instellen tot wijziging van de beslissing betreffende het ouderlijk gezag of de verblijfsregeling van het kind.",
+        "Wanneer de familierechtbank kennisneemt van een vordering waarin gevraagd wordt de ouder die weigert een rechterlijke beslissing betreffende de verblijfsregeling van de kinderen of het recht op persoonlijk contact uit te voeren, te veroordelen tot betaling van een dwangsom die ertoe strekt de naleving van deze beslissing te waarborgen, kan die ouder een tegenvordering instellen tot wijziging van de beslissing betreffende het ouderlijk gezag of de verblijfsregeling van het kind; die vordering kan voor het eerst in hoger beroep worden ingesteld."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210208.3N.9": {
       "court": "CASS",

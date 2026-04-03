@@ -15723,12 +15723,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2683.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2683.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_34.xml"
       ],
       "abstractFR": [
         "Ensuite de la cassation de la décision rendue sur la peine infligée au demandeur, l'arrestation immédiate ordonnée à sa charge par les juges d'appel devient sans effet (1). (1) Cass. 23 juin 2021, RG P.21.0334.F, ECLI:BE:CASS:2021:ARR.20210623.2F.3; voir R. Declercq, « Pourvoi en cassation en matière répressive », in Répertoire pratique du droit belge, Bruxelles, Bruylant, 2015, p. 631."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Als gevolg van de vernietiging van de beslissing over de aan de eiser opgelegde straf heeft het door de appelrechters tegen hem uitgevaardigde bevel tot onmiddellijke aanhouding geen uitwerking meer (1). (1) Cass. 23 juni 2021, AR P.21.0334.F, ECLI:BE:CASS:2021:ARR.20210623.2F.3; zie R. DECLERCQ, “Pourvoi en cassation en matière répressive”, in Répertoire pratique du droit belge, Brussel, Bruylant, 2015, 631."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230509.2N.17": {
       "court": "CASS",
@@ -19304,9 +19307,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2646.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2646.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/19/sitemap_12.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/09/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/09/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_28.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Après que la Commission de révision en matière pénale a rendu son avis, qui ne revêt pas, selon l'article 445, alinéa 9, du Code d'instruction criminelle, un caractère contraignant, la Cour décide, en vertu de l'alinéa 10 de cet article, soit de rejeter la demande soit d'annuler la condamnation avec renvoi; lorsque la Cour, après l'avis de la Commission, conclut que les nouveaux éléments allégués par le demandeur, pris isolément ou dans leur ensemble, ne font pas naitre la présomption grave que, s'ils avaient été connus de la juridiction d'appel, ils auraient donné lieu à un acquittement de la personne condamnée, la demande en révision est non fondée."
+      ],
       "abstractNL": [
         "Nadat de Commissie voor herziening in strafzaken haar advies heeft verleend, dat volgens artikel 445, negende lid, Wetboek van Strafvordering niet bindend is, beslist het Hof volgens artikel 445, tiende lid, Wetboek van Strafvordering tot verwerping van de aanvraag dan wel tot de vernietiging van de veroordeling met verwijzing; wanneer het hof, na het advies van de Commissie, tot het besluit komt dat de door de verzoeker aangevoerde nieuwe elementen, afzonderlijk en zelfs samen genomen, niet het ernstige vermoeden doen ontstaan dat indien deze gegevens bekend zouden zijn geweest bij het appelgerecht, zij tot een vrijspraak van de veroordeelde zouden hebben geleid, is de aanvraag tot herziening ongegrond."
       ]

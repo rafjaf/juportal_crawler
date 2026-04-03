@@ -4358,12 +4358,15 @@
       "date": "2025-03-06",
       "roleNumber": "C.22.0493.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_22.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_22.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_29.xml"
       ],
       "abstractFR": [
         "La personne qui introduit un recours en annulation contre une décision de l'Institut belge des services postaux et des télécommunications doit disposer d'un intérêt personnel et direct, né et actuel."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De persoon die een beroep tot nietigverklaring instelt tegen een beslissing van het Belgisch Instituut voor postdiensten en telecommunicatie, moet over een persoonlijk en rechtstreeks, reeds verkregen en dadelijk belang beschikken."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250908.3N.10": {
       "court": "CASS",

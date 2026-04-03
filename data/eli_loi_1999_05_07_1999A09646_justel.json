@@ -1268,12 +1268,15 @@
       "date": "2025-03-06",
       "roleNumber": "C.24.0113.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_30.xml"
       ],
       "abstractFR": [
         "L'implication d'une personne dans la faillite d'une société entraînant des dettes de cotisations sociales se déduit de sa seule qualité d'administrateur ou de gérant, de droit ou de fait de cette société, lors même qu'elle n'a plus cette qualité lors de la déclaration de faillite de celle-ci."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De betrokkenheid van een persoon bij een faillissement met socialebijdragenschulden kan reeds worden afgeleid uit zijn hoedanigheid van bestuurder of zaakvoerder, in rechte of in feite, van die vennootschap, ook al heeft hij die hoedanigheid niet meer op het ogenblik van de faillietverklaring."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240523.1N.6": {
       "court": "CASS",
