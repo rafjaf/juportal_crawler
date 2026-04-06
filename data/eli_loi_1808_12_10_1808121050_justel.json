@@ -11518,12 +11518,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_379.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_379.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/15/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/15/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_4.xml"
       ],
       "abstractFR": [
         "Est recevable le mémoire en cassation en matière répressive signé par un avocat qui n'est pas titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2, du Code d'instruction criminelle à la place de (« loco ») l'avocat (« dominus litis ») du demandeur qui est titulaire de cette attestation (1). (Solution implicite). (1) Voir les concl. du MP ; l'arrêt n'est pas publié, la décision que le mémoire est recevable étant implicite."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De memorie in cassatie in strafzaken die ondertekend is door een advocaat die geen houder is van het getuigschrift bedoeld in artikel 425, § 1, tweede lid, Wetboek van Strafvordering, in de plaats van (“loco”) de advocaat van de eiser die houder is van dat getuigschrift, is ontvankelijk (1). (Impliciete oplossing). (1) Zie concl. OM; het arrest werd niet gepubliceerd omdat de beslissing volgens welke de memorie ontvankelijk is impliciet is."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211214.2N.22": {
       "court": "CASS",
@@ -14112,12 +14115,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_379.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_379.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/15/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/15/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_4.xml"
       ],
       "abstractFR": [
         "Est recevable le mémoire en cassation en matière répressive signé par un avocat qui n'est pas titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2, du Code d'instruction criminelle à la place de (« loco ») l'avocat (« dominus litis ») du demandeur qui est titulaire de cette attestation (1). (Solution implicite). (1) Voir les concl. du MP ; l'arrêt n'est pas publié, la décision que le mémoire est recevable étant implicite."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De memorie in cassatie in strafzaken die ondertekend is door een advocaat die geen houder is van het getuigschrift bedoeld in artikel 425, § 1, tweede lid, Wetboek van Strafvordering, in de plaats van (“loco”) de advocaat van de eiser die houder is van dat getuigschrift, is ontvankelijk (1). (Impliciete oplossing). (1) Zie concl. OM; het arrest werd niet gepubliceerd omdat de beslissing volgens welke de memorie ontvankelijk is impliciet is."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230509.2N.19": {
       "court": "CASS",
