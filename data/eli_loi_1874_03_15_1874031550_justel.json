@@ -1555,9 +1555,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2765.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2765.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/05/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'exécution d'un mandat d'arrêt établi en anglais ne requiert pas que ce mandat d'arrêt soit traduit, sans préjudice du droit à la traduction ou à l'assistance d'un interprète dont l'intéressé peut se prévaloir."
+      ],
       "abstractNL": [
         "De tenuitvoerlegging van een in het Engels gesteld aanhoudingsbevel vereist niet dat dit bevel wordt vertaald, onverminderd het recht op vertaling of bijstand door een tolk waarop de betrokkene zich kan beroepen."
       ]

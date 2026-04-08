@@ -7172,12 +7172,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2718.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2718.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_1.xml"
       ],
       "abstractFR": [
-        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163."
+        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163.",
+        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) Voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De inaanmerkingneming bij de straftoemeting van de betaling van meerdere onmiddellijke inningen miskent niet het vermoeden van onschuld als de rechter aan die betaling geen andere draagwijdte toekent dan die van een waarschuwing; zonder dat het vonnis oordeelt dat de snelheidsovertredingen die aanleiding hebben gegeven tot de voormelde inningen bewezen zijn en dat de betaling ervan een schulderkenning zou inhouden, neemt het die betaling zelf, en niet de feiten die daartoe hebben geleid, in aanmerking als een omstandigheid die de behoorlijk gewaarschuwde beklaagde bewust had moeten maken van de gevaren van overdreven snelheid in de bebouwde kom (1). (1) Zie Cass. 19 december 2023, AR P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 september 1993, AR nr. 6370, AC 1993, 675, nr. 334; Cass. 27 november 1991, AR 9133, AC 1991-92, nr. 163."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250422.2N.8": {
       "court": "CASS",
@@ -15650,6 +15654,18 @@
         "L'opposant n'exerçant son recours que dans son seul intérêt, l'opposition ne vise pas les décisions favorables à l'opposant. (Code d'instr. crim., art. 151 et 187.)"
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260310.2N.8": {
+      "court": "CASS",
+      "date": "2026-03-10",
+      "roleNumber": "P.25.1665.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_13.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De door artikel 38, § 3, 3° en 4°, Wegverkeerswet bedoelde maatregel om het herstel in het recht tot sturen afhankelijk te maken van het slagen in een geneeskundig en een psychologisch onderzoek is geen straf, maar een beveiligingsmaatregel; op die beveiligingsmaatregel is artikel 92 Strafwetboek over de verjaring van correctionele straffen na vijf jaar niet van toepassing; de omstandigheid dat de hoofd- en bijkomende straffen die met hetzelfde vonnis als de door artikel 38, § 3, 3° en 4°, Wegverkeerswet bedoelde beveiligingsmaatregel werden opgelegd, wel zijn verjaard volgens artikel 92 Strafwetboek, laat niet toe anders te oordelen; niet naar recht verantwoord is het vonnis dat het verzet tegen de bij verstek opgelegde herstelmaatregelen niet-ontvankelijk verklaart wegens verjaring van het rijverbod als bijkomende straf voorafgaand aan het instellen van het verzet in de buitengewone termijn (1). (1) Zie andersluidende concl. OM."
+      ]
     }
   },
   "188": {
@@ -21944,12 +21960,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2718.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2718.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/05/21/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_1.xml"
       ],
       "abstractFR": [
-        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163."
+        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163.",
+        "La prise en compte, dans l'appréciation de la peine, du payement de plusieurs perceptions immédiates ne méconnaît pas la présomption d'innocence si le juge n'impute à ce payement d'autre portée que celle d'un avertissement; sans considérer que les excès de vitesse ayant donné lieu aux perceptions susdites sont établis ni même que leur payement implique une reconnaissance de culpabilité, c'est de ce payement même, et non des faits l'ayant causé, que le jugement tient compte comme d'une circonstance qui aurait dû inciter le prévenu, dûment averti, à prendre conscience des dangers inhérents à une vitesse excessive en agglomération (1). (1) Voir Cass. 19 décembre 2023, RG P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 septembre 1993, RG n° 6370, Pas., 1993, I, p. 662, n° 334 ; Cass. 27 novembre 1991, RG 9133, Pas. 1992, I, n° 163."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De inaanmerkingneming bij de straftoemeting van de betaling van meerdere onmiddellijke inningen miskent niet het vermoeden van onschuld als de rechter aan die betaling geen andere draagwijdte toekent dan die van een waarschuwing; zonder dat het vonnis oordeelt dat de snelheidsovertredingen die aanleiding hebben gegeven tot de voormelde inningen bewezen zijn en dat de betaling ervan een schulderkenning zou inhouden, neemt het die betaling zelf, en niet de feiten die daartoe hebben geleid, in aanmerking als een omstandigheid die de behoorlijk gewaarschuwde beklaagde bewust had moeten maken van de gevaren van overdreven snelheid in de bebouwde kom (1). (1) Zie Cass. 19 december 2023, AR P.23.1391.N, ECLI:BE:CASS:2023:ARR.20231219.2N.3; Cass. 7 september 1993, AR nr. 6370, AC 1993, 675, nr. 334; Cass. 27 november 1991, AR 9133, AC 1991-92, nr. 163."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250402.2F.18": {
       "court": "CASS",
