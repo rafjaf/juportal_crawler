@@ -187,12 +187,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_7.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_455.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_455.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/05/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/05/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_12.xml"
       ],
       "abstractFR": [
         "L'article 3, alinéa 1er, de la loi du 29 juin 1964 sur la suspension, le sursis et la probation subordonne l'octroi de la suspension du prononcé de la condamnation à l'accord du prévenu; cet accord, substantiel, est requis dans tous les cas et il en résulte que le juge qui, d'office, envisage d'octroyer la mesure ne peut pas se dispenser de vérifier si son destinataire consent à se la voir appliquer."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 3, eerste lid, Probatiewet stelt de opschorting van de uitspraak van de veroordeling afhankelijk van de instemming van de beklaagde; deze – essentiële – instemming is in alle gevallen vereist en hieruit volgt dat de rechter die overweegt om de maatregel ambtshalve toe te kennen, zich niet kan ontslaan van de verplichting om te verifiëren of de betrokkene met die maatregel instemt."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20221220.2N.19": {
       "court": "CASS",

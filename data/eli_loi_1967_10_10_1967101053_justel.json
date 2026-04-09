@@ -515,12 +515,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_9.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_457.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_457.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/05/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/05/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_14.xml"
       ],
       "abstractFR": [
         "L'allégation suivant laquelle deux chambres ou deux divisions d'un même tribunal ont été ou seront saisies de procédures présentant des liens l'une avec l'autre, n'implique pas l'existence d'un conflit de juridiction susceptible d'être réglé selon les articles 525 et suivants du Code d'instruction criminelle; lorsqu'un incident est soulevé au sujet de la répartition des affaires entre les divisions, les sections, les chambres ou les juges d'un même tribunal, pareil incident se règle de la manière indiquée par l'article 88, § 2, du Code judiciaire, et ne peut être soulevé pour la première fois devant la Cour (1). (1) Cass. 12 mai 2010, RG P.10.0657.F, Pas. 2010, n° 335."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De bewering volgens welke bij twee kamers of twee afdelingen van dezelfde rechtbank rechtsplegingen aanhangig werden of zullen worden gemaakt die onderling met elkaar verband houden, betekent niet dat er een geschil over rechtsmacht bestaat dat door de artikelen 525 en volgende van het Wetboek van Strafvordering wordt geregeld; wanneer een incident in verband met de verdeling van de zaken onder de afdelingen, secties, kamers of rechters van dezelfde rechtbank wordt opgeworpen, wordt een dergelijk incident geregeld op de wijze bepaald in artikel 88, § 2, Gerechtelijk Wetboek, en kan het niet voor het eerst voor het Hof worden opgeworpen (1). (1) Cass. 12 mei 2010, AR P.10.0657.F, AC 2010, nr. 335."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231212.2N.4": {
       "court": "CASS",
@@ -12479,13 +12482,15 @@
       "roleNumber": "C.22.0029.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/29/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/23/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/23/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_2.xml"
       ],
       "abstractFR": [
         "Il ne résulte pas de l'article 138bis, § 1er, du Code judiciaire que l'action d'office appartient au ministère public chaque fois qu'une disposition d'ordre public ou concernant l'ordre public a été violée ; les exigences de l'ordre public qui, au sens de cette disposition, peuvent justifier pareille intervention impliquent que l'ordre public soit mis en péril par un état de choses auquel il importe de remédier (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": [
-        "Vertaling nog niet beschikbaar"
+        "Vertaling nog niet beschikbaar",
+        "Uit artikel 138bis, § 1, Gerechtelijk Wetboek volgt niet dat het openbaar ministerie een ambtshalve vordering kan instellen telkens als er sprake is van een schending van een bepaling van openbare orde of van een bepaling die de openbare orde aanbelangt; de vereisten van de openbare orde die in de zin van die bepaling een dergelijke tussenkomst kunnen verantwoorden, houden in dat de openbare orde in het gedrang wordt gebracht door een feitelijke toestand die verholpen moet worden (1). (1) Zie concl. OM."
       ]
     },
     "ECLI:BE:CASS:2021:ARR.20211119.1F.1": {

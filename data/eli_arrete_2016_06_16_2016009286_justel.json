@@ -21,12 +21,47 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_488.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_488.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/06/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/06/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_15.xml"
       ],
       "abstractFR": [
         "Lorsqu'il ressort tant de l'accusé de réception du dépôt délivré par le système e-Deposit que de l'impression de l'enregistrement des données visées à l'article 7 de l'arrêté royal du 16 juin 2016 jointe à l'original des conclusions figurant au dossier de la procédure que la date du moment du dépôt et de la réception desdites conclusions définie par ce système est antérieure à la date fixée pour pouvoir déposer lesdites conclusions, le juge ne peut écarter ces conclusions comme tardives."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer zowel uit het door het e-Deposit-systeem afgeleverde ontvangstbewijs van de neerlegging als uit de afdruk van de verwerking van de gegevens bedoeld in artikel 7 van het koninklijk besluit van 16 juni 2016, die gevoegd is bij het origineel van de conclusie dat voorkomt in het dossier van de rechtspleging, blijkt dat de door dat systeem bepaalde datum van het tijdstip voor de neerlegging en de ontvangst van de voormelde conclusie vroeger valt dan de datum die werd vastgelegd voor de neerlegging van die conclusie, kan de rechter deze niet als laattijdig weren."
+      ]
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2023:ARR.20230406.1F.5": {
+      "court": "CASS",
+      "date": "2023-04-06",
+      "roleNumber": "C.20.0068.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il ressort tant de l'accusé de réception du dépôt délivré par le système e-Deposit que de l'impression de l'enregistrement des données visées à l'article 7 de l'arrêté royal du 16 juin 2016 jointe à l'original des conclusions figurant au dossier de la procédure que la date du moment du dépôt et de la réception desdites conclusions définie par ce système est antérieure à la date fixée pour pouvoir déposer lesdites conclusions, le juge ne peut écarter ces conclusions comme tardives."
+      ],
+      "abstractNL": [
+        "Wanneer zowel uit het door het e-Deposit-systeem afgeleverde ontvangstbewijs van de neerlegging als uit de afdruk van de verwerking van de gegevens bedoeld in artikel 7 van het koninklijk besluit van 16 juni 2016, die gevoegd is bij het origineel van de conclusie dat voorkomt in het dossier van de rechtspleging, blijkt dat de door dat systeem bepaalde datum van het tijdstip voor de neerlegging en de ontvangst van de voormelde conclusie vroeger valt dan de datum die werd vastgelegd voor de neerlegging van die conclusie, kan de rechter deze niet als laattijdig weren."
+      ]
+    }
+  },
+  "8": {
+    "ECLI:BE:CASS:2023:ARR.20230406.1F.5": {
+      "court": "CASS",
+      "date": "2023-04-06",
+      "roleNumber": "C.20.0068.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'il ressort tant de l'accusé de réception du dépôt délivré par le système e-Deposit que de l'impression de l'enregistrement des données visées à l'article 7 de l'arrêté royal du 16 juin 2016 jointe à l'original des conclusions figurant au dossier de la procédure que la date du moment du dépôt et de la réception desdites conclusions définie par ce système est antérieure à la date fixée pour pouvoir déposer lesdites conclusions, le juge ne peut écarter ces conclusions comme tardives."
+      ],
+      "abstractNL": [
+        "Wanneer zowel uit het door het e-Deposit-systeem afgeleverde ontvangstbewijs van de neerlegging als uit de afdruk van de verwerking van de gegevens bedoeld in artikel 7 van het koninklijk besluit van 16 juni 2016, die gevoegd is bij het origineel van de conclusie dat voorkomt in het dossier van de rechtspleging, blijkt dat de door dat systeem bepaalde datum van het tijdstip voor de neerlegging en de ontvangst van de voormelde conclusie vroeger valt dan de datum die werd vastgelegd voor de neerlegging van die conclusie, kan de rechter deze niet als laattijdig weren."
+      ]
     }
   }
 }
