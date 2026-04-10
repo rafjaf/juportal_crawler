@@ -244,21 +244,6 @@
         "Hoewel het gezag van het rechterlijk gewijsde als onweerlegbaar vermoeden betrekkelijk is in die zin dat het slechts tussen de partijen kan worden ingeroepen, belet het niet dat de rechterlijke beslissing, bij gebrek aan een geslaagd derdenverzet, bewijswaarde heeft ten aanzien van derden als weerlegbaar vermoeden, wat een omkering van de bewijslast inhoudt, en de rechter, op grond van een feitelijke beoordeling, kan besluiten dat het vermoeden van titel in het voordeel van de bezitter te goeder trouw wordt weerlegd aan de hand van het vermoeden dat voortvloeit uit een andersluidende rechterlijke beslissing (1). (1) Zie concl. OM."
       ]
     },
-    "ECLI:BE:CASS:2022:ARR.20220930.1N.2": {
-      "court": "CASS",
-      "date": "2022-09-30",
-      "roleNumber": "C.22.0050.N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/02/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/30/sitemap_2.xml"
-      ],
-      "abstractFR": [
-        "Le locataire d'une habitation sociale qui soutient avoir notifié la cohabitation durable au bailleur doit en rapporter la preuve avec un degré raisonnable de certitude en vertu de l'article 8.5 du Code civil ; une notification de la cohabitation ne constitue pas un fait positif dont, par la nature même du fait à prouver, il n'est pas possible ou pas raisonnable d'exiger une preuve certaine au sens de l'article 8.6 de ce code ; le locataire ne peut, par conséquent, se contenter d'en établir la vraisemblance (1). (1) Voir Cass. 9 septembre 2016, RG C.15.0454.N, Pas. 2016, n° 473 ; Cass. 3 mars 2016, RG C.15.0219.N, Pas. 2016, n° 157."
-      ],
-      "abstractNL": [
-        "De huurder van een sociale woning die aanvoert dat hij een duurzame bijwoonst heeft gemeld aan de verhuurder, moet hiervan krachtens artikel 8.5 Burgerlijk Wetboek het bewijs leveren met een redelijke mate van zekerheid; een melding van de bijwoonst vormt geen positief feit waarvan het vanwege de aard zelf van het te bewijzen feit niet mogelijk of niet redelijk is om een zeker bewijs te verlangen, in de zin van artikel 8.6 Burgerlijk Wetboek; de huurder kan derhalve geen genoegen nemen met het aantonen van de waarschijnlijkheid ervan (1). (1) Zie Cass. 9 september 2016, AR C.15.0454.N, AC 2016, nr. 473; Cass. 3 maart 2016, AR C.15.0219.N, AC 2016, nr. 157."
-      ]
-    },
     "ECLI:BE:CASS:2022:ARR.20220127.1N.8": {
       "court": "CASS",
       "date": "2022-01-27",
@@ -807,6 +792,21 @@
       ],
       "abstractNL": [
         "De eiser tot schadevergoeding kan volstaan met het aantonen van de waarschijnlijkheid van de feiten waaruit de rechter al dan niet het bestaan van een oorzakelijk verband afleidt tussen de fout en de schade, hetzij wanneer het gaat om negatieve feiten, hetzij wanneer het gaat om positieve feiten waarvan het, vanwege de aard zelf van de te bewijzen feiten, niet mogelijk of niet redelijk is om een zeker bewijs te verlangen (1). (1) Zie concl. OM in Pas. 2022, nr. 725."
+      ]
+    },
+    "ECLI:BE:CASS:2022:ARR.20220930.1N.2": {
+      "court": "CASS",
+      "date": "2022-09-30",
+      "roleNumber": "C.22.0050.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/02/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/09/30/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Le locataire d'une habitation sociale qui soutient avoir notifié la cohabitation durable au bailleur doit en rapporter la preuve avec un degré raisonnable de certitude en vertu de l'article 8.5 du Code civil ; une notification de la cohabitation ne constitue pas un fait positif dont, par la nature même du fait à prouver, il n'est pas possible ou pas raisonnable d'exiger une preuve certaine au sens de l'article 8.6 de ce code ; le locataire ne peut, par conséquent, se contenter d'en établir la vraisemblance (1). (1) Voir Cass. 9 septembre 2016, RG C.15.0454.N, Pas. 2016, n° 473 ; Cass. 3 mars 2016, RG C.15.0219.N, Pas. 2016, n° 157."
+      ],
+      "abstractNL": [
+        "De huurder van een sociale woning die aanvoert dat hij een duurzame bijwoonst heeft gemeld aan de verhuurder, moet hiervan krachtens artikel 8.5 Burgerlijk Wetboek het bewijs leveren met een redelijke mate van zekerheid; een melding van de bijwoonst vormt geen positief feit waarvan het vanwege de aard zelf van het te bewijzen feit niet mogelijk of niet redelijk is om een zeker bewijs te verlangen, in de zin van artikel 8.6 Burgerlijk Wetboek; de huurder kan derhalve geen genoegen nemen met het aantonen van de waarschijnlijkheid ervan (1). (1) Zie Cass. 9 september 2016, AR C.15.0454.N, AC 2016, nr. 473; Cass. 3 maart 2016, AR C.15.0219.N, AC 2016, nr. 157."
       ]
     }
   },
