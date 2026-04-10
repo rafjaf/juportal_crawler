@@ -3909,7 +3909,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1762.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1762.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/26/sitemap_29.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/24/sitemap_13.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/24/sitemap_13.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_8.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -14356,7 +14357,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2329.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2329.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/02/13/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_148.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_148.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_12.xml"
       ],
       "abstractFR": [
         "L'observation régie par l'article 47sexies du Code d'instruction criminelle est l'observation systématique, par un fonctionnaire de police et sous la direction d'un officier de police judiciaire, d'une ou de plusieurs personnes, de leur présence ou de leur comportement, ou de choses, de lieux ou d'événements déterminés; cette observation constitue une méthode particulière de recherche, laquelle, en vertu de l'article 47ter, § 1er, du même code, est mise en œuvre dans le cadre d'une information ou d'une instruction, par les services de police désignés par le ministre de la Justice, sous le contrôle du ministère public, en vue de poursuivre les auteurs d'infractions, de rechercher, de collecter, d'enregistrer et de traiter des données et des informations sur la base d'indices sérieux que des faits punissables vont être commis ou ont déjà été commis, qu'ils soient connus ou non, ou dans le cadre de l'exécution de peines ou de mesures privatives de liberté, lorsque la personne concernée s'est soustraite à leur exécution."
@@ -14423,7 +14425,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2329.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2329.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/02/13/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_148.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_148.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_12.xml"
       ],
       "abstractFR": [
         "L'observation régie par l'article 47sexies du Code d'instruction criminelle est l'observation systématique, par un fonctionnaire de police et sous la direction d'un officier de police judiciaire, d'une ou de plusieurs personnes, de leur présence ou de leur comportement, ou de choses, de lieux ou d'événements déterminés; cette observation constitue une méthode particulière de recherche, laquelle, en vertu de l'article 47ter, § 1er, du même code, est mise en œuvre dans le cadre d'une information ou d'une instruction, par les services de police désignés par le ministre de la Justice, sous le contrôle du ministère public, en vue de poursuivre les auteurs d'infractions, de rechercher, de collecter, d'enregistrer et de traiter des données et des informations sur la base d'indices sérieux que des faits punissables vont être commis ou ont déjà été commis, qu'ils soient connus ou non, ou dans le cadre de l'exécution de peines ou de mesures privatives de liberté, lorsque la personne concernée s'est soustraite à leur exécution.",
@@ -16855,12 +16858,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2990.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2990.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/09/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/01/sitemap_21.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/01/sitemap_21.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_49.xml"
       ],
       "abstractFR": [
         "Si aucune nullité ne s'attache au réquisitoire bancaire critiqué par le prévenu, il est sans intérêt de vérifier s'il existe, ou non, un lien nécessaire entre cet acte et les devoirs subséquents qu'il aurait engendrés."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de door de beklaagde bekritiseerde bankvordering op geen enkel punt nietig is, heeft het geen enkel belang te onderzoeken of er al dan niet een noodzakelijk verband bestaat tussen die akte en de daaropvolgende verrichtingen waartoe ze zou hebben geleid."
+      ]
     },
     "ECLI:BE:CASS:2010:ARR.20100922.2": {
       "court": "CASS",

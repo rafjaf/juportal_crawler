@@ -11487,6 +11487,20 @@
       "abstractNL": null
     }
   },
+  "1385": {
+    "ECLI:BE:CASS:2024:ARR.20241025.1N.3": {
+      "court": "CASS",
+      "date": "2024-10-25",
+      "roleNumber": "C.23.0274.N-C.23.0358.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_10.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Hoewel artikel 1385 Oud Burgerlijk Wetboek een wettelijk en onweerlegbaar vermoeden van schuld aan de door een dier veroorzaakte schade instelt ten laste van de eigenaar van een dier of ten laste van degene die zich ervan bedient terwijl hij het in gebruik heeft, waardoor die eigenaar of bewaarder aansprakelijk is voor de schade die het dier heeft veroorzaakt, sluit het een vrijstelling van die aansprakelijkheid niet uit bij gebrek aan oorzakelijk verband, met name wanneer het dier zich niet abnormaal en onvoorzienbaar heeft gedragen en een objectief onrechtmatige daad van het slachtoffer de schade heeft veroorzaakt, waardoor elke mogelijke fout van de eigenaar of bewaarder als oorzaak van de schade is uitgeschakeld (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "1641": {
     "ECLI:BE:CASS:2025:ARR.20250306.1F.6": {
       "court": "CASS",
@@ -13192,7 +13206,8 @@
       "date": "2026-03-09",
       "roleNumber": "C.25.0159.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_53.xml"
       ],
       "abstractFR": [
         "Par patient au sens de l'article 2277bis de l'ancien Code civil, il faut entendre toute personne qui est tenue envers l'établissement de soins au paiement des prestations visées par cette disposition, lorsque la prescription de l'action n'est pas régie à son égard par une disposition particulière; il s'ensuit que le centre public d'action sociale n'a, en règle, pas la qualité de patient au sens de cette disposition (1). (1) Voir les concl. du MP."

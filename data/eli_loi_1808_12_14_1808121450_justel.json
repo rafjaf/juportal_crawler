@@ -132,12 +132,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2878.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2878.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_35.xml"
       ],
       "abstractFR": [
         "Lorsqu'elle est appelée à statuer sur un pourvoi qu'elle déclare irrecevable ou non fondé, la Cour a le pouvoir, après avoir rejeté le pourvoi, de régler de juges d'office lorsqu'elle a pu considérer l'état de la procedure (1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer het Hof uitspraak moet doen over een cassatieberoep dat het niet-ontvankelijk of ongegrond verklaart, kan het, na verwerping van het cassatieberoep, ambtshalve overgaan tot regeling van rechtsgebied wanneer het de stand van de rechtspleging in aanmerking heeft kunnen nemen (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230816.VAC.1": {
       "court": "CASS",
@@ -683,13 +686,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2878.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2878.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_35.xml"
       ],
       "abstractFR": [
         "Lorsqu'elle est appelée à statuer sur un pourvoi qu'elle déclare irrecevable ou non fondé, la Cour a le pouvoir, après avoir rejeté le pourvoi, de régler de juges d'office lorsqu'elle a pu considérer l'état de la procedure (1). (Solution implicite). (1) Voir les concl. du MP.",
         "Lorsque la contradiction entre deux décisions porte non sur les faits mais uniquement sur la qualification qui doit leur être donnée, il revient à la Cour de déterminer le caractère de ces faits (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer het Hof uitspraak moet doen over een cassatieberoep dat het niet-ontvankelijk of ongegrond verklaart, kan het, na verwerping van het cassatieberoep, ambtshalve overgaan tot regeling van rechtsgebied wanneer het de stand van de rechtspleging in aanmerking heeft kunnen nemen (1). (Impliciete oplossing). (1) Zie concl. OM.",
+        "Wanneer de tegenstrijdigheid tussen twee beslissingen geen betrekking heeft op de feiten maar enkel op de kwalificatie die eraan moet worden gegeven, is het Hof van Cassatie bevoegd om de aard van die feiten te bepalen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220111.2N.2": {
       "court": "CASS",

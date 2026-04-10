@@ -21,12 +21,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2882.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2882.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/01/sitemap_6.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_39.xml"
       ],
       "abstractFR": [
         "Eu égard à la force de chose jugée précaire qui s'attache, après l'écoulement du délai ordinaire d'opposition, à un jugement de condamnation rendu par défaut, le juge de l'application des peines saisi d'une demande d'octroi d'une surveillance électronique dans le cadre de l'exécution de cette condamnation ne peut, en l'absence de décision déclarant l'opposition du condamné recevable, dire irrecevable la demande de modalité d'exécution de la peine sollicitée (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Gelet op de voorlopige kracht van gewijsde dat een veroordelend verstekvonnis verkrijgt na het verstrijken van de gewone verzettermijn, kan de strafuitvoeringsrechter die kennisneemt van een verzoek om toekenning van het elektronisch toezicht in het kader van de tenuitvoerlegging van die veroordeling, het verzoek om die strafuitvoeringsmodaliteit, bij gebrek aan een beslissing die het verzet van de veroordeelde ontvankelijk verklaart, niet onontvankelijk verklaren (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20201215.2N.16": {
       "court": "CASS",
@@ -1093,12 +1096,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2880.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2880.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_37.xml"
       ],
       "abstractFR": [
         "Lorsqu'il constate que le condamné qui a introduit sa demande de surveillance électronique conformément à l'article 29, § 2/1, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté n'a pas communiqué sa fiche de renseignements et n'a déposé aucune pièce ni aucun document permettant d'éclairer le juge sur la demande, de sorte qu'il n'est pas possible d'examiner l'existence d'éventuelles contre-indications et qu'il considère que s'il est possible de reporter la décision concernant cette demande afin de mener des investigations complémentaires, en l'espèce, le dossier n'est pas indigent, ce qui aurait pu justifier un tel report, mais qu'il est inexistant, le juge de l'application des peines peut rejeter la demande de surveillance électronique (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de strafuitvoeringsrechter vaststelt dat de veroordeelde die zijn verzoek om elektronisch toezicht heeft ingediend overeenkomstig artikel 29, § 2/1, Wet Strafuitvoering, zijn inlichtingenfiche niet heeft meegedeeld en geen enkel stuk of document heeft neergelegd dat de rechter over zijn verzoek kan inlichten, zodat laatstgenoemde het bestaan van mogelijke tegenaanwijzingen niet kan onderzoeken en oordeelt dat de beslissing over dat verzoek weliswaar kan worden uitgesteld om bijkomende onderzoekingen te verrichten maar dat, in dit geval, het dossier niet onvolledig is, wat een dergelijk uitstel had kunnen verantwoorden, maar onbestaande is, kan de strafuitvoeringsrechter het verzoek om elektronisch toezicht verwerpen (1). (1) Zie concl. OM."
+      ]
     }
   },
   "30": {
@@ -1444,13 +1450,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2880.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2880.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_37.xml"
       ],
       "abstractFR": [
         "Ni l'article 34, § 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, qui est relatif à la possibilité accordée au juge de l'application des peines de prolonger le délai de traitement d'une demande d'octroi de la modalité d'exécution de la peine lorsque le dossier n'est pas en état, ni aucune autre disposition n'oblige ce magistrat à reporter l'examen de la cause afin de permettre au condamné de produire des pièces qu'il aurait dû déposer plus tôt à l'appui de sa demande (1). (1) Voir les concl. du MP.",
         "Lorsqu'il constate que le condamné qui a introduit sa demande de surveillance électronique conformément à l'article 29, § 2/1, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté n'a pas communiqué sa fiche de renseignements et n'a déposé aucune pièce ni aucun document permettant d'éclairer le juge sur la demande, de sorte qu'il n'est pas possible d'examiner l'existence d'éventuelles contre-indications et qu'il considère que s'il est possible de reporter la décision concernant cette demande afin de mener des investigations complémentaires, en l'espèce, le dossier n'est pas indigent, ce qui aurait pu justifier un tel report, mais qu'il est inexistant, le juge de l'application des peines peut rejeter la demande de surveillance électronique (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Noch artikel 34, § 2, Wet Strafuitvoering, dat de strafuitvoeringsrechter de mogelijkheid biedt de behandelingstermijn van een verzoek tot toekenning van een strafuitvoeringsmodaliteit te verlengen wanneer het dossier niet in staat is, noch enige andere bepaling verplichten die magistraat om het onderzoek van de zaak uit te stellen teneinde de veroordeelde in staat te stellen stukken voor te leggen die hij al eerder tot staving van zijn verzoek had moeten voorleggen (1). (1) Zie concl. OM.",
+        "Wanneer de strafuitvoeringsrechter vaststelt dat de veroordeelde die zijn verzoek om elektronisch toezicht heeft ingediend overeenkomstig artikel 29, § 2/1, Wet Strafuitvoering, zijn inlichtingenfiche niet heeft meegedeeld en geen enkel stuk of document heeft neergelegd dat de rechter over zijn verzoek kan inlichten, zodat laatstgenoemde het bestaan van mogelijke tegenaanwijzingen niet kan onderzoeken en oordeelt dat de beslissing over dat verzoek weliswaar kan worden uitgesteld om bijkomende onderzoekingen te verrichten maar dat, in dit geval, het dossier niet onvolledig is, wat een dergelijk uitstel had kunnen verantwoorden, maar onbestaande is, kan de strafuitvoeringsrechter het verzoek om elektronisch toezicht verwerpen (1). (1) Zie concl. OM."
+      ]
     }
   },
   "36": {
@@ -1710,12 +1720,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2880.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2880.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_37.xml"
       ],
       "abstractFR": [
-        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite) (1) Voir les concl. du MP."
+        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite) (1) Voir les concl. du MP.",
+        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de veroordeelde niet van het vonnis van de strafuitvoeringsrechter in kennis werd gesteld op de wijze bedoeld in artikel 46, § 1, derde lid, Wet Strafuitvoering, is het cassatieberoep ontvankelijk als het meer dan vijf dagen na de uitspraak van het vonnis maar daags na de kennisname ervan is ingesteld (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     }
   },
   "47": {
@@ -2001,13 +2015,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2881.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2881.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_38.xml"
       ],
       "abstractFR": [
         "Sauf conclusions en ce sens, aucune disposition de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté ni aucune autre disposition n'oblige le tribunal de l'application des peines qui admet l'existence de contre-indications telles que visées à l'article 47, § 2, de ladite loi, à constater, en outre, que la fixation de conditions particulières ne peut répondre à ces contre-indications.",
         "Le tribunal de l'application des peines apprécie souverainement l'absence de contre-indications qui portent sur le risque de perpétration de nouvelles infractions graves, auquel l'imposition de conditions particulières, telles que visées à l'article 47, § 2, 2°, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, ne permet pas d'obvier; le juge peut notamment tenir compte, dans cette appréciation, de la nature et de la gravité des faits à la base de la condamnation du détenu."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Behoudens een conclusie in die zin, verplicht noch enige bepaling van de Wet Strafuitvoering noch enige andere bepaling de strafuitvoeringsrechtbank die het bestaan van tegenaanwijzingen in aanmerking neemt zoals bedoeld in artikel 47, §2, van die wet, om bovendien vast te stellen dat het opleggen van bijzondere voorwaarden niet aan die tegenaanwijzingen kan tegemoetkomen.",
+        "De strafuitvoeringsrechtbank beoordeelt op onaantastbare wijze het ontbreken van tegenaanwijzingen die betrekking hebben op het gevaar om nieuwe ernstige misdrijven te plegen, dat door het opleggen van bijzondere voorwaarden, zoals bedoeld in artikel 47, § 2, 2°, Wet Strafuitvoering, niet kan worden verholpen; de rechter kan bij die beoordeling met name rekening houden met de aard en met de ernst van de feiten die aan de basis van de veroordeling van de gedetineerde liggen."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250617.2N.26": {
       "court": "CASS",
@@ -5637,12 +5655,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2880.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2880.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_37.xml"
       ],
       "abstractFR": [
-        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite) (1) Voir les concl. du MP."
+        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite) (1) Voir les concl. du MP.",
+        "Lorsque le condamné n'a pas été informé du jugement rendu par le juge de l'application des peines de la façon prévue par l'article 46, § 1er, alinéa 3, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, est recevable le pourvoi qu'il a formé plus de cinq jours après le prononcé du jugement mais dès le lendemain de la prise de connaissance dudit jugement (1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de veroordeelde niet van het vonnis van de strafuitvoeringsrechter in kennis werd gesteld op de wijze bedoeld in artikel 46, § 1, derde lid, Wet Strafuitvoering, is het cassatieberoep ontvankelijk als het meer dan vijf dagen na de uitspraak van het vonnis maar daags na de kennisname ervan is ingesteld (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250617.2N.23": {
       "court": "CASS",
