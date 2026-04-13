@@ -1451,9 +1451,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2968.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2968.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_33.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Dès lors que le juge apprécie les conditions de dissolution au moment où il statue, il ne peut plus prononcer la dissolution de la société sur la base de l'article 333 du Code des sociétés à partir du jour où le Code des sociétés et des associations lui est applicable, même lorsque l'action en dissolution a été introduite antérieurement."
+      ],
       "abstractNL": [
         "Vermits de rechter de voorwaarden voor ontbinding beoordeelt op het ogenblik dat hij uitspraak doet, kan hij de vennootschap niet langer ontbinden op grond van artikel 333 Wetboek van Vennootschappen van zodra het WVV op haar van toepassing is, zelfs wanneer de vordering tot ontbinding voordien werd ingesteld."
       ]

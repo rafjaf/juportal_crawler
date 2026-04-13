@@ -16,6 +16,22 @@
       "abstractNL": null
     }
   },
+  "9": {
+    "ECLI:BE:CASS:2017:ARR.20170323.1": {
+      "court": "CASS",
+      "date": "2017-03-23",
+      "roleNumber": "C.15.0190.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le déplacement de canalisations est rendu nécessaire par des travaux de construction des autoroutes, d'aménagement et de modernisation des routes de l'Etat, le Fonds des routes exerce les compétences dévolues à l'Etat."
+      ],
+      "abstractNL": [
+        "Wanneer de verplaatsing van leidingen noodzakelijk wordt door de aanleg van autosnelwegen of door werkzaamheden tot verbetering en modernisering van de rijkswegen, oefent het Wegenfonds de bevoegdheden uit die aan de Staat zijn toegewezen."
+      ]
+    }
+  },
   "15/10": {
     "ECLI:BE:CASS:2025:ARR.20251002.1N.9": {
       "court": "CASS",

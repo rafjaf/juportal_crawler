@@ -5475,6 +5475,22 @@
       ]
     }
   },
+  "275": {
+    "ECLI:BE:CASS:2025:ARR.20250509.1N.5": {
+      "court": "CASS",
+      "date": "2025-05-09",
+      "roleNumber": "F.24.0002.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_23.xml"
+      ],
+      "abstractFR": [
+        "L'article 275³, § 3, alinéa 4, du Code des impôts sur les revenus 1992 prescrit la simple inscription préalable du projet ou du programme avec la mention de l'identification du redevable du précompte professionnel ; il ne prévoit pas la condition d'actualisation de l'inscription et ne déroge pas davantage aux règles du droit des sociétés relatives à l'opposabilité d'une restructuration (1). (1) Voir les concl. du MP"
+      ],
+      "abstractNL": [
+        "Artikel 275³, § 3, vierde lid, WIB92 schrijft de loutere voorafgaande aanmelding van het project of programma voor, met identificatie van de schuldenaar van de bedrijfsvoorheffing; zij voorziet niet in de vereiste van actualisatie van de aanmelding en wijkt evenmin af van de vennootschapsrechtelijke regels met betrekking tot de tegenwerpelijkheid van een herstructurering (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "285": {
     "ECLI:BE:CASS:2015:ARR.20150612.6": {
       "court": "CASS",
@@ -7690,6 +7706,22 @@
       ],
       "abstractNL": [
         "De termijn van zes maanden, die is vastgesteld in artikel 355 van het Wetboek van de Inkomstenbelastingen 1992 en die begint te lopen vanaf de dag waarop de rechterlijke beslissing niet meer vatbaar is voor de voorzieningen als bedoeld bij de artikelen 387 tot 391 van genoemd wetboek, gaat in bij het verstrijken van de in artikel 388 bepaalde termijn van drie maanden (1). (1) Artt., 355, 386 en 388 W.I.B. (1992) vóór de wijziging ervan bij de Wet van 15 maart 1999."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250509.1N.8": {
+      "court": "CASS",
+      "date": "2025-05-09",
+      "roleNumber": "F.24.0075.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_21.xml"
+      ],
+      "abstractFR": [
+        "Il suit de l'article 355 du Code des impôts sur les revenus 1992 que le délai de trois mois dans lequel une nouvelle cotisation au sens de cette disposition peut être établie prend cours à la date à laquelle la décision du directeur des contributions ou du fonctionnaire délégué par lui n'est plus susceptible de recours en justice (1). (1) Voir les concl. du MP.",
+        "L'annulation d'une cotisation, parce qu'elle a été établie en méconnaissance du délai d'attente prévu à l'article 1385undecies, deuxième alinéa, du Code judiciaire, ne peut pas être considérée comme une annulation pour violation d'une règle relative à la prescription et ne peut, dès lors, faire obstacle à la soumission d'une cotisation subsidiaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Uit artikel 355 WIB92 volgt dat de termijn van drie maanden om een nieuwe aanslag in de zin van deze bepaling te vestigen een aanvang neemt vanaf de datum waarop de beslissing van de directeur van de belastingen of van de door hem gedelegeerde ambtenaar niet meer voor de rechter kan worden gebracht (1). (1) Zie concl. OM.",
+        "De nietigverklaring van een aanslag, omdat hij werd gevestigd met miskenning van de wachttermijn van artikel 1385undecies, tweede lid, Gerechtelijk Wetboek, kan niet worden beschouwd als een nietigverklaring wegens schending van een regel betreffende de verjaring en kan het voorleggen van een subsidiaire aanslag dan ook niet beletten (1). (1) Zie concl. OM."
       ]
     }
   },

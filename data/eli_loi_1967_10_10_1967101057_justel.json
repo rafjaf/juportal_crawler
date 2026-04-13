@@ -284,9 +284,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2968.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2968.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_33.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 1690, § 1er, du Code judiciaire prévoit que la validité d'une convention d'arbitrage est distincte de celle du contrat dont cette convention fait partie, de sorte que la nullité du contrat n'entraîne pas nécessairement celle de la convention d'arbitrage ; la nullité du contrat entraîne uniquement celle de la convention d'arbitrage lorsque la cause de nullité affecte tant le contrat dans son ensemble que la convention d'arbitrage en particulier."
+      ],
       "abstractNL": [
         "Artikel 1690, § 1 Gerechtelijk Wetboek houdt in dat de geldigheid van een arbitrageovereenkomst losstaat van de geldigheid van het contract waarin deze is opgenomen, zodat de nietigheid van het contract niet noodzakelijk de nietigheid van de arbitrageovereenkomst met zich meebrengt; de nietigheid van het contract brengt enkel ook de nietigheid van de arbitrageovereenkomst met zich mee wanneer de nietigheidsgrond zowel het contract in zijn geheel als de arbitrageovereenkomst in het bijzonder treft."
       ]

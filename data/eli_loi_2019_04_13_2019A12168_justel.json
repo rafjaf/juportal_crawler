@@ -470,12 +470,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2964.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2964.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_29.xml"
       ],
       "abstractFR": [
         "L'examen d'un grief de violation de la foi due aux actes implique une comparaison entre la pièce de référence et ce que la décision attaquée en dit; pareil examen suppose que les écrits à comparer soient tous deux établis dans la même langue, celle de la procédure, ou qu'à tout le moins la pièce dont la foi aurait été méconnue soit accompagnée, si elle est rédigée dans une autre langue, d'une traduction jurée (1). (1) Voir Cass. 23 novembre 2010, RG P.10.0583.N, Pas. 2010, n° 688."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het onderzoek van een grief die een miskenning van de bewijskracht van de akten aanvoert, houdt een vergelijking in tussen het stuk dat als referentie dient en dat wat de bestreden beslissing hierover zegt; een dergelijk onderzoek veronderstelt dat de te vergelijken stukken in dezelfde taal zijn opgemaakt, namelijk die van de rechtspleging, of dat, op zijn minst, het stuk waarvan de bewijskracht zou zijn miskend, indien het in een andere taal is opgemaakt, vergezeld is van een beëdigde vertaling (1). (1) Zie Cass. 23 november 2010, AR P.10.0583.N, AC 2010, nr. 688."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230525.1F.6": {
       "court": "CASS",
@@ -648,6 +651,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De aanvoering dat de rechter op een foto iets niet ziet dat er is of iets wel ziet dat er niet is, levert geen miskenning van de bewijskracht van akten op indien de miskenning enkel is gesteund op de foto los van om het even welke tekst die deze foto zou illustreren; de miskenning van de bewijskracht van een foto, los van de desgevallend bij de foto behorende tekst, is immers niet mogelijk, aangezien een foto geen geschrift is waarvan de bewijskracht kan worden miskend (1). (1) Cass. 16 november 2021, AR P.21.1410.N, AC 2021, nr. 726, ECLI:BE:CASS:2021:ARR.20211116.2N.18; Cass. 7 november 2017, AR P.17.0039.N, AC 2017, nr. 615."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250521.2F.12": {
+      "court": "CASS",
+      "date": "2025-05-21",
+      "roleNumber": "P.24.1428.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_29.xml"
+      ],
+      "abstractFR": [
+        "L'examen d'un grief de violation de la foi due aux actes implique une comparaison entre la pièce de référence et ce que la décision attaquée en dit; pareil examen suppose que les écrits à comparer soient tous deux établis dans la même langue, celle de la procédure, ou qu'à tout le moins la pièce dont la foi aurait été méconnue soit accompagnée, si elle est rédigée dans une autre langue, d'une traduction jurée (1). (1) Voir Cass. 23 novembre 2010, RG P.10.0583.N, Pas. 2010, n° 688."
+      ],
+      "abstractNL": [
+        "Het onderzoek van een grief die een miskenning van de bewijskracht van de akten aanvoert, houdt een vergelijking in tussen het stuk dat als referentie dient en dat wat de bestreden beslissing hierover zegt; een dergelijk onderzoek veronderstelt dat de te vergelijken stukken in dezelfde taal zijn opgemaakt, namelijk die van de rechtspleging, of dat, op zijn minst, het stuk waarvan de bewijskracht zou zijn miskend, indien het in een andere taal is opgemaakt, vergezeld is van een beëdigde vertaling (1). (1) Zie Cass. 23 november 2010, AR P.10.0583.N, AC 2010, nr. 688."
       ]
     }
   },
