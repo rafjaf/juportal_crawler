@@ -1,4 +1,20 @@
 {
+  "1032": {
+    "ECLI:BE:CASS:2023:ARR.20230511.1F.3": {
+      "court": "CASS",
+      "date": "2023-05-11",
+      "roleNumber": "C.22.0263.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_31.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le juge fait droit à la demande du requérant en rétractation d'une ordonnance en raison d'un changement de circonstances, la rétractation de l'ordonnance produit effet, non à la date de la prononciation de l'ordonnance rétractée, mais à la date à laquelle les circonstances ont changé."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter de vordering van de verzoeker tot intrekking van een beschikking wegens veranderde omstandigheden toewijst, brengt de intrekking van de beschikking geen gevolgen teweeg op de datum van de uitspraak van de ingetrokken beschikking maar op de datum waarop de omstandigheden zijn veranderd."
+      ]
+    }
+  },
   "1676": {
     "ECLI:BE:CASS:2013:ARR.20131213.1": {
       "court": "CASS",

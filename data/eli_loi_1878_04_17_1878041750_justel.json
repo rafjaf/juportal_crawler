@@ -332,12 +332,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_526.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_526.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_22.xml"
       ],
       "abstractFR": [
         "Le dommage réparable au sens des articles 1382 de l'ancien Code civil et 3 du titre préliminaire du Code de procédure pénale n'est pas celui que le prestataire de services associe à une taxation, insuffisante à ses yeux, de son état de frais; ce dommage suppose en effet une atteinte, causée par l'infraction, à un droit subjectif préexistant et juridiquement protégé dans le chef de celui qui s'en réclame (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vergoedbare schade in de zin van de artikelen 1382 Oud Burgerlijk Wetboek en 3 Voorafgaande Titel Wetboek van Strafvordering is niet de schade die de prestatieverlener verbindt aan een, in zijn ogen ontoereikende, taxatie van zijn kostenstaat; die schade veronderstelt immers een door het misdrijf veroorzaakte aantasting van een vooraf bestaand en bij wet beschermd subjectief recht van degene die deze schade aanvoert (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230403.3N.3": {
       "court": "CASS",
@@ -6212,12 +6215,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_483.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_483.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/26/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/26/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_6.xml"
       ],
       "abstractFR": [
         "L'extinction de l'action publique avant que la décision attaquée ne soit passée en force de chose jugée rend cette décision sans effet (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het verval van de strafvordering vóór het in kracht van gewijsde gaan van de bestreden beslissing, zorgt ervoor dat die beslissing zonder uitwerking blijft (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2017:ARR.20171011.6": {
       "court": "CASS",

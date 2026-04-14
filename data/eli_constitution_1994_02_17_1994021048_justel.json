@@ -4817,12 +4817,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_498.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_498.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/03/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/03/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_14.xml"
       ],
       "abstractFR": [
         "L'article 12, alinéa 2, de la Constitution, qui dispose que nul ne peut être poursuivi que dans les cas prévus par la loi, et dans la forme qu'elle prescrit, n'interdit pas au juge saisi du recours que le contrevenant a formé contre la décision du fonctionnaire sanctionnateur lui imposant une amende administrative ou la remise en état, et appelé à vérifier si ce fonctionnaire a respecté les délais impartis par le Code de l'Environnement tel qu'applicable aux faits de la cause, de tenir compte de la circonstance que le législateur en a suspendu le cours."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 12, tweede lid, Grondwet, dat bepaalt dat niemand kan worden vervolgd dan in de gevallen die de wet bepaalt en in de vorm die zij voorschrijft, verbiedt de rechter die kennisneemt van het beroep van de overtreder tegen de beslissing van de sanctionerend ambtenaar die hem een administratieve geldboete of het herstel van de plaats in de vorige staat oplegt en die dient te onderzoeken of die ambtenaar de door het Milieuwetboek voorgeschreven termijnen heeft nageleefd zoals deze van toepassing zijn op de feiten van de zaak, niet om rekening te houden met de omstandigheid dat de wetgever die termijnen heeft opgeschort."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231004.2F.13": {
       "court": "CASS",
@@ -11324,12 +11327,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_494.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_494.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/20/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/20/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_13.xml"
       ],
       "abstractFR": [
         "Le moyen qui, à l'appui du grief fait à un jugement ou arrêt de ne pas répondre aux conclusions, fait valoir une thèse et soutient que la décision attaquée aurait répondu à une thèse différente de celle invoquée dans les conclusions et ne répond pas à la thèse réellement soutenue, invoque une illégalité étrangère à l'obligation de forme prescrite par l'article 149 de la Constitution."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het middel dat tot staving van de grief volgens welke een vonnis of arrest de conclusie niet beantwoordt, een stelling formuleert en aanvoert dat de bestreden beslissing een andere stelling zou hebben beantwoord dan die welke in de conclusie werd verwoord en de daadwerkelijk aangevoerde stelling niet beantwoordt, voert een onwettigheid aan die geen verband houdt met de door artikel 149 Grondwet voorgeschreven vormvereiste."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230306.3N.1": {
       "court": "CASS",

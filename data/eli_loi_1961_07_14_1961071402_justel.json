@@ -106,12 +106,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_529.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_529.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/04/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/04/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_25.xml"
       ],
       "abstractFR": [
         "Si le juge apprécie souverainement les faits dont il déduit l'existence d'une faute, la Cour examine si le juge a légalement déduit sa décision des faits constatés; elle vérifie notamment si le demandeur a commis une faute de nature à aggraver son dommage déduite du motif qu'il n'était pas tenu de maintenir les lieux avant le dépôt de la requête introductive d'instance (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Hoewel de rechter op onaantastbare wijze de feiten beoordeelt waaruit hij het bestaan van een fout afleidt, gaat het Hof na of hij zijn beslissing wettig uit de vastgestelde feiten heeft afgeleid; het Hof onderzoekt met name of de eiser een fout heeft begaan die zijn schade heeft verergerd en die is afgeleid uit de reden dat hij de locatie vóór de indiening van het gedinginleidende verzoekschrift niet diende te onderhouden (1). (1) Zie concl. OM."
+      ]
     }
   },
   "general": {
@@ -122,12 +125,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_529.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_529.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/04/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/04/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_25.xml"
       ],
       "abstractFR": [
         "La loi du 14 juillet 1961 en vue d'assurer la réparation des dégâts causés par le gros gibier, qui institue un régime de responsabilité de plein droit à charge du titulaire du droit de chasse pour les dommages provoqués par les cervidés, chevreuils, daims, mouflons ou sanglier provenant des bois sur lesquels il exerce son droit, ne déroge pas aux règles du droit commun relatives à l'incidence de la faute de la victime sur la réparation de son dommage (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De wet van 14 juli 1961 tot regeling van het herstel der door grof wild aangerichte schade, die de houder van het jachtrecht van rechtswege aansprakelijk stelt voor de schade die veroorzaakt wordt door herten, reeën, damherten, wildschapen en everzwijnen die te voorschijn komen uit de bospercelen waarop hij het jachtrecht heeft, wijkt niet af van de regels van het gemeen recht betreffende de weerslag van de fout van het slachtoffer op de vergoeding van zijn schade (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:1966:ARR.19661027.1": {
       "court": "CASS",

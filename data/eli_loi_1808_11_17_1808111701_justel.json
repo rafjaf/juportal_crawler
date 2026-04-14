@@ -1859,12 +1859,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_443.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_443.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/28/sitemap_39.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/12/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/12/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_1.xml"
       ],
       "abstractFR": [
         "Il n'y a pas de flagrant délit si l'on se fonde seulement sur des présomptions ou indices pour croire qu'une infraction pourrait avoir été commise; en revanche, le flagrant délit existe dès qu'une des conditions énoncées par l'article 41 du Code d'instruction criminelle est réalisée; il n'est pas requis que la présence de l'auteur sur les lieux ou sa participation à l'infraction soient également constatées (1). (1) Voir Cass. 7 février 2018, RG P.18.0100.F, Pas. 2018, n° 82."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Er is geen sprake van een op heterdaad ontdekt misdrijf wanneer men enkel uitgaat van vermoedens en van aanwijzingen dat er een misdrijf kon zijn gepleegd; er is daarentegen sprake van een op heterdaad ontdekt misdrijf wanneer aan een van de in artikel 41 Wetboek van Strafvordering vermelde voorwaarden is voldaan; daartoe is niet vereist dat de aanwezigheid van de dader ter plaatse of zijn deelneming aan het misdrijf eveneens is vastgesteld (1). (1) Cass. 7 februari 2018, AR P.18.0100.F, AC 2018, nr. 82."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211109.2N.20": {
       "court": "CASS",
@@ -3558,13 +3561,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_482.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_482.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/26/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/26/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_5.xml"
       ],
       "abstractFR": [
         "La signature apposée au bas du réquisitoire saisissant le juge d'instruction doit pouvoir être identifiée, sans quoi il n'est pas possible de vérifier si l'auteur de la réquisition a qualité pour agir ; l'identité du signataire peut ressortir tant de la réquisition elle-même que d'autres pièces de la procédure (1). (1) Voir les concl. « dit en substance » du MP.",
         "Lorsque l'inculpé fait valoir que le réquisitoire de mise à l'instruction n'est pourvu que d'une signature illisible et qu'il ne lui est pas possible de vérifier si l'auteur de la réquisition a qualité pour exercer l'action publique, la juridiction d'instruction appelée à statuer sur la régularité du mandat d'arrêt est tenue de faire procéder aux vérifications nécessaires pour établir cette identité (1). (1) Voir les concl. « dit en substance » du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De handtekening die wordt aangebracht onderaan de vordering waardoor de zaak bij de onderzoeksrechter aanhangig wordt gemaakt, moet kunnen worden geïdentificeerd, zonder welke er niet kan worden nagegaan of de auteur van de vordering de hoedanigheid heeft om in rechte op te treden; de identiteit van de ondertekenaar kan zowel uit de vordering zelf als uit andere stukken van de rechtspleging blijken (1). (1) Zie concl. “in hoofdzaak” OM.",
+        "Wanneer de inverdenkinggestelde aanvoert dat op de vordering tot het instellen van een gerechtelijk onderzoek enkel een onleesbare handtekening is aangebracht en dat hij niet kan nagaan of de auteur van de vordering de hoedanigheid heeft om de strafvordering in te stellen, dient het onderzoeksgerecht dat over de regelmatigheid van het aanhoudingsbevel uitspraak moet doen de nodige onderzoeken te doen uitvoeren om die identiteit te bewijzen (1). (1) Zie concl. “in hoofdzaak” OM."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210714.VAK.5": {
       "court": "CASS",

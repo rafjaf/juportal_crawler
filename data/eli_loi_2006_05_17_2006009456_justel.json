@@ -2092,12 +2092,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_525.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_21.xml"
       ],
       "abstractFR": [
         "Aucune disposition de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté n'impose au tribunal de l'application des peines de motiver de façon distincte en quoi la fixation de conditions particulières ne peut répondre à la contre-indication qu'il retient; ces raisons peuvent ressortir des motifs que le jugement énonce pour refuser ou octroyer la modalité sollicitée (1). (1) Cass. 23 mai 2012, RG P.12.0793.F, Pas. 2012, n° 330."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Geen enkele bepaling van de Wet Strafuitvoering legt de strafuitvoeringsrechtbank de verplichting op afzonderlijk te motiveren waarom geen bijzondere voorwaarden kunnen worden opgelegd die tegemoetkomen aan de tegenaanwijzing die ze in aanmerking neemt; die redenen kunnen blijken uit de redenen die het vonnis vermeldt om de verzochte modaliteit te weigeren of toe te kennen (1). (1) Cass. 23 mei 2012, AR P.12.0793.F, AC 2012, nr. 330."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230502.2N.15": {
       "court": "CASS",
@@ -3415,12 +3418,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_525.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/10/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_21.xml"
       ],
       "abstractFR": [
         "L'indication de la date à laquelle le condamné peut introduire une nouvelle demande est intrinsèquement liée à la décision de non-octroi d'une modalité d'exécution de la peine et à la motivation de cette décision; en l'absence de conclusions spécifiques sur ce point, la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté n'impose pas au tribunal de motiver spécialement le délai qu'il fixe dans les limites prévues par l'article 57, alinéa 1er, de la loi précitée."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vermelding van de datum waarop de veroordeelde een nieuw verzoek kan indienen, is onlosmakelijk verbonden aan de beslissing om een strafuitvoeringsmodaliteit niet toe te kennen en aan de motivering van die beslissing; bij gebrek aan een specifieke conclusie betreffende dit punt verplicht de Wet Strafuitvoering de rechtbank niet om de termijn, die ze binnen de in artikel 57, eerste lid, Wet Strafuitvoering gestelde grenzen bepaalt, met bijzondere redenen te omkleden."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220830.VAK.2": {
       "court": "CASS",

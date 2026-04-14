@@ -26,12 +26,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_443.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_443.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/28/sitemap_39.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/12/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/12/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_1.xml"
       ],
       "abstractFR": [
         "En cas de flagrant délit, la visite domiciliaire peut être effectuée à n'importe quelle heure, sans le consentement de la personne intéressée et sans mandat de perquisition; une visite domiciliaire effectuée sur cette base est valable lorsqu'elle n'est séparée de l'infraction que par le temps matériellement nécessaire pour en permettre l'accomplissement (1). (1) Cass. 30 mars 2011, RG P.11.0540.F, Pas. 2011, n° 240."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "In het geval van een op heterdaad ontdekt misdrijf mag de huiszoeking te allen tijde worden verricht, zonder de toestemming van de betrokkene en zonder bevel tot huiszoeking; een huiszoeking die op grond daarvan is verricht, is geldig wanneer de daad alleen van het misdrijf gescheiden is door de tijd die materieel noodzakelijk is om het plegen ervan mogelijk te maken (1). (1) Cass. 30 maart 2011, AR P.11.0540.F, AC 2011, nr. 240."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200527.2F.7": {
       "court": "CASS",

@@ -11468,6 +11468,22 @@
       ]
     }
   },
+  "1184": {
+    "ECLI:BE:CASS:2023:ARR.20230511.1F.1": {
+      "court": "CASS",
+      "date": "2023-05-11",
+      "roleNumber": "C.21.0409.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_30.xml"
+      ],
+      "abstractFR": [
+        "L'article 2, alinéa 1er, de la loi du 27 juillet 1961, disposition impérative, qui organise le droit de résiliation unilatérale d'une telle concession de vente exclusive à durée indéterminée, ne déroge pas à l'article 1184 de l'ancien Code civil qui permet, pour le cas où l'une des deux parties à un contrat synallagmatique ne satisfait pas à son engagement, de demander au juge la résolution de cette convention; il s'ensuit que les parties ne peuvent convenir d'une clause résolutoire expresse qu'en cas d'inexécution fautive par l'une d'entre elles de ses engagements, mais non pour un motif étranger à une telle inexécution (1). (1) Cass. 30 juin 1995, RG C.93.0256.N, Pas. 1995, n° 346."
+      ],
+      "abstractNL": [
+        "Artikel 2, eerste lid, Alleenverkoopwet, dat een dwingende bepaling is en in het recht op eenzijdige beëindiging van een voor onbepaalde tijd verleende concessie van alleenverkoop voorziet, wijkt niet af van artikel 1184 Oud Burgerlijk Wetboek dat de mogelijkheid biedt om, indien een van de twee partijen bij een wederkerige overeenkomst haar verbintenissen niet nakomt, de rechter de ontbinding van die overeenkomst te vragen; hieruit volgt dat de partijen enkel een uitdrukkelijk ontbindend beding kunnen overeenkomen in geval van foutieve niet-nakoming door een van hen van haar verbintenissen, maar niet om een reden die met een dergelijke niet-nakoming geen verband houdt (1). (1) Cass. 30 juni 1995, AR C.93.0256.N, AC 1995, nr. 346."
+      ]
+    }
+  },
   "1382": {
     "ECLI:BE:CASS:2022:ARR.20220927.2N.6": {
       "court": "CASS",
@@ -11523,6 +11539,58 @@
       "abstractNL": [
         "Hij die beweert door een misdaad of een wanbedrijf te zijn benadeeld, kan zich op grond van artikel 63 Wetboek van Strafvordering voor de bevoegde onderzoeksrechter burgerlijke partij stellen, zonder dat hij in die stand van de rechtspleging het bewijs hoeft te leveren van de schade, de omvang van de schade en het oorzakelijk verband tussen de schade en de vermelde misdaad of het vermelde wanbedrijf maar de beweerde benadeelde moet, wil zijn burgerlijke partijstelling ontvankelijk zijn, zijn bewering over de schade die hij door de misdaad of het wanbedrijf zou hebben geleden, aannemelijk maken en het onderzoeksgerecht oordeelt in beginsel onaantastbaar of de schade die de benadeelde beweert te hebben geleden aannemelijk is, wat het kan afleiden uit zijn vaststelling dat de betrokkene al dan niet reële en persoonlijke schade heeft of kan hebben geleden; de kosten of uitgaven die de beroepsvereniging heeft gedaan om bewarende maatregelen te nemen met het oog op het beperken of het beheersen van de schade die een van haar leden zou hebben toegebracht aan derden ingevolge het plegen van hem verweten misdrijven, indien bewezen, kan schade uitmaken die de beroepsvereniging werkelijk en persoonlijk lijdt als gevolg van die misdrijven en die zij op het moment van haar burgerlijke partijstelling nog niet concreet dient becijferen en de beroepsvereniging kan, onder de vorm van reputatieschade, ook werkelijke, rechtstreekse en persoonlijke schade lijden ingevolge misdrijven gepleegd door een van haar leden waarbij het feit dat de beroepsvereniging niet kan worden vereenzelvigd met leden en niet verantwoordelijk is voor het professionele handelen van een van haar leden, daaraan geen afbreuk doet (1). (1) Cass. 21 april 2020, AR P.19.1274.N, AC 2020, nr. 239."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230420.1F.5": {
+      "court": "CASS",
+      "date": "2023-04-20",
+      "roleNumber": "C.18.0554.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'employeur public, qui, ensuite de la faute d'un tiers, doit continuer à payer à l'un de ses agents la rémunération et les charges grevant la rémunération en vertu d'obligations légales ou réglementaires qui lui incombent, sans bénéficier de prestations de travail en contrepartie, a droit à une indemnité réparant le dommage ainsi subi, pour autant qu'il résulte des dispositions légales et réglementaires applicables que les décaissements précités auxquels il est tenu ne doivent pas rester définitivement à sa charge (1). (1) Voir Cass. 16 février 2018, RG C.16.0344.F, Pas. 2018, n° 101 et les réf. citées.",
+        "L'indemnité d'invalidité à laquelle le fonctionnaire de l'Union européenne a droit lorsqu'il est atteint d'une incapacité permanente considérée comme totale et le mettant dans l'impossibilité d'exercer les fonctions correspondant à un emploi de son groupe de fonction ne constitue pas la contrepartie des prestations de travail dont la Commission européenne aurait bénéficié en l'absence de l'accident et n'est, partant, pas un dommage réparable au sens des articles 1382 et 1383 de l'ancien Code civil (1). (1) Voir Cass. 16 février 2018, RG C.16.0344.F, Pas. 2018, n° 101 et les réf. citées."
+      ],
+      "abstractNL": [
+        "De openbare werkgever die, door de fout van een derde, krachtens zijn wettelijke of reglementaire verplichtingen aan zijn personeelslid loon en de lasten op dat loon moet blijven betalen, zonder als tegenprestatie arbeidsprestaties te ontvangen, heeft recht op een vergoeding voor de aldus geleden schade, voor zover uit de toepasselijke wettelijke en reglementaire bepalingen volgt dat de voormelde uitgaven waartoe hij gehouden is niet definitief voor zijn rekening moeten blijven (1). (1) Zie Cass. 16 februari 2018, AR C.16.0344.F, AC 2018, nr. 101, en de aangehaalde verw.",
+        "De invaliditeitsuitkering waarop de ambtenaar van de Europese Unie recht heeft wanneer hij blijvend invalide wordt en die invaliditeit als volledig wordt beschouwd, waardoor het hem niet mogelijk is werkzaamheden te verrichten die met een ambt van zijn functiegroep overeenkomen, vormt niet de tegenprestatie voor de arbeidsprestaties die de Europese Commissie zou hebben ontvangen indien het ongeval zich niet had voorgedaan en die uitkering is bijgevolg geen schade die vergoed kan worden in de zin van de artikelen 1382 en 1383 Oud Burgerlijk Wetboek (1). (1) Zie Cass. 16 februari 2018, AR C.16.0344.F, AC 2018, nr. 101, en de aangehaalde verw."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230510.2F.5": {
+      "court": "CASS",
+      "date": "2023-05-10",
+      "roleNumber": "P.23.0236.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "Le dommage réparable au sens des articles 1382 de l'ancien Code civil et 3 du titre préliminaire du Code de procédure pénale n'est pas celui que le prestataire de services associe à une taxation, insuffisante à ses yeux, de son état de frais; ce dommage suppose en effet une atteinte, causée par l'infraction, à un droit subjectif préexistant et juridiquement protégé dans le chef de celui qui s'en réclame (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De vergoedbare schade in de zin van de artikelen 1382 Oud Burgerlijk Wetboek en 3 Voorafgaande Titel Wetboek van Strafvordering is niet de schade die de prestatieverlener verbindt aan een, in zijn ogen ontoereikende, taxatie van zijn kostenstaat; die schade veronderstelt immers een door het misdrijf veroorzaakte aantasting van een vooraf bestaand en bij wet beschermd subjectief recht van degene die deze schade aanvoert (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230504.1F.6": {
+      "court": "CASS",
+      "date": "2023-05-04",
+      "roleNumber": "C.22.0448.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_28.xml"
+      ],
+      "abstractFR": [
+        "Celui qui, par sa faute, a causé un dommage à autrui est tenu de le réparer et la victime a droit, en règle, à la réparation intégrale du préjudice qu'elle a subi (1). (1) Voir les concl. du MP.",
+        "Le juge évalue in concreto le préjudice causé par un fait illicite (1). (1) Voir les concl. du MP.",
+        "Le juge peut recourir à une évaluation en équité du dommage à la condition qu'il indique les motifs pour lesquels il ne peut admettre le mode de calcul proposé par la victime et qu'il constate en outre l'impossibilité de déterminer autrement le dommage (1). (1) Voir les concl. du MP.",
+        "Le dommage matériel que subit la victime à la suite d'une incapacité permanente de travail peut consister non seulement en une diminution de sa valeur économique sur le marché du travail et, éventuellement, en la nécessité de fournir des efforts accrus dans l'accomplissement de ses tâches professionnelles normales, mais aussi, le cas échéant, en une perte de revenus professionnels (1). (1) Voir les concl. du MP.",
+        "Pour évaluer la réparation de l'atteinte portée à cette valeur économique, le juge doit prendre en considération la capacité de la victime, eu égard à sa situation concrète et aux contraintes et réalités économiques et sociales, d'exercer non seulement la profession qui était la sienne au moment de l'accident mais aussi d'autres activités professionnelles, en tenant compte de son âge, de sa formation, de ses qualifications professionnelles et de sa faculté d'adaptation (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Wie door zijn fout een ander schade heeft berokkend, moet deze vergoeden en het slachtoffer heeft in de regel recht op de volledige vergoeding van de schade die hij heeft geleden (1). (1) Zie concl. OM.",
+        "De rechter raamt in concreto de door een onrechtmatige daad veroorzaakte schade (1). (1) Zie concl. OM.",
+        "De rechter kan de schade naar billijkheid ramen, mits hij de redenen opgeeft waarom hij de door het slachtoffer voorgestelde berekeningswijze niet kan aannemen en tevens vaststelt dat het niet mogelijk is om de schade anders te bepalen (1). (1) Zie concl. OM.",
+        "De materiële schade die het slachtoffer lijdt ten gevolge van een blijvende arbeidsgeschiktheid bestaat niet alleen in de vermindering van zijn economische waarde op de arbeidsmarkt en, eventueel, de noodzaak om zich harder te moeten inspannen om zijn normale beroepswerkzaamheden te volbrengen, maar desgevallend ook in een verlies aan beroepsinkomsten (1). (1) Zie concl. OM.",
+        "Bij het ramen van de aantasting van die economische waarde moet de rechter acht slaan op de geschiktheid van het slachtoffer, gelet op zijn concrete toestand en op de economische en sociale vereisten en realiteiten, om niet alleen zijn beroep ten tijde van het ongeval maar ook andere beroepsactiviteiten uit te oefenen, waarbij hij rekening moet houden met de leeftijd, de opleiding, de beroepsbekwaamheid en het aanpassingsvermogen van het slachtoffer (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1383": {
@@ -11553,6 +11621,44 @@
         "Si le juge ne peut pas refuser la capitalisation au motif que le préjudice ne se manifestera pas de manière linéaire, ni la refuser au prix d'une contradiction qui consisterait à dire que l'incapacité permanente, en réalité, ne l'est pas, il peut en revanche la refuser si, l'équivalence susdite étant impossible à établir, cette méthode conduirait à allouer à la victime une somme dépassant le préjudice à indemniser (1). (1) Cass. 13 mars 2024, RG P.22.0117, ECLI:BE:CASS:2024:ARR.20240313.2F.1, Pas. 2024, n° 216, avec concl. de M. VANDERMEERSCH, avocat général, ECLI:BE:CASS:2024:CONC.20240313.2F.1 ; voir concl. de M. WERQUIN, avocat général, ECLI:BE:CASS:2024:CONC.20240329.1F.3, précédant Cass. 29 mars 2024, RG C.23.0305.F, ECLI:BE:CASS:2024:ARR.20240329.1F.3, Pas. 2024, n° 273."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20230420.1F.5": {
+      "court": "CASS",
+      "date": "2023-04-20",
+      "roleNumber": "C.18.0554.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'employeur public, qui, ensuite de la faute d'un tiers, doit continuer à payer à l'un de ses agents la rémunération et les charges grevant la rémunération en vertu d'obligations légales ou réglementaires qui lui incombent, sans bénéficier de prestations de travail en contrepartie, a droit à une indemnité réparant le dommage ainsi subi, pour autant qu'il résulte des dispositions légales et réglementaires applicables que les décaissements précités auxquels il est tenu ne doivent pas rester définitivement à sa charge (1). (1) Voir Cass. 16 février 2018, RG C.16.0344.F, Pas. 2018, n° 101 et les réf. citées.",
+        "L'indemnité d'invalidité à laquelle le fonctionnaire de l'Union européenne a droit lorsqu'il est atteint d'une incapacité permanente considérée comme totale et le mettant dans l'impossibilité d'exercer les fonctions correspondant à un emploi de son groupe de fonction ne constitue pas la contrepartie des prestations de travail dont la Commission européenne aurait bénéficié en l'absence de l'accident et n'est, partant, pas un dommage réparable au sens des articles 1382 et 1383 de l'ancien Code civil (1). (1) Voir Cass. 16 février 2018, RG C.16.0344.F, Pas. 2018, n° 101 et les réf. citées."
+      ],
+      "abstractNL": [
+        "De openbare werkgever die, door de fout van een derde, krachtens zijn wettelijke of reglementaire verplichtingen aan zijn personeelslid loon en de lasten op dat loon moet blijven betalen, zonder als tegenprestatie arbeidsprestaties te ontvangen, heeft recht op een vergoeding voor de aldus geleden schade, voor zover uit de toepasselijke wettelijke en reglementaire bepalingen volgt dat de voormelde uitgaven waartoe hij gehouden is niet definitief voor zijn rekening moeten blijven (1). (1) Zie Cass. 16 februari 2018, AR C.16.0344.F, AC 2018, nr. 101, en de aangehaalde verw.",
+        "De invaliditeitsuitkering waarop de ambtenaar van de Europese Unie recht heeft wanneer hij blijvend invalide wordt en die invaliditeit als volledig wordt beschouwd, waardoor het hem niet mogelijk is werkzaamheden te verrichten die met een ambt van zijn functiegroep overeenkomen, vormt niet de tegenprestatie voor de arbeidsprestaties die de Europese Commissie zou hebben ontvangen indien het ongeval zich niet had voorgedaan en die uitkering is bijgevolg geen schade die vergoed kan worden in de zin van de artikelen 1382 en 1383 Oud Burgerlijk Wetboek (1). (1) Zie Cass. 16 februari 2018, AR C.16.0344.F, AC 2018, nr. 101, en de aangehaalde verw."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230504.1F.6": {
+      "court": "CASS",
+      "date": "2023-05-04",
+      "roleNumber": "C.22.0448.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_28.xml"
+      ],
+      "abstractFR": [
+        "Celui qui, par sa faute, a causé un dommage à autrui est tenu de le réparer et la victime a droit, en règle, à la réparation intégrale du préjudice qu'elle a subi (1). (1) Voir les concl. du MP.",
+        "Le juge évalue in concreto le préjudice causé par un fait illicite (1). (1) Voir les concl. du MP.",
+        "Le juge peut recourir à une évaluation en équité du dommage à la condition qu'il indique les motifs pour lesquels il ne peut admettre le mode de calcul proposé par la victime et qu'il constate en outre l'impossibilité de déterminer autrement le dommage (1). (1) Voir les concl. du MP.",
+        "Le dommage matériel que subit la victime à la suite d'une incapacité permanente de travail peut consister non seulement en une diminution de sa valeur économique sur le marché du travail et, éventuellement, en la nécessité de fournir des efforts accrus dans l'accomplissement de ses tâches professionnelles normales, mais aussi, le cas échéant, en une perte de revenus professionnels (1). (1) Voir les concl. du MP.",
+        "Pour évaluer la réparation de l'atteinte portée à cette valeur économique, le juge doit prendre en considération la capacité de la victime, eu égard à sa situation concrète et aux contraintes et réalités économiques et sociales, d'exercer non seulement la profession qui était la sienne au moment de l'accident mais aussi d'autres activités professionnelles, en tenant compte de son âge, de sa formation, de ses qualifications professionnelles et de sa faculté d'adaptation (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Wie door zijn fout een ander schade heeft berokkend, moet deze vergoeden en het slachtoffer heeft in de regel recht op de volledige vergoeding van de schade die hij heeft geleden (1). (1) Zie concl. OM.",
+        "De rechter raamt in concreto de door een onrechtmatige daad veroorzaakte schade (1). (1) Zie concl. OM.",
+        "De rechter kan de schade naar billijkheid ramen, mits hij de redenen opgeeft waarom hij de door het slachtoffer voorgestelde berekeningswijze niet kan aannemen en tevens vaststelt dat het niet mogelijk is om de schade anders te bepalen (1). (1) Zie concl. OM.",
+        "De materiële schade die het slachtoffer lijdt ten gevolge van een blijvende arbeidsgeschiktheid bestaat niet alleen in de vermindering van zijn economische waarde op de arbeidsmarkt en, eventueel, de noodzaak om zich harder te moeten inspannen om zijn normale beroepswerkzaamheden te volbrengen, maar desgevallend ook in een verlies aan beroepsinkomsten (1). (1) Zie concl. OM.",
+        "Bij het ramen van de aantasting van die economische waarde moet de rechter acht slaan op de geschiktheid van het slachtoffer, gelet op zijn concrete toestand en op de economische en sociale vereisten en realiteiten, om niet alleen zijn beroep ten tijde van het ongeval maar ook andere beroepsactiviteiten uit te oefenen, waarbij hij rekening moet houden met de leeftijd, de opleiding, de beroepsbekwaamheid en het aanpassingsvermogen van het slachtoffer (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1385": {
@@ -12024,7 +12130,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2866.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2866.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_46.xml"
       ],
       "abstractFR": [
         "Il résulte des dispositions de l'article 375bis, alinéas 1er et 2, de l'ancien Code civil et des articles 7 et 45.1 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, que, bien que l'article 375bis de l'ancien Code civil fasse partie du Livre 1er, titre IX, de l'ancien Code civil, le droit de visite des grands-parents visé audit article ne relève pas de la compétence du tribunal de la jeunesse (1). (1) Anvers 22 septembre 2022, R.A.B.G. 2023/1–2, avec la note de M. GOVAERTS, « Artikel 7 Jeugdbeschermingswet en de concurrentiële bevoegdheid van de familie- en jeugdrechtbank omtrent het treffen van maatregelen aangaande de uitoefening van het ouderlijk gezag » ; F. VROMAN, « Commentaar bij artikel 7 Jeugdbeschermingswet », dans VERSCHELDEN, G. et WUYTS, T. (éds.), Personen– en familierecht. Artikelsgewijze commentaar met overzicht van rechtspraak en rechtsleer, Wolters Kluwer Belgium, 2024.",

@@ -7150,12 +7150,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_583.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_583.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/11/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/11/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_32.xml"
       ],
       "abstractFR": [
-        "Le juge qui a rendu, dans la même cause et entre les mêmes parties, une décision statuant sur une question litigieuse dont il était saisi, a épuisé sa juridiction sur cette question et, si cette décision est obscure ou ambiguë, l'interprétation qu'il peut en donner ne peut modifier les droits consacrés (1). (1) Voir Cass. 18 juin 2021, RG C.20.0001.N, Pas. 2021, n° 451."
+        "Le juge qui a rendu, dans la même cause et entre les mêmes parties, une décision statuant sur une question litigieuse dont il était saisi, a épuisé sa juridiction sur cette question et, si cette décision est obscure ou ambiguë, l'interprétation qu'il peut en donner ne peut modifier les droits consacrés (1). (1) Voir Cass. 18 juin 2021, RG C.20.0001.N, Pas. 2021, n° 451.",
+        "Le juge qui a rendu, dans la même cause et entre les mêmes parties, une décision statuant sur une question litigieuse dont il était saisi, a épuisé sa juridiction sur cette question et, si cette décision est obscure ou ambiguë, l'interprétation qu'il peut en donner ne peut modifier les droits consacrés (1). (1) Voir Cass. 18 juin 2021, RG C.20.0001.N, ECLI:BE:CASS:2021:ARR.20210618.1N.6."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De rechter die in dezelfde zaak en tussen dezelfde partijen een beslissing heeft gewezen over een geschilpunt dat bij hem aanhangig was gemaakt, heeft zijn rechtsmacht over dat geschilpunt geheel uitgeoefend en kan de uitlegging die hij van zijn beslissing kan geven indien deze onduidelijk of ondubbelzinnig is, de hierin vastgelegde rechten niet wijzigen (1). (1) Cass. 18 juni 2021, AR C.20.0001.N, ECLI:BE:CASS:2021:ARR.20210618.1N.6."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210914.2N.17": {
       "court": "CASS",
@@ -12837,12 +12841,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_493.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_493.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/20/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/04/20/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_12.xml"
       ],
       "abstractFR": [
         "Il n'est pas matériellement impossible d'exécuter conjointement la décision qui refuse à l'occupant d'un fonds enclavé un passage sur l'une des parcelles voisines et celle qui lui refuse un passage sur une autre de ces parcelles; la circonstance que cet occupant ne disposerait en conséquence d'aucun droit de passage vers son fonds ne rend pas le litige indivisible."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het is niet materieel onmogelijk om de beslissing die de bewoner van een ingesloten erf de doorgang op een van de naburige percelen weigert en die welke hem de doorgang op een ander van die percelen weigert, gezamenlijk ten uitvoer te leggen; de omstandigheid dat die bewoner bijgevolg over geen enkel recht van doorgang naar zijn erf zou beschikken, maakt het geschil niet onsplitsbaar."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230605.3N.9": {
       "court": "CASS",
@@ -18728,6 +18735,22 @@
       "abstractFR": null,
       "abstractNL": [
         "De interpretatie die het uitleggend vonnis geeft, wordt geacht terug te werken tot op het ogenblik van de uitspraak van het uitgelegde vonnis (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1032": {
+    "ECLI:BE:CASS:2023:ARR.20230511.1F.3": {
+      "court": "CASS",
+      "date": "2023-05-11",
+      "roleNumber": "C.22.0263.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_31.xml"
+      ],
+      "abstractFR": [
+        "Lorsque le juge fait droit à la demande du requérant en rétractation d'une ordonnance en raison d'un changement de circonstances, la rétractation de l'ordonnance produit effet, non à la date de la prononciation de l'ordonnance rétractée, mais à la date à laquelle les circonstances ont changé."
+      ],
+      "abstractNL": [
+        "Wanneer de rechter de vordering van de verzoeker tot intrekking van een beschikking wegens veranderde omstandigheden toewijst, brengt de intrekking van de beschikking geen gevolgen teweeg op de datum van de uitspraak van de ingetrokken beschikking maar op de datum waarop de omstandigheden zijn veranderd."
       ]
     }
   },
