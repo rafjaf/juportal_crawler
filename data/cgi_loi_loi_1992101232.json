@@ -175,9 +175,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2929.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2929.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_22.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La Cour renvoie à l'arrêt rendu le 3 mars 2005 par la Cour de justice de l'Union européenne dans l'affaire Ministerie van Financiën c. Merabi Papismedove.a (C-195/03), dans lequel celle-ci a considéré que les marchandises présentées en douane qui ont fait l‘objet d'une déclaration sommaire et de l'enregistrement d'un document de transit communautaire externe n'ont pas été introduites de manière régulière dans le territoire douanier de la Communauté, lorsqu'elles ont été déclarées sous une « dénomination erronée dans les documents remis aux autorités douanières » (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Het Hof verwijst naar het arrest van 3 maart 2005 in de zaak C-195/03, Papismedov, waarin het Hof van Justitie van de Europese Unie oordeelde dat bij de douane aangebrachte goederen waarvoor een summiere aangifte is ingediend en een document van extern communautair douanevervoer is geldig gemaakt, niet op regelmatige wijze in het douanegebied van de Gemeenschap zijn binnengebracht wanneer de goederen in de aan de douaneautoriteiten overgelegde documenten onder een “onjuiste benaming” zijn opgegeven (1). (1) Zie concl. OM."
       ]

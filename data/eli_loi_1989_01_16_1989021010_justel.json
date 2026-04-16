@@ -23,9 +23,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2908.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2908.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_16.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'utilisation par le législateur et par le législateur décrétal des termes « activités de leasing » aux articles 4, § 3, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions et 2.3.4.1.1 du Code flamand de la fiscalité ne vise que le leasing de véhicules effectué dans le cadre de conventions de location-financement."
+      ],
       "abstractNL": [
         "Met het gebruik van het woord “leasingactiviteiten” in artikel 4, § 3, Bijzondere Financieringswet van 16 januari 1989 en in artikel 2.3.4.1.1 VCF verwijzen de wetgever en de decreetgever enkel naar het leasen van voertuigen via leasingovereenkomsten."
       ]

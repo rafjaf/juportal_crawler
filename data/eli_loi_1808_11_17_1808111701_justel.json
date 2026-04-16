@@ -7357,6 +7357,18 @@
       "abstractNL": [
         "Hoewel de zaak bij het vonnisgerecht aanhangig is, mag de Procureur des Konings, als officier van gerechtelijke politie, tot aanvullende daden van vooronderzoek doen overgaan, op voorwaarde dat de andere partijen van die daden kennis hebben kunnen nemen en ze op de terechtzitting hebben kunnen bespreken."
       ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251210.2F.23": {
+      "court": "CASS",
+      "date": "2025-12-10",
+      "roleNumber": "P.25.1059.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_34.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 127, alinéa 2, du Code d'instruction criminelle, lorsque le procureur du Roi estime que l'instruction est complète, il prend des réquisitions en vue du règlement de la procédure devant la chambre du conseil; ce sont ces réquisitions qui saisissent la chambre du conseil et non la plainte préalable avec constitution de partie civile devant le juge d'instruction d'une partie se prétendant victime d'infractions pénales; par l'énonciation que les faits de faux et d'usage de faux en écriture retenus dans les réquisitions finales s'identifient à ceux tels que qualifiés dans les actes de la procédure, le ministère public requalifie l'inculpation d'abus de faiblesse prêtée par la partie civile dans sa plainte (1). (1) Cass. 21 septembre 2016, RG P.16.0718.F, Pas. 2016, n° 514, ECLI:BE:CASS:2016:ARR.20160921.5 ; M-A BEERNAERT, D. VANDERMEERSCH et M. GIACOMETTI, Droit de la procédure pénale, 10ème éd., Bruges, La Charte, 2025, p. 1111."
+      ],
+      "abstractNL": null
     }
   },
   "128": {
@@ -12825,6 +12837,22 @@
       ],
       "abstractNL": [
         "De beslissing van het onderzoeksgerecht die het verzoek tot opschorting van de uitspraak van de veroordeling afwijst, is geen beslissing die de opschorting toestaat of weigert zodat hiertegen geen onmiddellijk cassatieberoep openstaat (1). (1) Cass., 15 okt. 2002, AR P.02.0885.N, nr 542."
+      ]
+    }
+  },
+  "427": {
+    "ECLI:BE:CASS:2023:ARR.20230118.2F.2": {
+      "court": "CASS",
+      "date": "2023-01-18",
+      "roleNumber": "P.21.0228.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La personne dont la déchéance de la nationalité belge est poursuivie par le ministère public devant la cour d'appel en application de l'article 23, § 1er, du Code de la nationalité belge doit être assimilée à une personne poursuivie et n'est pas tenue de signifier son pourvoi au ministère public (1). (Solution implicite). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De persoon van wie de vervallenverklaring van de Belgische nationaliteit door het openbaar ministerie wordt gevorderd voor het hof van beroep met toepassing van artikel 23, § 1, WBN, moet worden gelijkgesteld met een vervolgde persoon en dient zijn cassatieberoep niet te betekenen aan het openbaar ministerie (1). (Impliciete oplossing). (1) Zie concl. OM."
       ]
     }
   },
