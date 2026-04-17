@@ -12769,12 +12769,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3037.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3037.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/16/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/16/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/16/sitemap_23.xml"
       ],
       "abstractFR": [
         "Lorsque l'avocat détermine ses honoraires, le juge ne peut les réduire que s'ils dépassent manifestement les bornes de la juste modération; il n'est par contre pas interdit au juge, pour procéder à cette appréciation marginale, d'examiner les prestations facturées et d'avoir égard aux montants horaires ou aux heures prestées (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de advocaat zijn ereloon vaststelt, kan de rechter het enkel verminderen wanneer het kennelijk de grenzen van de billijke gematigdheid te buiten gaat; bij het verrichten van deze marginale toetsing is het de rechter daarentegen niet verboden de gefactureerde prestaties te onderzoeken en de uurloonbedragen of de gepresteerde uren in aanmerking te nemen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220909.1N.7": {
       "court": "CASS",

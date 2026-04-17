@@ -684,12 +684,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3059.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3059.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_15.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/23/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/23/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/16/sitemap_29.xml"
       ],
       "abstractFR": [
         "En soi, l'introduction d'une demande de protection internationale n'a pas d'effet suspensif sur la procédure d'exequatur du mandat d'arrêt international et ne constitue pas une cause de refus visée par l'article 2bis de la loi du 15 mars 1874 (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De indiening van een verzoek om internationale bescherming heeft op zich geen schorsende werking op de procedure van uitvoerbaarverklaring van het internationaal aanhoudingsbevel en is geen in artikel 2bis Uitleveringswet 1874 bedoelde weigeringsgrond (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230502.2N.15": {
       "court": "CASS",
@@ -7226,9 +7229,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2590.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2590.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/09/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/09/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/16/sitemap_1.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 47bis du Code d'instruction criminelle ne s'applique qu'aux personnes entendues ; il ne résulte pas de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, tel qu'interprété par la Cour européenne des droits de l'homme, que si la police arrête administrativement une personne pour ivresse sur la voie publique, sans l'entendre, l'intéressé a droit sur le champ à l'assistance d'un avocat, ni qu'il ne peut être arrêté qu'en présence d'un avocat."
+      ],
       "abstractNL": [
         "Artikel 47bis Wetboek van Strafvordering is enkel van toepassing op een persoon die wordt verhoord; uit artikel 6 EVRM, zoals uitgelegd door het Europees Hof voor de Rechten van de Mens, volgt niet dat indien de politie een persoon administratief arresteert omwille van openbare dronkenschap, zonder hem te verhoren, die betrokkene dadelijk recht heeft op de bijstand van een advocaat, noch dat hij slechts in aanwezigheid van een advocaat kan worden gearresteerd."
       ]
@@ -7240,11 +7246,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2591.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2591.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/09/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/09/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/16/sitemap_2.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le droit à l'assistance d'un interprète prévu à l'article 6, § 3, e, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ne vaut pas uniquement pour l'examen de la cause devant la juridiction de jugement, mais également pour les devoirs d'enquête au stade de l'information ; il appartient au juge d'apprécier si le suspect ou le prévenu comprend et parle la langue de la procédure à suffisance pour lui permettre d'exercer effectivement ses droits de défense, mais il ne résulte pas nécessairement du seul fait qu'un prévenu a bénéficié de l'assistance d'un interprète lors de l'examen de la cause en degré d'appel que le prévenu ne maîtrisait pas, ou insuffisamment, la langue de la procédure pour pouvoir être entendu par la police ou exercer effectivement ses droits de défense lors de l'examen de la cause en première instance ; la Cour examine toutefois si le juge ne tire pas de ses constatations des conséquences qu'elles ne sauraient justifier (1). (1) Voir Cass. 7 mars 2023, RG P.22.1551.N, ECLI:BE:CASS:2023:ARR.20230307.2N.2."
+      ],
       "abstractNL": [
-        "Het recht op bijstand van een tolk bepaald in artikel 6.3.e. EVRM geldt niet enkel bij de zaak voor het vonnisgerecht, maar ook voor onderzoeksverrichtingen tijdens het vooronderzoek; het staat aan de rechter te oordelen of de verdachte of de beklaagde voldoende de taal van de rechtspleging begrijpt en spreekt, zodat hij in staat is zijn recht van verdediging effectief uit te oefenen maar uit het enkele feit dat een beklaagde tijdens de behandeling van de zaak in hoger beroep werd bijgestaan door een tolk, volgt niet noodzakelijk dat de beklaagde de taal van de procedure niet of onvoldoende beheerste voor zijn verhoor door de politie of voor een effectieve uitoefening van zijn recht van verdediging bij de behandeling van de zaak in eerste aanleg; het Hof gaat wel na of de rechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord (1). (1) Zie Cass. 7 maart 2023, AR P.22.1551.N, AC 2023, nr. 174, ECLI:BE:CASS:2023:ARR.20230307.2N.2."
+        "Het recht op bijstand van een tolk bepaald in artikel 6.3.e. EVRM geldt niet enkel bij de zaak voor het vonnisgerecht, maar ook voor onderzoeksverrichtingen tijdens het vooronderzoek; het staat aan de rechter te oordelen of de verdachte of de beklaagde voldoende de taal van de rechtspleging begrijpt en spreekt, zodat hij in staat is zijn recht van verdediging effectief uit te oefenen maar uit het enkele feit dat een beklaagde tijdens de behandeling van de zaak in hoger beroep werd bijgestaan door een tolk, volgt niet noodzakelijk dat de beklaagde de taal van de procedure niet of onvoldoende beheerste voor zijn verhoor door de politie of voor een effectieve uitoefening van zijn recht van verdediging bij de behandeling van de zaak in eerste aanleg; het Hof gaat wel na of de rechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord (1). (1) Zie Cass. 7 maart 2023, AR P.22.1551.N, AC 2023, nr. 174, ECLI:BE:CASS:2023:ARR.20230307.2N.2.",
+        "Het recht op bijstand van een tolk bepaald in artikel 6.3.e. EVRM geldt niet enkel bij de zaak voor het vonnisgerecht, maar ook voor onderzoeksverrichtingen tijdens het vooronderzoek; het staat aan de rechter te oordelen of de verdachte of de beklaagde voldoende de taal van de rechtspleging begrijpt en spreekt, zodat hij in staat is zijn recht van verdediging effectief uit te oefenen maar uit het enkele feit dat een beklaagde tijdens de behandeling van de zaak in hoger beroep werd bijgestaan door een tolk, volgt niet noodzakelijk dat de beklaagde de taal van de procedure niet of onvoldoende beheerste voor zijn verhoor door de politie of voor een effectieve uitoefening van zijn recht van verdediging bij de behandeling van de zaak in eerste aanleg; het Hof gaat wel na of de rechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord (1). (1) Zie Cass. 7 maart 2023, AR P.22.1551.N, ECLI:BE:CASS:2023:ARR.20230307.2N.2."
       ]
     },
     "ECLI:BE:CASS:2025:ARR.20250305.2F.11": {
@@ -7554,9 +7564,13 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2889.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2889.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/03/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/03/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/16/sitemap_15.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Ni l'article 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni l'article 334 du Code d'instruction criminelle, ni aucune autre disposition ou principe général du droit n'imposent que la formulation des principales raisons indique aussi: - la raison pour laquelle une déclaration d'un coaccusé est jugée plus convaincante qu'une autre déclaration de ce même coaccusé; - les motifs sous-jacents aux principales raisons du jury; - l'ensemble des arguments à décharge produits par un accusé au cours des débats; - la raison pour laquelle crédit est accordé à l'interprétation des données de téléphonie par les services de police; - les pièces déposées par l'accusé au cours des débats; de la simple circonstance que la formulation des principales raisons de la décision du jury n'indique pas la raison pour laquelle crédit est accordé à une déclaration plutôt qu'à d'autres, il ne saurait être déduit que la décision du jury repose sur des motifs arbitraires ou méconnaît la présomption d'innocence.",
+        "L'arrêt de la cour d'assises sur les questions de culpabilité et le procès-verbal d'audience ne doivent pas mentionner les dispositions du Code d'instruction criminelle dont il est fait application; la simple circonstance que ces dispositions n'ont pas été mentionnées ne permet de conclure au non-respect des prescriptions qui y sont énoncées."
+      ],
       "abstractNL": [
         "Noch artikel 6.1 EVRM, noch artikel 334 Wetboek van Strafvordering of enige andere bepaling of algemeen rechtsbeginsel, verplichten ertoe dat de formulering van de voornaamste redenen ook melding zou maken van:- de reden waarom een bepaalde verklaring van een medebeschuldigde meer overtuigend wordt bevonden dan een andere verklaring van die medebeschuldigde; - de achterliggende motieven van de voornaamste redenen van de jury; - alle argumenten à décharge die door een beschuldigde tijdens het debat werden voorgebracht; - de reden waarom geloof wordt gehecht aan de interpretatie van de telefoniegegevens door de politiediensten; - de stukken die door de beschuldigde tijdens het debat werden neergelegd; uit de loutere omstandigheid dat de formulering van de voornaamste redenen van de beslissing van de jury niet de reden vermeldt waarom aan een bepaalde verklaring geloof wordt gehecht en aan andere verklaringen niet, kan niet worden afgeleid dat de beslissing van de jury op arbitraire gronden is gebaseerd of het vermoeden van onschuld miskent.",
         "Het arrest van het hof van assisen over de schuldvragen en het proces-verbaal van de rechtszitting dienen geen melding te maken van de toegepaste bepalingen van het Wetboek van Strafvordering; uit de loutere omstandigheid dat die bepalingen niet worden vermeld, kan niet worden afgeleid dat de erin vermelde voorschriften niet werden nageleefd."
