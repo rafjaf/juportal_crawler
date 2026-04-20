@@ -44160,12 +44160,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3062.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3062.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_27.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_27.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_11.xml"
       ],
       "abstractFR": [
         "Il ne se déduit ni des articles 782 du Code judiciaire et 195bis du Code d'instruction criminelle ni d'aucune autre disposition qu'un jugement rendu par une formation de jugement ne pourrait porter, à la fois, la signature électronique d'un membre du siège et la signature manuscrite des autres juges qui ont ainsi statué."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Noch uit de artikelen 782 Gerechtelijk Wetboek en 195bis Wetboek van strafvordering noch uit enige andere bepaling kan worden afgeleid dat een door een rechtscollege gewezen vonnis niet zowel de elektronische handtekening van een lid van de zetel als de handgeschreven handtekening van de andere rechters die aldus uitspraak hebben gedaan zou mogen dragen."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20201006.2N.11": {
       "court": "CASS",

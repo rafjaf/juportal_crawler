@@ -2193,12 +2193,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3063.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3063.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_28.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_28.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_12.xml"
       ],
       "abstractFR": [
         "De la circonstance que l'arrestation de l'étranger est intervenue à l'occasion de son déplacement dans les locaux de l'Office des étrangers en vue d'un entretien relatif à sa demande de protection internationale, auquel il avait été convoqué, en vertu d'une décision de maintien prise le jour même et non la veille de cet entretien, il ne se déduit pas que les autorités ont sciemment trompé l'étranger, en violation de l'article 5.1.f) de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de omstandigheid dat de aanhouding van de vreemdeling heeft plaatsgevonden toen hij zich naar de lokalen van de Dienst Vreemdelingenzaken had begeven met het oog op een onderhoud over zijn verzoek om internationale bescherming, waarvoor hij was opgeroepen, krachtens een beslissing tot handhaving die dezelfde dag en niet daags vóór dat onderhoud was genomen, kan niet worden afgeleid dat de autoriteiten de vreemdeling opzettelijk hebben misleid, in strijd met artikel 5.1.f, EVRM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230214.2N.16": {
       "court": "CASS",

@@ -446,9 +446,12 @@
       "roleNumber": "S.23.0013.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2995.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2995.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2995.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le ressort d'une commission paritaire est, en principe, déterminé par l'activité principale de l'entreprise concernée, sauf si un autre critère est fixé par l'arrêté d'institution, tel que l'activité habituelle ou normale de l'entreprise; il suit de la combinaison des articles 1er, alinéa 1er, a), alinéa 1er, de l'arrêté royal du 4 mars 1975 et 1er, alinéa 1er, a), de l'arrêté royal du 13 mars 1985 qu'une entreprise ne ressort pas de la « sous-commission paritaire des électriciens: installation et distribution » lorsqu'elle relève de la compétence de la commission paritaire de la construction; il s'ensuit que le Roi est parti du principe qu'une activité est susceptible de relever des compétences des deux commissions partiaires et que, le cas échéant, la commission paritaire de la construction obtient la préférence."
+      ],
       "abstractNL": [
         "Het ressort van een paritair comité wordt in beginsel bepaald door de hoofdactiviteit van de betrokken onderneming, tenzij uit het oprichtingsbesluit een ander criterium blijkt, zoals de gewone of normale activiteit van de onderneming; uit de samenhang tussen artikel 1, eerste lid, a), al. 1, van het koninklijk besluit van 4 maart 1975 en artikel 1, eerste lid, 1, a), van het koninklijk besluit van 13 maart 1985 volgt dat een onderneming niet onder het “Paritair Subcomité voor de elektriciens: installatie en distributie” ressorteert wanneer zij onder de bevoegdheid valt van het Paritair Comité voor de bouwnijverheid; hieruit volgt dat de Koning ervan is uitgegaan dat een activiteit onder de bevoegdheidsomschrijvingen van de beide paritaire comités kan vallen, en dat in voorkomend geval het Paritair Comité voor het bouwbedrijf de voorrang geniet."
       ]

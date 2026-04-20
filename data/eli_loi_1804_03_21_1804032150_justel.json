@@ -124,9 +124,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2996.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2996.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_31.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_21.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_21.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_5.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le droit à des allocations pour incapacité de travail, stipulé dans un contrat d'assurance-groupe conclu par un employeur au profit des travailleurs, n'est pas un droit définitivement établi lors de la conclusion de ce contrat d'assurance-vie, mais une conséquence future de la conclusion de cette convention, aussi longtemps que les allocations sont dues (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Het recht op uitkeringen wegens arbeidsongeschiktheid, vastgelegd in een groepsverzekeringsovereenkomst gesloten door een werkgever ten voordele van de werknemers, is geen bij het sluiten van die groepsverzekeringsovereenkomst definitief vastgesteld recht, maar, zolang de uitkeringen verschuldigd zijn, een toekomstig gevolg van het sluiten van die overeenkomst (1). (1) Zie concl. OM."
       ]
@@ -296,9 +299,12 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2996.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2996.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_31.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_21.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/11/sitemap_21.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_5.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le droit à des allocations pour incapacité de travail, stipulé dans un contrat d'assurance-groupe conclu par un employeur au profit des travailleurs, n'est pas un droit définitivement établi lors de la conclusion de ce contrat d'assurance-vie, mais une conséquence future de la conclusion de cette convention, aussi longtemps que les allocations sont dues (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Het recht op uitkeringen wegens arbeidsongeschiktheid, vastgelegd in een groepsverzekeringsovereenkomst gesloten door een werkgever ten voordele van de werknemers, is geen bij het sluiten van die groepsverzekeringsovereenkomst definitief vastgesteld recht, maar, zolang de uitkeringen verschuldigd zijn, een toekomstig gevolg van het sluiten van die overeenkomst (1). (1) Zie concl. OM."
       ]
@@ -11436,6 +11442,22 @@
       ]
     }
   },
+  "1134": {
+    "ECLI:BE:CASS:2025:ARR.20250530.1N.9": {
+      "court": "CASS",
+      "date": "2025-05-30",
+      "roleNumber": "C.24.0087.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Ne méconnaît pas la force obligatoire d'une convention, le juge qui reconnaît à la convention les effets que, dans l'interprétation qu'il en donne, ladite convention a légalement entre les parties (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De verbindende kracht van een overeenkomst wordt niet miskend wanneer de rechter aan de overeenkomst de gevolgen toekent die deze volgens zijn uitleg ervan wettig tussen de partijen heeft (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "1139": {
     "ECLI:BE:CASS:2020:ARR.20200907.3N.15": {
       "court": "CASS",
@@ -11465,6 +11487,22 @@
       ],
       "abstractNL": [
         "De rechter beslist op onaantastbare wijze in feite of een schuldeiser al dan niet duidelijk en ondubbelzinnig aan zijn schuldenaar te kennen heeft gegeven dat hij wil dat de schuldenaar zijn verbintenis uitvoert; het Hof gaat evenwel na of de rechter uit zijn vaststellingen zijn beslissing naar recht heeft kunnen afleiden."
+      ]
+    }
+  },
+  "1156": {
+    "ECLI:BE:CASS:2025:ARR.20250530.1N.9": {
+      "court": "CASS",
+      "date": "2025-05-30",
+      "roleNumber": "C.24.0087.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Ne méconnaît pas la force obligatoire d'une convention, le juge qui reconnaît à la convention les effets que, dans l'interprétation qu'il en donne, ladite convention a légalement entre les parties (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De verbindende kracht van een overeenkomst wordt niet miskend wanneer de rechter aan de overeenkomst de gevolgen toekent die deze volgens zijn uitleg ervan wettig tussen de partijen heeft (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -11591,6 +11629,36 @@
         "De materiële schade die het slachtoffer lijdt ten gevolge van een blijvende arbeidsgeschiktheid bestaat niet alleen in de vermindering van zijn economische waarde op de arbeidsmarkt en, eventueel, de noodzaak om zich harder te moeten inspannen om zijn normale beroepswerkzaamheden te volbrengen, maar desgevallend ook in een verlies aan beroepsinkomsten (1). (1) Zie concl. OM.",
         "Bij het ramen van de aantasting van die economische waarde moet de rechter acht slaan op de geschiktheid van het slachtoffer, gelet op zijn concrete toestand en op de economische en sociale vereisten en realiteiten, om niet alleen zijn beroep ten tijde van het ongeval maar ook andere beroepsactiviteiten uit te oefenen, waarbij hij rekening moet houden met de leeftijd, de opleiding, de beroepsbekwaamheid en het aanpassingsvermogen van het slachtoffer (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250611.2F.10": {
+      "court": "CASS",
+      "date": "2025-06-11",
+      "roleNumber": "P.25.0424.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Si le préjudice économique permanent se calcule différemment selon qu'il y va du passé ou de l'avenir, il ne s'en déduit pas qu'il s'agirait de deux dommages différents; c'est le même préjudice qui se manifeste dans le temps, fût-ce avec une intensité variable.",
+        "L'article 136, § 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités instaure une interdiction de cumul, lorsqu'elles réparent un même dommage, entre les prestations servies en vertu de la loi du 14 juillet 1994 et celles dues en vertu du droit commun; le recours subrogatoire préférentiel que cette loi institue s'exerce sur une assiette globalisée en telle sorte que c'est la totalité des sommes réparant un même dommage qui constitue, sans cloisonnement, l'assiette de la récupération subrogatoire de l'organisme assureur (1). (1) Voir les concl. de M. GENICOT, avocat général avant Cass. 21 avril 2008, RG C.06.0675.F, Pas. 2008, n° 235, p. 946."
+      ],
+      "abstractNL": [
+        "Uit de verschillende berekeningswijze van de reeds geleden en de toekomstige blijvende economische schade kan niet worden afgeleid dat het om twee verschillende soorten schade zou gaan; het is dezelfde schade die zich doorheen de tijd voordoet, zij het met een variabele intensiteit.",
+        "Artikel 136, § 2, ZIV-Wet voert een cumulatieverbod in tussen de krachtens de ZIV-Wet verleende prestaties en de krachtens het gemeen recht verschuldigde prestaties, wanneer die prestaties dezelfde schade vergoeden; de preferentiële regresvordering die deze wet invoert, wordt op een globale grondslag ingesteld, zodat de grondslag van de subrogatoire terugvordering van de verzekeringsinstelling ononderscheidenlijk bestaat uit alle bedragen die dezelfde schade vergoeden (1). (1) Zie concl. van advocaat-generaal Genicot, vóór Cass. 21 april 2008, AR C.06.0675.F, AC 2008, nr. 235, op datum in Pas."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250602.3N.1": {
+      "court": "CASS",
+      "date": "2025-06-02",
+      "roleNumber": "S.22.0022.N-S.22.0023.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Le dommage moral est le dommage au sens de l'article 1382 de l'ancien Code civil; il comprend la douleur, le chagrin ou tout autre préjudice moral; une personne morale peut également subir un tel dommage, en particulier lorsqu'il lui est fait offense; une personne morale qui a été constituée en vue d'assurer la défense d'un intérêt collectif ne subit cependant pas de dommage moral par la simple violation de l'intérêt collectif en question (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Morele schade is schade in de zin van artikel 1382 Oud Burgerlijk Wetboek; zij bestaat uit pijn, smart of enig ander moreel leed; ook een rechtspersoon kan dergelijke schade lijden, in het bijzonder wanneer diens aanzien wordt gekrenkt; een rechtspersoon die tot de behartiging van een collectief belang is opgericht, lijdt evenwel geen morele schade door de loutere schending van het betreffende collectief belang (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1383": {
@@ -11658,6 +11726,22 @@
         "De rechter kan de schade naar billijkheid ramen, mits hij de redenen opgeeft waarom hij de door het slachtoffer voorgestelde berekeningswijze niet kan aannemen en tevens vaststelt dat het niet mogelijk is om de schade anders te bepalen (1). (1) Zie concl. OM.",
         "De materiële schade die het slachtoffer lijdt ten gevolge van een blijvende arbeidsgeschiktheid bestaat niet alleen in de vermindering van zijn economische waarde op de arbeidsmarkt en, eventueel, de noodzaak om zich harder te moeten inspannen om zijn normale beroepswerkzaamheden te volbrengen, maar desgevallend ook in een verlies aan beroepsinkomsten (1). (1) Zie concl. OM.",
         "Bij het ramen van de aantasting van die economische waarde moet de rechter acht slaan op de geschiktheid van het slachtoffer, gelet op zijn concrete toestand en op de economische en sociale vereisten en realiteiten, om niet alleen zijn beroep ten tijde van het ongeval maar ook andere beroepsactiviteiten uit te oefenen, waarbij hij rekening moet houden met de leeftijd, de opleiding, de beroepsbekwaamheid en het aanpassingsvermogen van het slachtoffer (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250611.2F.10": {
+      "court": "CASS",
+      "date": "2025-06-11",
+      "roleNumber": "P.25.0424.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/17/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Si le préjudice économique permanent se calcule différemment selon qu'il y va du passé ou de l'avenir, il ne s'en déduit pas qu'il s'agirait de deux dommages différents; c'est le même préjudice qui se manifeste dans le temps, fût-ce avec une intensité variable.",
+        "L'article 136, § 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités instaure une interdiction de cumul, lorsqu'elles réparent un même dommage, entre les prestations servies en vertu de la loi du 14 juillet 1994 et celles dues en vertu du droit commun; le recours subrogatoire préférentiel que cette loi institue s'exerce sur une assiette globalisée en telle sorte que c'est la totalité des sommes réparant un même dommage qui constitue, sans cloisonnement, l'assiette de la récupération subrogatoire de l'organisme assureur (1). (1) Voir les concl. de M. GENICOT, avocat général avant Cass. 21 avril 2008, RG C.06.0675.F, Pas. 2008, n° 235, p. 946."
+      ],
+      "abstractNL": [
+        "Uit de verschillende berekeningswijze van de reeds geleden en de toekomstige blijvende economische schade kan niet worden afgeleid dat het om twee verschillende soorten schade zou gaan; het is dezelfde schade die zich doorheen de tijd voordoet, zij het met een variabele intensiteit.",
+        "Artikel 136, § 2, ZIV-Wet voert een cumulatieverbod in tussen de krachtens de ZIV-Wet verleende prestaties en de krachtens het gemeen recht verschuldigde prestaties, wanneer die prestaties dezelfde schade vergoeden; de preferentiële regresvordering die deze wet invoert, wordt op een globale grondslag ingesteld, zodat de grondslag van de subrogatoire terugvordering van de verzekeringsinstelling ononderscheidenlijk bestaat uit alle bedragen die dezelfde schade vergoeden (1). (1) Zie concl. van advocaat-generaal Genicot, vóór Cass. 21 april 2008, AR C.06.0675.F, AC 2008, nr. 235, op datum in Pas."
       ]
     }
   },
