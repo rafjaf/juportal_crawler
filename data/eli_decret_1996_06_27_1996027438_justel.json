@@ -125,6 +125,20 @@
       ]
     }
   },
+  "11": {
+    "ECLI:BE:CASS:2026:ARR.20260304.2F.8": {
+      "court": "CASS",
+      "date": "2026-03-04",
+      "roleNumber": "P.25.0802.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_38.xml"
+      ],
+      "abstractFR": [
+        "Suivant l'article 2, alinéa 1er, de l'arrêté du gouvernement wallon du 14 juin 2001 favorisant la valorisation de certains déchets, toute personne qui valorise à titre professionnel des déchets repris dans la liste annexée à l'arrêté, selon la procédure qu'il détermine, est dispensée de l'autorisation visée à l'article 11, § 1er, du décret du 27 juin 1996 relatif aux déchets si elle obtient un enregistrement conforme à l'article 3 du même décret; la dispense de l'autorisation visée audit article 11, § 1er, dont bénéficient les valorisateurs dûment enregistrés couvre la gestion des déchets identifiés dans la décision du ministre ayant l'environnement dans ses attributions, pour autant que ceux-ci soient valorisés conformément au mode d'utilisation déterminé dans la septième colonne de l'annexe I de l'arrêté du gouvernement wallon précité et, le cas échéant, dans le respect des conditions d'exploitation et des dispositions complémentaires relatives au transport ou à la collecte des déchets qui seraient arrêtées par le ministre; la circonstance que la valorisation des déchets et leur stockage temporaire constituent des activités distinctes n'exclut pas que l'enregistrement de la première vaille dispense d'autorisation pour le second."
+      ],
+      "abstractNL": null
+    }
+  },
   "58": {
     "ECLI:BE:CASS:2007:ARR.20070207.5": {
       "court": "CASS",

@@ -942,6 +942,18 @@
       "abstractNL": [
         "De politieambtenaar die, in die hoedanigheid, in het kader van een onderzoek vaststellingen doet en analyses verricht, is geen gerechtsdeskundige, ook al is voor de uitvoering van die taken een zekere technische of wetenschappelijke kennis vereist; anders dan de gerechtsdeskundige verstrekt die ambtenaar geen advies aan de rechter, maar is hij krachtens artikel 8 Wetboek van Strafvordering belast met het opsporen van de misdrijven en het verzamelen van de bewijzen ervan; met toepassing van de artikelen 28ter, § 3, en 56, § 2, Wetboek van Strafvordering, en de artikelen 8/2 en 8/6 Wet Politieambt ontvangt hij en voert hij de vorderingen uit die de procureur des Konings of de onderzoeksrechter hem opdragen; het proces-verbaal waarin een politieman zijn vaststellingen en analyses optekent met betrekking tot de vergelijking van de foto van het gelaat van een bekende persoon met die van een persoon wiens identiteit wordt opgespoord, is geen deskundigenverslag (1). (1) Zie Cass. 15 februari 2006, AR P.05.1583.F, AC 2006, nr. 95 (begrip gerechtsdeskundige, wat de onderzoeker die een verhoor afneemt met de polygraaf, niet is)."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260304.2F.9": {
+      "court": "CASS",
+      "date": "2026-03-04",
+      "roleNumber": "P.25.1568.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_41.xml"
+      ],
+      "abstractFR": [
+        "L'article 8/2 de la loi du 5 août 1992 sur la fonction de police interdit à la police de discuter l'opportunité de la réquisition d'un juge d'instruction: hormis le cas où celle-ci lui paraîtrait manifestement illégale, elle doit l'exécuter et si les effectifs ou les moyens policiers disponibles ne permettent pas d'exécuter simultanément les réquisitions émanant de plusieurs autorités judiciaires, l'article 8/7 de la même loi n'attribue pas aux autorités qu'il désigne le pouvoir d'en laisser certaines inexécutées mais seulement celui de déterminer lesquelles seront mises en œuvre de manière prioritaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "general": {
@@ -972,6 +984,20 @@
       "abstractNL": [
         "De politie vermag tot gerechtelijke fouillering over te gaan wanneer er aanwijzingen bestaan dat de verdachte overtuigingsstukken of bewijsmateriaal in verband met een misdaad of wanbedrijf bij zich draagt; deze regel houdt niet in dat de gerechtelijke fouillering noodzakelijk tot een positief resultaat moet leiden."
       ]
+    }
+  },
+  "8/7": {
+    "ECLI:BE:CASS:2026:ARR.20260304.2F.9": {
+      "court": "CASS",
+      "date": "2026-03-04",
+      "roleNumber": "P.25.1568.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_41.xml"
+      ],
+      "abstractFR": [
+        "L'article 8/2 de la loi du 5 août 1992 sur la fonction de police interdit à la police de discuter l'opportunité de la réquisition d'un juge d'instruction: hormis le cas où celle-ci lui paraîtrait manifestement illégale, elle doit l'exécuter et si les effectifs ou les moyens policiers disponibles ne permettent pas d'exécuter simultanément les réquisitions émanant de plusieurs autorités judiciaires, l'article 8/7 de la même loi n'attribue pas aux autorités qu'il désigne le pouvoir d'en laisser certaines inexécutées mais seulement celui de déterminer lesquelles seront mises en œuvre de manière prioritaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   }
 }

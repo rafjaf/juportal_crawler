@@ -567,5 +567,21 @@
         "Inzake de onroerende voorheffing en de verkeersbelasting in het Vlaamse Gewest, moet het verzoekschrift in cassatie van de belastingplichtige niet noodzakelijk door een advocaat bij het Hof van Cassatie, maar in elk geval door een advocaat worden ondertekend en neergelegd (1). (1) Zie concl. OM."
       ]
     }
+  },
+  "3.7.0.0.2": {
+    "ECLI:BE:CASS:2025:ARR.20250613.1N.1": {
+      "court": "CASS",
+      "date": "2025-06-13",
+      "roleNumber": "F.24.0003.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_33.xml"
+      ],
+      "abstractFR": [
+        "Pour autant que seuls les mêmes éléments d'imposition ou une partie de ceux-ci soient imposés au nom du même contribuable, l'article 3.7.0.0.2, § 2, du Code flamand de la fiscalité ne fait pas obstacle à ce que, après l'annulation de la cotisation primitive portant sur différents exercices d'imposition et tous les biens immeubles confondus, la cotisation, qui est établie dans un délai de six mois, soit scindée en plusieurs articles d'enrôlement, une cotisation étant enrôlée pour chaque exercice et pour chaque bien immeuble."
+      ],
+      "abstractNL": [
+        "Voor zover uitsluitend dezelfde belastingelementen of een deel daarvan worden belast op naam van dezelfde belastingschuldige, belet artikel artikel 3.7.0.0.2, § 2, VCF niet dat na de vernietiging van de initiële aanslag voor verschillende aanslagjaren en alle onroerende goederen samen, de aanslag, die binnen de termijn van zes maanden wordt gevestigd, in meerdere kohierartikelen wordt opgesplitst, waarbij één aanslag per aanslagjaar en per onroerend goed wordt ingekohierd."
+      ]
+    }
   }
 }

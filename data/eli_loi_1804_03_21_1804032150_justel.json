@@ -11490,6 +11490,22 @@
       ]
     }
   },
+  "1149": {
+    "ECLI:BE:CASS:2025:ARR.20250612.1F.2": {
+      "court": "CASS",
+      "date": "2025-06-12",
+      "roleNumber": "C.24.0273.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Le Code bruxellois du logement prévoit que le bien loué doit répondre aux exigences élémentaires de sécurité, de salubrité et d'équipement des logements et que, si les conditions ne sont pas remplies, le preneur a le choix, lorsque la non-conformité ne lui est pas imputable, soit d'exiger l'exécution des travaux nécessaires pour mettre le bien loué en conformité aux exigences, soit de demander la résolution du contrat avec dommages et intérêts; lorsque le preneur n'opte pas pour l'exécution de travaux, il n'a droit à des dommages et intérêts que s'il subit un préjudice qui n'est pas réparé par la résolution."
+      ],
+      "abstractNL": [
+        "De Brusselse Huisvestingscode bepaalt dat het verhuurde goed moet beantwoorden aan de elementaire vereisten van veiligheid, gezondheid en uitrusting van woningen en dat, indien niet aan die voorwaarden is voldaan, de huurder, wanneer de niet-naleving niet aan hem toe te schrijven is, de keuze heeft om ofwel de uitvoering te eisen van de werken die noodzakelijk zijn om het verhuurde goed in overeenstemming te brengen met de vereisten, ofwel de ontbinding van de huurovereenkomst te vragen met schadevergoeding; wanneer de huurder niet voor de uitvoering van de werken kiest, heeft hij enkel recht op een schadevergoeding indien hij een nadeel lijdt dat niet door de ontbinding wordt hersteld."
+      ]
+    }
+  },
   "1156": {
     "ECLI:BE:CASS:2025:ARR.20250530.1N.9": {
       "court": "CASS",
@@ -11503,6 +11519,22 @@
       ],
       "abstractNL": [
         "De verbindende kracht van een overeenkomst wordt niet miskend wanneer de rechter aan de overeenkomst de gevolgen toekent die deze volgens zijn uitleg ervan wettig tussen de partijen heeft (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1165": {
+    "ECLI:BE:CASS:2025:ARR.20250613.1N.6": {
+      "court": "CASS",
+      "date": "2025-06-13",
+      "roleNumber": "C.23.0496.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "Les effets internes d'un contrat, c'est-à-dire les droits et obligations qui en résultent, valent uniquement entre les parties et non à l'égard des tiers; il s'ensuit qu'un tiers ne peut être contraint, en vertu d'une transaction conclue entre d'autres parties, de respecter les agréments qui y figurent et les obligations qui en découlent."
+      ],
+      "abstractNL": [
+        "De interne gevolgen van een contract, dit zijn de rechten en verplichtingen die eruit voortspruiten, gelden alleen tussen de partijen en niet ten aanzien van derden; daaruit volgt dat een derde niet op grond van een dading tussen andere partijen kan worden gedwongen om de erin opgenomen erkenningen en de daaruit voortvloeiende verbintenissen na te leven."
       ]
     }
   },
@@ -11658,6 +11690,20 @@
       ],
       "abstractNL": [
         "Morele schade is schade in de zin van artikel 1382 Oud Burgerlijk Wetboek; zij bestaat uit pijn, smart of enig ander moreel leed; ook een rechtspersoon kan dergelijke schade lijden, in het bijzonder wanneer diens aanzien wordt gekrenkt; een rechtspersoon die tot de behartiging van een collectief belang is opgericht, lijdt evenwel geen morele schade door de loutere schending van het betreffende collectief belang (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250623.3F.3": {
+      "court": "CASS",
+      "date": "2025-06-23",
+      "roleNumber": "C.25.0023.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Le dommage matériel que subit la victime à la suite d'une incapacité permanente de travail consiste en une diminution de sa valeur économique sur le marché du travail, dont la nécessité de fournir des efforts accrus constitue une manifestation; il n'est pas légalement justifié d'indemniser distinctement les efforts accrus et la diminution de la valeur économique sur le marché du travail (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De materiële schade die het slachtoffer lijdt wegens blijvende arbeidsgeschiktheid bestaat in de vermindering van zijn economische waarde op de arbeidsmarkt, waarvan de noodzaak om zich harder te moeten inspannen een uiting vormt; het toekennen van een onderscheiden vergoeding voor de verhoogde inspanningen en voor de vermindering van de waarde op de arbeidsmarkt is niet naar recht verantwoord (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -13492,6 +13538,36 @@
       "abstractNL": [
         "De afschaffing van een erfdienstbaarheid kan niet worden bevolen zolang de erfdienstbaarheid nut blijft hebben voor het heersende erf, ook al houdt dit geen verband met de reden waarom de erfdienstbaarheid werd gevestigd."
       ]
+    }
+  },
+  "577-2": {
+    "ECLI:BE:CASS:2025:ARR.20250619.1F.2": {
+      "court": "CASS",
+      "date": "2025-06-19",
+      "roleNumber": "C.21.0292.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Le paiement par l'un des copropriétaires des charges de la propriété au-delà de sa part fait naître, non une créance de valeur, mais une créance de somme au profit de ce copropriétaire à l'égard des autres."
+      ],
+      "abstractNL": [
+        "De betaling door een van de mede-eigenaars van de lasten van de eigendom die zijn aandeel te boven gaat, doet geen waardenschuld maar een sommenschuld ontstaan in het voordeel van die mede-eigenaar ten opzichte van de andere mede-eigenaars."
+      ]
+    }
+  },
+  "2262bis": {
+    "ECLI:BE:CASS:2026:ARR.20260211.2F.3": {
+      "court": "CASS",
+      "date": "2026-02-11",
+      "roleNumber": "P.25.1261.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_34.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 95 de la loi du 4 avril 2014 relative aux assurances, la subrogation légale dont bénéficie l'assureur n'est pas la subrogation dans l'action propre de la personne lésée contre l'assuré mais celle dans les droits et actions de l'assuré contre les tiers responsables du dommage; il s'ensuit que le délai de prescription de l'action civile exercée par l'assureur, partie civile, contre les prévenus n'est pas régi par l'article 88, § 2, de la loi précitée mais par les articles 2262bis du Code civil et 26 du titre préliminaire du Code de procédure pénale (1). (1) O. Michiels et G. Falque, « Développements récents en matière d'action civile », in L'action civile devant les juridiction pénales, Larcier-Intersientia, 2025, pp. 11 sv."
+      ],
+      "abstractNL": null
     }
   }
 }

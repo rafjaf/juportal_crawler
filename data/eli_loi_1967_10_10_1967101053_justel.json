@@ -6129,12 +6129,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3015.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3015.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_24.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/25/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/25/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_17.xml"
       ],
       "abstractFR": [
         "Dès lors que la prononciation d'une mesure de suspension d'un magistrat de ses fonctions par mesure d'ordre pendant la durée des poursuites et jusqu'à la décision finale se heurte à la présomption d'innocence, elle ne peut être prononcée que si l'objet de l'instruction pénale ou disciplinaire concerne des faits graves et que le bon fonctionnement du service s'oppose à ce que l'intéressé continue à exercer ses fonctions. La mesure doit aussi être appréciée en fonction de la confiance que le justiciable doit pouvoir avoir en celui qui est chargé de la fonction juridictionnelle et qui doit être au-dessus de tout soupçon (1). (1) Voir concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Aangezien de uitspraak van een maatregel tot schorsing van een magistraat uit zijn ambt op grond van een ordemaatregel voor de duur van de vervolging en tot de eindbeslissing in strijd is met het vermoeden van onschuld, kan ze enkel worden uitgesproken indien het straf- of tuchtonderzoek zwaarwichtige feiten betreft en de goede werking van de dienst zich ertegen verzet dat de betrokkene zijn ambt blijft uitoefenen; de maatregel moet ook worden beoordeeld op grond van het vertrouwen dat de rechtzoekende moet kunnen stellen in degene die met de rechtsprekende functie is belast en die boven elke verdenking verheven moet zijn (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2009:ARR.20091124.1": {
       "court": "CASS",
@@ -13401,6 +13404,20 @@
       "abstractNL": [
         "Bij ontstentenis van een overgangsbepaling in de wet van 19 juli 1985 tot instelling van kamers met één raadsheer in de hoven van beroep, is art. 109bis Gerechtelijk Wetboek, dat in dat wetboek werd ingevoegd bij art. 6 van voornoemde wet tot regeling van de toewijzing van de zaken aan de kamers samengesteld uit één of drie raadsheren, onmiddellijk van toepassing op de geschillen waarin onder vigeur van de oude wet hoger beroep is ingesteld."
       ]
+    }
+  },
+  "143quater": {
+    "ECLI:BE:CASS:2026:ARR.20260304.2F.9": {
+      "court": "CASS",
+      "date": "2026-03-04",
+      "roleNumber": "P.25.1568.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_41.xml"
+      ],
+      "abstractFR": [
+        "Les directives de politique criminelle arrêtées par le ministre de la Justice, après avis du collège des procureurs généraux en vertu de l'article 143quater du Code judiciaire, peuvent contenir des modalités et critères généraux pour l'exécution de la politique de recherche et de poursuite, mais elles ne peuvent conduire à la neutralisation d'une loi ni impliquer l'exercice, par le Pouvoir exécutif, d'un droit d'injonction négative individuelle (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   }
 }

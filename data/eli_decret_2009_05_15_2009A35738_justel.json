@@ -1167,5 +1167,19 @@
         "De rechter die oordeelt dat een beklaagde een verweermiddel met betrekking tot de herstelvordering niet aannemelijk maakt, miskent hierdoor niet het vermoeden van onschuld, noch de regels met betrekking tot de bewijslast."
       ]
     }
+  },
+  "6.2.3": {
+    "ECLI:BE:CASS:2026:ARR.20260317.2N.13": {
+      "court": "CASS",
+      "date": "2026-03-17",
+      "roleNumber": "P.25.0612.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_44.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De loutere omstandigheid dat na de vaststelling van een stedenbouwkundig misdrijf de vermoedelijke overtreder niet werd aangemaand om de nodige maatregelen te nemen zoals bedoeld in artikel 6.2.3, § 2, Vlaamse Codex Ruimtelijke Ordening, leidt niet tot de onontvankelijkheid van de strafvordering of van de herstelvordering; dat de verbalisanten ruimtelijke ordening vóór het instellen van de strafvordering te kennen hadden gegeven toepassing te willen maken van die bepaling, doet daaraan geen afbreuk."
+      ]
+    }
   }
 }
