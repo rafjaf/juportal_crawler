@@ -1024,6 +1024,20 @@
         "Conformément à l'article XX.173, § 1er, alinéa 1er, du Code de droit économique, si le failli est une personne physique, il sera libéré envers les créanciers, par l'effet de l'effacement, du solde des dettes; l'article I.23, 22° (1), de ce code définit le solde des dettes comme les dettes demeurant impayées à la fin de la procédure d'insolvabilité; les dettes dont le failli est libéré par l'effacement sont celles qui existent au jour de l'ouverture de la faillite; la naissance de la dette n'est pas soumise à la condition qu'elle soit constatée dans un jugement ou que la créance soit exigible (2). (1) Et non « l'article 1.22.22° » indiqué dans l'arrêt. (2) Voir: - quant à la caution: Cass. 24 juin 2021, RG C.20.0073.F, ECLI:BE:CASS:2021:ARR.20210624.1F.6, Pas. 2021, n° 475: « (…) si le droit de recours de la caution à l'égard du débiteur principal ne devient, en règle, exigible que lorsqu'elle satisfait à l'obligation de ce dernier, ce droit existe dès la naissance de l'engagement de la caution. Il en résulte que le droit de recours né d'un engagement antérieur à la déclaration de faillite du débiteur principal ne peut plus être exercé contre ce dernier déclaré excusable, lors même que l'exécution par la caution de son engagement est postérieure à la déclaration de faillite »; - quant à l'exécution provisoire du jugement: Cass. 18 mars 2021, RG C.20.0304.F, ECLI:BE:CASS:2021:ARR.20210318.1F.4, Pas. 2021, n° 208: « En vertu de l'article 1398, alinéa 2, du Code judiciaire, l'exécution provisoire du jugement n'a lieu qu'aux risques et périls de la partie qui la poursuit ; il en résulte que l'obligation, pour cette partie de restituer les sommes obtenues naît de l'exécution mais que cette obligation ne deviendra exigible que par la réformation du jugement ». N.B.: La demanderesse n'a pas soutenu que l'effacement prévu par cette disposition ne serait pas applicable aux dettes nées d'une infraction.(MNB)"
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20230515.3F.4": {
+      "court": "CASS",
+      "date": "2023-05-15",
+      "roleNumber": "C.22.0415.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le privilège du bailleur sur tout ce qui garnit la maison louée, établi par l'article 20, 1°, de la loi hypothécaire du 16 décembre 1851, est une sûreté réelle au sens de l'article I.23, 14°, du Code de droit économique (1). (1) Voir. les concl. du MP."
+      ],
+      "abstractNL": [
+        "Het voorrecht van de verhuurder op alles wat de verhuurde woning stoffeert, vastgelegd in artikel 20, 1°, Hypotheekwet, is een zakelijke zekerheid in de zin van artikel I.23, 14°, WER (1). (1) Zie concl. OM."
+      ]
     }
   },
   "II.3": {
@@ -1221,9 +1235,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_49.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_49.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/03/15/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/03/15/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 489bis, 4°, du Code pénal punit les personnes visées à l'article 489 du même Code qui, dans l'intention de retarder la déclaration de la faillite, ont omis de faire l'aveu de la faillite dans le délai prescrit par l'article 9 de la loi du 8 août 1997 sur les faillites, actuellement par l'article XX.102 du Code de droit économique; le juge peut déduire l'intention de retarder la déclaration de la faillite du fait qu'un administrateur, en négligeant d'avouer celle-ci, laisse les dettes de la société s'accumuler alors qu'il n'y a aucun espoir d'améliorer sa situation financière (1). (1) Cass. 9 janvier 2018, RG P.17.0856.N, Pas. 2018, n° 17."
+      ],
       "abstractNL": [
         "Artikel 489bis, 4°, Strafwetboek bestraft de personen bedoeld in artikel 489 van dat wetboek die, met het oogmerk om de faillietverklaring uit te stellen, hebben verzuimd binnen de bij artikel 9 Faillissementswet, thans artikel XX.102 Wetboek economisch recht, bepaalde termijn aangifte te doen van het faillissement; de rechter kan het bijzonder opzet om de faillietverklaring uit te stellen afleiden uit het feit dat een bestuurder, door de niet-aangifte van het faillissement van de vennootschap, de schulden van die vennootschap laat oplopen terwijl er geen hoop bestaat op een verbetering van haar financiële toestand (1). (1) Cass. 9 januari 2018, AR P.17.0856.N, AC 2018, nr. 17."
       ]

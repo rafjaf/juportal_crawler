@@ -1703,12 +1703,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_560.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_560.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/15/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/15/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_8.xml"
       ],
       "abstractFR": [
-        "Le privilège du bailleur sur tout ce qui garnit la maison louée, établi par l'article 20, 1°, de la loi hypothécaire du 16 décembre 1851, est une sûreté réelle au sens de l'article I.22, 14°, du Code de droit économique (1). (1) Voir. les concl. du MP."
+        "Le privilège du bailleur sur tout ce qui garnit la maison louée, établi par l'article 20, 1°, de la loi hypothécaire du 16 décembre 1851, est une sûreté réelle au sens de l'article I.22, 14°, du Code de droit économique (1). (1) Voir. les concl. du MP.",
+        "Le privilège du bailleur sur tout ce qui garnit la maison louée, établi par l'article 20, 1°, de la loi hypothécaire du 16 décembre 1851, est une sûreté réelle au sens de l'article I.23, 14°, du Code de droit économique (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het voorrecht van de verhuurder op alles wat de verhuurde woning stoffeert, vastgelegd in artikel 20, 1°, Hypotheekwet, is een zakelijke zekerheid in de zin van artikel I.23, 14°, WER (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2000:ARR.20000928.5": {
       "court": "CASS",
