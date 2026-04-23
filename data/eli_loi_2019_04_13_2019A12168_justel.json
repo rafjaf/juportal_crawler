@@ -487,12 +487,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_597.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_597.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/25/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/25/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_10.xml"
       ],
       "abstractFR": [
         "La foi due à un acte est le respect que l'on doit attacher à ce qui y est constaté par écrit; elle est étrangère à l'appréciation de l'exactitude ou de la fidélité de la traduction d'un acte rédigé dans une langue autre que celle de la procédure."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De bewijskracht van een akte is het respect is dat men moet hebben voor wat bij geschrift is vastgesteld; ze houdt geen verband met de beoordeling van de juistheid of de getrouwheid van de vertaling van een akte die in een andere taal dan die van de rechtspleging is opgemaakt."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230904.3N.2": {
       "court": "CASS",
@@ -632,12 +635,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_597.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_597.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/25/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/25/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_10.xml"
       ],
       "abstractFR": [
         "La foi due à un acte est le respect que l'on doit attacher à ce qui y est constaté par écrit; elle est étrangère à l'appréciation de l'exactitude ou de la fidélité de la traduction d'un acte rédigé dans une langue autre que celle de la procédure."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De bewijskracht van een akte is het respect is dat men moet hebben voor wat bij geschrift is vastgesteld; ze houdt geen verband met de beoordeling van de juistheid of de getrouwheid van de vertaling van een akte die in een andere taal dan die van de rechtspleging is opgemaakt."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230613.2N.22": {
       "court": "CASS",
