@@ -16072,11 +16072,24 @@
       "date": "2026-03-17",
       "roleNumber": "P.26.0068.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_48.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_48.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_24.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
         "Indien de beklaagde in een regelmatig ingediende conclusie uitdrukkelijk heeft gewezen op het disproportioneel karakter van een straf in de zin van artikel 7, § 2, tweede lid, Strafwetboek, alsook op ongewenste neveneffecten als bedoeld door artikel 7, § 2, derde lid, Strafwetboek, moet uit de rechterlijke beslissing blijken dat de rechter die aanvoeringen bij zijn beoordeling heeft betrokken, alsook waarom ze niet van aard waren om anders te oordelen; die motiveringsverplichting vloeit in dat geval voort uit artikel 149 Grondwet; het is daarbij evenwel noodzakelijk dat de beklaagde uitdrukkelijk aangeeft dat de door hem aangevoerde gegevens ongewenste neveneffecten zijn als bedoeld door artikel 7, § 2, derde lid, Strafwetboek."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260317.2N.11": {
+      "court": "CASS",
+      "date": "2026-03-17",
+      "roleNumber": "P.26.0246.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_26.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De strafuitvoeringsrechtbank moet niet antwoorden op een op de rechtszitting ontwikkeld verweer over de niet-oproeping van de slachtoffers, waarbij de veroordeelde geen belang heeft."
       ]
     }
   },

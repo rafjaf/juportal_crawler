@@ -101,6 +101,18 @@
       "abstractNL": [
         "Hoewel het voor de vrijstelling van de onroerende voorheffing niet vereist wordt dat de bestemming van de onroerende goederen of delen ervan voor het openbaar uitoefenen van een eredienst rechtstreeks zou zijn, moet die bestemming toch noodzakelijk zijn in die zin dat de eredienst niet kan worden uitgeoefend bij gebrek aan die bestemming (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260319.1N.9": {
+      "court": "CASS",
+      "date": "2026-03-19",
+      "roleNumber": "F.24.0086.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_40.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De onroerende goederen die door een erkende woonmaatschappij als sociale woningen worden verhuurd, komen niet in aanmerking voor een vrijstelling van de onroerende voorheffing in de zin van artikel 2.1.6.0.1, eerste lid, 1°, VCF (1). (1) Zie concl. OM."
+      ]
     }
   },
   "2.8.6.0.3": {
@@ -223,7 +235,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_8.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/20/sitemap_7.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/12/sitemap_14.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_20.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_20.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_3.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison des articles 2.2.2.0.1, § 1er, et 2.2.2.0.1, § 2, alinéa 1er, première phrase, du Code flamand de la fiscalité que lorsqu'un véhicule mentionné à l'article 2.2.1.0.1 a été immatriculé au répertoire de la Direction générale Mobilité et Sécurité routière, la personne physique ou la personne morale qui est mentionnée sur ce certificat d'immatriculation doit être considérée comme celle qui emploie ce véhicule pour son propre usage ou l'exploite au sens de l'article 2.2.2.0.1, § 1er, et qu'elle est donc le contribuable ; il ne suit ni du libellé de ces dispositions légales et de leurs travaux préparatoires ni d'aucune autre disposition légale que cette règle ne s'applique pas lorsque il est fait usage d'éléments d'identité volés lors de l'immatriculation d'un véhicule au répertoire de la Direction générale Mobilité et Sécurité routière."
@@ -581,6 +594,20 @@
       ],
       "abstractNL": [
         "Voor zover uitsluitend dezelfde belastingelementen of een deel daarvan worden belast op naam van dezelfde belastingschuldige, belet artikel artikel 3.7.0.0.2, § 2, VCF niet dat na de vernietiging van de initiële aanslag voor verschillende aanslagjaren en alle onroerende goederen samen, de aanslag, die binnen de termijn van zes maanden wordt gevestigd, in meerdere kohierartikelen wordt opgesplitst, waarbij één aanslag per aanslagjaar en per onroerend goed wordt ingekohierd."
+      ]
+    }
+  },
+  "2.1.4.0.1": {
+    "ECLI:BE:CASS:2026:ARR.20260319.1N.9": {
+      "court": "CASS",
+      "date": "2026-03-19",
+      "roleNumber": "F.24.0086.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_40.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De onroerende goederen die door een erkende woonmaatschappij als sociale woningen worden verhuurd, komen niet in aanmerking voor een vrijstelling van de onroerende voorheffing in de zin van artikel 2.1.6.0.1, eerste lid, 1°, VCF (1). (1) Zie concl. OM."
       ]
     }
   }

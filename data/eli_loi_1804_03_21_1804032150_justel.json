@@ -8941,6 +8941,18 @@
         "L'article 301 du Code civil, qui prévoit qu'une pension alimentaire peut être accordée à l'époux, qui a obtenu le divorce, sur les biens de l'autre époux, est sans application, lorsque le juge, saisi d'une action principale et d'une action reconventionnelle en divorce, admet le divorce aux torts de chacun des époux."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.5": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.19.0617.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_35.xml"
+      ],
+      "abstractFR": [
+        "Les articles 6 et 9 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, dans l'interprétation qu'en donne la Cour européenne des droits de l'homme, 19 de la Constitution, 14 et 18 du Pacte international relatif aux droits civils et politiques et le principe général du droit de l'impartialité du juge n'interdisent pas en soi au juge de considérer que des pratiques religieuses excessives et intolérantes constituent une faute grave ayant rendu impossible la poursuite de la vie commune (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "302": {
@@ -11388,6 +11400,20 @@
       ]
     }
   },
+  "970": {
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.2": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.24.0155.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_39.xml"
+      ],
+      "abstractFR": [
+        "L'apposition par l'auteur d'un testament olographe de sa signature sur celui-ci atteste par elle-même qu'il est bien l'expression de sa volonté (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    }
+  },
   "1035": {
     "ECLI:BE:CASS:2025:ARR.20250519.3N.6": {
       "court": "CASS",
@@ -11464,7 +11490,8 @@
       "date": "2026-03-27",
       "roleNumber": "C.25.0014.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_46.xml"
       ],
       "abstractFR": [
         "La confusion, qui se produit lorsque les qualités de bailleur emphytéotique et d'emphytéote se réunissent dans la même personne, n'a pour effet que de mettre fin, aussi longtemps que sont réunies sur la même tête ces qualités, aux effets de l'emphytéose de la personne en qui s'opère cette réunion ; il suit de la combinaison des articles 1138 et 1583 de l'ancien Code civil, de l'article 18 de la loi du 10 janvier 1824 sur le droit d'emphytéose et de l'article 9 de la loi du 10 janvier 1824 sur le droit de superficie que, lorsque l'emphytéote exerce l'option d'achat portant sur l'immeuble grevé du droit d'emphytéose dont il devient ainsi propriétaire, la confusion qui en résulte n'emporte pas extinction définitive de l'emphytéose, partant n'a pas pour effet de transférer au bailleur emphytéotique initial la propriété des constructions réalisées par l'emphytéote (1). (1) (1) Voir les concl. du MP.",
@@ -11826,7 +11853,8 @@
       "date": "2026-03-27",
       "roleNumber": "C.25.0014.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_46.xml"
       ],
       "abstractFR": [
         "La confusion, qui se produit lorsque les qualités de bailleur emphytéotique et d'emphytéote se réunissent dans la même personne, n'a pour effet que de mettre fin, aussi longtemps que sont réunies sur la même tête ces qualités, aux effets de l'emphytéose de la personne en qui s'opère cette réunion ; il suit de la combinaison des articles 1138 et 1583 de l'ancien Code civil, de l'article 18 de la loi du 10 janvier 1824 sur le droit d'emphytéose et de l'article 9 de la loi du 10 janvier 1824 sur le droit de superficie que, lorsque l'emphytéote exerce l'option d'achat portant sur l'immeuble grevé du droit d'emphytéose dont il devient ainsi propriétaire, la confusion qui en résulte n'emporte pas extinction définitive de l'emphytéose, partant n'a pas pour effet de transférer au bailleur emphytéotique initial la propriété des constructions réalisées par l'emphytéote (1). (1) (1) Voir les concl. du MP.",
@@ -11913,6 +11941,38 @@
         "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
         "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
       ]
+    }
+  },
+  "2272": {
+    "ECLI:BE:CASS:2021:ARR.20211029.1F.3": {
+      "court": "CASS",
+      "date": "2021-10-29",
+      "roleNumber": "C.21.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 2272 de l'ancien Code civil, l'action des marchands pour les marchandises qu'ils vendent à des particuliers non marchands se prescrit par un an; l'application de cette courte prescription, qui est fondée sur une présomption de paiement, suppose que l'existence de la créance ne soit pas constatée par un écrit.",
+        "Si l'existence de la créance est constatée par un écrit et qu'elle soit payable par année ou à des termes périodiques plus courts que, conformément à l'article 2277 de l'ancien Code civil, les arrérages s'en prescriront par cinq ans (1). (1) Voir Cass. 8 janvier 2015, RG C.14.0268.F, Pas. 2015, n° 16."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 2272 Oud Burgerlijk Wetboek verjaart de rechtsvordering van kooplieden, wegens de koopwaren die zij verkopen aan personen die geen koopman zijn, door verloop van een jaar; de toepassing van die korte verjaring, die steunt op een vermoeden van betaling, veronderstelt dat het bestaan van de schuldvordering niet is vastgesteld in een geschrift.",
+        "Wanneer de schuldvordering is vastgesteld in een geschrift en betaalbaar is bij het jaar of bij kortere termijnen, zullen de achterstallige schulden overeenkomstig artikel 2277 Burgerlijk Wetboek verjaren door verloop van vijf jaar (1). (1) Zie Cass. 8 januari 2015, AR C.14.0268.F, AC 2015, nr. 16."
+      ]
+    }
+  },
+  "2273": {
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.1": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.24.0122.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1728quater, § 1er, et 2273, alinéa 2, de l'ancien Code civil ne portent pas préjudice au droit du preneur de demander en justice le remboursement des montants échus et payés au cours des cinq années qui précèdent sa demande, sans faire précéder celle-ci d'une lettre recommandée à la poste (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "2777": {
@@ -13596,6 +13656,20 @@
       ],
       "abstractFR": [
         "Conformément à l'article 95 de la loi du 4 avril 2014 relative aux assurances, la subrogation légale dont bénéficie l'assureur n'est pas la subrogation dans l'action propre de la personne lésée contre l'assuré mais celle dans les droits et actions de l'assuré contre les tiers responsables du dommage; il s'ensuit que le délai de prescription de l'action civile exercée par l'assureur, partie civile, contre les prévenus n'est pas régi par l'article 88, § 2, de la loi précitée mais par les articles 2262bis du Code civil et 26 du titre préliminaire du Code de procédure pénale (1). (1) O. Michiels et G. Falque, « Développements récents en matière d'action civile », in L'action civile devant les juridiction pénales, Larcier-Intersientia, 2025, pp. 11 sv."
+      ],
+      "abstractNL": null
+    }
+  },
+  "1728quater": {
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.1": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.24.0122.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1728quater, § 1er, et 2273, alinéa 2, de l'ancien Code civil ne portent pas préjudice au droit du preneur de demander en justice le remboursement des montants échus et payés au cours des cinq années qui précèdent sa demande, sans faire précéder celle-ci d'une lettre recommandée à la poste (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
     }

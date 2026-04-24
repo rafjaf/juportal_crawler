@@ -740,13 +740,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3151.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3151.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/16/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/16/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_21.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 425, § 1er, du Code d'instruction criminelle, la déclaration de pourvoi formée pour l'inculpé contre l'arrêt de la chambre des mises en accusation ordonnant son internement doit être faite et signée par un avocat titulaire d'une attestation de formation à la procédure en cassation (1). (1) Cass. 5 novembre 2019, RG P.19.0901.N, Pas. 2019, n° 568."
       ],
       "abstractNL": [
-        "Vertaling nog niet beschikbaar"
+        "Vertaling nog niet beschikbaar",
+        "Krachtens artikel 425, § 1, Wetboek van Strafvordering moet de verklaring van het voor de inverdenkinggestelde ingestelde cassatieberoep tegen het arrest van de kamer van inbeschuldigingstelling dat zijn internering beveelt, worden opgemaakt en ondertekend door een advocaat die houder is van het getuigschrift van een opleiding in cassatieprocedures (1). (1) Cass. 5 november 2019, AR P.19.0901.N, AC 2019, nr. 568."
       ]
     },
     "ECLI:BE:CASS:2023:ARR.20230321.2N.16": {
@@ -2475,12 +2477,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3093.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3093.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/16/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/16/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_17.xml"
       ],
       "abstractFR": [
         "Il résulte de l'article 78 de la loi du 5 mai 2014 relative à l'internement que les décisions qui ordonnent le placement de l'interné dans un établissement de défense sociale et, dans l'attente d'une place au sein de ce dernier, son placement au sein de la section de défense sociale d'une prison, ne sont pas susceptibles d'un pourvoi en cassation (1). (1) Cass. 17 juillet 2019, RG P.19.0660.N, Pas. 2019, n° 419."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit artikel 78 Interneringswet volgt dat de beslissingen die de plaatsing van de geïnterneerde persoon in een inrichting tot bescherming van de maatschappij en, in afwachting van een plaats in deze inrichting, zijn plaatsing in de afdeling tot bescherming van de maatschappij van een gevangenis bevelen, niet voor cassatieberoep vatbaar zijn (1). (1) Cass. 17 juli 2019, AR P.19.0660.N, AC 2019, nr. 419."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200218.2N.11": {
       "court": "CASS",
