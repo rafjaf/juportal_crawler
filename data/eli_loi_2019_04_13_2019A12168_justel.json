@@ -52,9 +52,13 @@
       "roleNumber": "C.24.0124.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_47.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_11.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le respect de l'obligation de collaboration de toutes les parties à l'administration de la preuve n'implique pas que le juge soit tenu d'ordonner les mesures d'instruction sollicitées par la partie demanderesse, dès que cette partie soutient que la partie adverse dispose d'informations non communiquées, potentiellement pertinentes pour elle.",
+        "Il ne résulte pas de la simple circonstance qu'une partie défenderesse invoque des faits afin d'affaiblir la thèse de la partie demanderesse que le risque de la preuve soit transféré à la partie défenderesse ; ce n'est que lorsque la partie demanderesse a prouvé les faits qui fondent sa prétention et ainsi satisfait à la charge de la preuve qui lui incombe que le risque de la preuve des faits invoqués par la partie défenderesse à l'appui de son allégation qu'elle est libérée repose sur elle."
+      ],
       "abstractNL": [
         "De eerbiediging van de medewerkingsplicht voor alle partijen aan de bewijsvoering houdt niet in dat de rechter verplicht is om de door de eisende partij gevraagde onderzoeksmaatregelen te bevelen, zodra deze partij voorhoudt dat de tegenpartij over voor haar mogelijk relevante, niet-meegedeelde informatie beschikt.",
         "De loutere omstandigheid dat een verwerende partij feiten aanvoert om de stelling van de eisende partij te ontkrachten, heeft niet tot gevolg dat het bewijsrisico naar de verwerende partij verschuift; pas wanneer de eisende partij de feiten heeft bewezen die ten grondslag liggen aan haar aanspraak en aldus aan haar bewijslast heeft voldaan, komt het bewijsrisico van de feiten die de verwerende partij aanvoert ter ondersteuning van haar bewering dat zij bevrijd is, bij haar te liggen."
@@ -557,6 +561,20 @@
       "abstractNL": [
         "De rechter miskent de bewijskracht van een akte indien hij aan een geschrift, waarnaar hij uitdrukkelijk verwijst, een verklaring toeschrijft die dit geschrift niet bevat dan wel ontkent dat dit geschrift een verklaring bevat, die er wel in voorkomt, kortom wanneer hij het geschrift doet liegen (1); de enkele omstandigheid dat de rechter uit een stuk dat hij vermeldt niet hetzelfde gevolg afleidt als een partij, houdt echter nog geen miskenning van de bewijskracht van dat stuk in. (1) Cass. 1 december 2020, AR P.20.0746.N, AC 2020, nr. 735; Cass. 27 oktober 2020, AR P.20.0565.N, AC 2020, nr. 659, T. Strafr. 2021, 35. Zie J. VERBIST en Ph. TRAEST, “Cassatiemiddelen in strafzaken”, in Cassatie in strafzaken, Intersentia, 2014, 99-100."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230607.2F.11": {
+      "court": "CASS",
+      "date": "2023-06-07",
+      "roleNumber": "P.23.0056.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le grief fait à la décision attaquée de se référer à une acte inexistant est étranger à la violation de la foi due aux actes (1). (1) En effet, « un grief de violation de la foi due à un acte consiste à désigner une pièce à laquelle la décision attaquée se réfère expressément et à reprocher à celle-ci, soit d'attribuer à cette pièce une affirmation qu'elle ne comporte pas, soit de déclarer qu'elle ne contient pas une mention qui y figure, en d'autres termes de donner de cette pièce une interprétation inconciliable avec ses termes » (Cass. 23 septembre 2015, RG P.15.0576.F, Pas. 2015, n° 548)."
+      ],
+      "abstractNL": [
+        "De grief die de bestreden beslissing verwijt naar een onbestaande akte te verwijzen, houdt geen verband met de miskenning van de bewijskracht van de akten (1). (1) Immers, “een grief van miskenning van de bewijskracht van een akte bestaat erin een stuk aan te wijzen waarnaar de bestreden beslissing uitdrukkelijk verwijst en deze te verwijten dat ze ofwel aan dat stuk een bewering toeschrijft die niet erin voorkomt, ofwel verklaart dat het stuk een vermelding niet bevat die wel erin voorkomt, met andere woorden dat het van dat stuk een uitlegging geeft die onverenigbaar is met de bewoordingen ervan” (Cass. 23 september 2015, AR P.15.0576.F, AC 2015, nr. 548)."
+      ]
     }
   },
   "8.18": {
@@ -671,6 +689,20 @@
       ],
       "abstractNL": [
         "Het onderzoek van een grief die een miskenning van de bewijskracht van de akten aanvoert, houdt een vergelijking in tussen het stuk dat als referentie dient en dat wat de bestreden beslissing hierover zegt; een dergelijk onderzoek veronderstelt dat de te vergelijken stukken in dezelfde taal zijn opgemaakt, namelijk die van de rechtspleging, of dat, op zijn minst, het stuk waarvan de bewijskracht zou zijn miskend, indien het in een andere taal is opgemaakt, vergezeld is van een beëdigde vertaling (1). (1) Zie Cass. 23 november 2010, AR P.10.0583.N, AC 2010, nr. 688."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20230607.2F.11": {
+      "court": "CASS",
+      "date": "2023-06-07",
+      "roleNumber": "P.23.0056.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le grief fait à la décision attaquée de se référer à une acte inexistant est étranger à la violation de la foi due aux actes (1). (1) En effet, « un grief de violation de la foi due à un acte consiste à désigner une pièce à laquelle la décision attaquée se réfère expressément et à reprocher à celle-ci, soit d'attribuer à cette pièce une affirmation qu'elle ne comporte pas, soit de déclarer qu'elle ne contient pas une mention qui y figure, en d'autres termes de donner de cette pièce une interprétation inconciliable avec ses termes » (Cass. 23 septembre 2015, RG P.15.0576.F, Pas. 2015, n° 548)."
+      ],
+      "abstractNL": [
+        "De grief die de bestreden beslissing verwijt naar een onbestaande akte te verwijzen, houdt geen verband met de miskenning van de bewijskracht van de akten (1). (1) Immers, “een grief van miskenning van de bewijskracht van een akte bestaat erin een stuk aan te wijzen waarnaar de bestreden beslissing uitdrukkelijk verwijst en deze te verwijten dat ze ofwel aan dat stuk een bewering toeschrijft die niet erin voorkomt, ofwel verklaart dat het stuk een vermelding niet bevat die wel erin voorkomt, met andere woorden dat het van dat stuk een uitlegging geeft die onverenigbaar is met de bewoordingen ervan” (Cass. 23 september 2015, AR P.15.0576.F, AC 2015, nr. 548)."
       ]
     }
   },

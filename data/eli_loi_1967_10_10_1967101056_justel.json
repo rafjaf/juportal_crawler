@@ -5235,9 +5235,12 @@
       "roleNumber": "C.24.0027.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_50.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2249.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2249.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_14.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le jugement statuant sur une demande en distraction n'est pas susceptible d'opposition ou d'appel ; aucun pourvoi en cassation n'est ouvert contre un tel jugement (1) (2). (1) Voir les concl. du MP. (2) Contra : Cass. 21 janvier 2013, RG C.10.0483.F, Pas. 2013, nº 39."
+      ],
       "abstractNL": [
         "Een vonnis dat uitspraak doet over een vordering tot onttrekking is niet vatbaar voor verzet of hoger beroep; er kan tegen dergelijk vonnis cassatieberoep wordt ingesteld (1) (2). (1) Zie concl. OM. (2) Contra: Cass. 21 januari 2013, AR C.10.0483.F, AC 2013, nr. 39."
       ]

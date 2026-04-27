@@ -404,9 +404,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/28/sitemap_31.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_48.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2247.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2247.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_12.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Un sinistre au sens de l'article 89, § 3, de la loi du 4 avril 2014 relative aux assurances est l'événement qui fait naître une prétention sur le patrimoine de l'assureur ; dans le cas d'une demande en responsabilité contractuelle, le sinistre est le manquement contractuel de l'assureur (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Een schadegeval in de zin van artikel 89, §3, Wet Verzekeringen is de gebeurtenis die een aanspraak op het vermogen van de verzekeraar doet ontstaan; bij een vordering op grond van contractuele aansprakelijkheid is het schadegeval de contractuele wanprestatie van de verzekeraar (1). (1) Zie concl. OM."
       ]

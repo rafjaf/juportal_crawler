@@ -8765,7 +8765,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3149.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3149.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/16/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_19.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_19.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_10.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 779 du Code judiciaire, les juges qui rendent la décision doivent avoir assisté à toutes les audiences où la cause a été instruite; cette exigence ne s'applique pas à l'audience où la juridiction d'instruction appelée à statuer sur le maintien de la détention préventive s'est bornée à ajourner l'examen de la cause sans l'instruire ni à celle au cours de laquelle elle s'est limitée à recevoir des conclusions et à reporter la cause (1). (1) Voir Cass. 2 avril 2025, RG P.24.0385.F, ECLI:BE:CASS:2025:ARR.20250402.2F.18, avec concl. MP.",
@@ -33020,11 +33021,15 @@
       "roleNumber": "C.24.0124.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_47.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_11.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge apprécie souverainement si les faits dont une partie offre la preuve testimoniale sont en soi suffisamment précis et pertinents, tel que le requiert l'article 915 du Code judiciaire, sans pouvoir méconnaître à cet égard le droit de principe d'apporter la preuve par témoins (1). (1) Cass. 19 décembre 2016, RG C.15.0032.N, Pas. 2016, n° 734."
+      ],
       "abstractNL": [
-        "De rechter oordeelt op onaantastbare wijze of de feiten waarvan een partij het bewijs door getuigen aanbiedt, op zichzelf voldoende bepaald en ter zake dienend zijn, zoals vereist door artikel 915 Gerechtelijk Wetboek, zonder hierbij evenwel het principieel recht om met getuigen te bewijzen te mogen miskennen (1). (1) Cass. 19 december 2016, AR C.15.0032.N, ECLI:BE:CASS:2016:ARR.20161219.5, AC 2016, nr. 734."
+        "De rechter oordeelt op onaantastbare wijze of de feiten waarvan een partij het bewijs door getuigen aanbiedt, op zichzelf voldoende bepaald en ter zake dienend zijn, zoals vereist door artikel 915 Gerechtelijk Wetboek, zonder hierbij evenwel het principieel recht om met getuigen te bewijzen te mogen miskennen (1). (1) Cass. 19 december 2016, AR C.15.0032.N, ECLI:BE:CASS:2016:ARR.20161219.5, AC 2016, nr. 734.",
+        "De rechter oordeelt op onaantastbare wijze of de feiten waarvan een partij het bewijs door getuigen aanbiedt, op zichzelf voldoende bepaald en ter zake dienend zijn, zoals vereist door artikel 915 Gerechtelijk Wetboek, zonder hierbij evenwel het principieel recht om met getuigen te bewijzen te mogen miskennen (1). (1) Cass. 19 december 2016, AR C.15.0032.N, AC 2016, nr. 734."
       ]
     },
     "ECLI:BE:CASS:2017:ARR.20170106.1": {
@@ -33989,13 +33994,21 @@
       "roleNumber": "C.24.0124.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_47.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2246.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_11.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le droit à la preuve est celui de toute partie au procès de produire les éléments de preuve dont elle dispose elle-même et de demander au juge que les éléments de preuve dont elle ne dispose pas soient recueillis par l'exécution de certaines mesures d'instruction, que le juge apprécie (1). (1) Cass. 9 décembre 2021, RG C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juin 2012, RG C.11.0721.F, Pas. 2012, n° 390 ; Voir Cass. 9 mai 2005, RG S.04.0183.N, Pas. 2005, n° 268 et Cass. 17 novembre 1988, RG 7848, Pas. 1988-1989, n° 160.",
+        "Le droit à la preuve n'est pas un droit illimité et, par conséquent, n'efface pas la liberté d'appréciation du juge (1). (1) Cass. 9 décembre 2021, RG C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juin 2012, RG C.11.0721.F, Pas. 2012, n° 390 ; Voir Cass. 9 mai 2005, RG S.04.0183.N, Pas. 2005, nº 268 et Cass. 17 novembre 1988, RG 7848, Pas. 1988-1989, n° 160.",
+        "Le juge peut refuser d'ordonner une expertise lorsque le demandeur ne fonde sa demande sur aucun élément rendant vraisemblables les faits avancés à l'appui de sa demande ou que cette mesure ne peut être ordonnée de manière utile (1). (1) Voir Cass. 9 décembre 2021, RG C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2."
+      ],
       "abstractNL": [
         "Het recht op bewijs is het recht van elke procespartij om de bewijselementen over te leggen waarover zij zelf beschikt en om aan de rechter te vragen dat de bewijselementen waarover zij niet beschikt, zouden worden verzameld door de uitvoering van bepaalde onderzoeksmaatregelen, waarover de rechter oordeelt (1). (1) Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juni 2012, AR C.11.0721.F, ECLI:BE:CASS:2012:ARR.20120615.3, AC 2012, nr. 390; zie Cass. 9 mei 2005, AR S.04.0183.N, ECLI:BE:CASS:2005:ARR.20050509.23, AC 2005, nr. 268 en Cass. 17 november 1988, AR 7848, ECLI:BE:CASS:1988:ARR.19881117.14, AC 1988-89, nr. 160.",
         "Het recht op bewijs is geen onbeperkt recht en schakelt bijgevolg de beoordelingsvrijheid van de rechter niet uit (1). (1) Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juni 2012, AR C.11.0721.F, ECLI:BE:CASS:2012:ARR.20120615.3, AC 2012, nr. 390; zie Cass. 9 mei 2005, AR S.04.0183.N, ECLI:BE:CASS:2005:ARR.20050509.23, AC 2005, nr. 268 en Cass. 17 november 1988, AR 7848, ECLI:BE:CASS:1988:ARR.19881117.14, AC 1988-89, nr. 160.",
-        "De rechter mag weigeren om een deskundigenonderzoek te bevelen wanneer de eiser zijn vordering tot deskundigenonderzoek op geen enkel gegeven grondt dat de tot staving van zijn vordering aangevoerde feiten aannemelijk kan maken of wanneer er geen dienstige reden bestaat om die maatregel te bevelen (1). (1) Zie Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2"
+        "De rechter mag weigeren om een deskundigenonderzoek te bevelen wanneer de eiser zijn vordering tot deskundigenonderzoek op geen enkel gegeven grondt dat de tot staving van zijn vordering aangevoerde feiten aannemelijk kan maken of wanneer er geen dienstige reden bestaat om die maatregel te bevelen (1). (1) Zie Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2",
+        "Het recht op bewijs is het recht van elke procespartij om de bewijselementen over te leggen waarover zij zelf beschikt en om aan de rechter te vragen dat de bewijselementen waarover zij niet beschikt, zouden worden verzameld door de uitvoering van bepaalde onderzoeksmaatregelen, waarover de rechter oordeelt (1). (1) Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juni 2012, AR C.11.0721.F, AC 2012, nr. 390; zie Cass. 9 mei 2005, AR S.04.0183.N, AC 2005, nr. 268 en Cass. 17 november 1988, AR 7848, AC 1988-89, nr. 160.",
+        "Het recht op bewijs is geen onbeperkt recht en schakelt bijgevolg de beoordelingsvrijheid van de rechter niet uit (1). (1) Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2; Cass. 15 juni 2012, AR C.11.0721.F, AC 2012, nr. 390; zie Cass. 9 mei 2005, AR S.04.0183.N, AC 2005, nr. 268 en Cass. 17 november 1988, AR 7848, AC 1988-89, nr. 160.",
+        "De rechter mag weigeren om een deskundigenonderzoek te bevelen wanneer de eiser zijn vordering tot deskundigenonderzoek op geen enkel gegeven grondt dat de tot staving van zijn vordering aangevoerde feiten aannemelijk kan maken of wanneer er geen dienstige reden bestaat om die maatregel te bevelen (1). (1) Zie Cass. 9 december 2021, AR C.19.0644.N, ECLI:BE:CASS:2021:ARR.20211209.1N.2."
       ]
     },
     "ECLI:BE:CASS:2024:ARR.20240105.1F.5": {
@@ -73063,6 +73076,20 @@
       ],
       "abstractNL": [
         "De wet heeft in straf- en tuchtzaken, bij de uitspraak van het vonnis alleen de aanwezigheid willen voorschrijven, aan de zijde van de kamervoorzitter die het vonnis heeft gewezen, van het openbaar ministerie en niet die van de overige magistraten die uitspraak hebben gedaan (1). (1) Zie concl. O.M. in Pas., 2008, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20250729.VAK.7": {
+      "court": "CASS",
+      "date": "2025-07-29",
+      "roleNumber": "P.25.1049.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/24/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'article 782bis, alinéa 1er, du Code judiciaire prévoit qu'en matière répressive, le jugement est, en principe, prononcé en présence du ministère public et cette disposition est aussi applicable au tribunal de l'application des peines; le jugement qui a été prononcé en audience publique en l'absence du ministère public a donc été rendu en violation de la disposition précitée (1). (1) Cass. 22 juillet 2025, RG P.25.0992.N, ECLI:BE:CASS:2025:ARR.20250722.VAK.4 ; comp. Cass. 10 juin 2025, RG P.25.0702.N, ECLI:BE:CASS:2025:ARR.20250610.2N.14, avec les concl. du MP."
+      ],
+      "abstractNL": [
+        "Uit artikel 782bis, eerste lid, Gerechtelijk Wetboek volgt dat in strafzaken het vonnis in beginsel wordt uitgesproken in aanwezigheid van het openbaar ministerie, en die bepaling is ook van toepassing op de strafuitvoeringsrechtbank; het vonnis dat het werd uitgesproken in openbare rechtszitting in afwezigheid van het openbaar ministerie is dan ook gewezen met schending van de vermelde bepaling (1). (1) Cass. 22 juli 2025, AR P.25.0992.N, ECLI:BE:CASS:2025:ARR.20250722.VAK.4 ; vgl. Cass. 10 juni 2025, AR P.25.0702.N ECLI:BE:CASS:2025:ARR.20250610.2N.14 met concl. OM."
       ]
     }
   },
