@@ -8947,7 +8947,8 @@
       "date": "2026-03-20",
       "roleNumber": "C.19.0617.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_30.xml"
       ],
       "abstractFR": [
         "Les articles 6 et 9 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, dans l'interprétation qu'en donne la Cour européenne des droits de l'homme, 19 de la Constitution, 14 et 18 du Pacte international relatif aux droits civils et politiques et le principe général du droit de l'impartialité du juge n'interdisent pas en soi au juge de considérer que des pratiques religieuses excessives et intolérantes constituent une faute grave ayant rendu impossible la poursuite de la vie commune (1). (1) Voir les concl. du MP."
@@ -11424,7 +11425,8 @@
       "date": "2026-03-20",
       "roleNumber": "C.24.0155.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_39.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_39.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_34.xml"
       ],
       "abstractFR": [
         "L'apposition par l'auteur d'un testament olographe de sa signature sur celui-ci atteste par elle-même qu'il est bien l'expression de sa volonté (1). (1) Voir les concl. du MP."
@@ -11614,6 +11616,24 @@
       ]
     }
   },
+  "1315": {
+    "ECLI:BE:CASS:2019:ARR.20190906.4": {
+      "court": "CASS",
+      "date": "2019-09-06",
+      "roleNumber": "C.19.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il incombe à la partie qui a introduit une demande fondée sur une infraction de prouver que les éléments constitutifs de l'infraction sont réunis, qu'elle est imputable au défendeur et, si celui-ci invoque une cause de justification non dépourvue de tout élément de nature à lui donner crédit, que cette cause de justification n'existe pas (1). (1) Cass. 14 décembre 2001, RG C.98.0469.F, Pas. 2001, n° 705.",
+        "Le défendeur qui, pour contester l'indemnisation qui lui est réclamée, allègue que la victime a commis une faute n'invoque pas une cause de justification; il lui appartient dès lors de rapporter la preuve de cette faute (1). (1) Voir Cass. 18 novembre 1997, RG P.96.0477.N, Pas. 1997, n° 484."
+      ],
+      "abstractNL": [
+        "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705.",
+        "De verweerder die de van hem gevorderde vergoeding betwist, op grond dat de eiser een fout heeft begaan, voert geen verantwoordingsgrond aan; hij moet derhalve het bewijs leveren van die fout (1). (1) Zie Cass. 18 november 1997, AR P.96.0477.N, AC 1997, nr. 484."
+      ]
+    }
+  },
   "1382": {
     "ECLI:BE:CASS:2022:ARR.20220927.2N.6": {
       "court": "CASS",
@@ -11764,6 +11784,22 @@
       ],
       "abstractNL": [
         "De materiële schade die het slachtoffer lijdt wegens blijvende arbeidsgeschiktheid bestaat in de vermindering van zijn economische waarde op de arbeidsmarkt, waarvan de noodzaak om zich harder te moeten inspannen een uiting vormt; het toekennen van een onderscheiden vergoeding voor de verhoogde inspanningen en voor de vermindering van de waarde op de arbeidsmarkt is niet naar recht verantwoord (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2019:ARR.20190906.4": {
+      "court": "CASS",
+      "date": "2019-09-06",
+      "roleNumber": "C.19.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il incombe à la partie qui a introduit une demande fondée sur une infraction de prouver que les éléments constitutifs de l'infraction sont réunis, qu'elle est imputable au défendeur et, si celui-ci invoque une cause de justification non dépourvue de tout élément de nature à lui donner crédit, que cette cause de justification n'existe pas (1). (1) Cass. 14 décembre 2001, RG C.98.0469.F, Pas. 2001, n° 705.",
+        "Le défendeur qui, pour contester l'indemnisation qui lui est réclamée, allègue que la victime a commis une faute n'invoque pas une cause de justification; il lui appartient dès lors de rapporter la preuve de cette faute (1). (1) Voir Cass. 18 novembre 1997, RG P.96.0477.N, Pas. 1997, n° 484."
+      ],
+      "abstractNL": [
+        "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705.",
+        "De verweerder die de van hem gevorderde vergoeding betwist, op grond dat de eiser een fout heeft begaan, voert geen verantwoordingsgrond aan; hij moet derhalve het bewijs leveren van die fout (1). (1) Zie Cass. 18 november 1997, AR P.96.0477.N, AC 1997, nr. 484."
       ]
     }
   },
@@ -11985,7 +12021,8 @@
       "date": "2026-03-20",
       "roleNumber": "C.24.0122.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_31.xml"
       ],
       "abstractFR": [
         "Les articles 1728quater, § 1er, et 2273, alinéa 2, de l'ancien Code civil ne portent pas préjudice au droit du preneur de demander en justice le remboursement des montants échus et payés au cours des cinq années qui précèdent sa demande, sans faire précéder celle-ci d'une lettre recommandée à la poste (1). (1) Voir les concl. du MP."
@@ -13676,6 +13713,20 @@
         "Conformément à l'article 95 de la loi du 4 avril 2014 relative aux assurances, la subrogation légale dont bénéficie l'assureur n'est pas la subrogation dans l'action propre de la personne lésée contre l'assuré mais celle dans les droits et actions de l'assuré contre les tiers responsables du dommage; il s'ensuit que le délai de prescription de l'action civile exercée par l'assureur, partie civile, contre les prévenus n'est pas régi par l'article 88, § 2, de la loi précitée mais par les articles 2262bis du Code civil et 26 du titre préliminaire du Code de procédure pénale (1). (1) O. Michiels et G. Falque, « Développements récents en matière d'action civile », in L'action civile devant les juridiction pénales, Larcier-Intersientia, 2025, pp. 11 sv."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20230608.1F.3": {
+      "court": "CASS",
+      "date": "2023-06-08",
+      "roleNumber": "C.22.0261.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Au sens de l'article 2262bis, § 1er, alinéa 2, de l'ancien Code civil, l'aggravation du dommage consiste dans l'augmentation imprévue du dommage ne s'inscrivant pas dans l'évolution raisonnablement prévisible du dommage initial."
+      ],
+      "abstractNL": [
+        "De verzwaring van de schade in de zin van artikel 2262bis, §1, tweede lid, Oud Burgerlijk Wetboek bestaat in de onvoorziene toename van de schade die niet past binnen de redelijk voorzienbare evolutie van de aanvankelijke schade."
+      ]
     }
   },
   "1728quater": {
@@ -13684,7 +13735,8 @@
       "date": "2026-03-20",
       "roleNumber": "C.24.0122.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_31.xml"
       ],
       "abstractFR": [
         "Les articles 1728quater, § 1er, et 2273, alinéa 2, de l'ancien Code civil ne portent pas préjudice au droit du preneur de demander en justice le remboursement des montants échus et payés au cours des cinq années qui précèdent sa demande, sans faire précéder celle-ci d'une lettre recommandée à la poste (1). (1) Voir les concl. du MP."

@@ -12593,12 +12593,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_638.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_638.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_9.xml"
       ],
       "abstractFR": [
         "L'ordre de préférence imposé par l'article 565, alinéa 2, 1°, 2°, 4° à 8°, du Code judiciaire suppose que les demandes soient pendantes devant des juridictions du même rang. La connexité ne peut exister entre des demandes dont l'une est pendante devant une juridiction appelée à statuer au premier degré et l'autre devant une juridiction appelée à statuer en degré d'appel; en ce cas, les causes doivent demeurer distinctes et être tranchées par leur juge respectif (1). (1) Cass. 20 mars 2015, RG C.14.0298.N, Pas. 2015, n° 210."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De door artikel 565, tweede lid, 1°, 2°, 4° tot 8°, Gerechtelijk Wetboek opgelegde voorrang veronderstelt dat de vorderingen hangende zijn voor rechtscolleges van dezelfde rang; er kan geen sprake zijn van samenhang tussen vorderingen wanneer de ene hangende is voor een rechtscollege dat in eerste aanleg uitspraak moet doen en de andere voor een rechtscollege dat in hoger beroep uitspraak moet doen; in dat geval moeten de zaken gescheiden blijven en door hun respectieve rechter worden berecht (1). (1) Cass. 20 maart 2015, AR C.14.0298.N, AC 2015, nr. 210."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20201204.1N.5": {
       "court": "CASS",
@@ -18104,12 +18107,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_639.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_639.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_10.xml"
       ],
       "abstractFR": [
-        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 202, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411."
+        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 202, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411.",
+        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 2012, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De aanvang van de termijn wordt niet bepaald volgens de bij wet voorgeschreven wijze van kennisgeving, maar volgens de wijze waarop de kennisgeving daadwerkelijk is gebeurd (1). (1) Cass. 19 maart 2012, AR D.11.0003.F, AC 2012, nr. 180; Cass. 17 juni 2011, AR D.10.0013.N, AC 2011, nr. 411."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200728.VAC.1": {
       "court": "CASS",
@@ -18760,6 +18767,24 @@
       ]
     }
   },
+  "870": {
+    "ECLI:BE:CASS:2019:ARR.20190906.4": {
+      "court": "CASS",
+      "date": "2019-09-06",
+      "roleNumber": "C.19.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il incombe à la partie qui a introduit une demande fondée sur une infraction de prouver que les éléments constitutifs de l'infraction sont réunis, qu'elle est imputable au défendeur et, si celui-ci invoque une cause de justification non dépourvue de tout élément de nature à lui donner crédit, que cette cause de justification n'existe pas (1). (1) Cass. 14 décembre 2001, RG C.98.0469.F, Pas. 2001, n° 705.",
+        "Le défendeur qui, pour contester l'indemnisation qui lui est réclamée, allègue que la victime a commis une faute n'invoque pas une cause de justification; il lui appartient dès lors de rapporter la preuve de cette faute (1). (1) Voir Cass. 18 novembre 1997, RG P.96.0477.N, Pas. 1997, n° 484."
+      ],
+      "abstractNL": [
+        "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705.",
+        "De verweerder die de van hem gevorderde vergoeding betwist, op grond dat de eiser een fout heeft begaan, voert geen verantwoordingsgrond aan; hij moet derhalve het bewijs leveren van die fout (1). (1) Zie Cass. 18 november 1997, AR P.96.0477.N, AC 1997, nr. 484."
+      ]
+    }
+  },
   "1032": {
     "ECLI:BE:CASS:2023:ARR.20230511.1F.3": {
       "court": "CASS",
@@ -18832,12 +18857,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_639.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_639.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/15/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_10.xml"
       ],
       "abstractFR": [
-        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 202, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411."
+        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 202, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411.",
+        "Le point de départ du délai est déterminé en fonction non du mode de notification prescrit par la loi mais du mode de notification effectivement mis en œuvre (1). (1) Cass. 19 mars 2012, RG D.11.0003.F, Pas. 2012, n° 180; Cass. 17 juin 2011, RG D.10.0013.N, Pas. 2011, n° 411."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De aanvang van de termijn wordt niet bepaald volgens de bij wet voorgeschreven wijze van kennisgeving, maar volgens de wijze waarop de kennisgeving daadwerkelijk is gebeurd (1). (1) Cass. 19 maart 2012, AR D.11.0003.F, AC 2012, nr. 180; Cass. 17 juni 2011, AR D.10.0013.N, AC 2011, nr. 411."
+      ]
     },
     "ECLI:BE:CASS:2019:ARR.20190214.3": {
       "court": "CASS",

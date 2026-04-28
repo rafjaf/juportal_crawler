@@ -447,12 +447,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1116.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/09/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/12/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/12/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_2.xml"
       ],
       "abstractFR": [
         "La délivrance de l'attestation d'immatriculation prévue par l'article 7, § 2, de l'arrêté royal du 17 mai 2007 indique que les demandeurs sont autorisés à séjourner, fût-ce de manière temporaire et précaire et implique dès lors, en règle, le retrait implicite de l'ordre de quitter le territoire antérieur, avec lequel elle est incompatible (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De afgifte van het attest van immatriculatie, bepaald in artikel 7, § 2, van het koninklijk besluit van 17 mei 2007, wijst erop dat de eisers gemachtigd zijn tot een, zij het tijdelijk en precair, verblijf en houdt bijgevolg de impliciete intrekking in van het eerdere bevel om het grondgebied te verlaten, waarmee het niet verenigbaar is (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200504.3F.13": {
       "court": "CASS",

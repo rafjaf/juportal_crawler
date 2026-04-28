@@ -62229,12 +62229,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_661.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_661.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/14/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/14/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_11.xml"
       ],
       "abstractFR": [
         "Le juge peut légalement considérer que constitue une manœuvre frauduleuse, au sens de l'article 496 du Code pénal, le comportement de l'entrepreneur qui ne s'est pas borné à solliciter le payement de ses factures à l'appui de sa facturation mais a fait croire aux maîtres de l'ouvrage que les montants réclamés devaient servir à acquérir les matériaux et payer les fournisseurs essentiels à la poursuite du chantier, alors qu'il savait que sa société n'avait pas accompli les prestations auxquelles elle était tenue et qu'elle n'était pas en mesure de le faire en raison de sa situation financière catastrophique (1). (1) Voir les concl. « dit en substance », contraires à cet égard, du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De rechter kan wettig oordelen dat het gedrag van de aannemer die zich niet ertoe heeft beperkt de betaling van zijn facturen te vorderen ter ondersteuning van zijn facturering, maar die de opdrachtgevers heeft doen geloven dat de gevorderde bedragen dienden om de bouwstoffen te verwerven en de leveranciers te betalen die van essentieel belang waren voor de voortzetting van de werf, terwijl hij wist dat zijn vennootschap de prestaties waartoe ze zich had verbonden, niet had verricht, en dat ze niet in staat was dit te doen door haar financiële situatie, een listige kunstgreep vormt in de zin van artikel 496 van het Strafwetboek (1). (1) Zie de op dit punt andersluidende concl. “in hoofdzaak” OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220628.2N.27": {
       "court": "CASS",
@@ -69301,12 +69304,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_661.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_661.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/14/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/14/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_11.xml"
       ],
       "abstractFR": [
-        "L'infraction réprimée par l'article 490bis du Code pénal est instantanée; elle peut néanmoins être continuée lorsque, par des agissements successifs punissables en eux-mêmes, l'agent, dans une même intention, persiste à soustraire son patrimoine au gage de ses créanciers (1). (1) Voir Cass. 27 avril 1993, RG 6074, Pas. 2003, n° 202."
+        "L'infraction réprimée par l'article 490bis du Code pénal est instantanée; elle peut néanmoins être continuée lorsque, par des agissements successifs punissables en eux-mêmes, l'agent, dans une même intention, persiste à soustraire son patrimoine au gage de ses créanciers (1). (1) Voir Cass. 27 avril 1993, RG 6074, Pas. 2003, n° 202.",
+        "L'infraction réprimée par l'article 490bis du Code pénal est instantanée; elle peut néanmoins être continuée lorsque, par des agissements successifs punissables en eux-mêmes, l'agent, dans une même intention, persiste à soustraire son patrimoine au gage de ses créanciers (1). (1) Voir Cass. 27 avril 1993, RG 6074, Pas. 1993, n° 202."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het misdrijf dat wordt bestraft door artikel 490bis van het Strafwetboek is een aflopend misdrijf; het kan echter ook een voortgezet misdrijf zijn, wanneer de handelende persoon, door opeenvolgende handelingen die op zich strafbaar zijn, zijn vermogen met hetzelfde oogmerk blijft onttrekken aan het onderpand van zijn schuldeisers (1). (1) Zie Cass. 27 april 1993, AR 6074, AC 1993, nr. 202."
+      ]
     },
     "ECLI:BE:CASS:2018:ARR.20181107.11": {
       "court": "CASS",
