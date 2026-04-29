@@ -5,9 +5,13 @@
       "date": "2025-09-08",
       "roleNumber": "C.24.0162.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_29.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_29.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/28/sitemap_12.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge belge qui est compétent pour connaître d'une demande relative à l'obligation contractuelle qui résulte de la créance gagée l'est également pour connaître de la demande au moyen de laquelle le détenteur du gage poursuit le recouvrement de la créance gagée ; cette créance découle en effet d'une même obligation contractuelle.",
+        "Après notification ou reconnaissance de la mise en gage, le débiteur de la créance gagée n'est pas tenu à une obligation contractuelle de payer la créance gagée qui se distingue de celle qu'il a envers le bailleur de gage."
+      ],
       "abstractNL": [
         "De Belgische rechter die bevoegd is om kennis te nemen van een vordering aangaande de contractuele verbintenis waaruit de verpande schuldvordering voortvloeit, is ook bevoegd om kennis te nemen van de vordering waarmee de pandhouder de verpande schuldvordering invordert; deze schuldvordering vloeit immers voort uit eenzelfde contractuele verbintenis.",
         "De schuldenaar van de verpande schuldvordering, gaat na kennisgeving of erkenning van de verpanding, ten aanzien van de pandhouder geen contractuele verbintenis tot betaling van de verpande schuldvordering aan die zich onderscheidt van zijn contractuele verbintenis ten aanzien van de pandgever."

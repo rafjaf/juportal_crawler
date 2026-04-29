@@ -70,12 +70,17 @@
       "roleNumber": "C.23.0495.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/07/sitemap_5.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_27.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_27.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/28/sitemap_10.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'examen de conformité de l'installation électrique requis par l'article 270, alinéa 1er, du Règlement général du 10 mars 1981 sur les installations électriques (RGIE) vise à contrôler si une installation peut être mise en service de manière sûre avant sa mise en usage et doit donc avoir lieu hors tension (1). (1) RGIE, art. 270 avant son abrogation par A.R. du 8 septembre 2019.",
+        "Une modification importante ou une augmentation notable au sens de l'article 270, alinéa 3, du Règlement général du 10 mars 1981 sur les installations électriques (RGIE) est une modification ou une augmentation d'une installation électrique qui exerce sur la sécurité des personnes et des biens un impact supplémentaire qui n'est pas encore couvert par un contrôle de conformité ; en conséquence, un examen de conformité complémentaire n'est requis qu'au cas où la modification ou l'augmentation serait susceptible de donner lieu, à la lumière des dispositions du RGIE, à une infraction qui ne pouvait pas encore être constatée lors de l'examen de conformité de l'installation électrique existante."
+      ],
       "abstractNL": [
         "Het door artikel 270, eerste lid, van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties (AREI) vereiste gelijkvormigheidsonderzoek van de elektrische installatie strekt tot controle of een installatie op een veilige manier in werking kan worden gesteld vooraleer zij in gebruik wordt genomen en moet bijgevolg buiten spanning gebeuren (1). (1) Art. 270 van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties voor de opheffing ervan bij koninklijk besluit van 8 september 2019.",
-        "Een belangrijke wijziging of beduidende uitbreiding in de zin van artikel 270, derde lid, van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties (AREI) is een wijziging of uitbreiding van een elektrische installatie die een bijkomende impact heeft op de veiligheid van personen of goederen, die nog niet is afgedekt door een gelijkvormigheidscontrole; een bijkomend gelijkvormigheidsonderzoek is derhalve slechts vereist wanneer de wijziging of uitbreiding in het licht van de bepalingen van het AREI tot een inbreuk zou kunnen leiden die nog niet kon worden vastgesteld bij het gelijkvormigheidsonderzoek van de reeds bestaande elektrische installatie."
+        "Een belangrijke wijziging of beduidende uitbreiding in de zin van artikel 270, derde lid, van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties (AREI) is een wijziging of uitbreiding van een elektrische installatie die een bijkomende impact heeft op de veiligheid van personen of goederen, die nog niet is afgedekt door een gelijkvormigheidscontrole; een bijkomend gelijkvormigheidsonderzoek is derhalve slechts vereist wanneer de wijziging of uitbreiding in het licht van de bepalingen van het AREI tot een inbreuk zou kunnen leiden die nog niet kon worden vastgesteld bij het gelijkvormigheidsonderzoek van de reeds bestaande elektrische installatie.",
+        "Het door artikel 270, eerste lid, van het Algemeen Reglement van 10 maart 1981 op de elektrische installaties (AREI) vereiste gelijkvormigheidsonderzoek van de elektrische installatie strekt tot controle of een installatie op een veilige manier in werking kan worden gesteld vooraleer zij in gebruik wordt genomen en moet bijgevolg buiten spanning gebeuren (1). (1) Art. 270 AREI voor de opheffing ervan bij KB 8 september 2019."
       ]
     },
     "ECLI:BE:CASS:2024:ARR.20240913.1N.7": {
