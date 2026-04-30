@@ -1212,6 +1212,19 @@
       "abstractNL": [
         "Nietig is het arrest van een hof van beroep dat niet met drie raadsheren, de voorzitter daaronder begrepen, uitspraak doet over het hoger beroep tegen een vonnis van de correctionele rechtbank <2>. (Artt. 101, derde lid, en 779 Ger.W.)"
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260325.2F.14": {
+      "court": "CASS",
+      "date": "2026-03-25",
+      "roleNumber": "P.26.0367.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Le droit pour l'inculpé d'assister en personne à l'audience de la chambre des mises en accusation à laquelle le maintien de sa détention préventive est examiné n'est pas absolu; s'il n'est pas possible de transférer l'inculpé au palais de justice et qu'il n'est pas davantage possible pour la chambre des mises en accusation de se déplacer à la prison, les droits de la défense sont garantis à suffisance par la possibilité offerte à l'inculpé de se faire représenter par son conseil (1). (1) Cass. 12 août 2025, RG P.25.1132.F, ECLI:BE:CASS:2025:ARR.20250812.VAC.2.",
+        "Il appartient à la chambre des mises en accusation d'apprécier en fait s'il est établi qu'un inculpé ne peut être transféré au palais de justice en raison d'un cas de force majeure et que la juridiction se trouve dans l'impossibilité de se rendre à la prison (1). (1) Cass. 1er août 2018, RG P.18.0855.N, Pas. 2018, n° 437."
+      ],
+      "abstractNL": null
     }
   },
   "102": {
@@ -8996,12 +9009,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/10/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_744.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_744.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/22/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/22/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_5.xml"
       ],
       "abstractFR": [
         "La présomption de fondé de pouvoirs établie par l'article 440, alinéa 2, du Code judiciaire, dans le chef de l'avocat n'est pas irréfragable et il est permis à une partie d'affirmer que la décision d'accomplir l'acte de procédure n'a pas été autorisée par les organes de la personne morale et n'émane pas de celle-ci, mais le juge ne peut soulever d'office une telle contestation (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het in artikel 440, tweede lid, Gerechtelijk Wetboek vastgelegde vermoeden dat de advocaat als gevolmachtigde optreedt, is niet onweerlegbaar en een partij mag aanvoeren dat de beslissing om de proceshandeling te stellen niet werd toegestaan door de organen van de rechtspersoon en niet van laatstgenoemde uitgaat, maar de rechter kan een dergelijke betwisting niet ambtshalve opwerpen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231201.1F.4": {
       "court": "CASS",

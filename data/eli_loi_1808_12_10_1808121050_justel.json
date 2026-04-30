@@ -9447,12 +9447,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_644.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_644.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_3.xml"
       ],
       "abstractFR": [
         "Constitue une décision passible d'un pourvoi immédiat l'arrêt de la cour d'appel, chambre des mises en accusation, qui, en application des articles 61quater, § 5, du Code d'instruction criminelle et 15, § 1er, de la loi du 5 août 2006 relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les États membres de l'Union européenne, statue sur le recours introduit par un propriétaire contre la saisie d'œuvres d'art ou objets antiques ordonnée par le juge d'instruction belge en exécution d'une décision de gel des avoirs prise par les autorités judiciaires italiennes (1). (Solution implicite). (1) Cass. 3 juin 2020, RG P.20.0314.F, Pas. 2020, n° 355."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het arrest van het hof van beroep, kamer van inbeschuldigingstelling, dat met toepassing van artikel 61quater, § 5 Wetboek van Strafvordering en artikel 15 Wet 5 augustus 2006 inzake de toepassing van het beginsel van de wederzijdse erkenning van rechterlijke beslissingen in strafzaken tussen de lidstaten van de Europese Unie oordeelt over het beroep dat door een eigenaar is ingesteld tegen het beslag op kunstwerken of antieke voorwerpen dat door de Belgische onderzoeksrechter werd bevolen ter uitvoering van een door de Italiaanse gerechtelijke overheden uitgevaardigd bevriezingsbevel, is een beslissing waartegen onmiddellijk cassatieberoep kan worden ingesteld (1). (Impliciete oplossing). (1) Cass. 3 juni 2020, AR P.20.0314.F, AC 2020, nr. 355."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230606.2N.14": {
       "court": "CASS",
@@ -12706,12 +12709,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_643.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_643.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_2.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 427, alinéas 1er et 2, du Code d'instruction criminelle, la partie qui se pourvoit en cassation doit faire signifier son pourvoi à la partie contre laquelle il est dirigé et l'exploit de signification du pourvoi doit être déposé au greffe de la Cour dans les délais fixés par l'article 429 dudit Code; pour rencontrer l'exigence visée à l'alinéa 1er de cette disposition, il n'est pas requis que l'original de l'exploit de signification soit déposé, une copie lisible de cet acte étant suffisante, pourvu qu'il ait l'apparence de l'authenticité (1). (1) Cass. 28 octobre 2020, RG P.20.0272.F, Pas. 2020, n° 669."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 427, eerste en tweede lid, Wetboek van Strafvordering moet de partij die cassatieberoep instelt, het cassatieberoep laten betekenen aan de partij tegen wie het is gericht en moet het exploot van betekening binnen de in artikel 429 bepaalde termijnen worden neergelegd op de griffie van het Hof van Cassatie; om aan het vereiste te voldoen voorzien dat bij het eerste lid van die bepaling is voorgeschreven, is niet vereist dat het origineel van het exploot van betekening wordt neergelegd, een leesbaar afschrift van dat exploot is voldoende, mits dit afschrift er authentiek uitziet (1). (1) Cass. 28 oktober 2020, AR P.20.0272.F, AC 2020, nr. 669."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230906.2F.8": {
       "court": "CASS",
@@ -13705,6 +13711,18 @@
       "abstractNL": [
         "Wanneer in strafzaken een arrest van veroordeling vernietigd is en de zaak verwezen wordt naar de kamer van inbeschuldigingstelling van hetzelfde hof van beroep en wanneer deze kamer de verdachte naar de correctionele rechtbank heeft verwezen en hoger beroep werd ingesteld tegen het door deze rechtbank gewezen vonnis, is het op dit hoger beroep uitgesproken arrest nietig, indien het gewezen is door een zetel waarvan deel uitmaakt een raadsheer die aan het vroeger vernietigd arrest heeft deelgenomen."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260325.2F.11": {
+      "court": "CASS",
+      "date": "2026-03-25",
+      "roleNumber": "P.25.1512.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "Est recevable le pourvoi dirigé contre l'Etat belge représenté par son Premier ministre qui a été signifié à l'Etat belge au cabinet du ministre de la Justice (1). (Solution implicite). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "428": {

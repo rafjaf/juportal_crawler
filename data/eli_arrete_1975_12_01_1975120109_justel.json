@@ -1799,12 +1799,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_643.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_643.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_2.xml"
       ],
       "abstractFR": [
         "Le conducteur qui tourne à gauche n'est libéré de son obligation de céder le passage au conducteur venant en sens inverse sur la chaussée qu'il s'apprête à quitter, que si la survenance de l'usager prioritaire était imprévisible ou si le débiteur de priorité se trouvait d'une autre manière dans un cas de force majeure (1). (1) Voir Cass. 22 septembre 2020, RG P.20.0583.N, Pas. 2020, n° 566."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De bestuurder die naar links afslaat is slechts bevrijd van de verplichting om voorrang te verlenen aan de tegenligger op de rijbaan die hij gaat verlaten, indien de komst van de weggebruiker die voorrang heeft onvoorzienbaar was of indien de voorrangschuldige bestuurder zich op een andere manier in een situatie van overmacht bevond (1). (1) Zie Cass. 22 september 2020, AR P.20.0583.N, AC 2020, nr. 566."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211206.3N.5": {
       "court": "CASS",

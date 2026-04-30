@@ -3048,12 +3048,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3013.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_22.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/25/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_10.xml"
       ],
       "abstractFR": [
         "L'interdiction pour le juge d'instruction d'instruire des faits autres que ceux dont il est saisi n'est pas prescrite à peine de nullité; il s'ensuit que la preuve obtenue à la suite de ce dépassement de saisine ne peut être écartée d'office par le juge fiscal (1). (1) Voir concl. non conformes du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het verbod voor de onderzoeksrechter om andere feiten te onderzoeken dan die welke bij hem aanhangig zijn gemaakt, is niet voorgeschreven op straffe van nietigheid; hieruit volgt dat het bewijs dat ten gevolge van deze overschrijding van de grenzen van de bij hem aanhangig gemaakte zaak werd verkregen, door de fiscale rechter niet ambtshalve kan worden geweerd (1). (1) Zie andersluidende concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230502.2N.7": {
       "court": "CASS",
@@ -3572,12 +3575,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3013.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_22.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/25/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_10.xml"
       ],
       "abstractFR": [
         "L'interdiction pour le juge d'instruction d'instruire des faits autres que ceux dont il est saisi n'est pas prescrite à peine de nullité; il s'ensuit que la preuve obtenue à la suite de ce dépassement de saisine ne peut être écartée d'office par le juge fiscal (1). (1) Voir concl. non conformes du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het verbod voor de onderzoeksrechter om andere feiten te onderzoeken dan die welke bij hem aanhangig zijn gemaakt, is niet voorgeschreven op straffe van nietigheid; hieruit volgt dat het bewijs dat ten gevolge van deze overschrijding van de grenzen van de bij hem aanhangig gemaakte zaak werd verkregen, door de fiscale rechter niet ambtshalve kan worden geweerd (1). (1) Zie andersluidende concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230426.2F.19": {
       "court": "CASS",
@@ -13970,6 +13976,20 @@
       "abstractNL": [
         "De rechter oordeelt onaantastbaar of de door een verbalisant aan een gecontroleerde persoon gestelde vraag en het antwoord daarop een verhoor vormen in de zin van artikel 47bis Wetboek van Strafvordering, als zijnde een geleide ondervraging over misdrijven die aan de betrokkene kunnen worden ten laste gelegd door een daartoe bevoegd persoon in het kader van een opsporings- of gerechtelijk onderzoek met als doel de waarheid te achterhalen, dan wel een loutere reactie zijn op de interpellatie door een verbalisant van een persoon die op zijn gedrag of situatie wordt aangesproken met als bedoeling zich een juist beeld te vormen van de situatie om dan een gepaste beslissing te kunnen nemen (1). (1) Cass. 20 mei 2025, AR P.25.0305.N, ECLI:BE:CASS:2025:ARR.20250520.2N.23, T. Strafr. 2025, 276; Cass. 9 november 2021, AR P.21.1008.N, ECLI:BE:CASS:2021:ARR.20211109.2N.10; Cass. 5 november 2019, AR P.19.0384.N, AC 2019, nr. 566, RW 2020-21, 778, NC 2021, 416, met noot J. DE SMEDT; Cass. 28 mei 2019, AR P.19.0127.N, AC 2019, nr. 330."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260325.2F.8": {
+      "court": "CASS",
+      "date": "2026-03-25",
+      "roleNumber": "P.26.0054.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "L'article 47bis, § 6, 9°, du Code d'instruction criminelle, qui prévoit qu'aucune condamnation ne peut être prononcée contre une personne sur le fondement de déclarations qu'elle a faites en violation des dispositions relatives au droit à la concertation confidentielle ou à l'assistance d'un avocat au cours de l'audition, ne s'applique pas lorsque la seule omission consiste dans le fait que le suspect n'a pas reçu une déclaration écrite de ses droits avant d'être entendu pour la première fois (1). (1) M.-A. Beernaert, D. Vandermeersch et M. Giacometti, Droit de la procédure pénale, Bruxelles, La Charte, 10ième éd., 2025, p. 508.",
+        "L'article 47bis du Code d'instruction criminelle ne sanctionne les manquements aux formes qu'il n'édicte ni par l'irrecevabilité des poursuites ni par la déchéance de la valeur probante particulière attachée aux constatations matérielles des officiers de police judiciaire.",
+        "L'audition d'un suspect sans communication préalable de ses droits peut entraîner une violation des droits de la défense et donc du droit à un procès équitable si cette carence lui a ôté la possibilité de contredire en temps utile les preuves produites contre lui, notamment en réunissant avant qu'ils ne soient perdus tous éléments de nature à faire douter de leur fiabilité."
+      ],
+      "abstractNL": null
     }
   },
   "28bis": {
@@ -14325,12 +14345,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_644.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_644.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/21/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_3.xml"
       ],
       "abstractFR": [
         "Constitue une décision passible d'un pourvoi immédiat l'arrêt de la cour d'appel, chambre des mises en accusation, qui, en application des articles 61quater, § 5, du Code d'instruction criminelle et 15, § 1er, de la loi du 5 août 2006 relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les États membres de l'Union européenne, statue sur le recours introduit par un propriétaire contre la saisie d'œuvres d'art ou objets antiques ordonnée par le juge d'instruction belge en exécution d'une décision de gel des avoirs prise par les autorités judiciaires italiennes (1). (Solution implicite). (1) Cass. 3 juin 2020, RG P.20.0314.F, Pas. 2020, n° 355."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het arrest van het hof van beroep, kamer van inbeschuldigingstelling, dat met toepassing van artikel 61quater, § 5 Wetboek van Strafvordering en artikel 15 Wet 5 augustus 2006 inzake de toepassing van het beginsel van de wederzijdse erkenning van rechterlijke beslissingen in strafzaken tussen de lidstaten van de Europese Unie oordeelt over het beroep dat door een eigenaar is ingesteld tegen het beslag op kunstwerken of antieke voorwerpen dat door de Belgische onderzoeksrechter werd bevolen ter uitvoering van een door de Italiaanse gerechtelijke overheden uitgevaardigd bevriezingsbevel, is een beslissing waartegen onmiddellijk cassatieberoep kan worden ingesteld (1). (Impliciete oplossing). (1) Cass. 3 juni 2020, AR P.20.0314.F, AC 2020, nr. 355."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200603.2F.7": {
       "court": "CASS",
