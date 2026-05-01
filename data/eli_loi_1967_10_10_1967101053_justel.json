@@ -5063,12 +5063,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_790.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_790.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/08/29/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/08/29/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_16.xml"
       ],
       "abstractFR": [
         "Il ne résulte pas de l'article 329 du Code judiciaire que la mention de l'empêchement du greffier en chef et des greffiers ou du péril à attendre qu'un greffier fût présent doit ressortir de l'acte lui-même auquel la personne assumée prête son concours."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit artikel 329 Gerechtelijk Wetboek volgt niet dat de vermelding van de verhindering van de hoofdgriffier en van de griffiers of van het feit dat de zaak geen uitstel gedoogt tot een griffier tegenwoordig is, moet voortvloeien uit de akte zelf waaraan de toegevoegde persoon zijn medewerking verleent."
+      ]
     },
     "ECLI:BE:CASS:1999:ARR.19991027.8": {
       "court": "CASS",

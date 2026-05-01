@@ -982,12 +982,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_720.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_720.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/28/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/28/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_8.xml"
       ],
       "abstractFR": [
         "L'article 114 de la loi du 21 mars 2022 modifiant le Code pénal en ce qui concerne le droit pénal sexuel a supprimé l'interdiction, qui figurait à l'article 8, § 1er, alinéa 1er, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, d'appliquer le sursis probatoire lorsque le prévenu avait encouru antérieurement une condamnation à une peine criminelle ou à un emprisonnement principal de plus de trois ans; conformément à l'article 2, alinéa 2, du Code pénal, l'article 114 de la loi du 21 mars 2022 est immédiatement applicable aux faits qui, commis avant son entrée en vigueur, le 1er juin 2022, n'avaient pas encore été définitivement jugés à cette date (1). (1) Le MP a relevé que l'antécédent du demandeur indiqué dans l'arrêt, soit une peine d'un an d'emprisonnement, fonde certes la circonstance de récidive légale, mais ne fait pas obstacle à l'octroi d'un sursis probatoire sur pied de l'article 8, § 1er, alinéa 1er, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, et ce, non seulement dans la version de cette disposition au jour de l'arrêt (soit tel que modifié par l'article 114 de la loi du 21 mars 2022 modifiant le Code pénal en ce qui concerne le droit pénal sexuel, entré en vigueur le 1er juin 2022 en vertu de son article 118) mais aussi dans sa version précédente."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 114 van de wet van 21 maart 2022 houdende wijzigingen aan het Strafwetboek met betrekking tot het seksueel strafrecht heeft het in artikel 8, § 1, eerste lid, Probatiewet, bedoelde verbod afgeschaft wanneer de beklaagde al eerder was veroordeeld tot een criminele straf of tot een hoofdgevangenisstraf van meer dan drie jaar; overeenkomstig artikel 2, tweede lid, Strafwetboek is artikel 114 van de wet van 2022 onmiddellijk van toepassing op de feiten die vóór de inwerkingtreding van die wet waren gepleegd maar op die datum nog niet definitief waren berecht (1). (1) Het OM heeft erop gewezen dat het in het arrest vermelde antecedent van de eiser, namelijk één jaar gevangenisstraf, wel als grondslag kan dienen voor de omstandigheid van wettelijke herhaling, maar niet in de weg staat aan de toekenning van het probatieuitstel op grond van artikel 8, § 1, eerste lid, Probatiewet, en dit niet alleen in de versie van die bepaling op de datum van het arrest (dus zoals gewijzigd door artikel 114 van de wet van 21 maart 2022 houdende wijzigingen aan het Strafwetboek met betrekking tot het seksueel strafrecht, in werking getreden op 1 juni 2022 krachtens artikel 118 van diezelfde wet), maar ook in haar vorige versie."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20201117.2N.15": {
       "court": "CASS",
@@ -50861,6 +50864,20 @@
         "Un meurtre pour faciliter le vol peut avoir été planifié, sans pour autant cesser de constituer le crime puni par l'article 475 du Code pénal ; la préméditation imputée à l'auteur de ce crime n'oblige pas le juge du fond à le requalifier en assassinat."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260401.2F.6": {
+      "court": "CASS",
+      "date": "2026-04-01",
+      "roleNumber": "P.25.1734.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_125.xml"
+      ],
+      "abstractFR": [
+        "Il n'est pas contradictoire de considérer, d'une part, que, pour être prémédité, le meurtre requiert que la délibération intérieure de l'auteur soit arrêtée et sa résolution définitive depuis un temps suffisamment long pour que la réflexion soit mûre et ait laissé la possibilité de renoncer au projet criminel, et, d'autre part, que ce projet a pu faire l'objet d'une progression non linéaire, marquée par des avancées et des reculs, l'auteur étant alors en butte à diverses formes de résistance, soit des éléments caractérisant son état d'esprit mais non l'intention spéciale requise pour que l'assassinat soit jugé établi (1). (1) En d'autres termes, la résolution définitive de commettre un meurtre n'empêche pas qu'elle soit suivie d'une lutte morale et d'hésitations, notamment quant au moment et aux modalités de sa mise en œuvre ; voir A. DELANNAY, Les infractions – t. II – Les infractions contre les personnes, 2e éd., Larcier, 2020, pp. 213 e.s. (cf. E. DE GREEF, Introduction à la criminologie, t. I, J. VANDEPLAS, Bruxelles, 1946, p. 323) : « l'homme “normal », intéressé à la disparition généralement d'un proche ou d'une connaissance, « ne marche qu'à reculons vers un acte aussi avilissant qu'un crime » (MNB).",
+        "La préméditation que la loi érige en circonstance aggravante d'une infraction consiste dans la résolution antérieure et réfléchie de commettre l'acte prohibé (1). (1) Cass. 8 février 2023, RG P.22.1351.F, ECLI:BE:CASS:2023:ARR.20230208.2F.1, www.juportal.be, avec concl. du MP, ECLI:BE:CASS:2023:CONC.20230208.2F.1.",
+        "Aucune disposition ne subordonne la légalité de la décision que l'infraction a été commise avec préméditation à l'indication, par le juge, du moment exact où la résolution de l'auteur est devenue définitive, ou à celle de l'épisode qui attesterait cette décision."
+      ],
+      "abstractNL": null
     }
   },
   "396": {
@@ -68472,12 +68489,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_718.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_718.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/03/sitemap_25.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/28/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/28/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_6.xml"
       ],
       "abstractFR": [
         "La peine d'emprisonnement d'un an au maximum qui conditionne la possibilité d'octroi de la peine de surveillance électronique est celle que le juge appliquerait aux faits déclarés établis dans le chef du prévenu et non celle que la loi prévoit pour cette infraction (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De gevangenisstraf van ten hoogste één jaar die de voorwaarde vormt voor de toekenning van de straf onder elektronisch toezicht, is die welke de rechter voor de jegens de beklaagde bewezen verklaarde feiten zou opleggen en niet die welke de wet voor dat misdrijf oplegt (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230606.2N.1": {
       "court": "CASS",
@@ -69705,6 +69725,20 @@
         "Le fait de comptabiliser une somme d'argent dans le compte de charges des écritures comptables d'une société n'interdit pas au juge de considérer que cette somme constitue un avantage patrimonial tiré de l'infraction d'abus de biens sociaux."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20230628.2F.7": {
+      "court": "CASS",
+      "date": "2023-06-28",
+      "roleNumber": "P.23.0352.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Les sommes résultant de l'application des intérêts fictifs pour compte courant débiteur ne font pas partie du patrimoine de la personne morale et ne peuvent dès lors pas être considérées comme un actif visé par l'article 492bis du Code pénal (1). (1) Voir les concl. « dit en substance » du MP, partiellement contraires (mais non quant à ce principe). En règle, ainsi que le demandeur l'a fait valoir, n'étant pas « dus » à quiconque (la personne morale, l'État, …), les intérêts fictifs taxables au titre d'avantage de toute nature ne sont pas compris dans le patrimoine ou le crédit de la personne morale ni, dès lors, susceptibles de faire l'objet d'un abus de biens sociaux. Cependant, l'arrêt constate que les sociétés préjudiciées ont (curieusement), sous la direction de leurs dirigeants - les prévenus -, mis lesdits intérêts fictifs à la charge de ceux-ci, en compte courant « administrateur », que les prévenus se sont abstenus de se les réclamer, et par conséquent de les payer, et que cette omission fut significativement préjudiciable aux intérêts patrimoniaux des sociétés et de leurs créanciers, au même titre que l'abstention de prévoir des intérêts conventionnels et de les réclamer. Le MP en a déduit que l'arrêt constate ainsi, en substance, que ces intérêts fictifs, du fait de leur inscription par les prévenus dans leurs comptes courants, se sont transmués en créances, tout comme s'il s'était agi d'intérêts conventionnels. L'arrêt attaqué rappelle que « l'usage fait des biens ou du crédit d'une personne morale dans les circonstances et par les personnes énoncées à l'article 492bis du Code pénal peut résulter non seulement d'un acte positif mais également d'une omission, lorsque celle-ci est la manifestation de la volonté délibérée d'atteindre un résultat déterminé; il peut être question d'une telle omission lorsque l'administrateur d'une société commerciale ne réclame pas un montant auquel cette société a droit, afin d'en tirer lui-même profit » (Cass. 17 mars 2015, RG P.14.0408.N, Pas. 2015, n° 202). Le MP en a déduit que l'arrêt justifie légalement la décision critiquée et que, partant, le moyen paraissait ne pouvoir être accueilli à cet égard. (M.N.B.)"
+      ],
+      "abstractNL": [
+        "De bedragen voortvloeiend uit de toepassing van de fictieve rente voor opname in debet van de rekening-courant maken geen deel uit van het vermogen van de rechtspersoon en kunnen bijgevolg niet worden beschouwd als een bestanddeel van het actief bedoeld in artikel 492bis Strafwetboek (1). (1) Zie gedeelt. andersl. concl. “in hoofdzaak” OM (maar niet wat dit beginsel betreft). Zoals de eiser aanvoert, is de als voordeel van alle aard belastbare fictieve rente in de regel aan niemand (de rechtspersoon, de Staat...) “verschuldigd”, zodat ze niet is vervat in het vermogen of in het krediet van de rechtspersoon en kan ze bijgevolg geen misbruik van vennootschapsgoederen uitmaken. Het arrest stelt evenwel vast dat de benadeelde vennootschappen (merkwaardig genoeg), onder leiding van hun zaakvoerders – de beklaagden –, hen die fictieve rente hebben aangerekend in de rekening-courant “bestuurder”, dat de beklaagden zich ervan hebben onthouden deze van zichzelf op te eisen en ze, bijgevolg, te betalen, en dat die onthouding de vermogensbelangen van de vennootschappen en van hun schuldeisers op betekenisvolle wijze heeft benadeeld, net als de onthouding om in een overeengekomen rente te voorzien en ze op te eisen. Het OM leidt hieruit af dat het arrest aldus in essentie vaststelt dat die fictieve rente, doordat ze door de beklaagden werd geboekt in hun rekeningen-courant, werd omgezet in een schuldvordering, alsof het om een overeengekomen interest was gegaan. Het bestreden arrest herinnert eraan dat “het gebruik van de goederen of het krediet van een rechtspersoon in de omstandigheden en door de personen bedoeld in artikel 492bis Strafwetboek, niet enkel kan bestaan in een positieve daad, maar ook in een onthouding, wanneer die onthouding de uiting is van de doelgerichte wil om een bepaald resultaat te bereiken; er kan sprake zijn van een dergelijke onthouding wanneer de bestuurder van een handelsvennootschap een bedrag niet opeist waarop die vennootschap recht heeft, teneinde zichzelf een voordeel te verschaffen” (Cass. 17 maart 2015, AR P.14.0408.N, AC 2015, nr. 202). Het OM leidde hieruit af dat het arrest de aangevochten beslissing naar recht verantwoordt en dat, bijgevolg, het middel in dat opzicht niet leek te kunnen worden aangenomen. (M.N.B.)"
+      ]
     }
   },
   "489ter": {
