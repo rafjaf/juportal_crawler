@@ -69,6 +69,20 @@
       ]
     }
   },
+  "106": {
+    "ECLI:BE:CASS:2026:ARR.20260312.1N.4": {
+      "court": "CASS",
+      "date": "2026-03-12",
+      "roleNumber": "C.24.0369.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/05/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het feit handel te drijven onder de dekmantel van een vennootschap brengt niet met zich mee dat deze vennootschap louter fictief zou zijn en niet zou bestaan; de faillietverklaring van een dergelijke vennootschap heeft noodzakelijk tot gevolg dat de persoon die handel drijft onder de dekmantel van deze vennootschap deze als naamlener niet meer kan aanwenden en die persoon niet meer failliet kan worden verklaard indien meer dan zes maanden na de faillietverklaring van deze vennootschap zijn verlopen."
+      ]
+    }
+  },
   "107": {
     "ECLI:BE:CASS:2024:ARR.20240920.1N.2": {
       "court": "CASS",
@@ -702,6 +716,18 @@
       ],
       "abstractNL": [
         "De in vereffening gestelde vennootschap blijft krediet genieten wanneer haar schuldeisers hun vertrouwen in die beslissing en in het verloop van de vereffeningsprocedure behouden, voor zover dat vertrouwen op regelmatige en transparante wijze is verkregen; de vennootschap die met miskenning van de rechten van de schuldeisers of in hun nadeel ontbonden wordt, waardoor ze zich kan onttrekken aan de bijzondere verantwoordelijkheden eigen aan de staat van faillissement of aan het in vraag stellen van handelingen die in de verdachte periode zijn verricht, geniet niet langer het vertrouwen van de schuldeisers, zelfs als zij hun wantrouwen niet zouden hebben laten blijken."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260312.1N.4": {
+      "court": "CASS",
+      "date": "2026-03-12",
+      "roleNumber": "C.24.0369.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/05/sitemap_8.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het feit handel te drijven onder de dekmantel van een vennootschap brengt niet met zich mee dat deze vennootschap louter fictief zou zijn en niet zou bestaan; de faillietverklaring van een dergelijke vennootschap heeft noodzakelijk tot gevolg dat de persoon die handel drijft onder de dekmantel van deze vennootschap deze als naamlener niet meer kan aanwenden en die persoon niet meer failliet kan worden verklaard indien meer dan zes maanden na de faillietverklaring van deze vennootschap zijn verlopen."
       ]
     }
   },
