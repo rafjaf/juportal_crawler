@@ -1249,15 +1249,21 @@
     "ECLI:BE:CASS:1999:ARR.19990505.8": {
       "court": "CASS",
       "date": "1999-05-05",
-      "roleNumber": "P990481F",
+      "roleNumber": "P.99.0481.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/05/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1999/05/05/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_1.xml"
       ],
       "abstractFR": [
-        "De la seule circonstance que le jugement rendu sur l'opposition du prévenu a été rendu par les juges qui ont rendu le jugement frappé d'opposition, il ne peut se déduire que le jugement rendu sur opposition n'a pas été rendu par un tribunal indépendant et impartial."
+        "De la seule circonstance que le jugement rendu sur l'opposition du prévenu a été rendu par les juges qui ont rendu le jugement frappé d'opposition, il ne peut se déduire que le jugement rendu sur opposition n'a pas été rendu par un tribunal indépendant et impartial.",
+        "L'article 14.7 du Pacte international relatif aux droits civils et politiques a pour seul objet d'interdire, dans un même pays, après un jugement définitif d'acquittement ou de condamnation, de nouvelles poursuites pour la même infraction.",
+        "Le juge du fond apprécie en fait la nécessité ou l'opportunité de l'audition de témoins; ni l'article 6, § 1er et § 3, d, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni l'article 14, § 1er et § 3, du Pacte international relatif aux droits civils et politiques, ni le principe général du droit relatif au respect des droits de la défense n'imposent de manière absolue au juge pénal d'entendre sous serment à l'audience un témoin à décharge."
       ],
       "abstractNL": [
-        "Uit de omstandigheid alleen dat het vonnis op verzet van de beklaagde door dezelfde rechters is gewezen als het verstekvonnis, valt niet af te leiden dat het op verzet gewezen vonnis niet is geveld door een onafhankelijke en opartijdige rechterlijke instantie."
+        "Uit de omstandigheid alleen dat het vonnis op verzet van de beklaagde door dezelfde rechters is gewezen als het verstekvonnis, valt niet af te leiden dat het op verzet gewezen vonnis niet is geveld door een onafhankelijke en opartijdige rechterlijke instantie.",
+        "Uit de omstandigheid alleen dat het vonnis op verzet van de beklaagde door dezelfde rechters is gewezen als het verstekvonnis, valt niet af te leiden dat het op verzet gewezen vonnis niet is geveld door een onafhankelijke en opartijdige rechterlijke instantie.~",
+        "Art. 14.7 I.V.B.P.R. heeft geen ander doel dan te verbieden dat, na een definitieve vrijspraak of veroordeling, in een zelfde land opnieuw vervolgingen worden ingesteld voor hetzelfde misdrijf.~",
+        "De bodemrechter oordeelt in feite of het noodzakelijk of opportuun is om een getuige op de terechtzitting te horen; noch de artt. 6.1 en 6.3.d E.V.R.M., noch art. 14.1 I.V.B.P.R., noch het algemeen beginsel van het recht van verdediging leggen de strafrechter de dwingende verplichting op om een getuige à décharge onder eed te horen.~"
       ]
     },
     "ECLI:BE:CASS:1996:ARR.19960216.8": {

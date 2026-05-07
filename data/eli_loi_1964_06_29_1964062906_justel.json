@@ -1519,12 +1519,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3054.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3054.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/22/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_16.xml"
       ],
       "abstractFR": [
         "Le rejet d'une demande d'octroi d'une peine de probation ou celui d'une peine de travail ou d'une mesure de sursis, formulée par le prévenu sans motif propre ou spécifique, est régulièrement motivé et légalement justifié par la prononciation d'une peine d'emprisonnement dont la justification permet de comprendre pourquoi ces autres peines et mesures n'ont pas été accordées (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De verwerping van een verzoek om toekenning van een probatiestraf, een werkstraf of een maatregel van uitstel, dat de beklaagde indient zonder opgave van eigen of specifieke redenen, is regelmatig met redenen omkleed en naar recht verantwoord door een gevangenisstraf op te leggen waarvan de verantwoording toelaat te begrijpen waarom die andere straffen en maatregelen niet werden toegekend (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230628.2F.1": {
       "court": "CASS",

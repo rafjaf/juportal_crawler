@@ -1115,9 +1115,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2744.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2744.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_14.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_14.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_9.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Les articles 702 et 860 du Code judiciaire ne s'appliquent pas en matière répressive ; ni l'article 43, alinéa 1er, 3°, du Code judiciaire ni aucune autre disposition ou aucun principe général du droit ne prescrivent qu'un exploit de citation soit frappé de nullité absolue au seul motif qu'il ne mentionne pas le domicile ou lieu de résidence exact de la personne citée."
+      ],
       "abstractNL": [
         "De artikelen 702 en 860 Gerechtelijk Wetboek zijn niet van toepassing in strafzaken; noch artikel 43, eerste lid, 3°, Gerechtelijk Wetboek, noch enige andere bepaling of enig algemeen rechtsbeginsel schrijft voor dat een exploot van dagvaarding absoluut nietig is om de enkele reden dat het exploot niet de juiste woon- of verblijfplaats van de gedaagde vermeldt."
       ]
@@ -8921,13 +8924,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_800.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_800.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/06/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/06/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_5.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 779 du Code judiciaire, le jugement ne peut être rendu, sous peine de nullité, que par des juges ayant assisté à toutes les audiences de la cause; le jugement définitif ne doit cependant pas, en principe, être rendu par les mêmes juges que ceux ayant siégé pendant les débats précédant le jugement avant dire droit ou lors de la prononciation de celui-ci mais il en va autrement si la décision avant dire droit est un jugement qui ordonne la réouverture des débats sur un objet déterminé dès lors qu'en pareil cas, les débats continuent, mais seulement sur la question délimitée par le juge (1). (1) Voir Cass. 16 octobre 2018, RG P.18.0189.N, Pas. 2018, n° 557.",
         "Aucune disposition légale ne requiert qu'après un jugement de réouverture des débats, il soit mentionné expressément que la cause a été reprise « ab initio » ou en son entier; cette reprise peut se déduire du procès-verbal de l'audience ou des mentions reprises au jugement en tant que ces pièces relatent le déroulement de la procédure."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 779 Gerechtelijk Wetboek kan het vonnis, op straffe van nietigheid, enkel worden gewezen door de rechters die alle zittingen over de zaak hebben bijgewoond; het eindvonnis hoeft, in beginsel, evenwel niet te worden gewezen door dezelfde rechters als die welke tijdens het debat dat aan het vonnis alvorens recht is voorafgegaan of tijdens de uitspraak van dat vonnis zitting hebben gehouden, maar dit is niet het geval wanneer de beslissing alvorens recht te doen een vonnis is dat de heropening van het debat over een welbepaald onderwerp beveelt, aangezien het debat in een dergelijk geval wordt voortgezet, maar enkel over het rechtspunt zoals het door de rechter werd afgebakend (1). (1) Zie Cass. 16 oktober 2018, AR P.18.0189.N, AC 2018, nr. 557.",
+        "Geen enkele wettelijke bepaling vereist dat er na een vonnis dat de heropening van het debat beveelt uitdrukkelijk wordt vermeld dat de zaak “ab initio” of geheel werd hervat; die hervatting kan worden afgeleid uit het proces-verbaal van de rechtszitting of uit de vermeldingen die in het vonnis voorkomen, in zoverre die stukken het verloop van de rechtspleging weergeven."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230920.2F.9": {
       "court": "CASS",
@@ -21227,9 +21234,13 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2747.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2747.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_12.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge appelé à se prononcer sur une requête en récusation d'un juge d'instruction ne statue pas sur les poursuites à raison d'un fait punissable ; l'article 6, § 3, d, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ne s'applique donc pas à la demande d'audition de témoins formulée dans le cadre d'une procédure en récusation.",
+        "L'article 839 du Code judiciaire dispose que si le récusant n'apporte aucune preuve par écrit ou commencement de preuve des causes de la récusation, le juge de la récusation peut rejeter la récusation sur la simple déclaration du juge ou ordonner la preuve testimoniale ; il incombe au récusant de rapporter la preuve de la cause de récusation invoquée ; le juge de la récusation peut néanmoins ordonner une audition de témoins s'il le juge nécessaire pour se prononcer sur le fondement de la cause de récusation invoquée, et il apprécie souverainement cette nécessité ; le seul fait que le récusant conteste l'exactitude de la déclaration faite par le juge d'instruction n'oblige pas le juge de la récusation à ordonner l'audition de témoins, et il ne peut se déduire en soi de violation de l'article 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales d'un rejet motivé d'une demande d'audition de témoins ; la Cour vérifie si le juge de la récusation ne tire pas de ses constatations des conséquences qui ne seraient susceptibles, sur leur fondement, d'aucune justification."
+      ],
       "abstractNL": [
         "De rechter die zich moet uitspreken over een verzoek tot wraking van een onderzoeksrechter doet geen uitspraak over de vervolging wegens een strafbaar feit; op een in het kader van een wrakingsprocedure geformuleerd verzoek tot het horen van getuigen is artikel 6.3.d EVRM dan ook niet van toepassing.",
         "Artikel 839 Gerechtelijk Wetboek bepaalt dat indien de wrakende partij geen bewijs door geschriften of begin van bewijs levert van de wrakingsgrond, de wrakingsrechter de wraking kan verwerpen op de eenvoudige verklaring van de rechter, dan wel een getuigenbewijs kan bevelen; het staat aan de wrakende partij om het bewijs te leveren van de ingeroepen wrakingsgrond; de wrakingsrechter kan niettemin een getuigenverhoor bevelen indien hij dat noodzakelijk acht voor zijn oordeel over de gegrondheid van de ingeroepen wrakingsgrond en hij beoordeelt die noodzaak onaantastbaar; het enkele feit dat de wrakende partij de juistheid van de door de onderzoeksrechter afgelegde verklaring betwist, verplicht de wrakingsrechter niet om een getuigenverhoor te bevelen en uit een met redenen omklede afwijzing van een verzoek om een getuigenverhoor kan als dusdanig geen schending van artikel 6.1 EVRM worden afgeleid; het Hof gaat na of de wrakingsrechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord."
@@ -25531,9 +25542,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2747.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2747.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_17.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_17.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_12.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 839 du Code judiciaire dispose que si le récusant n'apporte aucune preuve par écrit ou commencement de preuve des causes de la récusation, le juge de la récusation peut rejeter la récusation sur la simple déclaration du juge ou ordonner la preuve testimoniale ; il incombe au récusant de rapporter la preuve de la cause de récusation invoquée ; le juge de la récusation peut néanmoins ordonner une audition de témoins s'il le juge nécessaire pour se prononcer sur le fondement de la cause de récusation invoquée, et il apprécie souverainement cette nécessité ; le seul fait que le récusant conteste l'exactitude de la déclaration faite par le juge d'instruction n'oblige pas le juge de la récusation à ordonner l'audition de témoins, et il ne peut se déduire en soi de violation de l'article 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales d'un rejet motivé d'une demande d'audition de témoins ; la Cour vérifie si le juge de la récusation ne tire pas de ses constatations des conséquences qui ne seraient susceptibles, sur leur fondement, d'aucune justification."
+      ],
       "abstractNL": [
         "Artikel 839 Gerechtelijk Wetboek bepaalt dat indien de wrakende partij geen bewijs door geschriften of begin van bewijs levert van de wrakingsgrond, de wrakingsrechter de wraking kan verwerpen op de eenvoudige verklaring van de rechter, dan wel een getuigenbewijs kan bevelen; het staat aan de wrakende partij om het bewijs te leveren van de ingeroepen wrakingsgrond; de wrakingsrechter kan niettemin een getuigenverhoor bevelen indien hij dat noodzakelijk acht voor zijn oordeel over de gegrondheid van de ingeroepen wrakingsgrond en hij beoordeelt die noodzaak onaantastbaar; het enkele feit dat de wrakende partij de juistheid van de door de onderzoeksrechter afgelegde verklaring betwist, verplicht de wrakingsrechter niet om een getuigenverhoor te bevelen en uit een met redenen omklede afwijzing van een verzoek om een getuigenverhoor kan als dusdanig geen schending van artikel 6.1 EVRM worden afgeleid; het Hof gaat na of de wrakingsrechter uit zijn vaststellingen geen gevolgen afleidt die op grond daarvan onmogelijk kunnen worden verantwoord."
       ]
@@ -26580,9 +26594,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2744.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2744.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_14.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/28/sitemap_14.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_9.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Les articles 702 et 860 du Code judiciaire ne s'appliquent pas en matière répressive ; ni l'article 43, alinéa 1er, 3°, du Code judiciaire ni aucune autre disposition ou aucun principe général du droit ne prescrivent qu'un exploit de citation soit frappé de nullité absolue au seul motif qu'il ne mentionne pas le domicile ou lieu de résidence exact de la personne citée."
+      ],
       "abstractNL": [
         "De artikelen 702 en 860 Gerechtelijk Wetboek zijn niet van toepassing in strafzaken; noch artikel 43, eerste lid, 3°, Gerechtelijk Wetboek, noch enige andere bepaling of enig algemeen rechtsbeginsel schrijft voor dat een exploot van dagvaarding absoluut nietig is om de enkele reden dat het exploot niet de juiste woon- of verblijfplaats van de gedaagde vermeldt."
       ]
