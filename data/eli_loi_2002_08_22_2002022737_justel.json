@@ -23,12 +23,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_820.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_820.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/08/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/08/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/07/sitemap_4.xml"
       ],
       "abstractFR": [
         "Le fonds commun de garantie n'est pas tenu d'indemniser de son préjudice personnel, fût-il subi par répercussion, le conducteur d'un véhicule automoteur impliqué dans un accident de la circulation automobile qui pilote ce véhicule en sachant que l'obligation d'assurance n'a pas été respectée (1). (1) Voir Cass. 19 septembre 2008, RG C.07.0357.N, Pas. 2008, n° 487."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het Gemeenschappelijk Waarborgfonds is niet gehouden tot vergoeding van de eigen schade, al is het gevolgschade, van de bestuurder van een in een verkeersongeval betrokken motorrijtuig, die dat voertuig bestuurt terwijl hij weet dat de verzekeringsplicht niet is nageleefd (1). (1) Zie Cass. 19 september 2008, AR C.07.0357.N, AC 2008, nr. 487."
+      ]
     }
   },
   "8": {
@@ -116,12 +119,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_820.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_820.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/08/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/08/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/07/sitemap_4.xml"
       ],
       "abstractFR": [
         "Le fonds commun de garantie n'est pas tenu d'indemniser de son préjudice personnel, fût-il subi par répercussion, le conducteur d'un véhicule automoteur impliqué dans un accident de la circulation automobile qui pilote ce véhicule en sachant que l'obligation d'assurance n'a pas été respectée (1). (1) Voir Cass. 19 septembre 2008, RG C.07.0357.N, Pas. 2008, n° 487."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het Gemeenschappelijk Waarborgfonds is niet gehouden tot vergoeding van de eigen schade, al is het gevolgschade, van de bestuurder van een in een verkeersongeval betrokken motorrijtuig, die dat voertuig bestuurt terwijl hij weet dat de verzekeringsplicht niet is nageleefd (1). (1) Zie Cass. 19 september 2008, AR C.07.0357.N, AC 2008, nr. 487."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20221103.1F.1": {
       "court": "CASS",
