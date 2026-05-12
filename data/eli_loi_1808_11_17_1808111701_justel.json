@@ -11209,6 +11209,22 @@
       ]
     }
   },
+  "185": {
+    "ECLI:BE:CASS:1999:ARR.19990608.5": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P.97.1104.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit d'un prévenu de se défendre avec l'assistance d'un conseil de son choix, lors de la procédure sur opposition, implique que, nonobstant l'obligation de comparaître en personne imposée au prévenu, le juge répressif doit autoriser le conseil à représenter son client, même si ce dernier n'établit pas qu'il est dans l'impossibilité de comparaître en personne."
+      ],
+      "abstractNL": [
+        "Het recht van een beklaagde om zich, op verzet, te verdedigen met de bijstand van een raadsman naar zijn keuze, houdt in dat de strafrechter, niettegenstaande de aan de beklaagde opgelegde verplichting om persoonlijk te verschijnen, de raadsman moet toelaten zijn cliënt te vertegenwoordigen, ook al toont deze niet aan dat het hem onmogelijk is persoonlijk te verschijnen."
+      ]
+    }
+  },
   "190": {
     "ECLI:BE:CASS:2024:ARR.20240625.2N.28": {
       "court": "CASS",

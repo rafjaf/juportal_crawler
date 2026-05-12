@@ -7576,7 +7576,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2867.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2867.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_4.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_13.xml"
       ],
       "abstractFR": [
         "Le constat de l'inapplicabilité de l'article 67bis de la loi du 16 mars 1968 relative à la police de la circulation routière qui prévoit la présomption d'imputabilité de l'infraction au détenteur de la plaque d'immatriculation n'empêche pas le juge de décider néanmoins, sur la base d'éléments factuels qu'il énonce, que le titulaire de la plaque d'immatriculation est bel et bien le conducteur du véhicule avec lequel l'infraction a été commise et il peut, pour ce faire, prendre en considération toutes les circonstances de fait qui concernent tant les agissements du prévenu par rapport aux faits mis à charge que les circonstances dans lesquelles ils se sont déroulés, afin d'examiner la culpabilité ; le droit de se taire, tel qu'il est garanti par l'article 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et par l'article 14, §§ 1er et 3, g, du Pacte international relatif aux droits civils et politiques, implique le droit de toute personne poursuivie du chef d'un fait punissable de ne pas témoigner contre elle-même et de ne pas être contrainte de contribuer à sa propre incrimination, mais le juge ne méconnait pas ce droit de se taire lorsqu'il déclare un prévenu coupable notamment en se fondant sur la constatation que cette personne n'a pas contesté le fait mis à sa charge à un stade antérieur de la procédure ou qu'elle ne peut fournir d'explication plausible quant aux éléments à charge."
@@ -11176,7 +11177,8 @@
       "date": "2020-06-17",
       "roleNumber": "P.20.0626.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_5.xml"
       ],
       "abstractFR": [
         "Les articles 6, § 3, c, de la Convention de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, § 3, d), du Pacte international relatif aux droits civils et politiques, ainsi que le principe général du droit relatif au respect des droits de la défense, consacrent le droit, pour toute personne dont la cause doit être examinée par un juge, de comparaître à l'audience, d'être entendue et de se défendre en personne devant lui (1). (1) Cass. 3 juin 2020, RG P.20.0499.F, Pas. 2020, n° 356, avec concl. MP.",
@@ -11222,7 +11224,8 @@
       "date": "2020-06-03",
       "roleNumber": "P.20.0499.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_4.xml"
       ],
       "abstractFR": [
         "Les articles 6.3, c, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, 14.3, d, du Pacte international relatif aux droits civils et politiques, et 41 de la Charte des droits fondamentaux de l'Union européenne, ainsi que le principe général du droit relatif au respect des droits de la défense, consacrent le droit, pour toute personne dont la cause doit être examinée par un juge, de comparaître à l'audience, d'être entendue et de se défendre en personne devant lui (1). (1) Voir les concl. « dit en substance » du MP.",
@@ -17276,6 +17279,20 @@
       "abstractNL": [
         "Noch uit de artikelen 6.1 en 15 EVRM, noch uit het algemeen rechtsbeginsel van het recht van verdediging volgt dat het recht om te worden gehoord een absoluut recht is dat niet anders dan door de in artikel 15 EVRM bepaalde grenzen kan worden beperkt."
       ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990608.5": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P.97.1104.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit d'un prévenu de se défendre avec l'assistance d'un conseil de son choix, lors de la procédure sur opposition, implique que, nonobstant l'obligation de comparaître en personne imposée au prévenu, le juge répressif doit autoriser le conseil à représenter son client, même si ce dernier n'établit pas qu'il est dans l'impossibilité de comparaître en personne."
+      ],
+      "abstractNL": [
+        "Het recht van een beklaagde om zich, op verzet, te verdedigen met de bijstand van een raadsman naar zijn keuze, houdt in dat de strafrechter, niettegenstaande de aan de beklaagde opgelegde verplichting om persoonlijk te verschijnen, de raadsman moet toelaten zijn cliënt te vertegenwoordigen, ook al toont deze niet aan dat het hem onmogelijk is persoonlijk te verschijnen."
+      ]
     }
   },
   "7": {
@@ -21201,7 +21218,8 @@
       "date": "2020-06-17",
       "roleNumber": "P.20.0626.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_5.xml"
       ],
       "abstractFR": [
         "L'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ne prévoit pas que les Etats parties à celle-ci puissent restreindre les garanties inhérentes au procès équitable mais l'article 15.1 institue un droit de dérogation temporaire aux obligations prévues par la Convention, notamment en cas de danger vital pour la nation, dans la stricte mesure où la situation l'exige et à condition d'en informer le secrétaire général du Conseil de l'Europe; le principe de légalité et de prévisibilité de la procédure pénale et le principe général du droit relatif au respect des droits de la défense commandent de subordonner ce droit de dérogation temporaire aux garanties du procès équitable, à l'adoption d'une norme de droit interne accessible aux personnes concernées et énoncée de manière précise (1). (1) Cass. 3 juin 2020, RG P.20.0499.F, Pas. 2020, n° 356, avec concl. MP."
@@ -21215,7 +21233,8 @@
       "date": "2020-06-03",
       "roleNumber": "P.20.0499.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_4.xml"
       ],
       "abstractFR": [
         "L'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ne prévoit pas que les Etats parties à celle-ci puissent restreindre les garanties inhérentes au procès équitable mais l'article 15.1 institue un droit de dérogation temporaire aux obligations prévues par la Convention, notamment en cas de danger vital pour la nation, dans la stricte mesure où la situation l'exige et à condition d'en informer le secrétaire général du Conseil de l'Europe; le principe de légalité et de prévisibilité de la procédure pénale et le principe général du droit relatif au respect des droits de la défense commandent de subordonner ce droit de dérogation temporaire aux garanties du procès équitable, à l'adoption d'une norme de droit interne accessible aux personnes concernées et énoncée de manière précise (1). (1) Voir les concl. « dit en substance » du MP."

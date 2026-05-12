@@ -318,7 +318,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2867.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2867.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/20/sitemap_4.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_13.xml"
       ],
       "abstractFR": [
         "Le constat de l'inapplicabilité de l'article 67bis de la loi du 16 mars 1968 relative à la police de la circulation routière qui prévoit la présomption d'imputabilité de l'infraction au détenteur de la plaque d'immatriculation n'empêche pas le juge de décider néanmoins, sur la base d'éléments factuels qu'il énonce, que le titulaire de la plaque d'immatriculation est bel et bien le conducteur du véhicule avec lequel l'infraction a été commise et il peut, pour ce faire, prendre en considération toutes les circonstances de fait qui concernent tant les agissements du prévenu par rapport aux faits mis à charge que les circonstances dans lesquelles ils se sont déroulés, afin d'examiner la culpabilité ; le droit de se taire, tel qu'il est garanti par l'article 6, § 1er, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et par l'article 14, §§ 1er et 3, g, du Pacte international relatif aux droits civils et politiques, implique le droit de toute personne poursuivie du chef d'un fait punissable de ne pas témoigner contre elle-même et de ne pas être contrainte de contribuer à sa propre incrimination, mais le juge ne méconnait pas ce droit de se taire lorsqu'il déclare un prévenu coupable notamment en se fondant sur la constatation que cette personne n'a pas contesté le fait mis à sa charge à un stade antérieur de la procédure ou qu'elle ne peut fournir d'explication plausible quant aux éléments à charge."
@@ -682,7 +683,8 @@
       "roleNumber": "P.21.1078.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/01/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/07/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/07/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_7.xml"
       ],
       "abstractFR": [
         "Le droit au silence, qui est celui de ne pas devoir contribuer à sa propre incrimination, signifie que l'accusation ne peut pas fonder son argumentation en recourant à des éléments de preuve obtenus par la contrainte ou la pression au mépris de la volonté de la personne concernée.",
@@ -726,7 +728,8 @@
       "date": "2020-06-17",
       "roleNumber": "P.20.0626.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/17/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_5.xml"
       ],
       "abstractFR": [
         "Les articles 6, § 3, c, de la Convention de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, § 3, d), du Pacte international relatif aux droits civils et politiques, ainsi que le principe général du droit relatif au respect des droits de la défense, consacrent le droit, pour toute personne dont la cause doit être examinée par un juge, de comparaître à l'audience, d'être entendue et de se défendre en personne devant lui (1). (1) Cass. 3 juin 2020, RG P.20.0499.F, Pas. 2020, n° 356, avec concl. MP.",
@@ -742,7 +745,8 @@
       "date": "2020-06-03",
       "roleNumber": "P.20.0499.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/06/03/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_4.xml"
       ],
       "abstractFR": [
         "Les articles 6.3, c, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, 14.3, d, du Pacte international relatif aux droits civils et politiques, et 41 de la Charte des droits fondamentaux de l'Union européenne, ainsi que le principe général du droit relatif au respect des droits de la défense, consacrent le droit, pour toute personne dont la cause doit être examinée par un juge, de comparaître à l'audience, d'être entendue et de se défendre en personne devant lui (1). (1) Voir les concl. « dit en substance » du MP.",
@@ -1568,6 +1572,34 @@
         "Les articles 6 et 9 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, dans l'interprétation qu'en donne la Cour européenne des droits de l'homme, 19 de la Constitution, 14 et 18 du Pacte international relatif aux droits civils et politiques et le principe général du droit de l'impartialité du juge n'interdisent pas en soi au juge de considérer que des pratiques religieuses excessives et intolérantes constituent une faute grave ayant rendu impossible la poursuite de la vie commune (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2025:ARR.20250604.2F.15": {
+      "court": "CASS",
+      "date": "2025-06-04",
+      "roleNumber": "P.25.0382.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_14.xml"
+      ],
+      "abstractFR": [
+        "Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales (1) et 14.5 du Pacte international relatif aux droits civils et politiques (2) ne s'appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d'appel; tel est le cas lorsque, conformément à l'article 215 du Code d'instruction criminelle, les juges d'appel évoquent la cause dont ils ont été saisis. (1) Voir Cass. 2 mars 2021, RG P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, et concl. de M. WINANTS, avocat général, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Voir Cass. 3 septembre 2013, RG P.12.1645.N, Pas. 2013, n° 416."
+      ],
+      "abstractNL": [
+        "Artikel 2.1 Zevende Aanvullend Protocol EVRM (1) en artikel 14.5 IVBPR (2) zijn niet van toepassing op de personen die, krachtens de Belgische wet, rechtstreeks voor een hoger rechtscollege zoals het hof van beroep worden gebracht; dit is het geval wanneer de appelrechters, overeenkomstig artikel 215 Wetboek van Strafvordering, de zaak waarvan ze kennisnemen aan zich trekken. (1) Zie Cass. 2 maart 2021, AR P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, met concl. van advocaat-generaal WINANTS, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Zie Cass. 3 september 2013, AR P.12.1645.N, AC 2013, nr. 416."
+      ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990608.5": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P.97.1104.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit d'un prévenu de se défendre avec l'assistance d'un conseil de son choix, lors de la procédure sur opposition, implique que, nonobstant l'obligation de comparaître en personne imposée au prévenu, le juge répressif doit autoriser le conseil à représenter son client, même si ce dernier n'établit pas qu'il est dans l'impossibilité de comparaître en personne."
+      ],
+      "abstractNL": [
+        "Het recht van een beklaagde om zich, op verzet, te verdedigen met de bijstand van een raadsman naar zijn keuze, houdt in dat de strafrechter, niettegenstaande de aan de beklaagde opgelegde verplichting om persoonlijk te verschijnen, de raadsman moet toelaten zijn cliënt te vertegenwoordigen, ook al toont deze niet aan dat het hem onmogelijk is persoonlijk te verschijnen."
+      ]
     }
   },
   "15": {
@@ -2194,12 +2226,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3102.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3102.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/08/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/08/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_14.xml"
       ],
       "abstractFR": [
-        "Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales (1) et 14.5 du Pacte international relatif aux droits civils et politiques (2) ne s'appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d'appel; tel est le cas lorsque, conformément à l'article 215 du Code d'instruction criminelle, les juges d'appel évoquent la cause dont ils ont été saisis. (1) Voir Cass. 2 mars 2021, RG P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, Pas. 2021, n° 148, § 27, et concl. de M. WINANTS, avocat général, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Voir Cass. 3 septembre 2013, RG P.12.1645.N, Pas. 2013, n° 416, ECLI:BE:CASS:2013:ARR.20130903.9."
+        "Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales (1) et 14.5 du Pacte international relatif aux droits civils et politiques (2) ne s'appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d'appel; tel est le cas lorsque, conformément à l'article 215 du Code d'instruction criminelle, les juges d'appel évoquent la cause dont ils ont été saisis. (1) Voir Cass. 2 mars 2021, RG P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, Pas. 2021, n° 148, § 27, et concl. de M. WINANTS, avocat général, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Voir Cass. 3 septembre 2013, RG P.12.1645.N, Pas. 2013, n° 416, ECLI:BE:CASS:2013:ARR.20130903.9.",
+        "Les articles 2.1 du Protocole n° 7 additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales (1) et 14.5 du Pacte international relatif aux droits civils et politiques (2) ne s'appliquent pas aux personnes qui, en vertu de la loi belge, sont directement déférées à une juridiction supérieure telle que la cour d'appel; tel est le cas lorsque, conformément à l'article 215 du Code d'instruction criminelle, les juges d'appel évoquent la cause dont ils ont été saisis. (1) Voir Cass. 2 mars 2021, RG P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, et concl. de M. WINANTS, avocat général, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Voir Cass. 3 septembre 2013, RG P.12.1645.N, Pas. 2013, n° 416."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 2.1 Zevende Aanvullend Protocol EVRM (1) en artikel 14.5 IVBPR (2) zijn niet van toepassing op de personen die, krachtens de Belgische wet, rechtstreeks voor een hoger rechtscollege zoals het hof van beroep worden gebracht; dit is het geval wanneer de appelrechters, overeenkomstig artikel 215 Wetboek van Strafvordering, de zaak waarvan ze kennisnemen aan zich trekken. (1) Zie Cass. 2 maart 2021, AR P.20.1057.N, ECLI:BE:CASS:2021:ARR.20210302.2N.22, met concl. van advocaat-generaal WINANTS, ECLI:BE:CASS:2021:CONC.20210302.2N.22. (2) Zie Cass. 3 september 2013, AR P.12.1645.N, AC 2013, nr. 416."
+      ]
     }
   },
   "14.7": {

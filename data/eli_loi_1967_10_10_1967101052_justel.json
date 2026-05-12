@@ -6983,12 +6983,15 @@
       "date": "2025-03-27",
       "roleNumber": "C.24.0321.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/02/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/02/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_10.xml"
       ],
       "abstractFR": [
         "Un jugement est définitif dans la mesure où il épuise la juridiction du juge sur une question litigieuse, sauf les recours prévus par la loi; le juge qui a épuisé sa juridiction sur une question litigieuse ne peut plus en être saisi, sauf exceptions prévues par le code judiciaire; il est exclu qu'il puisse, dans la même cause et entre les mêmes parties, être statué à nouveau sur une question litigieuse qu'une décision définitive a déjà tranché, même si de nouveaux moyens sont soulevés."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een vonnis is een eindvonnis in zoverre de rechter hiermee zijn rechtsmacht over een geschilpunt volledig heeft uitgeput, behoudens de bij wet bepaalde rechtsmiddelen; de rechter die zijn rechtsmacht over een geschilpunt volledig heeft uitgeput, kan hiervan niet meer kennisnemen, behoudens de in het Gerechtelijk Wetboek bepaalde uitzonderingen; het is uitgesloten dat in dezelfde zaak en tussen dezelfde partijen opnieuw uitspraak kan worden gedaan over een geschilpunt waarover reeds een eindbeslissing is gewezen, zelfs als er nieuwe middelen worden aangevoerd."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251006.3N.5": {
       "court": "CASS",
