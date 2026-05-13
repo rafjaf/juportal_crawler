@@ -22086,9 +22086,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2980.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2980.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/03/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/03/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/12/sitemap_6.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Sur la base de l'article 195, alinéa 5, du Code d'instruction criminelle, le juge doit indiquer, d'une manière qui peut être succincte mais doit être précise, les raisons du choix qu'il fait de telle peine ou mesure parmi celles que la loi lui permet de prononcer, et il doit justifier, en outre, le degré de chacune des peines ou mesures prononcées; à l'aune de cette obligation, le juge peut, dans sa décision rendue sur le taux de la peine, prendre en considération tous les éléments factuels qui éclairent la nature et la gravité des faits déclarés établis, les circonstances dans lesquelles ils ont été commis et leurs conséquences, ainsi que tous les éléments pertinents sur la personnalité du prévenu et, par conséquent, il peut tenir compte, pour fixer une peine adaptée, de la circonstance que le prévenu n'a tiré aucune leçon d'une précédente condamnation du chef d'infractions similaires, sans que cela soit toutefois possible si les infractions du chef desquelles le juge condamne le prévenu, ont été commises avant cette précédente condamnation."
+      ],
       "abstractNL": [
         "Op grond van artikel 195, vijfde lid, Wetboek van Strafvordering dient de rechter nauwkeurig, maar op een wijze die beknopt mag zijn, de redenen te vermelden waarom hij, als de wet hem daartoe vrije beoordeling overlaat, een bepaalde straf of maatregel uitspreekt, waarbij hij bovendien ook de maat voor elke uitgesproken straf of maatregel dient te rechtvaardigen; de rechter mag in het licht van die verplichting bij de straftoemetingsbeslissing alle feitelijke gegevens betrekken die een licht werpen op de aard en de ernst van de bewezen verklaarde feiten, de omstandigheden waarin ze zijn gepleegd en de gevolgen ervan, alsook op alle relevante gegevens betreffende de persoonlijkheid van de beklaagde en hij kan bijgevolg bij het bepalen van een gepaste straf rekening houden met het gegeven dat de beklaagde uit een eerdere veroordeling wegens gelijkaardige misdrijven geen lessen heeft getrokken maar dat laatste is evenwel niet mogelijk wanneer de misdrijven waarvoor de rechter de beklaagde veroordeelt, werden gepleegd vóór die eerdere veroordeling."
       ]
@@ -30702,12 +30705,15 @@
       "roleNumber": "P.25.0611.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_28.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/10/sitemap_23.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/10/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/12/sitemap_25.xml"
       ],
       "abstractFR": [
         "Le régime du recours institué par l'article D.217 du Code wallon de l'environnement déroge aux règles du droit commun de l'appel en matière répressive; l'article 204 du Code d'instruction criminelle n'est pas applicable à l'appel interjeté par le contrevenant contre une décision du fonctionnaire sanctionnateur (1). (1) Voir les concl. « dit en substance » du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De door artikel D217 van het Waals Milieuwetboek ingevoerde regeling voor het instellen van een beroep wijkt af van de gemeenrechtelijke regels van het hoger beroep in strafzaken; artikel 204 Wetboek van Strafvordering is niet van toepassing op het hoger beroep van de overtreder tegen een beslissing van de sanctionerend ambtenaar (1). (1) Zie concl. “in hoofdzaak” OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230524.2F.3": {
       "court": "CASS",
