@@ -24108,12 +24108,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_810.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_810.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_4.xml"
       ],
       "abstractFR": [
         "L'article 60 du Code pénal prévoit qu'en cas de concours de plusieurs délits, les peines seront cumulées sans qu'elles puissent néanmoins excéder le double du maximum de la peine la plus forte, la peine de travail ne pouvant en aucun cas excéder trois cents heures (1). (1) Voir Cass. 10 avril 2019, RG P.19.0257.F, Pas. 2019, n° 26, avec note."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 60 Strafwetboek voorziet dat, in geval van samenloop van verschillende wanbedrijven, alle straffen samen worden opgelegd, zonder dat zij evenwel het dubbele van het maximum van de zwaarste straf te boven mogen gaan, waarbij de werkstraf in geen geval driehonderd uur te boven mag gaan (1). (1) Zie Cass. 10 april 2019, AR P.19.0257.F, AC 2019, nr. 26, en de nota."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200902.2F.1": {
       "court": "CASS",
@@ -68324,12 +68327,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_810.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_810.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_4.xml"
       ],
       "abstractFR": [
         "L'article 60 du Code pénal prévoit qu'en cas de concours de plusieurs délits, les peines seront cumulées sans qu'elles puissent néanmoins excéder le double du maximum de la peine la plus forte, la peine de travail ne pouvant en aucun cas excéder trois cents heures (1). (1) Voir Cass. 10 avril 2019, RG P.19.0257.F, Pas. 2019, n° 26, avec note."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 60 Strafwetboek voorziet dat, in geval van samenloop van verschillende wanbedrijven, alle straffen samen worden opgelegd, zonder dat zij evenwel het dubbele van het maximum van de zwaarste straf te boven mogen gaan, waarbij de werkstraf in geen geval driehonderd uur te boven mag gaan (1). (1) Zie Cass. 10 april 2019, AR P.19.0257.F, AC 2019, nr. 26, en de nota."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230905.2N.13": {
       "court": "CASS",

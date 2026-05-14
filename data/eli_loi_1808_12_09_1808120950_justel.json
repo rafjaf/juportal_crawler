@@ -4904,12 +4904,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_809.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_809.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/13/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_3.xml"
       ],
       "abstractFR": [
         "La circonstance qu'en application de l'article 316 du Code d'instruction criminelle, le président de la cour d'assises a donné lecture des déclarations d'un témoin qui ne comparaît pas, faites au cours de l'instruction, ne l'empêche pas d'entendre ce même témoin ultérieurement lorsqu'il se présente à l'audience."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De omstandigheid dat de voorzitter van het hof van assisen, met toepassing van artikel 316 Wetboek van Strafvordering, de verklaringen heeft voorgelezen van een getuige die niet in de loop van het onderzoek verschijnt, belet hem niet diezelfde getuige op een later tijdstip te horen, wanneer hij op de rechtszitting verschijnt."
+      ]
     },
     "ECLI:BE:CASS:2007:ARR.20070116.1": {
       "court": "CASS",
