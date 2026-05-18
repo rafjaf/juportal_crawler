@@ -4516,7 +4516,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2576.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2576.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/30/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/18/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/18/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_19.xml"
       ],
       "abstractFR": [
         "Un appel ne peut être interjeté que par une personne qui avait la qualité de demandeur, de défendeur ou de partie intervenante dans la procédure en première instance et qui est lésée dans ses intérêts par la décision entreprise ; lorsque le médiateur de dettes exerce le droit d'action que lui accorde l'article 1675/15, § 1er, du Code judiciaire pour réclamer la révocation de la décision d'admissibilité ou du plan de règlement, il agit en qualité de partie à l'instance qui statue sur la révocation (1). (1) Voir les concl. du MP.",
@@ -6120,7 +6121,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2576.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2576.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/30/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/18/sitemap_10.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/18/sitemap_10.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_19.xml"
       ],
       "abstractFR": [
         "Un appel ne peut être interjeté que par une personne qui avait la qualité de demandeur, de défendeur ou de partie intervenante dans la procédure en première instance et qui est lésée dans ses intérêts par la décision entreprise ; lorsque le médiateur de dettes exerce le droit d'action que lui accorde l'article 1675/15, § 1er, du Code judiciaire pour réclamer la révocation de la décision d'admissibilité ou du plan de règlement, il agit en qualité de partie à l'instance qui statue sur la révocation (1). (1) Voir les concl. du MP.",
@@ -18820,6 +18822,26 @@
       "abstractNL": [
         "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705.",
         "De verweerder die de van hem gevorderde vergoeding betwist, op grond dat de eiser een fout heeft begaan, voert geen verantwoordingsgrond aan; hij moet derhalve het bewijs leveren van die fout (1). (1) Zie Cass. 18 november 1997, AR P.96.0477.N, AC 1997, nr. 484."
+      ]
+    }
+  },
+  "1022": {
+    "ECLI:BE:CASS:2025:ARR.20250103.1N.4": {
+      "court": "CASS",
+      "date": "2025-01-03",
+      "roleNumber": "C.24.0016.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "En présence de demandes évaluables en argent, l'indemnité de procédure en degré d'appel doit être déterminée en tenant compte de la valeur ou de l'enjeu pécuniaire de l'appel, tel qu'il ressort de l'acte d'appel ou des dernières conclusions d'appel (1). (1) Voir les concl. du MP publiées à leur date dans AC.",
+        "À moins qu'il n'existe un accord procédural sur le montant de l'indemnité de procédure, un motif ou une demande de dérogation au montant de base de l'indemnité de procédure, le juge détermine d'office le montant de base correct de cette indemnité en appliquant les dispositions de l'arrêté royal du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire et fixant la date d'entrée en vigueur des articles 1er à 13 de la loi du 21 avril 2007 relative à la répétibilité des honoraires et des frais d'avocat (1). (1) Voir les concl. du MP publiées à leur date dans AC.",
+        "La mission du juge appelé à déterminer le montant de base correct de l'indemnité de procédure n'exonère pas une partie au procès qui, ayant obtenu gain de cause, réclame une indemnité de procédure et souhaite en obtenir la liquidation, de l'obligation de faire état de ces dépens, sans pour autant devoir en déterminer le montant (1). (1) Voir les concl. du MP publiées à leur date dans AC."
+      ],
+      "abstractNL": [
+        "De rechtsplegingsvergoeding in hoger beroep moet, in geval geldelijk waardeerbare vorderingen voorliggen, worden bepaald gelet op de waarde of de geldelijke inzet van het hoger beroep, zoals die blijkt uit de beroepsakte dan wel de laatste appelconclusie (1). (1) Zie concl. OM.",
+        "Behoudens wanneer een procedureakkoord omtrent de omvang van de rechtsplegingsvergoeding dan wel een grond of een verzoek tot afwijking van het basisbedrag van de rechtsplegingsvergoeding voorligt, dient de rechter ambtshalve het met toepassing van de bepalingen van het Tarief Rechtsplegingsvergoeding correcte basisbedrag van de rechtsplegingsvergoeding te bepalen (1). (1) Zie concl. OM.",
+        "De taak van de rechter bij het bepalen van het correcte basisbedrag van de rechtsplegingsvergoeding neemt niet weg dat een procespartij die als in het gelijk gestelde partij aanspraak maakt op een rechtsplegingsvergoeding en deze wil doen vereffenen, van deze gedingkost opgave moet doen, zonder daarom het bedrag ervan te moeten bepalen (1). (1) Zie concl. OM."
       ]
     }
   },
