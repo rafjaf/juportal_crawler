@@ -1541,12 +1541,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_849.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_849.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/22/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/22/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_24.xml"
       ],
       "abstractFR": [
         "Lorsque l'assureur est informé de la volonté de la personne subrogée dans les droits de la personne lésée, qui s'en est elle-même abstenue, d'obtenir réparation du préjudice, la prescription de l'action du subrogé contre l'assureur est interrompue jusqu'au moment où ce dernier lui fait connaître par écrit sa décision d'indemnisation ou son refus."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de verzekeraar in kennis wordt gesteld van de wil van de gesubrogeerde in de rechten van de benadeelde, die zichzelf hiervan heeft onthouden, om de vergoeding van de schade te verkrijgen, wordt de verjaring van de rechtsvordering van de gesubrogeerde tegen de verzekeraar gestuit tot op het ogenblik dat de verzekeraar hem zijn beslissing om te vergoeden of zijn weigering schriftelijk ter kennis heeft gebracht."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211108.3N.1": {
       "court": "CASS",
@@ -3470,12 +3473,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_849.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_849.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/22/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/22/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_24.xml"
       ],
       "abstractFR": [
         "Lorsque l'assureur est informé de la volonté de la personne subrogée dans les droits de la personne lésée, qui s'en est elle-même abstenue, d'obtenir réparation du préjudice, la prescription de l'action du subrogé contre l'assureur est interrompue jusqu'au moment où ce dernier lui fait connaître par écrit sa décision d'indemnisation ou son refus."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de verzekeraar in kennis wordt gesteld van de wil van de gesubrogeerde in de rechten van de benadeelde, die zichzelf hiervan heeft onthouden, om de vergoeding van de schade te verkrijgen, wordt de verjaring van de rechtsvordering van de gesubrogeerde tegen de verzekeraar gestuit tot op het ogenblik dat de verzekeraar hem zijn beslissing om te vergoeden of zijn weigering schriftelijk ter kennis heeft gebracht."
+      ]
     }
   },
   "148": {

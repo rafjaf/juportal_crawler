@@ -2694,11 +2694,14 @@
       "date": "2009-11-17",
       "roleNumber": "P.09.1258.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/17/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/17/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Dans le cadre de la mise en oeuvre de méthodes particulières de recherche, les fonctionnaires des douanes et accises doivent observer les mêmes conditions et suivre la même procédure que tout officier de police judiciaire qui y est habilité, de sorte que le procureur du Roi doit autoriser les fonctionnaires des douanes à mettre en oeuvre la méthode particulière de recherche d'observation.",
-        "La mise en oeuvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ..."
+        "La mise en oeuvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ...",
+        "Dans le cadre de la mise en auvre de méthodes particulières de recherche, les fonctionnaires des douanes et accises doivent observer les mêmes conditions et suivre la même procédure que tout officier de police judiciaire qui y est habilité, de sorte que le procureur du Roi doit autoriser les fonctionnaires des douanes à mettre en oeuvre la méthode particulière de recherche d'observation.",
+        "La mise en auvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ..."
       ],
       "abstractNL": [
         "Voor de toepassing van de bijzondere opsporingsmethoden door ambtenaren van de douane en accijnzen gelden dezelfde voorwaarden en moet dezelfde rechtspleging worden gevolgd als deze voor de toepassing van bijzondere opsporingsmethoden door elke daartoe bevoegde officier van gerechtelijke politie, zodat de procureur des Konings machtiging moet verlenen aan de douaneambtenaren tot het toepassen van de bijzondere opsporingsmethode van observatie.",
@@ -11245,6 +11248,22 @@
       ]
     }
   },
+  "187": {
+    "ECLI:BE:CASS:2010:ARR.20100914.4": {
+      "court": "CASS",
+      "date": "2010-09-14",
+      "roleNumber": "P.10.1068.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 235ter du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence clairement délimitée d'examiner, à la seule lumière du dossier confidentiel, s'il n'y a pas eu violation inadmissible des droits fondamentaux de l'inculpé lors de la mise en auvre des méthodes particulières de recherche d'observation et d'infiltration, sans que l'examen exercé en application de cette disposition légale n'intègre également le contrôle de la régularité ou de la légalité de l'ensemble des actes de recherche d'observation et d'infiltration; sa décision n'a valeur que de garantie et, même si celle-ci revêt également un caractère juridique, la chambre des mises en accusation n'intervient pas en tant que juridiction de jugement, mais en tant que juridiction d'instruction, de sorte que cette décision ne peut faire l'objet d'aucune opposition (1). (1) Voir Cass., 20 avril 2010, RG P.10.0128.N, Pas., 2010, n° ..."
+      ],
+      "abstractNL": [
+        "Artikel 235ter Wetboek van Strafvordering verleent de kamer van inbeschuldigingstelling de duidelijk afgelijnde bevoegdheid om uitsluitend aan de hand van het vertrouwelijke dossier te onderzoeken of de grondrechten van de inverdenkinggestelde bij de aanwending van de bijzondere opsporingsmethoden observatie en infiltratie niet op ontoelaatbare wijze zijn miskend, zonder dat het onderzoek bij toepassing van die wetsbepaling ook de controle van de regelmatigheid of de wettigheid van de onderzoekshandelingen observatie en infiltratie in hun geheel omvat; haar uitspraak heeft enkel een behoedend karakter, en alhoewel haar beslissing ook een gerechtelijk karakter heeft, treedt zij niet op als vonnisgerecht maar als onderzoeksgerecht zodat tegen dergelijke beslissing geen verzet mogelijk is (1). (1) Zie Cass., 20 april 2010, AR P.10.0128.N, A.C., 2010, nr. ..."
+      ]
+    }
+  },
   "190": {
     "ECLI:BE:CASS:2024:ARR.20240625.2N.28": {
       "court": "CASS",
@@ -13581,7 +13600,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_19.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_19.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_11.xml"
       ],
       "abstractFR": [
         "Il résulte des travaux parlementaires relatifs à l'article 47bis du Code d'instruction criminelle qui prévoit de manière générale l'assistance possible d'un avocat lors d'une audition, que la notion d' « audition » doit s'entendre d'un interrogatoire guidé, concernant des infractions qui peuvent être mises à charge, par une personne habilitée à cet effet et acté dans un procès-verbal, dans le cadre d'une information ou d'une instruction judiciaire, en vue de la manifestation de la vérité (1) ; les questionnaires standardisés dans lesquels des informations succinctes sont demandées au moyen de réponses à cocher ou de rubriques à compléter, comme lors de l'interpellation d'un étranger en séjour illégal, ne constituent pas une audition au sens de l'article 47bis du Code d'instruction criminelle (2). (1) Cass. 5 novembre 2019, RG P.19.0384.N, Pas. 2019, n° 566. (2) Voir Cass. 6 novembre 2018, RG P.18.0299.N, Pas. 2018, n° 609."
@@ -14885,13 +14905,16 @@
       "date": "2011-06-07",
       "roleNumber": "P.11.0898.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/07/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/07/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_4.xml"
       ],
       "abstractFR": [
-        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que l'autorisation d'observation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
+        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que l'autorisation d'observation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ...",
+        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que laautorisation daobservation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° a"
       ],
       "abstractNL": [
-        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. ..."
+        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. ...",
+        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. a"
       ]
     },
     "ECLI:BE:CASS:2010:ARR.20100525.2": {
@@ -14913,14 +14936,20 @@
       "date": "2010-04-20",
       "roleNumber": "P.10.0128.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/20/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/20/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_6.xml"
       ],
       "abstractFR": [
         "L'article 47sexies du Code d'instruction criminelle, inséré par la loi du 6 janvier 2003, n'est pas applicable à la méthode particulière de recherche d'observation mise en oeuvre avant l'entrée en vigueur de la loi, de sorte que ledit article et les dispositions qu'il comporte ne sauraient influencer la légalité de l'observation alors mise en oeuvre (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
         "La définition de la notion d'observation prévue à l'article 47sexies du Code d'instruction criminelle, inséré par la loi du 6 janvier 2003, n'est pas déterminante pour établir la compétence de la chambre des mises en accusation qui exerce le contrôle de la méthode particulière de recherche d'observation mise en oeuvre avant l'entrée en vigueur de la loi (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
         "Les articles 47sexies et 47septies du Code d'instruction criminelle ne sont pas applicables aux observations mises en oeuvre avant l'entrée en vigueur de la loi du 6 janvier 2003 (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
         "Ni les droits de la défense, ni le droit au contradictoire n'empêchent que soit établi, pour la mise en oeuvre d'une observation antérieure à l'entrée en vigueur de la loi du 6 janvier 2003, un dossier confidentiel soumis au contrôle de la chambre des mises en accusation.",
-        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en oeuvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en oeuvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en oeuvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
+        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en oeuvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en oeuvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en oeuvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ...",
+        "L'article 47sexies du Code d'instruction criminelle, inséré par la loi du 6 janvier 2003, n'est pas applicable à la méthode particulière de recherche d'observation mise en auvre avant l'entrée en vigueur de la loi, de sorte que ledit article et les dispositions qu'il comporte ne sauraient influencer la légalité de l'observation alors mise en auvre (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
+        "La définition de la notion d'observation prévue à l'article 47sexies du Code d'instruction criminelle, inséré par la loi du 6 janvier 2003, n'est pas déterminante pour établir la compétence de la chambre des mises en accusation qui exerce le contrôle de la méthode particulière de recherche d'observation mise en auvre avant l'entrée en vigueur de la loi (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
+        "Les articles 47sexies et 47septies du Code d'instruction criminelle ne sont pas applicables aux observations mises en auvre avant l'entrée en vigueur de la loi du 6 janvier 2003 (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
+        "Ni les droits de la défense, ni le droit au contradictoire n'empêchent que soit établi, pour la mise en auvre d'une observation antérieure à l'entrée en vigueur de la loi du 6 janvier 2003, un dossier confidentiel soumis au contrôle de la chambre des mises en accusation.",
+        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en auvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en auvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en auvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
       ],
       "abstractNL": [
         "Artikel 47sexies Wetboek van Strafvordering, ingevoerd door de wet van 6 januari 2003, is niet van toepassing op de bijzondere opsporingsmethode van observatie aangewend vóór de inwerkingtreding van de wet, zodat dit artikel en de erin vervatte bepalingen de wettigheid van een toen toegepaste observatie niet kunnen beïnvloeden (1). (1) Zie Cass., 20 okt. 2009, AR P.09.1259.N (onuitgegeven); Cass., 20 okt. 2009, AR P.09.1379.N (onuitgegeven).",
@@ -14963,11 +14992,14 @@
       "date": "2009-11-17",
       "roleNumber": "P.09.1258.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/17/sitemap_9.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/11/17/sitemap_9.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Dans le cadre de la mise en oeuvre de méthodes particulières de recherche, les fonctionnaires des douanes et accises doivent observer les mêmes conditions et suivre la même procédure que tout officier de police judiciaire qui y est habilité, de sorte que le procureur du Roi doit autoriser les fonctionnaires des douanes à mettre en oeuvre la méthode particulière de recherche d'observation.",
-        "La mise en oeuvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ..."
+        "La mise en oeuvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ...",
+        "Dans le cadre de la mise en auvre de méthodes particulières de recherche, les fonctionnaires des douanes et accises doivent observer les mêmes conditions et suivre la même procédure que tout officier de police judiciaire qui y est habilité, de sorte que le procureur du Roi doit autoriser les fonctionnaires des douanes à mettre en oeuvre la méthode particulière de recherche d'observation.",
+        "La mise en auvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ..."
       ],
       "abstractNL": [
         "Voor de toepassing van de bijzondere opsporingsmethoden door ambtenaren van de douane en accijnzen gelden dezelfde voorwaarden en moet dezelfde rechtspleging worden gevolgd als deze voor de toepassing van bijzondere opsporingsmethoden door elke daartoe bevoegde officier van gerechtelijke politie, zodat de procureur des Konings machtiging moet verlenen aan de douaneambtenaren tot het toepassen van de bijzondere opsporingsmethode van observatie.",
@@ -16183,13 +16215,16 @@
       "date": "2011-06-07",
       "roleNumber": "P.11.0898.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/07/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/06/07/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_4.xml"
       ],
       "abstractFR": [
-        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que l'autorisation d'observation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
+        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que l'autorisation d'observation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ...",
+        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que laautorisation daobservation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° a"
       ],
       "abstractNL": [
-        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. ..."
+        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. ...",
+        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. a"
       ]
     },
     "ECLI:BE:CASS:2010:ARR.20100420.3": {
@@ -16197,12 +16232,16 @@
       "date": "2010-04-20",
       "roleNumber": "P.10.0128.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/20/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/04/20/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_6.xml"
       ],
       "abstractFR": [
         "Les articles 47sexies et 47septies du Code d'instruction criminelle ne sont pas applicables aux observations mises en oeuvre avant l'entrée en vigueur de la loi du 6 janvier 2003 (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
         "Ni les droits de la défense, ni le droit au contradictoire n'empêchent que soit établi, pour la mise en oeuvre d'une observation antérieure à l'entrée en vigueur de la loi du 6 janvier 2003, un dossier confidentiel soumis au contrôle de la chambre des mises en accusation.",
-        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en oeuvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en oeuvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en oeuvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
+        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en oeuvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en oeuvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en oeuvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ...",
+        "Les articles 47sexies et 47septies du Code d'instruction criminelle ne sont pas applicables aux observations mises en auvre avant l'entrée en vigueur de la loi du 6 janvier 2003 (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié).",
+        "Ni les droits de la défense, ni le droit au contradictoire n'empêchent que soit établi, pour la mise en auvre d'une observation antérieure à l'entrée en vigueur de la loi du 6 janvier 2003, un dossier confidentiel soumis au contrôle de la chambre des mises en accusation.",
+        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en auvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en auvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en auvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
       ],
       "abstractNL": [
         "De artikelen 47sexies en 47septies Wetboek van Strafvordering zijn niet van toepassing op observaties die zijn toegepast vóór de inwerkingtreding van de wet van 6 januari 2003 (1). (1) Zie Cass., 20 okt. 2009, AR P.09.1259.N (onuitgegeven); Cass., 20 okt. 2009, AR P.09.1379.N (onuitgegeven).",
@@ -18535,6 +18574,112 @@
       ],
       "abstractNL": [
         "De door de inverdenkinggestelden ingestelde vordering tot wraking en vervanging van deskundigen en hun hoger beroep tegen de beschikking van de onderzoeksrechter waarbij de vordering is afgewezen, maakt een verzoek om de regelmatigheid van de rechtspleging te onderzoeken niet aanhangig bij de kamer van inbeschuldigingstelling, aangezien die bevoegdheid bij het onderzoeksgerecht berust, ongeacht de reden van de aanhangigmaking, voor zover die evenwel regelmatig is (1). (1) Cass. 3 dec. 2003, AR P.03.1545.F, AC 2003, nr. 618."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100420.3": {
+      "court": "CASS",
+      "date": "2010-04-20",
+      "roleNumber": "P.10.0128.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le contrôle de la méthode particulière de recherche d'observation, exercé en application de l'article 235ter du Code d'instruction criminelle, implique que la chambre des mises en accusation prenne connaissance du dossier confidentiel constitué à l'occasion de la mise en auvre de l'observation; le fait que ce dossier confidentiel n'ait pas été communiqué aux inculpés ne constitue pas une violation de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, ni une atteinte aux droits de la défense, puisque cette restriction des droits de la défense reste exceptionnelle, au vu de l'intégralité du procès et est compensée par le fait que la régularité de la méthode de recherche mise en auvre est contrôlée par une juridiction indépendante et impartiale, et que l'inculpé peut, sur la base du dossier ouvert, recourir à toutes les voies de droit contre les méthodes de recherche mises en auvre (1). (1) Voir Cass., 31 octobre 2006, RG P.06.0841.N (non publié); Cass., 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° ..."
+      ],
+      "abstractNL": [
+        "De controle op de bijzondere opsporingsmethode observatie uitgeoefend met toepassing van artikel 235ter Wetboek van Strafvordering houdt in dat de kamer van inbeschuldigingstelling kennis neemt van het vertrouwelijke dossier dat bij de gelegenheid van de uitvoering van de observatie is samengesteld; het feit dat dit vertrouwelijke dossier niet ter kennis van de inverdenkinggestelden is gebracht, levert noch een schending van artikel 6 E.V.R.M., noch een aantasting van het recht van verdediging op, vermits deze beperking van het recht van verdediging uitzonderlijk blijft over de hele duur van het proces en gecompenseerd wordt door het feit dat de regelmatigheid van de uitgevoerde opsporingsmethode getoetst wordt door een onafhankelijke en onpartijdig gerecht, en dat de inverdenkinggestelde op basis van het open dossier al zijn rechtsmiddelen tegen de aangewende opsporingsmethoden kan aanwenden (1). (1) Zie Cass., 31 okt. 2006, AR P.06.0841.N (onuitgegeven); Cass., 2 maart 2010, AR P.10.0177.N, A.C., 2010, nr. ..."
+      ]
+    }
+  },
+  "235ter": {
+    "ECLI:BE:CASS:2010:ARR.20100914.4": {
+      "court": "CASS",
+      "date": "2010-09-14",
+      "roleNumber": "P.10.1068.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "L'article 235ter du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence clairement délimitée d'examiner, à la seule lumière du dossier confidentiel, s'il n'y a pas eu violation inadmissible des droits fondamentaux de l'inculpé lors de la mise en auvre des méthodes particulières de recherche d'observation et d'infiltration, sans que l'examen exercé en application de cette disposition légale n'intègre également le contrôle de la régularité ou de la légalité de l'ensemble des actes de recherche d'observation et d'infiltration; sa décision n'a valeur que de garantie et, même si celle-ci revêt également un caractère juridique, la chambre des mises en accusation n'intervient pas en tant que juridiction de jugement, mais en tant que juridiction d'instruction, de sorte que cette décision ne peut faire l'objet d'aucune opposition (1). (1) Voir Cass., 20 avril 2010, RG P.10.0128.N, Pas., 2010, n° ..."
+      ],
+      "abstractNL": [
+        "Artikel 235ter Wetboek van Strafvordering verleent de kamer van inbeschuldigingstelling de duidelijk afgelijnde bevoegdheid om uitsluitend aan de hand van het vertrouwelijke dossier te onderzoeken of de grondrechten van de inverdenkinggestelde bij de aanwending van de bijzondere opsporingsmethoden observatie en infiltratie niet op ontoelaatbare wijze zijn miskend, zonder dat het onderzoek bij toepassing van die wetsbepaling ook de controle van de regelmatigheid of de wettigheid van de onderzoekshandelingen observatie en infiltratie in hun geheel omvat; haar uitspraak heeft enkel een behoedend karakter, en alhoewel haar beslissing ook een gerechtelijk karakter heeft, treedt zij niet op als vonnisgerecht maar als onderzoeksgerecht zodat tegen dergelijke beslissing geen verzet mogelijk is (1). (1) Zie Cass., 20 april 2010, AR P.10.0128.N, A.C., 2010, nr. ..."
+      ]
+    },
+    "ECLI:BE:CASS:2011:ARR.20110607.4": {
+      "court": "CASS",
+      "date": "2011-06-07",
+      "roleNumber": "P.11.0898.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "À la lumière du dossier confidentiel, la chambre des mises en accusation constate de manière souveraine et authentique que laautorisation daobservation a été ordonnée pour des périodes déterminées (1). (1) Voir: Cass. 2 mars 2010, RG P.10.0177.N, Pas., 2010, n° a"
+      ],
+      "abstractNL": [
+        "De kamer van inbeschuldigingstelling stelt aan de hand van het vertrouwelijke dossier onaantastbaar en authentiek vast dat de machtiging tot observatie werd bevolen voor welomschreven periodes (1). (1) Zie: Cass. 2 maart 2010, AR P.10.0177.N, AC, 2010, nr. a"
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20090609.2": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.07.1673.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'objectif du contrôle de la régularité des méthodes particulières de recherche d'observation et d'infiltration à la lumière du dossier confidentiel que prescrit l'article 235ter du Code d'instruction criminelle est de garantir le droit à un procès équitable consacré par l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et profite dès lors à l'inculpé, de sorte que l'inculpé qui n'invoque pas de griefs contre la décision selon laquelle les méthodes particulières de recherche sont régulières n'a pas intérêt à s'opposer à la décision par laquelle la chambre des mises en accusation se déclare compétente pour effectuer le contrôle demandé de la méthode particulière de recherche d'observation et son pourvoi en cassation est dès lors irrecevable à défaut d'intérêt (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C. (2) Le M.P. a également conclu au rejet des pourvois, mais était d'avis que l'irrecevabilité à défaut d'intérêt ne pouvait concerner que les moyens de cassation invoqués et non les pourvois en cassation mêmes. Ayant déjà par le passé décidé à plusieurs reprises, conformément à la jurisprudence de la Cour constitutionnelle, à la recevabilité in abstracto du pourvoi en cassation immédiat formé contre un arrêt de la chambre des mises en accusation qui contrôle la régularité des méthodes particulières de recherche d'observation et d'infiltration en application de l'article 235ter du Code d'instruction criminelle, la Cour décide en l'espèce que les pourvois en cassation sont irrecevables in concreto à défaut d'intérêt."
+      ],
+      "abstractNL": [
+        "De bij artikel 235ter Wetboek van Strafvordering voorgeschreven controle van de regelmatigheid van de bijzondere opsporingsmethoden observatie en infiltratie aan de hand van het vertrouwelijk dossier heeft tot doel het recht op een eerlijk proces, gewaarborgd door artikel 6 EVRM, te verzekeren en strekt de verdachte dus tot voordeel, zodat de verdachte, die geen grieven aanvoert tegen de beslissing dat de bijzondere opsporingsmethoden regelmatig zijn, geen belang heeft op te komen tegen de beslissing waarbij de kamer van inbeschuldigingstelling zich bevoegd verklaart om de gevraagde controle over de bijzondere opsporingsmethode observatie uit te oefenen en zijn cassatieberoep bijgevolg niet ontvankelijk is bij gebrek aan belang (1) (2). (1) Zie de concl. van het O.M. (2) Het O.M. concludeerde eveneens tot de verwerping van de cassatieberoepen, maar was van oordeel dat de niet-ontvankelijkheid bij gebrek aan belang enkel betrekking kon hebben op de aangevoerde cassatiemiddelen en niet op de cassatieberoepen zelf. Het Hof, dat eerder meermaals, in navolging van de rechtspraak van het Grondwettelijk Hof, oordeelde dat het onmiddellijk cassatieberoep tegen een arrest van de kamer van inbeschuldigingstelling, dat, in toepassing van artikel 235ter Wetboek van Strafvordering de controle over de regelmatigheid van de bijzondere opsporingsmethoden observatie en infiltratie uitoefent, in abstracto ontvankelijk is, oordeelt hier dat de cassatieberoepen in concreto niet ontvankelijk zijn bij gebrek aan belang."
+      ]
+    },
+    "ECLI:BE:CASS:2009:ARR.20091117.5": {
+      "court": "CASS",
+      "date": "2009-11-17",
+      "roleNumber": "P.09.1258.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_7.xml"
+      ],
+      "abstractFR": [
+        "Dans le cadre de la mise en auvre de méthodes particulières de recherche, les fonctionnaires des douanes et accises doivent observer les mêmes conditions et suivre la même procédure que tout officier de police judiciaire qui y est habilité, de sorte que le procureur du Roi doit autoriser les fonctionnaires des douanes à mettre en oeuvre la méthode particulière de recherche d'observation.",
+        "La mise en auvre de la méthode particulière de recherche d'observation par les fonctionnaires des douanes doit être contrôlée par la chambre des mises en accusation (1). (1) Cass., 28 avril 2009, RG P.08.1738.N, Pas., 2009, n° ...",
+        "Dans la procédure de l'article 235ter du Code d'instruction criminelle, les douanes ne doivent pas être assimilées au ministère public, mais considérées comme partie civile."
+      ],
+      "abstractNL": [
+        "Voor de toepassing van de bijzondere opsporingsmethoden door ambtenaren van de douane en accijnzen gelden dezelfde voorwaarden en moet dezelfde rechtspleging worden gevolgd als deze voor de toepassing van bijzondere opsporingsmethoden door elke daartoe bevoegde officier van gerechtelijke politie, zodat de procureur des Konings machtiging moet verlenen aan de douaneambtenaren tot het toepassen van de bijzondere opsporingsmethode van observatie.",
+        "De toepassing van de bijzondere opsporingsmethode van observatie door de douaneambtenaren moet worden gecontroleerd door de kamer van inbeschuldigingstelling (1). (1) Cass., 28 april 2009, AR P.08.1738.N, A.C., 2009, nr. ...",
+        "In de procedure van artikel 235ter Wetboek van Strafvordering is de douane niet gelijkgesteld met het openbaar ministerie, en moet ze worden beschouwd als een burgerlijke partij."
+      ]
+    },
+    "ECLI:BE:CASS:2010:ARR.20100420.3": {
+      "court": "CASS",
+      "date": "2010-04-20",
+      "roleNumber": "P.10.0128.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "La définition de la notion d'observation prévue à l'article 47sexies du Code d'instruction criminelle, inséré par la loi du 6 janvier 2003, n'est pas déterminante pour établir la compétence de la chambre des mises en accusation qui exerce le contrôle de la méthode particulière de recherche d'observation mise en auvre avant l'entrée en vigueur de la loi (1). (1) Voir Cass., 20 octobre 2009, RG P.09.1259.N (non publié); Cass., 20 octobre 2009, RG P.09.1379.N (non publié)."
+      ],
+      "abstractNL": [
+        "De in artikel 47sexies Wetboek van Strafvordering, ingevoerd door de wet van 6 januari 2003, bepaalde definitie van het begrip observatie, is niet beslissend om de bevoegdheid te bepalen van de kamer van inbeschuldigingstelling die de controle uitoefent op de bijzondere opsporingsmethode observatie toegepast vóór de inwerkingtreding van de wet (1). (1) Zie Cass., 20 okt. 2009, AR P.09.1259.N (onuitgegeven); Cass., 20 okt. 2009, AR P.09.1379.N (onuitgegeven)."
+      ]
+    }
+  },
+  "189ter": {
+    "ECLI:BE:CASS:2009:ARR.20090609.2": {
+      "court": "CASS",
+      "date": "2009-06-09",
+      "roleNumber": "P.07.1673.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'objectif du contrôle de la régularité des méthodes particulières de recherche d'observation et d'infiltration à la lumière du dossier confidentiel que prescrit l'article 235ter du Code d'instruction criminelle est de garantir le droit à un procès équitable consacré par l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et profite dès lors à l'inculpé, de sorte que l'inculpé qui n'invoque pas de griefs contre la décision selon laquelle les méthodes particulières de recherche sont régulières n'a pas intérêt à s'opposer à la décision par laquelle la chambre des mises en accusation se déclare compétente pour effectuer le contrôle demandé de la méthode particulière de recherche d'observation et son pourvoi en cassation est dès lors irrecevable à défaut d'intérêt (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C. (2) Le M.P. a également conclu au rejet des pourvois, mais était d'avis que l'irrecevabilité à défaut d'intérêt ne pouvait concerner que les moyens de cassation invoqués et non les pourvois en cassation mêmes. Ayant déjà par le passé décidé à plusieurs reprises, conformément à la jurisprudence de la Cour constitutionnelle, à la recevabilité in abstracto du pourvoi en cassation immédiat formé contre un arrêt de la chambre des mises en accusation qui contrôle la régularité des méthodes particulières de recherche d'observation et d'infiltration en application de l'article 235ter du Code d'instruction criminelle, la Cour décide en l'espèce que les pourvois en cassation sont irrecevables in concreto à défaut d'intérêt."
+      ],
+      "abstractNL": [
+        "De bij artikel 235ter Wetboek van Strafvordering voorgeschreven controle van de regelmatigheid van de bijzondere opsporingsmethoden observatie en infiltratie aan de hand van het vertrouwelijk dossier heeft tot doel het recht op een eerlijk proces, gewaarborgd door artikel 6 EVRM, te verzekeren en strekt de verdachte dus tot voordeel, zodat de verdachte, die geen grieven aanvoert tegen de beslissing dat de bijzondere opsporingsmethoden regelmatig zijn, geen belang heeft op te komen tegen de beslissing waarbij de kamer van inbeschuldigingstelling zich bevoegd verklaart om de gevraagde controle over de bijzondere opsporingsmethode observatie uit te oefenen en zijn cassatieberoep bijgevolg niet ontvankelijk is bij gebrek aan belang (1) (2). (1) Zie de concl. van het O.M. (2) Het O.M. concludeerde eveneens tot de verwerping van de cassatieberoepen, maar was van oordeel dat de niet-ontvankelijkheid bij gebrek aan belang enkel betrekking kon hebben op de aangevoerde cassatiemiddelen en niet op de cassatieberoepen zelf. Het Hof, dat eerder meermaals, in navolging van de rechtspraak van het Grondwettelijk Hof, oordeelde dat het onmiddellijk cassatieberoep tegen een arrest van de kamer van inbeschuldigingstelling, dat, in toepassing van artikel 235ter Wetboek van Strafvordering de controle over de regelmatigheid van de bijzondere opsporingsmethoden observatie en infiltratie uitoefent, in abstracto ontvankelijk is, oordeelt hier dat de cassatieberoepen in concreto niet ontvankelijk zijn bij gebrek aan belang."
       ]
     }
   }

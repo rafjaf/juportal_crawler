@@ -5346,12 +5346,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_815.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_815.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/20/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/20/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_15.xml"
       ],
       "abstractFR": [
-        "En vertu de l'article 74 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, le juge de l'application des peines statue sur la demande de libération provisoire pour raisons médicales au terme d'une procédure écrite ; dès lors que cette disposition ne prévoit pas la tenue d'une audience, la deuxième phrase de l'article 779 du Code judiciaire qui dispose que les juges doivent avoir assisté à toutes les audiences de la cause, n'est pas applicable à cette procédure."
+        "En vertu de l'article 74 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, le juge de l'application des peines statue sur la demande de libération provisoire pour raisons médicales au terme d'une procédure écrite ; dès lors que cette disposition ne prévoit pas la tenue d'une audience, la deuxième phrase de l'article 779 du Code judiciaire qui dispose que les juges doivent avoir assisté à toutes les audiences de la cause, n'est pas applicable à cette procédure.",
+        "En vertu de l'article 74 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, le juge de l'application des peines statue sur la demande de libération provisoire pour raisons médicales au terme d'une procédure écrite ; dès lors que cette disposition ne prévoit pas la tenue d'une audience, la deuxième phrase de l'article 779 du Code judiciaire, qui dispose que les juges doivent avoir assisté à toutes les audiences de la cause, n'est pas applicable à cette procédure."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 74 Wet Strafuitvoering doet de strafuitvoeringsrechter uitspraak over het verzoek tot voorlopige invrijheidstelling om medische redenen na afloop van een schriftelijke procedure (1); aangezien die bepaling niet voorziet in een rechtszitting, is de tweede zin van artikel 779 Gerechtelijk Wetboek, dat bepaalt dat de rechters alle zittingen van de zaak moeten hebben bijgewoond, op die procedure niet van toepassing. (1) Cass. 23 juni 2015, AR P.15.0788.N, AC 2015, nr. 430."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220830.VAK.2": {
       "court": "CASS",
