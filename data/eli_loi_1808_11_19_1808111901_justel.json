@@ -12062,7 +12062,8 @@
       "roleNumber": "P.25.0741.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_20.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_508.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_508.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_46.xml"
       ],
       "abstractFR": [
         "Lorsque le ministère public n'a pas interjeté appel d'un jugement rendu par défaut, le juge d'appel, statuant sur l'appel interjeté par le ministère public contre le jugement rendu sur l'opposition du prévenu, ne peut aggraver la situation de ce dernier, telle qu'elle résulte du jugement par défaut; bien que la limitation de la validité du permis de conduire aux véhicules équipés d'un système éthylotest anti-démarrage constitue une mesure de sûreté et non une peine, le juge qui, en degré d'appel, ordonne pour la première fois cette mesure en sus des peines déjà infligées aggrave illégalement la situation du prévenu (1). (1) Voir Cass. 30 juin 2015, RG P.15.0641.F, Pas. 2015, n° 454."
@@ -12075,7 +12076,8 @@
       "roleNumber": "P.25.0577.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_21.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_509.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_509.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_47.xml"
       ],
       "abstractFR": [
         "L'article 42 de la loi relative à la police de la circulation routière, tel qu'il a été introduit par l'article 12 de la loi du 6 mars 2018 relative à l'amélioration de la sécurité routière, contient un alinéa 2 en vertu duquel la déchéance du droit de conduire pour inaptitude physique ou psychique peut être ordonnée à chaque degré de condamnation, quelle que soit la personne qui a introduit le recours; l'application de cette disposition qui déroge à l'effet relatif du recours du prévenu ne se limite pas au cas où, sur le seul appel de ce dernier, le tribunal correctionnel aggrave sa situation mais elle concerne également le cas où, sans qu'il y ait eu appel du ministère public, le prévenu a formé opposition à une décision rendue par défaut par le premier juge, lequel n'avait pas ordonné la déchéance du droit de conduire pour inaptitude physique ou psychique (1). (1) Voir les concl. du MP."
@@ -28282,9 +28284,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2946.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2946.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_37.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'introduction d'un appel incident requiert l'existence d'un appel principal recevable formé par une partie contre laquelle l'appel incident est dirigé ; un prévenu n'a toutefois pas intérêt à interjeter appel d'une décision qui rejette une action civile dirigée contre lui et, par ailleurs, la juridiction d'appel ne peut pas légalement décider que l'éventuel appel principal formé par le prévenu contre cette décision est recevable ou que la juridiction d'appel est compétente pour statuer sur cet appel."
+      ],
       "abstractNL": [
         "Het instellen van een incidenteel beroep vereist het bestaan van een ontvankelijk principaal hoger beroep door een partij tegen wie het incidenteel beroep is gericht; een beklaagde heeft echter geen belang om hoger beroep in te stellen tegen een beslissing die een tegen hem gerichte burgerlijke vordering verwerpt en het appelgerecht kan dan ook niet wettig oordelen dat het eventueel principaal hoger beroep van de beklaagde tegen die beslissing ontvankelijk is of dat het appelgerecht saisine heeft om over dat hoger beroep te oordelen."
       ]
@@ -41399,6 +41404,22 @@
       ]
     }
   },
+  "235": {
+    "ECLI:BE:CASS:2025:ARR.20250603.2N.5": {
+      "court": "CASS",
+      "date": "2025-06-03",
+      "roleNumber": "P.24.1485.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_35.xml"
+      ],
+      "abstractFR": [
+        "Il résulte des articles 130, 131, § 1er, 135, § 2 et § 3, 235bis, §§ 1er, 2 et 5, et 235 du Code d'instruction criminelle, lus conjointement, que, bien que la chambre des mises en accusation ne se prononce, en principe, pas sur les charges retenues par la chambre du conseil sur l'appel formé par un inculpé contre une ordonnance de renvoi, ses décisions rendues sur le bien-fondé dudit appel et sur l'éventuelle application d'office des compétences que lui confèrent les articles 235 et 235bis, § 5, du Code d'instruction criminelle, peuvent néanmoins avoir une incidence sur l'issue de l'action publique et sur l'existence des charges retenues par la chambre du conseil, de sorte que la juridiction de jugement, saisie de la cause, ne peut exercer son pouvoir juridictionnel qu'après avoir pris connaissance de la décision de la chambre des mises en accusation ; il en résulte que, lorsque la chambre des mises en accusation statue sur l'appel formé par un inculpé contre la décision de la chambre du conseil qui le renvoie devant la juridiction de jugement, l'action publique est pendante devant la juridiction de jugement par l'arrêt de cette chambre, au sens de l'article 23 du Titre préliminaire du Code de procédure pénale, dans la mesure où elle déclare recevable l'appel interjeté par l'inculpé (1) (2). (1) Voir concl. du MP. (2) L'article 23 du Titre préliminaire du Code de procédure pénale, tel que remplacé par l'article 35 de la loi du 9 avril 2024 sur le droit de la procédure pénale I (M.B. 18 avril 2024)."
+      ],
+      "abstractNL": [
+        "Uit de bepalingen van artikelen 130, 131, § 1, 135, § 2 en § 3, 235bis, § 1, § 2 en § 5 en 235 Wetboek van Strafvordering, in hun onderling verband gelezen, volgt dat, hoewel de kamer van inbeschuldigingstelling zich op het hoger beroep van een inverdenkinggestelde tegen een verwijzingsbeschikking in beginsel niet uitspreekt over de door de raadkamer aangenomen bezwaren, haar beslissingen over de gegrondheid van dat hoger beroep en over de eventuele ambtshalve toepassing van de haar door de artikelen 235 en 235bis, § 5, Wetboek van Strafvordering toebedeelde bevoegdheden niettemin een impact kunnen hebben op het lot van de strafvordering en op het bestaan van de door de raadkamer aangenomen bezwaren, zodat de vonnisrechter zijn rechtsmacht ingevolge de aanhangigmaking van de zaak slechts kan uitoefenen na kennis te hebben genomen van de beslissing van de kamer van inbeschuldigingstelling; hieruit volgt dat, wanneer de kamer van inbeschuldigingstelling oordeelt over het hoger beroep van een inverdenkinggestelde tegen de beslissing van de raadkamer die hem naar de vonnisrechter verwijst, de strafvordering in de zin van artikel 23 Voorafgaande Titel Wetboek van Strafvordering slechts bij de vonnisrechter aanhangig wordt gemaakt door het arrest van die kamer, in zoverre zij het hoger beroep van de inverdenkinggestelde ontvankelijk verklaart (1) (2). (1) Zie concl. OM. (2) Art. 23 Voorafgaande Titel Wetboek van Strafvordering zoals vervangen door art. 35 van de Wet Strafprocesrechter I van 9 april 2024 (BS 18 april 2024)."
+      ]
+    }
+  },
   "162bis": {
     "ECLI:BE:CASS:2025:ARR.20250225.2N.10": {
       "court": "CASS",
@@ -42854,9 +42875,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2923.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2923.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_33.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Lorsqu'elle confirme l'amende infligée du chef de la prévention, la déchéance du droit de conduire, le sursis accordé partiellement à l'exécution de cette déchéance et la décision de subordonner la réintégration dans le droit de conduire à la réussite des quatre examens, mais que, contrairement au jugement dont appel, elle ne limite pas cette mesure relative à la réintégration aux véhicules des catégories B et BE, la juridiction d'appel aggrave la peine ainsi infligée au prévenu au sens de l'article 211bis, deuxième phrase, du Code d'instruction criminelle, et elle viole cette disposition en ne constatant pas que cette décision a été rendue à l'unanimité (1). (1) Cass. 15 janvier 2019, RG P.18.1187.N, Pas. 2019, n° 24."
+      ],
       "abstractNL": [
         "Wanneer het appelgerecht de voor de telastlegging opgelegde geldboete, vervallenverklaring van het recht tot sturen, het voor die vervallenverklaring verleende gedeeltelijke uitstel van tenuitvoerlegging en het afhankelijk maken van het herstel van het recht tot sturen van het slagen in de vier examens en onderzoeken bevestigt maar anders dan met het beroepen vonnis werd geoordeeld die herstelmaatregel niet beperkt tot voertuigen van de categorieën B en BE, verzwaart het aldus de aan de beklaagde opgelegde bestraffing in de zin van artikel 211bis, tweede zin, Wetboek van Strafvordering en schendt het die bepaling door niet vast te stellen dat die beslissing met eenparige stemmen werd genomen (1). (1) Cass. 15 januari 2019, AR P.18.1187.N, AC 2019, nr. 24."
       ]

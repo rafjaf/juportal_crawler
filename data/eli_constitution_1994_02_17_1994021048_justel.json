@@ -16369,11 +16369,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2946.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2946.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_16.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_16.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_37.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "En vertu du principe de l'indépendance du ministère public, tel qu'il est consacré à l'article 151 de la Constitution, le juge ne peut adresser d'injonction au ministère public, ni donc le contraindre à donner accès à un prévenu à des informations qui relèvent d'un dossier répressif étranger à la procédure en l'espèce (1) ; de la constatation que le ministère public a refusé à un prévenu l'accès à certaines informations, le juge peut uniquement en déduire des conséquences pour le respect de son droit à un procès équitable et il peut conclure à l'irrecevabilité de l'action publique en raison de la méconnaissance de ce droit, dans la mesure où il ne peut y être remédié d'une autre manière moins contraignante ; à défaut de défense invoquée à cet égard par conclusions, le juge n'est pas tenu d'indiquer expressément qu'il considère l'action publique recevable malgré la circonstance que le prévenu n'a pas eu accès à certaines informations qu'il sollicitait, cette décision pouvant ressortir du fait que le juge se prononce sur le bien-fondé de l'action publique. (1) Voir Cass. 9 avril 2025, RG P.24.1727.F, ECLI:BE:CASS:2025:ARR.20250409.2F.18 ; Cass. 5 septembre 2017, RG P.17.0645.N, Pas. 2017, n° 446."
+      ],
       "abstractNL": [
-        "Krachtens het beginsel van de onafhankelijkheid van het openbaar ministerie, zoals vervat in artikel 151 Grondwet, kan de rechter geen bevel geven aan het openbaar ministerie en kan hij het openbaar ministerie dus niet dwingen om een beklaagde toegang te geven tot informatie die behoort tot een strafdossier dat vreemd is aan de voorliggende procedure (1); de rechter kan uit zijn vaststelling dat het openbaar ministerie aan een beklaagde toegang tot bepaalde informatie ontzegt, enkel gevolgen afleiden voor de eerbiediging van het recht op een eerlijk proces van deze laatste en hij kan, in zoverre geen minder verregaande remedie mogelijk is, besluiten tot de niet-ontvankelijkheid van de strafvordering wegens de miskenning van dat recht; bij afwezigheid van daarover bij conclusie gevoerd verweer dient de rechter niet uitdrukkelijk melding te maken van zijn beslissing dat hij, niettegenstaande zijn vaststelling dat de beklaagde geen toegang heeft tot bepaalde informatie waarom hij verzoekt, de strafvordering ontvankelijk acht en die beslissing kan blijken uit het feit dat de rechter oordeelt over de gegrondheid van de strafvordering. (1) Zie Cass. 9 april 2025, AR P.24.1727.F, AC 2025, nr. 292; Cass. 5 september 2017, AR P.17.0645.N, AC 2017, nr. 446."
+        "Krachtens het beginsel van de onafhankelijkheid van het openbaar ministerie, zoals vervat in artikel 151 Grondwet, kan de rechter geen bevel geven aan het openbaar ministerie en kan hij het openbaar ministerie dus niet dwingen om een beklaagde toegang te geven tot informatie die behoort tot een strafdossier dat vreemd is aan de voorliggende procedure (1); de rechter kan uit zijn vaststelling dat het openbaar ministerie aan een beklaagde toegang tot bepaalde informatie ontzegt, enkel gevolgen afleiden voor de eerbiediging van het recht op een eerlijk proces van deze laatste en hij kan, in zoverre geen minder verregaande remedie mogelijk is, besluiten tot de niet-ontvankelijkheid van de strafvordering wegens de miskenning van dat recht; bij afwezigheid van daarover bij conclusie gevoerd verweer dient de rechter niet uitdrukkelijk melding te maken van zijn beslissing dat hij, niettegenstaande zijn vaststelling dat de beklaagde geen toegang heeft tot bepaalde informatie waarom hij verzoekt, de strafvordering ontvankelijk acht en die beslissing kan blijken uit het feit dat de rechter oordeelt over de gegrondheid van de strafvordering. (1) Zie Cass. 9 april 2025, AR P.24.1727.F, AC 2025, nr. 292; Cass. 5 september 2017, AR P.17.0645.N, AC 2017, nr. 446.",
+        "Krachtens het beginsel van de onafhankelijkheid van het openbaar ministerie, zoals vervat in artikel 151 Grondwet, kan de rechter geen bevel geven aan het openbaar ministerie en kan hij het openbaar ministerie dus niet dwingen om een beklaagde toegang te geven tot informatie die behoort tot een strafdossier dat vreemd is aan de voorliggende procedure (1); de rechter kan uit zijn vaststelling dat het openbaar ministerie aan een beklaagde toegang tot bepaalde informatie ontzegt, enkel gevolgen afleiden voor de eerbiediging van het recht op een eerlijk proces van deze laatste en hij kan, in zoverre geen minder verregaande remedie mogelijk is, besluiten tot de niet-ontvankelijkheid van de strafvordering wegens de miskenning van dat recht; bij afwezigheid van daarover bij conclusie gevoerd verweer dient de rechter niet uitdrukkelijk melding te maken van zijn beslissing dat hij, niettegenstaande zijn vaststelling dat de beklaagde geen toegang heeft tot bepaalde informatie waarom hij verzoekt, de strafvordering ontvankelijk acht en die beslissing kan blijken uit het feit dat de rechter oordeelt over de gegrondheid van de strafvordering. (1) Zie Cass. 9 april 2025, AR P.24.1727.F, ECLI:BE:CASS:2025:ARR.20250409.2F.18; Cass. 5 september 2017, AR P.17.0645.N, AC 2017, nr. 446."
       ]
     },
     "ECLI:BE:CASS:2015:ARR.20150210.5": {
@@ -17915,7 +17919,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/23/sitemap_13.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/22/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/23/sitemap_15.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_120.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_120.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_9.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -18290,7 +18295,8 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/23/sitemap_13.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/22/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/23/sitemap_15.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_120.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_120.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_9.xml"
       ],
       "abstractFR": null,
       "abstractNL": [

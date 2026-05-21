@@ -11944,6 +11944,50 @@
         "Si le juge ne peut pas refuser la capitalisation au motif que le préjudice ne se manifestera pas de manière linéaire ni la refuser au prix d'une contradiction qui consisterait à dire que l'incapacité permanente, en réalité, ne l'est pas, il peut en revanche la refuser si, l'équivalence susdite étant impossible à établir, cette méthode conduirait à allouer à la victime une somme dépassant le préjudice à indemniser."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2024:ARR.20241212.1F.5": {
+      "court": "CASS",
+      "date": "2024-12-12",
+      "roleNumber": "C.24.0192.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_19.xml"
+      ],
+      "abstractFR": [
+        "Celui qui, par sa faute, a causé un dommage à autrui est tenu de le réparer et la victime a droit, en règle, à la réparation intégrale du préjudice qu'elle a subi (1). (1) Cass. 29 mars 2024, RG C.23.0305.F, Pas. 2024, n° 273.",
+        "L'existence d'un lien de causalité entre la faute et le dommage suppose que, sans la faute, le dommage n'eût pu se produire tel qu'il s'est réalisé (1). (1) Cass. 24 juin 2024, RG C.23.0183.F, Pas. 2024, n° 478.",
+        "Le juge qui apprécie l'existence du lien de causalité entre la faute et le dommage doit reconstruire le cours des événements en omettant la faute; s'il ne peut modifier les autres circonstances dans lesquelles le dommage est survenu, il doit, dans la mesure où la faute affecte ces circonstances, en faire abstraction (1). (1) Cass. 24 juin 2024, RG C.23.0183.F, Pas. 2024, n° 478."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2012:ARR.20121217.9": {
+      "court": "CASS",
+      "date": "2012-12-17",
+      "roleNumber": "S.11.0099.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si le juge du fond apprécie en fait l'existence d'un dommage, la Cour contrôle si les faits qu'il a constatés justifient les conséquences qu'il en a déduites en droit (1). (1) Voir les concl. du MP.",
+        "L'arrêt qui constate que l'aide matérielle que les enfants étaient en droit de recevoir de l'agence fédérale pour l'accueil des demandeurs d'asile était indispensable à leur développement et nécessaire pour leur permettre de mener une vie conforme à la dignité humaine, n'a pu, sans violer les articles 1382 et 1383 du Code civil, décider qu'il n'était pas établi que la faute de cette agence consistant à ne pas leur avoir procuré cette aide leur eût causé un dommage (1). (1) Voir les concl. du MP.",
+        "Du fait qu'un dommage ne peut plus être réparé en nature en raison de l'écoulement du temps, il ne se déduit pas qu'il ne devait pas être réparé par l'allocation de dommages et intérêts (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De bodemrechter beoordeelt het bestaan van een schade in feite maar het Hof gaat na of de feiten die hij heeft vastgesteld de gevolgen rechtvaardigen die hij er in rechte heeft uit afgeleid (1). (1) Zie de concl. van het O.M. in Pas. nr. ... .",
+        "Het arrest dat vaststelt dat de materiële hulp van het Federaal Agentschap voor de Opvang van Asielzoekers waarop de kinderen recht hadden onontbeerlijk was voor hun ontwikkeling en noodzakelijk was om hen toe te laten een menswaardig bestaan te leiden, heeft niet kunnen beslissen, zonder de artikelen 1382 en 1383 van het Burgerlijk Wetboek te schenden, dat niet bewezen was dat de fout van dat agentschap, met name die hulp niet te hebben geboden, hen schade heeft toegebracht (1). (1) Zie de concl. van het O.M. in Pas. nr. ... .",
+        "Uit het feit dat een schade wegens het tijdsverloop niet meer in natura kan worden hersteld, kan niet worden afgeleid dat die schade niet door een schadevergoeding moest worden hersteld (1). (1) Zie de concl. van het O.M. in Pas. nr. ... ."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251126.2F.5": {
+      "court": "CASS",
+      "date": "2025-11-26",
+      "roleNumber": "P.25.0610.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_43.xml"
+      ],
+      "abstractFR": [
+        "L'existence d'un lien causal entre une faute et un dommage se déduit de la constatation que, sans la faute, le dommage ne se serait pas réalisé tel qu'il s'est produit; la faute n'est donc pas causale s'il apparaît que, sans elle, le dommage se serait néanmoins produit, et de la même manière; le jugement qui ne déduit le lien causal que de la faute elle-même ne justifie pas légalement sa décision (1). (1) Cass. 27 mars 2024, RG P.23.0688.F, ECLI:BE:CASS:2024:ARR.20240327.2F.2 www.juportal.be."
+      ],
+      "abstractNL": null
     }
   },
   "1383": {
@@ -12070,6 +12114,36 @@
         "Le juge du fond apprécie en fait l'existence d'un dommage causé par un acte illicite et le montant destiné à le réparer intégralement; il peut recourir à une évaluation en équité du dommage s'il indique la raison pour laquelle le mode de calcul proposé par la victime ne peut être admis et s'il constate en outre l'impossibilité de déterminer autrement le dommage tel qu'il l'a caractérisé (1). (1) Voir les concl. du MP.",
         "En tant que méthode d'indemnisation d'un préjudice futur, la capitalisation se définit comme un calcul actuariel consistant à convertir en une somme l'ensemble des indemnités à échoir; cette méthode suppose donc un minimum d'équivalence entre les échéances de la rente due et le préjudice annuel se manifestant jusqu'à la fin de la durée déterminée par le calcul.",
         "Si le juge ne peut pas refuser la capitalisation au motif que le préjudice ne se manifestera pas de manière linéaire ni la refuser au prix d'une contradiction qui consisterait à dire que l'incapacité permanente, en réalité, ne l'est pas, il peut en revanche la refuser si, l'équivalence susdite étant impossible à établir, cette méthode conduirait à allouer à la victime une somme dépassant le préjudice à indemniser."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2012:ARR.20121217.9": {
+      "court": "CASS",
+      "date": "2012-12-17",
+      "roleNumber": "S.11.0099.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Si le juge du fond apprécie en fait l'existence d'un dommage, la Cour contrôle si les faits qu'il a constatés justifient les conséquences qu'il en a déduites en droit (1). (1) Voir les concl. du MP.",
+        "L'arrêt qui constate que l'aide matérielle que les enfants étaient en droit de recevoir de l'agence fédérale pour l'accueil des demandeurs d'asile était indispensable à leur développement et nécessaire pour leur permettre de mener une vie conforme à la dignité humaine, n'a pu, sans violer les articles 1382 et 1383 du Code civil, décider qu'il n'était pas établi que la faute de cette agence consistant à ne pas leur avoir procuré cette aide leur eût causé un dommage (1). (1) Voir les concl. du MP.",
+        "Du fait qu'un dommage ne peut plus être réparé en nature en raison de l'écoulement du temps, il ne se déduit pas qu'il ne devait pas être réparé par l'allocation de dommages et intérêts (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De bodemrechter beoordeelt het bestaan van een schade in feite maar het Hof gaat na of de feiten die hij heeft vastgesteld de gevolgen rechtvaardigen die hij er in rechte heeft uit afgeleid (1). (1) Zie de concl. van het O.M. in Pas. nr. ... .",
+        "Het arrest dat vaststelt dat de materiële hulp van het Federaal Agentschap voor de Opvang van Asielzoekers waarop de kinderen recht hadden onontbeerlijk was voor hun ontwikkeling en noodzakelijk was om hen toe te laten een menswaardig bestaan te leiden, heeft niet kunnen beslissen, zonder de artikelen 1382 en 1383 van het Burgerlijk Wetboek te schenden, dat niet bewezen was dat de fout van dat agentschap, met name die hulp niet te hebben geboden, hen schade heeft toegebracht (1). (1) Zie de concl. van het O.M. in Pas. nr. ... .",
+        "Uit het feit dat een schade wegens het tijdsverloop niet meer in natura kan worden hersteld, kan niet worden afgeleid dat die schade niet door een schadevergoeding moest worden hersteld (1). (1) Zie de concl. van het O.M. in Pas. nr. ... ."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251126.2F.5": {
+      "court": "CASS",
+      "date": "2025-11-26",
+      "roleNumber": "P.25.0610.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_43.xml"
+      ],
+      "abstractFR": [
+        "L'existence d'un lien causal entre une faute et un dommage se déduit de la constatation que, sans la faute, le dommage ne se serait pas réalisé tel qu'il s'est produit; la faute n'est donc pas causale s'il apparaît que, sans elle, le dommage se serait néanmoins produit, et de la même manière; le jugement qui ne déduit le lien causal que de la faute elle-même ne justifie pas légalement sa décision (1). (1) Cass. 27 mars 2024, RG P.23.0688.F, ECLI:BE:CASS:2024:ARR.20240327.2F.2 www.juportal.be."
       ],
       "abstractNL": null
     }

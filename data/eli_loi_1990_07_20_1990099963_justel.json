@@ -8887,7 +8887,8 @@
       "roleNumber": "P.21.1204.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/17/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/28/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/28/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_4.xml"
       ],
       "abstractFR": [
         "Par arrêt n° 148/2017 du 21 décembre 2017 (B.38.1), la Cour constitutionnelle a annulé l'article 132, 1°, de la loi du 5 février 2016 modifiant le droit pénal et la procédure pénale et portant des dispositions diverses en matière de justice, en ce qu'il ne permet pas à la chambre du conseil, statuant au stade du règlement de la procédure, d'accorder à l'inculpé qui subit la détention préventive dans un établissement pénitentiaire de bénéficier de la détention préventive sous surveillance électronique; il revient au juge de remédier à toute lacune de la loi dont la Cour constitutionnelle a constaté l'inconstitutionnalité et à toute lacune qui en découle, lorsqu'il peut suppléer à ces lacunes dans le cadre des dispositions légales existantes pour rendre la loi conforme aux articles 10 et 11 de la Constitution; il en résulte que, lorsque la juridiction d'instruction a ordonné le maintien en détention de l'inculpé renvoyé devant la juridiction de jugement, en application de l'article 26, § 3, alinéa 1er, de la loi du 20 juillet 1990 relative à la détention préventive, l'inculpé peut, sur le fondement de l'article 27, § 1er, 1° et 2°, de cette loi demander non seulement sa mise en liberté provisoire mais aussi la conversion de la détention préventive à exécuter en prison en modalité de détention préventive sous surveillance électronique (1). (1) Cass. 25 août 2021, RG P.21.1144.N, Pas. 2021, n° 506 ; Cass. 28 janvier 2020, RG P.20.0071.N, Pas. 2020, n° 81 ; Cass. 17 octobre 2018, RG P.18.1011.F, Pas. 2018, n° 565 ; M.-A. BEERNAERT, H. BOSLY et D. VANDERMEERSCH, Droit de la procédure pénale, La Charte, 2021, 9ème éd., I, p. 1107.",
@@ -9549,13 +9550,18 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1154.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1154.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/20/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/20/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_7.xml"
       ],
       "abstractFR": [
         "Lorsque le prévenu est renvoyé détenu devant le juge compétent, il ne comparaît plus, chaque mois ou tous les deux mois, devant une juridiction d'instruction chargée de statuer sur le maintien de la détention préventive; par contre, conformément à l'article 27, § 1er, de la loi du 20 juillet 1990 relative à la détention préventive, il a la faculté, à tout moment, de déposer une requête de mise en liberté (1). (1) M.-A. Beernaert, H. D. Bosly et D. Vandermeersch, Droit de la procédure pénale, Bruxelles, La Charte, 9ième éd., 2021, p. 1198.",
-        "Lorsqu'il n'a pas été mis fin à la détention préventive avant la décision du premier juge ou que celui-ci a ordonné l'arrestation immédiate du prévenu condamné, la libération provisoire peut être accordée à ce dernier à la suite du dépôt d'une requête introduite auprès de la chambre chargée, en appel, des affaires correctionnelles, à partir de l'introduction de l'appel jusqu'à la décision rendue sur ce recours (1). (1) Cass. 5 octobre 2021, RG P.21.1196.N, Pas. 2021, n° 617."
+        "Lorsqu'il n'a pas été mis fin à la détention préventive avant la décision du premier juge ou que celui-ci a ordonné l'arrestation immédiate du prévenu condamné, la libération provisoire peut être accordée à ce dernier à la suite du dépôt d'une requête introduite auprès de la chambre chargée, en appel, des affaires correctionnelles, à partir de l'introduction de l'appel jusqu'à la décision rendue sur ce recours (1). (1) Cass. 5 octobre 2021, RG P.21.1196.N, Pas. 2021, n° 617.",
+        "Lorsqu'il n'a pas été mis fin à la détention préventive avant la décision du premier juge ou que celui-ci a ordonné l'arrestation immédiate du prévenu condamné, la libération provisoire peut être accordée à ce dernier à la suite du dépôt d'une requête introduite auprès de la chambre chargée, en appel, des affaires correctionnelles, à partir de l'introduction de l'appel jusqu'à la décision rendue sur ce recours (1). (1) Cass. 5 oktober 2021, AR P.21.1196.N, ECLI:BE:CASS:2021:ARR.20211005.2N.14"
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de in hechtenis genomen beklaagde naar de bevoegde rechter is verwezen, verschijnt hij niet langer maandelijks of om de twee maanden voor een onderzoeksgerecht dat over de handhaving van de voorlopige hechtenis uitspraak moet doen; hij heeft daarentegen, overeenkomstig artikel 27, § 1, Voorlopige Hechteniswet, de mogelijkheid om op elk ogenblik een verzoek tot invrijheidstelling in te dienen (1). (1) M.-A. Beernaert, H. D. Bosly en D. Vandermeersch, Droit de la procédure pénale, Brussel, La Charte, 9de uitg., 2021, 1198.",
+        "Wanneer er geen einde werd gemaakt aan de voorlopige hechtenis vóór de beslissing van de eerste rechter of die rechter de onmiddellijke aanhouding van de veroordeelde beklaagde heeft bevolen, kan aan die beklaagde de voorlopige invrijheidstelling worden verleend op indiening van een verzoekschrift bij de kamer belast met de behandeling van correctionele zaken in hoger beroep, vanaf het instellen van het hoger beroep tot de beslissing over dat hoger beroep (1). (1) Cass. 5 oktober 2021, AR P.21.1196.N, ECLI:BE:CASS:2021:ARR.20211005.2N.14."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240103.2F.7": {
       "court": "CASS",
@@ -10096,7 +10102,8 @@
       "roleNumber": "P.21.1204.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/17/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/28/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/28/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_4.xml"
       ],
       "abstractFR": [
         "Par arrêt n° 148/2017 du 21 décembre 2017 (B.38.1), la Cour constitutionnelle a annulé l'article 132, 1°, de la loi du 5 février 2016 modifiant le droit pénal et la procédure pénale et portant des dispositions diverses en matière de justice, en ce qu'il ne permet pas à la chambre du conseil, statuant au stade du règlement de la procédure, d'accorder à l'inculpé qui subit la détention préventive dans un établissement pénitentiaire de bénéficier de la détention préventive sous surveillance électronique; il revient au juge de remédier à toute lacune de la loi dont la Cour constitutionnelle a constaté l'inconstitutionnalité et à toute lacune qui en découle, lorsqu'il peut suppléer à ces lacunes dans le cadre des dispositions légales existantes pour rendre la loi conforme aux articles 10 et 11 de la Constitution; il en résulte que, lorsque la juridiction d'instruction a ordonné le maintien en détention de l'inculpé renvoyé devant la juridiction de jugement, en application de l'article 26, § 3, alinéa 1er, de la loi du 20 juillet 1990 relative à la détention préventive, l'inculpé peut, sur le fondement de l'article 27, § 1er, 1° et 2°, de cette loi demander non seulement sa mise en liberté provisoire mais aussi la conversion de la détention préventive à exécuter en prison en modalité de détention préventive sous surveillance électronique (1). (1) Cass. 25 août 2021, RG P.21.1144.N, Pas. 2021, n° 506 ; Cass. 28 janvier 2020, RG P.20.0071.N, Pas. 2020, n° 81 ; Cass. 17 octobre 2018, RG P.18.1011.F, Pas. 2018, n° 565 ; M.-A. BEERNAERT, H. BOSLY et D. VANDERMEERSCH, Droit de la procédure pénale, La Charte, 2021, 9ème éd., I, p. 1107.",
@@ -10524,14 +10531,17 @@
     "ECLI:BE:CASS:2006:ARR.20061213.6": {
       "court": "CASS",
       "date": "2006-12-13",
-      "roleNumber": "P061353F",
+      "roleNumber": "P.06.1353.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/13/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/13/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_3.xml"
       ],
       "abstractFR": [
         "Est irrecevable le pourvoi immédiat dirigé contre un arrêt qui se borne à dire irrecevable, à défaut d'intérêt, une requête tendant à la mise en liberté d'un prévenu qui n'en a pas été privé (1). (1) La décision attaquée statuait sur une requête de mise en liberté déposée par le demandeur; après avoir constaté que ce dernier avait comparu libre à l'audience de la cour d'appel, elle déclarait la requête de mise en liberté irrecevable à défaut d'intérêt, l'arrestation immédiate qui avait été prononcée à l'égard du demandeur n'ayant pas été exécutée."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Niet ontvankelijk is het onmiddellijk cassatieberoep tegen een arrest dat slechts een verzoek tot invrijheidstelling van een beklaagde die niet van zijn vrijheid werd beroofd, niet ontvankelijk verklaart (1). (1) De bestreden beslissing deed uitspraak over een verzoek tot invrijheidstelling, ingediend door de eiser; na te hebben vastgesteld dat deze vrij op de terechtzitting van het hof van beroep was verschenen, verklaarde zij het verzoek tot invrijheidstelling niet ontvankelijk bij gebrek aan belang, aangezien de onmiddellijke aanhouding die tegen de eiser was uitgesproken niet ten uitvoer gelegd was."
+      ]
     },
     "ECLI:BE:CASS:2001:ARR.20011121.5": {
       "court": "CASS",
@@ -15967,14 +15977,17 @@
     "ECLI:BE:CASS:2006:ARR.20061213.6": {
       "court": "CASS",
       "date": "2006-12-13",
-      "roleNumber": "P061353F",
+      "roleNumber": "P.06.1353.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/13/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/12/13/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_3.xml"
       ],
       "abstractFR": [
         "Est irrecevable le pourvoi immédiat dirigé contre un arrêt qui se borne à dire irrecevable, à défaut d'intérêt, une requête tendant à la mise en liberté d'un prévenu qui n'en a pas été privé (1). (1) La décision attaquée statuait sur une requête de mise en liberté déposée par le demandeur; après avoir constaté que ce dernier avait comparu libre à l'audience de la cour d'appel, elle déclarait la requête de mise en liberté irrecevable à défaut d'intérêt, l'arrestation immédiate qui avait été prononcée à l'égard du demandeur n'ayant pas été exécutée."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Niet ontvankelijk is het onmiddellijk cassatieberoep tegen een arrest dat slechts een verzoek tot invrijheidstelling van een beklaagde die niet van zijn vrijheid werd beroofd, niet ontvankelijk verklaart (1). (1) De bestreden beslissing deed uitspraak over een verzoek tot invrijheidstelling, ingediend door de eiser; na te hebben vastgesteld dat deze vrij op de terechtzitting van het hof van beroep was verschenen, verklaarde zij het verzoek tot invrijheidstelling niet ontvankelijk bij gebrek aan belang, aangezien de onmiddellijke aanhouding die tegen de eiser was uitgesproken niet ten uitvoer gelegd was."
+      ]
     },
     "ECLI:BE:CASS:2002:ARR.20020716.4": {
       "court": "CASS",
