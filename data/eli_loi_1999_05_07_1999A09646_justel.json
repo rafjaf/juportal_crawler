@@ -1877,14 +1877,19 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_872.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_872.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/29/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/29/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_3.xml"
       ],
       "abstractFR": [
         "Un recours fiscal peut être introduit par le délégué à la gestion journalière d'une société dans la mesure où le litige peut être considéré comme relevant de cette gestion (1). (1) Voir les concl. du MP.",
         "Il incombe à la partie, qui allègue que la décision du délégué à la gestion journalière d'une société de former un recours fiscal n'a pas été approuvée par les organes de la personne morale et n'émane pas de cette dernière, de prouver que le litige ne relève pas de cette gestion (1). (1) Voir les concl. du MP.",
         "Les actes de la gestion journalière sont notamment ceux qui sont commandés par les besoins de la vie quotidienne de la société (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een fiscaal beroep kan worden ingesteld door de persoon aan wie het dagelijks bestuur van een vennootschap is opgedragen, in zoverre het om een geschil gaat dat wordt geacht onder het dagelijks bestuur te vallen (1). (1) Zie concl. OM.",
+        "De partij die aanvoert dat de beslissing van de persoon aan wie het dagelijks bestuur van een vennootschap is opgedragen om een fiscaal beroep in te stellen, niet door de organen van de rechtspersoon werd goedgekeurd en niet van die rechtspersoon uitgaat, dient te bewijzen dat het geschil niet onder dat bestuur valt (1). (1) Zie concl. OM.",
+        "De daden van dagelijks bestuur zijn met name die welke geboden zijn door de noden van het dagelijks leven van de vennootschap (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2009:ARR.20090226.1": {
       "court": "CASS",
@@ -2057,6 +2062,20 @@
       ],
       "abstractNL": [
         "Wanneer het maatschappelijk kapitaal volledig is opgevraagd, is de algemene vergadering van obligatiehouders bevoegd om de aflossing te verlengen, de aflossing te schorsen en toe te stemmen in een wijziging van de voorwaarden waaronder ze moeten geschieden, zonder dat dit afwijkt van de eis dat geen enkele beslissing van de algemene vergadering van obligatiehouders die de aflossingsvoorwaarden van de verplichte lening wijzigt, niet zonder de toestemming van de vennootschap gevolgen kan teweegbrengen (1). (1) Zie concl. ”in hoofdzaak” OM in Pas. 2020, nr. 337."
+      ]
+    }
+  },
+  "600": {
+    "ECLI:BE:CASS:2026:ARR.20260402.1N.11": {
+      "court": "CASS",
+      "date": "2026-04-02",
+      "roleNumber": "C.25.0042.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_26.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De deposant aan wie de gestorte gelden desgevallend moeten worden teruggeven, is diegene die wenste in te schrijven op een kapitaalverhoging en met dat oogmerk een inbreng heeft toegezegd; een derde die in naam en voor rekening van de inbrenger gelden heeft gestort kan krachtens deze bepaling geen aanspraak maken op de teruggave ervan."
       ]
     }
   },

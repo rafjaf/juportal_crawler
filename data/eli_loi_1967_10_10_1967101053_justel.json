@@ -9057,13 +9057,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_872.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_872.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/29/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/09/29/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_3.xml"
       ],
       "abstractFR": [
         "Hormis le cas où la loi exige un mandat spécial, l'avocat qui accomplit un acte de procédure devant une juridiction de l'ordre judiciaire et se limite à déclarer agir au nom d'une personne morale dûment identifiée par sa dénomination, sa nature juridique et son siège social, est légalement présumé avoir reçu à cette fin un mandat régulier de l'organe compétent de cette personne morale (1). (1) Voir les concl. du MP.",
         "La présomption de mandat prévue à l'article 440, alinéa 2 du Code judiciaire n'est pas irréfragable; une partie peut alléguer que la décision d'accomplir un acte de procédure n'a pas été approuvée par les organes de la personne morale et n'émane pas de cette dernière mais la charge de la preuve incombe à cette partie (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Behoudens het geval waarin de wet een bijzondere lastgeving vereist, wordt de advocaat die een proceshandeling stelt voor een rechtbank van de rechterlijke orde en zich ertoe beperkt te verklaren dat hij optreedt namens een rechtspersoon die naar behoren is geïdentificeerd door zijn benaming, zijn rechtskarakter en zijn maatschappelijke zetel, wettelijk vermoed daartoe van het bevoegde orgaan van die rechtspersoon een regelmatige lastgeving te hebben ontvangen (1). (1) Zie concl. OM.",
+        "Het in artikel 440, tweede lid, Gerechtelijk Wetboek bepaalde vermoeden van lastgeving is niet onweerlegbaar; een partij kan aanvoeren dat de beslissing om een proceshandeling te stellen niet door de organen van de rechtspersoon werd goedgekeurd en niet van die rechtspersoon uitgaat, maar de bewijslast berust bij die partij (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210929.2F.9": {
       "court": "CASS",
@@ -9443,6 +9447,18 @@
       "abstractNL": [
         "De advokaat die een handelsvennootschap vertegenwoordigt wordt wettelijk geacht van de bevoegde organen van deze vennootschap een regelmatige lastgeving te hebben ontvangen wanneer hij enkel verklaart in naam van de vennootschap te handelen. Het is niet nodig in het inleidend exploot of verzoekschrift de organen aan te wijzen die voor de vennootschap optreden als in dit stuk een advokaat verklaart de vennootschap te vertegenwoordigen."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260417.1F.3": {
+      "court": "CASS",
+      "date": "2026-04-17",
+      "roleNumber": "C.24.0319.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_33.xml"
+      ],
+      "abstractFR": [
+        "A défaut de contestation de la partie à laquelle l'aveu est opposé, le juge ne doit pas exiger la production du mandat spécial conféré à l'avocat pour retenir l'existence d'un tel aveu (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "443": {
