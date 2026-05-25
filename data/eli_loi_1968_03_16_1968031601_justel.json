@@ -541,9 +541,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2834.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2834.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/17/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/17/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/22/sitemap_3.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le dépassement de la vitesse maximale autorisée par l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique (le code de la route), puni par l'article 29, § 3, de la loi du 16 mars 1968 relative à la police de la circulation routière, consiste en une infraction instantanée commise à tout moment où la vitesse maximale autorisée est dépassée; le juge examine souverainement, à cet égard, si la vitesse atteinte au cours d'un déplacement à un moment donné implique un fait distinct."
+      ],
       "abstractNL": [
         "Het overschrijden van de in het Wegverkeersreglement toegelaten maximumsnelheid, strafbaar gesteld door artikel 29, § 3, Wegverkeerswet, houdt een aflopend misdrijf in dat wordt gepleegd op elk moment waarop de toegelaten maximumsnelheid wordt overschreden; de rechter oordeelt in dit verband onaantastbaar of een tijdens een verplaatsing op een gegeven moment gevoerde snelheid een afzonderlijk feit inhoudt."
       ]
@@ -2843,7 +2846,8 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_952.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/01/23/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/29/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/29/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/22/sitemap_1.xml"
       ],
       "abstractFR": [
         "Il résulte de l'article 38, § 2bis, de la loi coordonnée du 16 mars 1968 relative à la police de la circulation routière que le juge ne peut pas légalement, d'une part, subordonner la réintégration dans le droit de conduire à la condition d'avoir réussi l'examen pratique et, d'autre part, dire que la déchéance du droit de conduire prononcée sera mise à exécution uniquement du vendredi à 20 heures au dimanche à 20 heures ainsi qu'à partir de 20 heures la veille d'un jour férié jusqu'à 20 heures le jour férié même."
