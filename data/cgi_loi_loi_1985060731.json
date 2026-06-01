@@ -5,7 +5,8 @@
       "date": "2026-03-23",
       "roleNumber": "S.25.0060.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/29/sitemap_94.xml"
       ],
       "abstractFR": [
         "Il ne suit ni des dispositions relatives à l'institution d'un comité pour la prévention et la protection au travail ni de celles applicables en cas de transfert d'entreprise que l'unité technique d'exploitation définie, sur la base des critères économiques et sociaux, pour les élections sociales à venir devrait avoir existé pendant tout ou partie de la période de référence (1). (1) Voir les concl. du MP."
@@ -46,6 +47,32 @@
       "abstractNL": [
         "De overgang van een onderneming of van een gedeelte van een onderneming bestaat in de overgang van een economische eenheid die haar identiteit behoudt, waaronder een georganiseerd geheel van middelen met het oog op de voortzetting van een al dan niet hoofdzakelijke economische activiteit wordt begrepen; de overgang heeft betrekking op een economische eenheid, namelijk een georganiseerd geheel van personen en middelen dat de uitoefening van een economische activiteit met een eigen doel mogelijk maakt, waarbij de doorslaggevende factor bestaat in het behoud van de identiteit van de economische eenheid; om te bepalen of aan die voorwaarde is voldaan, moet rekening worden gehouden met alle feitelijke omstandigheden die de betrokken verrichting kenmerken, waaronder met name het soort onderneming of instelling waar het om gaat, de vraag of er al dan niet materiële bestanddelen zoals gebouwen en roerende goederen worden overgedragen, de waarde van de immateriële bestanddelen, de vraag of de nieuwe bedrijfsleider al dan niet het merendeel van het personeel overneemt, de vraag of het cliënteel al dan niet wordt overgedragen, alsook de mate van overeenkomst van de activiteit zoals zij vóór en na de overgang wordt uitgeoefend en de duur van een eventuele stopzetting van die activiteit; die gegevens zijn echter slechts gedeeltelijke aspecten van de vereiste globale beoordeling en kunnen daarom niet afzonderlijk worden beoordeeld; het feit dat de overgang het gevolg is van eenzijdige beslissingen van de overheid, namelijk die om niet langer subsidies aan een rechtspersoon toe te kennen, wat de stopzetting van zijn activiteit tot gevolg heeft, en ze aan een andere rechtspersoon toe te kennen, sluit de toepassing van richtlijn 2001/23/EG van de Raad van 12 maart 2001 niet uit (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260323.3F.2": {
+      "court": "CASS",
+      "date": "2026-03-23",
+      "roleNumber": "S.25.0060.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/29/sitemap_94.xml"
+      ],
+      "abstractFR": [
+        "Il ne suit ni des dispositions relatives à l'institution d'un comité pour la prévention et la protection au travail ni de celles applicables en cas de transfert d'entreprise que l'unité technique d'exploitation définie, sur la base des critères économiques et sociaux, pour les élections sociales à venir devrait avoir existé pendant tout ou partie de la période de référence (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    }
+  },
+  "7": {
+    "ECLI:BE:CASS:2026:ARR.20260323.3F.2": {
+      "court": "CASS",
+      "date": "2026-03-23",
+      "roleNumber": "S.25.0060.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/29/sitemap_94.xml"
+      ],
+      "abstractFR": [
+        "Il ne suit ni des dispositions relatives à l'institution d'un comité pour la prévention et la protection au travail ni de celles applicables en cas de transfert d'entreprise que l'unité technique d'exploitation définie, sur la base des critères économiques et sociaux, pour les élections sociales à venir devrait avoir existé pendant tout ou partie de la période de référence (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   }
 }
