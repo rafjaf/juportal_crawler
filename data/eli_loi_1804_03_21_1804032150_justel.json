@@ -3131,12 +3131,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_890.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_890.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_3.xml"
       ],
       "abstractFR": [
         "Ni l'article 141ter du Code pénal ni les articles 8 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, 2, 3 et 27.2 de la Convention relative aux droits de l'enfant, 22 et 22bis de la Constitution et 203, § 1er, de l'ancien Code civil n'ont pour but ou pour effet d'exclure du champ d'application de l'article 140, § 1er, du Code pénal le parent qui fournit des moyens matériels en vue de permettre à son enfant de participer aux activités d'un groupe terroriste ou pour financer ces dernières."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Noch artikel 141ter Strafwetboek noch artikel 8 EVRM, artikelen 2, 3 en 27.2 Kinderrechtenverdrag, artikelen 22 en 22bis Grondwet of artikel 203, § 1, Oud Burgerlijk Wetboek hebben tot doel of tot gevolg dat zij de toepassing van artikel 140, § 1, Strafwetboek uitsluiten ten aanzien van de ouder die materiële middelen verstrekt om zijn kind te laten deelnemen aan de activiteiten van een terroristische groep of om die activiteiten te financieren."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211019.2N.15": {
       "court": "CASS",
@@ -11484,6 +11487,22 @@
       ]
     }
   },
+  "682": {
+    "ECLI:BE:CASS:2023:ARR.20231013.1F.3": {
+      "court": "CASS",
+      "date": "2023-10-13",
+      "roleNumber": "C.23.0003.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "Le propriétaire dont le fonds est enclavé parce qu'il n'a aucune issue ou qu'il n'a qu'une issue insuffisante sur la voie publique, qui ne peut être aménagée sans frais ou inconvénients excessifs, peut réclamer un passage sur le fonds de ses voisins pour l'utilisation normale de sa propriété d'après sa destination, moyennant paiement d'une indemnité proportionnée au dommage qu'il peut occasionner; ce droit de passage ne peut être refusé pour la raison que l'état d'enclave résulte d'un fait volontaire que si celui-ci est imputable au propriétaire qui le réclame."
+      ],
+      "abstractNL": [
+        "De eigenaar wiens erf ingesloten ligt omdat hij geen of onvoldoende toegang heeft via de openbare weg en hij deze toegang niet kan inrichten zonder overdreven onkosten of ongemakken, kan, voor het normale gebruik van zijn eigendom naar de bestemming ervan, een doorgang vorderen over de erven van zijn naburen, tegen betaling van een vergoeding in verhouding tot de schade die hij mocht veroorzaken; dit recht van doorgang kan niet worden geweigerd op grond dat de ingeslotenheid door een opzettelijk feit werd veroorzaakt, tenzij dit feit te wijten is aan de eigenaar die zich op het recht van doorgang beroept."
+      ]
+    }
+  },
   "970": {
     "ECLI:BE:CASS:2026:ARR.20260320.1F.2": {
       "court": "CASS",
@@ -12366,6 +12385,22 @@
       "abstractNL": [
         "De rechter beoordeelt in feite de korte tijd binnen welke de koper de vordering op grond van verborgen gebreken moet instellen, rekening houdend met alle omstandigheden van de zaak, met name de aard van het verkochte goed, de aard van het gebrek, de gebruiken, de hoedanigheid van partijen en de door hen verrichte buitengerechtelijke en gerechtelijke handelingen (1) (2). (1) Zie concl. OM. (2) Cass. 29 januari 1987, AR 7635, AC 1986-87, nr. 313 en Cass. 23 maart 1984, AR 4132, AC 1983-84, nr. 424.",
         "De korte termijn, bepaald in artikel 1648 Oud Burgerlijk Wetboek, kan worden geschorst wegens ernstige onderhandelingen met het oog op het bereiken van een minnelijke regeling; zodra het duidelijk is dat een minnelijke schikking uitgesloten is, begint de korte termijn opnieuw te lopen (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "1709": {
+    "ECLI:BE:CASS:2023:ARR.20231013.1F.6": {
+      "court": "CASS",
+      "date": "2023-10-13",
+      "roleNumber": "C.23.0108.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_6.xml"
+      ],
+      "abstractFR": [
+        "Le contrat par lequel la jouissance d'un immeuble est concédée moyennant un loyer fictif ou dérisoire n'est pas un bail."
+      ],
+      "abstractNL": [
+        "De overeenkomst waardoor het genot van een onroerend goed wordt overgedragen voor een fictieve of belachelijk lage huurprijs, is geen huurovereenkomst."
       ]
     }
   },

@@ -2591,12 +2591,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_898.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_898.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/13/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/13/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_6.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 14, alinéa 1er, de la loi sur les baux commerciaux, la notification que le preneur désireux d'exercer le droit au renouvellement doit adresser au bailleur doit indiquer, à peine de nullité, les conditions auxquelles lui-même est disposé à conclure le nouveau bail; s'agissant du loyer proposé, l'offre du preneur doit être sérieuse de sorte qu'elle soit de nature à mériter, en principe, d'être prise en considération et un loyer dérisoire ne satisfait pas à ces conditions."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 14, eerste lid, Handelshuurwet moet de kennisgeving die de huurder aan de verhuurder moet richten wanneer hij zijn recht op hernieuwing wenst uit te oefenen, op straffe van nietigheid de voorwaarden opgeven waaronder hij zelf bereid is de nieuwe huur aan te gaan; wat de voorgestelde huurprijs betreft, moet de huurder een ernstig bod uitbrengen, zodat dit bod het in beginsel verdient om in aanmerking te worden genomen en een belachelijk lage huurprijs voldoet niet aan die voorwaarden."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230202.1F.2": {
       "court": "CASS",

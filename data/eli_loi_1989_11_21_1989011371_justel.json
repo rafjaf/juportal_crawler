@@ -902,12 +902,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_889.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_889.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_2.xml"
       ],
       "abstractFR": [
         "L'infraction consistant en la mise en circulation d'un véhicule dépourvu d'une assurance correspondant à sa classe n'est pas exclue au motif que le contrat d'assurance existe toujours et que l'assureur, en vertu de l'article 16 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, ne pourrait opposer au tiers lésé aucune exception ou déchéance dérivant dudit contrat; ainsi, de la seule circonstance que l'assureur reste tenu d'indemniser la personne lésée, il ne peut se déduire, en ce qui concerne le rapport juridique existant entre l'assureur et l'assuré ou le preneur d'assurance, que la responsabilité civile à laquelle peut donner lieu l'utilisation d'un véhicule automoteur dans l'un des endroits prévus par la loi, est couverte par une assurance répondant aux dispositions qu'elle prescrit."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het misdrijf dat bestaat in de inverkeerstelling van een voertuig dat niet voorzien is van een verzekering die met zijn categorie overeenstemt, is niet uitgesloten op grond dat de verkeringsovereenkomst nog steeds bestaat en dat de verzekeraar, krachtens artikel 16 WAM, de derde benadeelde geen enkele exceptie of verval zou kunnen tegenwerpen die uit die overeenkomst voortvloeien; aldus kan uit de omstandigheid dat de verzekeraar de benadeelde nog steeds moet vergoeden, op zich niet worden afgeleid, wat betreft de rechtsverhouding tussen de verzekeraar en de verzekerde of de verzekeringnemer, dat de burgerlijke aansprakelijkheid waartoe het gebruik van een motorvoertuig op een van de bij wet bepaalde plaatsen aanleiding kan geven, gedekt is door een verzekering die aan de bepalingen van die wet voldoet."
+      ]
     },
     "ECLI:BE:CASS:2008:ARR.20080131.3": {
       "court": "CASS",
@@ -1051,13 +1054,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_889.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_889.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/18/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_2.xml"
       ],
       "abstractFR": [
         "L'infraction consistant en la mise en circulation d'un véhicule dépourvu d'une assurance correspondant à sa classe n'est pas exclue au motif que le contrat d'assurance existe toujours et que l'assureur, en vertu de l'article 16 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, ne pourrait opposer au tiers lésé aucune exception ou déchéance dérivant dudit contrat; ainsi, de la seule circonstance que l'assureur reste tenu d'indemniser la personne lésée, il ne peut se déduire, en ce qui concerne le rapport juridique existant entre l'assureur et l'assuré ou le preneur d'assurance, que la responsabilité civile à laquelle peut donner lieu l'utilisation d'un véhicule automoteur dans l'un des endroits prévus par la loi, est couverte par une assurance répondant aux dispositions qu'elle prescrit.",
         "L'article 22, § 1er, alinéa 2, de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs n'est applicable qu'au détenteur et au conducteur du véhicule soumis à l'obligation d'assurance, et non au propriétaire dudit véhicule."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het misdrijf dat bestaat in de inverkeerstelling van een voertuig dat niet voorzien is van een verzekering die met zijn categorie overeenstemt, is niet uitgesloten op grond dat de verkeringsovereenkomst nog steeds bestaat en dat de verzekeraar, krachtens artikel 16 WAM, de derde benadeelde geen enkele exceptie of verval zou kunnen tegenwerpen die uit die overeenkomst voortvloeien; aldus kan uit de omstandigheid dat de verzekeraar de benadeelde nog steeds moet vergoeden, op zich niet worden afgeleid, wat betreft de rechtsverhouding tussen de verzekeraar en de verzekerde of de verzekeringnemer, dat de burgerlijke aansprakelijkheid waartoe het gebruik van een motorvoertuig op een van de bij wet bepaalde plaatsen aanleiding kan geven, gedekt is door een verzekering die aan de bepalingen van die wet voldoet.",
+        "Artikel 22, § 1, tweede lid, WAM is enkel van toepassing op de houder en op de bestuurder van het aan de verzekeringsplicht onderworpen voertuig en niet op de eigenaar van dat voertuig."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220524.2N.1": {
       "court": "CASS",

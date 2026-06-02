@@ -3731,12 +3731,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_899.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_899.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/13/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/13/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/01/sitemap_7.xml"
       ],
       "abstractFR": [
         "Seul le comportement du conducteur prioritaire de nature à déjouer toute prévision raisonnable exonère le débiteur des obligations découlant de la règle de priorité."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Enkel de gedraging van de voorranggerechtigde bestuurder die elke redelijke verwachting verijdelt, stelt de voorrangschuldige bestuurder vrij van de verplichtingen die uit de voorrangsregel voortvloeien."
+      ]
     }
   },
   "6.2": {
