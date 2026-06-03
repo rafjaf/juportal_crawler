@@ -1,4 +1,20 @@
 {
+  "128": {
+    "ECLI:BE:CASS:2025:ARR.20250422.2N.14": {
+      "court": "CASS",
+      "date": "2025-04-22",
+      "roleNumber": "P.24.1417.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il appartient à la juridiction d'instruction d'apprécier si les parties ayant droit à une indemnité de procédure ont bénéficié de l'assistance d'un même conseil ; il ne résulte pas de la circonstance que les conseils des parties ayant droit à une indemnité de procédure, qui ont comparu à l'audience devant la juridiction d'instruction, soient tous deux liés à un même cabinet ou que les conclusions prises au nom de ces parties soient identiques ou analogues, ou que ces parties aient réclamé une même indemnité de procédure majorée que la juridiction d'instruction doive admettre que ces parties ont été assistées par un même avocat au sens de l'article 1er, alinéa 2, de l'arrêté royal du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire."
+      ],
+      "abstractNL": [
+        "Het staat aan het onderzoeksgerecht te oordelen of de op een rechtsplegingsvergoeding gerechtigde partijen werden bijgestaan door eenzelfde raadsman; uit het gegeven dat de op de rechtszitting voor het onderzoeksgerecht verschenen raadslieden van de op een rechtsplegingsvergoeding gerechtigde partijen beiden verbonden zijn aan hetzelfde kantoor of dat de namens deze partijen genomen conclusies identiek of analoog zijn, of dat die partijen eenzelfde verhoogde rechtsplegingsvergoeding hebben gevorderd, volgt niet dat het onderzoeksgerecht moet aannemen dat deze partijen door eenzelfde advocaat zijn bijgestaan in de zin van artikel 1, tweede lid, Tarief Rechtsplegingsvergoeding."
+      ]
+    }
+  },
   "137": {
     "ECLI:BE:CASS:1981:ARR.19810109.8": {
       "court": "CASS",
@@ -7200,9 +7216,13 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2756.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2756.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_28.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_28.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_8.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Selon les articles 163, alinéa 4, et 195, alinéa 5, du Code d'instruction criminelle, lors d'une condamnation à une peine d'amende, le juge tient compte, pour la détermination de son montant, des éléments invoqués par le prévenu relativement à sa situation sociale, mais il ne résulte relativement pas de ces dispositions qu'afin de déterminer le montant de l'amende, le juge ne puisse pas tenir compte de la circonstance que le prévenu est lui-même responsable ou coresponsable de sa situation sociale précaire.",
+        "Selon les articles 163, alinéa 5, et 195, alinéa 9, du Code d'instruction criminelle, le juge peut prononcer une amende inférieure au minimum légal si le contrevenant soumet un document quelconque qui apporte la preuve de sa situation financière précaire, mais il résulte de ces dispositions que le juge a la possibilité, dans le cas d'une situation financière précaire démontrée au moyen de documents, d'infliger une amende inférieure au minimum légal, mais pas que le juge y est toujours obligé; il appartient au juge d'apprécier, à la lumière des objectifs du taux de la peine et des circonstances concrètes de la cause si cette mesure de faveur est indiquée et, lors de cette appréciation, il peut tenir compte de la circonstance que le prévenu est lui-même responsable ou coresponsable de sa situation financière précaire."
+      ],
       "abstractNL": [
         "Volgens de artikelen 163, vierde lid, en 195, vijfde lid, Wetboek van Strafvordering houdt de rechter bij een veroordeling tot een geldboete voor de vaststelling van het bedrag ervan rekening met de door de beklaagde aangevoerde elementen over zijn sociale toestand, maar uit die bepalingen volgt niet dat de rechter bij het bepalen van het bedrag van de geldboete geen rekening mag houden met het gegeven dat de beklaagde zelf verantwoordelijk of medeverantwoordelijk is voor zijn precaire sociale toestand.",
         "Volgens de artikelen 163, vijfde lid, en 195, negende lid, Wetboek van Strafvordering kan de rechter een geldboete uitspreken beneden het wettelijk minimum van de boete indien de overtreder om het even welk document overlegt dat zijn precaire financiële toestand bewijst, maar uit die bepalingen volgt dat de rechter de mogelijkheid heeft om ingeval van een met documenten aangetoonde precaire financiële toestand een geldboete op te leggen beneden het wettelijk minimum, maar niet dat de rechter daar steeds toe verplicht is; het staat aan de rechter te oordelen of in het licht van de doelstellingen van de straftoemeting en de concrete omstandigheden van de zaak of die gunstmaatregel aangewezen is en hij kan bij die beoordeling het gegeven betrekken dat de beklaagde zelf verantwoordelijk of medeverantwoordelijk is voor zijn precaire financiële toestand."
@@ -22066,9 +22086,13 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2756.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2756.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_28.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_28.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_8.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Selon les articles 163, alinéa 4, et 195, alinéa 5, du Code d'instruction criminelle, lors d'une condamnation à une peine d'amende, le juge tient compte, pour la détermination de son montant, des éléments invoqués par le prévenu relativement à sa situation sociale, mais il ne résulte relativement pas de ces dispositions qu'afin de déterminer le montant de l'amende, le juge ne puisse pas tenir compte de la circonstance que le prévenu est lui-même responsable ou coresponsable de sa situation sociale précaire.",
+        "Selon les articles 163, alinéa 5, et 195, alinéa 9, du Code d'instruction criminelle, le juge peut prononcer une amende inférieure au minimum légal si le contrevenant soumet un document quelconque qui apporte la preuve de sa situation financière précaire, mais il résulte de ces dispositions que le juge a la possibilité, dans le cas d'une situation financière précaire démontrée au moyen de documents, d'infliger une amende inférieure au minimum légal, mais pas que le juge y est toujours obligé; il appartient au juge d'apprécier, à la lumière des objectifs du taux de la peine et des circonstances concrètes de la cause si cette mesure de faveur est indiquée et, lors de cette appréciation, il peut tenir compte de la circonstance que le prévenu est lui-même responsable ou coresponsable de sa situation financière précaire."
+      ],
       "abstractNL": [
         "Volgens de artikelen 163, vierde lid, en 195, vijfde lid, Wetboek van Strafvordering houdt de rechter bij een veroordeling tot een geldboete voor de vaststelling van het bedrag ervan rekening met de door de beklaagde aangevoerde elementen over zijn sociale toestand, maar uit die bepalingen volgt niet dat de rechter bij het bepalen van het bedrag van de geldboete geen rekening mag houden met het gegeven dat de beklaagde zelf verantwoordelijk of medeverantwoordelijk is voor zijn precaire sociale toestand.",
         "Volgens de artikelen 163, vijfde lid, en 195, negende lid, Wetboek van Strafvordering kan de rechter een geldboete uitspreken beneden het wettelijk minimum van de boete indien de overtreder om het even welk document overlegt dat zijn precaire financiële toestand bewijst, maar uit die bepalingen volgt dat de rechter de mogelijkheid heeft om ingeval van een met documenten aangetoonde precaire financiële toestand een geldboete op te leggen beneden het wettelijk minimum, maar niet dat de rechter daar steeds toe verplicht is; het staat aan de rechter te oordelen of in het licht van de doelstellingen van de straftoemeting en de concrete omstandigheden van de zaak of die gunstmaatregel aangewezen is en hij kan bij die beoordeling het gegeven betrekken dat de beklaagde zelf verantwoordelijk of medeverantwoordelijk is voor zijn precaire financiële toestand."
@@ -31278,9 +31302,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2753.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2753.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_5.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Si un appelant utilise le formulaire de griefs type visé à l'article 204, alinéa 3, du Code d'instruction criminelle et coche la rubrique Culpabilité, il en résulte en principe qu'il souhaite voir réformer la décision relative à la culpabilité de la décision entreprise, mais en fournissant des explications détaillées sous la rubrique Culpabilité, il peut s'avérer que l'appelant ne souhaite pas en soi une nouvelle appréciation par la juridiction d'appel de la décision relative à la culpabilité, mais bien d'une autre décision ; il appartient à la juridiction d'appel d'apprécier, à la lumière des explications fournies par l'appelant, quelle est la décision du jugement entrepris dont l'appelant souhaite la réformation ; la cour vérifie cependant si le juge ne déduit pas de ses constatations des conséquences qui ne seraient susceptibles d'aucune justification."
+      ],
       "abstractNL": [
         "Indien een appellant gebruik maakt van het door artikel 204, derde lid, Wetboek van Strafvordering bedoelde modelgrievenformulier en de rubriek Schuld aankruist, volgt daar in beginsel uit dat hij de beslissing betreffende de schuld door het beroepen vonnis hervormd wenst te zien, maar door evenwel bij het aankruisen van de rubriek Schuld nadere uitleg te verschaffen, kan blijken dat de appellant in wezen geen herbeoordeling wenst door het appelgerecht van de beslissing over de schuld, maar wel van een andere beslissing; het staat aan het appelgerecht om in het licht van de door de appellant verstrekte uitleg te oordelen van welke beslissing van het beroepen vonnis de appellant de hervorming wenst; het Hof gaat wel na of de rechter uit zijn vaststellingen geen onmogelijk te verantwoorden gevolgen afleidt."
       ]

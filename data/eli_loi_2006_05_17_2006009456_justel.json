@@ -2038,9 +2038,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2758.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2758.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_30.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_30.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_10.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Il ne peut se déduire de l'article 8 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales que le tribunal de l'application des peines est tenu d'octroyer une modalité d'exécution de la peine à un condamné au motif que sa privation de liberté est néfaste pour les droits de son partenaire et de ses enfants qui sont garantis par l'article 8 de la Convention."
+      ],
       "abstractNL": [
         "Uit artikel 8 EVRM kan niet worden afgeleid dat de strafuitvoeringsrechtbank ertoe gehouden is een strafuitvoeringsmodaliteit toe te kennen aan een veroordeelde omdat zijn vrijheidsberoving nefast is voor de door artikel 8 EVRM gewaarborgde rechten van zijn partner en kinderen."
       ]
@@ -4746,9 +4749,13 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2758.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2758.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_30.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_30.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_10.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le législateur n'impose aucune méthode de calcul particulière au tribunal de l'application des peines pour la détermination du reliquat de la peine, telle qu'elle est prévue à l'article 68, § 5, alinéa 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté ; la méthode de calcul du nouveau reliquat de la peine = ancien reliquat – (ancien reliquat/délai d'épreuve) x délai d'épreuve positif est une méthode correcte (1). (1) Voy. R. CASSIERS, Strafuitvoeringsrechtbank, APR, 2024, 272-274, nº 779-785.",
+        "La décision du tribunal de l'application des peines relative à la détermination du reliquat de la peine, telle qu'elle est prévue à l'article 68, § 5, alinéa 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté, ne dépend pas d'une réquisition du ministère public, et le tribunal de l'application des peines ne doit pas expressément inclure aux débats la problématique de la détermination du reliquat de la peine ; à défaut de conclusions formulées à cet effet, le tribunal de l'application des peines ne doit pas motiver plus amplement le choix d'une méthode de calcul en particulier ; par le dépôt de conclusions, le condamné peut obliger le tribunal à prendre position sur la méthode de calcul à utiliser et sur les éléments de fait à prendre en considération."
+      ],
       "abstractNL": [
         "De wetgever legt de strafuitvoeringsrechtbank voor het vastleggen van het strafrestant zoals bepaald in artikel 68, § 5, tweede lid, Wet Strafuitvoering geen bepaalde berekeningsmethode op; de berekeningsmethode van het nieuw strafrestant = oud strafrestant – (oud strafrestant/proeftijd) x goed verlopen proeftijd is een correcte methode (1). (1) Zie R. CASSIERS, Strafuitvoeringsrechtbank, APR, 2024, p. 272-274, nr. 779-785.",
         "De beslissing van de strafuitvoeringsrechtbank betreffende het bepalen van het strafrestant zoals bepaald in artikel 68, § 5, tweede lid, Wet Strafuitvoering is niet afhankelijk van een vordering van het openbaar ministerie en de strafuitvoeringsrechtbank dient de problematiek van de bepaling van het strafrestant niet uitdrukkelijk in het debat te brengen; bij afwezigheid van een daartoe strekkende conclusie dient de strafuitvoeringsrechtbank de keuze voor een bepaalde berekeningsmethode niet nader te motiveren; de veroordeelde kan door middel van een conclusie de strafuitvoeringsrechtbank verplichten standpunt in te nemen over de te hanteren berekeningsmethode en de in aanmerking te nemen feitelijke gegevens."

@@ -183,9 +183,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2752.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2752.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_24.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_24.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_4.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Le juge répressif appelé à statuer sur l'action civile applique, en règle, les dispositions des articles 870 du Code judiciaire et 8.4 du Code civil relatives à la charge de la preuve en ce qui concerne la preuve du dommage ; il résulte de ces dispositions que la partie civile qui réclame réparation d'un dommage moral du chef de parenté, d'alliance ou de lien affectif avec une victime décédée doit en rapporter la preuve lorsque cette parenté ou ce lien est contesté par le prévenu et, en cas de doute sur cette parenté ou lien, la partie civile succombe."
+      ],
       "abstractNL": [
         "De strafrechter die uitspraak moet doen over de burgerlijke vordering past de bepalingen van artikel 870 Gerechtelijk Wetboek en artikel 8.4 Burgerlijk Wetboek betreffende de bewijslast in de regel toe voor wat betreft het bewijs van de schade; uit deze bepalingen volgt dat de burgerlijke partij die vergoeding voor morele schade vordert op grond van een bloed- of aanverwantschap of een affectieve band met een overleden slachtoffer, wanneer die verwantschap of band door de beklaagde wordt betwist, daarvan het bewijs moet leveren en in geval van twijfel over die verwantschap of band wordt de burgerlijke partij in de regel in het ongelijk gesteld."
       ]

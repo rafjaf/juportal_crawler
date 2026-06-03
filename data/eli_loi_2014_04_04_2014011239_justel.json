@@ -590,6 +590,20 @@
       ]
     }
   },
+  "130": {
+    "ECLI:BE:CASS:2025:ARR.20250905.1F.5": {
+      "court": "CASS",
+      "date": "2025-09-05",
+      "roleNumber": "C.24.0173.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_17.xml"
+      ],
+      "abstractFR": [
+        "L'article 130, § 1er, alinéa 2, de la loi du 4 avril 2014 qui dispose que le contrat d'assurance ne peut appliquer, pour les risques catastrophes naturelles, une franchise supérieure à 610 euros par sinistre et que ce montant est lié à l'évolution de l'indice des prix à la consommation ne fait pas obstacle à ce que l'assureur prévoie une franchise d'un montant inférieur lié à l'évolution d'un autre indice pour autant que le montant ne dépasse pas le plafond fixé ci-avant."
+      ],
+      "abstractNL": null
+    }
+  },
   "141": {
     "ECLI:BE:CASS:2023:ARR.20230929.1F.1": {
       "court": "CASS",

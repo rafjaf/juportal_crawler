@@ -111,9 +111,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2749.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2749.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_21.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/19/sitemap_21.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_1.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Il appartient à la juridiction d'instruction d'apprécier si les parties ayant droit à une indemnité de procédure ont bénéficié de l'assistance d'un même conseil ; il ne résulte pas de la circonstance que les conseils des parties ayant droit à une indemnité de procédure, qui ont comparu à l'audience devant la juridiction d'instruction, soient tous deux liés à un même cabinet ou que les conclusions prises au nom de ces parties soient identiques ou analogues, ou que ces parties aient réclamé une même indemnité de procédure majorée que la juridiction d'instruction doive admettre que ces parties ont été assistées par un même avocat au sens de l'article 1er, alinéa 2, de l'arrêté royal du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire."
+      ],
       "abstractNL": [
         "Het staat aan het onderzoeksgerecht te oordelen of de op een rechtsplegingsvergoeding gerechtigde partijen werden bijgestaan door eenzelfde raadsman; uit het gegeven dat de op de rechtszitting voor het onderzoeksgerecht verschenen raadslieden van de op een rechtsplegingsvergoeding gerechtigde partijen beiden verbonden zijn aan hetzelfde kantoor of dat de namens deze partijen genomen conclusies identiek of analoog zijn, of dat die partijen eenzelfde verhoogde rechtsplegingsvergoeding hebben gevorderd, volgt niet dat het onderzoeksgerecht moet aannemen dat deze partijen door eenzelfde advocaat zijn bijgestaan in de zin van artikel 1, tweede lid, Tarief Rechtsplegingsvergoeding."
       ]

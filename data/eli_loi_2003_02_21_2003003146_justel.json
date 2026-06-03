@@ -5,12 +5,15 @@
       "date": "2025-06-26",
       "roleNumber": "C.24.0355.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_34.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_34.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_14.xml"
       ],
       "abstractFR": [
         "Une cotisation à l'impôt des personnes physiques prenant en compte la déduction d'une rente alimentaire, lors même que cette cotisation serait devenue définitive, n'impose pas au service des créances alimentaires de tenir pour établi que cette rente a effectivement été payée au créancier par le débiteur d'aliments."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een aanslag in de personenbelasting die de aftrek van een onderhoudsuitkering in aanmerking neemt, ook al zou die aanslag definitief geworden zijn, verplicht de dienst voor alimentatievorderingen niet om als bewezen te beschouwen dat die uitkering daadwerkelijk door de onderhoudsplichtige aan de onderhoudsgerechtigde werd betaald."
+      ]
     }
   },
   "9": {
@@ -35,12 +38,15 @@
       "date": "2025-06-26",
       "roleNumber": "C.24.0355.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_34.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/05/sitemap_34.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_14.xml"
       ],
       "abstractFR": [
         "Une cotisation à l'impôt des personnes physiques prenant en compte la déduction d'une rente alimentaire, lors même que cette cotisation serait devenue définitive, n'impose pas au service des créances alimentaires de tenir pour établi que cette rente a effectivement été payée au créancier par le débiteur d'aliments."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een aanslag in de personenbelasting die de aftrek van een onderhoudsuitkering in aanmerking neemt, ook al zou die aanslag definitief geworden zijn, verplicht de dienst voor alimentatievorderingen niet om als bewezen te beschouwen dat die uitkering daadwerkelijk door de onderhoudsplichtige aan de onderhoudsgerechtigde werd betaald."
+      ]
     }
   },
   "17": {

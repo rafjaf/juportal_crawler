@@ -4409,6 +4409,20 @@
       ]
     }
   },
+  "90": {
+    "ECLI:BE:CASS:2025:ARR.20251031.1F.5": {
+      "court": "CASS",
+      "date": "2025-10-31",
+      "roleNumber": "F.21.0084.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "En matière fiscale, l'État agit en justice à l'intervention du ministre qui a l'objet du ministre des Finances mais la comparution en personne au nom de l'État peut être assurée par tout fonctionnaire d'une administration fiscale; Il ne se déduit pas de l'article 90 CTVA que le fonctionnaire qui signe et dépose une requête d'appel au nom de l'État est un organe compétent pour décider d'interjeter appel (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
+    }
+  },
   "91": {
     "ECLI:BE:CASS:2023:ARR.20230324.1N.1": {
       "court": "CASS",
