@@ -8767,9 +8767,12 @@
       "roleNumber": "C.25.0076.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_53.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2252.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2252.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_25.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 779 du Code judiciaire vise la continuité de la composition du siège qui instruit une cause et rend ensuite le jugement ou l'arrêt ; en conséquence, l'instruction de la cause et le prononcé du jugement ou de l'arrêt doivent être assurés par les mêmes juges."
+      ],
       "abstractNL": [
         "Artikel 779 Gerechtelijk Wetboek beoogt de continuïteit van de samenstelling van de zetel die een zaak behandelt en vervolgens het vonnis of arrest wijst; bijgevolg moet de behandeling van een zaak en het wijzen van het vonnis of arrest gebeuren door dezelfde rechters."
       ]
@@ -13786,12 +13789,15 @@
       "date": "2025-09-17",
       "roleNumber": "P.25.0721.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_17.xml"
       ],
       "abstractFR": [
         "Lorsque la décision répressive contient des motifs décisoires indiquant tant l'octroi que la portée et la durée du sursis dont elle assortit une peine et qu'aucune contradiction n'existe entre ces motifs et le dispositif, qui, infligeant cette peine, omet certes de préciser qu'elle est assortie d'un sursis mais ne l'exclut pas, il n'y a pas lieu de rectifier ce dispositif(1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de strafrechtelijke beslissing dragende redenen bevat die zowel de toekenning als de draagwijdte en de duur aanwijzen van een uitstel waarmee ze een straf gepaard doet gaan en er geen enkele tegenstrijdigheid bestaat tussen die redenen en het beschikkend gedeelte dat die straf oplegt, en de beslissing weliswaar verzuimt te vermelden dat er voor die straf een uitstel wordt verleend, maar dit uitstel niet uitsluit, bestaat er geen grond om dit beschikkend gedeelte te verbeteren (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2015:ARR.20150224.3": {
       "court": "CASS",
@@ -14402,12 +14408,15 @@
       "date": "2025-09-17",
       "roleNumber": "P.25.0721.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_17.xml"
       ],
       "abstractFR": [
         "Lorsque la décision répressive contient des motifs décisoires indiquant tant l'octroi que la portée et la durée du sursis dont elle assortit une peine et qu'aucune contradiction n'existe entre ces motifs et le dispositif, qui, infligeant cette peine, omet certes de préciser qu'elle est assortie d'un sursis mais ne l'exclut pas, il n'y a pas lieu de rectifier ce dispositif(1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de strafrechtelijke beslissing dragende redenen bevat die zowel de toekenning als de draagwijdte en de duur aanwijzen van een uitstel waarmee ze een straf gepaard doet gaan en er geen enkele tegenstrijdigheid bestaat tussen die redenen en het beschikkend gedeelte dat die straf oplegt, en de beslissing weliswaar verzuimt te vermelden dat er voor die straf een uitstel wordt verleend, maar dit uitstel niet uitsluit, bestaat er geen grond om dit beschikkend gedeelte te verbeteren (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230301.2F.18": {
       "court": "CASS",
@@ -41736,11 +41745,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/28/sitemap_32.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2253.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2253.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_26.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La décision de référé cesse de plein droit de produire des effets dès que le juge du fond a pris une décision contraire concernant les droits contestés; la décision du juge de fond n'a cependant pas d'effet rétroactif sur la décision de référé (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
-        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding."
+        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding.",
+        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding (1). (1) Zie concl. OM."
       ]
     },
     "ECLI:BE:CASS:2011:ARR.20110128.2": {
@@ -44093,13 +44106,17 @@
       "roleNumber": "C.19.0058.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3158.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3165.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3165.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_8.xml"
       ],
       "abstractFR": [
         "L'acquiescement à une décision fondée sur une disposition d'ordre public est nul (1). (1) Voir les concl. du MP.",
         "La réglementation légale relative à la liquidation et au partage d'une succession, qui constitue une indivision fortuite, n'est en tant que telle pas d'ordre public; il s'ensuit que le défendeur à une action en partage d'une succession peut valablement renoncer à l'exception d'irrecevabilité déduite de ce qu'un des héritiers n'a pas été appelé à la cause et, partant, acquiescer à la décision qui déclare l'action recevable, au motif que ce défendeur a renoncé à cette exception (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De berusting in een beslissing die gegrond is op een bepaling van openbare orde, is nietig (1). (1) Zie concl. OM.",
+        "De wettelijke reglementering betreffende de vereffening en de verdeling van een nalatenschap, die een toevallige onverdeeldheid uitmaakt, is op zich niet van openbare orde; de verweerder tegen een rechtsvordering tot verdeling van een nalatenschap kan bijgevolg rechtsgeldig afstand doen van de exceptie van niet-ontvankelijkheid, afgeleid uit het feit dat een van de erfgenamen niet in de zaak is opgeroepen, en kan derhalve berusten in de beslissing die de rechtsvordering ontvankelijk verklaart, op grond dat die verweerder van die exceptie afstand heeft gedaan (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2015:ARR.20150619.3": {
       "court": "CASS",
@@ -52038,12 +52055,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_22.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3159.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3166.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3166.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_9.xml"
       ],
       "abstractFR": [
         "Un pourvoi formé contre une décision définitive d'un arrêt interlocutoire doit, à moins que du fait de la signification de celui-ci le délai pour introduire un pourvoi contre cette décision ait déjà expiré, être introduit avant que l'arrêt par lequel les juges ont vidé leur saisine soit devenu irrévocable (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Tenzij de termijn om tegen een eindbeslissing van een tussenarrest cassatieberoep in te stellen, gelet op de betekening van dat tussenarrest, reeds is verstreken, moet een cassatieberoep tegen die beslissing worden ingesteld voordat het arrest waardoor de rechters hun rechtsmacht volledig hebben uitgeoefend, onherroepelijk is geworden (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2019:ARR.20190411.3": {
       "court": "CASS",

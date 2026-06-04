@@ -5136,13 +5136,17 @@
       "date": "2025-09-17",
       "roleNumber": "P.25.0501.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_34.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_34.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_15.xml"
       ],
       "abstractFR": [
         "Lorsque les juges d'appel constatent, pour la première fois, la durée excessive de la procédure, ils doivent réduire la peine qu'ils prononcent par rapport à celle qu'ils auraient infligée si la cause avait été jugée sans retard, et non par rapport à celle que le premier juge a retenue (1) (2). (1) Voir Cass. 29 mai 2024, RG P.23.1560.F, ECLI:BE:CASS:2024:ARR.20240529.2F.3, et réf. en note ; Cass. 18 novembre 2009, RG P.09.1023.F, Pas. 2009, n° 677. (2) Ancien article 21ter du titre préliminaire du Code de procédure pénale.",
         "Lorsque le ministère public a relevé appel du jugement entrepris sur la peine, la reconnaissance du dépassement du délai raisonnable n'empêche pas les juges d'appel d'aggraver la peine infligée au prévenu, pour autant qu'elle n'atteigne pas le maximum légal (1). (1) Ancien article 21ter du titre préliminaire du Code de procédure pénale."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de appelrechters voor het eerst de overschrijding van de redelijke termijn vaststellen, moeten ze de straf die ze uitspreken verminderen ten opzichte van die welke ze zouden hebben opgelegd indien de zaak onverwijld was berecht, en niet ten opzichte van die welke de eerste rechter in aanmerking heeft genomen (1) (2). (1) Zie Cass. 29 mei 2024, AR P.23.1560.F, ECLI:BE:CASS:2024:ARR.20240529.2F.3, en verw. in voetnoot; Cass. 18 november 2009, AR P.09.1023.F, AC 2009, nr. 677. (2) Oud artikel 21ter Voorafgaande Titel Wetboek van Strafvordering.",
+        "Wanneer het openbaar ministerie tegen het beroepen vonnis hoger beroep heeft ingesteld met betrekking tot de straf, belet de erkenning van de overschrijding van de redelijke termijn de appelrechters niet de aan de beklaagde opgelegde straf te verzwaren, mits die straf het wettelijk maximum niet bereikt (1). (1) Oud artikel 21ter Voorafgaande Titel Wetboek van Strafvordering."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251001.2F.15": {
       "court": "CASS",
@@ -17581,12 +17585,15 @@
       "roleNumber": "C.24.0391.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3172.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3179.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3179.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_12.xml"
       ],
       "abstractFR": [
         "L'annulation d'un permis d'urbanisme par le Conseil d'État entraîne rétroactivement l'annulation de ce permis illégal erga omnes, de sorte qu'il y a lieu de considérer comme ayant été érigée sans permis la construction réalisée sous le couvert du permis annulé; il s'ensuit que le maintien d'une construction soumise à permis après la connaissance de pareille annulation est infractionnel, lors même que les travaux de construction ont été exécutés avant l'annulation; ni le principe général du droit de la non-rétroactivité de la loi pénale ni le principe de légalité de l'infraction n'y font obstacle."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vernietiging van een stedenbouwkundige vergunning door de Raad van State leidt met terugwerkende kracht tot de vernietiging van die onwettige vergunning erga omnes, zodat de constructie als onvergund moet worden beschouwd wanneer ze op grond van de vernietigde vergunning is opgetrokken; hieruit volgt dat de instandhouding van een vergunningsplichtige constructie na de kennisneming van een dergelijke vernietiging een misdrijf uitmaakt, zelfs als de bouwwerken vóór de vernietiging werden uitgevoerd; noch het algemeen rechtsbeginsel van de niet-terugwerkende kracht van de strafwet noch het legaliteitsbeginsel van het misdrijf staan hieraan in de weg."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230503.2F.2": {
       "court": "CASS",

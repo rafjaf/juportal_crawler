@@ -1342,12 +1342,15 @@
       "date": "2025-09-17",
       "roleNumber": "P.25.0721.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_17.xml"
       ],
       "abstractFR": [
         "Lorsque la décision répressive contient des motifs décisoires indiquant tant l'octroi que la portée et la durée du sursis dont elle assortit une peine et qu'aucune contradiction n'existe entre ces motifs et le dispositif, qui, infligeant cette peine, omet certes de préciser qu'elle est assortie d'un sursis mais ne l'exclut pas, il n'y a pas lieu de rectifier ce dispositif(1). (Solution implicite). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de strafrechtelijke beslissing dragende redenen bevat die zowel de toekenning als de draagwijdte en de duur aanwijzen van een uitstel waarmee ze een straf gepaard doet gaan en er geen enkele tegenstrijdigheid bestaat tussen die redenen en het beschikkend gedeelte dat die straf oplegt, en de beslissing weliswaar verzuimt te vermelden dat er voor die straf een uitstel wordt verleend, maar dit uitstel niet uitsluit, bestaat er geen grond om dit beschikkend gedeelte te verbeteren (1). (Impliciete oplossing). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211123.2N.3": {
       "court": "CASS",

@@ -171,9 +171,12 @@
       "roleNumber": "F.24.0071.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_52.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2251.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2251.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_24.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La condition que l'exploitant ou l'établissement utilise les recettes tirées des activités exemptées à seules fins d'en couvrir les frais n'implique pas que l'exploitant ou l'établissement ne puisse pas réaliser d'excédents, voire chercher à en réaliser, à la condition que ceux-ci ne soient pas partagés à titre de bénéfices entre les membres et qu'ils soient affectés au profit des services exemptés."
+      ],
       "abstractNL": [
         "De voorwaarde dat de exploitant of inrichting de ontvangsten uit de vrijgestelde werkzaamheden uitsluitend gebruikt tot dekking van de kosten ervan, houdt niet in dat exploitant of inrichting geen overschotten mag realiseren of zelfs nastreven, mits deze overschotten niet als winst onder de leden worden verdeeld en mits zij worden aangewend ten behoeve van de vrijgestelde diensten."
       ]

@@ -10305,9 +10305,12 @@
       "roleNumber": "D.24.0003.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_51.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2250.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2250.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_23.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'appel incident visé à l'article 463, alinéa 4, du Code judiciaire est irrecevable lorsque l'appel principal est tardif; l'appel incident n'est pas un appel principal autonome qui ne suit pas le sort réservé à l'appel introduit tardivement."
+      ],
       "abstractNL": [
         "Het in artikel 463, vierde lid, Gerechtelijk Wetboek bedoelde tegenberoep is niet ontvankelijk wanneer het hoofdberoep laattijdig is; het tegenberoep is geen zelfstandig principaal hoger beroep dat het lot van het laattijdig ingestelde hoger beroep niet volgt."
       ]

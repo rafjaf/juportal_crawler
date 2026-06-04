@@ -3329,11 +3329,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/28/sitemap_32.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_54.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2253.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/24/sitemap_2253.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_26.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La décision de référé cesse de plein droit de produire des effets dès que le juge du fond a pris une décision contraire concernant les droits contestés; la décision du juge de fond n'a cependant pas d'effet rétroactif sur la décision de référé (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
-        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding."
+        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding.",
+        "De beslissing in kort geding houdt van rechtswege op uitwerking te hebben zodra de bodemrechter een andersluidende beslissing omtrent de betwiste rechten heeft genomen; de beslissing van de bodemrechter heeft evenwel geen terugwerkende kracht op de beslissing in kort geding (1). (1) Zie concl. OM."
       ]
     },
     "ECLI:BE:CASS:2013:ARR.20130624.9": {
@@ -6202,6 +6206,18 @@
       "abstractNL": [
         "Er bestaat geen algemeen rechtsbeginsel van de individuele motivering van de toekenning of de afwijzing per strafuitvoeringmodaliteit; geen enkele bepaling of algemeen rechtsbeginsel verzet zich ertegen dat de strafuitvoeringsrechter zich voor het voorhanden zijn van de door artikel 98/13, derde lid, Wet Strafuitvoering bedoelde tegenaanwijzing baseert op dezelfde feitelijke gegevens en de afwijzing van verzoeken om meerdere strafuitvoeringsmodaliteiten op identieke wijze motiveert."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260511.3F.2": {
+      "court": "CASS",
+      "date": "2026-05-11",
+      "roleNumber": "S.19.0015.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_64.xml"
+      ],
+      "abstractFR": [
+        "Le statut équivalent au statut fixé par les lois et règlements pour le personnel des institutions universitaires de l'État, fixé par une université financée par l'Etat, en application de l'article 41 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, règle les relations de travail entre l'institution universitaire et son personnel par des dispositions générales et impersonnelles; ces dispositions ne sont toutefois pas applicables en raison d'une décision unilatérale d'un organe administratif de l'institution mais en vertu d'un contrat de travail; elles ne sont pas des lois au sens de l'article 608 du Code judiciaire (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "609": {

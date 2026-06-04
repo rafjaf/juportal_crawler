@@ -1394,12 +1394,15 @@
       "roleNumber": "C.24.0104.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_3171.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3178.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_3178.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_11.xml"
       ],
       "abstractFR": [
         "Un véhicule automoteur est impliqué dans un accident de la circulation s'il a joué un rôle quelconque dans celui-ci (1) (2). (1) Cass. 13 juin 2014, RG C.13.0184.F, Pas. 2014, nr. 427. (2) L'article 29bis, § 1er, de la loi du 21 novembre 1989, tant avant qu'après sa modification par la loi du 19 janvier 2001."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een motorrijtuig is betrokken bij een verkeersongeval wanneer het hierin enige rol heeft gespeeld (1) (2). (1) Cass. 13 juni 2014, AR C.13.0184.F, AC 2014, nr. 427. (2) Artikel 29bis, § 1, WAM, zowel vóór als na de wijziging ervan door de wet van 19 januari 2001."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230309.1F.3": {
       "court": "CASS",
