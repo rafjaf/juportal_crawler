@@ -4845,12 +4845,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_836.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_836.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/04/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/04/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_1.xml"
       ],
       "abstractFR": [
         "L'article 12 de la Constitution ne s'applique pas à la privation de liberté d'un étranger en vue de son expulsion."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 12 Grondwet is niet van toepassing op de vrijheidsberoving van een vreemdeling met het oog op zijn uitwijzing."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220614.2N.1": {
       "court": "CASS",
@@ -9792,12 +9795,15 @@
       "date": "2025-09-29",
       "roleNumber": "S.19.0028.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_36.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_31.xml"
       ],
       "abstractFR": [
         "Dans la mesure où il invoque la violation de dispositions légales alors qu'il ne ressort ni des énonciations de l'arrêt attaqué ni des pièces auxquelles la Cour peut avoir égard que le défendeur en remplissait les conditions d'application, le moyen qui invite la Cour à procéder à des vérifications de fait, ce qui n'est pas en son pouvoir, est irrecevable."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "In zoverre het middel de schending van wetsbepalingen aanvoert, terwijl noch uit de vermeldingen van het bestreden arrest noch uit de stukken waarop het Hof acht mag slaan, blijkt dat de verweerder aan de toepassingsvoorwaarden van die bepalingen voldeed, en het om een feitelijk onderzoek verzoekt, waarvoor het Hof niet bevoegd is, is het bijgevolg niet ontvankelijk."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20241218.2F.7": {
       "court": "CASS",

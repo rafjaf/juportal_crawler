@@ -9033,12 +9033,15 @@
       "date": "2025-09-29",
       "roleNumber": "C.25.0303.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_32.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_32.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_27.xml"
       ],
       "abstractFR": [
         "Une mesure de dessaisissement peut suivant les circonstances s'avérer contraire à une bonne administration de la justice lorsqu'un projet de jugement est rédigé; s'il ne ressort toutefois pas du déroulement de la procédure devant le tribunal et des observations formulées qu'un jugement puisse être attendu à bref délai, dans l'intérêt de l'administration d'une bonne justice, il y a lieu de prononcer le dessaisissement."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Een maatregel van onttrekking van de zaak aan de rechter kan, afhankelijk van de omstandigheden, in strijd blijken met een goede rechtsbedeling wanneer er een ontwerpvonnis wordt opgemaakt; indien uit het verloop van de procedure voor de rechtbank en uit de gemaakte opmerkingen echter niet volgt dat er op korte termijn een vonnis mag worden verwacht, dient in het belang van de goede rechtsbedeling de onttrekking van de zaak aan de rechter te worden bevolen."
+      ]
     },
     "ECLI:BE:CASS:2015:ARR.20150528.14": {
       "court": "CASS",
@@ -11490,12 +11493,15 @@
       "date": "2025-09-29",
       "roleNumber": "C.25.0303.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_32.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_32.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_27.xml"
       ],
       "abstractFR": [
         "La demande de dessaisissement est suspensive."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vordering tot onttrekking van de zaak aan de rechter heeft schorsende kracht."
+      ]
     },
     "ECLI:BE:CASS:2014:ARR.20140131.1": {
       "court": "CASS",

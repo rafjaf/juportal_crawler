@@ -346,24 +346,30 @@
       "date": "2025-10-03",
       "roleNumber": "F.24.0021.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_32.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison de l'article 3 de l'arrêté royal du 14 octobre 1991 relatif aux annotations dans le registre de publication des règlements et ordonnances des autorités communales et de l'article L 1124-17 du Code de la démocratie locale et de la décentralisation, que le registre des publications ne doit pas, en toute circonstance, être signé par le directeur général à l'exclusion du directeur général adjoint."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de samenlezing van artikel 3 van het koninklijk besluit van 14 oktober 1991 betreffende de aantekeningen in het register voor de bekendmaking van de reglementen en verordeningen van de gemeenteoverheden en artikel L 1124-17 van het Wetboek van de plaatselijke democratie en decentralisatie volgt dat het register van bekendmaking niet in alle omstandigheden moet worden ondertekend door de directeur-generaal, met uitsluiting van de adjunct-directeur-generaal."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251003.1F.4": {
       "court": "CASS",
       "date": "2025-10-03",
       "roleNumber": "F.24.0022.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_33.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison de l'article 3 de l'arrêté royal du 14 octobre 1991 relatif aux annotations dans le registre de publication des règlements et ordonnances des autorités communales et de l'article L 1124-17 du Code de la démocratie locale et de la décentralisation, que le registre des publications ne doit pas, en toute circonstance, être signé par le directeur général à l'exclusion du directeur général adjoint."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de samenlezing van artikel 3 van het koninklijk besluit van 14 oktober 1991 betreffende de aantekeningen in het register voor de bekendmaking van de reglementen en verordeningen van de gemeenteoverheden en artikel L 1124-17 van het Wetboek van de plaatselijke democratie en decentralisatie volgt dat het register van bekendmaking niet in alle omstandigheden moet worden ondertekend door de directeur-generaal, met uitsluiting van de adjunct-directeur-generaal."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250324.3F.1": {
       "court": "CASS",

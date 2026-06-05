@@ -2726,6 +2726,20 @@
       "abstractNL": [
         "Het arrest dat de aftrekbaarheid van het financieel verlies ten gevolge van de verrekening van de kosten en de aankoopprijs van beurseffecten weigert omdat uitgaven van een handelsvennootschap slechts als aftrekbare beroepskosten kunnen worden beschouwd als ze noodzakelijkerwijs betrekking hebben op de activiteit van de vennootschap, verantwoordt zijn beslissing naar recht als het, na te hebben vastgesteld dat het doel van de vennootschap onder meer erin bestaat alle financiële verrichtingen van enigerlei aard uit te voeren, en vervolgens beslist dat de litigieuze beursverrichting niet noodzakelijk verband houdt met het doel van de vennootschap (1) (2). (1) Zie concl. O.M. . (2) Cass. 19 juni 2003, AR F.01.0066.F, nr ..., ; Cass. 3 mei 2001, AR F.99.0159.F, nr 253 en 18 jan. 2001, AR F.99.0114.F, nr 34."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231006.1F.6": {
+      "court": "CASS",
+      "date": "2023-10-06",
+      "roleNumber": "F.23.0007.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_12.xml"
+      ],
+      "abstractFR": [
+        "L'article 49, alinéas 1er et 2, du Code des impôts sur les revenus 1992 ne permet pas de déduire les frais professionnels des revenus de la période imposable de l'année de leur paiement lorsque ces frais se rattachent à une période imposable antérieure, au cours de laquelle ils ont acquis le caractère de dette certaine et liquide, et devaient être comptabilisés (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 49, eerste en tweede lid, WIB92 staat de aftrek niet toe van de beroepskosten van de inkomsten van het belastbare tijdperk van het jaar waarin zij zijn betaald wanneer die kosten verbonden zijn aan een vroeger belastbaar tijdperk, waarin zij het karakter van een zekere en vaststaande schuld hebben verkregen en geboekt moesten worden (1). (1) Zie concl. OM."
+      ]
     }
   },
   "50": {
@@ -5704,6 +5718,22 @@
       ]
     }
   },
+  "298": {
+    "ECLI:BE:CASS:2023:ARR.20231006.1F.3": {
+      "court": "CASS",
+      "date": "2023-10-06",
+      "roleNumber": "F.21.0177.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Un moyen, qui n'invoque que la violation de l'article 356 du Code des impôts sur les revenus 1992 et non des articles 444 et 298, § 1er, du Code des impôts sur les revenus 1992 qui définissent la nature de l'accroissement d'impôt, ne saurait entraîner la cassation et est, partant, irrecevable."
+      ],
+      "abstractNL": [
+        "Het middel dat enkel de schending aanvoert van artikel 356 WIB92 en niet van de artikelen 444 en 298, § 1, WIB92, die de aard van de belastingverhoging omschrijven, kan niet leiden tot cassatie en is derhalve niet ontvankelijk."
+      ]
+    }
+  },
   "300": {
     "ECLI:BE:CASS:2009:ARR.20091106.3": {
       "court": "CASS",
@@ -8350,6 +8380,20 @@
       "abstractNL": [
         "De regeling waarbij de beroepstermijnen worden verlengd of geschorst ingeval de administratie aan de rechter een subsidiaire aanslag voorlegt, is enkel van toepassing wanneer de rechter kennisneemt van een betwisting nadat er een beslissing werd gewezen over het in artikel 1385undecies Gerechtelijk Wetboek bedoelde administratief beroep; ze is daarentegen niet van toepassing wanneer de rechter uitspraak doet over de rechtsvordering die ten vroegste zes of negen maanden na de datum van ontvangst van het administratief beroep tegen een aanslag werd ingesteld, op een tijdstip waarop er over dat beroep geen beslissing is gewezen (1). (1) Zie concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231006.1F.3": {
+      "court": "CASS",
+      "date": "2023-10-06",
+      "roleNumber": "F.21.0177.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Un moyen, qui n'invoque que la violation de l'article 356 du Code des impôts sur les revenus 1992 et non des articles 444 et 298, § 1er, du Code des impôts sur les revenus 1992 qui définissent la nature de l'accroissement d'impôt, ne saurait entraîner la cassation et est, partant, irrecevable."
+      ],
+      "abstractNL": [
+        "Het middel dat enkel de schending aanvoert van artikel 356 WIB92 en niet van de artikelen 444 en 298, § 1, WIB92, die de aard van de belastingverhoging omschrijven, kan niet leiden tot cassatie en is derhalve niet ontvankelijk."
+      ]
     }
   },
   "357": {
@@ -8874,6 +8918,20 @@
         "L'établissement de l'impôt sur les plus-values latentes peut être dissocié de son recouvrement immédiat."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2025:ARR.20250929.3F.1": {
+      "court": "CASS",
+      "date": "2025-09-29",
+      "roleNumber": "F.10.0058.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_28.xml"
+      ],
+      "abstractFR": [
+        "L'article 1er du Premier Protocole additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales est étranger à l'obligation du directeur régional de statuer dans un délai raisonnable sur la réclamation que le contribuable peut introduire, conformément à l'article 366 du Code des impôts sur les revenus 1992 (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Artikel 1 Eerste Aanvullend Protocol EVRM houdt geen verband met de verplichting van de gewestelijke directeur om binnen een redelijke termijn uitspraak te doen over het bezwaar dat de belastingplichtige overeenkomstig artikel 366 WIB92 kan indienen (1). (1) Zie concl. OM."
+      ]
     }
   },
   "367": {
@@ -10619,6 +10677,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De inbreuken die tot een belastingverhoging aanleiding kunnen geven, zijn voltrokken zodra de voor de aangifte bepaalde termijn verstreken is en er dus sprake is van niet-aangifte in de zin van voormeld artikel 444, zowel in geval van niet-overlegging van het aangifteformulier aan de bevoegde dienst als in geval van laattijdige overlegging van die aangifte (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231006.1F.3": {
+      "court": "CASS",
+      "date": "2023-10-06",
+      "roleNumber": "F.21.0177.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_10.xml"
+      ],
+      "abstractFR": [
+        "Un moyen, qui n'invoque que la violation de l'article 356 du Code des impôts sur les revenus 1992 et non des articles 444 et 298, § 1er, du Code des impôts sur les revenus 1992 qui définissent la nature de l'accroissement d'impôt, ne saurait entraîner la cassation et est, partant, irrecevable."
+      ],
+      "abstractNL": [
+        "Het middel dat enkel de schending aanvoert van artikel 356 WIB92 en niet van de artikelen 444 en 298, § 1, WIB92, die de aard van de belastingverhoging omschrijven, kan niet leiden tot cassatie en is derhalve niet ontvankelijk."
       ]
     }
   },

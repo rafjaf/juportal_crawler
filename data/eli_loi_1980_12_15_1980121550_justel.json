@@ -1107,12 +1107,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_836.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_836.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/04/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/04/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_1.xml"
       ],
       "abstractFR": [
         "L'article 27 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers n'interdit pas à l'autorité administrative de prendre à l'égard d'un étranger déjà privé de liberté et qui empêche le retour une mesure de réécrou exécutoire avant la péremption du titre précédent."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 27 Vreemdelingenwet verbiedt de administratieve overheid niet jegens een vreemdeling die reeds van zijn vrijheid is beroofd en zijn terugkeer belemmert, een uitvoerbare maatregel tot wederopsluiting te nemen vóór het verval van de voorgaande titel."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210303.2F.21": {
       "court": "CASS",

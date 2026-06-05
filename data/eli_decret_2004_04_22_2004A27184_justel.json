@@ -22,12 +22,15 @@
       "date": "2025-10-03",
       "roleNumber": "F.24.0021.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_32.xml"
       ],
       "abstractFR": [
         "En vertu de l'article L 1133-1, alinéa 1er, du Code de la démocratie locale et de la décentralisation, les règlements et ordonnances du conseil communal, du collège communal et du bourgmestre sont publiés par ce dernier par la voie d'une affiche indiquant l'objet du règlement ou de l'ordonnance, la date de la décision par laquelle il a été adopté, et, le cas échéant, la décision de l'autorité de tutelle; il suit de cette disposition qu'il n'est pas requis que l'affiche indique, en cas d'absence de décision de l'autorité de tutelle, l'approbation implicite de cette dernière."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel L 1133-1, eerste lid, van het Wetboek van de plaatselijke democratie en decentralisatie worden de reglementen en verordeningen van de gemeenteraad, het gemeentecollege en de burgemeester door laatstgenoemde bekendgemaakt bij aanplakking, waarin het onderwerp van het reglement of de verordening wordt aangegeven, alsook de datum van de beslissing waarbij de aanneming ervan geschiedde en, in voorkomend geval, de beslissing van de toezichthoudende overheid; uit die bepaling volgt dat niet is vereist dat het aanplakbiljet, bij gebrek aan beslissing van de toezichthoudende overheid, de impliciete goedkeuring van die overheid vermeldt."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250324.3F.1": {
       "court": "CASS",
@@ -244,24 +247,30 @@
       "date": "2025-10-03",
       "roleNumber": "F.24.0021.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_32.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison de l'article 3 de l'arrêté royal du 14 octobre 1991 relatif aux annotations dans le registre de publication des règlements et ordonnances des autorités communales et de l'article L 1124-17 du Code de la démocratie locale et de la décentralisation, que le registre des publications ne doit pas, en toute circonstance, être signé par le directeur général à l'exclusion du directeur général adjoint."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de samenlezing van artikel 3 van het koninklijk besluit van 14 oktober 1991 betreffende de aantekeningen in het register voor de bekendmaking van de reglementen en verordeningen van de gemeenteoverheden en artikel L 1124-17 van het Wetboek van de plaatselijke democratie en decentralisatie volgt dat het register van bekendmaking niet in alle omstandigheden moet worden ondertekend door de directeur-generaal, met uitsluiting van de adjunct-directeur-generaal."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251003.1F.4": {
       "court": "CASS",
       "date": "2025-10-03",
       "roleNumber": "F.24.0022.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_12.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/16/sitemap_12.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_33.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison de l'article 3 de l'arrêté royal du 14 octobre 1991 relatif aux annotations dans le registre de publication des règlements et ordonnances des autorités communales et de l'article L 1124-17 du Code de la démocratie locale et de la décentralisation, que le registre des publications ne doit pas, en toute circonstance, être signé par le directeur général à l'exclusion du directeur général adjoint."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de samenlezing van artikel 3 van het koninklijk besluit van 14 oktober 1991 betreffende de aantekeningen in het register voor de bekendmaking van de reglementen en verordeningen van de gemeenteoverheden en artikel L 1124-17 van het Wetboek van de plaatselijke democratie en decentralisatie volgt dat het register van bekendmaking niet in alle omstandigheden moet worden ondertekend door de directeur-generaal, met uitsluiting van de adjunct-directeur-generaal."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20221020.1F.5": {
       "court": "CASS",
@@ -439,6 +448,20 @@
       ],
       "abstractNL": [
         "De aantekening in het register bepaald in artikel L1133-2 van het Wetboek van de van de plaatselijke democratie en decentralisatie, is het enige toelaatbare bewijs van de bekendmaking van een gemeenteverordening of -reglement (1). (1) Zie andersluidende concl. OM in Pas. 2015, nr. ..., over het enige bewijsmiddel van de bekendmaking. Het Hof heeft dezelfde dag, in de zaak F.14.0158.F, over die aangelegenheid een arrest gewezen dat dezelfde regel stelt (andersluidende concl. OM)."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251003.1F.4": {
+      "court": "CASS",
+      "date": "2025-10-03",
+      "roleNumber": "F.24.0022.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_33.xml"
+      ],
+      "abstractFR": [
+        "Les règlements visés à l'article L 1133-1 du Code de la démocratie locale et de la décentralisation deviennent obligatoires le cinquième jour qui suit le jour de la publication; la publication a pour effet de rendre obligatoire le règlement communal qui en fait l'objet; lorsque le règlement fait l'objet de plusieurs publications, il devient obligatoire le cinquième jour qui suit le jour de la première publication contenant toutes les mentions de nature à le rendre exécutoire."
+      ],
+      "abstractNL": [
+        "De in artikel L 1133-1 van het Wetboek van de plaatselijke democratie en decentralisatie bedoelde reglementen zijn bindend de vijfde dag volgend op de bekendmaking ervan; de bekendmaking heeft tot gevolg dat het daarin bedoelde gemeentereglement bindend wordt; wanneer het reglement het voorwerp uitmaakt van meerdere bekendmakingen, wordt het bindend de vijfde dag volgend op de dag van de eerste bekendmaking die alle gegevens vermeldt waardoor het uitvoerbaar kan worden gemaakt."
       ]
     }
   },

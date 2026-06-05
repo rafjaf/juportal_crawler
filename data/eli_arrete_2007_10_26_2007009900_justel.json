@@ -452,12 +452,15 @@
       "date": "2025-09-29",
       "roleNumber": "F.17.0014.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_30.xml"
       ],
       "abstractFR": [
         "L'action qui tend à déclarer prescrit le recouvrement d'un impôt porte sur une demande évaluable en argent (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De rechtsvordering die ertoe strekt de invordering van een belasting verjaard te doen verklaren, betreft een in geld waardeerbare vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250923.2N.13": {
       "court": "CASS",
@@ -835,12 +838,15 @@
       "date": "2025-09-29",
       "roleNumber": "F.17.0014.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/15/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/04/sitemap_30.xml"
       ],
       "abstractFR": [
         "L'action qui tend à déclarer prescrit le recouvrement d'un impôt porte sur une demande évaluable en argent (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De rechtsvordering die ertoe strekt de invordering van een belasting verjaard te doen verklaren, betreft een in geld waardeerbare vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250923.2N.13": {
       "court": "CASS",
