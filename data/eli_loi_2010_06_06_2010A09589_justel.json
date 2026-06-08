@@ -437,6 +437,20 @@
       ]
     }
   },
+  "235": {
+    "ECLI:BE:CASS:2026:ARR.20260422.2F.2": {
+      "court": "CASS",
+      "date": "2026-04-22",
+      "roleNumber": "P.25.1689.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_5.xml"
+      ],
+      "abstractFR": [
+        "Pour qu'une condamnation du chef d'escroquerie comme coauteur soit justifiée, il n'est pas nécessaire que le prévenu ait accompli personnellement les actes constitutifs des manœuvres frauduleuses constitutives du délit; peuvent constituer un acte de participation criminelle au sens de l'article 66 du Code pénal, la création et la gestion d'une infrastructure destinée à être utilisée par des tiers dans un objectif frauduleux commun, de sorte que, sans cette coopération, les faits d'escroquerie ne se seraient pas déroulés selon le même modus operandi."
+      ],
+      "abstractNL": null
+    }
+  },
   "236": {
     "ECLI:BE:CASS:2023:ARR.20231129.2F.4": {
       "court": "CASS",

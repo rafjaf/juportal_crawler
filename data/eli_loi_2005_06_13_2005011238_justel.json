@@ -104,6 +104,20 @@
       ]
     }
   },
+  "108": {
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.6": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "C.25.0067.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De operator dient aan de abonnee de informatie betreffende de mogelijkheid van een migratiemandaat te verstrekken bij ontvangst van een aanvraag om een nieuw contract te sluiten (1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "119": {
     "ECLI:BE:CASS:2019:ARR.20190111.3": {
       "court": "CASS",
@@ -197,6 +211,20 @@
       "abstractFR": null,
       "abstractNL": [
         "De bewezenverklaring van het door artikel 145, § 3bis, Wet Elektronische Communicatie bedoelde misdrijf vereist het gebruik van een elektronisch communicatienetwerk of -dienst of een ander elektronisch communicatiemiddel om overlast te veroorzaken aan zijn correspondent of schade te berokkenen, maar die bewezenverklaring vereist niet noodzakelijk dat die elektronische communicatie gebeurt met behulp van een persoonlijk communicatiemiddel van die persoon, zoals een e-mailadres dat enkel door die persoon wordt gebruikt; het volstaat dat de communicatie gebeurt via een communicatiemiddel waarvan redelijkerwijze kan worden aangenomen dat die persoon er kennis van zal nemen en evenmin vereist een bewezenverklaring een voorafgaande klacht van de persoon tot wie de communicatie is gericht, noch het verhoor van die persoon (1). (1) D. STEVENS, P. VALCKE, E. LIEVENS en R. QUECK, “De nieuwe Wet van 13 juni 2005 betreffende de elektronische communicatie: laattijdige leerling in overambitieuze Europese klas?”, Auteurs & Media, 2006/2, 161-176."
+      ]
+    }
+  },
+  "111/2": {
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.6": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "C.25.0067.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_16.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De operator dient aan de abonnee de informatie betreffende de mogelijkheid van een migratiemandaat te verstrekken bij ontvangst van een aanvraag om een nieuw contract te sluiten (1). (1) Zie concl. OM."
       ]
     }
   }

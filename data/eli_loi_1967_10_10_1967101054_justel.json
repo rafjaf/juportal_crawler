@@ -6212,7 +6212,8 @@
       "date": "2026-05-11",
       "roleNumber": "S.19.0015.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_64.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/03/sitemap_64.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_28.xml"
       ],
       "abstractFR": [
         "Le statut équivalent au statut fixé par les lois et règlements pour le personnel des institutions universitaires de l'État, fixé par une université financée par l'Etat, en application de l'article 41 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, règle les relations de travail entre l'institution universitaire et son personnel par des dispositions générales et impersonnelles; ces dispositions ne sont toutefois pas applicables en raison d'une décision unilatérale d'un organe administratif de l'institution mais en vertu d'un contrat de travail; elles ne sont pas des lois au sens de l'article 608 du Code judiciaire (1). (1) Voir les concl. du MP."
@@ -10129,6 +10130,18 @@
       "abstractNL": [
         "Wanneer een magistraat is tussengekomen in een geschil dat bij een rechtbank aanhangig is en deze tussenkomst in de geest van zekere partijen of van een derde een vermoeden van welwillendheid van de kennisnemende rechtbank ten aanzien van een van de partijen kan doen ontstaan, willigt het Hof van cassatie aanstonds de vordering tot onttrekking aan deze rechtbank wegens wettige verdenking in en verwijst de zaak naar een andere rechtbank, die onder hetzelfde hof van beroep ressorteert. ( G.W., artikel 648, 650, 653, 655, 656, 658. )"
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260417.1F.7": {
+      "court": "CASS",
+      "date": "2026-04-17",
+      "roleNumber": "C.26.0059.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La circonstance qu'une partie à un litige relevant de la compétence du tribunal de la famille préside une chambre de ce tribunal est de nature, compte tenu des liens qui existent entre un juge et ses collègues d'une même juridiction, à inspirer aux parties comme aux tiers une suspicion légitime quant à la stricte impartialité des juges appelés à statuer dans cette cause, ce qui justifie le dessaisissement de cette juridiction."
+      ],
+      "abstractNL": null
     }
   },
   "649": {
@@ -12834,6 +12847,18 @@
       "abstractNL": [
         "Wanneer een magistraat is tussengekomen in een geschil dat bij een rechtbank aanhangig is en deze tussenkomst in de geest van zekere partijen of van een derde een vermoeden van welwillendheid van de kennisnemende rechtbank ten aanzien van een van de partijen kan doen ontstaan, willigt het Hof van cassatie aanstonds de vordering tot onttrekking aan deze rechtbank wegens wettige verdenking in en verwijst de zaak naar een andere rechtbank, die onder hetzelfde hof van beroep ressorteert. ( G.W., artikel 648, 650, 653, 655, 656, 658. )"
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260417.1F.7": {
+      "court": "CASS",
+      "date": "2026-04-17",
+      "roleNumber": "C.26.0059.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/05/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "L'annulation des actes faits par les juges dessaisis avant la prononciation de la décision de dessaisissement ne peut concerner que les actes faits dans la même cause."
+      ],
+      "abstractNL": null
     }
   },
   "659": {
