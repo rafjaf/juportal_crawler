@@ -55,13 +55,17 @@
       "date": "2025-10-10",
       "roleNumber": "F.20.0174.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_41.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_41.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_13.xml"
       ],
       "abstractFR": [
         "Les contestations relatives à l'établissement de l'impôt, lors même qu'elles portent sur un accroissement d'impôt et celui-ci eût-il le caractère d'une peine, ne constituent pas des causes pénales au sens de l'article 2, § 1er, de l'arrêté royal n° 2 du 9 avril 2020.",
         "La prise en délibéré d'une affaire sans plaidoiries ne requiert pas l'accord des parties."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De betwistingen betreffende de belastingaanslag, ook al hebben ze betrekking op een belastingverhoging en heeft die verhoging het karakter van een straf, zijn geen strafzaken in de zin van artikel 2, § 1, van het koninklijk besluit nr. 2 van 9 april 2020.",
+        "De zaak kan zonder mondeling pleidooi in beraad worden genomen, zonder dat daarvoor het akkoord van de partijen is vereist."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230608.1F.4": {
       "court": "CASS",

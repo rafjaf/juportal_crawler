@@ -150,12 +150,15 @@
       "roleNumber": "S.24.0064.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_19.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_500.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_500.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_37.xml"
       ],
       "abstractFR": [
         "L'extinction de l'action publique moyennant l'exécution de mesures et le respect des conditions est une mesure proposée par une autorité appelée à participer à l'administration de la justice, requiert une appréciation de la responsabilité pénale de l'intéressé et sanctionne le comportement illicite de ce dernier; il s'ensuit qu'elle constitue une condamnation par un jugement définitif qui commande l'application du principe non bis in idem, qui a pour objet de prohiber la répétition de poursuites revêtant un caractère répressif définitivement clôturées (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het verval van de strafvordering middels uitvoering van bepaalde maatregelen en naleving van bepaalde voorwaarden is een maatregel die wordt voorgesteld door een overheid die aan de rechtsbedeling deelneemt, die een beoordeling van de strafrechtelijke verantwoordelijkheid van de betrokkene vereist en die zijn onrechtmatig gedrag bestraft; hieruit volgt dat het een veroordeling door een eindvonnis vormt die de toepassing van het non bis in idem-beginsel vereist, dat tot doel heeft de herhaling van een definitief afgesloten vervolging met strafrechtelijk karakter te verbieden (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251028.2N.1": {
       "court": "CASS",

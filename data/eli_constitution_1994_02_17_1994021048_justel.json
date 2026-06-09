@@ -6070,13 +6070,16 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1003.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1003.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_6.xml"
       ],
       "abstractFR": [
         "Il ne suit pas des articles 16 de la Constitution et 1er du Premier Protocole additionnel à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, que, lorsqu'une mesure de l'autorité restreignant le droit de propriété constitue une violation de ces dispositions, cette violation est constitutive d'une faute qui perdure aussi longtemps que le comportement fautif de l'autorité n'a pas cessé.",
         "Traduction pas encore disponible"
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit de artikelen 16 Grondwet en 1 Eerste Aanvullend Protocol EVRM volgt niet dat wanneer een overheidsmaatregel die het eigendomsrecht inperkt de voormelde bepalingen schendt, die schending een fout uitmaakt die voortduurt zolang het foutieve gedrag van de overheid niet is opgehouden."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240909.3N.10": {
       "court": "CASS",
@@ -9398,7 +9401,8 @@
       "date": "2026-05-08",
       "roleNumber": "F.21.0123.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_33.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_33.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_47.xml"
       ],
       "abstractFR": [
         "Les cours et tribunaux connaissent de la demande d'une partie fondée sur un droit subjectif; l'existence de pareil droit suppose que la partie demanderesse fasse état d'une obligation déterminée qu'une règle de droit subjectif impose directement à un tiers et à l'exécution de laquelle cette partie a un intérêt; pour qu'une partie puisse se prévaloir d'un tel droit à l'égard de l'autorité, il faut que la compétence de cette autorité soit liée (1). (1) Voir les concl. du MP."
@@ -16216,6 +16220,18 @@
       "abstractNL": [
         "Bij ontstentenis van een daartoe strekkende conclusie dient de rechter niet alle gegevens te vermelden waarop hij zijn beslissing laat steunen; uit het enkele feit dat een gegeven in een vonnis niet is vermeld, volgt niet dat de rechter dit niet heeft onderzocht (1). (1) Zie concl. OM.",
         "Hoewel artikel 149 van de Grondwet vereist dat de beslissing van de feitenrechter redenen bevat die het Hof van Cassatie in staat moeten stellen zijn wettigheidstoetsing uit te oefenen, kan die toetsing enkel betrekking hebben op vragen die aan de feitenrechter werden voorgelegd (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260505.2N.1": {
+      "court": "CASS",
+      "date": "2026-05-05",
+      "roleNumber": "P.25.1753.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_44.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Uit artikel 149 Grondwet, de artikelen 195 en 211 Wetboek van Strafvordering en artikel 2 Strafwetboek volgt dat indien de omschrijving van strafbare feiten sinds het plegen van die feiten is gewijzigd, de rechter a) een beklaagde slechts schuldig kan verklaren aan die feiten indien hij vaststelt dat ze zowel strafbaar waren en gebleven zijn onder de oude en de nieuwe wet en b) de oude en de nieuwe wetsbepalingen moet vermelden die de constitutieve bestanddelen van het misdrijf definiëren, alsook de wetsbepalingen betreffende de toegepaste straf; indien de toepasselijke wetsbepalingen tijdens de bewezenverklaarde incriminatieperiode werden gewijzigd, dient de rechter behalve de wetsbepalingen in verband met de toegepaste straffen de wetsbepalingen te vermelden die de feiten gedurende de volledige bewezenverklaarde incriminatieperiode strafbaar stellen; behoudens daartoe strekkende conclusie volgt voor de rechter uit deze bepalingen geen verdergaande motiveringsverplichting met betrekking tot de toepassing van de strafwet in de tijd en meer in het bijzonder moet hij niet uitdrukkelijk a) vermelden op welke wijze de constitutieve bestanddelen onder de oude wetsbepaling samenvallen met, dan wel beperkter of ruimer zijn dan deze onder de nieuwe wetsbepaling, en b) de strafminima en –maxima van de oude en nieuwe wetsbepalingen vergelijken."
       ]
     }
   },

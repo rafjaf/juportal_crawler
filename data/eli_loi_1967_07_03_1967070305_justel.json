@@ -518,12 +518,15 @@
       "roleNumber": "C.24.0172.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/28/sitemap_27.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_42.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_42.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_14.xml"
       ],
       "abstractFR": [
         "En principe, le transfert des droits et actions du subrogeant au subrogé intervient au moment du paiement; les règles qui instaurent la quasi-subrogation de l'employeur public redevable de la rémunération pendant la période d'incapacité temporaire à l'égard du tiers responsable en droit commun de l'accident du travail ou de la maladie professionnelle n'y dérogent pas (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De overdracht van de rechten en rechtsvorderingen van de subrogant aan de gesubrogeerde geschiedt in beginsel op het tijdstip van de betaling; de regels die de quasi-indeplaatsstelling invoeren van de openbare werkgever die het loon dient te betalen gedurende het tijdvak van tijdelijke ongeschiktheid, tegen de naar gemeen recht voor het arbeidsongeval of de beroepsziekte aansprakelijke derde, wijken hier niet van af (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240612.2F.7": {
       "court": "CASS",

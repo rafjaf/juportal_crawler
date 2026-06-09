@@ -432,9 +432,13 @@
       "roleNumber": "S.23.0062.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/02/sitemap_7.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/26/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/26/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_26.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Il suit de l'article 57, § 2, de la loi du 8 juillet 1976 organique des centres publics d'action sociale qu'en principe, les étrangers n'ont droit à l'aide sociale ordinaire qu'à la condition d'être autorisés à séjourner dans le Royaume; la limitation de l'aide sociale prévue à cet article ne vise cependant pas les étrangers qui, en raison d'une force majeure, sont empêchés de retourner dans leur pays d'origine ou dans un autre pays (1). (1) Cass. 18 décembre 2000, RG S.98.0010.F, ECLI:BE:CASS:2000:ARR.20001218.6, Pas. 2000, n° 697, avec les concl. de M. J.–F. Leclercq, premier avocat général.",
+        "La force majeure qui empêche l'étranger de retourner dans son pays d'origine ou dans un autre pays ne peut résulter que d'une circonstance indépendante de sa volonté et que celui-ci ne pouvait ni prévoir ni conjurer; le juge apprécie souverainement si les faits et circonstances invoqués qui empêcheraient le retour dans le pays d'origine ou dans un autre pays constituent un cas de force majeure; la Cour se borne à vérifier si, à partir des circonstances et faits auxquels il a égard, le juge a pu légalement déduire la force majeure ou légalement rejeter l'existence d'une force majeure."
+      ],
       "abstractNL": [
         "Uit artikel 57, § 2, OCMW-wet volgt dat vreemdelingen in beginsel slechts recht hebben op de gewone maatschappelijke dienstverlening op voorwaarde dat zij gemachtigd zijn in het Rijk te verblijven; de in dit artikel bepaalde beperking van de maatschappelijke dienstverlening geldt echter niet voor vreemdelingen die door overmacht verhinderd zijn terug te keren naar hun land van herkomst of een ander land (1). (1) Cass. 18 december 2000, AR S.98.0010.F, AC 2000, nr. 697, met concl. van eerste advocaat-generaal Leclercq op datum in Pas.",
         "Overmacht die de vreemdeling verhindert terug te keren naar zijn land van herkomst of een ander land, kan enkel voortvloeien uit een omstandigheid buiten zijn wil en die door hem onmogelijk kon worden voorzien of vermeden; de rechter oordeelt onaantastbaar of de aangevoerde feiten en omstandigheden die de terugkeer naar het land van herkomst of een ander land zouden beletten, een geval van overmacht uitmaken; het Hof gaat enkel na of de rechter uit de feiten en omstandigheden die hij in aanmerking neemt, wettig overmacht heeft kunnen afleiden of het bestaan van overmacht wettig heeft kunnen verwerpen."

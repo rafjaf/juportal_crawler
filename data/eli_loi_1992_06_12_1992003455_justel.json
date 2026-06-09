@@ -7480,7 +7480,8 @@
       "date": "2026-05-08",
       "roleNumber": "F.25.0078.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_34.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_34.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_48.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison des alinéas 1er, 2 et 3 de l'article 351 du Code des impôts sur les revenus 1992 que l'administration, qui procède à la taxation d'office en raison de l'absence de réponse à un avis de rectification, ne peut établir la cotisation sur la base d'autres revenus et éléments que ceux déclarés ou admis par écrit par le contribuable que si ces autres revenus et éléments ont été portés à sa connaissance par ledit avis de rectification (1). (1) Voir les concl. du MP."
@@ -9369,7 +9370,8 @@
       "date": "2026-05-08",
       "roleNumber": "F.25.0094.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_35.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_35.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_49.xml"
       ],
       "abstractFR": [
         "Pour l'application de l'article 376, §1er, du Code des impôts sur les revenus 1992, la double imposition suppose que le même revenu ait fait l'objet de plusieurs impositions dont l'une exclut légalement l'autre; dans ce cas, c'est en principe la cotisation établie illégalement qui doit faire l'objet du dégrèvement (1). (1) Voir les concl. du MP",
@@ -10434,7 +10436,8 @@
       "date": "2026-05-08",
       "roleNumber": "F.21.0123.F",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_33.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_33.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_47.xml"
       ],
       "abstractFR": [
         "Il suit de l'article 417 du Code des impôts sur les revenus 1992 que l'autorité qui y est visée détermine les conditions auxquelles l'exonération des intérêts de retard peut être accordée dans les cas spéciaux, que, partant, la compétence de cette autorité est discrétionnaire et que les cours et tribunaux sont sans juridiction pour accorder une telle exonération (1). (1) Voir les concl. du MP."
@@ -10727,6 +10730,20 @@
       "abstractFR": null,
       "abstractNL": [
         "Voor het bepalen van de rang van de overtreding bij niet-aangifte moet het moment van de overtreding worden gesitueerd op het ogenblik dat de belastingplichtige nalaat zijn aangifte in te dienen binnen de wettelijk voorziene aangiftetermijn, in voorkomend geval nadat hij met toepassing van artikel 308, § 3, WIB92 een aangifteformulier heeft aangevraagd; het feit dat de fiscale administratie na het verstrijken van de aangiftetermijnen bij wijze van ‘administratieve gunst' aan de belastingplichtige de kans geeft om alsnog een aangifte in te dienen, heeft niet tot gevolg dat de belastingplichtige dan een overtreding begaat door daaraan geen gevolg te geven."
+      ]
+    },
+    "ECLI:BE:CASS:2025:ARR.20251010.1F.5": {
+      "court": "CASS",
+      "date": "2025-10-10",
+      "roleNumber": "F.20.0174.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_13.xml"
+      ],
+      "abstractFR": [
+        "Les contestations relatives à l'établissement de l'impôt, lors même qu'elles portent sur un accroissement d'impôt et celui-ci eût-il le caractère d'une peine, ne constituent pas des causes pénales au sens de l'article 2, § 1er, de l'arrêté royal n° 2 du 9 avril 2020."
+      ],
+      "abstractNL": [
+        "De betwistingen betreffende de belastingaanslag, ook al hebben ze betrekking op een belastingverhoging en heeft die verhoging het karakter van een straf, zijn geen strafzaken in de zin van artikel 2, § 1, van het koninklijk besluit nr. 2 van 9 april 2020."
       ]
     }
   },

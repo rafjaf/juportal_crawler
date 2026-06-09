@@ -233,9 +233,12 @@
       "date": "2025-09-22",
       "roleNumber": "S.22.0040.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_32.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_32.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_17.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'obligation de l'employeur de présenter les copies ou extraits des contrats de travail des travailleurs à temps partiel aux inspecteurs sociaux au cours du contrôle que ceux-ci effectuent représente une obligation de résultat dont l'irrespect constitue, sauf en cas de force majeure, une infraction à l'article 157 de la loi-programme du 22 décembre 1989."
+      ],
       "abstractNL": [
         "De verplichting van de werkgever tot het voorleggen van de afschriften of uittreksels van de arbeidsovereenkomsten van de deeltijdse werknemers aan de sociaal inspecteurs tijdens de door hen uitgevoerde controle maakt een resultaatsverbintenis uit waarvan de niet-naleving, behoudens ingeval van overmacht, een inbreuk op artikel 157 Wet Deeltijdse Arbeid uitmaakt."
       ]

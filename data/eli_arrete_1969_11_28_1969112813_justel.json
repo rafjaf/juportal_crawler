@@ -639,9 +639,12 @@
       "date": "2025-09-22",
       "roleNumber": "S.22.0010.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_31.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/06/sitemap_31.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_16.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Pour l'application de la dérogation à la durée hebdomadaire minimale du travail d'un tiers de la durée hebdomadaire du travail prévue à l'article 1er, 2°, de l'arrêté royal du 21 décembre 1992 déterminant les dérogations à la durée hebdomadaire minimale de travail des travailleurs à temps partiel fixée à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail, il est requis que le travail exécuté par le travailleur soit effectué au profit du ménage de l'employeur ou de sa famille ; une association de copropriétaires d'un immeuble visé à l'article 577-5, § 1er, de l'ancien Code civil ne peut pas, en tant que personne morale, avoir de ménage ou de famille."
+      ],
       "abstractNL": [
         "Voor de toepasselijkheid van de in artikel 1, 2°, KB 21 december 1992 bepaalde afwijking op de minimale wekelijkse arbeidsduur van een derde van de wekelijkse arbeidsduur van de voltijds tewerkgestelde werknemers, is vereist dat de door de werknemer uitgevoerde arbeid wordt verricht ten behoeve van de huishouding van de werkgever of van zijn gezin; een vereniging van mede-eigenaars van een gebouw zoals bedoeld in artikel 577-5, § 1, Oud Burgerlijk Wetboek kan als rechtspersoon geen huishouding of gezin hebben."
       ]

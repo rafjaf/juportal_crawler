@@ -7025,9 +7025,13 @@
       "roleNumber": "C.22.0314.N",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/02/sitemap_6.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/26/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/26/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_25.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "L'article 19, alinéas 1er et 2, du Code judiciaire exclut qu'il soit statué à nouveau dans la même cause et entre les mêmes parties sur un point litigieux sur lequel une décision définitive a déjà été rendue, même si des moyens nouveaux sont invoqués ; il suffit que le point litigieux ait été soumis au juge et que les parties aient pu en débattre, lors même qu'elles ne l'ont pas fait.",
+        "Le juge qui, pour apprécier son pouvoir juridictionnel ou sa compétence, se fonde sur la demande, telle qu'elle était formulée dans l'acte introductif d'instance, ne prend pas, lors de cette appréciation, de décision définitive au sens de l'article 19, alinéa 1er, du Code judiciaire sur la recevabilité ou le fondement de la demande."
+      ],
       "abstractNL": [
         "Artikel 19, eerste en tweede lid Gerechtelijk Wetboek sluit uit dat, in dezelfde zaak en tussen dezelfde partijen, opnieuw uitspraak wordt gedaan over een geschilpunt waarover een eindbeslissing is gewezen, zelfs indien nieuwe middelen worden aangevoerd; het volstaat dat het geschilpunt aan de rechter was voorgelegd en dat de partijen hierover debat konden voeren, zelfs indien zij dat niet hebben gedaan.",
         "De rechter die tot beoordeling van zijn rechtsmacht of bevoegdheid steunt op de vordering zoals zij is geformuleerd in de gedinginleidende akte, neemt bij die beoordeling geen eindbeslissing in de zin van artikel 19, eerste lid, Gerechtelijk Wetboek over de ontvankelijkheid of de gegrondheid van de vordering."
@@ -12886,12 +12890,15 @@
       "roleNumber": "C.24.0477.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/28/sitemap_28.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_43.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/25/sitemap_43.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_15.xml"
       ],
       "abstractFR": [
         "Les dispositions légales relatives aux litiges indivisibles, qui concernent soit le cas où une partie fait défaut soit des voies de recours, ne portent pas atteinte au droit des parties de décider qui elles mettent à la cause au premier degré de juridiction (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De wettelijke bepalingen betreffende de onsplitsbare geschillen die verband houden met hetzij het geval waarin een partij verstek laat gaan hetzij de rechtsmiddelen, doen geen afbreuk aan het recht van de partijen om te beslissen wie zij in eerste aanleg in het geding betrekken (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240122.3N.3": {
       "court": "CASS",

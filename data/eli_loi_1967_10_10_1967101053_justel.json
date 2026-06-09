@@ -11031,13 +11031,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_989.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_989.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/23/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/23/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_5.xml"
       ],
       "abstractFR": [
         "Seul un avocat à la Cour de cassation peut déposer, dans une cause à laquelle s'applique son monopole, l'un des écrits prévus par la procédure.",
         "L'avocat inscrit au tableau d'un barreau qui assiste une partie en vertu de l'article 1086 du Code judiciaire ne peut, sur la base de l'article 1107, alinéa 3, demander la remise qu'en vue de répondre verbalement à ces conclusions."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Enkel een advocaat bij het Hof van Cassatie kan, in een zaak waarin zijn monopolie van toepassing is, één van de door de procedure voorgeschreven geschriften neerleggen.",
+        "De op het tableau van een balie ingeschreven advocaat die een partij bijstaat krachtens artikel 1086 Gerechtelijk Wetboek, kan, op grond van artikel 1107, derde lid, de verdaging enkel vragen om die conclusie mondeling te beantwoorden."
+      ]
     },
     "ECLI:BE:CASS:2013:ARR.20130328.11": {
       "court": "CASS",
