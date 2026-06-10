@@ -1956,12 +1956,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1023.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1023.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/03/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/03/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_9.xml"
       ],
       "abstractFR": [
         "Le créancier dont la créance a été admise a la qualité requise pour saisir le juge-commissaire d'une demande d'ordonner une répartition provisionnelle entre les créanciers."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De schuldeiser wiens schuldvordering werd aanvaard, heeft de vereiste hoedanigheid om de rechter-commissaris te vragen een voorlopige uitdeling tussen de schuldeisers te bevelen."
+      ]
     }
   },
   "79": {

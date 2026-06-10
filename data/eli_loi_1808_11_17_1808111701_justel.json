@@ -6597,12 +6597,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_991.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_991.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_1.xml"
       ],
       "abstractFR": [
         "La force majeure, qu'il appartient au juge du fond d'apprécier en fait, ne peut résulter que d'une circonstance indépendante de la volonté de la personne qui l'invoque; il faut que cette personne n'ait pu ni prévoir ni conjurer cette circonstance; l'ignorance du droit ne constitue pas un cas de force majeure."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De overmacht, die de feitenrechter in feite moet beoordelen, kan enkel voortvloeien uit een omstandigheid buiten de wil van de persoon die ze aanvoert; hiertoe is vereist dat die persoon die omstandigheid niet heeft kunnen voorzien of voorkomen; het gebrek aan kennis van het recht vormt geen overmacht."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200407.1": {
       "court": "CASS",
@@ -15101,12 +15104,15 @@
       "roleNumber": "P.25.1651.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_9.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_666.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_666.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_28.xml"
       ],
       "abstractFR": [
         "Sous réserve de l'observation de l'interdiction de porter sciemment atteinte aux prérogatives du juge d'instruction et sans préjudice du respect du principe général du droit relatif au respect des droits de la défense, ni l'article 28quater, alinéa 3, du Code d'instruction criminelle ni aucune autre n'interdit au ministère public de saisir deux juges d'instruction différents d'une même infraction lorsque les nécessités d'une bonne administration de la justice l'exigent, et notamment lorsque les inculpés parlent des langues différentes."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Mits het verbod op de bewuste aantasting van de prerogatieven van de onderzoeksrechter wordt nageleefd en onverminderd de eerbiediging van het algemeen beginsel van het recht van verdediging, verbieden noch artikel 28quater, derde lid, Wetboek van Strafvordering noch enige andere bepaling het openbaar ministerie om hetzelfde misdrijf bij twee onderzoeksrechters aanhangig te maken wanneer dit voor een goede rechtsbedeling is vereist en, met name, wanneer de inverdenkinggestelden verschillende talen spreken."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20221122.2N.6": {
       "court": "CASS",

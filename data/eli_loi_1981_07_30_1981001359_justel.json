@@ -110,12 +110,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_994.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_994.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_4.xml"
       ],
       "abstractFR": [
         "L'infraction visée à l'article 20, 4°, de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie ne comporte pas, parmi ses éléments constitutifs, le fait que le groupe, la communauté ou leurs membres aient connaissance de l'incitation à la haine ou à la violence à leur égard; il suffit que ce comportement ait été adopté dans l'une des circonstances indiquées à l'article 444 du Code pénal."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het feit dat de groep, de gemeenschap of de leden van die groep of gemeenschap kennis hebben van de aanzetting tot haat of geweld jegens hen, is geen bestanddeel van het misdrijf bedoeld in artikel 20, 4°, van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden; het is voldoende dat dit gedrag werd vertoond in een van de in artikel 444 Strafwetboek vermelde omstandigheden."
+      ]
     }
   },
   "22": {

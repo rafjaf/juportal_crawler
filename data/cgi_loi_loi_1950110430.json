@@ -4424,12 +4424,15 @@
       "roleNumber": "P.25.0811.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_8.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_456.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_456.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_16.xml"
       ],
       "abstractFR": [
         "Ni l'article 27, alinéa 2, du titre préliminaire du Code de procédure pénale ni aucune autre disposition conventionnelle ou légale ne fixent le nombre d'années de procédure au-delà duquel le juge serait obligé de prononcer l'extinction de l'action publique pour cause de dépassement très grave du délai raisonnable."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Noch artikel 27, tweede lid, Voorafgaande Titel Wetboek van Strafvordering noch enige andere verdragsbepaling of wettelijke bepaling stelt het aantal procesjaren vast waarboven de rechter het verval van de strafvordering zou moeten uitspreken wegens zeer zwaarwichtige overschrijding van de redelijke termijn."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250311.2N.12": {
       "court": "CASS",

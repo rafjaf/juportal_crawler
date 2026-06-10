@@ -124,12 +124,15 @@
       "roleNumber": "S.18.0059.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_31.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_539.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_539.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_19.xml"
       ],
       "abstractFR": [
         "Sauf lorsque la loi en dispose autrement, l'utilisation en matière civile d'une preuve obtenue illégalement ne peut être écartée que si l'irrégularité commise entache la fiabilité de la preuve ou si cette utilisation compromet le droit au procès équitable; à cet égard, le juge tient compte, entre autres, de la manière dont la preuve a été obtenue, des circonstances dans lesquelles l'illégalité a été commise, de la gravité de celle-ci, de la mesure dans laquelle elle a porté atteinte aux droits de la partie adverse, du droit à la preuve de la partie qui l'utilise et de l'attitude de la partie adverse (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Behoudens wanneer de wet anders bepaalt, kan het gebruik in burgerlijke zaken van een onrechtmatig verkregen bewijs enkel worden geweerd indien de onregelmatigheid de betrouwbaarheid van het bewijs aantast of indien dat gebruik het recht op een eerlijk proces aantast; in dat opzicht houdt de rechter onder meer rekening met de wijze waarop het bewijs werd verkregen, de omstandigheden waarin de onwettigheid werd begaan, de ernst van die onwettigheid, de mate waarin ze de rechten van de tegenpartij heeft aangetast, het recht op het bewijs van de partij die hiervan gebruikmaakt en de houding van de tegenpartij (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251124.3F.2": {
       "court": "CASS",
@@ -137,12 +140,15 @@
       "roleNumber": "S.23.0020.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_32.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_540.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_540.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_20.xml"
       ],
       "abstractFR": [
         "Sauf lorsque la loi en dispose autrement, l'utilisation en matière civile d'une preuve obtenue illégalement ne peut être écartée que si l'irrégularité commise entache la fiabilité de la preuve ou si cette utilisation compromet le droit au procès équitable; à cet égard, le juge tient compte, entre autres, de la manière dont la preuve a été obtenue, des circonstances dans lesquelles l'illégalité a été commise, de la gravité de celle-ci, de la mesure dans laquelle elle a porté atteinte aux droits de la partie adverse, du droit à la preuve de la partie qui l'utilise et de l'attitude de la partie adverse."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Behoudens wanneer de wet anders bepaalt, kan het gebruik in burgerlijke zaken van een onrechtmatig verkregen bewijs enkel worden geweerd indien de onregelmatigheid de betrouwbaarheid van het bewijs aantast of indien dat gebruik het recht op een eerlijk proces aantast; in dat opzicht houdt de rechter onder meer rekening met de wijze waarop het bewijs werd verkregen, de omstandigheden waarin de onwettigheid werd begaan, de ernst van die onwettigheid, de mate waarin ze de rechten van de tegenpartij heeft aangetast, het recht op het bewijs van de partij die hiervan gebruikmaakt en de houding van de tegenpartij."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20251103.3F.7": {
       "court": "CASS",

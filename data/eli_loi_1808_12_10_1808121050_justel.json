@@ -16560,12 +16560,15 @@
       "roleNumber": "P.25.1362.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_9.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_457.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_457.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_17.xml"
       ],
       "abstractFR": [
         "Les juges saisis d'un appel formé contre un jugement ordonnant la révocation du sursis probatoire ne peuvent, sans se contredire, considérer qu'il n'est pas adéquat d'ordonner la révocation et confirmer ensuite le jugement."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De rechters die kennisnemen van een hoger beroep tegen een vonnis dat de herroeping van het probatieuitstel beveelt, kunnen niet, zonder zichzelf tegen te spreken, oordelen dat het niet gepast is de herroeping te bevelen en het vonnis vervolgens bevestigen."
+      ]
     },
     "ECLI:BE:CASS:2026:ARR.20260204.2F.2": {
       "court": "CASS",

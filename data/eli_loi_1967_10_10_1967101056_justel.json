@@ -6225,12 +6225,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1014.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1014.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/27/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/27/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_5.xml"
       ],
       "abstractFR": [
         "Il ne suit pas de l'article 1675/7 du Code judiciaire que le cours des intérêts est suspendu à l'égard des personnes qui ont fourni une sûreté réelle pour garantir une dette du requérant (1). (1) Voir les conclusions du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Uit artikel 1675/7 Gerechtelijk Wetboek volgt niet dat de loop van de interest wordt geschorst ten aanzien van de personen die een zakelijke zekerheid hebben verstrekt om een schuld van de verzoeker te waarborgen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2025:ARR.20250428.3F.1": {
       "court": "CASS",

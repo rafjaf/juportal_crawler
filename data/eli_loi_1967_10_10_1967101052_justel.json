@@ -8819,12 +8819,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/10/sitemap_5.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1021.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1021.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/27/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/27/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_7.xml"
       ],
       "abstractFR": [
         "Lorsqu'un juge écarte l'application d'une réglementation en raison de son inconstitutionnalité, cette décision revêtue de l'autorité de la chose jugée entre les parties ne constitue pas, pour un tiers redevable, un fait nouveau probant, mais un nouveau moyen de droit ou un changement de jurisprudence (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer een rechter de toepassing van een reglementering weert omdat deze ongrondwettig is, vormt die beslissing, die tussen de partijen gezag van gewijsde heeft, voor een derde-belastingplichtige geen afdoend bevonden nieuw feit maar een nieuw rechtsmiddel of een wijziging van jurisprudentie (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240308.1F.7": {
       "court": "CASS",

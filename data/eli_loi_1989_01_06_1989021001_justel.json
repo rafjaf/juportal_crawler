@@ -753,12 +753,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_991.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_991.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_1.xml"
       ],
       "abstractFR": [
         "Lorsqu'un moyen sollicite qu'une question préjudicielle soit posée à la Cour constitutionnelle, il n'y a pas lieu de poser la question lorsque la réponse à celle-ci serait sans incidence sur la légalité de l'arrêt attaqué (1). (1) Voir Cass. 19 décembre 2017, RG P.17.0385.N, Pas. 2017, n° 719."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer een middel verzoekt om het Grondwettelijk Hof een prejudiciële vraag te stellen, dient de vraag niet te worden gesteld wanneer het antwoord op die vraag geen invloed kan hebben op de wettigheid van het bestreden arrest (1). (1) Zie Cass. 19 december 2017, AR P.17.0385.N, AC 2017, nr. 719."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20230308.2F.2": {
       "court": "CASS",

@@ -22393,12 +22393,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_993.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/09/06/sitemap_14.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/26/sitemap_24.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/08/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/09/sitemap_3.xml"
       ],
       "abstractFR": [
         "Conformément à l'article 195, alinéa 2, du Code d'instruction criminelle, le jugement ou l'arrêt indique, d'une manière qui peut être succincte mais doit être précise, les raisons du choix que le juge fait de telle peine parmi celles que la loi lui permet de prononcer, le juge devant en outre justifier le degré de chacune des peines infligées ; lorsqu'il condamne à une peine d'amende, le juge tient compte, pour la détermination de son montant, des éléments invoqués par le prévenu eu égard à sa situation sociale."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Overeenkomstig artikel 195, tweede lid, Wetboek van Strafvordering vermeldt het vonnis of het arrest, op een wijze die beknopt maar nauwkeurig moet zijn, de redenen waarom de rechter, als de wet hem daartoe vrije beoordeling overlaat, een dergelijke straf uitspreekt, waarbij de rechter bovendien de maat van elke opgelegde straf dient te verantwoorden; wanneer de rechter tot een geldboete veroordeelt, houdt hij bij het vaststellen van het bedrag ervan rekening met de door de beklaagde aangevoerde gegevens over zijn sociale toestand."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220913.2N.2": {
       "court": "CASS",
