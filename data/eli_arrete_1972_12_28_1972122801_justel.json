@@ -7,12 +7,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1062.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1062.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_7.xml"
       ],
       "abstractFR": [
         "Le conseil provincial de l'Ordre des médecins de la province de Hainaut délibère valablement dès que sont réunis dix de ses membres ayant voix délibérative qui ont assisté à toutes les audiences de la cause."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De provinciale raad van de Orde der artsen van de provincie Henegouwen beraadslaagt op geldige wijze zodra tien van zijn stemgerechtigde leden aanwezig zijn die alle zittingen over de zaak hebben bijgewoond."
+      ]
     }
   },
   "4": {
@@ -23,12 +26,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1062.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1062.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_7.xml"
       ],
       "abstractFR": [
         "Le conseil provincial de l'Ordre des médecins de la province de Hainaut délibère valablement dès que sont réunis dix de ses membres ayant voix délibérative qui ont assisté à toutes les audiences de la cause."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De provinciale raad van de Orde der artsen van de provincie Henegouwen beraadslaagt op geldige wijze zodra tien van zijn stemgerechtigde leden aanwezig zijn die alle zittingen over de zaak hebben bijgewoond."
+      ]
     }
   }
 }

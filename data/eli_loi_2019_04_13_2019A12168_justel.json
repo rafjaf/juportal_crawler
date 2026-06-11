@@ -109,12 +109,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1071.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/03/sitemap_35.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/20/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_16.xml"
       ],
       "abstractFR": [
         "Le pouvoir conféré au juge par l'article 8.4, alinéa 5, du Code civil de déterminer qui supporte la charge de prouver relève de la procédure; il s'ensuit que cette disposition est immédiatement applicable aux procès en cours (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De door artikel 8.4, vijfde lid, Burgerlijk Wetboek aan de rechter verleende bevoegdheid om te bepalen wie de bewijslast draagt, maakt deel uit van de procedure; hieruit volgt dat die bepaling onmiddellijk van toepassing is op de lopende procedure (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240104.1N.5": {
       "court": "CASS",

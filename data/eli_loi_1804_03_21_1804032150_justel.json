@@ -26,12 +26,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1071.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/03/sitemap_35.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/20/sitemap_3.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_16.xml"
       ],
       "abstractFR": [
         "Le pouvoir conféré au juge par l'article 8.4, alinéa 5, du Code civil de déterminer qui supporte la charge de prouver relève de la procédure; il s'ensuit que cette disposition est immédiatement applicable aux procès en cours (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De door artikel 8.4, vijfde lid, Burgerlijk Wetboek aan de rechter verleende bevoegdheid om te bepalen wie de bewijslast draagt, maakt deel uit van de procedure; hieruit volgt dat die bepaling onmiddellijk van toepassing is op de lopende procedure (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231214.1N.1": {
       "court": "CASS",
@@ -271,12 +274,16 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1146.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1146.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/12/sitemap_5.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/01/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/01/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_31.xml"
       ],
       "abstractFR": [
-        "N'est d'ordre public que la règle de droit qui touche aux intérêts essentiels de l'État ou de la collectivité, ou qui fixe dans le droit privé les bases juridiques sur lesquelles repose l'ordre économique ou moral de la société (1). (1) Voir Cass. 15 octobre 2018, RG S.18.0002.F, Pas. 2018, n° 553, avec concl. de M. Génicot, avocat général."
+        "N'est d'ordre public que la règle de droit qui touche aux intérêts essentiels de l'État ou de la collectivité, ou qui fixe dans le droit privé les bases juridiques sur lesquelles repose l'ordre économique ou moral de la société (1). (1) Voir Cass. 15 octobre 2018, RG S.18.0002.F, Pas. 2018, n° 553, avec concl. de M. Génicot, avocat général.",
+        "N'est d'ordre public que la règle de droit qui touche aux intérêts essentiels de l'État ou de la collectivité, ou qui fixe dans le droit privé les bases juridiques sur lesquelles repose l'ordre économique ou moral de la société (1). (1) Voir Cass. 15 octobre 2018, RG S.18.0002.F, Pas. 2018, n° 553, avec concl. de M. Genicot, avocat général."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Enkel de rechtsregel die de wezenlijke belangen van de Staat of van de gemeenschap raakt of in het privaatrecht de juridische grondslagen vastlegt waarop de economische of morele orde van de samenleving berust, is van openbare orde (1). (1) Zie Cass. 15 oktober 2018, AR S.18.0002.F, AC 2018, nr. 553, met concl. van advocaat-generaal M. GENICOT op datum in Pas."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240205.3N.9": {
       "court": "CASS",
@@ -11584,6 +11591,22 @@
       ]
     }
   },
+  "1096": {
+    "ECLI:BE:CASS:2023:ARR.20231201.1F.1": {
+      "court": "CASS",
+      "date": "2023-12-01",
+      "roleNumber": "C.22.0432.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_31.xml"
+      ],
+      "abstractFR": [
+        "L'article 1096, alinéa 1er, de l'ancien Code civil, qui, en disposant que toutes donations faites entre époux pendant le mariage autrement que par contrat de mariage, quoique qualifiées entre vifs, seront toujours révocables, protège les intérêts privés de l'époux donateur et n'est pas d'ordre public."
+      ],
+      "abstractNL": [
+        "Artikel 1096, eerste lid, Oud Burgerlijk Wetboek, dat bepaalt dat alle schenkingen, tussen echtgenoten tijdens het huwelijk anders dan bij huwelijkscontract gedaan, steeds herroepelijk zijn, hoewel ze schenkingen onder de levenden worden genoemd, beschermt aldus de privébelangen van de echtgenoot-schenker en is niet van openbare orde."
+      ]
+    }
+  },
   "1112": {
     "ECLI:BE:CASS:2025:ARR.20251103.3F.1": {
       "court": "CASS",
@@ -11709,6 +11732,54 @@
       ]
     }
   },
+  "1146": {
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
+      ]
+    }
+  },
+  "1147": {
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
+      ]
+    }
+  },
+  "1148": {
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
+      ]
+    }
+  },
   "1149": {
     "ECLI:BE:CASS:2025:ARR.20250612.1F.2": {
       "court": "CASS",
@@ -11722,6 +11793,52 @@
       ],
       "abstractNL": [
         "De Brusselse Huisvestingscode bepaalt dat het verhuurde goed moet beantwoorden aan de elementaire vereisten van veiligheid, gezondheid en uitrusting van woningen en dat, indien niet aan die voorwaarden is voldaan, de huurder, wanneer de niet-naleving niet aan hem toe te schrijven is, de keuze heeft om ofwel de uitvoering te eisen van de werken die noodzakelijk zijn om het verhuurde goed in overeenstemming te brengen met de vereisten, ofwel de ontbinding van de huurovereenkomst te vragen met schadevergoeding; wanneer de huurder niet voor de uitvoering van de werken kiest, heeft hij enkel recht op een schadevergoeding indien hij een nadeel lijdt dat niet door de ontbinding wordt hersteld."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
+      ]
+    }
+  },
+  "1150": {
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
+      ]
+    }
+  },
+  "1151": {
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.6": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.22.0412.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_25.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un même dommage a été causé par les fautes concurrentes de plusieurs personnes, elles sont responsables in solidum à l'égard de la personne lésée, de sorte que chacune de celles-ci est tenue à la réparation intégrale du dommage de la victime qui n'a pas commis de faute; tel est le cas du dommage résultant de l'inexécution fautive d'une obligation contractuelle indivisible (1). (1) Cass. 15 février 1974, Pas. 1974, I, p. 632."
+      ],
+      "abstractNL": [
+        "Wanneer eenzelfde schade werd veroorzaakt door de samenlopende fouten van meerdere personen, zijn zij in solidum aansprakelijk jegens de benadeelde, zodat ieder van hen gehouden is tot de volledige vergoeding van de schade van de getroffene die geen fout heeft begaan; dit is het geval voor de schade die voortvloeit uit de foutieve niet-uitvoering van een ondeelbare contractuele verbintenis (1). (1) Cass. 15 februari 1974, AC 1974, 661."
       ]
     }
   },
@@ -11815,6 +11932,22 @@
       ]
     }
   },
+  "1234": {
+    "ECLI:BE:CASS:2023:ARR.20231124.1F.5": {
+      "court": "CASS",
+      "date": "2023-11-24",
+      "roleNumber": "C.23.0173.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_28.xml"
+      ],
+      "abstractFR": [
+        "Le paiement effectué sans imputation se rapporte à la plus ancienne des dettes lorsque celles-ci sont de même nature et éteint la dette au moment où il est effectué, quand bien même il ne serait imputé sur cette dette qu'ultérieurement; l'écoulement du délai de prescription est sans effet sur la dette déjà payée."
+      ],
+      "abstractNL": [
+        "De zonder toerekening verrichte betaling heeft betrekking op de oudste van de schulden van gelijke aard en doet de schuld teniet op het ogenblik dat de betaling wordt verricht, ook al wordt de betaling pas later met die schuld verrekend; het verstrijken van de verjaringstermijn heeft geen invloed op de reeds betaalde schuld."
+      ]
+    }
+  },
   "1235": {
     "ECLI:BE:CASS:2026:ARR.20260326.1N.1": {
       "court": "CASS",
@@ -11858,6 +11991,22 @@
       "abstractFR": null,
       "abstractNL": [
         "De last van het aandeel van de vergoeding waarvoor het slachtoffer naar gemeen recht aansprakelijk is, moet in gelijke delen worden gedragen door de WAM-verzekeraars van alle in het ongeval betrokken motorrijtuigen."
+      ]
+    }
+  },
+  "1256": {
+    "ECLI:BE:CASS:2023:ARR.20231124.1F.5": {
+      "court": "CASS",
+      "date": "2023-11-24",
+      "roleNumber": "C.23.0173.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_28.xml"
+      ],
+      "abstractFR": [
+        "Le paiement effectué sans imputation se rapporte à la plus ancienne des dettes lorsque celles-ci sont de même nature et éteint la dette au moment où il est effectué, quand bien même il ne serait imputé sur cette dette qu'ultérieurement; l'écoulement du délai de prescription est sans effet sur la dette déjà payée."
+      ],
+      "abstractNL": [
+        "De zonder toerekening verrichte betaling heeft betrekking op de oudste van de schulden van gelijke aard en doet de schuld teniet op het ogenblik dat de betaling wordt verricht, ook al wordt de betaling pas later met die schuld verrekend; het verstrijken van de verjaringstermijn heeft geen invloed op de reeds betaalde schuld."
       ]
     }
   },
@@ -12247,6 +12396,52 @@
         "Les auteurs ou co-auteurs d'infractions distinctes sont tenus solidairement ou in solidum des dommages et intérêts lorsque les infractions qu'ils ont commises constituent une faute commune ou des fautes concurrentes ayant contribué à la réalisation d'un même dommage; le juge du fond apprécie en fait si les différentes infractions commises constituent, ou non, une faute commune en relation causale avec un préjudice déterminé; l'arrêt, qui constate que tous les prévenus ont établi ensemble une organisation criminelle vouée à la réalisation concertée d'une escroquerie de droit pénal social au préjudice de l'Office national de sécurité sociale, fonde légalement l'affirmation d'une faute commune justifiant la condamnation solidaire de chacune des personnes à qui elle est imputée, à réparer le dommage qu'elle a causé (1). (1) Cass. 27 septembre 2022, RG P.22.0251.N, ECLI:BE:CASS:2022:ARR.20220927.2N.6; Cass. 4 novembre 2014, RG P.13.1253.N, Pas. 2014, n° 659."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20231117.1F.4": {
+      "court": "CASS",
+      "date": "2023-11-17",
+      "roleNumber": "C.22.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "La faute de l'autorité administrative pouvant engager sa responsabilité consiste en un comportement qui, ou bien s'analyse en une erreur de conduite devant être appréciée suivant le critère de l'autorité normalement soigneuse et prudente, placée dans les mêmes conditions, ou bien, sous réserve d'une erreur invincible ou d'une autre cause de justification, viole une norme de droit national ou d'un traité international ayant des effets directs dans l'ordre interne qui impose à cette autorité de s'abstenir ou d'agir d'une manière déterminée (1). (1) Voir les concl. du MP.",
+        "Si le juge apprécie souverainement les faits dont il déduit l'existence d'une faute, la Cour contrôle si le juge a légalement déduit sa décision des faits constatés (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De fout van de administratieve overheid waarvoor ze aansprakelijk kan worden gesteld, bestaat in een gedraging die hetzij neerkomt op een verkeerd optreden dat moet worden beoordeeld naar de maatstaf van een normaal zorgvuldige en voorzichtige overheid die in dezelfde omstandigheden verkeert, hetzij, behoudens onoverkomelijke dwaling of een andere rechtvaardigingsgrond, een schending inhoudt van een nationaalrechtelijke norm of van een internationaal verdrag met rechtstreekse werking in de interne rechtsorde, die deze overheid verplicht niets te doen of op een bepaalde manier wel iets te doen (1). (1) Zie concl. OM.",
+        "Hoewel de rechter op onaantastbare wijze de feiten beoordeelt waaruit hij het bestaan van een fout afleidt, gaat het Hof na of de rechter zijn beslissing wettig uit de door hem vastgestelde feiten heeft afgeleid (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.5": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.23.0231.F-C.23.0233.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_26.xml"
+      ],
+      "abstractFR": [
+        "Le dommage matériel que subit la victime à la suite d'une incapacité permanente de travail consiste en une diminution de sa valeur économique sur le marché du travail, dont la perte de revenus ou la nécessité de fournir des efforts accrus constituent des manifestations ; il s'ensuit que la réparation du dommage corporel résultant d'une incapacité permanente de travail n'exige ni de distinguer l'indemnisation due pour les efforts accrus et celle due pour l'éventuelle perte de revenus ni de prendre en considération les appointements que la victime a continué de percevoir, mais seulement de rechercher l'atteinte portée à la valeur économique de la victime sur le marché du travail (1). (1) Voir. les concl. du MP."
+      ],
+      "abstractNL": [
+        "De materiële schade die de getroffene lijdt ten gevolge van een blijvende arbeidsongeschiktheid bestaat in een vermindering van zijn economische waarde op de arbeidsmarkt, waarvan het inkomensverlies en de noodzaak om zich harder te moeten inspannen uitingen zijn; hieruit volgt dat de vergoeding van de lichamelijke schade voortvloeiend uit een blijvende arbeidsongeschiktheid niet vereist om een onderscheid te maken tussen de vergoeding die verschuldigd is voor de hardere inspanningen en die welke verschuldigd is voor het mogelijke inkomensverlies, of om de lonen in rekening te brengen die de getroffene is blijven ontvangen, maar enkel om de aantasting van de economische waarde van de getroffene op de arbeidsmarkt te onderzoeken (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231117.1F.3": {
+      "court": "CASS",
+      "date": "2023-11-17",
+      "roleNumber": "C.23.0123.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "La victime d'un dommage résultant d'un acte illicite a le droit d'en exiger la réparation en nature si elle est possible et que l'exercice de ce droit ne soit pas abusif (1). (1) Voir concl. OM.",
+        "Le juge a le pouvoir d'ordonner la réparation en nature d'un dommage résultant d'un acte illicite, notamment en prescrivant à l'auteur du dommage les mesures destinées à faire cesser l'état de choses qui cause le préjudice (1). (1) Voir concl. OM."
+      ],
+      "abstractNL": [
+        "Wie schade lijdt ten gevolge van een onrechtmatige daad, heeft het recht het herstel in natura te vorderen, wanneer zulks mogelijk is en geen rechtsmisbruik oplevert (1). (1) Zie concl. OM.",
+        "De rechter is bevoegd om het herstel in natura van schade voortvloeiend uit een onrechtmatige daad te bevelen, door met name de schadeveroorzaker maatregelen op te leggen om aan de schadeverwekkende toestand een einde te maken (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1383": {
@@ -12455,6 +12650,36 @@
         "Les auteurs ou co-auteurs d'infractions distinctes sont tenus solidairement ou in solidum des dommages et intérêts lorsque les infractions qu'ils ont commises constituent une faute commune ou des fautes concurrentes ayant contribué à la réalisation d'un même dommage; le juge du fond apprécie en fait si les différentes infractions commises constituent, ou non, une faute commune en relation causale avec un préjudice déterminé; l'arrêt, qui constate que tous les prévenus ont établi ensemble une organisation criminelle vouée à la réalisation concertée d'une escroquerie de droit pénal social au préjudice de l'Office national de sécurité sociale, fonde légalement l'affirmation d'une faute commune justifiant la condamnation solidaire de chacune des personnes à qui elle est imputée, à réparer le dommage qu'elle a causé (1). (1) Cass. 27 septembre 2022, RG P.22.0251.N, ECLI:BE:CASS:2022:ARR.20220927.2N.6; Cass. 4 novembre 2014, RG P.13.1253.N, Pas. 2014, n° 659."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2023:ARR.20231117.1F.4": {
+      "court": "CASS",
+      "date": "2023-11-17",
+      "roleNumber": "C.22.0034.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_20.xml"
+      ],
+      "abstractFR": [
+        "La faute de l'autorité administrative pouvant engager sa responsabilité consiste en un comportement qui, ou bien s'analyse en une erreur de conduite devant être appréciée suivant le critère de l'autorité normalement soigneuse et prudente, placée dans les mêmes conditions, ou bien, sous réserve d'une erreur invincible ou d'une autre cause de justification, viole une norme de droit national ou d'un traité international ayant des effets directs dans l'ordre interne qui impose à cette autorité de s'abstenir ou d'agir d'une manière déterminée (1). (1) Voir les concl. du MP.",
+        "Si le juge apprécie souverainement les faits dont il déduit l'existence d'une faute, la Cour contrôle si le juge a légalement déduit sa décision des faits constatés (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "De fout van de administratieve overheid waarvoor ze aansprakelijk kan worden gesteld, bestaat in een gedraging die hetzij neerkomt op een verkeerd optreden dat moet worden beoordeeld naar de maatstaf van een normaal zorgvuldige en voorzichtige overheid die in dezelfde omstandigheden verkeert, hetzij, behoudens onoverkomelijke dwaling of een andere rechtvaardigingsgrond, een schending inhoudt van een nationaalrechtelijke norm of van een internationaal verdrag met rechtstreekse werking in de interne rechtsorde, die deze overheid verplicht niets te doen of op een bepaalde manier wel iets te doen (1). (1) Zie concl. OM.",
+        "Hoewel de rechter op onaantastbare wijze de feiten beoordeelt waaruit hij het bestaan van een fout afleidt, gaat het Hof na of de rechter zijn beslissing wettig uit de door hem vastgestelde feiten heeft afgeleid (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231127.3F.5": {
+      "court": "CASS",
+      "date": "2023-11-27",
+      "roleNumber": "C.23.0231.F-C.23.0233.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_26.xml"
+      ],
+      "abstractFR": [
+        "Le dommage matériel que subit la victime à la suite d'une incapacité permanente de travail consiste en une diminution de sa valeur économique sur le marché du travail, dont la perte de revenus ou la nécessité de fournir des efforts accrus constituent des manifestations ; il s'ensuit que la réparation du dommage corporel résultant d'une incapacité permanente de travail n'exige ni de distinguer l'indemnisation due pour les efforts accrus et celle due pour l'éventuelle perte de revenus ni de prendre en considération les appointements que la victime a continué de percevoir, mais seulement de rechercher l'atteinte portée à la valeur économique de la victime sur le marché du travail (1). (1) Voir. les concl. du MP."
+      ],
+      "abstractNL": [
+        "De materiële schade die de getroffene lijdt ten gevolge van een blijvende arbeidsongeschiktheid bestaat in een vermindering van zijn economische waarde op de arbeidsmarkt, waarvan het inkomensverlies en de noodzaak om zich harder te moeten inspannen uitingen zijn; hieruit volgt dat de vergoeding van de lichamelijke schade voortvloeiend uit een blijvende arbeidsongeschiktheid niet vereist om een onderscheid te maken tussen de vergoeding die verschuldigd is voor de hardere inspanningen en die welke verschuldigd is voor het mogelijke inkomensverlies, of om de lonen in rekening te brengen die de getroffene is blijven ontvangen, maar enkel om de aantasting van de economische waarde van de getroffene op de arbeidsmarkt te onderzoeken (1). (1) Zie concl. OM."
+      ]
     }
   },
   "1384": {
@@ -12597,6 +12822,20 @@
       "abstractNL": [
         "De overeenkomst waardoor het genot van een onroerend goed wordt overgedragen voor een fictieve of belachelijk lage huurprijs, is geen huurovereenkomst."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231124.1F.6": {
+      "court": "CASS",
+      "date": "2023-11-24",
+      "roleNumber": "C.23.0251.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_29.xml"
+      ],
+      "abstractFR": [
+        "Celui qui loue une chose à bail ne s'oblige pas à concéder un droit réel sur la chose louée et ne transfère pas au preneur un droit propre de jouissance de cette chose; il s'engage à ce que le preneur en ait la jouissance."
+      ],
+      "abstractNL": [
+        "Wie een goed verpacht, verplicht zich niet ertoe een zakelijk recht op het verpachte goed te verlenen en draagt aan de pachter evenmin een eigen recht van genot van dat goed over; hij verbindt zich ertoe de pachter het genot ervan te verlenen."
+      ]
     }
   },
   "1719": {
@@ -12644,6 +12883,22 @@
       "abstractNL": [
         "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
         "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231117.1F.3": {
+      "court": "CASS",
+      "date": "2023-11-17",
+      "roleNumber": "C.23.0123.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "Toute action en réparation d'un dommage fondée sur une responsabilité extracontractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage ou de son aggravation et de l'identité de la personne responsable (1). (1) Voir les concl. MP.",
+        "Une citation en justice a pour effet d'interrompre la prescription pour la demande qu'elle introduit et pour les demandes qui y sont virtuellement comprises; pour apprécier si une demande est virtuellement comprise dans la demande initiale, il convient d'avoir égard à son objet (1). (1) Voir les concl. MP."
+      ],
+      "abstractNL": [
+        "Alle rechtsvorderingen tot schadevergoeding op grond van buitencontractuele aansprakelijkheid verjaren door verloop van vijf jaar vanaf de dag volgend op die waarop de benadeelde kennis heeft gekregen van de schade of van de verzwaring ervan en van de identiteit van de daarvoor aansprakelijke persoon (1). (1) Zie concl. OM.",
+        "Een dagvaarding stuit de verjaring voor de vordering die ze instelt en voor de vorderingen die daarin virtueel zijn begrepen; om te beoordelen of een vordering virtueel is begrepen in de oorspronkelijke vordering, moet het voorwerp hiervan in aanmerking worden genomen (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -14464,6 +14719,22 @@
       ],
       "abstractNL": [
         "Persoonlijke rechtsvorderingen verjaren in beginsel na verloop van tien jaar; het arrest dat oordeelt dat de vordering tot nietigverklaring van de schenking een zakelijke vordering is en dat ze dus verjaart na verloop van dertig jaar, schendt artikel 2262 Oud Burgerlijk Wetboek (1). (1) Artt. 2262 en 2262bis, § 1, Oud Burgerlijk Wetboek, gewijzigd door Wet 10 juni 1998."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231117.1F.3": {
+      "court": "CASS",
+      "date": "2023-11-17",
+      "roleNumber": "C.23.0123.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_22.xml"
+      ],
+      "abstractFR": [
+        "Toute action en réparation d'un dommage fondée sur une responsabilité extracontractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage ou de son aggravation et de l'identité de la personne responsable (1). (1) Voir les concl. MP.",
+        "Une citation en justice a pour effet d'interrompre la prescription pour la demande qu'elle introduit et pour les demandes qui y sont virtuellement comprises; pour apprécier si une demande est virtuellement comprise dans la demande initiale, il convient d'avoir égard à son objet (1). (1) Voir les concl. MP."
+      ],
+      "abstractNL": [
+        "Alle rechtsvorderingen tot schadevergoeding op grond van buitencontractuele aansprakelijkheid verjaren door verloop van vijf jaar vanaf de dag volgend op die waarop de benadeelde kennis heeft gekregen van de schade of van de verzwaring ervan en van de identiteit van de daarvoor aansprakelijke persoon (1). (1) Zie concl. OM.",
+        "Een dagvaarding stuit de verjaring voor de vordering die ze instelt en voor de vorderingen die daarin virtueel zijn begrepen; om te beoordelen of een vordering virtueel is begrepen in de oorspronkelijke vordering, moet het voorwerp hiervan in aanmerking worden genomen (1). (1) Zie concl. OM."
       ]
     }
   },

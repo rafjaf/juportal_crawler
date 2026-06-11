@@ -504,12 +504,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1068.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1068.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/13/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_12.xml"
       ],
       "abstractFR": [
         "Lorsque la partie succombante bénéficie de l'aide juridique de deuxième ligne, l'indemnité de procédure est fixée au montant minimal tel qu'il est déterminé en fonction de la nature de l'affaire et de l'importance du litige et, dès lors, s'agissant d'une action portant sur une demande évaluable en argent, au montant minimal déterminé par l'arrêté royal en fonction de la valeur du litige (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de in het ongelijk gestelde partij de juridische tweedelijnsbijstand geniet, wordt de rechtsplegingsvergoeding vastgesteld op het minimumbedrag, zoals het wordt bepaald afhankelijk van de aard van de zaak en de belangrijkheid van het geschil en, bijgevolg, wanneer het gaat om een rechtsvordering die een in geld waardeerbare vordering betreft, op het minimumbedrag dat door het koninklijk besluit wordt bepaald naargelang van de waarde van het geschil (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20241104.3F.2": {
       "court": "CASS",

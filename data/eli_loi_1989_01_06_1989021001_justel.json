@@ -486,12 +486,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1061.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1061.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_6.xml"
       ],
       "abstractFR": [
         "Lorsque l'inconstitutionnalité d'une disposition légale fondée sur une discrimination est invoquée dans des conclusions, l'arrêt est, en règle, tenu de motiver son refus de poser à la Cour constitutionnelle la question préjudicielle proposée; tel n'est pas le cas lorsque l'arrêt considère que la différence de traitement invoquée n'existe pas."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer in een conclusie de ongrondwettigheid van een wetsbepaling wegens een discriminatie wordt aangevoerd, dient het arrest zijn weigering om aan het Grondwettelijk Hof de voorgestelde prejudiciële vraag te stellen in de regel met redenen te omkleden; dit is niet het geval wanneer het arrest oordeelt dat het aangevoerde verschil in behandeling niet bestaat."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231207.1N.4": {
       "court": "CASS",
@@ -5324,12 +5327,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1061.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1061.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/10/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_6.xml"
       ],
       "abstractFR": [
         "Lorsque l'inconstitutionnalité d'une disposition légale fondée sur une discrimination est invoquée dans des conclusions, l'arrêt est, en règle, tenu de motiver son refus de poser à la Cour constitutionnelle la question préjudicielle proposée; tel n'est pas le cas lorsque l'arrêt considère que la différence de traitement invoquée n'existe pas."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer in een conclusie de ongrondwettigheid van een wetsbepaling wegens een discriminatie wordt aangevoerd, dient het arrest zijn weigering om aan het Grondwettelijk Hof de voorgestelde prejudiciële vraag te stellen in de regel met redenen te omkleden; dit is niet het geval wanneer het arrest oordeelt dat het aangevoerde verschil in behandeling niet bestaat."
+      ]
     },
     "ECLI:BE:CASS:2013:ARR.20130923.3": {
       "court": "CASS",

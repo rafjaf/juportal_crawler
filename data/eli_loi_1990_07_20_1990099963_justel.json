@@ -15385,12 +15385,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1064.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1064.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_9.xml"
       ],
       "abstractFR": [
         "Lorsqu'il n'apparaît pas des pièces de la procédure que la chambre des mises en accusation de la cour d'appel ait rendu en la cause du demandeur à la date indiquée dans la déclaration de pourvoi un arrêt statuant sur sa détention préventive, le pourvoi est formé contre une décision inexistante et est, partant, irrecevable (1). (1) R. Declercq, Pourvoi en cassation en matière répressive, R.P.D.B., Bruxelles, Bruylant, 2015, p. 43."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer uit de stukken van de rechtspleging niet blijkt dat de kamer van inbeschuldigingstelling van het hof van beroep in de zaak van de eiser, op de datum die in de verklaring van cassatieberoep is opgegeven, een arrest heeft gewezen dat over zijn voorlopige hechtenis uitspraak doet, is het cassatieberoep tegen een onbestaande beslissing ingesteld en is het zodoende niet ontvankelijk (1). (1) R. DECLERCQ, Pourvoi en cassation en matière répressive, R.P.D.B., Brussel, Bruylant, 2015, 43."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240306.2F.14": {
       "court": "CASS",
@@ -16846,12 +16849,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1008.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1008.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/15/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_4.xml"
       ],
       "abstractFR": [
         "La condamnation du prévenu et la décision statuant sur l'arrestation immédiate de ce dernier rendues par deux sièges différents forment chacune une décision distincte; le grief de contradiction ne peut dès lors trouver à s'appliquer à une contradiction entre ces deux décisions (1). (1) Voir les concl. du MP, selon lequel il n'en va pas autrement (a contrario) si ces décisions sont rendues par un même siège."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De veroordeling van de beklaagde en de beslissing over zijn onmiddellijke aanhouding die door twee verschillende zetels zijn uitgesproken, vormen elk een afzonderlijke beslissing; de grief van tegenstrijdigheid kan aldus niet op een tegenstrijdigheid tussen die twee beslissingen van toepassing zijn (1). (1) Zie concl. OM, volgens welke het niet anders is (a contrario) wanneer die beslissingen door eenzelfde zetel zijn gewezen."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220118.2N.9": {
       "court": "CASS",

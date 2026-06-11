@@ -60,13 +60,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1079.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1079.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_24.xml"
       ],
       "abstractFR": [
         "Le seul mode de preuve admissible de la publication d'une ordonnance ou d'un règlement communal est l'annotation dans le registre spécial tenu par le secrétaire communal (1). (1) Voir les concl. du MP.",
         "Ni l'article L1133-1 ni l'article L1133-2 du Code de la démocratie locale et de la décentralisation n'imposent la publication intégrale des règlements communaux (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het enige toelaatbare bewijs van de bekendmaking van een gemeentelijke verordening of van een gemeentelijk reglement bestaat in de aantekening ervan in het speciaal door de gemeentesecretaris daartoe gehouden register (1). (1) Zie concl. OM.",
+        "Noch artikel L1133-1 noch artikel L1133-2 van het Wetboek van de plaatselijke democratie en decentralisatie verplicht de integrale bekendmaking van de gemeentelijke reglementen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240119.1F.1": {
       "court": "CASS",
@@ -331,14 +335,19 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1079.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1079.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_24.xml"
       ],
       "abstractFR": [
         "Le seul mode de preuve admissible de la publication d'une ordonnance ou d'un règlement communal est l'annotation dans le registre spécial tenu par le secrétaire communal (1). (1) Voir les concl. du MP.",
         "Ni l'article L1133-1 ni l'article L1133-2 du Code de la démocratie locale et de la décentralisation n'imposent la publication intégrale des règlements communaux (1). (1) Voir les concl. du MP.",
         "Il n'est pas requis que le registre reprenant les annotations numérotées dans l'ordre des publications soit préalablement relié (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het enige toelaatbare bewijs van de bekendmaking van een gemeentelijke verordening of van een gemeentelijk reglement bestaat in de aantekening ervan in het speciaal door de gemeentesecretaris daartoe gehouden register (1). (1) Zie concl. OM.",
+        "Noch artikel L1133-1 noch artikel L1133-2 van het Wetboek van de plaatselijke democratie en decentralisatie verplicht de integrale bekendmaking van de gemeentelijke reglementen (1). (1) Zie concl. OM.",
+        "Het register met de in volgorde van bekendmaking genummerde aantekeningen dient niet op voorhand te worden ingebonden (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240119.1F.1": {
       "court": "CASS",
