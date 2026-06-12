@@ -7,12 +7,15 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1142.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1142.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/11/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/11/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_6.xml"
       ],
       "abstractFR": [
         "Si une amende réduite à un montant inférieur au montant minimum prescrit par la loi est illégale, il n'en résulte pas qu'elle doive, pour ce motif, être annulée d'office (1). (1) Voir. les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Hoewel een geldboete die tot onder het wettelijk minimumbedrag verminderd wordt onwettig is, volgt hieruit niet dat die geldboete om die reden ambtshalve moet worden vernietigd (1). (1) Zie concl. OM."
+      ]
     }
   }
 }

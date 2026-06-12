@@ -717,9 +717,12 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_9.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/11/21/sitemap_33.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_432.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_432.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_50.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Une action en responsabilité extracontractuelle ou en répétition de l'indu n'impose pas une mise en demeure préalable à la citation (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Een vordering op grond van buitencontractuele aansprakelijkheid of onverschuldigde betaling vereist geen aan de dagvaarding voorafgaande ingebrekestelling (1). (1) Zie concl. OM."
       ]

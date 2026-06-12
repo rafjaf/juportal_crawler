@@ -25,12 +25,15 @@
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1276.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1276.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_1140.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/12/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/12/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_25.xml"
       ],
       "abstractFR": [
         "Le défaut de transcription des actes dont la transcription est prescrite par l'article 1er de la loi hypothécaire a pour conséquence de rendre de tels actes inopposables aux tiers qui ont contracté sans fraude, dans la mesure où ces actes sont de nature à nuire soit aux droits réels que ces tiers possèdent sur les biens immobiliers que lesdits actes concernent, soit aux droits que ces tiers ont mis en œuvre par la poursuite de leur débiteur sur ces biens."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De niet-overschrijving van de akten waarvan de overschrijving is opgelegd door artikel 1 Hypotheekwet, heeft tot gevolg dat dergelijke akten niet kunnen worden tegengeworpen aan derden die de overeenkomst zonder bedrog zijn aangegaan, in zoverre die akten afbreuk kunnen doen aan hetzij de zakelijke rechten van die derden op de in de voormelde akten bedoelde onroerende goederen hetzij de rechten die deze derden hebben uitgeoefend door de schuldenaar van die goederen te vervolgen."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240502.1N.3": {
       "court": "CASS",

@@ -8541,13 +8541,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1134.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1134.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/13/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/13/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_2.xml"
       ],
       "abstractFR": [
         "Lorsqu'un jugement est affecté d'une cause de nullité textuelle ou substantielle, pareille irrégularité ne vicie pas le jugement rendu en degré d'appel lorsque les juges d'appel ne se sont pas appropriés l'erreur du premier juge mais l'ont redressée (1). (1) Voir les concl. « dit en substance » du MP (§§ 3-4).",
         "Lorsque l'irrégularité de la décision qui a statué au fond découle non pas de l'incompétence ou d'un excès de pouvoir mais d'une nullité textuelle ou substantielle, le juge d'appel, s'il annule cette décision, doit retenir l'affaire et statuer sur le fond (1). (1) Voir les concl. « dit en substance » du MP (§§ 3-4)."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer een vonnis is aangetast door een tekstuele of substantiële nietigheid, tast een dergelijke onregelmatigheid het in hoger beroep gewezen vonnis niet aan wanneer de rechters in hoger beroep de verschrijving van de eerste rechter niet hebben overgenomen, maar deze hebben hersteld (1). (1) Zie concl. “in hoofdzaak” OM [§§ 3-4].",
+        "Wanneer de onregelmatigheid van de beslissing over de grond van de zaak niet voortvloeit uit de onbevoegdheid of uit een machtsoverschrijding maar uit een tekstuele of substantiële nietigheid, moet de rechter in hoger beroep, wanneer hij die beslissing vernietigt, de zaak aan zich trekken en over de grond van de zaak uitspraak doen (1). (1) Zie concl. “in hoofdzaak” OM [§§ 3-4]."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200923.2F.4": {
       "court": "CASS",
@@ -16384,13 +16388,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1214.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1214.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/22/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/22/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_15.xml"
       ],
       "abstractFR": [
         "Les significations sont faites à l'État au cabinet du ministre compétent ou au bureau du fonctionnaire désigné par celui-ci, soit, pour le ministre des Finances, conformément à l'arrêté ministériel du 25 octobre 2012 désignant le fonctionnaire du service public fédéral des Finances au bureau duquel l'État peut être cité en justice et les significations et notifications faites (1). (1) Voir les concl. du MP.",
         "N'est pas régulière la signification faite à un autre bureau, même sur la base de la circulaire AGFisc n°12/2016 (n° Ci.704.999) du 5 avril 2016, dès lors qu'il ne s'agit pas d'une désignation par le ministre des Finances au sens de l'article 42, 1°, du Code judiciaire (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De betekeningen aan de Staat worden gedaan op het kabinet van de bevoegde minister of op het kantoor van de door hem aangewezen ambtenaar, te weten, voor de minister van Financiën, overeenkomstig het ministerieel besluit van 25 oktober 2012 houdende aanwijzing van de ambtenaar van de Federale Overheidsdienst Financiën op wiens kantoor de Staat kan worden gedagvaard en de betekeningen en kennisgevingen kunnen worden gedaan (1). (1) Zie concl. OM.",
+        "De betekening op een ander kantoor is niet regelmatig, zelfs op grond van de omzendbrief AAFisc nr. 12/2016 (nr. Ci.704.999) van 5 april 2016, aangezien het niet gaat om een aanwijzing door de minister van Financiën in de zin van artikel 42, 1°, Gerechtelijk Wetboek (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2019:ARR.20190321.1": {
       "court": "CASS",
@@ -18849,6 +18857,22 @@
         "Il suit de la combinaison des articles 47bis, alinéas 1er et 2, 57 et 861, alinéa 1er, du Code judiciaire que, lorsque la signification d'une décision a été irrégulièrement accomplie, le délai pour introduire un recours ne commence pas à courir, lors même que cette signification a été ultérieurement portée à la connaissance de son destinataire et ce, quelle que soit l'incidence de cette irrégularité sur les intérêts du destinataire de cette signification (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    }
+  },
+  "747": {
+    "ECLI:BE:CASS:2024:ARR.20240112.1F.3": {
+      "court": "CASS",
+      "date": "2024-01-12",
+      "roleNumber": "C.22.0317.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_24.xml"
+      ],
+      "abstractFR": [
+        "En vertu de l'article 747, § 4, du Code judiciaire, sauf modification de commun accord par les parties des délais pour conclure, les conclusions qui sont remises au greffe ou envoyées à la partie adverse après l'expiration des délais sont d'office écartées des débats; cette disposition ne prive pas nécessairement la partie qui omet de déposer des conclusions dans le premier délai fixé par le procès-verbal d'audience, d'en déposer dans le délai ultérieur que ce procès-verbal prévoit (1). (1) Voir Cass. 24 juin 2020, RG P.19.0667.F, Pas. 2020, n° 445."
+      ],
+      "abstractNL": [
+        "Krachtens artikel 747, § 4, Gerechtelijk Wetboek worden, tenzij de partijen de conclusietermijnen in onderlinge overeenstemming wijzigen, de conclusies die na het verstrijken van de termijnen op de griffie worden neergelegd of aan de tegenpartij worden toegezonden ambtshalve uit het debat geweerd; die bepaling ontzegt de partij die verzuimt binnen de in het proces-verbaal van de terechtszitting vastgestelde eerste termijn een conclusie neer te leggen, niet noodzakelijk het recht om er één neer te leggen binnen de in dat proces-verbaal vastgestelde latere termijn (1). (1) Zie Cass. 24 juni 2020 RG P.19.0667.F, AC 2020, nr. 445."
+      ]
     }
   },
   "793": {
