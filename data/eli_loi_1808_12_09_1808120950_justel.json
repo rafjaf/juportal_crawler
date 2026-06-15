@@ -11483,12 +11483,27 @@
       "date": "2026-05-05",
       "roleNumber": "P.25.1007.N",
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_43.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_43.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_45.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
         "Krachtens artikel 63, eerste lid, Wetboek van Strafvordering kan hij die beweert door een misdaad of een wanbedrijf te zijn benadeeld, daarover bij de onderzoeksrechter klacht doen en zich burgerlijke partij stellen: het onderzoeksgerecht moet deze burgerlijke partijstelling en de daardoor op gang gebrachte strafvordering evenwel onontvankelijk verklaren indien het oordeelt dat de burgerlijke partij niet aannemelijk maakt dat zij als gevolg van de feiten, voorwerp van de klacht met burgerlijke partijstelling, schade heeft geleden of dat zij niet beschikt over een rechtmatig belang; de loutere omstandigheid dat degene die zich benadeeld acht door een misdrijf zich in een ongeoorloofde toestand bevindt, heeft niet tot gevolg dat hij niet kan bogen op de krenking van een rechtmatig belang op grond waarvan hij klacht met burgerlijke partijstelling kan doen; een burgerlijke partij beschikt evenwel niet over een rechtmatig belang wanneer haar burgerlijke partijstelling uitsluitend gebaseerd is op feiten waarvoor zijzelf strafrechtelijk is veroordeeld; hieraan wordt geen afbreuk gedaan door de omstandigheid dat de burgerlijke partijstelling gericht is tegen derden die volgens de burgerlijke partij schuldig zijn als daders of deelnemers aan die feiten, noch door de omstandigheid dat de burgerlijke partij niet het behoud nastreeft van de door die feiten veroorzaakte wederrechtelijke toestand (1). (1) Zie gelijkluidende concl. OM."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260506.2F.4": {
+      "court": "CASS",
+      "date": "2026-05-06",
+      "roleNumber": "P.25.1301.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_55.xml"
+      ],
+      "abstractFR": [
+        "Il résulte de l'article 235bis, § 1er, du Code d'instruction criminelle que si, à l'occasion de l'examen de l'appel formé par une partie civile contre l'ordonnance de la chambre du conseil selon laquelle l'action publique relative au fait faisant l'objet de la constitution de partie civile est éteinte en raison de la prescription, la chambre des mises en accusation estime que cette constitution de partie civile pourrait être irrecevable pour un autre motif, elle est tenue, avant de statuer en ce sens, d'ordonner la réouverture des débats sur ce point (1). (1) Cass. 22 mars 2022, RG P.21.1614.N. ECLI:BE:CASS:2022:ARR.20220322.2N.9",
+        "En application de l'article 235 du Code d'instruction criminelle, la chambre des mises en accusation peut, notamment, ordonner des poursuites à l'égard de personnes qui n'avaient été ni mises en prévention par le ministère public ou la partie civile ni inculpées par le juge d'instruction, pour autant que les nouveaux faits ressortent du dossier de la procédure et que les parties aient l'occasion d'être entendues à leur sujet; dans cette hypothèse, la juridiction d'instruction étend les poursuites à des faits dont le juge d'instruction n'avait pas été saisi et que les réquisitions du ministère public n'avaient pas visés.",
+        "Si l'article 235 du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence d'inculper des personnes qui n'avaient été ni mises en prévention par le ministère public ou la partie civile ni inculpées par le juge d'instruction et d'étendre l'instruction, elle ne lui en fait pas l'obligation; en la lui accordant « d'office », soit indépendamment de toute demande, elle lui permet de ne pas indiquer les motifs pour lesquels elle n'use pas de cette prérogative nonobstant la demande qui lui en est faite (1). (1) Cass. 23 décembre 2015, RG P.15.0615.F, Pas. 2015, n° 775, avec concl. MP."
+      ],
+      "abstractNL": null
     }
   },
   "235quater": {

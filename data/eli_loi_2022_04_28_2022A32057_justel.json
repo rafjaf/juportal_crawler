@@ -273,12 +273,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1440.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1440.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/05/14/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/05/14/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_12.xml"
       ],
       "abstractFR": [
-        "La sanction de l'abus de droit consiste non en la déchéance du droit mais en la réduction du droit à son usage normal ou dans la réparation du dommage que l'abus a causé (1). (1) Voir les concl. du MP."
+        "La sanction de l'abus de droit consiste non en la déchéance du droit mais en la réduction du droit à son usage normal ou dans la réparation du dommage que l'abus a causé (1). (1) Voir les concl. du MP.",
+        "Ne justifie pas légalement sa décision le juge qui considère qu'en laissant courir un certain délai, une partie a exercé son droit de manière abusive et que l'octroi d'une indemnité d'occupation couvrant une telle période serait « une source de profits », mais n'examine pas ensuite la mesure dans laquelle le droit du demandeur à une indemnité d'occupation peut être réduit à son usage normal (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Rechtsmisbruik wordt niet gesanctioneerd door het verbeuren van het recht, maar door het recht tot zijn normale uitoefening te herleiden of door het opleggen van het herstel van de schade die door het misbruik werd veroorzaakt (1). (1) Zie concl. OM.",
+        "De rechter verantwoordt zijn beslissing niet naar recht wanneer hij oordeelt dat een partij, door een bepaalde termijn te laten verlopen, haar recht heeft misbruikt en dat de toekenning van een gebruiksvergoeding die een dergelijke periode zou dekken, “een bron van winst” zou opleveren, maar vervolgens niet nagaat in welke mate het recht van de eiser op een gebruiksvergoeding tot zijn normale uitoefening herleid kan worden (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240308.1F.6": {
       "court": "CASS",

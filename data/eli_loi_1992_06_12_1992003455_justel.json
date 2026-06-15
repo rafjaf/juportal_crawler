@@ -5960,6 +5960,20 @@
       "abstractNL": [
         "Voor het bepalen van de rang van de overtreding bij niet-aangifte moet het moment van de overtreding worden gesitueerd op het ogenblik dat de belastingplichtige nalaat zijn aangifte in te dienen binnen de wettelijk voorziene aangiftetermijn, in voorkomend geval nadat hij met toepassing van artikel 308, § 3, WIB92 een aangifteformulier heeft aangevraagd; het feit dat de fiscale administratie na het verstrijken van de aangiftetermijnen bij wijze van ‘administratieve gunst' aan de belastingplichtige de kans geeft om alsnog een aangifte in te dienen, heeft niet tot gevolg dat de belastingplichtige dan een overtreding begaat door daaraan geen gevolg te geven."
       ]
+    },
+    "ECLI:BE:CASS:2024:ARR.20240223.1F.2": {
+      "court": "CASS",
+      "date": "2024-02-23",
+      "roleNumber": "F.22.0150.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un contribuable fait l'objet de poursuites pénales en raison d'activités délictueuses générant des revenus, la déclaration de tels revenus conformément à l'obligation légale qui s'impose à tout contribuable sous peine d'un accroissement d'impôt ne constitue pas en soi un acte d'auto-incrimination (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Wanneer tegen een belastingplichtige een strafvervolging wordt ingeleid wegens strafbare activiteiten die inkomsten genereren, vormt de aangifte van dergelijke inkomsten overeenkomstig de wettelijke verplichting waaraan elke belastingplichtige op straffe van belastingverhoging moet voldoen, op zich geen zelfincriminerende handeling (1). (1) Zie concl. OM."
+      ]
     }
   },
   "307": {
@@ -6319,6 +6333,20 @@
       ],
       "abstractNL": [
         "Niet onregelmatig is de bezichtiging van de bedrijfslokalen door ambtenaren van de administratie der directe belastingen, die niet voorzien zijn van hun aanstellingsbewijs, wanneer de belastingplichtige uitdrukkelijk met de plaatsbezichtiging instemt."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.10": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "F.25.0007.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_53.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De ambtenaren die bevoegd zijn om de toepassing van de inkomstenbelastingen of de belasting over de toegevoegde waarde te controleren, mogen zich geen toegang tot bedrijfslokalen verschaffen zonder voorafgaande toestemming van de belastinngplichtige; de toestemming van de belastingplichtige dient blijvend aanwezig te zijn (1). (1) Zie concl. OM.",
+        "Indien de belastingplichtige een vennootschap is moet de toestemming om de bedrijfslokalen te betreden gegeven worden door het daartoe bevoegde orgaan van de rechtspersoon of door degene aan wie de rechtspersoon een daartoe strekkende volmacht heeft gegeven of van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was (1). (1) Zie concl. OM.",
+        "Het staat aan de fiscale administratie om door alle middelen van recht, met uitzondering van de eed, aan te tonen dat de belastingplichtige, zijn gemachtigde of degene van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was, voorafgaandelijk aan de onderzoeksverrichtingen toestemming heeft gegeven om de bedrijfslokalen te betreden (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -7595,7 +7623,8 @@
       "roleNumber": "F.25.0078.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_34.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_48.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_48.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_64.xml"
       ],
       "abstractFR": [
         "Il suit de la combinaison des alinéas 1er, 2 et 3 de l'article 351 du Code des impôts sur les revenus 1992 que l'administration, qui procède à la taxation d'office en raison de l'absence de réponse à un avis de rectification, ne peut établir la cotisation sur la base d'autres revenus et éléments que ceux déclarés ou admis par écrit par le contribuable que si ces autres revenus et éléments ont été portés à sa connaissance par ledit avis de rectification (1). (1) Voir les concl. du MP."
@@ -9499,7 +9528,8 @@
       "roleNumber": "F.25.0094.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_35.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_49.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_49.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_65.xml"
       ],
       "abstractFR": [
         "Pour l'application de l'article 376, §1er, du Code des impôts sur les revenus 1992, la double imposition suppose que le même revenu ait fait l'objet de plusieurs impositions dont l'une exclut légalement l'autre; dans ce cas, c'est en principe la cotisation établie illégalement qui doit faire l'objet du dégrèvement (1). (1) Voir les concl. du MP",
@@ -10581,7 +10611,8 @@
       "roleNumber": "F.21.0123.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_33.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_47.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_47.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_63.xml"
       ],
       "abstractFR": [
         "Il suit de l'article 417 du Code des impôts sur les revenus 1992 que l'autorité qui y est visée détermine les conditions auxquelles l'exonération des intérêts de retard peut être accordée dans les cas spéciaux, que, partant, la compétence de cette autorité est discrétionnaire et que les cours et tribunaux sont sans juridiction pour accorder une telle exonération (1). (1) Voir les concl. du MP."
@@ -10888,6 +10919,20 @@
       ],
       "abstractNL": [
         "De betwistingen betreffende de belastingaanslag, ook al hebben ze betrekking op een belastingverhoging en heeft die verhoging het karakter van een straf, zijn geen strafzaken in de zin van artikel 2, § 1, van het koninklijk besluit nr. 2 van 9 april 2020."
+      ]
+    },
+    "ECLI:BE:CASS:2024:ARR.20240223.1F.2": {
+      "court": "CASS",
+      "date": "2024-02-23",
+      "roleNumber": "F.22.0150.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_15.xml"
+      ],
+      "abstractFR": [
+        "Lorsqu'un contribuable fait l'objet de poursuites pénales en raison d'activités délictueuses générant des revenus, la déclaration de tels revenus conformément à l'obligation légale qui s'impose à tout contribuable sous peine d'un accroissement d'impôt ne constitue pas en soi un acte d'auto-incrimination (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Wanneer tegen een belastingplichtige een strafvervolging wordt ingeleid wegens strafbare activiteiten die inkomsten genereren, vormt de aangifte van dergelijke inkomsten overeenkomstig de wettelijke verplichting waaraan elke belastingplichtige op straffe van belastingverhoging moet voldoen, op zich geen zelfincriminerende handeling (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -12258,6 +12303,38 @@
       ],
       "abstractNL": [
         "Artikel 67ter, § 1, WIB92 maakt voor de vaststelling van het aantal in dienst zijnde personeelsleden geen onderscheid tussen voltijdse en deeltijdse werknemers (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "315bis": {
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.10": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "F.25.0007.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_53.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De ambtenaren die bevoegd zijn om de toepassing van de inkomstenbelastingen of de belasting over de toegevoegde waarde te controleren, mogen zich geen toegang tot bedrijfslokalen verschaffen zonder voorafgaande toestemming van de belastinngplichtige; de toestemming van de belastingplichtige dient blijvend aanwezig te zijn (1). (1) Zie concl. OM.",
+        "Indien de belastingplichtige een vennootschap is moet de toestemming om de bedrijfslokalen te betreden gegeven worden door het daartoe bevoegde orgaan van de rechtspersoon of door degene aan wie de rechtspersoon een daartoe strekkende volmacht heeft gegeven of van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was (1). (1) Zie concl. OM.",
+        "Het staat aan de fiscale administratie om door alle middelen van recht, met uitzondering van de eed, aan te tonen dat de belastingplichtige, zijn gemachtigde of degene van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was, voorafgaandelijk aan de onderzoeksverrichtingen toestemming heeft gegeven om de bedrijfslokalen te betreden (1). (1) Zie concl. OM."
+      ]
+    }
+  },
+  "315ter": {
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.10": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "F.25.0007.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_53.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De ambtenaren die bevoegd zijn om de toepassing van de inkomstenbelastingen of de belasting over de toegevoegde waarde te controleren, mogen zich geen toegang tot bedrijfslokalen verschaffen zonder voorafgaande toestemming van de belastinngplichtige; de toestemming van de belastingplichtige dient blijvend aanwezig te zijn (1). (1) Zie concl. OM.",
+        "Indien de belastingplichtige een vennootschap is moet de toestemming om de bedrijfslokalen te betreden gegeven worden door het daartoe bevoegde orgaan van de rechtspersoon of door degene aan wie de rechtspersoon een daartoe strekkende volmacht heeft gegeven of van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was (1). (1) Zie concl. OM.",
+        "Het staat aan de fiscale administratie om door alle middelen van recht, met uitzondering van de eed, aan te tonen dat de belastingplichtige, zijn gemachtigde of degene van wie de ambtenaren redelijkerwijze mochten veronderstellen dat hij hiertoe bevoegd was, voorafgaandelijk aan de onderzoeksverrichtingen toestemming heeft gegeven om de bedrijfslokalen te betreden (1). (1) Zie concl. OM."
       ]
     }
   }

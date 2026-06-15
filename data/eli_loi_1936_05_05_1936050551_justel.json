@@ -62,6 +62,21 @@
       ]
     }
   },
+  "18": {
+    "ECLI:BE:CASS:2026:ARR.20260423.1N.4": {
+      "court": "CASS",
+      "date": "2026-04-23",
+      "roleNumber": "C.24.0360.N-C.24.0467.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_54.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het in artikel 18, eerste lid, van de wet van 5 mei 1936 op de binnenbevrachting bedoelde overliggeld is een schadevergoeding die verschuldigd is voor het verstrijken van de overeengekomen lig-, laad- of lostijd (1). (1) Zie concl. OM.",
+        "De vordering tot betaling van overliggeld valt buiten het toepassingsgebied van artikel 25 Wetboek van Koophandel; een contractuele schadevergoeding geeft geen aanleiding tot het opmaken van facturen .(1). (1) Zie concl. OM."
+      ]
+    }
+  },
   "19": {
     "ECLI:BE:CASS:1995:ARR.19950616.5": {
       "court": "CASS",

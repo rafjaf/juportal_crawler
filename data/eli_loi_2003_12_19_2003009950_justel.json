@@ -1393,6 +1393,20 @@
       "abstractNL": [
         "De rechter die uitspraak doet over de tenuitvoerlegging van het Europees aanhoudingsbevel heeft niet te oordelen over de wettigheid en regelmatigheid van dit bevel, maar enkel over de tenuitvoerlegging ervan overeenkomstig het bepaalde in de artikelen 4 tot 8 van de wet van 19 december 2003 betreffende het Europees aanhoudingsbevel (1). (1) Zie Cass., 26 mei 2004, AR P.04.0779.F, nr ...; 8 dec. 2004, AR P.04.1562.F, nr ..."
       ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231122.2F.14": {
+      "court": "CASS",
+      "date": "2023-11-22",
+      "roleNumber": "P.23.1516.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu, conformément à l'article 267, alinéa 3, du Traité sur le fonctionnement de l'Union européenne, de poser à la Cour de justice de l'Union européenne la question préjudicielle suivante: « Lorsque les juridictions de l'État membre d'exécution d'un mandat d'arrêt européen ont constaté qu'il existe un risque, en cas de remise de la personne recherchée à l'État membre d'émission, d'atteinte aux droits fondamentaux de cette personne, liée à l'exécution de la peine étrangère, de sorte qu'il y a lieu de refuser l'exécution du mandat d'arrêt européen, l'article 4.6 de la décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre États membres autorise-t-il ces juridictions de l'État membre d'exécution, qui constatent que la personne recherchée réside dans ce dernier État, à ensuite décider que, conformément à la disposition qui transpose dans l'ordre juridique national l'article 4.6 de la décision-cadre, il y a lieu d'exécuter, dans l'État membre d'exécution, la peine d'emprisonnement infligée dans l'État membre d'émission du mandat d'arrêt européen, peine qui est visée par cet acte »? (1). (1) Voir les concl. contraires du MP ; l'avocat général près la C.J.U.E. a entendu ne pas donner suite à la demande de procédure préjudicielle d'urgence (C-722/23 - v. art. 109, § 6, de son règlement de procédure)."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 267, derde lid, VWEU moet aan het Hof van Justitie van de Europese Unie de volgende prejudiciële vraag worden gesteld: “Wanneer de rechterlijke instanties van de lidstaat waarin een Europees aanhoudingsbevel ten uitvoer wordt gelegd, hebben vastgesteld dat, in geval van overlevering van de gezochte persoon aan de uitvaardigende lidstaat, het gevaar bestaat dat de grondrechten van die persoon met betrekking tot de tenuitvoerlegging van de buitenlandse straf worden miskend, zodat de tenuitvoerlegging van het Europees aanhoudingsbevel moet worden geweigerd, staat artikel 4.6 van het Kaderbesluit Europees aanhoudingsbevel die rechterlijke instanties van de uitvoerende lidstaat, wanneer zij vaststellen dat de gezochte persoon in de laatstgenoemde staat verblijft, toe om vervolgens te beslissen dat, overeenkomstig de bepaling die artikel 4.6 van dat kaderbesluit in de nationale rechtsorde omzet, de gevangenisstraf die is opgelegd in de lidstaat die het Europees aanhoudingsbevel heeft uitgevaardigd en die in dat bevel wordt bedoeld, in de uitvoerende lidstaat ten uitvoer moet worden gelegd?” (1). (1) Zie de andersluidende concl. OM; de advocaat-generaal bij het HvJ heeft geen gevolg willen geven aan het verzoek tot prejudiciële spoedprocedure (zaak C-722/23 - zie art. 109, § 6, van het Reglement voor de Procesvoering van het Hof van Justitie van de Europese Unie)."
+      ]
     }
   },
   "5": {
@@ -1567,13 +1581,17 @@
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1324.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1324.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/29/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/29/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_3.xml"
       ],
       "abstractFR": [
         "L'arrêt qui se borne à énoncer qu'à supposer que les faits aient été en partie commis en Belgique ou que la personne recherchée y ait, en tout ou en partie, participé, la juridiction chargée de statuer sur les suites à réserver au mandat d'arrêt européen n'est pas obligée d'en refuser l'exécution, sans indiquer de manière concrète pourquoi la chambre des mises en accusation a jugé qu'il n'y avait pas lieu d'appliquer la cause de refus susvisée, n'est pas régulièrement motivé.",
         "La décision qui rejette l'application des autres causes de refus d'exécution du mandat d'arrêt européen invoquées n'encourant pas elle-même la censure, la cassation est limitée à la décision refusant l'application de la cause de refus facultative visée à l'article 6,5°, de la loi relative au mandat d'arrêt européen."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Het arrest dat enkel vermeldt dat, gesteld dat de feiten gedeeltelijk in België zijn gepleegd of de gezochte persoon hieraan geheel of gedeeltelijk heeft deelgenomen, het gerecht dat uitspraak moet doen over het gevolg dat aan het Europees aanhoudingsbevel moet worden gegeven, niet verplicht is de tenuitvoerlegging ervan te weigeren, zonder dat het concreet vermeldt waarom de kamer van inbeschuldigingstelling geoordeeld heeft dat de voormelde weigeringsgrond niet van toepassing was, is niet regelmatig met redenen omkleed.",
+        "Aangezien de beslissing die de toepassing van de overige aangevoerde gronden tot weigering van tenuitvoerlegging van het Europees aanhoudingsbevel verwerpt, niet zelf wordt vernietigd, is de cassatie beperkt tot de beslissing die de toepassing van de facultatieve weigeringsgrond, bedoeld in artikel 6, 5°, Wet Europees Aanhoudingsbevel, weigert."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240131.2F.12": {
       "court": "CASS",
@@ -1928,6 +1946,20 @@
       ],
       "abstractNL": [
         "Het arrest van de kamer van inbeschuldigingstelling is niet naar recht verantwoord, wanneer het een straf uitsluit zonder vast te stellen dat die niet meer volgens de wetten van de veroordelende Staat kan worden ten uitvoer gelegd, en aldus zijn beslissing steunt op een reden die geen verband houdt met de redenen die welke, met toepassing van artikel 6, 4°, Wet Europees Aanhoudingsbevel, de weigering van tenuitvoerlegging mogelijk maken."
+      ]
+    },
+    "ECLI:BE:CASS:2023:ARR.20231122.2F.14": {
+      "court": "CASS",
+      "date": "2023-11-22",
+      "roleNumber": "P.23.1516.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il y a lieu, conformément à l'article 267, alinéa 3, du Traité sur le fonctionnement de l'Union européenne, de poser à la Cour de justice de l'Union européenne la question préjudicielle suivante: « Lorsque les juridictions de l'État membre d'exécution d'un mandat d'arrêt européen ont constaté qu'il existe un risque, en cas de remise de la personne recherchée à l'État membre d'émission, d'atteinte aux droits fondamentaux de cette personne, liée à l'exécution de la peine étrangère, de sorte qu'il y a lieu de refuser l'exécution du mandat d'arrêt européen, l'article 4.6 de la décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre États membres autorise-t-il ces juridictions de l'État membre d'exécution, qui constatent que la personne recherchée réside dans ce dernier État, à ensuite décider que, conformément à la disposition qui transpose dans l'ordre juridique national l'article 4.6 de la décision-cadre, il y a lieu d'exécuter, dans l'État membre d'exécution, la peine d'emprisonnement infligée dans l'État membre d'émission du mandat d'arrêt européen, peine qui est visée par cet acte »? (1). (1) Voir les concl. contraires du MP ; l'avocat général près la C.J.U.E. a entendu ne pas donner suite à la demande de procédure préjudicielle d'urgence (C-722/23 - v. art. 109, § 6, de son règlement de procédure)."
+      ],
+      "abstractNL": [
+        "Overeenkomstig artikel 267, derde lid, VWEU moet aan het Hof van Justitie van de Europese Unie de volgende prejudiciële vraag worden gesteld: “Wanneer de rechterlijke instanties van de lidstaat waarin een Europees aanhoudingsbevel ten uitvoer wordt gelegd, hebben vastgesteld dat, in geval van overlevering van de gezochte persoon aan de uitvaardigende lidstaat, het gevaar bestaat dat de grondrechten van die persoon met betrekking tot de tenuitvoerlegging van de buitenlandse straf worden miskend, zodat de tenuitvoerlegging van het Europees aanhoudingsbevel moet worden geweigerd, staat artikel 4.6 van het Kaderbesluit Europees aanhoudingsbevel die rechterlijke instanties van de uitvoerende lidstaat, wanneer zij vaststellen dat de gezochte persoon in de laatstgenoemde staat verblijft, toe om vervolgens te beslissen dat, overeenkomstig de bepaling die artikel 4.6 van dat kaderbesluit in de nationale rechtsorde omzet, de gevangenisstraf die is opgelegd in de lidstaat die het Europees aanhoudingsbevel heeft uitgevaardigd en die in dat bevel wordt bedoeld, in de uitvoerende lidstaat ten uitvoer moet worden gelegd?” (1). (1) Zie de andersluidende concl. OM; de advocaat-generaal bij het HvJ heeft geen gevolg willen geven aan het verzoek tot prejudiciële spoedprocedure (zaak C-722/23 - zie art. 109, § 6, van het Reglement voor de Procesvoering van het Hof van Justitie van de Europese Unie)."
       ]
     }
   },
@@ -3350,6 +3382,18 @@
       ],
       "abstractNL": [
         "Krachtens artikel 18, ,§ 2, wet betreffende het Europees aanhoudingsbevel, moet de memorie met de middelen van het cassatieberoep op de griffie van het Hof worden ontvangen ten laatste de vijfde dag te rekenen van de datum van instelling van het cassatieberoep (1). (1) Zie Cass., 24 aug. 2004, AR P.04.1211.N, nr ..."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260505.2N.13": {
+      "court": "CASS",
+      "date": "2026-05-05",
+      "roleNumber": "P.26.0544.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_51.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De wetgever heeft met artikel 426 Wetboek van Strafvordering in één uitzondering voorzien op de verplichting voor een partij om voor het instellen van een cassatieberoep in strafzaken een beroep te doen op een advocaat houder van een getuigschrift: dit betreft het geval van een gedetineerde of een overeenkomstig artikel 606 Wetboek van Strafvordering geplaatste persoon die cassatieberoep aantekent bij toepassing van artikel 31 Voorlopige Hechteniswet; die kan zelf cassatieberoep aantekenen door het afleggen van een verklaring bij de directeur van de gevangenis of bij zijn gemachtigde of in voorkomend geval bij de directeur van het gemeenschapscentrum voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd of zijn gemachtigde en dus zonder bijstand van een advocaat; de verantwoording voor deze uitzondering ligt in de korte termijn waarbinnen de betrokkene, die van zijn vrijheid is beroofd, cassatieberoep kan instellen; het is dus niet de vrijheidsberoving van de betrokkene op zichzelf die de uitzonderingsregeling verklaart; de in artikel 426 Wetboek van Strafvordering bepaalde uitzondering geldt ook voor hij die cassatieberoep wil instellen tegen de uitvoerbaarverklaring van een tegen hem uitgevaardigd Europees aanhoudingsbevel overeenkomstig artikel 18 Wet Europees Aanhoudingsbevel gelet op het vergelijkbaar karakter van de regeling van dit cassatieberoep met het cassatieberoep inzake voorlopige hechtenis (1). (1) Over art. 18 Wet Europees Aanhoudingsbevel zie Cass. 20 oktober 2015, AR P.15.1287.N, AC 2015, nr. 617, met concl. van advocaat-generaal A. WINANTS, NC 2016, 262; S. VAN OVERBEKE, “De cassatieprocedure in strafzaken: formele voorwaarden en verloop”, in De cassatieberoepen, Larcier, 2023, 326-327. Het cassatieberoep ingesteld door de veroordeelde zelf, door een verklaring aan de gevangenisdirecteur, is niet-ontvankelijk, zie Cass. 12 maart 2024, AR P.24.0228.N, Ecli; Cass. 14 juni 2022, AR P.22.0705.N, Ecli; Cass. 15 juni 2010, P.10.0878.N, AC 2010, nr. 429, met concl. van procureur-generaal M. DE SWAEF, toen eerste advocaat-generaal; F.t'KINT, “Quelques informations pratiques sur le pourvoi en cassation en matière pénale”, in Procederen voor het Hof van Cassatie, Knops Publ. 2023, 48; H. VAN BAVEL, “Ontvankelijkheid van het cassatieberoep in strafzaken”, in Procederen voor het Hof van Cassatie, Knops Publ. 2023, 68-72. (BDS)."
       ]
     }
   },
