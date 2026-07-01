@@ -18978,6 +18978,20 @@
       ]
     }
   },
+  "1133": {
+    "ECLI:BE:CASS:2024:ARR.20240930.3N.4": {
+      "court": "CASS",
+      "date": "2024-09-30",
+      "roleNumber": "C.23.0462.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/30/sitemap_4.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Het buitengewoon rechtsmiddel van de herroeping van het gewijsde, ook wegens persoonlijk bedrog, is niet ontvankelijk indien de verzoekende partij onzorgvuldig is geweest in de eerdere procedure waardoor zij kennis kon hebben van de redenen waarop haar verzoek tot herroeping steunt."
+      ]
+    }
+  },
   "1676": {
     "ECLI:BE:CASS:2023:ARR.20230407.1N.6": {
       "court": "CASS",
