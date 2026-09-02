@@ -18877,6 +18877,22 @@
       "abstractNL": null
     }
   },
+  "138": {
+    "ECLI:BE:CASS:2026:ARR.20260306.1F.3": {
+      "court": "CASS",
+      "date": "2026-03-06",
+      "roleNumber": "C.25.0248.F",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/01/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ne résulte pas de l'article 138bis, §1er, du Code judiciaire que l'action d'office appartient au ministère public chaque fois qu'une disposition d'ordre public ou concernant l'ordre public a été violée ; les exigences de l'ordre public qui, au sens de cette disposition, peuvent justifier pareille intervention impliquent que l'ordre public soit mis en péril par un état de choses auquel il importe de remédier (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": [
+        "Pas encore disponible"
+      ]
+    }
+  },
   "747": {
     "ECLI:BE:CASS:2024:ARR.20240112.1F.3": {
       "court": "CASS",
