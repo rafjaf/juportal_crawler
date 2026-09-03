@@ -6076,12 +6076,26 @@
       "roleNumber": "C.23.0459.F",
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/08/12/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/08/18/sitemap_2090.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/08/18/sitemap_2090.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_5.xml"
       ],
       "abstractFR": [
         "L'État belge a un intérêt légitime à obtenir du contribuable le paiement de l'impôt définitivement dû ; il s'ensuit que l'action en responsabilité de l'État belge pour le dommage consistant en l'impossibilité de recouvrer l'impôt définitivement dû par le contribuable, en raison de la faute d'un tiers, ne tend pas au maintien d'une situation contraire à l'ordre public ou à l'obtention d'un avantage illicite, quelle que soit l'illégalité dénoncée par ce tiers de l'impôt lui-même (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260226.1N.9": {
+      "court": "CASS",
+      "date": "2026-06-04",
+      "roleNumber": "C.24.0365.N",
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_20.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "De procespartij die aanvoert titularis te zijn van het subjectieve recht dat ten grondslag ligt aan haar vordering, heeft hoedanigheid om die vordering in te stellen, ook al wordt het subjectieve recht betwist (1). (1) Zie concl. OM.",
+        "De beoordeling van de vordering ingesteld door de overnemer van een schuldvordering tegen de gecedeerde schuldenaar betreft de gegrondheid ervan en niet de ontvankelijkheid (1). (1) Zie concl. OM."
+      ]
     }
   },
   "18": {
