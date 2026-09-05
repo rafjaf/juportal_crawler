@@ -173,6 +173,30 @@ function stripAccents(str) {
   return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
+/**
+ * Decode an eJustice HTML response. The server commonly omits a charset from
+ * its HTTP Content-Type header while declaring ISO-8859-1 in the document.
+ * Response.text() assumes UTF-8 in that situation, turning accented title
+ * characters into replacement glyphs in the interactive chooser.
+ */
+export function decodeEjusticeHtml(bytes, declaredCharset = null) {
+  const sample = new TextDecoder('ascii').decode(new Uint8Array(bytes).slice(0, 4096));
+  const metaCharset = sample.match(/<meta[^>]+charset\s*=\s*["']?([\w-]+)/i)?.[1];
+  const charset = (declaredCharset || metaCharset || 'iso-8859-1').toLowerCase();
+
+  try {
+    return new TextDecoder(charset).decode(bytes);
+  } catch {
+    return new TextDecoder('iso-8859-1').decode(bytes);
+  }
+}
+
+async function readEjusticeHtml(response) {
+  const contentType = response.headers.get('content-type') || '';
+  const headerCharset = contentType.match(/charset\s*=\s*([^;\s]+)/i)?.[1] || null;
+  return decodeEjusticeHtml(await response.arrayBuffer(), headerCharset);
+}
+
 function extractTitleKeywords(key) {
   let text = key.replace(/\s*-\s*\d{2}-\d{2}-\d{4}.*$/, '');
   // Strip legal-type prefixes ── long forms first, then abbreviations
@@ -472,7 +496,7 @@ async function searchEjustice(dt, date, titleKeywords, language = 'fr') {
       });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-      const html = await response.text();
+      const html = await readEjusticeHtml(response);
       await sleep(REQUEST_DELAY_MS);
       return parseSearchResults(html);
     } catch (err) {
@@ -539,7 +563,7 @@ async function fetchEliFromArticlePage(numac) {
     try {
       const response = await fetch(url);
       if (!response.ok) return buildFallbackEli(numac);
-      const html = await response.text();
+      const html = await readEjusticeHtml(response);
       const $ = cheerio.load(html);
       // Primary selector: standard ELI/cgi_loi link present on most article pages
       let eli = $('a#link-text').attr('href') || null;
@@ -767,17 +791,79 @@ async function askChatGptToChoose(candidates, key, elements) {
   }
 }
 
+function summaryValues(value) {
+  const values = Array.isArray(value) ? value : [value];
+  return values
+    .filter(value => typeof value === 'string' && value.trim())
+    .map(value => value.replace(/\s+/g, ' ').trim());
+}
+
+function truncateForTerminal(value, maxLength = 700) {
+  return value.length <= maxLength ? value : `${value.slice(0, maxLength - 1)}…`;
+}
+
+/**
+ * Gather distinct FR/NL summaries while retaining the judgment context needed
+ * to match a candidate legal text to the decision that cites it.
+ */
+export function collectCitingSummaries(elements, limit = 5) {
+  const summaries = [];
+  const seen = new Set();
+
+  for (const element of elements || []) {
+    for (const language of ['FR', 'NL']) {
+      for (const text of summaryValues(element[`abstract${language}`])) {
+        const key = `${element.ecli || 'unknown'}|${element.article || 'general'}|${language}|${text}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        summaries.push({
+          ecli: element.ecli || null,
+          article: element.article || 'general',
+          roleNumber: element.roleNumber || null,
+          language,
+          text,
+        });
+        if (summaries.length >= limit) return summaries;
+      }
+    }
+  }
+  return summaries;
+}
+
+function displayCitingSummaries(elements) {
+  const summaries = collectCitingSummaries(elements);
+  if (summaries.length === 0) {
+    console.log(chalk.gray('  Citing judgment summary: unavailable'));
+    return;
+  }
+
+  console.log(chalk.bold('  Citing judgment summary:'));
+  for (const summary of summaries) {
+    const context = [
+      summary.language,
+      summary.ecli || 'ECLI unavailable',
+      `art. ${summary.article}`,
+      summary.roleNumber ? `roll ${summary.roleNumber}` : null,
+    ].filter(Boolean).join(' | ');
+    console.log(chalk.gray(`    [${context}]`));
+    console.log(`      ${truncateForTerminal(summary.text)}`);
+  }
+}
+
 /**
  * Prompt the user to pick one result from a numbered list, skip, or enter a
- * custom ELI/numac.  Returns { eli } on success or null to skip.
- * @param {Array}       candidates
- * @param {string}      key
+ * custom ELI/numac. Returns { eli } on success or null to skip.
+ * @param {Array} candidates
+ * @param {string} key
+ * @param {Array} elements Citing judgment records from missing_eli.json.
  * @param {{numac:string, index:number, confidence:string, reasoning:string}|null} aiSuggestion
  */
-async function promptUserChoice(candidates, key, aiSuggestion = null) {
+async function promptUserChoice(candidates, key, elements, aiSuggestion = null) {
   progress.clear();
   console.log('');
   logWarn(`  ⚠ Ambiguous – ${candidates.length} candidates for: ${chalk.cyan(key.substring(0, 100))}`);
+  displayCitingSummaries(elements);
+  console.log(chalk.bold('  Candidate texts:'));
   candidates.forEach((c, i) => {
     const score  = typeof c.score === 'number' ? chalk.gray(` [score:${c.score}]`) : '';
     const aiMark = aiSuggestion?.numac === c.result.numac
@@ -1269,7 +1355,7 @@ export async function findMissingEli(startFromKey = null) {
               // fall through to apply logic below
             } else {
               logWarn(`  ⚠ ChatGPT chose numac ${aiSuggestion.numac} but ELI fetch failed — falling back to manual`);
-              const chosen = await promptUserChoice(candidates, key, aiSuggestion);
+              const chosen = await promptUserChoice(candidates, key, entry.elements, aiSuggestion);
               if (chosen?.eli) {
                 resolution = { eli: chosen.eli, confidence: 'user' };
                 source = 'user';
@@ -1283,7 +1369,7 @@ export async function findMissingEli(startFromKey = null) {
             }
           } else if (!applyAll) {
             // Interactive: no AI or low/medium confidence — show AI suggestion, let user confirm or override
-            const chosen = await promptUserChoice(candidates, key, aiSuggestion);
+            const chosen = await promptUserChoice(candidates, key, entry.elements, aiSuggestion);
             if (chosen?.eli) {
               resolution = { eli: chosen.eli, confidence: 'user' };
               source = 'user';
