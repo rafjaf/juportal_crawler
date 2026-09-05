@@ -16,6 +16,7 @@ import {
   extractPublicationCounter,
 } from './utils.js';
 import { correctEliByDate } from './split_texts.js';
+import { classifyRollNumber, extractRollNumberReference } from './roll_number.js';
 
 /**
  * Upgrade bare-number "general" entries to specific articles by finding the
@@ -121,6 +122,14 @@ export async function fetchSitemapUrls(sitemapIndexUrl) {
  */
 export async function parseSitemapXml(sitemapUrl) {
   const xml = await fetchWithRetry(sitemapUrl);
+  return parseSitemapXmlContent(xml, sitemapUrl);
+}
+
+/**
+ * Parse sitemap XML that has already been downloaded. Exported separately so
+ * both legacy and CAS numbering formats can be covered by offline fixtures.
+ */
+export async function parseSitemapXmlContent(xml, sitemapUrl = '<inline sitemap>') {
   const result = await xml2js.parseStringPromise(xml, {
     explicitArray: false,
     tagNameProcessors: [name => name.replace(/^ecli:/, '')],
@@ -164,16 +173,21 @@ export async function parseSitemapXml(sitemapUrl) {
   // We want the one with type="summarised"
   const identifiers = Array.isArray(meta.identifier) ? meta.identifier : [meta.identifier];
   let judgementUrl = null;
+  const judgementUrls = [];
   for (const id of identifiers) {
     if (id?.$?.type === 'summarised') {
-      judgementUrl = id._ || id;
-      break;
+      const value = id._ || id;
+      if (typeof value === 'string' && !judgementUrls.includes(value)) {
+        judgementUrls.push(value);
+      }
     }
   }
+  judgementUrl = judgementUrls[0] || null;
   // Fallback: use first identifier if no summarised found
   if (!judgementUrl && identifiers.length > 0) {
     const first = identifiers[0];
     judgementUrl = first?._ || first;
+    if (typeof judgementUrl === 'string') judgementUrls.push(judgementUrl);
     logWarn(`⚠ No 'summarised' identifier found, using first identifier for ${ecli}`);
   }
 
@@ -230,8 +244,9 @@ export async function parseSitemapXml(sitemapUrl) {
 
       if (type === 'OTHER') {
         // Check for role number
-        if (text.startsWith('Numéro de rôle') || text.startsWith('Rolnummer')) {
-          roleNumber = text.replace(/^(Numéro de rôle|Rolnummer)\s*/, '').trim();
+        const extractedRollNumber = extractRollNumberReference(text);
+        if (extractedRollNumber) {
+          roleNumber = extractedRollNumber;
           continue;
         }
 
@@ -441,13 +456,18 @@ export async function parseSitemapXml(sitemapUrl) {
     entry.legalBasisNL = texts.nl || null;
   }
 
+  const { rollNumberSystem, matterFromRollNumber } = classifyRollNumber(roleNumber);
+
   return {
     skipped: false,
     court,
     ecli,
     judgementDate,
     judgementUrl,
+    judgementUrls,
     roleNumber,
+    rollNumberSystem,
+    matterFromRollNumber,
     abstractsFR,
     abstractsNL,
     hasXmlDescriptions,

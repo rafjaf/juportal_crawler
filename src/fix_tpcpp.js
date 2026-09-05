@@ -164,6 +164,11 @@ export async function fixTpcpp() {
       court: entry.court ?? existing.court,
       date: entry.date ?? existing.date,
       roleNumber: entry.roleNumber ?? existing.roleNumber,
+      rollNumberSystem: entry.rollNumberSystem ?? existing.rollNumberSystem ?? null,
+      matterFromRollNumber: Object.prototype.hasOwnProperty.call(entry, 'matterFromRollNumber')
+        ? entry.matterFromRollNumber
+        : (existing.matterFromRollNumber ?? null),
+      judgementUrls: mergeArrays(existing.judgementUrls, entry.judgementUrls),
       sitemap: mergeArrays(existing.sitemap, entry.sitemap),
       abstractFR: mergeArrays(existing.abstractFR, entry.abstractFR),
       abstractNL: mergeArrays(existing.abstractNL, entry.abstractNL),

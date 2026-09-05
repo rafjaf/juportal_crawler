@@ -17,12 +17,13 @@ import { appendParseError, appendLogEntry, appendNoLegalBasis } from './storage.
  *   { type: 'error',    message }
  *   { type: 'empty'  }
  *   { type: 'skip',    judgement }
+ *   { type: 'filtered', judgement }
  *   { type: 'no-bases', judgement }
  *   { type: 'save',    judgement, abstractToBasesMap }
  *
  * Multiple calls can run concurrently — there is no shared mutable state here.
  */
-export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {}) {
+export async function fetchSitemapResult(sitemapUrl, { knownEclis = null, rollNumberSystem = null } = {}) {
   // ── 1. Parse the sitemap XML (one network round-trip) ─────────────────────
   const allUnextractable = [];
   let judgement;
@@ -46,6 +47,12 @@ export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {})
     return { type: 'skip', judgement };
   }
 
+  // Used by targeted backfills. Apply this immediately after parsing the
+  // sitemap so non-matching judgments never trigger a judgment-page fetch.
+  if (rollNumberSystem && judgement.rollNumberSystem !== rollNumberSystem) {
+    return { type: 'filtered', judgement };
+  }
+
   // ── --redo: skip if ECLI already has data saved ───────────────────────────
   if (knownEclis && judgement.ecli && knownEclis.has(judgement.ecli)) {
     logInfo(chalk.gray(`${timestamp()}     Skipped (already has data): ${judgement.ecli}`));
@@ -64,7 +71,10 @@ export async function fetchSitemapResult(sitemapUrl, { knownEclis = null } = {})
       court: judgement.court,
       date: judgement.judgementDate,
       url: judgement.judgementUrl,
+      urls: judgement.judgementUrls,
       roleNumber: judgement.roleNumber || null,
+      rollNumberSystem: judgement.rollNumberSystem,
+      matterFromRollNumber: judgement.matterFromRollNumber,
       sitemap: sitemapUrl,
     });
     return { type: 'no-bases', judgement };
@@ -227,7 +237,7 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
     return false;
   }
 
-  if (result.type === 'empty' || result.type === 'no-bases') {
+  if (result.type === 'empty' || result.type === 'no-bases' || result.type === 'filtered') {
     markDone();
     return true;
   }
@@ -273,6 +283,9 @@ export function commitSitemapResult(result, sitemapUrl, settings, counters, { ma
         court: judgement.court,
         date: judgement.judgementDate,
         roleNumber: judgement.roleNumber,
+        rollNumberSystem: judgement.rollNumberSystem,
+        matterFromRollNumber: judgement.matterFromRollNumber,
+        judgementUrls: judgement.judgementUrls,
         sitemap: sitemapUrl,
         abstracts: abstractToBasesMap.map(e => ({
           abstractFR: e.abstractFR || null,
@@ -304,4 +317,3 @@ export async function processSingleSitemapUrl(sitemapUrl, settings, counters, { 
   const result = await fetchSitemapResult(sitemapUrl, { knownEclis });
   return commitSitemapResult(result, sitemapUrl, settings, counters, { markProcessed, log });
 }
-

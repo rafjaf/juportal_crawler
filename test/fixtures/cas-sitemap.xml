@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:ecli="https://e-justice.europa.eu/ecli">
+  <url>
+    <ecli:document>
+      <ecli:metadata>
+        <ecli:isVersionOf value="ECLI:BE:CASS:2026:ARR.20260804.VAC.3">
+          <ecli:court>CASS</ecli:court>
+        </ecli:isVersionOf>
+        <ecli:date>2026-08-04</ecli:date>
+        <ecli:identifier type="summarised" lang="fr">https://juportal.be/content/ECLI:BE:CASS:2026:ARR.20260804.VAC.3/FR</ecli:identifier>
+        <ecli:identifier type="summarised" lang="nl">https://juportal.be/content/ECLI:BE:CASS:2026:ARR.20260804.VAC.3/NL</ecli:identifier>
+        <ecli:abstract lang="fr">Résumé français</ecli:abstract>
+        <ecli:abstract lang="nl">Nederlandse samenvatting</ecli:abstract>
+        <ecli:reference type="OTHER" lang="fr">Numéro de rôle : 26/CAS/0418</ecli:reference>
+      </ecli:metadata>
+    </ecli:document>
+  </url>
+</urlset>

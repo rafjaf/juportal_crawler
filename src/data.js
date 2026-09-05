@@ -13,7 +13,8 @@ import { getAllSplitTextElis, articleBelongsToPart, findEliForArticle, findSplit
  * data/<eli_filename>.json = {
  *   "<article>": {
  *     "<ECLI>": {
- *       court, date, roleNumber, sitemap,
+ *       court, date, roleNumber, rollNumberSystem, matterFromRollNumber,
+ *       judgementUrls, sitemap,
  *       abstractFR, abstractNL
  *     }
  *   }
@@ -39,6 +40,12 @@ function mergeArrays(existing, incoming) {
   return arr.length > 0 ? arr : null;
 }
 
+function metadataValue(incoming, existing, key) {
+  return Object.prototype.hasOwnProperty.call(incoming, key) && incoming[key] !== undefined
+    ? incoming[key]
+    : (existing[key] ?? null);
+}
+
 export function storeJudgementData(judgement, abstractToBasesMap, sitemapUrl) {
   // abstractToBasesMap: array of { abstractFR?, abstractNL?, legalBases: [{article, eli}] }
 
@@ -60,7 +67,10 @@ export function storeJudgementData(judgement, abstractToBasesMap, sitemapUrl) {
       data[base.article][judgement.ecli] = {
         court: judgement.court,
         date: judgement.judgementDate,
-        roleNumber: judgement.roleNumber,
+        roleNumber: judgement.roleNumber ?? existing.roleNumber ?? null,
+        rollNumberSystem: metadataValue(judgement, existing, 'rollNumberSystem'),
+        matterFromRollNumber: metadataValue(judgement, existing, 'matterFromRollNumber'),
+        judgementUrls: mergeArrays(existing.judgementUrls, judgement.judgementUrls || judgement.judgementUrl),
         sitemap: mergeArrays(existing.sitemap, sitemapUrl),
         abstractFR: mergeArrays(existing.abstractFR, entry.abstractFR),
         abstractNL: mergeArrays(existing.abstractNL, entry.abstractNL),
@@ -126,6 +136,9 @@ export function recordMissingEliData(judgement, abstractToBasesMap, sitemapUrl) 
         court: judgement.court,
         date: judgement.judgementDate,
         roleNumber: judgement.roleNumber,
+        rollNumberSystem: judgement.rollNumberSystem,
+        matterFromRollNumber: judgement.matterFromRollNumber,
+        judgementUrls: judgement.judgementUrls || (judgement.judgementUrl ? [judgement.judgementUrl] : []),
         sitemap: sitemapUrl,
         article: missing.article,
         abstractFR: entry.abstractFR || null,
@@ -242,6 +255,9 @@ export async function processMissingEliFile() {
         court: element.court,
         judgementDate: element.date,
         roleNumber: element.roleNumber,
+        rollNumberSystem: element.rollNumberSystem,
+        matterFromRollNumber: element.matterFromRollNumber,
+        judgementUrls: element.judgementUrls,
       };
 
       const article = normalizeArticleNumber(overrideArticle ?? element.article ?? '');
@@ -308,6 +324,11 @@ function reassignSplitTextAbstracts() {
           court: entry.court ?? existing.court,
           date: entry.date ?? existing.date,
           roleNumber: entry.roleNumber ?? existing.roleNumber,
+          rollNumberSystem: entry.rollNumberSystem ?? existing.rollNumberSystem ?? null,
+          matterFromRollNumber: Object.prototype.hasOwnProperty.call(entry, 'matterFromRollNumber')
+            ? entry.matterFromRollNumber
+            : (existing.matterFromRollNumber ?? null),
+          judgementUrls: mergeArrays(existing.judgementUrls, entry.judgementUrls),
           sitemap: mergeArrays(existing.sitemap, entry.sitemap),
           abstractFR: mergeArrays(existing.abstractFR, entry.abstractFR),
           abstractNL: mergeArrays(existing.abstractNL, entry.abstractNL),

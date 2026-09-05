@@ -76,6 +76,103 @@ function setupQuitListener() {
   stdin.on('keypress', onKeypress);
 }
 
+function localIsoDate(date = new Date()) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function readDateOption(flag, fallback) {
+  const index = process.argv.indexOf(flag);
+  if (index === -1) return fallback;
+  const value = process.argv[index + 1];
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value || '')) {
+    throw new Error(`${flag} requires a date in YYYY-MM-DD format`);
+  }
+  const parsed = new Date(`${value}T00:00:00Z`);
+  if (Number.isNaN(parsed.getTime()) || parsed.toISOString().slice(0, 10) !== value) {
+    throw new Error(`${flag} is not a valid calendar date: ${value}`);
+  }
+  return value;
+}
+
+/**
+ * Revisit publication-date sitemap indexes and process only judgments using
+ * the new YY/CAS/NNNN roll-number system. Existing records are merged by ECLI,
+ * so this also adds a later FR/NL variant without overwriting the first one.
+ */
+async function backfillCasJudgements({ from, to, logEnabled }) {
+  const settings = loadSettings(); // read-only: a backfill must not alter crawl checkpoints
+  const allIndexUrls = await fetchSitemapIndexUrls();
+  const sitemapIndexUrls = allIndexUrls.filter(url => {
+    const date = extractDateFromUrl(url);
+    return date >= from && date <= to;
+  });
+
+  logInfo(`${timestamp()} ${chalk.bold('CAS backfill:')} publication dates ${from} through ${to}`);
+  logInfo(`${timestamp()} Found ${sitemapIndexUrls.length} sitemap index(es) in range.`);
+  progress.configure(sitemapIndexUrls.length, sitemapIndexUrls.length, SITEMAP_CONCURRENCY);
+
+  let savedJudgements = 0;
+  let skippedCourt = 0;
+  let errorCount = 0;
+
+  for (let index = 0; index < sitemapIndexUrls.length; index++) {
+    const sitemapIndexUrl = sitemapIndexUrls[index];
+    const date = extractDateFromUrl(sitemapIndexUrl);
+    logInfo(`\n${timestamp()} ${chalk.bold(`[${index + 1}/${sitemapIndexUrls.length}]`)} Processing publication date: ${chalk.cyan(date)}`);
+
+    let sitemapUrls;
+    try {
+      sitemapUrls = await fetchSitemapUrls(sitemapIndexUrl);
+    } catch (err) {
+      logError(`✖ Failed to fetch sitemap index ${sitemapIndexUrl}: ${err.message}`);
+      errorCount++;
+      progress.endIndex();
+      continue;
+    }
+
+    progress.beginIndex(sitemapUrls.length);
+    const sem = new Semaphore(SITEMAP_CONCURRENCY);
+    const serialQ = new SerialQueue();
+
+    await Promise.all(sitemapUrls.map((sitemapUrl, sitemapIndex) => (async () => {
+      await sem.acquire();
+      let result;
+      const fetchStart = Date.now();
+      try {
+        logInfo(`${timestamp()}   [${sitemapIndex + 1}/${sitemapUrls.length}] Fetching: ${sitemapUrl}`);
+        result = await fetchSitemapResult(sitemapUrl, { rollNumberSystem: 'CAS' });
+      } finally {
+        sem.release();
+      }
+      const fetchMs = Date.now() - fetchStart;
+
+      await serialQ.enqueue(() => {
+        const counters = { skippedCourt, savedJudgements, errorCount };
+        commitSitemapResult(result, sitemapUrl, settings, counters, {
+          markProcessed: false,
+          log: logEnabled,
+        });
+        skippedCourt = counters.skippedCourt;
+        savedJudgements = counters.savedJudgements;
+        errorCount = counters.errorCount;
+        progress.currentIndexDone++;
+        progress.recordSitemapTime(fetchMs);
+      });
+    })()));
+
+    logSuccess(`✔ Completed publication date: ${date}`);
+    progress.endIndex();
+  }
+
+  progress.finish();
+  logSuccess(`CAS backfill complete — judgments saved or merged: ${savedJudgements}`);
+  if (errorCount > 0) logError(`Errors: ${errorCount}`);
+  flushAll();
+}
+
 // ─── Fix Articles From Log ─── see src/fix_articles.js ──────────────────────
 
 // ─── Main Crawling Logic ─────────────────────────────────────────────────────
@@ -136,6 +233,9 @@ async function main() {
     console.log(`                            their ECLI) are skipped automatically.  Use this to`);
     console.log(`                            backfill judgements previously missed due to detection`);
     console.log(`                            bugs (e.g. old-style legal bases).`);
+    console.log(`  ${chalk.cyan('--backfill-cas')}           Re-query publication-date sitemap indexes for CAS roll`);
+    console.log(`                            numbers only. Defaults to 2026-06-15 through today.`);
+    console.log(`                            Optional bounds: --from YYYY-MM-DD --to YYYY-MM-DD.`);
     console.log(`  ${chalk.cyan('--log')}                    Log each saved judgement to log.json with full detail`);
     console.log(`                            (for debugging / auditing the crawl logic).`);
     console.log(`  ${chalk.cyan('--help')}, ${chalk.cyan('-h')}             Show this help message.\n`);
@@ -222,6 +322,11 @@ async function main() {
                 court: logEntry.court,
                 date: logEntry.date,
                 roleNumber: logEntry.roleNumber,
+                rollNumberSystem: logEntry.rollNumberSystem ?? null,
+                matterFromRollNumber: Object.prototype.hasOwnProperty.call(logEntry, 'matterFromRollNumber')
+                  ? logEntry.matterFromRollNumber
+                  : null,
+                judgementUrls: logEntry.judgementUrls || [],
                 sitemap: sitemapUrl,
                 article: art,
                 abstractFR,
@@ -345,6 +450,32 @@ async function main() {
       process.exit(1);
     }
     addRelated(filePath);
+    return;
+  }
+
+  if (process.argv.includes('--backfill-cas')) {
+    let from;
+    let to;
+    try {
+      from = readDateOption('--from', '2026-06-15');
+      to = readDateOption('--to', localIsoDate());
+      if (from > to) throw new Error(`--from (${from}) must not be later than --to (${to})`);
+    } catch (err) {
+      logError(err.message);
+      process.exitCode = 1;
+      return;
+    }
+
+    try {
+      await backfillCasJudgements({
+        from,
+        to,
+        logEnabled: process.argv.includes('--log'),
+      });
+    } catch (err) {
+      logFatal(`CAS backfill failed: ${err.message}`);
+      process.exitCode = 1;
+    }
     return;
   }
 

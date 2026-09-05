@@ -14,6 +14,15 @@ let _missingEliCache = null;
 let _logCache = null;
 let _noLegalBasisCache = null;
 
+function mergeUniqueValues(existing, incoming) {
+  const values = Array.isArray(existing) ? [...existing] : (existing ? [existing] : []);
+  const additions = Array.isArray(incoming) ? incoming : (incoming ? [incoming] : []);
+  for (const value of additions) {
+    if (value && !values.includes(value)) values.push(value);
+  }
+  return values;
+}
+
 /**
  * Write all deferred in-memory stores to disk.
  * Safe to call from a process 'exit' handler (synchronous).
@@ -194,10 +203,13 @@ export function appendMissingEli(rawLegalBasisText, element) {
   );
 
   if (existing) {
-    // Merge sitemap array
-    if (!Array.isArray(existing.sitemap)) existing.sitemap = existing.sitemap ? [existing.sitemap] : [];
-    if (element.sitemap && !existing.sitemap.includes(element.sitemap)) {
-      existing.sitemap.push(element.sitemap);
+    existing.sitemap = mergeUniqueValues(existing.sitemap, element.sitemap);
+    existing.abstractFR = mergeUniqueValues(existing.abstractFR, element.abstractFR);
+    existing.abstractNL = mergeUniqueValues(existing.abstractNL, element.abstractNL);
+    existing.judgementUrls = mergeUniqueValues(existing.judgementUrls, element.judgementUrls);
+    existing.rollNumberSystem ??= element.rollNumberSystem ?? null;
+    if (Object.prototype.hasOwnProperty.call(element, 'matterFromRollNumber')) {
+      existing.matterFromRollNumber = element.matterFromRollNumber;
     }
   } else {
     data[key].elements.push({
@@ -258,7 +270,20 @@ export function loadNoLegalBasisFile() {
  */
 export function appendNoLegalBasis(entry) {
   const data = loadNoLegalBasisFile();
-  if (!data.some(e => e.ecli === entry.ecli)) {
-    data.push(entry);
+  const existing = data.find(e => e.ecli === entry.ecli);
+  if (!existing) {
+    data.push({
+      ...entry,
+      urls: mergeUniqueValues(entry.urls, entry.url),
+    });
+    return;
+  }
+
+  existing.url ||= entry.url || null;
+  existing.urls = mergeUniqueValues(existing.urls || existing.url, entry.urls || entry.url);
+  existing.roleNumber ||= entry.roleNumber || null;
+  existing.rollNumberSystem ??= entry.rollNumberSystem ?? null;
+  if (Object.prototype.hasOwnProperty.call(entry, 'matterFromRollNumber')) {
+    existing.matterFromRollNumber = entry.matterFromRollNumber;
   }
 }

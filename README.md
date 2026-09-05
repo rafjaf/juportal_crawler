@@ -29,6 +29,7 @@ node index.js [option]
 | `--sort-related <ELI> <art>` | For each judgement mapped to `<art>` via the equivalence table of `<ELI>`, ask the LLM whether the judgement truly pertains to that article or should be reclassified. |
 | `--fix-tpcpp` | Re-examine CIC first-part data (1808111701) for articles 8–32 and move entries that actually belong to the TPCPP (1878041750) based on the law date in the original sitemap. |
 | `--redo` | Re-crawl all sitemaps from `robots.txt`, ignoring the list of already-processed entries in `settings.json`. Judgements that already have data in `data/` (detected by their ECLI) are skipped automatically. |
+| `--backfill-cas [--from YYYY-MM-DD] [--to YYYY-MM-DD]` | Re-query publication-date sitemap indexes and process only judgments with a `YY/CAS/NNNN` roll number. Defaults to 15 June 2026 through today and merges any FR/NL variants by ECLI. |
 | `--log` | Log each saved judgement to `log.json` with full detail (for debugging / auditing the crawl logic). |
 | `--help`, `-h` | Show the help message. |
 
@@ -36,7 +37,9 @@ Press `q` at any time during a crawl to quit gracefully (all in-memory data is f
 
 ## Output
 
-Extracted judgements are stored as JSON files in the `data/` directory, one file per Belgian statute, named after its ELI identifier (e.g. `cgi_loi_loi_1804032230.json`). Each file contains an array of judgement records, each with the ECLI, date, article reference, and extracted abstract text.
+Extracted judgements are stored as JSON files in the `data/` directory, one file per Belgian statute, named after its ELI identifier (e.g. `cgi_loi_loi_1804032230.json`). Each file contains judgement records keyed by ECLI and article, with the date, roll number, roll-number system, matter derived from legacy roll numbers (or `null` for `CAS`), source URLs, and French/Dutch abstract text. Language variants are merged without overwriting one another.
+
+Both legacy roll numbers such as `P.26.0036.N` and the newer `26/CAS/0418` format are supported. `CAS` is a numbering-system token, not a matter or language code, so those records are retained as unclassified.
 
 ## Credits
 

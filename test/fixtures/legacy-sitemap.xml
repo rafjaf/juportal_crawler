@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:ecli="https://e-justice.europa.eu/ecli">
+  <url>
+    <ecli:document>
+      <ecli:metadata>
+        <ecli:isVersionOf value="ECLI:BE:CASS:2026:ARR.20260115.1N.1">
+          <ecli:court>CASS</ecli:court>
+        </ecli:isVersionOf>
+        <ecli:date>2026-01-15</ecli:date>
+        <ecli:identifier type="summarised">https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260115.1N.1</ecli:identifier>
+        <ecli:reference type="OTHER" lang="nl">Rolnummer: P.26.0036.N</ecli:reference>
+      </ecli:metadata>
+    </ecli:document>
+  </url>
+</urlset>

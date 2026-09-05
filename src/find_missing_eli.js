@@ -1039,6 +1039,11 @@ function storeElementsToDataFile(elements, eli) {
       court: element.court,
       date: element.date,
       roleNumber: element.roleNumber,
+      rollNumberSystem: element.rollNumberSystem ?? existing.rollNumberSystem ?? null,
+      matterFromRollNumber: Object.prototype.hasOwnProperty.call(element, 'matterFromRollNumber')
+        ? element.matterFromRollNumber
+        : (existing.matterFromRollNumber ?? null),
+      judgementUrls: mergeArr(existing.judgementUrls, element.judgementUrls),
       sitemap: mergeArr(existing.sitemap, element.sitemap),
       abstractFR: mergeArr(existing.abstractFR, element.abstractFR),
       abstractNL: mergeArr(existing.abstractNL, element.abstractNL),

@@ -153,7 +153,13 @@ A single entry per judgement:
 ```
 Numéro de rôle : C.20.0123.F
 Rolnummer : P.21.0456.N
+Numéro de rôle : 26/CAS/0418
 ```
+
+Since June 2026, `YY/CAS/NNNN` coexists with the legacy format. `CAS` does not
+encode a matter or language. The parser therefore stores `rollNumberSystem` as
+`CAS` and `matterFromRollNumber` as `null`; only legacy C/P/S/F/D prefixes are
+used to populate the derived matter field.
 
 ### 8. URL references (non-ELI)
 
