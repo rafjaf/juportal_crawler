@@ -79,6 +79,11 @@ The `numac_search` parameter contains the NUMAC identifier.
 Results may be paginated. The `list.pl` URL with `page=N` parameter handles pages.
 Each page contains approximately 20 results.
 
+`--find-missing-eli` follows the eJustice pagination links before it ranks or
+asks the user to choose a candidate. It therefore does not stop after the first
+page (or a top-ten shortlist); as a safeguard against an unexpectedly broad
+query, it stops only after 100 result pages.
+
 ## ELI Extraction
 
 ### From Article Page

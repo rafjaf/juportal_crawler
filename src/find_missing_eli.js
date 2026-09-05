@@ -36,6 +36,21 @@ import { findSplitText, findEliForArticle } from './split_texts.js';
 const EJUSTICE_SEARCH_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/rech_res.pl';
 const EJUSTICE_ARTICLE_URL = 'https://www.ejustice.just.fgov.be/cgi_loi/article.pl';
 const REQUEST_DELAY_MS = 1500;
+const MAX_EJUSTICE_RESULT_PAGES = 100;
+
+// Applied only when the initial same-day search has several results. These
+// common connective and procedural terms rarely identify the cited text.
+const SUMMARY_KEYWORD_STOPWORDS = new Set([
+  'ainsi', 'alors', 'appel', 'appelant', 'appelante', 'article', 'articles',
+  'arret', 'arrete', 'cassation', 'cause', 'cette', 'celui', 'celui-ci',
+  'celle', 'contre', 'cour', 'decision', 'demande', 'demander',
+  'droit', 'doit', 'dans', 'decret', 'depuis', 'dont', 'etre', 'fait',
+  'fond', 'juge', 'jugement', 'legal', 'legale', 'loi', 'lorsque', 'meme',
+  'moyen', 'nette', 'partie', 'peut', 'pour', 'premier', 'prejudice',
+  'procedure', 'recours', 'selon', 'sous', 'texte', 'toute', 'tribunal',
+  'vigueur', 'volgens', 'wordt', 'recht', 'rechter', 'rechtbank', 'vordering',
+  'verzoek', 'partij', 'bepaling', 'bepalingen', 'besluit', 'wetboek',
+]);
 
 const OPENAI_CHAT_URL = 'https://api.openai.com/v1/chat/completions';
 // Default model — can be overridden in settings.json under "openai_model"
@@ -459,6 +474,63 @@ function scoreResultsByTitle(results, key) {
   return { best, scored };
 }
 
+/**
+ * Extract a compact title-search query from the summaries of judgments citing
+ * the missing legal basis. The query is advisory: its results are merged with,
+ * never substituted for, the complete same-day result set.
+ */
+export function extractSummaryKeywords(elements, language = null, limit = 4) {
+  const counts = new Map();
+
+  for (const element of elements || []) {
+    const languages = language ? [language] : ['FR', 'NL'];
+    for (const lang of languages) {
+      for (const summary of summaryValues(element[`abstract${lang}`])) {
+        const words = new Set((stripAccents(summary.toLowerCase()).match(/\p{L}{4,}/gu) || [])
+          .filter(word => !SUMMARY_KEYWORD_STOPWORDS.has(word)));
+        for (const word of words) counts.set(word, (counts.get(word) || 0) + 1);
+      }
+    }
+  }
+
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || b[0].length - a[0].length || a[0].localeCompare(b[0]))
+    .slice(0, limit)
+    .map(([word]) => word)
+    .join(' ');
+}
+
+function mergeCandidatePools(...pools) {
+  const candidatesByNumac = new Map();
+  for (const pool of pools) {
+    for (const candidate of pool || []) {
+      const existing = candidatesByNumac.get(candidate.result.numac);
+      if (!existing || (candidate.score ?? 0) > (existing.score ?? 0)) {
+        candidatesByNumac.set(candidate.result.numac, candidate);
+      }
+    }
+  }
+  return [...candidatesByNumac.values()];
+}
+
+function rankCandidatesBySummary(candidates, elements) {
+  const summaryTerms = new Set(extractSummaryKeywords(elements).split(' ').filter(Boolean));
+  if (summaryTerms.size === 0) return candidates;
+
+  return candidates
+    .map(candidate => {
+      const title = stripAccents(candidate.result.title.toLowerCase());
+      const summaryScore = [...summaryTerms].filter(term => title.includes(term)).length;
+      return {
+        ...candidate,
+        baseScore: candidate.score ?? 0,
+        summaryScore,
+        score: (candidate.score ?? 0) + summaryScore,
+      };
+    })
+    .sort((a, b) => b.score - a.score || b.summaryScore - a.summaryScore || a.result.title.localeCompare(b.result.title));
+}
+
 function pickBestResultByTitle(results, key) {
   return scoreResultsByTitle(results, key).best;
 }
@@ -497,8 +569,32 @@ async function searchEjustice(dt, date, titleKeywords, language = 'fr') {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
       const html = await readEjusticeHtml(response);
+      const firstPage = parseEjusticeResultPage(html);
+      const results = [...firstPage.results];
+      const lastPage = Math.min(firstPage.lastPage, MAX_EJUSTICE_RESULT_PAGES);
+
+      if (firstPage.lastPage > MAX_EJUSTICE_RESULT_PAGES) {
+        logWarn(`    ⚠ ejustice result set spans ${firstPage.lastPage} pages; stopping at ${MAX_EJUSTICE_RESULT_PAGES}.`);
+      }
+
+      // rech_res.pl renders page 1. Follow the result-page URLs emitted by
+      // eJustice so a same-day search is not silently limited to that page.
+      if (firstPage.pageUrl && lastPage > 1) {
+        for (let page = 2; page <= lastPage; page++) {
+          await sleep(REQUEST_DELAY_MS);
+          const pageUrl = new URL(firstPage.pageUrl);
+          pageUrl.searchParams.set('page', String(page));
+          const pageResponse = await fetch(pageUrl);
+          if (!pageResponse.ok) {
+            logWarn(`    ⚠ ejustice page ${page}/${lastPage} returned HTTP ${pageResponse.status}; keeping earlier results.`);
+            break;
+          }
+          results.push(...parseEjusticeResultPage(await readEjusticeHtml(pageResponse)).results);
+        }
+      }
+
       await sleep(REQUEST_DELAY_MS);
-      return parseSearchResults(html);
+      return deduplicateSearchResults(results);
     } catch (err) {
       if (attempt < maxRetries) {
         const delay = REQUEST_DELAY_MS * attempt;
@@ -541,13 +637,38 @@ function parseSearchResults(html) {
     results.push({ numac: numacMatch[1], title, pubDate });
   });
 
-  // Deduplicate by numac
+  return deduplicateSearchResults(results);
+}
+
+function deduplicateSearchResults(results) {
   const seen = new Set();
   return results.filter(r => {
     if (seen.has(r.numac)) return false;
     seen.add(r.numac);
     return true;
   });
+}
+
+/**
+ * Read the eJustice pagination controls from a result page. The POST response
+ * is already page 1; page 2+ are GET requests to the emitted list.pl URL.
+ */
+export function parseEjusticeResultPage(html) {
+  const $ = cheerio.load(html);
+  const lastHref = $('a.pagination-last[href]').first().attr('href');
+  if (!lastHref) return { results: parseSearchResults(html), pageUrl: null, lastPage: 1 };
+
+  try {
+    const pageUrl = new URL(lastHref, EJUSTICE_SEARCH_URL);
+    const page = Number.parseInt(pageUrl.searchParams.get('page') || '1', 10);
+    return {
+      results: parseSearchResults(html),
+      pageUrl: pageUrl.toString(),
+      lastPage: Number.isFinite(page) && page > 0 ? page : 1,
+    };
+  } catch {
+    return { results: parseSearchResults(html), pageUrl: null, lastPage: 1 };
+  }
 }
 
 function parseArticleRange(title) {
@@ -699,18 +820,8 @@ async function askChatGptToChoose(candidates, key, elements) {
   const settings = loadSettings();
   const model = settings.openai_model || OPENAI_DEFAULT_MODEL;
 
-  // Collect unique abstracts (skip duplicates from the same case cited multiple times)
-  const usedAbstracts = new Set();
-  const abstractLines = [];
-  for (const el of (elements || [])) {
-    for (const lang of ['FR', 'NL']) {
-      const text = el[`abstract${lang}`];
-      if (text && !usedAbstracts.has(text)) {
-        usedAbstracts.add(text);
-        abstractLines.push(`[${lang}] ${text}`);
-      }
-    }
-  }
+  const abstractLines = collectCitingSummaries(elements)
+    .map(summary => `[${summary.language}] ${summary.text}`);
   // Cap at 5 abstracts to stay within token limits while giving sufficient context
   const abstractsBlock = abstractLines.slice(0, 5).join('\n\n') || '(no abstracts available)';
 
@@ -928,7 +1039,7 @@ async function resolveNumacToEli(numac) {
   return custom.trim() || null;
 }
 
-async function resolveFromEjustice(key, article) {
+async function resolveFromEjustice(key, article, elements = []) {
   if (isUnfindableOnEjustice(key)) {
     return { eli: null, reason: 'unfindable' };
   }
@@ -1001,8 +1112,9 @@ async function resolveFromEjustice(key, article) {
 
   // ── Step 5: generic type → narrow by FR title keywords ─────────────────────
   const titleKeywords = extractTitleKeywords(key);
-  // Most focused candidate set found so far (prefer narrowed over full for user choice)
-  let bestCandidates = null;
+  // Narrowed searches are supplementary. Never discard the complete date/type
+  // result set: the relevant text may be beyond the first matching titles.
+  const focusedCandidatePools = [];
 
   if (titleKeywords) {
     let narrowed = [];
@@ -1024,7 +1136,7 @@ async function resolveFromEjustice(key, article) {
         const eli = await cachedFetchEli(best.numac);
         return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
       }
-      bestCandidates = scored;
+      focusedCandidatePools.push(scored);
     }
 
     // ── Step 6: NL-language keyword search ────────────────────────────────
@@ -1050,7 +1162,7 @@ async function resolveFromEjustice(key, article) {
         const eli = await cachedFetchEli(best.numac);
         return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
       }
-      if (!bestCandidates) bestCandidates = scored;
+      focusedCandidatePools.push(scored);
     }
 
     // ── Step 6b: NL full search (no-kw) scored — handles truncated Dutch keywords ──
@@ -1070,8 +1182,29 @@ async function resolveFromEjustice(key, article) {
           const eli = await cachedFetchEli(bestNlAll.numac);
           return eli ? { eli, reason: null } : { eli: null, reason: 'eli_fetch_error' };
         }
-        if (!bestCandidates) bestCandidates = scoredNlAll;
+        focusedCandidatePools.push(scoredNlAll);
       }
+    }
+  }
+
+  // ── Step 6c: summary-derived keyword searches ───────────────────────────
+  // The legal-basis label can be generic (for example, merely "Arrêté royal"),
+  // while the citing judgment's summary often names the subject matter. Search
+  // those FR/NL terms as an additional signal, but keep every date/type result
+  // available for final ranking and user choice.
+  if (date && results.length > 1) {
+    for (const [language, summaryLanguage] of [['fr', 'FR'], ['nl', 'NL']]) {
+      const summaryKeywords = extractSummaryKeywords(elements, summaryLanguage);
+      if (!summaryKeywords) continue;
+      try {
+        const narrowedBySummary = await cachedSearchEjustice(
+          effectiveDt, date, summaryKeywords, language
+        );
+        logInfo(chalk.gray(`    ${summaryLanguage} summary keywords "${summaryKeywords}" → ${narrowedBySummary.length} result(s)`));
+        if (narrowedBySummary.length > 0) {
+          focusedCandidatePools.push(scoreResultsByTitle(narrowedBySummary, key).scored);
+        }
+      } catch { /* retain the complete result set below */ }
     }
   }
 
@@ -1086,8 +1219,12 @@ async function resolveFromEjustice(key, article) {
     } catch { /* fall through */ }
   }
 
-  // Return the most focused candidate list available for interactive disambiguation
-  const candidates = (bestCandidates ?? scoredAll).slice(0, 10);
+  // Include the full date/type result set plus every focused query. This removes
+  // the former top-10 cutoff that could hide the relevant same-day text.
+  const candidates = rankCandidatesBySummary(
+    mergeCandidatePools(scoredAll, ...focusedCandidatePools),
+    elements
+  );
   return { eli: null, reason: 'ambiguous_multiple_results', candidates };
 }
 
@@ -1319,7 +1456,7 @@ export async function findMissingEli(startFromKey = null) {
       logInfo(`  ⟳ [${i + 1}/${total}] Searching ejustice${dt ? ` [${dt}]` : ''}: ${chalk.cyan(key.substring(0, 80))}${sampleArticle !== 'general' ? chalk.gray(` art.${sampleArticle}`) : ''}`);
       progress.render();
 
-      resolution = await resolveFromEjustice(key, sampleArticle);
+      resolution = await resolveFromEjustice(key, sampleArticle, entry.elements);
       source = 'ejustice';
 
       if (!resolution?.eli) {
@@ -1452,7 +1589,7 @@ export async function findMissingEli(startFromKey = null) {
       // Fall back to ejustice for articles not resolved from log
       for (const art of articles) {
         if (!perArticleElis.has(art)) {
-          const ejRes = await resolveFromEjustice(key, art);
+          const ejRes = await resolveFromEjustice(key, art, entry.elements);
           if (ejRes?.eli) perArticleElis.set(art, normalizeEliToFrench(ejRes.eli));
         }
       }
