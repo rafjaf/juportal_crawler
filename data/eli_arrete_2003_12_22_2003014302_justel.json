@@ -1,0 +1,21 @@
+{
+  "2": {
+    "ECLI:BE:CASS:2006:ARR.20060308.9": {
+      "court": "CASS",
+      "date": "2006-03-08",
+      "roleNumber": "P051556F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/03/08/sitemap_9.xml"
+      ],
+      "abstractFR": [
+        "Les dispositions des articles 29, ,§ 1er, alinéa 3, de la loi relative à la circulation routière et 2 de l'arrêté royal du 22 décembre 2003 ne prévoient aucune différence de traitement entre les justiciables."
+      ],
+      "abstractNL": [
+        "De bepalingen van de artt. 29, ,§ 1, derde lid, Wegverkeerswet en 2, K.B. 22 dec. 2003 voorzien in geen verschillende behandeling van de rechtzoekenden."
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "5": {
+    "ECLI:BE:CASS:2005:ARR.20050303.7": {
+      "court": "CASS",
+      "date": "2005-03-03",
+      "roleNumber": "C040227F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/03/03/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge du fond apprécie souverainement et en fait le caractère habituel du moyen de communication utilisé autorisé pour la publicité des médicaments."
+      ],
+      "abstractNL": [
+        "De feitenrechter beoordeelt op onaantastbare wijze en in feite het gebruikelijk karakter van het toegelaten communicatiemiddel dat wordt aangewend voor reclame voor geneesmiddelen."
+      ]
+    }
+  }
+}

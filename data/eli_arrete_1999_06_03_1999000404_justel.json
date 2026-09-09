@@ -1,0 +1,21 @@
+{
+  "18": {
+    "ECLI:BE:CASS:2005:ARR.20050303.6": {
+      "court": "CASS",
+      "date": "2005-03-03",
+      "roleNumber": "C040103F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/03/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Le relevé des titres d'accès que doit produire en permanence l'organisateur d'un match de football, ne doit comprendre ni les données nominatives des détenteurs de titre d'accès ni leur choix de supporter."
+      ],
+      "abstractNL": [
+        "Het overzicht van de toegangsbewijzen dat de organisator van een voetbalmatch permanent dient te kunnen overleggen, hoeft noch de nominatieve gegevens noch de supporterskeuze te bevatten van de houders van een toegangsbewijs."
+      ]
+    }
+  }
+}

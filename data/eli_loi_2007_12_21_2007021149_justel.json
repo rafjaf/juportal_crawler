@@ -1,0 +1,40 @@
+{
+  "53": {
+    "ECLI:BE:CASS:2011:ARR.20110519.5": {
+      "court": "CASS",
+      "date": "2011-05-19",
+      "roleNumber": "C.10.0199.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/19/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "Il suit de la confirmation de l'arrêté royal du 11 juillet 2002 que le législateur a donné à cet arrêté royal une valeur législative (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "Uit de bekrachtiging van het koninklijk besluit van 11 juli 2002 volgt dat de wetgever aan dat koninklijk besluit de waarde van een wet heeft toegekend (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  },
+  "54": {
+    "ECLI:BE:CASS:2011:ARR.20110519.5": {
+      "court": "CASS",
+      "date": "2011-05-19",
+      "roleNumber": "C.10.0199.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/19/sitemap_11.xml"
+      ],
+      "abstractFR": [
+        "L'effet rétroactif, donné à la confirmation de l'arrêté royal du 11 juillet 2002, a pour conséquence de cet arrêté royal doit être présumé avoir eu une valeur législative dès son origine (1). (1) Voir les concl. du M.P."
+      ],
+      "abstractNL": [
+        "De retroactiviteit die aan de bekrachtiging van het koninklijk besluit van 11 juli 2002 werd toegekend, heeft tot gevolg dat voornoemd koninklijk besluit geacht moet worden van meet af aan de waarde van een wet te hebben gehad (1). (1) Zie concl. O.M. in Pas., 2011, nr. ..."
+      ]
+    }
+  }
+}

@@ -1,9 +1,48 @@
 {
+  "87": {
+    "ECLI:BE:CASS:1998:ARR.19981023.7": {
+      "court": "CASS",
+      "date": "1998-10-23",
+      "roleNumber": "C970346F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1998/10/23/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La péremption d'un permis de bâtir en Région de Bruxelles-Capitale s'opère de plein droit; elle ne dépend pas de l'observation des formalités prescrites pour sa constatation et sa notification au titulaire du permis."
+      ],
+      "abstractNL": [
+        "Het verval van een bouwvergunning in het Brussels Hoofdstedelijk Gewest geschiedt van rechtswege; het hangt niet af van de inachtneming van de vormvereisten voor de vaststelling ervan en voor de kennisgeving aan de vergunninghouder."
+      ]
+    },
+    "ECLI:BE:CASS:1997:ARR.19971003.4": {
+      "court": "CASS",
+      "date": "1997-10-03",
+      "roleNumber": "C960318F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/1997/10/03/sitemap_4.xml"
+      ],
+      "abstractFR": [
+        "Dans la région de Bruxelles-Capitale, pour qu'un permis de bâtir accordé en vue de travaux de construction échappe à la péremption, il faut que les travaux d'édification du gros oeuvre aient commencé dans le délai légal, mais il n'est pas requis que cette réalisation ait été entamée \"de manière significative\"."
+      ],
+      "abstractNL": [
+        "In het Brussels-Hoofdstedelijk Gewest kan het verval van een met het oog op bouwwerken afgegeven bouwvergunning alleen worden voorkomen, wanneer met de ruwbouw is begonnen binnen de wettelijke termijn, maar het is niet vereist dat met de verwezenlijking van die vergunning \"duidelijk\" van start is gegaan."
+      ]
+    }
+  },
   "184": {
     "ECLI:BE:CASS:2008:ARR.20080925.2": {
       "court": "CASS",
       "date": "2008-09-25",
       "roleNumber": "C.07.0359.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2008/09/25/sitemap_2.xml"
       ],

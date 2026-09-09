@@ -14,6 +14,25 @@
       "abstractNL": null
     }
   },
+  "74": {
+    "ECLI:BE:CASS:2009:ARR.20091005.3": {
+      "court": "CASS",
+      "date": "2009-10-05",
+      "roleNumber": "S.07.0080.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/10/05/sitemap_2.xml"
+      ],
+      "abstractFR": [
+        "Il ressort des travaux préparatoires qu'il y a lieu d'entendre par les missions exercées par l'Institut pour l'encouragement de la recherche scientifique dans l'industrie et l'agriculture (I.R.S.I.A.) comme \"mandataire\" d'une Communauté ou d'une Région: les missions statutaires, notamment l'octroi de subsides ou de bourses, dont l'Institut a poursuivi l'exercice postérieurement à la régionalisation des politiques scientifique et technologique concernant la recherche scientifique dans les matières relevant des compétences des Communautés ou des Régions et ce, grâce aux moyens financiers mis à sa disposition par les Communautés ou les Régions. Ainsi, par le mandat précité, le législateur entendait une délégation de compétence."
+      ],
+      "abstractNL": [
+        "Uit de wetsgeschiedenis blijkt dat met opdrachten die het Instituut tot Aanmoediging van het Wetenschappelijk Onderzoek in Nijverheid en Landbouw (IWONL) als \"lasthebber\" van een Gemeenschap of Gewest heeft uitgevoerd, worden bedoeld: de statutaire opdrachten, zoals het verlenen van toelagen of beurzen, die het Instituut na de regionalisering van het wetenschapsbeleid en het technologiebeleid verder heeft uitgevoerd met betrekking tot wetenschappelijk onderzoek in aangelegenheden die tot de bevoegdheid van de Gemeenschappen of Gewesten behoren, en dit met financiële middelen ter beschikking gesteld door de Gemeenschappen en Gewesten. Met lastgeving heeft de wetgever aldus een bevoegdheidsdelegatie bedoeld."
+      ]
+    }
+  },
   "1bis": {
     "ECLI:BE:CASS:2026:ARR.20260323.3F.9": {
       "court": "CASS",

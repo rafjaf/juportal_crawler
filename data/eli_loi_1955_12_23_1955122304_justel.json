@@ -14,5 +14,24 @@
       ],
       "abstractNL": null
     }
+  },
+  "12": {
+    "ECLI:BE:CASS:2002:ARR.20021118.5": {
+      "court": "CASS",
+      "date": "2002-11-18",
+      "roleNumber": "C000324N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/11/18/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Les termes \"après avoir accompli neuf années de service\" figurant à l'article 12 de la loi du 23 décembre 1955 ne signifient pas simplement \"être en service pendant neuf années\", mais bien l'accomplissement du service pendant neuf années, et donc un service effectif, ce qui implique qu'une période de non-activité n'est pas prise en considération pour le calcul de ces neuf années de service accompli."
+      ],
+      "abstractNL": [
+        "Met de termen \"nadat hij negen jaar dienst volbracht heeft\" wordt in art. 12 van de wet van 23 december 1955 niet het louter \"in dienst zijn gedurende negen jaar\" bedoeld, maar wel het volbrengen van de dienst gedurende negen jaar, dus een werkelijke dienst, wat inhoudt dat een periode van non-activiteit niet in aanmerking komt voor de berekening van de bedoelde negen jaar volbrachte dienst."
+      ]
+    }
   }
 }

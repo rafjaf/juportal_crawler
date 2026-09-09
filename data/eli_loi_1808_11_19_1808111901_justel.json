@@ -1,20 +1,4 @@
 {
-  "128": {
-    "ECLI:BE:CASS:2025:ARR.20250422.2N.14": {
-      "court": "CASS",
-      "date": "2025-04-22",
-      "roleNumber": "P.24.1417.N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_1.xml"
-      ],
-      "abstractFR": [
-        "Il appartient à la juridiction d'instruction d'apprécier si les parties ayant droit à une indemnité de procédure ont bénéficié de l'assistance d'un même conseil ; il ne résulte pas de la circonstance que les conseils des parties ayant droit à une indemnité de procédure, qui ont comparu à l'audience devant la juridiction d'instruction, soient tous deux liés à un même cabinet ou que les conclusions prises au nom de ces parties soient identiques ou analogues, ou que ces parties aient réclamé une même indemnité de procédure majorée que la juridiction d'instruction doive admettre que ces parties ont été assistées par un même avocat au sens de l'article 1er, alinéa 2, de l'arrêté royal du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire."
-      ],
-      "abstractNL": [
-        "Het staat aan het onderzoeksgerecht te oordelen of de op een rechtsplegingsvergoeding gerechtigde partijen werden bijgestaan door eenzelfde raadsman; uit het gegeven dat de op de rechtszitting voor het onderzoeksgerecht verschenen raadslieden van de op een rechtsplegingsvergoeding gerechtigde partijen beiden verbonden zijn aan hetzelfde kantoor of dat de namens deze partijen genomen conclusies identiek of analoog zijn, of dat die partijen eenzelfde verhoogde rechtsplegingsvergoeding hebben gevorderd, volgt niet dat het onderzoeksgerecht moet aannemen dat deze partijen door eenzelfde advocaat zijn bijgestaan in de zin van artikel 1, tweede lid, Tarief Rechtsplegingsvergoeding."
-      ]
-    }
-  },
   "137": {
     "ECLI:BE:CASS:1981:ARR.19810109.8": {
       "court": "CASS",
@@ -5972,15 +5956,23 @@
       "court": "CASS",
       "date": "2025-06-24",
       "roleNumber": "P.25.0325.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2987.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2987.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_20.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/08/28/sitemap_20.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_9.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "La restitution visée à l'article 44 du Code pénal et aux articles 161 et 189 du Code d'instruction criminelle comporte, hormis la simple restitution des biens qui ont été soustraits au propriétaire et qui sont entre les mains de la justice, toute mesure visant à effacer les conséquences matérielles de l'infraction déclarée établie dans le but de rétablir la situation de fait telle qu'elle existait avant la commission de l'infraction déclarée établie et donc la garantie de l'intérêt général (1); si un contrat a été obtenu au moyen d'une infraction et que, par conséquent, il ne peut sortir aucun effet, la restitution peut également consister en une décision d'annulation de ce contrat, prononcée par le juge répressif, avec effet rétroactif. (1) Cass. 27 février 2018, RG P.17.0284.N, Pas. 2018, n° 124 ; Cass. 10 juin 2014, RG P.14.0280.N, Pas. 2014, n° 412 : Cass. 3 septembre 2013, RG P.10.1836.N, Pas. 2013, n° 413, R.W. 2015-16, 265, R.P.S.-T.R.V.16/3 2016, 271 ; R. VERSTRAETEN, « De teruggave en het derdenverzet in strafzaken », R.W. 1989-90, 157-159 ; A. VANDEPLAS, « Teruggave », dans Comm. Straf. 2003, 21 p. ; J. HUYSMANS, \" The criminal judge can do everything ...? De ruime draagwijdte van de teruggave (art. 44 Sw.) in strafzaken en de impact daarvan op de bevoegdheid van de strafrechter op burgerlijk gebied (275-278)\" ; J. RAEYMAKERS, « De rechtsfiguren van teruggave en toewijzing ten gunste van een benadeelde, onder meer als bijzondere modaliteiten van de verbeurdverklaring als bijkomende strafsanctie », N.C. 2017, 446-470 ; N. DE VOS, « Bedrog bij de verkoop van zaken en de huur van werk », dans Comm. Straf. 2024, 41.",
+        "Le juge qui condamne un prévenu sur la base de l'infraction de location d'une habitation non conforme, au sens de l'article 3.34 du Code flamand du logement de 2021, anciennement l'article 20, § 1er, du Code flamand du logement, peut prononcer, à tire de restitution au sens de l'article 44 du Code pénal, la nullité du contrat de bail lorsqu'il est établi que ce contrat a été obtenu au moyen de cette infraction et qu'il s'avère, par conséquent, nécessaire d'en prononcer la nullité afin d'effacer les conséquences de cette infraction; la déclaration de nullité du contrat de bail à titre de restitution n'est ainsi possible que lorsque l'habitation en location n'était pas conforme au moment où ce contrat a été conclu et dans la mesure où l'infraction déclarée établie porte également sur la location du logement non conforme à ce moment-là (1). (1) La jurisprudence est divisée concernant la nullité du contrat de bail comme restitution ordonnée par le juge pénal en matière de faits déclarés établis de logements insalubres ou de marchands de sommeil. Voir Gand, 10e Chambre, 17 décembre 2021, C/1678/2021, www.arrestendatabank.be ; Corr. Gand 24 juin 2008, R.W. 2008-9, 1697, avec la note de T. VANDROMME, « Verhuur van krotwoningen: opzet, verbeurdverklaring en nietigheid van de huurovereenkomst » (en faveur de la déclaration de nullité) et Bruxelles, 15e Chambre, 3 juin 2021, 855/2021, www.arrestendatabank.be (contra) ; T. VANDROMME, Woningkwaliteitsbewaking in het Vlaams Gewest, dans Recht&Praktijk, Kluwer, 2022, pp. 431-433. En matière d'infractions à la qualité d'habitat en Région flamande (article 3.34 du Code flamand du logement de 2021, anciennement l'article 20, § 1er, du Code flamand du logement), la réparation du logement, dans le sens où les manquements disparaissent, peut également constituer une forme de restitution dans l'intérêt du locataire. Voir Cass. 5 septembre 2023, RG P.23.0220.N, ECLI:BE:CASS:2023:ARR.20230905.2N.16, avec les concl. du MP ; Cass. 15 octobre 2013, RG P.12.1764.N, Pas. 2013, n° 522 ; Cass. 3 septembre 2013, RG P.12.1041.N, Pas. 2013, n° 414 ; T. VANDROMME, « Verhuur van krotwoningen », dans Comm. Straf. 2021, pp. 52-68. Par ailleurs, il est à souligner que le juge civil ne peut soulever d'office la nullité absolue du bail s'il s'avère que le bien loué ne répondait pas dès le début aux normes de qualité d'habitat consacrées dans le Code flamand du logement (Cass. 6 janvier 2022, RG C.21.0089.N, ECLI:BE:CASS:2022:ARR.20220106.1N.3, R.G.D.C. 2022, p. 438 avec la note de N. BERNARD « Insalubrité du logement : la ‘solution' de la nullité du bail poursuit son lent reflux » (pp. 438-444). (BDS)"
+      ],
       "abstractNL": [
         "De door artikel 44 Strafwetboek en de artikelen 161 en 189 Wetboek van Strafvordering bedoelde teruggave houdt, behalve het louter teruggeven van goederen die aan de eigenaar werden ontnomen en die in handen van het gerecht zijn gekomen, elke maatregel in die beoogt de materiële gevolgen van het bewezenverklaarde misdrijf teniet te doen, met als doel het herstel van de feitelijke toestand zoals die bestond vóór het plegen van het bewezenverklaarde misdrijf en dus de vrijwaring van het algemeen belang (1); indien een overeenkomst door een misdrijf werd verkregen en deze overeenkomst bijgevolg geen effect mag sorteren, kan de teruggave dan ook bestaan in een door de strafrechter uit te spreken nietigverklaring van die overeenkomst, welke retroactief werkt. (1) Cass. 27 februari 2018, AR P.17.0284.N, AC 2018, nr. 124; Cass. 10 juni 2014, AR P.14.0280.N, AC 2014, nr. 412; Cass. 3 september 2013, AR P.10.1836.N, AC 2013, nr. 413, RW 2015-16, 265, TRV 2016, 271; R. VERSTRAETEN, “De teruggave en het derdenverzet in strafzaken”, RW 1989-90, 157-159; A. VANDEPLAS, “Teruggave”, in Comm. Straf. 2003, 21p.; J. HUYSMANS, “”The criminal judge can do everything ...? De ruime draagwijdte van de teruggave (art. 44 Sw.) in strafzaken en de impact daarvan op de bevoegdheid van de strafrechter op burgerlijk gebied (275-278); J. RAEYMAKERS, “De rechtsfiguren van teruggave en toewijzing ten gunste van een benadeelde, onder meer als bijzondere modaliteiten van de verbeurdverklaring als bijkomende strafsanctie”, NC 2017, 446-470; N. DE VOS, “Bedrog bij de verkoop van zaken en de huur van werk”, in Comm. Straf. 2024, 41.",
-        "De rechter die een beklaagde veroordeelt op grond van het misdrijf van het verhuren van een niet-conforme woning zoals bedoeld in artikel 3.34 Vlaamse Codex Wonen van 2021, voorheen artikel 20, § 1, Vlaamse Wooncode, kan als vorm van teruggave in de zin van artikel 44 Strafwetboek de nietigverklaring van de huurovereenkomst uitspreken wanneer vaststaat dat die overeenkomst door dat misdrijf werd verkregen en de nietigverklaring ervan bijgevolg noodzakelijk is om de gevolgen van dat misdrijf ongedaan te maken; de nietigverklaring van de huurovereenkomst als vorm van teruggave is dan ook slechts mogelijk wanneer de verhuurde woning niet-conform was op het tijdstip dat die overeenkomst werd gesloten en het bewezenverklaarde misdrijf ook betrekking heeft op de verhuur van de niet-conforme woning op dit tijdstip (1). (1) Over de nietigheid van de huurovereenkomst als teruggave bevolen door de strafrechter in zaken van bewezen verklaarde feiten van krotwoningen of huisjesmelkerij bestond er verdeeldheid in de rechtspraak. Zie hof van beroep Gent, 10e Kamer, 17 december 2021, C/1678/2021, www.arrestendatabank.be; Corr. Gent 24 juni 2008, RW 2008-9, 1697, noot T. VANDROMME, “Verhuur van krotwoningen: opzet, verbeurdverklaring en nietigheid van de huurovereenkomst” (pro nietigverklaring) en hof van beroep te Brussel, 15e Kamer, 3 juni 2021, 855/2021, www.arrestendatabank.be (contra); T. VANDROMME, Woningkwaliteitsbewaking in het Vlaams Gewest, in Recht&Praktijk, Kluwer, 2022, 431-433. In zaken van inbreuken op de woningkwaliteit in het Vlaamse Gewest (artikel 3.34 Vlaamse Codex Wonen, voordien artikel 20, §1 Vlaamse Wooncode ) kan ook het herstel van de woning, in de zin van het wegwerken van gebreken, een vorm van teruggave zijn, die in het belang is van de huurder. Zie Cass. 5 september 2023, AR P.23.0220.N, AC 2023, nr. 529, met concl. OM; Cass. 15 oktober 2013, AR P.12.1764.N, AC 2013, nr. 522; Cass. 3 september 2013, AR P.12.1041.N, AC 2013, nr. 414; T. VANDROMME, “Verhuur van krotwoningen”, in Comm. Straf. 2021, 52-68. Verder is op te merken dat de burgerlijke rechter niet ambtshalve de absolute nietigheid kan opwerpen van een huurovereenkomst als blijkt dat bij aanvang de gehuurde woning niet voldeed aan de woonkwaliteitsnormen van de Vlaamse Wooncode (Cass. 6 januari 2022, C.21.0089.N, AC 2022, nr. 7, TBBR/RGDC 2022, 438 noot N. BERNARD “Insalubrité du logement : la ‘solution' de la nullité du bail poursuit son lent reflux” (438-444). (BDS)"
+        "De rechter die een beklaagde veroordeelt op grond van het misdrijf van het verhuren van een niet-conforme woning zoals bedoeld in artikel 3.34 Vlaamse Codex Wonen van 2021, voorheen artikel 20, § 1, Vlaamse Wooncode, kan als vorm van teruggave in de zin van artikel 44 Strafwetboek de nietigverklaring van de huurovereenkomst uitspreken wanneer vaststaat dat die overeenkomst door dat misdrijf werd verkregen en de nietigverklaring ervan bijgevolg noodzakelijk is om de gevolgen van dat misdrijf ongedaan te maken; de nietigverklaring van de huurovereenkomst als vorm van teruggave is dan ook slechts mogelijk wanneer de verhuurde woning niet-conform was op het tijdstip dat die overeenkomst werd gesloten en het bewezenverklaarde misdrijf ook betrekking heeft op de verhuur van de niet-conforme woning op dit tijdstip (1). (1) Over de nietigheid van de huurovereenkomst als teruggave bevolen door de strafrechter in zaken van bewezen verklaarde feiten van krotwoningen of huisjesmelkerij bestond er verdeeldheid in de rechtspraak. Zie hof van beroep Gent, 10e Kamer, 17 december 2021, C/1678/2021, www.arrestendatabank.be; Corr. Gent 24 juni 2008, RW 2008-9, 1697, noot T. VANDROMME, “Verhuur van krotwoningen: opzet, verbeurdverklaring en nietigheid van de huurovereenkomst” (pro nietigverklaring) en hof van beroep te Brussel, 15e Kamer, 3 juni 2021, 855/2021, www.arrestendatabank.be (contra); T. VANDROMME, Woningkwaliteitsbewaking in het Vlaams Gewest, in Recht&Praktijk, Kluwer, 2022, 431-433. In zaken van inbreuken op de woningkwaliteit in het Vlaamse Gewest (artikel 3.34 Vlaamse Codex Wonen, voordien artikel 20, §1 Vlaamse Wooncode ) kan ook het herstel van de woning, in de zin van het wegwerken van gebreken, een vorm van teruggave zijn, die in het belang is van de huurder. Zie Cass. 5 september 2023, AR P.23.0220.N, AC 2023, nr. 529, met concl. OM; Cass. 15 oktober 2013, AR P.12.1764.N, AC 2013, nr. 522; Cass. 3 september 2013, AR P.12.1041.N, AC 2013, nr. 414; T. VANDROMME, “Verhuur van krotwoningen”, in Comm. Straf. 2021, 52-68. Verder is op te merken dat de burgerlijke rechter niet ambtshalve de absolute nietigheid kan opwerpen van een huurovereenkomst als blijkt dat bij aanvang de gehuurde woning niet voldeed aan de woonkwaliteitsnormen van de Vlaamse Wooncode (Cass. 6 januari 2022, C.21.0089.N, AC 2022, nr. 7, TBBR/RGDC 2022, 438 noot N. BERNARD “Insalubrité du logement : la ‘solution' de la nullité du bail poursuit son lent reflux” (438-444). (BDS)",
+        "De door artikel 44 Strafwetboek en de artikelen 161 en 189 Wetboek van Strafvordering bedoelde teruggave houdt, behalve het louter teruggeven van goederen die aan de eigenaar werden ontnomen en die in handen van het gerecht zijn gekomen, elke maatregel in die beoogt de materiële gevolgen van het bewezenverklaarde misdrijf teniet te doen, met als doel het herstel van de feitelijke toestand zoals die bestond vóór het plegen van het bewezenverklaarde misdrijf en dus de vrijwaring van het algemeen belang (1); indien een overeenkomst door een misdrijf werd verkregen en deze overeenkomst bijgevolg geen effect mag sorteren, kan de teruggave dan ook bestaan in een door de strafrechter uit te spreken nietigverklaring van die overeenkomst, welke retroactief werkt. (1) Cass. 27 februari 2018, AR P.17.0284.N, AC 2018, nr. 124; Cass. 10 juni 2014, AR P.14.0280.N, AC 2014, nr. 412; Cass. 3 september 2013, AR P.10.1836.N, AC 2013, nr. 413, RW 2015-16, 265, TRV 2016, 271; R. VERSTRAETEN, “De teruggave en het derdenverzet in strafzaken”, RW 1989-90, 157-159; A. VANDEPLAS, “Teruggave”, in Comm. Straf. 2003, 21p.; J. HUYSMANS, \"The criminal judge can do everything ...? De ruime draagwijdte van de teruggave (art. 44 Sw.) in strafzaken en de impact daarvan op de bevoegdheid van de strafrechter op burgerlijk gebied (275-278)\"; J. RAEYMAKERS, “De rechtsfiguren van teruggave en toewijzing ten gunste van een benadeelde, onder meer als bijzondere modaliteiten van de verbeurdverklaring als bijkomende strafsanctie”, NC 2017, 446-470; N. DE VOS, “Bedrog bij de verkoop van zaken en de huur van werk”, in Comm. Straf. 2024, 41."
       ]
     },
     "ECLI:BE:CASS:2013:ARR.20130903.6": {
@@ -10797,8 +10789,12 @@
       "court": "CASS",
       "date": "2011-05-24",
       "roleNumber": "P.11.0070.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/24/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2011/05/24/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/07/15/sitemap_1.xml"
       ],
       "abstractFR": [
         "En matière correctionnelle ou de police, l'ordonnance de renvoi rendue par une juridiction d'instruction ou la citation à comparaître devant la juridiction de jugement saisissent les juridictions de jugement non de la qualification qui y figure, mais des faits tels qu'ils ressortent des pièces de l'instruction ou de l'information et qui fondent l'ordonnance ou la citation; cette qualification est essentiellement provisoire et la juridiction de jugement, même en degré d'appel, a le droit et le devoir, moyennant le respect des droits de la défense, de donner aux faits mis à charge leur qualification exacte et elle peut, pour ce faire, adapter, corriger et compléter les indications des préventions, mais doit alors se limiter aux faits commis, tels qu'ils ont été déterminés ou visés dans l'acte de saisine (1). (1) Cass. 23 septembre 1987, RG 6005, Pas., 1988, n° 51; Cass. 8 décembre 1992, RG 5908, Pas., 1992, n° 774; Cass. 7 septembre 1994, RG P.94.1051.F, Pas., 1994, n° 364; Cass. 28 janvier 1997, RG P.96.0039.N, Pas., 1997, n° 51; Cass. 25 novembre 1997, RG P.95.1350.N, Pas., 1997, n° 500; Cass. 21 juin 2000, RG P.00.0446.F, Pas., 2000, n° 389; Cass. 23 octobre 2002, RG P.02.0958.F, Pas., 2002, n° 561; Cass. 13 septembre 2005, RG P.05.0657.N, Pas., 2005, n° 430; Cass. 5 septembre 2006, RG P.06.0649.N, Pas., 2006, n° 389, avec la note de M.T.; Cass. 20 février 2007, RG P.06.1377.N, Pas., 2007, n° 104."
@@ -12009,6 +12005,23 @@
       "abstractNL": [
         "Het hof van beroep dat niet bevolen heeft dat de beklaagde in persoon zou verschijnen, overeenkomstig alinéa 3 van artikel 185 van het Wetboek van strafvordering, kan niet wettelijk bij verstek uitspraak doen ten opzichte van de beklaagde, die gebruik gemaakt heeft van het recht zich door een advocaat, houder der stukken, te laten vertegenwoordigen, waartoe hij gerechtigd is krachtens bedoeld artikel 185, gewijzigd bij artikel 2 van de wet van 16 februari 1961, bepaling welke door artikel 211 van hetzelfde wetboek toepasselijk wordt gemaakt in strafzaken op het onderzoek van de voor het hof van beroep gebrachte zaken, onder meer in zaken betreffende wanbedrijven waarop geen hoofdgevangenisstraf is gesteld."
       ]
+    },
+    "ECLI:BE:CASS:1999:ARR.19990608.5": {
+      "court": "CASS",
+      "date": "1999-06-08",
+      "roleNumber": "P.97.1104.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le droit d'un prévenu de se défendre avec l'assistance d'un conseil de son choix, lors de la procédure sur opposition, implique que, nonobstant l'obligation de comparaître en personne imposée au prévenu, le juge répressif doit autoriser le conseil à représenter son client, même si ce dernier n'établit pas qu'il est dans l'impossibilité de comparaître en personne."
+      ],
+      "abstractNL": [
+        "Het recht van een beklaagde om zich, op verzet, te verdedigen met de bijstand van een raadsman naar zijn keuze, houdt in dat de strafrechter, niettegenstaande de aan de beklaagde opgelegde verplichting om persoonlijk te verschijnen, de raadsman moet toelaten zijn cliënt te vertegenwoordigen, ook al toont deze niet aan dat het hem onmogelijk is persoonlijk te verschijnen."
+      ]
     }
   },
   "186": {
@@ -12348,12 +12361,16 @@
       "court": "CASS",
       "date": "2024-02-21",
       "roleNumber": "P.23.1741.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/12/04/sitemap_23.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/23/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1346.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1346.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/05/03/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/05/03/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_8.xml"
       ],
       "abstractFR": [
         "Le délai extraordinaire d'opposition, qui prend cours à partir du moment où le condamné aura eu connaissance de la signification de la décision rendue par défaut, ne court pas si la signification de la décision rendue par défaut n'est pas régulière et à cet égard, l'article 6.1 de la Convention impose que la signification mentionne le droit de former opposition ainsi que le délai imparti pour l'exercer ; de la seule circonstance qu'à la demande du ministère public, la police a informé le prévenu du fait que la signification du jugement l'ayant condamné par défaut avait eu lieu précédemment, sans qu'il soit constaté qu'à l'occasion de cette démarche de la police, l'intéressé soit a reçu la copie de cet acte précisant les formes et délais à observer en vue de former opposition, soit a été autrement informé de ces formes et délais, les juges d'appel n'ont pu déduire que l'opposition était tardive (1). (1) Cour eur. D.H., Faniel c. Belgique, 1er mars 2011, J.L.M.B., 2011, p. 788, note P. THEVISSEN, « La notification des règles d'opposition comme condition du procès équitable », T. Strafr., 2011, p. 189, note C. VAN DEUREN, « Informatieplicht omtrent rechtsmiddelen veralgemeend » ; Cass., 23 février 2021, RG P.20.1146.N, Pas. 2021, n° 132, T. Strafr., 2021, p. 237."
@@ -13107,10 +13124,14 @@
       "court": "CASS",
       "date": "2020-11-03",
       "roleNumber": "P.20.0713.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_216.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/04/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/11/03/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/11/03/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/22/sitemap_4.xml"
       ],
       "abstractFR": [
         "Lorsque, sur l'appel dirigé par une partie contre la décision par laquelle son opposition formée contre un jugement rendu par défaut est déclarée non avenue, la juridiction d'appel se prononce tant sur cette décision de déclarer l'opposition non avenue que sur le jugement rendu par défaut lui-même, cette partie jouit du bénéfice d'une double instance; le droit à une double instance, tel qu'il est garanti par les articles 2, § 1er, du Protocole additionnel n° 7 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et 14, § 5, du Pacte international relatif aux droits civils et politiques, ne requiert pas que la juridiction d'appel qui décide que le premier juge a déclaré, à tort, l'opposition non avenue, renvoie la cause au premier juge afin qu'elle soit à nouveau examinée par ce juge (1). (1) Cass. 27 février 2018, RG P.17.0618.N, Pas. 2018, n° 127, R.W. 2017-2018, 1657 avec la note S. VAN OVERBEKE, \"Hoger beroep tegen een ongedaan verzet: het grievenstelsel buiten spel\" ; voir C. const. 26 septembre 2019, arrêt n° 123/2019."
@@ -13237,10 +13258,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Pour faire valoir sa prétention sur les biens confisqués, le tiers peut former devant le juge pénal un recours contre la décision ayant ordonné la confiscation, c'est-à-dire selon le cas, par la voie de l'opposition, de l'appel ou du pourvoi en cassation ; en ce sens, le tiers devient de plein droit partie à la procédure pénale ensuite de la confiscation et dispose des mêmes voies de recours que celles généralement ouvertes aux parties à la procédure ; aucune violation d'un quelconque droit du tiers ne peut être déduite du fait qu'il est tenu de prendre lui-même l'initiative pour faire valoir ses prétentions ; de surcroît, rien n'empêche que la voie de recours ouverte au tiers après qu'il a été informé de la décision de confiscation soit soumise à des restrictions raisonnables ; la circonstance qu'un tiers puisse être préjudicié par la confiscation ordonnée à charge d'un prévenu est, en tant que telle, sans incidence sur le fait que cette peine est infligée non pas au tiers lui-même, mais uniquement au prévenu, à titre de sanction d'une infraction déclarée établie à sa charge ; par conséquent, cette confiscation n'implique pas la méconnaissance de la présomption d'innocence du tiers et les dispositions qui valent spécifiquement à l'égard du prévenu, telles que l'article 6, § 3, a, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou l'article 195, alinéa 1er, du Code d'instruction criminelle, ne sont pas applicables en tant que telles à l'égard de ce tiers ; cela n'exclut toutefois pas que ce tiers puisse généralement faire valoir le respect de la présomption d'innocence, le droit à un procès équitable et les droits de la défense, en ce compris le droit au contradictoire (1). (1) Voir les concl. du MP publiées à leur date dans AC.",
@@ -14193,11 +14218,16 @@
       "court": "CASS",
       "date": "2010-09-14",
       "roleNumber": "P.10.1068.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/09/14/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2010/09/14/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_5.xml"
       ],
       "abstractFR": [
-        "L'article 235ter du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence clairement délimitée d'examiner, à la seule lumière du dossier confidentiel, s'il n'y a pas eu violation inadmissible des droits fondamentaux de l'inculpé lors de la mise en oeuvre des méthodes particulières de recherche d'observation et d'infiltration, sans que l'examen exercé en application de cette disposition légale n'intègre également le contrôle de la régularité ou de la légalité de l'ensemble des actes de recherche d'observation et d'infiltration; sa décision n'a valeur que de garantie et, même si celle-ci revêt également un caractère juridique, la chambre des mises en accusation n'intervient pas en tant que juridiction de jugement, mais en tant que juridiction d'instruction, de sorte que cette décision ne peut faire l'objet d'aucune opposition (1). (1) Voir Cass., 20 avril 2010, RG P.10.0128.N, Pas., 2010, n° ..."
+        "L'article 235ter du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence clairement délimitée d'examiner, à la seule lumière du dossier confidentiel, s'il n'y a pas eu violation inadmissible des droits fondamentaux de l'inculpé lors de la mise en oeuvre des méthodes particulières de recherche d'observation et d'infiltration, sans que l'examen exercé en application de cette disposition légale n'intègre également le contrôle de la régularité ou de la légalité de l'ensemble des actes de recherche d'observation et d'infiltration; sa décision n'a valeur que de garantie et, même si celle-ci revêt également un caractère juridique, la chambre des mises en accusation n'intervient pas en tant que juridiction de jugement, mais en tant que juridiction d'instruction, de sorte que cette décision ne peut faire l'objet d'aucune opposition (1). (1) Voir Cass., 20 avril 2010, RG P.10.0128.N, Pas., 2010, n° ...",
+        "L'article 235ter du Code d'instruction criminelle confère à la chambre des mises en accusation la compétence clairement délimitée d'examiner, à la seule lumière du dossier confidentiel, s'il n'y a pas eu violation inadmissible des droits fondamentaux de l'inculpé lors de la mise en auvre des méthodes particulières de recherche d'observation et d'infiltration, sans que l'examen exercé en application de cette disposition légale n'intègre également le contrôle de la régularité ou de la légalité de l'ensemble des actes de recherche d'observation et d'infiltration; sa décision n'a valeur que de garantie et, même si celle-ci revêt également un caractère juridique, la chambre des mises en accusation n'intervient pas en tant que juridiction de jugement, mais en tant que juridiction d'instruction, de sorte que cette décision ne peut faire l'objet d'aucune opposition (1). (1) Voir Cass., 20 avril 2010, RG P.10.0128.N, Pas., 2010, n° ..."
       ],
       "abstractNL": [
         "Artikel 235ter Wetboek van Strafvordering verleent de kamer van inbeschuldigingstelling de duidelijk afgelijnde bevoegdheid om uitsluitend aan de hand van het vertrouwelijke dossier te onderzoeken of de grondrechten van de inverdenkinggestelde bij de aanwending van de bijzondere opsporingsmethoden observatie en infiltratie niet op ontoelaatbare wijze zijn miskend, zonder dat het onderzoek bij toepassing van die wetsbepaling ook de controle van de regelmatigheid of de wettigheid van de onderzoekshandelingen observatie en infiltratie in hun geheel omvat; haar uitspraak heeft enkel een behoedend karakter, en alhoewel haar beslissing ook een gerechtelijk karakter heeft, treedt zij niet op als vonnisgerecht maar als onderzoeksgerecht zodat tegen dergelijke beslissing geen verzet mogelijk is (1). (1) Zie Cass., 20 april 2010, AR P.10.0128.N, A.C., 2010, nr. ..."
@@ -18847,10 +18877,14 @@
       "court": "CASS",
       "date": "2024-06-25",
       "roleNumber": "P.24.0211.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1813.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1813.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/15/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/15/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/14/sitemap_1.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -22441,11 +22475,18 @@
       "court": "CASS",
       "date": "2021-10-26",
       "roleNumber": "P.21.0958.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/08/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/26/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/26/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_2.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Il résulte des articles 3, alinéa 4, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation et 195, alinéa 2, du Code d'instruction criminelle, que, s'il rejette une demande visant la suspension du prononcé de la condamnation, le juge doit indiquer dans sa décision avoir pris cette demande en considération et les motifs de celle-ci, et qu'il doit énoncer précisément les raisons de ce refus, cette motivation pouvant être succincte (1). (1) Voir les concl. du MP.",
+        "De la lecture conjointe des articles 149 de la Constitution, 3 de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation et 195 du Code d'instruction criminelle, il résulte que, lorsqu'un prévenu invoque des éléments concrets concernant les conséquences d'une peine sur son reclassement pour étayer sa demande de suspension du prononcé de la condamnation, la décision judiciaire doit révéler avoir trouvé un équilibre entre, d'une part, la gravité des faits à examiner et la personnalité du prévenu et, d'autre part, les effets négatifs d'une sanction effective ou non sur son reclassement et sa réinsertion (1). (1) Voir les concl. du MP."
+      ],
       "abstractNL": [
         "Uit artikel 3, vierde lid, Probatiewet en artikel 195, tweede lid, Wetboek van Strafvordering volgt dat indien de rechter een verzoek om de opschorting van de uitspraak van veroordeling afwijst, uit zijn beslissing moet blijken dat hij dit verzoek en de stavende redenen daartoe in aanmerking heeft genomen en hij nauwkeurig de redenen vermeldt voor de weigeringsbeslissing, maar die motivering mag beknopt zijn (1). (1) Zie concl. OM.",
         "Uit de samenlezing van artikel 149 Grondwet, artikel 3 Probatiewet en artikel 195 Wetboek van Strafvordering volgt dat indien een beklaagde ter staving van zijn verzoek om opschorting van de uitspraak van veroordeling concrete elementen aanvoert betreffende de gevolgen van een straf voor zijn reclassering, uit de rechterlijke beslissing een afweging moet blijken tussen eensdeels de zwaarwichtigheid van de te beoordelen feiten en de persoonlijkheid van de beklaagde en anderdeels de nadelige effecten van een al dan niet effectieve bestraffing voor zijn reclassering en resocialisering (1). (1) Zie concl. OM."
@@ -22731,10 +22772,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Pour faire valoir sa prétention sur les biens confisqués, le tiers peut former devant le juge pénal un recours contre la décision ayant ordonné la confiscation, c'est-à-dire selon le cas, par la voie de l'opposition, de l'appel ou du pourvoi en cassation ; en ce sens, le tiers devient de plein droit partie à la procédure pénale ensuite de la confiscation et dispose des mêmes voies de recours que celles généralement ouvertes aux parties à la procédure ; aucune violation d'un quelconque droit du tiers ne peut être déduite du fait qu'il est tenu de prendre lui-même l'initiative pour faire valoir ses prétentions ; de surcroît, rien n'empêche que la voie de recours ouverte au tiers après qu'il a été informé de la décision de confiscation soit soumise à des restrictions raisonnables ; la circonstance qu'un tiers puisse être préjudicié par la confiscation ordonnée à charge d'un prévenu est, en tant que telle, sans incidence sur le fait que cette peine est infligée non pas au tiers lui-même, mais uniquement au prévenu, à titre de sanction d'une infraction déclarée établie à sa charge ; par conséquent, cette confiscation n'implique pas la méconnaissance de la présomption d'innocence du tiers et les dispositions qui valent spécifiquement à l'égard du prévenu, telles que l'article 6, § 3, a, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou l'article 195, alinéa 1er, du Code d'instruction criminelle, ne sont pas applicables en tant que telles à l'égard de ce tiers ; cela n'exclut toutefois pas que ce tiers puisse généralement faire valoir le respect de la présomption d'innocence, le droit à un procès équitable et les droits de la défense, en ce compris le droit au contradictoire (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -23495,8 +23540,12 @@
       "court": "CASS",
       "date": "2016-10-26",
       "roleNumber": "P.16.0288.F-P.16.0290.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/26/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/26/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/22/sitemap_2.xml"
       ],
       "abstractFR": [
         "Aucune disposition légale n'oblige le juge répressif à indiquer les articles sur la base desquels une condamnation civile est prononcée.",
@@ -24676,6 +24725,9 @@
       "court": "CASS",
       "date": "2026-05-05",
       "roleNumber": "P.26.0169.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/12/sitemap_47.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/18/sitemap_5.xml"
@@ -25333,10 +25385,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Pour faire valoir sa prétention sur les biens confisqués, le tiers peut former devant le juge pénal un recours contre la décision ayant ordonné la confiscation, c'est-à-dire selon le cas, par la voie de l'opposition, de l'appel ou du pourvoi en cassation ; en ce sens, le tiers devient de plein droit partie à la procédure pénale ensuite de la confiscation et dispose des mêmes voies de recours que celles généralement ouvertes aux parties à la procédure ; aucune violation d'un quelconque droit du tiers ne peut être déduite du fait qu'il est tenu de prendre lui-même l'initiative pour faire valoir ses prétentions ; de surcroît, rien n'empêche que la voie de recours ouverte au tiers après qu'il a été informé de la décision de confiscation soit soumise à des restrictions raisonnables ; la circonstance qu'un tiers puisse être préjudicié par la confiscation ordonnée à charge d'un prévenu est, en tant que telle, sans incidence sur le fait que cette peine est infligée non pas au tiers lui-même, mais uniquement au prévenu, à titre de sanction d'une infraction déclarée établie à sa charge ; par conséquent, cette confiscation n'implique pas la méconnaissance de la présomption d'innocence du tiers et les dispositions qui valent spécifiquement à l'égard du prévenu, telles que l'article 6, § 3, a, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou l'article 195, alinéa 1er, du Code d'instruction criminelle, ne sont pas applicables en tant que telles à l'égard de ce tiers ; cela n'exclut toutefois pas que ce tiers puisse généralement faire valoir le respect de la présomption d'innocence, le droit à un procès équitable et les droits de la défense, en ce compris le droit au contradictoire (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -28486,10 +28542,14 @@
       "court": "CASS",
       "date": "2022-10-04",
       "roleNumber": "P.22.0582.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_68.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_68.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/08/sitemap_3.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -28750,10 +28810,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Pour faire valoir sa prétention sur les biens confisqués, le tiers peut former devant le juge pénal un recours contre la décision ayant ordonné la confiscation, c'est-à-dire selon le cas, par la voie de l'opposition, de l'appel ou du pourvoi en cassation ; en ce sens, le tiers devient de plein droit partie à la procédure pénale ensuite de la confiscation et dispose des mêmes voies de recours que celles généralement ouvertes aux parties à la procédure ; aucune violation d'un quelconque droit du tiers ne peut être déduite du fait qu'il est tenu de prendre lui-même l'initiative pour faire valoir ses prétentions ; de surcroît, rien n'empêche que la voie de recours ouverte au tiers après qu'il a été informé de la décision de confiscation soit soumise à des restrictions raisonnables ; la circonstance qu'un tiers puisse être préjudicié par la confiscation ordonnée à charge d'un prévenu est, en tant que telle, sans incidence sur le fait que cette peine est infligée non pas au tiers lui-même, mais uniquement au prévenu, à titre de sanction d'une infraction déclarée établie à sa charge ; par conséquent, cette confiscation n'implique pas la méconnaissance de la présomption d'innocence du tiers et les dispositions qui valent spécifiquement à l'égard du prévenu, telles que l'article 6, § 3, a, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou l'article 195, alinéa 1er, du Code d'instruction criminelle, ne sont pas applicables en tant que telles à l'égard de ce tiers ; cela n'exclut toutefois pas que ce tiers puisse généralement faire valoir le respect de la présomption d'innocence, le droit à un procès équitable et les droits de la défense, en ce compris le droit au contradictoire (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -31640,10 +31704,14 @@
       "court": "CASS",
       "date": "2022-10-04",
       "roleNumber": "P.22.0582.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_68.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_68.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/08/sitemap_3.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -31908,9 +31976,13 @@
       "court": "CASS",
       "date": "2017-10-25",
       "roleNumber": "P.17.0898.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/08/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/10/25/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/10/25/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/22/sitemap_1.xml"
       ],
       "abstractFR": [
         "Il suit de laarticle 2.1 du Protocole n° 7 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales que le législateur national dispose daun large pouvoir d'appréciation pour organiser la mise en auvre du droit d'appel, notamment pour en fixer les conditions de recevabilité, pour autant que ces conditions soient légitimes et ne reviennent pas à porter atteinte à la substance même de ce droit (1). (1) Cour eur. D.H., Kaufmann c. Italie, 19 mai 2005, § 31; Cour eur. D.H., Regalova c. République tchèque, 3 juillet 2008, § 31.",
@@ -32055,10 +32127,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Pour faire valoir sa prétention sur les biens confisqués, le tiers peut former devant le juge pénal un recours contre la décision ayant ordonné la confiscation, c'est-à-dire selon le cas, par la voie de l'opposition, de l'appel ou du pourvoi en cassation ; en ce sens, le tiers devient de plein droit partie à la procédure pénale ensuite de la confiscation et dispose des mêmes voies de recours que celles généralement ouvertes aux parties à la procédure ; aucune violation d'un quelconque droit du tiers ne peut être déduite du fait qu'il est tenu de prendre lui-même l'initiative pour faire valoir ses prétentions ; de surcroît, rien n'empêche que la voie de recours ouverte au tiers après qu'il a été informé de la décision de confiscation soit soumise à des restrictions raisonnables ; la circonstance qu'un tiers puisse être préjudicié par la confiscation ordonnée à charge d'un prévenu est, en tant que telle, sans incidence sur le fait que cette peine est infligée non pas au tiers lui-même, mais uniquement au prévenu, à titre de sanction d'une infraction déclarée établie à sa charge ; par conséquent, cette confiscation n'implique pas la méconnaissance de la présomption d'innocence du tiers et les dispositions qui valent spécifiquement à l'égard du prévenu, telles que l'article 6, § 3, a, de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou l'article 195, alinéa 1er, du Code d'instruction criminelle, ne sont pas applicables en tant que telles à l'égard de ce tiers ; cela n'exclut toutefois pas que ce tiers puisse généralement faire valoir le respect de la présomption d'innocence, le droit à un procès équitable et les droits de la défense, en ce compris le droit au contradictoire (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -35358,10 +35434,14 @@
       "court": "CASS",
       "date": "2022-10-04",
       "roleNumber": "P.22.0582.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_68.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_68.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/10/04/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/08/sitemap_3.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
@@ -41625,22 +41705,6 @@
       ]
     }
   },
-  "235": {
-    "ECLI:BE:CASS:2025:ARR.20250603.2N.5": {
-      "court": "CASS",
-      "date": "2025-06-03",
-      "roleNumber": "P.24.1485.N",
-      "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_35.xml"
-      ],
-      "abstractFR": [
-        "Il résulte des articles 130, 131, § 1er, 135, § 2 et § 3, 235bis, §§ 1er, 2 et 5, et 235 du Code d'instruction criminelle, lus conjointement, que, bien que la chambre des mises en accusation ne se prononce, en principe, pas sur les charges retenues par la chambre du conseil sur l'appel formé par un inculpé contre une ordonnance de renvoi, ses décisions rendues sur le bien-fondé dudit appel et sur l'éventuelle application d'office des compétences que lui confèrent les articles 235 et 235bis, § 5, du Code d'instruction criminelle, peuvent néanmoins avoir une incidence sur l'issue de l'action publique et sur l'existence des charges retenues par la chambre du conseil, de sorte que la juridiction de jugement, saisie de la cause, ne peut exercer son pouvoir juridictionnel qu'après avoir pris connaissance de la décision de la chambre des mises en accusation ; il en résulte que, lorsque la chambre des mises en accusation statue sur l'appel formé par un inculpé contre la décision de la chambre du conseil qui le renvoie devant la juridiction de jugement, l'action publique est pendante devant la juridiction de jugement par l'arrêt de cette chambre, au sens de l'article 23 du Titre préliminaire du Code de procédure pénale, dans la mesure où elle déclare recevable l'appel interjeté par l'inculpé (1) (2). (1) Voir concl. du MP. (2) L'article 23 du Titre préliminaire du Code de procédure pénale, tel que remplacé par l'article 35 de la loi du 9 avril 2024 sur le droit de la procédure pénale I (M.B. 18 avril 2024)."
-      ],
-      "abstractNL": [
-        "Uit de bepalingen van artikelen 130, 131, § 1, 135, § 2 en § 3, 235bis, § 1, § 2 en § 5 en 235 Wetboek van Strafvordering, in hun onderling verband gelezen, volgt dat, hoewel de kamer van inbeschuldigingstelling zich op het hoger beroep van een inverdenkinggestelde tegen een verwijzingsbeschikking in beginsel niet uitspreekt over de door de raadkamer aangenomen bezwaren, haar beslissingen over de gegrondheid van dat hoger beroep en over de eventuele ambtshalve toepassing van de haar door de artikelen 235 en 235bis, § 5, Wetboek van Strafvordering toebedeelde bevoegdheden niettemin een impact kunnen hebben op het lot van de strafvordering en op het bestaan van de door de raadkamer aangenomen bezwaren, zodat de vonnisrechter zijn rechtsmacht ingevolge de aanhangigmaking van de zaak slechts kan uitoefenen na kennis te hebben genomen van de beslissing van de kamer van inbeschuldigingstelling; hieruit volgt dat, wanneer de kamer van inbeschuldigingstelling oordeelt over het hoger beroep van een inverdenkinggestelde tegen de beslissing van de raadkamer die hem naar de vonnisrechter verwijst, de strafvordering in de zin van artikel 23 Voorafgaande Titel Wetboek van Strafvordering slechts bij de vonnisrechter aanhangig wordt gemaakt door het arrest van die kamer, in zoverre zij het hoger beroep van de inverdenkinggestelde ontvankelijk verklaart (1) (2). (1) Zie concl. OM. (2) Art. 23 Voorafgaande Titel Wetboek van Strafvordering zoals vervangen door art. 35 van de Wet Strafprocesrechter I van 9 april 2024 (BS 18 april 2024)."
-      ]
-    }
-  },
   "162bis": {
     "ECLI:BE:CASS:2025:ARR.20250225.2N.10": {
       "court": "CASS",
@@ -42093,8 +42157,12 @@
       "court": "CASS",
       "date": "2016-10-26",
       "roleNumber": "P.16.0288.F-P.16.0290.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/26/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2016/10/26/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/22/sitemap_2.xml"
       ],
       "abstractFR": [
         "Lorsqu'il se borne à condamner une partie au montant de base de l'indemnité de procédure, le juge répressif n'est pas tenu d'indiquer les dispositions légales sur la base desquelles cette condamnation est prononcée ni de motiver spécialement sa décision.",
@@ -42541,8 +42609,12 @@
       "court": "CASS",
       "date": "2009-06-09",
       "roleNumber": "P.07.1673.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2009/06/09/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_8.xml"
       ],
       "abstractFR": [
         "L'objectif du contrôle de la régularité des méthodes particulières de recherche d'observation et d'infiltration à la lumière du dossier confidentiel que prescrit l'article 235ter du Code d'instruction criminelle est de garantir le droit à un procès équitable consacré par l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales et profite dès lors à l'inculpé, de sorte que l'inculpé qui n'invoque pas de griefs contre la décision selon laquelle les méthodes particulières de recherche sont régulières n'a pas intérêt à s'opposer à la décision par laquelle la chambre des mises en accusation se déclare compétente pour effectuer le contrôle demandé de la méthode particulière de recherche d'observation et son pourvoi en cassation est dès lors irrecevable à défaut d'intérêt (1). (1) Voir les conclusions du M.P. publiées à leur date dans A.C. (2) Le M.P. a également conclu au rejet des pourvois, mais était d'avis que l'irrecevabilité à défaut d'intérêt ne pouvait concerner que les moyens de cassation invoqués et non les pourvois en cassation mêmes. Ayant déjà par le passé décidé à plusieurs reprises, conformément à la jurisprudence de la Cour constitutionnelle, à la recevabilité in abstracto du pourvoi en cassation immédiat formé contre un arrêt de la chambre des mises en accusation qui contrôle la régularité des méthodes particulières de recherche d'observation et d'infiltration en application de l'article 235ter du Code d'instruction criminelle, la Cour décide en l'espèce que les pourvois en cassation sont irrecevables in concreto à défaut d'intérêt."
@@ -44827,10 +44899,14 @@
       "court": "CASS",
       "date": "2022-06-29",
       "roleNumber": "P.22.0688.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/08/30/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/29/sitemap_14.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/06/29/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/06/29/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/23/sitemap_1.xml"
       ],
       "abstractFR": [
         "Il suit de l'article 216bis, § 1er, du Code d'instruction criminelle que lorsque le délai indiqué par le procureur du Roi qui a proposé une transaction pénale est dépassé, l'obstacle à l'introduction ou à l'exercice de l'action publique qui résulte de la proposition de transaction cesse d'exister; le ministère public retrouve alors l'ensemble de ses prérogatives en vue de l'exercice des poursuites; partant, lorsque le procureur du Roi a proposé une transaction pénale, le non-paiement de la somme d'argent à l'échéance qu'il a fixée, et qui n'a pas été prolongée, entraîne le constat de la « non mise en œuvre » de la transaction et la fin de la suspension de la prescription de l'action publique prévue à l'alinéa 4 de cette disposition (1). (1) Cass. 15 septembre 2021, RG P.21.0822.F, Pas. 2021, n° 557, et concl. du MP. (décision implicite mais certaine vu ces conclusions, qui proposaient de ne pas prendre d'office le moyen figurant dans l'acte de pourvoi). À la lumière de la ratio legis rappelée dans lesdites conclusions, les juges d'appel ont considéré que le constat de la non mise en œuvre de la transaction est constitué par le défaut de paiement des transactions le 18 juillet 2018, fin du délai imparti par la proposition de transaction du 28 juin 2018, qui indique ainsi la date à laquelle la suspension cessera à défaut de paiement. Comme dans l'affaire précédente, les juges d'appel ont ajouté que dès lors que, par son inaction, le défendeur a clairement marqué son souhait de ne pas accepter la proposition de transaction, il ne peut être question de permettre au ministère public de prolonger unilatéralement et artificiellement, ad nutum, le délai de suspension de la prescription de l'action publique par le biais de l'envoi de rappels octroyant des délais supplémentaires pour payer la transaction. Et de ce qui précède, le M.P. a lui aussi déduit que le législateur n'a pas voulu permettre une telle prolongation ad nutum de cette suspension par l'effet de ces rappels, qui pourraient sinon dans un cas extrême aboutir à l'imprescriptibilité de la prévention. (M.N.B.)"
@@ -44859,8 +44935,12 @@
       "court": "CASS",
       "date": "2021-09-15",
       "roleNumber": "P.21.0446.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/15/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/16/sitemap_3.xml"
       ],
       "abstractFR": [
         "Aucune disposition légale ne prévoit en faveur de la victime de l'infraction le droit de former un appel contre l'ordonnance homologuant la transaction proposée par le procureur du Roi. (solution implicite)."

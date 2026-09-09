@@ -1,0 +1,21 @@
+{
+  "1": {
+    "ECLI:BE:CASS:2008:ARR.20081201.1": {
+      "court": "CASS",
+      "date": "2008-12-01",
+      "roleNumber": "S.07.0116.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2008/12/01/sitemap_8.xml"
+      ],
+      "abstractFR": [
+        "La confirmation de l'arrêté royal du 3 juillet 2005 relatif à l'entrée en vigueur des articles 81 et 82 de la loi du 26 juin 2002 relative aux fermetures d'entreprises par l'article 69 de la loi du 8 juin 2008 portant des dispositions diverses (I), entré en vigueur le 1er juillet 2005 conformément à l'article 70 de la loi précitée, a eu pour effet de conférer force de loi aux dispositions de l'arrêté royal précité et d'obliger la Cour à appliquer ces dispositions (1). (1) Voir les conclusions du ministère public publiées avant cet arrêt dans A.C."
+      ],
+      "abstractNL": [
+        "De bekrachtiging van het koninklijk besluit van 3 juli 2005 door artikel 69 van de wet van 8 juni 2008, met uitwerking krachtens artikel 70 op 1 juli 2005, heeft tot gevolg dat de bepalingen van dit koninklijk besluit kracht van wet hebben vanaf 1 juli 2005 en door het Hof dienen te worden toegepast (1). (1) Zie de conclusie van het O.M.."
+      ]
+    }
+  }
+}

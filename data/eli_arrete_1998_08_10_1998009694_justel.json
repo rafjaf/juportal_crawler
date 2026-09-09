@@ -1,0 +1,21 @@
+{
+  "6": {
+    "ECLI:BE:CASS:2005:ARR.20051128.3": {
+      "court": "CASS",
+      "date": "2005-11-28",
+      "roleNumber": "C050013F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2005/11/28/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Manque en droit le moyen qui soutient que, lorsqu'un ensemble d'immeubles indivisiblement grevé d'hypothèques ou de privilèges immobiliers doit être vendu en plusieurs lots, le barème particulier suivant un pourcentage dégressif par tranches successives doit être appliqué sur le produit de l'ensemble de ces ventes en non distinctement sur celui de chacune de celles-ci."
+      ],
+      "abstractNL": [
+        "Het middel faalt naar recht, wanneer het betoogt dat, als een geheel van onroerende goederen, dat ondeelbaar bezwaard is met hypotheken of onroerende voorrechten, in verschillende loten verkocht moet worden, een bijzonder barema volgens een degressief percentage op opeenvolgende schijven moet worden toegepast op de opbrengst van het geheel van die verkopen en niet op de opbrengst van elke verkoop afzonderlijk."
+      ]
+    }
+  }
+}

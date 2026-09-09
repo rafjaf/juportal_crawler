@@ -3340,6 +3340,22 @@
         "La signature du testateur, au sens de l'article 970 du Code civil, est la marque manuscrite par laquelle le testateur révèle habituellement sa personnalité au tiers."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.2": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.24.0155.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_39.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_34.xml"
+      ],
+      "abstractFR": [
+        "L'apposition par l'auteur d'un testament olographe de sa signature sur celui-ci atteste par elle-même qu'il est bien l'expression de sa volonté (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "971": {
@@ -3805,12 +3821,19 @@
       "court": "CASS",
       "date": "2025-05-19",
       "roleNumber": "C.24.0272.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2970.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2970.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_35.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Un testament doit en principe être révoqué de manière expresse par un acte juridique solennel, tel que prévu à l'article 1035 de l'ancien Code civil, et ne peut être révoqué de manière tacite qu'à titre exceptionnel, dans les cas visés aux articles 1036 et 1038 dudit code ; dans ces cas, le législateur attache une présomption de changement certain définitif de volonté du testateur à des actes bien précis posés par le testateur, à savoir la prise de nouvelles dispositions testamentaires contraires ou incompatibles avec les précédentes ou l'aliénation du bien légué.",
+        "Le caractère formel essentiel de la révocation du testament et la nature exceptionnelle des cas de révocation tacite prévus par la loi excluent que le juge présume un changement certain définitif de volonté du testateur chaque fois que ce dernier, après avoir rédigé son testament, pose des actes incompatibles avec le contenu de la libéralité."
+      ],
       "abstractNL": [
         "De herroeping van een testament dient in beginsel uitdrukkelijk te gebeuren in een plechtige rechtshandeling, zoals bepaald in artikel 1035 Oud Burgerlijk Wetboek, en kan slechts uitzonderlijk, in de gevallen bepaald in de artikelen 1036 en 1038 Oud Burgerlijk Wetboek, stilzwijgend plaatsvinden; in deze gevallen leidt de wetgever uit welomschreven daden van de erflater, namelijk het maken van een latere wilsbeschikking die met de vroegere strijdig of onverenigbaar is of de vervreemding van het gelegateerde goed, het vermoeden af van een zekere en vaststaande wilsverandering van de erflater.",
         "Het essentieel vormelijke karakter van de herroeping van het testament en de uitzonderlijke aard van de wettelijk bepaalde gevallen van stilzwijgende herroeping sluiten uit dat de rechter een zekere en vaststaande wilsverandering van de erflater afleidt uit elk geval waarin hij na de totstandkoming van zijn testament handelingen stelt die niet verenigbaar zijn met de inhoud van de gift."
@@ -3850,12 +3873,19 @@
       "court": "CASS",
       "date": "2025-05-19",
       "roleNumber": "C.24.0272.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2970.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2970.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_35.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Un testament doit en principe être révoqué de manière expresse par un acte juridique solennel, tel que prévu à l'article 1035 de l'ancien Code civil, et ne peut être révoqué de manière tacite qu'à titre exceptionnel, dans les cas visés aux articles 1036 et 1038 dudit code ; dans ces cas, le législateur attache une présomption de changement certain définitif de volonté du testateur à des actes bien précis posés par le testateur, à savoir la prise de nouvelles dispositions testamentaires contraires ou incompatibles avec les précédentes ou l'aliénation du bien légué.",
+        "Le caractère formel essentiel de la révocation du testament et la nature exceptionnelle des cas de révocation tacite prévus par la loi excluent que le juge présume un changement certain définitif de volonté du testateur chaque fois que ce dernier, après avoir rédigé son testament, pose des actes incompatibles avec le contenu de la libéralité."
+      ],
       "abstractNL": [
         "De herroeping van een testament dient in beginsel uitdrukkelijk te gebeuren in een plechtige rechtshandeling, zoals bepaald in artikel 1035 Oud Burgerlijk Wetboek, en kan slechts uitzonderlijk, in de gevallen bepaald in de artikelen 1036 en 1038 Oud Burgerlijk Wetboek, stilzwijgend plaatsvinden; in deze gevallen leidt de wetgever uit welomschreven daden van de erflater, namelijk het maken van een latere wilsbeschikking die met de vroegere strijdig of onverenigbaar is of de vervreemding van het gelegateerde goed, het vermoeden af van een zekere en vaststaande wilsverandering van de erflater.",
         "Het essentieel vormelijke karakter van de herroeping van het testament en de uitzonderlijke aard van de wettelijk bepaalde gevallen van stilzwijgende herroeping sluiten uit dat de rechter een zekere en vaststaande wilsverandering van de erflater afleidt uit elk geval waarin hij na de totstandkoming van zijn testament handelingen stelt die niet verenigbaar zijn met de inhoud van de gift."
@@ -3867,12 +3897,19 @@
       "court": "CASS",
       "date": "2025-05-19",
       "roleNumber": "C.24.0272.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2970.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2970.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/15/sitemap_25.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_35.xml"
       ],
-      "abstractFR": null,
+      "abstractFR": [
+        "Un testament doit en principe être révoqué de manière expresse par un acte juridique solennel, tel que prévu à l'article 1035 de l'ancien Code civil, et ne peut être révoqué de manière tacite qu'à titre exceptionnel, dans les cas visés aux articles 1036 et 1038 dudit code ; dans ces cas, le législateur attache une présomption de changement certain définitif de volonté du testateur à des actes bien précis posés par le testateur, à savoir la prise de nouvelles dispositions testamentaires contraires ou incompatibles avec les précédentes ou l'aliénation du bien légué.",
+        "Le caractère formel essentiel de la révocation du testament et la nature exceptionnelle des cas de révocation tacite prévus par la loi excluent que le juge présume un changement certain définitif de volonté du testateur chaque fois que ce dernier, après avoir rédigé son testament, pose des actes incompatibles avec le contenu de la libéralité."
+      ],
       "abstractNL": [
         "De herroeping van een testament dient in beginsel uitdrukkelijk te gebeuren in een plechtige rechtshandeling, zoals bepaald in artikel 1035 Oud Burgerlijk Wetboek, en kan slechts uitzonderlijk, in de gevallen bepaald in de artikelen 1036 en 1038 Oud Burgerlijk Wetboek, stilzwijgend plaatsvinden; in deze gevallen leidt de wetgever uit welomschreven daden van de erflater, namelijk het maken van een latere wilsbeschikking die met de vroegere strijdig of onverenigbaar is of de vervreemding van het gelegateerde goed, het vermoeden af van een zekere en vaststaande wilsverandering van de erflater.",
         "Het essentieel vormelijke karakter van de herroeping van het testament en de uitzonderlijke aard van de wettelijk bepaalde gevallen van stilzwijgende herroeping sluiten uit dat de rechter een zekere en vaststaande wilsverandering van de erflater afleidt uit elk geval waarin hij na de totstandkoming van zijn testament handelingen stelt die niet verenigbaar zijn met de inhoud van de gift."
@@ -4232,16 +4269,22 @@
       "court": "CASS",
       "date": "2023-12-01",
       "roleNumber": "C.22.0432.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1146.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1146.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/12/sitemap_5.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/01/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/12/01/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_31.xml"
       ],
       "abstractFR": [
         "L'article 1096, alinéa 1er, de l'ancien Code civil, qui, en disposant que toutes donations faites entre époux pendant le mariage autrement que par contrat de mariage, quoique qualifiées entre vifs, seront toujours révocables, protège les intérêts privés de l'époux donateur et n'est pas d'ordre public."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Artikel 1096, eerste lid, Oud Burgerlijk Wetboek, dat bepaalt dat alle schenkingen, tussen echtgenoten tijdens het huwelijk anders dan bij huwelijkscontract gedaan, steeds herroepelijk zijn, hoewel ze schenkingen onder de levenden worden genoemd, beschermt aldus de privébelangen van de echtgenoot-schenker en is niet van openbare orde."
+      ]
     }
   },
   "1097": {

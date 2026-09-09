@@ -13,6 +13,42 @@
       "abstractNL": [
         "Het staat aan de rechter, aan wie gevraagd wordt de sanctie opgelegd op grond van art. 70, ,§ 1, B.T.W.-Wetboek te toetsen, te onderzoeken of het bestuur naar redelijkheid kon overgaan tot het opleggen van een administratieve geldboete van zodanige omvang daarbij in acht nemend in welke mate het bestuur zelf gebonden was in verband met de sanctie; dit toetsingsrecht houdt echter niet in dat hij op grond van een subjectieve appreciatie van verzachtende omstandigheden eigen aan de persoon van de belastingschuldige om loutere redenen van opportuniteit en tegen wettelijke regels in, boeten kan kwijtschelden of verminderen (1). (1) Zie de conclusie van het O.M."
       ]
+    },
+    "ECLI:BE:CASS:2006:ARR.20061130.1": {
+      "court": "CASS",
+      "date": "2006-11-30",
+      "roleNumber": "F050086F;F050102F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2006/11/30/sitemap_3.xml"
+      ],
+      "abstractFR": [
+        "Le juge peut apprécier si une sanction administrative à caractère répressif au sens de l'article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales n'est pas disproportionnée à l'infraction et examiner si l'administration pouvait raisonnablement infliger une sanction administrative de l'importance critiquée, mais il ne peut remettre ou réduire les amendes pour des motifs de pure opportunité ou allant à l'encontre des règles légales (1). (1) Cass., 21 janvier 2005, RG C.02.0572.N, www.cass.be et les conclusions de M. l'avocat général Thijs, publiés à leur date dans A.C."
+      ],
+      "abstractNL": [
+        "Het staat aan de rechter te beoordelen of een administratieve sanctie met repressief karakter in de zin van art. 6 E.V.R.M. niet onevenredig is met de inbreuk en te onderzoeken of het bestuur naar redelijkheid een administratieve sanctie van zodanige omvang mocht opleggen; hij kan echter niet om loutere redenen van opportuniteit of tegen wettelijke regels in, boeten kwijtschelden of verminderen (1). (1) Cass., 21 jan. 2005, AR C.02.0572.N, www.cass.be. en concl. adv.-gen. Thijs in A.C., 2005."
+      ]
+    }
+  },
+  "2": {
+    "ECLI:BE:CASS:2002:ARR.20020425.7": {
+      "court": "CASS",
+      "date": "2002-04-25",
+      "roleNumber": "C000464N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2002/04/25/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "La majoration de 50% de l'amende prévue en cas de signification d'une contrainte visant à recouvrir la T.V.A. due par l'article 2 de l'arrêté royal n° 41 du 30 janvier 1987 fixant le montant des amendes fiscales proportionnelles en matière de taxe sur la valeur ajoutée tend à éviter, dans l'intérêt public, l'introduction de procédures par des assujettis dépourvus de motifs suffisants pour ne pas acquitter volontairement leur dette fiscale. Il appartient au juge d'examiner et d'apprécier les circonstances et d'éventuellement décider à cet égard que la majoration de 50% ne peut être imposée par le seul motif que la contrainte s'est révélée nécessaire (1)."
+      ],
+      "abstractNL": [
+        "In voorbereiding."
+      ]
     }
   }
 }

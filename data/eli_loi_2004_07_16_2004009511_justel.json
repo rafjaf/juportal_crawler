@@ -15,6 +15,25 @@
       ]
     }
   },
+  "3": {
+    "ECLI:BE:CASS:2004:ARR.20041007.9": {
+      "court": "CASS",
+      "date": "2004-10-07",
+      "roleNumber": "C990289F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2004/10/07/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Il appartient en règle au juge saisi d'une demande fondée sur une disposition de droit étranger de déterminer le contenu, le sens et la portée de ce droit, le cas échéant après avoir recueilli à ce sujet les informations nécessaires et en respectant les droits de la défense (1). (1) Voir Cass., 19 octobre 1980, Bull. et Pas., 1981, I, 159, avec les conclusions de M. l'avocat général Krings; Cass., 13 mai 1996, RG C.94.0210.F, n° 170 et Cass., 3 décembre 1990, RG 8963, n° 175 et les références citées à la note."
+      ],
+      "abstractNL": [
+        "Het staat in de regel aan de rechter bij wie een op een bepaling van vreemd recht gegronde vordering aanhangig is, de inhoud, de betekenis en de draagwijdte van dat recht te bepalen, in voorkomend geval na daarover de nodige inlichtingen te hebben ingewonnen, met eerbiediging van het recht van verdediging (1). (1) Zie Cass., 19 okt. 1980, (A.C., 1980) en concl. adv.-gen. Krings in Bull. en Pas, 1981, I, 160; Cass. 13 mei 1996, AR C.94.0210.F, nr 170 en 3 dec. 1990, AR 8963, nr 175 en de verwijzingen in noot."
+      ]
+    }
+  },
   "15": {
     "ECLI:BE:CASS:2025:ARR.20250512.3F.2": {
       "court": "CASS",

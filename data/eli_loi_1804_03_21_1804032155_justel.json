@@ -3212,16 +3212,23 @@
       "court": "CASS",
       "date": "2023-11-17",
       "roleNumber": "C.23.0123.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1077.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1077.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_22.xml"
       ],
       "abstractFR": [
         "Toute action en réparation d'un dommage fondée sur une responsabilité extracontractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage ou de son aggravation et de l'identité de la personne responsable (1). (1) Voir les concl. MP.",
         "Une citation en justice a pour effet d'interrompre la prescription pour la demande qu'elle introduit et pour les demandes qui y sont virtuellement comprises; pour apprécier si une demande est virtuellement comprise dans la demande initiale, il convient d'avoir égard à son objet (1). (1) Voir les concl. MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Alle rechtsvorderingen tot schadevergoeding op grond van buitencontractuele aansprakelijkheid verjaren door verloop van vijf jaar vanaf de dag volgend op die waarop de benadeelde kennis heeft gekregen van de schade of van de verzwaring ervan en van de identiteit van de daarvoor aansprakelijke persoon (1). (1) Zie concl. OM.",
+        "Een dagvaarding stuit de verjaring voor de vordering die ze instelt en voor de vorderingen die daarin virtueel zijn begrepen; om te beoordelen of een vordering virtueel is begrepen in de oorspronkelijke vordering, moet het voorwerp hiervan in aanmerking worden genomen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240422.3F.1": {
       "court": "CASS",
@@ -3255,16 +3262,23 @@
       "court": "CASS",
       "date": "2023-06-01",
       "roleNumber": "C.22.0346.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_603.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_603.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/01/sitemap_6.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_14.xml"
       ],
       "abstractFR": [
         "Lorsque la prescription de l'astreinte est interrompue par un commandement auquel le débiteur forme opposition devant le juge des saisies, l'interruption se prolonge jusqu'à la prononciation d'une décision définitive statuant sur la difficulté d'exécution; il ne suffit donc pas que le débiteur forme opposition au commandement ; encore faut-il que cette opposition porte sur une difficulté d'exécution relative à l'astreinte (1). (1) Voir les concl. du MP.",
         "Lorsque l'opposition devant le juge des saisies porte sur la condamnation même à l'astreinte dont le débiteur demande la suppression, la suspension ou la réduction, l'effet interruptif ne se prolonge pas jusqu'à la prononciation d'une décision définitive sur cette demande (3). (3)Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de verjaring van de dwangsom wordt gestuit door een bevel tot betaling waartegen de schuldenaar verzet aantekent voor de beslagrechter, duurt de stuiting voort tot de uitspraak van een eindbeslissing over de moeilijkheid bij de tenuitvoerlegging; het is dus niet voldoende dat de schuldenaar verzet aantekent tegen het bevel tot betaling; dat verzet moet bovendien betrekking hebben op een moeilijkheid bij de tenuitvoerlegging van de dwangsom (1). (1) Zie concl. OM.",
+        "Wanneer het verzet voor de beslagrechter betrekking heeft op de eigenlijke veroordeling tot de dwangsom waarvan de schuldenaar de opheffing, de opschorting of de vermindering vordert, duurt de stuitende werking niet voort tot de uitspraak van een eindbeslissing over die vordering (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220127.1N.1": {
       "court": "CASS",
@@ -4900,16 +4914,24 @@
       "court": "CASS",
       "date": "2023-10-20",
       "roleNumber": "C.20.0018.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1004.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1004.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/03/sitemap_33.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/29/sitemap_1.xml"
       ],
       "abstractFR": [
-        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil."
+        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil.",
+        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil (1). (1) Anc. C. civ., art. 2262 et 2262bis, § 1er, mod. par L. du 10 juin 1998."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Persoonlijke rechtsvorderingen verjaren in beginsel na verloop van tien jaar; het arrest dat oordeelt dat de vordering tot nietigverklaring van de schenking een zakelijke vordering is en dat ze dus verjaart na verloop van dertig jaar, schendt artikel 2262 Oud Burgerlijk Wetboek (1). (1) Artt. 2262 en 2262bis, § 1, Oud Burgerlijk Wetboek, gewijzigd door Wet 10 juni 1998."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20241121.1F.4": {
       "court": "CASS",
@@ -5260,14 +5282,20 @@
       "court": "CASS",
       "date": "2025-11-21",
       "roleNumber": "C.24.0311.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_48.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_595.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_595.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_39.xml"
       ],
       "abstractFR": [
         "L'action en garantie contre les architecte et entrepreneur, fondée sur des dispositions d'ordre public, doit à peine de déchéance être intentée dans un délai de dix ans; ce délai court au profit de chaque entrepreneur à partir de la date d'agréation de son ouvrage; l'entrepreneur principal est déchu de cette action contre un sous-traitant dix ans après l'agréation des travaux de ce dernier, lors même que cette action tend à obtenir que ce sous-traitant le garantisse contre l'action du maître de l'ouvrage (1). (1) Voir les concl. du MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De vordering tot vrijwaring die tegen de architect en de aannemer kan worden ingesteld op grond van bepalingen van openbare orde, moet op straffe van nietigheid worden ingesteld binnen een termijn van tien jaar; die termijn loopt in het voordeel van elke aannemer vanaf de datum van oplevering van zijn werk; de hoofdaannemer verliest na verloop van tien jaar na de oplevering van het werk van zijn onderaannemer het recht om tegen die onderaannemer nog de voormelde vordering te kunnen instellen, zelfs als het doel van die vordering hierin bestaat dat die onderaannemer hem tegen de vordering van de opdrachtgever zou vrijwaren (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20220210.1N.4": {
       "court": "CASS",
@@ -5557,32 +5585,44 @@
       "court": "CASS",
       "date": "2023-06-29",
       "roleNumber": "C.22.0485.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_713.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_713.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/23/sitemap_16.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/29/sitemap_7.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/29/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_2.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 2272 de l'ancien Code civil, l'action des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands, se prescrit par un an; le champ d'application de cette disposition ne se réduit pas aux obligations qu'il est d'usage de ne pas constater par écrit."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 2272 Oud Burgerlijk Wetboek verjaart de rechtsvordering van kooplieden, voor de koopwaren die zij verkopen aan personen die geen koopman zijn, door verloop van een jaar; de toepassing van die bepaling is niet beperkt tot de verbintenissen die gewoonlijk niet schriftelijk worden vastgelegd."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20211029.1F.3": {
       "court": "CASS",
       "date": "2021-10-29",
       "roleNumber": "C.21.0007.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/26/sitemap_10.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/04/24/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/29/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/10/29/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_1.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 2272 de l'ancien Code civil, l'action des marchands pour les marchandises qu'ils vendent à des particuliers non marchands se prescrit par un an; l'application de cette courte prescription, qui est fondée sur une présomption de paiement, suppose que l'existence de la créance ne soit pas constatée par un écrit.",
-        "En vertu de l'article 2272 de l’ancien Code civil, l'action des marchands pour les marchandises qu'ils vendent à des particuliers non marchands se prescrit par un an; l'application de cette courte prescription, qui est fondée sur une présomption de paiement, suppose que l'existence de la créance ne soit pas constatée par un écrit."
+        "En vertu de l'article 2272 de l’ancien Code civil, l'action des marchands pour les marchandises qu'ils vendent à des particuliers non marchands se prescrit par un an; l'application de cette courte prescription, qui est fondée sur une présomption de paiement, suppose que l'existence de la créance ne soit pas constatée par un écrit.",
+        "Si l'existence de la créance est constatée par un écrit et qu'elle soit payable par année ou à des termes périodiques plus courts que, conformément à l'article 2277 de l'ancien Code civil, les arrérages s'en prescriront par cinq ans (1). (1) Voir Cass. 8 janvier 2015, RG C.14.0268.F, Pas. 2015, n° 16."
       ],
       "abstractNL": [
-        "Krachtens artikel 2272 Oud Burgerlijk Wetboek verjaart de rechtsvordering van kooplieden, wegens de koopwaren die zij verkopen aan personen die geen koopman zijn, door verloop van een jaar; de toepassing van die korte verjaring, die steunt op een vermoeden van betaling, veronderstelt dat het bestaan van de schuldvordering niet is vastgesteld in een geschrift."
+        "Krachtens artikel 2272 Oud Burgerlijk Wetboek verjaart de rechtsvordering van kooplieden, wegens de koopwaren die zij verkopen aan personen die geen koopman zijn, door verloop van een jaar; de toepassing van die korte verjaring, die steunt op een vermoeden van betaling, veronderstelt dat het bestaan van de schuldvordering niet is vastgesteld in een geschrift.",
+        "Wanneer de schuldvordering is vastgesteld in een geschrift en betaalbaar is bij het jaar of bij kortere termijnen, zullen de achterstallige schulden overeenkomstig artikel 2277 Burgerlijk Wetboek verjaren door verloop van vijf jaar (1). (1) Zie Cass. 8 januari 2015, AR C.14.0268.F, AC 2015, nr. 16."
       ]
     },
     "ECLI:BE:CASS:2018:ARR.20180628.11": {
@@ -5768,6 +5808,23 @@
       "abstractNL": [
         "Onder voorbehoud van de bepalingen van de artikelen 2271 tot 2274 van het Burgerlijk Wetboek, heeft de bij artikel 2248 van hetzelfde wetboek bedoelde erkenning door de schuldenaar van het recht van hem tegen wie de verjaring loopt, niet tot gevolg in de plaats van de aldus gestuite verjaring een door haar aard of termijn verschillende verjaring te stellen, tenzij ze een schuldvernieuwing inhoudt."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260320.1F.1": {
+      "court": "CASS",
+      "date": "2026-03-20",
+      "roleNumber": "C.24.0122.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_36.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_31.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/11/sitemap_16.xml"
+      ],
+      "abstractFR": [
+        "Les articles 1728quater, § 1er, et 2273, alinéa 2, de l'ancien Code civil ne portent pas préjudice au droit du preneur de demander en justice le remboursement des montants échus et payés au cours des cinq années qui précèdent sa demande, sans faire précéder celle-ci d'une lettre recommandée à la poste (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "2274": {
@@ -6432,31 +6489,46 @@
       "court": "CASS",
       "date": "2023-10-20",
       "roleNumber": "C.20.0018.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1004.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1004.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/07/03/sitemap_33.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/10/20/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/08/sitemap_7.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/29/sitemap_1.xml"
       ],
       "abstractFR": [
-        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil."
+        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil.",
+        "Les actions personnelles sont, en principe, prescrites par dix ans; l'arrêt, qui donne à connaître que l'action en nullité de la donation est une action réelle et qu'elle est partant soumise à la prescription trentenaire, viole l'article 2262 de l'ancien Code civil (1). (1) Anc. C. civ., art. 2262 et 2262bis, § 1er, mod. par L. du 10 juin 1998."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Persoonlijke rechtsvorderingen verjaren in beginsel na verloop van tien jaar; het arrest dat oordeelt dat de vordering tot nietigverklaring van de schenking een zakelijke vordering is en dat ze dus verjaart na verloop van dertig jaar, schendt artikel 2262 Oud Burgerlijk Wetboek (1). (1) Artt. 2262 en 2262bis, § 1, Oud Burgerlijk Wetboek, gewijzigd door Wet 10 juni 1998."
+      ]
     },
     "ECLI:BE:CASS:2023:ARR.20231117.1F.3": {
       "court": "CASS",
       "date": "2023-11-17",
       "roleNumber": "C.23.0123.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1077.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1077.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/11/17/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/10/sitemap_22.xml"
       ],
       "abstractFR": [
         "Toute action en réparation d'un dommage fondée sur une responsabilité extracontractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage ou de son aggravation et de l'identité de la personne responsable (1). (1) Voir les concl. MP.",
         "Une citation en justice a pour effet d'interrompre la prescription pour la demande qu'elle introduit et pour les demandes qui y sont virtuellement comprises; pour apprécier si une demande est virtuellement comprise dans la demande initiale, il convient d'avoir égard à son objet (1). (1) Voir les concl. MP."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Alle rechtsvorderingen tot schadevergoeding op grond van buitencontractuele aansprakelijkheid verjaren door verloop van vijf jaar vanaf de dag volgend op die waarop de benadeelde kennis heeft gekregen van de schade of van de verzwaring ervan en van de identiteit van de daarvoor aansprakelijke persoon (1). (1) Zie concl. OM.",
+        "Een dagvaarding stuit de verjaring voor de vordering die ze instelt en voor de vorderingen die daarin virtueel zijn begrepen; om te beoordelen of een vordering virtueel is begrepen in de oorspronkelijke vordering, moet het voorwerp hiervan in aanmerking worden genomen (1). (1) Zie concl. OM."
+      ]
     },
     "ECLI:BE:CASS:2024:ARR.20240426.1F.5": {
       "court": "CASS",
@@ -6492,14 +6564,20 @@
       "court": "CASS",
       "date": "2023-06-08",
       "roleNumber": "C.22.0261.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_619.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_619.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_619.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_8.xml"
       ],
       "abstractFR": [
         "Au sens de l'article 2262bis, § 1er, alinéa 2, de l'ancien Code civil, l'aggravation du dommage consiste dans l'augmentation imprévue du dommage ne s'inscrivant pas dans l'évolution raisonnablement prévisible du dommage initial."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "De verzwaring van de schade in de zin van artikel 2262bis, §1, tweede lid, Oud Burgerlijk Wetboek bestaat in de onvoorziene toename van de schade die niet past binnen de redelijk voorzienbare evolutie van de aanvankelijke schade."
+      ]
     },
     "ECLI:BE:CASS:2020:ARR.20200903.1F.3": {
       "court": "CASS",
@@ -7250,6 +7328,36 @@
         "Dès lors que le moyen fait grief à l'arrêt attaqué d'appliquer l'article 2:143, § 1er, quatrième tiret, du Code des sociétés et des associations de manière non conforme aux articles 10 et 11 de la Constitution en faisant courir la prescription à partir d'une date, celle de la commission des faits, où les curateurs n'ont pas et ne peuvent avoir connaissance du dommage, il y a lieu, conformément à l'article 26, § 2, de la loi spéciale du 6 janvier 1989 sur la Cour constitutionnelle, de poser la question préjudicielle suivante: « L'article 2:143, § 1er, quatrième tiret, du Code des sociétés et des associations, viole-t-il les articles 10 et 11 de la Constitution en ce qu'il fixe le point de départ de la prescription quinquennale de l'action du curateur contre un membre de l'organe d'administration d'une société, pour faits de sa fonction, sur la base des articles 262 (faute de gestion) ou 263 (violation du code ou des statuts) du Code des sociétés, avant son abrogation par la loi du 23 mars 2019, ou de sa responsabilité extracontractuelle prévue par l'article 1382 de l'ancien Code civil, à partir de ces faits, en dehors du cas où ils ont été celés par dol, alors que, suivant l'article 2262bis, § 1er, alinéa 2, de l'ancien Code civil, toute action en réparation d'un dommage fondée sur une responsabilité extracontractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage et de l'identité de la personne responsable ? » (1). (1) Voir les concl. du MP."
       ],
       "abstractNL": null
+    },
+    "ECLI:BE:CASS:2026:ARR.20260211.2F.3": {
+      "court": "CASS",
+      "date": "2026-02-11",
+      "roleNumber": "P.25.1261.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/20/sitemap_34.xml"
+      ],
+      "abstractFR": [
+        "Conformément à l'article 95 de la loi du 4 avril 2014 relative aux assurances, la subrogation légale dont bénéficie l'assureur n'est pas la subrogation dans l'action propre de la personne lésée contre l'assuré mais celle dans les droits et actions de l'assuré contre les tiers responsables du dommage; il s'ensuit que le délai de prescription de l'action civile exercée par l'assureur, partie civile, contre les prévenus n'est pas régi par l'article 88, § 2, de la loi précitée mais par les articles 2262bis du Code civil et 26 du titre préliminaire du Code de procédure pénale (1). (1) O. Michiels et G. Falque, « Développements récents en matière d'action civile », in L'action civile devant les juridiction pénales, Larcier-Intersientia, 2025, pp. 11 sv."
+      ],
+      "abstractNL": null
+    },
+    "ECLI:BE:CASS:2025:ARR.20251031.1F.2": {
+      "court": "CASS",
+      "date": "2025-10-31",
+      "roleNumber": "C.23.0031.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/02/sitemap_26.xml"
+      ],
+      "abstractFR": [
+        "Il ne suit pas de l'article 100, alinéa 1er, 1°, de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'État, applicable aux créances à charge de l'État nées avant le 1er janvier 2012 et de l'article 2262bis, § 1er, alinéa 2, de l'ancien Code civil que la prescription de l'action tendant à la réparation du préjudice moral résultant, pour une personne poursuivie, de l'attente anormale d'une décision statuant sur la recevabilité ou le fondement des poursuites, ne commence à courir qu'à compter de la décision mettant cette personne définitivement hors cause (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   },
   "2277ter": {
@@ -7310,6 +7418,21 @@
       ],
       "abstractNL": [
         "In geval van overlijden van de cliënt, eindigt de taak van de advocaat wanneer hij van dit overlijden kennis heeft, behoudens verdere opdracht van de rechtsopvolgers van de cliënt; de vijfjarige verjaringstermijn van zijn vordering tot betaling van kosten en ereloon begint zodoende te lopen op dat tijdstip."
+      ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260226.1N.9": {
+      "court": "CASS",
+      "date": "2026-06-04",
+      "roleNumber": "C.24.0365.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_20.xml"
+      ],
+      "abstractFR": null,
+      "abstractNL": [
+        "Uit de overdracht van de schuldvordering tussen de cliënten van een advocaat volgt niet dat deze laatste zijn taak heeft beëindigd ten aanzien van de gecedeerde cliënt (1). (1) Zie concl. OM."
       ]
     }
   },
@@ -7385,6 +7508,22 @@
       "abstractNL": [
         "De tweejarige verjaringstermijn van de rechtsvordering van verzorgingsverstrekkers ten overstaan van de patiënt, met betrekking tot de door hen geleverde geneeskundige verstrekkingen, diensten en goederen, daar inbegrepen de vordering wegens bijkomende kosten, neemt een aanvang op de eerste dag van de maand, volgend op deze waarin de geneeskundige prestaties zijn verstrekt en is verkregen na verloop van twee jaar."
       ]
+    },
+    "ECLI:BE:CASS:2026:ARR.20260309.3F.3": {
+      "court": "CASS",
+      "date": "2026-03-09",
+      "roleNumber": "C.25.0159.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/07/sitemap_23.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_53.xml"
+      ],
+      "abstractFR": [
+        "Par patient au sens de l'article 2277bis de l'ancien Code civil, il faut entendre toute personne qui est tenue envers l'établissement de soins au paiement des prestations visées par cette disposition, lorsque la prescription de l'action n'est pas régie à son égard par une disposition particulière; il s'ensuit que le centre public d'action sociale n'a, en règle, pas la qualité de patient au sens de cette disposition (1). (1) Voir les concl. du MP."
+      ],
+      "abstractNL": null
     }
   }
 }

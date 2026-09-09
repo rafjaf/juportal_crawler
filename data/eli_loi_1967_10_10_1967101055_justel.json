@@ -4523,16 +4523,22 @@
       "court": "CASS",
       "date": "2024-01-12",
       "roleNumber": "C.22.0317.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_1275.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_1275.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/12/12/sitemap_16.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/12/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/01/12/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/11/sitemap_24.xml"
       ],
       "abstractFR": [
         "En vertu de l'article 747, § 4, du Code judiciaire, sauf modification de commun accord par les parties des délais pour conclure, les conclusions qui sont remises au greffe ou envoyées à la partie adverse après l'expiration des délais sont d'office écartées des débats; cette disposition ne prive pas nécessairement la partie qui omet de déposer des conclusions dans le premier délai fixé par le procès-verbal d'audience, d'en déposer dans le délai ultérieur que ce procès-verbal prévoit (1). (1) Voir Cass. 24 juin 2020, RG P.19.0667.F, Pas. 2020, n° 445."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Krachtens artikel 747, § 4, Gerechtelijk Wetboek worden, tenzij de partijen de conclusietermijnen in onderlinge overeenstemming wijzigen, de conclusies die na het verstrijken van de termijnen op de griffie worden neergelegd of aan de tegenpartij worden toegezonden ambtshalve uit het debat geweerd; die bepaling ontzegt de partij die verzuimt binnen de in het proces-verbaal van de terechtszitting vastgestelde eerste termijn een conclusie neer te leggen, niet noodzakelijk het recht om er één neer te leggen binnen de in dat proces-verbaal vastgestelde latere termijn (1). (1) Zie Cass. 24 juni 2020 RG P.19.0667.F, AC 2020, nr. 445."
+      ]
     },
     "ECLI:BE:CASS:2021:ARR.20210423.1N.2": {
       "court": "CASS",
@@ -7312,8 +7318,12 @@
       "court": "CASS",
       "date": "2021-09-15",
       "roleNumber": "P.21.0446.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/15/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/15/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/16/sitemap_3.xml"
       ],
       "abstractFR": [
         "L'article 774, alinéa 2, du Code judiciaire n'est pas applicable en matière répressive (1). (1) « L'article 774, alinéa 2, du Code judiciaire oblige le juge à ordonner la réouverture des débats avant de rejeter une demande sur une exception que les parties n'avaient pas invoquée devant lui. Cette obligation n'est pas applicable en matière répressive, même lorsque le juge pénal statue sur l'action civile » (Cass. 8 janvier 2014, RG P.13.1380.F, Pas. 2013, n° 11 ; Cass. 19 janvier 2000, RG P.99.0503.F, Pas. 2000, n° 45). Voir Cass. 11 mars 2020, RG P.19.1183.F, Pas. 2020, n° 183 ; Cass. 16 janvier 2002, RG P.01.0948.F, Pas. 2002, n° 30 ; Cass. 20 juillet 1982, Pas. 1982, I, 1302 ; R. DECLERCQ, Beginselen van strafrechtspleging, éd. 1994, n° 967 ; G.-Fr. RANERI et M. TRAEST, « La jurisprudence de la Cour sur l'applicabilité en matière répressive des articles 700 à 1147 du Code judiciaire », Cour de cassation, Rapport annuel 2005, pp. 177-179."
@@ -14407,6 +14417,9 @@
       "court": "CASS",
       "date": "2026-02-19",
       "roleNumber": "C.25.0093.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_20.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_31.xml"
@@ -30605,14 +30618,20 @@
       "court": "CASS",
       "date": "2019-09-06",
       "roleNumber": "C.19.0007.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2019/09/06/sitemap_4.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2019/09/06/sitemap_4.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_1.xml"
       ],
       "abstractFR": [
-        "Il incombe à la partie qui a introduit une demande fondée sur une infraction de prouver que les éléments constitutifs de l'infraction sont réunis, qu'elle est imputable au défendeur et, si celui-ci invoque une cause de justification non dépourvue de tout élément de nature à lui donner crédit, que cette cause de justification n'existe pas (1). (1) Cass. 14 décembre 2001, RG C.98.0469.F, Pas. 2001, n° 705."
+        "Il incombe à la partie qui a introduit une demande fondée sur une infraction de prouver que les éléments constitutifs de l'infraction sont réunis, qu'elle est imputable au défendeur et, si celui-ci invoque une cause de justification non dépourvue de tout élément de nature à lui donner crédit, que cette cause de justification n'existe pas (1). (1) Cass. 14 décembre 2001, RG C.98.0469.F, Pas. 2001, n° 705.",
+        "Le défendeur qui, pour contester l'indemnisation qui lui est réclamée, allègue que la victime a commis une faute n'invoque pas une cause de justification; il lui appartient dès lors de rapporter la preuve de cette faute (1). (1) Voir Cass. 18 novembre 1997, RG P.96.0477.N, Pas. 1997, n° 484."
       ],
       "abstractNL": [
-        "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705."
+        "De partij die een op een misdrijf gegronde vordering instelt, moet bewijzen dat de bestanddelen van het misdrijf voorhanden zijn, dat het de tegenpartij kan worden aangerekend en, indien laatstgenoemde een rechtvaardigingsgrond aanvoert, moet hij bewijzen dat diens rechtvaardigingsgrond niet bestaat, voor zover aan die aanvoering enige geloof kan worden gehecht (1). (1) Cass. 14 december 2001, AR C.98.0469.F, AC 2001, nr. 705.",
+        "De verweerder die de van hem gevorderde vergoeding betwist, op grond dat de eiser een fout heeft begaan, voert geen verantwoordingsgrond aan; hij moet derhalve het bewijs leveren van die fout (1). (1) Zie Cass. 18 november 1997, AR P.96.0477.N, AC 1997, nr. 484."
       ]
     },
     "ECLI:BE:CASS:2016:ARR.20161118.2": {
@@ -39566,12 +39585,16 @@
       "court": "CASS",
       "date": "2025-01-03",
       "roleNumber": "C.24.0016.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2414.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2414.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/17/sitemap_4.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/02/20/sitemap_11.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/02/19/sitemap_5.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2025/02/19/sitemap_5.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_13.xml"
       ],
       "abstractFR": [
         "En présence de demandes évaluables en argent, l'indemnité de procédure en degré d'appel doit être déterminée en tenant compte de la valeur ou de l'enjeu pécuniaire de l'appel, tel qu'il ressort de l'acte d'appel ou des dernières conclusions d'appel (1). (1) Voir les concl. du MP publiées à leur date dans AC.",
@@ -41597,15 +41620,21 @@
       "court": "CASS",
       "date": "2023-05-11",
       "roleNumber": "C.22.0263.F",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_582.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_582.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/11/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/05/11/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_31.xml"
       ],
       "abstractFR": [
         "Lorsque le juge fait droit à la demande du requérant en rétractation d'une ordonnance en raison d'un changement de circonstances, la rétractation de l'ordonnance produit effet, non à la date de la prononciation de l'ordonnance rétractée, mais à la date à laquelle les circonstances ont changé."
       ],
-      "abstractNL": null
+      "abstractNL": [
+        "Wanneer de rechter de vordering van de verzoeker tot intrekking van een beschikking wegens veranderde omstandigheden toewijst, brengt de intrekking van de beschikking geen gevolgen teweeg op de datum van de uitspraak van de ingetrokken beschikking maar op de datum waarop de omstandigheden zijn veranderd."
+      ]
     },
     "ECLI:BE:CASS:2022:ARR.20221124.1F.7": {
       "court": "CASS",
@@ -63455,10 +63484,14 @@
       "court": "CASS",
       "date": "2022-03-22",
       "roleNumber": "P.21.1502.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/05/sitemap_2.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/22/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/19/sitemap_7.xml"
       ],
       "abstractFR": [
         "Seules les décisions rendues par une juridiction civile et celles rendues par une juridiction répressive sur les intérêts civils sont susceptibles de tierce opposition ; la circonstance que l'exécution d'une décision rendue par une juridiction répressive a des conséquences civiles ne suffit pas pour autoriser la tierce opposition à cette décision ; dès lors que la confiscation constitue une peine, l'article 1122 du Code judiciaire ne peut s'appliquer dans le cadre des prétentions qu'un tiers fait valoir sur des biens confisqués ; en outre, un tiers qui prétend être propriétaire de biens confisqués ne doit pas nécessairement introduire un recours devant le juge pénal ; il peut également utiliser d'autres possibilités offertes par la procédure, telle celle de faire valoir ses prétentions devant le juge civil sur la base de l'article 3 de l'arrêté royal du 9 août 1991 réglant le délai et les modalités du recours des tiers prétendant droit sur une chose confisquée ; si le tiers introduit néanmoins un recours devant le juge pénal, les dispositions du Code d'instruction criminelle sont applicables à celui-ci ; l'assimilation, en ce cas, d'un tiers à un prévenu condamné par défaut n'est pas imprévisible ; cette circonstance n'implique pas, dès lors, une extension inadmissible du champ d'application de l'article 187, § 1er, du Code d'instruction criminelle, mais confère à la personne concernée, par analogie avec un prévenu condamné par défaut, le droit supplémentaire de former opposition au cours d'un délai extraordinaire qui ne commence à courir qu'à partir du moment de la prise de connaissance effective de la signification de la décision de confiscation (1). (1) Voir les concl. du MP publiées à leur date dans AC."
@@ -64317,12 +64350,16 @@
       "court": "CASS",
       "date": "2024-09-30",
       "roleNumber": "C.23.0462.N",
+      "rollNumberSystem": null,
+      "matterFromRollNumber": null,
+      "judgementUrls": null,
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_30.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2080.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2080.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/11/26/sitemap_25.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_136.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_136.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/06/30/sitemap_4.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
