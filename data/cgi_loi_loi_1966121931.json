@@ -464,10 +464,16 @@
       "court": "CASS",
       "date": "2021-09-20",
       "roleNumber": "D.21.0005.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "disciplinary",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210920.3F.6"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/08/sitemap_11.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/04/sitemap_602.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/20/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2021/09/20/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/09/sitemap_4.xml"
       ],
       "abstractFR": [
         "Une seconde poursuite est interdite du chef de faits identiques ou substantiellement les mêmes qui, après une première poursuite, ont déjà donné lieu à une décision irrévocable de condamnation ou d'acquittement, pour autant que ces poursuites concernent une même personne; il est entendu par faits identiques ou substantiellement les mêmes un ensemble de circonstances de fait concrètes indissociablement liées entre elles dans le temps ou dans l'espace; les faits en tant que tels doivent être identiques ou substantiellement les mêmes, non les infractions ou la qualification des faits (1). (1) Cass. 4 juin 2019, RG P.18.0407.N, Pas. 2019, n° 341.",

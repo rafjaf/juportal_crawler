@@ -11140,12 +11140,18 @@
       "court": "CASS",
       "date": "2023-06-07",
       "roleNumber": "P.23.0737.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "criminal",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230607.2F.10"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_608.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2023/06/07/sitemap_2.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_19.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_11.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_11.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/09/sitemap_6.xml"
       ],
       "abstractFR": [
         "L'article 780, alinéa 1er, 2°, du Code judiciaire ne s'applique pas en matière répressive, la loi ne prescrivant pas d'une manière expresse ni à peine de nullité l'énonciation dans la décision des nom, prénom et domicile d'une partie pourvu qu'elle y soit désignée d'une manière permettant de déterminer à qui elle s'applique (1). (1) Cass. 10 mai 2017, RG P.17.0179.F, Pas 2017, n° 32."

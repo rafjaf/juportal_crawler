@@ -1203,8 +1203,14 @@
       "court": "CASS",
       "date": "2017-11-21",
       "roleNumber": "P.15.0109.N",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "criminal",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20171121.3"
+      ],
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/11/21/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2017/11/21/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/09/sitemap_1.xml"
       ],
       "abstractFR": [
         "La Cour constitutionnelle n'est pas compétente pour confronter à titre préjudiciel une décision judiciaire aux articles 10, 11, 12 et 14 de la Constitution."
