@@ -66,12 +66,18 @@
       "court": "CASS",
       "date": "2025-02-06",
       "roleNumber": "C.23.0349.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250206.1F.3"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/30/sitemap_35.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/06/sitemap_10.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/24/sitemap_1.xml"
       ],
       "abstractFR": [
         "Dès lors que la loi du 30 juillet 1979 ne précise pas ce qu'il y a lieu d'entendre par dommage corporel, ce terme doit être compris dans le sens que lui donne le droit commun; selon celui-ci, le dommage corporel englobe les atteintes à l'intégrité tant physique que psychique (1). (1) Voir les concl. du MP.",
@@ -87,12 +93,18 @@
       "court": "CASS",
       "date": "2025-02-06",
       "roleNumber": "C.23.0349.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250206.1F.3"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/30/sitemap_35.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/06/sitemap_10.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/24/sitemap_1.xml"
       ],
       "abstractFR": [
         "Il ne suit pas de l'article 8, alinéa 1er, de la loi du 30 juillet 1979 que seules les personnes démontrant leur présence dans ou à proximité des établissements visés à l'article 7 au moment du sinistre sont des tiers (1). (1) Voir les concl. du MP.",

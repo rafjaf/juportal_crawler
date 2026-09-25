@@ -48019,11 +48019,17 @@
       "court": "CASS",
       "date": "2025-05-15",
       "roleNumber": "C.24.0240.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250515.1F.3"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2875.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2875.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/27/sitemap_1.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_13.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_13.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/24/sitemap_2.xml"
       ],
       "abstractFR": [
         "Le juge peut admettre l'appel incident formé en dehors des conditions énoncées à l'article 1054, alinéa 2, du Code judiciaire pour assurer le respect du droit de défense de l'intimé au principal."

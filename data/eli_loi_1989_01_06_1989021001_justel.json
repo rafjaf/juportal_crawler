@@ -690,12 +690,18 @@
       "court": "CASS",
       "date": "2025-02-06",
       "roleNumber": "C.23.0349.F",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250206.1F.3"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_2525.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/09/30/sitemap_35.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/03/06/sitemap_10.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/02/sitemap_2.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/09/24/sitemap_1.xml"
       ],
       "abstractFR": [
         "Dès lors qu'elle repose, pour identifier la discrimination qu'elle allègue entre les catégories de personnes qu'elle oppose, sur l'hypothèse, que rien ne permet de vérifier, qu'en établissant le plafond d'indemnisation prévu par son arrêté du 5 août 1991, le Roi se serait fondé sur une définition restrictive de l'article 8, alinéa 1er, de la loi du 30 juillet 1979, excluant de son champ d'application, en violation de cette disposition légale, les personnes ne démontrant pas leur présence sur les lieux au moment du sinistre, la question préjudicielle proposée par la demanderesse ne doit pas être posée à la Cour constitutionnelle.",
