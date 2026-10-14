@@ -48,10 +48,16 @@
       "court": "CASS",
       "date": "2023-03-10",
       "roleNumber": "C.22.0271.N",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230310.1N.6"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/18/sitemap_404.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2025/10/17/sitemap_404.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/10/sitemap_3.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2023/03/10/sitemap_3.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/10/13/sitemap_1.xml"
       ],
       "abstractFR": null,
       "abstractNL": [
