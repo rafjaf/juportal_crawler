@@ -12122,11 +12122,17 @@
       "court": "CASS",
       "date": "2022-12-05",
       "roleNumber": "C.21.0504.N",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221205.3N.6"
+      ],
       "sitemap": [
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/10/01/sitemap_17.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/13/sitemap_25.xml",
         "https://juportal.just.fgov.be/JUPORTAsitemap/2024/06/06/sitemap_33.xml",
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/12/05/sitemap_1.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2022/12/05/sitemap_1.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/10/29/sitemap_1.xml"
       ],
       "abstractFR": [
         "Le juge de la famille, qui, pour trancher un litige concernant la contribution alimentaire au profit de l'enfant, fait application d'office d'une méthode de calcul permettant de concrétiser les frais ordinaires et les frais extraordinaires engagés pour l'enfant, ne se fonde pas sur des connaissances personnelles et ne méconnaît pas davantage le principe général du droit relatif au respect des droits de la défense (1). (1) Voir Cass. 16 avril 2004, RG C.02.0504.N, Pas. 2004, n° 199.",

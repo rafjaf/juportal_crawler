@@ -18897,6 +18897,27 @@
       "abstractNL": null
     }
   },
+  "1321": {
+    "ECLI:BE:CASS:2022:ARR.20221205.3N.6": {
+      "court": "CASS",
+      "date": "2022-12-05",
+      "roleNumber": "C.21.0504.N",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "civil",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221205.3N.6"
+      ],
+      "sitemap": [
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/10/29/sitemap_1.xml"
+      ],
+      "abstractFR": [
+        "Le juge de la famille, qui, pour trancher un litige concernant la contribution alimentaire au profit de l'enfant, fait application d'office d'une méthode de calcul permettant de concrétiser les frais ordinaires et les frais extraordinaires engagés pour l'enfant, ne se fonde pas sur des connaissances personnelles et ne méconnaît pas davantage le principe général du droit relatif au respect des droits de la défense (1). (1) Voir Cass. 16 avril 2004, RG C.02.0504.N, Pas. 2004, n° 199."
+      ],
+      "abstractNL": [
+        "De familierechter die tot beslechting van een geschil over kinderalimentatie ambtshalve toepassing maakt van een rekenmethode, met concretisering van de gewone en de buitengewone kinderkosten, steunt daarom niet op persoonlijke kennis en miskent evenmin het algemeen rechtsbeginsel tot eerbiediging van het recht van verdediging (1). (1) Zie Cass. 16 april 2004, AR C.02.0504.N, AC 2004, nr. 199."
+      ]
+    }
+  },
   "28bis": {
     "ECLI:BE:CASS:2022:ARR.20220906.2N.12": {
       "court": "CASS",
