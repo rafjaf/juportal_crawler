@@ -423,6 +423,22 @@
           "1"
         ]
       }
+    },
+    {
+      "from": "ancien Code civil",
+      "fromELI": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032154/justel",
+      "articles": {
+        "1.8": [
+          "1596"
+        ],
+        "1.1": [
+          "1712"
+        ],
+        "1.13": [
+          "1649bis",
+          "1701/1"
+        ]
+      }
     }
   ],
   "1.12": {
