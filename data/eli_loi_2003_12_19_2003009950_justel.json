@@ -1024,8 +1024,14 @@
       "court": "CASS",
       "date": "2020-12-01",
       "roleNumber": "P.20.1159.N",
+      "rollNumberSystem": "legacy",
+      "matterFromRollNumber": "criminal",
+      "judgementUrls": [
+        "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20201201.2N.13"
+      ],
       "sitemap": [
-        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/12/01/sitemap_8.xml"
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2020/12/01/sitemap_8.xml",
+        "https://juportal.just.fgov.be/JUPORTAsitemap/2026/11/16/sitemap_1.xml"
       ],
       "abstractFR": [
         "La juridiction d'instruction, statuant sur l'exécution d'un mandat d'arrêt européen apprécie souverainement si les éléments circonstanciés invoqués comme indiquant un danger manifeste pour les droits fondamentaux de l'intéressé suffisent à renverser la présomption de respect des droits fondamentaux par l'État membre d'émission; cette appréciation n'a trait qu'au cas concret de la personne faisant l'objet du mandat d'arrêt européen et non à d'autres cas (1). (1) Cass. 24 mars 2020, RG P.20.0320.N, Pas. 2020, n° 212 ; Cass. 10 mars 2020, RG P.20.0242.N, Pas. 2020, n° 179 ; Cass. 28 mars 2014, RG P.14.0402.N, Pas. 2014, n° 215 ; Cass. 19 novembre 2013, RG P.13.1765.N, Pas. 2013, n° 615 ; Cass. 23 janvier 2013, RG P.13.0087.F, Pas. 2013, n° 55 ; Cass. 25 novembre 2009, RG P.09.1624.F, Pas. 2009, n° 697. Voir M.-A. BEERNAERT, H.D. BOSLY et D. VANDERMEERSCH, Droit de la procédure pénale, 2017, 8ste éd., T. II, 1806-1810 ; J. VAN GAEVER, Het Europees aanhoudingsbevel in de praktijk, Kluwer, 2013, 86-104. En ce qui concerne spécifiquement la conformité de la réglementation suédoise en matière de détention préventive à l'article 5 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, voir CEDH 12 décembre 2019, affaire PPU, C-625/19, § 51-53, www.curia.europa.eu.",
